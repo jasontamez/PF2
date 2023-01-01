@@ -1,4 +1,5 @@
 {
+	"notes": "~`encloses a hyperlink`~",
 	"Intellect Fortress I": {
 		"spellname": "Intellect Fortress I",
 		"file": "spelldisplay0043.html",
@@ -10880,8 +10881,8 @@
 		"save": "Fortitude negates (and Will special, see text)",
 		"sr": " yes"
 	},
-	"Shadow Enchantment, Greater": {
-		"spellname": "Shadow Enchantment, Greater",
+	"Shadow Enchantment": {
+		"spellname": "Shadow Enchantment",
 		"file": "spelldisplay1161.html",
 		"sources": [
 			"Occult Realms"
@@ -10890,11 +10891,11 @@
 		"subschools": [],
 		"descriptors": [],
 		"levels": {
-			"arcanist": 6,
-			"bard": 6,
-			"skald": 6,
-			"sorcerer": 6,
-			"wizard": 6
+			"arcanist": 3,
+			"bard": 3,
+			"skald": 3,
+			"sorcerer": 3,
+			"wizard": 3
 		},
 		"castTime": "1 standard action",
 		"components": {
@@ -10907,10 +10908,37 @@
 			"e": "see text"
 		},
 		"duration": "see text",
-		"description": null,
-		"copyof": "Shadow Enchantment",
+		"description": [
+			"Shadow Enchantment",
+			"Source ~`Occult Realms pg. 17`~",
+			"School ~`illusion`~ (~`shadow`~) [~`shadow`~]; Level arcanist 3, bard 3, skald 3, sorcerer 3, wizard 3",
+			"Casting",
+			"Casting Time 1 standard action",
+			"Components V, S",
+			"Effect",
+			"Range see text",
+			"Effect see text",
+			"Duration see text",
+			"Saving Throw Will disbelief, see text; Spell Resistance yes",
+			"Description",
+			"You use material from the Shadow Plane to cast a quasi-real, illusory version of a psychic, sorcerer, or wizard enchantment spell of 2nd level or lower. Spells that deal damage or have other effects work as normal unless the affected creature succeeds at a Will save. If the disbelieved enchantment spell has a damaging effect, that effect is one-fifth as strong (if applicable) or only 20% likely to occur. If recognized as a shadow enchantment, a damaging spell deals only one-fifth (20%) the normal amount of damage.",
+			"If the disbelieved attack has a special effect other than damage, that effect is one-fifth as strong (if applicable) or only 20% likely to occur. Regardless of the result of the save to disbelieve, an affected creature is also allowed any save (or spell resistance) that the spell being simulated allows, but the save DC is set according to shadow enchantment’s level (3rd) rather than the spell’s normal level. Objects, mindless creatures, and creatures immune to mind-affecting effects automatically succeed at their Will saves against this spell.",
+			"Shadow Enchantment, Greater",
+			"Source ~`Occult Realms pg. 17`~",
+			"School ~`illusion`~ (~`shadow`~) [~`shadow`~]; Level arcanist 6, bard 6, skald 6, sorcerer 6, wizard 6",
+			"Casting",
+			"Casting Time 1 standard action",
+			"Components V, S",
+			"Effect",
+			"Range see text",
+			"Effect see text",
+			"Duration see text",
+			"Saving Throw Will disbelief, see text; Spell Resistance yes",
+			"Description",
+			"This spell functions like shadow enchantment, except that it enables you to create partially real, illusory versions of psychic, sorcerer, or wizard enchantment spells of 5th level or lower. If the spell is recognized as a greater shadow enchantment, it's only three-fifths (60%) as effective."
+		],
 		"save": "Will disbelief, see text",
-		"sr": " yes"
+		"sr": "yes"
 	},
 	"Owl's Wisdom": {
 		"spellname": "Owl's Wisdom",
@@ -11379,41 +11407,6 @@
 		"save": "none",
 		"sr": " no"
 	},
-	"Planar Aegis": {
-		"spellname": "Planar Aegis",
-		"file": "spelldisplay1242.html",
-		"sources": [
-			"Plane-Hopper's Handbook"
-		],
-		"school": "abjuration",
-		"subschools": [],
-		"descriptors": [],
-		"levels": {
-			"arcanist": 5,
-			"druid": 5,
-			"hunter": 3,
-			"occultist": 4,
-			"ranger": 3,
-			"sorcerer": 5,
-			"summoner": 4,
-			"summoner_uc": 4,
-			"wizard": 5
-		},
-		"castTime": "1 standard action",
-		"components": {
-			"v": true,
-			"s": true,
-			"m": true,
-			"text": "V, S, M (a fistful of naturally occuring material from a plane)"
-		},
-		"range": "personal",
-		"effect": {
-			"t": "you"
-		},
-		"duration": "1 round/level (D)",
-		"description": null,
-		"copyof": ""
-	},
 	"Symbol of Sealing": {
 		"spellname": "Symbol of Sealing",
 		"file": "spelldisplay1255.html",
@@ -11634,78 +11627,6 @@
 		],
 		"save": "none",
 		"sr": " yes"
-	},
-	"Recentering Drone": {
-		"spellname": "Recentering Drone",
-		"file": "spelldisplay12c3.html",
-		"sources": [
-			"Champions of Balance"
-		],
-		"school": "abjuration",
-		"subschools": [],
-		"descriptors": [],
-		"levels": {
-			"cleric": 2,
-			"druid": 2,
-			"hunter": 2,
-			"oracle": 2,
-			"warpriest": 2
-		},
-		"castTime": "1 standard action",
-		"components": {
-			"v": true,
-			"s": true,
-			"f": true,
-			"text": "V, S, DF"
-		},
-		"range": "close (25 ft. + 5 ft./2 levels)",
-		"effect": {
-			"t": "one creature/2 levels (no two of which may be more than 30 ft. apart)"
-		},
-		"duration": "concentration",
-		"description": [
-			"Recentering Drone",
-			"Source ~`Champions of Balance pg. 27`~",
-			"School ~`abjuration`~; Level cleric 2, druid 2, hunter 2, oracle 2, warpriest 2",
-			"Casting",
-			"Casting Time 1 standard action",
-			"Components V, S, DF",
-			"Effect",
-			"Range close (25 ft. + 5 ft./2 levels)",
-			"Targets one creature/2 levels (no two of which may be more than 30 ft. apart)",
-			"Duration concentration",
-			"Saving Throw Will negates (harmless); Spell Resistance yes (harmless)",
-			"Description",
-			"You emit a calming subsonic drone that allows the targets to temporarily refocus and restore their balance when they're suffering from debilitating conditions. A target with the dazzled, fatigued, shaken, or sickened condition ignores the penalties of those conditions for the duration of this spell. A target with one of the following conditions is treated as having the associated lesser condition for the duration of the spell, as shown by the following table.",
-			{
-				"table": true,
-				"rows": [
-					[
-						"Condition",
-						"Lesser Condition"
-					],
-					[
-						"Blinded",
-						"Dazzled"
-					],
-					[
-						"Exhausted",
-						"Fatigued"
-					],
-					[
-						"Frightened",
-						"Shaken"
-					],
-					[
-						"Nauseated",
-						"Sickened"
-					]
-				]
-			},
-			"At the end of the spell's duration, the targets are again subject to the appropriate penalties if the original conditions affecting the target are still in effect."
-		],
-		"save": "Will negates (harmless)",
-		"sr": " yes (harmless)"
 	},
 	"Disable Construct": {
 		"spellname": "Disable Construct",
@@ -13787,66 +13708,6 @@
 		"save": "Will negates",
 		"sr": "yes"
 	},
-	"Disfiguring Touch": {
-		"spellname": "Disfiguring Touch",
-		"file": "spelldisplay176a.html",
-		"sources": [
-			"Ultimate Magic",
-			"Book of the Damned - Volume 2: Lords of Chaos",
-			"Mythic Adventures"
-		],
-		"school": "transmutation [curse]",
-		"subschools": [],
-		"descriptors": [],
-		"levels": {
-			"arcanist": 2,
-			"bloodrager": 2,
-			"cleric": 2,
-			"mesmerist": 2,
-			"occultist": 2,
-			"oracle": 2,
-			"psychic": 2,
-			"redmantisassassin": 2,
-			"sorcerer": 2,
-			"spiritualist": 2,
-			"warpriest": 2,
-			"witch": 2,
-			"wizard": 2
-		},
-		"castTime": "1 standard action",
-		"components": {
-			"v": true,
-			"s": true,
-			"text": "V, S"
-		},
-		"range": "touch",
-		"effect": {
-			"t": "creature touched"
-		},
-		"duration": "1 day/level",
-		"description": [
-			"Disfiguring Touch",
-			"Source ~`Ultimate Magic pg. 217`~, ~`Book of the Damned - Volume 2: Lords of Chaos pg. 48`~",
-			"School ~`transmutation`~ [~`curse`~]; Level arcanist 2, bloodrager 2, cleric 2, mesmerist 2, occultist 2, oracle 2, psychic 2, redmantisassassin 2, sorcerer 2, spiritualist 2, warpriest 2, witch 2, wizard 2",
-			"Casting",
-			"Casting Time 1 standard action",
-			"Components V, S",
-			"Effect",
-			"Range touch",
-			"Target creature touched",
-			"Duration 1 day/level",
-			"Saving Throw Will negates; Spell Resistance yes",
-			"Description",
-			"With a touch, you cause the victim of this spell to suffer a painful curse that causes it to grow hideously disfigured. The physical appearance of the deformity is subject to the caster's whim (most demon worshipers choose deformities that reflect their Abyssal patron's shape or form). The target takes one of the following penalties. |L|-2 decrease to an ability score (minimum 1). -2 penalty on attack rolls or saving throws. Land speed reduced by 5 feet. |/L| You may also invent other effects, but they should be no more powerful than those described above.",
-			"Mythic Disfiguring Touch",
-			"Source ~`Mythic Adventures pg. 91`~",
-			"The target takes two different penalties (chosen from the same list) instead of one.",
-			"Augmented: If you expend two uses of mythic power, the target also gains the fatigued condition because of its painful disfigurement. If this fatigue is negated without removing the curse, it returns after 1 hour."
-		],
-		"save": "Will negates",
-		"sr": " yes",
-		"hasMythic": true
-	},
 	"Teleport Trap": {
 		"spellname": "Teleport Trap",
 		"file": "spelldisplay176c.html",
@@ -13891,131 +13752,6 @@
 			"At your discretion, the teleport trap can exclude a category of creatures, such as an alignment, a type of creature, or creatures that carry a specific item or know a password (though this only works if the creature is teleporting out of the area, not into it). You select this option and the conditions at the time you cast the spell. Overly complicated conditions may cause the spell to fail entirely. Multiple castings of teleport trap can be linked to cover a larger area, allowing teleported creatures to be directed to a single point within the combined area of the spells.",
 			"Teleport trap can be made permanent at the cost of 7,000 gp. A single permanency spell can be used on all teleport traps that share a linked destination, but the gold piece cost must be paid for each individual spell.",
 			"The Pathfinders of the Grand Lodge make use of permanent teleport traps in several key locations, trapping would-be intruders in a small wing of jail cells. At least one crypt of the Whispering Tyrant makes use of the spell as well, trapping grave robbers in coffin-sized stone cysts, there to die a slow and agonizing death from thirst and starvation."
-		],
-		"save": "Will negates",
-		"sr": "yes"
-	},
-	"Scrying": {
-		"spellname": "Scrying",
-		"file": "spelldisplay177f.html",
-		"sources": [
-			"PRPG Core Rulebook"
-		],
-		"school": "divination",
-		"subschools": [
-			"scrying"
-		],
-		"descriptors": [],
-		"levels": {
-			"arcanist": 4,
-			"bard": 3,
-			"cleric": 5,
-			"druid": 4,
-			"hunter": 4,
-			"medium": 3,
-			"mesmerist": 3,
-			"occultist": 4,
-			"oracle": 5,
-			"psychic": 4,
-			"shaman": 4,
-			"skald": 3,
-			"sorcerer": 4,
-			"spiritualist": 5,
-			"warpriest": 5,
-			"witch": 4,
-			"wizard": 4
-		},
-		"castTime": "1 hour",
-		"components": {
-			"v": true,
-			"s": true,
-			"m": true,
-			"f": true,
-			"df": true,
-			"text": "V, S, M/DF (a pool of water), F (a silver mirror worth 1,000 gp)"
-		},
-		"range": "see text",
-		"effect": {
-			"e": "magical sensor"
-		},
-		"duration": "1 min./level",
-		"description": [
-			"Scrying",
-			"Source ~`PRPG Core Rulebook pg. 337`~",
-			"School ~`divination`~ (~`scrying`~); Level arcanist 4, bard 3, cleric 5, druid 4, hunter 4, medium 3, mesmerist 3, occultist 4, oracle 5, psychic 4, shaman 4, skald 3, sorcerer 4, spiritualist 5, warpriest 5, witch 4, wizard 4",
-			"Casting",
-			"Casting Time 1 hour",
-			"Components V, S, M/DF (a pool of water), F (a silver mirror worth 1,000 gp)",
-			"Effect",
-			"Range see text",
-			"Effect magical sensor",
-			"Duration 1 min./level",
-			"Saving Throw Will negates; Spell Resistance yes",
-			"Description",
-			"You can observe a creature at any distance. If the subject succeeds on a Will save, the spell fails. The difficulty of the save depends on how well your knowledge of the subject and what sort of physical connection (if any) you have to that creature. Furthermore, if the subject is on another plane, it gets a +5 bonus on its Will save.",
-			{
-				"table": true,
-				"rows": [
-					[
-						"Knowledge",
-						"Will Save Modifier"
-					],
-					[
-						"None*",
-						"+10"
-					],
-					[
-						"Secondhand (you have heard of the subject)",
-						"+5"
-					],
-					[
-						"Firsthand (you have met the subject)",
-						"+0"
-					],
-					[
-						"Familiar (you know the subject well)",
-						"-5"
-					],
-					[
-						"Connection",
-						"Will Save Modifier"
-					],
-					[
-						"Likeness or picture",
-						"-2"
-					],
-					[
-						"Possession or garment",
-						"-4"
-					],
-					[
-						"Body part, lock of hair, bit of nail, etc.",
-						"-10"
-					],
-					[
-						{
-							"cols": 2,
-							"text": "*You must have some sort of connection (see below) to a creature of which you have no knowledge."
-						}
-					]
-				]
-			},
-			"If the save fails, you can see and hear the subject and its surroundings (approximately 10 feet in all directions of the subject). If the subject moves, the sensor follows at a speed of up to 150 feet.",
-			"As with all divination (scrying) spells, the sensor has your full visual acuity, including any magical effects. In addition, the following spells have a 5% chance per caster level of operating through the sensor: detect chaos, detect evil, detect good, detect law, detect magic, and message.",
-			"If the save succeeds, you can't attempt to scry on that subject again for at least 24 hours.",
-			"Scrying, Greater",
-			"Source ~`PRPG Core Rulebook pg. 337`~",
-			"School ~`divination`~ (~`scrying`~); Level arcanist 7, bard 6, cleric 7, druid 7, mesmerist 6, occultist 6, oracle 7, psychic 7, shaman 7, skald 6, sorcerer 7, witch 7, wizard 7",
-			"Casting",
-			"Casting Time 1 standard action",
-			"Components V, S",
-			"Effect",
-			"Range see text",
-			"Effect magical sensor",
-			"Duration 1 hour/level",
-			"Saving Throw Will negates; Spell Resistance yes",
-			"Description",
-			"This spell functions like scrying, except as noted above. Additionally, all of the following spells function reliably through the sensor: detect chaos, detect evil, detect good, detect law, detect magic, message, read magic, and tongues."
 		],
 		"save": "Will negates",
 		"sr": "yes"
@@ -14952,45 +14688,6 @@
 		],
 		"save": "none",
 		"sr": "no"
-	},
-	"Touch of Madness": {
-		"spellname": "Touch of Madness",
-		"file": "spelldisplay1979.html",
-		"sources": [
-			"Pathfinder Campaign Setting"
-		],
-		"school": null,
-		"subschools": [],
-		"descriptors": [],
-		"levels": {},
-		"castTime": "1 standard action",
-		"components": {
-			"v": true,
-			"s": true,
-			"text": "V, S"
-		},
-		"range": "touch",
-		"effect": {
-			"t": "creature touched"
-		},
-		"duration": "1 round/level",
-		"description": [
-			"Touch of Madness",
-			"Source ~`Pathfinder Campaign Setting pg. 207`~",
-			"School ~`enchantment`~ [~`mind-affecting`~]",
-			"Casting",
-			"Casting Time 1 standard action",
-			"Components V, S",
-			"Effect",
-			"Range touch",
-			"Target creature touched",
-			"Duration 1 round/level",
-			"Saving Throw Will negates; Spell Resistance yes",
-			"Description",
-			"On a successful touch attack, you daze a creature that fails a save."
-		],
-		"save": "Will negates",
-		"sr": "yes"
 	},
 	"Haunted Fey Aspect": {
 		"spellname": "Haunted Fey Aspect",
@@ -17093,7 +16790,7 @@
 			"You alter the target's mood, adjusting its attitude toward you or another creature you designate by one step either positively or negatively (see the Diplomacy skill on page 94 of the Pathfinder RPG Core Rulebook). You can instead use this spell to assist your own or an ally's Bluff, Diplomacy, Intimidate, Perform, or Sense Motive check, granting that check a +5 insight bonus against the target of your telempathic projection with no save. In this case, the spell's duration expires immediately when the skill check is complete.",
 			"Implanted Projection",
 			"Source ~`Occult Origins pg. 13`~",
-			"School ~`enchantment`~ (~`compulsion`~) [~`emotion`~, ~`mind-affecting`~]",
+			"School ~`enchantment`~ (~`compulsion`~) [~`emotion`~, ~`mind-affecting`~]; Level mesmerist 3, psychic 3",
 			"Casting",
 			"Casting Time 1 standard action",
 			"Components V, S",
@@ -18104,166 +17801,6 @@
 		"copyof": "Unhallowed Blows",
 		"save": "Will negates (harmless)",
 		"sr": "yes (harmless)"
-	},
-	"Mathematical Curse": {
-		"spellname": "Mathematical Curse",
-		"file": "spelldisplay1eba.html",
-		"sources": [
-			"Occult Mysteries"
-		],
-		"school": "necromancy [curse]",
-		"subschools": [],
-		"descriptors": [],
-		"levels": {
-			"antipaladin": 2,
-			"arcanist": 2,
-			"bard": 2,
-			"cleric": 3,
-			"oracle": 3,
-			"skald": 2,
-			"sorcerer": 2,
-			"warpriest": 3,
-			"witch": 2,
-			"wizard": 2
-		},
-		"castTime": "1 standard action",
-		"components": {
-			"v": true,
-			"s": true,
-			"m": true,
-			"f": true,
-			"text": "V, S, M/DF (a full set of 10 fingernails)"
-		},
-		"range": "touch",
-		"effect": {
-			"t": "one living creature"
-		},
-		"duration": "see text",
-		"description": [
-			"Mathematical Curse",
-			"Source ~`Occult Mysteries pg. 51`~",
-			"School ~`necromancy`~ [~`curse`~]; Level antipaladin 2, arcanist 2, bard 2, cleric 3, oracle 3, skald 2, sorcerer 2, warpriest 3, witch 2, wizard 2",
-			"Casting",
-			"Casting Time 1 standard action",
-			"Components V, S, M/DF (a full set of 10 fingernails)",
-			"Effect",
-			"Range touch",
-			"Target one living creature",
-			"Duration see text",
-			"Saving Throw Will negates; Spell Resistance yes",
-			"Description",
-			"Using the Path of Numbers, you are able to influence the seemingly random elements in the environment around a creature, reducing that creature's efficacy. Roll 3d8 and choose one of the dice-this die's result is the penalty mathematical curse imparts. Next, choose either of the two remaining dice; the d20 roll corresponding to that result on the Eight Basic Energies table is the roll the spell's penalty applies to. The result of the final die represents the number of rounds that mathematical curse lasts. A creature can be under the influence of only one mathematical curse at a time. If mathematical curse is cast on a creature already affected by that spell, the new curse replaces the previous one.",
-			{
-				"table": true,
-				"rows": [
-					[
-						"d8",
-						"Energy Type",
-						"Magic School",
-						"d20 Roll Type"
-					],
-					[
-						"1",
-						"Air",
-						"Enchantment",
-						"Will save"
-					],
-					[
-						"2",
-						"Electricity",
-						"Illusion",
-						"Reflex save"
-					],
-					[
-						"3",
-						"Fire",
-						"Necromancy",
-						"Attack roll"
-					],
-					[
-						"4",
-						"Sonic",
-						"Evocation",
-						"Initiative roll"
-					],
-					[
-						"5",
-						"Acid",
-						"Abjuration",
-						"Fortitude save"
-					],
-					[
-						"6",
-						"Water",
-						"Transmutation",
-						"Caster level check"
-					],
-					[
-						"7",
-						"Cold",
-						"Divination",
-						"Concentration check"
-					],
-					[
-						"8",
-						"Earth",
-						"Conjuration",
-						"Combat Maneuver Check"
-					]
-				]
-			}
-		],
-		"save": "Will negates",
-		"sr": " yes"
-	},
-	"Blessing of Fervor": {
-		"spellname": "Blessing of Fervor",
-		"file": "spelldisplay1ee6.html",
-		"sources": [
-			"Advanced Player's Guide",
-			"Mythic Adventures"
-		],
-		"school": "transmutation",
-		"subschools": [],
-		"descriptors": [],
-		"levels": {
-			"cleric": 4,
-			"oracle": 4,
-			"warpriest": 4
-		},
-		"castTime": "1 standard action",
-		"components": {
-			"v": true,
-			"s": true,
-			"f": true,
-			"text": "V, S, DF"
-		},
-		"range": "close (25 ft. + 5 ft./2 levels)",
-		"effect": {
-			"t": "one creature/level, no two of which can be more than 30 ft. apart"
-		},
-		"duration": "1 round/level",
-		"description": [
-			"Blessing of Fervor",
-			"Source ~`Advanced Player's Guide pg. 205`~",
-			"School ~`transmutation`~; Level cleric 4, oracle 4, warpriest 4",
-			"Casting",
-			"Casting Time 1 standard action",
-			"Components V, S, DF",
-			"Effect",
-			"Range close (25 ft. + 5 ft./2 levels)",
-			"Targets one creature/level, no two of which can be more than 30 ft. apart",
-			"Duration 1 round/level",
-			"Saving Throw Fortitude negates (harmless); Spell Resistance yes (harmless)",
-			"Description",
-			"With this blessing, you call your allies to move forth and empower them to conquer and become victorious. Each round for the duration of this spell, each of your allies can choose one of the following bonuses for that round at the beginning of its turn (their choice). |L|Increase its speed by 30 feet.Stand up as a swift action without provoking an attack of opportunity.Take one extra attack as part of a full attack action, using its highest base attack bonus.Gain a +2 bonus on attack rolls and a +2 dodge bonus to AC and Reflex saves.Cast a single spell of 2nd level or lower as if it were an enlarged, extended, silent, or still spell. |/L| These effects are not cumulative with similar effects, such as those provided by haste or a speed weapon, nor do they actually grant an extra action, so you can't use it to cast a second spell or otherwise take an extra action in the round. Blessing of fervor does not stack with haste.",
-			"Mythic Blessing of Fervor",
-			"Source ~`Mythic Adventures pg. 86`~",
-			"Affected creatures can choose two of the spell's bonuses each round rather than one."
-		],
-		"save": "Fortitude negates (harmless)",
-		"sr": " yes (harmless)",
-		"hasMythic": true
 	},
 	"Alter Summoned Monster": {
 		"spellname": "Alter Summoned Monster",
@@ -19302,53 +18839,6 @@
 		"save": "Fortitude negates (see text)",
 		"sr": " yes"
 	},
-	"Qlippoth Appearance": {
-		"spellname": "Qlippoth Appearance",
-		"file": "spelldisplay2109.html",
-		"sources": [
-			"Pathfinder #135: Runeplague"
-		],
-		"school": "transmutation (polymorph) [mind-affecting]",
-		"subschools": [],
-		"descriptors": [],
-		"levels": {
-			"alchemist": 3,
-			"antipaladin": 2,
-			"cleric": 3,
-			"oracle": 3,
-			"shaman": 3,
-			"warpriest": 3,
-			"witch": 3
-		},
-		"castTime": "1 standard action",
-		"components": {
-			"v": true,
-			"s": true,
-			"text": "V, S"
-		},
-		"range": "personal",
-		"effect": {
-			"t": "you"
-		},
-		"duration": "10 minutes/level (see text)",
-		"description": [
-			"Qlippoth Appearance",
-			"Source ~`Pathfinder #135: Runeplague pg. 74`~",
-			"School ~`transmutation`~ (~`polymorph`~) [~`mind-affecting`~]; Level alchemist 3, antipaladin 2, cleric 3, oracle 3, shaman 3, warpriest 3, witch 3",
-			"Casting",
-			"Casting Time 1 standard action",
-			"Components V, S",
-			"Effect",
-			"Range personal",
-			"Target you",
-			"Duration 10 minutes/level (see text)",
-			"Saving Throw Will negates (see text); Spell Resistance yes",
-			"Description",
-			"When under the effects of this spell, your face and body appear subtly wrong, though you are still recognizable as yourself. You gain a +4 circumstance bonus on Intimidate checks but take a -4 penalty on Diplomacy checks. As long as this spell's effects persist, you can reveal the face under your face as a standard action, assaulting the senses of a single living creature within 30 feet that can see you. A targeted creature must succeed at a Will save against the DC of this spell or be subject to one of the following effects (your choice). Every time you use this ability, you reduce the remaining duration of this spell by 10 minutes. |L|The affected creature takes 1 point of Wisdom damage. The affected creature is paralyzed with revulsion for 1 round. The affected creature is sickened with disgust for 1d6 rounds. The affected creature takes 1d6 points of nonlethal damage as its senses are overwhelmed.|/L|"
-		],
-		"save": "Will negates (see text)",
-		"sr": "yes"
-	},
 	"Calcific Touch": {
 		"spellname": "Calcific Touch",
 		"file": "spelldisplay210c.html",
@@ -20097,56 +19587,6 @@
 			"Description",
 			"You create a replica within the Akashic Record of each target at the time the spell is cast. Each targeted creature must currently have at least half its hit points. If at any time during the duration of the spell a target is brought below half her maximum hit points, that target can end the spell on herself as an immediate action to absorb strength from her replica and immediately regain a number of hit points equal to 1d8 plus 1 point per caster level (maximum +25)."
 		]
-	},
-	"Control Winds": {
-		"spellname": "Control Winds",
-		"file": "spelldisplay228c.html",
-		"sources": [
-			"PRPG Core Rulebook"
-		],
-		"school": "transmutation [air]",
-		"subschools": [],
-		"descriptors": [],
-		"levels": {
-			"druid": 5,
-			"hunter": 5,
-			"occultist": 5,
-			"shaman": 5
-		},
-		"castTime": "1 standard action",
-		"components": {
-			"v": true,
-			"s": true,
-			"text": "V, S"
-		},
-		"range": "40 ft./level",
-		"effect": {
-			"a": "40 ft./level radius cylinder 40 ft. high"
-		},
-		"duration": "10 min./level",
-		"description": [
-			"Control Winds",
-			"Source ~`PRPG Core Rulebook pg. 261`~",
-			"School ~`transmutation`~ [~`air`~]; Level druid 5, hunter 5, occultist 5, shaman 5",
-			"Casting",
-			"Casting Time 1 standard action",
-			"Components V, S",
-			"Effect",
-			"Range 40 ft./level",
-			"Area 40 ft./level radius cylinder 40 ft. high",
-			"Duration 10 min./level",
-			"Saving Throw Fortitude negates; Spell Resistance no",
-			"Description",
-			"You alter wind force in the area surrounding you. You can make the wind blow in a certain direction or manner, increase its strength, or decrease its strength. The new wind direction and strength persist until the spell ends or until you choose to alter your handiwork, which requires concentration. You may create an \"eye\" of calm air up to 80 feet in diameter at the center of the area if you so desire, and you may choose to limit the area to any cylindrical area less than your full limit.",
-			"Wind Direction: You may choose one of four basic wind patterns to function over the spell's area.|L|A downdraft blows from the center outward in equal strength in all directions.An updraft blows from the outer edges in toward the center in equal strength from all directions, veering upward before impinging on the eye in the center.Rotation causes the winds to circle the center in clockwise or counterclockwise fashion.A blast simply causes the winds to blow in one direction across the entire area from one side to the other.|/L|Wind Strength: For every three caster levels, you can increase or decrease wind strength by one level. Each round on your turn, a creature in the wind must make a Fortitude save or suffer the effect of being in the windy area. See Environment for more details.",
-			"Strong winds (21+ mph) make sailing difficult.",
-			"A severe wind (31+ mph) causes minor ship and building damage.",
-			"A windstorm (51+ mph) drives most flying creatures from the skies, uproots small trees, knocks down light wooden structures, tears off roofs, and endangers ships.",
-			"Hurricane force winds (75+ mph) destroy wooden buildings, uproot large trees, and cause most ships to founder.",
-			"A tornado (175+ mph) destroys all nonfortified buildings and often uproots large trees."
-		],
-		"save": "Fortitude negates",
-		"sr": "no"
 	},
 	"Invisibility, Mass": {
 		"spellname": "Invisibility, Mass",
@@ -20983,104 +20423,6 @@
 			"You channel magic energy into your own aura, recharging your innate magic abilities. You regain one use of all 0-level and 1st-level spell-like abilities you can use as a result of a racial trait."
 		]
 	},
-	"Sacrifice": {
-		"spellname": "Sacrifice",
-		"file": "spelldisplay2417.html",
-		"sources": [
-			"Book of the Damned",
-			"Book of the Damned - Volume 1: Princes of Darkness"
-		],
-		"school": "enchantment (charm) [mind-affecting]",
-		"subschools": [],
-		"descriptors": [],
-		"levels": {
-			"arcanist": 4,
-			"cleric": 4,
-			"oracle": 4,
-			"sorcerer": 4,
-			"warpriest": 4,
-			"wizard": 4
-		},
-		"castTime": "1 minute",
-		"components": {
-			"v": true,
-			"s": true,
-			"m": true,
-			"text": "V, S, M (see text)"
-		},
-		"range": "close (25 ft. + 5 ft./2 levels)",
-		"effect": {
-			"t": "one summoned elemental or outsider (see text)"
-		},
-		"duration": "instantaneous, 1 hour, or 1 day (see text)",
-		"description": [
-			"Sacrifice",
-			"Source ~`Book of the Damned pg. 185`~, ~`Book of the Damned - Volume 1: Princes of Darkness pg. 47`~",
-			"School ~`enchantment`~ (~`charm`~) [~`mind-affecting`~]; Level arcanist 4, cleric 4, oracle 4, sorcerer 4, warpriest 4, wizard 4",
-			"Casting",
-			"Casting Time 1 minute",
-			"Components V, S, M (see text)",
-			"Effect",
-			"Range close (25 ft. + 5 ft./2 levels)",
-			"Target one summoned elemental or outsider (see text)",
-			"Duration instantaneous, 1 hour, or 1 day (see text)",
-			"Saving Throw none; Spell Resistance no",
-			"Description",
-			"You make a sacrifice to aid in conjuring and commanding a creature called with planar ally, planar binding, or a similar spell. A sacrifice can be used in a variety of ways.",
-			"Bargain: Making a sacrifice directly to the conjured being grants you a bonus on opposed Charisma checks made to compel the creature into service for the next hour.",
-			"Enticement: Making a sacrifice the round before conjuring increases the DC of the Will save an outsider must attempt to resist being conjured.",
-			"Payment: Making a sacrifice directly to the conjured being allows you to pay for one service from the creature in commodities other than gold.",
-			"Reinforcement: Making a sacrifice the round before creating a magic circle and preparing a summoning diagram amplifies the power of its warding magic, increasing the DC of Charisma checks the creature might attempt to escape. This lasts 1 day.",
-			"Multiple sacrifices can be made to affect a single conjuring, but the bonuses provided by this spell do not stack. Therefore, while you can make sacrifices to aid in conjuring and bargaining with a creature, you cannot make multiple sacrifices (even of varying types) to enhance the same effect for a particular conjuration. A sacrifice can consist of any kind of commodity the target creature favors, including living creatures, treasures, or more ephemeral offerings. While this spell is not fundamentally evil, good-aligned creatures are more selective in what offerings they accept, typically scoffing at blood sacrifices. Many sacrifices are fundamentally evil acts, such as murdering a pious innocent to conjure a fiend. Any creature might reject certain types of sacrifices, thus denying you the benefits of this spell, as the offering must appeal to the target-few outsiders would care for 2,000 gp worth of parchment, while 2,000 gp of diamonds would be widely coveted. The GM determines what sacrifices creatures find appealing.",
-			"The table below lists a number of likely offerings, along with the bonus such gifts provide and the offering's equivalent value in gold pieces for the purposes of planar ally. Several of these sacrifices involve the loss of ability scores, levels, or lives, and some can cause changes in alignment. Any change wrought by such sacrifices (loss of ability score or level, or change in alignment) cannot be recovered, cured, or undone by any spell or effect short of miracle or wish. The same is true of creatures killed as a sacrifice; such creatures cannot be resurrected by any magic less powerful than these spells. Any object sacrificed with this spell is effectively destroyed or removed to an extraplanar holding of the conjured creature's choice. The bonuses and values noted on the sacrifice effects table are guidelines for offerings; certain types of treasures or lives might prove especially valuable to specific creatures, with extraordinary sacrifices (such as a potent artifact or the life of a high-level paladin) garnering increased bonuses.",
-			"You cannot make greater sacrifices than those noted on the table to gain increased bonuses or gold values. For example, you could not gain 2 permanent negative levels to gain a +16 bonus, nor gain increased benefit from slaying 20 Hit Dice worth of creatures to pay for a 10-HD creature's service.",
-			{
-				"table": true,
-				"rows": [
-					[
-						"Type",
-						"Sacrifice",
-						"Granted Bonus",
-						"GP Value"
-					],
-					[
-						"Treasures",
-						"100 gp/HD of target",
-						"+1",
-						"Equal"
-					],
-					[
-						"Lives1",
-						"One living creature with HD equal to target",
-						"+2",
-						"200 gp/HD"
-					],
-					[
-						"Body/Mind1",
-						"Reduction of ability scores by 1 reduced",
-						"+4",
-						"500 gp/point"
-					],
-					[
-						"Morals2",
-						"Alignment shifts one step toward target's",
-						"+6",
-						"1,000 gp/step"
-					],
-					[
-						"Soul1",
-						"One permanent negative level",
-						"+8",
-						"2,500 gp"
-					]
-				]
-			},
-			"When used to sacrifice a life, body, mind, or soul other than the caster's own, this is an evil act.",
-			"A character can sacrifice only her own morals, and can do so only once per lifetime."
-		],
-		"save": "none",
-		"sr": "no"
-	},
 	"Aggressive Thundercloud": {
 		"spellname": "Aggressive Thundercloud",
 		"file": "spelldisplay2475.html",
@@ -21531,10 +20873,21 @@
 		"sources": [
 			"Monster Hunter's Handbook"
 		],
-		"school": null,
+		"school": "transmutation [poison]",
 		"subschools": [],
 		"descriptors": [],
-		"levels": {},
+		"levels": {
+			"alchemist": 3,
+			"bard": 3,
+			"druid": 4,
+			"hunter": 3,
+			"investigator": 3,
+			"mesmerist": 3,
+			"ranger": 3,
+			"shaman": 4,
+			"skald": 3,
+			"witch": 4
+		},
 		"castTime": "1 standard action",
 		"components": {
 			"v": true,
@@ -21551,7 +20904,7 @@
 		"description": [
 			"Repugnant Taste",
 			"Source ~`Monster Hunter's Handbook pg. 30`~",
-			"School ~`transmutation`~ [~`poison`~]",
+			"School ~`transmutation`~ [~`poison`~]; Level alchemist 3, bard 3, druid 4, hunter 3, investigator 3, mesmerist 3, ranger 3, shaman 4, skald 3, witch 4",
 			"Casting",
 			"Casting Time 1 standard action",
 			"Components V, S, M/DF (mustard seed)",
@@ -22049,155 +21402,6 @@
 		],
 		"save": "Will negates (harmless)",
 		"sr": "yes (harmless)"
-	},
-	"Detect Evil": {
-		"spellname": "Detect Evil",
-		"file": "spelldisplay2538.html",
-		"sources": [
-			"PRPG Core Rulebook"
-		],
-		"school": "divination",
-		"subschools": [],
-		"descriptors": [],
-		"levels": {
-			"adept": 1,
-			"cleric": 1,
-			"inquisitor": 1,
-			"oracle": 1,
-			"shaman": 1,
-			"spiritualist": 1,
-			"warpriest": 1
-		},
-		"castTime": "1 standard action",
-		"components": {
-			"v": true,
-			"s": true,
-			"f": true,
-			"text": "V, S, DF"
-		},
-		"range": "60 ft.",
-		"effect": {
-			"a": "cone-shaped emanation"
-		},
-		"duration": "concentration, up to 10 min./level (D)",
-		"description": [
-			"Detect Evil",
-			"Source ~`PRPG Core Rulebook pg. 266`~",
-			"School ~`divination`~; Level adept 1, cleric 1, inquisitor 1, oracle 1, shaman 1, spiritualist 1, warpriest 1",
-			"Casting",
-			"Casting Time 1 standard action",
-			"Components V, S, DF",
-			"Effect",
-			"Range 60 ft.",
-			"Area cone-shaped emanation",
-			"Duration concentration, up to 10 min./level (D)",
-			"Saving Throw none; Spell Resistance no",
-			"Description",
-			"You can sense the presence of evil. The amount of information revealed depends on how long you study a particular area or subject.",
-			"1st Round: Presence or absence of evil.",
-			"2nd Round: Number of evil auras (creatures, objects, or spells) in the area and the power of the most potent evil aura present.",
-			"If you are of good alignment, and the strongest evil aura's power is overwhelming (see below), and the HD or level of the aura's source is at least twice your character level, you are stunned for 1 round and the spell ends.",
-			"3rd Round: The power and location of each aura. If an aura is outside your line of sight, then you discern its direction but not its exact location.",
-			"Aura Power: An evil aura's power depends on the type of evil creature or object that you're detecting and its HD, caster level, or (in the case of a cleric) class level; see the table below. If an aura falls into more than one strength category, the spell indicates the stronger of the two.",
-			"Lingering Aura: An evil aura lingers after its original source dissipates (in the case of a spell) or is destroyed (in the case of a creature or magic item). If detect evil is cast and directed at such a location, the spell indicates an aura strength of dim (even weaker than a faint aura). How long the aura lingers at this dim level depends on its original power:",
-			{
-				"table": true,
-				"rows": [
-					[
-						"Original Strength",
-						"Duration of Lingering Aura"
-					],
-					[
-						"Faint",
-						"1d6 rounds"
-					],
-					[
-						"Moderate",
-						"1d6 minutes"
-					],
-					[
-						"Strong",
-						"1d6 x 10 minutes"
-					],
-					[
-						"Overwhelming",
-						"1d6 days"
-					]
-				]
-			},
-			"Animals, traps, poisons, and other potential perils are not evil, and as such this spell does not detect them. Creatures with actively evil intents count as evil creatures for the purpose of this spell.",
-			"Each round, you can turn to detect evil in a new area. The spell can penetrate barriers, but 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt blocks it.",
-			{
-				"table": true,
-				"rows": [
-					[
-						{
-							"rows": 2,
-							"text": "Creature/Object"
-						},
-						{
-							"rows": 5,
-							"text": "Aura Power"
-						}
-					],
-					[
-						"None",
-						"Faint",
-						"Moderate",
-						"Strong",
-						"Overwhelming"
-					],
-					[
-						"Aligned creature (HD)",
-						"4 or lower",
-						"5-10",
-						"11-25",
-						"26-50",
-						"51 or higher"
-					],
-					[
-						"Aligned Undead (HD)",
-						"&mdash;",
-						"2 or lower",
-						"3-8",
-						"9-20",
-						"21 or higher"
-					],
-					[
-						"Aligned outsider (HD)",
-						"&mdash;",
-						"1 or lower",
-						"2-4",
-						"5-10",
-						"11 or higher"
-					],
-					[
-						"Cleric or paladin of an aligned deity (class levels)",
-						"&mdash;",
-						"1",
-						"2-4",
-						"5-10",
-						"11 or higher"
-					],
-					[
-						"Aligned magic item or spell (caster level)",
-						"5th or lower",
-						"6th-10th",
-						"11th-15th",
-						"16th-20th",
-						"21st or higher"
-					],
-					[
-						{
-							"rows": 2,
-							"cols": 6,
-							"text": "1 Except for undead and outsiders, which have their own entries on the table; 2 Some characters who are not clerics may radiate an aura of equivalent power. The class description will indicate whether this applies."}
-					]
-				]
-			}
-		],
-		"save": "none",
-		"sr": "no"
 	},
 	"Earth Glide": {
 		"spellname": "Earth Glide",
@@ -23480,10 +22684,17 @@
 		"sources": [
 			"Magic Tactics Toolbox"
 		],
-		"school": null,
+		"school": "transmutation",
 		"subschools": [],
 		"descriptors": [],
-		"levels": {},
+		"levels": {
+			"cleric": 8,
+			"shaman": 8,
+			"sorcerer": 8,
+			"wizard": 8,
+			"spiritualist": 6,
+			"witch": 7
+		},
 		"castTime": "1 standard action",
 		"components": {
 			"v": true,
@@ -23499,7 +22710,7 @@
 		"description": [
 			"Phasic Challenge",
 			"Source ~`Magic Tactics Toolbox pg. 6`~",
-			"School ~`transmutation`~",
+			"School ~`transmutation`~; Level cleric 8, shaman 8, sorcerer 8, wizard 8, spiritualist 6, witch 7",
 			"Casting",
 			"Casting Time 1 standard action",
 			"Components V, S, M (a scrape of a knight's banner)",
@@ -24602,139 +23813,6 @@
 			"Armor you wear no longer reduces your speed. You also reduce the armor's armor check penalty by 1 + 1 per five caster levels (maximum 5)."
 		]
 	},
-	"Curse Terrain, Lesser": {
-		"spellname": "Curse Terrain, Lesser",
-		"file": "spelldisplay29e2.html",
-		"sources": [
-			"Horror Adventures"
-		],
-		"school": "necromancy [curse, evil]",
-		"subschools": [],
-		"descriptors": [],
-		"levels": {
-			"arcanist": 2,
-			"cleric": 2,
-			"druid": 2,
-			"hunter": 2,
-			"oracle": 2,
-			"shaman": 2,
-			"sorcerer": 2,
-			"warpriest": 2,
-			"witch": 2,
-			"wizard": 2
-		},
-		"castTime": "10 minutes",
-		"components": {
-			"v": true,
-			"s": true,
-			"m": true,
-			"text": "V, S, M (the heart of a creature that dwelled in the area and powdered onxy worth 350 gp)"
-		},
-		"range": "touch",
-		"effect": {
-			"a": "300-ft. radius emanating from the touched point",
-			"e": "Up to three hazards (see the Environments section onpage 152), each of CR 3 or less, imperil creatures in the area, though never with more than one hazard at a time.If a creature places this curse, it can choose the hazards.The hazards must be appropriate to the type of terrain (atthe GM's discretion). Any of the hazards that are rendered safe reset themselves and become dangerous again at each midnight."
-		},
-		"duration": "1 day (D)",
-		"description": [
-			"Curse Terrain, Lesser",
-			"Source ~`Horror Adventures pg. 114`~",
-			"School ~`necromancy`~ [~`curse`~, ~`evil`~]; Level arcanist 2, cleric 2, druid 2, hunter 2, oracle 2, shaman 2, sorcerer 2, warpriest 2, witch 2, wizard 2",
-			"Casting",
-			"Casting Time 10 minutes",
-			"Components V, S, M (the heart of a creature that dwelled in the area and powdered onxy worth 350 gp)",
-			"Effect",
-			"Range touch",
-			"Area 300-ft. radius emanating from the touched point",
-			"Duration 1 day (D)",
-			"Saving Throw none; Spell Resistance no",
-			"Description",
-			"By touching the ground, you curse the land with three unnatural hazards, as the minor perilous demesne curse (see page 145). Though this makes the hazards appear frequently, their manifestations are still unpredictable-you can't control when the hazards begin or end, nor where they appear within the cursed terrain.",
-			"Curse terrain spells can be made permanent with a permanency spell. The minimum caster level and gp cost are shown on the table. The spell is still dismissable if made permanent.",
-			{
-				"table": true,
-				"rows": [
-					[
-						"Spell",
-						"Minimum Caster Level",
-						"GP Cost"
-					],
-					[
-						"Lesser Curse Terrain",
-						"9th",
-						"2,500 gp"
-					],
-					[
-						"Curse Terrain",
-						"11th",
-						"7,500 gp"
-					],
-					[
-						"Greater Curse Terrain",
-						"15th",
-						"17,500 gp"
-					],
-					[
-						"Supreme Curse Terrain",
-						"19th",
-						"27,500 gp"
-					]
-				]
-			},
-			"Perillous Demesne, Minor",
-			"Type regional curse; Area 300-foot-radius emanation; Save Will DC 13 to remove",
-			"Effect Up to three hazards (see the Environments section onpage 152), each of CR 3 or less, imperil creatures in the area, though never with more than one hazard at a time.If a creature places this curse, it can choose the hazards.The hazards must be appropriate to the type of terrain (atthe GM's discretion). Any of the hazards that are rendered safe reset themselves and become dangerous again at each midnight.",
-			"Curse Terrain",
-			"Source ~`Horror Adventures pg. 114`~",
-			"School ~`necromancy`~ [~`curse`~, ~`evil`~]; Level arcanist 4, cleric 4, druid 4, hunter 4, oracle 4, shaman 4, sorcerer 4, warpriest 4, witch 4, wizard 4",
-			"Casting",
-			"Casting Time 10 minutes",
-			"Components V, S, M (the heart of a creature that dwelled in the area and powdered onyx worth 700 gp)",
-			"Effect",
-			"Range touch",
-			"Area 1-mile radius emanting from the touched point",
-			"Duration 1 day (D)",
-			"Description",
-			"By touching the ground, you curse the land with four unnatural hazards. This functions as lesser curse terrain, but with the effects of the major perilous demesne curse (see page 145).",
-			"Perilous Demesne, Major",
-			"Type regional curse; Area 1-mile-radius emanation; Save Will DC 16 to remove",
-			"Effect As per minor perilous demesne (see below), except this can involve up to four hazards, each of CR 6 or less, imperil creatures in the area. If any hazards are encountered together, the encounter's effective CR from hazards must be no more than 7 (for instance, two CR 5 hazards could be encountered together).",
-			"Curse Terrain, Greater",
-			"Source ~`Horror Adventures pg. 114`~",
-			"School ~`necromancy`~ [~`curse`~, ~`evil`~]; Level arcanist 6, cleric 6, druid 6, hunter 6, oracle 6, shaman 6, sorcerer 6, warpriest 6, witch 6, wizard 6",
-			"Casting",
-			"Casting Time 10 minutes",
-			"Components V, S, M (the heart of the creature that dwelled in the area and powdered onyx worth 1,500 gp)",
-			"Effect",
-			"Range touch",
-			"Area 5-mile radius emanating from the touched point",
-			"Duration 1 day (D)",
-			"Description",
-			"By touching the ground, you curse the land with six unnatural hazards. This functions as lesser curse terrain, but with the effects of the greater perilous demesne curse (see page 145).",
-			"Perilous Demesne, Greater",
-			"Type regional curse; Area 6-mile-radius emanation; Save Will DC 19 to remove",
-			"Effect As per major perilous demesne (see below), except up to six hazards, each of CR 10 or less, imperil creatures in the area. The hazards are arranged so that if any are encountered together, the encounter's effective CR from hazards must be no more than 11 (for instance, two CR 9 hazards could be encountered together).",
-			"Cure Remove curse removes a greater perilous demesne only if followed by a casting of hallow at the effect's center.",
-			"Curse Terrain, Supreme",
-			"Source ~`Horror Adventures pg. 115`~",
-			"School ~`necromancy`~ [~`curse`~, ~`evil`~]; Level arcanist 8, cleric 8, druid 8, oracle 8, shaman 8, sorcerer 8, witch 8, wizard 8",
-			"Casting",
-			"Casting Time 10 minutes",
-			"Components V, S, M (the heart of a creature that dwelled in the area and powdered onyx worth 4,000 gp)",
-			"Effect",
-			"Range touch",
-			"Area 5-mile radius emanating from the touched point",
-			"Duration 1 day (D)",
-			"Description",
-			"By touching the ground, you curse the land with seven unnatural hazards. This functions as lesser curse terrain, but with the effects of the grand perilous demesne curse (see page 144).",
-			"Perilous Demesne, Grand",
-			"Type regional curse; Area 18-mile-radius emanation; Save Will DC 22 to remove",
-			"Effect As per major perilous demesne (see page 145), except up to seven hazards, each of CR 14 or less, imperil creatures in the area. The hazards are arranged so that if any are encountered together, the encounter's effective CR from hazards must be no more than 15 (for instance, two CR 13 hazards could be encountered together).",
-			"Cure Remove curse removes a grand perilous demesne only if followed by a casting of hallow at the effect's center, and then casting disintegrate on each of the hazards before the next nightfall or midnight."
-		],
-		"save": "none",
-		"sr": "no"
-	},
 	"Frigid Souls": {
 		"spellname": "Frigid Souls",
 		"file": "spelldisplay29fa.html",
@@ -25345,46 +24423,6 @@
 		"save": "none",
 		"sr": "no"
 	},
-	"Armor of Darkness": {
-		"spellname": "Armor of Darkness",
-		"file": "spelldisplay2b2f.html",
-		"sources": [
-			"Pathfinder Campaign Setting"
-		],
-		"school": null,
-		"subschools": [],
-		"descriptors": [],
-		"levels": {},
-		"castTime": "1 standard action",
-		"components": {
-			"v": true,
-			"s": true,
-			"f": true,
-			"text": "V, S, DF"
-		},
-		"range": "touch",
-		"effect": {
-			"t": "creature touched"
-		},
-		"duration": "10 minutes/level",
-		"description": [
-			"Armor of Darkness",
-			"Source ~`Pathfinder Campaign Setting pg. 206`~",
-			"School ~`abjuration`~ [~`darkness`~]",
-			"Casting",
-			"Casting Time 1 standard action",
-			"Components V, S, DF",
-			"Effect",
-			"Range touch",
-			"Target creature touched",
-			"Duration 10 minutes/level",
-			"Saving Throw Will negates (harmless); Spell Resistance yes",
-			"Description",
-			"This spell envelops the target in shadows that can, if you desire, conceal the creature's features. It grants the recipient a +3 deflection bonus to Armor Class (+1 for every 4 caster levels, to a maximum bonus of +8). The subject can see through the armor and gains darkvision to 60 feet. The subject gains a +2 bonus on saving throws against any holy, good, or light spells or effects. Undead creatures under the effect gain +4 turn resistance."
-		],
-		"save": "Will negates (harmless)",
-		"sr": "yes"
-	},
 	"Eldritch Conduit, Greater": {
 		"spellname": "Eldritch Conduit, Greater",
 		"file": "spelldisplay2b4a.html",
@@ -25529,56 +24567,6 @@
 		],
 		"save": "Will half",
 		"sr": "yes"
-	},
-	"Improve Trap": {
-		"spellname": "Improve Trap",
-		"file": "spelldisplay2b8b.html",
-		"sources": [
-			"Advanced Race Guide"
-		],
-		"school": "transmutation",
-		"subschools": [],
-		"descriptors": [],
-		"levels": {
-			"antipaladin": 2,
-			"arcanist": 3,
-			"druid": 3,
-			"hunter": 2,
-			"inquisitor": 3,
-			"ranger": 2,
-			"redmantisassassin": 3,
-			"sorcerer": 3,
-			"witch": 3,
-			"wizard": 3
-		},
-		"castTime": "1 minute",
-		"components": {
-			"v": true,
-			"s": true,
-			"text": "V, S"
-		},
-		"range": "close (25 ft. + 5 ft./2 levels)",
-		"effect": {
-			"t": "one trap"
-		},
-		"duration": "instantaneous",
-		"description": [
-			"Improve Trap",
-			"Source ~`Advanced Race Guide pg. 137`~",
-			"School ~`transmutation`~; Level antipaladin 2, arcanist 3, druid 3, hunter 2, inquisitor 3, ranger 2, redmantisassassin 3, sorcerer 3, witch 3, wizard 3 (kobold)",
-			"Casting",
-			"Casting Time 1 minute",
-			"Components V, S",
-			"Effect",
-			"Range close (25 ft. + 5 ft./2 levels)",
-			"Target one trap",
-			"Duration instantaneous",
-			"Saving Throw Will negates (object); Spell Resistance yes (object)",
-			"Description",
-			"When this spell is cast upon a trap, it improves one specific element of the trap chosen at the time of casting. The caster can improve the trap in any of the following ways (each one raises the trap's CR by +1). |L|Increase DC of the Perception check required to locate the trap by +5.Increase DC of the Disable Device check required to disarm trap by +5.Increase the trap's attack bonus or saving throw by +2.|/L| To cast this on a trap, you must know that the trap exists and its precise location. A trap can only have one improvement from this spell at a time. A second casting changes the improvement on the trap, but does not add another improvement."
-		],
-		"save": "Will negates (object)",
-		"sr": " yes (object)"
 	},
 	"Technomancy": {
 		"spellname": "Technomancy",
@@ -27149,48 +26137,6 @@
 		],
 		"save": "none",
 		"sr": "yes (object)"
-	},
-	"Miracle": {
-		"spellname": "Miracle",
-		"file": "spelldisplay2e34.html",
-		"sources": [
-			"PRPG Core Rulebook"
-		],
-		"school": "evocation",
-		"subschools": [],
-		"descriptors": [],
-		"levels": {
-			"cleric": 9,
-			"oracle": 9
-		},
-		"castTime": "1 standard action",
-		"components": {
-			"v": true,
-			"s": true,
-			"text": "V, S; see text"
-		},
-		"range": "see text",
-		"effect": {},
-		"duration": "see text",
-		"description": [
-			"Miracle",
-			"Source ~`PRPG Core Rulebook pg. 314`~",
-			"School ~`evocation`~; Level cleric 9, oracle 9",
-			"Casting",
-			"Casting Time 1 standard action",
-			"Components V, S; see text",
-			"Effect",
-			"Range see text",
-			"Target, Effect, or Area see text",
-			"Duration see text",
-			"Saving Throw see text; Spell Resistance yes",
-			"Description",
-			"You don't so much cast a miracle as request one. You state what you would like to have happen and request that your deity (or the power you pray to for spells) intercede.",
-			"A miracle can do any of the following things.|L|Duplicate any cleric spell of 8th level or lower.Duplicate any other spell of 7th level or lower.Undo the harmful effects of certain spells, such as feeblemind or insanity.Have any effect whose power level is in line with the above effects.|/L|Alternatively, a cleric can make a very powerful request. Casting such a miracle costs the cleric 25,000 gp in powdered diamond because of the powerful divine energies involved. Examples of especially powerful miracles of this sort could include the following:|L|Swinging the tide of a battle in your favor by raising fallen allies to continue fighting.Moving you and your allies, with all your and their gear, from one plane to a specific locale through planar barriers with no chance of error.Protecting a city from an earthquake, volcanic eruption, flood, or other major natural disaster.|/L|In any event, a request that is out of line with the deity's (or alignment's) nature is refused.",
-			"A duplicated spell allows saving throws and spell resistance as normal, but the save DCs are as for a 9th-level spell. When a miracle spell duplicates a spell with a material component that costs more than 100 gp, you must provide that component."
-		],
-		"save": "see text",
-		"sr": "yes"
 	},
 	"Incessant Buzzing": {
 		"spellname": "Incessant Buzzing",
@@ -29437,173 +28383,6 @@
 			"You channel the power of righteousness into your weapon arm, allowing you to strike with great force. Your next melee attack (if made before the end of your next turn) gains a +5 sacred bonus on the attack roll. If the attack hits, you may immediately attempt a bull rush combat maneuver (with a +5 sacred bonus on your combat maneuver check) against the target without provoking an attack of opportunity; if your combat maneuver check exceeds the defender's CMD by more than 5, you do not need to move with the target to push it back more than 5 feet."
 		]
 	},
-	"Harrowing": {
-		"spellname": "Harrowing",
-		"file": "spelldisplay31c1.html",
-		"sources": [
-			"Inner Sea World Guide",
-			"Mythic Origins"
-		],
-		"school": "divination",
-		"subschools": [],
-		"descriptors": [],
-		"levels": {
-			"arcanist": 3,
-			"bard": 3,
-			"shaman": 3,
-			"skald": 3,
-			"sorcerer": 3,
-			"witch": 3,
-			"wizard": 3
-		},
-		"castTime": "10 minutes",
-		"components": {
-			"v": true,
-			"s": true,
-			"df": true,
-			"text": "V, S, F (a Harrow deck)"
-		},
-		"range": "touch",
-		"effect": {
-			"t": "one creature"
-		},
-		"duration": "1 day/level or until fulfilled",
-		"description": [
-			"Harrowing",
-			"Source ~`Inner Sea World Guide pg. 295`~",
-			"School ~`divination`~; Level arcanist 3, bard 3, shaman 3, skald 3, sorcerer 3, witch 3, wizard 3",
-			"Casting",
-			"Casting Time 10 minutes",
-			"Components V, S, F (a Harrow deck)",
-			"Effect",
-			"Range touch",
-			"Target one creature",
-			"Duration 1 day/level or until fulfilled",
-			"Description",
-			"You use a Harrow deck to tell a fortune for yourself or someone else. If you cast harrowing on another creature, you must remain adjacent to the target for the duration of the casting time. A harrowing must describe one set of events or course of action (for example, \"hunting down the pirate king,\" or \"traveling to Viperwall to search for a magic sword\") that the target of the spell intends to undertake at some point during the spell's duration.",
-			"If you have access to a Harrow deck, draw nine cards when this spell is cast. If you do not have a Harrow deck, you can simulate the draws by rolling a d6 and a d10 for each of the nine cards, as detailed on page 293 of this book. Record the ability score and alignment associated with each card. Each of these cards grants a luck bonus or a penalty on a specific type of d20 check; the magnitude of the penalty or bonus depends upon how closely that particular card's alignment matches the target creature's alignment. If the card and target's alignments are identical, that card provides a +2 luck bonus on the associated suit's check. If the card and target's alignments are of the opposite alignment (see below), the card inflicts a -1 penalty on that associated check. If the card has any other alignment, it provides a +1 luck bonus on the associated suit's check.",
-			"While penalties persist on all associated checks for as long as the harrowing persists, the bonuses are one-use bonuses that the harrowed character can \"spend\" at any time to modify that card's associated check. You can spend a bonus to modify an appropriate roll after the die is rolled, but cannot spend the bonus once you know the result of the roll. Since all of the bonuses granted by a harrowing are luck bonuses, they do not stack with each other. Penalties, on the other hand, do stack. Once you spend all of the bonuses granted by a harrowing, or once the spell's duration ends, the spell ends and the penalties are removed.",
-			"A single creature can only be under the effects of one harrowing at a time. If it is subjected to a second harrowing while a previous harrowing is still in effect, the new harrowing automatically fails.",
-			{
-				"table": true,
-				"rows": [
-					[
-						{
-							"cols": 2,
-							"header": true,
-							"text": "Associated Suit Checks"
-						}
-					],
-					[
-						"Suit",
-						"Associated Check"
-					],
-					[
-						"Hammer (Str)",
-						"Attack rolls (ranged and melee)"
-					],
-					[
-						"Key (Dex)",
-						"Reflex saving throws"
-					],
-					[
-						"Shield (Con)",
-						"Fortitude saving throws"
-					],
-					[
-						"Book (Int)",
-						"Skill checks"
-					],
-					[
-						"Star (Wis)",
-						"Will saving throws"
-					],
-					[
-						"Crown (Cha)",
-						"Any d20 roll"
-					]
-				]
-			},
-			{
-				"table": true,
-				"rows": [
-					[
-						{
-							"cols": 2,
-							"header": true,
-							"text": "Opposition Alignments"
-						}
-					],
-					[
-						"Alignment",
-						"Opposition"
-					],
-					[
-						"LG",
-						"CE"
-					],
-					[
-						"NG",
-						"NE"
-					],
-					[
-						"CG",
-						"LE"
-					],
-					[
-						"LN",
-						"CN"
-					],
-					[
-						"N",
-						"LG, LE, CG, or CE (pick one when spell is cast)"
-					],
-					[
-						"CN",
-						"LN"
-					],
-					[
-						"LE",
-						"CG"
-					],
-					[
-						"NE",
-						"NG"
-					],
-					[
-						"CE",
-						"LG"
-					]
-				]
-			},
-			"Mythic Harrowing",
-			"Source ~`Mythic Origins pg. 12`~",
-			"The bonuses and penalties associated with your reading are doubled, resulting in a +4 luck bonus if the card's and target's alignment are identical, a -2 penalty if the alignments are opposite, and a +2 luck bonus for any other alignment. You can use each bonus twice-once at this doubled value, the second time at the normal value (+2 or +1). You must use a given card's doubled bonus before you can use its lower bonus. Once you have used both bonuses, or when the spell's duration ends, the spell ends and any penalties are removed.",
-			"A mythic harrowing cast on the target of a non-mythic harrowing supersedes and negates the harrowing effect. If a creature is subjected to a second mythic harrowing while a previous mythic harrowing is still in effect, the new mythic harrowing automatically fails.",
-			"Augmented (6th): If you expend two uses of mythic power during the reading, you may discard one card of your choice and draw one new card in its place, replacing the effects of the chosen card with the effects of the newly drawn card. You must keep this new card. You can use each bonus twice, both at the doubled values. Once you have used both bonuses, or when the spell's duration ends, the spell ends and any penalties are removed.",
-			"Harrowing, Greater",
-			"Source ~`The Harrow Handbook pg. 9`~",
-			"School ~`divination`~; Level arcanist 6, bard 5, skald 5, sorcerer 6, witch 6, wizard 6",
-			"Casting",
-			"Casting Time 10 minutes",
-			"Components V, S, F (a harrow deck)",
-			"Effect",
-			"Range touch",
-			"Target one creature, plus one additional creature for every 3 caster levels",
-			"Duration 1 day/level or until fulfilled",
-			"Description",
-			"This spell functions as harrowing, except it can affect an entire group of creatures and allows its subjects some measure of control over their destiny. Subjects of a greater harrowing spell record and spend their accumulated bonuses and penalties individually, according to their own alignment.",
-			"Each participant in a greater harrowing can gain a special ability to seize control of fate if a card that matches that participant's alignment is drawn. Like the bonuses and penalties granted by the spell, the special ability can be used once before the end of the spell's duration. The exact ability gained depends on the card's suit; if multiple cards that match a participant's alignment are drawn, the participant can select one suit of her choice during the spell's casting.",
-			"Hammers: As a standard action, you can grant yourself a +4 enhancement bonus to Strength for 1 minute. While this bonus persists, you can reroll any bull rush, grapple, or sunder combat maneuver checks. You must use the result of this second roll, even if it is worse.",
-			"Keys: As a standard action, you can grant yourself a +4 enhancement bonus to Dexterity for 1 minute. While this bonus persists, you gain evasion, as the rogue class feature. If you already possess evasion, you instead gain improved evasion, as the advanced rogue talent.",
-			"Shields: As a standard action, you can grant yourself a +4 enhancement bonus to Constitution for 1 minute. While this bonus persists, you gain fast healing 1 and don't die until you reach a number of negative hit points equal to double your Constitution.",
-			"Books: As a standard action, you can grant yourself a +4 enhancement bonus to Intelligence for 1 minute. While this bonus persists, you gain a +3 enhancement bonus on checks with all skills you have no ranks in, and you can use those skills even if they can't normally be used untrained.",
-			"Stars: As a standard action, you can grant yourself a +4 enhancement bonus to Wisdom for 1 minute. While this bonus persists, you gain immunity to one of the following (your choice): charm and compulsion effects, curse effects, or fear effects.",
-			"Crowns: As a standard action, you can grant yourself a +4 enhancement bonus to Charisma for 1 minute. While this bonus persists, whenever you succeed at a Diplomacy or Intimidate check to improve a nonhostile creature's attitude toward you, that creature's attitude toward you becomes helpful for the remaining duration of the Charisma bonus, regardless of the number of steps by which you would normally improve its attitude. The creature reverts to its original attitude after the duration expires.",
-			"A single creature can be under the effects of only one harrowing or greater harrowing at a time. If the subject is targeted with a second harrowing or greater harrowing spell while a previous harrowing or greater harrowing is still affecting him, the new spell automatically fails for that subject."
-		],
-		"hasMythic": true
-	},
 	"Rotgut": {
 		"spellname": "Rotgut",
 		"file": "spelldisplay31d8.html",
@@ -30984,31 +29763,6 @@
 		],
 		"save": "Fortitude negates",
 		"sr": "yes"
-	},
-	"Fey Blight": {
-		"spellname": "Fey Blight",
-		"file": "spelldisplay338f.html",
-		"sources": [
-			"Pathfinder #119: Prisoners of the Blight"
-		],
-		"school": null,
-		"subschools": [],
-		"descriptors": [],
-		"levels": {},
-		"castTime": "1 standard action",
-		"components": {
-			"v": true,
-			"text": "V"
-		},
-		"range": "touch",
-		"effect": {
-			"t": "one living non-fey creature"
-		},
-		"duration": "see below (D)",
-		"description": null,
-		"copyof": "Fey Boon",
-		"save": "Will negates (harmless)",
-		"sr": " yes (harmless)"
 	},
 	"Caustic Blood": {
 		"spellname": "Caustic Blood",
@@ -32723,221 +31477,47 @@
 		"save": "Fortitude partial; see text",
 		"sr": "yes"
 	},
-	"Sleepwalking Suggestion": {
-		"spellname": "Sleepwalking Suggestion",
-		"file": "spelldisplay4f5e.html",
+	"Spawn Ward": {
+		"spellname": "Spawn Ward",
+		"file": "spelldisplay3617.html",
 		"sources": [
-			"Horror Adventures"
+			"Advanced Race Guide"
 		],
-		"school": "enchantment (compulsion) [mind-affecting]",
+		"school": "necromancy",
 		"subschools": [],
 		"descriptors": [],
 		"levels": {
-			"arcanist": 5,
-			"bard": 4,
-			"medium": 3,
-			"mesmerist": 4,
-			"psychic": 5,
-			"sorcerer": 5,
-			"witch": 5,
-			"wizard": 5
+			"cleric": 5,
+			"inquisitor": 5,
+			"oracle": 5,
+			"warpriest": 5
 		},
 		"castTime": "1 standard action",
 		"components": {
 			"v": true,
 			"s": true,
-			"m": true,
-			"text": "V, S, M (two doses of oil of taggit worth 180 gp total)"
-		},
-		"range": "close (25 ft. + 5 ft./2 levels)",
-		"effect": {
-			"t": "one creature"
-		},
-		"duration": "24 hours",
-		"description": [
-			"Sleepwalking Suggestion",
-			"Source ~`Horror Adventures pg. 127`~",
-			"School ~`enchantment`~ (~`compulsion`~) [~`mind-affecting`~]; Level arcanist 5, bard 4, medium 3, mesmerist 4, psychic 5, sorcerer 5, witch 5, wizard 5",
-			"Casting",
-			"Casting Time 1 standard action",
-			"Components V, S, M (two doses of oil of taggit worth 180 gp total)",
-			"Effect",
-			"Range close (25 ft. + 5 ft./2 levels)",
-			"Target one creature",
-			"Duration 24 hours",
-			"Saving Throw Will negates or none (see text); Spell Resistance yes",
-			"Description",
-			"You compel the target creature to rise from its sleep as if sleepwalking and perform a course of activity (limited to a sentence or two). The spell takes effect immediately if the target is already asleep, or as soon as the target falls asleep if it is conscious. You can specify that the creature should wait before taking action when you give your instructions if you so choose. A sleeping creature doesn't get a save against this spell. The suggested activity must not cause the target to directly harm itself or others, but it doesn't need to be reasonable. For example, you could instruct the target to unlock doors and windows or poison its ally's rations, but not jump off a roof or perform a coup de grace action against a sleeping ally. Instructions that cause direct harm prompt the target to awaken just prior to performing the action and the target experiences a vague memory of what it was supposed to do.",
-			"The target moves at its speed, but isn't capable of running or moving at a higher rate of speed. It moves in dark conditions as if it had darkvision and can perform most simple and skillbased actions, but it can't engage in combat, spellcasting, or actions that require significant cognitive awareness (like making complex decisions, solving puzzles, or using complicated magic items). If the creature takes any damage while sleepwalking, it must attempt a new saving throw. If it succeeds, the spell ends and the creature awakens. When the target completes the suggested course of activity, or when the spell ends or is dismissed, the target remains unconscious and returns to where it was sleeping and must be awoken normally. It retains no memory of what it did while unconscious (with the only exception described above).",
-			"Unlike the sleepwalk spell, attempts to use sleepwalking suggestion on a creature that is unconscious for any reason other than sleep automatically fail. A creature affected by sleepwalking suggestion is unaware it has been programmed to act in its sleep (unless awoken because it was about to cause harm)."
-		],
-		"save": "Will negates or none (see text)",
-		"sr": "yes"
-	},
-	"Fear": {
-		"spellname": "Fear",
-		"file": "spelldisplay4fa2.html",
-		"sources": [
-			"PRPG Core Rulebook"
-		],
-		"school": "necromancy [emotion, fear, mind-affecting]",
-		"subschools": [],
-		"descriptors": [],
-		"levels": {
-			"antipaladin": 4,
-			"arcanist": 4,
-			"bard": 3,
-			"bloodrager": 4,
-			"inquisitor": 4,
-			"medium": 4,
-			"mesmerist": 3,
-			"occultist": 4,
-			"psychic": 4,
-			"shaman": 4,
-			"skald": 3,
-			"sorcerer": 4,
-			"spiritualist": 4,
-			"witch": 4,
-			"wizard": 4
-		},
-		"castTime": "1 standard action",
-		"components": {
-			"v": true,
-			"s": true,
-			"m": true,
-			"text": "V, S, M (the heart of a hen or a white feather)"
-		},
-		"range": "30 ft.",
-		"effect": {
-			"a": "cone-shaped burst"
-		},
-		"duration": "1 round/level or 1 round; see text",
-		"description": [
-			"Fear",
-			"Source ~`PRPG Core Rulebook pg. 281`~",
-			"School ~`necromancy`~ [~`emotion`~, ~`fear`~, ~`mind-affecting`~]; Level antipaladin 4, arcanist 4, bard 3, bloodrager 4, inquisitor 4, medium 4, mesmerist 3, occultist 4, psychic 4, shaman 4, skald 3, sorcerer 4, spiritualist 4, witch 4, wizard 4",
-			"Casting",
-			"Casting Time 1 standard action",
-			"Components V, S, M (the heart of a hen or a white feather)",
-			"Effect",
-			"Range 30 ft.",
-			"Area cone-shaped burst",
-			"Duration 1 round/level or 1 round; see text",
-			"Saving Throw Will partial; Spell Resistance yes",
-			"Description",
-			"An invisible cone of terror causes each living creature in the area to become panicked unless it succeeds on a Will save. If cornered, a panicked creature begins cowering. If the Will save succeeds, the creature is shaken for 1 round."
-		],
-		"save": "Will partial",
-		"sr": "yes"
-	},
-	"Calistria's Guardian Wasps": {
-		"spellname": "Calistria's Guardian Wasps",
-		"file": "spelldisplay4fa8.html",
-		"sources": [
-			"Inner Sea Intrigue"
-		],
-		"school": "conjuration",
-		"subschools": [
-			"summoning"
-		],
-		"descriptors": [],
-		"levels": {
-			"arcanist": 3,
-			"druid": 3,
-			"hunter": 3,
-			"psychic": 3,
-			"ranger": 3,
-			"sorcerer": 3,
-			"wizard": 3
-		},
-		"castTime": "10 minutes; see text",
-		"components": {
-			"v": true,
-			"s": true,
-			"m": true,
-			"text": "V, S, M (a glob of spiced honey)"
-		},
-		"range": "close (25 ft. + 5 ft./2 levels)",
-		"effect": {
-			"e": "Swarm of wasps that builds a nest; see text"
-		},
-		"duration": "1 day/level",
-		"description": [
-			"Calistria's Guardian Wasps",
-			"Source ~`Inner Sea Intrigue pg. 58`~",
-			"School ~`conjuration`~ (~`summoning`~); Level arcanist 3, druid 3, hunter 3, psychic 3, ranger 3, sorcerer 3, wizard 3",
-			"Casting",
-			"Casting Time 10 minutes; see text",
-			"Components V, S, M (a glob of spiced honey)",
-			"Effect",
-			"Range close (25 ft. + 5 ft./2 levels)",
-			"Effect Swarm of wasps that builds a nest; see text",
-			"Duration 1 day/level",
-			"Saving Throw none; Spell Resistance no",
-			"Description",
-			"You summon a wasp swarm (Pathfinder RPG Bestiary 275) that builds a 10-foot-by-10-foot nest in the place you designate-typically under the eaves of a house, amid the rafters of a tavern, or in another obscured place. The wasp swarm takes the spell's casting time to build its nest; if the swarm is disrupted in any way (such as by being attacked) before you finish casting this spell, the wasps disappear and the spell fizzles.",
-			"Once the wasp swarm has built its nest, this spell also wards the area. As per alarm, when intruders that do not speak the password pass within 20 feet, the swarm is alerted and immediately leaves its nest and attacks the nearest intruder. The swarm pursues that intruder as best it can. Once the swarm attacks an intruder, you have no control over its target or direction of travel. When the spell ends, if the wasps have not left their nest, they and their nest disappear."
-		],
-		"save": "none",
-		"sr": "no"
-	},
-	"Baphomet's Blessing": {
-		"spellname": "Baphomet's Blessing",
-		"file": "spelldisplay4ffc.html",
-		"sources": [
-			"Inner Sea Gods"
-		],
-		"school": "transmutation",
-		"subschools": [
-			"polymorph"
-		],
-		"descriptors": [],
-		"levels": {
-			"arcanist": 4,
-			"bloodrager": 4,
-			"cleric": 4,
-			"druid": 4,
-			"hunter": 4,
-			"oracle": 4,
-			"redmantisassassin": 4,
-			"sorcerer": 4,
-			"summoner": 4,
-			"summoner_uc": 4,
-			"warpriest": 4,
-			"witch": 4,
-			"wizard": 4
-		},
-		"castTime": "1 standard action",
-		"components": {
-			"v": true,
-			"m": true,
-			"f": true,
-			"text": "V, M/DF (powdered bull's horn)"
+			"text": "V, S"
 		},
 		"range": "touch",
 		"effect": {
-			"t": "one living creature"
+			"t": "creature touched"
 		},
-		"duration": "1 round/level",
+		"duration": "10 minutes/level",
 		"description": [
-			"Baphomet's Blessing",
-			"Source ~`Inner Sea Gods pg. 229`~",
-			"School ~`transmutation`~ (~`polymorph`~); Level arcanist 4, bloodrager 4, cleric 4, druid 4, hunter 4, oracle 4, redmantisassassin 4, sorcerer 4, summoner 4, summoner (unchained) 4, warpriest 4, witch 4, wizard 4",
+			"Spawn Ward",
+			"Source ~`Advanced Race Guide pg. 101`~",
+			"School ~`necromancy`~; Level cleric 5, inquisitor 5, oracle 5, warpriest 5 (dhampir)",
 			"Casting",
 			"Casting Time 1 standard action",
-			"Components V, M/DF (powdered bull's horn)",
+			"Components V, S",
 			"Effect",
 			"Range touch",
-			"Target one living creature",
-			"Duration 1 round/level",
-			"Saving Throw Fortitude negates; Spell Resistance yes",
+			"Target creature touched",
+			"Duration 10 minutes/level",
 			"Description",
-			"You change the target's head into that of a bull. The creature's Intelligence becomes 2, and it gains a gore melee attack that it can use as a primary or secondary attack. The gore attack uses the creature's base attack bonus, and the creature gains a +2 bonus on attack and damage rolls with the gore attack. The gore attack deals a number of points of damage equal to 1d6 + Strength modifier if the target is Small, 1d8 + Strength modifier if the target is Medium, and 2d6 + Strength modifier if the target is Large or larger.",
-			"The affected creature still retains its type, class, levels, and Hit Dice. The creature's base attack bonus, base save bonuses, and hit points remain unmodified. It retains all of its class features and may still cast spells, though it must do so using its newly modified Intelligence score. Any items equipped in the creature's head slot meld into its body. Affected items that grant passive bonuses continue to do so, though items that require activation become nonfunctional for the duration of the spell.",
-			"If the target fails to resist Baphomet's blessing, it also becomes immune to polymorph spells (except for this one) for the duration of the spell's effect. Undead, incorporeal, or gaseous creatures are immune to Baphomet's blessing."
-		],
-		"save": "Fortitude negates",
-		"sr": " yes"
+			"The target becomes resistant to the effects of energy drain and blood drain attacks made by undead creatures, and cannot be made into undead spawn if killed while the spell is in effect.",
+			"If the attacking undead's Hit Dice is less than or equal to your caster level, the blood drain or energy drain has no effect. If the attacking undead's Hit Dice are greater than your caster level, the undead must make a Fortitude save (against the DC of the spell) with each attack for those special abilities to have any effect. The spell only prevents the Constitution damage from blood drain and negative levels from energy drain, but not any other effects of these attacks."
+		]
 	},
 	"generic": [
 		"spelldisplay0066.html",
@@ -33171,10 +31751,6 @@
 		"spelldisplay34d2.html",
 		"spelldisplay3515.html",
 		"spelldisplay35bb.html",
-		"spelldisplay35d6.html",
-		"spelldisplay4f98.html",
-		"spelldisplay4fa4.html",
-		"spelldisplay4fc5.html",
-		"spelldisplay4fe7.html"
+		"spelldisplay35d6.html"
 	]
 }
