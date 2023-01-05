@@ -2646,8 +2646,7 @@
 		"filename": "magicwondrousdisplayaea1.html",
 		"cost": 46000,
 		"type": "wondrous",
-		"slot": "feet",
-		"copyof": "Burglar Boots (Minor)"
+		"slot": "feet"
 	},
 	"Boots of Teleportation": {
 		"itemname": "Boots of Teleportation",
@@ -2671,8 +2670,8 @@
 		"slot": "feet",
 		"copyof": "Horseshoes of Crushing Blows (+1)"
 	},
-	"Unctous Waders": {
-		"itemname": "Unctous Waders",
+	"Unctuous Waders": {
+		"itemname": "Unctuous Waders",
 		"filename": "magicwondrousdisplaybb26.html",
 		"cost": 67200,
 		"type": "wondrous",
@@ -3251,8 +3250,7 @@
 		"filename": "magicwondrousdisplaybb80.html",
 		"cost": 15400,
 		"type": "wondrous",
-		"slot": "hands",
-		"copyof": "Whispering Gloves (LotFW)"
+		"slot": "hands"
 	},
 	"Gloves of Improvised Might (+2)": {
 		"itemname": "Gloves of Improvised Might (+2)",
@@ -4305,8 +4303,7 @@
 		"filename": "magicwondrousdisplay065b.html",
 		"cost": 23760,
 		"type": "wondrous",
-		"slot": "head",
-		"copyof": "Crown of Blasting (Minor)"
+		"slot": "head"
 	},
 	"Crystal Helm": {
 		"itemname": "Crystal Helm",
@@ -4624,8 +4621,7 @@
 		"filename": "magicwondrousdisplaycefd.html",
 		"cost": 90000,
 		"type": "wondrous",
-		"slot": "head",
-		"copyof": "Mask of Giants (Lesser)"
+		"slot": "head"
 	},
 	"Helm of the Serpent King": {
 		"itemname": "Helm of the Serpent King",
@@ -5604,7 +5600,7 @@
 	},
 	"Spidersilk Medallion": {
 		"itemname": "Spidersilk Medallion",
-		"filename": "magicwondrous3792.html",
+		"filename": "magicwondrousdisplay3792.html",
 		"cost": 3240,
 		"type": "wondrous",
 		"slot": "neck"
@@ -6371,7 +6367,7 @@
 	},
 	"Eye of the Overwatched": {
 		"itemname": "Eye of the Overwatched",
-		"filename": "magicwondrous894e.html",
+		"filename": "magicwondrousdisplay894e.html",
 		"cost": 10000,
 		"type": "wondrous",
 		"slot": "neck"
@@ -7624,7 +7620,7 @@
 	},
 	"Jumping Cinder": {
 		"itemname": "Jumping Cinder",
-		"filename": "magicwondrousbfba.html",
+		"filename": "magicwondrousdisplaybfba.html",
 		"cost": 300,
 		"type": "wondrous",
 		"slot": "none/other"
@@ -9187,7 +9183,7 @@
 	},
 	"Devastating Dog Whistle": {
 		"itemname": "Devastating Dog Whistle",
-		"filename": "magicwondrous32e8.html",
+		"filename": "magicwondrousdisplay32e8.html",
 		"cost": 1500,
 		"type": "wondrous",
 		"slot": "none/other"
@@ -9740,7 +9736,7 @@
 	},
 	"Scavenger's Stone": {
 		"itemname": "Scavenger's Stone",
-		"filename": "magicwondrous77e3.html",
+		"filename": "magicwondrousdisplay77e3-2.html",
 		"cost": 2000,
 		"type": "wondrous",
 		"slot": "none/other"
@@ -10344,7 +10340,7 @@
 	},
 	"Explosion Pocket": {
 		"itemname": "Explosion Pocket",
-		"filename": "magicwondrousd000.html",
+		"filename": "magicwondrousdisplayaafe.html",
 		"cost": 3000,
 		"type": "wondrous",
 		"slot": "none/other"
@@ -11598,7 +11594,7 @@
 	},
 	"Portable Pit (Spiked pit)": {
 		"itemname": "Portable Pit (Spiked pit)",
-		"filename": "magicwondrousb71f.html",
+		"filename": "magicwondrousdisplayb71f-2.html",
 		"cost": 5410,
 		"type": "wondrous",
 		"slot": "none/other",
@@ -13153,7 +13149,7 @@
 	},
 	"Portable Pit (Acid pit)": {
 		"itemname": "Portable Pit (Acid pit)",
-		"filename": "magicwondrousc45c.html",
+		"filename": "magicwondrousdisplayc45c.html",
 		"cost": 10090,
 		"type": "wondrous",
 		"slot": "none/other",
@@ -13433,8 +13429,7 @@
 		"filename": "magicwondrousdisplay0759.html",
 		"cost": 12500,
 		"type": "wondrous",
-		"slot": "none/other",
-		"copyof": "Bag of Holding (Type I)"
+		"slot": "none/other"
 	},
 	"Waters of Transfiguration": {
 		"itemname": "Waters of Transfiguration",
@@ -13567,7 +13562,7 @@
 	},
 	"Portable Pit (Persistent pit)": {
 		"itemname": "Portable Pit (Persistent pit)",
-		"filename": "magicwondrous3c3e.html",
+		"filename": "magicwondrousdisplay3c3e.html",
 		"cost": 14410,
 		"type": "wondrous",
 		"slot": "none/other",
@@ -13749,7 +13744,7 @@
 		"cost": 15000,
 		"type": "wondrous",
 		"slot": "none/other",
-		"copyof": "Bag of Holding (Type I)"
+		"copyof": "Bag of Holding (Giant) (Type V)"
 	},
 	"Wayfinder of Zephyrs": {
 		"itemname": "Wayfinder of Zephyrs",
@@ -13972,7 +13967,7 @@
 	},
 	"Portable Pit (Hungry pit)": {
 		"itemname": "Portable Pit (Hungry pit)",
-		"filename": "magicwondrous3f7b.html",
+		"filename": "magicwondrousdisplay3f7b.html",
 		"cost": 16210,
 		"type": "wondrous",
 		"slot": "none/other",
@@ -14973,7 +14968,7 @@
 	},
 	"Meldrel's Underwater Orb": {
 		"itemname": "Meldrel's Underwater Orb",
-		"filename": "magicwondrous3137.html",
+		"filename": "magicwondrousdisplay3137-2.html",
 		"cost": 32000,
 		"type": "wondrous",
 		"slot": "none/other"
@@ -15509,7 +15504,7 @@
 	},
 	"Wing of the Shorn Harpy": {
 		"itemname": "Wing of the Shorn Harpy",
-		"filename": "magicwondrous0a56.html",
+		"filename": "magicwondrousdisplay0a56.html",
 		"cost": 48000,
 		"type": "wondrous",
 		"slot": "none/other"
@@ -15954,8 +15949,8 @@
 		"type": "wondrous",
 		"slot": "none/other"
 	},
-	"The Pendulate Divan of Emperor Fortigr??": {
-		"itemname": "The Pendulate Divan of Emperor Fortigr??",
+	"The Pendulate Divan of Emperor Fortigré": {
+		"itemname": "The Pendulate Divan of Emperor Fortigré",
 		"filename": "magicwondrousdisplay2976.html",
 		"cost": 66000,
 		"type": "wondrous",
@@ -17485,8 +17480,7 @@
 		"filename": "magicwondrousdisplay0d3c.html",
 		"cost": 20000,
 		"type": "wondrous",
-		"slot": "shoulders",
-		"copyof": "Stone Cloak (Minor)"
+		"slot": "shoulders"
 	},
 	"Reaper's Wisdom": {
 		"itemname": "Reaper's Wisdom",
@@ -17707,8 +17701,7 @@
 		"filename": "magicwondrousdisplay407f.html",
 		"cost": 50000,
 		"type": "wondrous",
-		"slot": "shoulders",
-		"copyof": "Cloak of Displacement (Minor)"
+		"slot": "shoulders"
 	},
 	"Wings of Flying": {
 		"itemname": "Wings of Flying",
@@ -18252,8 +18245,7 @@
 		"filename": "magicwondrousdisplay13d2.html",
 		"cost": 25000,
 		"type": "wondrous",
-		"slot": "wrists",
-		"copyof": "Bracers of Archery (Lesser)"
+		"slot": "wrists"
 	},
 	"Bracers of Sworn Vengeance": {
 		"itemname": "Bracers of Sworn Vengeance",
