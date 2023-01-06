@@ -1974,7 +1974,81 @@
 			"Slot body; Price 7,000 gp; Weight 1 lb."
 		],
 		"description": [
-			"A character who dons this battered robe notes that its patches rearrange into the shapes of various helpful but mundane items. Only the wearer of the robe can see the true shapes of these patches, recognize them for what items they become, and detach them. One patch can be detached each round. Detaching a patch causes it to become an actual item, as indicated below. A newly created robe of useful items always has two each of the following patches: <ul><li>Dagger </li><li>Bullseye lantern (full and lit) </li><li>Mirror (a highly polished 2-foot-by-4-foot steel mirror) </li><li>Pole (10-foot length) </li><li>Hempen rope (50-foot coil) </li><li>Sack</li></ul> In addition, the robe has several other patches. Roll 4d4 for the number of other patches and then roll for each patch on the table below to determine its nature. <table class=\"inner\"><tr><td>d%</td><td>Result</td></tr> <tr><td>01-08</td><td>Bag of 100 gold pieces</td></tr> <tr><td>09-15</td><td>Coffer, silver (6 in. by 6 in. by 1 ft.), 500 gp value</td></tr> <tr><td>16-22</td><td>Door, iron (up to 10 ft. wide and 10 ft. high and barred on one side-must be placed upright, attaches and hinges itself)</td></tr> <tr><td>23-30</td><td>Gems, 10 (100 gp value each)</td></tr> <tr><td>31-44</td><td>Ladder, wooden (24 ft. long)</td></tr> <tr><td>45-51</td><td>Mule (with saddlebags)</td></tr> <tr><td>52-59</td><td>Pit, open (10 ft. by 10 ft. by 10 ft.)</td></tr> <tr><td>60-68</td><td>Potion of cure serious wounds</td></tr> <tr><td>69-75</td><td>Rowboat (12 ft. long)</td></tr> <tr><td>76-83</td><td>Minor scroll of one randomly determined spell</td></tr> <tr><td>84-90</td><td>War dogs, pair (treat as riding dogs)</td></tr> <tr><td>91-96</td><td>Window (2 ft. by 4 ft., up to 2 ft. deep)</td></tr> <tr><td>97-100</td><td>Portable ram</td></tr></table>Multiple items of the same kind are permissible. Once removed, a patch cannot be replaced."
+			"A character who dons this battered robe notes that its patches rearrange into the shapes of various helpful but mundane items. Only the wearer of the robe can see the true shapes of these patches, recognize them for what items they become, and detach them. One patch can be detached each round. Detaching a patch causes it to become an actual item, as indicated below. A newly created robe of useful items always has two each of the following patches:",
+			{
+				"list": true,
+				"items": [
+					"Dagger",
+					"Bullseye lantern (full and lit)",
+					"Mirror (a highly polished 2-foot-by-4-foot steel mirror)",
+					"Pole (10-foot length)",
+					"Hempen rope (50-foot coil)",
+					"Sack"
+				]
+			},
+			"In addition, the robe has several other patches. Roll 4d4 for the number of other patches and then roll for each patch on the table below to determine its nature.",
+			{
+				"table": true,
+				"rows": [
+					[
+						"d%",
+						"Result"
+					],
+					[
+						"01-08",
+						"Bag of 100 gold pieces"
+					],
+					[
+						"09-15",
+						"Coffer, silver (6 in. by 6 in. by 1 ft.), 500 gp value"
+					],
+					[
+						"16-22",
+						"Door, iron (up to 10 ft. wide and 10 ft. high and barred on one side-must be placed upright, attaches and hinges itself)"
+					],
+					[
+						"23-30",
+						"Gems, 10 (100 gp value each)"
+					],
+					[
+						"31-44",
+						"Ladder, wooden (24 ft. long)"
+					],
+					[
+						"45-51",
+						"Mule (with saddlebags)"
+					],
+					[
+						"52-59",
+						"Pit, open (10 ft. by 10 ft. by 10 ft.)"
+					],
+					[
+						"60-68",
+						"Potion of cure serious wounds"
+					],
+					[
+						"69-75",
+						"Rowboat (12 ft. long)"
+					],
+					[
+						"76-83",
+						"Minor scroll of one randomly determined spell"
+					],
+					[
+						"84-90",
+						"War dogs, pair (treat as riding dogs)"
+					],
+					[
+						"91-96",
+						"Window (2 ft. by 4 ft., up to 2 ft. deep)"
+					],
+					[
+						"97-100",
+						"Portable ram"
+					]
+				]
+			},
+			"Multiple items of the same kind are permissible. Once removed, a patch cannot be replaced."
 		],
 		"construction": "Requirements Craft Wondrous Item, fabricate; Cost 3,500 gp"
 	},
@@ -2704,7 +2778,16 @@
 			"Slot body; Price 75,000 gp; Weight 1 lb."
 		],
 		"description": [
-			"These magnificent vestments disguise the presence of armor as normal clothing (as the glamered armor property). When worn by a bard, the robe grants the wearer the following powers: <ul><li>Spell resistance 18 </li><li>+4 resistance bonus on all saving throws </li><li>+2 enhancement bonus on caster level checks made to overcome spell resistance </li></ul>Bards and those who fancy themselves actors or performers commission versions of these robes using only the finest fabric."
+			"These magnificent vestments disguise the presence of armor as normal clothing (as the glamered armor property). When worn by a bard, the robe grants the wearer the following powers:",
+			{
+				"list": true,
+				"items": [
+					"Spell resistance 18",
+					"+4 resistance bonus on all saving throws",
+					"+2 enhancement bonus on caster level checks made to overcome spell resistance"
+				]
+			},
+			"Bards and those who fancy themselves actors or performers commission versions of these robes using only the finest fabric."
 		],
 		"construction": "Requirements Craft Wondrous Item, antimagic field, break enchantment, greater heroism, veil; Cost 37,500 gp"
 	},
@@ -2725,7 +2808,17 @@
 			"Slot body; Price 75,000 gp; Weight 1 lb."
 		],
 		"description": [
-			"This normal-appearing garment is attuned to one of three types of alignment. It can be white (01-45 on d%, good alignment), gray (46-75, neither good nor evil alignment), or black (76-100, evil alignment). To most wearers, the robe offers no powers or has no effects unless the wearer's alignment doesn't match that of the robe (see below). Only an arcane spellcaster can fully realize this potent magic item's powers once the robe is donned. These powers are as follows. <ul><li>+5 armor bonus to AC </li><li>Spell resistance 18 </li><li>+4 resistance bonus on all saving throws </li><li>+2 enhancement bonus on caster level checks made to overcome spell resistance</li></ul> If a white robe is donned by an evil character, she immediately gains three permanent negative levels. The same is true with respect to a black robe donned by a good character. An evil or good character who puts on a gray robe, or a neutral character who dons either a white or black robe, gains two permanent negative levels. These negative levels remain as long as the garment is worn and cannot be overcome in any way (including through restoration spells). Negative levels are immediately removed if the robe is removed from the wearer."
+			"This normal-appearing garment is attuned to one of three types of alignment. It can be white (01-45 on d%, good alignment), gray (46-75, neither good nor evil alignment), or black (76-100, evil alignment). To most wearers, the robe offers no powers or has no effects unless the wearer's alignment doesn't match that of the robe (see below). Only an arcane spellcaster can fully realize this potent magic item's powers once the robe is donned. These powers are as follows.",
+			{
+				"list": true,
+				"items": [
+					"+5 armor bonus to AC",
+					"Spell resistance 18",
+					"+4 resistance bonus on all saving throws",
+					"+2 enhancement bonus on caster level checks made to overcome spell resistance"
+				]
+			},
+			"If a white robe is donned by an evil character, she immediately gains three permanent negative levels. The same is true with respect to a black robe donned by a good character. An evil or good character who puts on a gray robe, or a neutral character who dons either a white or black robe, gains two permanent negative levels. These negative levels remain as long as the garment is worn and cannot be overcome in any way (including through restoration spells). Negative levels are immediately removed if the robe is removed from the wearer."
 		],
 		"construction": "Requirements Craft Wondrous Item, antimagic field, mage armor or shield of faith, creator must be of same alignment as robe; Cost 37,500 gp"
 	},
@@ -2743,7 +2836,17 @@
 			"Slot body; Price 75,000 gp; Weight 1 lb."
 		],
 		"description": [
-			"This regal-looking robe is trimmed with softly glowing sigils and attuned to one of three types of alignment. It can have geometric sigils (1-45 on d%, lawful alignment), smooth sigils (46-75 on d%, neither lawful nor chaotic alignment), or jagged sigils (76-100 on d%, chaotic alignment). To most wearers, the robe offers no powers and has no effects unless the wearer's alignment doesn't match that of the robe (see below). Only a psychic spellcaster can call upon this potent magic item's powers, which are as follows. <ul><li>The wearer gains DR 2/-.</li> <li>The wearer gains spell resistance 18.</li> <li>The wearer gains a +4 resistance bonus on all saving throws.</li> <li>The save DCs of all spells with the mind-affecting descriptor cast by the wearer increase by 1.</li></ul> If a robe with geometric sigils is donned by a chaotic character, he immediately gains 3 permanent negative levels. The same is true with respect to a robe with jagged sigils donned by a lawful character. A lawful or chaotic character who puts on a robe with smooth sigils, or a neutral character who dons a robe with geometric or jagged sigils, gains 2 permanent negative levels. These negative levels remain as long as the garment is worn and cannot be overcome in any way (including through restoration spells). Negative levels are immediately removed if the robe is removed from the wearer."
+			"This regal-looking robe is trimmed with softly glowing sigils and attuned to one of three types of alignment. It can have geometric sigils (1-45 on d%, lawful alignment), smooth sigils (46-75 on d%, neither lawful nor chaotic alignment), or jagged sigils (76-100 on d%, chaotic alignment). To most wearers, the robe offers no powers and has no effects unless the wearer's alignment doesn't match that of the robe (see below). Only a psychic spellcaster can call upon this potent magic item's powers, which are as follows.",
+			{
+				"list": true,
+				"items": [
+					"The wearer gains DR 2/-.",
+					"The wearer gains spell resistance 18.",
+					"The wearer gains a +4 resistance bonus on all saving throws.",
+					"The save DCs of all spells with the mind-affecting descriptor cast by the wearer increase by 1."
+				]
+			},
+			"If a robe with geometric sigils is donned by a chaotic character, he immediately gains 3 permanent negative levels. The same is true with respect to a robe with jagged sigils donned by a lawful character. A lawful or chaotic character who puts on a robe with smooth sigils, or a neutral character who dons a robe with geometric or jagged sigils, gains 2 permanent negative levels. These negative levels remain as long as the garment is worn and cannot be overcome in any way (including through restoration spells). Negative levels are immediately removed if the robe is removed from the wearer."
 		],
 		"construction": "Requirements Craft Wondrous Item, antimagic field, mage armor, creator must be of same alignment as robe; Cost 37,500 gp"
 	},
@@ -2779,7 +2882,31 @@
 			"Slot body; Price 95,000 gp; Weight 1 lb."
 		],
 		"description": [
-			"This humble, threadbare robe grants a +1 resistance bonus on all saving throws. A mythic wearer can unlock additional powers by upholding vows. The wearer selects up to five vows, but no more than she has mythic tiers. For each vow taken, the wearer must expend one use of mythic power. This use can't be regained as long as the vow is kept and the wearer retains the robe. After 24 hours adhering to one or more vows, the wearer gains additional benefits from the robe. <ul><li>1 vow: +2 resistance bonus on all saving throws, +1 competence bonus on all skill checks</li><li>2 vows: +3 resistance bonus on all saving throws, +4 armor bonus to AC</li><li>3 vows: +4 resistance bonus on all saving throws, +2 competence bonus on all skill checks</li><li>4 vows: +5 resistance bonus on all saving throws, +6 armor bonus to AC</li><li>5 vows: +8 armor bonus to AC, and all save DCs for the wearer's spells increase by 1</li></ul> The wearer receives the bonuses from lower levels as well. For example, with 3 vows, the wearer receives a +4 resistance bonus on saving throws, a +2 competence bonus on all skill checks, and a +4 armor bonus to AC. The armor bonus provided by the robe can be further improved by magic vestment and similar spells. The wearer can select from the following vows. <ul><li>Abstain from consuming meat and touching dead creatures.</li><li>Abstain from consuming liquor, drugs, and similar substances, including any magic item that takes effect through eating or drinking.</li><li>Carry nothing made of metal.</li><li>Refrain from dealing lethal damage.</li><li>Refrain from speaking.</li><li>Refrain from touching others, including touching them with or through clothing.</li><li>Speak and write only the truth.</li></ul> If a vow is broken, the robe's benefits immediately drop to those granted by the number of vows still kept. Broken vows can be regained only by way of an atonement spell."
+			"This humble, threadbare robe grants a +1 resistance bonus on all saving throws. A mythic wearer can unlock additional powers by upholding vows. The wearer selects up to five vows, but no more than she has mythic tiers. For each vow taken, the wearer must expend one use of mythic power. This use can't be regained as long as the vow is kept and the wearer retains the robe. After 24 hours adhering to one or more vows, the wearer gains additional benefits from the robe.",
+			{
+				"list": true,
+				"items": [
+					"1 vow: +2 resistance bonus on all saving throws, +1 competence bonus on all skill checks",
+					"2 vows: +3 resistance bonus on all saving throws, +4 armor bonus to AC",
+					"3 vows: +4 resistance bonus on all saving throws, +2 competence bonus on all skill checks",
+					"4 vows: +5 resistance bonus on all saving throws, +6 armor bonus to AC",
+					"5 vows: +8 armor bonus to AC, and all save DCs for the wearer's spells increase by 1"
+				]
+			},
+			"The wearer receives the bonuses from lower levels as well. For example, with 3 vows, the wearer receives a +4 resistance bonus on saving throws, a +2 competence bonus on all skill checks, and a +4 armor bonus to AC. The armor bonus provided by the robe can be further improved by magic vestment and similar spells. The wearer can select from the following vows.",
+			{
+				"list": true,
+				"items": [
+					"Abstain from consuming meat and touching dead creatures.",
+					"Abstain from consuming liquor, drugs, and similar substances, including any magic item that takes effect through eating or drinking.",
+					"Carry nothing made of metal.",
+					"Refrain from dealing lethal damage.",
+					"Refrain from speaking.",
+					"Refrain from touching others, including touching them with or through clothing.",
+					"Speak and write only the truth."
+				]
+			},
+			"If a vow is broken, the robe's benefits immediately drop to those granted by the number of vows still kept. Broken vows can be regained only by way of an atonement spell."
 		],
 		"construction": "Requirements Craft Wondrous Item, Mythic Crafter, magic vestment, prayer, resistance; Cost 47,500 gp"
 	},
@@ -11014,7 +11141,16 @@
 			"Slot head; Price 20,000 gp; Weight &mdash;"
 		],
 		"description": [
-			"An ivory cameo depicting two elderly, bearded wizards with identical faces hangs on this amulet's delicate silver chain. Three times per day, when casting a spell with a verbal component, the wearer of an amulet of reverse incantation can recite the spell's words backward as a free action in order to invert the spell's effect, as described below. <ul><li>If the wearer casts a spell that can counter or dispel another specific spell, she can activate the amulet to convert the spell being cast into the spell it specifically counters. For example, haste would become slow, or reduce person would become enlarge person.</li><li>If the wearer casts a spell that detects or affects creatures of a certain alignment, the spell instead affects creatures of the opposite alignment. For example, chaos hammer would damage and blind chaotic creatures and outsiders instead of lawful ones.</li><li>If the wearer casts a cure or inflict spell, she can activate the amulet to convert the spell being cast into the other type of the same spell level, such as converting cure moderate wounds into inflict moderate wounds.</li></ul> Alignment restrictions still apply for casters who can't cast spells with certain alignment descriptors."
+			"An ivory cameo depicting two elderly, bearded wizards with identical faces hangs on this amulet's delicate silver chain. Three times per day, when casting a spell with a verbal component, the wearer of an amulet of reverse incantation can recite the spell's words backward as a free action in order to invert the spell's effect, as described below.",
+			{
+				"list": true,
+				"items": [
+					"If the wearer casts a spell that can counter or dispel another specific spell, she can activate the amulet to convert the spell being cast into the spell it specifically counters. For example, haste would become slow, or reduce person would become enlarge person.",
+					"If the wearer casts a spell that detects or affects creatures of a certain alignment, the spell instead affects creatures of the opposite alignment. For example, chaos hammer would damage and blind chaotic creatures and outsiders instead of lawful ones.",
+					"If the wearer casts a cure or inflict spell, she can activate the amulet to convert the spell being cast into the other type of the same spell level, such as converting cure moderate wounds into inflict moderate wounds."
+				]
+			},
+			"Alignment restrictions still apply for casters who can't cast spells with certain alignment descriptors."
 		],
 		"construction": "Requirements Craft Wondrous Item, dispel magic, tongues; Cost 10,000 gp"
 	},
@@ -12086,7 +12222,17 @@
 			"Slot head; Price 96,000 gp; Weight 3 lbs."
 		],
 		"description": [
-			"This helm is made of large, alchemically hardened snake scales, and is crafted in the shape of a stylized serpent mouth. Its wearer stares out through the serpent's eyes, and sees all things cast in a yellow tint. When worn, it grants the following spell-like abilities to the wearer: <ul><li>Hypnotism (3/day)</li><li>Summon nature's ally III (constrictor snake only, 3/day)</li><li>Beast shape III (snake form only, 1/day)</li><li>Poison (1/day)</li></ul> A mythic creature can expend one use of mythic power when using the beast shape III spell-like ability to instead cast it as mythic beast shape III. Alternatively, he can expend two uses of mythic power to instead cast the augmented version of mythic beast shape III."
+			"This helm is made of large, alchemically hardened snake scales, and is crafted in the shape of a stylized serpent mouth. Its wearer stares out through the serpent's eyes, and sees all things cast in a yellow tint. When worn, it grants the following spell-like abilities to the wearer:",
+			{
+				"list": true,
+				"items": [
+					"Hypnotism (3/day)",
+					"Summon nature's ally III (constrictor snake only, 3/day)",
+					"Beast shape III (snake form only, 1/day)",
+					"Poison (1/day)"
+				]
+			},
+			"A mythic creature can expend one use of mythic power when using the beast shape III spell-like ability to instead cast it as mythic beast shape III. Alternatively, he can expend two uses of mythic power to instead cast the augmented version of mythic beast shape III."
 		],
 		"construction": "Requirements Craft Magic Arms and Armor, Mythic Crafter, beast shape III, summon nature's ally III; Cost 48,000 gp"
 	},
@@ -12125,7 +12271,17 @@
 			"Slot head; Price 125,000 gp; Weight 3 lbs."
 		],
 		"description": [
-			"This normal-looking helm takes its true form and manifests its powers when the user dons it and speaks the command word. Made of brilliant silver and polished steel, a newly created helm is set with large magic gems: 10 diamonds, 20 rubies, 30 fire opals, and 40 opals. When struck by bright light, the helm scintillates and sends forth reflective rays in all directions from its crown-like, gem-tipped spikes. The jewels' functions are as follows: <ul><li>Diamond: Prismatic spray (save DC 20) </li><li>Ruby: Wall of fire </li><li>Fire opal: Fireball (10d6, Reflex DC 20 half) </li><li>Opal: Daylight</li></ul> The helm may be used once per round, but each gem can perform its spell-like power just once. Until all its jewels are depleted, a helm of brilliance also has the following magical properties when activated.",
+			"This normal-looking helm takes its true form and manifests its powers when the user dons it and speaks the command word. Made of brilliant silver and polished steel, a newly created helm is set with large magic gems: 10 diamonds, 20 rubies, 30 fire opals, and 40 opals. When struck by bright light, the helm scintillates and sends forth reflective rays in all directions from its crown-like, gem-tipped spikes. The jewels' functions are as follows:",
+			{
+				"list": true,
+				"items": [
+					"Diamond: Prismatic spray (save DC 20)",
+					"Ruby: Wall of fire",
+					"Fire opal: Fireball (10d6, Reflex DC 20 half)",
+					"Opal: Daylight"
+				]
+			},
+			"The helm may be used once per round, but each gem can perform its spell-like power just once. Until all its jewels are depleted, a helm of brilliance also has the following magical properties when activated.",
 			"It emanates a bluish light when undead are within 30 feet. This light causes 1d6 points of damage per round to all such creatures within that range.",
 			"The wearer may command any weapon he wields to become a flaming weapon. This is in addition to whatever abilities the weapon may already have (unless the weapon already is a flaming weapon). The command takes 1 round to take effect.",
 			"The helm provides fire resistance 30. This protection does not stack with similar protection from other sources.",
@@ -13779,7 +13935,116 @@
 		"description": [
 			"This item appears to be a string or cluster of spherical beads, sometimes with the ends tied together to form a necklace. (It does not count as an item worn around the neck for the purpose of determining which of a character's worn magic items is effective.) If a character holds it, however, all can see the strand as it really is-a golden chain from which hang a number of golden spheres. The spheres are detachable by the wearer (and only by the wearer), who can easily hurl one of them up to 70 feet. When a sphere arrives at the end of its trajectory, it detonates as a fireball spell (Reflex DC 14 half).",
 			"Spheres come in different strengths, ranging from those that deal 2d6 points of fire damage to those that deal 10d6. The price of a sphere is 150 gp for each die of damage it deals.",
-			"<table class=\"inner\"><tr><td>Necklace</td><td>10d6</td><td>9d6</td><td>8d6</td><td>7d6</td><td>6d6</td><td>5d6</td><td>4d6</td><td>3d6</td><td>2d6</td><td>Price</td></tr> <tr><td>Type I</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1</td><td>-</td><td>2</td><td>-</td><td>1,650 gp</td></tr> <tr><td>Type II</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1</td><td>-</td><td>2</td><td>-</td><td>2</td><td>2,700 gp</td></tr> <tr><td>Type III</td><td>-</td><td>-</td><td>-</td><td>1</td><td>-</td><td>2</td><td>-</td><td>4</td><td>-</td><td>4,350 gp</td></tr> <tr><td>Type IV</td><td>-</td><td>-</td><td>1</td><td>-</td><td>2</td><td>-</td><td>2</td><td>-</td><td>4</td><td>5,400 gp</td></tr> <tr><td>Type V</td><td>-</td><td>1</td><td>-</td><td>2</td><td>-</td><td>2</td><td>-</td><td>2</td><td>-</td><td>5,850 gp</td></tr> <tr><td>Type VI</td><td>1</td><td>-</td><td>2</td><td>-</td><td>2</td><td>-</td><td>4</td><td>-</td><td>-</td><td>8,100 gp</td></tr> <tr><td>Type VII</td><td>1</td><td>2</td><td>-</td><td>2</td><td>-</td><td>2</td><td>-</td><td>2</td><td>-</td><td>8,700 gp</td></tr></table>Each necklace of fireballs contains a combination of spheres of various strengths. Some traditional combinations, designated types I through VII, are detailed above.",
+			{
+				"table": true,
+				"rows": [
+					[
+						"Necklace",
+						"10d6",
+						"9d6",
+						"8d6",
+						"7d6",
+						"6d6",
+						"5d6",
+						"4d6",
+						"3d6",
+						"2d6",
+						"Price"
+					],
+					[
+						"Type I",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"1",
+						"-",
+						"2",
+						"-",
+						"1,650 gp"
+					],
+					[
+						"Type II",
+						"-",
+						"-",
+						"-",
+						"-",
+						"1",
+						"-",
+						"2",
+						"-",
+						"2",
+						"2,700 gp"
+					],
+					[
+						"Type III",
+						"-",
+						"-",
+						"-",
+						"1",
+						"-",
+						"2",
+						"-",
+						"4",
+						"-",
+						"4,350 gp"
+					],
+					[
+						"Type IV",
+						"-",
+						"-",
+						"1",
+						"-",
+						"2",
+						"-",
+						"2",
+						"-",
+						"4",
+						"5,400 gp"
+					],
+					[
+						"Type V",
+						"-",
+						"1",
+						"-",
+						"2",
+						"-",
+						"2",
+						"-",
+						"2",
+						"-",
+						"5,850 gp"
+					],
+					[
+						"Type VI",
+						"1",
+						"-",
+						"2",
+						"-",
+						"2",
+						"-",
+						"4",
+						"-",
+						"-",
+						"8,100 gp"
+					],
+					[
+						"Type VII",
+						"1",
+						"2",
+						"-",
+						"2",
+						"-",
+						"2",
+						"-",
+						"2",
+						"-",
+						"8,700 gp"
+					]
+				]
+			},
+			"Each necklace of fireballs contains a combination of spheres of various strengths. Some traditional combinations, designated types I through VII, are detailed above.",
 			"If the necklace is being worn or carried by a character who fails her saving throw against a magical fire attack, the item must make a saving throw as well (with a save bonus of +7). If the necklace fails to save, all its remaining spheres detonate simultaneously, often with regrettable consequences for the wearer."
 		],
 		"construction": "Requirements Craft Wondrous Item, fireball; Cost 825 gp (Type I), 1,350 gp (Type II), 2,175 gp (Type III), 2,700 gp (Type IV), 2,925 gp (Type V), 4,050 gp (Type VI), 4,350 gp (Type VII)"
@@ -15398,7 +15663,17 @@
 			"Slot neck; Price 8,000 gp; Weight &mdash;"
 		],
 		"description": [
-			"Any time the wearer of an azata's whimsy would become confused, her random actions are modified as follows: <ul><li>Act normally: No changes.</li><li>Babble: The wearer's babbling is beautiful and inspiring, functioning as a 7th-level bard's inspire courage bardic performance during each round this result is rolled.</li><li>Damage self: The damage is nonlethal.</li><li>Attack nearest creature: The wearer gains a +1 insight bonus on attack rolls against enemies and takes a -4 penalty against allies.</li></ul> Additionally, the wearer of an azata's whimsy may choose to voluntarily enter a state of confusion (as the spell) as a free action for up to 7 rounds per day. These rounds need not be consecutive."
+			"Any time the wearer of an azata's whimsy would become confused, her random actions are modified as follows:",
+			{
+				"list": true,
+				"items": [
+					"Act normally: No changes.",
+					"Babble: The wearer's babbling is beautiful and inspiring, functioning as a 7th-level bard's inspire courage bardic performance during each round this result is rolled.",
+					"Damage self: The damage is nonlethal.",
+					"Attack nearest creature: The wearer gains a +1 insight bonus on attack rolls against enemies and takes a -4 penalty against allies."
+				]
+			},
+			"Additionally, the wearer of an azata's whimsy may choose to voluntarily enter a state of confusion (as the spell) as a free action for up to 7 rounds per day. These rounds need not be consecutive."
 		],
 		"construction": "Requirements Craft Wondrous Item, confusion, creator must be a chaotic good bard; Cost 4,000 gp"
 	},
@@ -16023,8 +16298,73 @@
 			"Celestial: This large, polished opal hangs from a chain of smoky gray steel. The wearer gains acid resistance 5 and cold resistance 5. Three times per day as a standard action, the wearer can unleash a ray of heavenly fire as a ranged touch attack, targeting any foe within 30 feet. Against evil creatures, the ray deals 1d4+4 points of damage. The damage is divine and not subject to energy resistance or immunity. The ray heals good creatures of 1d4+4 points of damage, but a good creature cannot benefit from the heavenly fire more than once per day. Neutral creatures are unaffected by the ray. Moderate abjuration and evocation; CL 9th; Craft Wondrous Item, resist energy, scorching ray.",
 			"Destined: This chunk of uncut quartz hangs on a platinum chain. The wearer gains a +2 luck bonus on all saving throws and to AC during surprise rounds or any time he is otherwise unaware of an attack. Once per day, the wearer can reroll one attack roll, critical hit confirmation roll, or caster level check to overcome spell resistance. He must decide to use this ability after the first roll is made but before the result is revealed. He must take the second result, even if it's lower. Moderate enchantment; CL 7th; Craft Wondrous Item, aid.",
 			"Draconic: This amulet comes in a variety of minerals depending on its powers, as shown in the table below, and is formed into the shape of a dragon's scale. The wearer gains resistance 5 against the energy type shown in the table, as well as a +1 natural armor bonus to AC. Once per day as a standard action, the wearer can produce a breath weapon. This breath weapon deals 4d6 points of damage of the energy type and shape listed (Reflex DC 13 half). Moderate abjuration and evocation; CL 9th; Craft Wondrous Item, fire breath, resist energy.",
-			"<table class=\"inner\"><tr><td>d%</td><td>Material</td><td>Energy Type</td><td>Breath Shape</td></tr> <tr><td>01-25</td><td>Malachite</td><td>Acid</td><td>60-foot line</td></tr> <tr><td>26-50</td><td>Azurite</td><td>Electricity</td><td>60-foot line</td></tr> <tr><td>51-75</td><td>Red Agate</td><td>Fire</td><td>30-foot cone</td></tr> <tr><td>76-100</td><td>Calcite</td><td>Cold</td><td>30-foot cone</td></tr></table> Elemental: This amulet comes in a variety of minerals depending on its powers, as shown in the table below. The wearer gains resistance 5 against the energy type shown in the table. Once per day as a standard action, the wearer can unleash a blast of elemental power. This 20-foot-radius burst deals 4d6 points of damage (Reflex DC 14 half) of the energy type listed. Creatures that fail their saves gain vulnerability to the energy type until the end of the wearer's next turn. Moderate evocation; CL 9th; Craft Wondrous Item, elemental aura, resist energy.",
-			"<table class=\"inner\"><tr><td>d%</td><td>Material</td><td>Energy Type</td></tr> <tr><td>01-25</td><td>Anhydrite</td><td>Electricity</td></tr> <tr><td>26-50</td><td>Hematite</td><td>Acid</td></tr> <tr><td>51-75</td><td>Beryl</td><td>Fire</td></tr> <tr><td>76-100</td><td>Forsterite</td><td>Cold</td></tr></table> Fey: This drop of amber hangs on a silk cord. The wearer can turn invisible for 9 rounds per day (as greater invisibility). The rounds don't need to be consecutive. Three times per day, the wearer can make a melee touch attack to cause a creature to burst out laughing. That creature can take only a move action, but can defend itself normally. Once a creature has been affected by this laughter, it is immune to it for 24 hours. This is a mind-affecting effect. Moderate illusion; CL 9th; Craft Wondrous Item, greater invisibility, hideous laughter.",
+			{
+				"table": true,
+				"rows": [
+					[
+						"d%",
+						"Material",
+						"Energy Type",
+						"Breath Shape"
+					],
+					[
+						"01-25",
+						"Malachite",
+						"Acid",
+						"60-foot line"
+					],
+					[
+						"26-50",
+						"Azurite",
+						"Electricity",
+						"60-foot line"
+					],
+					[
+						"51-75",
+						"Red Agate",
+						"Fire",
+						"30-foot cone"
+					],
+					[
+						"76-100",
+						"Calcite",
+						"Cold",
+						"30-foot cone"
+					]
+				]
+			},
+			"Elemental: This amulet comes in a variety of minerals depending on its powers, as shown in the table below. The wearer gains resistance 5 against the energy type shown in the table. Once per day as a standard action, the wearer can unleash a blast of elemental power. This 20-foot-radius burst deals 4d6 points of damage (Reflex DC 14 half) of the energy type listed. Creatures that fail their saves gain vulnerability to the energy type until the end of the wearer's next turn. Moderate evocation; CL 9th; Craft Wondrous Item, elemental aura, resist energy.",
+			{
+				"table": true,
+				"rows": [
+					[
+						"d%",
+						"Material",
+						"Energy Type"
+					],
+					[
+						"01-25",
+						"Anhydrite",
+						"Electricity"
+					],
+					[
+						"26-50",
+						"Hematite",
+						"Acid"
+					],
+					[
+						"51-75",
+						"Beryl",
+						"Fire"
+					],
+					[
+						"76-100",
+						"Forsterite",
+						"Cold"
+					]
+				]
+			},
+			"Fey: This drop of amber hangs on a silk cord. The wearer can turn invisible for 9 rounds per day (as greater invisibility). The rounds don't need to be consecutive. Three times per day, the wearer can make a melee touch attack to cause a creature to burst out laughing. That creature can take only a move action, but can defend itself normally. Once a creature has been affected by this laughter, it is immune to it for 24 hours. This is a mind-affecting effect. Moderate illusion; CL 9th; Craft Wondrous Item, greater invisibility, hideous laughter.",
 			"Infernal: This chunk of black marble hangs from a chain of brass. The wearer gains fire resistance 5 and a +2 bonus on saving throws against poison. Three times per day the wearer can make a melee touch attack to cause a creature to become shaken for 4 rounds. Multiple touches do not stack, but do add to the duration. Moderate abjuration; CL 9th; Craft Wondrous Item, chill touch, resist energy.",
 			"Undead: This chunk of petrified bone dangles from a silver chain. The wearer gains cold resistance 5 and DR 5/- against nonlethal damage. Three times per day the wearer can make a melee touch attack to cause a creature to become shaken for 4 rounds. Touching a creature that is already shaken causes it to become frightened for 1 round if it has fewer than 8 Hit Dice. Moderate abjuration; CL 9th; Craft Wondrous Item, chill touch, resist energy."
 		],
@@ -17210,7 +17550,16 @@
 			"Slot neck; Price 24,000 gp; Weight &mdash;"
 		],
 		"description": [
-			"This winged, golden cartouche hangs on a leather thong beaded with semiprecious stones. Normally, a cartouche of distinctive warding functions as a ring of protection +1 and allows the wearer to use shield two times per day. Once per day, the wearer can write the name of a specific individual in Ancient Osiriani hieroglyphs on the cartouche (the name must be the person's true name, not an alias, nickname, or title). This causes the cartouche's regular powers to go dormant, but for the next hour the wearer is protected against the inscribed individual in three ways: <ul><li>The wearer gains a +2 deflection bonus to AC against all attacks made by the inscribed individual (including physical attacks, and magic items and spells that require attack rolls).</li><li>The wearer gains a +2 bonus on all saving throws against spells and effects cast or created by the inscribed individual.</li><li>The wearer gains a +2 bonus on opposed skill checks against the inscribed individual.</li></ul> At the end of 1 hour, the inscribed name fades, and the cartouche loses all its powers for 23 hours. Note that the actions of the inscribed individual's allies (including minions or summoned creatures) are not subject to the cartouche's power."
+			"This winged, golden cartouche hangs on a leather thong beaded with semiprecious stones. Normally, a cartouche of distinctive warding functions as a ring of protection +1 and allows the wearer to use shield two times per day. Once per day, the wearer can write the name of a specific individual in Ancient Osiriani hieroglyphs on the cartouche (the name must be the person's true name, not an alias, nickname, or title). This causes the cartouche's regular powers to go dormant, but for the next hour the wearer is protected against the inscribed individual in three ways:",
+			{
+				"list": true,
+				"items": [
+					"The wearer gains a +2 deflection bonus to AC against all attacks made by the inscribed individual (including physical attacks, and magic items and spells that require attack rolls).",
+					"The wearer gains a +2 bonus on all saving throws against spells and effects cast or created by the inscribed individual.",
+					"The wearer gains a +2 bonus on opposed skill checks against the inscribed individual."
+				]
+			},
+			"At the end of 1 hour, the inscribed name fades, and the cartouche loses all its powers for 23 hours. Note that the actions of the inscribed individual's allies (including minions or summoned creatures) are not subject to the cartouche's power."
 		],
 		"construction": "Requirements Craft Wondrous Item, lesser glober of invulnerability, magic circle against chaos, evil, good, or law, shield; Cost 12,000 gp"
 	},
@@ -19414,7 +19763,47 @@
 		],
 		"description": [
 			"A bilious bottle appears to be a tightly stoppered container of water. It can be thrown as a splash weapon. When a bilious bottle is opened or shatters, the foul fluid inside immediately expands into a 30-foot-radius cloud of noxious vapors. These vapors are invisible, but any creature within the area of effect of the cloud must succeed at a DC 14 Fortitude saving throw at the start of its turn or suffer one of the following random effects. The vapors created by a bilious bottle dissipate after 1 minute, or automatically if exposed to anything more than a moderate wind. The vapors created by a bilious bottle are a poison effect.",
-			"<table class=\"inner\"><tr><td>d8</td><td>Result <tr><td>1</td><td>The subject takes 1d6 points of acid damage.</td></tr> <tr><td>2</td><td>The subject's eyes glow red for 2 hours, during which time it gains darkvision out to 30 feet.</td></tr> <tr><td>3</td><td>The subject takes 1d6 points of fire damage.</td></tr> <tr><td>4</td><td>The subject develops wheezing, labored breathing for 2 hours, which imposes a -2 penalty on Stealth checks.</td></tr> <tr><td>5</td><td>The subject takes 1d6 points of cold damage.</td></tr> <tr><td>6</td><td>The subject develops a persistent nosebleed, taking 1d4 points nonlethal damage every 10 minutes for the next hour.</td></tr> <tr><td>7</td><td>The subject takes 1d6 points of electricity damage.</td></tr> <tr><td>8</td><td>The subject experiences a persistent adrenaline rush. For the next 2 hours, subject receives a +2 bonus on Initiative checks but takes a -2 penalty on Dexteritybased skill checks due to uncontrollable trembling.</td></tr></table>"
+			{
+				"table": true,
+				"rows": [
+					[
+						"d8",
+						"Result"
+					],
+					[
+						"1",
+						"The subject takes 1d6 points of acid damage."
+					],
+					[
+						"2",
+						"The subject's eyes glow red for 2 hours, during which time it gains darkvision out to 30 feet."
+					],
+					[
+						"3",
+						"The subject takes 1d6 points of fire damage."
+					],
+					[
+						"4",
+						"The subject develops wheezing, labored breathing for 2 hours, which imposes a -2 penalty on Stealth checks."
+					],
+					[
+						"5",
+						"The subject takes 1d6 points of cold damage."
+					],
+					[
+						"6",
+						"The subject develops a persistent nosebleed, taking 1d4 points nonlethal damage every 10 minutes for the next hour."
+					],
+					[
+						"7",
+						"The subject takes 1d6 points of electricity damage."
+					],
+					[
+						"8",
+						"The subject experiences a persistent adrenaline rush. For the next 2 hours, subject receives a +2 bonus on Initiative checks but takes a -2 penalty on Dexteritybased skill checks due to uncontrollable trembling."
+					]
+				]
+			}
 		],
 		"construction": "Requirements Craft Wondrous Item, stinking cloud; Cost 250 gp"
 	},
@@ -20359,7 +20748,18 @@
 			"Slot none; Price 750 gp; Weight &mdash;"
 		],
 		"description": [
-			"This badge depicts the Aspis Consortium's insignia: a coiled serpent. By speaking a command word, the wearer can transform the badge into one of five tools, selected from the following: <ul><li>A masterwork light steel shield bearing the Aspis insignia</li><li>A masterwork whip</li><li>A dagger poisoned with a dose of blue whinnis</li><li>A 50-foot silk rope with a grappling hook</li><li>A set of masterwork thieves' tools</li></ul> The badge remains in the chosen form for up to 24 hours or until it is commanded to return to its natural shape. Each form retains the badge's metallic hue, and the badge can transform in this way only five times before it loses its magical properties forever, becoming a mundane Aspis badge.",
+			"This badge depicts the Aspis Consortium's insignia: a coiled serpent. By speaking a command word, the wearer can transform the badge into one of five tools, selected from the following:",
+			{
+				"list": true,
+				"items": [
+					"A masterwork light steel shield bearing the Aspis insignia",
+					"A masterwork whip",
+					"A dagger poisoned with a dose of blue whinnis",
+					"A 50-foot silk rope with a grappling hook",
+					"A set of masterwork thieves' tools"
+				]
+			},
+			"The badge remains in the chosen form for up to 24 hours or until it is commanded to return to its natural shape. Each form retains the badge's metallic hue, and the badge can transform in this way only five times before it loses its magical properties forever, becoming a mundane Aspis badge.",
 			"Most Aspis badges of last resort are bronze, yet some higher-ranking agents commission badges made of silver or gold. Most of these badges also have a unique array of objects they can turn into-including weapons and shields with magical properties."
 		],
 		"construction": "Requirements Craft Wondrous Item, fabricate; Cost 375 gp"
@@ -23605,7 +24005,32 @@
 			"Slot none; Price 1,800 gp; Weight 3 lbs."
 		],
 		"description": [
-			"Once per day, as part of the action of drawing forth the weapon held by a scabbard of vigor, the wearer can order it to endow the weapon with an enhancement bonus on attack and damage rolls. The duration of the effect depends on the desired enhancement bonus for the weapon. <table class=\"inner\"><tr><td>Bonus</td><td>Duration</td></tr> <tr><td>+4</td><td>1 round</td></tr> <tr><td>+3</td><td>3 rounds</td></tr> <tr><td>+2</td><td>5 rounds</td></tr> <tr><td>+1</td><td>10 rounds</td></tr></table>"
+			"Once per day, as part of the action of drawing forth the weapon held by a scabbard of vigor, the wearer can order it to endow the weapon with an enhancement bonus on attack and damage rolls. The duration of the effect depends on the desired enhancement bonus for the weapon.",
+			{
+				"table": true,
+				"rows": [
+					[
+						"Bonus",
+						"Duration"
+					],
+					[
+						"+4",
+						"1 round"
+					],
+					[
+						"+3",
+						"3 rounds"
+					],
+					[
+						"+2",
+						"5 rounds"
+					],
+					[
+						"+1",
+						"10 rounds"
+					]
+				]
+			}
 		],
 		"construction": "Requirements Craft Wondrous Item, greater magic weapon; Cost 900 gp"
 	},
@@ -24351,7 +24776,42 @@
 			"Slot none; Price 2,000 gp (Type I), 4,000 gp (Type II), 7,500 gp (Type III), 15,000 gp (Type IV); Weight varies"
 		],
 		"description": [
-			"This item appears to be an unremarkable mesh bag with many small openings, but it is stuffed to overflowing with hay. It can be hung from a line, post, or tree limb and used to feed horses and ponies. It produces enough fresh feed for a number of horses or other similar mounts each day, as shown in the table below. <table class=\"inner\"> <tr><td>Satchel Type</td><td>Satchel Weight</td><td>Mounts Fed/Day</td><td>Market Price</td></tr> <tr><td>I</td><td>15 lbs.</td><td>4</td><td>2,000 gp</td></tr> <tr><td>II</td><td>20 lbs.</td><td>10</td><td>4,000 gp</td></tr> <tr><td>III</td><td>25 lbs.</td><td>25</td><td>7,500 gp</td></tr> <tr><td>IV</td><td>30 lbs.</td><td>50</td><td>15,000 gp</td></tr></table>"
+			"This item appears to be an unremarkable mesh bag with many small openings, but it is stuffed to overflowing with hay. It can be hung from a line, post, or tree limb and used to feed horses and ponies. It produces enough fresh feed for a number of horses or other similar mounts each day, as shown in the table below.",
+			{
+				"table": true,
+				"rows": [
+					[
+						"Satchel Type",
+						"Satchel Weight",
+						"Mounts Fed/Day",
+						"Market Price"
+					],
+					[
+						"I",
+						"15 lbs.",
+						"4",
+						"2,000 gp"
+					],
+					[
+						"II",
+						"20 lbs.",
+						"10",
+						"4,000 gp"
+					],
+					[
+						"III",
+						"25 lbs.",
+						"25",
+						"7,500 gp"
+					],
+					[
+						"IV",
+						"30 lbs.",
+						"50",
+						"15,000 gp"
+					]
+				]
+			}
 		],
 		"construction": "Requirements Craft Wondrous Item, create food and water; Cost 1,000 gp (Type I), 2,000 gp (Type II), 3,750 gp (Type III), 7,500 gp (Type IV)"
 	},
@@ -25296,7 +25756,47 @@
 		],
 		"description": [
 			"This appears to be a common cloth sack about 2 feet by 4 feet in size. The bag of holding opens into a nondimensional space: its inside is larger than its outside dimensions. Regardless of what is put into the bag, it weighs a fixed amount. This weight, and the limits in weight and volume of the bag's contents, depend on the bag's type, as shown on the table below.",
-			"<table class=\"inner\"><tr><td>Bag</td><td>Bag Weight</td><td>Contents Limit</td><td>Contents Volume Limit</td><td>Price</td></tr> <tr><td>Type I</td><td>15 lbs.</td><td>250 lbs.</td><td>30 cubic ft.</td><td>2,500 gp</td></tr> <tr><td>Type II</td><td>25 lbs.</td><td>500 lbs.</td><td>70 cubic ft.</td><td>5,000 gp</td></tr> <tr><td>Type III</td><td>35 lbs.</td><td>1,000 lbs.</td><td>150 cubic ft.</td><td>7,400 gp</td></tr> <tr><td>Type IV</td><td>60 lbs.</td><td>1,500 lbs.</td><td>250 cubic ft.</td><td>10,000 gp</td></tr></table> If a bag of holding is overloaded, or if sharp objects pierce it (from inside or outside), the bag immediately ruptures and is ruined, and all contents are lost forever. If a bag of holding is turned inside out, all of its contents spill out, unharmed, but the bag must be put right before it can be used again. If living creatures are placed within the bag, they can survive for up to 10 minutes, after which time they suffocate. Retrieving a specific item from a bag of holding is a move action, unless the bag contains more than an ordinary backpack would hold,in which case retrieving a specific item is a full-round action.",
+			{
+				"table": true,
+				"rows": [
+					[
+						"Bag",
+						"Bag Weight",
+						"Contents Limit",
+						"Contents Volume Limit",
+						"Price"
+					],
+					[
+						"Type I",
+						"15 lbs.",
+						"250 lbs.",
+						"30 cubic ft.",
+						"2,500 gp"
+					],
+					[
+						"Type II",
+						"25 lbs.",
+						"500 lbs.",
+						"70 cubic ft.",
+						"5,000 gp"
+					],
+					[
+						"Type III",
+						"35 lbs.",
+						"1,000 lbs.",
+						"150 cubic ft.",
+						"7,400 gp"
+					],
+					[
+						"Type IV",
+						"60 lbs.",
+						"1,500 lbs.",
+						"250 cubic ft.",
+						"10,000 gp"
+					]
+				]
+			},
+			"If a bag of holding is overloaded, or if sharp objects pierce it (from inside or outside), the bag immediately ruptures and is ruined, and all contents are lost forever. If a bag of holding is turned inside out, all of its contents spill out, unharmed, but the bag must be put right before it can be used again. If living creatures are placed within the bag, they can survive for up to 10 minutes, after which time they suffocate. Retrieving a specific item from a bag of holding is a move action, unless the bag contains more than an ordinary backpack would hold,in which case retrieving a specific item is a full-round action.",
 			"Magic items placed inside the bag do not offer any benefit to the character carrying the bag.",
 			"If a bag of holding is placed within a portable hole, a rift to the Astral Plane is torn in the space: bag and hole alike are sucked into the void and forever lost. If a portable hole is placed within a bag of holding, it opens a gate to the Astral Plane: the hole, the bag, and any creatures within a 10-foot radius are drawn there, destroying the portable hole and bag of holding in the process."
 		],
@@ -25499,7 +25999,56 @@
 		],
 		"description": [
 			"When a humanoid imbibes this foul-tasting green fluid, its ears grow to 10 times their size, and its head separates from its body. This effect is similar to beast shape II, shifting the drinker's consciousness into a Tiny form cosmetically similar to that of a chon chon, with the same powers of flight, constant detect magic sight, and +4 racial bonus on Perception checks made to listen, but lacking the creature's acid spit or jabber abilities. The duration of this transformation proves highly unpredictable, though. The GM should roll on the following chart to determine how long the effect lasts.",
-			"<table class=\"inner\"><tr><td>d%</td><td>Duration of Transformation</td></tr> <tr><td>1</td><td>1 minute</td></tr> <tr><td>2-25</td><td>1d10 minutes</td></tr> <tr><td>26-50</td><td>6d10 minutes</td></tr> <tr><td>51-75</td><td>1 hour</td></tr> <tr><td>76-80</td><td>1d10 hours</td></tr> <tr><td>81-85</td><td>6d10 hours</td></tr> <tr><td>86-90</td><td>1 day</td></tr> <tr><td>91-95</td><td>1d6 days</td></tr> <tr><td>96-99</td><td>1 week</td></tr> <tr><td>100</td><td>Permanent</td></tr></table> The transformation can be ended prematurely by remove curse-dispel magic has no effect. However, when the effect ends, the drinker's head immediately returns to normal. If the head is not within 5 feet of its body when the elixir's duration expires, the creature is slain immediately. The drinker knows when the elixir's effects will end 1 minute before they do so (no earlier). If the drinker's body is harmed or destroyed while its head is elsewhere, it takes that damage as soon as it reunites with its body, or is slain if its body has been destroyed. Until the elixir's duration ends, the drinker can only reattach its head to its body through the use of remove curse. The drinker's body is considered helpless while the head is unattached."
+			{
+				"table": true,
+				"rows": [
+					[
+						"d%",
+						"Duration of Transformation"
+					],
+					[
+						"1",
+						"1 minute"
+					],
+					[
+						"2-25",
+						"1d10 minutes"
+					],
+					[
+						"26-50",
+						"6d10 minutes"
+					],
+					[
+						"51-75",
+						"1 hour"
+					],
+					[
+						"76-80",
+						"1d10 hours"
+					],
+					[
+						"81-85",
+						"6d10 hours"
+					],
+					[
+						"86-90",
+						"1 day"
+					],
+					[
+						"91-95",
+						"1d6 days"
+					],
+					[
+						"96-99",
+						"1 week"
+					],
+					[
+						"100",
+						"Permanent"
+					]
+				]
+			},
+			"The transformation can be ended prematurely by remove curse-dispel magic has no effect. However, when the effect ends, the drinker's head immediately returns to normal. If the head is not within 5 feet of its body when the elixir's duration expires, the creature is slain immediately. The drinker knows when the elixir's effects will end 1 minute before they do so (no earlier). If the drinker's body is harmed or destroyed while its head is elsewhere, it takes that damage as soon as it reunites with its body, or is slain if its body has been destroyed. Until the elixir's duration ends, the drinker can only reattach its head to its body through the use of remove curse. The drinker's body is considered helpless while the head is unattached."
 		],
 		"construction": "Requirements Craft Wondrous Item, detect magic, polymorph; Cost 1,375 gp"
 	},
@@ -26464,7 +27013,88 @@
 		],
 		"description": [
 			"This small sack appears empty. Anyone reaching into the bag feels a small, fuzzy ball. If the ball is removed and tossed up to 20 feet away, it turns into an animal. The animal serves the character who drew it from the bag for 10 minutes (or until slain or ordered back into the bag), at which point it disappears. It can follow any of the commands described in the Handle Animal skill. Each of the three kinds of bags of tricks produces a different set of animals. Use the following tables to determine what animals can be drawn out of each.",
-			"<table class=\"inner\"><tr><td colspan=2>Gray Bag</td><td colspan=2>Rust Bag</td><td colspan=2>Tan Bag</td><td colspan=2>Aquamarine Bag</td></tr><tr><td>d%</td><td>Animal</td><td>d%</td><td>Animal</td><td>d%</td><td>Animal</td><td>d%</td><td>Animal</td></tr><tr><td>01-30</td><td>Bat</td><td>01-30</td><td>Wolverine</td><td>01-30</td><td>Grizzly bear</td><td>1-30</td><td>King crab (Ultimate Magic 117)</td></tr><tr><td>31-60</td><td>Rat</td><td>31-60</td><td>Wolf</td><td>31-60</td><td>Lion</td><td>31-60</td><td>Seal (Bestiary 5 113)</td></tr><tr><td>61-75</td><td>Cat</td><td>61-85</td><td>Boar</td><td>61-80</td><td>Heavy horse</td><td>61-80</td><td>Dolphin (Bestiary 88)</td></tr><tr><td>76-90</td><td>Weasel</td><td>86-100</td><td>Leopard</td><td>81-90</td><td>Tiger</td><td>81-90</td><td>Octopus (Bestiary 219</td></tr><tr><td>91-100</td><td>Riding dog</td><td colspan=2>-</td><td>91-100</td><td>Rhinoceros</td><td>91-100</td><td>Squid (Bestiary 259)</tr></table> The heavy horse appears with harness and tack and accepts the character who drew it from the bag as a rider.",
+			{
+				"table": true,
+				"rows": [
+					[
+						{
+							"cols": 2,
+							"text": "Gray Bag"
+						},
+						{
+							"cols": 2,
+							"text": "Rust Bag"
+						},
+						{
+							"cols": 2,
+							"text": "Tan Bag"
+						},
+						{
+							"cols": 2,
+							"text": "Aquamarine Bag"
+						}
+					],
+					[
+						"d%",
+						"Animal",
+						"d%",
+						"Animal",
+						"d%",
+						"Animal",
+						"d%",
+						"Animal"
+					],
+					[
+						"01-30",
+						"Bat",
+						"01-30",
+						"Wolverine",
+						"01-30",
+						"Grizzly bear",
+						"1-30",
+						"King crab (Ultimate Magic 117)"
+					],
+					[
+						"31-60",
+						"Rat",
+						"31-60",
+						"Wolf",
+						"31-60",
+						"Lion",
+						"31-60",
+						"Seal (Bestiary 5 113)"
+					],
+					[
+						"61-75",
+						"Cat",
+						"61-85",
+						"Boar",
+						"61-80",
+						"Heavy horse",
+						"61-80",
+						"Dolphin (Bestiary 88)"
+					],
+					[
+						"76-90",
+						"Weasel",
+						"86-100",
+						"Leopard",
+						"81-90",
+						"Tiger",
+						"81-90",
+						"Octopus (Bestiary 219"
+					],
+					[
+						"91-100",
+						"Riding dog",
+						"-",
+						"91-100",
+						"Rhinoceros",
+						"91-100"
+					]
+				]
+			},
+			"The heavy horse appears with harness and tack and accepts the character who drew it from the bag as a rider.",
 			"Animals produced are always random, and only one may exist at a time. Up to 10 animals can be drawn from the bag each week, but no more than two per day."
 		],
 		"construction": "Requirements Craft Wondrous Item, summon nature's ally II (aquamarine, gray), summon nature's ally III (rust), or summon nature's ally V (tan); Cost 1,700 gp (Gray), 2,250 gp (Aquamarine), 4,250 gp (Rust), 8,000 gp (Tan)"
@@ -26933,7 +27563,16 @@
 			"Onyx Dog: When commanded, this statuette changes into a creature with the same properties as a riding dog except that it is endowed with an Intelligence of 8, can communicate in Common, and has exceptional olfactory and visual abilities. It has the scent ability and adds +4 on its Perception checks. It has 60-foot darkvision, and it can see invisibility. An onyx dog can be used once per week for up to 6 hours. It obeys only its owner.; CL 11th; Craft Wondrous Item, animate objects.",
 			"Golden Lions: These figurines come in pairs. They become normal adult male lions. If slain in combat, the lions cannot be brought back from statuette form for 1 full week. Otherwise, they can be used once per day for up to 1 hour. They enlarge and shrink upon speaking the command word.; CL 11th; Craft Wondrous Item, animate objects.",
 			"Marble Elephant: This is the largest of the figurines, the statuette being about the size of a human hand. Upon utterance of the command word, a marble elephant grows to the size and specifications of a true elephant. The animal created from the statuette is fully obedient to the figurine's owner, serving as a beast of burden, a mount, or a combatant. The statuette can be used four times per month for up to 24 hours at a time.; CL 11th; Craft Wondrous Item, animate objects.",
-			"Ivory Goats: These figurines come in threes. Each goat of this trio looks slightly different from the others, and each has a different function: <ul><li>The Goat of Traveling: This statuette provides a speedy and enduring mount equal to that of a heavy horse in every way except appearance. The goat can travel for a maximum of 1 day each week-continuously or in any combination of periods totaling 24 hours. At this point, or when the command word is uttered, it returns to its statuette form for no less than 1 day before it can again be used. </li><li>The Goat of Travail: This statuette becomes an enormous creature, larger than a bull, with the statistics of a nightmare except for the addition of a pair of wicked horns of exceptional size (damage 1d8+4 for each horn). If it is charging to attack, it may only use its horns (but add 6 points of damage to each successful attack in that round). It can be called to life just once per month for up to 12 hours at a time. </li><li>The Goat of Terror: When called upon with the proper command word, this statuette becomes a destrier-like mount with the statistics of a light horse. However, its rider can employ the goat's horns as weapons (one horn as a +3 heavy lance, the other as a +5 longsword). When ridden in an attack against an opponent, the goat of terror radiates fear as the spell in a 30-foot radius (Will DC 16 partial). It can be used once every 2 weeks for up to 3 hours per use.</li></ul>; CL 11th; Craft Wondrous Item, animate objects.",
+			"Ivory Goats: These figurines come in threes. Each goat of this trio looks slightly different from the others, and each has a different function:",
+			{
+				"list": true,
+				"items": [
+					"The Goat of Traveling: This statuette provides a speedy and enduring mount equal to that of a heavy horse in every way except appearance. The goat can travel for a maximum of 1 day each week-continuously or in any combination of periods totaling 24 hours. At this point, or when the command word is uttered, it returns to its statuette form for no less than 1 day before it can again be used.",
+					"The Goat of Travail: This statuette becomes an enormous creature, larger than a bull, with the statistics of a nightmare except for the addition of a pair of wicked horns of exceptional size (damage 1d8+4 for each horn). If it is charging to attack, it may only use its horns (but add 6 points of damage to each successful attack in that round). It can be called to life just once per month for up to 12 hours at a time.",
+					"The Goat of Terror: When called upon with the proper command word, this statuette becomes a destrier-like mount with the statistics of a light horse. However, its rider can employ the goat's horns as weapons (one horn as a +3 heavy lance, the other as a +5 longsword). When ridden in an attack against an opponent, the goat of terror radiates fear as the spell in a 30-foot radius (Will DC 16 partial). It can be used once every 2 weeks for up to 3 hours per use."
+				]
+			},
+			"; CL 11th; Craft Wondrous Item, animate objects.",
 			"Obsidian Steed: This figurine appears to be a small, shapeless lump of black stone. Only careful inspection reveals that it vaguely resembles some form of quadruped. On command, the near-formless piece of obsidian becomes a fantastic mount. Treat it as a heavy horse with the following additional powers usable once per round at will: overland flight, plane shift, and ethereal jaunt. The steed allows itself to be ridden, but if the rider is of good alignment, the steed is 10% likely per use to carry him to the lower planes and then return to its statuette form. The statuette can be used once per week for one continuous period of up to 24 hours. Note that when an obsidian steed becomes ethereal or plane shifts, its rider and his gear follow suit. Thus, the user can travel to other planes via this means.; CL 15th; Craft Wondrous Item, animate objects, etherealness, fly, plane shift.",
 			"Basalt Dragon: This fist-sized, carved dragon is sculpted from volcanic rock. It becomes either a pseudodragon or a flame drake (Pathfinder RPG Bestiary 2 106), depending on the command word used. The transformation can take place twice per day, with a maximum duration of 2 continuous hours. The pseudodragon can use its telepathy to communicate with its owner over any distance, but not across planes.",
 			"By expending one use of mythic power, the user of the figurine can instead transform the figurine into a young red dragon. If the user is at least 5th tier, she can instead expend two uses of mythic power to transform the figurine into an adult red dragon. If the user is at least 9th tier, she can instead expend four uses of mythic power to transform the figurine into an ancient red dragon. Transforming the figurine into a true dragon renders the figurine powerless for 1 week after the transformation ends.; CL 20th; Craft Wondrous Item, Mythic Crafter, animate objects, form of the dragon III, telepathic bond."
@@ -27069,7 +27708,44 @@
 		"description": [
 			"A spirit planchette is typically found in a wooden case along with a thin wooden board printed with numerous letters and numbers. Nonmagical versions of these divination tools can be purchased in curiosity shops (typically costing 25 gp); while these items can be used as alternative components for augury spells, only magical spirit planchettes allow users to communicate with the other side. Three types of spirit planchettes exist-brass, cold iron, and silver. Each in turn allows an increasingly potent form of divination effect to be utilized. A spirit planchette requires a board to move upon, but this \"board\" can be made up of letters scribed upon any smooth surface-it need not be a prepared board for a spirit planchette to work.",
 			"To use a spirit planchette, you must rest your fingers lightly upon the planchette's surface and then concentrate on the planchette (as if maintaining a spell with a duration of concentration) for 2d6 rounds while the planchette attunes itself to the ambient spirits of the area. After this time, the planchette begins to slowly slide in random patterns across the board-at this point, questions may be asked of the spirits by any of the individuals involved in the s??ance. The consequences of each question asked of the spirits depends upon what type of planchette is used for the divination, as summarized on the table below. The spirits reply in a language understood by the character who asked the question, but resent such contact and give only brief answers to the questions. All questions are answered with \"yes,\" \"no,\" or \"maybe,\" or by spelling out a single word from the letters arranged on the board. The spirits answer each question either in the same round the question is asked (in the case of a yes, no, or maybe answer) or at a rate of one letter per round (in the case of a single word being spelled out). A spirit planchette may be used once per day-the maximum number of questions you can ask with it depends on the type of planchette being used (as detailed on the table below).",
-			"Communication with spirits can be a dangerous task, for many spirits are jealous or hateful of the living. Every time a spirit planchette is used, the user must succeed on a Will save to avoid being temporarily possessed and harmed by the angry spirits. In some areas where the spirits are particularly violent or hateful (such as in Harrowstone), this Will save takes a -2 penalty. The DC of this save depends on the type of spirit planchette being used. Anyone who fails the Will save becomes confused for a number of rounds (depending on the type of planchette being used), and no answer is received. The spirits in the area are not omniscient-the GM should decide whether or not the spirits would actually know the answer to the question asked, and if they do not, the answer granted is automatically \"maybe.\" If the GM determines that the spirits are knowledgeable about the answer, roll d% to determine whether the spirits speak truthfully or whether they lie.<table class=\"inner\"><tr><td>Planchette Type</td><td>Questions per Use</td><td>Will Save DC</td><td>Confusion Duration</td><td>True Answer</td><td>Lie</td></tr><tr><td>Brass</td><td>1</td><td>11</td><td>1 round</td><td>01-60</td><td>61-100</td></tr><tr><td>Cold Iron</td><td>3</td><td>15</td><td>2 rounds</td><td>01-75</td><td>76-100</td></tr><tr><td>Silver</td><td>5</td><td>19</td><td>3 rounds</td><td>01-90</td><td>91-100</td></tr></table>"
+			"Communication with spirits can be a dangerous task, for many spirits are jealous or hateful of the living. Every time a spirit planchette is used, the user must succeed on a Will save to avoid being temporarily possessed and harmed by the angry spirits. In some areas where the spirits are particularly violent or hateful (such as in Harrowstone), this Will save takes a -2 penalty. The DC of this save depends on the type of spirit planchette being used. Anyone who fails the Will save becomes confused for a number of rounds (depending on the type of planchette being used), and no answer is received. The spirits in the area are not omniscient-the GM should decide whether or not the spirits would actually know the answer to the question asked, and if they do not, the answer granted is automatically \"maybe.\" If the GM determines that the spirits are knowledgeable about the answer, roll d% to determine whether the spirits speak truthfully or whether they lie.",
+			{
+				"table": true,
+				"rows": [
+					[
+						"Planchette Type",
+						"Questions per Use",
+						"Will Save DC",
+						"Confusion Duration",
+						"True Answer",
+						"Lie"
+					],
+					[
+						"Brass",
+						"1",
+						"11",
+						"1 round",
+						"01-60",
+						"61-100"
+					],
+					[
+						"Cold Iron",
+						"3",
+						"15",
+						"2 rounds",
+						"01-75",
+						"76-100"
+					],
+					[
+						"Silver",
+						"5",
+						"19",
+						"3 rounds",
+						"01-90",
+						"91-100"
+					]
+				]
+			}
 		],
 		"construction": "Requirements Craft Wondrous Item, contact other planes, speak with dead; Cost 2,000 gp (brass spirit planchette), 5,000 gp (cold iron spirit planchette), 9,000 gp (silver spirit planchette)"
 	},
@@ -27182,7 +27858,40 @@
 		],
 		"description": [
 			"This simple ceramic flask looks like any other normal container for serving sake, or rice wine. If the flask's silver stopper is removed and the command word spoken, up to 1 gallon of sake can be poured from the flask per round. In addition, once per day, a character can drink directly from the flask to gain the effects of a potion, determined randomly. Roll 1d6 on the following table to determine the type of potion.",
-			"<table class=\"inner\"><tr><td>d6</td><td>Roll Potion type</td></tr> <tr><td>1</td><td>heroism</td></tr> <tr><td>2</td><td>cure moderate wounds</td></tr> <tr><td>3</td><td>enlarge person</td></tr> <tr><td>4</td><td>reduce person</td></tr> <tr><td>5</td><td>lesser restoration</td></tr> <tr><td>6</td><td>rage</td></tr></table> This potion cannot be poured out or saved for later use; it must be drunk, and the potion's effects take place immediately."
+			{
+				"table": true,
+				"rows": [
+					[
+						"d6",
+						"Roll Potion type"
+					],
+					[
+						"1",
+						"heroism"
+					],
+					[
+						"2",
+						"cure moderate wounds"
+					],
+					[
+						"3",
+						"enlarge person"
+					],
+					[
+						"4",
+						"reduce person"
+					],
+					[
+						"5",
+						"lesser restoration"
+					],
+					[
+						"6",
+						"rage"
+					]
+				]
+			},
+			"This potion cannot be poured out or saved for later use; it must be drunk, and the potion's effects take place immediately."
 		],
 		"construction": "Requirements Brew Potion, Craft Wondrous Item, create water, cure moderate wounds, enlarge person, heroism, lesser restoration, rage, reduce person; Cost 2,000 gp"
 	},
@@ -27945,7 +28654,36 @@
 		"description": [
 			"This silk cloth is folded into a neat triangle and tied with a gold ribbon. If the command word is spoken, a floating sail unfurls up to its full size in an area chosen by the speaker and becomes a rigid sheet of cloth capable of supporting a large amount of weight. When the command word is uttered a second time, the floating sail folds up into a triangle in a space chosen by the speaker (this space must be one that the floating sail was touching while unfurled).",
 			"If the floating sail is bearing any weight when commanded to fold up, it collapses and takes the form of a normal silk sail; depending on whether the sail was placed on water, over a gap, or in a similarly perilous location, any creatures standing on it may become entangled in the sail, fall to their doom, or worse (at the GM's discretion, those who succeed at a Reflex save may avoid disaster). Similarly, a floating sail immediately collapses if its weight capacity is exceeded. A collapsed floating sail must be picked up and refolded by hand before it can be activated again.",
-			"<table class=\"inner\"><tr><td>Size</td><td>Weight</td><td>Capacity</td><td>Price</tr> <tr><td>10-ft.-by-15-ft.</td><td>20 lbs.</td><td>800 lbs.</td><td>5,000 gp</tr> <tr><td>15-ft.-by-30-ft.</td><td>25 lbs.</td><td>1,000 lbs.</td><td>15,000 gp</tr> <tr><td>15-ft.-by-40-ft.</td><td>40 lbs.</td><td>1,250 lbs.</td><td>20,000 gp</tr> <tr><td>20-ft.-by-50-ft.</td><td>50 lbs.</td><td>2,000 lbs.</td><td>32,000 gp</tr></table>"
+			{
+				"table": true,
+				"rows": [
+					[
+						"Size",
+						"Weight",
+						"Capacity"
+					],
+					[
+						"10-ft.-by-15-ft.",
+						"20 lbs.",
+						"800 lbs."
+					],
+					[
+						"15-ft.-by-30-ft.",
+						"25 lbs.",
+						"1,000 lbs."
+					],
+					[
+						"15-ft.-by-40-ft.",
+						"40 lbs.",
+						"1,250 lbs."
+					],
+					[
+						"20-ft.-by-50-ft.",
+						"50 lbs.",
+						"2,000 lbs."
+					]
+				]
+			}
 		],
 		"construction": "Requirements Craft Wondrous Item, water walk; Cost 2,500 gp (10-ft.-by-15-ft.), 7,500 gp (15-ft.-by-30-ft.), 10,000 gp (15-ft.-by-40-ft.), 16,000 gp (20-ft.-by-50-ft.)"
 	},
@@ -29685,9 +30423,53 @@
 			"Slot none; Price 6,000 gp (Type I), 14,000 gp (Type II), 24,000 gp (Type III), 36,000 gp (Type IV); Weight &mdash;"
 		],
 		"description": [
-			"When this <a href=\"magicwondrous8768.html?FinalSlot=Ioun\">ioun stone</a> is embedded in a clockwork construct, it grants the recipient humanlike sentience, as per the <a href=\"spelldisplay86ed.html?ItemName=awaken%20construct\">awaken construct</a> spell. The transformation is not permanent, and regardless of the body a stone is embedded in, the creature in which it's embedded always gains the same alignment, Charisma score increase, Intelligence score, language, memories, personality, and skills. These statistics depend on the ioun memory node type, as noted in the table below.",
-			"<table class=\"inner\"><tr><td>Type</td><td>Int</td><td>Cha</td><td>Skills</td><td>Languages</td><td>Max HD</td></tr><tr><td>I</td><td>7</td><td>+2</td><td>1</td><td>1</td><td>4</td></tr><tr><td>II</td><td>10</td><td>+5</td><td>2</td><td>1</td><td>8</td></tr><tr><td>III</td><td>12</td><td>+7</td><td>3</td><td>2</td><td>12</td></tr><tr><td>IV</td><td>15</td><td>+10</td><td>4</td><td>3</td><td>16</td></tr></table>",
-			"The skills, languages, and alignment are chosen when the node is created. The node grants a number of skill ranks in those skills equal to the clockwork's Hit Dice. Unlike <a href=\"spelldisplay86ed.html?ItemName=awaken%20construct\">awaken construct</a>, an ioun memory node doesn't grant feats. A clockwork that is already intelligent can access the memories collected in the ioun memory node but is otherwise unaffected. A clockwork whose number of Hit Dice exceeds the maximum HD for that type of ioun memory node is unaffected."
+			"When this ~`ioun stone`~ is embedded in a clockwork construct, it grants the recipient humanlike sentience, as per the ~`awaken construct`~ spell. The transformation is not permanent, and regardless of the body a stone is embedded in, the creature in which it's embedded always gains the same alignment, Charisma score increase, Intelligence score, language, memories, personality, and skills. These statistics depend on the ioun memory node type, as noted in the table below.",
+			{
+				"table": true,
+				"rows": [
+					[
+						"Type",
+						"Int",
+						"Cha",
+						"Skills",
+						"Languages",
+						"Max HD"
+					],
+					[
+						"I",
+						"7",
+						"+2",
+						"1",
+						"1",
+						"4"
+					],
+					[
+						"II",
+						"10",
+						"+5",
+						"2",
+						"1",
+						"8"
+					],
+					[
+						"III",
+						"12",
+						"+7",
+						"3",
+						"2",
+						"12"
+					],
+					[
+						"IV",
+						"15",
+						"+10",
+						"4",
+						"3",
+						"16"
+					]
+				]
+			},
+			"The skills, languages, and alignment are chosen when the node is created. The node grants a number of skill ranks in those skills equal to the clockwork's Hit Dice. Unlike ~`awaken construct`~, an ioun memory node doesn't grant feats. A clockwork that is already intelligent can access the memories collected in the ioun memory node but is otherwise unaffected. A clockwork whose number of Hit Dice exceeds the maximum HD for that type of ioun memory node is unaffected."
 		],
 		"construction": "Requirements ~`Craft Wondrous Item`~, ~`awaken construct`~; Cost 3,000 gp (Type I), 7,000 gp (Type II), 12,000 gp (Type III), 18,000 gp (Type IV)"
 	},
@@ -30110,7 +30892,16 @@
 			"Slot none; Price 6,600 gp; Weight 2 lbs."
 		],
 		"description": [
-			"This iridescent spiraling shell can be blown once per day as a standard action to activate any one of these functions: <ul><li>Calm rough waters in a 40-foot radius. This reduces the DCs of Swim checks in the area by 5 (to a minimum of 10). This effect lasts for 5 minutes.</li><li>Summon up to six hippocampi. The creatures appear with bit, bridle, and a riding saddle crafted for aquatic use. They serve willingly and well, entering combat and risking attack unflinchingly if a rider directs them to do so (treat them as combat-trained mounts), though they don't make attacks of their own. These hippocampi serve the PCs for up to 2 hours.</li><li>Create a soothing effect in a 40-foot radius that affects only animals and magical beasts with Intelligence scores of 1 or 2 that also have the aquatic or amphibious subtype. This otherwise functions as calm animals (Will DC 12 negates).</li></ul> The sounding of this magical horn can be heard by all tritons within a 1-mile radius."
+			"This iridescent spiraling shell can be blown once per day as a standard action to activate any one of these functions:",
+			{
+				"list": true,
+				"items": [
+					"Calm rough waters in a 40-foot radius. This reduces the DCs of Swim checks in the area by 5 (to a minimum of 10). This effect lasts for 5 minutes.",
+					"Summon up to six hippocampi. The creatures appear with bit, bridle, and a riding saddle crafted for aquatic use. They serve willingly and well, entering combat and risking attack unflinchingly if a rider directs them to do so (treat them as combat-trained mounts), though they don't make attacks of their own. These hippocampi serve the PCs for up to 2 hours.",
+					"Create a soothing effect in a 40-foot radius that affects only animals and magical beasts with Intelligence scores of 1 or 2 that also have the aquatic or amphibious subtype. This otherwise functions as calm animals (Will DC 12 negates)."
+				]
+			},
+			"The sounding of this magical horn can be heard by all tritons within a 1-mile radius."
 		],
 		"construction": "Requirements Craft Wondrous Item, calm animals, communal mount, slipstream, creator must be a triton; Cost 3,300 gp"
 	},
@@ -31402,11 +32193,227 @@
 		],
 		"description": [
 			"This set of parchment cards is usually found in an ivory, leather, or wooden box. A full deck consists of 34 cards. When a card is drawn at random and thrown to the ground, a major image of a creature is formed. The figment lasts until dispelled. The illusory creature cannot move more than 30 feet away from where the card landed, but otherwise moves and acts as if it were real. At all times it obeys the desires of the character who drew the card. When the illusion is dispelled, the card becomes blank and cannot be used again. If the card is picked up, the illusion is automatically and instantly dispelled. The cards in a deck and the illusions they bring forth are summarized on the following table. (Use one of the first two columns to simulate the contents of a full deck using either ordinary playing cards or tarot cards.)",
-			"<table class=\"inner\"><tr><td>Playing Card</td><td>Tarot Card</td><td>Creature</td></tr> <tr><td>Ace of hearts</td><td>IV. The Emperor</td><td>Red dragon</td></tr> <tr><td>King of hearts</td><td>Knight of swords</td><td>Male human fighter and four guards</td></tr> <tr><td>Queen of hearts</td><td>Queen of staves</td><td>Female human wizard</td></tr> <tr><td>Jack of hearts</td><td>King of staves</td><td>Male human druid</td></tr> <tr><td>Ten of hearts</td><td>VII. The Chariot</td><td>Cloud giant</td></tr> <tr><td>Nine of hearts</td><td>Page of staves</td><td>Ettin</td></tr> <tr><td>Eight of hearts</td><td>Ace of cups</td><td>Bugbear</td></tr> <tr><td>Two of hearts</td><td>Five of staves</td><td>Goblin</td></tr></table>",
-			"<table class=\"inner\"><tr><td>Playing Card</td><td>Tarot Card</td><td>Creature</td></tr> <tr><td>Ace of diamonds</td><td>III. The Empress</td><td>Glabrezu (demon)</td></tr> <tr><td>King of diamonds</td><td>Two of cups</td><td>Male elf wizard and female apprentice</td></tr> <tr><td>Queen of diamonds</td><td>Queen of swords</td><td>Half-elf ranger</td></tr> <tr><td>Jack of diamonds</td><td>XIV. Temperance</td><td>Harpy</td></tr> <tr><td>Ten of diamonds</td><td>Seven of staves</td><td>Male half-orc barbarian</td></tr> <tr><td>Nine of diamonds</td><td>Four of pentacles</td><td>Ogre mage</td></tr> <tr><td>Eight of diamonds</td><td>Ace of pentacles</td><td>Gnoll</td></tr> <tr><td>Two of diamonds</td><td>Six of pentacles</td><td>Kobold</td></tr></table>",
-			"<table class=\"inner\"><tr><td>Playing Card</td><td>Tarot Card</td><td>Creature</td></tr> <tr><td>Ace of spades</td><td>II. The High Priestess</td><td>Lich</td></tr> <tr><td>King of spades</td><td>Three of staves</td><td>Three human clerics</td></tr> <tr><td>Queen of spades</td><td>Four of cups</td><td>Medusa</td></tr> <tr><td>Jack of spades</td><td>Knight of pentacles</td><td>Male dwarf paladin</td></tr> <tr><td>Ten of spades</td><td>Seven of swords</td><td>Frost giant</td></tr> <tr><td>Nine of spades</td><td>Three of swords</td><td>Troll</td></tr> <tr><td>Eight of spades</td><td>Ace of swords</td><td>Hobgoblin</td></tr> <tr><td>Two of spades</td><td>Five of cups</td><td>Goblin</td></tr></table>",
-			"<table class=\"inner\"><tr><td>Playing Card</td><td>Tarot Card</td><td>Creature</td></tr> <tr><td>Ace of clubs</td><td>VIII. Strength</td><td>Iron golem</td></tr> <tr><td>King of clubs</td><td>Page of pentacles</td><td>Three halfling rogues</td></tr> <tr><td>Queen of clubs</td><td>Ten of cups</td><td>Pixies</td></tr> <tr><td>Jack of clubs</td><td>Nine of pentacles</td><td>Half-elf bard</td></tr> <tr><td>Ten of clubs</td><td>Nine of staves</td><td>Hill giant</td></tr> <tr><td>Nine of clubs</td><td>King of swords</td><td>Ogre</td></tr> <tr><td>Eight of clubs</td><td>Ace of staves</td><td>Orc</td></tr> <tr><td>Two of clubs</td><td>Five of cups</td><td>Kobold</td></tr></table>",
-			"<table class=\"inner\"><tr><td>Playing Card</td><td>Tarot Card</td><td>Creature</td></tr> <tr><td>Joker</td><td>Two of pentacles</td><td>Illusion of deck's owner</td></tr> <tr><td>Joker (with trademark)</td><td>Two of staves</td><td>Illusion of deck's owner (sex reversed)</td></tr></table> A randomly generated deck is usually complete (11-100 on d%), but may be discovered with 1d20 of its cards missing (01-10). If cards are missing, reduce the price by a corresponding amount."
+			{
+				"table": true,
+				"rows": [
+					[
+						"Playing Card",
+						"Tarot Card",
+						"Creature"
+					],
+					[
+						"Ace of hearts",
+						"IV. The Emperor",
+						"Red dragon"
+					],
+					[
+						"King of hearts",
+						"Knight of swords",
+						"Male human fighter and four guards"
+					],
+					[
+						"Queen of hearts",
+						"Queen of staves",
+						"Female human wizard"
+					],
+					[
+						"Jack of hearts",
+						"King of staves",
+						"Male human druid"
+					],
+					[
+						"Ten of hearts",
+						"VII. The Chariot",
+						"Cloud giant"
+					],
+					[
+						"Nine of hearts",
+						"Page of staves",
+						"Ettin"
+					],
+					[
+						"Eight of hearts",
+						"Ace of cups",
+						"Bugbear"
+					],
+					[
+						"Two of hearts",
+						"Five of staves",
+						"Goblin"
+					]
+				]
+			},
+			{
+				"table": true,
+				"rows": [
+					[
+						"Playing Card",
+						"Tarot Card",
+						"Creature"
+					],
+					[
+						"Ace of diamonds",
+						"III. The Empress",
+						"Glabrezu (demon)"
+					],
+					[
+						"King of diamonds",
+						"Two of cups",
+						"Male elf wizard and female apprentice"
+					],
+					[
+						"Queen of diamonds",
+						"Queen of swords",
+						"Half-elf ranger"
+					],
+					[
+						"Jack of diamonds",
+						"XIV. Temperance",
+						"Harpy"
+					],
+					[
+						"Ten of diamonds",
+						"Seven of staves",
+						"Male half-orc barbarian"
+					],
+					[
+						"Nine of diamonds",
+						"Four of pentacles",
+						"Ogre mage"
+					],
+					[
+						"Eight of diamonds",
+						"Ace of pentacles",
+						"Gnoll"
+					],
+					[
+						"Two of diamonds",
+						"Six of pentacles",
+						"Kobold"
+					]
+				]
+			},
+			{
+				"table": true,
+				"rows": [
+					[
+						"Playing Card",
+						"Tarot Card",
+						"Creature"
+					],
+					[
+						"Ace of spades",
+						"II. The High Priestess",
+						"Lich"
+					],
+					[
+						"King of spades",
+						"Three of staves",
+						"Three human clerics"
+					],
+					[
+						"Queen of spades",
+						"Four of cups",
+						"Medusa"
+					],
+					[
+						"Jack of spades",
+						"Knight of pentacles",
+						"Male dwarf paladin"
+					],
+					[
+						"Ten of spades",
+						"Seven of swords",
+						"Frost giant"
+					],
+					[
+						"Nine of spades",
+						"Three of swords",
+						"Troll"
+					],
+					[
+						"Eight of spades",
+						"Ace of swords",
+						"Hobgoblin"
+					],
+					[
+						"Two of spades",
+						"Five of cups",
+						"Goblin"
+					]
+				]
+			},
+			{
+				"table": true,
+				"rows": [
+					[
+						"Playing Card",
+						"Tarot Card",
+						"Creature"
+					],
+					[
+						"Ace of clubs",
+						"VIII. Strength",
+						"Iron golem"
+					],
+					[
+						"King of clubs",
+						"Page of pentacles",
+						"Three halfling rogues"
+					],
+					[
+						"Queen of clubs",
+						"Ten of cups",
+						"Pixies"
+					],
+					[
+						"Jack of clubs",
+						"Nine of pentacles",
+						"Half-elf bard"
+					],
+					[
+						"Ten of clubs",
+						"Nine of staves",
+						"Hill giant"
+					],
+					[
+						"Nine of clubs",
+						"King of swords",
+						"Ogre"
+					],
+					[
+						"Eight of clubs",
+						"Ace of staves",
+						"Orc"
+					],
+					[
+						"Two of clubs",
+						"Five of cups",
+						"Kobold"
+					]
+				]
+			},
+			{
+				"table": true,
+				"rows": [
+					[
+						"Playing Card",
+						"Tarot Card",
+						"Creature"
+					],
+					[
+						"Joker",
+						"Two of pentacles",
+						"Illusion of deck's owner"
+					],
+					[
+						"Joker (with trademark)",
+						"Two of staves",
+						"Illusion of deck's owner (sex reversed)"
+					]
+				]
+			},
+			"A randomly generated deck is usually complete (11-100 on d%), but may be discovered with 1d20 of its cards missing (01-10). If cards are missing, reduce the price by a corresponding amount."
 		],
 		"construction": "Requirements Craft Wondrous Item, major image; Cost 4,050 gp"
 	},
@@ -31701,7 +32708,16 @@
 			"Slot none; Price 9,000 gp; Weight 2 lbs."
 		],
 		"description": [
-			"If the stopper is removed from this ordinary-looking flask and a command word spoken, an amount of fresh or salt water pours out. Separate command words determine the type of water as well as the volume and velocity. <ul><li>\"Stream\" pours out 1 gallon per round. </li><li>\"Fountain\" produces a 5-foot-long stream at 5 gallons per round. </li><li>\"Geyser\" produces a 20-foot-long, 1-foot-wide stream at 30 gallons per round.</li></ul> The geyser effect exerts considerable pressure, requiring the holder to make a DC 12 Strength check to avoid being knocked down each round the effect is maintained. In addition, the powerful force of the geyser deals 1d4 points of damage per round to a creature that is subjected to it. The geyser can only affect one target per round, but the user can direct the beam of water without needing to make an attack roll to strike the target since the geyser's constant flow allows for ample opportunity to aim. Creatures with the fire subtype take 2d4 points of damage per round from the geyser rather than 1d4. The command word must be spoken to stop it."
+			"If the stopper is removed from this ordinary-looking flask and a command word spoken, an amount of fresh or salt water pours out. Separate command words determine the type of water as well as the volume and velocity.",
+			{
+				"list": true,
+				"items": [
+					"\"Stream\" pours out 1 gallon per round.",
+					"\"Fountain\" produces a 5-foot-long stream at 5 gallons per round.",
+					"\"Geyser\" produces a 20-foot-long, 1-foot-wide stream at 30 gallons per round."
+				]
+			},
+			"The geyser effect exerts considerable pressure, requiring the holder to make a DC 12 Strength check to avoid being knocked down each round the effect is maintained. In addition, the powerful force of the geyser deals 1d4 points of damage per round to a creature that is subjected to it. The geyser can only affect one target per round, but the user can direct the beam of water without needing to make an attack roll to strike the target since the geyser's constant flow allows for ample opportunity to aim. Creatures with the fire subtype take 2d4 points of damage per round from the geyser rather than 1d4. The command word must be spoken to stop it."
 		],
 		"construction": "Requirements Craft Wondrous Item, control water; Cost 4,500 gp"
 	},
@@ -31777,7 +32793,16 @@
 		"description": [
 			"Created from the bodies of certain frogs whose poisons induce potent hallucinations and delusions, these mummified husks are variously cited as the invention of either grippli druids or an unusually cunning boggard priest-king. Regardless, their powers are a boon to any caster favoring mental manipulation and alteration.",
 			"Three times per day while casting a targeted mind-affecting spell that allows a Will save, a caster holding a fetish of the frog queen can lace the spell's energies with a magical poisonous essence. Instead of affecting the target's mind directly, the altered spell attacks through the victim's body as a psychotropic toxin, requiring the victim to use his Fortitude modifier in place of Will for the purposes of any Will saving throws the spell normally allows.",
-			"An altered spell is considered a poison effect, with the following conditions. <ul><li>An altered spell can be suppressed by effects such as delay poison. Time spent suppressed still counts against the spell's duration.</li><li>If accelerate poison (Pathfinder RPG Advanced Player's Guide 201) is used on the spell, the poison effect's duration is halved but its saving throws are unaffected.</li><li>An altered spell transferred to another target, such as by absorb toxicity (Pathfinder RPG Ultimate Combat 221), is still considered cast by the original caster for the purposes of adjudicating spell effects, such as which creature a charmed victim regards as its friend.</li></ul> An altered spell is still vulnerable to spell resistance, dispelling, and other effects as normal.",
+			"An altered spell is considered a poison effect, with the following conditions.",
+			{
+				"list": true,
+				"items": [
+					"An altered spell can be suppressed by effects such as delay poison. Time spent suppressed still counts against the spell's duration.",
+					"If accelerate poison (Pathfinder RPG Advanced Player's Guide 201) is used on the spell, the poison effect's duration is halved but its saving throws are unaffected.",
+					"An altered spell transferred to another target, such as by absorb toxicity (Pathfinder RPG Ultimate Combat 221), is still considered cast by the original caster for the purposes of adjudicating spell effects, such as which creature a charmed victim regards as its friend."
+				]
+			},
+			"An altered spell is still vulnerable to spell resistance, dispelling, and other effects as normal.",
 			"Three varieties of fetish of the frog queen exist: lesser, standard, and greater. A lesser fetish affects spells of up to 3rd level; a standard fetish affects spells of up to 6th level; and a greater fetish affects any spell."
 		],
 		"construction": "Requirements Craft Wondrous Item, poison; Cost 4,500 gp (Lesser), 16,250 gp (Standard), 36,500 gp (Greater)"
@@ -31997,7 +33022,40 @@
 		],
 		"description": [
 			"This item appears to be nothing more than a string of prayer beads until the owner casts a divine spell while the beads are carried. Once that occurs, the owner instantly knows the powers of the prayer beads and understands how to activate the strand's special magical beads. Each strand includes two or more special beads, each with a different magic power selected from the following list.",
-			"<table class=\"inner\"><tr><td>Special Bead Type</td><td>Special Bead Ability</td></tr> <tr><td>Bead of blessing (CL 1st)</td><td>Wearer can cast bless.</td></tr> <tr><td>Bead of healing (CL 5th)</td><td>Wearer can cast his choice of cure serious wounds, remove blindness/deafness, or remove disease.</td></tr> <tr><td>Bead of karma (CL 9th)</td><td>Wearer casts his spells at +4 caster level. Effect lasts 10 minutes.</td></tr> <tr><td>Bead of smiting (CL 7th)</td><td>Wearer can cast chaos hammer, holy smite, order's wrath, or unholy blight (Will DC 17 partial).</td></tr> <tr><td>Bead of summons (CL 17th)</td><td>Summons a powerful creature of appropriate alignment from the Outer Planes (an angel, devil, etc.) to aid the wearer for 1 day. (If the wearer uses the bead of summons to summon a deity's emissary frivolously, the deity takes that character's items and places a geas upon him as punishment at the very least.)</td></tr> <tr><td>Bead of wind walking (CL 11th)</td><td>Wearer can cast wind walk.</td></tr></table> A lesser strand of prayer beads has a bead of blessing and a bead of healing. A strand of prayer beads has a bead of healing, a bead of karma, and a bead of smiting. A greater strand of prayer beads has a bead of healing, a bead of karma, a bead of summons, and a bead of wind walking.",
+			{
+				"table": true,
+				"rows": [
+					[
+						"Special Bead Type",
+						"Special Bead Ability"
+					],
+					[
+						"Bead of blessing (CL 1st)",
+						"Wearer can cast bless."
+					],
+					[
+						"Bead of healing (CL 5th)",
+						"Wearer can cast his choice of cure serious wounds, remove blindness/deafness, or remove disease."
+					],
+					[
+						"Bead of karma (CL 9th)",
+						"Wearer casts his spells at +4 caster level. Effect lasts 10 minutes."
+					],
+					[
+						"Bead of smiting (CL 7th)",
+						"Wearer can cast chaos hammer, holy smite, order's wrath, or unholy blight (Will DC 17 partial)."
+					],
+					[
+						"Bead of summons (CL 17th)",
+						"Summons a powerful creature of appropriate alignment from the Outer Planes (an angel, devil, etc.) to aid the wearer for 1 day. (If the wearer uses the bead of summons to summon a deity's emissary frivolously, the deity takes that character's items and places a geas upon him as punishment at the very least.)"
+					],
+					[
+						"Bead of wind walking (CL 11th)",
+						"Wearer can cast wind walk."
+					]
+				]
+			},
+			"A lesser strand of prayer beads has a bead of blessing and a bead of healing. A strand of prayer beads has a bead of healing, a bead of karma, and a bead of smiting. A greater strand of prayer beads has a bead of healing, a bead of karma, a bead of summons, and a bead of wind walking.",
 			"Each special bead can be used once per day, except for the bead of summons, which works only once and then becomes nonmagical. The beads of blessing, smiting, and wind walking function as spell trigger items; the beads of karma and summons can be activated by any character capable of casting divine spells. The owner need not hold or wear the strand of prayer beads in any specific location, as long as he carries it somewhere on his person.",
 			"The power of a special bead is lost if it is removed from the strand. Reduce the price of a strand of prayer beads that is missing one or more beads by the following amounts: bead of blessing -600 gp, bead of healing -9,000 gp, bead of karma -20,000 gp, bead of smiting -16,800 gp, bead of summons -20,000 gp, bead of wind walking -46,800 gp."
 		],
@@ -32506,7 +33564,16 @@
 			"Slot none; Price 10,000 gp; Weight 1 lb."
 		],
 		"description": [
-			"This undistinguished metal lump has no powers in its default state. By concentrating on it for 1 minute, a creature who worships a deity may transform it into a masterwork holy symbol of that deity. Whenever this holy symbol is used as a focus for channeled energy, as a free action the bearer can alter the channel area to one of the following options: <ul><li>10-foot burst centered anywhere within 30 feet </li><li>60-foot line </li><li>30-foot cone</li></ul> The symbol reverts to its nondescript lump form after being away from its bearer for 24 hours."
+			"This undistinguished metal lump has no powers in its default state. By concentrating on it for 1 minute, a creature who worships a deity may transform it into a masterwork holy symbol of that deity. Whenever this holy symbol is used as a focus for channeled energy, as a free action the bearer can alter the channel area to one of the following options:",
+			{
+				"list": true,
+				"items": [
+					"10-foot burst centered anywhere within 30 feet",
+					"60-foot line",
+					"30-foot cone"
+				]
+			},
+			"The symbol reverts to its nondescript lump form after being away from its bearer for 24 hours."
 		],
 		"construction": "Requirements Craft Wondrous Item, mass cure light wounds, creator must be able to channel energy; Cost 5,000 gp"
 	},
@@ -33242,7 +34309,17 @@
 			"Slot none; Price 12,000 gp; Weight 2 lbs."
 		],
 		"description": [
-			"This simple chalkboard consists of a book-sized wooden frame surrounding a thin, rectangular slice of flat black slate. Though mediums typically use mundane slates to demonstrate automatic writing, this magical version can obtain answers to specific questions regarding a dead creature if the user has access to at least a fragment of bone from the deceased's body. Once the user places a bone fragment upon the slate, that fragment animates and begins scribbling answers to the following four questions on the slate's surface. <ul><li>Who were you? (The name by which the creature was most commonly known.)</li><li>What were you? (The creature's gender, race, profession/ role.)</li><li>How did you die? (A brief outline of the events that caused the creature's death, to the creature's best knowledge.)</li><li>When did you die? (To the most specific time the creature can place its death.)</li></ul> These answers always appear in a language the user can read, even if the creature could not speak that or any language. The device can be used up to 3 times per day."
+			"This simple chalkboard consists of a book-sized wooden frame surrounding a thin, rectangular slice of flat black slate. Though mediums typically use mundane slates to demonstrate automatic writing, this magical version can obtain answers to specific questions regarding a dead creature if the user has access to at least a fragment of bone from the deceased's body. Once the user places a bone fragment upon the slate, that fragment animates and begins scribbling answers to the following four questions on the slate's surface.",
+			{
+				"list": true,
+				"items": [
+					"Who were you? (The name by which the creature was most commonly known.)",
+					"What were you? (The creature's gender, race, profession/ role.)",
+					"How did you die? (A brief outline of the events that caused the creature's death, to the creature's best knowledge.)",
+					"When did you die? (To the most specific time the creature can place its death.)"
+				]
+			},
+			"These answers always appear in a language the user can read, even if the creature could not speak that or any language. The device can be used up to 3 times per day."
 		],
 		"construction": "Requirements Craft Wondrous Item, blood biography; Cost 6,000 gp"
 	},
@@ -33439,7 +34516,33 @@
 		],
 		"description": [
 			"This appears to be a rugged leather sack about 4 feet by 6 feet in size. It functions exactly the same as other types of bags of holding, but weighs more and has greater weight and volume limits, as shown on the table below.",
-			"<table class=\"inner\"><tr><td>Bag</td><td>Bag Weight</td><td>Contents Limit</td><td>Contents Volume Limit</td><td>Market Price</td></tr> <tr><td>Type V</td><td>100 lbs.</td><td>2,500 lbs.</td><td>450 cubic ft.</td><td>12,500 gp</td></tr> <tr><td>Type VI</td><td>150 lbs.</td><td>4,000 lbs.</td><td>800 cubic ft.</td><td>15,000 gp</td></tr></table> Because of the larger volume of a giant-sized bag of holding, retrieving a specific item from it is always a full-round action.",
+			{
+				"table": true,
+				"rows": [
+					[
+						"Bag",
+						"Bag Weight",
+						"Contents Limit",
+						"Contents Volume Limit",
+						"Market Price"
+					],
+					[
+						"Type V",
+						"100 lbs.",
+						"2,500 lbs.",
+						"450 cubic ft.",
+						"12,500 gp"
+					],
+					[
+						"Type VI",
+						"150 lbs.",
+						"4,000 lbs.",
+						"800 cubic ft.",
+						"15,000 gp"
+					]
+				]
+			},
+			"Because of the larger volume of a giant-sized bag of holding, retrieving a specific item from it is always a full-round action.",
 			"Type V and Type VI bags of holding are most commonly found in use by giants and other Large creatures, but giants of Huge size or larger sometimes use even greater bags of holding."
 		],
 		"construction": "Requirements Craft Wondrous Item, secret chest; Cost 6,250 gp (Type V), 7,500 gp (Type VI)"
@@ -34019,7 +35122,16 @@
 			"Slot none; Price 15,000 gp; Weight 2 lbs."
 		],
 		"description": [
-			"This device is a large, intricately inscribed and decorated conch shell that can be blown once per day (except by a triton, who can sound it three times per day). Blowing the horn activates any one of the following functions: <ul><li>Calm rough waters in a 1-mile radius. Alternatively, this functions as a dismissal spell against a targeted water elemental (DC 19 negates). </li><li>Summon 1d4+1 sharks or 1d3 advanced sharks as if using summon nature's ally V. </li><li>Create a fear effect (DC 16 negates) in a 500-foot radius that only affects creatures with the aquatic or amphibious subtype which have Intelligence scores of 1 or 2.</li></ul> Any sounding of a horn of the tritons can be heard by all tritons within a 3-mile radius."
+			"This device is a large, intricately inscribed and decorated conch shell that can be blown once per day (except by a triton, who can sound it three times per day). Blowing the horn activates any one of the following functions:",
+			{
+				"list": true,
+				"items": [
+					"Calm rough waters in a 1-mile radius. Alternatively, this functions as a dismissal spell against a targeted water elemental (DC 19 negates).",
+					"Summon 1d4+1 sharks or 1d3 advanced sharks as if using summon nature's ally V.",
+					"Create a fear effect (DC 16 negates) in a 500-foot radius that only affects creatures with the aquatic or amphibious subtype which have Intelligence scores of 1 or 2."
+				]
+			},
+			"Any sounding of a horn of the tritons can be heard by all tritons within a 3-mile radius."
 		],
 		"construction": "Requirements Craft Wondrous Item, control water, dismissal, fear, summon nature's ally V, creator must be a triton; Cost 7,500 gp"
 	},
@@ -34914,7 +36026,16 @@
 			"Slot none; Price 18,000 gp; Weight 5 lbs."
 		],
 		"description": [
-			"This ornate, oversized silver goblet is wrought with runes and letters in a profusion of languages. When written words are placed in the goblet-whether written on a piece of parchment, carved into stone, or other such means of delivering physical text-the text detaches itself from the source, liquefying into a sweet wine over the next 10 minutes. The liquid can then be drunk, granting the imbiber benefits based on the nature of the text. <ul><li>Pages from a spellbook representing a single spell can be drunk, allowing an arcane spontaneous caster to add that spell to her list of spells known for 24 hours. The spell must be on the imbiber's spell list.</li><li>An arcane scroll can be drunk, allowing the immediate memorization of its contents by an arcane caster who prepares spells. The memorized spell must be on the imbiber's class spell list and still requires an open spell slot of the appropriate level to use. The imbiber uses her own caster level and spellcasting ability modifier to cast the spell, rather than the caster level of the scroll.</li><li>Nonmagical writing can also be drunk, granting a complete understanding of the text's contents. This doesn't require an understanding of the text's language. The goblet can liquefy the text of up to 10 standard-sized pages at once.</li></ul> In all cases, the text is destroyed once drunk, and the knowledge gained fades after 24 hours. The goblet can be used three times per day."
+			"This ornate, oversized silver goblet is wrought with runes and letters in a profusion of languages. When written words are placed in the goblet-whether written on a piece of parchment, carved into stone, or other such means of delivering physical text-the text detaches itself from the source, liquefying into a sweet wine over the next 10 minutes. The liquid can then be drunk, granting the imbiber benefits based on the nature of the text.",
+			{
+				"list": true,
+				"items": [
+					"Pages from a spellbook representing a single spell can be drunk, allowing an arcane spontaneous caster to add that spell to her list of spells known for 24 hours. The spell must be on the imbiber's spell list.",
+					"An arcane scroll can be drunk, allowing the immediate memorization of its contents by an arcane caster who prepares spells. The memorized spell must be on the imbiber's class spell list and still requires an open spell slot of the appropriate level to use. The imbiber uses her own caster level and spellcasting ability modifier to cast the spell, rather than the caster level of the scroll.",
+					"Nonmagical writing can also be drunk, granting a complete understanding of the text's contents. This doesn't require an understanding of the text's language. The goblet can liquefy the text of up to 10 standard-sized pages at once."
+				]
+			},
+			"In all cases, the text is destroyed once drunk, and the knowledge gained fades after 24 hours. The goblet can be used three times per day."
 		],
 		"construction": "Requirements Craft Wondrous Item, comprehend languages, create water, mnemonic enhancer; Cost 9,000 gp"
 	},
@@ -35319,7 +36440,40 @@
 		],
 		"description": [
 			"This rug is able to fly through the air as if affected by an overland flight spell of unlimited duration. The size, carrying capacity, and speed of the different carpets of flying are shown on the table below. Beautifully and intricately made, each carpet has its own command word to activate it-if the device is within voice range, the command word activates it, whether the speaker is on the rug or not. The carpet is then controlled by spoken directions.",
-			"<table class=\"inner\"><tr><td>Size</td><td>Capacity</td><td>Speed</td><td>Weight</td><td>Price</td></tr> <tr><td>5-ft.-by-5-ft.</td><td>200 lbs.</td><td>40 ft.</td><td>8 lbs.</td><td>20,000 gp</td></tr> <tr><td>5-ft.-by-10-ft.</td><td>400 lbs.</td><td>40 ft.</td><td>10 lbs.</td><td>35,000 gp</td></tr> <tr><td>10-ft.-by-10-ft.</td><td>800 lbs.</td><td>40 ft.</td><td>15 lbs.</td><td>60,000 gp</td></tr></table> A carpet of flying can carry up to double its capacity, but doing so reduces its speed to 30 feet. A carpet of flying can hover without making a Fly skill check and gives a +5 bonus to other Fly checks."
+			{
+				"table": true,
+				"rows": [
+					[
+						"Size",
+						"Capacity",
+						"Speed",
+						"Weight",
+						"Price"
+					],
+					[
+						"5-ft.-by-5-ft.",
+						"200 lbs.",
+						"40 ft.",
+						"8 lbs.",
+						"20,000 gp"
+					],
+					[
+						"5-ft.-by-10-ft.",
+						"400 lbs.",
+						"40 ft.",
+						"10 lbs.",
+						"35,000 gp"
+					],
+					[
+						"10-ft.-by-10-ft.",
+						"800 lbs.",
+						"40 ft.",
+						"15 lbs.",
+						"60,000 gp"
+					]
+				]
+			},
+			"A carpet of flying can carry up to double its capacity, but doing so reduces its speed to 30 feet. A carpet of flying can hover without making a Fly skill check and gives a +5 bonus to other Fly checks."
 		],
 		"construction": "Requirements Craft Wondrous Item, overland flight; Cost 10,000 gp (5-ft.-by-5-ft.), 17,500 gp (5-ft.-by-10-ft.), 30,000 gp (10-ft.-by-10-ft.)"
 	},
@@ -35337,7 +36491,57 @@
 			"Slot none; Price 20,000 gp; Weight 400 lbs."
 		],
 		"description": [
-			"An inactive apparatus of the octopus appears to be a large, sealed iron barrel big enough to hold two Medium creatures. Closer examination (and a successful DC 20 Perception check) reveals a secret catch that opens a hatch at one end. Anyone who crawls inside finds 10 unlabeled levers and seating for two Medium or Small occupants. These levers allow those inside to activate and control the apparatus's movements and actions. <table class=\"inner\"> <tr><td>Lever (1d10)</td><td>Lever Function</td></tr> <tr><td>1</td><td>Extend/retract legs and tail</td></tr> <tr><td>2</td><td>Uncover/cover forward porthole</td></tr> <tr><td>3</td><td>Uncover/cover side portholes</td></tr> <tr><td>4</td><td>Extend/retract tentacles</td></tr> <tr><td>5</td><td>Manipulate tentacles</td></tr> <tr><td>6</td><td>Move forward/backward</td></tr> <tr><td>7</td><td>Turn left/right</td></tr> <tr><td>8</td><td>Open/close \"eyes\" with continual flame inside</td></tr> <tr><td>9</td><td>Rise/sink in water</td></tr> <tr><td>10</td><td>Open/close hatch</td></tr> </table> Operating one of the levers is a full-round action, and no lever may be operated more than once per round. However, since two characters can fit inside, the apparatus can perform up to two of its actions in the same round. The device can function in water up to 5,000 feet deep. It holds enough air for a crew of two to survive for 2d4+2 hours (or twice as long for a single occupant). When activated with the tentacles extended, the apparatus looks something like a giant octopus. Using the fifth lever, the apparatus's eight tentacles can manipulate objects about as well as hands, though they can't perform any actions that require fine motor control (such as Sleight of Hand or Disable Device), nor can they make any attacks, including combat maneuvers (the apparatus's listed CMB is solely to break free from a grapple). They can grasp items, and the apparatus can hold up to a maximum of 600 pounds of weight, including the occupants and anything that it grasps.",
+			"An inactive apparatus of the octopus appears to be a large, sealed iron barrel big enough to hold two Medium creatures. Closer examination (and a successful DC 20 Perception check) reveals a secret catch that opens a hatch at one end. Anyone who crawls inside finds 10 unlabeled levers and seating for two Medium or Small occupants. These levers allow those inside to activate and control the apparatus's movements and actions.",
+			{
+				"table": true,
+				"rows": [
+					[
+						"Lever (1d10)",
+						"Lever Function"
+					],
+					[
+						"1",
+						"Extend/retract legs and tail"
+					],
+					[
+						"2",
+						"Uncover/cover forward porthole"
+					],
+					[
+						"3",
+						"Uncover/cover side portholes"
+					],
+					[
+						"4",
+						"Extend/retract tentacles"
+					],
+					[
+						"5",
+						"Manipulate tentacles"
+					],
+					[
+						"6",
+						"Move forward/backward"
+					],
+					[
+						"7",
+						"Turn left/right"
+					],
+					[
+						"8",
+						"Open/close \"eyes\" with continual flame inside"
+					],
+					[
+						"9",
+						"Rise/sink in water"
+					],
+					[
+						"10",
+						"Open/close hatch"
+					]
+				]
+			},
+			"Operating one of the levers is a full-round action, and no lever may be operated more than once per round. However, since two characters can fit inside, the apparatus can perform up to two of its actions in the same round. The device can function in water up to 5,000 feet deep. It holds enough air for a crew of two to survive for 2d4+2 hours (or twice as long for a single occupant). When activated with the tentacles extended, the apparatus looks something like a giant octopus. Using the fifth lever, the apparatus's eight tentacles can manipulate objects about as well as hands, though they can't perform any actions that require fine motor control (such as Sleight of Hand or Disable Device), nor can they make any attacks, including combat maneuvers (the apparatus's listed CMB is solely to break free from a grapple). They can grasp items, and the apparatus can hold up to a maximum of 600 pounds of weight, including the occupants and anything that it grasps.",
 			"When active, an apparatus of the octopus has the following characteristics: hp 100; hardness 5; Speed 5 ft., swim 40 ft.; AC 16 (+7 natural, -1 size); CMB +10; CMD 20."
 		],
 		"construction": "Requirements Craft Wondrous Item, animate objects, continual flame, creator must have 8 ranks in Knowledge (engineering); Cost 10,000 gp"
@@ -36173,7 +37377,17 @@
 			"Slot none; Price 25,000 gp; Weight 1 lb."
 		],
 		"description": [
-			"This lustrous green gemstone is uncut and about the size of a human fist. The gem grants its bearer the use of the following abilities. <ul><li>entropic shield (1 charge) </li><li>lesser confusion (1 charge) </li><li>magic circle against law (1 charge) </li><li>chaos hammer (2 charges)</li></ul> A newly created chaos emerald has 1d6+2 charges. It can hold a maximum of 10 charges and automatically regains 1d3-1 charges each day.",
+			"This lustrous green gemstone is uncut and about the size of a human fist. The gem grants its bearer the use of the following abilities.",
+			{
+				"list": true,
+				"items": [
+					"entropic shield (1 charge)",
+					"lesser confusion (1 charge)",
+					"magic circle against law (1 charge)",
+					"chaos hammer (2 charges)"
+				]
+			},
+			"A newly created chaos emerald has 1d6+2 charges. It can hold a maximum of 10 charges and automatically regains 1d3-1 charges each day.",
 			"A non-chaotic creature who holds or carries a chaos emerald gains one negative level. This negative level persists as long as the creature holds or carries the gem and disappears when the gem is dropped. This negative level cannot be overcome in any way (including restoration spells) while held or carried."
 		],
 		"construction": "Requirements Craft Wondrous Item, chaos hammer, entropic shield, lesser confusion, magic circle against law, creator must be chaotic; Cost 12,500 gp"
@@ -36770,7 +37984,36 @@
 		"description": [
 			"This beautiful, gem-encrusted golden chest measures 4 feet long, 2 feet wide, and 4 feet tall. The chest of the mercane is engraved with symbols of wealth and trade, and comes with an equally ornate key. Even without its magic properties, the chest is worth 5,000 gp. The chest is bonded to a traveling mercane (Pathfinder RPG Bestiary 2 188) that makes i ts living trading magical items throughout the planes. The chest acts as if affected by the secret chest spell (CL 9th), except it allows the key wielder to retrieve the chest once per day and send it back to its mercane master once per day. The chest's ornate key functions as the small replica chest does in secret chest.",
 			"Each time the chest is sent back to its mercane master, there's a chance the mercane decides to buy any new magic item in the chest. If the mercane buys the item, it may pay slightly less than, equal to, or more than the standard market value (normally 50% of its total value). The mercane's interest and payment is determined by the table below. If the mercane does buy an item, the payment is always in gold pieces that take the item's place in the chest of the mercane.",
-			"<table class=\"inner\"><tr><td>d%</td><td>Mercane's Trade</td></tr> <tr><td>01-10</td><td>40% of the item's total value</td></tr> <tr><td>11-50</td><td>Item is not purchased</td></tr> <tr><td>51-90</td><td>50% of the item's total value</td></tr> <tr><td>91-99</td><td>60% of the item's total value</td></tr> <tr><td>100</td><td>75% of item's total value</td></tr></table> It's also possible to send notes to the mercane connected to the chest, but such notes never receive a response through the chest. If an owner of the chest of the mercane finds the mercane connected to it, she can use the ability to pass notes to pay in advance (with magic items) for objects she wishes the mercane to purchase on the owner's behalf. Such objects are never sent via the chest; the mercane requires that they be picked up in person."
+			{
+				"table": true,
+				"rows": [
+					[
+						"d%",
+						"Mercane's Trade"
+					],
+					[
+						"01-10",
+						"40% of the item's total value"
+					],
+					[
+						"11-50",
+						"Item is not purchased"
+					],
+					[
+						"51-90",
+						"50% of the item's total value"
+					],
+					[
+						"91-99",
+						"60% of the item's total value"
+					],
+					[
+						"100",
+						"75% of item's total value"
+					]
+				]
+			},
+			"It's also possible to send notes to the mercane connected to the chest, but such notes never receive a response through the chest. If an owner of the chest of the mercane finds the mercane connected to it, she can use the ability to pass notes to pay in advance (with magic items) for objects she wishes the mercane to purchase on the owner's behalf. Such objects are never sent via the chest; the mercane requires that they be picked up in person."
 		],
 		"construction": "Requirements Craft Wondrous Item, contact other plane, secret chest; Cost 15,000 gp"
 	},
@@ -37930,7 +39173,35 @@
 		],
 		"description": [
 			"This is the most common form of scrying device, a crystal sphere about 6 inches in diameter. So well-known are these items that many so-called oracles or fortune-tellers use similar appearing (but completely nonmagical) replicas of these items to ply their trades. A character can use a magical crystal ball to see over virtually any distance or into other planes of existence, as with the spell scrying (Will DC 16 negates). A crystal ball can be used multiple times per day, but the DC to resist its power decreases by 1 for each additional use. Certain crystal balls have additional powers that can be used through the crystal ball on the target viewed.",
-			"<table class=\"inner\"><tr><td>Crystal Ball Type</td><td>Price</td></tr> <tr><td>Crystal ball</td><td>42,000 gp</td></tr> <tr><td>Crystal ball with see invisibility</td><td>50,000 gp</td></tr> <tr><td>Crystal ball with detect thoughts (Will DC 13 negates)</td><td>51,000 gp</td></tr> <tr><td>Crystal ball with telepathy*</td><td>70,000 gp</td></tr> <tr><td>Crystal ball with true seeing</td><td>80,000 gp</td></tr></table>",
+			{
+				"table": true,
+				"rows": [
+					[
+						"Crystal Ball Type",
+						"Price"
+					],
+					[
+						"Crystal ball",
+						"42,000 gp"
+					],
+					[
+						"Crystal ball with see invisibility",
+						"50,000 gp"
+					],
+					[
+						"Crystal ball with detect thoughts (Will DC 13 negates)",
+						"51,000 gp"
+					],
+					[
+						"Crystal ball with telepathy*",
+						"70,000 gp"
+					],
+					[
+						"Crystal ball with true seeing",
+						"80,000 gp"
+					]
+				]
+			},
 			"* The viewer is able to send and receive silent mental messages with the person appearing in the crystal ball. Once per day, the character may attempt to implant a suggestion (as the spell, Will DC 14 negates) as well."
 		],
 		"construction": "Requirements Craft Wondrous Item, scrying (plus any additional spells put into the crystal ball); Cost 21,000 gp (normal), 25,000 gp (see invisibility), 25,500 gp (detect thoughts), 35,000 gp (telepathy), 40,000 gp (true seeing)"
@@ -38203,7 +39474,16 @@
 		"description": [
 			"This cold-iron-lined wooden cabinet is the size of a large upright chest, with just enough room inside for a Mediumsized creature to sit comfortably on a small wooden seat. The cabinet is constructed of alternating layers of cold iron sheets and slats of cypress wood insulated with sheep's wool, and is specially crafted to attract and focus atmospheric energy to recharge the internal reservoirs of characters capable of casting psychic magic.",
 			"Activating an orgone accumulator requires spending hours inside it while meditating. The creature must remain conscious, taking no actions other than meditating. A creature inside the box that remains in this state automatically gains a +2 bonus on saving throws to recover from curses, diseases, and poisons. An orgone accumulator can also be used in conjunction with the faith healing occult skill unlock. If the subject of the faith healing is within the orgone accumulator, the creature attempting the Heal check for faith healing gains a +2 circumstance bonus on the check.",
-			"In addition, a creature can concentrate while within the box to gain the benefits of restorative spells. Each of these spells lists a number of hours a user must remain meditating inside the box. At the end of that time, the user must attempt a Wisdom check with the listed DC to gain the benefits of the spell. A creature with the Psychic Sensitivity feat or levels in an occult class gains a +2 bonus on this Wisdom check. <ul><li>Lesser restoration (2 hours, DC 14)</li><li>Remove blindness/deafness (3 hours, DC 16)</li><li>Restoration (4 hours, DC 18, can't remove a permanent negative level)</li></ul> A user with a ki pool can also focus in order to regain ki points instead of reproducing a restorative spell, much as if he were using a ki mat (Pathfinder RPG Ultimate Equipment 307). He must succeed at a Wisdom check with a DC of 10 plus his current number of ki points (note that ability checks, like skill checks, do not automatically succeed on a natural 20). A user that succeeds at this check regains 1 ki point."
+			"In addition, a creature can concentrate while within the box to gain the benefits of restorative spells. Each of these spells lists a number of hours a user must remain meditating inside the box. At the end of that time, the user must attempt a Wisdom check with the listed DC to gain the benefits of the spell. A creature with the Psychic Sensitivity feat or levels in an occult class gains a +2 bonus on this Wisdom check.",
+			{
+				"list": true,
+				"items": [
+					"Lesser restoration (2 hours, DC 14)",
+					"Remove blindness/deafness (3 hours, DC 16)",
+					"Restoration (4 hours, DC 18, can't remove a permanent negative level)"
+				]
+			},
+			"A user with a ki pool can also focus in order to regain ki points instead of reproducing a restorative spell, much as if he were using a ki mat (Pathfinder RPG Ultimate Equipment 307). He must succeed at a Wisdom check with a DC of 10 plus his current number of ki points (note that ability checks, like skill checks, do not automatically succeed on a natural 20). A user that succeeds at this check regains 1 ki point."
 		],
 		"construction": "Requirements Craft Wondrous Item, lesser restoration, remove blindness/deafness, restoration; Cost 24,000 gp"
 	},
@@ -38372,7 +39652,41 @@
 		"description": [
 			"This magic instrument comes in four varieties. Each appears to be a normal, scarred old horn used for hunting or signaling during battle. When someone speaks its command word and blows the horn, however, the horn summons a number of human barbarians to fight for the character who summoned them. Each horn can be blown just once every 7 days. Roll d% and refer to the table above to see what type of horn is found. The horn's type determines what barbarians are summoned and what prerequisite is needed to use the horn. Any character who uses a horn of Valhalla but doesn't have the prerequisite is attacked by the barbarians she herself summoned.",
 			"Summoned barbarians are constructs, not actual people (though they seem to be); they arrive with the starting equipment for barbarians. They attack anyone the possessor of the horn commands them to fight until they or their opponents are slain or until 1 hour has elapsed, whichever comes first.",
-			"<table class=\"inner\"><tr><td>d%</td><td>Type of Horn</td><td>Barbarians Summoned</td><td>Prerequisite</td></tr> <tr><td>01-40</td><td>Silver</td><td>2d4+2, 2nd-level</td><td>None</td></tr> <tr><td>41-75</td><td>Brass</td><td>2d4+1, 3rd-level</td><td>Spellcaster level 1st</td></tr> <tr><td>76-90</td><td>Bronze</td><td>2d4, 4th-level</td><td>Proficiency with all martial weapons or bardic performance ability</td></tr> <tr><td>91-100</td><td>Iron</td><td>1d4+1, 5th-level</td><td>Proficiency with all martial weapons or bardic performance ability</td></tr></table>"
+			{
+				"table": true,
+				"rows": [
+					[
+						"d%",
+						"Type of Horn",
+						"Barbarians Summoned",
+						"Prerequisite"
+					],
+					[
+						"01-40",
+						"Silver",
+						"2d4+2, 2nd-level",
+						"None"
+					],
+					[
+						"41-75",
+						"Brass",
+						"2d4+1, 3rd-level",
+						"Spellcaster level 1st"
+					],
+					[
+						"76-90",
+						"Bronze",
+						"2d4, 4th-level",
+						"Proficiency with all martial weapons or bardic performance ability"
+					],
+					[
+						"91-100",
+						"Iron",
+						"1d4+1, 5th-level",
+						"Proficiency with all martial weapons or bardic performance ability"
+					]
+				]
+			}
 		],
 		"construction": "Requirements Craft Wondrous Item, summon monster VI; Cost 25,000 gp"
 	},
@@ -38712,7 +40026,51 @@
 		"description": [
 			"The Wayfinder of Many Paths behaves like a normal wayfinder (Pathfinder Campaign Setting: The Inner Sea World Guide 299), allowing it to shine (as the light spell) on command and granting its user a +2 circumstance bonus on Survival checks to avoid getting lost. It has a small indentation designed to hold a single ioun stone, and when an ioun stone is placed within, the owner of the wayfinder gains the stone's normal benefits as if it were orbiting his head.",
 			"Once per day on command, a Wayfinder of Many Paths with an implanted ioun stone can be used to create a 5-to-20-foot-diameter gateway, similar to the spell gate. The exact destination depends on the type of ioun stone slotted into the wayfinder; ioun stones of the same type always lead to the same location. The gateway remains open for up to 18 rounds, but the user can drain the socketed ioun stone, rendering it dull gray and powerless, to keep the gateway open for up to 18 additional rounds. If fitted with an ioun stone while in that stone's attuned location, a Wayfinder of Many Paths can open a gateway back to the location in which it was last used, allowing its user to make a return trip after 24 hours.",
-			"<table class=\"inner\"><tr><td>Known Ioun Stones</td><td>Destinations</td></tr> <tr><td>Clear spindle</td><td>A long-since-despoiled tomb in the Alabastrine Peaks in the Crown of the World</td></tr> <tr><td>Dark blue rhomboid</td><td>The basement of a flooded museum in Hyrantam</td></tr> <tr><td>Deep red sphere</td><td>A third-floor room in an inn in the City of Brass's Common Quarter</td></tr> <tr><td>Dusty rose prism</td><td>The Thuvian desert, about 150 miles west of Lamasara</td></tr> <tr><td>Incandescent blue sphere</td><td>The roof of Farseer Tower in Katapesh</td></tr> <tr><td>Pale blue rhomboid</td><td>A small hill in the Cairnlands outside Absalom</td></tr> <tr><td>Pale lavender ellipsoid</td><td>The eastern precipice of a canyon in the Mana Wastes</td></tr> <tr><td>Pink and green sphere</td><td>Miregrold Manor, the Pathfinder lodge in Karcau</td></tr> <tr><td>Pearly white spindle</td><td>A copse of trees 1 mile west of Kalabuto</td></tr></table>"
+			{
+				"table": true,
+				"rows": [
+					[
+						"Known Ioun Stones",
+						"Destinations"
+					],
+					[
+						"Clear spindle",
+						"A long-since-despoiled tomb in the Alabastrine Peaks in the Crown of the World"
+					],
+					[
+						"Dark blue rhomboid",
+						"The basement of a flooded museum in Hyrantam"
+					],
+					[
+						"Deep red sphere",
+						"A third-floor room in an inn in the City of Brass's Common Quarter"
+					],
+					[
+						"Dusty rose prism",
+						"The Thuvian desert, about 150 miles west of Lamasara"
+					],
+					[
+						"Incandescent blue sphere",
+						"The roof of Farseer Tower in Katapesh"
+					],
+					[
+						"Pale blue rhomboid",
+						"A small hill in the Cairnlands outside Absalom"
+					],
+					[
+						"Pale lavender ellipsoid",
+						"The eastern precipice of a canyon in the Mana Wastes"
+					],
+					[
+						"Pink and green sphere",
+						"Miregrold Manor, the Pathfinder lodge in Karcau"
+					],
+					[
+						"Pearly white spindle",
+						"A copse of trees 1 mile west of Kalabuto"
+					]
+				]
+			}
 		],
 		"construction": "Requirements Craft Wondrous Item, gate, know direction, light; Cost 28,875 gp"
 	},
@@ -38948,8 +40306,87 @@
 		"description": [
 			"This device is just under an inch across and can be made of ivory, bone, or any hard mineral. Typically, each of the cube's faces are polished smooth, but sometimes they are etched with runes. The device enables its possessor to put up a special cube made up of 6 individual wall of force spells, 10 feet on a side around her person. This cubic screen moves with the character and is impervious to the attack forms mentioned on the table below. The cube has 36 charges when fully charged-charges used are automatically renewed each day. The possessor presses one face of the cube to activate a particular type of screen or to deactivate the device. Each effect costs a certain number of charges to maintain for every minute (or portion of a minute) it is in operation. Also, when an effect is active, the possessor's speed is limited to the maximum value given on the following table.",
 			"When the cube of force is active, attacks dealing more than 30 points of damage to a wall drain 1 charge for every 10 points of damage beyond 30 that they deal. The charge cost to maintain each of the cube's six walls is summarized below.",
-			"<table class=\"inner\"><tr><td>Cube Face</td><td>Charge Cost Per Minute</td><td>Max. Speed</td><td>Effect</td></tr> <tr><td>1</td><td>1</td><td>30 ft.</td><td>Keeps out gases, wind, etc.</td></tr> <tr><td>2</td><td>2</td><td>20 ft.</td><td>Keeps out nonliving matter</td></tr> <tr><td>3</td><td>3</td><td>15 ft.</td><td>Keeps out living matter</td></tr> <tr><td>4</td><td>4</td><td>10 ft.</td><td>Keeps out magic</td></tr> <tr><td>5</td><td>6</td><td>10 ft.</td><td>Keeps out all things</td></tr> <tr><td>6</td><td>0</td><td>As normal</td><td>Deactivates</td></tr></table> Spells that affect the integrity of the screen also drain extra charges. These spells cannot be cast into or out of the cube.",
-			"<table class=\"inner\"><tr><td>Attack Form</td><td>Extra Charges</td></tr> <tr><td>Disintegrate</td><td>6</td></tr> <tr><td>Horn of blasting</td><td>6</td></tr> <tr><td>Passwall</td><td>3</td></tr> <tr><td>Phase door</td><td>5</td></tr> <tr><td>Prismatic spray</td><td>7</td></tr> <tr><td>Wall of fire</td><td>2</td></tr></table>"
+			{
+				"table": true,
+				"rows": [
+					[
+						"Cube Face",
+						"Charge Cost Per Minute",
+						"Max. Speed",
+						"Effect"
+					],
+					[
+						"1",
+						"1",
+						"30 ft.",
+						"Keeps out gases, wind, etc."
+					],
+					[
+						"2",
+						"2",
+						"20 ft.",
+						"Keeps out nonliving matter"
+					],
+					[
+						"3",
+						"3",
+						"15 ft.",
+						"Keeps out living matter"
+					],
+					[
+						"4",
+						"4",
+						"10 ft.",
+						"Keeps out magic"
+					],
+					[
+						"5",
+						"6",
+						"10 ft.",
+						"Keeps out all things"
+					],
+					[
+						"6",
+						"0",
+						"As normal",
+						"Deactivates"
+					]
+				]
+			},
+			"Spells that affect the integrity of the screen also drain extra charges. These spells cannot be cast into or out of the cube.",
+			{
+				"table": true,
+				"rows": [
+					[
+						"Attack Form",
+						"Extra Charges"
+					],
+					[
+						"Disintegrate",
+						"6"
+					],
+					[
+						"Horn of blasting",
+						"6"
+					],
+					[
+						"Passwall",
+						"3"
+					],
+					[
+						"Phase door",
+						"5"
+					],
+					[
+						"Prismatic spray",
+						"7"
+					],
+					[
+						"Wall of fire",
+						"2"
+					]
+				]
+			}
 		],
 		"construction": "Requirements Craft Wondrous Item, wall of force; Cost 31,000 gp"
 	},
@@ -39054,8 +40491,24 @@
 		],
 		"description": [
 			"This finely made instrument is crafted of lovingly polished wood inlaid with mystic runes. When the lyre is played, sparks dance along its strings.",
-			"By succeeding at a DC 15 Perform (string instruments) check, the bearer can produce the following spells. <ul><li>Gust of wind (3/day)</li><li>Call lightning (1/day)</li></ul> By succeeding at a DC 25 Perform (string instruments) check and then expending one use of mythic power, the bearer can produce the mythic version of the spell instead. If the bearer fails her Perform check, her action is wasted, but she doesn't expend one of the item's uses per day or any mythic power.",
-			"If bearer has the appropriate mythic tier and the bardic performance ability, she can bring forth one of the following magical effects for as long as she uses the instrument as part of a bardic performance; she also gains the usual benefits of that performance. She must end the performance and start a new one to choose a new effect. <ul><li>3rd tier or higher: water walk, shared with all the player's allies within 20 feet</li><li>4th tier or higher: control winds centered on the player, used only to decrease wind strength</li><li>5th tier or higher: fickle winds, affecting the player only</li></ul>"
+			"By succeeding at a DC 15 Perform (string instruments) check, the bearer can produce the following spells.",
+			{
+				"list": true,
+				"items": [
+					"Gust of wind (3/day)",
+					"Call lightning (1/day)"
+				]
+			},
+			"By succeeding at a DC 25 Perform (string instruments) check and then expending one use of mythic power, the bearer can produce the mythic version of the spell instead. If the bearer fails her Perform check, her action is wasted, but she doesn't expend one of the item's uses per day or any mythic power.",
+			"If bearer has the appropriate mythic tier and the bardic performance ability, she can bring forth one of the following magical effects for as long as she uses the instrument as part of a bardic performance; she also gains the usual benefits of that performance. She must end the performance and start a new one to choose a new effect.",
+			{
+				"list": true,
+				"items": [
+					"3rd tier or higher: water walk, shared with all the player's allies within 20 feet",
+					"4th tier or higher: control winds centered on the player, used only to decrease wind strength",
+					"5th tier or higher: fickle winds, affecting the player only"
+				]
+			}
 		],
 		"construction": "Requirements Craft Wondrous Item, Mythic Crafter, call lightning, control weather, water walk; Cost 32,500 gp"
 	},
@@ -39115,21 +40568,21 @@
 		],
 		"construction": "Requirements Craft Wondrous Item, dispel magic, greater polymorph, true seeing; Cost 33,000 gp"
 	},
-	"The Pendulate Divan of Emperor FortigrÃƒÆ’Ã‚Â©": {
-		"itemname": "The Pendulate Divan of Emperor FortigrÃƒÆ’Ã‚Â©",
+	"The Pendulate Divan of Emperor Fortigre'": {
+		"itemname": "The Pendulate Divan of Emperor Fortigre'",
 		"file": "magicwondrousdisplay2976.html",
 		"sources": [ "Taldor, Echoes of Glory" ],
 		"cost": 66000,
 		"type": "wondrous",
 		"slot": "none/other",
 		"header": [
-			"The Pendulate Divan of Emperor FortigrÃƒÆ’Ã‚Â©",
+			"The Pendulate Divan of Emperor Fortigre'",
 			"Source ~`Taldor, Echoes of Glory pg. 26`~",
 			"Aura moderate conjuration and transmutation; CL 11th",
 			"Slot none; Price 66,000 gp; Weight 100 lbs."
 		],
 		"description": [
-			"This luxurious, red felt divan is edged in gold latticework and made from highly polished, glossy black wood. If you lie upon it, you automatically understand how to activate it. Created for the mad Emperor FortigrÃƒÆ’Ã‚Â© of Taldor thousands of years ago, the pendulate divan includes many special abilities. When you sit, stand, or lie upon it, it can walk like a fourlegged animal with a movement speed of 30 feet, create up to 2 gallons of water per day, protect you with endure elements, and fly or teleport as per the spells (once each per day). The original pendulate divan is stored in the Imperial Palace in Taldor, though a few copies of it were created over the centuries, and many wealthy nobles own lesser versions which can only walk and have no other powers."
+			"This luxurious, red felt divan is edged in gold latticework and made from highly polished, glossy black wood. If you lie upon it, you automatically understand how to activate it. Created for the mad Emperor Fortigre' of Taldor thousands of years ago, the pendulate divan includes many special abilities. When you sit, stand, or lie upon it, it can walk like a fourlegged animal with a movement speed of 30 feet, create up to 2 gallons of water per day, protect you with endure elements, and fly or teleport as per the spells (once each per day). The original pendulate divan is stored in the Imperial Palace in Taldor, though a few copies of it were created over the centuries, and many wealthy nobles own lesser versions which can only walk and have no other powers."
 		],
 		"construction": "Requirements Craft Wondrous Item, animate object, create water, endure elements, fly, teleport, creator must have at least 5 ranks in Craft (woodworking); Cost 33,000 gp, 2,640 XP (original version), 20,000 gp, 800 XP (lesser version)"
 	},
@@ -39494,7 +40947,21 @@
 		],
 		"description": [
 			"A flying sled is a small vehicle akin to a rowboat, and is covered in metallic veins. The sled can hold one occupant. A psychic pilot can the control the craft. Without a psychic pilot, a flying sled acts in all regards as a rowboat (Pathfinder RPG Ultimate Combat 185).",
-			"A control helmet that fits a Small or Medium creature is linked by cables to the metal veins of the sled. When a psychic creature (one with levels in an occult class, the Psychic Sensitivity feat, or the ability to use psychic spell-like abilities) wears the control helmet, the flying sled gains the following abilities. <ul><li>The sled can fly with a maximum speed of 100 feet and acceleration of 30 feet.</li><li>The sled gains fast healing 2 when reduced below half its starting hit points. Damage above this threshold must be repaired normally.</li></ul> Along with the abilities granted to the flying sled when piloted by a psychic creature, the pilot gains the following additional ability. <ul><li>Once per day, the pilot can take a full-round action to transport herself and the flying sled between the Astral Plane and the Material Plane. This ability otherwise functions as plane shift.</li></ul>"
+			"A control helmet that fits a Small or Medium creature is linked by cables to the metal veins of the sled. When a psychic creature (one with levels in an occult class, the Psychic Sensitivity feat, or the ability to use psychic spell-like abilities) wears the control helmet, the flying sled gains the following abilities.",
+			{
+				"list": true,
+				"items": [
+					"The sled can fly with a maximum speed of 100 feet and acceleration of 30 feet.",
+					"The sled gains fast healing 2 when reduced below half its starting hit points. Damage above this threshold must be repaired normally."
+				]
+			},
+			"Along with the abilities granted to the flying sled when piloted by a psychic creature, the pilot gains the following additional ability.",
+			{
+				"list": true,
+				"items": [
+					"Once per day, the pilot can take a full-round action to transport herself and the flying sled between the Astral Plane and the Material Plane. This ability otherwise functions as plane shift."
+				]
+			}
 		],
 		"construction": "Requirements Craft Wondrous Item, overland flight, plane shift; Cost 40,000 gp"
 	},
@@ -39709,7 +41176,56 @@
 		],
 		"description": [
 			"An apparatus of the crab is a metallic magical vehicle. When unoccupied, it appears to be a large, sealed iron barrel big enough to hold two Medium creatures. Close examination, and a DC 20 Perception check, reveals a secret catch that opens a hatch at one end. Anyone who crawls inside finds 10 (unlabeled) levers and seating for two Medium or Small occupants. These levers allow those inside to activate and control the apparatus's movements and actions.",
-			"<table class=\"inner\"><tr><td>Lever (1d10)</td><td>Lever Function</td></tr> <tr><td>1</td><td>Extend/retract legs and tail</td></tr> <tr><td>2</td><td>Uncover/cover forward porthole</td></tr> <tr><td>3</td><td>Uncover/cover side portholes</td></tr> <tr><td>4</td><td>Extend/retract pincers and feelers</td></tr> <tr><td>5</td><td>Snap pincers</td></tr> <tr><td>6</td><td>Move forward/backward</td></tr> <tr><td>7</td><td>Turn left/right</td></tr> <tr><td>8</td><td>Open/close \"eyes\" with continual flame inside</td></tr> <tr><td>9</td><td>Rise/sink in water</td></tr> <tr><td>10</td><td>Open/close hatch</td></tr></table> Operating a lever is a full-round action, and no lever may be operated more than once per round. However, since two characters can fit inside, the apparatus can move and attack in the same round. The device can function in water up to 900 feet deep. It holds enough air for a crew of two to survive 1d4+1 hours (twice as long for a single occupant).",
+			{
+				"table": true,
+				"rows": [
+					[
+						"Lever (1d10)",
+						"Lever Function"
+					],
+					[
+						"1",
+						"Extend/retract legs and tail"
+					],
+					[
+						"2",
+						"Uncover/cover forward porthole"
+					],
+					[
+						"3",
+						"Uncover/cover side portholes"
+					],
+					[
+						"4",
+						"Extend/retract pincers and feelers"
+					],
+					[
+						"5",
+						"Snap pincers"
+					],
+					[
+						"6",
+						"Move forward/backward"
+					],
+					[
+						"7",
+						"Turn left/right"
+					],
+					[
+						"8",
+						"Open/close \"eyes\" with continual flame inside"
+					],
+					[
+						"9",
+						"Rise/sink in water"
+					],
+					[
+						"10",
+						"Open/close hatch"
+					]
+				]
+			},
+			"Operating a lever is a full-round action, and no lever may be operated more than once per round. However, since two characters can fit inside, the apparatus can move and attack in the same round. The device can function in water up to 900 feet deep. It holds enough air for a crew of two to survive 1d4+1 hours (twice as long for a single occupant).",
 			"When active, an apparatus of the crab has the following characteristics: hp 200; hardness 15; Speed 20 ft., swim 20 ft.; AC 20 (-1 size, +11 natural); Melee 2 pincers +12 (2d8); CMB +14; CMD 24."
 		],
 		"construction": "Requirements Craft Wondrous Item, animate objects, continual flame, creator must have 8 ranks in Knowledge (engineering); Cost 45,000 gp"
@@ -39788,7 +41304,48 @@
 		"description": [
 			"Built by a group of forgotten arcanists and researchers in a secret outpost deep within the Osirian desert, the bronze sentinel is a magical vehicle shaped as a 15-foot-tall bronze humanoid statue, crafted in the shape of a muscular man wearing a silver headband that resembles two serpents twined together. When the sentinel is active, its eyes shine with green light and a triangle of runes on its chest glows silver.",
 			"Close examination and a successful DC 25 Perception check reveal a secret catch that opens a hatch in the statue's back. Anyone who crawls inside finds seating for one Medium or Small occupant and eight unlabeled levers and pedals. These controls allow a character inside to activate and control the sentinel's movements and actions. Operating a lever is normally a move action, but operating the lever to extend or retract the sentinel's arms (such as to attack) is a standard action. No lever can be operated more than once per round.",
-			"<table class=\"inner\"><tr><td>Lever (d8)</td><td>Lever Function</td></tr> <tr><td>1</td><td>Uncover/cover forward porthole</td></tr> <tr><td>2</td><td>Uncover/cover side portholes</td></tr> <tr><td>3</td><td>Extend/retract arms</td></tr> <tr><td>4</td><td>Close/open hands</td></tr> <tr><td>5</td><td>Move forward/backward</td></tr> <tr><td>6</td><td>Turn left/right</td></tr> <tr><td>7</td><td>Open/close eyes with continual flame inside</td></tr> <tr><td>8</td><td>Open/close hatch</td></tr></table> The sentinel's hands can grasp objects as small as Fine in size, and can make slam attacks. Although the sentinel cannot swim, it can function in water up to 900 feet deep. If its portholes are covered, it holds enough air for a Medium operator to survive 1d4+1 hours.",
+			{
+				"table": true,
+				"rows": [
+					[
+						"Lever (d8)",
+						"Lever Function"
+					],
+					[
+						"1",
+						"Uncover/cover forward porthole"
+					],
+					[
+						"2",
+						"Uncover/cover side portholes"
+					],
+					[
+						"3",
+						"Extend/retract arms"
+					],
+					[
+						"4",
+						"Close/open hands"
+					],
+					[
+						"5",
+						"Move forward/backward"
+					],
+					[
+						"6",
+						"Turn left/right"
+					],
+					[
+						"7",
+						"Open/close eyes with continual flame inside"
+					],
+					[
+						"8",
+						"Open/close hatch"
+					]
+				]
+			},
+			"The sentinel's hands can grasp objects as small as Fine in size, and can make slam attacks. Although the sentinel cannot swim, it can function in water up to 900 feet deep. If its portholes are covered, it holds enough air for a Medium operator to survive 1d4+1 hours.",
 			"When active, a bronze sentinel has the following statistics: Size Large; AC 20 (-1 size, +11 natural); hardness 15; hp 150; Speed 20 ft.; Melee 2 slams +12 (2d6); CMB +14; CMD 24."
 		],
 		"construction": "Requirements Craft Wondrous Item, animate objects, continual flame, creator must have 8 ranks in Knowledge (engineering); Cost 45,000 gp"
@@ -40223,7 +41780,17 @@
 			"Slot none; Price 136,000 gp; Weight 1 lb."
 		],
 		"description": [
-			"This wayfinder is an artistic treasure, crafted in gold and set with tiny opals, rubies, diamonds, and sapphires. Three slots on the inner side of the lid can each hold one ioun stone. It sheds light equivalent to the daylight spell on your command. It has the following abilities, each activated by a different command word:<ul><li>dimension door (once per day)</li><li>feather fall (at will)</li><li>knock (at will)</li><li>resist energy (once per day, energy resistance 20, lasts 24 hours)</li></ul>When the first ioun stone slot is used, the dimension door ability no longer functions. When the second slot is used, feather fall and resist energy are unavailable. When the third slot is used, daylight and knock no longer function."
+			"This wayfinder is an artistic treasure, crafted in gold and set with tiny opals, rubies, diamonds, and sapphires. Three slots on the inner side of the lid can each hold one ioun stone. It sheds light equivalent to the daylight spell on your command. It has the following abilities, each activated by a different command word:",
+			{
+				"list": true,
+				"items": [
+					"dimension door (once per day)",
+					"feather fall (at will)",
+					"knock (at will)",
+					"resist energy (once per day, energy resistance 20, lasts 24 hours)"
+				]
+			},
+			"When the first ioun stone slot is used, the dimension door ability no longer functions. When the second slot is used, feather fall and resist energy are unavailable. When the third slot is used, daylight and knock no longer function."
 		],
 		"construction": "Requirements Craft Wondrous Item, daylight, dimension door, feather fall, knock, resist energy; Cost 68,000 gp"
 	},
@@ -40319,7 +41886,32 @@
 		],
 		"description": [
 			"The Bell of Obedience is a 4-foot-tall bell cast from high-tin bronze that's capable of transmitting a powerful compulsion to those who hear it. To function, the bell must be suspended from a yoke and sounded either with a mallet or a clapper. All creatures within 1,000 feet of the bell other than the user must succeed at a DC 20 Will save or be affected by a compulsion effect (determined by the yoke's composition) for 1 hour.",
-			"<table class=\"inner\"><tr><td>Material</td><td>Effect</td></tr> <tr><td>Bronze</td><td>Good hope</td></tr> <tr><td>Iron</td><td>Rage</td></tr> <tr><td>Oak</td><td>Calm emotions</td></tr> <tr><td>Stone</td><td>Crushing despair</td></tr></table> In most conditions, the bell is audible to a range of 1 mile, though it has no effects on listeners farther than 1,000 feet away. Humanoids with the human subtype are particularly vulnerable to the compulsion effect, and take a -2 penalty on saving throws to resist the effects.",
+			{
+				"table": true,
+				"rows": [
+					[
+						"Material",
+						"Effect"
+					],
+					[
+						"Bronze",
+						"Good hope"
+					],
+					[
+						"Iron",
+						"Rage"
+					],
+					[
+						"Oak",
+						"Calm emotions"
+					],
+					[
+						"Stone",
+						"Crushing despair"
+					]
+				]
+			},
+			"In most conditions, the bell is audible to a range of 1 mile, though it has no effects on listeners farther than 1,000 feet away. Humanoids with the human subtype are particularly vulnerable to the compulsion effect, and take a -2 penalty on saving throws to resist the effects.",
 			"Normally, the compulsion doesn't impart any special instructions, so those affected by rage might participate in wanton acts of violence, and those affected by good hope might simply become more cheerful. If the user succeeds at a DC 25 Perform (percussion) check when activating the bell, he can transmit simple secondary instructions with the compulsion, such as directing enraged listeners to hate a particular object or inspiring the hopeful to attribute their positive emotions to a particular cause.",
 			"The bell can transmit a compulsion once every 8 hours."
 		],
@@ -40419,7 +42011,115 @@
 			"These special containers are typically inlaid with runes of silver and stoppered by a brass plug bearing a seal engraved with sigils, glyphs, and special symbols. When the user speaks the command word, he can force any creature from another plane into the container, provided that creature fails a DC 19 Will save. The range of this effect is 60 feet. Only one creature at a time can be so contained. Loosing the stopper frees the captured creature.",
 			"The command word can be used only once per day.",
 			"If the individual freeing the captured creature speaks the command word, the creature can be forced to serve for 1 hour. If freed without the command word, the creature acts according to its natural inclinations. (It usually attacks the user, unless it perceives a good reason not to.) Any attempt to force the same creature into the flask a second time provides it a +2 bonus on its saving throw and makes it hostile. A purchased bottle is empty, but a newly discovered bottle might contain any of the following:",
-			"<table class=\"inner\"> <tr><td>d%</td><td>Contents</td></tr> <tr><td>01-50</td><td>Empty</td></tr> <tr><td>51-54</td><td>Large air elemental</td></tr> <tr><td>55-58</td><td>Invisible stalker</td></tr> <tr><td>59-62</td><td>Large earth elemental</td></tr> <tr><td>63-66</td><td>Xorn</td></tr> <tr><td>67-70</td><td>Large fire elemental</td></tr> <tr><td>71-74</td><td>Salamander</td></tr> <tr><td>75-78</td><td>Large water elemental</td></tr> <tr><td>79-82</td><td>Xill</td></tr> <tr><td>83-85</td><td>Yeth hound</td></tr> <tr><td>86</td><td>Demon (shadow)</td></tr> <tr><td>87</td><td>Demon (vrock)</td></tr> <tr><td>88</td><td>Demon (hezrou)</td></tr> <tr><td>89</td><td>Demon (glabrezu)</td></tr> <tr><td>90</td><td>Demon (succubus)</td></tr> <tr><td>91</td><td>Devil (osyluth)</td></tr> <tr><td>92</td><td>Devil (barbazu)</td></tr> <tr><td>93</td><td>Devil (erinyes)</td></tr> <tr><td>94</td><td>Devil (cornugon)</td></tr> <tr><td>95</td><td>Agathion (avoral)</td></tr> <tr><td>96</td><td>Azata (ghaele)</td></tr> <tr><td>97</td><td>Archon (trumpet)</td></tr> <tr><td>98</td><td>Rakshasa</td></tr> <tr><td>99</td><td>Demon (balor)</td></tr> <tr><td>100</td><td>Devil (pit fiend)</td></tr> </table>"
+			{
+				"table": true,
+				"rows": [
+					[
+						"d%",
+						"Contents"
+					],
+					[
+						"01-50",
+						"Empty"
+					],
+					[
+						"51-54",
+						"Large air elemental"
+					],
+					[
+						"55-58",
+						"Invisible stalker"
+					],
+					[
+						"59-62",
+						"Large earth elemental"
+					],
+					[
+						"63-66",
+						"Xorn"
+					],
+					[
+						"67-70",
+						"Large fire elemental"
+					],
+					[
+						"71-74",
+						"Salamander"
+					],
+					[
+						"75-78",
+						"Large water elemental"
+					],
+					[
+						"79-82",
+						"Xill"
+					],
+					[
+						"83-85",
+						"Yeth hound"
+					],
+					[
+						"86",
+						"Demon (shadow)"
+					],
+					[
+						"87",
+						"Demon (vrock)"
+					],
+					[
+						"88",
+						"Demon (hezrou)"
+					],
+					[
+						"89",
+						"Demon (glabrezu)"
+					],
+					[
+						"90",
+						"Demon (succubus)"
+					],
+					[
+						"91",
+						"Devil (osyluth)"
+					],
+					[
+						"92",
+						"Devil (barbazu)"
+					],
+					[
+						"93",
+						"Devil (erinyes)"
+					],
+					[
+						"94",
+						"Devil (cornugon)"
+					],
+					[
+						"95",
+						"Agathion (avoral)"
+					],
+					[
+						"96",
+						"Azata (ghaele)"
+					],
+					[
+						"97",
+						"Archon (trumpet)"
+					],
+					[
+						"98",
+						"Rakshasa"
+					],
+					[
+						"99",
+						"Demon (balor)"
+					],
+					[
+						"100",
+						"Devil (pit fiend)"
+					]
+				]
+			}
 		],
 		"construction": "Requirements Craft Wondrous Item, trap the soul; Cost 85,000 gp"
 	},
@@ -40465,7 +42165,23 @@
 		],
 		"description": [
 			"A flying skiff is a long, flat-bottomed vehicle akin to a naval ship, and is covered in metallic veins. Without a psychic pilot, a flying skiff acts in all regards as a keelboat (Pathfinder RPG Ultimate Combat 184). A single Large directfire siege engine can be mounted on the front of a flying skiff.",
-			"A control helmet that fits a Small, Medium, or Large creature is linked by long, curling cables to the metal veins of the skiff. Whenever a psychic creature (one with levels in an occult class, the Psychic Sensitivity feat, or the ability to use psychic spelllike abilities) wears the control helmet, the flying skiff gains the following abilities. <ul><li>The skiff can fly with a maximum speed of 100 feet and acceleration of 30 feet.</li><li>The skiff gains fast healing 5 when reduced below half its starting hit points. Damage above this threshold must be repaired normally.</li></ul> Along with the abilities granted to the flying skiff when piloted by a psychic creature, the pilot gains the following additional abilities. <ul><li>Anytime the pilot casts one of the following psychic spells, the spell affects the entire crew of the flying skiff: intellect fortress, mental barrier, thought shield, and tower of iron will. This includes all variants of these spells. The effect ends for a creature that departs the skiff before the spell's duration ends.</li><li>The pilot can aim and fire the siege weapon on the flying skiff with her mind (using the same number of actions this would normally take). This does not grant her the ability to reload the siege weapon with her mind.</li><li>Once per day, the pilot can take a full-round action to transport the flying skiff and all crew onboard as plane shift.</li></ul>"
+			"A control helmet that fits a Small, Medium, or Large creature is linked by long, curling cables to the metal veins of the skiff. Whenever a psychic creature (one with levels in an occult class, the Psychic Sensitivity feat, or the ability to use psychic spelllike abilities) wears the control helmet, the flying skiff gains the following abilities.",
+			{
+				"list": true,
+				"items": [
+					"The skiff can fly with a maximum speed of 100 feet and acceleration of 30 feet.",
+					"The skiff gains fast healing 5 when reduced below half its starting hit points. Damage above this threshold must be repaired normally."
+				]
+			},
+			"Along with the abilities granted to the flying skiff when piloted by a psychic creature, the pilot gains the following additional abilities.",
+			{
+				"list": true,
+				"items": [
+					"Anytime the pilot casts one of the following psychic spells, the spell affects the entire crew of the flying skiff: intellect fortress, mental barrier, thought shield, and tower of iron will. This includes all variants of these spells. The effect ends for a creature that departs the skiff before the spell's duration ends.",
+					"The pilot can aim and fire the siege weapon on the flying skiff with her mind (using the same number of actions this would normally take). This does not grant her the ability to reload the siege weapon with her mind.",
+					"Once per day, the pilot can take a full-round action to transport the flying skiff and all crew onboard as plane shift."
+				]
+			}
 		],
 		"construction": "Requirements Craft Wondrous Item, intellect fortress III, mental barrier III, overland flight, plane shift, thought shield III, tower of iron will II; Cost 90,000 gp"
 	},
@@ -41182,7 +42898,35 @@
 			"This forest-green wool cloak is thick and warm. Its hem and the edge of its hood are embroidered with small figures of forest creatures (rabbits, squirrels, and the like) in white thread.",
 			"When worn, this cloak bestows a +1 resistance bonus on all saving throws. The wearer can remove the cloak at any time and lay it on the ground outdoors. This ends the resistance bonus but summons a number of animals from the cloak. The animals serve the character who summoned them for 10 minutes (or until slain or returned to the cloak's folds). A summoned creature can follow any of the commands described in the Handle Animal skill. Use the following tables to determine what animals can be called forth.",
 			"The cloak summons creatures only when laid down outdoors on naturally occurring ground (not, for example, on a wooden deck or stone pathway). The cloak can be used to summon animals up to three times per day.",
-			"<table class=\"inner\"> <tr><td>d%</td><td>Animal</td></tr> <tr><td>01-30</td><td>1 owl</td></tr> <tr><td>31-60</td><td>1d3 rats</td></tr> <tr><td>61-75</td><td>1 weasel</td></tr> <tr><td>76-90</td><td>1d6 squirrels</td></tr> <tr><td>91-100</td><td>1d4 rabbits</td></tr></table>"
+			{
+				"table": true,
+				"rows": [
+					[
+						"d%",
+						"Animal"
+					],
+					[
+						"01-30",
+						"1 owl"
+					],
+					[
+						"31-60",
+						"1d3 rats"
+					],
+					[
+						"61-75",
+						"1 weasel"
+					],
+					[
+						"76-90",
+						"1d6 squirrels"
+					],
+					[
+						"91-100",
+						"1d4 rabbits"
+					]
+				]
+			}
 		],
 		"construction": "Requirements Craft Wondrous Item, resistance, summon nature's ally I; Cost 2,250 gp"
 	},
@@ -42289,7 +44033,30 @@
 			"Slot shoulders; Price 15,600 gp; Weight 8 lbs."
 		],
 		"description": [
-			"These lustrous animal pelts are particularly treasured among Ulfen barbarians. While any humanoid creature can don and use such pelts, their powers are vastly enhanced for skinwalkers. All pelts of the beast grant the following powers: <ul><li>A bite attack that deals damage appropriate to the wearer's size. If the wearer already has a bite attack, the critical threat range of this attack doubles. This does not stack with other magical effects that increase the threat range of a natural weapon.</li><li>Speak with animals 1/day. If the wearer can already use speak with animals as a spell-like ability, she may do so at will.</li><li>The wearer may take the form of the animal from which the pelt came three times per day as if using beast shape I. In addition, if the wearer is a skinwalker, her change shape ability is enhanced so that she may gain an additional bestial feature when taking her bestial form, selectable from the skinwalker heritage tied to the animal from which the pelt came. For instance, a werewolf-kin wearing a bear pelt of the beast could use her change shape ability to gain a climb speed from the pelt's bestial features (identical to the set listed for werebear-kin) in addition to darkvision from her set of werewolf-kin bestial features. Feats or abilities that affect how many bestial features the skinwalker may gain at a single time stack with this ability.</li></ul> Each pelt also grants a competence bonus on a check, based on its type. These bonuses increase by 50% for skinwalkers wearing a pelt that matches their lycanthropic heritage. <ul><li>Bat: +4 bonus on Perception checks in darkness</li><li>Bear: +2 bonus on combat maneuver checks to grapple</li><li>Boar: +2 bonus on combat maneuver checks to bull rush</li><li>Crocodile: +2 bonus on combat maneuver checks to sunder</li><li>Rat: +2 bonus on saving throws against disease</li><li>Shark: +2 bonus on Perception and Swim checks attempted while completely underwater</li><li>Tiger: +2 bonus on Stealth checks</li><li>Wolf: +2 bonus on combat maneuver checks to trip</li></ul> Other pelts of the beast may be available at the GM's discretion."
+			"These lustrous animal pelts are particularly treasured among Ulfen barbarians. While any humanoid creature can don and use such pelts, their powers are vastly enhanced for skinwalkers. All pelts of the beast grant the following powers:",
+			{
+				"list": true,
+				"items": [
+					"A bite attack that deals damage appropriate to the wearer's size. If the wearer already has a bite attack, the critical threat range of this attack doubles. This does not stack with other magical effects that increase the threat range of a natural weapon.",
+					"Speak with animals 1/day. If the wearer can already use speak with animals as a spell-like ability, she may do so at will.",
+					"The wearer may take the form of the animal from which the pelt came three times per day as if using beast shape I. In addition, if the wearer is a skinwalker, her change shape ability is enhanced so that she may gain an additional bestial feature when taking her bestial form, selectable from the skinwalker heritage tied to the animal from which the pelt came. For instance, a werewolf-kin wearing a bear pelt of the beast could use her change shape ability to gain a climb speed from the pelt's bestial features (identical to the set listed for werebear-kin) in addition to darkvision from her set of werewolf-kin bestial features. Feats or abilities that affect how many bestial features the skinwalker may gain at a single time stack with this ability."
+				]
+			},
+			"Each pelt also grants a competence bonus on a check, based on its type. These bonuses increase by 50% for skinwalkers wearing a pelt that matches their lycanthropic heritage.",
+			{
+				"list": true,
+				"items": [
+					"Bat: +4 bonus on Perception checks in darkness",
+					"Bear: +2 bonus on combat maneuver checks to grapple",
+					"Boar: +2 bonus on combat maneuver checks to bull rush",
+					"Crocodile: +2 bonus on combat maneuver checks to sunder",
+					"Rat: +2 bonus on saving throws against disease",
+					"Shark: +2 bonus on Perception and Swim checks attempted while completely underwater",
+					"Tiger: +2 bonus on Stealth checks",
+					"Wolf: +2 bonus on combat maneuver checks to trip"
+				]
+			},
+			"Other pelts of the beast may be available at the GM's discretion."
 		],
 		"construction": "Requirements Craft Wondrous Item, beast shape I, speak with animals; Cost 7,800 gp"
 	},
