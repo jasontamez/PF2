@@ -101,7 +101,7 @@
 		"sources": [],
 		"costAdjustment": "+1 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor or shield"
 	},
 	"Evolving": {
 		"itemname": "Evolving",
@@ -117,7 +117,7 @@
 		"sources": [],
 		"costAdjustment": "+1 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor or shield"
 	},
 	"Grinding": {
 		"itemname": "Grinding",
@@ -125,7 +125,7 @@
 		"sources": [],
 		"costAdjustment": "+1 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor or shield"
 	},
 	"Impervious": {
 		"itemname": "Impervious",
@@ -133,7 +133,7 @@
 		"sources": [],
 		"costAdjustment": "+1 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor or shield"
 	},
 	"Mirrored": {
 		"itemname": "Mirrored",
@@ -141,7 +141,7 @@
 		"sources": [],
 		"costAdjustment": "+1 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor or shield"
 	},
 	"Poisoning": {
 		"itemname": "Poisoning",
@@ -173,7 +173,7 @@
 		"sources": [],
 		"costAdjustment": "+1 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor or shield"
 	},
 	"Stanching": {
 		"itemname": "Stanching",
@@ -247,13 +247,13 @@
 		"type": "modification",
 		"slot": "armor"
 	},
-	"Fitting (armor)": {
+	"Fitting": {
 		"itemname": "Fitting",
 		"file": "magicarmordisplay643b.html",
 		"sources": [],
 		"costAdjustment": "+2,000 gp",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor or shield"
 	},
 	"Poison-Resistant": {
 		"itemname": "Poison-Resistant",
@@ -261,7 +261,7 @@
 		"sources": [],
 		"costAdjustment": "+2,250 gp",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor or shield"
 	},
 	"Glamered": {
 		"itemname": "Glamered",
@@ -333,7 +333,7 @@
 		"sources": [],
 		"costAdjustment": "+2 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor or shield"
 	},
 	"Ghost Spike": {
 		"itemname": "Ghost Spike",
@@ -349,7 +349,7 @@
 		"sources": [],
 		"costAdjustment": "+2 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor or shield"
 	},
 	"Mind Buttressing": {
 		"itemname": "Mind Buttressing",
@@ -397,7 +397,7 @@
 		"sources": [],
 		"costAdjustment": "+2 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor or shield"
 	},
 	"Steaming": {
 		"itemname": "Steaming",
@@ -501,7 +501,7 @@
 		"sources": [],
 		"costAdjustment": "+5,000 gp",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor or shield"
 	},
 	"Spirit-bonded": {
 		"itemname": "Spirit-bonded",
@@ -541,7 +541,7 @@
 		"sources": [],
 		"costAdjustment": "+7,500 gp",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor or shield"
 	},
 	"Radiant": {
 		"itemname": "Radiant",
@@ -549,7 +549,7 @@
 		"sources": [],
 		"costAdjustment": "+7,500 gp",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor or shield"
 	},
 	"Trackless": {
 		"itemname": "Trackless",
@@ -589,7 +589,7 @@
 		"sources": [],
 		"costAdjustment": "+3 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor or shield"
 	},
 	"Ghost Touch": {
 		"itemname": "Ghost Touch",
@@ -597,7 +597,7 @@
 		"sources": [],
 		"costAdjustment": "+3 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor or shield"
 	},
 	"Invulnerability": {
 		"itemname": "Invulnerability",
@@ -621,7 +621,7 @@
 		"sources": [],
 		"costAdjustment": "+3 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor or shield"
 	},
 	"Titanic": {
 		"itemname": "Titanic",
@@ -637,7 +637,7 @@
 		"sources": [],
 		"costAdjustment": "+3 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor or shield"
 	},
 	"Phase Lurching": {
 		"itemname": "Phase Lurching",
@@ -725,7 +725,7 @@
 		"sources": [],
 		"costAdjustment": "+4 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor or shield"
 	},
 	"Energy Resistance": {
 		"itemname": "Energy Resistance",
@@ -733,7 +733,7 @@
 		"sources": [],
 		"costAdjustment": "+18,000 gp",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor or shield"
 	},
 	"Martyring": {
 		"itemname": "Martyring",
@@ -757,7 +757,7 @@
 		"sources": [],
 		"costAdjustment": "+5 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor or shield"
 	},
 	"Spell Resistance (19)": {
 		"itemname": "Spell Resistance (19)",
@@ -765,7 +765,7 @@
 		"sources": [],
 		"costAdjustment": "+5 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor or shield"
 	},
 	"Unbowed": {
 		"itemname": "Unbowed",
@@ -813,7 +813,7 @@
 		"sources": [],
 		"costAdjustment": "+30,000 gp",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor or shield"
 	},
 	"Greater Aquadynamic": {
 		"itemname": "Greater Aquadynamic",
@@ -845,7 +845,7 @@
 		"sources": [],
 		"costAdjustment": "+42,000 gp",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor or shield"
 	},
 	"Etherealness": {
 		"itemname": "Etherealness",
@@ -861,7 +861,7 @@
 		"sources": [],
 		"costAdjustment": "+49,000 gp",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor or shield"
 	},
 	"Energy Resistance, Greater": {
 		"itemname": "Energy Resistance, Greater",
@@ -869,7 +869,7 @@
 		"sources": [],
 		"costAdjustment": "+66,000 gp",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor or shield"
 	},
 	"Arrow Catching": {
 		"itemname": "Arrow Catching",
@@ -911,33 +911,9 @@
 		"type": "modification",
 		"slot": "shield"
 	},
-	"Defiant": {
-		"itemname": "Defiant",
-		"file": "magicarmordisplayd4a7.html",
-		"sources": [],
-		"costAdjustment": "+1 bonus",
-		"type": "modification",
-		"slot": "shield"
-	},
 	"Folding": {
 		"itemname": "Folding",
 		"file": "magicarmordisplay24f3.html",
-		"sources": [],
-		"costAdjustment": "+1 bonus",
-		"type": "modification",
-		"slot": "shield"
-	},
-	"Fortification (light)": {
-		"itemname": "Fortification (light)",
-		"file": "magicarmordisplay7af0.html",
-		"sources": [],
-		"costAdjustment": "+1 bonus",
-		"type": "modification",
-		"slot": "shield"
-	},
-	"Grinding": {
-		"itemname": "Grinding",
-		"file": "magicarmordisplay474d.html",
 		"sources": [],
 		"costAdjustment": "+1 bonus",
 		"type": "modification",
@@ -954,22 +930,6 @@
 	"Heraldric": {
 		"itemname": "Heraldric",
 		"file": "magicarmordisplay7f5b.html",
-		"sources": [],
-		"costAdjustment": "+1 bonus",
-		"type": "modification",
-		"slot": "shield"
-	},
-	"Impervious": {
-		"itemname": "Impervious",
-		"file": "magicarmordisplay25e9.html",
-		"sources": [],
-		"costAdjustment": "+1 bonus",
-		"type": "modification",
-		"slot": "shield"
-	},
-	"Mirrored": {
-		"itemname": "Mirrored",
-		"file": "magicarmordisplayfb55.html",
 		"sources": [],
 		"costAdjustment": "+1 bonus",
 		"type": "modification",
@@ -1007,35 +967,11 @@
 		"type": "modification",
 		"slot": "shield"
 	},
-	"Spellsink": {
-		"itemname": "Spellsink",
-		"file": "magicarmordisplay3041.html",
-		"sources": [],
-		"costAdjustment": "+1 bonus",
-		"type": "modification",
-		"slot": "shield"
-	},
 	"Buoyant (shield)": {
 		"itemname": "Buoyant (shield)",
 		"file": "magicarmordisplay1942.html",
 		"sources": [],
 		"costAdjustment": "+1,000 gp",
-		"type": "modification",
-		"slot": "shield"
-	},
-	"Fitting (shield)": {
-		"itemname": "Fitting",
-		"file": "magicarmordisplay643b.html",
-		"sources": [],
-		"costAdjustment": "+2,000 gp",
-		"type": "modification",
-		"slot": "shield"
-	},
-	"Poison-Resistant": {
-		"itemname": "Poison-Resistant",
-		"file": "magicarmordisplayeb9d.html",
-		"sources": [],
-		"costAdjustment": "+2,250 gp",
 		"type": "modification",
 		"slot": "shield"
 	},
@@ -1055,25 +991,9 @@
 		"type": "modification",
 		"slot": "shield"
 	},
-	"Frosted": {
-		"itemname": "Frosted",
-		"file": "magicarmordisplay4668.html",
-		"sources": [],
-		"costAdjustment": "+2 bonus",
-		"type": "modification",
-		"slot": "shield"
-	},
 	"Guarding, Greater": {
 		"itemname": "Guarding, Greater",
 		"file": "magicarmordisplaye091.html",
-		"sources": [],
-		"costAdjustment": "+2 bonus",
-		"type": "modification",
-		"slot": "shield"
-	},
-	"Jarring": {
-		"itemname": "Jarring",
-		"file": "magicarmordisplay9597.html",
 		"sources": [],
 		"costAdjustment": "+2 bonus",
 		"type": "modification",
@@ -1103,27 +1023,11 @@
 		"type": "modification",
 		"slot": "shield"
 	},
-	"Spell Resistance (13)": {
-		"itemname": "Spell Resistance (13)",
-		"file": "magicarmordisplay3a8d.html",
-		"sources": [],
-		"costAdjustment": "+2 bonus",
-		"type": "modification",
-		"slot": "shield"
-	},
 	"Weeping": {
 		"itemname": "Weeping",
 		"file": "magicarmordisplayd66a.html",
 		"sources": [],
 		"costAdjustment": "+2 bonus",
-		"type": "modification",
-		"slot": "shield"
-	},
-	"Rallying": {
-		"itemname": "Rallying",
-		"file": "magicarmordisplay575a.html",
-		"sources": [],
-		"costAdjustment": "+5,000 gp",
 		"type": "modification",
 		"slot": "shield"
 	},
@@ -1135,57 +1039,9 @@
 		"type": "modification",
 		"slot": "shield"
 	},
-	"Hosteling": {
-		"itemname": "Hosteling",
-		"file": "magicarmordisplay747e.html",
-		"sources": [],
-		"costAdjustment": "+7,500 gp",
-		"type": "modification",
-		"slot": "shield"
-	},
-	"Radiant": {
-		"itemname": "Radiant",
-		"file": "magicarmordisplay999b.html",
-		"sources": [],
-		"costAdjustment": "+7,500 gp",
-		"type": "modification",
-		"slot": "shield"
-	},
 	"Deflecting": {
 		"itemname": "Deflecting",
 		"file": "magicarmordisplayb3cc.html",
-		"sources": [],
-		"costAdjustment": "+3 bonus",
-		"type": "modification",
-		"slot": "shield"
-	},
-	"Fortification (moderate)": {
-		"itemname": "Fortification (moderate)",
-		"file": "magicarmordisplaya46e.html",
-		"sources": [],
-		"costAdjustment": "+3 bonus",
-		"type": "modification",
-		"slot": "shield"
-	},
-	"Ghost Touch": {
-		"itemname": "Ghost Touch",
-		"file": "magicarmordisplay58b9.html",
-		"sources": [],
-		"costAdjustment": "+3 bonus",
-		"type": "modification",
-		"slot": "shield"
-	},
-	"Spell Resistance (15)": {
-		"itemname": "Spell Resistance (15)",
-		"file": "magicarmordisplay2e04.html",
-		"sources": [],
-		"costAdjustment": "+3 bonus",
-		"type": "modification",
-		"slot": "shield"
-	},
-	"Wild": {
-		"itemname": "Wild",
-		"file": "magicarmordisplay1577.html",
 		"sources": [],
 		"costAdjustment": "+3 bonus",
 		"type": "modification",
@@ -1199,14 +1055,6 @@
 		"type": "modification",
 		"slot": "shield"
 	},
-	"Spell Resistance (17)": {
-		"itemname": "Spell Resistance (17)",
-		"file": "magicarmordisplay5535.html",
-		"sources": [],
-		"costAdjustment": "+4 bonus",
-		"type": "modification",
-		"slot": "shield"
-	},
 	"Channeling": {
 		"itemname": "Channeling",
 		"file": "magicarmordisplaye144.html",
@@ -1215,67 +1063,11 @@
 		"type": "modification",
 		"slot": "shield"
 	},
-	"Energy Resistance": {
-		"itemname": "Energy Resistance",
-		"file": "magicarmordisplay859c.html",
-		"sources": [],
-		"costAdjustment": "+18,000 gp",
-		"type": "modification",
-		"slot": "shield"
-	},
-	"Fortification (heavy)": {
-		"itemname": "Fortification (heavy)",
-		"file": "magicarmordisplay2929.html",
-		"sources": [],
-		"costAdjustment": "+5 bonus",
-		"type": "modification",
-		"slot": "shield"
-	},
 	"Reflecting": {
 		"itemname": "Reflecting",
 		"file": "magicarmordisplayddab.html",
 		"sources": [],
 		"costAdjustment": "+5 bonus",
-		"type": "modification",
-		"slot": "shield"
-	},
-	"Spell Resistance (19)": {
-		"itemname": "Spell Resistance (19)",
-		"file": "magicarmordisplay25a4.html",
-		"sources": [],
-		"costAdjustment": "+5 bonus",
-		"type": "modification",
-		"slot": "shield"
-	},
-	"Determination": {
-		"itemname": "Determination",
-		"file": "magicarmordisplay6bdc.html",
-		"sources": [],
-		"costAdjustment": "+30,000 gp",
-		"type": "modification",
-		"slot": "shield"
-	},
-	"Energy Resistance, Improved": {
-		"itemname": "Energy Resistance, Improved",
-		"file": "magicarmordisplaya307.html",
-		"sources": [],
-		"costAdjustment": "+42,000 gp",
-		"type": "modification",
-		"slot": "shield"
-	},
-	"Undead Controlling": {
-		"itemname": "Undead Controlling",
-		"file": "magicarmordisplay8e05.html",
-		"sources": [],
-		"costAdjustment": "+49,000 gp",
-		"type": "modification",
-		"slot": "shield"
-	},
-	"Energy Resistance, Greater": {
-		"itemname": "Energy Resistance, Greater",
-		"file": "magicarmordisplay0939.html",
-		"sources": [],
-		"costAdjustment": "+66,000 gp",
 		"type": "modification",
 		"slot": "shield"
 	},
