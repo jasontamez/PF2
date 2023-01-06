@@ -1,0 +1,3170 @@
+{
+	"Advancing": {
+		"itemname": "Advancing",
+		"file": "magicarmordisplaybd39.html",
+		"sources": [],
+		"costAdjustment": "+1 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Balanced": {
+		"itemname": "Balanced",
+		"file": "magicarmordisplay8917.html",
+		"sources": [],
+		"costAdjustment": "+1 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Benevolent": {
+		"itemname": "Benevolent",
+		"file": "magicarmordisplay7b1c.html",
+		"sources": [],
+		"costAdjustment": "+1 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Billowing": {
+		"itemname": "Billowing",
+		"file": "magicarmordisplay4846.html",
+		"sources": [],
+		"costAdjustment": "+1 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Bitter": {
+		"itemname": "Bitter",
+		"file": "magicarmordisplay08b4.html",
+		"sources": [],
+		"costAdjustment": "+1 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Bolstering": {
+		"itemname": "Bolstering",
+		"file": "magicarmordisplay0517.html",
+		"sources": [],
+		"costAdjustment": "+1 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Calming": {
+		"itemname": "Calming",
+		"file": "magicarmordisplay5baa.html",
+		"sources": [],
+		"costAdjustment": "+1 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Champion": {
+		"itemname": "Champion",
+		"file": "magicarmordisplay52f4.html",
+		"sources": [],
+		"costAdjustment": "+1 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Cocooning": {
+		"itemname": "Cocooning",
+		"file": "magicarmordisplaye924.html",
+		"sources": [],
+		"costAdjustment": "+1 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Crusading": {
+		"itemname": "Crusading",
+		"file": "magicarmordisplay77af.html",
+		"sources": [],
+		"costAdjustment": "+1 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Dastard": {
+		"itemname": "Dastard",
+		"file": "magicarmordisplay022e.html",
+		"sources": [],
+		"costAdjustment": "+1 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Deathless": {
+		"itemname": "Deathless",
+		"file": "magicarmordisplaydb9c.html",
+		"sources": [],
+		"costAdjustment": "+1 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Defiant": {
+		"itemname": "Defiant",
+		"file": "magicarmordisplayd4a7.html",
+		"sources": [],
+		"costAdjustment": "+1 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Evolving": {
+		"itemname": "Evolving",
+		"file": "magicarmordisplaye3e7.html",
+		"sources": [],
+		"costAdjustment": "+1 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Fortification (light)": {
+		"itemname": "Fortification (light)",
+		"file": "magicarmordisplay7af0.html",
+		"sources": [],
+		"costAdjustment": "+1 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Grinding": {
+		"itemname": "Grinding",
+		"file": "magicarmordisplay474d.html",
+		"sources": [],
+		"costAdjustment": "+1 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Impervious": {
+		"itemname": "Impervious",
+		"file": "magicarmordisplay25e9.html",
+		"sources": [],
+		"costAdjustment": "+1 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Mirrored": {
+		"itemname": "Mirrored",
+		"file": "magicarmordisplayfb55.html",
+		"sources": [],
+		"costAdjustment": "+1 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Poisoning": {
+		"itemname": "Poisoning",
+		"file": "magicarmordisplay68e3.html",
+		"sources": [],
+		"costAdjustment": "+1 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Resonating": {
+		"itemname": "Resonating",
+		"file": "magicarmordisplay888b.html",
+		"sources": [],
+		"costAdjustment": "+1 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Spell Storing": {
+		"itemname": "Spell Storing",
+		"file": "magicarmordisplayc4e1.html",
+		"sources": [],
+		"costAdjustment": "+1 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Spellsink": {
+		"itemname": "Spellsink",
+		"file": "magicarmordisplay3041.html",
+		"sources": [],
+		"costAdjustment": "+1 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Stanching": {
+		"itemname": "Stanching",
+		"file": "magicarmordisplay83e5.html",
+		"sources": [],
+		"costAdjustment": "+1 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Terrain-striding": {
+		"itemname": "Terrain-striding",
+		"file": "magicarmordisplay4e9b.html",
+		"sources": [],
+		"costAdjustment": "+1 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Trapwarding": {
+		"itemname": "Trapwarding",
+		"file": "magicarmordisplay5d8c.html",
+		"sources": [],
+		"costAdjustment": "+1 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Vouchsafing": {
+		"itemname": "Vouchsafing",
+		"file": "magicarmordisplayb70e.html",
+		"sources": [],
+		"costAdjustment": "+1 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Warding": {
+		"itemname": "Warding",
+		"file": "magicarmordisplayae0e.html",
+		"sources": [],
+		"costAdjustment": "+1 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Withstanding": {
+		"itemname": "Withstanding",
+		"file": "magicarmordisplayb611.html",
+		"sources": [],
+		"costAdjustment": "+1 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Buoyant (light armor)": {
+		"itemname": "Buoyant (light armor)",
+		"file": "magicarmordisplay6c0c.html",
+		"sources": [],
+		"costAdjustment": "+1,000 gp",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Cushioned": {
+		"itemname": "Cushioned",
+		"file": "magicarmordisplay62b1.html",
+		"sources": [],
+		"costAdjustment": "+1,000 gp",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Buoyant (medium/heavy armor)": {
+		"itemname": "Buoyant (medium/heavy armor)",
+		"file": "magicarmordisplaya1bf.html",
+		"sources": [],
+		"costAdjustment": "+2,000 gp",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Fitting (armor)": {
+		"itemname": "Fitting",
+		"file": "magicarmordisplay643b.html",
+		"sources": [],
+		"costAdjustment": "+2,000 gp",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Poison-Resistant": {
+		"itemname": "Poison-Resistant",
+		"file": "magicarmordisplayeb9d.html",
+		"sources": [],
+		"costAdjustment": "+2,250 gp",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Glamered": {
+		"itemname": "Glamered",
+		"file": "magicarmordisplay8e76.html",
+		"sources": [],
+		"costAdjustment": "+2,700 gp",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Mental Focus": {
+		"itemname": "Mental Focus",
+		"file": "magicarmordisplay14bc.html",
+		"sources": [],
+		"costAdjustment": "+3,000 gp",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Aquadynamic": {
+		"itemname": "Aquadynamic",
+		"file": "magicarmordisplay95ff.html",
+		"sources": [],
+		"costAdjustment": "+3,750 gp",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Jousting": {
+		"itemname": "Jousting",
+		"file": "magicarmordisplay18c3.html",
+		"sources": [],
+		"costAdjustment": "+3,750 gp",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Shadow": {
+		"itemname": "Shadow",
+		"file": "magicarmordisplay372c.html",
+		"sources": [],
+		"costAdjustment": "+3,750 gp",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Slick": {
+		"itemname": "Slick",
+		"file": "magicarmordisplay4bf1.html",
+		"sources": [],
+		"costAdjustment": "+3,750 gp",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Adamant": {
+		"itemname": "Adamant",
+		"file": "magicarmordisplaydf3f.html",
+		"sources": [],
+		"costAdjustment": "+2 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Bloodthirsty": {
+		"itemname": "Bloodthirsty",
+		"file": "magicarmordisplay4e68.html",
+		"sources": [],
+		"costAdjustment": "+2 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Frosted": {
+		"itemname": "Frosted",
+		"file": "magicarmordisplay4668.html",
+		"sources": [],
+		"costAdjustment": "+2 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Ghost Spike": {
+		"itemname": "Ghost Spike",
+		"file": "magicarmordisplay5885.html",
+		"sources": [],
+		"costAdjustment": "+2 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Jarring": {
+		"itemname": "Jarring",
+		"file": "magicarmordisplay9597.html",
+		"sources": [],
+		"costAdjustment": "+2 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Mind Buttressing": {
+		"itemname": "Mind Buttressing",
+		"file": "magicarmordisplay68d5.html",
+		"sources": [],
+		"costAdjustment": "+2 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Phantasmal": {
+		"itemname": "Phantasmal",
+		"file": "magicarmordisplayd124.html",
+		"sources": [],
+		"costAdjustment": "+2 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Rampaging": {
+		"itemname": "Rampaging",
+		"file": "magicarmordisplayf935.html",
+		"sources": [],
+		"costAdjustment": "+2 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Shadow Blending": {
+		"itemname": "Shadow Blending",
+		"file": "magicarmordisplay598b.html",
+		"sources": [],
+		"costAdjustment": "+2 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Spell Dodging": {
+		"itemname": "Spell Dodging",
+		"file": "magicarmordisplaya879.html",
+		"sources": [],
+		"costAdjustment": "+2 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Spell Resistance (13)": {
+		"itemname": "Spell Resistance (13)",
+		"file": "magicarmordisplay3a8d.html",
+		"sources": [],
+		"costAdjustment": "+2 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Steaming": {
+		"itemname": "Steaming",
+		"file": "magicarmordisplay4deb.html",
+		"sources": [],
+		"costAdjustment": "+2 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Volcanic": {
+		"itemname": "Volcanic",
+		"file": "magicarmordisplay0b95.html",
+		"sources": [],
+		"costAdjustment": "+2 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Burdenless": {
+		"itemname": "Burdenless",
+		"file": "magicarmordisplayb3d3.html",
+		"sources": [],
+		"costAdjustment": "+4,000 gp",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Expeditious": {
+		"itemname": "Expeditious",
+		"file": "magicarmordisplay93d3.html",
+		"sources": [],
+		"costAdjustment": "+4,000 gp",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Amorphous": {
+		"itemname": "Amorphous",
+		"file": "magicarmordisplay11c6.html",
+		"sources": [],
+		"costAdjustment": "+4,500 gp",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Restful": {
+		"itemname": "Restful",
+		"file": "magicarmordisplay45d5.html",
+		"sources": [],
+		"costAdjustment": "+4,500 gp",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Cloudburst": {
+		"itemname": "Cloudburst",
+		"file": "magicarmordisplayab37.html",
+		"sources": [],
+		"costAdjustment": "+5,000 gp",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Comfort": {
+		"itemname": "Comfort",
+		"file": "magicarmordisplay4722.html",
+		"sources": [],
+		"costAdjustment": "+5,000 gp",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Corsair": {
+		"itemname": "Corsair",
+		"file": "magicarmordisplayc521.html",
+		"sources": [],
+		"costAdjustment": "+5,000 gp",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Creeping": {
+		"itemname": "Creeping",
+		"file": "magicarmordisplay4ef4.html",
+		"sources": [],
+		"costAdjustment": "+5,000 gp",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Deceiving": {
+		"itemname": "Deceiving",
+		"file": "magicarmordisplay57f1.html",
+		"sources": [],
+		"costAdjustment": "+5,000 gp",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Malevolent": {
+		"itemname": "Malevolent",
+		"file": "magicarmordisplaya998.html",
+		"sources": [],
+		"costAdjustment": "+5,000 gp",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Rallying": {
+		"itemname": "Rallying",
+		"file": "magicarmordisplay575a.html",
+		"sources": [],
+		"costAdjustment": "+5,000 gp",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Spirit-bonded": {
+		"itemname": "Spirit-bonded",
+		"file": "magicarmordisplay2882.html",
+		"sources": [],
+		"costAdjustment": "+6,000 gp",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Locksmith": {
+		"itemname": "Locksmith",
+		"file": "magicarmordisplayab02.html",
+		"sources": [],
+		"costAdjustment": "+6,500 gp",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Adhesive": {
+		"itemname": "Adhesive",
+		"file": "magicarmordisplayd9d2.html",
+		"sources": [],
+		"costAdjustment": "+7,000 gp",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Spiteful": {
+		"itemname": "Spiteful",
+		"file": "magicarmordisplayfeef.html",
+		"sources": [],
+		"costAdjustment": "+7,000 gp",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Hosteling": {
+		"itemname": "Hosteling",
+		"file": "magicarmordisplay747e.html",
+		"sources": [],
+		"costAdjustment": "+7,500 gp",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Radiant": {
+		"itemname": "Radiant",
+		"file": "magicarmordisplay999b.html",
+		"sources": [],
+		"costAdjustment": "+7,500 gp",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Trackless": {
+		"itemname": "Trackless",
+		"file": "magicarmordisplay161b.html",
+		"sources": [],
+		"costAdjustment": "+7,500 gp",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Arrow-collecting": {
+		"itemname": "Arrow-collecting",
+		"file": "magicarmordisplayf58c.html",
+		"sources": [],
+		"costAdjustment": "+3 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Brawling": {
+		"itemname": "Brawling",
+		"file": "magicarmordisplay9eee.html",
+		"sources": [],
+		"costAdjustment": "+3 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Cotraveling": {
+		"itemname": "Cotraveling",
+		"file": "magicarmordisplay6bf9.html",
+		"sources": [],
+		"costAdjustment": "+3 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Fortification (moderate)": {
+		"itemname": "Fortification (moderate)",
+		"file": "magicarmordisplaya46e.html",
+		"sources": [],
+		"costAdjustment": "+3 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Ghost Touch": {
+		"itemname": "Ghost Touch",
+		"file": "magicarmordisplay58b9.html",
+		"sources": [],
+		"costAdjustment": "+3 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Invulnerability": {
+		"itemname": "Invulnerability",
+		"file": "magicarmordisplaya65a.html",
+		"sources": [],
+		"costAdjustment": "+3 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Sensing": {
+		"itemname": "Sensing",
+		"file": "magicarmordisplaydd5e.html",
+		"sources": [],
+		"costAdjustment": "+3 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Spell Resistance (15)": {
+		"itemname": "Spell Resistance (15)",
+		"file": "magicarmordisplay2e04.html",
+		"sources": [],
+		"costAdjustment": "+3 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Titanic": {
+		"itemname": "Titanic",
+		"file": "magicarmordisplay858d.html",
+		"sources": [],
+		"costAdjustment": "+3 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Wild": {
+		"itemname": "Wild",
+		"file": "magicarmordisplay1577.html",
+		"sources": [],
+		"costAdjustment": "+3 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Phase Lurching": {
+		"itemname": "Phase Lurching",
+		"file": "magicarmordisplayfa39.html",
+		"sources": [],
+		"costAdjustment": "+9,100 gp",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Delving": {
+		"itemname": "Delving",
+		"file": "magicarmordisplayd2f8.html",
+		"sources": [],
+		"costAdjustment": "+10,000 gp",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Putrid": {
+		"itemname": "Putrid",
+		"file": "magicarmordisplayc558.html",
+		"sources": [],
+		"costAdjustment": "+10,000 gp",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Harmonizing": {
+		"itemname": "Harmonizing",
+		"file": "magicarmordisplay4a32.html",
+		"sources": [],
+		"costAdjustment": "+15,000 gp",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Improved Aquadynamic": {
+		"itemname": "Improved Aquadynamic",
+		"file": "magicarmordisplaye9eb.html",
+		"sources": [],
+		"costAdjustment": "+15,000 gp",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Radiant Flight": {
+		"itemname": "Radiant Flight",
+		"file": "magicarmordisplay78c2.html",
+		"sources": [],
+		"costAdjustment": "+15,000 gp",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Shadow, Improved": {
+		"itemname": "Shadow, Improved",
+		"file": "magicarmordisplay18ec.html",
+		"sources": [],
+		"costAdjustment": "+15,000 gp",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Slick, Improved": {
+		"itemname": "Slick, Improved",
+		"file": "magicarmordisplayc998.html",
+		"sources": [],
+		"costAdjustment": "+15,000 gp",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Venom-eating": {
+		"itemname": "Venom-eating",
+		"file": "magicarmordisplay7de5.html",
+		"sources": [],
+		"costAdjustment": "+15,000 gp",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Denying": {
+		"itemname": "Denying",
+		"file": "magicarmordisplayca51.html",
+		"sources": [],
+		"costAdjustment": "+4 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Spell Resistance (17)": {
+		"itemname": "Spell Resistance (17)",
+		"file": "magicarmordisplay5535.html",
+		"sources": [],
+		"costAdjustment": "+4 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Energy Resistance": {
+		"itemname": "Energy Resistance",
+		"file": "magicarmordisplay859c.html",
+		"sources": [],
+		"costAdjustment": "+18,000 gp",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Martyring": {
+		"itemname": "Martyring",
+		"file": "magicarmordisplay2999.html",
+		"sources": [],
+		"costAdjustment": "+18,000 gp",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Dread Wing": {
+		"itemname": "Dread Wing",
+		"file": "magicarmordisplay7e11.html",
+		"sources": [],
+		"costAdjustment": "+5 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Fortification (heavy)": {
+		"itemname": "Fortification (heavy)",
+		"file": "magicarmordisplay2929.html",
+		"sources": [],
+		"costAdjustment": "+5 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Spell Resistance (19)": {
+		"itemname": "Spell Resistance (19)",
+		"file": "magicarmordisplay25a4.html",
+		"sources": [],
+		"costAdjustment": "+5 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Unbowed": {
+		"itemname": "Unbowed",
+		"file": "magicarmordisplaybd8e.html",
+		"sources": [],
+		"costAdjustment": "+5 bonus",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Righteous": {
+		"itemname": "Righteous",
+		"file": "magicarmordisplay4bef.html",
+		"sources": [],
+		"costAdjustment": "+27,000 gp",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Unbound": {
+		"itemname": "Unbound",
+		"file": "magicarmordisplayfe5d.html",
+		"sources": [],
+		"costAdjustment": "+27,000 gp",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Unrighteous": {
+		"itemname": "Unrighteous",
+		"file": "magicarmordisplayfd9b.html",
+		"sources": [],
+		"costAdjustment": "+27,000 gp",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Vigilant": {
+		"itemname": "Vigilant",
+		"file": "magicarmordisplayc77d.html",
+		"sources": [],
+		"costAdjustment": "+27,000 gp",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Determination": {
+		"itemname": "Determination",
+		"file": "magicarmordisplay6bdc.html",
+		"sources": [],
+		"costAdjustment": "+30,000 gp",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Greater Aquadynamic": {
+		"itemname": "Greater Aquadynamic",
+		"file": "magicarmordisplay16bd.html",
+		"sources": [],
+		"costAdjustment": "+33,750 gp",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Shadow, Greater": {
+		"itemname": "Shadow, Greater",
+		"file": "magicarmordisplayff1d.html",
+		"sources": [],
+		"costAdjustment": "+33,750 gp",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Slick, Greater": {
+		"itemname": "Slick, Greater",
+		"file": "magicarmordisplay9c11.html",
+		"sources": [],
+		"costAdjustment": "+33,750 gp",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Energy Resistance, Improved": {
+		"itemname": "Energy Resistance, Improved",
+		"file": "magicarmordisplaya307.html",
+		"sources": [],
+		"costAdjustment": "+42,000 gp",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Etherealness": {
+		"itemname": "Etherealness",
+		"file": "magicarmordisplayfdb2.html",
+		"sources": [],
+		"costAdjustment": "+49,000 gp",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Undead Controlling": {
+		"itemname": "Undead Controlling",
+		"file": "magicarmordisplay8e05.html",
+		"sources": [],
+		"costAdjustment": "+49,000 gp",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Energy Resistance, Greater": {
+		"itemname": "Energy Resistance, Greater",
+		"file": "magicarmordisplay0939.html",
+		"sources": [],
+		"costAdjustment": "+66,000 gp",
+		"type": "modification",
+		"slot": "armor"
+	},
+	"Arrow Catching": {
+		"itemname": "Arrow Catching",
+		"file": "magicarmordisplay684a.html",
+		"sources": [],
+		"costAdjustment": "+1 bonus",
+		"type": "modification",
+		"slot": "shield"
+	},
+	"Assiduous": {
+		"itemname": "Assiduous",
+		"file": "magicarmordisplay83ea.html",
+		"sources": [],
+		"costAdjustment": "+1 bonus",
+		"type": "modification",
+		"slot": "shield"
+	},
+	"Bashing": {
+		"itemname": "Bashing",
+		"file": "magicarmordisplaybe2c.html",
+		"sources": [],
+		"costAdjustment": "+1 bonus",
+		"type": "modification",
+		"slot": "shield"
+	},
+	"Blinding": {
+		"itemname": "Blinding",
+		"file": "magicarmordisplay7fba.html",
+		"sources": [],
+		"costAdjustment": "+1 bonus",
+		"type": "modification",
+		"slot": "shield"
+	},
+	"Clangorous": {
+		"itemname": "Clangorous",
+		"file": "magicarmordisplay343e.html",
+		"sources": [],
+		"costAdjustment": "+1 bonus",
+		"type": "modification",
+		"slot": "shield"
+	},
+	"Defiant": {
+		"itemname": "Defiant",
+		"file": "magicarmordisplayd4a7.html",
+		"sources": [],
+		"costAdjustment": "+1 bonus",
+		"type": "modification",
+		"slot": "shield"
+	},
+	"Folding": {
+		"itemname": "Folding",
+		"file": "magicarmordisplay24f3.html",
+		"sources": [],
+		"costAdjustment": "+1 bonus",
+		"type": "modification",
+		"slot": "shield"
+	},
+	"Fortification (light)": {
+		"itemname": "Fortification (light)",
+		"file": "magicarmordisplay7af0.html",
+		"sources": [],
+		"costAdjustment": "+1 bonus",
+		"type": "modification",
+		"slot": "shield"
+	},
+	"Grinding": {
+		"itemname": "Grinding",
+		"file": "magicarmordisplay474d.html",
+		"sources": [],
+		"costAdjustment": "+1 bonus",
+		"type": "modification",
+		"slot": "shield"
+	},
+	"Guarding": {
+		"itemname": "Guarding",
+		"file": "magicarmordisplay71ce.html",
+		"sources": [],
+		"costAdjustment": "+1 bonus",
+		"type": "modification",
+		"slot": "shield"
+	},
+	"Heraldric": {
+		"itemname": "Heraldric",
+		"file": "magicarmordisplay7f5b.html",
+		"sources": [],
+		"costAdjustment": "+1 bonus",
+		"type": "modification",
+		"slot": "shield"
+	},
+	"Impervious": {
+		"itemname": "Impervious",
+		"file": "magicarmordisplay25e9.html",
+		"sources": [],
+		"costAdjustment": "+1 bonus",
+		"type": "modification",
+		"slot": "shield"
+	},
+	"Mirrored": {
+		"itemname": "Mirrored",
+		"file": "magicarmordisplayfb55.html",
+		"sources": [],
+		"costAdjustment": "+1 bonus",
+		"type": "modification",
+		"slot": "shield"
+	},
+	"Ramming": {
+		"itemname": "Ramming",
+		"file": "magicarmordisplaye2c7.html",
+		"sources": [],
+		"costAdjustment": "+1 bonus",
+		"type": "modification",
+		"slot": "shield"
+	},
+	"Rebounding": {
+		"itemname": "Rebounding",
+		"file": "magicarmordisplayb7d7.html",
+		"sources": [],
+		"costAdjustment": "+1 bonus",
+		"type": "modification",
+		"slot": "shield"
+	},
+	"Singing": {
+		"itemname": "Singing",
+		"file": "magicarmordisplayd0c4.html",
+		"sources": [],
+		"costAdjustment": "+1 bonus",
+		"type": "modification",
+		"slot": "shield"
+	},
+	"Spellrending": {
+		"itemname": "Spellrending",
+		"file": "magicarmordisplay5f11.html",
+		"sources": [],
+		"costAdjustment": "+1 bonus",
+		"type": "modification",
+		"slot": "shield"
+	},
+	"Spellsink": {
+		"itemname": "Spellsink",
+		"file": "magicarmordisplay3041.html",
+		"sources": [],
+		"costAdjustment": "+1 bonus",
+		"type": "modification",
+		"slot": "shield"
+	},
+	"Buoyant (shield)": {
+		"itemname": "Buoyant (shield)",
+		"file": "magicarmordisplay1942.html",
+		"sources": [],
+		"costAdjustment": "+1,000 gp",
+		"type": "modification",
+		"slot": "shield"
+	},
+	"Fitting (shield)": {
+		"itemname": "Fitting",
+		"file": "magicarmordisplay643b.html",
+		"sources": [],
+		"costAdjustment": "+2,000 gp",
+		"type": "modification",
+		"slot": "shield"
+	},
+	"Poison-Resistant": {
+		"itemname": "Poison-Resistant",
+		"file": "magicarmordisplayeb9d.html",
+		"sources": [],
+		"costAdjustment": "+2,250 gp",
+		"type": "modification",
+		"slot": "shield"
+	},
+	"Animated": {
+		"itemname": "Animated",
+		"file": "magicarmordisplayb41d.html",
+		"sources": [],
+		"costAdjustment": "+2 bonus",
+		"type": "modification",
+		"slot": "shield"
+	},
+	"Arrow Deflection": {
+		"itemname": "Arrow Deflection",
+		"file": "magicarmordisplay8c4f.html",
+		"sources": [],
+		"costAdjustment": "+2 bonus",
+		"type": "modification",
+		"slot": "shield"
+	},
+	"Frosted": {
+		"itemname": "Frosted",
+		"file": "magicarmordisplay4668.html",
+		"sources": [],
+		"costAdjustment": "+2 bonus",
+		"type": "modification",
+		"slot": "shield"
+	},
+	"Guarding, Greater": {
+		"itemname": "Guarding, Greater",
+		"file": "magicarmordisplaye091.html",
+		"sources": [],
+		"costAdjustment": "+2 bonus",
+		"type": "modification",
+		"slot": "shield"
+	},
+	"Jarring": {
+		"itemname": "Jarring",
+		"file": "magicarmordisplay9597.html",
+		"sources": [],
+		"costAdjustment": "+2 bonus",
+		"type": "modification",
+		"slot": "shield"
+	},
+	"Jawbreaker": {
+		"itemname": "Jawbreaker",
+		"file": "magicarmordisplaybfb3.html",
+		"sources": [],
+		"costAdjustment": "+2 bonus",
+		"type": "modification",
+		"slot": "shield"
+	},
+	"Mastering": {
+		"itemname": "Mastering",
+		"file": "magicarmordisplayf176.html",
+		"sources": [],
+		"costAdjustment": "+2 bonus",
+		"type": "modification",
+		"slot": "shield"
+	},
+	"Merging": {
+		"itemname": "Merging",
+		"file": "magicarmordisplayb0cf.html",
+		"sources": [],
+		"costAdjustment": "+2 bonus",
+		"type": "modification",
+		"slot": "shield"
+	},
+	"Spell Resistance (13)": {
+		"itemname": "Spell Resistance (13)",
+		"file": "magicarmordisplay3a8d.html",
+		"sources": [],
+		"costAdjustment": "+2 bonus",
+		"type": "modification",
+		"slot": "shield"
+	},
+	"Weeping": {
+		"itemname": "Weeping",
+		"file": "magicarmordisplayd66a.html",
+		"sources": [],
+		"costAdjustment": "+2 bonus",
+		"type": "modification",
+		"slot": "shield"
+	},
+	"Rallying": {
+		"itemname": "Rallying",
+		"file": "magicarmordisplay575a.html",
+		"sources": [],
+		"costAdjustment": "+5,000 gp",
+		"type": "modification",
+		"slot": "shield"
+	},
+	"Wyrmsbreath": {
+		"itemname": "Wyrmsbreath",
+		"file": "magicarmordisplay39e1.html",
+		"sources": [],
+		"costAdjustment": "+5,000 gp",
+		"type": "modification",
+		"slot": "shield"
+	},
+	"Hosteling": {
+		"itemname": "Hosteling",
+		"file": "magicarmordisplay747e.html",
+		"sources": [],
+		"costAdjustment": "+7,500 gp",
+		"type": "modification",
+		"slot": "shield"
+	},
+	"Radiant": {
+		"itemname": "Radiant",
+		"file": "magicarmordisplay999b.html",
+		"sources": [],
+		"costAdjustment": "+7,500 gp",
+		"type": "modification",
+		"slot": "shield"
+	},
+	"Deflecting": {
+		"itemname": "Deflecting",
+		"file": "magicarmordisplayb3cc.html",
+		"sources": [],
+		"costAdjustment": "+3 bonus",
+		"type": "modification",
+		"slot": "shield"
+	},
+	"Fortification (moderate)": {
+		"itemname": "Fortification (moderate)",
+		"file": "magicarmordisplaya46e.html",
+		"sources": [],
+		"costAdjustment": "+3 bonus",
+		"type": "modification",
+		"slot": "shield"
+	},
+	"Ghost Touch": {
+		"itemname": "Ghost Touch",
+		"file": "magicarmordisplay58b9.html",
+		"sources": [],
+		"costAdjustment": "+3 bonus",
+		"type": "modification",
+		"slot": "shield"
+	},
+	"Spell Resistance (15)": {
+		"itemname": "Spell Resistance (15)",
+		"file": "magicarmordisplay2e04.html",
+		"sources": [],
+		"costAdjustment": "+3 bonus",
+		"type": "modification",
+		"slot": "shield"
+	},
+	"Wild": {
+		"itemname": "Wild",
+		"file": "magicarmordisplay1577.html",
+		"sources": [],
+		"costAdjustment": "+3 bonus",
+		"type": "modification",
+		"slot": "shield"
+	},
+	"Bastion": {
+		"itemname": "Bastion",
+		"file": "magicarmordisplayeb30.html",
+		"sources": [],
+		"costAdjustment": "+4 bonus",
+		"type": "modification",
+		"slot": "shield"
+	},
+	"Spell Resistance (17)": {
+		"itemname": "Spell Resistance (17)",
+		"file": "magicarmordisplay5535.html",
+		"sources": [],
+		"costAdjustment": "+4 bonus",
+		"type": "modification",
+		"slot": "shield"
+	},
+	"Channeling": {
+		"itemname": "Channeling",
+		"file": "magicarmordisplaye144.html",
+		"sources": [],
+		"costAdjustment": "+18,000 gp",
+		"type": "modification",
+		"slot": "shield"
+	},
+	"Energy Resistance": {
+		"itemname": "Energy Resistance",
+		"file": "magicarmordisplay859c.html",
+		"sources": [],
+		"costAdjustment": "+18,000 gp",
+		"type": "modification",
+		"slot": "shield"
+	},
+	"Fortification (heavy)": {
+		"itemname": "Fortification (heavy)",
+		"file": "magicarmordisplay2929.html",
+		"sources": [],
+		"costAdjustment": "+5 bonus",
+		"type": "modification",
+		"slot": "shield"
+	},
+	"Reflecting": {
+		"itemname": "Reflecting",
+		"file": "magicarmordisplayddab.html",
+		"sources": [],
+		"costAdjustment": "+5 bonus",
+		"type": "modification",
+		"slot": "shield"
+	},
+	"Spell Resistance (19)": {
+		"itemname": "Spell Resistance (19)",
+		"file": "magicarmordisplay25a4.html",
+		"sources": [],
+		"costAdjustment": "+5 bonus",
+		"type": "modification",
+		"slot": "shield"
+	},
+	"Determination": {
+		"itemname": "Determination",
+		"file": "magicarmordisplay6bdc.html",
+		"sources": [],
+		"costAdjustment": "+30,000 gp",
+		"type": "modification",
+		"slot": "shield"
+	},
+	"Energy Resistance, Improved": {
+		"itemname": "Energy Resistance, Improved",
+		"file": "magicarmordisplaya307.html",
+		"sources": [],
+		"costAdjustment": "+42,000 gp",
+		"type": "modification",
+		"slot": "shield"
+	},
+	"Undead Controlling": {
+		"itemname": "Undead Controlling",
+		"file": "magicarmordisplay8e05.html",
+		"sources": [],
+		"costAdjustment": "+49,000 gp",
+		"type": "modification",
+		"slot": "shield"
+	},
+	"Energy Resistance, Greater": {
+		"itemname": "Energy Resistance, Greater",
+		"file": "magicarmordisplay0939.html",
+		"sources": [],
+		"costAdjustment": "+66,000 gp",
+		"type": "modification",
+		"slot": "shield"
+	},
+	"Mithral Shirt": {
+		"itemname": "Mithral Shirt",
+		"file": "magicarmordisplaya67a.html",
+		"sources": [],
+		"cost": 1100,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Mistmail": {
+		"itemname": "Mistmail",
+		"file": "magicarmordisplaybd20.html",
+		"sources": [],
+		"cost": 2250,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Kiml?? Coat": {
+		"itemname": "Kiml?? Coat",
+		"file": "magicarmordisplay92d7.html",
+		"sources": [],
+		"cost": 2300,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Grim Gloom Mail": {
+		"itemname": "Grim Gloom Mail",
+		"file": "magicarmordisplay0fad.html",
+		"sources": [],
+		"cost": 2380,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Inheritor's Breastplate": {
+		"itemname": "Inheritor's Breastplate",
+		"file": "magicarmordisplayc5df.html",
+		"sources": [],
+		"cost": 2430,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Otyugh Hide": {
+		"itemname": "Otyugh Hide",
+		"file": "magicarmordisplay5a48.html",
+		"sources": [],
+		"cost": 2565,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Iadaran Dress Uniform": {
+		"itemname": "Iadaran Dress Uniform",
+		"file": "magicarmordisplay8fff.html",
+		"sources": [],
+		"cost": 2625,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Milanite Armor": {
+		"itemname": "Milanite Armor",
+		"file": "magicarmordisplay7a55.html",
+		"sources": [],
+		"cost": 2780,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Ghoul Hide": {
+		"itemname": "Ghoul Hide",
+		"file": "magicarmordisplay93f6.html",
+		"sources": [],
+		"cost": 2865,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Red Stalker Armor": {
+		"itemname": "Red Stalker Armor",
+		"file": "magicarmordisplay31ef.html",
+		"sources": [],
+		"cost": 3035,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Rosy Hauberk": {
+		"itemname": "Rosy Hauberk",
+		"file": "magicarmordisplay3113.html",
+		"sources": [],
+		"cost": 3035,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Dragonhide Plate": {
+		"itemname": "Dragonhide Plate",
+		"file": "magicarmordisplay5209.html",
+		"sources": [],
+		"cost": 3300,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Pallid Chain": {
+		"itemname": "Pallid Chain",
+		"file": "magicarmordisplay6a7c.html",
+		"sources": [],
+		"cost": 3300,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Pelt of the Demon Mother": {
+		"itemname": "Pelt of the Demon Mother",
+		"file": "magicarmordisplaya202.html",
+		"sources": [],
+		"cost": 3325,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Djezet Skin": {
+		"itemname": "Djezet Skin",
+		"file": "magicarmordisplayfd20.html",
+		"sources": [],
+		"cost": 3410,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Starsong Mail": {
+		"itemname": "Starsong Mail",
+		"file": "magicarmordisplayc73a.html",
+		"sources": [],
+		"cost": 3460,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Powerhouse Pelt": {
+		"itemname": "Powerhouse Pelt",
+		"file": "magicarmordisplay68ca.html",
+		"sources": [],
+		"cost": 3515,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Sea Banshee Coat": {
+		"itemname": "Sea Banshee Coat",
+		"file": "magicarmordisplay234e.html",
+		"sources": [],
+		"cost": 3605,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Calamitous Mail": {
+		"itemname": "Calamitous Mail",
+		"file": "magicarmordisplay69d7.html",
+		"sources": [],
+		"cost": 3750,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Perfection Leather": {
+		"itemname": "Perfection Leather",
+		"file": "magicarmordisplay1895.html",
+		"sources": [],
+		"cost": 3860,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Ekujae Jungle Armor": {
+		"itemname": "Ekujae Jungle Armor",
+		"file": "magicarmordisplay6989.html",
+		"sources": [],
+		"cost": 3900,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Half-Plate of the Dark Prince": {
+		"itemname": "Half-Plate of the Dark Prince",
+		"file": "magicarmordisplayb78c.html",
+		"sources": [],
+		"cost": 3910,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Toiler's Armor": {
+		"itemname": "Toiler's Armor",
+		"file": "magicarmordisplayf54b.html",
+		"sources": [],
+		"cost": 3920,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Painspike Armor": {
+		"itemname": "Painspike Armor",
+		"file": "magicarmordisplay1bb5.html",
+		"sources": [],
+		"cost": 4145,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Forgefather's Half-Plate": {
+		"itemname": "Forgefather's Half-Plate",
+		"file": "magicarmordisplayc462.html",
+		"sources": [],
+		"cost": 4180,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Veiled Chain": {
+		"itemname": "Veiled Chain",
+		"file": "magicarmordisplayf599.html",
+		"sources": [],
+		"cost": 4490,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Armor of the Unquenchable Fire": {
+		"itemname": "Armor of the Unquenchable Fire",
+		"file": "magicarmordisplay10d4.html",
+		"sources": [],
+		"cost": 4840,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Lucky Drunk's Mail": {
+		"itemname": "Lucky Drunk's Mail",
+		"file": "magicarmordisplay9b42.html",
+		"sources": [],
+		"cost": 4840,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Eternal Iron Breastplate": {
+		"itemname": "Eternal Iron Breastplate",
+		"file": "magicarmordisplay41f0.html",
+		"sources": [],
+		"cost": 4890,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Fangtide Scale Mail": {
+		"itemname": "Fangtide Scale Mail",
+		"file": "magicarmordisplayc35e.html",
+		"sources": [],
+		"cost": 4890,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Thanatotic Visage": {
+		"itemname": "Thanatotic Visage",
+		"file": "magicarmordisplayf149.html",
+		"sources": [],
+		"cost": 5000,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Waverider Breastplate": {
+		"itemname": "Waverider Breastplate",
+		"file": "magicarmordisplay2303.html",
+		"sources": [],
+		"cost": 5000,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Golden Judge's Breastplate": {
+		"itemname": "Golden Judge's Breastplate",
+		"file": "magicarmordisplayeb38.html",
+		"sources": [],
+		"cost": 5110,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Elven Chain": {
+		"itemname": "Elven Chain",
+		"file": "magicarmordisplay16e1.html",
+		"sources": [],
+		"cost": 5150,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Rhino Hide": {
+		"itemname": "Rhino Hide",
+		"file": "magicarmordisplayf8d1.html",
+		"sources": [],
+		"cost": 5165,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Akhentepi's Armor": {
+		"itemname": "Akhentepi's Armor",
+		"file": "magicarmordisplay4498.html",
+		"sources": [],
+		"cost": 5235,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Blackfingers Apron": {
+		"itemname": "Blackfingers Apron",
+		"file": "magicarmordisplay09d3.html",
+		"sources": [],
+		"cost": 5240,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Gravewatcher Chainmail": {
+		"itemname": "Gravewatcher Chainmail",
+		"file": "magicarmordisplay5e4c.html",
+		"sources": [],
+		"cost": 5380,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Deadeye Leather": {
+		"itemname": "Deadeye Leather",
+		"file": "magicarmordisplaye279.html",
+		"sources": [],
+		"cost": 5425,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"All-Seeing Armor": {
+		"itemname": "All-Seeing Armor",
+		"file": "magicarmordisplayc6e3.html",
+		"sources": [],
+		"cost": 5570,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Gray Master's Leathers": {
+		"itemname": "Gray Master's Leathers",
+		"file": "magicarmordisplayb5bd.html",
+		"sources": [],
+		"cost": 5720,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Shifting Jerkin": {
+		"itemname": "Shifting Jerkin",
+		"file": "magicarmordisplay195b.html",
+		"sources": [],
+		"cost": 5965,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Arachnid Harness": {
+		"itemname": "Arachnid Harness",
+		"file": "magicarmordisplayda1a.html",
+		"sources": [],
+		"cost": 6160,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Raiment of Chains": {
+		"itemname": "Raiment of Chains",
+		"file": "magicarmordisplayf12d.html",
+		"sources": [],
+		"cost": 6250,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Locust Cuirass": {
+		"itemname": "Locust Cuirass",
+		"file": "magicarmordisplay3a0f.html",
+		"sources": [],
+		"cost": 6565,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Dawnflower Chain Vest": {
+		"itemname": "Dawnflower Chain Vest",
+		"file": "magicarmordisplaye6a6.html",
+		"sources": [],
+		"cost": 6950,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Truefaith Vestments": {
+		"itemname": "Truefaith Vestments",
+		"file": "magicarmordisplayc961.html",
+		"sources": [],
+		"cost": 6950,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Featherleaf Barding": {
+		"itemname": "Featherleaf Barding",
+		"file": "magicarmordisplay0fab.html",
+		"sources": [],
+		"cost": 7310,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Trained Barding": {
+		"itemname": "Trained Barding",
+		"file": "magicarmordisplaya1ca.html",
+		"sources": [],
+		"cost": 8350,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Stalking": {
+		"itemname": "Stalking",
+		"file": "magicarmordisplay7749.html",
+		"sources": [],
+		"cost": 8575,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Scouting Leather": {
+		"itemname": "Scouting Leather",
+		"file": "magicarmordisplayec87.html",
+		"sources": [],
+		"cost": 8750,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Snakescale Armor": {
+		"itemname": "Snakescale Armor",
+		"file": "magicarmordisplay0816.html",
+		"sources": [],
+		"cost": 8900,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Morlock Hide": {
+		"itemname": "Morlock Hide",
+		"file": "magicarmordisplayda2c.html",
+		"sources": [],
+		"cost": 8910,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Stone-eater Armor": {
+		"itemname": "Stone-eater Armor",
+		"file": "magicarmordisplay0552.html",
+		"sources": [],
+		"cost": 8950,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Giant's Nail Scale Mail": {
+		"itemname": "Giant's Nail Scale Mail",
+		"file": "magicarmordisplayd339.html",
+		"sources": [],
+		"cost": 9200,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Writhing Armor": {
+		"itemname": "Writhing Armor",
+		"file": "magicarmordisplay544a.html",
+		"sources": [],
+		"cost": 9480,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Spelunker's Mail": {
+		"itemname": "Spelunker's Mail",
+		"file": "magicarmordisplaycf24.html",
+		"sources": [],
+		"cost": 10000,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Windstrider Mail": {
+		"itemname": "Windstrider Mail",
+		"file": "magicarmordisplaycb3a.html",
+		"sources": [],
+		"cost": 10100,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Adamantine Breastplate": {
+		"itemname": "Adamantine Breastplate",
+		"file": "magicarmordisplay71aa.html",
+		"sources": [],
+		"cost": 10200,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Soothsayer's Raiment": {
+		"itemname": "Soothsayer's Raiment",
+		"file": "magicarmordisplay3c80.html",
+		"sources": [],
+		"cost": 10300,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Equestrian Plate": {
+		"itemname": "Equestrian Plate",
+		"file": "magicarmordisplay77a3.html",
+		"sources": [],
+		"cost": 10650,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Enchanted Eelskin": {
+		"itemname": "Enchanted Eelskin",
+		"file": "magicarmordisplayf802.html",
+		"sources": [],
+		"cost": 11160,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Tireless Tracking Hide": {
+		"itemname": "Tireless Tracking Hide",
+		"file": "magicarmordisplay7df4.html",
+		"sources": [],
+		"cost": 11165,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Gnome Scrap Armor (Gnome)": {
+		"itemname": "Gnome Scrap Armor (Gnome)",
+		"file": "magicarmordisplay783a.html",
+		"sources": [],
+		"cost": 11175,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Breastplate of the Planes": {
+		"itemname": "Breastplate of the Planes",
+		"file": "magicarmordisplay0cfe.html",
+		"sources": [],
+		"cost": 11350,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Emissary's Breastplate": {
+		"itemname": "Emissary's Breastplate",
+		"file": "magicarmordisplay6535.html",
+		"sources": [],
+		"cost": 11350,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Uskroth's Armor": {
+		"itemname": "Uskroth's Armor",
+		"file": "magicarmordisplayd629.html",
+		"sources": [],
+		"cost": 11350,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Mosswater Stained Leather": {
+		"itemname": "Mosswater Stained Leather",
+		"file": "magicarmordisplayf587.html",
+		"sources": [],
+		"cost": 11575,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Bilgewater Coat": {
+		"itemname": "Bilgewater Coat",
+		"file": "magicarmordisplayda35.html",
+		"sources": [],
+		"cost": 11655,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Boneless Leather": {
+		"itemname": "Boneless Leather",
+		"file": "magicarmordisplay74a5.html",
+		"sources": [],
+		"cost": 12160,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Lupine Rageskin": {
+		"itemname": "Lupine Rageskin",
+		"file": "magicarmordisplay50fa.html",
+		"sources": [],
+		"cost": 12160,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Elemental Bulwark": {
+		"itemname": "Elemental Bulwark",
+		"file": "magicarmordisplay7b29.html",
+		"sources": [],
+		"cost": 12300,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Murderer's Blackcloth": {
+		"itemname": "Murderer's Blackcloth",
+		"file": "magicarmordisplay3ab7.html",
+		"sources": [],
+		"cost": 12405,
+		"type": "armor",
+		"slot": "armor"
+	},
+	" Honor's Panoply": {
+		"itemname": " Honor's Panoply",
+		"file": "magicarmordisplay969a.html",
+		"sources": [],
+		"cost": 12550,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Folding Plate": {
+		"itemname": "Folding Plate",
+		"file": "magicarmordisplay8259.html",
+		"sources": [],
+		"cost": 12650,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Hallowed Chain (Varisian)": {
+		"itemname": "Hallowed Chain (Varisian)",
+		"file": "magicarmordisplay9fa4.html",
+		"sources": [],
+		"cost": 12800,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Legion Armor": {
+		"itemname": "Legion Armor",
+		"file": "magicarmordisplay27c6.html",
+		"sources": [],
+		"cost": 13400,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Armor of the Sands": {
+		"itemname": "Armor of the Sands",
+		"file": "magicarmordisplay04e3.html",
+		"sources": [],
+		"cost": 14160,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Armor of Grim Triumph (Orc)": {
+		"itemname": "Armor of Grim Triumph (Orc)",
+		"file": "magicarmordisplay27c0.html",
+		"sources": [],
+		"cost": 14300,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Mammoth Hide": {
+		"itemname": "Mammoth Hide",
+		"file": "magicarmordisplay65c8.html",
+		"sources": [],
+		"cost": 14665,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Icelink Chainmail": {
+		"itemname": "Icelink Chainmail",
+		"file": "magicarmordisplay28c2.html",
+		"sources": [],
+		"cost": 15100,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Gale Armor": {
+		"itemname": "Gale Armor",
+		"file": "magicarmordisplay198c.html",
+		"sources": [],
+		"cost": 15180,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Breastplate of Vanishing": {
+		"itemname": "Breastplate of Vanishing",
+		"file": "magicarmordisplay40e8.html",
+		"sources": [],
+		"cost": 15200,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Coat of Shells (Gillmen, Merfolk)": {
+		"itemname": "Coat of Shells (Gillmen, Merfolk)",
+		"file": "magicarmordisplayea37.html",
+		"sources": [],
+		"cost": 15350,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Elven Vengeance": {
+		"itemname": "Elven Vengeance",
+		"file": "magicarmordisplay1d4b.html",
+		"sources": [],
+		"cost": 16150,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Armor of Insults": {
+		"itemname": "Armor of Insults",
+		"file": "magicarmordisplay6cef.html",
+		"sources": [],
+		"cost": 16175,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Skin of Klendar the Troll King": {
+		"itemname": "Skin of Klendar the Troll King",
+		"file": "magicarmordisplay1f27.html",
+		"sources": [],
+		"cost": 16315,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Numerian Resistance Plate": {
+		"itemname": "Numerian Resistance Plate",
+		"file": "magicarmordisplayba9d.html",
+		"sources": [],
+		"cost": 16350,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Dwarven Plate": {
+		"itemname": "Dwarven Plate",
+		"file": "magicarmordisplayd945.html",
+		"sources": [],
+		"cost": 16500,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Hero's Hauberk": {
+		"itemname": "Hero's Hauberk",
+		"file": "magicarmordisplaya62f.html",
+		"sources": [],
+		"cost": 16600,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Abrogalian Corset": {
+		"itemname": "Abrogalian Corset",
+		"file": "magicarmordisplayf395.html",
+		"sources": [],
+		"cost": 17175,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Backbreaker Mail": {
+		"itemname": "Backbreaker Mail",
+		"file": "magicarmordisplay211b.html",
+		"sources": [],
+		"cost": 17650,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Hide of the Hagfish": {
+		"itemname": "Hide of the Hagfish",
+		"file": "magicarmordisplay8504.html",
+		"sources": [],
+		"cost": 18165,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Eagle Knight Dress Uniform": {
+		"itemname": "Eagle Knight Dress Uniform",
+		"file": "magicarmordisplay7c17.html",
+		"sources": [],
+		"cost": 18175,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Lifecollar Coat": {
+		"itemname": "Lifecollar Coat",
+		"file": "magicarmordisplay8cb3.html",
+		"sources": [],
+		"cost": 18200,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Armor of the Pure Legion": {
+		"itemname": "Armor of the Pure Legion",
+		"file": "magicarmordisplay44c3.html",
+		"sources": [],
+		"cost": 18300,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Hide of the Dragonrider": {
+		"itemname": "Hide of the Dragonrider",
+		"file": "magicarmordisplay362f.html",
+		"sources": [],
+		"cost": 18480,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Arboreal Armor": {
+		"itemname": "Arboreal Armor",
+		"file": "magicarmordisplay6072.html",
+		"sources": [],
+		"cost": 18670,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Banded Mail of Luck": {
+		"itemname": "Banded Mail of Luck",
+		"file": "magicarmordisplay9da3.html",
+		"sources": [],
+		"cost": 18900,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Catskin Leather": {
+		"itemname": "Catskin Leather",
+		"file": "magicarmordisplaydc80.html",
+		"sources": [],
+		"cost": 18910,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Infiltrator's Mail": {
+		"itemname": "Infiltrator's Mail",
+		"file": "magicarmordisplay2292.html",
+		"sources": [],
+		"cost": 19650,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Ursine Rageskin": {
+		"itemname": "Ursine Rageskin",
+		"file": "magicarmordisplay460e.html",
+		"sources": [],
+		"cost": 20165,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"The Forbidden Name": {
+		"itemname": "The Forbidden Name",
+		"file": "magicarmordisplayf9e2.html",
+		"sources": [],
+		"cost": 20175,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Howling Skull Armor": {
+		"itemname": "Howling Skull Armor",
+		"file": "magicarmordisplay4756.html",
+		"sources": [],
+		"cost": 20375,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Do-Maru of Broken Flesh": {
+		"itemname": "Do-Maru of Broken Flesh",
+		"file": "magicarmordisplay9e62.html",
+		"sources": [],
+		"cost": 20550,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Raiment of the Shining Crusade": {
+		"itemname": "Raiment of the Shining Crusade",
+		"file": "magicarmordisplay512f.html",
+		"sources": [],
+		"cost": 20750,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"War Commander's Field Plate": {
+		"itemname": "War Commander's Field Plate",
+		"file": "magicarmordisplay8937.html",
+		"sources": [],
+		"cost": 21600,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Armor of Fragmenting Stone": {
+		"itemname": "Armor of Fragmenting Stone",
+		"file": "magicarmordisplay2b0d.html",
+		"sources": [],
+		"cost": 21650,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Gug Hide": {
+		"itemname": "Gug Hide",
+		"file": "magicarmordisplaye0c0.html",
+		"sources": [],
+		"cost": 22165,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Stalwart Breastplate": {
+		"itemname": "Stalwart Breastplate",
+		"file": "magicarmordisplay13d8.html",
+		"sources": [],
+		"cost": 22350,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Celestial Armor": {
+		"itemname": "Celestial Armor",
+		"file": "magicarmordisplay1142.html",
+		"sources": [],
+		"cost": 22400,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Death's Preservation Banded Mail": {
+		"itemname": "Death's Preservation Banded Mail",
+		"file": "magicarmordisplay72e4.html",
+		"sources": [],
+		"cost": 22400,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Armiger's Armor": {
+		"itemname": "Armiger's Armor",
+		"file": "magicarmordisplaycf41.html",
+		"sources": [],
+		"cost": 22500,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Ghost Mirror Armor": {
+		"itemname": "Ghost Mirror Armor",
+		"file": "magicarmordisplaya897.html",
+		"sources": [],
+		"cost": 22675,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Armor of the Pious": {
+		"itemname": "Armor of the Pious",
+		"file": "magicarmordisplay4663.html",
+		"sources": [],
+		"cost": 23300,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Goblin Plate (Goblin)": {
+		"itemname": "Goblin Plate (Goblin)",
+		"file": "magicarmordisplay4879.html",
+		"sources": [],
+		"cost": 23650,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Buccaneer's Breastplate": {
+		"itemname": "Buccaneer's Breastplate",
+		"file": "magicarmordisplay83aa.html",
+		"sources": [],
+		"cost": 23850,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Dragonform Armor": {
+		"itemname": "Dragonform Armor",
+		"file": "magicarmordisplaye44c.html",
+		"sources": [],
+		"cost": 24120,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Purgatory's Cowl": {
+		"itemname": "Purgatory's Cowl",
+		"file": "magicarmordisplayc06f.html",
+		"sources": [],
+		"cost": 24175,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Aldori Dueling Armor": {
+		"itemname": "Aldori Dueling Armor",
+		"file": "magicarmordisplay8d0c.html",
+		"sources": [],
+		"cost": 24200,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Plate Armor of the Deep": {
+		"itemname": "Plate Armor of the Deep",
+		"file": "magicarmordisplayf1cb.html",
+		"sources": [],
+		"cost": 24650,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Suit of Inverted Jade": {
+		"itemname": "Suit of Inverted Jade",
+		"file": "magicarmordisplay8037.html",
+		"sources": [],
+		"cost": 25000,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Spiritwalk Armor": {
+		"itemname": "Spiritwalk Armor",
+		"file": "magicarmordisplay1688.html",
+		"sources": [],
+		"cost": 25160,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Breastplate of Command": {
+		"itemname": "Breastplate of Command",
+		"file": "magicarmordisplayb636.html",
+		"sources": [],
+		"cost": 25400,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Forsaken Banded Mail": {
+		"itemname": "Forsaken Banded Mail",
+		"file": "magicarmordisplayaa35.html",
+		"sources": [],
+		"cost": 25400,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Armor of the Tireless Warrior": {
+		"itemname": "Armor of the Tireless Warrior",
+		"file": "magicarmordisplay30ef.html",
+		"sources": [],
+		"cost": 25900,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Mail of Sly Steps (Halfling)": {
+		"itemname": "Mail of Sly Steps (Halfling)",
+		"file": "magicarmordisplaya781.html",
+		"sources": [],
+		"cost": 25900,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Mithral Full Plate of Speed": {
+		"itemname": "Mithral Full Plate of Speed",
+		"file": "magicarmordisplay8a68.html",
+		"sources": [],
+		"cost": 26500,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Panoply of the Fierani Knight (Elf)": {
+		"itemname": "Panoply of the Fierani Knight (Elf)",
+		"file": "magicarmordisplay7abf.html",
+		"sources": [],
+		"cost": 26500,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Tunnel Defender Stoneplate": {
+		"itemname": "Tunnel Defender Stoneplate",
+		"file": "magicarmordisplaye674.html",
+		"sources": [],
+		"cost": 26700,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Vibrant Frog Hide": {
+		"itemname": "Vibrant Frog Hide",
+		"file": "magicarmordisplay7cc1.html",
+		"sources": [],
+		"cost": 28165,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Celestial Plate Armor": {
+		"itemname": "Celestial Plate Armor",
+		"file": "magicarmordisplay724b.html",
+		"sources": [],
+		"cost": 28650,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Blackjacket": {
+		"itemname": "Blackjacket",
+		"file": "magicarmordisplay42e4.html",
+		"sources": [],
+		"cost": 28700,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Warden of the Woods": {
+		"itemname": "Warden of the Woods",
+		"file": "magicarmordisplay78ad.html",
+		"sources": [],
+		"cost": 29350,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Dragon Herald Vestments": {
+		"itemname": "Dragon Herald Vestments",
+		"file": "magicarmordisplay4025.html",
+		"sources": [],
+		"cost": 30000,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Alchemist's Suit": {
+		"itemname": "Alchemist's Suit",
+		"file": "magicarmordisplay894f.html",
+		"sources": [],
+		"cost": 30250,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Skyplate Armor": {
+		"itemname": "Skyplate Armor",
+		"file": "magicarmordisplay53f3.html",
+		"sources": [],
+		"cost": 30300,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Flowing Fortress Armor": {
+		"itemname": "Flowing Fortress Armor",
+		"file": "magicarmordisplay615b.html",
+		"sources": [],
+		"cost": 30350,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Maiden's Panoply": {
+		"itemname": "Maiden's Panoply",
+		"file": "magicarmordisplaye2b9.html",
+		"sources": [],
+		"cost": 30650,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Diviner's Blight": {
+		"itemname": "Diviner's Blight",
+		"file": "magicarmordisplayeefd.html",
+		"sources": [],
+		"cost": 31160,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Man Mountain Armor": {
+		"itemname": "Man Mountain Armor",
+		"file": "magicarmordisplay6d7e.html",
+		"sources": [],
+		"cost": 32350,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Scarab Breastplate": {
+		"itemname": "Scarab Breastplate",
+		"file": "magicarmordisplayfc9f.html",
+		"sources": [],
+		"cost": 32350,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Advocate's Armor": {
+		"itemname": "Advocate's Armor",
+		"file": "magicarmordisplayb4d8.html",
+		"sources": [],
+		"cost": 33160,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Clockwork Armor": {
+		"itemname": "Clockwork Armor",
+		"file": "magicarmordisplay5bb6.html",
+		"sources": [],
+		"cost": 33350,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Eel Skin Armor": {
+		"itemname": "Eel Skin Armor",
+		"file": "magicarmordisplayc953.html",
+		"sources": [],
+		"cost": 33810,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Full Plate of the Corpse": {
+		"itemname": "Full Plate of the Corpse",
+		"file": "magicarmordisplaye5f6.html",
+		"sources": [],
+		"cost": 35650,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Snailplate": {
+		"itemname": "Snailplate",
+		"file": "magicarmordisplaybd7d.html",
+		"sources": [],
+		"cost": 36000,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Phoenix Armor": {
+		"itemname": "Phoenix Armor",
+		"file": "magicarmordisplay9d8d.html",
+		"sources": [],
+		"cost": 36130,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Giant-Hide Armor (ogre)": {
+		"itemname": "Giant-Hide Armor (ogre)",
+		"file": "magicarmordisplay146f.html",
+		"sources": [],
+		"cost": 39165,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Crag Linnorm Plate": {
+		"itemname": "Crag Linnorm Plate",
+		"file": "magicarmordisplay68fc.html",
+		"sources": [],
+		"cost": 41300,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Hallowed Chain, Greater (Varisian)": {
+		"itemname": "Hallowed Chain, Greater (Varisian)",
+		"file": "magicarmordisplay0cfb.html",
+		"sources": [],
+		"cost": 43300,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Hamatula Hide": {
+		"itemname": "Hamatula Hide",
+		"file": "magicarmordisplay45df.html",
+		"sources": [],
+		"cost": 44215,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Giant-Hide Armor (hill giant)": {
+		"itemname": "Giant-Hide Armor (hill giant)",
+		"file": "magicarmordisplayd421.html",
+		"sources": [],
+		"cost": 46665,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Wizard's Mail": {
+		"itemname": "Wizard's Mail",
+		"file": "magicarmordisplay2f59.html",
+		"sources": [],
+		"cost": 52100,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Demon Armor": {
+		"itemname": "Demon Armor",
+		"file": "magicarmordisplay8f6a.html",
+		"sources": [],
+		"cost": 52260,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Field Medic's Breastplate": {
+		"itemname": "Field Medic's Breastplate",
+		"file": "magicarmordisplay43ef.html",
+		"sources": [],
+		"cost": 52900,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Nightskin": {
+		"itemname": "Nightskin",
+		"file": "magicarmordisplayffa4.html",
+		"sources": [],
+		"cost": 53100,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Tiger's Hide": {
+		"itemname": "Tiger's Hide",
+		"file": "magicarmordisplayf513.html",
+		"sources": [],
+		"cost": 54115,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Giant-Hide Armor (stone, fire, or frost giant)": {
+		"itemname": "Giant-Hide Armor (stone, fire, or frost giant)",
+		"file": "magicarmordisplay3fc3.html",
+		"sources": [],
+		"cost": 54165,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Giant-Hide Armor (troll)": {
+		"itemname": "Giant-Hide Armor (troll)",
+		"file": "magicarmordisplay159d.html",
+		"sources": [],
+		"cost": 59165,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Ebon Thorn": {
+		"itemname": "Ebon Thorn",
+		"file": "magicarmordisplaycaba.html",
+		"sources": [],
+		"cost": 60500,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Gelugon Plate": {
+		"itemname": "Gelugon Plate",
+		"file": "magicarmordisplayf0fe.html",
+		"sources": [],
+		"cost": 60950,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Mail of Malevolence": {
+		"itemname": "Mail of Malevolence",
+		"file": "magicarmordisplay9ff5.html",
+		"sources": [],
+		"cost": 61300,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Coruscating Raiment": {
+		"itemname": "Coruscating Raiment",
+		"file": "magicarmordisplay50d4.html",
+		"sources": [],
+		"cost": 63150,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"O-Yoroi of Imperial Rule": {
+		"itemname": "O-Yoroi of Imperial Rule",
+		"file": "magicarmordisplayfef8.html",
+		"sources": [],
+		"cost": 68400,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Giant-Hide Armor (cloud giant)": {
+		"itemname": "Giant-Hide Armor (cloud giant)",
+		"file": "magicarmordisplay3430.html",
+		"sources": [],
+		"cost": 69165,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Giant-Hide Armor (storm giant)": {
+		"itemname": "Giant-Hide Armor (storm giant)",
+		"file": "magicarmordisplayee25.html",
+		"sources": [],
+		"cost": 79665,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Daystar Half-Plate": {
+		"itemname": "Daystar Half-Plate",
+		"file": "magicarmordisplay1b2c.html",
+		"sources": [],
+		"cost": 81250,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Xill Carapace Armor": {
+		"itemname": "Xill Carapace Armor",
+		"file": "magicarmordisplay4771.html",
+		"sources": [],
+		"cost": 83050,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Empyreal Armor": {
+		"itemname": "Empyreal Armor",
+		"file": "magicarmordisplay51b6.html",
+		"sources": [],
+		"cost": 100050,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Gelugon Armor": {
+		"itemname": "Gelugon Armor",
+		"file": "magicarmordisplay3b1b.html",
+		"sources": [],
+		"cost": 117650,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Invincible Armor": {
+		"itemname": "Invincible Armor",
+		"file": "magicarmordisplay66d0.html",
+		"sources": [],
+		"cost": 137650,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Thanatotic Plate": {
+		"itemname": "Thanatotic Plate",
+		"file": "magicarmordisplay6b51.html",
+		"sources": [],
+		"cost": 141240,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Prismatic Plate": {
+		"itemname": "Prismatic Plate",
+		"file": "magicarmordisplayef29.html",
+		"sources": [],
+		"cost": 160650,
+		"type": "armor",
+		"slot": "armor"
+	},
+	"Living Steel Heavy Shield": {
+		"itemname": "Living Steel Heavy Shield",
+		"file": "magicarmordisplay1a8e.html",
+		"sources": [],
+		"cost": 120,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Darkwood Buckler": {
+		"itemname": "Darkwood Buckler",
+		"file": "magicarmordisplay66ab.html",
+		"sources": [],
+		"cost": 203,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Darkwood Shield": {
+		"itemname": "Darkwood Shield",
+		"file": "magicarmordisplay7f7f.html",
+		"sources": [],
+		"cost": 257,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Mithral Heavy Shield": {
+		"itemname": "Mithral Heavy Shield",
+		"file": "magicarmordisplayc45f.html",
+		"sources": [],
+		"cost": 1020,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Zombie Skin Shield": {
+		"itemname": "Zombie Skin Shield",
+		"file": "magicarmordisplayf520.html",
+		"sources": [],
+		"cost": 2159,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Breach Barrier": {
+		"itemname": "Breach Barrier",
+		"file": "magicarmordisplay2a16.html",
+		"sources": [],
+		"cost": 2370,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Driftwood Shield": {
+		"itemname": "Driftwood Shield",
+		"file": "magicarmordisplay06c7.html",
+		"sources": [],
+		"cost": 2527,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Caster's Shield": {
+		"itemname": "Caster's Shield",
+		"file": "magicarmordisplay1c61.html",
+		"sources": [],
+		"cost": 3153,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Bronze Whisperer's Shield": {
+		"itemname": "Bronze Whisperer's Shield",
+		"file": "magicarmordisplay21e1.html",
+		"sources": [],
+		"cost": 4279,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Scarab Shield": {
+		"itemname": "Scarab Shield",
+		"file": "magicarmordisplay3290.html",
+		"sources": [],
+		"cost": 4399,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Burglar's Buckler": {
+		"itemname": "Burglar's Buckler",
+		"file": "magicarmordisplay7113.html",
+		"sources": [],
+		"cost": 4655,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Challenging Shield": {
+		"itemname": "Challenging Shield",
+		"file": "magicarmordisplaye371.html",
+		"sources": [],
+		"cost": 5170,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Spined Shield": {
+		"itemname": "Spined Shield",
+		"file": "magicarmordisplay9007.html",
+		"sources": [],
+		"cost": 5580,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Okeno Madu": {
+		"itemname": "Okeno Madu",
+		"file": "magicarmordisplaybbc7.html",
+		"sources": [],
+		"cost": 5590,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Lockpick Shield": {
+		"itemname": "Lockpick Shield",
+		"file": "magicarmordisplay0267.html",
+		"sources": [],
+		"cost": 7159,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Dragonslayer's Shield": {
+		"itemname": "Dragonslayer's Shield",
+		"file": "magicarmordisplaya084.html",
+		"sources": [],
+		"cost": 7170,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Shield of Sunrise": {
+		"itemname": "Shield of Sunrise",
+		"file": "magicarmordisplay95cb.html",
+		"sources": [],
+		"cost": 7659,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Shield of Covered Retreat": {
+		"itemname": "Shield of Covered Retreat",
+		"file": "magicarmordisplay359d.html",
+		"sources": [],
+		"cost": 8157,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Clawhand Shield": {
+		"itemname": "Clawhand Shield",
+		"file": "magicarmordisplay3eb1.html",
+		"sources": [],
+		"cost": 8158,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Collapsible Tower": {
+		"itemname": "Collapsible Tower",
+		"file": "magicarmordisplayfa47.html",
+		"sources": [],
+		"cost": 8170,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Bulette Bulwark": {
+		"itemname": "Bulette Bulwark",
+		"file": "magicarmordisplaya0c5.html",
+		"sources": [],
+		"cost": 9157,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Lion's Shield": {
+		"itemname": "Lion's Shield",
+		"file": "magicarmordisplay6ec5.html",
+		"sources": [],
+		"cost": 9170,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Maiden's Aegis": {
+		"itemname": "Maiden's Aegis",
+		"file": "magicarmordisplay8d89.html",
+		"sources": [],
+		"cost": 9170,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Brilliant Bulwark": {
+		"itemname": "Brilliant Bulwark",
+		"file": "magicarmordisplay3ed3.html",
+		"sources": [],
+		"cost": 9655,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Caster's Shield, Greater": {
+		"itemname": "Caster's Shield, Greater",
+		"file": "magicarmordisplay22e8.html",
+		"sources": [],
+		"cost": 10153,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Gunner's Buckler": {
+		"itemname": "Gunner's Buckler",
+		"file": "magicarmordisplaya7c6.html",
+		"sources": [],
+		"cost": 10155,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Stalker's Fang (Shoanti)": {
+		"itemname": "Stalker's Fang (Shoanti)",
+		"file": "magicarmordisplay2c50.html",
+		"sources": [],
+		"cost": 11462,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Celestial Shield": {
+		"itemname": "Celestial Shield",
+		"file": "magicarmordisplayfd7f.html",
+		"sources": [],
+		"cost": 13170,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Starsling Buckler": {
+		"itemname": "Starsling Buckler",
+		"file": "magicarmordisplay3775.html",
+		"sources": [],
+		"cost": 14000,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Phalanx Shield": {
+		"itemname": "Phalanx Shield",
+		"file": "magicarmordisplaya0fc.html",
+		"sources": [],
+		"cost": 14080,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Maelstrom Shield": {
+		"itemname": "Maelstrom Shield",
+		"file": "magicarmordisplay2c85.html",
+		"sources": [],
+		"cost": 14170,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Spiteful Shield": {
+		"itemname": "Spiteful Shield",
+		"file": "magicarmordisplaya6ab.html",
+		"sources": [],
+		"cost": 14170,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Volcanic Shield": {
+		"itemname": "Volcanic Shield",
+		"file": "magicarmordisplay0d0f.html",
+		"sources": [],
+		"cost": 14170,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Surefooted Shield": {
+		"itemname": "Surefooted Shield",
+		"file": "magicarmordisplay5197.html",
+		"sources": [],
+		"cost": 14200,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Tempest Shield": {
+		"itemname": "Tempest Shield",
+		"file": "magicarmordisplay0265.html",
+		"sources": [],
+		"cost": 15170,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Battlement Shield": {
+		"itemname": "Battlement Shield",
+		"file": "magicarmordisplay4953.html",
+		"sources": [],
+		"cost": 16180,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Shieldmarshal's Ward": {
+		"itemname": "Shieldmarshal's Ward",
+		"file": "magicarmordisplaya366.html",
+		"sources": [],
+		"cost": 17155,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Guard of Man": {
+		"itemname": "Guard of Man",
+		"file": "magicarmordisplay8aba.html",
+		"sources": [],
+		"cost": 17180,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Winged Shield": {
+		"itemname": "Winged Shield",
+		"file": "magicarmordisplayecd5.html",
+		"sources": [],
+		"cost": 17257,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Shield of the Mazeborn": {
+		"itemname": "Shield of the Mazeborn",
+		"file": "magicarmordisplay8efb.html",
+		"sources": [],
+		"cost": 18170,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Bloodfeast Shield": {
+		"itemname": "Bloodfeast Shield",
+		"file": "magicarmordisplay0ced.html",
+		"sources": [],
+		"cost": 18770,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Broadside Bulwark": {
+		"itemname": "Broadside Bulwark",
+		"file": "magicarmordisplaye185.html",
+		"sources": [],
+		"cost": 19007,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Avalanche Shield": {
+		"itemname": "Avalanche Shield",
+		"file": "magicarmordisplay1bbf.html",
+		"sources": [],
+		"cost": 19170,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Fortress Shield": {
+		"itemname": "Fortress Shield",
+		"file": "magicarmordisplay5bcf.html",
+		"sources": [],
+		"cost": 19180,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Mwangi Spirit Shield": {
+		"itemname": "Mwangi Spirit Shield",
+		"file": "magicarmordisplayb491.html",
+		"sources": [],
+		"cost": 19393,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Lyrune-Quah Klar": {
+		"itemname": "Lyrune-Quah Klar",
+		"file": "magicarmordisplay33eb.html",
+		"sources": [],
+		"cost": 19912,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Wyrmslayer's Shield": {
+		"itemname": "Wyrmslayer's Shield",
+		"file": "magicarmordisplay7c4e.html",
+		"sources": [],
+		"cost": 20170,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Shield of Hags": {
+		"itemname": "Shield of Hags",
+		"file": "magicarmordisplaye6c4.html",
+		"sources": [],
+		"cost": 20273,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Elephant Shield": {
+		"itemname": "Elephant Shield",
+		"file": "magicarmordisplayabe1.html",
+		"sources": [],
+		"cost": 21340,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Bastion of the Inheritor": {
+		"itemname": "Bastion of the Inheritor",
+		"file": "magicarmordisplaye85c.html",
+		"sources": [],
+		"cost": 22170,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Spell Ward Tower Shield": {
+		"itemname": "Spell Ward Tower Shield",
+		"file": "magicarmordisplaycb5c.html",
+		"sources": [],
+		"cost": 25180,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Icon of Order": {
+		"itemname": "Icon of Order",
+		"file": "magicarmordisplay5d86.html",
+		"sources": [],
+		"cost": 26170,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Lens of the Dark Tapestry": {
+		"itemname": "Lens of the Dark Tapestry",
+		"file": "magicarmordisplayf0d8.html",
+		"sources": [],
+		"cost": 29170,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Quick Block Buckler": {
+		"itemname": "Quick Block Buckler",
+		"file": "magicarmordisplay8ac8.html",
+		"sources": [],
+		"cost": 36155,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Belligerent Shield": {
+		"itemname": "Belligerent Shield",
+		"file": "magicarmordisplay9e90.html",
+		"sources": [],
+		"cost": 36170,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Storval's Fang": {
+		"itemname": "Storval's Fang",
+		"file": "magicarmordisplay3cd9.html",
+		"sources": [],
+		"cost": 38312,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Force Tower": {
+		"itemname": "Force Tower",
+		"file": "magicarmordisplay7925.html",
+		"sources": [],
+		"cost": 46030,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Absorbing Shield": {
+		"itemname": "Absorbing Shield",
+		"file": "magicarmordisplayd6b5.html",
+		"sources": [],
+		"cost": 50170,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Elysian Shield": {
+		"itemname": "Elysian Shield",
+		"file": "magicarmordisplay02f5.html",
+		"sources": [],
+		"cost": 52620,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Savith's Iron": {
+		"itemname": "Savith's Iron",
+		"file": "magicarmordisplaye6a4.html",
+		"sources": [],
+		"cost": 59170,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Spellbane Shield": {
+		"itemname": "Spellbane Shield",
+		"file": "magicarmordisplay8611.html",
+		"sources": [],
+		"cost": 79180,
+		"type": "shield",
+		"slot": "shield"
+	},
+	"Equalizer Shield": {
+		"itemname": "Equalizer Shield",
+		"file": "magicarmordisplayd190.html",
+		"sources": [],
+		"cost": 120830,
+		"type": "shield",
+		"slot": "shield"
+	}
+}
