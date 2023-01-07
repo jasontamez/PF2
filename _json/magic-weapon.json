@@ -6,7 +6,6 @@
 		"costAdditional": 1000,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Shrinking",
@@ -29,7 +28,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Agile",
@@ -71,7 +69,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Answering",
@@ -174,7 +171,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Benevolent",
@@ -213,7 +209,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Blood-Hunting",
@@ -286,7 +281,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Bloodsong",
@@ -306,7 +300,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Brawling",
@@ -364,7 +357,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Catalytic",
@@ -386,6 +378,7 @@
 		"slot": "weapon quality",
 		"weight": 0,
 		"header": [
+			"Compassionate",
 			"Source ~`Champions of Purity pg. 30`~",
 			"Aura moderate conjuration CL 7th",
 			"Slot weapon quality; Price +1 bonus; Weight -"
@@ -424,7 +417,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Confounding",
@@ -466,7 +458,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Countering",
@@ -486,7 +477,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Courageous",
@@ -572,7 +562,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Deadly",
@@ -612,7 +601,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Deceptive",
@@ -635,7 +623,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Defending",
@@ -655,7 +642,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Disjoining",
@@ -675,7 +661,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Dispelling",
@@ -695,7 +680,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Distracting",
@@ -734,7 +718,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Dueling (PSFG)",
@@ -754,7 +737,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Fate-Stealing",
@@ -775,7 +757,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Fervent",
@@ -796,7 +777,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Flamboyant",
@@ -839,7 +819,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Fortuitous",
@@ -884,7 +863,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Furious",
@@ -929,7 +907,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Grayflame",
@@ -949,7 +926,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Grounding",
@@ -969,7 +945,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Growing",
@@ -992,7 +967,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Guardian",
@@ -1013,7 +987,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Guided",
@@ -1033,7 +1006,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Heartseeker",
@@ -1094,7 +1066,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Inspired",
@@ -1139,7 +1110,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Keen",
@@ -1162,7 +1132,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Ki Focus",
@@ -1182,7 +1151,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Kinslayer",
@@ -1243,7 +1211,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Menacing",
@@ -1288,7 +1255,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Mighty Cleaving",
@@ -1308,7 +1274,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Mimetic",
@@ -1347,7 +1312,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Mythic Bane",
@@ -1367,7 +1331,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Neutralizing",
@@ -1387,7 +1350,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Ominous",
@@ -1407,7 +1369,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Patriotic",
@@ -1428,7 +1389,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Pitfall",
@@ -1467,7 +1427,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Quenching",
@@ -1487,7 +1446,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Rusting",
@@ -1507,7 +1465,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Sacred",
@@ -1547,7 +1504,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Seaborne",
@@ -1589,7 +1545,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Skewering",
@@ -1609,7 +1564,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Slithering",
@@ -1629,7 +1583,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Smashing",
@@ -1652,7 +1605,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Spell Storing",
@@ -1673,7 +1625,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Spirit-Hunting",
@@ -1742,7 +1693,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Sticky",
@@ -1762,7 +1712,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Summon Bane",
@@ -1782,7 +1731,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Thawing",
@@ -1805,7 +1753,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Throwing",
@@ -1847,7 +1794,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Training",
@@ -1867,7 +1813,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Unaligned",
@@ -1887,7 +1832,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Underwater",
@@ -1907,7 +1851,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Valiant",
@@ -1953,7 +1896,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Vicious",
@@ -1973,7 +1915,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Virulent",
@@ -1993,7 +1934,6 @@
 		"costAdditional": 2500,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Prehensile",
@@ -2051,7 +1991,6 @@
 		"costAdditional": 3750,
 		"type": "modification",
 		"slot": "weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Exclusionary",
@@ -2090,7 +2029,6 @@
 		"costAdditional": 4000,
 		"type": "modification",
 		"slot": "weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Resizing",
@@ -2110,7 +2048,6 @@
 		"costAdditional": 5000,
 		"type": "modification",
 		"slot": "weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Sacrosanct",
@@ -2131,7 +2068,6 @@
 		"costAdditional": 5000,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Sneaky",
@@ -2191,7 +2127,6 @@
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Advancing",
@@ -2274,7 +2209,6 @@
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
 		"slot": "weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Burning",
@@ -2319,7 +2253,6 @@
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Culling",
@@ -2339,7 +2272,6 @@
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Defiant",
@@ -2359,7 +2291,6 @@
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Dispelling Burst",
@@ -2383,7 +2314,6 @@
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Disruption",
@@ -2403,7 +2333,6 @@
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
 		"slot": "weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Distracting, Greater",
@@ -2446,7 +2375,6 @@
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Furyborn",
@@ -2466,7 +2394,6 @@
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Fury-Born",
@@ -2486,7 +2413,6 @@
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Glorious",
@@ -2506,7 +2432,6 @@
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Harvesting",
@@ -2527,7 +2452,6 @@
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
 		"slot": "weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Heretical",
@@ -2611,7 +2535,6 @@
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Impact",
@@ -2631,7 +2554,6 @@
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Invigorating",
@@ -2651,7 +2573,6 @@
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Ki Intensifying",
@@ -2673,7 +2594,6 @@
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Legbreaker",
@@ -2693,7 +2613,6 @@
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Liberating (UI)",
@@ -2713,7 +2632,6 @@
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Lifesurge",
@@ -2734,7 +2652,6 @@
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Negating",
@@ -2754,7 +2671,6 @@
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Obliviating",
@@ -2774,7 +2690,6 @@
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
 		"slot": "weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Peaceful",
@@ -2813,7 +2728,6 @@
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
 		"slot": "weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Planestriking",
@@ -2833,7 +2747,6 @@
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
 		"slot": "weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Potent",
@@ -2875,7 +2788,6 @@
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
 		"slot": "weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Runeforged",
@@ -2968,7 +2880,6 @@
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
 		"slot": "weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Silencing",
@@ -3028,7 +2939,6 @@
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
 		"slot": "weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Treasonous",
@@ -3048,7 +2958,6 @@
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Truthful",
@@ -3091,7 +3000,6 @@
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Unseen",
@@ -3133,7 +3041,6 @@
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Wounding",
@@ -3156,7 +3063,6 @@
 		"costAdditional": 10000,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Transformative",
@@ -3179,7 +3085,6 @@
 		"costAdditional": 14000,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Dueling",
@@ -3199,7 +3104,6 @@
 		"costAdditional": 15000,
 		"type": "modification",
 		"slot": "weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Transformative, Greater",
@@ -3219,7 +3123,6 @@
 		"effectiveBonusAdjustment": 3,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Exhausting",
@@ -3239,7 +3142,6 @@
 		"effectiveBonusAdjustment": 3,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Flamboyant, Greater",
@@ -3278,7 +3180,6 @@
 		"effectiveBonusAdjustment": 3,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Nullifying",
@@ -3300,6 +3201,7 @@
 		"slot": "weapon quality",
 		"weight": 0,
 		"header": [
+			"Redeemed",
 			"Source ~`Champions of Purity pg. 30`~",
 			"Aura strong abjuration and evocation [good] CL 12th",
 			"Slot weapon quality; Price +3 bonus; Weight -"
@@ -3316,7 +3218,6 @@
 		"effectiveBonusAdjustment": 3,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Repositioning",
@@ -3358,7 +3259,6 @@
 		"effectiveBonusAdjustment": 3,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Spellstealing",
@@ -3378,7 +3278,6 @@
 		"effectiveBonusAdjustment": 3,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Umbral",
@@ -3424,7 +3323,6 @@
 		"effectiveBonusAdjustment": 4,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Dancing",
@@ -3444,7 +3342,6 @@
 		"effectiveBonusAdjustment": 5,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Flying",
@@ -3464,7 +3361,6 @@
 		"effectiveBonusAdjustment": 5,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Spell Siphon",
@@ -3488,7 +3384,6 @@
 		"effectiveBonusAdjustment": 5,
 		"type": "modification",
 		"slot": "melee weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Vorpal",
@@ -3508,7 +3403,6 @@
 		"costAdditional": 1000,
 		"type": "modification",
 		"slot": "ranged weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Adaptive",
@@ -3531,7 +3425,6 @@
 		"costAdditional": 1500,
 		"type": "modification",
 		"slot": "ranged weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Dry Load",
@@ -3553,7 +3446,6 @@
 		"costAdditional": 1875,
 		"type": "modification",
 		"slot": "ranged weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Sniping (normal)",
@@ -3573,7 +3465,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "ranged weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Ambushing",
@@ -3612,7 +3503,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "ranged weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Clustershot",
@@ -3632,7 +3522,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "ranged weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Conserving",
@@ -3655,7 +3544,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "ranged weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Distance",
@@ -3694,7 +3582,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "ranged weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Healer's Sorrow",
@@ -3717,7 +3604,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "ranged weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Lucky",
@@ -3737,7 +3623,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "ranged weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Plummeting",
@@ -3760,7 +3645,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "ranged weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Reliable",
@@ -3783,7 +3667,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "ranged weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Returning",
@@ -3806,7 +3689,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "ranged weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Seeking",
@@ -3826,7 +3708,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "ranged weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Shadowshooting",
@@ -3847,7 +3728,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "ranged weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Sparkfly Crystal Arrow",
@@ -3867,7 +3747,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "ranged weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Spell Hurling",
@@ -3887,7 +3766,6 @@
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "ranged weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Veering",
@@ -3907,7 +3785,6 @@
 		"costAdditional": 2000,
 		"type": "modification",
 		"slot": "ranged weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Phantom Ammunition",
@@ -3928,7 +3805,6 @@
 		"costAdditional": 7500,
 		"type": "modification",
 		"slot": "ranged weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Sniping (improved)",
@@ -3948,7 +3824,6 @@
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
 		"slot": "ranged weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Cyclonic",
@@ -3968,7 +3843,6 @@
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
 		"slot": "ranged weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Dazzling",
@@ -3988,7 +3862,6 @@
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
 		"slot": "ranged weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Designating (lesser)",
@@ -4008,7 +3881,6 @@
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
 		"slot": "ranged weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Endless Ammunition",
@@ -4029,7 +3901,6 @@
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
 		"slot": "ranged weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Glitterwake",
@@ -4049,7 +3920,6 @@
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
 		"slot": "ranged weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Penetrating",
@@ -4069,7 +3939,6 @@
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
 		"slot": "ranged weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Sniping",
@@ -4089,7 +3958,6 @@
 		"costAdditional": 16875,
 		"type": "modification",
 		"slot": "ranged weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Sniping (greater)",
@@ -4112,7 +3980,6 @@
 		"effectiveBonusAdjustment": 3,
 		"type": "modification",
 		"slot": "ranged weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Lucky, Greater",
@@ -4135,7 +4002,6 @@
 		"effectiveBonusAdjustment": 3,
 		"type": "modification",
 		"slot": "ranged weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Reliable (greater)",
@@ -4155,7 +4021,6 @@
 		"effectiveBonusAdjustment": 3,
 		"type": "modification",
 		"slot": "ranged weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Sonic Boom",
@@ -4175,7 +4040,6 @@
 		"effectiveBonusAdjustment": 3,
 		"type": "modification",
 		"slot": "ranged weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Tailwind",
@@ -4195,7 +4059,6 @@
 		"effectiveBonusAdjustment": 4,
 		"type": "modification",
 		"slot": "ranged weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Designating (greater)",
@@ -4215,7 +4078,6 @@
 		"effectiveBonusAdjustment": 4,
 		"type": "modification",
 		"slot": "ranged weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Nimble Shot",
@@ -4235,7 +4097,6 @@
 		"effectiveBonusAdjustment": 4,
 		"type": "modification",
 		"slot": "ranged weapon quality",
-		"maybeSlot": "weapon quality",
 		"weight": 0,
 		"header": [
 			"Second Chance",
@@ -4274,7 +4135,6 @@
 		"effectiveBonusAdjustment": 5,
 		"type": "modification",
 		"slot": "ranged weapon quality",
-		"maybeSlot": "none",
 		"weight": 0,
 		"header": [
 			"Interfering",
@@ -4293,8 +4153,7 @@
 		"sources": [ "Villain Codex" ],
 		"cost": 80,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0,
 		"header": [
 			"Darkness Arrow",
@@ -4313,8 +4172,7 @@
 		"sources": [ "Villain Codex" ],
 		"cost": 80,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0,
 		"header": [
 			"Vine Arrow",
@@ -4336,8 +4194,7 @@
 		],
 		"cost": 100,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0,
 		"header": [
 			"Tracer Bullet",
@@ -4359,8 +4216,7 @@
 		],
 		"cost": 132,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0.1,
 		"header": [
 			"Sleep Arrow",
@@ -4379,8 +4235,7 @@
 		"sources": [ "Kobolds of Golarion" ],
 		"cost": 166,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0,
 		"header": [
 			"Dwindling Bullet",
@@ -4417,8 +4272,7 @@
 		"sources": [ "Villain Codex" ],
 		"cost": 178,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0,
 		"header": [
 			"Mage Shot (Acid)",
@@ -4437,8 +4291,7 @@
 		"sources": [ "Villain Codex" ],
 		"cost": 178,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0,
 		"header": [
 			"Mage Shot (Cold)",
@@ -4457,8 +4310,7 @@
 		"sources": [ "Villain Codex" ],
 		"cost": 178,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0,
 		"header": [
 			"Mage Shot (Electricity)",
@@ -4477,8 +4329,7 @@
 		"sources": [ "Villain Codex" ],
 		"cost": 178,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0,
 		"header": [
 			"Mage Shot (Fire)",
@@ -4500,8 +4351,7 @@
 		],
 		"cost": 196,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0.5,
 		"header": [
 			"Dustburst Bullet",
@@ -4547,8 +4397,7 @@
 		"sources": [ "Ultimate Intrigue" ],
 		"cost": 206,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0,
 		"header": [
 			"Dart of Recovery",
@@ -4570,8 +4419,7 @@
 		],
 		"cost": 226,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0,
 		"header": [
 			"Tangle Bolt",
@@ -4590,8 +4438,7 @@
 		"sources": [ "Heroes of Golarion" ],
 		"cost": 250,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0,
 		"header": [
 			"Dispelling Bullet",
@@ -4610,8 +4457,7 @@
 		"sources": [ "Pathfinder #91: Battle of Bloodmarch Hills" ],
 		"cost": 266,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 1,
 		"header": [
 			"Unerring Grenade",
@@ -4633,8 +4479,7 @@
 		],
 		"cost": 267,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0.1,
 		"header": [
 			"Screaming Bolt",
@@ -4653,8 +4498,7 @@
 		"sources": [ "Monster Codex" ],
 		"cost": 306,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0,
 		"header": [
 			"Snakebiter Arrow",
@@ -4673,8 +4517,7 @@
 		"sources": [ "Agents of Evil" ],
 		"cost": 307,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0.1,
 		"header": [
 			"Grave Marker Arrow",
@@ -4696,8 +4539,7 @@
 		],
 		"cost": 322,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 1,
 		"header": [
 			"Masterwork Silver Dagger",
@@ -4715,8 +4557,7 @@
 		"sources": [ "Ultimate Equipment" ],
 		"cost": 330,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0.5,
 		"header": [
 			"Alchemist's Bullet",
@@ -4738,8 +4579,7 @@
 		],
 		"cost": 330,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Cold Iron Masterwork Longsword",
@@ -4757,8 +4597,7 @@
 		"sources": [ "Ranged Tactics Toolbox" ],
 		"cost": 346,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0,
 		"header": [
 			"Splitting Bolt",
@@ -4777,8 +4616,7 @@
 		"sources": [ "Pathfinder #50: Night of Frozen Shadows" ],
 		"cost": 400,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0.5,
 		"header": [
 			"Earthfire Shuriken",
@@ -4797,8 +4635,7 @@
 		"sources": [ "Ranged Tactics Toolbox" ],
 		"cost": 496,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0.5,
 		"header": [
 			"Dizzying Bullet",
@@ -4817,8 +4654,7 @@
 		"sources": [ "Ranged Tactics Toolbox" ],
 		"cost": 496,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0.1,
 		"header": [
 			"Vulnerability Bolt",
@@ -4837,8 +4673,7 @@
 		"sources": [ "Martial Arts Handbook" ],
 		"cost": 500,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 1,
 		"header": [
 			"Secure Sheath",
@@ -4857,8 +4692,7 @@
 		"sources": [ "Ultimate Equipment" ],
 		"cost": 547,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0.05,
 		"header": [
 			"Hushing Arrow",
@@ -4878,8 +4712,7 @@
 		"sources": [ "Ranged Tactics Toolbox" ],
 		"cost": 566,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0,
 		"header": [
 			"Mute Dart",
@@ -4898,8 +4731,7 @@
 		"sources": [ "Ranged Tactics Toolbox" ],
 		"cost": 566,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0,
 		"header": [
 			"Reporting Cartridge",
@@ -4918,8 +4750,7 @@
 		"sources": [ "Ranged Tactics Toolbox" ],
 		"cost": 566,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0,
 		"header": [
 			"Scouting Cartridge",
@@ -4938,8 +4769,7 @@
 		"sources": [ "Ultimate Intrigue" ],
 		"cost": 646,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0.1,
 		"header": [
 			"Prying Star",
@@ -4959,8 +4789,7 @@
 		"sources": [ "Ranged Tactics Toolbox" ],
 		"cost": 806,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0.5,
 		"header": [
 			"Boulder Bullet",
@@ -4982,8 +4811,7 @@
 		"sources": [ "Ranged Tactics Toolbox" ],
 		"cost": 916,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0.05,
 		"header": [
 			"Phase Arrow",
@@ -5002,20 +4830,8 @@
 		"sources": [ "Ultimate Equipment" ],
 		"cost": 1047,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
-		"weight": 0.05,
-		"header": [
-			"Hushing Arrow",
-			"Source ~`Ultimate Equipment pg. 156`~",
-			"Aura faint illusion CL 5th",
-			"Slot none; Price normal (547 gp ), greater (1,047 gp); Weight 1/20 lb."
-		],
-		"description": [
-			"This +1 arrow makes no sound on release or as it flies through the air. A creature struck by a hushing arrow must succeed at a DC 13 Will save or be affected by silence (as the spell) for 5 rounds. The silence effect is not triggered by arrows that miss or those that strike an inanimate object.",
-			"A greater hushing arrow functions just like a normal hushing arrow, except the target must succeed at a DC 16 Will save to avoid being silenced. Hushing bolts and greater hushing bolts can also be made; they share the same statistics as hushing arrows and greater hushing arrows, except they weigh 1/10 of a pound per bolt."
-		],
-		"construction": "Requirements Craft Magic Arms and Armor, Heighten Spell (greater hushing arrow only), silence; Price 277 gp (normal), 577 gp (greater)"
+		"slot": "none",
+		"copyof": "Hushing Arrow (normal)"
 	},
 	"Dimensional Grenade": {
 		"itemname": "Dimensional Grenade",
@@ -5023,8 +4839,7 @@
 		"sources": [ "Pathfinder #71: Rasputin Must Die!" ],
 		"cost": 1450,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 1,
 		"header": [
 			"Dimensional Grenade",
@@ -5043,8 +4858,7 @@
 		"sources": [ "Ranged Tactics Toolbox" ],
 		"cost": 1466,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0,
 		"header": [
 			"Venomous Whisper Dart",
@@ -5066,8 +4880,7 @@
 		],
 		"cost": 1500,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Javelin of Lightning",
@@ -5089,8 +4902,7 @@
 		],
 		"cost": 1516,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0,
 		"header": [
 			"Searing Arrow",
@@ -5112,8 +4924,7 @@
 		],
 		"cost": 1516,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0,
 		"header": [
 			"Sizzling Arrow",
@@ -5135,8 +4946,7 @@
 		],
 		"cost": 1722,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0,
 		"header": [
 			"Burrowing Bullet",
@@ -5155,8 +4965,7 @@
 		"sources": [ "Ultimate Equipment" ],
 		"cost": 1730,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0.1,
 		"header": [
 			"Dust Bolt",
@@ -5176,7 +4985,6 @@
 		"cost": 1802,
 		"type": "weapon",
 		"slot": "weapon",
-		"maybeSlot": "held",
 		"weight": 0,
 		"header": [
 			"Sacrificial Spear",
@@ -5196,22 +5004,8 @@
 		"sources": [ "Ranged Tactics Toolbox" ],
 		"cost": 1966,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
-		"weight": 0.5,
-		"header": [
-			"Boulder Bullet",
-			"Source ~`Ranged Tactics Toolbox pg. 24`~",
-			"Aura moderate or strong enchantment CL varies",
-			"Slot none; Price lesser (806 gp ), normal (1,966 gp), greater (4,006 gp); Weight 1/2 lb."
-		],
-		"description": [
-			"A boulder bullet appears to be a magical sling bullet when held, but it is actually a shrunken piece of catapult ammunition. A boulder bullet expands rapidly when launched from a sling or sling staff, increasing in size and dealing greater base damage depending on the version used. This doesn't affect the bullet's range or any of the normal mechanics for using a sling bullet, though the boulder bullet is treated as siege weapon ammunition for the purposes of wind effects and similar penalties. Similarly, if a boulder bullet is launched and misses its target, roll 1d8 to determine the adjacent square in which it lands. Once it has been thrown and has expanded, a boulder bullet loses its magic and remains boulder-sized thereafter.",
-			"Lesser Boulder Bullet (CL 10th): A lesser boulder bullet is a +1 sling bullet that expands to the size of light catapult ammunition, increasing its base damage to 4d6.",
-			"Boulder Bullet (CL 14th): A boulder bullet is a +2 sling bullet that expands to the size of standard catapult ammunition, increasing its base damage to 6d6.",
-			"Greater Boulder Bullet (CL 18th): A greater boulder bullet is a +3 sling bullet that expands to the size of heavy catapult ammunition, increasing its base damage to 8d6."
-		],
-		"construction": "Requirements Craft Magic Arms and Armor, shrink object; Price 406 gp (lesser), 986 gp (normal), 2,006 gp (greater)"
+		"slot": "none",
+		"copyof": "Boulder Bullet (lesser)"
 	},
 	"Detecting Dart": {
 		"itemname": "Detecting Dart",
@@ -5219,8 +5013,7 @@
 		"sources": [ "Monster Hunter's Handbook" ],
 		"cost": 2000,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0,
 		"header": [
 			"Detecting Dart",
@@ -5244,8 +5037,7 @@
 		],
 		"cost": 2282,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0.1,
 		"header": [
 			"Slaying Arrow",
@@ -5413,8 +5205,7 @@
 		"sources": [ "Giant Hunter's Handbook" ],
 		"cost": 2500,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0,
 		"header": [
 			"Effortless Lace",
@@ -5434,8 +5225,7 @@
 		"sources": [ "Potions and Poisons" ],
 		"cost": 2805,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Alchemist's Aspergillum",
@@ -5454,8 +5244,7 @@
 		"sources": [ "Ranged Tactics Toolbox" ],
 		"cost": 2886,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0.05,
 		"header": [
 			"Arrow of Charming",
@@ -5474,8 +5263,7 @@
 		"sources": [ "Heroes of the Darklands" ],
 		"cost": 3000,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0.1,
 		"header": [
 			"Blightburn Arrow",
@@ -5494,8 +5282,7 @@
 		"sources": [ "Pathfinder #68: The Shackled Hut" ],
 		"cost": 3000,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 6,
 		"header": [
 			"Everbloom's Rose",
@@ -5517,8 +5304,7 @@
 		],
 		"cost": 3002,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 1,
 		"header": [
 			"Adamantine Dagger",
@@ -5539,8 +5325,7 @@
 		],
 		"cost": 3010,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 6,
 		"header": [
 			"Adamantine Battleaxe",
@@ -5558,8 +5343,7 @@
 		"sources": [ "Inner Sea Gods" ],
 		"cost": 3060,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Carouser's Retort",
@@ -5578,8 +5362,7 @@
 		"sources": [ "Inner Sea Gods" ],
 		"cost": 3072,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 1,
 		"header": [
 			"Fate Blade",
@@ -5598,8 +5381,7 @@
 		"sources": [ "Pathfinder: Hollow Mountain #1" ],
 		"cost": 3110,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 12,
 		"header": [
 			"Conflagration Pike",
@@ -5618,8 +5400,7 @@
 		"sources": [ "Agents of Evil" ],
 		"cost": 3305,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 9,
 		"header": [
 			"Fiend's Relief",
@@ -5638,8 +5419,7 @@
 		"sources": [ "Pathfinder #55: The Wormwood Mutiny" ],
 		"cost": 3395,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Tidewater Cutlass",
@@ -5662,19 +5442,8 @@
 		],
 		"cost": 3447,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
-		"weight": 0,
-		"header": [
-			"Burrowing Bullet",
-			"Source ~`Ultimate Equipment pg. 153`~, ~`Ultimate Combat pg. 142`~",
-			"Aura moderate necromancy CL 3rd",
-			"Slot none; Price lesser (1,722 gp), greater (3,447 gp); Weight -"
-		],
-		"description": [
-			"This +1 firearm bullet deals normal damage, but when it hits a living creature, it burrows into the creature's flesh, causing wracking pain until removed or until the bullet burrows its way out of the creature. While these bullets burrow, the creature is staggered. This effect lasts for 1d3 rounds or until the bullet is removed with a DC 15 Heal check made as a standard action. Greater burrowing bullets take longer to pass though the bodies of living creatures (the staggered effect lasts 1d3+2 rounds) and are harder to remove (DC 20 Heal check as a standard action)."
-		],
-		"construction": "Requirements Craft Magic Arms and Armor, symbol of pain (burrowing bullet) or symbol of stunning (greater burrowing bullet); Price 861 gp (normal), 1,723 gp (greater)"
+		"slot": "none",
+		"copyof": "Burrowing Bullet (lesser)"
 	},
 	"Stake of the Righteous": {
 		"itemname": "Stake of the Righteous",
@@ -5682,8 +5451,7 @@
 		"sources": [ "Blood of the Night" ],
 		"cost": 3520,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Stake of the Righteous",
@@ -5703,8 +5471,7 @@
 		"sources": [ "Giant Hunter's Handbook" ],
 		"cost": 3805,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Grasping Bolas",
@@ -5724,8 +5491,7 @@
 		"sources": [ "Inner Sea Gods" ],
 		"cost": 3848,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 6,
 		"header": [
 			"Enduring Bloom",
@@ -5744,8 +5510,7 @@
 		"sources": [ "Inner Sea Gods" ],
 		"cost": 3875,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 3,
 		"header": [
 			"Kinbonded Bow",
@@ -5764,8 +5529,7 @@
 		"sources": [ "Pathfinder #67: The Snows of Summer" ],
 		"cost": 3925,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 8,
 		"header": [
 			"Spear of Manhunting",
@@ -5784,8 +5548,7 @@
 		"sources": [ "Inner Sea Gods" ],
 		"cost": 3970,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 8,
 		"header": [
 			"Bloodlight",
@@ -5804,22 +5567,8 @@
 		"sources": [ "Ranged Tactics Toolbox" ],
 		"cost": 4006,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
-		"weight": 0.5,
-		"header": [
-			"Boulder Bullet",
-			"Source ~`Ranged Tactics Toolbox pg. 24`~",
-			"Aura moderate or strong enchantment CL varies",
-			"Slot none; Price lesser (806 gp ), normal (1,966 gp), greater (4,006 gp); Weight 1/2 lb."
-		],
-		"description": [
-			"A boulder bullet appears to be a magical sling bullet when held, but it is actually a shrunken piece of catapult ammunition. A boulder bullet expands rapidly when launched from a sling or sling staff, increasing in size and dealing greater base damage depending on the version used. This doesn't affect the bullet's range or any of the normal mechanics for using a sling bullet, though the boulder bullet is treated as siege weapon ammunition for the purposes of wind effects and similar penalties. Similarly, if a boulder bullet is launched and misses its target, roll 1d8 to determine the adjacent square in which it lands. Once it has been thrown and has expanded, a boulder bullet loses its magic and remains boulder-sized thereafter.",
-			"Lesser Boulder Bullet (CL 10th): A lesser boulder bullet is a +1 sling bullet that expands to the size of light catapult ammunition, increasing its base damage to 4d6.",
-			"Boulder Bullet (CL 14th): A boulder bullet is a +2 sling bullet that expands to the size of standard catapult ammunition, increasing its base damage to 6d6.",
-			"Greater Boulder Bullet (CL 18th): A greater boulder bullet is a +3 sling bullet that expands to the size of heavy catapult ammunition, increasing its base damage to 8d6."
-		],
-		"construction": "Requirements Craft Magic Arms and Armor, shrink object; Price 406 gp (lesser), 986 gp (normal), 2,006 gp (greater)"
+		"slot": "none",
+		"copyof": "Boulder Bullet (lesser)"
 	},
 	"Slaying Arrow (greater)": {
 		"itemname": "Slaying Arrow (greater)",
@@ -5830,149 +5579,8 @@
 		],
 		"cost": 4057,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
-		"weight": 0.1,
-		"header": [
-			"Slaying Arrow",
-			"Source ~`Ultimate Equipment pg. 160`~, ~`PRPG Core Rulebook pg. 471`~",
-			"Aura strong necromancy CL 13th",
-			"Slot none; Price normal (2,282 gp), greater (4,057 gp); Weight 1/10 lb."
-		],
-		"description": [
-			"This +1 arrow is keyed to a particular type or subtype of creature. If it strikes such a creature, the target must succeed at a DC 20 Fortitude save or take 50 points of damage. Note that even creatures normally exempt from Fortitude saves (undead and constructs) are subject to this attack. When keyed to a living creature, this is a death effect (and thus death ward protects a target). To determine the type or subtype of creature the arrow is keyed to, roll on the table below.",
-			"A greater slaying arrow functions just like a normal slaying arrow, but the DC to avoid the death effect is 23 and the arrow deals 100 points of damage if the saving throw is failed.",
-			{
-				"table": true,
-				"rows": [
-					[
-						"d%",
-						"Designated Type or Subtype"
-					],
-					[
-						"01-05",
-						"Aberrations"
-					],
-					[
-						"06-09",
-						"Animals"
-					],
-					[
-						"10-16",
-						"Constructs"
-					],
-					[
-						"17-27",
-						"Dragons"
-					],
-					[
-						"28-32",
-						"Fey"
-					],
-					[
-						"33",
-						"Humanoids, aquatic"
-					],
-					[
-						"34-35",
-						"Humanoids, dwarf"
-					],
-					[
-						"36-37",
-						"Humanoids, elf"
-					],
-					[
-						"38-44",
-						"Humanoids, giant"
-					],
-					[
-						"45",
-						"Humanoids, gnoll"
-					],
-					[
-						"46",
-						"Humanoids, gnome"
-					],
-					[
-						"47-49",
-						"Humanoids, goblinoid"
-					],
-					[
-						"50",
-						"Humanoids, halfling"
-					],
-					[
-						"51-54",
-						"Humanoids, human"
-					],
-					[
-						"55-57",
-						"Humanoids, reptilian"
-					],
-					[
-						"58-60",
-						"Humanoids, orc"
-					],
-					[
-						"61-65",
-						"Magical beasts"
-					],
-					[
-						"66-70",
-						"Monstrous humanoids"
-					],
-					[
-						"71-72",
-						"Oozes"
-					],
-					[
-						"73",
-						"Outsiders, air"
-					],
-					[
-						"74-76",
-						"Outsiders, chaotic"
-					],
-					[
-						"77",
-						"Outsiders, earth"
-					],
-					[
-						"78-80",
-						"Outsiders, evil"
-					],
-					[
-						"81",
-						"Outsiders, fire"
-					],
-					[
-						"82-84",
-						"Outsiders, good"
-					],
-					[
-						"85-87",
-						"Outsiders, lawful"
-					],
-					[
-						"88",
-						"Outsiders, water"
-					],
-					[
-						"89-90",
-						"Plants"
-					],
-					[
-						"91-98",
-						"Undead"
-					],
-					[
-						"99-100",
-						"Vermin"
-					]
-				]
-			}
-		],
-		"construction": "Requirements Craft Magic Arms and Armor, finger of death (slaying arrow) or heightened finger of death (greater slaying arrow); Price 1,144 gp (normal), 2,032 gp (greater)"
+		"slot": "none",
+		"copyof": "Slaying Arrow (normal)"
 	},
 	"Lashing Aklys": {
 		"itemname": "Lashing Aklys",
@@ -5980,8 +5588,7 @@
 		"sources": [ "Pathfinder #64: Beyond the Doomsday Door" ],
 		"cost": 4305,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Lashing Aklys",
@@ -6000,8 +5607,7 @@
 		"sources": [ "Pathfinder #55: The Wormwood Mutiny" ],
 		"cost": 4308,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 9,
 		"header": [
 			"Boarding Pike of Repelling",
@@ -6023,8 +5629,7 @@
 		],
 		"cost": 4310,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 10,
 		"header": [
 			"Lance of Jousting",
@@ -6043,8 +5648,7 @@
 		"sources": [ "Pathfinder #73: The Worldwound Incursion" ],
 		"cost": 4310,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 12,
 		"header": [
 			"Ranseur of the Gargoyle",
@@ -6063,8 +5667,7 @@
 		"sources": [ "Pathfinder #59: The Price of Infamy" ],
 		"cost": 4310,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 1,
 		"header": [
 			"Wizard Hook",
@@ -6083,8 +5686,7 @@
 		"sources": [ "Inner Sea Gods" ],
 		"cost": 4312,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 5,
 		"header": [
 			"Forgefather's Sledge",
@@ -6125,8 +5727,7 @@
 		],
 		"cost": 4315,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Shatterspike",
@@ -6145,8 +5746,7 @@
 		"sources": [ "Spymaster's Handbook" ],
 		"cost": 4370,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 1,
 		"header": [
 			"Grafting Blade",
@@ -6166,8 +5766,7 @@
 		"sources": [ "Ranged Tactics Toolbox" ],
 		"cost": 4400,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Secret Crossbow",
@@ -6186,8 +5785,7 @@
 		"sources": [ "Inner Sea Gods" ],
 		"cost": 4410,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 1,
 		"header": [
 			"Black Alibi",
@@ -6206,8 +5804,7 @@
 		"sources": [ "Inner Sea Gods" ],
 		"cost": 4461,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Perfectionist Shavtoosh",
@@ -6226,8 +5823,7 @@
 		"sources": [ "Dirty Tactics Toolbox" ],
 		"cost": 4501,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0.5,
 		"header": [
 			"Stirge Dart",
@@ -6246,8 +5842,7 @@
 		"sources": [ "Inner Sea Gods" ],
 		"cost": 4815,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 10,
 		"header": [
 			"Obliviating Flail",
@@ -6266,8 +5861,7 @@
 		"sources": [ "Spymaster's Handbook" ],
 		"cost": 5000,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Biting Bracelet",
@@ -6286,8 +5880,7 @@
 		"sources": [ "Dirty Tactics Toolbox" ],
 		"cost": 5005,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Nimble Whip",
@@ -6306,8 +5899,7 @@
 		"sources": [ "Inner Sea Gods" ],
 		"cost": 5050,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Quarterstaff of Entwined Serpents",
@@ -6326,8 +5918,7 @@
 		"sources": [ "Pathfinder #91: Battle of Bloodmarch Hills" ],
 		"cost": 5052,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 1,
 		"header": [
 			"Brinya's Love",
@@ -6346,8 +5937,7 @@
 		"sources": [ "Champions of Balance" ],
 		"cost": 5220,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 14,
 		"header": [
 			"Judicial Hammer",
@@ -6366,8 +5956,7 @@
 		"sources": [ "Inner Sea Gods" ],
 		"cost": 5248,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 10,
 		"header": [
 			"Blade of Three Fancies",
@@ -6386,8 +5975,7 @@
 		"sources": [ "Giant Hunter's Handbook" ],
 		"cost": 5300,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0,
 		"header": [
 			"Smuggler's Sling",
@@ -6406,8 +5994,7 @@
 		"sources": [ "Villain Codex" ],
 		"cost": 5305,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "hands",
+		"slot": "hands",
 		"weight": 2,
 		"header": [
 			"Cestus of Security",
@@ -6427,8 +6014,7 @@
 		"sources": [ "Pathfinder #83: The Slave Trenches of Hakotep" ],
 		"cost": 5310,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 6,
 		"header": [
 			"Axe of the Imperative",
@@ -6450,8 +6036,7 @@
 		],
 		"cost": 5312,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 6,
 		"header": [
 			"Runechill Hatchet",
@@ -6470,8 +6055,7 @@
 		"sources": [ "Inner Sea Gods" ],
 		"cost": 5315,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Dawnfire",
@@ -6490,8 +6074,7 @@
 		"sources": [ "Kobolds of Golarion" ],
 		"cost": 5315,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 1,
 		"header": [
 			"Irradiating Tail",
@@ -6510,8 +6093,7 @@
 		"sources": [ "Inner Sea Gods" ],
 		"cost": 5318,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 10,
 		"header": [
 			"Nail of the Princess",
@@ -6530,8 +6112,7 @@
 		"sources": [ "The Demon Within" ],
 		"cost": 5360,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0,
 		"header": [
 			"Water Scorpion",
@@ -6551,8 +6132,7 @@
 		"sources": [ "Sargava, the Lost Colony" ],
 		"cost": 5550,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Machete of Clearing",
@@ -6572,8 +6152,7 @@
 		"sources": [ "Kobolds of Golarion" ],
 		"cost": 5901,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Bloatstrike Tail",
@@ -6593,8 +6172,7 @@
 		"sources": [ "Pathfinder #49: The Brinewall Legacy" ],
 		"cost": 5940,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Whispering Shrike",
@@ -6613,8 +6191,7 @@
 		"sources": [ "Pathfinder Comics #12" ],
 		"cost": 6302,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Bonespur Dagger",
@@ -6634,8 +6211,7 @@
 		"sources": [ "Ultimate Equipment" ],
 		"cost": 6308,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Bloodletting Kukri",
@@ -6654,8 +6230,7 @@
 		"sources": [ "Paths of the Righteous" ],
 		"cost": 6320,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Everbloom Thorn",
@@ -6675,8 +6250,7 @@
 		"sources": [ "Inner Sea Gods" ],
 		"cost": 6555,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Inheritor's Light",
@@ -6698,8 +6272,7 @@
 		],
 		"cost": 6812,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 8,
 		"header": [
 			"Boulderhead Mace",
@@ -6718,8 +6291,7 @@
 		"sources": [ "Champions of Balance" ],
 		"cost": 7050,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 5,
 		"header": [
 			"Traitorous Blaster",
@@ -6760,8 +6332,7 @@
 		],
 		"cost": 7300,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 3,
 		"header": [
 			"Beaststrike Club",
@@ -6780,8 +6351,7 @@
 		"sources": [ "Horror Adventures" ],
 		"cost": 7302,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 1,
 		"header": [
 			"Sacrificial Dagger",
@@ -6801,8 +6371,7 @@
 		"sources": [ "Pathfinder #57: Tempest Rising" ],
 		"cost": 7305,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 1,
 		"header": [
 			"Sharpshooterâ€™s Blade",
@@ -6822,8 +6391,7 @@
 		"sources": [ "Ultimate Equipment" ],
 		"cost": 7315,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Fighter's Fork",
@@ -6842,8 +6410,7 @@
 		"sources": [ "Advanced Class Guide" ],
 		"cost": 7320,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Swashbuckler's Rapier",
@@ -6862,8 +6429,7 @@
 		"sources": [ "Inner Sea Gods" ],
 		"cost": 7724,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 3,
 		"header": [
 			"Shooting Starknife",
@@ -6882,8 +6448,7 @@
 		"sources": [ "Ultimate Equipment" ],
 		"cost": 7805,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Everflowing Aspergillum",
@@ -6902,8 +6467,7 @@
 		"sources": [ "Faction Guide" ],
 		"cost": 7806,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 1,
 		"header": [
 			"Midsummer Sickle",
@@ -6922,8 +6486,7 @@
 		"sources": [ "Inner Sea Combat" ],
 		"cost": 7812,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Wanderer's Scarf",
@@ -6944,8 +6507,7 @@
 		"sources": [ "Ultimate Equipment" ],
 		"cost": 7840,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Hurricane Quarterstaff",
@@ -6964,8 +6526,7 @@
 		"sources": [ "Monster Codex" ],
 		"cost": 8000,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "hands",
+		"slot": "hands",
 		"weight": 4,
 		"header": [
 			"Gauntlets of Rending",
@@ -6980,23 +6541,23 @@
 	},
 	"Iomedae's Needle": {
 		"itemname": "Iomedae's Needle",
-		"file": "magicweaponsdisplayddc5.html",
-		"sources": [ "Monster Codex" ],
+		"file": "magicweaponsdisplay20cd.html",
+		"sources": [ "Pathfinder #141: Last Watch" ],
 		"cost": 8016,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "hands",
-		"weight": 4,
+		"slot": "hands",
+		"weight": 10,
 		"header": [
-			"Gauntlets of Rending",
-			"Source ~`Monster Codex pg. 225`~",
-			"Aura faint evocation CL 5th",
-			"Slot hands; Price 8,000 gp; Weight 4 lbs."
+			"Iomedae's Needle",
+			"Source ~`Pathfinder #141: Last Watch pg. 49`~",
+			"Aura strong divination and necromancy CL 18th",
+			"Slot weapon; Price 8,016 gp; Weight 10 lbs."
 		],
 		"description": [
-			"These Large gauntlets are bulky, and the palms and fingers are studded with wickedly serrated spikes. The wearer gains a +2 bonus on damage rolls with its claw attacks; the wearer adds this bonus damage once for each claw attack used in a rend. The crude construction and thick metal used in the gauntlets make it difficult for the wearer to perform fine manipulation. Consequently, the wearer takes a -4 penalty on all Dexterity-based checks involving her hands."
+			"This brilliant mithral ballista bolt radiates a blinding sheen. Its fletching is made of white and gold feathers.",
+			"This +1 light ballista bolt functions as a ~`greater undead slaying arrow`~, except its enchantment is so potent that it deals 50 points of damage even if the saving throw is successful. If the wielder utters the name of his target as the bolt is fired, he gains the benefits of ~`true strike`~ on the attack roll."
 		],
-		"construction": "Requirements Craft Magic Arms and Armor, magic weapon; Price 4,000 gp"
+		"construction": "Requirements ~`Craft Magic Arms and Armor`~, ~`true strike`~, ~`undeath to death`~; Price 4,016 gp"
 	},
 	"Dagger of Venom": {
 		"itemname": "Dagger of Venom",
@@ -7007,8 +6568,7 @@
 		],
 		"cost": 8302,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 1,
 		"header": [
 			"Dagger of Venom",
@@ -7027,8 +6587,7 @@
 		"sources": [ "Advanced Class Origins" ],
 		"cost": 8302,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Daggermark Blade",
@@ -7047,8 +6606,7 @@
 		"sources": [ "People of the North" ],
 		"cost": 8305,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 16,
 		"header": [
 			"Buoyant Harpoon",
@@ -7067,8 +6625,7 @@
 		"sources": [ "Monster Codex" ],
 		"cost": 8305,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 9,
 		"header": [
 			"Cave Dweller's Greataxe",
@@ -7087,8 +6644,7 @@
 		"sources": [ "Inner Sea Races" ],
 		"cost": 8310,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Shadow Cleaver (Elf)",
@@ -7108,8 +6664,7 @@
 		"sources": [ "Melee Tactics Toolbox" ],
 		"cost": 8311,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Akitonian Blade",
@@ -7128,8 +6683,7 @@
 		"sources": [ "Melee Tactics Toolbox" ],
 		"cost": 8315,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 10,
 		"header": [
 			"Leng Flail",
@@ -7149,8 +6703,7 @@
 		"sources": [ "Inner Sea Gods" ],
 		"cost": 8320,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 12,
 		"header": [
 			"Rusting Teeth of the Rough Beast",
@@ -7188,8 +6741,7 @@
 		"sources": [ "Inner Sea Combat" ],
 		"cost": 8350,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 8,
 		"header": [
 			"Shearing Sword",
@@ -7229,8 +6781,7 @@
 		"sources": [ "Spymaster's Handbook" ],
 		"cost": 8500,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0,
 		"header": [
 			"Stirge Lance",
@@ -7253,8 +6804,7 @@
 		],
 		"cost": 8810,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Gloom Blade",
@@ -7273,8 +6823,7 @@
 		"sources": [ "Inner Sea Gods" ],
 		"cost": 8825,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 10,
 		"header": [
 			"Umbral Chain",
@@ -7293,8 +6842,7 @@
 		"sources": [ "Feast of Dust" ],
 		"cost": 8902,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 1,
 		"header": [
 			"Dagger of Repose",
@@ -7316,8 +6864,7 @@
 		],
 		"cost": 9000,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 9,
 		"header": [
 			"Impaler of Thorns",
@@ -7337,8 +6884,7 @@
 		"sources": [ "Inner Sea Temples" ],
 		"cost": 9305,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 1,
 		"header": [
 			"Fist of the Pit",
@@ -7357,8 +6903,7 @@
 		"sources": [ "Inner Sea Combat" ],
 		"cost": 9308,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 1,
 		"header": [
 			"Final Word",
@@ -7379,8 +6924,7 @@
 		"sources": [ "Blood of the Coven" ],
 		"cost": 9312,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 8,
 		"header": [
 			"Battlepot Cauldron",
@@ -7399,8 +6943,7 @@
 		"sources": [ "Inner Sea Gods" ],
 		"cost": 9315,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Stormstrike",
@@ -7419,8 +6962,7 @@
 		"sources": [ "Pathfinder #62: Curse of the Lady's Light" ],
 		"cost": 9320,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Silverfang",
@@ -7440,8 +6982,7 @@
 		"sources": [ "Melee Tactics Toolbox" ],
 		"cost": 9345,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Diplomat's Traveling Stick",
@@ -7460,8 +7001,7 @@
 		"sources": [ "Ultimate Equipment" ],
 		"cost": 9380,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0,
 		"header": [
 			"Frostbite Sling",
@@ -7480,8 +7020,7 @@
 		"sources": [ "Pathfinder #30: The Twice-Damned Prince" ],
 		"cost": 9501,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Fang of Erebus",
@@ -7501,8 +7040,7 @@
 		"sources": [ "Knights of the Inner Sea" ],
 		"cost": 9512,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 10,
 		"header": [
 			"Glaive-Guisarme of the Vanguard",
@@ -7521,8 +7059,7 @@
 		"sources": [ "Villain Codex" ],
 		"cost": 9515,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 10,
 		"header": [
 			"Reaper's Lantern",
@@ -7543,8 +7080,7 @@
 		"sources": [ "Villain Codex" ],
 		"cost": 9615,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 1,
 		"header": [
 			"Cutlass of Waves",
@@ -7563,8 +7099,7 @@
 		"sources": [ "The Harrow Handbook" ],
 		"cost": 9760,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 1,
 		"header": [
 			"Snakebite Dagger",
@@ -7583,8 +7118,7 @@
 		"sources": [ "Giant Hunter's Handbook" ],
 		"cost": 9810,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 3,
 		"header": [
 			"Shrivelblade",
@@ -7606,8 +7140,7 @@
 		],
 		"cost": 9815,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Trident of Stability",
@@ -7626,8 +7159,7 @@
 		"sources": [ "Inner Sea Gods" ],
 		"cost": 9875,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 8,
 		"header": [
 			"Redlust's Daughter",
@@ -7646,8 +7178,7 @@
 		"sources": [ "Melee Tactics Toolbox" ],
 		"cost": 9905,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 25,
 		"header": [
 			"Pirate's Arm",
@@ -7667,8 +7198,7 @@
 		"sources": [ "Inner Sea Races" ],
 		"cost": 9928,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0.5,
 		"header": [
 			"Junkblade (Goblin)",
@@ -7688,8 +7218,7 @@
 		"sources": [ "Undead Slayer's Handbook" ],
 		"cost": 10002,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 1,
 		"header": [
 			"Master's Woe Stiletto",
@@ -7712,8 +7241,7 @@
 		],
 		"cost": 10115,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Trident of Warning",
@@ -7732,8 +7260,7 @@
 		"sources": [ "Villain Codex" ],
 		"cost": 10301,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Balor's Lash",
@@ -7752,8 +7279,7 @@
 		"sources": [ "Weapon Master's Handbook" ],
 		"cost": 10301,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Cailean Fighting Tankard",
@@ -7775,8 +7301,7 @@
 		],
 		"cost": 10302,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 1,
 		"header": [
 			"Assassin's Dagger",
@@ -7795,8 +7320,7 @@
 		"sources": [ "Ultimate Equipment" ],
 		"cost": 10302,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 1,
 		"header": [
 			"Dagger of Doubling",
@@ -7816,8 +7340,7 @@
 		"sources": [ "Pathfinder #50: Night of Frozen Shadows" ],
 		"cost": 10302,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 1,
 		"header": [
 			"Deadly Kiss",
@@ -7857,8 +7380,7 @@
 		"sources": [ "Magical Marketplace" ],
 		"cost": 10302,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Lacerating Rapier",
@@ -7878,8 +7400,7 @@
 		"sources": [ "Ultimate Intrigue" ],
 		"cost": 10302,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 1,
 		"header": [
 			"Serpent's Fang",
@@ -7900,8 +7421,7 @@
 		"sources": [ "Ultimate Intrigue" ],
 		"cost": 10305,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0,
 		"header": [
 			"Courtesan's Ire",
@@ -7921,8 +7441,7 @@
 		"sources": [ "Pathfinder #39: The City of Seven Spears" ],
 		"cost": 10305,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Hammertail",
@@ -7941,8 +7460,7 @@
 		"sources": [ "Inner Sea Gods" ],
 		"cost": 10305,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Hell's Eye",
@@ -7961,8 +7479,7 @@
 		"sources": [ "Advanced Race Guide" ],
 		"cost": 10305,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 1,
 		"header": [
 			"Rending Claw Blade",
@@ -7984,8 +7501,7 @@
 		],
 		"cost": 10305,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Signifer's Fist",
@@ -8004,8 +7520,7 @@
 		"sources": [ "Pathfinder #55: The Wormwood Mutiny" ],
 		"cost": 10305,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 16,
 		"header": [
 			"Vindictive Harpoon",
@@ -8024,8 +7539,7 @@
 		"sources": [ "Merchant's Manifest" ],
 		"cost": 10310,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 3,
 		"header": [
 			"Clicking Blade",
@@ -8044,8 +7558,7 @@
 		"sources": [ "Pathfinder #93: Forge of the Giant God" ],
 		"cost": 10310,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 18,
 		"header": [
 			"Heartspit",
@@ -8064,8 +7577,7 @@
 		"sources": [ "Knights of the Inner Sea" ],
 		"cost": 10310,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 10,
 		"header": [
 			"War Lance",
@@ -8084,8 +7596,7 @@
 		"sources": [ "Pathfinder #56: Raiders of the Fever Sea" ],
 		"cost": 10320,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Brineâ€™s Sting",
@@ -8104,8 +7615,7 @@
 		"sources": [ "Blood of the Night" ],
 		"cost": 10320,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 6,
 		"header": [
 			"Force Net",
@@ -8144,8 +7654,7 @@
 		"sources": [ "Pathfinder #39: The City of Seven Spears" ],
 		"cost": 10320,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Wavecutter",
@@ -8164,8 +7673,7 @@
 		"sources": [ "Ranged Tactics Toolbox" ],
 		"cost": 10330,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Cavalryman's Bow",
@@ -8184,8 +7692,7 @@
 		"sources": [ "Pathfinder #59: The Price of Infamy" ],
 		"cost": 10400,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Skyrocket Crossbow",
@@ -8206,8 +7713,7 @@
 		"sources": [ "Inner Sea Combat" ],
 		"cost": 10453,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 3,
 		"header": [
 			"Wendifisa Spear",
@@ -8228,8 +7734,7 @@
 		"sources": [ "Magical Marketplace" ],
 		"cost": 10530,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Loudshot Pistol",
@@ -8248,8 +7753,7 @@
 		"sources": [ "Ultimate Intrigue" ],
 		"cost": 10550,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Launcher of Distrarction",
@@ -8268,8 +7772,7 @@
 		"sources": [ "Inner Sea Gods" ],
 		"cost": 11035,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Fuming Blood Sabre",
@@ -8288,8 +7791,7 @@
 		"sources": [ "Pathfinder #81: Shifting Sands" ],
 		"cost": 11275,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Swarmbow",
@@ -8330,8 +7832,7 @@
 		"sources": [ "Mythic Adventures" ],
 		"cost": 11308,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 6,
 		"header": [
 			"Pick of Stonecleaving",
@@ -8350,8 +7851,7 @@
 		"sources": [ "Ultimate Equipment" ],
 		"cost": 11315,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 10,
 		"header": [
 			"Earthenflail",
@@ -8373,8 +7873,7 @@
 		],
 		"cost": 11320,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 12,
 		"header": [
 			"Swift Obsidian Greataxe",
@@ -8393,8 +7892,7 @@
 		"sources": [ "Giant Hunter's Handbook" ],
 		"cost": 11330,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 8,
 		"header": [
 			"Axe of Felling",
@@ -8413,8 +7911,7 @@
 		"sources": [ "Ranged Tactics Toolbox" ],
 		"cost": 11400,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 3,
 		"header": [
 			"Bow of Ashes",
@@ -8433,8 +7930,7 @@
 		"sources": [ "Magical Marketplace" ],
 		"cost": 11400,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 3,
 		"header": [
 			"Trailblazor's Spade",
@@ -8453,8 +7949,7 @@
 		"sources": [ "Inner Sea Gods" ],
 		"cost": 11501,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Vengeful Kiss",
@@ -8473,8 +7968,7 @@
 		"sources": [ "Melee Tactics Toolbox" ],
 		"cost": 11508,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 5,
 		"header": [
 			"Goad of Obedience",
@@ -8493,20 +7987,9 @@
 		"sources": [ "Sargava, the Lost Colony" ],
 		"cost": 11550,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
-		"header": [
-			"Machete of Clearing",
-			"Source ~`Sargava, the Lost Colony pg. 29`~",
-			"Aura faint necromancy CL 3rd",
-			"Slot none; Price normal (5,550 gp), animal or plant bane (11,550 gp); Weight 2 lbs."
-		],
-		"description": [
-			"This broad, heavy knife is used to chop through thick undergrowth in the jungle. Once per day on command, this +1 short sword can cast defoliate (see above) to clear vegetation either in a line 60 feet long or in a 10-foot radius spread.",
-			"Explorers used to fighting the jungle's dangerous inhabitants sometimes commission machetes of clearing with either the animal bane or plant bane special abilities. Moderate conjuration; CL 8th."
-		],
-		"construction": "Requirements Craft Magic Arms and Armor, defoliate (plus summon monster I for animal or plant bane; Price 2,930 gp (5,930 gp for animal or plant bane)"
+		"copyof": "Machete of Clearing (normal)"
 	},
 	"Peacekeeping Pistol": {
 		"itemname": "Peacekeeping Pistol",
@@ -8514,8 +7997,7 @@
 		"sources": [ "Inner Sea Combat" ],
 		"cost": 11700,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Peacekeeping Pistol",
@@ -8534,8 +8016,7 @@
 		"sources": [ "Faiths of Balance" ],
 		"cost": 11702,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 1,
 		"header": [
 			"Triple-Stinging Blade (Calistria)",
@@ -8555,8 +8036,7 @@
 		"sources": [ "Animal Archive" ],
 		"cost": 11901,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Tamer's Whip",
@@ -8575,8 +8055,7 @@
 		"sources": [ "Pathfinder #67: The Snows of Summer" ],
 		"cost": 12250,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 1,
 		"header": [
 			"Icicle Wand",
@@ -8595,8 +8074,7 @@
 		"sources": [ "Dirty Tactics Toolbox" ],
 		"cost": 12302,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 1,
 		"header": [
 			"Constrictor's Gauntlets",
@@ -8616,8 +8094,7 @@
 		"sources": [ "Pathfinder #82: Secrets of the Sphinx" ],
 		"cost": 12305,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 3,
 		"header": [
 			"Scorpion Tail Whip",
@@ -8636,8 +8113,7 @@
 		"sources": [ "Ultimate Equipment" ],
 		"cost": 12310,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 10,
 		"header": [
 			"Polarity Hammer",
@@ -8678,8 +8154,7 @@
 		"sources": [ "Pathfinder #104: Wrath of Thrune" ],
 		"cost": 12312,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 5,
 		"header": [
 			"Sinderbos",
@@ -8702,8 +8177,7 @@
 		],
 		"cost": 12350,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 8,
 		"header": [
 			"Blade of Binding",
@@ -8723,8 +8197,7 @@
 		"sources": [ "Pathfinder #92: The Hill Giant's Pledge" ],
 		"cost": 12350,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 8,
 		"header": [
 			"Gorum's Thorn",
@@ -8743,8 +8216,7 @@
 		"sources": [ "Pathfinder #49: The Brinewall Legacy" ],
 		"cost": 12392,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 3,
 		"header": [
 			"Dancing Wasp",
@@ -8763,8 +8235,7 @@
 		"sources": [ "Blood of Shadows" ],
 		"cost": 12500,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0,
 		"header": [
 			"Shadowcraft Weapon",
@@ -8786,8 +8257,7 @@
 		"sources": [ "Inner Sea Gods" ],
 		"cost": 12655,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Fugitive Finder",
@@ -8806,8 +8276,7 @@
 		"sources": [ "Inner Sea Temples" ],
 		"cost": 12700,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "wrists",
+		"slot": "wrists",
 		"weight": 12,
 		"header": [
 			"Nightpiercer",
@@ -8829,8 +8298,7 @@
 		],
 		"cost": 12780,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 10,
 		"header": [
 			"Shifter's Sorrow",
@@ -8849,8 +8317,7 @@
 		"sources": [ "Pathfinder #68: The Shackled Hut" ],
 		"cost": 12806,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Emberchill",
@@ -8869,8 +8336,7 @@
 		"sources": [ "The Harrow Handbook" ],
 		"cost": 13000,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0,
 		"header": [
 			"Deck of Slivering Fate",
@@ -8889,8 +8355,7 @@
 		"sources": [ "Blood of Shadows" ],
 		"cost": 13000,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0,
 		"header": [
 			"Focused Shadowcraft Weapon",
@@ -8909,8 +8374,7 @@
 		"sources": [ "Ultimate Equipment" ],
 		"cost": 13308,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 5,
 		"header": [
 			"Dragoncatch Guisarme",
@@ -8929,8 +8393,7 @@
 		"sources": [ "Pathfinder #63: The Asylum Stone" ],
 		"cost": 13308,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 10,
 		"header": [
 			"Spine Flail",
@@ -8969,8 +8432,7 @@
 		"sources": [ "Pathfinder #116: Fangs of War" ],
 		"cost": 13400,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 3,
 		"header": [
 			"Korrigan Club",
@@ -8989,8 +8451,7 @@
 		"sources": [ "Martial Arts Handbook" ],
 		"cost": 13500,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0,
 		"header": [
 			"Infested Bandages",
@@ -9010,17 +8471,17 @@
 		"cost": 13715,
 		"type": "weapon",
 		"slot": "weapon",
-		"maybeSlot": "armor (Nethys: huh?)",
 		"weight": 2,
 		"header": [
 			"Shadde-Quah Spirit Bolas",
 			"Source ~`Inner Sea Combat pg. 56`~",
 			"Aura faint conjuration CL 5th",
-			"Slot armor (Nethys: huh?); Price 13,715 gp; Weight 2 lbs."
+			"Slot weapon; Price 13,715 gp; Weight 2 lbs."
 		],
 		"description": [
 			"Primarily used by the cliff-dwelling Shoanti of western Varisia's Shadde-Quah clan, a +1 Shoanti bolas is elementally enchanted. Each end of a bolas has its own magical enhancements: one side bears cold magic, and the other bears fire magic. A target damaged by a Shadde-Quah spirit bolas takes an additional 1d3 points of cold damage and 1d3 points of fire damage, as the two weights damage their target as though the weapon had both the flaming and frost special weapon abilities at half their normal effectiveness.",
-			"Once per day as a standard action, the wielder of a Shadde-Quah spirit bolas can utter a prayer to the elements and throw the bolas, causing both ends to crash together mid-flight. The bolas transforms into a roiling ball of water, as the spell aqueous orb (Advanced Player's Guide 202), under the control of the thrower. Once the spell ends, the bolas falls to the ground at the same location the orb ended its movement."
+			"Once per day as a standard action, the wielder of a Shadde-Quah spirit bolas can utter a prayer to the elements and throw the bolas, causing both ends to crash together mid-flight. The bolas transforms into a roiling ball of water, as the spell aqueous orb (Advanced Player's Guide 202), under the control of the thrower. Once the spell ends, the bolas falls to the ground at the same location the orb ended its movement.",
+			"Note: The original book lists this item as fitting into the armor slot."
 		],
 		"construction": "Requirements Craft Magic Arms and Armor, aqueous orb, ray of frost, spark; Price 7,015 gp"
 	},
@@ -9030,8 +8491,7 @@
 		"sources": [ "Inner Sea Combat" ],
 		"cost": 13801,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Greenblood Scourge",
@@ -9051,8 +8511,7 @@
 		"sources": [ "Advanced Class Guide" ],
 		"cost": 13850,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 8,
 		"header": [
 			"Headsman's Blade",
@@ -9092,8 +8551,7 @@
 		"sources": [ "Inner Sea Temples" ],
 		"cost": 14300,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Censuring Placard",
@@ -9112,8 +8570,7 @@
 		"sources": [ "Ultimate Equipment" ],
 		"cost": 14315,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Ten-Ring Sword",
@@ -9133,8 +8590,7 @@
 		"sources": [ "Pathfinder #64: Beyond the Doomsday Door" ],
 		"cost": 14318,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 10,
 		"header": [
 			"Death Bill",
@@ -9153,8 +8609,7 @@
 		"sources": [ "People of the River" ],
 		"cost": 14350,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 8,
 		"header": [
 			"Black Eagle's Blade",
@@ -9173,8 +8628,7 @@
 		"sources": [ "Blood of Shadows" ],
 		"cost": 14500,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0,
 		"header": [
 			"Lashing Shadowcraft Weapon",
@@ -9193,8 +8647,7 @@
 		"sources": [ "Demon Hunter's Handbook" ],
 		"cost": 14702,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 1,
 		"header": [
 			"Dagger of Repossession",
@@ -9214,8 +8667,7 @@
 		"sources": [ "Ultimate Equipment" ],
 		"cost": 15065,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Triton's Trident",
@@ -9234,8 +8686,7 @@
 		"sources": [ "Weapon Master's Handbook" ],
 		"cost": 15302,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 6,
 		"header": [
 			"Spear of the Honored Ancestors",
@@ -9254,8 +8705,7 @@
 		"sources": [ "Agents of Evil" ],
 		"cost": 15310,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Closing Offer",
@@ -9274,8 +8724,7 @@
 		"sources": [ "Melee Tactics Toolbox" ],
 		"cost": 15320,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 8,
 		"header": [
 			"Riddling Khopesh",
@@ -9294,8 +8743,7 @@
 		"sources": [ "Mystery Monsters Revisited" ],
 		"cost": 15330,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Serpentseeker Bow",
@@ -9314,8 +8762,7 @@
 		"sources": [ "Magical Marketplace" ],
 		"cost": 15715,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 3,
 		"header": [
 			"Lizardmarked Blade",
@@ -9338,8 +8785,7 @@
 		],
 		"cost": 16012,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 8,
 		"header": [
 			"Mace of Smiting",
@@ -9359,8 +8805,7 @@
 		"sources": [ "Pathfinder #54: The Empty Throne" ],
 		"cost": 16101,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 1,
 		"header": [
 			"Tsuruhashi, the Silent Crane",
@@ -9379,8 +8824,7 @@
 		"sources": [ "Merchant's Manifest" ],
 		"cost": 16302,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 1,
 		"header": [
 			"Dagger of Black Sands",
@@ -9418,8 +8862,7 @@
 		"sources": [ "Pathfinder #70: The Frozen Stars" ],
 		"cost": 16955,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Rimeblade",
@@ -9440,8 +8883,7 @@
 		"sources": [ "Book of the Damned" ],
 		"cost": 17025,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 10,
 		"header": [
 			"Grasp of Torment",
@@ -9460,8 +8902,7 @@
 		"sources": [ "Advanced Player's Guide" ],
 		"cost": 17315,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Hero's Blade",
@@ -9480,8 +8921,7 @@
 		"sources": [ "Ultimate Equipment" ],
 		"cost": 17820,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Disarming Blade",
@@ -9500,8 +8940,7 @@
 		"sources": [ "Magical Marketplace" ],
 		"cost": 18235,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Sacrificial Sword",
@@ -9520,8 +8959,7 @@
 		"sources": [ "Horror Adventures" ],
 		"cost": 18301,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Hangman's Noose",
@@ -9542,8 +8980,7 @@
 		"sources": [ "Dirty Tactics Toolbox" ],
 		"cost": 18302,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 1,
 		"header": [
 			"Arachnid's Fang",
@@ -9562,8 +8999,7 @@
 		"sources": [ "Ultimate Equipment" ],
 		"cost": 18305,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 3,
 		"header": [
 			"Lash of the Howler",
@@ -9582,8 +9018,7 @@
 		"sources": [ "Lost Treasures" ],
 		"cost": 18305,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 3,
 		"header": [
 			"Tigress's Strand",
@@ -9602,8 +9037,7 @@
 		"sources": [ "Dirty Tactics Toolbox" ],
 		"cost": 18310,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Doppelganger's Sword",
@@ -9625,8 +9059,7 @@
 		],
 		"cost": 18310,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 10,
 		"header": [
 			"Shieldsplitter Lance",
@@ -9664,8 +9097,7 @@
 		"sources": [ "Ranged Tactics Toolbox" ],
 		"cost": 18335,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Mage's Crossbow",
@@ -9684,8 +9116,7 @@
 		"sources": [ "Pathfinder #56: Raiders of the Fever Sea" ],
 		"cost": 18395,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Zul",
@@ -9705,8 +9136,7 @@
 		"sources": [ "Magical Marketplace" ],
 		"cost": 18505,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 3,
 		"header": [
 			"Fleshwarped Scorpion's Tail",
@@ -9726,8 +9156,7 @@
 		"sources": [ "Blood of the Ancients" ],
 		"cost": 18505,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 5,
 		"header": [
 			"Golem Gauntlet",
@@ -9746,8 +9175,7 @@
 		"sources": [ "Pathfinder #50: Night of Frozen Shadows" ],
 		"cost": 18540,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 20,
 		"header": [
 			"Oathtaker",
@@ -9766,8 +9194,7 @@
 		"sources": [ "Antihero's Handbook" ],
 		"cost": 18600,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 8,
 		"header": [
 			"Guns of the Twin Drakes",
@@ -9790,8 +9217,7 @@
 		],
 		"cost": 18650,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Trident of Fish Command",
@@ -9810,8 +9236,7 @@
 		"sources": [ "Inner Sea Races" ],
 		"cost": 18700,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Treekeeper's Staff (Elf)",
@@ -9832,8 +9257,7 @@
 		"sources": [ "Inner Sea Combat" ],
 		"cost": 18830,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 6,
 		"header": [
 			"Steadfast Urumi",
@@ -9852,8 +9276,7 @@
 		"sources": [ "Ultimate Equipment" ],
 		"cost": 19100,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Quarterstaff of Vaulting",
@@ -9873,8 +9296,7 @@
 		"sources": [ "Melee Tactics Toolbox" ],
 		"cost": 19301,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0.5,
 		"header": [
 			"Husk Dart",
@@ -9893,8 +9315,7 @@
 		"sources": [ "Melee Tactics Toolbox" ],
 		"cost": 19305,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 8,
 		"header": [
 			"Dinosaur-Killer",
@@ -9913,8 +9334,7 @@
 		"sources": [ "Inner Sea Combat" ],
 		"cost": 19318,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Purging Falcata",
@@ -9935,8 +9355,7 @@
 		"sources": [ "Mythic Adventures" ],
 		"cost": 19500,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 5,
 		"header": [
 			"Bow of Erastil",
@@ -9955,8 +9374,7 @@
 		"sources": [ "Mythic Adventures" ],
 		"cost": 19502,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 6,
 		"header": [
 			"Skirmishing Spear",
@@ -9975,8 +9393,7 @@
 		"sources": [ "Andoran, Spirit of Liberty" ],
 		"cost": 19515,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 6,
 		"header": [
 			"Talon Sword",
@@ -9995,8 +9412,7 @@
 		"sources": [ "Pathfinder #139: The Dead Road" ],
 		"cost": 19518,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 10,
 		"header": [
 			"Harbinger's Scythe",
@@ -10015,8 +9431,7 @@
 		"sources": [ "Inner Sea Combat" ],
 		"cost": 19725,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 10,
 		"header": [
 			"Shadowbound Chains",
@@ -10036,8 +9451,7 @@
 		"sources": [ "Weapon Master's Handbook" ],
 		"cost": 20050,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 5,
 		"header": [
 			"Shieldmarshal's Pistol",
@@ -10056,8 +9470,7 @@
 		"sources": [ "Pathfinder #60: From Hell's Heart" ],
 		"cost": 20300,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 5,
 		"header": [
 			"Doubleshot Pepperbox",
@@ -10076,8 +9489,7 @@
 		"sources": [ "Ultimate Equipment" ],
 		"cost": 20300,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Firedrake Pistol",
@@ -10099,8 +9511,7 @@
 		],
 		"cost": 20301,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Ricochet Hammer",
@@ -10119,8 +9530,7 @@
 		"sources": [ "Inner Sea Races" ],
 		"cost": 20310,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 6,
 		"header": [
 			"Shields' Bane (Ulfen)",
@@ -10140,8 +9550,7 @@
 		"sources": [ "Weapon Master's Handbook" ],
 		"cost": 20315,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 5,
 		"header": [
 			"Valorous Blade",
@@ -10160,8 +9569,7 @@
 		"sources": [ "Pathfinder #64: Beyond the Doomsday Door" ],
 		"cost": 20324,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Crystalline Starknife",
@@ -10180,8 +9588,7 @@
 		"sources": [ "Down the Blighted Path" ],
 		"cost": 20340,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 18,
 		"header": [
 			"Earthcracker",
@@ -10200,8 +9607,7 @@
 		"sources": [ "Inner Sea Races" ],
 		"cost": 20350,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 3,
 		"header": [
 			"Dueling Bokken (Tengu)",
@@ -10244,8 +9650,7 @@
 		],
 		"cost": 20715,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Flame Tongue",
@@ -10264,8 +9669,7 @@
 		"sources": [ "Pathfinder #58: Island of Empty Eyes" ],
 		"cost": 20925,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Scoundrelâ€™s Sword Cane",
@@ -10285,8 +9689,7 @@
 		"sources": [ "Antihero's Handbook" ],
 		"cost": 21310,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Arrow Slicer",
@@ -10309,8 +9712,7 @@
 		],
 		"cost": 21324,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 3,
 		"header": [
 			"Sparkwake Starknife",
@@ -10329,8 +9731,7 @@
 		"sources": [ "Chronicle of the Righteous" ],
 		"cost": 21324,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 3,
 		"header": [
 			"Starknife of the Void",
@@ -10350,8 +9751,7 @@
 		"sources": [ "Heroes of the Streets" ],
 		"cost": 21335,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 9,
 		"header": [
 			"Cornerstone Crossbow",
@@ -10370,8 +9770,7 @@
 		"sources": [ "Monster Hunter's Handbook" ],
 		"cost": 21802,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 1,
 		"header": [
 			"Bone Bearer's Cutter",
@@ -10393,8 +9792,7 @@
 		],
 		"cost": 21820,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 3,
 		"header": [
 			"Rostland Edge",
@@ -10416,8 +9814,7 @@
 		],
 		"cost": 22060,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Luck Blade",
@@ -10436,8 +9833,7 @@
 		"sources": [ "Seers of the Drowned City" ],
 		"cost": 22105,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 16,
 		"header": [
 			"Leviathan's Terror",
@@ -10460,8 +9856,7 @@
 		],
 		"cost": 22301,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 1,
 		"header": [
 			"Sadist's Lash",
@@ -10480,8 +9875,7 @@
 		"sources": [ "The Harrow Handbook" ],
 		"cost": 22307,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 1,
 		"header": [
 			"Rabbit's Blade",
@@ -10503,8 +9897,7 @@
 		],
 		"cost": 22310,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Sword of Subtlety",
@@ -10545,8 +9938,7 @@
 		],
 		"cost": 22315,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Sword of the Planes",
@@ -10565,8 +9957,7 @@
 		"sources": [ "Horror Adventures" ],
 		"cost": 22325,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 10,
 		"header": [
 			"Hooked Massacre",
@@ -10589,8 +9980,7 @@
 		],
 		"cost": 22375,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 8,
 		"header": [
 			"Fanged Falchion",
@@ -10610,8 +10000,7 @@
 		"sources": [ "Pathfinder #27: What Lies in Dust" ],
 		"cost": 22375,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Felhart",
@@ -10631,8 +10020,7 @@
 		"sources": [ "Knights of the Inner Sea" ],
 		"cost": 22710,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 13,
 		"header": [
 			"Knight-Captain's Lance",
@@ -10651,8 +10039,7 @@
 		"sources": [ "Down the Blighted Path" ],
 		"cost": 23002,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 1,
 		"header": [
 			"Keyhole Stiletto",
@@ -10674,8 +10061,7 @@
 		],
 		"cost": 23057,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Nine Lives Stealer",
@@ -10694,8 +10080,7 @@
 		"sources": [ "Giants Revisited" ],
 		"cost": 23302,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 9,
 		"header": [
 			"Bloodstone Impaler",
@@ -10714,8 +10099,7 @@
 		"sources": [ "Pathfinder #34: Blood for Blood" ],
 		"cost": 23305,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "hands",
+		"slot": "hands",
 		"weight": 1,
 		"header": [
 			"Goreclaw of Thercerrod",
@@ -10738,8 +10122,7 @@
 		],
 		"cost": 23310,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 6,
 		"header": [
 			"Undercutting Axe",
@@ -10758,8 +10141,7 @@
 		"sources": [ "Monster Summoner's Handbook" ],
 		"cost": 23315,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 6,
 		"header": [
 			"Sword of Tempests",
@@ -10778,8 +10160,7 @@
 		"sources": [ "Inner Sea Combat" ],
 		"cost": 23320,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 8,
 		"header": [
 			"Risen Blade",
@@ -10803,8 +10184,7 @@
 		],
 		"cost": 23530,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 3,
 		"header": [
 			"Monastic Warden",
@@ -10824,8 +10204,7 @@
 		"sources": [ "Mystery Monsters Revisited" ],
 		"cost": 24304,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 3,
 		"header": [
 			"Chupar Pick",
@@ -10844,8 +10223,7 @@
 		"sources": [ "Pathfinder #64: Beyond the Doomsday Door" ],
 		"cost": 24310,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 12,
 		"header": [
 			"Flaying Halberd",
@@ -10864,8 +10242,7 @@
 		"sources": [ "Merchant's Manifest" ],
 		"cost": 24315,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Emerald-Eyed Blade",
@@ -10884,8 +10261,7 @@
 		"sources": [ "Mythic Adventures" ],
 		"cost": 24502,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0.5,
 		"header": [
 			"Dagger of a Thousand Bites",
@@ -10905,8 +10281,7 @@
 		"sources": [ "Pathfinder #69: Maiden, Mother, Crone" ],
 		"cost": 24524,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 10,
 		"header": [
 			"Frost-Thunder Hammer",
@@ -10926,8 +10301,7 @@
 		"sources": [ "Undead Slayer's Handbook" ],
 		"cost": 24621,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 3,
 		"header": [
 			"Lady's Spiral",
@@ -10947,8 +10321,7 @@
 		"sources": [ "Second Darkness Player's Guide" ],
 		"cost": 25020,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Luthier's Rapier",
@@ -10969,8 +10342,7 @@
 		"sources": [ "Ultimate Equipment" ],
 		"cost": 25302,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Spirit Caller",
@@ -10989,8 +10361,7 @@
 		"sources": [ "Champions of Balance" ],
 		"cost": 25305,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Slaver's Cane",
@@ -11009,8 +10380,7 @@
 		"sources": [ "Ultimate Equipment" ],
 		"cost": 25312,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 5,
 		"header": [
 			"Dwarfbond Hammer",
@@ -11029,8 +10399,7 @@
 		"sources": [ "Horror Adventures" ],
 		"cost": 25315,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Screaming Blade",
@@ -11051,8 +10420,7 @@
 		"sources": [ "Pathfinder #141: Last Watch" ],
 		"cost": 25320,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Red Crusader's Quill",
@@ -11075,8 +10443,7 @@
 		],
 		"cost": 25600,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 3,
 		"header": [
 			"Oathbow",
@@ -11096,8 +10463,7 @@
 		"sources": [ "Ranged Tactics Toolbox" ],
 		"cost": 25700,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 8,
 		"header": [
 			"Frozen Crossbow",
@@ -11119,8 +10485,7 @@
 		],
 		"cost": 25715,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Sword of Life Stealing",
@@ -11139,8 +10504,7 @@
 		"sources": [ "Pathfinder #53: Tide of Honor" ],
 		"cost": 26000,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 3,
 		"header": [
 			"Daikyu of Commanding Presence",
@@ -11160,8 +10524,7 @@
 		"sources": [ "People of the North" ],
 		"cost": 26302,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 1,
 		"header": [
 			"Shard of Winter",
@@ -11180,8 +10543,7 @@
 		"sources": [ "Elemental Master's Handbook" ],
 		"cost": 26340,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 15,
 		"header": [
 			"Density Hammer",
@@ -11200,8 +10562,7 @@
 		"sources": [ "Inner Sea Combat" ],
 		"cost": 26380,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 7,
 		"header": [
 			"Calistrian Kiss",
@@ -11221,8 +10582,7 @@
 		"sources": [ "Melee Tactics Toolbox" ],
 		"cost": 26616,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 13,
 		"header": [
 			"Dakak's Tusks",
@@ -11242,8 +10602,7 @@
 		"sources": [ "Heroes of the Wild" ],
 		"cost": 26712,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 15,
 		"header": [
 			"Shatterstone Hammer",
@@ -11262,8 +10621,7 @@
 		"sources": [ "Daughters of Fury" ],
 		"cost": 26900,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 3,
 		"header": [
 			"Angelfall Bow",
@@ -11284,8 +10642,7 @@
 		"sources": [ "Pathfinder #82: Secrets of the Sphinx" ],
 		"cost": 27000,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Scimitar of the Striking Wing",
@@ -11324,8 +10681,7 @@
 		"sources": [ "Inner Sea Races" ],
 		"cost": 28008,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 6,
 		"header": [
 			"Mount-Splitting Pick (Dwarf)",
@@ -11345,8 +10701,7 @@
 		"sources": [ "Adventurer's Guide" ],
 		"cost": 28015,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Rose Knight's Blade",
@@ -11367,8 +10722,7 @@
 		"sources": [ "Magical Marketplace" ],
 		"cost": 28312,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 5,
 		"header": [
 			"Marrowcracker",
@@ -11387,8 +10741,7 @@
 		"sources": [ "Pathfinder #52: Forest of Spirits" ],
 		"cost": 28415,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 9,
 		"header": [
 			"The Thundering Blade of the House of Sugimatu",
@@ -11409,8 +10762,7 @@
 		"sources": [ "Inner Sea Temples" ],
 		"cost": 28550,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Vaultbow",
@@ -11430,8 +10782,7 @@
 		"sources": [ "Pathfinder #51: The Hungry Storm" ],
 		"cost": 28800,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Nine-Fold Spirit Sword",
@@ -11455,8 +10806,7 @@
 		"sources": [ "Dragonslayer's Handbook" ],
 		"cost": 28940,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 6,
 		"header": [
 			"Net of Snaring",
@@ -11475,8 +10825,7 @@
 		"sources": [ "Ranged Tactics Toolbox" ],
 		"cost": 29101,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Tenacious Atlatl Dart",
@@ -11495,8 +10844,7 @@
 		"sources": [ "Faction Guide" ],
 		"cost": 29110,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 10,
 		"header": [
 			"Crowcaller",
@@ -11515,8 +10863,7 @@
 		"sources": [ "Pathfinder #53: Tide of Honor" ],
 		"cost": 29902,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Dragonmaw Nunchaku",
@@ -11536,8 +10883,7 @@
 		"sources": [ "Tombs of Golarion" ],
 		"cost": 30000,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 10,
 		"header": [
 			"Hearthhammer",
@@ -11556,8 +10902,7 @@
 		"sources": [ "Advanced Race Guide" ],
 		"cost": 30302,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "hands",
+		"slot": "hands",
 		"weight": 1,
 		"header": [
 			"Gauntlets of Skill at Arms",
@@ -11576,8 +10921,7 @@
 		"sources": [ "Adventurer's Guide" ],
 		"cost": 30320,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 6,
 		"header": [
 			"Devil Catcher",
@@ -11596,8 +10940,7 @@
 		"sources": [ "Advanced Class Guide" ],
 		"cost": 30320,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Rapier of Battlefield Movement",
@@ -11616,8 +10959,7 @@
 		"sources": [ "Martial Arts Handbook" ],
 		"cost": 30320,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 10,
 		"header": [
 			"Wandering Punishment",
@@ -11637,8 +10979,7 @@
 		"sources": [ "Pathfinder #75: Demon's Heresy" ],
 		"cost": 30400,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 3,
 		"header": [
 			"Starbow",
@@ -11657,8 +10998,7 @@
 		"sources": [ "Lost Treasures" ],
 		"cost": 32065,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Pale Maiden",
@@ -11677,8 +11017,7 @@
 		"sources": [ "Mystery Monsters Revisited" ],
 		"cost": 32301,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Mokele-Mbembe Tail Whip",
@@ -11697,8 +11036,7 @@
 		"sources": [ "Seers of the Drowned City" ],
 		"cost": 32310,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Blade of the Ice Stalker",
@@ -11717,8 +11055,7 @@
 		"sources": [ "Dragonslayer's Handbook" ],
 		"cost": 32310,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 12,
 		"header": [
 			"Dragon's Tail",
@@ -11740,8 +11077,7 @@
 		],
 		"cost": 32310,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 10,
 		"header": [
 			"Mammoth Lance",
@@ -11761,8 +11097,7 @@
 		"sources": [ "Monster Codex" ],
 		"cost": 32315,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 10,
 		"header": [
 			"Serpent-Necked Flail",
@@ -11781,8 +11116,7 @@
 		"sources": [ "Inner Sea Races" ],
 		"cost": 32320,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Gentleman's Foil (Taldan)",
@@ -11802,8 +11136,7 @@
 		"sources": [ "Chronicle of the Righteous" ],
 		"cost": 32350,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 8,
 		"header": [
 			"Sword of Vengeance",
@@ -11822,8 +11155,7 @@
 		"sources": [ "Pathfinder #60: From Hell's Heart" ],
 		"cost": 32700,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 12,
 		"header": [
 			"Crossbow of Retribution",
@@ -11842,8 +11174,7 @@
 		"sources": [ "Horror Adventures" ],
 		"cost": 32870,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 3,
 		"header": [
 			"Murderer's Machete",
@@ -11863,8 +11194,7 @@
 		"sources": [ "Mythic Adventures" ],
 		"cost": 33315,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Fire Goddess's Blade",
@@ -11884,8 +11214,7 @@
 		"sources": [ "Pathfinder #71: Rasputin Must Die!" ],
 		"cost": 33800,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 140,
 		"header": [
 			"Maxim of Suppressive Fire",
@@ -11904,8 +11233,7 @@
 		"sources": [ "Adventurer's Guide" ],
 		"cost": 33835,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 3,
 		"header": [
 			"Talonstrike Sword",
@@ -11924,8 +11252,7 @@
 		"sources": [ "Ultimate Equipment" ],
 		"cost": 33910,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Cutthroat's Apprentice",
@@ -11944,8 +11271,7 @@
 		"sources": [ "Seers of the Drowned City" ],
 		"cost": 34335,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 6,
 		"header": [
 			"Wolflord's Fang",
@@ -11965,8 +11291,7 @@
 		"sources": [ "Inner Sea Combat" ],
 		"cost": 34800,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Quarterstaff of Contemplation",
@@ -11986,8 +11311,7 @@
 		"sources": [ "Agents of Evil" ],
 		"cost": 34800,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 9,
 		"header": [
 			"Withershot",
@@ -12006,8 +11330,7 @@
 		"sources": [ "Inner Sea Races" ],
 		"cost": 35005,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 16,
 		"header": [
 			"Errani Kamaki (Gillmen)",
@@ -12027,8 +11350,7 @@
 		"sources": [ "Inner Sea Races" ],
 		"cost": 35304,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 3,
 		"header": [
 			"Hunter's Mambele (Mwangi)",
@@ -12048,8 +11370,7 @@
 		"sources": [ "Ultimate Equipment" ],
 		"cost": 35312,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 5,
 		"header": [
 			"Ghoul's Lament",
@@ -12068,8 +11389,7 @@
 		"sources": [ "Inner Sea Races" ],
 		"cost": 35315,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Scalerazor (Azlanti)",
@@ -12089,8 +11409,7 @@
 		"sources": [ "Advanced Class Guide" ],
 		"cost": 35320,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Duelist's Comate",
@@ -12109,8 +11428,7 @@
 		"sources": [ "Blood of Shadows" ],
 		"cost": 36000,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0,
 		"header": [
 			"Enervative Shadowcraft Weapon",
@@ -12129,8 +11447,7 @@
 		"sources": [ "Ultimate Intrigue" ],
 		"cost": 36302,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 1,
 		"header": [
 			"Mind's Eye Blade",
@@ -12150,8 +11467,7 @@
 		"sources": [ "Magical Marketplace" ],
 		"cost": 36305,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Channeler's Aspergillum",
@@ -12172,8 +11488,7 @@
 		"sources": [ "Ranged Tactics Toolbox" ],
 		"cost": 36320,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 3,
 		"header": [
 			"Avalanche Sling Staff",
@@ -12192,8 +11507,7 @@
 		"sources": [ "Inner Sea Combat" ],
 		"cost": 36324,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 3,
 		"header": [
 			"Hunter's Starknife",
@@ -12212,8 +11526,7 @@
 		"sources": [ "Champions of Purity" ],
 		"cost": 37550,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 5,
 		"header": [
 			"Seraphic Pistol",
@@ -12232,8 +11545,7 @@
 		"sources": [ "Mythic Adventures" ],
 		"cost": 38000,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 12,
 		"header": [
 			"Brutal Axe",
@@ -12253,8 +11565,7 @@
 		"sources": [ "Pathfinder #39: The City of Seven Spears" ],
 		"cost": 38302,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 1,
 		"header": [
 			"Savage Sting",
@@ -12273,8 +11584,7 @@
 		"sources": [ "Mythic Adventures" ],
 		"cost": 38312,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 10,
 		"header": [
 			"Chaos Hammer",
@@ -12293,8 +11603,7 @@
 		"sources": [ "Ultimate Intrigue" ],
 		"cost": 38335,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Silent Sentry Crossbow",
@@ -12314,8 +11623,7 @@
 		"sources": [ "Adventurer's Guide" ],
 		"cost": 38480,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Banshee's Howl",
@@ -12339,8 +11647,7 @@
 		],
 		"cost": 38552,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 8,
 		"header": [
 			"Mace of Terror",
@@ -12359,19 +11666,8 @@
 		"sources": [ "Andoran, Spirit of Liberty" ],
 		"cost": 38715,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
-		"weight": 6,
-		"header": [
-			"Talon Sword",
-			"Source ~`Andoran, Spirit of Liberty pg. 26`~",
-			"Aura moderate abjuration CL 8th",
-			"Slot none; Price normal (19,515 gp), talonstrike (38,715 gp); Weight 6 lbs."
-		],
-		"description": [
-			"Weapons like this alchemical silver +2 defending bastard sword are favored blades of the Eagle Knights. Easily recognized by its notched blades and golden quillons crafted like upswept eagle wings, its defending ability also protects the wielder's mount. Wealthier Eagle Knights who frequently skirmish on the western border against Chelish fiends sometimes have their swords crafted with the ability to cast dimensional anchor on the target as a free action upon a successful hit; these modified blades are called talonstrike swords."
-		],
-		"construction": "Requirements Craft Magic Arms and Armor, dimensional anchor (talonstrike), shield or shield of faith, shield other; Price 10,015 gp (19,615 for talonstrike)"
+		"slot": "none",
+		"copyof": "Talon Sword (normal)"
 	},
 	"Hellscourge": {
 		"itemname": "Hellscourge",
@@ -12379,8 +11675,7 @@
 		"sources": [ "Ultimate Equipment" ],
 		"cost": 39305,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 3,
 		"header": [
 			"Hellscourge",
@@ -12400,8 +11695,7 @@
 		"sources": [ "Down the Blighted Path" ],
 		"cost": 39515,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Ice Fang",
@@ -12421,8 +11715,7 @@
 		"sources": [ "Ultimate Equipment" ],
 		"cost": 40310,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 12,
 		"header": [
 			"Dragon's Doom",
@@ -12441,8 +11734,7 @@
 		"sources": [ "Monster Codex" ],
 		"cost": 40310,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 6,
 		"header": [
 			"Frostblood Axe",
@@ -12464,8 +11756,7 @@
 		],
 		"cost": 40320,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 12,
 		"header": [
 			"Life Drinker",
@@ -12485,8 +11776,7 @@
 		"sources": [ "Lost Treasures" ],
 		"cost": 40372,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Trailwalker",
@@ -12506,8 +11796,7 @@
 		"sources": [ "Ultimate Equipment" ],
 		"cost": 41335,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 6,
 		"header": [
 			"Valor's Minion",
@@ -12526,8 +11815,7 @@
 		"sources": [ "Dirty Tactics Toolbox" ],
 		"cost": 41535,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Shade Bow",
@@ -12546,8 +11834,7 @@
 		"sources": [ "Melee Tactics Toolbox" ],
 		"cost": 42350,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Infecting Spike",
@@ -12568,8 +11855,7 @@
 		"sources": [ "Pathfinder #84: Pyramid of the Sky Pharaoh" ],
 		"cost": 42400,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Staff of the Hooded Cobra",
@@ -12588,8 +11874,7 @@
 		"sources": [ "Ultimate Equipment" ],
 		"cost": 42816,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 10,
 		"header": [
 			"Summoner's Sorrow",
@@ -12609,8 +11894,7 @@
 		"sources": [ "Pathfinder Comics #12" ],
 		"cost": 43375,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 7,
 		"header": [
 			"Jackal's Blade",
@@ -12629,8 +11913,7 @@
 		"sources": [ "Blood of Shadows" ],
 		"cost": 45125,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0,
 		"header": [
 			"Feast of Rats",
@@ -12650,8 +11933,7 @@
 		"sources": [ "Undead Slayer's Handbook" ],
 		"cost": 45310,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 6,
 		"header": [
 			"Axe of Forced Life",
@@ -12671,8 +11953,7 @@
 		"sources": [ "Weapon Master's Handbook" ],
 		"cost": 47315,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Crusader's Longsword",
@@ -12694,8 +11975,7 @@
 		],
 		"cost": 47315,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Sylvan Scimitar",
@@ -12717,8 +11997,7 @@
 		],
 		"cost": 48502,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 1,
 		"header": [
 			"Spirit Blade",
@@ -12737,8 +12016,7 @@
 		"sources": [ "Pathfinder #34: Blood for Blood" ],
 		"cost": 50302,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Chada's Harpoon",
@@ -12758,8 +12036,7 @@
 		"sources": [ "Ultimate Equipment" ],
 		"cost": 50302,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 6,
 		"header": [
 			"Heartswood Spear",
@@ -12781,8 +12058,7 @@
 		],
 		"cost": 50302,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 1,
 		"header": [
 			"Traitor's Blade",
@@ -12801,8 +12077,7 @@
 		"sources": [ "Inner Sea Temples" ],
 		"cost": 50312,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 8,
 		"header": [
 			"Mace of Keys",
@@ -12822,20 +12097,8 @@
 		"sources": [ "Melee Tactics Toolbox" ],
 		"cost": 50315,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
-		"weight": 10,
-		"header": [
-			"Leng Flail",
-			"Source ~`Melee Tactics Toolbox pg. 25`~",
-			"Aura moderate transmutation (lesser) or moderate transmutation and enchantment (greater) CL 6th",
-			"Slot none; Price lesser (8,315 gp), greater (50,315 gp); Weight 10 lbs."
-		],
-		"description": [
-			"The immense and inscrutable Leng spiders are known to construct makeshift flails by linking nearby debris, such as rocks or skulls, with their own extruded web fibers. Although this organic webbing typically degrades over time, skillful alchemy can preserve one of these weapons indefinitely.",
-			"A lesser Leng flail is a +1 heavy flail that allows its wielder to use spider climb at will. Much less common are greater Leng flails, which are +2 throwing heavy flails that have the same spider climb ability of the lesser flail. In addition, when the wielder of a greater Leng flail confirms a critical hit against a creature, the target suffers horrific hallucinations for 1d4 rounds, becoming confused (Will DC 19 negates). This is a mind-affecting effect."
-		],
-		"construction": "Requirements Craft Magic Arms and Armor; spider climb (lesser) or confusion, magic stone, spider climb (greater); Price 4,315 gp (lesser), 25,315 gp (greater)"
+		"slot": "none",
+		"copyof": "Leng Flail (lesser)"
 	},
 	"Rapier of Puncturing": {
 		"itemname": "Rapier of Puncturing",
@@ -12846,8 +12109,7 @@
 		],
 		"cost": 50320,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Rapier of Puncturing",
@@ -12869,8 +12131,7 @@
 		],
 		"cost": 50335,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Sun Blade",
@@ -12891,8 +12152,7 @@
 		"sources": [ "Inner Sea Races" ],
 		"cost": 50340,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 14,
 		"header": [
 			"Storval's Thunder (Shoanti)",
@@ -12912,8 +12172,7 @@
 		"sources": [ "Inner Sea Races" ],
 		"cost": 50350,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 8,
 		"header": [
 			"True Warrior's Blade (Kellid)",
@@ -12933,8 +12192,7 @@
 		"sources": [ "Mythic Adventures" ],
 		"cost": 50375,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 3,
 		"header": [
 			"Dragonbreath Bow",
@@ -12953,8 +12211,7 @@
 		"sources": [ "Pathfinder #60: From Hell's Heart" ],
 		"cost": 51300,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Enervating Pistol",
@@ -12973,8 +12230,7 @@
 		"sources": [ "Ultimate Equipment" ],
 		"cost": 51850,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 6,
 		"header": [
 			"Blade of the Rising Sun",
@@ -12995,8 +12251,7 @@
 		"sources": [ "Lost Kingdoms" ],
 		"cost": 52118,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 10,
 		"header": [
 			"Rotcarver",
@@ -13015,8 +12270,7 @@
 		"sources": [ "Champions of Purity" ],
 		"cost": 53000,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Rythius, the Kyton Scourge",
@@ -13036,8 +12290,7 @@
 		"sources": [ "Heroes from the Fringe" ],
 		"cost": 53801,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 3,
 		"header": [
 			"Farspear",
@@ -13056,8 +12309,7 @@
 		"sources": [ "Weapon Master's Handbook" ],
 		"cost": 54400,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 3,
 		"header": [
 			"Windreader's Bow",
@@ -13079,8 +12331,7 @@
 		],
 		"cost": 54475,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 8,
 		"header": [
 			"Frost Brand",
@@ -13100,8 +12351,7 @@
 		"sources": [ "Pathfinder #76: The Midnight Isles" ],
 		"cost": 54735,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Stalker's Crossbow",
@@ -13120,8 +12370,7 @@
 		"sources": [ "Blood of the Coven" ],
 		"cost": 55330,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Pactseeker's Blade",
@@ -13140,8 +12389,7 @@
 		"sources": [ "Agents of Evil" ],
 		"cost": 57320,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Snakebite",
@@ -13160,8 +12408,7 @@
 		"sources": [ "Lost Treasures" ],
 		"cost": 58615,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Talmandor Blade",
@@ -13180,8 +12427,7 @@
 		"sources": [ "Down the Blighted Path" ],
 		"cost": 58800,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 3,
 		"header": [
 			"Depth Charger",
@@ -13201,8 +12447,7 @@
 		"sources": [ "Ranged Tactics Toolbox" ],
 		"cost": 59700,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 8,
 		"header": [
 			"Thorn Bow",
@@ -13221,8 +12466,7 @@
 		"sources": [ "Blood of Shadows" ],
 		"cost": 60000,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0,
 		"header": [
 			"Torment of the Midnight Lord",
@@ -13242,8 +12486,7 @@
 		"sources": [ "Inner Sea Temples" ],
 		"cost": 60302,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 1,
 		"header": [
 			"Hateful Sting",
@@ -13265,8 +12508,7 @@
 		],
 		"cost": 60312,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 5,
 		"header": [
 			"Dwarven Thrower",
@@ -13285,8 +12527,7 @@
 		"sources": [ "Inner Sea Races" ],
 		"cost": 60320,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 3,
 		"header": [
 			"Clever Sling Staff (Halfling)",
@@ -13306,8 +12547,7 @@
 		"sources": [ "Ultimate Equipment" ],
 		"cost": 60802,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 1,
 		"header": [
 			"Bloodthirst Dagger",
@@ -13327,8 +12567,7 @@
 		"sources": [ "Inner Sea Combat" ],
 		"cost": 61340,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 14,
 		"header": [
 			"Earth Breaker of Righted Injustice",
@@ -13347,8 +12586,7 @@
 		"sources": [ "Ultimate Equipment" ],
 		"cost": 61375,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 8,
 		"header": [
 			"Warbringer",
@@ -13367,8 +12605,7 @@
 		"sources": [ "Ranged Tactics Toolbox" ],
 		"cost": 62302,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 1,
 		"header": [
 			"Skulking Sniper's Blowgun",
@@ -13390,19 +12627,8 @@
 		],
 		"cost": 62360,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
-		"weight": 2,
-		"header": [
-			"Luck Blade",
-			"Source ~`Ultimate Equipment pg. 157`~, ~`PRPG Core Rulebook pg. 471`~",
-			"Aura strong evocation CL 17th",
-			"Slot none; Price 0 wishes (22,060 gp), 1 wish (62,360 gp), 2 wishes (102,660 gp), 3 wishes (142,960 gp); Weight 2 lbs."
-		],
-		"description": [
-			"This +2 short sword gives its possessor a +1 luck bonus on all saving throws. Its possessor also gains the power of good fortune, usable once per day. This extraordinary ability allows its possessor to reroll one roll that she just made, before the results are revealed. She must take the result of the reroll, even if it's worse than the original roll. In addition, a luck blade may contain up to three wishes (when randomly rolled, a luck blade holds 1d4-1 wishes, minimum 0). When the last wish is used, the sword remains a +2 short sword, still grants the +1 luck bonus, and still grants its reroll power."
-		],
-		"construction": "Requirements Craft Magic Arms and Armor, miracle or wish; Price 11,185 gp (0 wishes), 43,835 gp (1 wish), 76,485 gp (2 wishes), 109,135 gp (3 wishes)"
+		"slot": "none",
+		"copyof": "Luck Blade (0 wishes)"
 	},
 	"Hourglass Quarterstaff": {
 		"itemname": "Hourglass Quarterstaff",
@@ -13410,8 +12636,7 @@
 		"sources": [ "Melee Tactics Toolbox" ],
 		"cost": 63300,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Hourglass Quarterstaff",
@@ -13430,8 +12655,7 @@
 		"sources": [ "Pathfinder #76: The Midnight Isles" ],
 		"cost": 63312,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 25,
 		"header": [
 			"Blancher",
@@ -13450,8 +12674,7 @@
 		"sources": [ "Pathfinder #34: Blood for Blood" ],
 		"cost": 63312,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 5,
 		"header": [
 			"MolvÃ«nn",
@@ -13474,8 +12697,7 @@
 		],
 		"cost": 65310,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Guarding Blade",
@@ -13497,8 +12719,7 @@
 		],
 		"cost": 65575,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Crimson Bluff",
@@ -13518,8 +12739,7 @@
 		"sources": [ "Champions of Purity" ],
 		"cost": 66750,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 5,
 		"header": [
 			"Devil's Key",
@@ -13538,8 +12758,7 @@
 		"sources": [ "Pathfinder #54: The Empty Throne" ],
 		"cost": 67500,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 8,
 		"header": [
 			"Karusetsu, the Cutting Light",
@@ -13558,8 +12777,7 @@
 		"sources": [ "Osirion, Land of the Pharaohs" ],
 		"cost": 70000,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "hand",
+		"slot": "hands",
 		"weight": 5,
 		"header": [
 			"Crook of the Ancient Serpent",
@@ -13600,8 +12818,7 @@
 		"sources": [ "Mythic Adventures" ],
 		"cost": 71600,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Spellbreaker",
@@ -13620,19 +12837,8 @@
 		"sources": [ "Lost Treasures" ],
 		"cost": 72365,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
-		"weight": 4,
-		"header": [
-			"Pale Maiden",
-			"Source ~`Lost Treasures pg. 46`~",
-			"Aura strong evocation CL 17th",
-			"Slot none; Price 0 wishes (32,065 gp), 1 wish (72,365 gp), 2 wishes (112,665 gp), 3 wishes (152,965 gp); Weight 4 lbs."
-		],
-		"description": [
-			"This +3 longsword is a variant luck blade (Pathfinder RPG Ultimate Equipment 157). It grants its wielder a +1 luck bonus on all saving throws. Once per day, its possessor can reroll one d20 roll that he just made, before the results of the original roll are revealed. He must take the results of the reroll, even if they are worse. This reroll power is an extraordinary ability. Finally, Pale Maiden can hold up to three wishes, as a luck blade. When the last wish is used, Pale Maiden remains a +3 longsword, still grants the +1 luck bonus on saving throws, and still grants the daily use of its reroll power."
-		],
-		"construction": "Requirements Craft Magic Arms and Armor, miracle or wish; Price 16,190 gp (0 wishes), 48,840 gp (1 wish), 81,490 gp (2 wishes), 114,140 gp (3 wishes)"
+		"slot": "none",
+		"copyof": "Pale Maiden (0 wishes)"
 	},
 	"Pistol of the Infinite Sky": {
 		"itemname": "Pistol of the Infinite Sky",
@@ -13640,8 +12846,7 @@
 		"sources": [ "Ultimate Equipment" ],
 		"cost": 73300,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Pistol of the Infinite Sky",
@@ -13660,8 +12865,7 @@
 		"sources": [ "Classic Treasures Revisited" ],
 		"cost": 75000,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 8,
 		"header": [
 			"Executioner's Hand",
@@ -13683,20 +12887,8 @@
 		],
 		"cost": 75312,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
-		"weight": 8,
-		"header": [
-			"Mace of Smiting",
-			"Source ~`Ultimate Equipment pg. 157`~, ~`PRPG Core Rulebook pg. 471`~",
-			"Aura moderate transmutation CL 7th (lesser), 11th (normal)",
-			"Slot none; Price lesser (16,012 gp), normal (75,312 gp); Weight 8 lbs."
-		],
-		"description": [
-			"A lesser mace of smiting is a +1 adamantine heavy mace with a +3 enhancement bonus against constructs. When it deals a successful critical hit to a construct, it deals ??4 damage rather than ??2. A critical hit dealt to an outsider deals ??3 damage rather than ??2.",
-			"A mace of smiting is a +3 adamantine heavy mace has a +5 enhancement bonus against constructs. When it deals a successful critical hit to a construct, it completely destroys the construct (no saving throw). A critical hit dealt to an outsider deals ??4 damage rather than ??2."
-		],
-		"construction": "Requirements Craft Magic Arms and Armor, disintegrate; Price 9,512 gp (lesser), 39,312 gp (normal)"
+		"slot": "none",
+		"copyof": "Mace of Smiting (lesser)"
 	},
 	"Spiteful Scimitar": {
 		"itemname": "Spiteful Scimitar",
@@ -13704,8 +12896,7 @@
 		"sources": [ "Pathfinder #119: Prisoners of the Blight" ],
 		"cost": 75315,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Spiteful Scimitar",
@@ -13724,8 +12915,7 @@
 		"sources": [ "Ultimate Equipment" ],
 		"cost": 75350,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 6,
 		"header": [
 			"Blade of the Sword-Saint",
@@ -13745,8 +12935,7 @@
 		"sources": [ "Ultimate Equipment" ],
 		"cost": 75815,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Scimitar of the Spellthief",
@@ -13765,8 +12954,7 @@
 		"sources": [ "Horror Adventures" ],
 		"cost": 78310,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 3,
 		"header": [
 			"Murderer's Machete, Greater",
@@ -13785,8 +12973,7 @@
 		"sources": [ "Ultimate Equipment" ],
 		"cost": 79102,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 1,
 		"header": [
 			"Spider's Fang",
@@ -13805,8 +12992,7 @@
 		"sources": [ "Pathfinder #120: Vault of the Onyx Citadel" ],
 		"cost": 80000,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 5,
 		"header": [
 			"Hammer of Seismic Assault",
@@ -13825,8 +13011,7 @@
 		"sources": [ "Advanced Player's Guide" ],
 		"cost": 80318,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 10,
 		"header": [
 			"Reaver's Scythe",
@@ -13845,8 +13030,7 @@
 		"sources": [ "Pathfinder #126: Beyond the Veiled Past" ],
 		"cost": 82000,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 8,
 		"header": [
 			"Cerebrum Drill",
@@ -13867,8 +13051,7 @@
 		"sources": [ "Ranged Tactics Toolbox" ],
 		"cost": 87300,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 8,
 		"header": [
 			"Shockwave Blunderbuss",
@@ -13890,8 +13073,7 @@
 		],
 		"cost": 90000,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 8,
 		"header": [
 			"Rixbrand",
@@ -13912,8 +13094,7 @@
 		"sources": [ "Pathfinder #54: The Empty Throne" ],
 		"cost": 90308,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 3,
 		"header": [
 			"Ikarikurusai, the Raging Cyclone",
@@ -13932,8 +13113,7 @@
 		"sources": [ "Horror Adventures" ],
 		"cost": 90320,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 12,
 		"header": [
 			"Boneshaking Cleaver",
@@ -13952,8 +13132,7 @@
 		"sources": [ "The Moonscar" ],
 		"cost": 90335,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 6,
 		"header": [
 			"Iron Lash",
@@ -13973,8 +13152,7 @@
 		"sources": [ "Ultimate Equipment" ],
 		"cost": 90469,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 7,
 		"header": [
 			"Demonsorrow Curve Blade",
@@ -13993,8 +13171,7 @@
 		"sources": [ "Ultimate Equipment" ],
 		"cost": 95318,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 10,
 		"header": [
 			"Void Scythe",
@@ -14014,8 +13191,7 @@
 		"sources": [ "Mythic Adventures" ],
 		"cost": 96600,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Shadow Spike",
@@ -14035,8 +13211,7 @@
 		"sources": [ "Mythic Adventures" ],
 		"cost": 98300,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 5,
 		"header": [
 			"Gun with No Name",
@@ -14055,8 +13230,7 @@
 		"sources": [ "Mythic Adventures" ],
 		"cost": 98302,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 6,
 		"header": [
 			"Stormcaller",
@@ -14076,8 +13250,7 @@
 		"sources": [ "Pathfinder #72: The Witch Queen's Revenge" ],
 		"cost": 98320,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 36,
 		"header": [
 			"Labrys of the Stone Idol",
@@ -14099,19 +13272,8 @@
 		],
 		"cost": 102660,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
-		"weight": 2,
-		"header": [
-			"Luck Blade",
-			"Source ~`Ultimate Equipment pg. 157`~, ~`PRPG Core Rulebook pg. 471`~",
-			"Aura strong evocation CL 17th",
-			"Slot none; Price 0 wishes (22,060 gp), 1 wish (62,360 gp), 2 wishes (102,660 gp), 3 wishes (142,960 gp); Weight 2 lbs."
-		],
-		"description": [
-			"This +2 short sword gives its possessor a +1 luck bonus on all saving throws. Its possessor also gains the power of good fortune, usable once per day. This extraordinary ability allows its possessor to reroll one roll that she just made, before the results are revealed. She must take the result of the reroll, even if it's worse than the original roll. In addition, a luck blade may contain up to three wishes (when randomly rolled, a luck blade holds 1d4-1 wishes, minimum 0). When the last wish is used, the sword remains a +2 short sword, still grants the +1 luck bonus, and still grants its reroll power."
-		],
-		"construction": "Requirements Craft Magic Arms and Armor, miracle or wish; Price 11,185 gp (0 wishes), 43,835 gp (1 wish), 76,485 gp (2 wishes), 109,135 gp (3 wishes)"
+		"slot": "none",
+		"copyof": "Luck Blade (0 wishes)"
 	},
 	"Shadow's Touch": {
 		"itemname": "Shadow's Touch",
@@ -14119,8 +13281,7 @@
 		"sources": [ "Mythic Adventures" ],
 		"cost": 102962,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0.5,
 		"header": [
 			"Shadow's Touch",
@@ -14140,8 +13301,7 @@
 		"sources": [ "Blood of the Moon" ],
 		"cost": 109665,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Trident of the Storm Captain",
@@ -14161,19 +13321,8 @@
 		"sources": [ "Lost Treasures" ],
 		"cost": 112665,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
-		"weight": 4,
-		"header": [
-			"Pale Maiden",
-			"Source ~`Lost Treasures pg. 46`~",
-			"Aura strong evocation CL 17th",
-			"Slot none; Price 0 wishes (32,065 gp), 1 wish (72,365 gp), 2 wishes (112,665 gp), 3 wishes (152,965 gp); Weight 4 lbs."
-		],
-		"description": [
-			"This +3 longsword is a variant luck blade (Pathfinder RPG Ultimate Equipment 157). It grants its wielder a +1 luck bonus on all saving throws. Once per day, its possessor can reroll one d20 roll that he just made, before the results of the original roll are revealed. He must take the results of the reroll, even if they are worse. This reroll power is an extraordinary ability. Finally, Pale Maiden can hold up to three wishes, as a luck blade. When the last wish is used, Pale Maiden remains a +3 longsword, still grants the +1 luck bonus on saving throws, and still grants the daily use of its reroll power."
-		],
-		"construction": "Requirements Craft Magic Arms and Armor, miracle or wish; Price 16,190 gp (0 wishes), 48,840 gp (1 wish), 81,490 gp (2 wishes), 114,140 gp (3 wishes)"
+		"slot": "none",
+		"copyof": "Pale Maiden (0 wishes)"
 	},
 	"Master's Lash": {
 		"itemname": "Master's Lash",
@@ -14203,8 +13352,7 @@
 		],
 		"cost": 120630,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Holy Avenger",
@@ -14224,8 +13372,7 @@
 		"sources": [ "Ultimate Equipment" ],
 		"cost": 123035,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 6,
 		"header": [
 			"Bastard's Sting",
@@ -14245,8 +13392,7 @@
 		"sources": [ "Classic Treasures Revisited" ],
 		"cost": 128300,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 2,
 		"header": [
 			"Frostkiss Whip",
@@ -14268,19 +13414,8 @@
 		],
 		"cost": 142960,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
-		"weight": 2,
-		"header": [
-			"Luck Blade",
-			"Source ~`Ultimate Equipment pg. 157`~, ~`PRPG Core Rulebook pg. 471`~",
-			"Aura strong evocation CL 17th",
-			"Slot none; Price 0 wishes (22,060 gp), 1 wish (62,360 gp), 2 wishes (102,660 gp), 3 wishes (142,960 gp); Weight 2 lbs."
-		],
-		"description": [
-			"This +2 short sword gives its possessor a +1 luck bonus on all saving throws. Its possessor also gains the power of good fortune, usable once per day. This extraordinary ability allows its possessor to reroll one roll that she just made, before the results are revealed. She must take the result of the reroll, even if it's worse than the original roll. In addition, a luck blade may contain up to three wishes (when randomly rolled, a luck blade holds 1d4-1 wishes, minimum 0). When the last wish is used, the sword remains a +2 short sword, still grants the +1 luck bonus, and still grants its reroll power."
-		],
-		"construction": "Requirements Craft Magic Arms and Armor, miracle or wish; Price 11,185 gp (0 wishes), 43,835 gp (1 wish), 76,485 gp (2 wishes), 109,135 gp (3 wishes)"
+		"slot": "none",
+		"copyof": "Luck Blade (0 wishes)"
 	},
 	"Blade of the Willing Martyr": {
 		"itemname": "Blade of the Willing Martyr",
@@ -14288,8 +13423,7 @@
 		"sources": [ "Seekers of Secrets" ],
 		"cost": 150000,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "chest",
+		"slot": "chest",
 		"weight": 1,
 		"header": [
 			"Blade of the Willing Martyr",
@@ -14310,8 +13444,7 @@
 		"sources": [ "Classic Treasures Revisited" ],
 		"cost": 150320,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 24,
 		"header": [
 			"Jorngarl's Harm",
@@ -14330,8 +13463,7 @@
 		"sources": [ "Mythic Adventures" ],
 		"cost": 151315,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Sword of Inner Fire",
@@ -14351,19 +13483,8 @@
 		"sources": [ "Lost Treasures" ],
 		"cost": 152965,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
-		"weight": 4,
-		"header": [
-			"Pale Maiden",
-			"Source ~`Lost Treasures pg. 46`~",
-			"Aura strong evocation CL 17th",
-			"Slot none; Price 0 wishes (32,065 gp), 1 wish (72,365 gp), 2 wishes (112,665 gp), 3 wishes (152,965 gp); Weight 4 lbs."
-		],
-		"description": [
-			"This +3 longsword is a variant luck blade (Pathfinder RPG Ultimate Equipment 157). It grants its wielder a +1 luck bonus on all saving throws. Once per day, its possessor can reroll one d20 roll that he just made, before the results of the original roll are revealed. He must take the results of the reroll, even if they are worse. This reroll power is an extraordinary ability. Finally, Pale Maiden can hold up to three wishes, as a luck blade. When the last wish is used, Pale Maiden remains a +3 longsword, still grants the +1 luck bonus on saving throws, and still grants the daily use of its reroll power."
-		],
-		"construction": "Requirements Craft Magic Arms and Armor, miracle or wish; Price 16,190 gp (0 wishes), 48,840 gp (1 wish), 81,490 gp (2 wishes), 114,140 gp (3 wishes)"
+		"slot": "none",
+		"copyof": "Pale Maiden (0 wishes)"
 	},
 	"Ghost Iron Scimitar": {
 		"itemname": "Ghost Iron Scimitar",
@@ -14371,8 +13492,7 @@
 		"sources": [ "Pathfinder #66: The Dead Heart of Xin" ],
 		"cost": 162315,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 8,
 		"header": [
 			"Ghost Iron Scimitar",
@@ -14392,8 +13512,7 @@
 		"sources": [ "Ranged Tactics Toolbox" ],
 		"cost": 180375,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 3,
 		"header": [
 			"Arrow Splitter",
@@ -14431,8 +13550,7 @@
 		"sources": [ "Pathfinder #60: From Hell's Heart" ],
 		"cost": 184500,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 0,
 		"header": [
 			"Sirocco Cannon",
@@ -14451,8 +13569,7 @@
 		"sources": [ "Mythic Adventures" ],
 		"cost": 202630,
 		"type": "weapon",
-		"slot": "weapon",
-		"maybeSlot": "none",
+		"slot": "none",
 		"weight": 4,
 		"header": [
 			"Sacred Avenger",
