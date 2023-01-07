@@ -2,7 +2,7 @@
 	"Advancing": {
 		"itemname": "Advancing",
 		"file": "magicarmordisplaybd39.html",
-		"sources": [ "Armor Master's Handbook pg. 28" ],
+		"sources": [ "Armor Master's Handbook" ],
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "armor quality",
@@ -22,8 +22,8 @@
 		"itemname": "Balanced",
 		"file": "magicarmordisplay8917.html",
 		"sources": [
-			"Armor Master's Handbook pg. 26",
-			"Ultimate Equipment pg. 115"
+			"Armor Master's Handbook",
+			"Ultimate Equipment"
 		],
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
@@ -43,7 +43,7 @@
 	"Benevolent": {
 		"itemname": "Benevolent",
 		"file": "magicarmordisplay7b1c.html",
-		"sources": [ "Ultimate Equipment pg. 115" ],
+		"sources": [ "Ultimate Equipment" ],
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "armor quality",
@@ -62,7 +62,7 @@
 	"Billowing": {
 		"itemname": "Billowing",
 		"file": "magicarmordisplay4846.html",
-		"sources": [ "Planar Adventures pg. 46" ],
+		"sources": [ "Planar Adventures" ],
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "armor quality",
@@ -82,8 +82,8 @@
 		"itemname": "Bitter",
 		"file": "magicarmordisplay08b4.html",
 		"sources": [
-			"Ultimate Equipment pg. 115",
-			"Pathfinder Society Field Guide pg. 50"
+			"Ultimate Equipment",
+			"Pathfinder Society Field Guide"
 		],
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
@@ -104,7 +104,7 @@
 	"Bolstering": {
 		"itemname": "Bolstering",
 		"file": "magicarmordisplay0517.html",
-		"sources": [ "Ultimate Equipment pg. 116" ],
+		"sources": [ "Ultimate Equipment" ],
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "armor quality",
@@ -123,7 +123,7 @@
 	"Calming": {
 		"itemname": "Calming",
 		"file": "magicarmordisplay5baa.html",
-		"sources": [ "Advanced Class Guide pg. 209" ],
+		"sources": [ "Advanced Class Guide" ],
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "armor quality",
@@ -143,8 +143,8 @@
 		"itemname": "Champion",
 		"file": "magicarmordisplay52f4.html",
 		"sources": [
-			"Ultimate Equipment pg. 116",
-			"Advanced Player's Guide pg. 283"
+			"Ultimate Equipment",
+			"Advanced Player's Guide"
 		],
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
@@ -164,7 +164,7 @@
 	"Cocooning": {
 		"itemname": "Cocooning",
 		"file": "magicarmordisplaye924.html",
-		"sources": [ "Planar Adventures pg. 46" ],
+		"sources": [ "Planar Adventures" ],
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "armor quality",
@@ -183,7 +183,7 @@
 	"Crusading": {
 		"itemname": "Crusading",
 		"file": "magicarmordisplay77af.html",
-		"sources": [ "Advanced Class Origins pg. 28" ],
+		"sources": [ "Advanced Class Origins" ],
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "armor quality",
@@ -203,8 +203,8 @@
 		"itemname": "Dastard",
 		"file": "magicarmordisplay022e.html",
 		"sources": [
-			"Ultimate Equipment pg. 116",
-			"Advanced Player's Guide pg. 283"
+			"Ultimate Equipment",
+			"Advanced Player's Guide"
 		],
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
@@ -224,7 +224,7 @@
 	"Deathless": {
 		"itemname": "Deathless",
 		"file": "magicarmordisplaydb9c.html",
-		"sources": [ "Ultimate Equipment pg. 116" ],
+		"sources": [ "Ultimate Equipment" ],
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "armor quality",
@@ -243,7 +243,7 @@
 	"Defiant": {
 		"itemname": "Defiant",
 		"file": "magicarmordisplayd4a7.html",
-		"sources": [ "Ultimate Equipment pg. 116" ],
+		"sources": [ "Ultimate Equipment" ],
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "armor/shield quality",
@@ -262,7 +262,7 @@
 	"Evolving": {
 		"itemname": "Evolving",
 		"file": "magicarmordisplaye3e7.html",
-		"sources": [ "Melee Tactics Toolbox pg. 26" ],
+		"sources": [ "Melee Tactics Toolbox" ],
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "armor quality",
@@ -282,8 +282,8 @@
 		"itemname": "Fortification (light)",
 		"file": "magicarmordisplay7af0.html",
 		"sources": [
-			"Ultimate Equipment pg. 118",
-			"PRPG Core Rulebook pg. 463"
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
 		],
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
@@ -303,7 +303,7 @@
 	"Grinding": {
 		"itemname": "Grinding",
 		"file": "magicarmordisplay474d.html",
-		"sources": [ "Ultimate Equipment pg. 119" ],
+		"sources": [ "Ultimate Equipment" ],
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "armor/shield quality",
@@ -322,7 +322,7 @@
 	"Impervious": {
 		"itemname": "Impervious",
 		"file": "magicarmordisplay25e9.html",
-		"sources": [ "Ultimate Equipment pg. 119" ],
+		"sources": [ "Ultimate Equipment" ],
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "armor/shield quality",
@@ -341,7 +341,7 @@
 	"Mirrored": {
 		"itemname": "Mirrored",
 		"file": "magicarmordisplayfb55.html",
-		"sources": [ "Ultimate Equipment pg. 120" ],
+		"sources": [ "Ultimate Equipment" ],
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "armor/shield quality",
@@ -360,7 +360,7 @@
 	"Poisoning": {
 		"itemname": "Poisoning",
 		"file": "magicarmordisplay68e3.html",
-		"sources": [ "Magical Marketplace pg. 27" ],
+		"sources": [ "Magical Marketplace" ],
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "armor quality",
@@ -379,7 +379,7 @@
 	"Resonating": {
 		"itemname": "Resonating",
 		"file": "magicarmordisplay888b.html",
-		"sources": [ "Mythic Adventures pg. 142" ],
+		"sources": [ "Mythic Adventures" ],
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "armor quality",
@@ -398,7 +398,7 @@
 	"Spell Storing": {
 		"itemname": "Spell Storing",
 		"file": "magicarmordisplayc4e1.html",
-		"sources": [ "Ultimate Equipment pg. 122" ],
+		"sources": [ "Ultimate Equipment" ],
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "armor quality",
@@ -417,7 +417,7 @@
 	"Spellsink": {
 		"itemname": "Spellsink",
 		"file": "magicarmordisplay3041.html",
-		"sources": [ "Dirty Tactics Toolbox pg. 24" ],
+		"sources": [ "Dirty Tactics Toolbox" ],
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "armor/shield quality",
@@ -436,7 +436,7 @@
 	"Stanching": {
 		"itemname": "Stanching",
 		"file": "magicarmordisplay83e5.html",
-		"sources": [ "Ultimate Equipment pg. 122" ],
+		"sources": [ "Ultimate Equipment" ],
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "armor quality",
@@ -455,7 +455,7 @@
 	"Terrain-striding": {
 		"itemname": "Terrain-striding",
 		"file": "magicarmordisplay4e9b.html",
-		"sources": [ "Armor Master's Handbook pg. 27" ],
+		"sources": [ "Armor Master's Handbook" ],
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "armor quality",
@@ -474,7 +474,7 @@
 	"Trapwarding": {
 		"itemname": "Trapwarding",
 		"file": "magicarmordisplay5d8c.html",
-		"sources": [ "Pathfinder Society Field Guide pg. 50" ],
+		"sources": [ "Pathfinder Society Field Guide" ],
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "armor quality",
@@ -493,7 +493,7 @@
 	"Vouchsafing": {
 		"itemname": "Vouchsafing",
 		"file": "magicarmordisplayb70e.html",
-		"sources": [ "Advanced Class Guide pg. 210" ],
+		"sources": [ "Advanced Class Guide" ],
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "armor quality",
@@ -512,7 +512,7 @@
 	"Warding": {
 		"itemname": "Warding",
 		"file": "magicarmordisplayae0e.html",
-		"sources": [ "Ultimate Equipment pg. 123" ],
+		"sources": [ "Ultimate Equipment" ],
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "armor quality",
@@ -531,7 +531,7 @@
 	"Withstanding": {
 		"itemname": "Withstanding",
 		"file": "magicarmordisplayb611.html",
-		"sources": [ "Armor Master's Handbook pg. 27" ],
+		"sources": [ "Armor Master's Handbook" ],
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "armor quality",
@@ -550,7 +550,7 @@
 	"Buoyant (light armor)": {
 		"itemname": "Buoyant (light armor)",
 		"file": "magicarmordisplay6c0c.html",
-		"sources": [ "Magical Marketplace pg. 9" ],
+		"sources": [ "Magical Marketplace" ],
 		"costAdditional": 1000,
 		"type": "modification",
 		"slot": "armor/shield quality",
@@ -569,7 +569,7 @@
 	"Cushioned": {
 		"itemname": "Cushioned",
 		"file": "magicarmordisplay62b1.html",
-		"sources": [ "Armor Master's Handbook pg. 24" ],
+		"sources": [ "Armor Master's Handbook" ],
 		"costAdditional": 1000,
 		"type": "modification",
 		"slot": "armor quality",
@@ -588,7 +588,7 @@
 	"Buoyant (medium/heavy armor)": {
 		"itemname": "Buoyant (medium/heavy armor)",
 		"file": "magicarmordisplaya1bf.html",
-		"sources": [ "Magical Marketplace pg. 9" ],
+		"sources": [ "Magical Marketplace" ],
 		"costAdditional": 2000,
 		"type": "modification",
 		"slot": "armor/shield quality",
@@ -597,7 +597,7 @@
 	"Fitting": {
 		"itemname": "Fitting",
 		"file": "magicarmordisplay643b.html",
-		"sources": [ "Giant Hunter's Handbook pg. 33" ],
+		"sources": [ "Giant Hunter's Handbook" ],
 		"costAdditional": 2000,
 		"type": "modification",
 		"slot": "armor/shield quality",
@@ -616,7 +616,7 @@
 	"Poison-Resistant": {
 		"itemname": "Poison-Resistant",
 		"file": "magicarmordisplayeb9d.html",
-		"sources": [ "Ultimate Equipment pg. 121" ],
+		"sources": [ "Ultimate Equipment" ],
 		"costAdditional": 2250,
 		"type": "modification",
 		"slot": "armor/shield quality",
@@ -636,8 +636,8 @@
 		"itemname": "Glamered",
 		"file": "magicarmordisplay8e76.html",
 		"sources": [
-			"Ultimate Equipment pg. 119",
-			"PRPG Core Rulebook pg. 463"
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
 		],
 		"costAdditional": 2700,
 		"type": "modification",
@@ -657,7 +657,7 @@
 	"Mental Focus": {
 		"itemname": "Mental Focus",
 		"file": "magicarmordisplay14bc.html",
-		"sources": [ "Armor Master's Handbook pg. 26" ],
+		"sources": [ "Armor Master's Handbook" ],
 		"costAdditional": 3000,
 		"type": "modification",
 		"slot": "armor quality",
@@ -676,7 +676,7 @@
 	"Aquadynamic": {
 		"itemname": "Aquadynamic",
 		"file": "magicarmordisplay95ff.html",
-		"sources": [ "Aquatic Adventures pg. 62" ],
+		"sources": [ "Aquatic Adventures" ],
 		"costAdditional": 3750,
 		"type": "modification",
 		"slot": "armor quality",
@@ -696,8 +696,8 @@
 		"itemname": "Jousting",
 		"file": "magicarmordisplay18c3.html",
 		"sources": [
-			"Ultimate Equipment pg. 120",
-			"Advanced Player's Guide pg. 283"
+			"Ultimate Equipment",
+			"Advanced Player's Guide"
 		],
 		"costAdditional": 3750,
 		"type": "modification",
@@ -718,8 +718,8 @@
 		"itemname": "Shadow",
 		"file": "magicarmordisplay372c.html",
 		"sources": [
-			"Ultimate Equipment pg. 121",
-			"PRPG Core Rulebook pg. 463"
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
 		],
 		"costAdditional": 3750,
 		"type": "modification",
@@ -740,8 +740,8 @@
 		"itemname": "Slick",
 		"file": "magicarmordisplay4bf1.html",
 		"sources": [
-			"Ultimate Equipment pg. 122",
-			"PRPG Core Rulebook pg. 463"
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
 		],
 		"costAdditional": 3750,
 		"type": "modification",
@@ -761,7 +761,7 @@
 	"Adamant": {
 		"itemname": "Adamant",
 		"file": "magicarmordisplaydf3f.html",
-		"sources": [ "Dirty Tactics Toolbox pg. 24" ],
+		"sources": [ "Dirty Tactics Toolbox" ],
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
 		"slot": "armor quality",
@@ -780,7 +780,7 @@
 	"Bloodthirsty": {
 		"itemname": "Bloodthirsty",
 		"file": "magicarmordisplay4e68.html",
-		"sources": [ "Agents of Evil pg. 26" ],
+		"sources": [ "Agents of Evil" ],
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
 		"slot": "armor quality",
@@ -799,7 +799,7 @@
 	"Frosted": {
 		"itemname": "Frosted",
 		"file": "magicarmordisplay4668.html",
-		"sources": [ "Melee Tactics Toolbox pg. 26" ],
+		"sources": [ "Melee Tactics Toolbox" ],
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
 		"slot": "armor/shield quality",
@@ -818,7 +818,7 @@
 	"Ghost Spike": {
 		"itemname": "Ghost Spike",
 		"file": "magicarmordisplay5885.html",
-		"sources": [ "Dirty Tactics Toolbox pg. 24" ],
+		"sources": [ "Dirty Tactics Toolbox" ],
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
 		"slot": "armor quality",
@@ -837,7 +837,7 @@
 	"Jarring": {
 		"itemname": "Jarring",
 		"file": "magicarmordisplay9597.html",
-		"sources": [ "Advanced Class Guide pg. 210" ],
+		"sources": [ "Advanced Class Guide" ],
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
 		"slot": "armor/shield quality",
@@ -856,7 +856,7 @@
 	"Mind Buttressing": {
 		"itemname": "Mind Buttressing",
 		"file": "magicarmordisplay68d5.html",
-		"sources": [ "Magical Marketplace pg. 7" ],
+		"sources": [ "Magical Marketplace" ],
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
 		"slot": "armor quality",
@@ -875,7 +875,7 @@
 	"Phantasmal": {
 		"itemname": "Phantasmal",
 		"file": "magicarmordisplayd124.html",
-		"sources": [ "Armor Master's Handbook pg. 24" ],
+		"sources": [ "Armor Master's Handbook" ],
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
 		"slot": "armor quality",
@@ -894,7 +894,7 @@
 	"Rampaging": {
 		"itemname": "Rampaging",
 		"file": "magicarmordisplayf935.html",
-		"sources": [ "Armor Master's Handbook pg. 28" ],
+		"sources": [ "Armor Master's Handbook" ],
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
 		"slot": "armor quality",
@@ -913,7 +913,7 @@
 	"Shadow Blending": {
 		"itemname": "Shadow Blending",
 		"file": "magicarmordisplay598b.html",
-		"sources": [ "Planar Adventures pg. 46" ],
+		"sources": [ "Planar Adventures" ],
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
 		"slot": "armor quality",
@@ -932,7 +932,7 @@
 	"Spell Dodging": {
 		"itemname": "Spell Dodging",
 		"file": "magicarmordisplaya879.html",
-		"sources": [ "Advanced Class Guide pg. 210" ],
+		"sources": [ "Advanced Class Guide" ],
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
 		"slot": "armor quality",
@@ -952,8 +952,8 @@
 		"itemname": "Spell Resistance (13)",
 		"file": "magicarmordisplay3a8d.html",
 		"sources": [
-			"Ultimate Equipment pg. 122",
-			"PRPG Core Rulebook pg. 463"
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
 		],
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
@@ -973,7 +973,7 @@
 	"Steaming": {
 		"itemname": "Steaming",
 		"file": "magicarmordisplay4deb.html",
-		"sources": [ "Monster Codex pg. 57" ],
+		"sources": [ "Monster Codex" ],
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
 		"slot": "armor quality",
@@ -994,7 +994,7 @@
 	"Volcanic": {
 		"itemname": "Volcanic",
 		"file": "magicarmordisplay0b95.html",
-		"sources": [ "Melee Tactics Toolbox pg. 26" ],
+		"sources": [ "Melee Tactics Toolbox" ],
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
 		"slot": "armor quality",
@@ -1013,7 +1013,7 @@
 	"Burdenless": {
 		"itemname": "Burdenless",
 		"file": "magicarmordisplayb3d3.html",
-		"sources": [ "Advanced Class Guide pg. 209" ],
+		"sources": [ "Advanced Class Guide" ],
 		"costAdditional": 4000,
 		"type": "modification",
 		"slot": "armor quality",
@@ -1032,7 +1032,7 @@
 	"Expeditious": {
 		"itemname": "Expeditious",
 		"file": "magicarmordisplay93d3.html",
-		"sources": [ "Ultimate Equipment pg. 118" ],
+		"sources": [ "Ultimate Equipment" ],
 		"costAdditional": 4000,
 		"type": "modification",
 		"slot": "armor quality",
@@ -1051,7 +1051,7 @@
 	"Amorphous": {
 		"itemname": "Amorphous",
 		"file": "magicarmordisplay11c6.html",
-		"sources": [ "Advanced Class Guide pg. 209" ],
+		"sources": [ "Advanced Class Guide" ],
 		"costAdditional": 4500,
 		"type": "modification",
 		"slot": "armor quality",
@@ -1070,7 +1070,7 @@
 	"Restful": {
 		"itemname": "Restful",
 		"file": "magicarmordisplay45d5.html",
-		"sources": [ "Advanced Class Guide pg. 210" ],
+		"sources": [ "Advanced Class Guide" ],
 		"costAdditional": 4500,
 		"type": "modification",
 		"slot": "armor quality",
@@ -1089,7 +1089,7 @@
 	"Cloudburst": {
 		"itemname": "Cloudburst",
 		"file": "magicarmordisplayab37.html",
-		"sources": [ "Advanced Race Guide pg. 160" ],
+		"sources": [ "Advanced Race Guide" ],
 		"costAdditional": 5000,
 		"type": "modification",
 		"slot": "armor quality",
@@ -1108,7 +1108,7 @@
 	"Comfort": {
 		"itemname": "Comfort",
 		"file": "magicarmordisplay4722.html",
-		"sources": [ "Pathfinder Society Field Guide pg. 50" ],
+		"sources": [ "Pathfinder Society Field Guide" ],
 		"costAdditional": 5000,
 		"type": "modification",
 		"slot": "armor quality",
@@ -1127,7 +1127,7 @@
 	"Corsair": {
 		"itemname": "Corsair",
 		"file": "magicarmordisplayc521.html",
-		"sources": [ "Advanced Class Origins pg. 28" ],
+		"sources": [ "Advanced Class Origins" ],
 		"costAdditional": 5000,
 		"type": "modification",
 		"slot": "armor quality",
@@ -1146,7 +1146,7 @@
 	"Creeping": {
 		"itemname": "Creeping",
 		"file": "magicarmordisplay4ef4.html",
-		"sources": [ "Ultimate Equipment pg. 116" ],
+		"sources": [ "Ultimate Equipment" ],
 		"costAdditional": 5000,
 		"type": "modification",
 		"slot": "armor quality",
@@ -1165,7 +1165,7 @@
 	"Deceiving": {
 		"itemname": "Deceiving",
 		"file": "magicarmordisplay57f1.html",
-		"sources": [ "Agents of Evil pg. 26" ],
+		"sources": [ "Agents of Evil" ],
 		"costAdditional": 5000,
 		"type": "modification",
 		"slot": "armor quality",
@@ -1184,7 +1184,7 @@
 	"Malevolent": {
 		"itemname": "Malevolent",
 		"file": "magicarmordisplaya998.html",
-		"sources": [ "Agents of Evil pg. 26" ],
+		"sources": [ "Agents of Evil" ],
 		"costAdditional": 5000,
 		"type": "modification",
 		"slot": "armor quality",
@@ -1203,7 +1203,7 @@
 	"Rallying": {
 		"itemname": "Rallying",
 		"file": "magicarmordisplay575a.html",
-		"sources": [ "Ultimate Equipment pg. 121" ],
+		"sources": [ "Ultimate Equipment" ],
 		"costAdditional": 5000,
 		"type": "modification",
 		"slot": "armor/shield quality",
@@ -1222,7 +1222,7 @@
 	"Spirit-bonded": {
 		"itemname": "Spirit-bonded",
 		"file": "magicarmordisplay2882.html",
-		"sources": [ "Armor Master's Handbook pg. 26" ],
+		"sources": [ "Armor Master's Handbook" ],
 		"costAdditional": 6000,
 		"type": "modification",
 		"slot": "armor quality",
@@ -1241,7 +1241,7 @@
 	"Locksmith": {
 		"itemname": "Locksmith",
 		"file": "magicarmordisplayab02.html",
-		"sources": [ "Armor Master's Handbook pg. 24" ],
+		"sources": [ "Armor Master's Handbook" ],
 		"costAdditional": 6500,
 		"type": "modification",
 		"slot": "armor quality",
@@ -1260,7 +1260,7 @@
 	"Adhesive": {
 		"itemname": "Adhesive",
 		"file": "magicarmordisplayd9d2.html",
-		"sources": [ "Ultimate Equipment pg. 114" ],
+		"sources": [ "Ultimate Equipment" ],
 		"costAdditional": 7000,
 		"type": "modification",
 		"slot": "armor quality",
@@ -1279,7 +1279,7 @@
 	"Spiteful": {
 		"itemname": "Spiteful",
 		"file": "magicarmordisplayfeef.html",
-		"sources": [ "Advanced Class Guide pg. 210" ],
+		"sources": [ "Advanced Class Guide" ],
 		"costAdditional": 7000,
 		"type": "modification",
 		"slot": "armor quality",
@@ -1298,7 +1298,7 @@
 	"Hosteling": {
 		"itemname": "Hosteling",
 		"file": "magicarmordisplay747e.html",
-		"sources": [ "Ultimate Equipment pg. 119" ],
+		"sources": [ "Ultimate Equipment" ],
 		"costAdditional": 7500,
 		"type": "modification",
 		"slot": "armor/shield quality",
@@ -1320,7 +1320,7 @@
 	"Radiant": {
 		"itemname": "Radiant",
 		"file": "magicarmordisplay999b.html",
-		"sources": [ "Ultimate Equipment pg. 121" ],
+		"sources": [ "Ultimate Equipment" ],
 		"costAdditional": 7500,
 		"type": "modification",
 		"slot": "armor/shield quality",
@@ -1339,7 +1339,7 @@
 	"Trackless": {
 		"itemname": "Trackless",
 		"file": "magicarmordisplay161b.html",
-		"sources": [ "Advanced Class Guide pg. 210" ],
+		"sources": [ "Advanced Class Guide" ],
 		"costAdditional": 7500,
 		"type": "modification",
 		"slot": "armor quality",
@@ -1358,7 +1358,7 @@
 	"Arrow-collecting": {
 		"itemname": "Arrow-collecting",
 		"file": "magicarmordisplayf58c.html",
-		"sources": [ "Armor Master's Handbook pg. 26" ],
+		"sources": [ "Armor Master's Handbook" ],
 		"effectiveBonusAdjustment": 3,
 		"type": "modification",
 		"slot": "armor quality",
@@ -1377,7 +1377,7 @@
 	"Brawling": {
 		"itemname": "Brawling",
 		"file": "magicarmordisplay9eee.html",
-		"sources": [ "Ultimate Equipment pg. 116" ],
+		"sources": [ "Ultimate Equipment" ],
 		"effectiveBonusAdjustment": 3,
 		"type": "modification",
 		"slot": "armor quality",
@@ -1396,7 +1396,7 @@
 	"Cotraveling": {
 		"itemname": "Cotraveling",
 		"file": "magicarmordisplay6bf9.html",
-		"sources": [ "Planar Adventures pg. 46" ],
+		"sources": [ "Planar Adventures" ],
 		"effectiveBonusAdjustment": 3,
 		"type": "modification",
 		"slot": "armor quality",
@@ -1416,8 +1416,8 @@
 		"itemname": "Fortification (moderate)",
 		"file": "magicarmordisplaya46e.html",
 		"sources": [
-			"Ultimate Equipment pg. 118",
-			"PRPG Core Rulebook pg. 463"
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
 		],
 		"effectiveBonusAdjustment": 3,
 		"type": "modification",
@@ -1438,8 +1438,8 @@
 		"itemname": "Ghost Touch",
 		"file": "magicarmordisplay58b9.html",
 		"sources": [
-			"Ultimate Equipment pg. 119",
-			"PRPG Core Rulebook pg. 463"
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
 		],
 		"effectiveBonusAdjustment": 3,
 		"type": "modification",
@@ -1460,8 +1460,8 @@
 		"itemname": "Invulnerability",
 		"file": "magicarmordisplaya65a.html",
 		"sources": [
-			"Ultimate Equipment pg. 120",
-			"PRPG Core Rulebook pg. 463"
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
 		],
 		"effectiveBonusAdjustment": 3,
 		"type": "modification",
@@ -1481,7 +1481,7 @@
 	"Sensing": {
 		"itemname": "Sensing",
 		"file": "magicarmordisplaydd5e.html",
-		"sources": [ "Advanced Class Guide pg. 210" ],
+		"sources": [ "Advanced Class Guide" ],
 		"effectiveBonusAdjustment": 3,
 		"type": "modification",
 		"slot": "armor quality",
@@ -1501,8 +1501,8 @@
 		"itemname": "Spell Resistance (15)",
 		"file": "magicarmordisplay2e04.html",
 		"sources": [
-			"Ultimate Equipment pg. 122",
-			"PRPG Core Rulebook pg. 463"
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
 		],
 		"effectiveBonusAdjustment": 3,
 		"type": "modification",
@@ -1522,7 +1522,7 @@
 	"Titanic": {
 		"itemname": "Titanic",
 		"file": "magicarmordisplay858d.html",
-		"sources": [ "Ultimate Equipment pg. 122" ],
+		"sources": [ "Ultimate Equipment" ],
 		"effectiveBonusAdjustment": 3,
 		"type": "modification",
 		"slot": "armor quality",
@@ -1542,8 +1542,8 @@
 		"itemname": "Wild",
 		"file": "magicarmordisplay1577.html",
 		"sources": [
-			"Ultimate Equipment pg. 123",
-			"PRPG Core Rulebook pg. 463"
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
 		],
 		"effectiveBonusAdjustment": 3,
 		"type": "modification",
@@ -1563,7 +1563,7 @@
 	"Phase Lurching": {
 		"itemname": "Phase Lurching",
 		"file": "magicarmordisplayfa39.html",
-		"sources": [ "Armor Master's Handbook pg. 24" ],
+		"sources": [ "Armor Master's Handbook" ],
 		"costAdditional": 9100,
 		"type": "modification",
 		"slot": "armor quality",
@@ -1583,8 +1583,8 @@
 		"itemname": "Delving",
 		"file": "magicarmordisplayd2f8.html",
 		"sources": [
-			"Ultimate Equipment pg. 117",
-			"Dungeon Denizens Revisited pg. 7"
+			"Ultimate Equipment",
+			"Dungeon Denizens Revisited"
 		],
 		"costAdditional": 10000,
 		"type": "modification",
@@ -1604,7 +1604,7 @@
 	"Putrid": {
 		"itemname": "Putrid",
 		"file": "magicarmordisplayc558.html",
-		"sources": [ "Ultimate Equipment pg. 121" ],
+		"sources": [ "Ultimate Equipment" ],
 		"costAdditional": 10000,
 		"type": "modification",
 		"slot": "armor quality",
@@ -1623,7 +1623,7 @@
 	"Harmonizing": {
 		"itemname": "Harmonizing",
 		"file": "magicarmordisplay4a32.html",
-		"sources": [ "Ultimate Equipment pg. 119" ],
+		"sources": [ "Ultimate Equipment" ],
 		"costAdditional": 15000,
 		"type": "modification",
 		"slot": "armor quality",
@@ -1644,7 +1644,7 @@
 	"Improved Aquadynamic": {
 		"itemname": "Improved Aquadynamic",
 		"file": "magicarmordisplaye9eb.html",
-		"sources": [ "Aquatic Adventures pg. 62" ],
+		"sources": [ "Aquatic Adventures" ],
 		"costAdditional": 15000,
 		"type": "modification",
 		"slot": "armor quality",
@@ -1663,7 +1663,7 @@
 	"Radiant Flight": {
 		"itemname": "Radiant Flight",
 		"file": "magicarmordisplay78c2.html",
-		"sources": [ "Armor Master's Handbook pg. 28" ],
+		"sources": [ "Armor Master's Handbook" ],
 		"costAdditional": 15000,
 		"type": "modification",
 		"slot": "armor quality",
@@ -1683,8 +1683,8 @@
 		"itemname": "Shadow, Improved",
 		"file": "magicarmordisplay18ec.html",
 		"sources": [
-			"Ultimate Equipment pg. 122",
-			"PRPG Core Rulebook pg. 463"
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
 		],
 		"costAdditional": 15000,
 		"type": "modification",
@@ -1705,8 +1705,8 @@
 		"itemname": "Slick, Improved",
 		"file": "magicarmordisplayc998.html",
 		"sources": [
-			"Ultimate Equipment pg. 122",
-			"PRPG Core Rulebook pg. 463"
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
 		],
 		"costAdditional": 15000,
 		"type": "modification",
@@ -1726,7 +1726,7 @@
 	"Venom-eating": {
 		"itemname": "Venom-eating",
 		"file": "magicarmordisplay7de5.html",
-		"sources": [ "Armor Master's Handbook pg. 24" ],
+		"sources": [ "Armor Master's Handbook" ],
 		"costAdditional": 15000,
 		"type": "modification",
 		"slot": "armor quality",
@@ -1745,7 +1745,7 @@
 	"Denying": {
 		"itemname": "Denying",
 		"file": "magicarmordisplayca51.html",
-		"sources": [ "Mythic Adventures pg. 142" ],
+		"sources": [ "Mythic Adventures" ],
 		"effectiveBonusAdjustment": 4,
 		"type": "modification",
 		"slot": "armor quality",
@@ -1765,8 +1765,8 @@
 		"itemname": "Spell Resistance (17)",
 		"file": "magicarmordisplay5535.html",
 		"sources": [
-			"Ultimate Equipment pg. 122",
-			"PRPG Core Rulebook pg. 463"
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
 		],
 		"effectiveBonusAdjustment": 4,
 		"type": "modification",
@@ -1787,8 +1787,8 @@
 		"itemname": "Energy Resistance",
 		"file": "magicarmordisplay859c.html",
 		"sources": [
-			"Ultimate Equipment pg. 117",
-			"PRPG Core Rulebook pg. 463"
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
 		],
 		"costAdditional": 18000,
 		"type": "modification",
@@ -1808,7 +1808,7 @@
 	"Martyring": {
 		"itemname": "Martyring",
 		"file": "magicarmordisplay2999.html",
-		"sources": [ "Ultimate Equipment pg. 120" ],
+		"sources": [ "Ultimate Equipment" ],
 		"costAdditional": 18000,
 		"type": "modification",
 		"slot": "armor quality",
@@ -1827,7 +1827,7 @@
 	"Dread Wing": {
 		"itemname": "Dread Wing",
 		"file": "magicarmordisplay7e11.html",
-		"sources": [ "Armor Master's Handbook pg. 28" ],
+		"sources": [ "Armor Master's Handbook" ],
 		"effectiveBonusAdjustment": 5,
 		"type": "modification",
 		"slot": "armor quality",
@@ -1847,8 +1847,8 @@
 		"itemname": "Fortification (heavy)",
 		"file": "magicarmordisplay2929.html",
 		"sources": [
-			"Ultimate Equipment pg. 118",
-			"PRPG Core Rulebook pg. 463"
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
 		],
 		"effectiveBonusAdjustment": 5,
 		"type": "modification",
@@ -1869,8 +1869,8 @@
 		"itemname": "Spell Resistance (19)",
 		"file": "magicarmordisplay25a4.html",
 		"sources": [
-			"Ultimate Equipment pg. 122",
-			"PRPG Core Rulebook pg. 463"
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
 		],
 		"effectiveBonusAdjustment": 5,
 		"type": "modification",
@@ -1890,7 +1890,7 @@
 	"Unbowed": {
 		"itemname": "Unbowed",
 		"file": "magicarmordisplaybd8e.html",
-		"sources": [ "Armor Master's Handbook pg. 28" ],
+		"sources": [ "Armor Master's Handbook" ],
 		"effectiveBonusAdjustment": 5,
 		"type": "modification",
 		"slot": "armor quality",
@@ -1910,8 +1910,8 @@
 		"itemname": "Righteous",
 		"file": "magicarmordisplay4bef.html",
 		"sources": [
-			"Ultimate Equipment pg. 121",
-			"Advanced Player's Guide pg. 283"
+			"Ultimate Equipment",
+			"Advanced Player's Guide"
 		],
 		"costAdditional": 27000,
 		"type": "modification",
@@ -1931,7 +1931,7 @@
 	"Unbound": {
 		"itemname": "Unbound",
 		"file": "magicarmordisplayfe5d.html",
-		"sources": [ "Ultimate Equipment pg. 123" ],
+		"sources": [ "Ultimate Equipment" ],
 		"costAdditional": 27000,
 		"type": "modification",
 		"slot": "armor quality",
@@ -1951,8 +1951,8 @@
 		"itemname": "Unrighteous",
 		"file": "magicarmordisplayfd9b.html",
 		"sources": [
-			"Ultimate Equipment pg. 123",
-			"Advanced Player's Guide pg. 283"
+			"Ultimate Equipment",
+			"Advanced Player's Guide"
 		],
 		"costAdditional": 27000,
 		"type": "modification",
@@ -1972,7 +1972,7 @@
 	"Vigilant": {
 		"itemname": "Vigilant",
 		"file": "magicarmordisplayc77d.html",
-		"sources": [ "Ultimate Equipment pg. 123" ],
+		"sources": [ "Ultimate Equipment" ],
 		"costAdditional": 27000,
 		"type": "modification",
 		"slot": "armor quality",
@@ -1992,8 +1992,8 @@
 		"itemname": "Determination",
 		"file": "magicarmordisplay6bdc.html",
 		"sources": [
-			"Ultimate Equipment pg. 117",
-			"Advanced Player's Guide pg. 283"
+			"Ultimate Equipment",
+			"Advanced Player's Guide"
 		],
 		"costAdditional": 30000,
 		"type": "modification",
@@ -2013,7 +2013,7 @@
 	"Greater Aquadynamic": {
 		"itemname": "Greater Aquadynamic",
 		"file": "magicarmordisplay16bd.html",
-		"sources": [ "Aquatic Adventures pg. 62" ],
+		"sources": [ "Aquatic Adventures" ],
 		"costAdditional": 33750,
 		"type": "modification",
 		"slot": "armor quality",
@@ -2033,8 +2033,8 @@
 		"itemname": "Shadow, Greater",
 		"file": "magicarmordisplayff1d.html",
 		"sources": [
-			"Ultimate Equipment pg. 122",
-			"PRPG Core Rulebook pg. 463"
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
 		],
 		"costAdditional": 33750,
 		"type": "modification",
@@ -2055,8 +2055,8 @@
 		"itemname": "Slick, Greater",
 		"file": "magicarmordisplay9c11.html",
 		"sources": [
-			"Ultimate Equipment pg. 122",
-			"PRPG Core Rulebook pg. 463"
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
 		],
 		"costAdditional": 33750,
 		"type": "modification",
@@ -2077,8 +2077,8 @@
 		"itemname": "Energy Resistance, Improved",
 		"file": "magicarmordisplaya307.html",
 		"sources": [
-			"Ultimate Equipment pg. 117",
-			"PRPG Core Rulebook pg. 463"
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
 		],
 		"costAdditional": 42000,
 		"type": "modification",
@@ -2099,8 +2099,8 @@
 		"itemname": "Etherealness",
 		"file": "magicarmordisplayfdb2.html",
 		"sources": [
-			"Ultimate Equipment pg. 118",
-			"PRPG Core Rulebook pg. 463"
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
 		],
 		"costAdditional": 49000,
 		"type": "modification",
@@ -2121,8 +2121,8 @@
 		"itemname": "Undead Controlling",
 		"file": "magicarmordisplay8e05.html",
 		"sources": [
-			"Ultimate Equipment pg. 123",
-			"PRPG Core Rulebook pg. 463"
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
 		],
 		"costAdditional": 49000,
 		"type": "modification",
@@ -2143,8 +2143,8 @@
 		"itemname": "Energy Resistance, Greater",
 		"file": "magicarmordisplay0939.html",
 		"sources": [
-			"Ultimate Equipment pg. 117",
-			"PRPG Core Rulebook pg. 463"
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
 		],
 		"costAdditional": 66000,
 		"type": "modification",
@@ -2165,8 +2165,8 @@
 		"itemname": "Arrow Catching",
 		"file": "magicarmordisplay684a.html",
 		"sources": [
-			"Ultimate Equipment pg. 115",
-			"PRPG Core Rulebook pg. 463"
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
 		],
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
@@ -2186,7 +2186,7 @@
 	"Assiduous": {
 		"itemname": "Assiduous",
 		"file": "magicarmordisplay83ea.html",
-		"sources": [ "Armor Master's Handbook pg. 30" ],
+		"sources": [ "Armor Master's Handbook" ],
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "shield quality",
@@ -2206,8 +2206,8 @@
 		"itemname": "Bashing",
 		"file": "magicarmordisplaybe2c.html",
 		"sources": [
-			"Ultimate Equipment pg. 115",
-			"PRPG Core Rulebook pg. 463"
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
 		],
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
@@ -2228,8 +2228,8 @@
 		"itemname": "Blinding",
 		"file": "magicarmordisplay7fba.html",
 		"sources": [
-			"Ultimate Equipment pg. 116",
-			"PRPG Core Rulebook pg. 463"
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
 		],
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
@@ -2249,7 +2249,7 @@
 	"Clangorous": {
 		"itemname": "Clangorous",
 		"file": "magicarmordisplay343e.html",
-		"sources": [ "Ultimate Equipment pg. 116" ],
+		"sources": [ "Ultimate Equipment" ],
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "shield quality",
@@ -2268,7 +2268,7 @@
 	"Folding": {
 		"itemname": "Folding",
 		"file": "magicarmordisplay24f3.html",
-		"sources": [ "Armor Master's Handbook pg. 30" ],
+		"sources": [ "Armor Master's Handbook" ],
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "shield quality",
@@ -2287,7 +2287,7 @@
 	"Guarding": {
 		"itemname": "Guarding",
 		"file": "magicarmordisplay71ce.html",
-		"sources": [ "Advanced Race Guide pg. 148" ],
+		"sources": [ "Advanced Race Guide" ],
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "shield quality",
@@ -2306,7 +2306,7 @@
 	"Heraldric": {
 		"itemname": "Heraldric",
 		"file": "magicarmordisplay7f5b.html",
-		"sources": [ "Armor Master's Handbook pg. 30" ],
+		"sources": [ "Armor Master's Handbook" ],
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "shield quality",
@@ -2325,7 +2325,7 @@
 	"Ramming": {
 		"itemname": "Ramming",
 		"file": "magicarmordisplaye2c7.html",
-		"sources": [ "Ultimate Equipment pg. 121" ],
+		"sources": [ "Ultimate Equipment" ],
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "shield quality",
@@ -2344,7 +2344,7 @@
 	"Rebounding": {
 		"itemname": "Rebounding",
 		"file": "magicarmordisplayb7d7.html",
-		"sources": [ "Magical Marketplace pg. 21" ],
+		"sources": [ "Magical Marketplace" ],
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "shield quality",
@@ -2363,7 +2363,7 @@
 	"Singing": {
 		"itemname": "Singing",
 		"file": "magicarmordisplayd0c4.html",
-		"sources": [ "Melee Tactics Toolbox pg. 26" ],
+		"sources": [ "Melee Tactics Toolbox" ],
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "shield quality",
@@ -2382,7 +2382,7 @@
 	"Spellrending": {
 		"itemname": "Spellrending",
 		"file": "magicarmordisplay5f11.html",
-		"sources": [ "Armor Master's Handbook pg. 31" ],
+		"sources": [ "Armor Master's Handbook" ],
 		"effectiveBonusAdjustment": 1,
 		"type": "modification",
 		"slot": "shield quality",
@@ -2401,7 +2401,7 @@
 	"Buoyant (shield)": {
 		"itemname": "Buoyant (shield)",
 		"file": "magicarmordisplay1942.html",
-		"sources": [ "Magical Marketplace pg. 9" ],
+		"sources": [ "Magical Marketplace" ],
 		"costAdditional": 1000,
 		"type": "modification",
 		"slot": "armor/shield quality",
@@ -2411,8 +2411,8 @@
 		"itemname": "Animated",
 		"file": "magicarmordisplayb41d.html",
 		"sources": [
-			"Ultimate Equipment pg. 114",
-			"PRPG Core Rulebook pg. 463"
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
 		],
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
@@ -2433,8 +2433,8 @@
 		"itemname": "Arrow Deflection",
 		"file": "magicarmordisplay8c4f.html",
 		"sources": [
-			"Ultimate Equipment pg. 115",
-			"PRPG Core Rulebook pg. 463"
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
 		],
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
@@ -2454,7 +2454,7 @@
 	"Guarding, Greater": {
 		"itemname": "Guarding, Greater",
 		"file": "magicarmordisplaye091.html",
-		"sources": [ "Advanced Race Guide pg. 148" ],
+		"sources": [ "Advanced Race Guide" ],
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
 		"slot": "shield quality",
@@ -2473,7 +2473,7 @@
 	"Jawbreaker": {
 		"itemname": "Jawbreaker",
 		"file": "magicarmordisplaybfb3.html",
-		"sources": [ "Ultimate Wilderness pg. 246" ],
+		"sources": [ "Ultimate Wilderness" ],
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
 		"slot": "shield quality",
@@ -2494,7 +2494,7 @@
 	"Mastering": {
 		"itemname": "Mastering",
 		"file": "magicarmordisplayf176.html",
-		"sources": [ "Armor Master's Handbook pg. 30" ],
+		"sources": [ "Armor Master's Handbook" ],
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
 		"slot": "shield quality",
@@ -2513,7 +2513,7 @@
 	"Merging": {
 		"itemname": "Merging",
 		"file": "magicarmordisplayb0cf.html",
-		"sources": [ "Ultimate Equipment pg. 120" ],
+		"sources": [ "Ultimate Equipment" ],
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
 		"slot": "shield quality",
@@ -2532,7 +2532,7 @@
 	"Weeping": {
 		"itemname": "Weeping",
 		"file": "magicarmordisplayd66a.html",
-		"sources": [ "Agents of Evil pg. 26" ],
+		"sources": [ "Agents of Evil" ],
 		"effectiveBonusAdjustment": 2,
 		"type": "modification",
 		"slot": "shield quality",
@@ -2551,7 +2551,7 @@
 	"Wyrmsbreath": {
 		"itemname": "Wyrmsbreath",
 		"file": "magicarmordisplay39e1.html",
-		"sources": [ "Ultimate Equipment pg. 123" ],
+		"sources": [ "Ultimate Equipment" ],
 		"costAdditional": 5000,
 		"type": "modification",
 		"slot": "shield quality",
@@ -2570,7 +2570,7 @@
 	"Deflecting": {
 		"itemname": "Deflecting",
 		"file": "magicarmordisplayb3cc.html",
-		"sources": [ "Mythic Adventures pg. 142" ],
+		"sources": [ "Mythic Adventures" ],
 		"effectiveBonusAdjustment": 3,
 		"type": "modification",
 		"slot": "shield quality",
@@ -2589,7 +2589,7 @@
 	"Bastion": {
 		"itemname": "Bastion",
 		"file": "magicarmordisplayeb30.html",
-		"sources": [ "Armor Master's Handbook pg. 30" ],
+		"sources": [ "Armor Master's Handbook" ],
 		"effectiveBonusAdjustment": 4,
 		"type": "modification",
 		"slot": "shield quality",
@@ -2608,7 +2608,7 @@
 	"Channeling": {
 		"itemname": "Channeling",
 		"file": "magicarmordisplaye144.html",
-		"sources": [ "Melee Tactics Toolbox pg. 26" ],
+		"sources": [ "Melee Tactics Toolbox" ],
 		"costAdditional": 18000,
 		"type": "modification",
 		"slot": "shield quality",
@@ -2628,8 +2628,8 @@
 		"itemname": "Reflecting",
 		"file": "magicarmordisplayddab.html",
 		"sources": [
-			"Ultimate Equipment pg. 121",
-			"PRPG Core Rulebook pg. 463"
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
 		],
 		"effectiveBonusAdjustment": 5,
 		"type": "modification",
@@ -2650,8 +2650,8 @@
 		"itemname": "Mithral Shirt",
 		"file": "magicarmordisplaya67a.html",
 		"sources": [
-			"Ultimate Equipment pg. 128",
-			"PRPG Core Rulebook pg. 464"
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
 		],
 		"cost": 1100,
 		"type": "armor",
@@ -2671,8 +2671,8 @@
 		"itemname": "Mistmail",
 		"file": "magicarmordisplaybd20.html",
 		"sources": [
-			"Ultimate Equipment pg. 127",
-			"Advanced Player's Guide pg. 285"
+			"Ultimate Equipment",
+			"Advanced Player's Guide"
 		],
 		"cost": 2250,
 		"type": "armor",
@@ -2692,7 +2692,7 @@
 	"Kiml?? Coat": {
 		"itemname": "Kiml?? Coat",
 		"file": "magicarmordisplay92d7.html",
-		"sources": [ "Inner Sea Gods pg. 252" ],
+		"sources": [ "Inner Sea Gods" ],
 		"cost": 2300,
 		"type": "armor",
 		"slot": "armor",
@@ -2711,7 +2711,7 @@
 	"Grim Gloom Mail": {
 		"itemname": "Grim Gloom Mail",
 		"file": "magicarmordisplay0fad.html",
-		"sources": [ "Inner Sea Gods pg. 252" ],
+		"sources": [ "Inner Sea Gods" ],
 		"cost": 2380,
 		"type": "armor",
 		"slot": "armor",
@@ -2731,8 +2731,8 @@
 		"itemname": "Inheritor's Breastplate",
 		"file": "magicarmordisplayc5df.html",
 		"sources": [
-			"Pathfinder #103: The Hellfire Compact pg. 73",
-			"Inner Sea Gods pg. 252"
+			"Pathfinder #103: The Hellfire Compact",
+			"Inner Sea Gods"
 		],
 		"cost": 2430,
 		"type": "armor",
@@ -2752,7 +2752,7 @@
 	"Otyugh Hide": {
 		"itemname": "Otyugh Hide",
 		"file": "magicarmordisplay5a48.html",
-		"sources": [ "Ultimate Equipment pg. 128" ],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 2565,
 		"type": "armor",
 		"slot": "armor",
@@ -2773,7 +2773,7 @@
 	"Iadaran Dress Uniform": {
 		"itemname": "Iadaran Dress Uniform",
 		"file": "magicarmordisplay8fff.html",
-		"sources": [ "Merchant's Manifest pg. 12" ],
+		"sources": [ "Merchant's Manifest" ],
 		"cost": 2625,
 		"type": "armor",
 		"slot": "armor",
@@ -2792,7 +2792,7 @@
 	"Milanite Armor": {
 		"itemname": "Milanite Armor",
 		"file": "magicarmordisplay7a55.html",
-		"sources": [ "Inner Sea Gods pg. 252" ],
+		"sources": [ "Inner Sea Gods" ],
 		"cost": 2780,
 		"type": "armor",
 		"slot": "armor",
@@ -2811,7 +2811,7 @@
 	"Ghoul Hide": {
 		"itemname": "Ghoul Hide",
 		"file": "magicarmordisplay93f6.html",
-		"sources": [ "Inner Sea Combat pg. 51" ],
+		"sources": [ "Inner Sea Combat" ],
 		"cost": 2865,
 		"type": "armor",
 		"slot": "armor",
@@ -2832,8 +2832,8 @@
 		"itemname": "Red Stalker Armor",
 		"file": "magicarmordisplay31ef.html",
 		"sources": [
-			"Adventurer's Guide pg. 159",
-			"Inner Sea Gods pg. 253"
+			"Adventurer's Guide",
+			"Inner Sea Gods"
 		],
 		"cost": 3035,
 		"type": "armor",
@@ -2853,7 +2853,7 @@
 	"Rosy Hauberk": {
 		"itemname": "Rosy Hauberk",
 		"file": "magicarmordisplay3113.html",
-		"sources": [ "Inner Sea Gods pg. 253" ],
+		"sources": [ "Inner Sea Gods" ],
 		"cost": 3035,
 		"type": "armor",
 		"slot": "armor",
@@ -2873,8 +2873,8 @@
 		"itemname": "Dragonhide Plate",
 		"file": "magicarmordisplay5209.html",
 		"sources": [
-			"Ultimate Equipment pg. 126",
-			"PRPG Core Rulebook pg. 464"
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
 		],
 		"cost": 3300,
 		"type": "armor",
@@ -2894,7 +2894,7 @@
 	"Pallid Chain": {
 		"itemname": "Pallid Chain",
 		"file": "magicarmordisplay6a7c.html",
-		"sources": [ "Inner Sea Gods pg. 252" ],
+		"sources": [ "Inner Sea Gods" ],
 		"cost": 3300,
 		"type": "armor",
 		"slot": "armor",
@@ -2913,7 +2913,7 @@
 	"Pelt of the Demon Mother": {
 		"itemname": "Pelt of the Demon Mother",
 		"file": "magicarmordisplaya202.html",
-		"sources": [ "Inner Sea Gods pg. 253" ],
+		"sources": [ "Inner Sea Gods" ],
 		"cost": 3325,
 		"type": "armor",
 		"slot": "armor",
@@ -2932,7 +2932,7 @@
 	"Djezet Skin": {
 		"itemname": "Djezet Skin",
 		"file": "magicarmordisplayfd20.html",
-		"sources": [ "Armor Master's Handbook pg. 25" ],
+		"sources": [ "Armor Master's Handbook" ],
 		"cost": 3410,
 		"type": "armor",
 		"slot": "armor",
@@ -2951,7 +2951,7 @@
 	"Starsong Mail": {
 		"itemname": "Starsong Mail",
 		"file": "magicarmordisplayc73a.html",
-		"sources": [ "Inner Sea Gods pg. 253" ],
+		"sources": [ "Inner Sea Gods" ],
 		"cost": 3460,
 		"type": "armor",
 		"slot": "armor",
@@ -2970,7 +2970,7 @@
 	"Powerhouse Pelt": {
 		"itemname": "Powerhouse Pelt",
 		"file": "magicarmordisplay68ca.html",
-		"sources": [ "Villain Codex pg. 33" ],
+		"sources": [ "Villain Codex" ],
 		"cost": 3515,
 		"type": "armor",
 		"slot": "armor",
@@ -2989,7 +2989,7 @@
 	"Sea Banshee Coat": {
 		"itemname": "Sea Banshee Coat",
 		"file": "magicarmordisplay234e.html",
-		"sources": [ "Inner Sea Gods pg. 253" ],
+		"sources": [ "Inner Sea Gods" ],
 		"cost": 3605,
 		"type": "armor",
 		"slot": "armor",
@@ -3008,7 +3008,7 @@
 	"Calamitous Mail": {
 		"itemname": "Calamitous Mail",
 		"file": "magicarmordisplay69d7.html",
-		"sources": [ "Inner Sea Gods pg. 250" ],
+		"sources": [ "Inner Sea Gods" ],
 		"cost": 3750,
 		"type": "armor",
 		"slot": "armor",
@@ -3027,7 +3027,7 @@
 	"Perfection Leather": {
 		"itemname": "Perfection Leather",
 		"file": "magicarmordisplay1895.html",
-		"sources": [ "Inner Sea Gods pg. 253" ],
+		"sources": [ "Inner Sea Gods" ],
 		"cost": 3860,
 		"type": "armor",
 		"slot": "armor",
@@ -3046,7 +3046,7 @@
 	"Ekujae Jungle Armor": {
 		"itemname": "Ekujae Jungle Armor",
 		"file": "magicarmordisplay6989.html",
-		"sources": [ "Inner Sea Combat pg. 51" ],
+		"sources": [ "Inner Sea Combat" ],
 		"cost": 3900,
 		"type": "armor",
 		"slot": "armor",
@@ -3066,7 +3066,7 @@
 	"Half-Plate of the Dark Prince": {
 		"itemname": "Half-Plate of the Dark Prince",
 		"file": "magicarmordisplayb78c.html",
-		"sources": [ "Inner Sea Gods pg. 252" ],
+		"sources": [ "Inner Sea Gods" ],
 		"cost": 3910,
 		"type": "armor",
 		"slot": "armor",
@@ -3085,7 +3085,7 @@
 	"Toiler's Armor": {
 		"itemname": "Toiler's Armor",
 		"file": "magicarmordisplayf54b.html",
-		"sources": [ "Inner Sea Gods pg. 253" ],
+		"sources": [ "Inner Sea Gods" ],
 		"cost": 3920,
 		"type": "armor",
 		"slot": "armor",
@@ -3104,7 +3104,7 @@
 	"Painspike Armor": {
 		"itemname": "Painspike Armor",
 		"file": "magicarmordisplay1bb5.html",
-		"sources": [ "Inner Sea Gods pg. 252" ],
+		"sources": [ "Inner Sea Gods" ],
 		"cost": 4145,
 		"type": "armor",
 		"slot": "armor",
@@ -3123,7 +3123,7 @@
 	"Forgefather's Half-Plate": {
 		"itemname": "Forgefather's Half-Plate",
 		"file": "magicarmordisplayc462.html",
-		"sources": [ "Inner Sea Gods pg. 251" ],
+		"sources": [ "Inner Sea Gods" ],
 		"cost": 4180,
 		"type": "armor",
 		"slot": "armor",
@@ -3142,7 +3142,7 @@
 	"Veiled Chain": {
 		"itemname": "Veiled Chain",
 		"file": "magicarmordisplayf599.html",
-		"sources": [ "Inner Sea Gods pg. 253" ],
+		"sources": [ "Inner Sea Gods" ],
 		"cost": 4490,
 		"type": "armor",
 		"slot": "armor",
@@ -3161,7 +3161,7 @@
 	"Armor of the Unquenchable Fire": {
 		"itemname": "Armor of the Unquenchable Fire",
 		"file": "magicarmordisplay10d4.html",
-		"sources": [ "Inner Sea Gods pg. 250" ],
+		"sources": [ "Inner Sea Gods" ],
 		"cost": 4840,
 		"type": "armor",
 		"slot": "armor",
@@ -3180,7 +3180,7 @@
 	"Lucky Drunk's Mail": {
 		"itemname": "Lucky Drunk's Mail",
 		"file": "magicarmordisplay9b42.html",
-		"sources": [ "Inner Sea Gods pg. 252" ],
+		"sources": [ "Inner Sea Gods" ],
 		"cost": 4840,
 		"type": "armor",
 		"slot": "armor",
@@ -3199,7 +3199,7 @@
 	"Eternal Iron Breastplate": {
 		"itemname": "Eternal Iron Breastplate",
 		"file": "magicarmordisplay41f0.html",
-		"sources": [ "Inner Sea Gods pg. 251" ],
+		"sources": [ "Inner Sea Gods" ],
 		"cost": 4890,
 		"type": "armor",
 		"slot": "armor",
@@ -3218,7 +3218,7 @@
 	"Fangtide Scale Mail": {
 		"itemname": "Fangtide Scale Mail",
 		"file": "magicarmordisplayc35e.html",
-		"sources": [ "Inner Sea Gods pg. 251" ],
+		"sources": [ "Inner Sea Gods" ],
 		"cost": 4890,
 		"type": "armor",
 		"slot": "armor",
@@ -3237,7 +3237,7 @@
 	"Thanatotic Visage": {
 		"itemname": "Thanatotic Visage",
 		"file": "magicarmordisplayf149.html",
-		"sources": [ "Book of the Damned pg. 197" ],
+		"sources": [ "Book of the Damned" ],
 		"cost": 5000,
 		"type": "armor",
 		"slot": "head",
@@ -3256,7 +3256,7 @@
 	"Waverider Breastplate": {
 		"itemname": "Waverider Breastplate",
 		"file": "magicarmordisplay2303.html",
-		"sources": [ "Inner Sea Monster Codex pg. 29" ],
+		"sources": [ "Inner Sea Monster Codex" ],
 		"cost": 5000,
 		"type": "armor",
 		"slot": "armor",
@@ -3275,7 +3275,7 @@
 	"Golden Judge's Breastplate": {
 		"itemname": "Golden Judge's Breastplate",
 		"file": "magicarmordisplayeb38.html",
-		"sources": [ "Inner Sea Gods pg. 251" ],
+		"sources": [ "Inner Sea Gods" ],
 		"cost": 5110,
 		"type": "armor",
 		"slot": "armor",
@@ -3295,8 +3295,8 @@
 		"itemname": "Elven Chain",
 		"file": "magicarmordisplay16e1.html",
 		"sources": [
-			"Ultimate Equipment pg. 126",
-			"PRPG Core Rulebook pg. 464"
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
 		],
 		"cost": 5150,
 		"type": "armor",
@@ -3316,8 +3316,8 @@
 		"itemname": "Rhino Hide",
 		"file": "magicarmordisplayf8d1.html",
 		"sources": [
-			"Ultimate Equipment pg. 129",
-			"PRPG Core Rulebook pg. 464"
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
 		],
 		"cost": 5165,
 		"type": "armor",
@@ -3337,7 +3337,7 @@
 	"Akhentepi's Armor": {
 		"itemname": "Akhentepi's Armor",
 		"file": "magicarmordisplay4498.html",
-		"sources": [ "Pathfinder #79: The Half-Dead City pg. 60" ],
+		"sources": [ "Pathfinder #79: The Half-Dead City" ],
 		"cost": 5235,
 		"type": "armor",
 		"slot": "armor",
@@ -3356,7 +3356,7 @@
 	"Blackfingers Apron": {
 		"itemname": "Blackfingers Apron",
 		"file": "magicarmordisplay09d3.html",
-		"sources": [ "Inner Sea Gods pg. 250" ],
+		"sources": [ "Inner Sea Gods" ],
 		"cost": 5240,
 		"type": "armor",
 		"slot": "armor",
@@ -3375,7 +3375,7 @@
 	"Gravewatcher Chainmail": {
 		"itemname": "Gravewatcher Chainmail",
 		"file": "magicarmordisplay5e4c.html",
-		"sources": [ "Inner Sea Gods pg. 251" ],
+		"sources": [ "Inner Sea Gods" ],
 		"cost": 5380,
 		"type": "armor",
 		"slot": "armor",
@@ -3394,7 +3394,7 @@
 	"Deadeye Leather": {
 		"itemname": "Deadeye Leather",
 		"file": "magicarmordisplaye279.html",
-		"sources": [ "Inner Sea Gods pg. 251" ],
+		"sources": [ "Inner Sea Gods" ],
 		"cost": 5425,
 		"type": "armor",
 		"slot": "armor",
@@ -3413,7 +3413,7 @@
 	"All-Seeing Armor": {
 		"itemname": "All-Seeing Armor",
 		"file": "magicarmordisplayc6e3.html",
-		"sources": [ "Inner Sea Gods pg. 250" ],
+		"sources": [ "Inner Sea Gods" ],
 		"cost": 5570,
 		"type": "armor",
 		"slot": "armor",
@@ -3432,7 +3432,7 @@
 	"Gray Master's Leathers": {
 		"itemname": "Gray Master's Leathers",
 		"file": "magicarmordisplayb5bd.html",
-		"sources": [ "Inner Sea Gods pg. 251" ],
+		"sources": [ "Inner Sea Gods" ],
 		"cost": 5720,
 		"type": "armor",
 		"slot": "armor",
@@ -3451,7 +3451,7 @@
 	"Shifting Jerkin": {
 		"itemname": "Shifting Jerkin",
 		"file": "magicarmordisplay195b.html",
-		"sources": [ "Armor Master's Handbook pg. 25" ],
+		"sources": [ "Armor Master's Handbook" ],
 		"cost": 5965,
 		"type": "armor",
 		"slot": "armor",
@@ -3470,7 +3470,7 @@
 	"Arachnid Harness": {
 		"itemname": "Arachnid Harness",
 		"file": "magicarmordisplayda1a.html",
-		"sources": [ "Armor Master's Handbook pg. 25" ],
+		"sources": [ "Armor Master's Handbook" ],
 		"cost": 6160,
 		"type": "armor",
 		"slot": "armor",
@@ -3489,7 +3489,7 @@
 	"Raiment of Chains": {
 		"itemname": "Raiment of Chains",
 		"file": "magicarmordisplayf12d.html",
-		"sources": [ "Inner Sea Temples pg. 12" ],
+		"sources": [ "Inner Sea Temples" ],
 		"cost": 6250,
 		"type": "armor",
 		"slot": "armor",
@@ -3509,7 +3509,7 @@
 	"Locust Cuirass": {
 		"itemname": "Locust Cuirass",
 		"file": "magicarmordisplay3a0f.html",
-		"sources": [ "Pathfinder #81: Shifting Sands pg. 58" ],
+		"sources": [ "Pathfinder #81: Shifting Sands" ],
 		"cost": 6565,
 		"type": "armor",
 		"slot": "armor",
@@ -3529,7 +3529,7 @@
 	"Dawnflower Chain Vest": {
 		"itemname": "Dawnflower Chain Vest",
 		"file": "magicarmordisplaye6a6.html",
-		"sources": [ "Inner Sea Gods pg. 250" ],
+		"sources": [ "Inner Sea Gods" ],
 		"cost": 6950,
 		"type": "armor",
 		"slot": "armor",
@@ -3548,7 +3548,7 @@
 	"Truefaith Vestments": {
 		"itemname": "Truefaith Vestments",
 		"file": "magicarmordisplayc961.html",
-		"sources": [ "Inner Sea Combat pg. 53" ],
+		"sources": [ "Inner Sea Combat" ],
 		"cost": 6950,
 		"type": "armor",
 		"slot": "armor",
@@ -3567,7 +3567,7 @@
 	"Featherleaf Barding": {
 		"itemname": "Featherleaf Barding",
 		"file": "magicarmordisplay0fab.html",
-		"sources": [ "Familiar Folio pg. 21" ],
+		"sources": [ "Familiar Folio" ],
 		"cost": 7310,
 		"type": "armor",
 		"slot": "armor",
@@ -3586,7 +3586,7 @@
 	"Trained Barding": {
 		"itemname": "Trained Barding",
 		"file": "magicarmordisplaya1ca.html",
-		"sources": [ "Armor Master's Handbook pg. 27" ],
+		"sources": [ "Armor Master's Handbook" ],
 		"cost": 8350,
 		"type": "armor",
 		"slot": "armor",
@@ -3605,7 +3605,7 @@
 	"Stalking": {
 		"itemname": "Stalking",
 		"file": "magicarmordisplay7749.html",
-		"sources": [ "Advanced Class Guide pg. 211" ],
+		"sources": [ "Advanced Class Guide" ],
 		"cost": 8575,
 		"type": "armor",
 		"slot": "armor",
@@ -3624,7 +3624,7 @@
 	"Scouting Leather": {
 		"itemname": "Scouting Leather",
 		"file": "magicarmordisplayec87.html",
-		"sources": [ "Inner Sea Combat pg. 53" ],
+		"sources": [ "Inner Sea Combat" ],
 		"cost": 8750,
 		"type": "armor",
 		"slot": "armor",
@@ -3643,7 +3643,7 @@
 	"Snakescale Armor": {
 		"itemname": "Snakescale Armor",
 		"file": "magicarmordisplay0816.html",
-		"sources": [ "Pathfinder #42: Sanctum of the Serpent God pg. 39" ],
+		"sources": [ "Pathfinder #42: Sanctum of the Serpent God" ],
 		"cost": 8900,
 		"type": "armor",
 		"slot": "armor",
@@ -3662,7 +3662,7 @@
 	"Morlock Hide": {
 		"itemname": "Morlock Hide",
 		"file": "magicarmordisplayda2c.html",
-		"sources": [ "Ultimate Equipment pg. 128" ],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 8910,
 		"type": "armor",
 		"slot": "armor",
@@ -3681,7 +3681,7 @@
 	"Stone-eater Armor": {
 		"itemname": "Stone-eater Armor",
 		"file": "magicarmordisplay0552.html",
-		"sources": [ "Armor Master's Handbook pg. 29" ],
+		"sources": [ "Armor Master's Handbook" ],
 		"cost": 8950,
 		"type": "armor",
 		"slot": "armor",
@@ -3701,7 +3701,7 @@
 	"Giant's Nail Scale Mail": {
 		"itemname": "Giant's Nail Scale Mail",
 		"file": "magicarmordisplayd339.html",
-		"sources": [ "Pathfinder #93: Forge of the Giant God pg. 16" ],
+		"sources": [ "Pathfinder #93: Forge of the Giant God" ],
 		"cost": 9200,
 		"type": "armor",
 		"slot": "armor",
@@ -3720,7 +3720,7 @@
 	"Writhing Armor": {
 		"itemname": "Writhing Armor",
 		"file": "magicarmordisplay544a.html",
-		"sources": [ "Melee Tactics Toolbox pg. 23" ],
+		"sources": [ "Melee Tactics Toolbox" ],
 		"cost": 9480,
 		"type": "armor",
 		"slot": "armor",
@@ -3739,7 +3739,7 @@
 	"Spelunker's Mail": {
 		"itemname": "Spelunker's Mail",
 		"file": "magicarmordisplaycf24.html",
-		"sources": [ "Second Darkness Player's Guide pg. 29" ],
+		"sources": [ "Second Darkness Player's Guide" ],
 		"cost": 10000,
 		"type": "armor",
 		"slot": "armor",
@@ -3759,7 +3759,7 @@
 	"Windstrider Mail": {
 		"itemname": "Windstrider Mail",
 		"file": "magicarmordisplaycb3a.html",
-		"sources": [ "Down the Blighted Path pg. 63" ],
+		"sources": [ "Down the Blighted Path" ],
 		"cost": 10100,
 		"type": "armor",
 		"slot": "armor",
@@ -3781,8 +3781,8 @@
 		"itemname": "Adamantine Breastplate",
 		"file": "magicarmordisplay71aa.html",
 		"sources": [
-			"Ultimate Equipment pg. 124",
-			"PRPG Core Rulebook pg. 464"
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
 		],
 		"cost": 10200,
 		"type": "armor",
@@ -3802,8 +3802,8 @@
 		"itemname": "Soothsayer's Raiment",
 		"file": "magicarmordisplay3c80.html",
 		"sources": [
-			"Ultimate Equipment pg. 129",
-			"Advanced Player's Guide pg. 286"
+			"Ultimate Equipment",
+			"Advanced Player's Guide"
 		],
 		"cost": 10300,
 		"type": "armor",
@@ -3824,7 +3824,7 @@
 	"Equestrian Plate": {
 		"itemname": "Equestrian Plate",
 		"file": "magicarmordisplay77a3.html",
-		"sources": [ "Ultimate Equipment pg. 126" ],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 10650,
 		"type": "armor",
 		"slot": "armor",
@@ -3844,7 +3844,7 @@
 	"Enchanted Eelskin": {
 		"itemname": "Enchanted Eelskin",
 		"file": "magicarmordisplayf802.html",
-		"sources": [ "Ultimate Equipment pg. 126" ],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 11160,
 		"type": "armor",
 		"slot": "armor",
@@ -3863,7 +3863,7 @@
 	"Tireless Tracking Hide": {
 		"itemname": "Tireless Tracking Hide",
 		"file": "magicarmordisplay7df4.html",
-		"sources": [ "Advanced Class Guide pg. 212" ],
+		"sources": [ "Advanced Class Guide" ],
 		"cost": 11165,
 		"type": "armor",
 		"slot": "armor",
@@ -3882,7 +3882,7 @@
 	"Gnome Scrap Armor (Gnome)": {
 		"itemname": "Gnome Scrap Armor (Gnome)",
 		"file": "magicarmordisplay783a.html",
-		"sources": [ "Inner Sea Races pg. 224" ],
+		"sources": [ "Inner Sea Races" ],
 		"cost": 11175,
 		"type": "armor",
 		"slot": "armor",
@@ -3904,7 +3904,7 @@
 	"Breastplate of the Planes": {
 		"itemname": "Breastplate of the Planes",
 		"file": "magicarmordisplay0cfe.html",
-		"sources": [ "Planar Adventures pg. 47" ],
+		"sources": [ "Planar Adventures" ],
 		"cost": 11350,
 		"type": "armor",
 		"slot": "armor",
@@ -3923,7 +3923,7 @@
 	"Emissary's Breastplate": {
 		"itemname": "Emissary's Breastplate",
 		"file": "magicarmordisplay6535.html",
-		"sources": [ "Heroes of the Streets pg. 15" ],
+		"sources": [ "Heroes of the Streets" ],
 		"cost": 11350,
 		"type": "armor",
 		"slot": "armor",
@@ -3942,7 +3942,7 @@
 	"Uskroth's Armor": {
 		"itemname": "Uskroth's Armor",
 		"file": "magicarmordisplayd629.html",
-		"sources": [ "Pathfinder #91: Battle of Bloodmarch Hills pg. 55" ],
+		"sources": [ "Pathfinder #91: Battle of Bloodmarch Hills" ],
 		"cost": 11350,
 		"type": "armor",
 		"slot": "armor",
@@ -3961,7 +3961,7 @@
 	"Mosswater Stained Leather": {
 		"itemname": "Mosswater Stained Leather",
 		"file": "magicarmordisplayf587.html",
-		"sources": [ "Inner Sea Combat pg. 52" ],
+		"sources": [ "Inner Sea Combat" ],
 		"cost": 11575,
 		"type": "armor",
 		"slot": "armor",
@@ -3981,7 +3981,7 @@
 	"Bilgewater Coat": {
 		"itemname": "Bilgewater Coat",
 		"file": "magicarmordisplayda35.html",
-		"sources": [ "Merchant's Manifest pg. 25" ],
+		"sources": [ "Merchant's Manifest" ],
 		"cost": 11655,
 		"type": "armor",
 		"slot": "none",
@@ -4001,8 +4001,8 @@
 		"itemname": "Boneless Leather",
 		"file": "magicarmordisplay74a5.html",
 		"sources": [
-			"Ultimate Equipment pg. 124",
-			"Advanced Player's Guide pg. 284"
+			"Ultimate Equipment",
+			"Advanced Player's Guide"
 		],
 		"cost": 12160,
 		"type": "armor",
@@ -4022,7 +4022,7 @@
 	"Lupine Rageskin": {
 		"itemname": "Lupine Rageskin",
 		"file": "magicarmordisplay50fa.html",
-		"sources": [ "Horror Adventures pg. 214" ],
+		"sources": [ "Horror Adventures" ],
 		"cost": 12160,
 		"type": "armor",
 		"slot": "armor",
@@ -4041,7 +4041,7 @@
 	"Elemental Bulwark": {
 		"itemname": "Elemental Bulwark",
 		"file": "magicarmordisplay7b29.html",
-		"sources": [ "Armor Master's Handbook pg. 27" ],
+		"sources": [ "Armor Master's Handbook" ],
 		"cost": 12300,
 		"type": "armor",
 		"slot": "armor",
@@ -4061,8 +4061,8 @@
 		"itemname": "Murderer's Blackcloth",
 		"file": "magicarmordisplay3ab7.html",
 		"sources": [
-			"Ultimate Equipment pg. 128",
-			"Advanced Player's Guide pg. 285"
+			"Ultimate Equipment",
+			"Advanced Player's Guide"
 		],
 		"cost": 12405,
 		"type": "armor",
@@ -4082,7 +4082,7 @@
 	" Honor's Panoply": {
 		"itemname": " Honor's Panoply",
 		"file": "magicarmordisplay969a.html",
-		"sources": [ "Pathfinder #104: Wrath of Thrune pg. 59" ],
+		"sources": [ "Pathfinder #104: Wrath of Thrune" ],
 		"cost": 12550,
 		"type": "armor",
 		"slot": "armor",
@@ -4104,8 +4104,8 @@
 		"itemname": "Folding Plate",
 		"file": "magicarmordisplay8259.html",
 		"sources": [
-			"Ultimate Equipment pg. 126",
-			"Advanced Player's Guide pg. 284"
+			"Ultimate Equipment",
+			"Advanced Player's Guide"
 		],
 		"cost": 12650,
 		"type": "armor",
@@ -4125,7 +4125,7 @@
 	"Hallowed Chain (Varisian)": {
 		"itemname": "Hallowed Chain (Varisian)",
 		"file": "magicarmordisplay9fa4.html",
-		"sources": [ "Inner Sea Races pg. 225" ],
+		"sources": [ "Inner Sea Races" ],
 		"cost": 12800,
 		"type": "armor",
 		"slot": "armor",
@@ -4146,7 +4146,7 @@
 	"Legion Armor": {
 		"itemname": "Legion Armor",
 		"file": "magicarmordisplay27c6.html",
-		"sources": [ "Armor Master's Handbook pg. 29" ],
+		"sources": [ "Armor Master's Handbook" ],
 		"cost": 13400,
 		"type": "armor",
 		"slot": "armor",
@@ -4166,7 +4166,7 @@
 	"Armor of the Sands": {
 		"itemname": "Armor of the Sands",
 		"file": "magicarmordisplay04e3.html",
-		"sources": [ "Melee Tactics Toolbox pg. 22" ],
+		"sources": [ "Melee Tactics Toolbox" ],
 		"cost": 14160,
 		"type": "armor",
 		"slot": "armor",
@@ -4185,7 +4185,7 @@
 	"Armor of Grim Triumph (Orc)": {
 		"itemname": "Armor of Grim Triumph (Orc)",
 		"file": "magicarmordisplay27c0.html",
-		"sources": [ "Inner Sea Races pg. 224" ],
+		"sources": [ "Inner Sea Races" ],
 		"cost": 14300,
 		"type": "armor",
 		"slot": "armor",
@@ -4209,9 +4209,9 @@
 		"itemname": "Mammoth Hide",
 		"file": "magicarmordisplay65c8.html",
 		"sources": [
-			"Adventurer's Guide pg. 134",
-			"Inner Sea Combat pg. 52",
-			"Melee Tactics Toolbox pg. 23"
+			"Adventurer's Guide",
+			"Inner Sea Combat",
+			"Melee Tactics Toolbox"
 		],
 		"cost": 14665,
 		"type": "armor",
@@ -4231,7 +4231,7 @@
 	"Icelink Chainmail": {
 		"itemname": "Icelink Chainmail",
 		"file": "magicarmordisplay28c2.html",
-		"sources": [ "Pathfinder #69: Maiden, Mother, Crone pg. 61" ],
+		"sources": [ "Pathfinder #69: Maiden, Mother, Crone" ],
 		"cost": 15100,
 		"type": "armor",
 		"slot": "armor",
@@ -4250,7 +4250,7 @@
 	"Gale Armor": {
 		"itemname": "Gale Armor",
 		"file": "magicarmordisplay198c.html",
-		"sources": [ "Armor Master's Handbook pg. 25" ],
+		"sources": [ "Armor Master's Handbook" ],
 		"cost": 15180,
 		"type": "armor",
 		"slot": "armor",
@@ -4269,7 +4269,7 @@
 	"Breastplate of Vanishing": {
 		"itemname": "Breastplate of Vanishing",
 		"file": "magicarmordisplay40e8.html",
-		"sources": [ "Ultimate Equipment pg. 124" ],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 15200,
 		"type": "armor",
 		"slot": "armor",
@@ -4289,7 +4289,7 @@
 	"Coat of Shells (Gillmen, Merfolk)": {
 		"itemname": "Coat of Shells (Gillmen, Merfolk)",
 		"file": "magicarmordisplayea37.html",
-		"sources": [ "Inner Sea Races pg. 224" ],
+		"sources": [ "Inner Sea Races" ],
 		"cost": 15350,
 		"type": "armor",
 		"slot": "armor",
@@ -4310,7 +4310,7 @@
 	"Elven Vengeance": {
 		"itemname": "Elven Vengeance",
 		"file": "magicarmordisplay1d4b.html",
-		"sources": [ "Adventurer's Guide pg. 115" ],
+		"sources": [ "Adventurer's Guide" ],
 		"cost": 16150,
 		"type": "armor",
 		"slot": "armor",
@@ -4330,8 +4330,8 @@
 		"itemname": "Armor of Insults",
 		"file": "magicarmordisplay6cef.html",
 		"sources": [
-			"Ultimate Equipment pg. 124",
-			"Advanced Player's Guide pg. 283"
+			"Ultimate Equipment",
+			"Advanced Player's Guide"
 		],
 		"cost": 16175,
 		"type": "armor",
@@ -4351,7 +4351,7 @@
 	"Skin of Klendar the Troll King": {
 		"itemname": "Skin of Klendar the Troll King",
 		"file": "magicarmordisplay1f27.html",
-		"sources": [ "Pathfinder #27: What Lies in Dust pg. 58" ],
+		"sources": [ "Pathfinder #27: What Lies in Dust" ],
 		"cost": 16315,
 		"type": "armor",
 		"slot": "armor",
@@ -4371,7 +4371,7 @@
 	"Numerian Resistance Plate": {
 		"itemname": "Numerian Resistance Plate",
 		"file": "magicarmordisplayba9d.html",
-		"sources": [ "Inner Sea Combat pg. 52" ],
+		"sources": [ "Inner Sea Combat" ],
 		"cost": 16350,
 		"type": "armor",
 		"slot": "armor",
@@ -4392,8 +4392,8 @@
 		"itemname": "Dwarven Plate",
 		"file": "magicarmordisplayd945.html",
 		"sources": [
-			"Ultimate Equipment pg. 126",
-			"PRPG Core Rulebook pg. 464"
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
 		],
 		"cost": 16500,
 		"type": "armor",
@@ -4412,7 +4412,7 @@
 	"Hero's Hauberk": {
 		"itemname": "Hero's Hauberk",
 		"file": "magicarmordisplaya62f.html",
-		"sources": [ "Advanced Class Guide pg. 211" ],
+		"sources": [ "Advanced Class Guide" ],
 		"cost": 16600,
 		"type": "armor",
 		"slot": "armor",
@@ -4432,7 +4432,7 @@
 	"Abrogalian Corset": {
 		"itemname": "Abrogalian Corset",
 		"file": "magicarmordisplayf395.html",
-		"sources": [ "Cheliax, Empire of Devils pg. 20" ],
+		"sources": [ "Cheliax, Empire of Devils" ],
 		"cost": 17175,
 		"type": "armor",
 		"slot": "armor",
@@ -4453,7 +4453,7 @@
 	"Backbreaker Mail": {
 		"itemname": "Backbreaker Mail",
 		"file": "magicarmordisplay211b.html",
-		"sources": [ "Inner Sea Combat pg. 50" ],
+		"sources": [ "Inner Sea Combat" ],
 		"cost": 17650,
 		"type": "armor",
 		"slot": "armor",
@@ -4473,7 +4473,7 @@
 	"Hide of the Hagfish": {
 		"itemname": "Hide of the Hagfish",
 		"file": "magicarmordisplay8504.html",
-		"sources": [ "Seers of the Drowned City pg. 54" ],
+		"sources": [ "Seers of the Drowned City" ],
 		"cost": 18165,
 		"type": "armor",
 		"slot": "armor",
@@ -4493,8 +4493,8 @@
 		"itemname": "Eagle Knight Dress Uniform",
 		"file": "magicarmordisplay7c17.html",
 		"sources": [
-			"Adventurer's Guide pg. 76",
-			"Inner Sea Combat pg. 50"
+			"Adventurer's Guide",
+			"Inner Sea Combat"
 		],
 		"cost": 18175,
 		"type": "armor",
@@ -4514,7 +4514,7 @@
 	"Lifecollar Coat": {
 		"itemname": "Lifecollar Coat",
 		"file": "magicarmordisplay8cb3.html",
-		"sources": [ "Undead Slayer's Handbook pg. 29" ],
+		"sources": [ "Undead Slayer's Handbook" ],
 		"cost": 18200,
 		"type": "armor",
 		"slot": "chest and neck",
@@ -4535,7 +4535,7 @@
 	"Armor of the Pure Legion": {
 		"itemname": "Armor of the Pure Legion",
 		"file": "magicarmordisplay44c3.html",
-		"sources": [ "Armor Master's Handbook pg. 27" ],
+		"sources": [ "Armor Master's Handbook" ],
 		"cost": 18300,
 		"type": "armor",
 		"slot": "armor",
@@ -4554,7 +4554,7 @@
 	"Hide of the Dragonrider": {
 		"itemname": "Hide of the Dragonrider",
 		"file": "magicarmordisplay362f.html",
-		"sources": [ "Pathfinder #70: The Frozen Stars pg. 63" ],
+		"sources": [ "Pathfinder #70: The Frozen Stars" ],
 		"cost": 18480,
 		"type": "armor",
 		"slot": "armor",
@@ -4573,7 +4573,7 @@
 	"Arboreal Armor": {
 		"itemname": "Arboreal Armor",
 		"file": "magicarmordisplay6072.html",
-		"sources": [ "Heroes of the Wild pg. 28" ],
+		"sources": [ "Heroes of the Wild" ],
 		"cost": 18670,
 		"type": "armor",
 		"slot": "armor",
@@ -4593,8 +4593,8 @@
 		"itemname": "Banded Mail of Luck",
 		"file": "magicarmordisplay9da3.html",
 		"sources": [
-			"Ultimate Equipment pg. 124",
-			"PRPG Core Rulebook pg. 464"
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
 		],
 		"cost": 18900,
 		"type": "armor",
@@ -4614,7 +4614,7 @@
 	"Catskin Leather": {
 		"itemname": "Catskin Leather",
 		"file": "magicarmordisplaydc80.html",
-		"sources": [ "Ultimate Equipment pg. 125" ],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 18910,
 		"type": "armor",
 		"slot": "armor",
@@ -4633,7 +4633,7 @@
 	"Infiltrator's Mail": {
 		"itemname": "Infiltrator's Mail",
 		"file": "magicarmordisplay2292.html",
-		"sources": [ "Magical Marketplace pg. 7" ],
+		"sources": [ "Magical Marketplace" ],
 		"cost": 19650,
 		"type": "armor",
 		"slot": "armor",
@@ -4652,7 +4652,7 @@
 	"Ursine Rageskin": {
 		"itemname": "Ursine Rageskin",
 		"file": "magicarmordisplay460e.html",
-		"sources": [ "Horror Adventures pg. 214" ],
+		"sources": [ "Horror Adventures" ],
 		"cost": 20165,
 		"type": "armor",
 		"slot": "armor",
@@ -4671,7 +4671,7 @@
 	"The Forbidden Name": {
 		"itemname": "The Forbidden Name",
 		"file": "magicarmordisplayf9e2.html",
-		"sources": [ "Pathfinder #113: What Grows Within pg. 42" ],
+		"sources": [ "Pathfinder #113: What Grows Within" ],
 		"cost": 20175,
 		"type": "armor",
 		"slot": "armor",
@@ -4691,7 +4691,7 @@
 	"Howling Skull Armor": {
 		"itemname": "Howling Skull Armor",
 		"file": "magicarmordisplay4756.html",
-		"sources": [ "Pathfinder #59: The Price of Infamy pg. 60" ],
+		"sources": [ "Pathfinder #59: The Price of Infamy" ],
 		"cost": 20375,
 		"type": "armor",
 		"slot": "armor",
@@ -4710,7 +4710,7 @@
 	"Do-Maru of Broken Flesh": {
 		"itemname": "Do-Maru of Broken Flesh",
 		"file": "magicarmordisplay9e62.html",
-		"sources": [ "Pathfinder #52: Forest of Spirits pg. 60" ],
+		"sources": [ "Pathfinder #52: Forest of Spirits" ],
 		"cost": 20550,
 		"type": "armor",
 		"slot": "armor",
@@ -4730,7 +4730,7 @@
 	"Raiment of the Shining Crusade": {
 		"itemname": "Raiment of the Shining Crusade",
 		"file": "magicarmordisplay512f.html",
-		"sources": [ "Armor Master's Handbook pg. 29" ],
+		"sources": [ "Armor Master's Handbook" ],
 		"cost": 20750,
 		"type": "armor",
 		"slot": "armor",
@@ -4750,7 +4750,7 @@
 	"War Commander's Field Plate": {
 		"itemname": "War Commander's Field Plate",
 		"file": "magicarmordisplay8937.html",
-		"sources": [ "Inner Sea Combat pg. 53" ],
+		"sources": [ "Inner Sea Combat" ],
 		"cost": 21600,
 		"type": "armor",
 		"slot": "armor",
@@ -4770,7 +4770,7 @@
 	"Armor of Fragmenting Stone": {
 		"itemname": "Armor of Fragmenting Stone",
 		"file": "magicarmordisplay2b0d.html",
-		"sources": [ "Monster Summoner's Handbook pg. 20" ],
+		"sources": [ "Monster Summoner's Handbook" ],
 		"cost": 21650,
 		"type": "armor",
 		"slot": "armor",
@@ -4789,7 +4789,7 @@
 	"Gug Hide": {
 		"itemname": "Gug Hide",
 		"file": "magicarmordisplaye0c0.html",
-		"sources": [ "Planar Adventures pg. 47" ],
+		"sources": [ "Planar Adventures" ],
 		"cost": 22165,
 		"type": "armor",
 		"slot": "armor",
@@ -4808,7 +4808,7 @@
 	"Stalwart Breastplate": {
 		"itemname": "Stalwart Breastplate",
 		"file": "magicarmordisplay13d8.html",
-		"sources": [ "Mythic Adventures pg. 143" ],
+		"sources": [ "Mythic Adventures" ],
 		"cost": 22350,
 		"type": "armor",
 		"slot": "armor",
@@ -4828,8 +4828,8 @@
 		"itemname": "Celestial Armor",
 		"file": "magicarmordisplay1142.html",
 		"sources": [
-			"Ultimate Equipment pg. 125",
-			"PRPG Core Rulebook pg. 464"
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
 		],
 		"cost": 22400,
 		"type": "armor",
@@ -4849,7 +4849,7 @@
 	"Death's Preservation Banded Mail": {
 		"itemname": "Death's Preservation Banded Mail",
 		"file": "magicarmordisplay72e4.html",
-		"sources": [ "Dragonslayer's Handbook pg. 30" ],
+		"sources": [ "Dragonslayer's Handbook" ],
 		"cost": 22400,
 		"type": "armor",
 		"slot": "armor",
@@ -4867,7 +4867,7 @@
 	"Armiger's Armor": {
 		"itemname": "Armiger's Armor",
 		"file": "magicarmordisplaycf41.html",
-		"sources": [ "Melee Tactics Toolbox pg. 22" ],
+		"sources": [ "Melee Tactics Toolbox" ],
 		"cost": 22500,
 		"type": "armor",
 		"slot": "armor",
@@ -4886,7 +4886,7 @@
 	"Ghost Mirror Armor": {
 		"itemname": "Ghost Mirror Armor",
 		"file": "magicarmordisplaya897.html",
-		"sources": [ "Pathfinder #51: The Hungry Storm pg. 62" ],
+		"sources": [ "Pathfinder #51: The Hungry Storm" ],
 		"cost": 22675,
 		"type": "armor",
 		"slot": "armor",
@@ -4905,7 +4905,7 @@
 	"Armor of the Pious": {
 		"itemname": "Armor of the Pious",
 		"file": "magicarmordisplay4663.html",
-		"sources": [ "Pathfinder #74: Sword of Valor pg. 62" ],
+		"sources": [ "Pathfinder #74: Sword of Valor" ],
 		"cost": 23300,
 		"type": "armor",
 		"slot": "armor",
@@ -4924,7 +4924,7 @@
 	"Goblin Plate (Goblin)": {
 		"itemname": "Goblin Plate (Goblin)",
 		"file": "magicarmordisplay4879.html",
-		"sources": [ "Inner Sea Races pg. 224" ],
+		"sources": [ "Inner Sea Races" ],
 		"cost": 23650,
 		"type": "armor",
 		"slot": "armor",
@@ -4945,8 +4945,8 @@
 		"itemname": "Buccaneer's Breastplate",
 		"file": "magicarmordisplay83aa.html",
 		"sources": [
-			"Ultimate Equipment pg. 124",
-			"Advanced Player's Guide pg. 284"
+			"Ultimate Equipment",
+			"Advanced Player's Guide"
 		],
 		"cost": 23850,
 		"type": "armor",
@@ -4966,7 +4966,7 @@
 	"Dragonform Armor": {
 		"itemname": "Dragonform Armor",
 		"file": "magicarmordisplaye44c.html",
-		"sources": [ "Dragonslayer's Handbook pg. 30" ],
+		"sources": [ "Dragonslayer's Handbook" ],
 		"cost": 24120,
 		"type": "armor",
 		"slot": "armor",
@@ -4984,7 +4984,7 @@
 	"Purgatory's Cowl": {
 		"itemname": "Purgatory's Cowl",
 		"file": "magicarmordisplayc06f.html",
-		"sources": [ "Planar Adventures pg. 47" ],
+		"sources": [ "Planar Adventures" ],
 		"cost": 24175,
 		"type": "armor",
 		"slot": "armor",
@@ -5003,7 +5003,7 @@
 	"Aldori Dueling Armor": {
 		"itemname": "Aldori Dueling Armor",
 		"file": "magicarmordisplay8d0c.html",
-		"sources": [ "Armor Master's Handbook pg. 27" ],
+		"sources": [ "Armor Master's Handbook" ],
 		"cost": 24200,
 		"type": "armor",
 		"slot": "armor",
@@ -5023,8 +5023,8 @@
 		"itemname": "Plate Armor of the Deep",
 		"file": "magicarmordisplayf1cb.html",
 		"sources": [
-			"Ultimate Equipment pg. 128",
-			"PRPG Core Rulebook pg. 464"
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
 		],
 		"cost": 24650,
 		"type": "armor",
@@ -5044,7 +5044,7 @@
 	"Suit of Inverted Jade": {
 		"itemname": "Suit of Inverted Jade",
 		"file": "magicarmordisplay8037.html",
-		"sources": [ "Pathfinder #139: The Dead Road pg. 70" ],
+		"sources": [ "Pathfinder #139: The Dead Road" ],
 		"cost": 25000,
 		"type": "armor",
 		"slot": "armor",
@@ -5064,7 +5064,7 @@
 	"Spiritwalk Armor": {
 		"itemname": "Spiritwalk Armor",
 		"file": "magicarmordisplay1688.html",
-		"sources": [ "Mythic Adventures pg. 142" ],
+		"sources": [ "Mythic Adventures" ],
 		"cost": 25160,
 		"type": "armor",
 		"slot": "armor",
@@ -5084,8 +5084,8 @@
 		"itemname": "Breastplate of Command",
 		"file": "magicarmordisplayb636.html",
 		"sources": [
-			"Ultimate Equipment pg. 124",
-			"PRPG Core Rulebook pg. 464"
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
 		],
 		"cost": 25400,
 		"type": "armor",
@@ -5106,8 +5106,8 @@
 		"itemname": "Forsaken Banded Mail",
 		"file": "magicarmordisplayaa35.html",
 		"sources": [
-			"Ultimate Equipment pg. 126",
-			"Advanced Player's Guide pg. 284"
+			"Ultimate Equipment",
+			"Advanced Player's Guide"
 		],
 		"cost": 25400,
 		"type": "armor",
@@ -5127,7 +5127,7 @@
 	"Armor of the Tireless Warrior": {
 		"itemname": "Armor of the Tireless Warrior",
 		"file": "magicarmordisplay30ef.html",
-		"sources": [ "Pathfinder #53: Tide of Honor pg. 60" ],
+		"sources": [ "Pathfinder #53: Tide of Honor" ],
 		"cost": 25900,
 		"type": "armor",
 		"slot": "armor",
@@ -5146,7 +5146,7 @@
 	"Mail of Sly Steps (Halfling)": {
 		"itemname": "Mail of Sly Steps (Halfling)",
 		"file": "magicarmordisplaya781.html",
-		"sources": [ "Inner Sea Races pg. 225" ],
+		"sources": [ "Inner Sea Races" ],
 		"cost": 25900,
 		"type": "armor",
 		"slot": "armor",
@@ -5167,8 +5167,8 @@
 		"itemname": "Mithral Full Plate of Speed",
 		"file": "magicarmordisplay8a68.html",
 		"sources": [
-			"Ultimate Equipment pg. 128",
-			"PRPG Core Rulebook pg. 464"
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
 		],
 		"cost": 26500,
 		"type": "armor",
@@ -5188,7 +5188,7 @@
 	"Panoply of the Fierani Knight (Elf)": {
 		"itemname": "Panoply of the Fierani Knight (Elf)",
 		"file": "magicarmordisplay7abf.html",
-		"sources": [ "Inner Sea Races pg. 225" ],
+		"sources": [ "Inner Sea Races" ],
 		"cost": 26500,
 		"type": "armor",
 		"slot": "armor",
@@ -5208,7 +5208,7 @@
 	"Tunnel Defender Stoneplate": {
 		"itemname": "Tunnel Defender Stoneplate",
 		"file": "magicarmordisplaye674.html",
-		"sources": [ "Inner Sea Combat pg. 53" ],
+		"sources": [ "Inner Sea Combat" ],
 		"cost": 26700,
 		"type": "armor",
 		"slot": "armor",
@@ -5229,7 +5229,7 @@
 	"Vibrant Frog Hide": {
 		"itemname": "Vibrant Frog Hide",
 		"file": "magicarmordisplay7cc1.html",
-		"sources": [ "Down the Blighted Path pg. 63" ],
+		"sources": [ "Down the Blighted Path" ],
 		"cost": 28165,
 		"type": "armor",
 		"slot": "armor",
@@ -5250,7 +5250,7 @@
 	"Celestial Plate Armor": {
 		"itemname": "Celestial Plate Armor",
 		"file": "magicarmordisplay724b.html",
-		"sources": [ "Pathfinder #11: Skeletons of Scarwall pg. 29" ],
+		"sources": [ "Pathfinder #11: Skeletons of Scarwall" ],
 		"cost": 28650,
 		"type": "armor",
 		"slot": "armor",
@@ -5269,7 +5269,7 @@
 	"Blackjacket": {
 		"itemname": "Blackjacket",
 		"file": "magicarmordisplay42e4.html",
-		"sources": [ "Inner Sea Combat pg. 50" ],
+		"sources": [ "Inner Sea Combat" ],
 		"cost": 28700,
 		"type": "armor",
 		"slot": "armor",
@@ -5289,7 +5289,7 @@
 	"Warden of the Woods": {
 		"itemname": "Warden of the Woods",
 		"file": "magicarmordisplay78ad.html",
-		"sources": [ "Ultimate Equipment pg. 129" ],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 29350,
 		"type": "armor",
 		"slot": "armor",
@@ -5310,7 +5310,7 @@
 	"Dragon Herald Vestments": {
 		"itemname": "Dragon Herald Vestments",
 		"file": "magicarmordisplay4025.html",
-		"sources": [ "Kobolds of Golarion pg. 30" ],
+		"sources": [ "Kobolds of Golarion" ],
 		"cost": 30000,
 		"type": "armor",
 		"slot": "body",
@@ -5328,7 +5328,7 @@
 	"Alchemist's Suit": {
 		"itemname": "Alchemist's Suit",
 		"file": "magicarmordisplay894f.html",
-		"sources": [ "Melee Tactics Toolbox pg. 22" ],
+		"sources": [ "Melee Tactics Toolbox" ],
 		"cost": 30250,
 		"type": "armor",
 		"slot": "armor",
@@ -5347,7 +5347,7 @@
 	"Skyplate Armor": {
 		"itemname": "Skyplate Armor",
 		"file": "magicarmordisplay53f3.html",
-		"sources": [ "Pathfinder #83: The Slave Trenches of Hakotep pg. 63" ],
+		"sources": [ "Pathfinder #83: The Slave Trenches of Hakotep" ],
 		"cost": 30300,
 		"type": "armor",
 		"slot": "armor",
@@ -5366,7 +5366,7 @@
 	"Flowing Fortress Armor": {
 		"itemname": "Flowing Fortress Armor",
 		"file": "magicarmordisplay615b.html",
-		"sources": [ "Down the Blighted Path pg. 61" ],
+		"sources": [ "Down the Blighted Path" ],
 		"cost": 30350,
 		"type": "armor",
 		"slot": "armor",
@@ -5388,7 +5388,7 @@
 	"Maiden's Panoply": {
 		"itemname": "Maiden's Panoply",
 		"file": "magicarmordisplaye2b9.html",
-		"sources": [ "Adventurer's Guide pg. 87" ],
+		"sources": [ "Adventurer's Guide" ],
 		"cost": 30650,
 		"type": "armor",
 		"slot": "armor",
@@ -5407,7 +5407,7 @@
 	"Diviner's Blight": {
 		"itemname": "Diviner's Blight",
 		"file": "magicarmordisplayeefd.html",
-		"sources": [ "Ultimate Intrigue pg. 237" ],
+		"sources": [ "Ultimate Intrigue" ],
 		"cost": 31160,
 		"type": "armor",
 		"slot": "armor",
@@ -5428,7 +5428,7 @@
 	"Man Mountain Armor": {
 		"itemname": "Man Mountain Armor",
 		"file": "magicarmordisplay6d7e.html",
-		"sources": [ "The Harrow Handbook pg. 31" ],
+		"sources": [ "The Harrow Handbook" ],
 		"cost": 32350,
 		"type": "armor",
 		"slot": "armor",
@@ -5447,7 +5447,7 @@
 	"Scarab Breastplate": {
 		"itemname": "Scarab Breastplate",
 		"file": "magicarmordisplayfc9f.html",
-		"sources": [ "Ultimate Equipment pg. 129" ],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 32350,
 		"type": "armor",
 		"slot": "armor",
@@ -5468,7 +5468,7 @@
 	"Advocate's Armor": {
 		"itemname": "Advocate's Armor",
 		"file": "magicarmordisplayb4d8.html",
-		"sources": [ "Melee Tactics Toolbox pg. 22" ],
+		"sources": [ "Melee Tactics Toolbox" ],
 		"cost": 33160,
 		"type": "armor",
 		"slot": "armor",
@@ -5487,7 +5487,7 @@
 	"Clockwork Armor": {
 		"itemname": "Clockwork Armor",
 		"file": "magicarmordisplay5bb6.html",
-		"sources": [ "Armor Master's Handbook pg. 28" ],
+		"sources": [ "Armor Master's Handbook" ],
 		"cost": 33350,
 		"type": "armor",
 		"slot": "armor",
@@ -5508,7 +5508,7 @@
 	"Eel Skin Armor": {
 		"itemname": "Eel Skin Armor",
 		"file": "magicarmordisplayc953.html",
-		"sources": [ "Pathfinder #58: Island of Empty Eyes pg. 60" ],
+		"sources": [ "Pathfinder #58: Island of Empty Eyes" ],
 		"cost": 33810,
 		"type": "armor",
 		"slot": "armor",
@@ -5527,7 +5527,7 @@
 	"Full Plate of the Corpse": {
 		"itemname": "Full Plate of the Corpse",
 		"file": "magicarmordisplaye5f6.html",
-		"sources": [ "Advanced Class Guide pg. 211" ],
+		"sources": [ "Advanced Class Guide" ],
 		"cost": 35650,
 		"type": "armor",
 		"slot": "armor",
@@ -5546,7 +5546,7 @@
 	"Snailplate": {
 		"itemname": "Snailplate",
 		"file": "magicarmordisplaybd7d.html",
-		"sources": [ "Misfit Monsters Redeemed pg. 30" ],
+		"sources": [ "Misfit Monsters Redeemed" ],
 		"cost": 36000,
 		"type": "armor",
 		"slot": "armor",
@@ -5565,7 +5565,7 @@
 	"Phoenix Armor": {
 		"itemname": "Phoenix Armor",
 		"file": "magicarmordisplay9d8d.html",
-		"sources": [ "Champions of Purity pg. 31" ],
+		"sources": [ "Champions of Purity" ],
 		"cost": 36130,
 		"type": "armor",
 		"slot": "armor",
@@ -5584,8 +5584,8 @@
 		"itemname": "Giant-Hide Armor (ogre)",
 		"file": "magicarmordisplay146f.html",
 		"sources": [
-			"Ultimate Equipment pg. 127",
-			"Advanced Player's Guide pg. 284"
+			"Ultimate Equipment",
+			"Advanced Player's Guide"
 		],
 		"cost": 39165,
 		"type": "armor",
@@ -5606,7 +5606,7 @@
 	"Crag Linnorm Plate": {
 		"itemname": "Crag Linnorm Plate",
 		"file": "magicarmordisplay68fc.html",
-		"sources": [ "Inner Sea Combat pg. 50" ],
+		"sources": [ "Inner Sea Combat" ],
 		"cost": 41300,
 		"type": "armor",
 		"slot": "armor",
@@ -5626,7 +5626,7 @@
 	"Hallowed Chain, Greater (Varisian)": {
 		"itemname": "Hallowed Chain, Greater (Varisian)",
 		"file": "magicarmordisplay0cfb.html",
-		"sources": [ "Inner Sea Races pg. 225" ],
+		"sources": [ "Inner Sea Races" ],
 		"cost": 43300,
 		"type": "armor",
 		"slot": "armor",
@@ -5646,7 +5646,7 @@
 	"Hamatula Hide": {
 		"itemname": "Hamatula Hide",
 		"file": "magicarmordisplay45df.html",
-		"sources": [ "Ultimate Equipment pg. 127" ],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 44215,
 		"type": "armor",
 		"slot": "armor",
@@ -5667,8 +5667,8 @@
 		"itemname": "Giant-Hide Armor (hill giant)",
 		"file": "magicarmordisplayd421.html",
 		"sources": [
-			"Ultimate Equipment pg. 127",
-			"Advanced Player's Guide pg. 284"
+			"Ultimate Equipment",
+			"Advanced Player's Guide"
 		],
 		"cost": 46665,
 		"type": "armor",
@@ -5689,7 +5689,7 @@
 	"Wizard's Mail": {
 		"itemname": "Wizard's Mail",
 		"file": "magicarmordisplay2f59.html",
-		"sources": [ "Melee Tactics Toolbox pg. 23" ],
+		"sources": [ "Melee Tactics Toolbox" ],
 		"cost": 52100,
 		"type": "armor",
 		"slot": "armor",
@@ -5709,8 +5709,8 @@
 		"itemname": "Demon Armor",
 		"file": "magicarmordisplay8f6a.html",
 		"sources": [
-			"Ultimate Equipment pg. 125",
-			"PRPG Core Rulebook pg. 464"
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
 		],
 		"cost": 52260,
 		"type": "armor",
@@ -5731,7 +5731,7 @@
 	"Field Medic's Breastplate": {
 		"itemname": "Field Medic's Breastplate",
 		"file": "magicarmordisplay43ef.html",
-		"sources": [ "Champions of Purity pg. 31" ],
+		"sources": [ "Champions of Purity" ],
 		"cost": 52900,
 		"type": "armor",
 		"slot": "armor",
@@ -5749,7 +5749,7 @@
 	"Nightskin": {
 		"itemname": "Nightskin",
 		"file": "magicarmordisplayffa4.html",
-		"sources": [ "Pathfinder #30: The Twice-Damned Prince pg. 68" ],
+		"sources": [ "Pathfinder #30: The Twice-Damned Prince" ],
 		"cost": 53100,
 		"type": "armor",
 		"slot": "armor",
@@ -5769,7 +5769,7 @@
 	"Tiger's Hide": {
 		"itemname": "Tiger's Hide",
 		"file": "magicarmordisplayf513.html",
-		"sources": [ "Blood of the Moon pg. 23" ],
+		"sources": [ "Blood of the Moon" ],
 		"cost": 54115,
 		"type": "armor",
 		"slot": "armor",
@@ -5789,8 +5789,8 @@
 		"itemname": "Giant-Hide Armor (stone, fire, or frost giant)",
 		"file": "magicarmordisplay3fc3.html",
 		"sources": [
-			"Ultimate Equipment pg. 127",
-			"Advanced Player's Guide pg. 284"
+			"Ultimate Equipment",
+			"Advanced Player's Guide"
 		],
 		"cost": 54165,
 		"type": "armor",
@@ -5812,8 +5812,8 @@
 		"itemname": "Giant-Hide Armor (troll)",
 		"file": "magicarmordisplay159d.html",
 		"sources": [
-			"Ultimate Equipment pg. 127",
-			"Advanced Player's Guide pg. 284"
+			"Ultimate Equipment",
+			"Advanced Player's Guide"
 		],
 		"cost": 59165,
 		"type": "armor",
@@ -5834,7 +5834,7 @@
 	"Ebon Thorn": {
 		"itemname": "Ebon Thorn",
 		"file": "magicarmordisplaycaba.html",
-		"sources": [ "Lost Treasures pg. 26" ],
+		"sources": [ "Lost Treasures" ],
 		"cost": 60500,
 		"type": "armor",
 		"slot": "armor",
@@ -5854,8 +5854,8 @@
 		"itemname": "Gelugon Plate",
 		"file": "magicarmordisplayf0fe.html",
 		"sources": [
-			"Adventurer's Guide pg. 97",
-			"Inner Sea Combat pg. 51"
+			"Adventurer's Guide",
+			"Inner Sea Combat"
 		],
 		"cost": 60950,
 		"type": "armor",
@@ -5876,7 +5876,7 @@
 	"Mail of Malevolence": {
 		"itemname": "Mail of Malevolence",
 		"file": "magicarmordisplay9ff5.html",
-		"sources": [ "Ultimate Equipment pg. 127" ],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 61300,
 		"type": "armor",
 		"slot": "armor",
@@ -5896,7 +5896,7 @@
 	"Coruscating Raiment": {
 		"itemname": "Coruscating Raiment",
 		"file": "magicarmordisplay50d4.html",
-		"sources": [ "Planar Adventures pg. 47" ],
+		"sources": [ "Planar Adventures" ],
 		"cost": 63150,
 		"type": "armor",
 		"slot": "armor",
@@ -5915,7 +5915,7 @@
 	"O-Yoroi of Imperial Rule": {
 		"itemname": "O-Yoroi of Imperial Rule",
 		"file": "magicarmordisplayfef8.html",
-		"sources": [ "Pathfinder #54: The Empty Throne pg. 60" ],
+		"sources": [ "Pathfinder #54: The Empty Throne" ],
 		"cost": 68400,
 		"type": "armor",
 		"slot": "armor",
@@ -5935,8 +5935,8 @@
 		"itemname": "Giant-Hide Armor (cloud giant)",
 		"file": "magicarmordisplay3430.html",
 		"sources": [
-			"Ultimate Equipment pg. 127",
-			"Advanced Player's Guide pg. 284"
+			"Ultimate Equipment",
+			"Advanced Player's Guide"
 		],
 		"cost": 69165,
 		"type": "armor",
@@ -5958,8 +5958,8 @@
 		"itemname": "Giant-Hide Armor (storm giant)",
 		"file": "magicarmordisplayee25.html",
 		"sources": [
-			"Ultimate Equipment pg. 127",
-			"Advanced Player's Guide pg. 284"
+			"Ultimate Equipment",
+			"Advanced Player's Guide"
 		],
 		"cost": 79665,
 		"type": "armor",
@@ -5981,8 +5981,8 @@
 		"itemname": "Daystar Half-Plate",
 		"file": "magicarmordisplay1b2c.html",
 		"sources": [
-			"Ultimate Equipment pg. 125",
-			"Advanced Player's Guide pg. 284"
+			"Ultimate Equipment",
+			"Advanced Player's Guide"
 		],
 		"cost": 81250,
 		"type": "armor",
@@ -6002,7 +6002,7 @@
 	"Xill Carapace Armor": {
 		"itemname": "Xill Carapace Armor",
 		"file": "magicarmordisplay4771.html",
-		"sources": [ "Inner Sea Combat pg. 53" ],
+		"sources": [ "Inner Sea Combat" ],
 		"cost": 83050,
 		"type": "armor",
 		"slot": "armor",
@@ -6022,7 +6022,7 @@
 	"Empyreal Armor": {
 		"itemname": "Empyreal Armor",
 		"file": "magicarmordisplay51b6.html",
-		"sources": [ "Chronicle of the Righteous pg. 52" ],
+		"sources": [ "Chronicle of the Righteous" ],
 		"cost": 100050,
 		"type": "armor",
 		"slot": "armor",
@@ -6041,7 +6041,7 @@
 	"Gelugon Armor": {
 		"itemname": "Gelugon Armor",
 		"file": "magicarmordisplay3b1b.html",
-		"sources": [ "Melee Tactics Toolbox pg. 23" ],
+		"sources": [ "Melee Tactics Toolbox" ],
 		"cost": 117650,
 		"type": "armor",
 		"slot": "armor",
@@ -6060,7 +6060,7 @@
 	"Invincible Armor": {
 		"itemname": "Invincible Armor",
 		"file": "magicarmordisplay66d0.html",
-		"sources": [ "Ultimate Equipment pg. 127" ],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 137650,
 		"type": "armor",
 		"slot": "armor",
@@ -6079,7 +6079,7 @@
 	"Thanatotic Plate": {
 		"itemname": "Thanatotic Plate",
 		"file": "magicarmordisplay6b51.html",
-		"sources": [ "Book of the Damned pg. 197" ],
+		"sources": [ "Book of the Damned" ],
 		"cost": 141240,
 		"type": "armor",
 		"slot": "armor",
@@ -6100,7 +6100,7 @@
 	"Prismatic Plate": {
 		"itemname": "Prismatic Plate",
 		"file": "magicarmordisplayef29.html",
-		"sources": [ "Ultimate Equipment pg. 128" ],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 160650,
 		"type": "armor",
 		"slot": "armor",
@@ -6148,7 +6148,7 @@
 	"Living Steel Heavy Shield": {
 		"itemname": "Living Steel Heavy Shield",
 		"file": "magicarmordisplay1a8e.html",
-		"sources": [ "Ultimate Equipment pg. 132" ],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 120,
 		"type": "shield",
 		"slot": "shield",
@@ -6167,8 +6167,8 @@
 		"itemname": "Darkwood Buckler",
 		"file": "magicarmordisplay66ab.html",
 		"sources": [
-			"Ultimate Equipment pg. 131",
-			"PRPG Core Rulebook pg. 467"
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
 		],
 		"cost": 203,
 		"type": "shield",
@@ -6188,8 +6188,8 @@
 		"itemname": "Darkwood Shield",
 		"file": "magicarmordisplay7f7f.html",
 		"sources": [
-			"Ultimate Equipment pg. 131",
-			"PRPG Core Rulebook pg. 467"
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
 		],
 		"cost": 257,
 		"type": "shield",
@@ -6209,8 +6209,8 @@
 		"itemname": "Mithral Heavy Shield",
 		"file": "magicarmordisplayc45f.html",
 		"sources": [
-			"Ultimate Equipment pg. 132",
-			"PRPG Core Rulebook pg. 467"
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
 		],
 		"cost": 1020,
 		"type": "shield",
@@ -6229,7 +6229,7 @@
 	"Zombie Skin Shield": {
 		"itemname": "Zombie Skin Shield",
 		"file": "magicarmordisplayf520.html",
-		"sources": [ "Ultimate Equipment pg. 133" ],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 2159,
 		"type": "shield",
 		"slot": "shield",
@@ -6248,7 +6248,7 @@
 	"Breach Barrier": {
 		"itemname": "Breach Barrier",
 		"file": "magicarmordisplay2a16.html",
-		"sources": [ "Down the Blighted Path pg. 60" ],
+		"sources": [ "Down the Blighted Path" ],
 		"cost": 2370,
 		"type": "shield",
 		"slot": "none",
@@ -6267,7 +6267,7 @@
 	"Driftwood Shield": {
 		"itemname": "Driftwood Shield",
 		"file": "magicarmordisplay06c7.html",
-		"sources": [ "Inner Sea Gods pg. 251" ],
+		"sources": [ "Inner Sea Gods" ],
 		"cost": 2527,
 		"type": "shield",
 		"slot": "shield",
@@ -6287,8 +6287,8 @@
 		"itemname": "Caster's Shield",
 		"file": "magicarmordisplay1c61.html",
 		"sources": [
-			"Ultimate Equipment pg. 130",
-			"PRPG Core Rulebook pg. 467"
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
 		],
 		"cost": 3153,
 		"type": "shield",
@@ -6309,7 +6309,7 @@
 	"Bronze Whisperer's Shield": {
 		"itemname": "Bronze Whisperer's Shield",
 		"file": "magicarmordisplay21e1.html",
-		"sources": [ "Inner Sea Gods pg. 250" ],
+		"sources": [ "Inner Sea Gods" ],
 		"cost": 4279,
 		"type": "shield",
 		"slot": "shield",
@@ -6328,7 +6328,7 @@
 	"Scarab Shield": {
 		"itemname": "Scarab Shield",
 		"file": "magicarmordisplay3290.html",
-		"sources": [ "Pathfinder #79: The Half-Dead City pg. 61" ],
+		"sources": [ "Pathfinder #79: The Half-Dead City" ],
 		"cost": 4399,
 		"type": "shield",
 		"slot": "shield",
@@ -6349,7 +6349,7 @@
 	"Burglar's Buckler": {
 		"itemname": "Burglar's Buckler",
 		"file": "magicarmordisplay7113.html",
-		"sources": [ "Ultimate Equipment pg. 130" ],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 4655,
 		"type": "shield",
 		"slot": "shield",
@@ -6369,7 +6369,7 @@
 	"Challenging Shield": {
 		"itemname": "Challenging Shield",
 		"file": "magicarmordisplaye371.html",
-		"sources": [ "Armor Master's Handbook pg. 31" ],
+		"sources": [ "Armor Master's Handbook" ],
 		"cost": 5170,
 		"type": "shield",
 		"slot": "shield",
@@ -6389,8 +6389,8 @@
 		"itemname": "Spined Shield",
 		"file": "magicarmordisplay9007.html",
 		"sources": [
-			"Ultimate Equipment pg. 133",
-			"PRPG Core Rulebook pg. 467"
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
 		],
 		"cost": 5580,
 		"type": "shield",
@@ -6410,7 +6410,7 @@
 	"Okeno Madu": {
 		"itemname": "Okeno Madu",
 		"file": "magicarmordisplaybbc7.html",
-		"sources": [ "Inner Sea Combat pg. 52" ],
+		"sources": [ "Inner Sea Combat" ],
 		"cost": 5590,
 		"type": "shield",
 		"slot": "shield",
@@ -6430,7 +6430,7 @@
 	"Lockpick Shield": {
 		"itemname": "Lockpick Shield",
 		"file": "magicarmordisplay0267.html",
-		"sources": [ "Ultimate Intrigue pg. 237" ],
+		"sources": [ "Ultimate Intrigue" ],
 		"cost": 7159,
 		"type": "shield",
 		"slot": "shield",
@@ -6450,7 +6450,7 @@
 	"Dragonslayer's Shield": {
 		"itemname": "Dragonslayer's Shield",
 		"file": "magicarmordisplaya084.html",
-		"sources": [ "Ultimate Equipment pg. 131" ],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 7170,
 		"type": "shield",
 		"slot": "shield",
@@ -6469,7 +6469,7 @@
 	"Shield of Sunrise": {
 		"itemname": "Shield of Sunrise",
 		"file": "magicarmordisplay95cb.html",
-		"sources": [ "Undead Slayer's Handbook pg. 29" ],
+		"sources": [ "Undead Slayer's Handbook" ],
 		"cost": 7659,
 		"type": "shield",
 		"slot": "shield",
@@ -6489,7 +6489,7 @@
 	"Shield of Covered Retreat": {
 		"itemname": "Shield of Covered Retreat",
 		"file": "magicarmordisplay359d.html",
-		"sources": [ "Magical Marketplace pg. 7" ],
+		"sources": [ "Magical Marketplace" ],
 		"cost": 8157,
 		"type": "shield",
 		"slot": "shield",
@@ -6508,7 +6508,7 @@
 	"Clawhand Shield": {
 		"itemname": "Clawhand Shield",
 		"file": "magicarmordisplay3eb1.html",
-		"sources": [ "Advanced Class Guide pg. 211" ],
+		"sources": [ "Advanced Class Guide" ],
 		"cost": 8158,
 		"type": "shield",
 		"slot": "shield",
@@ -6528,7 +6528,7 @@
 	"Collapsible Tower": {
 		"itemname": "Collapsible Tower",
 		"file": "magicarmordisplayfa47.html",
-		"sources": [ "Ultimate Equipment pg. 131" ],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 8170,
 		"type": "shield",
 		"slot": "shield",
@@ -6547,7 +6547,7 @@
 	"Bulette Bulwark": {
 		"itemname": "Bulette Bulwark",
 		"file": "magicarmordisplaya0c5.html",
-		"sources": [ "Dungeon Denizens Revisited pg. 7" ],
+		"sources": [ "Dungeon Denizens Revisited" ],
 		"cost": 9157,
 		"type": "shield",
 		"slot": "shield",
@@ -6567,8 +6567,8 @@
 		"itemname": "Lion's Shield",
 		"file": "magicarmordisplay6ec5.html",
 		"sources": [
-			"Ultimate Equipment pg. 132",
-			"PRPG Core Rulebook pg. 467"
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
 		],
 		"cost": 9170,
 		"type": "shield",
@@ -6588,7 +6588,7 @@
 	"Maiden's Aegis": {
 		"itemname": "Maiden's Aegis",
 		"file": "magicarmordisplay8d89.html",
-		"sources": [ "Adventurer's Guide pg. 87" ],
+		"sources": [ "Adventurer's Guide" ],
 		"cost": 9170,
 		"type": "shield",
 		"slot": "shield",
@@ -6607,7 +6607,7 @@
 	"Brilliant Bulwark": {
 		"itemname": "Brilliant Bulwark",
 		"file": "magicarmordisplay3ed3.html",
-		"sources": [ "Blood of Shadows pg. 21" ],
+		"sources": [ "Blood of Shadows" ],
 		"cost": 9655,
 		"type": "shield",
 		"slot": "none",
@@ -6626,7 +6626,7 @@
 	"Caster's Shield, Greater": {
 		"itemname": "Caster's Shield, Greater",
 		"file": "magicarmordisplay22e8.html",
-		"sources": [ "Ultimate Equipment pg. 131" ],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 10153,
 		"type": "shield",
 		"slot": "shield",
@@ -6645,7 +6645,7 @@
 	"Gunner's Buckler": {
 		"itemname": "Gunner's Buckler",
 		"file": "magicarmordisplaya7c6.html",
-		"sources": [ "Armor Master's Handbook pg. 31" ],
+		"sources": [ "Armor Master's Handbook" ],
 		"cost": 10155,
 		"type": "shield",
 		"slot": "shield",
@@ -6664,7 +6664,7 @@
 	"Stalker's Fang (Shoanti)": {
 		"itemname": "Stalker's Fang (Shoanti)",
 		"file": "magicarmordisplay2c50.html",
-		"sources": [ "Inner Sea Races pg. 225" ],
+		"sources": [ "Inner Sea Races" ],
 		"cost": 11462,
 		"type": "shield",
 		"slot": "shield",
@@ -6685,8 +6685,8 @@
 		"itemname": "Celestial Shield",
 		"file": "magicarmordisplayfd7f.html",
 		"sources": [
-			"Ultimate Equipment pg. 131",
-			"Advanced Race Guide pg. 88"
+			"Ultimate Equipment",
+			"Advanced Race Guide"
 		],
 		"cost": 13170,
 		"type": "shield",
@@ -6706,7 +6706,7 @@
 	"Starsling Buckler": {
 		"itemname": "Starsling Buckler",
 		"file": "magicarmordisplay3775.html",
-		"sources": [ "Seers of the Drowned City pg. 55" ],
+		"sources": [ "Seers of the Drowned City" ],
 		"cost": 14000,
 		"type": "shield",
 		"slot": "none",
@@ -6726,7 +6726,7 @@
 	"Phalanx Shield": {
 		"itemname": "Phalanx Shield",
 		"file": "magicarmordisplaya0fc.html",
-		"sources": [ "Armor Master's Handbook pg. 31" ],
+		"sources": [ "Armor Master's Handbook" ],
 		"cost": 14080,
 		"type": "shield",
 		"slot": "shield",
@@ -6745,7 +6745,7 @@
 	"Maelstrom Shield": {
 		"itemname": "Maelstrom Shield",
 		"file": "magicarmordisplay2c85.html",
-		"sources": [ "Ultimate Equipment pg. 132" ],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 14170,
 		"type": "shield",
 		"slot": "shield",
@@ -6764,7 +6764,7 @@
 	"Spiteful Shield": {
 		"itemname": "Spiteful Shield",
 		"file": "magicarmordisplaya6ab.html",
-		"sources": [ "Book of the Damned pg. 197" ],
+		"sources": [ "Book of the Damned" ],
 		"cost": 14170,
 		"type": "shield",
 		"slot": "shield",
@@ -6783,7 +6783,7 @@
 	"Volcanic Shield": {
 		"itemname": "Volcanic Shield",
 		"file": "magicarmordisplay0d0f.html",
-		"sources": [ "Ultimate Equipment pg. 133" ],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 14170,
 		"type": "shield",
 		"slot": "shield",
@@ -6802,7 +6802,7 @@
 	"Surefooted Shield": {
 		"itemname": "Surefooted Shield",
 		"file": "magicarmordisplay5197.html",
-		"sources": [ "Pathfinder #94: Ice Tomb of the Giant Queen pg. 18" ],
+		"sources": [ "Pathfinder #94: Ice Tomb of the Giant Queen" ],
 		"cost": 14200,
 		"type": "shield",
 		"slot": "shield",
@@ -6822,7 +6822,7 @@
 	"Tempest Shield": {
 		"itemname": "Tempest Shield",
 		"file": "magicarmordisplay0265.html",
-		"sources": [ "Ultimate Equipment pg. 133" ],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 15170,
 		"type": "shield",
 		"slot": "shield",
@@ -6842,8 +6842,8 @@
 		"itemname": "Battlement Shield",
 		"file": "magicarmordisplay4953.html",
 		"sources": [
-			"Ultimate Equipment pg. 130",
-			"Advanced Player's Guide pg. 286"
+			"Ultimate Equipment",
+			"Advanced Player's Guide"
 		],
 		"cost": 16180,
 		"type": "shield",
@@ -6863,7 +6863,7 @@
 	"Shieldmarshal's Ward": {
 		"itemname": "Shieldmarshal's Ward",
 		"file": "magicarmordisplaya366.html",
-		"sources": [ "Mythic Origins pg. 18" ],
+		"sources": [ "Mythic Origins" ],
 		"cost": 17155,
 		"type": "shield",
 		"slot": "shield",
@@ -6884,7 +6884,7 @@
 	"Guard of Man": {
 		"itemname": "Guard of Man",
 		"file": "magicarmordisplay8aba.html",
-		"sources": [ "Inner Sea Combat pg. 51" ],
+		"sources": [ "Inner Sea Combat" ],
 		"cost": 17180,
 		"type": "shield",
 		"slot": "shield",
@@ -6905,8 +6905,8 @@
 		"itemname": "Winged Shield",
 		"file": "magicarmordisplayecd5.html",
 		"sources": [
-			"Ultimate Equipment pg. 133",
-			"PRPG Core Rulebook pg. 467"
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
 		],
 		"cost": 17257,
 		"type": "shield",
@@ -6926,7 +6926,7 @@
 	"Shield of the Mazeborn": {
 		"itemname": "Shield of the Mazeborn",
 		"file": "magicarmordisplay8efb.html",
-		"sources": [ "Melee Tactics Toolbox pg. 23" ],
+		"sources": [ "Melee Tactics Toolbox" ],
 		"cost": 18170,
 		"type": "shield",
 		"slot": "shield",
@@ -6946,8 +6946,8 @@
 		"itemname": "Bloodfeast Shield",
 		"file": "magicarmordisplay0ced.html",
 		"sources": [
-			"Monster Codex pg. 237",
-			"Pathfinder #48: Shadows of Gallowspire pg. 65"
+			"Monster Codex",
+			"Pathfinder #48: Shadows of Gallowspire"
 		],
 		"cost": 18770,
 		"type": "shield",
@@ -6968,7 +6968,7 @@
 	"Broadside Bulwark": {
 		"itemname": "Broadside Bulwark",
 		"file": "magicarmordisplaye185.html",
-		"sources": [ "Inner Sea Combat pg. 50" ],
+		"sources": [ "Inner Sea Combat" ],
 		"cost": 19007,
 		"type": "shield",
 		"slot": "shield",
@@ -6989,7 +6989,7 @@
 	"Avalanche Shield": {
 		"itemname": "Avalanche Shield",
 		"file": "magicarmordisplay1bbf.html",
-		"sources": [ "Ultimate Equipment pg. 130" ],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 19170,
 		"type": "shield",
 		"slot": "shield",
@@ -7009,8 +7009,8 @@
 		"itemname": "Fortress Shield",
 		"file": "magicarmordisplay5bcf.html",
 		"sources": [
-			"Ultimate Equipment pg. 132",
-			"Advanced Player's Guide pg. 286"
+			"Ultimate Equipment",
+			"Advanced Player's Guide"
 		],
 		"cost": 19180,
 		"type": "shield",
@@ -7030,7 +7030,7 @@
 	"Mwangi Spirit Shield": {
 		"itemname": "Mwangi Spirit Shield",
 		"file": "magicarmordisplayb491.html",
-		"sources": [ "Sargava, the Lost Colony pg. 29" ],
+		"sources": [ "Sargava, the Lost Colony" ],
 		"cost": 19393,
 		"type": "shield",
 		"slot": "shield",
@@ -7050,7 +7050,7 @@
 	"Lyrune-Quah Klar": {
 		"itemname": "Lyrune-Quah Klar",
 		"file": "magicarmordisplay33eb.html",
-		"sources": [ "Inner Sea Combat pg. 52" ],
+		"sources": [ "Inner Sea Combat" ],
 		"cost": 19912,
 		"type": "shield",
 		"slot": "shield",
@@ -7070,7 +7070,7 @@
 	"Wyrmslayer's Shield": {
 		"itemname": "Wyrmslayer's Shield",
 		"file": "magicarmordisplay7c4e.html",
-		"sources": [ "Ultimate Equipment pg. 133" ],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 20170,
 		"type": "shield",
 		"slot": "shield",
@@ -7089,7 +7089,7 @@
 	"Shield of Hags": {
 		"itemname": "Shield of Hags",
 		"file": "magicarmordisplaye6c4.html",
-		"sources": [ "People of the River pg. 29" ],
+		"sources": [ "People of the River" ],
 		"cost": 20273,
 		"type": "shield",
 		"slot": "shield",
@@ -7115,7 +7115,7 @@
 	"Elephant Shield": {
 		"itemname": "Elephant Shield",
 		"file": "magicarmordisplayabe1.html",
-		"sources": [ "Melee Tactics Toolbox pg. 23" ],
+		"sources": [ "Melee Tactics Toolbox" ],
 		"cost": 21340,
 		"type": "shield",
 		"slot": "shield",
@@ -7134,7 +7134,7 @@
 	"Bastion of the Inheritor": {
 		"itemname": "Bastion of the Inheritor",
 		"file": "magicarmordisplaye85c.html",
-		"sources": [ "Mythic Adventures pg. 142" ],
+		"sources": [ "Mythic Adventures" ],
 		"cost": 22170,
 		"type": "shield",
 		"slot": "shield",
@@ -7153,7 +7153,7 @@
 	"Spell Ward Tower Shield": {
 		"itemname": "Spell Ward Tower Shield",
 		"file": "magicarmordisplaycb5c.html",
-		"sources": [ "Ultimate Equipment pg. 133" ],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 25180,
 		"type": "shield",
 		"slot": "shield",
@@ -7172,7 +7172,7 @@
 	"Icon of Order": {
 		"itemname": "Icon of Order",
 		"file": "magicarmordisplay5d86.html",
-		"sources": [ "Divine Anthology pg. 6" ],
+		"sources": [ "Divine Anthology" ],
 		"cost": 26170,
 		"type": "shield",
 		"slot": "shield",
@@ -7191,7 +7191,7 @@
 	"Lens of the Dark Tapestry": {
 		"itemname": "Lens of the Dark Tapestry",
 		"file": "magicarmordisplayf0d8.html",
-		"sources": [ "Armor Master's Handbook pg. 31" ],
+		"sources": [ "Armor Master's Handbook" ],
 		"cost": 29170,
 		"type": "shield",
 		"slot": "shield",
@@ -7210,7 +7210,7 @@
 	"Quick Block Buckler": {
 		"itemname": "Quick Block Buckler",
 		"file": "magicarmordisplay8ac8.html",
-		"sources": [ "Ultimate Equipment pg. 132" ],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 36155,
 		"type": "shield",
 		"slot": "shield",
@@ -7229,7 +7229,7 @@
 	"Belligerent Shield": {
 		"itemname": "Belligerent Shield",
 		"file": "magicarmordisplay9e90.html",
-		"sources": [ "Ultimate Equipment pg. 130" ],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 36170,
 		"type": "shield",
 		"slot": "shield",
@@ -7248,7 +7248,7 @@
 	"Storval's Fang": {
 		"itemname": "Storval's Fang",
 		"file": "magicarmordisplay3cd9.html",
-		"sources": [ "Disciple's Doctrine pg. 30" ],
+		"sources": [ "Disciple's Doctrine" ],
 		"cost": 38312,
 		"type": "shield",
 		"slot": "none",
@@ -7268,7 +7268,7 @@
 	"Force Tower": {
 		"itemname": "Force Tower",
 		"file": "magicarmordisplay7925.html",
-		"sources": [ "Ultimate Equipment pg. 132" ],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 46030,
 		"type": "shield",
 		"slot": "shield",
@@ -7288,8 +7288,8 @@
 		"itemname": "Absorbing Shield",
 		"file": "magicarmordisplayd6b5.html",
 		"sources": [
-			"Ultimate Equipment pg. 130",
-			"PRPG Core Rulebook pg. 467"
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
 		],
 		"cost": 50170,
 		"type": "shield",
@@ -7310,8 +7310,8 @@
 		"itemname": "Elysian Shield",
 		"file": "magicarmordisplay02f5.html",
 		"sources": [
-			"Ultimate Equipment pg. 132",
-			"Advanced Race Guide pg. 89"
+			"Ultimate Equipment",
+			"Advanced Race Guide"
 		],
 		"cost": 52620,
 		"type": "shield",
@@ -7331,7 +7331,7 @@
 	"Savith's Iron": {
 		"itemname": "Savith's Iron",
 		"file": "magicarmordisplaye6a4.html",
-		"sources": [ "Lost Treasures pg. 51" ],
+		"sources": [ "Lost Treasures" ],
 		"cost": 59170,
 		"type": "shield",
 		"slot": "none",
@@ -7350,7 +7350,7 @@
 	"Spellbane Shield": {
 		"itemname": "Spellbane Shield",
 		"file": "magicarmordisplay8611.html",
-		"sources": [ "Melee Tactics Toolbox pg. 23" ],
+		"sources": [ "Melee Tactics Toolbox" ],
 		"cost": 79180,
 		"type": "shield",
 		"slot": "shield",
@@ -7369,7 +7369,7 @@
 	"Equalizer Shield": {
 		"itemname": "Equalizer Shield",
 		"file": "magicarmordisplayd190.html",
-		"sources": [ "Champions of Purity pg. 30" ],
+		"sources": [ "Champions of Purity" ],
 		"cost": 120830,
 		"type": "shield",
 		"slot": "shield",
