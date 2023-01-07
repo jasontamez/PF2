@@ -2178,7 +2178,7 @@
 			"Source ~`Chronicle of Legends pg. 8`~",
 			"You can send magical blasts through your weapon.",
 			"***Prerequisites:*** ~`Diverse training class feature.`~",
-			"***Benefit:*** As a standard action, you can cast a ray spell that requires a ranged touch attack and deliver the effect through your melee weapon, either through a melee attack or as a ranged attack. If you deliver this spell as a melee attack, this functions as the ~`magus spellstrike ability`~. If you deliver the spell as a ranged attack, the spell is a ranged touch attack that discharges from your weapon and applies the weapon's enhancement bonus to the spell's damage. When fired in this way, the spell uses the weapon's critical threat range, but the spell effect deals only ??2 damage on a successful critical hit. You can use a ranged touch attack spell that targets more than one creature (such as ~`scorching ray`~), but you make only one attack through your weapon to deliver one ranged touch effect; additional ranged touch attacks from the spell are wasted and have no effect."
+			"***Benefit:*** As a standard action, you can cast a ray spell that requires a ranged touch attack and deliver the effect through your melee weapon, either through a melee attack or as a ranged attack. If you deliver this spell as a melee attack, this functions as the ~`magus spellstrike ability`~. If you deliver the spell as a ranged attack, the spell is a ranged touch attack that discharges from your weapon and applies the weapon's enhancement bonus to the spell's damage. When fired in this way, the spell uses the weapon's critical threat range, but the spell effect deals only x2 damage on a successful critical hit. You can use a ranged touch attack spell that targets more than one creature (such as ~`scorching ray`~), but you make only one attack through your weapon to deliver one ranged touch effect; additional ranged touch attacks from the spell are wasted and have no effect."
 		],
 		"shortDescription": "Channel a ranged spell through your weapon"
 	},
@@ -5410,7 +5410,7 @@
 			"Source ~`Ultimate Intrigue pg. 75`~",
 			"You can verbally bully others into believing unlikely or outrageous lies.",
 			"***Prerequisites:*** Cha 13, Bluff 1 rank, Intimidate 1 rank.",
-			"***Benefit:*** When using Bluff to fool a foe, you can bully that person to reduce the penalty for telling an unlikely or far-fetched lie by 5. If you do so and your check would not have succeeded otherwise, after 1d6??10 minutes, the person you fooled realizes you bullied him into believing a lie, treats you as unfriendly, and might report you or take other actions against you.",
+			"***Benefit:*** When using Bluff to fool a foe, you can bully that person to reduce the penalty for telling an unlikely or far-fetched lie by 5. If you do so and your check would not have succeeded otherwise, after 1d6x10 minutes, the person you fooled realizes you bullied him into believing a lie, treats you as unfriendly, and might report you or take other actions against you.",
 			"***Normal:*** The penalty for telling unlikely lies is -5, and the penalty for telling far-fetched lies is -10."
 		],
 		"shortDescription": "Bully people into believing your Bluff"
@@ -6028,8 +6028,8 @@
 			"Source ~`Pathfinder #16: Endless Night pg. 63`~",
 			"In addition to the several fleshcrafting procedures listed, it's encouraged in drow society for characters experienced with fleshcrafting to constantly experiment and invent new ways of twisting flesh. The following feat is required to successfully brew a fleshcrafting potion.",
 			"***Prerequisites:*** Caster level 10th, 8 or more ranks in Craft (alchemy)",
-			"***Benefit:*** You can create a fleshcrafting poison capable of mimicking one monster ability. Brewing a poison takes 1 day. When you create a fleshcrafting poison, you set the caster level, which can be no higher than your own level. The base price of a temporary fleshcrafting poison is its caster level ?? the CR of the creature used in the fleshcrafting ?? 50 gp. To brew a poison, you must spend 1/25 of this base price in XP and use up raw materials costing 1/2 this base price.",
-			"The base price of a permanent fleshcrafting poison is its caster level ?? the CR of the creature used in the fleshcrafting ?? 1000 gp. To brew a poison, you must spend 1/25 of this base price in XP and use up raw materials costing 1/2 this base price.",
+			"***Benefit:*** You can create a fleshcrafting poison capable of mimicking one monster ability. Brewing a poison takes 1 day. When you create a fleshcrafting poison, you set the caster level, which can be no higher than your own level. The base price of a temporary fleshcrafting poison is its caster level x the CR of the creature used in the fleshcrafting x 50 gp. To brew a poison, you must spend 1/25 of this base price in XP and use up raw materials costing 1/2 this base price.",
+			"The base price of a permanent fleshcrafting poison is its caster level x the CR of the creature used in the fleshcrafting x 1000 gp. To brew a poison, you must spend 1/25 of this base price in XP and use up raw materials costing 1/2 this base price.",
 			"***Note:*** If the fleshcrafting is an original creation, use the nearest equivalent monster that possesses a similar body part or ability."
 		],
 		"shortDescription": "Learn to create fleshcrafting poisons"
@@ -6547,7 +6547,7 @@
 			"Burning Spell (Metamagic)",
 			"Source ~`Ultimate Magic pg. 143`~",
 			"You cause creatures to take extra damage when you affect them with a spell that has the acid or fire descriptor.",
-			"***Benefit:*** The acid or fire effects of the affected spell adhere to the creature, causing more damage the next round. When a creature takes acid or fire damage from the affected spell, that creature takes damage equal to 2?? the spell's actual level at the start of its next turn. The damage is acid or fire, as determined by the spell's descriptor. If a burning spell has both the fire and acid descriptor, the caster chooses what kind of damage is dealt by the burning spell effect. A burning spell uses up a slot two levels higher than the spell's actual level."
+			"***Benefit:*** The acid or fire effects of the affected spell adhere to the creature, causing more damage the next round. When a creature takes acid or fire damage from the affected spell, that creature takes damage equal to 2x the spell's actual level at the start of its next turn. The damage is acid or fire, as determined by the spell's descriptor. If a burning spell has both the fire and acid descriptor, the caster chooses what kind of damage is dealt by the burning spell effect. A burning spell uses up a slot two levels higher than the spell's actual level."
 		],
 		"shortDescription": "Spell with the acid or fire descriptor deals extra damage the next round"
 	},
@@ -7777,7 +7777,7 @@
 			"Source ~`Inner Sea Gods pg. 209`~",
 			"You can channel brutality into the weapons of your allies.",
 			"***Prerequisites:*** Channel negative energy 4d6, worshiper of Gorum.",
-			"***Benefit:*** As a standard action, you can expend one of your uses of channel energy to charge the melee weapons of all allies within 30 feet of you with negative energy. Affected melee weapons gain the vicious magic weapon special ability for 1 minute ?? your Charisma bonus (minimum 1 minute)."
+			"***Benefit:*** As a standard action, you can expend one of your uses of channel energy to charge the melee weapons of all allies within 30 feet of you with negative energy. Affected melee weapons gain the vicious magic weapon special ability for 1 minute x your Charisma bonus (minimum 1 minute)."
 		],
 		"shortDescription": "Expend a use of channel energy to grant vicious special ability to allies' weapons"
 	},
@@ -8779,7 +8779,7 @@
 			"Source ~`Adventurer's Guide pg. 133`~, ~`People of the North pg. 24`~",
 			"You are a child of the frozen north, and you draw strength from the biting cold and unforgiving conditions.",
 			"***Prerequisites:*** ~`Endurance.`~",
-			"***Benefit:*** When you are in conditions of severe cold (below 0?? F), you gain a +2 bonus on initiative checks and a +1 bonus on attack rolls. In addition, you gain the bonus on attack rolls for 1 round after any round in which you take cold damage."
+			"***Benefit:*** When you are in conditions of severe cold (below 0 F), you gain a +2 bonus on initiative checks and a +1 bonus on attack rolls. In addition, you gain the bonus on attack rolls for 1 round after any round in which you take cold damage."
 		],
 		"shortDescription": "+2 initiative and +1 attack rolls in cold"
 	},
@@ -10310,7 +10310,7 @@
 			"Source ~`Alchemy Manual pg. 22`~",
 			"You can use alchemy to create dangerous ooze creatures.",
 			"***Prerequisites:*** ~`Brew Potion`~, ~`Craft Wondrous Item`~, Craft (alchemy) 3 ranks, caster level 5th.",
-			"***Benefit:*** You can create living oozes as though they were magical items. Creating an ooze creature takes 1 day for each 500 gp in its construction cost. To create an ooze, you must have access to an oozing vat (see below), you must use up raw materials worth the construction cost of the ooze, and you must succeed at a Craft (alchemy) check (DC 10 + 2 ?? the ooze's CR). A failed check ruins the materials used, while a check that fails by 5 or more also results in an ooze that attacks its creator for 1d4 rounds before dissipating into useless waste material. A newly created ooze has average hit points for its Hit Dice. Oozes created with this feat are mindless and uncontrolled, and even normally intelligent oozes like slithering trackers that are created this way have no Intelligence score-nor any loyalty to their creator.",
+			"***Benefit:*** You can create living oozes as though they were magical items. Creating an ooze creature takes 1 day for each 500 gp in its construction cost. To create an ooze, you must have access to an oozing vat (see below), you must use up raw materials worth the construction cost of the ooze, and you must succeed at a Craft (alchemy) check (DC 10 + 2 x the ooze's CR). A failed check ruins the materials used, while a check that fails by 5 or more also results in an ooze that attacks its creator for 1d4 rounds before dissipating into useless waste material. A newly created ooze has average hit points for its Hit Dice. Oozes created with this feat are mindless and uncontrolled, and even normally intelligent oozes like slithering trackers that are created this way have no Intelligence score-nor any loyalty to their creator.",
 			"While ooze creatures cannot normally be purchased in traditional marketplaces, GMs who wish to include such an option in their games-perhaps with oozes sold as black market commodities' need only double the construction cost of a specific ooze creature in order to figure out a fair market price.",
 			"The following table lists some of the most commonly crafted oozes and their creation requirements. At the GM's discretion, other types of ooze creatures can be created with this feat. Creatures from Pathfinder RPG Bestiary 2, 3, or 4 are marked with a matching superscript.",
 			{
@@ -10407,7 +10407,7 @@
 			"Source ~`Pathfinder #90: The Divinity Drive pg. 71`~",
 			"You can build robots.",
 			"***Prerequisites:*** ~`Craft Technological Arms and Armor`~, ~`Craft Technological Item`~, ~`Technologist`~, Craft (mechanical) 9 ranks, Knowledge (engineering) 9 ranks.",
-			"***Benefit:*** You can create robots, provided you have access to a robotics lab and the necessary materials. A robot's price is equal to its CR ?? 20,000 gp, and the cost to create one is half this amount. Creating a robot takes 1 day for every 1,000 gp of its price. At the end of the process you must attempt a single Craft (mechanical) skill check to finish the robot. Failing this check means that the robot doesn't function and the materials and time are wasted. The DC for this skill check is equal to 20 + the robot's CR (minimum 21). A newly created robot has average hit points for its Hit Dice.",
+			"***Benefit:*** You can create robots, provided you have access to a robotics lab and the necessary materials. A robot's price is equal to its CR x 20,000 gp, and the cost to create one is half this amount. Creating a robot takes 1 day for every 1,000 gp of its price. At the end of the process you must attempt a single Craft (mechanical) skill check to finish the robot. Failing this check means that the robot doesn't function and the materials and time are wasted. The DC for this skill check is equal to 20 + the robot's CR (minimum 21). A newly created robot has average hit points for its Hit Dice.",
 			"***Special:*** A robotics lab is required to craft robots and uses 200 charges each day it is in operation. See page 16 of Pathfinder Campaign Setting: Technology Guide for more information on technological laboratories."
 		],
 		"shortDescription": "Learn how to build robots"
@@ -12157,7 +12157,7 @@
 			"Source ~`Ultimate Wilderness pg. 109`~",
 			"Your traps are especially deadly, either through their increased accuracy or the viciousness of their blades and bludgeons.",
 			"***Prerequisites:*** Craft (traps) 8 ranks, Survival 8 ranks.",
-			"***Benefit:*** If you craft a trap that requires an attack roll to hit, you can either increase the threat multiplier of the trap by 1 (??2 becomes ??3, and so on) or grant the trap's attack a +4 bonus to confirm a critical hit."
+			"***Benefit:*** If you craft a trap that requires an attack roll to hit, you can either increase the threat multiplier of the trap by 1 (x2 becomes x3, and so on) or grant the trap's attack a +4 bonus to confirm a critical hit."
 		],
 		"shortDescription": "Increase one of your trap's critical threat multipier by one or give it a +4 bonus on rolls to confirm critical hits"
 	},
@@ -12250,7 +12250,7 @@
 			"Source ~`Mythic Adventures pg. 62`~",
 			"When attacking from the air or higher ground, you bear down on your enemy to deadly effect.",
 			"***Prerequisites:*** ~`Death from Above.`~",
-			"***Benefit:*** Whenever you charge an opponent from higher ground, or from above while flying, the critical multiplier of your weapon increases by 2 (to a maximum of ??6). This doesn't stack with other abilities that increase a weapon's critical multiplier. If your charge attack hits, you can perform a trip combat maneuver against the attack's target as a free action without provoking attacks of opportunity."
+			"***Benefit:*** Whenever you charge an opponent from higher ground, or from above while flying, the critical multiplier of your weapon increases by 2 (to a maximum of x6). This doesn't stack with other abilities that increase a weapon's critical multiplier. If your charge attack hits, you can perform a trip combat maneuver against the attack's target as a free action without provoking attacks of opportunity."
 		],
 		"shortDescription": "Gain +5 bonus on attack rolls when charging from higher ground or flying",
 		"hasMythic": true,
@@ -16942,7 +16942,7 @@
 			"Source ~`Psychic Anthology pg. 24`~",
 			"As you become suffused with power, you become more and more like an elemental.",
 			"***Prerequisites:*** Elemental overflow class feature, kineticist level 15th.",
-			"***Benefit:*** Whenever you have accepted at least 4 points of burn, the chance to ignore the effects of a critical hit or sneak attack increases by an additional 10%. This chance increases by an additional 5% for every 2 points of burn you accept after that. This chance can't exceed 100%. Normal: Whenever you have accepted at least 3 points of burn, your chance to ignore the effects of a critical hit or sneak attack equals 5% ?? your current number of points of burn."
+			"***Benefit:*** Whenever you have accepted at least 4 points of burn, the chance to ignore the effects of a critical hit or sneak attack increases by an additional 10%. This chance increases by an additional 5% for every 2 points of burn you accept after that. This chance can't exceed 100%. Normal: Whenever you have accepted at least 3 points of burn, your chance to ignore the effects of a critical hit or sneak attack equals 5% x your current number of points of burn."
 		],
 		"shortDescription": "Improve elemental overflow's chance of negating critical hits and sneak attacks"
 	},
@@ -20790,7 +20790,7 @@
 			"Source ~`Adventurer's Guide pg. 25`~, ~`Inner Sea Combat pg. 10`~",
 			"You have integrated both the Roaring Falls and Shrouded Lake techniques of Aldori swordplay into a seamless union.",
 			"***Prerequisites:*** ~`Aldori Dueling Disciple`~, ~`Duelist of the Roaring Falls`~, ~`Duelist of the Shrouded Lake`~, ~`Exotic Weapon Proficiency (Aldori dueling sword)`~, ~`Weapon Finesse`~, ~`Weapon Focus (Aldori dueling sword)`~, base attack bonus +8.",
-			"***Benefit:*** When attacking a creature denied its Dexterity bonus to AC because of your successful feint, you increase the threat range of your Aldori dueling sword by 1 (typically to 18-20/??2), and gain a +2 bonus on attack rolls to confirm critical hits. After you make a dueling dodge or succeed at a dueling parry during a duel, you can make an attack of opportunity against the foe who attacked you if that foe is shaken, frightened, or panicked. To gain these benefits, you must be wielding only an Aldori dueling sword (not using a shield, an off-hand weapon, armor spikes, unarmed strikes, or natural weapons).",
+			"***Benefit:*** When attacking a creature denied its Dexterity bonus to AC because of your successful feint, you increase the threat range of your Aldori dueling sword by 1 (typically to 18-20/x2), and gain a +2 bonus on attack rolls to confirm critical hits. After you make a dueling dodge or succeed at a dueling parry during a duel, you can make an attack of opportunity against the foe who attacked you if that foe is shaken, frightened, or panicked. To gain these benefits, you must be wielding only an Aldori dueling sword (not using a shield, an off-hand weapon, armor spikes, unarmed strikes, or natural weapons).",
 			"~`Combat Trick`~ (from the ~`Combat Stamina`~ feat)",
 			"Source ~`Weapon Master's Handbook pg. 25`~",
 			"By spending 4 stamina points, you gain the ability to attempt a dueling dodge or a dueling parry against attacks made by a shaken, frightened, or panicked opponent, even if you aren't participating in a duel."
@@ -20861,7 +20861,7 @@
 			"You create a false trail to throw off pursuers, enabling you to increase your lead on those following you or make them lose your trail entirely.",
 			"***Prerequisites:*** Survival 3 ranks.",
 			"***Benefit:*** You can create a false trail in the wilderness via a combination of misleading footprints, discarded items, torn scraps of clothing, and other signs. When you create a false trail, you determine the direction it leads. A creature tracking you must succeed at a Perception or Survival check (DC = 10 + half your character level + your Wisdom modifier) to determine the trail is fake when first encountering it. On a success, the creature can continue to track you as normal. The effect of a failure to identify the trail as false depends on the time and effort spent making it.",
-			"Quick: A quick false trail takes 10 minutes to complete. A creature that fails to identify the trail as false follows it for 1d4??1,000 feet.",
+			"Quick: A quick false trail takes 10 minutes to complete. A creature that fails to identify the trail as false follows it for 1d4x1,000 feet.",
 			"***Normal:*** A normal false trail takes 1 hour to complete. A creature that fails to identify the trail as false follows it for 1d4 miles.",
 			"Elaborate: An elaborate false trail takes 4 hours to complete. A creature that fails to identify the trail as false follows it for 2d6 miles.",
 			"After a creature that fails to identify a false trail follows it for the determined distance, it can attempt another Perception or Survival check with a +5 bonus. On a success, the creature realizes it's following a false trail and can continue to track you as normal after backtracking to the start of the false trail (or wherever you diverged from the false trail). On a failure, the creature continues to move in the direction of the false trail for an additional mile. After each mile, it can attempt a new check with a cumulative +5 bonus."
@@ -23426,7 +23426,7 @@
 			"Source ~`Advanced Class Guide pg. 148`~",
 			"You can absorb the magic in your force spells to give you a concentrated burst of speed.",
 			"***Prerequisites:*** Base attack bonus +4, ability to cast 2nd-level arcane spells, ability to cast at least one arcane force spell.",
-			"***Benefit:*** As a swift action, you can sacrifice a prepared arcane force spell (or if you are a spontaneous caster, a spell slot of the same level as an arcane force spell you know) to give yourself an enhancement bonus to speed. The bonus gained is equal to 10 feet ?? the level of the spell sacrificed. The bonus applies to all forms of movement, and it lasts 1 round. If you charge while this bonus is in effect, you do not take the normal -2 penalty to AC until the start of your next turn."
+			"***Benefit:*** As a swift action, you can sacrifice a prepared arcane force spell (or if you are a spontaneous caster, a spell slot of the same level as an arcane force spell you know) to give yourself an enhancement bonus to speed. The bonus gained is equal to 10 feet x the level of the spell sacrificed. The bonus applies to all forms of movement, and it lasts 1 round. If you charge while this bonus is in effect, you do not take the normal -2 penalty to AC until the start of your next turn."
 		],
 		"shortDescription": "Lose a prepared spell or a spell slot to increase your speed"
 	},
@@ -26569,7 +26569,7 @@
 			"You dedicated yourself to the cause of slaughter against a specific group or people, either for country, for vengeance, or perhaps just for sport.",
 			"***Prerequisites:*** You must have been rendered unconscious and left for dead on a battlefield between warring factions or have the Child Soldier or Drafted background.",
 			"***Benefit:*** Select a particular nation, organization, or humanoid subtype (such as Cheliax, Eagle Knights, or goblinoids). You gain a +4 bonus on Sense Motive checks to determine whether a given creature is affiliated with that group and a +4 bonus on Bluff and Diplomacy checks to conceal your animosity toward members of that group.",
-			"***Goal:*** Deliver the killing blow to a number of your hated foes whose combined Hit Dice total is equal to 10 ?? your current character level.",
+			"***Goal:*** Deliver the killing blow to a number of your hated foes whose combined Hit Dice total is equal to 10 x your current character level.",
 			"***Completion Benefit:*** You gain a +2 bonus on Bluff, Knowledge, Perception, Sense Motive, and Survival checks against foes of your selected type, and a +2 bonus on weapon attack and damage rolls against them. These bonuses stack with a ranger's favored enemy bonuses.",
 			"***Special:*** By meeting the goal of this feat, your name becomes known to your enemy. Creatures of your chosen enemy faction gain a +1 morale bonus on attack and damage rolls against you should they become aware of your identity with a successful Knowledge (local) check (DC = 10 + your character level)."
 		],
@@ -27169,7 +27169,7 @@
 			"Source ~`Monster Hunter's Handbook pg. 24`~",
 			"You can extract the choicest parts from a monster's carcass to use as resources when crafting items.",
 			"***Prerequisites:*** Craft (any) 1 rank or Heal 1 rank.",
-			"***Benefit:*** You can attempt a Craft or Heal check, as though making a trophy, to gain usable resources from a creature that has been dead for less than an hour. Only creatures with a CR of 1 or higher yield usable parts. The value of the parts you harvest is equal to the creature's CR squared ?? 10 gp (increases to CR derived from class levels or templates do not contribute to this value). This value can be used only as raw materials for crafting alchemical, masterwork, mundane, or magic items. Items crafted using creature parts must be made of a suitable material-typically bone or hide, with metal only in extraordinary cases. No more than a quarter of a crafted item's cost can be supplied with harvested parts. Harvested parts remain usable for 2 days before they rot (unless used to craft objects or somehow preserved). Creature parts that are harvested in this manner can't be bought or sold in most settlements.",
+			"***Benefit:*** You can attempt a Craft or Heal check, as though making a trophy, to gain usable resources from a creature that has been dead for less than an hour. Only creatures with a CR of 1 or higher yield usable parts. The value of the parts you harvest is equal to the creature's CR squared x 10 gp (increases to CR derived from class levels or templates do not contribute to this value). This value can be used only as raw materials for crafting alchemical, masterwork, mundane, or magic items. Items crafted using creature parts must be made of a suitable material-typically bone or hide, with metal only in extraordinary cases. No more than a quarter of a crafted item's cost can be supplied with harvested parts. Harvested parts remain usable for 2 days before they rot (unless used to craft objects or somehow preserved). Creature parts that are harvested in this manner can't be bought or sold in most settlements.",
 			"Crafting Trophies",
 			"Although any character can take trophies from fallen creatures for cosmetic or roleplaying purposes, the following feats allow characters to derive functionality from items they salvage from monstrous corpses. These feats work similarly to item creation feats, except trophies are created using a single Craft or Heal check, they are nonmagical, and the benefits they provide are typically temporary. The DC of such a check is equal to 15 + the creature's CR, and creating a trophy takes a number of minutes equal to the creature's CR."
 		],
@@ -27186,7 +27186,7 @@
 			"Source ~`Haunted Heroes Handbook pg. 30`~",
 			"You can use spiritual essence to craft magic items.",
 			"***Prerequisites:*** Any one item creation feat or Craft (alchemy) 3 ranks.",
-			"***Benefit:*** You can harvest the ectoplasmic remains of haunts, incorporeal undead, or the like to craft magic items. Whenever you encounter a recently neutralized haunt, the remains of an incorporeal undead creature, or the remains of a creature that has the ability to possess another creature using a racial spell-like ability or supernatural ability (such as a ghost or a shadow demon), you can attempt to extract material components from those remains that are suitable for crafting magic items. You must have access to an alchemist's lab (Pathfinder RPG Ultimate Equipment 76) in order to extract components from a haunt or creature, and you must begin extracting these components within 10??minutes of the haunt or creature's death or destruction. After 10 minutes, the components have degraded too much to be of any use to you.",
+			"***Benefit:*** You can harvest the ectoplasmic remains of haunts, incorporeal undead, or the like to craft magic items. Whenever you encounter a recently neutralized haunt, the remains of an incorporeal undead creature, or the remains of a creature that has the ability to possess another creature using a racial spell-like ability or supernatural ability (such as a ghost or a shadow demon), you can attempt to extract material components from those remains that are suitable for crafting magic items. You must have access to an alchemist's lab (Pathfinder RPG Ultimate Equipment 76) in order to extract components from a haunt or creature, and you must begin extracting these components within 10xminutes of the haunt or creature's death or destruction. After 10 minutes, the components have degraded too much to be of any use to you.",
 			"Harvesting components with this feat can take several hours. Performing at least 1 minute of work extracting components from a haunt or creature prevents its material components from degrading further for 24 hours, allowing you to safely suspend and resume harvesting these components without fear of subsequent degradation. This ectoplasmic residue is portable once the extraction work begins, provided you have a vial to contain the source residue (the actual amount of residue is never much, physically, but the value of the components you can extract from the residue increases with the power of the original haunt or creature).",
 			"Each hour, attempt a Craft (alchemy) or a Knowledge (religion) check to successfully handle the residue and extract useful material. The DC for this check is equal to 15 + the CR of the haunt or creature being harvested. If you succeed at the check, you harvest 50 gp worth of components. If you fail the check by 4 or less, you can attempt to harvest those components again. If you fail the check by 5 or more, the residue spoils and you cannot scavenge any more from that particular source. A single source can yield an amount of components up to a maximum value of 50 gp per point of CR before it is depleted.",
 			"Material components harvested with Haunt Scavenger can be used in place of the material components of enchantment or necromancy spells and extracts, provided they are of equal or greater value compared to the spell's normal material components. Additionally, they can be used in place of actual gold to fund the construction of a magic item with an enchantment or necromancy aura."
@@ -27918,8 +27918,8 @@
 			"***Prerequisites:*** Base attack bonus +1, Knowledge (religion) 3 ranks.",
 			"***Benefit:*** In addition to holy water's normal uses, you can use holy water to create a variety of other effects, which are listed below. To use holy water in a particular way, you must meet the additional requirements of that effect, such as a particular feat, ranks in a specific skill, or the ability to cast a certain spell (specified after the effect's name). Unless otherwise specified, using any of these abilities consumes one vial of holy water.",
 			"Blinding Water (Improved Precise Shot): By uttering a short prayer as swift action, you can empower a vial of holy water with blinding light. If you successfully throw that vial of holy water and land a direct hit against an undead creature by the end of your next turn, the target takes damage from the holy water as normal and also becomes blinded (Reflex DC 13 negates blindness). This even affects creatures that do not have eyes such as skeletons, but not creatures that don't rely on vision.",
-			"Concentrate Holy Water (Craft [alchemy] 4 ranks): Through alchemical processes, you can refine multiple doses of holy water into a single hyperpotent dose. To do so, you must possess two or more flasks of holy water and you must succeed at a Craft (alchemy) check that takes 10 minutes of uninterrupted time. The DC of the Craft (alchemy) check is equal to 15 + 2 ?? the number of doses of holy water you are combining. For example, combining three flasks of holy water would require a successful DC 21 Craft (alchemy) check. Success means you combine all of the doses into a single concentrated flask of holy water. If you fail the check by 4 or less, the distillation process failed and must be tried again. If you fail the check by 5 or more, the distillation process failed and all of the doses of holy water are wasted. The maximum number of doses of holy water you can combine is equal to half the number of ranks you possess in Craft (alchemy).",
-			"A direct hit with a flask of concentrated holy water deals 2d4 points of damage + 2 points of damage ?? the number of doses of holy water used to an undead creature or an evil outsider. Undead creatures and evil outsiders within 5 feet of where the flask hits take 1 point of damage + 1 point of damage ?? the number of doses of holy water used. For example, a flask of concentrated holy water made of 3 doses of holy water would deal 2d4+6 points of damage on a direct hit, and 4 points of damage to undead creatures and evil outsiders within 5 feet of the target.",
+			"Concentrate Holy Water (Craft [alchemy] 4 ranks): Through alchemical processes, you can refine multiple doses of holy water into a single hyperpotent dose. To do so, you must possess two or more flasks of holy water and you must succeed at a Craft (alchemy) check that takes 10 minutes of uninterrupted time. The DC of the Craft (alchemy) check is equal to 15 + 2 x the number of doses of holy water you are combining. For example, combining three flasks of holy water would require a successful DC 21 Craft (alchemy) check. Success means you combine all of the doses into a single concentrated flask of holy water. If you fail the check by 4 or less, the distillation process failed and must be tried again. If you fail the check by 5 or more, the distillation process failed and all of the doses of holy water are wasted. The maximum number of doses of holy water you can combine is equal to half the number of ranks you possess in Craft (alchemy).",
+			"A direct hit with a flask of concentrated holy water deals 2d4 points of damage + 2 points of damage x the number of doses of holy water used to an undead creature or an evil outsider. Undead creatures and evil outsiders within 5 feet of where the flask hits take 1 point of damage + 1 point of damage x the number of doses of holy water used. For example, a flask of concentrated holy water made of 3 doses of holy water would deal 2d4+6 points of damage on a direct hit, and 4 points of damage to undead creatures and evil outsiders within 5 feet of the target.",
 			"Healing Glyph (ability to cast glyph of warding): You can replace the diamond material component in a glyph of warding spell with a vial of holy water. When you do so, you must place a spell glyph containing a conjuration (healing) spell of 3rd level or lower, which can be designed to benefit allies or harm undead.",
 			"Healing Water (Heal 5 ranks): You can use holy water for curative purposes. When you pour a vial of holy water over your hands, you gain a +4 bonus on Heal checks to perform first aid, treat wounds, treat poison, or treat disease in the next hour. Additionally, once per day you can drink a vial of holy water to heal yourself of 1d8 points of damage.",
 			"Holy Circle (ability to cast magic circle against evil): You can replace the silver material component of a magic circle against evil spell with a vial of holy water. When you do so, the duration of the spell increases 20 minutes per level instead of 10 minutes, and the Spellcraft DC to add a special diagram to the circle is 15 instead of 20.",
@@ -28873,7 +28873,7 @@
 			"Source ~`Mythic Adventures pg. 66`~",
 			"Your critical strikes with your chosen weapon are deadlier than most.",
 			"***Prerequisites:*** ~`Improved Critical`~, base attack bonus +8.",
-			"***Benefit:*** Your critical multiplier with your chosen weapon is increased by 1 (to a maximum of ??6).",
+			"***Benefit:*** Your critical multiplier with your chosen weapon is increased by 1 (to a maximum of x6).",
 			"***Special:*** You can gain this feat multiple times. The effects do not stack. Each time you take this feat, it applies to a different non-mythic Improved Critical feat."
 		],
 		"shortDescription": "Double the threat range of one weapon",
@@ -30629,7 +30629,7 @@
 			"Source ~`PRPG Core Rulebook pg. 128`~",
 			"You can turn nearly any object into a deadly weapon, from a razor-sharp chair leg to a sack of flour.",
 			"***Prerequisites:*** Catch Off-Guard or Throw Anything, base attack bonus +8.",
-			"***Benefit:*** You do not suffer any penalties for using an improvised weapon. Increase the amount of damage dealt by the improvised weapon by one step (for example, 1d4 becomes 1d6) to a maximum of 1d8 (2d6 if the improvised weapon is two-handed). The improvised weapon has a critical threat range of 19-20, with a critical multiplier of ??2.",
+			"***Benefit:*** You do not suffer any penalties for using an improvised weapon. Increase the amount of damage dealt by the improvised weapon by one step (for example, 1d4 becomes 1d6) to a maximum of 1d8 (2d6 if the improvised weapon is two-handed). The improvised weapon has a critical threat range of 19-20, with a critical multiplier of x2.",
 			"~`Combat Trick`~ (from the ~`Combat Stamina`~ feat)",
 			"Source ~`Pathfinder Unchained pg. 124`~",
 			"When making an improvised weapon attack, you can spend 2 stamina points to increase the damage of the attack by an additional step (to a maximum of 1d10, or 2d8 if the improvised weapon is two-handed)."
@@ -31528,7 +31528,7 @@
 			"Source ~`Advanced Race Guide pg. 78`~",
 			"You have boundless faith in your success.",
 			"***Prerequisites:*** Cha 13, ~`Fearless Curiosity`~, Intimidate 5 ranks, human.",
-			"***Benefit:*** You gain a +1 bonus on saving throws against effects with the emotion descriptor; this bonus stacks with the bonus granted by Fearless Curiosity. When you confirm a critical hit, as a free action you can make an Intimidate check to demoralize one creature you threaten. If you have the Dazzling Display feat, you can make Intimidate checks to demoralize all creatures you threaten instead. You gain a +2 bonus on this check if your weapon has a ??3 critical modifier, or +4 if it has a ??4 critical modifier."
+			"***Benefit:*** You gain a +1 bonus on saving throws against effects with the emotion descriptor; this bonus stacks with the bonus granted by Fearless Curiosity. When you confirm a critical hit, as a free action you can make an Intimidate check to demoralize one creature you threaten. If you have the Dazzling Display feat, you can make Intimidate checks to demoralize all creatures you threaten instead. You gain a +2 bonus on this check if your weapon has a x3 critical modifier, or +4 if it has a x4 critical modifier."
 		],
 		"shortDescription": "+1 save vs. emotion spells, make free Intimidate checks when confirming critical hits"
 	},
@@ -32468,7 +32468,7 @@
 			"***Benefit:*** Whenever you make a Knowledge check to identify a creature, even when using Kirin Style, you can take 10 even if stress and distractions would normally prevent you from doing so. While using Kirin Style against a creature you have identified using that feat, if the creature ends its turn within your threatened area, you can spend a use of your attacks of opportunity that round to move up to 5 feet times your Intelligence modifier (minimum 1). You must end your move in a square threatened by the creature. This move does not provoke attacks of opportunity.",
 			"~`Combat Trick`~ (from the ~`Combat Stamina`~ feat)",
 			"Source ~`Pathfinder Unchained pg. 125`~",
-			"When using Kirin Style, you can spend 5 stamina points instead of using an attack of opportunity to move a distance equal to 5 feet ?? your Intelligence modifier."
+			"When using Kirin Style, you can spend 5 stamina points instead of using an attack of opportunity to move a distance equal to 5 feet x your Intelligence modifier."
 		],
 		"shortDescription": "You may take 10 to identify a creature using Knowledge (local, nature, planes, or religion)",
 		"hasCombatTrick": true
@@ -34169,7 +34169,7 @@
 			"Source ~`Chronicle of Legends pg. 9`~",
 			"Your powerful draconic breath coats the battlefield.",
 			"***Prerequisites:*** ~`Dragon disciple level 3rd.`~",
-			"***Benefit:*** A creature that fails its save against your breath weapon is covered in a clinging effect that deals a number of points of damage equal to 1d6 ?? the number of times per day you can use your breath weapon. This lingering damage is of the same energy type as your breath weapon. The lingering breath effect remains for a number of rounds equal to your dragon disciple level, but in each subsequent round, a creature can spend a standard action to attempt another save against your breath weapon DC to remove the effect."
+			"***Benefit:*** A creature that fails its save against your breath weapon is covered in a clinging effect that deals a number of points of damage equal to 1d6 x the number of times per day you can use your breath weapon. This lingering damage is of the same energy type as your breath weapon. The lingering breath effect remains for a number of rounds equal to your dragon disciple level, but in each subsequent round, a creature can spend a standard action to attempt another save against your breath weapon DC to remove the effect."
 		],
 		"shortDescription": "Deal ongoing damage with your breath weapon"
 	},
@@ -34400,7 +34400,7 @@
 			"Source ~`Legacy of Dragons pg. 20`~",
 			"Your rigorous training allows you to redirect some of the energy from blows you take, turning your enemies' strength against them. Even death can't stop you from having your revenge.",
 			"***Prerequisites:*** Wis 13, ~`Improved Unarmed Strike`~, ~`Linnorm Style`~, base attack bonus +6 or monk level 6th.",
-			"***Benefit:*** While you're using the Linnorm Style feat and an enemy hits you with a melee attack, you gain a +2 bonus on unarmed strike attack rolls you make against that creature until the beginning of that creature's next turn. If a creature's melee attack would normally miss you, you can allow it to hit you to gain this bonus; the attack deals the minimum amount of damage (as?? though the attacker had rolled a natural 1 on each damage die).",
+			"***Benefit:*** While you're using the Linnorm Style feat and an enemy hits you with a melee attack, you gain a +2 bonus on unarmed strike attack rolls you make against that creature until the beginning of that creature's next turn. If a creature's melee attack would normally miss you, you can allow it to hit you to gain this bonus; the attack deals the minimum amount of damage (asx though the attacker had rolled a natural 1 on each damage die).",
 			"Furthermore, if a melee attack deals enough damage toknock you unconscious or kill you, you can make a single retaliatory unarmed strike attack against that opponent as a free action before you drop unconscious or die. If you do so, when you are restored to consciousness or to life, you are stunned for 1 round."
 		],
 		"shortDescription": "Allow an attack to hit you to gain combat bonuses against your attacker"
@@ -36243,7 +36243,7 @@
 			"***Benefit:*** As a standard action that does not provoke attacks of opportunity, you can attempt a coup de grace against a cowering, helpless, or stunned opponent that you have designated as your studied target.",
 			"~`Combat Trick`~ (from the ~`Combat Stamina`~ feat)",
 			"Source ~`Pathfinder Unchained pg. 127`~",
-			"You can spend 10 stamina points when you use this feat to increase your weapon's critical multiplier by 1 (??2 becomes ??3, and ??3 becomes ??4) for your coup de grace."
+			"You can spend 10 stamina points when you use this feat to increase your weapon's critical multiplier by 1 (x2 becomes x3, and x3 becomes x4) for your coup de grace."
 		],
 		"shortDescription": "Attempt a coup de grace against a cowering, helpless, or stunned studied target as a standard action",
 		"hasCombatTrick": true
@@ -37082,7 +37082,7 @@
 			"Source ~`Monster Hunter's Handbook pg. 24`~",
 			"You can weave pieces of beasts into your magic items.",
 			"***Prerequisites:*** ~`Craft Wondrous Item`~, ~`Grisly Ornament`~, ~`Harvest Parts.`~",
-			"***Benefit:*** Whenever you use the Grisly Ornament feat, you are able to permanently integrate one ornament you have crafted using the harvested creature parts into a wondrous item. The ornament grants no ongoing benefits, but once per day you can activate an integrated ornament as a free action to gain its full benefits for 1 minute. You can integrate an ornament into a wondrous item (or replace an item's existing ornament) by spending 8 hours of work and 100 gp ?? the creature's CR."
+			"***Benefit:*** Whenever you use the Grisly Ornament feat, you are able to permanently integrate one ornament you have crafted using the harvested creature parts into a wondrous item. The ornament grants no ongoing benefits, but once per day you can activate an integrated ornament as a free action to gain its full benefits for 1 minute. You can integrate an ornament into a wondrous item (or replace an item's existing ornament) by spending 8 hours of work and 100 gp x the creature's CR."
 		],
 		"shortDescription": "Integrate an ornament into a magic item to gain its benefit once per day"
 	},
@@ -38880,7 +38880,7 @@
 		"description": [
 			"Nosoi's Spiritsense",
 			"Source ~`Pathfinder #139: The Dead Road pg. 71`~",
-			"Even the lowliest psychopomp can sniff out the undead. A whippoorwill in a papier-m??ch?? mask taught you how to do it.",
+			"Even the lowliest psychopomp can sniff out the undead. A whippoorwill in a papier-mache' mask taught you how to do it.",
 			"***Prerequisites:*** ~`Duskwalker`~.",
 			"***Benefit:*** You can cast ~`detect undead`~ as a spell-like ability at will. Your caster level for the purpose of this effect is equal to your character level."
 		],
@@ -41552,7 +41552,7 @@
 			"Good: To earn good approval, you must heal another creature or deal nonlethal damage to a foe using an ability that has no additional effects beyond nonlethal damage. You gain electricity resistance and a +2 bonus on your saving throws.",
 			"Lawful: To earn lawful approval, you must perform the aid another action for an ally whose level is equal to or greater than your own, or you must benefit from the aid another action from such an ally. You gain cold resistance and the benefits of the ~`light fortification`~ armor special ability.",
 			"Neutral: To earn neutral approval, you must succeed at a saving throw prompted by a source with a CR of at least half your level. You gain resistance to any one energy type (your choice) and a +2 bonus on skill checks.",
-			"If your mentor is killed or imprisoned, you lose the benefits of this feat and any feats for which it is a prerequisite. When you gain a level, you can secure a new mentor by performing a ritual that takes 8 hours and expends components worth 200 gp ?? the new mentor's Hit Dice.",
+			"If your mentor is killed or imprisoned, you lose the benefits of this feat and any feats for which it is a prerequisite. When you gain a level, you can secure a new mentor by performing a ritual that takes 8 hours and expends components worth 200 gp x the new mentor's Hit Dice.",
 			"***Special:*** At the GM's discretion, a PC can select an outsider of any alignment. This represents a relationship in which the outsider is attempting to corrupt, redeem, or otherwise influence the PC."
 		],
 		"shortDescription": "Gain a planar mentor who gives you blessings when you act in their interest"
@@ -41928,7 +41928,7 @@
 			"Source ~`Advanced Class Guide pg. 153`~",
 			"With a surprise swipe with your pommel, you can topple a foe.",
 			"***Prerequisites:*** Amateur Swashbuckler or panache class feature; base attack bonus +3.",
-			"***Benefit:*** You can spend 1 panache point to make a melee attack with the pommel of a light or one-handed piercing melee weapon as a standard action. You make this attack as if you were using the weapon normally (including any bonuses gained from the swashbuckler's finesse class feature, Weapon Finesse, or other similar feats and effects), but you deal 1d6 bludgeoning damage (or 1d4 if you are Small) instead of the weapon's normal damage. Regardless of your size, the critical threat range and critical multiplier of this attack are 20/??2, and they are not affected by Improved Critical, the keen weapon special ability, or similar effects. If the attack hits, you can attempt a combat maneuver check to knock the target prone as a free action."
+			"***Benefit:*** You can spend 1 panache point to make a melee attack with the pommel of a light or one-handed piercing melee weapon as a standard action. You make this attack as if you were using the weapon normally (including any bonuses gained from the swashbuckler's finesse class feature, Weapon Finesse, or other similar feats and effects), but you deal 1d6 bludgeoning damage (or 1d4 if you are Small) instead of the weapon's normal damage. Regardless of your size, the critical threat range and critical multiplier of this attack are 20/x2, and they are not affected by Improved Critical, the keen weapon special ability, or similar effects. If the attack hits, you can attempt a combat maneuver check to knock the target prone as a free action."
 		],
 		"shortDescription": "Attack with a light or one-handed piercing weapon's pommel and knock down foes"
 	},
@@ -43873,7 +43873,7 @@
 			"Source ~`Haunted Heroes Handbook pg. 7`~",
 			"You can stagger incorporeal and possessed creatures through sheer force of will.",
 			"***Prerequisites:*** ~`Iron Will`~, can't have a patron deity.",
-			"***Benefit:*** As a full-round action, you can recite the Laws of Man with such force and dedication that you stagger those creatures that prey upon the bodies, minds, and souls of mortals. When you use this ability, you must target one creature within 30 feet to which you have line of sight. A successful Will save (DC = 10 + 1/2 your Hit Dice??+ your Charisma modifier) negates the effects of this feat. An incorporeal undead creature that fails its save against this effect is staggered. If you target a possessed creature, the possessing entity must succeed at a Will save to resist being staggered for 1 round. If it is staggered, the creature it possesses can immediately attempt a new saving throw to end the possession effect (possession effects that don't allow saving throws to resist them cannot be ended by Rahadoumi Exorcist, but the feat can still stagger a possessed creature). You can use this ability a number of times per day equal to 3 + your Charisma modifier."
+			"***Benefit:*** As a full-round action, you can recite the Laws of Man with such force and dedication that you stagger those creatures that prey upon the bodies, minds, and souls of mortals. When you use this ability, you must target one creature within 30 feet to which you have line of sight. A successful Will save (DC = 10 + 1/2 your Hit Dice + your Charisma modifier) negates the effects of this feat. An incorporeal undead creature that fails its save against this effect is staggered. If you target a possessed creature, the possessing entity must succeed at a Will save to resist being staggered for 1 round. If it is staggered, the creature it possesses can immediately attempt a new saving throw to end the possession effect (possession effects that don't allow saving throws to resist them cannot be ended by Rahadoumi Exorcist, but the feat can still stagger a possessed creature). You can use this ability a number of times per day equal to 3 + your Charisma modifier."
 		],
 		"shortDescription": "Stagger incorporeal undead and possessing creatures"
 	},
@@ -45226,7 +45226,7 @@
 			"Respectful Prey",
 			"Source ~`Haunted Heroes Handbook pg. 5`~",
 			"You have learned to assuage monstrous predators with special offerings.",
-			"***Benefit:*** A number of times per day equal to 3 + your Wisdom modifier, you can prepare a special offering. This takes 5 minutes and at least 5 gp worth of foodstuffs, spices, and other ingredients; a prepared offering lasts 8 hours before spoiling. You can present this offering to a nonhumanoid creature (even one which doesn't normally consume food) as a standard action. The offering's ingredients must be worth at least 5 gp ?? the creature's CR. This offering improves its attitude toward you by one step unless it succeeds at a Will save (DC = 10 + 1/2 your level??+ your Wisdom modifier). This attitude adjustment lasts only 5 minutes unless the creature's attitude is adjusted further during that time, such as via the Diplomacy skill. A specific creature cannot be affected by an offering made in this way more than once per 24 hours."
+			"***Benefit:*** A number of times per day equal to 3 + your Wisdom modifier, you can prepare a special offering. This takes 5 minutes and at least 5 gp worth of foodstuffs, spices, and other ingredients; a prepared offering lasts 8 hours before spoiling. You can present this offering to a nonhumanoid creature (even one which doesn't normally consume food) as a standard action. The offering's ingredients must be worth at least 5 gp x the creature's CR. This offering improves its attitude toward you by one step unless it succeeds at a Will save (DC = 10 + 1/2 your level + your Wisdom modifier). This attitude adjustment lasts only 5 minutes unless the creature's attitude is adjusted further during that time, such as via the Diplomacy skill. A specific creature cannot be affected by an offering made in this way more than once per 24 hours."
 		],
 		"shortDescription": "Give a creature food to make it friendly"
 	},
@@ -45945,7 +45945,7 @@
 			"Source ~`Blood of the Ancients pg. 27`~",
 			"You can fly through the air at high speed, creating a column of wind in your path that destabilizes other fliers.",
 			"***Prerequisites:*** ~`Turbulent Takeoff`~, Fly 10 ranks.",
-			"***Benefit:*** As a full-round action, you can fly up to twice your Fly speed in a straight line, creating a shockwave of rushing winds around you as you move. Each flying creature you pass adjacent to as part of this movement must succeed at a DC 25 Fly check or be blown back 1d6??10 feet and take 2d6 points of nonlethal damage due to battering and buffeting. Creatures that fail this check by 5 or more also lose 1d4??10 feet of altitude, and creatures that fail this check by 10 or more plummet to the ground."
+			"***Benefit:*** As a full-round action, you can fly up to twice your Fly speed in a straight line, creating a shockwave of rushing winds around you as you move. Each flying creature you pass adjacent to as part of this movement must succeed at a DC 25 Fly check or be blown back 1d6x10 feet and take 2d6 points of nonlethal damage due to battering and buffeting. Creatures that fail this check by 5 or more also lose 1d4x10 feet of altitude, and creatures that fail this check by 10 or more plummet to the ground."
 		],
 		"shortDescription": "Create a shockwave while flying to buffet other creatures"
 	},
@@ -46093,7 +46093,7 @@
 			},
 			"Refer to the Prime Constants table to determine the prime constants that can be used to cast a spell of the desired effective spell level. Then roll a number of d6s equal to the number of ranks you possess in Knowledge (engineering). Perform some combination of addition, subtraction, multiplication, and division upon the numbers rolled that gives rise to one of the relevant prime constants. If you can produce one of the relevant prime constants, the spell takes effect with the declared metamagic effects, and you expend a spell slot of the unaltered spell's level. If you are unsuccessful, you fail to cast the spell, the action used to cast the spell is lost, and the spell slot is used up. The DC of any concentration check to cast a spell affected by this feat uses the effective spell level used to determine the prime constants, even though a successful casting of the spell does not expend a higher-level spell slot.",
 			"For example, suppose Ezren wants to add the enlarged and empowered effects to the magic missile he just cast. He adds the total level increases of the metamagic effects to the spell level: 2 [empower] + 1 [enlarge] + 1 [magic missile's base level] = 4, so the spell's effective level is 4. Ezren refers to the Prime Constants table, and determines that the prime constants for that effective spell level are 31, 37, and 41.",
-			"Since Ezren has 5 ranks in Knowledge (engineering), he rolls 5d6. The results of his dice pool are 6, 6, 4, 3 and 1. He then performs the following operations to give rise to one of the prime constants he needs: (6 ?? 6) + (4 - 3) ?? 1 = 37. Note that he could also combine the numbers as follows: ([6 + 6] ?? 3) + 4 + 1 = 41. He has produced one of the prime constants for the desired effective spell level, so his empowered enlarged magic missile takes effect after the full-round casting time, and uses only a 1st-level spell slot. If the result of Ezren's dice pool were 1, 1, 2, and 5, he would have been unable to produce any of the relevant prime constants. His attempt would have been unsuccessful, and he would have expended a full-round action and his prepared 1st-level magic missile spell with no effect."
+			"Since Ezren has 5 ranks in Knowledge (engineering), he rolls 5d6. The results of his dice pool are 6, 6, 4, 3 and 1. He then performs the following operations to give rise to one of the prime constants he needs: (6 x 6) + (4 - 3) x 1 = 37. Note that he could also combine the numbers as follows: ([6 + 6] x 3) + 4 + 1 = 41. He has produced one of the prime constants for the desired effective spell level, so his empowered enlarged magic missile takes effect after the full-round casting time, and uses only a 1st-level spell slot. If the result of Ezren's dice pool were 1, 1, 2, and 5, he would have been unable to produce any of the relevant prime constants. His attempt would have been unsuccessful, and he would have expended a full-round action and his prepared 1st-level magic missile spell with no effect."
 		],
 		"shortDescription": "Add metamagic effects to your spells without using a higher-level spell slot"
 	},
@@ -50507,7 +50507,7 @@
 			"This creature can grab other creatures with ease.",
 			"***Prerequisites:*** Size Huge or larger.",
 			"***Benefit:*** The creature can start a grapple when it hits with a claw or bite attack, as though it had the grab ability. If it grapples a creature three or more sizes smaller, it squeezes each round for automatic bite or claw damage with a successful grapple check. A snatched opponent held in the creature's mouth is not allowed a Reflex save against the creature's breath weapon, if it has one.",
-			"The creature can drop a creature it has snatched as a free action or use a standard action to fling it aside. A flung creature travels 1d6 ?? 10 feet, and takes 1d6 points of damage per 10 feet traveled. If the creature flings a snatched opponent while flying, the opponent takes this amount or falling damage, whichever is greater."
+			"The creature can drop a creature it has snatched as a free action or use a standard action to fling it aside. A flung creature travels 1d6 x 10 feet, and takes 1d6 points of damage per 10 feet traveled. If the creature flings a snatched opponent while flying, the opponent takes this amount or falling damage, whichever is greater."
 		],
 		"shortDescription": "Start a grapple when hitting a creature with your claw or bite attack, as if you had the Grab ability."
 	},
@@ -50856,7 +50856,7 @@
 			"A soul used as a material component is damaged but not destroyed. Once used, such a soul is no longer trapped and cannot be used as a material component again. A creature whose soul has been used as a material component cannot be restored to life via ~`raise dead`~. ~`Reincarnate`~, ~`resurrection`~, and ~`true resurrection`~ can restore such a creature to life if the caster succeeds at a DC 20 caster level check. ~`Miracle`~ and ~`wish`~ can restore the creature to life without requiring a caster level check. Using Soul-Powered Magic is an evil act.",
 			"The Value of Souls",
 			"Trapped souls are one of the fundamental currencies throughout Abaddon, the Abyss, and Hell. Three key factors influence a soul's value in the soul trade: the strength of the soul's life force (which relates directly to the CR of the creature from which the soul was harvested), the soul's age (how long the soul has been cycled through reincarnation, which directly relates to the sapience of the creature from which the soul was harvested), and the soul's flavor (which is determined by factors that include the alignment, personality, and religion of the creature from which the soul was harvested). Of course, it's worth noting that while trading in souls may prove lucrative, the practice is undeniably evil and an affront to the natural order, and thus it is considered to be an evil act unless one is trading souls for an altruistic purpose (such as to smash purchased prisons and release the souls trapped within).",
-			"Life Force: A soul's life force sets its base gp value. This is equal to the CR of the creature from which the soul was harvested ?? 1,000. Thus, the base value of a CR 1 creature's soul is 1,000 gp, while the base value of a CR 20 creature's soul is 20,000 gp.",
+			"Life Force: A soul's life force sets its base gp value. This is equal to the CR of the creature from which the soul was harvested x 1,000. Thus, the base value of a CR 1 creature's soul is 1,000 gp, while the base value of a CR 20 creature's soul is 20,000 gp.",
 			"Age: A soul from a creature who in life had an Intelligence, Wisdom, or Charisma score of 2 or less (including the lack of a score at all in one of those categories, and regardless of how high the other ability scores were) is less refined and younger in age, and as such is worth half its base value. Thus, the soul of a CR 1 animal with an Intelligence of 1 is worth 500 gp, while the soul of a CR 20 vermin with no intelligence score at all would be worth 10,000 gp.",
 			"Flavor: As a general rule, a soul's flavor has no direct impact on its gp value for the purposes of functioning as a material component or raw materials for magic item creation, but in certain circumstances subject to the GM's discretion, the soul's flavor can halve or double its final value. For example, a paladin's soul might have double its normal value to a daemon who finds lawful good souls to be particularly delicious, while the soul of a devout worshiper of ~`Desna`~ might be worth only half as much when used to create a magic item designed to be particularly deadly when used against chaotic good creatures, since such a soul would inherently resist being used in such a way."
 		],
@@ -51633,7 +51633,7 @@
 			"Spirit Ridden",
 			"Source ~`Haunted Heroes Handbook pg. 25`~",
 			"You can invite lesser spirits to partially share your body in exchange for their training and experience.",
-			"***Benefit:*** You can perform a seance once per day, taking 1??hour and requiring your concentration, calling out to any nearby spirit with the skill you seek. At the end of the hour, you invite the spirit to inhabit your body. The spirit grants you ranks in a skill of your choice equal to your character level, and you treat the skill as a class skill. These effects persist for 1 hour per character level. You cannot have more ranks in a skill than your total number of Hit Dice. While you're possessed, the spirit influences your personality."
+			"***Benefit:*** You can perform a seance once per day, taking 1 hour and requiring your concentration, calling out to any nearby spirit with the skill you seek. At the end of the hour, you invite the spirit to inhabit your body. The spirit grants you ranks in a skill of your choice equal to your character level, and you treat the skill as a class skill. These effects persist for 1 hour per character level. You cannot have more ranks in a skill than your total number of Hit Dice. While you're possessed, the spirit influences your personality."
 		],
 		"shortDescription": "Gain ranks in a skill equal to your character level"
 	},
@@ -52925,7 +52925,7 @@
 			"Source ~`People of the Wastes pg. 11`~",
 			"Your melee strike leaves your target vulnerable to a merciless finishing shot.",
 			"***Prerequisites:*** ~`Point-Blank Shot`~, ~`Stock-Striker Style`~, ~`Stock-Striker Sweep`~, base attack bonus +9, pistol-whip gunslinger deed.",
-			"***Benefit:*** After you knock a target prone with the pistol-whip deed while using Stock-Striker Style, you can fire one barrel of a loaded firearm you're wielding at the target as a move action; if your firearm has the scatter weapon quality, you can instead make a scattering shot so long as you include the target in the area of effect. For this attack, you take no attack penalty for making a ranged attack against a prone target, and the critical multiplier of your weapon increases by 1 (to a maximum of ??5)."
+			"***Benefit:*** After you knock a target prone with the pistol-whip deed while using Stock-Striker Style, you can fire one barrel of a loaded firearm you're wielding at the target as a move action; if your firearm has the scatter weapon quality, you can instead make a scattering shot so long as you include the target in the area of effect. For this attack, you take no attack penalty for making a ranged attack against a prone target, and the critical multiplier of your weapon increases by 1 (to a maximum of x5)."
 		],
 		"shortDescription": "Execute a creature you knock to the ground with the pistol-whip deed"
 	},
@@ -53405,7 +53405,7 @@
 			"Source ~`Ultimate Intrigue pg. 92`~",
 			"For you, the urban environment becomes another brutal weapon you can use to shred flesh and break bones.",
 			"***Prerequisites:*** Str 15, ~`Improved Bull Rush`~, ~`Improved Unarmed Strike`~, ~`Power Attack`~, ~`Street Style`~, ~`Street Sweep`~, base attack bonus +8 or monk level 7th.",
-			"***Benefit:*** While using Street Style, the critical multiplier of your unarmed strikes becomes ??3, instead of ??2."
+			"***Benefit:*** While using Street Style, the critical multiplier of your unarmed strikes becomes x3, instead of x2."
 		],
 		"shortDescription": "Gain x3 critical multiplier with unamed strike"
 	},
@@ -53718,7 +53718,7 @@
 			"Source ~`Haunted Heroes Handbook pg. 6`~",
 			"Your insight lingers within the minds of your allies.",
 			"***Prerequisites:*** Inspirational expertise investigator talent.",
-			"***Benefit:*** You can spend one use of inspiration as a swift action to grant allies within 30 feet that can hear you a +4?? insight bonus on attack rolls against one type of monster for 1 round, provided you succeeded at a Knowledge check to identify that type of monster's special powers or vulnerabilities no more than 1 minute earlier."
+			"***Benefit:*** You can spend one use of inspiration as a swift action to grant allies within 30 feet that can hear you a +4 insight bonus on attack rolls against one type of monster for 1 round, provided you succeeded at a Knowledge check to identify that type of monster's special powers or vulnerabilities no more than 1 minute earlier."
 		],
 		"shortDescription": "Grant allies a +4 insight bonus to attack against one creature type"
 	},
@@ -56534,7 +56534,7 @@
 			"Those who you intimidate know that you'll go through with your threats.",
 			"***Prerequisites:*** ~`Nerve-Racking Negotiator`~, ~`Persuasive`~, ~`Skill Focus (Intimidate).`~",
 			"***Benefit:*** When you successfully use the Intimidate skill to force an opponent to act friendly toward you, the duration of the attitude change lasts 2d6 hours.",
-			"***Normal:*** Changing an opponent's attitude with Intimidate normally changes the foe's attitude to friendly for 1d6??10 minutes."
+			"***Normal:*** Changing an opponent's attitude with Intimidate normally changes the foe's attitude to friendly for 1d6x10 minutes."
 		],
 		"shortDescription": "Increase Intimidate's duration to 2d6 hours"
 	},
@@ -56658,7 +56658,7 @@
 			"***Normal:*** You take a -4 penalty on attack rolls made with an improvised weapon.",
 			"~`Combat Trick`~ (from the ~`Combat Stamina`~ feat)",
 			"Source ~`Pathfinder Unchained pg. 133`~",
-			"As long as you have at least 1 stamina point in your stamina pool, when you use a melee weapon that is not a thrown weapon for a ranged improvised weapon attack, you use the weapon's melee critical threat range and multiplier instead of the normal 20/??2 for improvised weapons. You can spend 2 stamina points to increase your range increment for thrown weapon attacks (including ranged improvised weapons) by 10 feet until the beginning of your next turn.",
+			"As long as you have at least 1 stamina point in your stamina pool, when you use a melee weapon that is not a thrown weapon for a ranged improvised weapon attack, you use the weapon's melee critical threat range and multiplier instead of the normal 20/x2 for improvised weapons. You can spend 2 stamina points to increase your range increment for thrown weapon attacks (including ranged improvised weapons) by 10 feet until the beginning of your next turn.",
 			"Mythic Throw Anything",
 			"Source ~`Mythic Adventures pg. 75`~",
 			"You're so skilled at throwing weapons that it hardly matters what you throw.",
@@ -58125,7 +58125,7 @@
 			"Tumultuous Spell (Metamagic)",
 			"Source ~`Planar Adventures pg. 33`~",
 			"You can pour the churning chaos of the Maelstrom into your magic, causing foes to scatter unpredictably, pushed apart in random directions as the unknowable whims of chaos itself, bringing with it strange and unexpected sounds and flashes of unnatural color.",
-			"***Benefit:*** You can enhance any spell that targets a single creature to become a tumultuous spell. A creature hit by a tumultuous spell (if the spell requires an attack roll) or that fails its saving throw against a tumultuous spell immediately moves 1d4??5 feet in a random direction. This movement does not provoke attacks of opportunity. If this movement would force a creature into a solid object or another creature, the movement ends harmlessly just before impact.",
+			"***Benefit:*** You can enhance any spell that targets a single creature to become a tumultuous spell. A creature hit by a tumultuous spell (if the spell requires an attack roll) or that fails its saving throw against a tumultuous spell immediately moves 1d4x5 feet in a random direction. This movement does not provoke attacks of opportunity. If this movement would force a creature into a solid object or another creature, the movement ends harmlessly just before impact.",
 			"A tumultuous spell uses a spell slot 1 level higher than the spell's normal spell level. Spells with the lawful descriptor can't be tumultuous spells."
 		],
 		"shortDescription": "Spell causes a target to move in a random direction"
@@ -59806,7 +59806,7 @@
 			"Embalmed Form: This prayer scroll alters your physical form to how you looked 1 day before your death. Treat this as an alter self spell that affects you regardless of your original or current type; your caster level is equal to your Hit Dice. Your speed increases by 10 feet, but you lose your immunity to trip attacks and your ability to move through difficult terrain unhindered. These effects persist indefinitely as long as you wear the prayer scroll, but end immediately if you use a different prayer scroll or 24 hours after you remove this prayer scroll.",
 			"Enduring Dust: If you crumble into dust from hit point damage, you reform after 1 round instead of 1 minute. Scattering your dust does not prevent you from reforming as long none of your dust is more than 30 feet from any other part of your dust. Storing a portion of your dust in an air-tight container prevents you from reforming. If you are unable to reform after 1 minute, you are destroyed.",
 			"Positive Energy Immunity: You become immune to positive channeled energy used to harm undead. This does not protect you against positive energy from other sources such as cure spells or lay on hands.",
-			"Spell Immunity: The prayer scroll grants you immunity to a spell, as if you were using spell immunity. You decide which spell when you create the prayer scroll, and can choose a different spell each time you create a new spell immunity prayer scroll. If you have 15 or more Hit Dice, this functions as greater spell immunity. Creating this type of prayer scroll costs 100 gp ?? the spell level of the spell keyed to the scroll.",
+			"Spell Immunity: The prayer scroll grants you immunity to a spell, as if you were using spell immunity. You decide which spell when you create the prayer scroll, and can choose a different spell each time you create a new spell immunity prayer scroll. If you have 15 or more Hit Dice, this functions as greater spell immunity. Creating this type of prayer scroll costs 100 gp x the spell level of the spell keyed to the scroll.",
 			"***Special:*** You may select this feat multiple times. Each time you do so, choose another ability granted by the feat."
 		],
 		"shortDescription": "Change the powers granted by your prayer-scroll"
@@ -61426,7 +61426,7 @@
 			"Source ~`Halflings of Golarion pg. 23`~",
 			"You can use your sling as a sap to make attacks of opportunity.",
 			"***Prerequisites:*** Proficient with sling.",
-			"***Benefit:*** When wielding a sling, double sling, or halfling sling staff, you threaten areas around you as normal and can make attacks of opportunity with the sling into these threatened areas. The sling deals 1d4 nonlethal bludgeoning damage (1d6 for a Medium wielder), threatens a critical hit on a 20, and deals ??2 damage on a critical hit. If the sling isn't loaded with ammunition when you make an attack of opportunity, you take a -4 penalty on the attack roll.",
+			"***Benefit:*** When wielding a sling, double sling, or halfling sling staff, you threaten areas around you as normal and can make attacks of opportunity with the sling into these threatened areas. The sling deals 1d4 nonlethal bludgeoning damage (1d6 for a Medium wielder), threatens a critical hit on a 20, and deals x2 damage on a critical hit. If the sling isn't loaded with ammunition when you make an attack of opportunity, you take a -4 penalty on the attack roll.",
 			"***Normal:*** Slings and double slings are ranged weapons, do not threaten areas, and cannot make attacks of opportunity. A halfling sling staff can be used as a simple melee weapon that deals bludgeoning damage equal to that of a club its size; as a melee weapon, it threatens areas normally and its wielder can make attacks of opportunity with it."
 		],
 		"shortDescription": "Threaten the area around you with a sling"
@@ -61756,7 +61756,7 @@
 			"Source ~`Spymaster's Handbook pg. 17`~",
 			"Those who observe your imposing demeanor assume muscle is your sole advantage, but you prove them wrong every time.",
 			"***Prerequisites:*** Bluff 1 rank, Sense Motive 1 rank, base attack bonus +1, or you must have the Military Strategist background (page 5).",
-			"***Benefit:*** Once per day, you can use your ranks in Sense Motive in place of your total Will saving throw modifier when attempting a Will save. You must decide to use this ability prior to attempting the saving??throw.",
+			"***Benefit:*** Once per day, you can use your ranks in Sense Motive in place of your total Will saving throw modifier when attempting a Will save. You must decide to use this ability prior to attempting the saving throw.",
 			"***Goal:*** Thwart an appropriate number of challenging foes after getting a negative hunch about them when they attempted to deceive you or after ambushing them.",
 			"***Completion Benefit:*** The DC of Bluff and Intimidate checks attempted against you increase by 5."
 		],

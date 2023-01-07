@@ -136,7 +136,7 @@
 	{
 		"title": "Calculated Bribe",
 		"reqs": { "code": "Code of Perseverance" },
-		"desc": "If you follow this code, you are keenly aware of the value of actions as well as goods. Once per day while haggling with a merchant or striking a bargain with another intelligent creature, you can spend a number of gold pieces equal to your level ?? 10 in order to reroll a Diplomacy check you just made, before the results are revealed. You must take the result of the reroll, even if it's worse than the original roll. In addition, you begin play with a set of extravagant noble's clothes worth 100 gp.",
+		"desc": "If you follow this code, you are keenly aware of the value of actions as well as goods. Once per day while haggling with a merchant or striking a bargain with another intelligent creature, you can spend a number of gold pieces equal to your level x 10 in order to reroll a Diplomacy check you just made, before the results are revealed. You must take the result of the reroll, even if it's worse than the original roll. In addition, you begin play with a set of extravagant noble's clothes worth 100 gp.",
 		"type": "Social",
 		"sources": ["Knights of the Inner Sea"]
 	},
@@ -3746,7 +3746,7 @@
 	{
 		"title": "Generous",
 		"reqs": { "race": "Human", "ethnic": "Taldan" },
-		"desc": "Your neighbors gained your respect with their generosity, and you emulate their example. Whenever you give to a creature a gift or service worth at least 25 gold pieces ?? the creature's CR, you gain a +2 trait bonus on Bluff and Diplomacy checks against that creature for the next 24 hours.",
+		"desc": "Your neighbors gained your respect with their generosity, and you emulate their example. Whenever you give to a creature a gift or service worth at least 25 gold pieces x the creature's CR, you gain a +2 trait bonus on Bluff and Diplomacy checks against that creature for the next 24 hours.",
 		"type": "Race",
 		"sources": ["Inner Sea Races"]
 	},
@@ -7583,7 +7583,7 @@
 	{
 		"title": "Senatorial Hopeful",
 		"reqs": { "campaign": "War for the Crown" },
-		"desc": "While you belong to a noble family, hailing from the outlying prefectures means you lack the pull and wealth needed to rub shoulders with the stars of Oppara's social scene. Your life has been quiet, isolated from the thrum of fashion and pop culture, but you see this as a source of insight and aim to help people by someday joining the senate. It'll be a long journey, but you've already begun learning which hands to shake and how to listen carefully when others tell you what they want. You gain a +1 bonus on Diplomacy and Knowledge (local) checks, and both of these skills are always class skills for you. Once each week you can call on family connections to obtain a single piece of equipment or consumable magic item (such as a potion or scroll) worth up to your character level ?? 25 gp. Delivery of the goods you request takes 1d4 days. At 10th level, the potential value of a magical item increases to your character level ?? 50 gp, and your requests can also include spellcasting services and wands.",
+		"desc": "While you belong to a noble family, hailing from the outlying prefectures means you lack the pull and wealth needed to rub shoulders with the stars of Oppara's social scene. Your life has been quiet, isolated from the thrum of fashion and pop culture, but you see this as a source of insight and aim to help people by someday joining the senate. It'll be a long journey, but you've already begun learning which hands to shake and how to listen carefully when others tell you what they want. You gain a +1 bonus on Diplomacy and Knowledge (local) checks, and both of these skills are always class skills for you. Once each week you can call on family connections to obtain a single piece of equipment or consumable magic item (such as a potion or scroll) worth up to your character level x 25 gp. Delivery of the goods you request takes 1d4 days. At 10th level, the potential value of a magical item increases to your character level x 50 gp, and your requests can also include spellcasting services and wands.",
 		"type": "Campaign",
 		"sources": ["War for the Crown Player's Guide"]
 	},
@@ -11017,7 +11017,7 @@
 	{
 		"title": "Generous",
 		"reqs": { "race": "Human-Taldan" },
-		"desc": "Your neighbors gained your respect with their generosity, and you emulate their example. Whenever you give to a creature a gift or service worth at least 25 gold pieces ?? the creature's CR, you gain a +2 trait bonus on Bluff and Diplomacy checks against that creature for the next 24 hours.",
+		"desc": "Your neighbors gained your respect with their generosity, and you emulate their example. Whenever you give to a creature a gift or service worth at least 25 gold pieces x the creature's CR, you gain a +2 trait bonus on Bluff and Diplomacy checks against that creature for the next 24 hours.",
 		"type": "Race",
 		"sources": ["Inner Sea Races"]
 	},
@@ -13317,7 +13317,7 @@
 	},
 	{
 		"title": "Imperfect Recall",
-		"desc": "Your belief in reincarnation, as taught by the Sangpotshi philosophy and in lands that were once Imperial Lung Wa, has been reinforced by personal experience. In moments of great stress, you sometimes experience flashes of d??j?? vu in which you recall information you don't remember ever having known. Once per day while you are in danger or distracted, you gain a +3 bonus on a single Knowledge skill check.",
+		"desc": "Your belief in reincarnation, as taught by the Sangpotshi philosophy and in lands that were once Imperial Lung Wa, has been reinforced by personal experience. In moments of great stress, you sometimes experience flashes of deja vu in which you recall information you don't remember ever having known. Once per day while you are in danger or distracted, you gain a +3 bonus on a single Knowledge skill check.",
 		"type": "Faith",
 		"sources": ["Disciple's Doctrine"]
 	},
@@ -14395,7 +14395,7 @@
 	{
 		"title": "Cultivated",
 		"reqs": { "region": "Any City" },
-		"desc": "You grew up speaking multiple languages. You learn one additional language. Additionally, when attempting a Diplomacy check to gather information using this language, you can do so in 1d6 ?? 10 minutes, rather than the normal 1d4 hours.",
+		"desc": "You grew up speaking multiple languages. You learn one additional language. Additionally, when attempting a Diplomacy check to gather information using this language, you can do so in 1d6 x 10 minutes, rather than the normal 1d4 hours.",
 		"type": "Regional",
 		"sources": ["Heroes of the Streets"]
 	},
