@@ -5,7 +5,7 @@
 		"sources": [],
 		"costAdjustment": "+1 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Balanced": {
 		"itemname": "Balanced",
@@ -13,7 +13,7 @@
 		"sources": [],
 		"costAdjustment": "+1 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Benevolent": {
 		"itemname": "Benevolent",
@@ -21,7 +21,7 @@
 		"sources": [],
 		"costAdjustment": "+1 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Billowing": {
 		"itemname": "Billowing",
@@ -29,7 +29,7 @@
 		"sources": [],
 		"costAdjustment": "+1 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Bitter": {
 		"itemname": "Bitter",
@@ -37,7 +37,7 @@
 		"sources": [],
 		"costAdjustment": "+1 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Bolstering": {
 		"itemname": "Bolstering",
@@ -45,7 +45,7 @@
 		"sources": [],
 		"costAdjustment": "+1 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Calming": {
 		"itemname": "Calming",
@@ -53,7 +53,7 @@
 		"sources": [],
 		"costAdjustment": "+1 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Champion": {
 		"itemname": "Champion",
@@ -61,7 +61,7 @@
 		"sources": [],
 		"costAdjustment": "+1 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Cocooning": {
 		"itemname": "Cocooning",
@@ -69,7 +69,7 @@
 		"sources": [],
 		"costAdjustment": "+1 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Crusading": {
 		"itemname": "Crusading",
@@ -77,7 +77,7 @@
 		"sources": [],
 		"costAdjustment": "+1 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Dastard": {
 		"itemname": "Dastard",
@@ -85,7 +85,7 @@
 		"sources": [],
 		"costAdjustment": "+1 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Deathless": {
 		"itemname": "Deathless",
@@ -93,7 +93,7 @@
 		"sources": [],
 		"costAdjustment": "+1 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Defiant": {
 		"itemname": "Defiant",
@@ -101,7 +101,7 @@
 		"sources": [],
 		"costAdjustment": "+1 bonus",
 		"type": "modification",
-		"slot": "armor or shield"
+		"slot": "armor/shield quality"
 	},
 	"Evolving": {
 		"itemname": "Evolving",
@@ -109,7 +109,7 @@
 		"sources": [],
 		"costAdjustment": "+1 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Fortification (light)": {
 		"itemname": "Fortification (light)",
@@ -117,7 +117,7 @@
 		"sources": [],
 		"costAdjustment": "+1 bonus",
 		"type": "modification",
-		"slot": "armor or shield"
+		"slot": "armor/shield quality"
 	},
 	"Grinding": {
 		"itemname": "Grinding",
@@ -125,7 +125,7 @@
 		"sources": [],
 		"costAdjustment": "+1 bonus",
 		"type": "modification",
-		"slot": "armor or shield"
+		"slot": "armor/shield quality"
 	},
 	"Impervious": {
 		"itemname": "Impervious",
@@ -133,7 +133,7 @@
 		"sources": [],
 		"costAdjustment": "+1 bonus",
 		"type": "modification",
-		"slot": "armor or shield"
+		"slot": "armor/shield quality"
 	},
 	"Mirrored": {
 		"itemname": "Mirrored",
@@ -141,7 +141,7 @@
 		"sources": [],
 		"costAdjustment": "+1 bonus",
 		"type": "modification",
-		"slot": "armor or shield"
+		"slot": "armor/shield quality"
 	},
 	"Poisoning": {
 		"itemname": "Poisoning",
@@ -149,7 +149,7 @@
 		"sources": [],
 		"costAdjustment": "+1 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Resonating": {
 		"itemname": "Resonating",
@@ -157,7 +157,7 @@
 		"sources": [],
 		"costAdjustment": "+1 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Spell Storing": {
 		"itemname": "Spell Storing",
@@ -165,7 +165,7 @@
 		"sources": [],
 		"costAdjustment": "+1 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Spellsink": {
 		"itemname": "Spellsink",
@@ -173,7 +173,7 @@
 		"sources": [],
 		"costAdjustment": "+1 bonus",
 		"type": "modification",
-		"slot": "armor or shield"
+		"slot": "armor/shield quality"
 	},
 	"Stanching": {
 		"itemname": "Stanching",
@@ -181,7 +181,7 @@
 		"sources": [],
 		"costAdjustment": "+1 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Terrain-striding": {
 		"itemname": "Terrain-striding",
@@ -189,7 +189,7 @@
 		"sources": [],
 		"costAdjustment": "+1 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Trapwarding": {
 		"itemname": "Trapwarding",
@@ -197,7 +197,7 @@
 		"sources": [],
 		"costAdjustment": "+1 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Vouchsafing": {
 		"itemname": "Vouchsafing",
@@ -205,7 +205,7 @@
 		"sources": [],
 		"costAdjustment": "+1 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Warding": {
 		"itemname": "Warding",
@@ -213,7 +213,7 @@
 		"sources": [],
 		"costAdjustment": "+1 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Withstanding": {
 		"itemname": "Withstanding",
@@ -221,7 +221,7 @@
 		"sources": [],
 		"costAdjustment": "+1 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Buoyant (light armor)": {
 		"itemname": "Buoyant (light armor)",
@@ -229,7 +229,7 @@
 		"sources": [],
 		"costAdjustment": "+1,000 gp",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Cushioned": {
 		"itemname": "Cushioned",
@@ -237,7 +237,7 @@
 		"sources": [],
 		"costAdjustment": "+1,000 gp",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Buoyant (medium/heavy armor)": {
 		"itemname": "Buoyant (medium/heavy armor)",
@@ -245,7 +245,7 @@
 		"sources": [],
 		"costAdjustment": "+2,000 gp",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Fitting": {
 		"itemname": "Fitting",
@@ -253,7 +253,7 @@
 		"sources": [],
 		"costAdjustment": "+2,000 gp",
 		"type": "modification",
-		"slot": "armor or shield"
+		"slot": "armor/shield quality"
 	},
 	"Poison-Resistant": {
 		"itemname": "Poison-Resistant",
@@ -261,7 +261,7 @@
 		"sources": [],
 		"costAdjustment": "+2,250 gp",
 		"type": "modification",
-		"slot": "armor or shield"
+		"slot": "armor/shield quality"
 	},
 	"Glamered": {
 		"itemname": "Glamered",
@@ -269,7 +269,7 @@
 		"sources": [],
 		"costAdjustment": "+2,700 gp",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Mental Focus": {
 		"itemname": "Mental Focus",
@@ -277,7 +277,7 @@
 		"sources": [],
 		"costAdjustment": "+3,000 gp",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Aquadynamic": {
 		"itemname": "Aquadynamic",
@@ -285,7 +285,7 @@
 		"sources": [],
 		"costAdjustment": "+3,750 gp",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Jousting": {
 		"itemname": "Jousting",
@@ -293,7 +293,7 @@
 		"sources": [],
 		"costAdjustment": "+3,750 gp",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Shadow": {
 		"itemname": "Shadow",
@@ -301,7 +301,7 @@
 		"sources": [],
 		"costAdjustment": "+3,750 gp",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Slick": {
 		"itemname": "Slick",
@@ -309,7 +309,7 @@
 		"sources": [],
 		"costAdjustment": "+3,750 gp",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Adamant": {
 		"itemname": "Adamant",
@@ -317,7 +317,7 @@
 		"sources": [],
 		"costAdjustment": "+2 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Bloodthirsty": {
 		"itemname": "Bloodthirsty",
@@ -325,7 +325,7 @@
 		"sources": [],
 		"costAdjustment": "+2 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Frosted": {
 		"itemname": "Frosted",
@@ -333,7 +333,7 @@
 		"sources": [],
 		"costAdjustment": "+2 bonus",
 		"type": "modification",
-		"slot": "armor or shield"
+		"slot": "armor/shield quality"
 	},
 	"Ghost Spike": {
 		"itemname": "Ghost Spike",
@@ -341,7 +341,7 @@
 		"sources": [],
 		"costAdjustment": "+2 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Jarring": {
 		"itemname": "Jarring",
@@ -349,7 +349,7 @@
 		"sources": [],
 		"costAdjustment": "+2 bonus",
 		"type": "modification",
-		"slot": "armor or shield"
+		"slot": "armor/shield quality"
 	},
 	"Mind Buttressing": {
 		"itemname": "Mind Buttressing",
@@ -357,7 +357,7 @@
 		"sources": [],
 		"costAdjustment": "+2 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Phantasmal": {
 		"itemname": "Phantasmal",
@@ -365,7 +365,7 @@
 		"sources": [],
 		"costAdjustment": "+2 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Rampaging": {
 		"itemname": "Rampaging",
@@ -373,7 +373,7 @@
 		"sources": [],
 		"costAdjustment": "+2 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Shadow Blending": {
 		"itemname": "Shadow Blending",
@@ -381,7 +381,7 @@
 		"sources": [],
 		"costAdjustment": "+2 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Spell Dodging": {
 		"itemname": "Spell Dodging",
@@ -389,7 +389,7 @@
 		"sources": [],
 		"costAdjustment": "+2 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Spell Resistance (13)": {
 		"itemname": "Spell Resistance (13)",
@@ -397,7 +397,7 @@
 		"sources": [],
 		"costAdjustment": "+2 bonus",
 		"type": "modification",
-		"slot": "armor or shield"
+		"slot": "armor/shield quality"
 	},
 	"Steaming": {
 		"itemname": "Steaming",
@@ -405,7 +405,7 @@
 		"sources": [],
 		"costAdjustment": "+2 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Volcanic": {
 		"itemname": "Volcanic",
@@ -413,7 +413,7 @@
 		"sources": [],
 		"costAdjustment": "+2 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Burdenless": {
 		"itemname": "Burdenless",
@@ -421,7 +421,7 @@
 		"sources": [],
 		"costAdjustment": "+4,000 gp",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Expeditious": {
 		"itemname": "Expeditious",
@@ -429,7 +429,7 @@
 		"sources": [],
 		"costAdjustment": "+4,000 gp",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Amorphous": {
 		"itemname": "Amorphous",
@@ -437,7 +437,7 @@
 		"sources": [],
 		"costAdjustment": "+4,500 gp",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Restful": {
 		"itemname": "Restful",
@@ -445,7 +445,7 @@
 		"sources": [],
 		"costAdjustment": "+4,500 gp",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Cloudburst": {
 		"itemname": "Cloudburst",
@@ -453,7 +453,7 @@
 		"sources": [],
 		"costAdjustment": "+5,000 gp",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Comfort": {
 		"itemname": "Comfort",
@@ -461,7 +461,7 @@
 		"sources": [],
 		"costAdjustment": "+5,000 gp",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Corsair": {
 		"itemname": "Corsair",
@@ -469,7 +469,7 @@
 		"sources": [],
 		"costAdjustment": "+5,000 gp",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Creeping": {
 		"itemname": "Creeping",
@@ -477,7 +477,7 @@
 		"sources": [],
 		"costAdjustment": "+5,000 gp",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Deceiving": {
 		"itemname": "Deceiving",
@@ -485,7 +485,7 @@
 		"sources": [],
 		"costAdjustment": "+5,000 gp",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Malevolent": {
 		"itemname": "Malevolent",
@@ -493,7 +493,7 @@
 		"sources": [],
 		"costAdjustment": "+5,000 gp",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Rallying": {
 		"itemname": "Rallying",
@@ -501,7 +501,7 @@
 		"sources": [],
 		"costAdjustment": "+5,000 gp",
 		"type": "modification",
-		"slot": "armor or shield"
+		"slot": "armor/shield quality"
 	},
 	"Spirit-bonded": {
 		"itemname": "Spirit-bonded",
@@ -509,7 +509,7 @@
 		"sources": [],
 		"costAdjustment": "+6,000 gp",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Locksmith": {
 		"itemname": "Locksmith",
@@ -517,7 +517,7 @@
 		"sources": [],
 		"costAdjustment": "+6,500 gp",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Adhesive": {
 		"itemname": "Adhesive",
@@ -525,7 +525,7 @@
 		"sources": [],
 		"costAdjustment": "+7,000 gp",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Spiteful": {
 		"itemname": "Spiteful",
@@ -533,7 +533,7 @@
 		"sources": [],
 		"costAdjustment": "+7,000 gp",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Hosteling": {
 		"itemname": "Hosteling",
@@ -541,7 +541,7 @@
 		"sources": [],
 		"costAdjustment": "+7,500 gp",
 		"type": "modification",
-		"slot": "armor or shield"
+		"slot": "armor/shield quality"
 	},
 	"Radiant": {
 		"itemname": "Radiant",
@@ -549,7 +549,7 @@
 		"sources": [],
 		"costAdjustment": "+7,500 gp",
 		"type": "modification",
-		"slot": "armor or shield"
+		"slot": "armor/shield quality"
 	},
 	"Trackless": {
 		"itemname": "Trackless",
@@ -557,7 +557,7 @@
 		"sources": [],
 		"costAdjustment": "+7,500 gp",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Arrow-collecting": {
 		"itemname": "Arrow-collecting",
@@ -565,7 +565,7 @@
 		"sources": [],
 		"costAdjustment": "+3 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Brawling": {
 		"itemname": "Brawling",
@@ -573,7 +573,7 @@
 		"sources": [],
 		"costAdjustment": "+3 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Cotraveling": {
 		"itemname": "Cotraveling",
@@ -581,7 +581,7 @@
 		"sources": [],
 		"costAdjustment": "+3 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Fortification (moderate)": {
 		"itemname": "Fortification (moderate)",
@@ -589,7 +589,7 @@
 		"sources": [],
 		"costAdjustment": "+3 bonus",
 		"type": "modification",
-		"slot": "armor or shield"
+		"slot": "armor/shield quality"
 	},
 	"Ghost Touch": {
 		"itemname": "Ghost Touch",
@@ -597,7 +597,7 @@
 		"sources": [],
 		"costAdjustment": "+3 bonus",
 		"type": "modification",
-		"slot": "armor or shield"
+		"slot": "armor/shield quality"
 	},
 	"Invulnerability": {
 		"itemname": "Invulnerability",
@@ -605,7 +605,7 @@
 		"sources": [],
 		"costAdjustment": "+3 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Sensing": {
 		"itemname": "Sensing",
@@ -613,7 +613,7 @@
 		"sources": [],
 		"costAdjustment": "+3 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Spell Resistance (15)": {
 		"itemname": "Spell Resistance (15)",
@@ -621,7 +621,7 @@
 		"sources": [],
 		"costAdjustment": "+3 bonus",
 		"type": "modification",
-		"slot": "armor or shield"
+		"slot": "armor/shield quality"
 	},
 	"Titanic": {
 		"itemname": "Titanic",
@@ -629,7 +629,7 @@
 		"sources": [],
 		"costAdjustment": "+3 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Wild": {
 		"itemname": "Wild",
@@ -637,7 +637,7 @@
 		"sources": [],
 		"costAdjustment": "+3 bonus",
 		"type": "modification",
-		"slot": "armor or shield"
+		"slot": "armor/shield quality"
 	},
 	"Phase Lurching": {
 		"itemname": "Phase Lurching",
@@ -645,7 +645,7 @@
 		"sources": [],
 		"costAdjustment": "+9,100 gp",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Delving": {
 		"itemname": "Delving",
@@ -653,7 +653,7 @@
 		"sources": [],
 		"costAdjustment": "+10,000 gp",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Putrid": {
 		"itemname": "Putrid",
@@ -661,7 +661,7 @@
 		"sources": [],
 		"costAdjustment": "+10,000 gp",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Harmonizing": {
 		"itemname": "Harmonizing",
@@ -669,7 +669,7 @@
 		"sources": [],
 		"costAdjustment": "+15,000 gp",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Improved Aquadynamic": {
 		"itemname": "Improved Aquadynamic",
@@ -677,7 +677,7 @@
 		"sources": [],
 		"costAdjustment": "+15,000 gp",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Radiant Flight": {
 		"itemname": "Radiant Flight",
@@ -685,7 +685,7 @@
 		"sources": [],
 		"costAdjustment": "+15,000 gp",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Shadow, Improved": {
 		"itemname": "Shadow, Improved",
@@ -693,7 +693,7 @@
 		"sources": [],
 		"costAdjustment": "+15,000 gp",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Slick, Improved": {
 		"itemname": "Slick, Improved",
@@ -701,7 +701,7 @@
 		"sources": [],
 		"costAdjustment": "+15,000 gp",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Venom-eating": {
 		"itemname": "Venom-eating",
@@ -709,7 +709,7 @@
 		"sources": [],
 		"costAdjustment": "+15,000 gp",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Denying": {
 		"itemname": "Denying",
@@ -717,7 +717,7 @@
 		"sources": [],
 		"costAdjustment": "+4 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Spell Resistance (17)": {
 		"itemname": "Spell Resistance (17)",
@@ -725,7 +725,7 @@
 		"sources": [],
 		"costAdjustment": "+4 bonus",
 		"type": "modification",
-		"slot": "armor or shield"
+		"slot": "armor/shield quality"
 	},
 	"Energy Resistance": {
 		"itemname": "Energy Resistance",
@@ -733,7 +733,7 @@
 		"sources": [],
 		"costAdjustment": "+18,000 gp",
 		"type": "modification",
-		"slot": "armor or shield"
+		"slot": "armor/shield quality"
 	},
 	"Martyring": {
 		"itemname": "Martyring",
@@ -741,7 +741,7 @@
 		"sources": [],
 		"costAdjustment": "+18,000 gp",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Dread Wing": {
 		"itemname": "Dread Wing",
@@ -749,7 +749,7 @@
 		"sources": [],
 		"costAdjustment": "+5 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Fortification (heavy)": {
 		"itemname": "Fortification (heavy)",
@@ -757,7 +757,7 @@
 		"sources": [],
 		"costAdjustment": "+5 bonus",
 		"type": "modification",
-		"slot": "armor or shield"
+		"slot": "armor/shield quality"
 	},
 	"Spell Resistance (19)": {
 		"itemname": "Spell Resistance (19)",
@@ -765,7 +765,7 @@
 		"sources": [],
 		"costAdjustment": "+5 bonus",
 		"type": "modification",
-		"slot": "armor or shield"
+		"slot": "armor/shield quality"
 	},
 	"Unbowed": {
 		"itemname": "Unbowed",
@@ -773,7 +773,7 @@
 		"sources": [],
 		"costAdjustment": "+5 bonus",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Righteous": {
 		"itemname": "Righteous",
@@ -781,7 +781,7 @@
 		"sources": [],
 		"costAdjustment": "+27,000 gp",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Unbound": {
 		"itemname": "Unbound",
@@ -789,7 +789,7 @@
 		"sources": [],
 		"costAdjustment": "+27,000 gp",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Unrighteous": {
 		"itemname": "Unrighteous",
@@ -797,7 +797,7 @@
 		"sources": [],
 		"costAdjustment": "+27,000 gp",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Vigilant": {
 		"itemname": "Vigilant",
@@ -805,7 +805,7 @@
 		"sources": [],
 		"costAdjustment": "+27,000 gp",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Determination": {
 		"itemname": "Determination",
@@ -813,7 +813,7 @@
 		"sources": [],
 		"costAdjustment": "+30,000 gp",
 		"type": "modification",
-		"slot": "armor or shield"
+		"slot": "armor/shield quality"
 	},
 	"Greater Aquadynamic": {
 		"itemname": "Greater Aquadynamic",
@@ -821,7 +821,7 @@
 		"sources": [],
 		"costAdjustment": "+33,750 gp",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Shadow, Greater": {
 		"itemname": "Shadow, Greater",
@@ -829,7 +829,7 @@
 		"sources": [],
 		"costAdjustment": "+33,750 gp",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Slick, Greater": {
 		"itemname": "Slick, Greater",
@@ -837,7 +837,7 @@
 		"sources": [],
 		"costAdjustment": "+33,750 gp",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Energy Resistance, Improved": {
 		"itemname": "Energy Resistance, Improved",
@@ -845,7 +845,7 @@
 		"sources": [],
 		"costAdjustment": "+42,000 gp",
 		"type": "modification",
-		"slot": "armor or shield"
+		"slot": "armor/shield quality"
 	},
 	"Etherealness": {
 		"itemname": "Etherealness",
@@ -853,7 +853,7 @@
 		"sources": [],
 		"costAdjustment": "+49,000 gp",
 		"type": "modification",
-		"slot": "armor"
+		"slot": "armor quality"
 	},
 	"Undead Controlling": {
 		"itemname": "Undead Controlling",
@@ -861,7 +861,7 @@
 		"sources": [],
 		"costAdjustment": "+49,000 gp",
 		"type": "modification",
-		"slot": "armor or shield"
+		"slot": "armor/shield quality"
 	},
 	"Energy Resistance, Greater": {
 		"itemname": "Energy Resistance, Greater",
@@ -869,7 +869,7 @@
 		"sources": [],
 		"costAdjustment": "+66,000 gp",
 		"type": "modification",
-		"slot": "armor or shield"
+		"slot": "armor/shield quality"
 	},
 	"Arrow Catching": {
 		"itemname": "Arrow Catching",
@@ -877,7 +877,7 @@
 		"sources": [],
 		"costAdjustment": "+1 bonus",
 		"type": "modification",
-		"slot": "shield"
+		"slot": "shield quality"
 	},
 	"Assiduous": {
 		"itemname": "Assiduous",
@@ -885,7 +885,7 @@
 		"sources": [],
 		"costAdjustment": "+1 bonus",
 		"type": "modification",
-		"slot": "shield"
+		"slot": "shield quality"
 	},
 	"Bashing": {
 		"itemname": "Bashing",
@@ -893,7 +893,7 @@
 		"sources": [],
 		"costAdjustment": "+1 bonus",
 		"type": "modification",
-		"slot": "shield"
+		"slot": "shield quality"
 	},
 	"Blinding": {
 		"itemname": "Blinding",
@@ -901,7 +901,7 @@
 		"sources": [],
 		"costAdjustment": "+1 bonus",
 		"type": "modification",
-		"slot": "shield"
+		"slot": "shield quality"
 	},
 	"Clangorous": {
 		"itemname": "Clangorous",
@@ -909,7 +909,7 @@
 		"sources": [],
 		"costAdjustment": "+1 bonus",
 		"type": "modification",
-		"slot": "shield"
+		"slot": "shield quality"
 	},
 	"Folding": {
 		"itemname": "Folding",
@@ -917,7 +917,7 @@
 		"sources": [],
 		"costAdjustment": "+1 bonus",
 		"type": "modification",
-		"slot": "shield"
+		"slot": "shield quality"
 	},
 	"Guarding": {
 		"itemname": "Guarding",
@@ -925,7 +925,7 @@
 		"sources": [],
 		"costAdjustment": "+1 bonus",
 		"type": "modification",
-		"slot": "shield"
+		"slot": "shield quality"
 	},
 	"Heraldric": {
 		"itemname": "Heraldric",
@@ -933,7 +933,7 @@
 		"sources": [],
 		"costAdjustment": "+1 bonus",
 		"type": "modification",
-		"slot": "shield"
+		"slot": "shield quality"
 	},
 	"Ramming": {
 		"itemname": "Ramming",
@@ -941,7 +941,7 @@
 		"sources": [],
 		"costAdjustment": "+1 bonus",
 		"type": "modification",
-		"slot": "shield"
+		"slot": "shield quality"
 	},
 	"Rebounding": {
 		"itemname": "Rebounding",
@@ -949,7 +949,7 @@
 		"sources": [],
 		"costAdjustment": "+1 bonus",
 		"type": "modification",
-		"slot": "shield"
+		"slot": "shield quality"
 	},
 	"Singing": {
 		"itemname": "Singing",
@@ -957,7 +957,7 @@
 		"sources": [],
 		"costAdjustment": "+1 bonus",
 		"type": "modification",
-		"slot": "shield"
+		"slot": "shield quality"
 	},
 	"Spellrending": {
 		"itemname": "Spellrending",
@@ -965,7 +965,7 @@
 		"sources": [],
 		"costAdjustment": "+1 bonus",
 		"type": "modification",
-		"slot": "shield"
+		"slot": "shield quality"
 	},
 	"Buoyant (shield)": {
 		"itemname": "Buoyant (shield)",
@@ -973,7 +973,7 @@
 		"sources": [],
 		"costAdjustment": "+1,000 gp",
 		"type": "modification",
-		"slot": "shield"
+		"slot": "shield quality"
 	},
 	"Animated": {
 		"itemname": "Animated",
@@ -981,7 +981,7 @@
 		"sources": [],
 		"costAdjustment": "+2 bonus",
 		"type": "modification",
-		"slot": "shield"
+		"slot": "shield quality"
 	},
 	"Arrow Deflection": {
 		"itemname": "Arrow Deflection",
@@ -989,7 +989,7 @@
 		"sources": [],
 		"costAdjustment": "+2 bonus",
 		"type": "modification",
-		"slot": "shield"
+		"slot": "shield quality"
 	},
 	"Guarding, Greater": {
 		"itemname": "Guarding, Greater",
@@ -997,7 +997,7 @@
 		"sources": [],
 		"costAdjustment": "+2 bonus",
 		"type": "modification",
-		"slot": "shield"
+		"slot": "shield quality"
 	},
 	"Jawbreaker": {
 		"itemname": "Jawbreaker",
@@ -1005,7 +1005,7 @@
 		"sources": [],
 		"costAdjustment": "+2 bonus",
 		"type": "modification",
-		"slot": "shield"
+		"slot": "shield quality"
 	},
 	"Mastering": {
 		"itemname": "Mastering",
@@ -1013,7 +1013,7 @@
 		"sources": [],
 		"costAdjustment": "+2 bonus",
 		"type": "modification",
-		"slot": "shield"
+		"slot": "shield quality"
 	},
 	"Merging": {
 		"itemname": "Merging",
@@ -1021,7 +1021,7 @@
 		"sources": [],
 		"costAdjustment": "+2 bonus",
 		"type": "modification",
-		"slot": "shield"
+		"slot": "shield quality"
 	},
 	"Weeping": {
 		"itemname": "Weeping",
@@ -1029,7 +1029,7 @@
 		"sources": [],
 		"costAdjustment": "+2 bonus",
 		"type": "modification",
-		"slot": "shield"
+		"slot": "shield quality"
 	},
 	"Wyrmsbreath": {
 		"itemname": "Wyrmsbreath",
@@ -1037,7 +1037,7 @@
 		"sources": [],
 		"costAdjustment": "+5,000 gp",
 		"type": "modification",
-		"slot": "shield"
+		"slot": "shield quality"
 	},
 	"Deflecting": {
 		"itemname": "Deflecting",
@@ -1045,7 +1045,7 @@
 		"sources": [],
 		"costAdjustment": "+3 bonus",
 		"type": "modification",
-		"slot": "shield"
+		"slot": "shield quality"
 	},
 	"Bastion": {
 		"itemname": "Bastion",
@@ -1053,7 +1053,7 @@
 		"sources": [],
 		"costAdjustment": "+4 bonus",
 		"type": "modification",
-		"slot": "shield"
+		"slot": "shield quality"
 	},
 	"Channeling": {
 		"itemname": "Channeling",
@@ -1061,7 +1061,7 @@
 		"sources": [],
 		"costAdjustment": "+18,000 gp",
 		"type": "modification",
-		"slot": "shield"
+		"slot": "shield quality"
 	},
 	"Reflecting": {
 		"itemname": "Reflecting",
@@ -1069,7 +1069,7 @@
 		"sources": [],
 		"costAdjustment": "+5 bonus",
 		"type": "modification",
-		"slot": "shield"
+		"slot": "shield quality"
 	},
 	"Mithral Shirt": {
 		"itemname": "Mithral Shirt",
