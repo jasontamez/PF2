@@ -2,9 +2,7 @@
 	"Wracking Rod": {
 		"itemname": "Wracking Rod",
 		"file": "magicrodsdisplay28c0.html",
-		"sources": [
-			"Entombed with the Pharaohs"
-		],
+		"sources": [ "Entombed with the Pharaohs" ],
 		"cost": 2250,
 		"type": "rod",
 		"slot": "none",
@@ -23,9 +21,7 @@
 	"Rod of the Thriceborn (lesser)": {
 		"itemname": "Rod of the Thriceborn (lesser)",
 		"file": "magicrodsdisplay3784.html",
-		"sources": [
-			"Legacy of the First World"
-		],
+		"sources": [ "Legacy of the First World" ],
 		"cost": 2500,
 		"type": "rod",
 		"slot": "none",
@@ -44,9 +40,7 @@
 	"Rod of Giant Summoning (lesser)": {
 		"itemname": "Rod of Giant Summoning (lesser)",
 		"file": "magicrodsdisplay64e7.html",
-		"sources": [
-			"Monster Summoner's Handbook"
-		],
+		"sources": [ "Monster Summoner's Handbook" ],
 		"cost": 3000,
 		"type": "rod",
 		"slot": "none",
@@ -65,9 +59,7 @@
 	"Aerialist's Rod": {
 		"itemname": "Aerialist's Rod",
 		"file": "magicrodsdisplaycb55.html",
-		"sources": [
-			"Villain Codex"
-		],
+		"sources": [ "Villain Codex" ],
 		"cost": 3200,
 		"type": "rod",
 		"slot": "none",
@@ -89,9 +81,7 @@
 	"Chastising Baton": {
 		"itemname": "Chastising Baton",
 		"file": "magicrodsdisplay87af.html",
-		"sources": [
-			"Heroes of the High Court"
-		],
+		"sources": [ "Heroes of the High Court" ],
 		"cost": 5000,
 		"type": "rod",
 		"slot": "none",
@@ -132,9 +122,7 @@
 	"Refocusing Rod": {
 		"itemname": "Refocusing Rod",
 		"file": "magicrodsdisplay45ff.html",
-		"sources": [
-			"Occult Adventures"
-		],
+		"sources": [ "Occult Adventures" ],
 		"cost": 5000,
 		"type": "rod",
 		"slot": "none",
@@ -155,9 +143,7 @@
 	"Utilitarian Rod": {
 		"itemname": "Utilitarian Rod",
 		"file": "magicrodsdisplay75e8.html",
-		"sources": [
-			"Faction Guide"
-		],
+		"sources": [ "Faction Guide" ],
 		"cost": 5000,
 		"type": "rod",
 		"slot": "none",
@@ -186,9 +172,7 @@
 	"Recondite Rod (lesser)": {
 		"itemname": "Recondite Rod (lesser)",
 		"file": "magicrodsdisplayf131.html",
-		"sources": [
-			"Psychic Anthology"
-		],
+		"sources": [ "Psychic Anthology" ],
 		"cost": 5000,
 		"type": "rod",
 		"slot": "none",
@@ -207,9 +191,7 @@
 	"Rod of Thunderous Force": {
 		"itemname": "Rod of Thunderous Force",
 		"file": "magicrodsdisplay81bb.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 5400,
 		"type": "rod",
 		"slot": "none",
@@ -228,9 +210,7 @@
 	"Rod of the Thriceborn (normal)": {
 		"itemname": "Rod of the Thriceborn (normal)",
 		"file": "magicrodsdisplay1f63.html",
-		"sources": [
-			"Legacy of the First World"
-		],
+		"sources": [ "Legacy of the First World" ],
 		"cost": 6500,
 		"type": "rod",
 		"slot": "none",
@@ -239,9 +219,7 @@
 	"Backbiter's Focus": {
 		"itemname": "Backbiter's Focus",
 		"file": "magicrodsdisplay8f14.html",
-		"sources": [
-			"The Harrow Handbook"
-		],
+		"sources": [ "The Harrow Handbook" ],
 		"cost": 7800,
 		"type": "rod",
 		"slot": "none",
@@ -260,9 +238,7 @@
 	"Rod of Mortared Walls": {
 		"itemname": "Rod of Mortared Walls",
 		"file": "magicrodsdisplay95a8.html",
-		"sources": [
-			"Pathfinder #95: Anvil of Fire"
-		],
+		"sources": [ "Pathfinder #95: Anvil of Fire" ],
 		"cost": 8000,
 		"type": "rod",
 		"slot": "none",
@@ -289,9 +265,7 @@
 	"Crypt Rod": {
 		"itemname": "Crypt Rod",
 		"file": "magicrodsdisplay9399.html",
-		"sources": [
-			"Pathfinder #139: The Dead Road"
-		],
+		"sources": [ "Pathfinder #139: The Dead Road" ],
 		"cost": 8500,
 		"type": "rod",
 		"slot": "none",
@@ -310,9 +284,7 @@
 	"Rod of Ice": {
 		"itemname": "Rod of Ice",
 		"file": "magicrodsdisplay99b5.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 8500,
 		"type": "rod",
 		"slot": "none",
@@ -331,9 +303,7 @@
 	"Inviolate Marker": {
 		"itemname": "Inviolate Marker",
 		"file": "magicrodsdisplay13b7.html",
-		"sources": [
-			"People of the Sands"
-		],
+		"sources": [ "People of the Sands" ],
 		"cost": 10000,
 		"type": "rod",
 		"slot": "none",
@@ -353,9 +323,7 @@
 	"Rod of Writhing": {
 		"itemname": "Rod of Writhing",
 		"file": "magicrodsdisplay8b57.html",
-		"sources": [
-			"Entombed with the Pharaohs"
-		],
+		"sources": [ "Entombed with the Pharaohs" ],
 		"cost": 10000,
 		"type": "rod",
 		"slot": "none",
@@ -418,9 +386,7 @@
 	"Rod of Grasping Hexes": {
 		"itemname": "Rod of Grasping Hexes",
 		"file": "magicrodsdisplay198f.html",
-		"sources": [
-			"Advanced Class Guide"
-		],
+		"sources": [ "Advanced Class Guide" ],
 		"cost": 11000,
 		"type": "rod",
 		"slot": "none",
@@ -439,9 +405,7 @@
 	"Rod of Interminable Hexes": {
 		"itemname": "Rod of Interminable Hexes",
 		"file": "magicrodsdisplay1e77.html",
-		"sources": [
-			"Advanced Class Guide"
-		],
+		"sources": [ "Advanced Class Guide" ],
 		"cost": 11000,
 		"type": "rod",
 		"slot": "none",
@@ -460,9 +424,7 @@
 	"Rod of Giant Summoning (normal)": {
 		"itemname": "Rod of Giant Summoning (normal)",
 		"file": "magicrodsdisplay89cd.html",
-		"sources": [
-			"Monster Summoner's Handbook"
-		],
+		"sources": [ "Monster Summoner's Handbook" ],
 		"cost": 11000,
 		"type": "rod",
 		"slot": "none",
@@ -471,9 +433,7 @@
 	"Rod of Burning Blood": {
 		"itemname": "Rod of Burning Blood",
 		"file": "magicrodsdisplay4740.html",
-		"sources": [
-			"Villain Codex"
-		],
+		"sources": [ "Villain Codex" ],
 		"cost": 11050,
 		"type": "rod",
 		"slot": "none",
@@ -493,9 +453,7 @@
 	"Conduit Rod": {
 		"itemname": "Conduit Rod",
 		"file": "magicrodsdisplay19b6.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 12000,
 		"type": "rod",
 		"slot": "none",
@@ -515,9 +473,7 @@
 	"Grounding Rod": {
 		"itemname": "Grounding Rod",
 		"file": "magicrodsdisplaye829.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 12000,
 		"type": "rod",
 		"slot": "none",
@@ -537,9 +493,7 @@
 	"Rod of Spellsight": {
 		"itemname": "Rod of Spellsight",
 		"file": "magicrodsdisplay9b2b.html",
-		"sources": [
-			"Magic Tactics Toolbox"
-		],
+		"sources": [ "Magic Tactics Toolbox" ],
 		"cost": 12000,
 		"type": "rod",
 		"slot": "none",
@@ -558,9 +512,7 @@
 	"Rod of the Wayang": {
 		"itemname": "Rod of the Wayang",
 		"file": "magicrodsdisplayfb28.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 12000,
 		"type": "rod",
 		"slot": "none",
@@ -698,9 +650,7 @@
 	"Rod of Animal Training": {
 		"itemname": "Rod of Animal Training",
 		"file": "magicrodsdisplay4d33.html",
-		"sources": [
-			"Animal Archive"
-		],
+		"sources": [ "Animal Archive" ],
 		"cost": 12300,
 		"type": "rod",
 		"slot": "none",
@@ -719,9 +669,7 @@
 	"Rod of Subtle Menace": {
 		"itemname": "Rod of Subtle Menace",
 		"file": "magicrodsdisplay60dd.html",
-		"sources": [
-			"Magic Tactics Toolbox"
-		],
+		"sources": [ "Magic Tactics Toolbox" ],
 		"cost": 12305,
 		"type": "rod",
 		"slot": "none",
@@ -762,9 +710,7 @@
 	"Trap-Stealer's Rod": {
 		"itemname": "Trap-Stealer's Rod",
 		"file": "magicrodsdisplaydc77.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 13500,
 		"type": "rod",
 		"slot": "none",
@@ -809,9 +755,7 @@
 	"Rod of Balance": {
 		"itemname": "Rod of Balance",
 		"file": "magicrodsdisplay3b90.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 15000,
 		"type": "rod",
 		"slot": "none",
@@ -831,9 +775,7 @@
 	"Rod of Escape": {
 		"itemname": "Rod of Escape",
 		"file": "magicrodsdisplay9006.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 15000,
 		"type": "rod",
 		"slot": "none",
@@ -879,9 +821,7 @@
 	"Rod of Gripping Smoke": {
 		"itemname": "Rod of Gripping Smoke",
 		"file": "magicrodsdisplayd695.html",
-		"sources": [
-			"Pathfinder #87: The Choking Tower"
-		],
+		"sources": [ "Pathfinder #87: The Choking Tower" ],
 		"cost": 15000,
 		"type": "rod",
 		"slot": "none",
@@ -902,9 +842,7 @@
 	"Rod of Ruin": {
 		"itemname": "Rod of Ruin",
 		"file": "magicrodsdisplaycccf.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 16000,
 		"type": "rod",
 		"slot": "none",
@@ -923,9 +861,7 @@
 	"Sapling Rod": {
 		"itemname": "Sapling Rod",
 		"file": "magicrodsdisplay446c.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 16650,
 		"type": "rod",
 		"slot": "none",
@@ -945,9 +881,7 @@
 	"Scepter of Divine Providence": {
 		"itemname": "Scepter of Divine Providence",
 		"file": "magicrodsdisplay94a1.html",
-		"sources": [
-			"Pathfinder #94: Ice Tomb of the Giant Queen"
-		],
+		"sources": [ "Pathfinder #94: Ice Tomb of the Giant Queen" ],
 		"cost": 17312,
 		"type": "rod",
 		"slot": "none",
@@ -966,9 +900,7 @@
 	"Rod of Beguiling": {
 		"itemname": "Rod of Beguiling",
 		"file": "magicrodsdisplay1be8.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 18000,
 		"type": "rod",
 		"slot": "none",
@@ -988,9 +920,7 @@
 	"Rod of Nettles": {
 		"itemname": "Rod of Nettles",
 		"file": "magicrodsdisplay08b7.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 18000,
 		"type": "rod",
 		"slot": "none",
@@ -1010,9 +940,7 @@
 	"Rod of Tangling Ectoplasm": {
 		"itemname": "Rod of Tangling Ectoplasm",
 		"file": "magicrodsdisplay990d.html",
-		"sources": [
-			"Magic Tactics Toolbox"
-		],
+		"sources": [ "Magic Tactics Toolbox" ],
 		"cost": 18000,
 		"type": "rod",
 		"slot": "none",
@@ -1031,9 +959,7 @@
 	"Recondite Rod (normal)": {
 		"itemname": "Recondite Rod (normal)",
 		"file": "magicrodsdisplay3f31.html",
-		"sources": [
-			"Psychic Anthology"
-		],
+		"sources": [ "Psychic Anthology" ],
 		"cost": 18000,
 		"type": "rod",
 		"slot": "none",
@@ -1042,9 +968,7 @@
 	"Waterblight Scepter": {
 		"itemname": "Waterblight Scepter",
 		"file": "magicrodsdisplay84dc.html",
-		"sources": [
-			"Merchant's Manifest"
-		],
+		"sources": [ "Merchant's Manifest" ],
 		"cost": 18312,
 		"type": "rod",
 		"slot": "none",
@@ -1086,9 +1010,7 @@
 	"Rod of the Thriceborn (greater)": {
 		"itemname": "Rod of the Thriceborn (greater)",
 		"file": "magicrodsdisplayb3da.html",
-		"sources": [
-			"Legacy of the First World"
-		],
+		"sources": [ "Legacy of the First World" ],
 		"cost": 19500,
 		"type": "rod",
 		"slot": "none",
@@ -1097,9 +1019,7 @@
 	"Rod of Minor Curses": {
 		"itemname": "Rod of Minor Curses",
 		"file": "magicrodsdisplay310e.html",
-		"sources": [
-			"Magic Tactics Toolbox"
-		],
+		"sources": [ "Magic Tactics Toolbox" ],
 		"cost": 20000,
 		"type": "rod",
 		"slot": "none",
@@ -1119,9 +1039,7 @@
 	"Rod of the Devoured Dawn": {
 		"itemname": "Rod of the Devoured Dawn",
 		"file": "magicrodsdisplay4f65.html",
-		"sources": [
-			"Pathfinder #83: The Slave Trenches of Hakotep"
-		],
+		"sources": [ "Pathfinder #83: The Slave Trenches of Hakotep" ],
 		"cost": 20000,
 		"type": "rod",
 		"slot": "none",
@@ -1142,9 +1060,7 @@
 	"Rod of the River Serpent": {
 		"itemname": "Rod of the River Serpent",
 		"file": "magicrodsdisplayd447.html",
-		"sources": [
-			"Osirion, Land of the Pharaohs"
-		],
+		"sources": [ "Osirion, Land of the Pharaohs" ],
 		"cost": 20000,
 		"type": "rod",
 		"slot": "none",
@@ -1166,9 +1082,7 @@
 	"Suzerain Scepter": {
 		"itemname": "Suzerain Scepter",
 		"file": "magicrodsdisplay0170.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 20000,
 		"type": "rod",
 		"slot": "none",
@@ -1187,9 +1101,7 @@
 	"Fiery Nimbus Rod": {
 		"itemname": "Fiery Nimbus Rod",
 		"file": "magicrodsdisplay57aa.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 22305,
 		"type": "rod",
 		"slot": "none",
@@ -1209,9 +1121,7 @@
 	"Rod of Malrion": {
 		"itemname": "Rod of Malrion",
 		"file": "magicrodsdisplay66d5.html",
-		"sources": [
-			"Magic of Thassilon (Web Enhancement)"
-		],
+		"sources": [ "Magic of Thassilon (Web Enhancement)" ],
 		"cost": 22400,
 		"type": "rod",
 		"slot": "none",
@@ -1254,9 +1164,7 @@
 	"Famine Rod": {
 		"itemname": "Famine Rod",
 		"file": "magicrodsdisplay7f7f.html",
-		"sources": [
-			"Magic of Thassilon (Web Enhancement)"
-		],
+		"sources": [ "Magic of Thassilon (Web Enhancement)" ],
 		"cost": 24000,
 		"type": "rod",
 		"slot": "none",
@@ -1277,9 +1185,7 @@
 	"Rod of Giant Summoning (greater)": {
 		"itemname": "Rod of Giant Summoning (greater)",
 		"file": "magicrodsdisplay1d34.html",
-		"sources": [
-			"Monster Summoner's Handbook"
-		],
+		"sources": [ "Monster Summoner's Handbook" ],
 		"cost": 24500,
 		"type": "rod",
 		"slot": "none",
@@ -1288,9 +1194,7 @@
 	"Overflowing Rod": {
 		"itemname": "Overflowing Rod",
 		"file": "magicrodsdisplaya441.html",
-		"sources": [
-			"Occult Adventures"
-		],
+		"sources": [ "Occult Adventures" ],
 		"cost": 25000,
 		"type": "rod",
 		"slot": "none",
@@ -1309,9 +1213,7 @@
 	"Rod of Perilous Pits": {
 		"itemname": "Rod of Perilous Pits",
 		"file": "magicrodsdisplay825d.html",
-		"sources": [
-			"Magic Tactics Toolbox"
-		],
+		"sources": [ "Magic Tactics Toolbox" ],
 		"cost": 25000,
 		"type": "rod",
 		"slot": "none",
@@ -1355,9 +1257,7 @@
 	"Rod of the Alicorn": {
 		"itemname": "Rod of the Alicorn",
 		"file": "magicrodsdisplayc175.html",
-		"sources": [
-			"Inner Sea Intrigue"
-		],
+		"sources": [ "Inner Sea Intrigue" ],
 		"cost": 25000,
 		"type": "rod",
 		"slot": "none",
@@ -1398,9 +1298,7 @@
 	"Rod of Vicious Ghosts": {
 		"itemname": "Rod of Vicious Ghosts",
 		"file": "magicrodsdisplayc2bb.html",
-		"sources": [
-			"Planar Adventures"
-		],
+		"sources": [ "Planar Adventures" ],
 		"cost": 26000,
 		"type": "rod",
 		"slot": "none",
@@ -1419,9 +1317,7 @@
 	"Fossilizing Rod": {
 		"itemname": "Fossilizing Rod",
 		"file": "magicrodsdisplay7868.html",
-		"sources": [
-			"Elemental Master's Handbook"
-		],
+		"sources": [ "Elemental Master's Handbook" ],
 		"cost": 26400,
 		"type": "rod",
 		"slot": "none",
@@ -1462,9 +1358,7 @@
 	"Pyroclastic Spike": {
 		"itemname": "Pyroclastic Spike",
 		"file": "magicrodsdisplay7be9.html",
-		"sources": [
-			"Down the Blighted Path"
-		],
+		"sources": [ "Down the Blighted Path" ],
 		"cost": 28000,
 		"type": "rod",
 		"slot": "none",
@@ -1485,9 +1379,7 @@
 	"Rod of the Aboleth": {
 		"itemname": "Rod of the Aboleth",
 		"file": "magicrodsdisplayb163.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 29000,
 		"type": "rod",
 		"slot": "none",
@@ -1514,9 +1406,7 @@
 	"Liberator's Rod": {
 		"itemname": "Liberator's Rod",
 		"file": "magicrodsdisplay8324.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 30000,
 		"type": "rod",
 		"slot": "none",
@@ -1536,9 +1426,7 @@
 	"Rod of Hindered Healing": {
 		"itemname": "Rod of Hindered Healing",
 		"file": "magicrodsdisplay1b87.html",
-		"sources": [
-			"Magic Tactics Toolbox"
-		],
+		"sources": [ "Magic Tactics Toolbox" ],
 		"cost": 30000,
 		"type": "rod",
 		"slot": "none",
@@ -1557,9 +1445,7 @@
 	"Witching Rod": {
 		"itemname": "Witching Rod",
 		"file": "magicrodsdisplay2e1b.html",
-		"sources": [
-			"Occult Adventures"
-		],
+		"sources": [ "Occult Adventures" ],
 		"cost": 31000,
 		"type": "rod",
 		"slot": "none",
@@ -1579,9 +1465,7 @@
 	"Rod of Voracious Hexes": {
 		"itemname": "Rod of Voracious Hexes",
 		"file": "magicrodsdisplayeef1.html",
-		"sources": [
-			"Advanced Class Guide"
-		],
+		"sources": [ "Advanced Class Guide" ],
 		"cost": 32500,
 		"type": "rod",
 		"slot": "none",
@@ -1632,9 +1516,7 @@
 	"Booming Scepter": {
 		"itemname": "Booming Scepter",
 		"file": "magicrodsdisplaye41d.html",
-		"sources": [
-			"Heroes of the High Court"
-		],
+		"sources": [ "Heroes of the High Court" ],
 		"cost": 34000,
 		"type": "rod",
 		"slot": "none",
@@ -1653,9 +1535,7 @@
 	"Rod of Delumination": {
 		"itemname": "Rod of Delumination",
 		"file": "magicrodsdisplay9530.html",
-		"sources": [
-			"Blood of Shadows"
-		],
+		"sources": [ "Blood of Shadows" ],
 		"cost": 35000,
 		"type": "rod",
 		"slot": "none",
@@ -1720,9 +1600,7 @@
 	"Ivory Baton": {
 		"itemname": "Ivory Baton",
 		"file": "magicrodsdisplay5961.html",
-		"sources": [
-			"Lost Kingdoms"
-		],
+		"sources": [ "Lost Kingdoms" ],
 		"cost": 40000,
 		"type": "rod",
 		"slot": "none",
@@ -1741,9 +1619,7 @@
 	"Recondite Rod (greater)": {
 		"itemname": "Recondite Rod (greater)",
 		"file": "magicrodsdisplay13e3.html",
-		"sources": [
-			"Psychic Anthology"
-		],
+		"sources": [ "Psychic Anthology" ],
 		"cost": 40500,
 		"type": "rod",
 		"slot": "none",
@@ -1752,9 +1628,7 @@
 	"Coldwarp Key": {
 		"itemname": "Coldwarp Key",
 		"file": "magicrodsdisplay09c1.html",
-		"sources": [
-			"Magical Marketplace"
-		],
+		"sources": [ "Magical Marketplace" ],
 		"cost": 45700,
 		"type": "rod",
 		"slot": "none",
@@ -1774,9 +1648,7 @@
 	"Fool's Scepter": {
 		"itemname": "Fool's Scepter",
 		"file": "magicrodsdisplay2e6e.html",
-		"sources": [
-			"Down the Blighted Path"
-		],
+		"sources": [ "Down the Blighted Path" ],
 		"cost": 50000,
 		"type": "rod",
 		"slot": "none",
@@ -1797,9 +1669,7 @@
 	"Forked Rod": {
 		"itemname": "Forked Rod",
 		"file": "magicrodsdisplay8753.html",
-		"sources": [
-			"Planar Adventures"
-		],
+		"sources": [ "Planar Adventures" ],
 		"cost": 50000,
 		"type": "rod",
 		"slot": "none",
@@ -1867,9 +1737,7 @@
 	"Rod of Potent Hexes": {
 		"itemname": "Rod of Potent Hexes",
 		"file": "magicrodsdisplay3ff3.html",
-		"sources": [
-			"Advanced Class Guide"
-		],
+		"sources": [ "Advanced Class Guide" ],
 		"cost": 54000,
 		"type": "rod",
 		"slot": "none",
@@ -1888,9 +1756,7 @@
 	"Gravitic Force Rod": {
 		"itemname": "Gravitic Force Rod",
 		"file": "magicrodsdisplayacbf.html",
-		"sources": [
-			"Magic Tactics Toolbox"
-		],
+		"sources": [ "Magic Tactics Toolbox" ],
 		"cost": 60000,
 		"type": "rod",
 		"slot": "none",
@@ -1954,9 +1820,7 @@
 	"Rod of Well-Deserved Rest": {
 		"itemname": "Rod of Well-Deserved Rest",
 		"file": "magicrodsdisplay0bdb.html",
-		"sources": [
-			"Pathfinder #39: The City of Seven Spears"
-		],
+		"sources": [ "Pathfinder #39: The City of Seven Spears" ],
 		"cost": 62000,
 		"type": "rod",
 		"slot": "none",
@@ -1998,9 +1862,7 @@
 	"Rod of Razors": {
 		"itemname": "Rod of Razors",
 		"file": "magicrodsdisplay73ab.html",
-		"sources": [
-			"Pathfinder #35: War of the River Kings"
-		],
+		"sources": [ "Pathfinder #35: War of the River Kings" ],
 		"cost": 65000,
 		"type": "rod",
 		"slot": "none",
@@ -2019,9 +1881,7 @@
 	"Rod of Mind Mastery": {
 		"itemname": "Rod of Mind Mastery",
 		"file": "magicrodsdisplay8d79.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 67000,
 		"type": "rod",
 		"slot": "none",
@@ -2097,9 +1957,7 @@
 	"Scepter of Heaven": {
 		"itemname": "Scepter of Heaven",
 		"file": "magicrodsdisplay11a1.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 74000,
 		"type": "rod",
 		"slot": "none",
@@ -2128,9 +1986,7 @@
 	"Rod of Abrupt Hexes": {
 		"itemname": "Rod of Abrupt Hexes",
 		"file": "magicrodsdisplay1a4e.html",
-		"sources": [
-			"Advanced Class Guide"
-		],
+		"sources": [ "Advanced Class Guide" ],
 		"cost": 75500,
 		"type": "rod",
 		"slot": "none",
@@ -2149,9 +2005,7 @@
 	"Lava Rod": {
 		"itemname": "Lava Rod",
 		"file": "magicrodsdisplaye65a.html",
-		"sources": [
-			"Pathfinder #95: Anvil of Fire"
-		],
+		"sources": [ "Pathfinder #95: Anvil of Fire" ],
 		"cost": 80000,
 		"type": "rod",
 		"slot": "none",
@@ -2170,9 +2024,7 @@
 	"Nightmare Rod": {
 		"itemname": "Nightmare Rod",
 		"file": "magicrodsdisplay05bd.html",
-		"sources": [
-			"Pathfinder #65: Into the Nightmare Rift"
-		],
+		"sources": [ "Pathfinder #65: Into the Nightmare Rift" ],
 		"cost": 80000,
 		"type": "rod",
 		"slot": "none",
@@ -2230,9 +2082,7 @@
 	"Rod of Revolution": {
 		"itemname": "Rod of Revolution",
 		"file": "magicrodsdisplay6b06.html",
-		"sources": [
-			"Inner Sea Combat"
-		],
+		"sources": [ "Inner Sea Combat" ],
 		"cost": 82000,
 		"type": "rod",
 		"slot": "none",
@@ -2274,9 +2124,7 @@
 	"Dolorous Rod": {
 		"itemname": "Dolorous Rod",
 		"file": "magicrodsdisplay8469.html",
-		"sources": [
-			"Mythic Adventures"
-		],
+		"sources": [ "Mythic Adventures" ],
 		"cost": 120000,
 		"type": "rod",
 		"slot": "none",
@@ -2295,9 +2143,7 @@
 	"Hollow Rod": {
 		"itemname": "Hollow Rod",
 		"file": "magicrodsdisplay72df.html",
-		"sources": [
-			"Occult Adventures"
-		],
+		"sources": [ "Occult Adventures" ],
 		"cost": 121500,
 		"type": "rod",
 		"slot": "none",
@@ -2316,9 +2162,7 @@
 	"Caduceus Rod": {
 		"itemname": "Caduceus Rod",
 		"file": "magicrodsdisplay125c.html",
-		"sources": [
-			"Occult Adventures"
-		],
+		"sources": [ "Occult Adventures" ],
 		"cost": 142000,
 		"type": "rod",
 		"slot": "none",
@@ -2342,9 +2186,7 @@
 	"Scepter of the Arclords": {
 		"itemname": "Scepter of the Arclords",
 		"file": "magicrodsdisplay1714.html",
-		"sources": [
-			"Lost Treasures"
-		],
+		"sources": [ "Lost Treasures" ],
 		"cost": 200000,
 		"type": "rod",
 		"slot": "none",
@@ -2394,9 +2236,7 @@
 	"Rod of Metamagic, Eclipsed (lesser)": {
 		"itemname": "Rod of Metamagic, Eclipsed (lesser)",
 		"file": "magicrodsdisplay7c90.html",
-		"sources": [
-			"Blood of Shadows"
-		],
+		"sources": [ "Blood of Shadows" ],
 		"cost": 1500,
 		"type": "rod",
 		"slot": "none",
@@ -2437,9 +2277,7 @@
 	"Rod of Metamagic, Murky (lesser)": {
 		"itemname": "Rod of Metamagic, Murky (lesser)",
 		"file": "magicrodsdisplay2d2a.html",
-		"sources": [
-			"Aquatic Adventures"
-		],
+		"sources": [ "Aquatic Adventures" ],
 		"cost": 1500,
 		"type": "rod",
 		"slot": "none",
@@ -2458,9 +2296,7 @@
 	"Rod of Metamagic, Steam (lesser)": {
 		"itemname": "Rod of Metamagic, Steam (lesser)",
 		"file": "magicrodsdisplayb8cd.html",
-		"sources": [
-			"Aquatic Adventures"
-		],
+		"sources": [ "Aquatic Adventures" ],
 		"cost": 1500,
 		"type": "rod",
 		"slot": "none",
@@ -2479,9 +2315,7 @@
 	"Rod of Metamagic, Apocalyptic (lesser)": {
 		"itemname": "Rod of Metamagic, Apocalyptic (lesser)",
 		"file": "magicrodsdisplay5b65.html",
-		"sources": [
-			"Planar Adventures"
-		],
+		"sources": [ "Planar Adventures" ],
 		"cost": 3000,
 		"type": "rod",
 		"slot": "none",
@@ -2500,9 +2334,7 @@
 	"Rod of Metamagic, Authoritative (lesser)": {
 		"itemname": "Rod of Metamagic, Authoritative (lesser)",
 		"file": "magicrodsdisplay19be.html",
-		"sources": [
-			"Planar Adventures"
-		],
+		"sources": [ "Planar Adventures" ],
 		"cost": 3000,
 		"type": "rod",
 		"slot": "none",
@@ -2521,9 +2353,7 @@
 	"Rod of Metamagic, Blissful (lesser)": {
 		"itemname": "Rod of Metamagic, Blissful (lesser)",
 		"file": "magicrodsdisplay3698.html",
-		"sources": [
-			"Planar Adventures"
-		],
+		"sources": [ "Planar Adventures" ],
 		"cost": 3000,
 		"type": "rod",
 		"slot": "none",
@@ -2564,9 +2394,7 @@
 	"Rod of Metamagic, Crypt (lesser)": {
 		"itemname": "Rod of Metamagic, Crypt (lesser)",
 		"file": "magicrodsdisplayfe79.html",
-		"sources": [
-			"Planar Adventures"
-		],
+		"sources": [ "Planar Adventures" ],
 		"cost": 3000,
 		"type": "rod",
 		"slot": "none",
@@ -2695,9 +2523,7 @@
 	"Rod of Metamagic, Flaring (lesser)": {
 		"itemname": "Rod of Metamagic, Flaring (lesser)",
 		"file": "magicrodsdisplayd830.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 3000,
 		"type": "rod",
 		"slot": "none",
@@ -2738,9 +2564,7 @@
 	"Rod of Metamagic, Furious (lesser)": {
 		"itemname": "Rod of Metamagic, Furious (lesser)",
 		"file": "magicrodsdisplay96fd.html",
-		"sources": [
-			"Occult Adventures"
-		],
+		"sources": [ "Occult Adventures" ],
 		"cost": 3000,
 		"type": "rod",
 		"slot": "none",
@@ -2803,9 +2627,7 @@
 	"Rod of Metamagic, Logical (lesser)": {
 		"itemname": "Rod of Metamagic, Logical (lesser)",
 		"file": "magicrodsdisplay8daa.html",
-		"sources": [
-			"Occult Adventures"
-		],
+		"sources": [ "Occult Adventures" ],
 		"cost": 3000,
 		"type": "rod",
 		"slot": "none",
@@ -2824,9 +2646,7 @@
 	"Rod of Metamagic, Piercing (lesser)": {
 		"itemname": "Rod of Metamagic, Piercing (lesser)",
 		"file": "magicrodsdisplay3bdb.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 3000,
 		"type": "rod",
 		"slot": "none",
@@ -2867,9 +2687,7 @@
 	"Rod of Metamagic, Rime (lesser)": {
 		"itemname": "Rod of Metamagic, Rime (lesser)",
 		"file": "magicrodsdisplay283f.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 3000,
 		"type": "rod",
 		"slot": "none",
@@ -2888,9 +2706,7 @@
 	"Rod of Metamagic, Scarring (lesser)": {
 		"itemname": "Rod of Metamagic, Scarring (lesser)",
 		"file": "magicrodsdisplaydfea.html",
-		"sources": [
-			"Occult Adventures"
-		],
+		"sources": [ "Occult Adventures" ],
 		"cost": 3000,
 		"type": "rod",
 		"slot": "none",
@@ -2953,9 +2769,7 @@
 	"Rod of Metamagic, Stable (lesser)": {
 		"itemname": "Rod of Metamagic, Stable (lesser)",
 		"file": "magicrodsdisplayf7c8.html",
-		"sources": [
-			"Wardens of the Reborn Forge"
-		],
+		"sources": [ "Wardens of the Reborn Forge" ],
 		"cost": 3000,
 		"type": "rod",
 		"slot": "none",
@@ -2974,9 +2788,7 @@
 	"Rod of Metamagic, Toppling (lesser)": {
 		"itemname": "Rod of Metamagic, Toppling (lesser)",
 		"file": "magicrodsdisplay64aa.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 3000,
 		"type": "rod",
 		"slot": "none",
@@ -2995,9 +2807,7 @@
 	"Rod of Metamagic, Tumultuous (lesser)": {
 		"itemname": "Rod of Metamagic, Tumultuous (lesser)",
 		"file": "magicrodsdisplay322f.html",
-		"sources": [
-			"Planar Adventures"
-		],
+		"sources": [ "Planar Adventures" ],
 		"cost": 3000,
 		"type": "rod",
 		"slot": "none",
@@ -3016,9 +2826,7 @@
 	"Rod of Metamagic, Eclipsed (normal)": {
 		"itemname": "Rod of Metamagic, Eclipsed (normal)",
 		"file": "magicrodsdisplay2f4a.html",
-		"sources": [
-			"Blood of Shadows"
-		],
+		"sources": [ "Blood of Shadows" ],
 		"cost": 5500,
 		"type": "rod",
 		"slot": "none",
@@ -3039,9 +2847,7 @@
 	"Rod of Metamagic, Murky (normal)": {
 		"itemname": "Rod of Metamagic, Murky (normal)",
 		"file": "magicrodsdisplay0489.html",
-		"sources": [
-			"Aquatic Adventures"
-		],
+		"sources": [ "Aquatic Adventures" ],
 		"cost": 5500,
 		"type": "rod",
 		"slot": "none",
@@ -3050,9 +2856,7 @@
 	"Rod of Metamagic, Steam (normal)": {
 		"itemname": "Rod of Metamagic, Steam (normal)",
 		"file": "magicrodsdisplayc630.html",
-		"sources": [
-			"Aquatic Adventures"
-		],
+		"sources": [ "Aquatic Adventures" ],
 		"cost": 5500,
 		"type": "rod",
 		"slot": "none",
@@ -3061,9 +2865,7 @@
 	"Rod of Metamagic, Burning (lesser)": {
 		"itemname": "Rod of Metamagic, Burning (lesser)",
 		"file": "magicrodsdisplay92c3.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 9000,
 		"type": "rod",
 		"slot": "none",
@@ -3082,9 +2884,7 @@
 	"Rod of Metamagic, Concussive (lesser)": {
 		"itemname": "Rod of Metamagic, Concussive (lesser)",
 		"file": "magicrodsdisplay6621.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 9000,
 		"type": "rod",
 		"slot": "none",
@@ -3125,9 +2925,7 @@
 	"Rod of Metamagic, Fearsome (lesser)": {
 		"itemname": "Rod of Metamagic, Fearsome (lesser)",
 		"file": "magicrodsdisplayd9bd.html",
-		"sources": [
-			"Occult Adventures"
-		],
+		"sources": [ "Occult Adventures" ],
 		"cost": 9000,
 		"type": "rod",
 		"slot": "none",
@@ -3190,9 +2988,7 @@
 	"Rod of Metamagic, Snuffing (lesser)": {
 		"itemname": "Rod of Metamagic, Snuffing (lesser)",
 		"file": "magicrodsdisplaya883.html",
-		"sources": [
-			"Blood of Shadows"
-		],
+		"sources": [ "Blood of Shadows" ],
 		"cost": 9000,
 		"type": "rod",
 		"slot": "none",
@@ -3211,9 +3007,7 @@
 	"Rod of Metamagic, Stygian (lesser)": {
 		"itemname": "Rod of Metamagic, Stygian (lesser)",
 		"file": "magicrodsdisplay15da.html",
-		"sources": [
-			"Planar Adventures"
-		],
+		"sources": [ "Planar Adventures" ],
 		"cost": 9000,
 		"type": "rod",
 		"slot": "none",
@@ -3232,9 +3026,7 @@
 	"Rod of Metamagic, Thanatopic (lesser)": {
 		"itemname": "Rod of Metamagic, Thanatopic (lesser)",
 		"file": "magicrodsdisplay9500.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 9000,
 		"type": "rod",
 		"slot": "none",
@@ -3253,9 +3045,7 @@
 	"Rod of Metamagic, Threnodic (lesser)": {
 		"itemname": "Rod of Metamagic, Threnodic (lesser)",
 		"file": "magicrodsdisplay1a78.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 9000,
 		"type": "rod",
 		"slot": "none",
@@ -3296,9 +3086,7 @@
 	"Rod of Metamagic, Traumatic (lesser)": {
 		"itemname": "Rod of Metamagic, Traumatic (lesser)",
 		"file": "magicrodsdisplay9569.html",
-		"sources": [
-			"Occult Adventures"
-		],
+		"sources": [ "Occult Adventures" ],
 		"cost": 9000,
 		"type": "rod",
 		"slot": "none",
@@ -3317,9 +3105,7 @@
 	"Rod of Metamagic, Apocalyptic (normal)": {
 		"itemname": "Rod of Metamagic, Apocalyptic (normal)",
 		"file": "magicrodsdisplay287e.html",
-		"sources": [
-			"Planar Adventures"
-		],
+		"sources": [ "Planar Adventures" ],
 		"cost": 11000,
 		"type": "rod",
 		"slot": "none",
@@ -3328,9 +3114,7 @@
 	"Rod of Metamagic, Authoritative (normal)": {
 		"itemname": "Rod of Metamagic, Authoritative (normal)",
 		"file": "magicrodsdisplay5033.html",
-		"sources": [
-			"Planar Adventures"
-		],
+		"sources": [ "Planar Adventures" ],
 		"cost": 11000,
 		"type": "rod",
 		"slot": "none",
@@ -3339,9 +3123,7 @@
 	"Rod of Metamagic, Blissful (normal)": {
 		"itemname": "Rod of Metamagic, Blissful (normal)",
 		"file": "magicrodsdisplay9188.html",
-		"sources": [
-			"Planar Adventures"
-		],
+		"sources": [ "Planar Adventures" ],
 		"cost": 11000,
 		"type": "rod",
 		"slot": "none",
@@ -3362,9 +3144,7 @@
 	"Rod of Metamagic, Crypt (normal)": {
 		"itemname": "Rod of Metamagic, Crypt (normal)",
 		"file": "magicrodsdisplay5c3c.html",
-		"sources": [
-			"Planar Adventures"
-		],
+		"sources": [ "Planar Adventures" ],
 		"cost": 11000,
 		"type": "rod",
 		"slot": "none",
@@ -3433,9 +3213,7 @@
 	"Rod of Metamagic, Flaring (normal)": {
 		"itemname": "Rod of Metamagic, Flaring (normal)",
 		"file": "magicrodsdisplaya3e4.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 11000,
 		"type": "rod",
 		"slot": "none",
@@ -3456,9 +3234,7 @@
 	"Rod of Metamagic, Furious (normal)": {
 		"itemname": "Rod of Metamagic, Furious (normal)",
 		"file": "magicrodsdisplayb953.html",
-		"sources": [
-			"Occult Adventures"
-		],
+		"sources": [ "Occult Adventures" ],
 		"cost": 11000,
 		"type": "rod",
 		"slot": "none",
@@ -3491,9 +3267,7 @@
 	"Rod of Metamagic, Logical (normal)": {
 		"itemname": "Rod of Metamagic, Logical (normal)",
 		"file": "magicrodsdisplay98f6.html",
-		"sources": [
-			"Occult Adventures"
-		],
+		"sources": [ "Occult Adventures" ],
 		"cost": 11000,
 		"type": "rod",
 		"slot": "none",
@@ -3502,9 +3276,7 @@
 	"Rod of Metamagic, Piercing (normal)": {
 		"itemname": "Rod of Metamagic, Piercing (normal)",
 		"file": "magicrodsdisplayf791.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 11000,
 		"type": "rod",
 		"slot": "none",
@@ -3525,9 +3297,7 @@
 	"Rod of Metamagic, Rime (normal)": {
 		"itemname": "Rod of Metamagic, Rime (normal)",
 		"file": "magicrodsdisplayd80c.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 11000,
 		"type": "rod",
 		"slot": "none",
@@ -3536,9 +3306,7 @@
 	"Rod of Metamagic, Scarring (normal)": {
 		"itemname": "Rod of Metamagic, Scarring (normal)",
 		"file": "magicrodsdisplayae67.html",
-		"sources": [
-			"Occult Adventures"
-		],
+		"sources": [ "Occult Adventures" ],
 		"cost": 11000,
 		"type": "rod",
 		"slot": "none",
@@ -3571,9 +3339,7 @@
 	"Rod of Metamagic, Stable (normal)": {
 		"itemname": "Rod of Metamagic, Stable (normal)",
 		"file": "magicrodsdisplayb10f.html",
-		"sources": [
-			"Wardens of the Reborn Forge"
-		],
+		"sources": [ "Wardens of the Reborn Forge" ],
 		"cost": 11000,
 		"type": "rod",
 		"slot": "none",
@@ -3582,9 +3348,7 @@
 	"Rod of Metamagic, Toppling (normal)": {
 		"itemname": "Rod of Metamagic, Toppling (normal)",
 		"file": "magicrodsdisplay872a.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 11000,
 		"type": "rod",
 		"slot": "none",
@@ -3593,9 +3357,7 @@
 	"Rod of Metamagic, Tumultuous (normal)": {
 		"itemname": "Rod of Metamagic, Tumultuous (normal)",
 		"file": "magicrodsdisplayf865.html",
-		"sources": [
-			"Planar Adventures"
-		],
+		"sources": [ "Planar Adventures" ],
 		"cost": 11000,
 		"type": "rod",
 		"slot": "none",
@@ -3604,9 +3366,7 @@
 	"Rod of Metamagic, Eclipsed (greater)": {
 		"itemname": "Rod of Metamagic, Eclipsed (greater)",
 		"file": "magicrodsdisplaya1d3.html",
-		"sources": [
-			"Blood of Shadows"
-		],
+		"sources": [ "Blood of Shadows" ],
 		"cost": 12250,
 		"type": "rod",
 		"slot": "none",
@@ -3627,9 +3387,7 @@
 	"Rod of Metamagic, Murky (greater)": {
 		"itemname": "Rod of Metamagic, Murky (greater)",
 		"file": "magicrodsdisplay9656.html",
-		"sources": [
-			"Aquatic Adventures"
-		],
+		"sources": [ "Aquatic Adventures" ],
 		"cost": 12250,
 		"type": "rod",
 		"slot": "none",
@@ -3638,9 +3396,7 @@
 	"Rod of Metamagic, Steam (greater)": {
 		"itemname": "Rod of Metamagic, Steam (greater)",
 		"file": "magicrodsdisplay530f.html",
-		"sources": [
-			"Aquatic Adventures"
-		],
+		"sources": [ "Aquatic Adventures" ],
 		"cost": 12250,
 		"type": "rod",
 		"slot": "none",
@@ -3671,9 +3427,7 @@
 	"Rod of Metamagic, Echoing (lesser)": {
 		"itemname": "Rod of Metamagic, Echoing (lesser)",
 		"file": "magicrodsdisplay1f73.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 14000,
 		"type": "rod",
 		"slot": "none",
@@ -3692,9 +3446,7 @@
 	"Rod of Metamagic, Familiar (lesser)": {
 		"itemname": "Rod of Metamagic, Familiar (lesser)",
 		"file": "magicrodsdisplay5cfb.html",
-		"sources": [
-			"Animal Archive"
-		],
+		"sources": [ "Animal Archive" ],
 		"cost": 14000,
 		"type": "rod",
 		"slot": "none",
@@ -3735,9 +3487,7 @@
 	"Rod of Metamagic, Widen (lesser)": {
 		"itemname": "Rod of Metamagic, Widen (lesser)",
 		"file": "magicrodsdisplay406c.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 14000,
 		"type": "rod",
 		"slot": "none",
@@ -3756,9 +3506,7 @@
 	"Rod of Metamagic, Apocalyptic (greater)": {
 		"itemname": "Rod of Metamagic, Apocalyptic (greater)",
 		"file": "magicrodsdisplay6d06.html",
-		"sources": [
-			"Planar Adventures"
-		],
+		"sources": [ "Planar Adventures" ],
 		"cost": 24500,
 		"type": "rod",
 		"slot": "none",
@@ -3767,9 +3515,7 @@
 	"Rod of Metamagic, Authoritative (greater)": {
 		"itemname": "Rod of Metamagic, Authoritative (greater)",
 		"file": "magicrodsdisplayad5d.html",
-		"sources": [
-			"Planar Adventures"
-		],
+		"sources": [ "Planar Adventures" ],
 		"cost": 24500,
 		"type": "rod",
 		"slot": "none",
@@ -3778,9 +3524,7 @@
 	"Rod of Metamagic, Blissful (greater)": {
 		"itemname": "Rod of Metamagic, Blissful (greater)",
 		"file": "magicrodsdisplayb59a.html",
-		"sources": [
-			"Planar Adventures"
-		],
+		"sources": [ "Planar Adventures" ],
 		"cost": 24500,
 		"type": "rod",
 		"slot": "none",
@@ -3801,9 +3545,7 @@
 	"Rod of Metamagic, Crypt (greater)": {
 		"itemname": "Rod of Metamagic, Crypt (greater)",
 		"file": "magicrodsdisplayd6d9.html",
-		"sources": [
-			"Planar Adventures"
-		],
+		"sources": [ "Planar Adventures" ],
 		"cost": 24500,
 		"type": "rod",
 		"slot": "none",
@@ -3872,9 +3614,7 @@
 	"Rod of Metamagic, Flaring (greater)": {
 		"itemname": "Rod of Metamagic, Flaring (greater)",
 		"file": "magicrodsdisplayfc0b.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 24500,
 		"type": "rod",
 		"slot": "none",
@@ -3895,9 +3635,7 @@
 	"Rod of Metamagic, Furious (greater)": {
 		"itemname": "Rod of Metamagic, Furious (greater)",
 		"file": "magicrodsdisplay7385.html",
-		"sources": [
-			"Occult Adventures"
-		],
+		"sources": [ "Occult Adventures" ],
 		"cost": 24500,
 		"type": "rod",
 		"slot": "none",
@@ -3930,9 +3668,7 @@
 	"Rod of Metamagic, Logical (greater)": {
 		"itemname": "Rod of Metamagic, Logical (greater)",
 		"file": "magicrodsdisplayd303.html",
-		"sources": [
-			"Occult Adventures"
-		],
+		"sources": [ "Occult Adventures" ],
 		"cost": 24500,
 		"type": "rod",
 		"slot": "none",
@@ -3941,9 +3677,7 @@
 	"Rod of Metamagic, Piercing (greater)": {
 		"itemname": "Rod of Metamagic, Piercing (greater)",
 		"file": "magicrodsdisplayc07d.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 24500,
 		"type": "rod",
 		"slot": "none",
@@ -3964,9 +3698,7 @@
 	"Rod of Metamagic, Rime (greater)": {
 		"itemname": "Rod of Metamagic, Rime (greater)",
 		"file": "magicrodsdisplay6b36.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 24500,
 		"type": "rod",
 		"slot": "none",
@@ -3975,9 +3707,7 @@
 	"Rod of Metamagic, Scarring (greater)": {
 		"itemname": "Rod of Metamagic, Scarring (greater)",
 		"file": "magicrodsdisplayadaa.html",
-		"sources": [
-			"Occult Adventures"
-		],
+		"sources": [ "Occult Adventures" ],
 		"cost": 24500,
 		"type": "rod",
 		"slot": "none",
@@ -4010,9 +3740,7 @@
 	"Rod of Metamagic, Stable (greater)": {
 		"itemname": "Rod of Metamagic, Stable (greater)",
 		"file": "magicrodsdisplay9c32.html",
-		"sources": [
-			"Wardens of the Reborn Forge"
-		],
+		"sources": [ "Wardens of the Reborn Forge" ],
 		"cost": 24500,
 		"type": "rod",
 		"slot": "none",
@@ -4021,9 +3749,7 @@
 	"Rod of Metamagic, Toppling (greater)": {
 		"itemname": "Rod of Metamagic, Toppling (greater)",
 		"file": "magicrodsdisplay75b5.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 24500,
 		"type": "rod",
 		"slot": "none",
@@ -4032,9 +3758,7 @@
 	"Rod of Metamagic, Tumultuous (greater)": {
 		"itemname": "Rod of Metamagic, Tumultuous (greater)",
 		"file": "magicrodsdisplayf1f3.html",
-		"sources": [
-			"Planar Adventures"
-		],
+		"sources": [ "Planar Adventures" ],
 		"cost": 24500,
 		"type": "rod",
 		"slot": "none",
@@ -4043,9 +3767,7 @@
 	"Rod of Metamagic, Burning (normal)": {
 		"itemname": "Rod of Metamagic, Burning (normal)",
 		"file": "magicrodsdisplay90fd.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 32500,
 		"type": "rod",
 		"slot": "none",
@@ -4054,9 +3776,7 @@
 	"Rod of Metamagic, Concussive (normal)": {
 		"itemname": "Rod of Metamagic, Concussive (normal)",
 		"file": "magicrodsdisplayc3a5.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 32500,
 		"type": "rod",
 		"slot": "none",
@@ -4077,9 +3797,7 @@
 	"Rod of Metamagic, Fearsome (normal)": {
 		"itemname": "Rod of Metamagic, Fearsome (normal)",
 		"file": "magicrodsdisplay32b6.html",
-		"sources": [
-			"Occult Adventures"
-		],
+		"sources": [ "Occult Adventures" ],
 		"cost": 32500,
 		"type": "rod",
 		"slot": "none",
@@ -4112,9 +3830,7 @@
 	"Rod of Metamagic, Snuffing (normal)": {
 		"itemname": "Rod of Metamagic, Snuffing (normal)",
 		"file": "magicrodsdisplay641d.html",
-		"sources": [
-			"Blood of Shadows"
-		],
+		"sources": [ "Blood of Shadows" ],
 		"cost": 32500,
 		"type": "rod",
 		"slot": "none",
@@ -4123,9 +3839,7 @@
 	"Rod of Metamagic, Stygian (normal)": {
 		"itemname": "Rod of Metamagic, Stygian (normal)",
 		"file": "magicrodsdisplay493e.html",
-		"sources": [
-			"Planar Adventures"
-		],
+		"sources": [ "Planar Adventures" ],
 		"cost": 32500,
 		"type": "rod",
 		"slot": "none",
@@ -4134,9 +3848,7 @@
 	"Rod of Metamagic, Thanatopic (normal)": {
 		"itemname": "Rod of Metamagic, Thanatopic (normal)",
 		"file": "magicrodsdisplay4298.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 32500,
 		"type": "rod",
 		"slot": "none",
@@ -4145,9 +3857,7 @@
 	"Rod of Metamagic, Threnodic (normal)": {
 		"itemname": "Rod of Metamagic, Threnodic (normal)",
 		"file": "magicrodsdisplay9f2d.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 32500,
 		"type": "rod",
 		"slot": "none",
@@ -4168,9 +3878,7 @@
 	"Rod of Metamagic, Traumatic (normal)": {
 		"itemname": "Rod of Metamagic, Traumatic (normal)",
 		"file": "magicrodsdisplay70c0.html",
-		"sources": [
-			"Occult Adventures"
-		],
+		"sources": [ "Occult Adventures" ],
 		"cost": 32500,
 		"type": "rod",
 		"slot": "none",
@@ -4213,9 +3921,7 @@
 	"Rod of Metamagic, Echoing (normal)": {
 		"itemname": "Rod of Metamagic, Echoing (normal)",
 		"file": "magicrodsdisplayb4f6.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 54000,
 		"type": "rod",
 		"slot": "none",
@@ -4224,9 +3930,7 @@
 	"Rod of Metamagic, Familiar (normal)": {
 		"itemname": "Rod of Metamagic, Familiar (normal)",
 		"file": "magicrodsdisplay9bbb.html",
-		"sources": [
-			"Animal Archive"
-		],
+		"sources": [ "Animal Archive" ],
 		"cost": 54000,
 		"type": "rod",
 		"slot": "none",
@@ -4247,9 +3951,7 @@
 	"Rod of Metamagic, Widen (normal)": {
 		"itemname": "Rod of Metamagic, Widen (normal)",
 		"file": "magicrodsdisplayaab9.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 54000,
 		"type": "rod",
 		"slot": "none",
@@ -4258,9 +3960,7 @@
 	"Rod of Metamagic, Burning (greater)": {
 		"itemname": "Rod of Metamagic, Burning (greater)",
 		"file": "magicrodsdisplay9060.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 73000,
 		"type": "rod",
 		"slot": "none",
@@ -4269,9 +3969,7 @@
 	"Rod of Metamagic, Concussive (greater)": {
 		"itemname": "Rod of Metamagic, Concussive (greater)",
 		"file": "magicrodsdisplay4746.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 73000,
 		"type": "rod",
 		"slot": "none",
@@ -4292,9 +3990,7 @@
 	"Rod of Metamagic, Fearsome (greater)": {
 		"itemname": "Rod of Metamagic, Fearsome (greater)",
 		"file": "magicrodsdisplay531e.html",
-		"sources": [
-			"Occult Adventures"
-		],
+		"sources": [ "Occult Adventures" ],
 		"cost": 73000,
 		"type": "rod",
 		"slot": "none",
@@ -4327,9 +4023,7 @@
 	"Rod of Metamagic, Snuffing (greater)": {
 		"itemname": "Rod of Metamagic, Snuffing (greater)",
 		"file": "magicrodsdisplay0f41.html",
-		"sources": [
-			"Blood of Shadows"
-		],
+		"sources": [ "Blood of Shadows" ],
 		"cost": 73000,
 		"type": "rod",
 		"slot": "none",
@@ -4338,9 +4032,7 @@
 	"Rod of Metamagic, Stygian (greater)": {
 		"itemname": "Rod of Metamagic, Stygian (greater)",
 		"file": "magicrodsdisplayeb52.html",
-		"sources": [
-			"Planar Adventures"
-		],
+		"sources": [ "Planar Adventures" ],
 		"cost": 73000,
 		"type": "rod",
 		"slot": "none",
@@ -4349,9 +4041,7 @@
 	"Rod of Metamagic, Thanatopic (greater)": {
 		"itemname": "Rod of Metamagic, Thanatopic (greater)",
 		"file": "magicrodsdisplayf0f1.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 73000,
 		"type": "rod",
 		"slot": "none",
@@ -4360,9 +4050,7 @@
 	"Rod of Metamagic, Threnodic (greater)": {
 		"itemname": "Rod of Metamagic, Threnodic (greater)",
 		"file": "magicrodsdisplay98c6.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 73000,
 		"type": "rod",
 		"slot": "none",
@@ -4383,9 +4071,7 @@
 	"Rod of Metamagic, Traumatic (greater)": {
 		"itemname": "Rod of Metamagic, Traumatic (greater)",
 		"file": "magicrodsdisplaye868.html",
-		"sources": [
-			"Occult Adventures"
-		],
+		"sources": [ "Occult Adventures" ],
 		"cost": 73000,
 		"type": "rod",
 		"slot": "none",
@@ -4418,9 +4104,7 @@
 	"Rod of Metamagic, Echoing (greater)": {
 		"itemname": "Rod of Metamagic, Echoing (greater)",
 		"file": "magicrodsdisplay7b21.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 121500,
 		"type": "rod",
 		"slot": "none",
@@ -4429,9 +4113,7 @@
 	"Rod of Metamagic, Familiar (greater)": {
 		"itemname": "Rod of Metamagic, Familiar (greater)",
 		"file": "magicrodsdisplaydbcb.html",
-		"sources": [
-			"Animal Archive"
-		],
+		"sources": [ "Animal Archive" ],
 		"cost": 121500,
 		"type": "rod",
 		"slot": "none",
@@ -4452,9 +4134,7 @@
 	"Rod of Metamagic, Widen (greater)": {
 		"itemname": "Rod of Metamagic, Widen (greater)",
 		"file": "magicrodsdisplay0bdf.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 121500,
 		"type": "rod",
 		"slot": "none",

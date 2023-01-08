@@ -2,9 +2,7 @@
 	"Staff of Blessed Relief": {
 		"itemname": "Staff of Blessed Relief",
 		"file": "magicstavesdisplay6c32.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 7200,
 		"type": "staff",
 		"slot": "none",
@@ -31,9 +29,7 @@
 	"Staff of Minor Arcana": {
 		"itemname": "Staff of Minor Arcana",
 		"file": "magicstavesdisplaye74f.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 8000,
 		"type": "staff",
 		"slot": "none",
@@ -59,9 +55,7 @@
 	"Staff of Tricks": {
 		"itemname": "Staff of Tricks",
 		"file": "magicstavesdisplayedad.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 8800,
 		"type": "staff",
 		"slot": "none",
@@ -89,9 +83,7 @@
 	"Staff of the Scout": {
 		"itemname": "Staff of the Scout",
 		"file": "magicstavesdisplay1941.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 9600,
 		"type": "staff",
 		"slot": "none",
@@ -118,9 +110,7 @@
 	"Monstrification Staff": {
 		"itemname": "Monstrification Staff",
 		"file": "magicstavesdisplay5fbe.html",
-		"sources": [
-			"Advanced Class Guide"
-		],
+		"sources": [ "Advanced Class Guide" ],
 		"cost": 12000,
 		"type": "staff",
 		"slot": "none",
@@ -146,9 +136,7 @@
 	"Gravedigger's Spade": {
 		"itemname": "Gravedigger's Spade",
 		"file": "magicstavesdisplayc7b6.html",
-		"sources": [
-			"Advanced Class Guide"
-		],
+		"sources": [ "Advanced Class Guide" ],
 		"cost": 12150,
 		"type": "staff",
 		"slot": "none",
@@ -175,9 +163,7 @@
 	"Spark Staff": {
 		"itemname": "Spark Staff",
 		"file": "magicstavesdisplay58d7.html",
-		"sources": [
-			"Advanced Class Guide"
-		],
+		"sources": [ "Advanced Class Guide" ],
 		"cost": 12650,
 		"type": "staff",
 		"slot": "none",
@@ -204,9 +190,7 @@
 	"Ember Staff": {
 		"itemname": "Ember Staff",
 		"file": "magicstavesdisplayeade.html",
-		"sources": [
-			"Advanced Class Guide"
-		],
+		"sources": [ "Advanced Class Guide" ],
 		"cost": 13100,
 		"type": "staff",
 		"slot": "none",
@@ -234,9 +218,7 @@
 	"Staff of Eidolons": {
 		"itemname": "Staff of Eidolons",
 		"file": "magicstavesdisplaycf7f.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 14400,
 		"type": "staff",
 		"slot": "none",
@@ -293,9 +275,7 @@
 	"Staff of Accompaniment": {
 		"itemname": "Staff of Accompaniment",
 		"file": "magicstavesdisplaya313.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 14800,
 		"type": "staff",
 		"slot": "none",
@@ -322,9 +302,7 @@
 	"Staff of the Master (Necromancy)": {
 		"itemname": "Staff of the Master (Necromancy)",
 		"file": "magicstavesdisplay41fa.html",
-		"sources": [
-			"Conquest of Bloodsworn Vale"
-		],
+		"sources": [ "Conquest of Bloodsworn Vale" ],
 		"cost": 15200,
 		"type": "staff",
 		"slot": "none",
@@ -352,9 +330,7 @@
 	"Crook of Cildhureen": {
 		"itemname": "Crook of Cildhureen",
 		"file": "magicstavesdisplay0e8c.html",
-		"sources": [
-			"Realm of the Fellnight Queen"
-		],
+		"sources": [ "Realm of the Fellnight Queen" ],
 		"cost": 16800,
 		"type": "staff",
 		"slot": "none",
@@ -441,9 +417,7 @@
 	"Staff of Belittling": {
 		"itemname": "Staff of Belittling",
 		"file": "magicstavesdisplaya100.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 20000,
 		"type": "staff",
 		"slot": "none",
@@ -502,9 +476,7 @@
 	"Staff of Feast and Famine": {
 		"itemname": "Staff of Feast and Famine",
 		"file": "magicstavesdisplay893f.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 20800,
 		"type": "staff",
 		"slot": "none",
@@ -533,9 +505,7 @@
 	"Staff of Internal Assault": {
 		"itemname": "Staff of Internal Assault",
 		"file": "magicstavesdisplaydc35.html",
-		"sources": [
-			"Dragonslayer's Handbook"
-		],
+		"sources": [ "Dragonslayer's Handbook" ],
 		"cost": 20800,
 		"type": "staff",
 		"slot": "none",
@@ -593,9 +563,7 @@
 	"Shory Acolyte's Staff": {
 		"itemname": "Shory Acolyte's Staff",
 		"file": "magicstavesdisplay65f2.html",
-		"sources": [
-			"Advanced Class Origins"
-		],
+		"sources": [ "Advanced Class Origins" ],
 		"cost": 21600,
 		"type": "staff",
 		"slot": "none",
@@ -622,9 +590,7 @@
 	"Cephalopod Staff": {
 		"itemname": "Cephalopod Staff",
 		"file": "magicstavesdisplayf9d7.html",
-		"sources": [
-			"Horror Adventures"
-		],
+		"sources": [ "Horror Adventures" ],
 		"cost": 22800,
 		"type": "staff",
 		"slot": "none",
@@ -681,9 +647,7 @@
 	"Staff of Authority": {
 		"itemname": "Staff of Authority",
 		"file": "magicstavesdisplaycd72.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 23000,
 		"type": "staff",
 		"slot": "none",
@@ -740,9 +704,7 @@
 	"Zenj Totem Staff": {
 		"itemname": "Zenj Totem Staff",
 		"file": "magicstavesdisplay650f.html",
-		"sources": [
-			"Advanced Class Origins"
-		],
+		"sources": [ "Advanced Class Origins" ],
 		"cost": 24800,
 		"type": "staff",
 		"slot": "none",
@@ -772,9 +734,7 @@
 	"Drazmorg's Staff of All-Sight": {
 		"itemname": "Drazmorg's Staff of All-Sight",
 		"file": "magicstavesdisplaye85b.html",
-		"sources": [
-			"Hungry are the Dead"
-		],
+		"sources": [ "Hungry are the Dead" ],
 		"cost": 25000,
 		"type": "staff",
 		"slot": "none",
@@ -834,9 +794,7 @@
 	"Staff of Curchanus": {
 		"itemname": "Staff of Curchanus",
 		"file": "magicstavesdisplaye703.html",
-		"sources": [
-			"Pathfinder #122: Into the Shattered Continent"
-		],
+		"sources": [ "Pathfinder #122: Into the Shattered Continent" ],
 		"cost": 26600,
 		"type": "staff",
 		"slot": "none",
@@ -898,9 +856,7 @@
 	"Staff of Acid": {
 		"itemname": "Staff of Acid",
 		"file": "magicstavesdisplay9e4d.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 28600,
 		"type": "staff",
 		"slot": "none",
@@ -927,9 +883,7 @@
 	"Chaotic Staff": {
 		"itemname": "Chaotic Staff",
 		"file": "magicstavesdisplayeb13.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 29600,
 		"type": "staff",
 		"slot": "none",
@@ -957,9 +911,7 @@
 	"Holy Staff": {
 		"itemname": "Holy Staff",
 		"file": "magicstavesdisplay9491.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 29600,
 		"type": "staff",
 		"slot": "none",
@@ -987,9 +939,7 @@
 	"Lawful Staff": {
 		"itemname": "Lawful Staff",
 		"file": "magicstavesdisplayde78.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 29600,
 		"type": "staff",
 		"slot": "none",
@@ -1048,9 +998,7 @@
 	"Unholy Staff": {
 		"itemname": "Unholy Staff",
 		"file": "magicstavesdisplayf0c8.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 29600,
 		"type": "staff",
 		"slot": "none",
@@ -1078,9 +1026,7 @@
 	"Hungering Staff": {
 		"itemname": "Hungering Staff",
 		"file": "magicstavesdisplaycff6.html",
-		"sources": [
-			"Horror Adventures"
-		],
+		"sources": [ "Horror Adventures" ],
 		"cost": 30000,
 		"type": "staff",
 		"slot": "none",
@@ -1109,9 +1055,7 @@
 	"Staff of the Master": {
 		"itemname": "Staff of the Master",
 		"file": "magicstavesdisplaye0f8.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 30000,
 		"type": "staff",
 		"slot": "none",
@@ -1139,9 +1083,7 @@
 	"Staff of Spiders": {
 		"itemname": "Staff of Spiders",
 		"file": "magicstavesdisplay41fa-2.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 30200,
 		"type": "staff",
 		"slot": "none",
@@ -1168,9 +1110,7 @@
 	"Oaken Staff": {
 		"itemname": "Oaken Staff",
 		"file": "magicstavesdisplay5458.html",
-		"sources": [
-			"Heroes of the Wild"
-		],
+		"sources": [ "Heroes of the Wild" ],
 		"cost": 31800,
 		"type": "staff",
 		"slot": "none",
@@ -1198,9 +1138,7 @@
 	"Staff of Electricity": {
 		"itemname": "Staff of Electricity",
 		"file": "magicstavesdisplayae71.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 31900,
 		"type": "staff",
 		"slot": "none",
@@ -1227,9 +1165,7 @@
 	"Heretic's Bane": {
 		"itemname": "Heretic's Bane",
 		"file": "magicstavesdisplayce92.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 32000,
 		"type": "staff",
 		"slot": "none",
@@ -1257,9 +1193,7 @@
 	"Many-Eyed Staff": {
 		"itemname": "Many-Eyed Staff",
 		"file": "magicstavesdisplay91d0.html",
-		"sources": [
-			"Horror Adventures"
-		],
+		"sources": [ "Horror Adventures" ],
 		"cost": 32000,
 		"type": "staff",
 		"slot": "none",
@@ -1287,9 +1221,7 @@
 	"Musical Staff": {
 		"itemname": "Musical Staff",
 		"file": "magicstavesdisplaya5b5.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 32000,
 		"type": "staff",
 		"slot": "none",
@@ -1409,9 +1341,7 @@
 	"Staff of the Avenger": {
 		"itemname": "Staff of the Avenger",
 		"file": "magicstavesdisplay9018.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 37310,
 		"type": "staff",
 		"slot": "none",
@@ -1439,9 +1369,7 @@
 	"Staff of Aspects": {
 		"itemname": "Staff of Aspects",
 		"file": "magicstavesdisplay9055.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 37600,
 		"type": "staff",
 		"slot": "none",
@@ -1469,9 +1397,7 @@
 	"Staff of the Prime Mover": {
 		"itemname": "Staff of the Prime Mover",
 		"file": "magicstavesdisplay3155.html",
-		"sources": [
-			"Down the Blighted Path"
-		],
+		"sources": [ "Down the Blighted Path" ],
 		"cost": 38300,
 		"type": "staff",
 		"slot": "none",
@@ -1502,9 +1428,7 @@
 	"Staff of Spirit-Talking": {
 		"itemname": "Staff of Spirit-Talking",
 		"file": "magicstavesdisplay76ef.html",
-		"sources": [
-			"Sargava, the Lost Colony"
-		],
+		"sources": [ "Sargava, the Lost Colony" ],
 		"cost": 39050,
 		"type": "staff",
 		"slot": "none",
@@ -1625,9 +1549,7 @@
 	"Spherewalker's Staff": {
 		"itemname": "Spherewalker's Staff",
 		"file": "magicstavesdisplayb1ea.html",
-		"sources": [
-			"Pathfinder #75: Demon's Heresy"
-		],
+		"sources": [ "Pathfinder #75: Demon's Heresy" ],
 		"cost": 43400,
 		"type": "staff",
 		"slot": "none",
@@ -1658,9 +1580,7 @@
 	"Staff of Curses": {
 		"itemname": "Staff of Curses",
 		"file": "magicstavesdisplayd170.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 43500,
 		"type": "staff",
 		"slot": "none",
@@ -1689,9 +1609,7 @@
 	"Staff of the Dark Tapestry": {
 		"itemname": "Staff of the Dark Tapestry",
 		"file": "magicstavesdisplaye7d1.html",
-		"sources": [
-			"Pathfinder #88: Valley of the Brain Collectors"
-		],
+		"sources": [ "Pathfinder #88: Valley of the Brain Collectors" ],
 		"cost": 43500,
 		"type": "staff",
 		"slot": "none",
@@ -1721,9 +1639,7 @@
 	"Staff of Fortune": {
 		"itemname": "Staff of Fortune",
 		"file": "magicstavesdisplay242d.html",
-		"sources": [
-			"Advanced Player's Guide"
-		],
+		"sources": [ "Advanced Player's Guide" ],
 		"cost": 44400,
 		"type": "staff",
 		"slot": "none",
@@ -1749,9 +1665,7 @@
 	"Staff of Dark Flame": {
 		"itemname": "Staff of Dark Flame",
 		"file": "magicstavesdisplay1784.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 47000,
 		"type": "staff",
 		"slot": "none",
@@ -1814,9 +1728,7 @@
 	"Animate Staff": {
 		"itemname": "Animate Staff",
 		"file": "magicstavesdisplayd0fb.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 49800,
 		"type": "staff",
 		"slot": "none",
@@ -1844,9 +1756,7 @@
 	"Staff of Hunting": {
 		"itemname": "Staff of Hunting",
 		"file": "magicstavesdisplayd572.html",
-		"sources": [
-			"Dragonslayer's Handbook"
-		],
+		"sources": [ "Dragonslayer's Handbook" ],
 		"cost": 51000,
 		"type": "staff",
 		"slot": "none",
@@ -1935,9 +1845,7 @@
 	"Staff of the Freed Man": {
 		"itemname": "Staff of the Freed Man",
 		"file": "magicstavesdisplaydd80.html",
-		"sources": [
-			"Champions of Purity"
-		],
+		"sources": [ "Champions of Purity" ],
 		"cost": 51688,
 		"type": "staff",
 		"slot": "none",
@@ -1964,9 +1872,7 @@
 	"Doomsday Staff": {
 		"itemname": "Doomsday Staff",
 		"file": "magicstavesdisplay17e1.html",
-		"sources": [
-			"Pathfinder #64: Beyond the Doomsday Door"
-		],
+		"sources": [ "Pathfinder #64: Beyond the Doomsday Door" ],
 		"cost": 52000,
 		"type": "staff",
 		"slot": "none",
@@ -2061,9 +1967,7 @@
 	"Staff of Travel": {
 		"itemname": "Staff of Travel",
 		"file": "magicstavesdisplay7f80.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 54400,
 		"type": "staff",
 		"slot": "none",
@@ -2123,9 +2027,7 @@
 	"Crook of Unseen Forces": {
 		"itemname": "Crook of Unseen Forces",
 		"file": "magicstavesdisplayc1d5.html",
-		"sources": [
-			"Down the Blighted Path"
-		],
+		"sources": [ "Down the Blighted Path" ],
 		"cost": 56300,
 		"type": "staff",
 		"slot": "none",
@@ -2253,9 +2155,7 @@
 	"Staff of Speaking": {
 		"itemname": "Staff of Speaking",
 		"file": "magicstavesdisplayec1e.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 57200,
 		"type": "staff",
 		"slot": "none",
@@ -2316,9 +2216,7 @@
 	"Staff of Wings": {
 		"itemname": "Staff of Wings",
 		"file": "magicstavesdisplay56f4.html",
-		"sources": [
-			"Chronicle of the Righteous"
-		],
+		"sources": [ "Chronicle of the Righteous" ],
 		"cost": 59400,
 		"type": "staff",
 		"slot": "none",
@@ -2375,9 +2273,7 @@
 	"Staff of Stoneweaving": {
 		"itemname": "Staff of Stoneweaving",
 		"file": "magicstavesdisplayaf99.html",
-		"sources": [
-			"Pathfinder #34: Blood for Blood"
-		],
+		"sources": [ "Pathfinder #34: Blood for Blood" ],
 		"cost": 63180,
 		"type": "staff",
 		"slot": "none",
@@ -2407,9 +2303,7 @@
 	"Staff of the Planes": {
 		"itemname": "Staff of the Planes",
 		"file": "magicstavesdisplayccc1.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 63960,
 		"type": "staff",
 		"slot": "none",
@@ -2471,9 +2365,7 @@
 	"Quiema's Branch": {
 		"itemname": "Quiema's Branch",
 		"file": "magicstavesdisplay3434.html",
-		"sources": [
-			"Pathfinder #34: Blood for Blood"
-		],
+		"sources": [ "Pathfinder #34: Blood for Blood" ],
 		"cost": 72750,
 		"type": "staff",
 		"slot": "none",
@@ -2502,9 +2394,7 @@
 	"Dragon Staff": {
 		"itemname": "Dragon Staff",
 		"file": "magicstavesdisplay3218.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 81000,
 		"type": "staff",
 		"slot": "none",
@@ -2925,9 +2815,7 @@
 	"Staff of Waves": {
 		"itemname": "Staff of Waves",
 		"file": "magicstavesdisplay3eaa.html",
-		"sources": [
-			"Aquatic Adventures"
-		],
+		"sources": [ "Aquatic Adventures" ],
 		"cost": 90300,
 		"type": "staff",
 		"slot": "none",
@@ -3019,9 +2907,7 @@
 	"Staff of Nethys": {
 		"itemname": "Staff of Nethys",
 		"file": "magicstavesdisplayf31b.html",
-		"sources": [
-			"Divine Anthology"
-		],
+		"sources": [ "Divine Anthology" ],
 		"cost": 131550,
 		"type": "staff",
 		"slot": "none",
@@ -3052,9 +2938,7 @@
 	"Staff of One Hundred Hands": {
 		"itemname": "Staff of One Hundred Hands",
 		"file": "magicstavesdisplay6683.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 180200,
 		"type": "staff",
 		"slot": "none",
@@ -3084,9 +2968,7 @@
 	"Vril Staff": {
 		"itemname": "Vril Staff",
 		"file": "magicstavesdisplayf266.html",
-		"sources": [
-			"Occult Adventures"
-		],
+		"sources": [ "Occult Adventures" ],
 		"cost": 200000,
 		"type": "staff",
 		"slot": "none",
@@ -3150,9 +3032,7 @@
 	"Staff of the Hierophant": {
 		"itemname": "Staff of the Hierophant",
 		"file": "magicstavesdisplay7f3e.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 220000,
 		"type": "staff",
 		"slot": "none",
@@ -3188,9 +3068,7 @@
 	"Winter's Reach": {
 		"itemname": "Winter's Reach",
 		"file": "magicstavesdisplay24b1.html",
-		"sources": [
-			"Pathfinder #72: The Witch Queen's Revenge"
-		],
+		"sources": [ "Pathfinder #72: The Witch Queen's Revenge" ],
 		"cost": 228000,
 		"type": "staff",
 		"slot": "none",
@@ -3261,9 +3139,7 @@
 	"Lasirro's Staff": {
 		"itemname": "Lasirro's Staff",
 		"file": "magicstavesdisplay6c67.html",
-		"sources": [
-			"Lost Treasures"
-		],
+		"sources": [ "Lost Treasures" ],
 		"cost": 240000,
 		"type": "staff",
 		"slot": "none",
