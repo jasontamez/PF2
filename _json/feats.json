@@ -5721,63 +5721,50 @@
 				"rows": [
 					[
 						"Spell Level",
-						"Caster Level",
 						"Caster Level"
 					],
 					[
 						"0",
-						"2nd",
-						"4th"
+						"2nd"
 					],
 					[
 						"1st",
-						"4th",
-						"6th"
+						"4th"
 					],
 					[
 						"2nd",
-						"6th",
-						"8th"
+						"6th"
 					],
 					[
 						"3rd",
-						"8th",
-						"10th"
+						"8th"
 					],
 					[
 						"4th",
-						"10th",
-						"12th"
+						"10th"
 					],
 					[
 						"5th",
-						"12th",
-						"14th"
+						"12th"
 					],
 					[
 						"6th",
-						"14th",
-						"16th"
+						"14th"
 					],
 					[
 						"7th",
-						"16th",
-						"18th"
+						"16th"
 					],
 					[
 						"8th",
-						"18th",
-						"20th"
+						"18th"
 					],
 					[
 						"9th",
-						"20th",
-						"-"
+						"20th"
 					]
 				]
-			},
-			"Bouncing, disruptive, intensified, lingering, or scarring ability.",
-			"Fearsome, sickening, or traumatic ability."
+			}
 		],
 		"shortDescription": "Failed spell-like ability bounces to another target"
 	},
@@ -14293,63 +14280,50 @@
 				"rows": [
 					[
 						"Spell Level",
-						"Caster Level",
 						"Caster Level"
 					],
 					[
 						"0",
-						"2nd",
-						"4th"
+						"2nd"
 					],
 					[
 						"1st",
-						"4th",
-						"6th"
+						"4th"
 					],
 					[
 						"2nd",
-						"6th",
-						"8th"
+						"6th"
 					],
 					[
 						"3rd",
-						"8th",
-						"10th"
+						"8th"
 					],
 					[
 						"4th",
-						"10th",
-						"12th"
+						"10th"
 					],
 					[
 						"5th",
-						"12th",
-						"14th"
+						"12th"
 					],
 					[
 						"6th",
-						"14th",
-						"16th"
+						"14th"
 					],
 					[
 						"7th",
-						"16th",
-						"18th"
+						"16th"
 					],
 					[
 						"8th",
-						"18th",
-						"20th"
+						"18th"
 					],
 					[
 						"9th",
-						"20th",
-						"-"
+						"20th"
 					]
 				]
-			},
-			"Bouncing, disruptive, intensified, lingering, or scarring ability.",
-			"Fearsome, sickening, or traumatic ability."
+			}
 		],
 		"shortDescription": "Spell-like ability interferes with spellcasting"
 	},
@@ -21456,63 +21430,50 @@
 				"rows": [
 					[
 						"Spell Level",
-						"Caster Level",
 						"Caster Level"
 					],
 					[
 						"0",
-						"2nd",
 						"4th"
 					],
 					[
 						"1st",
-						"4th",
 						"6th"
 					],
 					[
 						"2nd",
-						"6th",
 						"8th"
 					],
 					[
 						"3rd",
-						"8th",
 						"10th"
 					],
 					[
 						"4th",
-						"10th",
 						"12th"
 					],
 					[
 						"5th",
-						"12th",
 						"14th"
 					],
 					[
 						"6th",
-						"14th",
 						"16th"
 					],
 					[
 						"7th",
-						"16th",
 						"18th"
 					],
 					[
 						"8th",
-						"18th",
 						"20th"
 					],
 					[
 						"9th",
-						"20th",
 						"-"
 					]
 				]
-			},
-			"Bouncing, disruptive, intensified, lingering, or scarring ability.",
-			"Fearsome, sickening, or traumatic ability."
+			}
 		],
 		"shortDescription": "Spell-like ability makes damaged foes shaken"
 	},
@@ -31369,63 +31330,50 @@
 				"rows": [
 					[
 						"Spell Level",
-						"Caster Level",
 						"Caster Level"
 					],
 					[
 						"0",
-						"2nd",
-						"4th"
+						"2nd"
 					],
 					[
 						"1st",
-						"4th",
-						"6th"
+						"4th"
 					],
 					[
 						"2nd",
-						"6th",
-						"8th"
+						"6th"
 					],
 					[
 						"3rd",
-						"8th",
-						"10th"
+						"8th"
 					],
 					[
 						"4th",
-						"10th",
-						"12th"
+						"10th"
 					],
 					[
 						"5th",
-						"12th",
-						"14th"
+						"12th"
 					],
 					[
 						"6th",
-						"14th",
-						"16th"
+						"14th"
 					],
 					[
 						"7th",
-						"16th",
-						"18th"
+						"16th"
 					],
 					[
 						"8th",
-						"18th",
-						"20th"
+						"18th"
 					],
 					[
 						"9th",
-						"20th",
-						"-"
+						"20th"
 					]
 				]
-			},
-			"Bouncing, disruptive, intensified, lingering, or scarring ability.",
-			"Fearsome, sickening, or traumatic ability."
+			}
 		],
 		"shortDescription": "Spell-like ability has a higher damage dice cap"
 	},
@@ -34253,63 +34201,50 @@
 				"rows": [
 					[
 						"Spell Level",
-						"Caster Level",
 						"Caster Level"
 					],
 					[
 						"0",
-						"2nd",
-						"4th"
+						"2nd"
 					],
 					[
 						"1st",
-						"4th",
-						"6th"
+						"4th"
 					],
 					[
 						"2nd",
-						"6th",
-						"8th"
+						"6th"
 					],
 					[
 						"3rd",
-						"8th",
-						"10th"
+						"8th"
 					],
 					[
 						"4th",
-						"10th",
-						"12th"
+						"10th"
 					],
 					[
 						"5th",
-						"12th",
-						"14th"
+						"12th"
 					],
 					[
 						"6th",
-						"14th",
-						"16th"
+						"14th"
 					],
 					[
 						"7th",
-						"16th",
-						"18th"
+						"16th"
 					],
 					[
 						"8th",
-						"18th",
-						"20th"
+						"18th"
 					],
 					[
 						"9th",
-						"20th",
-						"-"
+						"20th"
 					]
 				]
-			},
-			"Bouncing, disruptive, intensified, lingering, or scarring ability.",
-			"Fearsome, sickening, or traumatic ability."
+			}
 		],
 		"shortDescription": "Instantaneous spell-like ability lasts another round"
 	},
@@ -46581,63 +46516,50 @@
 				"rows": [
 					[
 						"Spell Level",
-						"Caster Level",
 						"Caster Level"
 					],
 					[
 						"0",
-						"2nd",
-						"4th"
+						"2nd"
 					],
 					[
 						"1st",
-						"4th",
-						"6th"
+						"4th"
 					],
 					[
 						"2nd",
-						"6th",
-						"8th"
+						"6th"
 					],
 					[
 						"3rd",
-						"8th",
-						"10th"
+						"8th"
 					],
 					[
 						"4th",
-						"10th",
-						"12th"
+						"10th"
 					],
 					[
 						"5th",
-						"12th",
-						"14th"
+						"12th"
 					],
 					[
 						"6th",
-						"14th",
-						"16th"
+						"14th"
 					],
 					[
 						"7th",
-						"16th",
-						"18th"
+						"16th"
 					],
 					[
 						"8th",
-						"18th",
-						"20th"
+						"18th"
 					],
 					[
 						"9th",
-						"20th",
-						"-"
+						"20th"
 					]
 				]
-			},
-			"Bouncing, disruptive, intensified, lingering, or scarring ability.",
-			"Fearsome, sickening, or traumatic ability."
+			}
 		],
 		"shortDescription": "Spell-like ability causes penalties against emotion effects"
 	},
@@ -49127,63 +49049,50 @@
 				"rows": [
 					[
 						"Spell Level",
-						"Caster Level",
 						"Caster Level"
 					],
 					[
 						"0",
-						"2nd",
 						"4th"
 					],
 					[
 						"1st",
-						"4th",
 						"6th"
 					],
 					[
 						"2nd",
-						"6th",
 						"8th"
 					],
 					[
 						"3rd",
-						"8th",
 						"10th"
 					],
 					[
 						"4th",
-						"10th",
 						"12th"
 					],
 					[
 						"5th",
-						"12th",
 						"14th"
 					],
 					[
 						"6th",
-						"14th",
 						"16th"
 					],
 					[
 						"7th",
-						"16th",
 						"18th"
 					],
 					[
 						"8th",
-						"18th",
 						"20th"
 					],
 					[
 						"9th",
-						"20th",
 						"-"
 					]
 				]
-			},
-			"Bouncing, disruptive, intensified, lingering, or scarring ability.",
-			"Fearsome, sickening, or traumatic ability."
+			}
 		],
 		"shortDescription": "Spell-like ability sickens damaged foes"
 	},
@@ -57578,63 +57487,50 @@
 				"rows": [
 					[
 						"Spell Level",
-						"Caster Level",
 						"Caster Level"
 					],
 					[
 						"0",
-						"2nd",
 						"4th"
 					],
 					[
 						"1st",
-						"4th",
 						"6th"
 					],
 					[
 						"2nd",
-						"6th",
 						"8th"
 					],
 					[
 						"3rd",
-						"8th",
 						"10th"
 					],
 					[
 						"4th",
-						"10th",
 						"12th"
 					],
 					[
 						"5th",
-						"12th",
 						"14th"
 					],
 					[
 						"6th",
-						"14th",
 						"16th"
 					],
 					[
 						"7th",
-						"16th",
 						"18th"
 					],
 					[
 						"8th",
-						"18th",
 						"20th"
 					],
 					[
 						"9th",
-						"20th",
 						"-"
 					]
 				]
-			},
-			"Bouncing, disruptive, intensified, lingering, or scarring ability.",
-			"Fearsome, sickening, or traumatic ability."
+			}
 		],
 		"shortDescription": "Spell-like ability causes nightmares"
 	},
