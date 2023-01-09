@@ -3,9 +3,7 @@
 		"itemname": "Spell Tattoo",
 		"file": "magictattoodisplay0aaf.html",
 		"sources": [ "Inner Sea Magic" ],
-		"cost": {
-			"variable": "Spell level (min 0.5) x Caster's level x 250 gp"
-		},
+		"cost": 0,
 		"type": "tattoo",
 		"slot": "none",
 		"weight": 0,

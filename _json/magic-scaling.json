@@ -2,13 +2,11 @@
 	"Bracers of Antiquity": {
 		"itemname": "Bracers of Antiquity",
 		"file": "magicscaling4d04.html",
-		"sources": [
-			"Chronicle of Legends"
-		],
+		"sources": [ "Chronicle of Legends" ],
 		"type": "wondrous-legacy",
 		"slot": "wrist",
 		"scaling": true,
-		"weight": 0,
+		"weight": 1,
 		"header": [
 			"~`Bracers of Antiquity`~",
 			"Source ~`Chronicle of Legends pg. 20`~",
@@ -30,13 +28,11 @@
 	"Carved King's Band": {
 		"itemname": "Carved King's Band",
 		"file": "magicscaling3969.html",
-		"sources": [
-			"Chronicle of Legends"
-		],
+		"sources": [ "Chronicle of Legends" ],
 		"type": "wondrous-legacy",
 		"slot": "headband",
 		"scaling": true,
-		"weight": 0,
+		"weight": 1,
 		"header": [
 			"~`Carved King's Band`~",
 			"Source ~`Chronicle of Legends pg. 20`~",
@@ -58,13 +54,11 @@
 	"Conqueror's Breastplate": {
 		"itemname": "Conqueror's Breastplate",
 		"file": "magicscalingf2ec.html",
-		"sources": [
-			"Chronicle of Legends"
-		],
+		"sources": [ "Chronicle of Legends" ],
 		"type": "armor-legacy",
 		"slot": "armor",
 		"scaling": true,
-		"weight": 0,
+		"weight": 15,
 		"header": [
 			"~`Conqueror's Breastplate`~",
 			"Source ~`Chronicle of Legends pg. 20`~",
@@ -84,9 +78,7 @@
 	"Ring of Sealed Souls": {
 		"itemname": "Ring of Sealed Souls",
 		"file": "magicscalinga7f7.html",
-		"sources": [
-			"Chronicle of Legends"
-		],
+		"sources": [ "Chronicle of Legends" ],
 		"type": "ring-legacy",
 		"slot": "ring",
 		"scaling": true,
@@ -94,7 +86,7 @@
 		"header": [
 			"~`Ring of Sealed Souls`~",
 			"Source ~`Chronicle of Legends pg. 21`~",
-			"Slot ring; CL 15th; Weight &mdash;",
+			"Slot ring; CL 15th; Weight -",
 			"Aura strong abjuration"
 		],
 		"description": [
@@ -111,13 +103,11 @@
 	"Scimitar of Deliverance": {
 		"itemname": "Scimitar of Deliverance",
 		"file": "magicscalingbd5c.html",
-		"sources": [
-			"Chronicle of Legends"
-		],
+		"sources": [ "Chronicle of Legends" ],
 		"type": "weapon-legacy",
 		"slot": "none",
 		"scaling": true,
-		"weight": 0,
+		"weight": 1,
 		"header": [
 			"~`Scimitar of Deliverance`~",
 			"Source ~`Chronicle of Legends pg. 21`~",
@@ -138,13 +128,11 @@
 	"Totemic Figurine": {
 		"itemname": "Totemic Figurine",
 		"file": "magicscaling3467.html",
-		"sources": [
-			"Chronicle of Legends"
-		],
+		"sources": [ "Chronicle of Legends" ],
 		"type": "wondrous-legacy",
 		"slot": "none",
 		"scaling": true,
-		"weight": 0,
+		"weight": 2,
 		"header": [
 			"~`Totemic Figurine`~",
 			"Source ~`Chronicle of Legends pg. 22`~",
@@ -164,13 +152,11 @@
 	"Trailblazer's Boots": {
 		"itemname": "Trailblazer's Boots",
 		"file": "magicscaling65c4.html",
-		"sources": [
-			"Chronicle of Legends"
-		],
+		"sources": [ "Chronicle of Legends" ],
 		"type": "wondrous-legacy",
 		"slot": "feet",
 		"scaling": true,
-		"weight": 0,
+		"weight": 1,
 		"header": [
 			"~`Trailblazer's Boots`~",
 			"Source ~`Chronicle of Legends pg. 22`~",
@@ -191,13 +177,11 @@
 	"Unyielding Aegis": {
 		"itemname": "Unyielding Aegis",
 		"file": "magicscaling7f84.html",
-		"sources": [
-			"Chronicle of Legends"
-		],
+		"sources": [ "Chronicle of Legends" ],
 		"type": "shield-legacy",
 		"slot": "shield",
 		"scaling": true,
-		"weight": 0,
+		"weight": 10,
 		"header": [
 			"~`Unyielding Aegis`~",
 			"Source ~`Chronicle of Legends pg. 22`~",
@@ -219,13 +203,11 @@
 	"Wayfinder of Cooperation": {
 		"itemname": "Wayfinder of Cooperation",
 		"file": "magicscaling2ff1.html",
-		"sources": [
-			"Chronicle of Legends"
-		],
+		"sources": [ "Chronicle of Legends" ],
 		"type": "wondrous-legacy",
 		"slot": "none",
 		"scaling": true,
-		"weight": 0,
+		"weight": 1,
 		"header": [
 			"~`Wayfinder of Cooperation`~",
 			"Source ~`Chronicle of Legends pg. 23`~",

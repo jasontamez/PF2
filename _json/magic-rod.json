@@ -1866,7 +1866,7 @@
 		"cost": 65000,
 		"type": "rod",
 		"slot": "none",
-		"weight": 0,
+		"weight": 10,
 		"header": [
 			"Rod of Razors",
 			"Source ~`Pathfinder #35: War of the River Kings pg. 46`~",

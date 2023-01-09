@@ -2,9 +2,7 @@
 	"Crusader's Scabbard": {
 		"itemname": "Crusader's Scabbard",
 		"file": "magicintelligentdisplay45f5.html",
-		"sources": [
-			"Magical Marketplace"
-		],
+		"sources": [ "Magical Marketplace" ],
 		"cost": 8500,
 		"type": "wondrous",
 		"slot": "belt",
@@ -30,9 +28,7 @@
 	"Balgorrah": {
 		"itemname": "Balgorrah",
 		"file": "magicintelligentdisplay7d8c.html",
-		"sources": [
-			"Pathfinder #98: Turn of the Torrent"
-		],
+		"sources": [ "Pathfinder #98: Turn of the Torrent" ],
 		"cost": 11708,
 		"type": "weapon",
 		"slot": "none",
@@ -59,9 +55,7 @@
 	"Rod That Should Not Be (Lesser)": {
 		"itemname": "Rod That Should Not Be (Lesser)",
 		"file": "magicintelligentdisplaye7e2.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 12000,
 		"type": "rod",
 		"slot": "none",
@@ -88,9 +82,7 @@
 	"Shield of the Mage": {
 		"itemname": "Shield of the Mage",
 		"file": "magicintelligentdisplaya23f.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 14500,
 		"type": "shield",
 		"slot": "shield",
@@ -115,9 +107,7 @@
 	"Wary Ring": {
 		"itemname": "Wary Ring",
 		"file": "magicintelligentdisplay2663.html",
-		"sources": [
-			"Magical Marketplace"
-		],
+		"sources": [ "Magical Marketplace" ],
 		"cost": 14600,
 		"type": "ring",
 		"slot": "ring",
@@ -143,9 +133,7 @@
 	"Ring of the Weary Sky": {
 		"itemname": "Ring of the Weary Sky",
 		"file": "magicintelligentdisplay5eec.html",
-		"sources": [
-			"Lost Treasures"
-		],
+		"sources": [ "Lost Treasures" ],
 		"cost": 14800,
 		"type": "ring",
 		"slot": "ring",
@@ -172,9 +160,7 @@
 	"Gossamer Shrouds of the Clairvoyant": {
 		"itemname": "Gossamer Shrouds of the Clairvoyant",
 		"file": "magicintelligentdisplayd631.html",
-		"sources": [
-			"Magical Marketplace"
-		],
+		"sources": [ "Magical Marketplace" ],
 		"cost": 20150,
 		"type": "armor",
 		"slot": "armor",
@@ -200,9 +186,7 @@
 	"Clarity": {
 		"itemname": "Clarity",
 		"file": "magicintelligentdisplay69b2.html",
-		"sources": [
-			"Tears at Bitter Manor"
-		],
+		"sources": [ "Tears at Bitter Manor" ],
 		"cost": 21015,
 		"type": "weapon",
 		"slot": "none",
@@ -228,9 +212,7 @@
 	"Ukwar": {
 		"itemname": "Ukwar",
 		"file": "magicintelligentdisplayf394.html",
-		"sources": [
-			"Curse of the Crimson Throne (PFRPG)"
-		],
+		"sources": [ "Curse of the Crimson Throne (PFRPG)" ],
 		"cost": 23335,
 		"type": "weapon",
 		"slot": "none",
@@ -259,9 +241,7 @@
 	"Lady Ninahu's Doll": {
 		"itemname": "Lady Ninahu's Doll",
 		"file": "magicintelligentdisplayebac.html",
-		"sources": [
-			"Lost Treasures"
-		],
+		"sources": [ "Lost Treasures" ],
 		"cost": 28500,
 		"type": "wondrous",
 		"slot": "none",
@@ -318,9 +298,7 @@
 	"Hollis's Lucky Rock": {
 		"itemname": "Hollis's Lucky Rock",
 		"file": "magicintelligentdisplay9fdf.html",
-		"sources": [
-			"Magical Marketplace"
-		],
+		"sources": [ "Magical Marketplace" ],
 		"cost": 35000,
 		"type": "wondrous",
 		"slot": "none",
@@ -346,9 +324,7 @@
 	"Lute of Discord": {
 		"itemname": "Lute of Discord",
 		"file": "magicintelligentdisplayf549.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 37900,
 		"type": "wondrous",
 		"slot": "none",
@@ -381,9 +357,7 @@
 	"Rod That Should Not Be (Greater)": {
 		"itemname": "Rod That Should Not Be (Greater)",
 		"file": "magicintelligentdisplayc16e.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 40000,
 		"type": "rod",
 		"slot": "none",
@@ -410,14 +384,12 @@
 	"Harbinger Rod": {
 		"itemname": "Harbinger Rod",
 		"file": "magicintelligentdisplay1a73.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 44200,
 		"type": "rod",
 		"slot": "none",
 		"intelligent": true,
-		"weight": 0,
+		"weight": 5,
 		"header": [
 			"Source ~`Ultimate Equipment pg. 357`~",
 			"Aura moderate conjuration CL 8th",
@@ -445,9 +417,7 @@
 	"Soulshear": {
 		"itemname": "Soulshear",
 		"file": "magicintelligentdisplay4116.html",
-		"sources": [
-			"Pathfinder #74: Sword of Valor"
-		],
+		"sources": [ "Pathfinder #74: Sword of Valor" ],
 		"cost": 45508,
 		"type": "weapon",
 		"slot": "none",
@@ -474,9 +444,7 @@
 	"Teralindar's Honor": {
 		"itemname": "Teralindar's Honor",
 		"file": "magicintelligentdisplay5b7d.html",
-		"sources": [
-			"Pathfinder #113: What Grows Within"
-		],
+		"sources": [ "Pathfinder #113: What Grows Within" ],
 		"cost": 48535,
 		"type": "weapon",
 		"slot": "none",
@@ -502,9 +470,7 @@
 	"Abat-Ne, the Blackstone Mace": {
 		"itemname": "Abat-Ne, the Blackstone Mace",
 		"file": "magicintelligentdisplay698a.html",
-		"sources": [
-			"Pathfinder #83: The Slave Trenches of Hakotep"
-		],
+		"sources": [ "Pathfinder #83: The Slave Trenches of Hakotep" ],
 		"cost": 51005,
 		"type": "weapon",
 		"slot": "weapon",
@@ -532,9 +498,7 @@
 	"Bloody Mantis": {
 		"itemname": "Bloody Mantis",
 		"file": "magicintelligentdisplay5650.html",
-		"sources": [
-			"Lost Treasures"
-		],
+		"sources": [ "Lost Treasures" ],
 		"cost": 52500,
 		"type": "wondrous",
 		"slot": "head",
@@ -561,14 +525,12 @@
 	"Hammer of Enemies": {
 		"itemname": "Hammer of Enemies",
 		"file": "magicintelligentdisplayf84f.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 54212,
 		"type": "weapon",
 		"slot": "weapon",
 		"intelligent": true,
-		"weight": 0,
+		"weight": 5,
 		"header": [
 			"Source ~`Ultimate Equipment pg. 357`~",
 			"Aura moderate conjuration CL 10th",
@@ -588,9 +550,7 @@
 	"Lightning Bow": {
 		"itemname": "Lightning Bow",
 		"file": "magicintelligentdisplayaf39.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 54300,
 		"type": "weapon",
 		"slot": "none",
@@ -623,9 +583,7 @@
 	"Draddeth Edge": {
 		"itemname": "Draddeth Edge",
 		"file": "magicintelligentdisplay33f5.html",
-		"sources": [
-			"Lost Treasures"
-		],
+		"sources": [ "Lost Treasures" ],
 		"cost": 58312,
 		"type": "weapon",
 		"slot": "none",
@@ -654,9 +612,7 @@
 	"Helmet of the Golden General": {
 		"itemname": "Helmet of the Golden General",
 		"file": "magicintelligentdisplayc06c.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 62000,
 		"type": "armor",
 		"slot": "head",
@@ -689,9 +645,7 @@
 	"Headband of the Sage": {
 		"itemname": "Headband of the Sage",
 		"file": "magicintelligentdisplay7a91.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 71300,
 		"type": "wondrous",
 		"slot": "headband",
@@ -716,14 +670,12 @@
 	"Norgir's Ruin": {
 		"itemname": "Norgir's Ruin",
 		"file": "magicintelligentdisplay6f92.html",
-		"sources": [
-			"Dungeons of Golarion"
-		],
+		"sources": [ "Dungeons of Golarion" ],
 		"cost": 91712,
 		"type": "weapon",
 		"slot": "weapon",
 		"intelligent": true,
-		"weight": 0,
+		"weight": 5,
 		"header": [
 			"Norgir's Ruin",
 			"Source ~`Dungeons of Golarion pg. 9`~",
@@ -746,9 +698,7 @@
 	"Metamagician's Apprentice": {
 		"itemname": "Metamagician's Apprentice",
 		"file": "magicintelligentdisplay52de.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 93605,
 		"type": "rod",
 		"slot": "none",
@@ -779,9 +729,7 @@
 	"Skullduster": {
 		"itemname": "Skullduster",
 		"file": "magicintelligentdisplay416a.html",
-		"sources": [
-			"Magical Marketplace"
-		],
+		"sources": [ "Magical Marketplace" ],
 		"cost": 104508,
 		"type": "weapon",
 		"slot": "none",
@@ -807,9 +755,7 @@
 	"Obsession Ring": {
 		"itemname": "Obsession Ring",
 		"file": "magicintelligentdisplayd29f.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 116500,
 		"type": "ring",
 		"slot": "ring",
@@ -845,14 +791,12 @@
 	"Armor of the Shadow Lord": {
 		"itemname": "Armor of the Shadow Lord",
 		"file": "magicintelligentdisplayc64e.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 117160,
 		"type": "armor",
 		"slot": "armor",
 		"intelligent": true,
-		"weight": 0,
+		"weight": 15,
 		"header": [
 			"Source ~`Ultimate Equipment pg. 356`~",
 			"Aura moderate illusion CL 8th",
@@ -872,9 +816,7 @@
 	"The Bloodwind": {
 		"itemname": "The Bloodwind",
 		"file": "magicintelligentdisplay08f8.html",
-		"sources": [
-			"Pathfinder #111: Dreams of the Yellow King"
-		],
+		"sources": [ "Pathfinder #111: Dreams of the Yellow King" ],
 		"cost": 126900,
 		"type": "wondrous",
 		"slot": "none",
@@ -901,9 +843,7 @@
 	"Phylactery of Jadis-Vel": {
 		"itemname": "Phylactery of Jadis-Vel",
 		"file": "magicintelligentdisplay0e06.html",
-		"sources": [
-			"Lost Treasures"
-		],
+		"sources": [ "Lost Treasures" ],
 		"cost": 135000,
 		"type": "wondrous",
 		"slot": "none",
@@ -930,9 +870,7 @@
 	"Singing Sword": {
 		"itemname": "Singing Sword",
 		"file": "magicintelligentdisplay46f7.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"cost": 165315,
 		"type": "weapon",
 		"slot": "none",

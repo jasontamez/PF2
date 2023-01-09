@@ -87,9 +87,7 @@
 	"Arrowbreak Bow": {
 		"itemname": "Arrowbreak Bow",
 		"file": "magiccurseddisplayf05d.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"type": "weapon",
 		"slot": "none",
 		"weight": 2,
@@ -130,9 +128,7 @@
 	"Belt of Weakness": {
 		"itemname": "Belt of Weakness",
 		"file": "magiccurseddisplay6e78.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"type": "wondrous",
 		"slot": "belt",
 		"weight": 1,
@@ -171,9 +167,7 @@
 	"Biting Battleaxe": {
 		"itemname": "Biting Battleaxe",
 		"file": "magiccurseddisplay9061.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"type": "weapon",
 		"slot": "none",
 		"weight": 6,
@@ -191,9 +185,7 @@
 	"Bloodbite": {
 		"itemname": "Bloodbite",
 		"file": "magiccurseddisplay5181.html",
-		"sources": [
-			"Antihero's Handbook"
-		],
+		"sources": [ "Antihero's Handbook" ],
 		"type": "weapon",
 		"slot": "none",
 		"weight": 8,
@@ -212,9 +204,7 @@
 	"Book of Perilous Journey's": {
 		"itemname": "Book of Perilous Journey's",
 		"file": "magiccurseddisplaye203.html",
-		"sources": [
-			"Horror Adventures"
-		],
+		"sources": [ "Horror Adventures" ],
 		"type": "wondrous",
 		"slot": "none",
 		"weight": 0.5,
@@ -342,9 +332,7 @@
 	"Cape of Anchoring": {
 		"itemname": "Cape of Anchoring",
 		"file": "magiccurseddisplayc139.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"type": "wondrous",
 		"slot": "shoulders",
 		"weight": 1,
@@ -362,9 +350,7 @@
 	"Carnivorous Jar": {
 		"itemname": "Carnivorous Jar",
 		"file": "magiccurseddisplay3a7c.html",
-		"sources": [
-			"Pathfinder #82: Secrets of the Sphinx"
-		],
+		"sources": [ "Pathfinder #82: Secrets of the Sphinx" ],
 		"type": "wondrous",
 		"slot": "none",
 		"weight": 10,
@@ -383,9 +369,7 @@
 	"Chatter Ring": {
 		"itemname": "Chatter Ring",
 		"file": "magiccurseddisplay30f0.html",
-		"sources": [
-			"Antihero's Handbook"
-		],
+		"sources": [ "Antihero's Handbook" ],
 		"type": "ring",
 		"slot": "ring",
 		"weight": 0,
@@ -454,9 +438,7 @@
 	"Constrictor Armor": {
 		"itemname": "Constrictor Armor",
 		"file": "magiccurseddisplay6657.html",
-		"sources": [
-			"Pathfinder #82: Secrets of the Sphinx"
-		],
+		"sources": [ "Pathfinder #82: Secrets of the Sphinx" ],
 		"type": "armor",
 		"slot": "body",
 		"weight": 30,
@@ -539,9 +521,7 @@
 	"Deadflesh Waraxe": {
 		"itemname": "Deadflesh Waraxe",
 		"file": "magiccurseddisplayb0b2.html",
-		"sources": [
-			"Dungeons of Golarion"
-		],
+		"sources": [ "Dungeons of Golarion" ],
 		"type": "weapon",
 		"slot": "none",
 		"weight": 8,
@@ -560,9 +540,7 @@
 	"Deadly Returns Throwing Axe": {
 		"itemname": "Deadly Returns Throwing Axe",
 		"file": "magiccurseddisplay3208.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"type": "weapon",
 		"slot": "none",
 		"weight": 2,
@@ -580,9 +558,7 @@
 	"Drums of Lethargy": {
 		"itemname": "Drums of Lethargy",
 		"file": "magiccurseddisplay9c58.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"type": "wondrous",
 		"slot": "none",
 		"weight": 5,
@@ -621,9 +597,7 @@
 	"Eyes of Blindness": {
 		"itemname": "Eyes of Blindness",
 		"file": "magiccurseddisplaya25b.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"type": "wondrous",
 		"slot": "eyes",
 		"weight": 0,
@@ -708,9 +682,7 @@
 	"Grasp of Droskar": {
 		"itemname": "Grasp of Droskar",
 		"file": "magiccurseddisplayd033.html",
-		"sources": [
-			"Crown of the Kobold King"
-		],
+		"sources": [ "Crown of the Kobold King" ],
 		"type": "wondrous",
 		"slot": "wrists",
 		"cost": 12302,
@@ -776,9 +748,7 @@
 	"Haunted Doll": {
 		"itemname": "Haunted Doll",
 		"file": "magiccurseddisplay1710.html",
-		"sources": [
-			"Occult Adventures"
-		],
+		"sources": [ "Occult Adventures" ],
 		"type": "wondrous",
 		"slot": "none",
 		"weight": 1,
@@ -798,9 +768,7 @@
 	"Headband of Stupidity": {
 		"itemname": "Headband of Stupidity",
 		"file": "magiccurseddisplayc7cf.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"type": "wondrous",
 		"slot": "headband",
 		"weight": 1,
@@ -818,9 +786,7 @@
 	"Heavy Hammer": {
 		"itemname": "Heavy Hammer",
 		"file": "magiccurseddisplaydf06.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"type": "weapon",
 		"slot": "none",
 		"weight": 20,
@@ -839,9 +805,7 @@
 	"Helm of Ikimizi": {
 		"itemname": "Helm of Ikimizi",
 		"file": "magiccurseddisplayb2bf.html",
-		"sources": [
-			"Lost Kingdoms"
-		],
+		"sources": [ "Lost Kingdoms" ],
 		"type": "wondrous",
 		"slot": "head",
 		"weight": 3,
@@ -905,9 +869,7 @@
 	"Kleptomaniac's Gloves": {
 		"itemname": "Kleptomaniac's Gloves",
 		"file": "magiccurseddisplay0003.html",
-		"sources": [
-			"Antihero's Handbook"
-		],
+		"sources": [ "Antihero's Handbook" ],
 		"type": "wondrous",
 		"slot": "hands",
 		"weight": 1,
@@ -926,9 +888,7 @@
 	"Liar's Well": {
 		"itemname": "Liar's Well",
 		"file": "magiccurseddisplay5259.html",
-		"sources": [
-			"Classic Treasures Revisited"
-		],
+		"sources": [ "Classic Treasures Revisited" ],
 		"type": "wondrous",
 		"slot": "none",
 		"cost": 84250,
@@ -969,9 +929,7 @@
 	"Maniac Hand": {
 		"itemname": "Maniac Hand",
 		"file": "magiccurseddisplay6e69.html",
-		"sources": [
-			"Occult Adventures"
-		],
+		"sources": [ "Occult Adventures" ],
 		"type": "wondrous",
 		"slot": "hand",
 		"weight": 2,
@@ -995,9 +953,7 @@
 	"Mask of Ugliness": {
 		"itemname": "Mask of Ugliness",
 		"file": "magiccurseddisplay8bb1.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"type": "wondrous",
 		"slot": "head",
 		"weight": 1,
@@ -1036,9 +992,7 @@
 	"Mindborer Ioun Stone": {
 		"itemname": "Mindborer Ioun Stone",
 		"file": "magiccurseddisplay60ed.html",
-		"sources": [
-			"Seekers of Secrets"
-		],
+		"sources": [ "Seekers of Secrets" ],
 		"type": "wondrous",
 		"slot": "none",
 		"cost": 0,
@@ -1058,9 +1012,7 @@
 	"Mirror of Soul Snaring": {
 		"itemname": "Mirror of Soul Snaring",
 		"file": "magiccurseddisplay5eba.html",
-		"sources": [
-			"Occult Adventures"
-		],
+		"sources": [ "Occult Adventures" ],
 		"type": "wondrous",
 		"slot": "none",
 		"weight": 45,
@@ -1081,9 +1033,7 @@
 	"Monkey's Paw": {
 		"itemname": "Monkey's Paw",
 		"file": "magiccurseddisplay8272.html",
-		"sources": [
-			"Occult Adventures"
-		],
+		"sources": [ "Occult Adventures" ],
 		"type": "wondrous",
 		"slot": "none",
 		"weight": 0.5,
@@ -1103,9 +1053,7 @@
 	"Nearfiring Bow": {
 		"itemname": "Nearfiring Bow",
 		"file": "magiccurseddisplayd572.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"type": "weapon",
 		"slot": "none",
 		"weight": 2,
@@ -1144,9 +1092,7 @@
 	"Needful Doll": {
 		"itemname": "Needful Doll",
 		"file": "magiccurseddisplayd0d7.html",
-		"sources": [
-			"Horror Adventures"
-		],
+		"sources": [ "Horror Adventures" ],
 		"type": "wondrous",
 		"slot": "none",
 		"weight": 1,
@@ -1214,9 +1160,7 @@
 	"Ornery Pistol": {
 		"itemname": "Ornery Pistol",
 		"file": "magiccurseddisplaya2af.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"type": "weapon",
 		"slot": "none",
 		"weight": 4,
@@ -1234,9 +1178,7 @@
 	"Overcharged Staff": {
 		"itemname": "Overcharged Staff",
 		"file": "magiccurseddisplay43d9.html",
-		"sources": [
-			"Antihero's Handbook"
-		],
+		"sources": [ "Antihero's Handbook" ],
 		"type": "staff",
 		"slot": "none",
 		"weight": 5,
@@ -1256,9 +1198,7 @@
 	"Pauldrons of the Jackass": {
 		"itemname": "Pauldrons of the Jackass",
 		"file": "magiccurseddisplay4ad6.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"type": "wondrous",
 		"slot": "shoulders",
 		"weight": 3,
@@ -1297,9 +1237,7 @@
 	"Petrifying Cloak": {
 		"itemname": "Petrifying Cloak",
 		"file": "magiccurseddisplay4ca0.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"type": "wondrous",
 		"slot": "shoulders",
 		"weight": 1,
@@ -1404,9 +1342,7 @@
 	"Ring of Lifebleed": {
 		"itemname": "Ring of Lifebleed",
 		"file": "magiccurseddisplayf773.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"type": "ring",
 		"slot": "ring",
 		"weight": 0,
@@ -1424,9 +1360,7 @@
 	"Ring of Spell Devouring": {
 		"itemname": "Ring of Spell Devouring",
 		"file": "magiccurseddisplay4200.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"type": "ring",
 		"slot": "ring",
 		"weight": 0,
@@ -1551,9 +1485,7 @@
 	"Rod of Foiled Magic": {
 		"itemname": "Rod of Foiled Magic",
 		"file": "magiccurseddisplay2eff.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"type": "rod",
 		"slot": "none",
 		"weight": 5,
@@ -1571,9 +1503,7 @@
 	"Sasquatch Skull": {
 		"itemname": "Sasquatch Skull",
 		"file": "magiccurseddisplay1865.html",
-		"sources": [
-			"Mystery Monsters Revisited"
-		],
+		"sources": [ "Mystery Monsters Revisited" ],
 		"type": "wondrous",
 		"slot": "none",
 		"weight": 5,
@@ -1614,9 +1544,7 @@
 	"Scattershot Bracers": {
 		"itemname": "Scattershot Bracers",
 		"file": "magiccurseddisplaya129.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"type": "wondrous",
 		"slot": "wrists",
 		"weight": 1,
@@ -1634,9 +1562,7 @@
 	"Scroll of Blood Ink": {
 		"itemname": "Scroll of Blood Ink",
 		"file": "magiccurseddisplay4ab3.html",
-		"sources": [
-			"Horror Adventures"
-		],
+		"sources": [ "Horror Adventures" ],
 		"type": "scroll",
 		"slot": "none",
 		"weight": 0,
@@ -1655,9 +1581,7 @@
 	"Staff of Magical Decline": {
 		"itemname": "Staff of Magical Decline",
 		"file": "magiccurseddisplaye9e8.html",
-		"sources": [
-			"Horror Adventures"
-		],
+		"sources": [ "Horror Adventures" ],
 		"type": "staff",
 		"slot": "none",
 		"weight": 5,
@@ -1677,9 +1601,7 @@
 	"Staff of Occasional Wonder": {
 		"itemname": "Staff of Occasional Wonder",
 		"file": "magiccurseddisplay4341.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"type": "staff",
 		"slot": "none",
 		"weight": 4,
@@ -1718,9 +1640,7 @@
 	"Tome of Heretical Revelation": {
 		"itemname": "Tome of Heretical Revelation",
 		"file": "magiccurseddisplaya9c1.html",
-		"sources": [
-			"Faiths and Philosophies"
-		],
+		"sources": [ "Faiths and Philosophies" ],
 		"type": "wondrous",
 		"slot": "none",
 		"weight": 5,
@@ -1739,9 +1659,7 @@
 	"Unguent of Aging": {
 		"itemname": "Unguent of Aging",
 		"file": "magiccurseddisplay7636.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"type": "wondrous",
 		"slot": "none",
 		"weight": 0,
@@ -1759,9 +1677,7 @@
 	"Unlucky Figurine": {
 		"itemname": "Unlucky Figurine",
 		"file": "magiccurseddisplay0513.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"type": "wondrous",
 		"slot": "none",
 		"weight": 1,
@@ -1779,9 +1695,7 @@
 	"Unspeakable One's Vestments": {
 		"itemname": "Unspeakable One's Vestments",
 		"file": "magiccurseddisplay1d96.html",
-		"sources": [
-			"Pathfinder #113: What Grows Within"
-		],
+		"sources": [ "Pathfinder #113: What Grows Within" ],
 		"type": "wondrous",
 		"slot": "body",
 		"weight": 1,
@@ -1801,9 +1715,7 @@
 	"Unstable Musket": {
 		"itemname": "Unstable Musket",
 		"file": "magiccurseddisplayc99a.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"type": "weapon",
 		"slot": "none",
 		"weight": 9,
@@ -1821,9 +1733,7 @@
 	"Unwieldy Glaive": {
 		"itemname": "Unwieldy Glaive",
 		"file": "magiccurseddisplay828d.html",
-		"sources": [
-			"Ultimate Equipment"
-		],
+		"sources": [ "Ultimate Equipment" ],
 		"type": "weapon",
 		"slot": "none",
 		"weight": 10,

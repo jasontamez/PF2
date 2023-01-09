@@ -426,7 +426,7 @@
 			"Spellsink",
 			"Source ~`Dirty Tactics Toolbox pg. 24`~",
 			"Aura moderate abjuration CL 6th",
-			"Price +1 bonus; Weight &mdash;"
+			"Price +1 bonus; Weight -"
 		],
 		"description": [
 			"A suit of armor or a shield with this ability can absorb and neutralize magical effects, albeit on a limited basis. Once per day as an immediate action, the bearer can command the armor or shield to absorb a spell, spell-like ability, or magical ability created by a magic item that specifically targets only her. It cannot absorb spells, spell-like abilities, or item effects that target an area or multiple targets. The attacker creating the magical effect to be absorbed must succeed at a DC 14 Will saving throw or the shield or armor absorbs and neutralizes the effect."
@@ -770,7 +770,7 @@
 			"Adamant",
 			"Source ~`Dirty Tactics Toolbox pg. 24`~",
 			"Aura moderate conjuration CL 9th",
-			"Price +2 bonus; Weight &mdash;"
+			"Price +2 bonus; Weight -"
 		],
 		"description": [
 			"Once per day as a swift action, the wearer can harden armor possessing this special ability to the strength of adamantine, giving it DR 3/- for 9 rounds. The adamant special ability can be placed on only heavy armor."
@@ -789,7 +789,7 @@
 			"Bloodthirsty",
 			"Source ~`Agents of Evil pg. 26`~",
 			"Aura moderate enchantment CL 7th",
-			"Price +2 bonus; Weight &mdash;"
+			"Price +2 bonus; Weight -"
 		],
 		"description": [
 			"Jagged designs of lightning, fangs, or weaponry adorn any bloodthirsty armor, which bolsters its wearer's confidence and presence with each wound the wearer inflicts. Only light or medium armor can be enchanted with the bloodthirsty special ability. Such a set of armor promotes wanton bloodshed, as its enhancement bonus to AC increases by 1 for 1 round after its wearer deals damage with a natural attack or melee weapon. If the wearer of a suit of bloodthirsty armor is raging, the armor's enhancement bonus increases by 3 instead."
@@ -827,7 +827,7 @@
 			"Ghost Spike",
 			"Source ~`Dirty Tactics Toolbox pg. 24`~",
 			"Aura moderate evocation CL 10th",
-			"Price +2 bonus; Weight &mdash;"
+			"Price +2 bonus; Weight -"
 		],
 		"description": [
 			"Once per day as a standard action, the wearer of ghost spike armor can command armor spikes made of shimmering force to erupt from the armor for up to 10 rounds. Treat these spikes as +1 ghost touch armor spikes with which the wearer is proficient. While the spikes are active, the wearer can attempt to grapple incorporeal creatures with a -4 penalty on his combat maneuver checks to grapple. The wearer can dismiss the spikes as a free action. The ghost spike ability cannot be placed on spiked armor or on a shield."
@@ -1174,7 +1174,7 @@
 			"Deceiving",
 			"Source ~`Agents of Evil pg. 26`~",
 			"Aura moderate evocation CL 7th",
-			"Price +5,000 gp; Weight &mdash;"
+			"Price +5,000 gp; Weight -"
 		],
 		"description": [
 			"A suit of armor with this special ability alters the perceived aura of the wearer for the purpose of divination spells that reveal auras (such as detect evil) to an aura decided when the armor is enchanted. The wearer always radiates this alternate alignment aura while wearing a suit of deceiving armor, and cannot suppress this effect. The wearer does not count as having this modified alignment for effects other than detection, such as smite, access to class abilities, and spells that have alternative effects based on a target's alignment. If the wearer is struck by an attack or effect that is more effective against evil-aligned creatures (such as smite, holy word, etc.), the attacker perceives the strike as being far more effective than it actually is. However, with a successful DC 20 Sense Motive check, the attacker realizes something is amiss with the attack."
@@ -1193,7 +1193,7 @@
 			"Malevolent",
 			"Source ~`Agents of Evil pg. 26`~",
 			"Aura moderate evocation CL 7th",
-			"Price +5,000 gp; Weight &mdash;"
+			"Price +5,000 gp; Weight -"
 		],
 		"description": [
 			"Malevolent armor is usually decorated with motifs of conflict, such as enraged faces, clashing swords, and dueling outsiders. The wearer of a suit of malevolent armor applies a +2 competence bonus to all Bluff and Intimidate checks attempted during violent conflict. The wearer can also apply the enhancement bonus of the armor to attack rolls made against flat-footed or prone enemies."
@@ -2541,7 +2541,7 @@
 			"Weeping",
 			"Source ~`Agents of Evil pg. 26`~",
 			"Aura moderate enchantment CL 10th",
-			"Price +2 bonus; Weight &mdash;"
+			"Price +2 bonus; Weight -"
 		],
 		"description": [
 			"The weeping special quality can be applied only to a shield. As a move action, a wielder can cause a weeping shield to emit continual sobbing and wailing. While this effect is active, each good-aligned creature within 10 feet of the wielder takes a -1 penalty on attack rolls, saving throws, ability checks, skill checks, and weapon damage rolls. Nongood creatures and those immune to mind-affecting effects are immune to this effect. The wailing lasts for 10 minutes or until ended as a move action."
@@ -2656,7 +2656,7 @@
 		"cost": 1100,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 10,
 		"header": [
 			"Mithral Shirt",
 			"Source ~`Ultimate Equipment pg. 128`~, ~`PRPG Core Rulebook pg. 464`~",
@@ -2677,7 +2677,7 @@
 		"cost": 2250,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 25,
 		"header": [
 			"Mistmail",
 			"Source ~`Ultimate Equipment pg. 127`~, ~`Advanced Player's Guide pg. 285`~",
@@ -2696,7 +2696,7 @@
 		"cost": 2300,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 15,
 		"header": [
 			"KimlÃ© Coat",
 			"Source ~`Inner Sea Gods pg. 252`~",
@@ -2715,7 +2715,7 @@
 		"cost": 2380,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 40,
 		"header": [
 			"Grim Gloom Mail",
 			"Source ~`Inner Sea Gods pg. 252`~",
@@ -2737,7 +2737,7 @@
 		"cost": 2430,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 30,
 		"header": [
 			"Inheritor's Breastplate",
 			"Source ~`Pathfinder #103: The Hellfire Compact pg. 73`~, ~`Inner Sea Gods pg. 252`~",
@@ -2756,7 +2756,7 @@
 		"cost": 2565,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 25,
 		"header": [
 			"Otyugh Hide",
 			"Source ~`Ultimate Equipment pg. 128`~",
@@ -2777,7 +2777,7 @@
 		"cost": 2625,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 5,
 		"header": [
 			"Iadaran Dress Uniform",
 			"Source ~`Merchant's Manifest pg. 12`~",
@@ -2796,7 +2796,7 @@
 		"cost": 2780,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 15,
 		"header": [
 			"Milanite Armor",
 			"Source ~`Inner Sea Gods pg. 252`~",
@@ -2815,7 +2815,7 @@
 		"cost": 2865,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 25,
 		"header": [
 			"Ghoul Hide",
 			"Source ~`Inner Sea Combat pg. 51`~",
@@ -2838,7 +2838,7 @@
 		"cost": 3035,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 15,
 		"header": [
 			"Red Stalker Armor",
 			"Source ~`Adventurer's Guide pg. 159`~, ~`Inner Sea Gods pg. 253`~",
@@ -2857,7 +2857,7 @@
 		"cost": 3035,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 25,
 		"header": [
 			"Rosy Hauberk",
 			"Source ~`Inner Sea Gods pg. 253`~",
@@ -2879,7 +2879,7 @@
 		"cost": 3300,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 50,
 		"header": [
 			"Dragonhide Plate",
 			"Source ~`Ultimate Equipment pg. 126`~, ~`PRPG Core Rulebook pg. 464`~",
@@ -2898,7 +2898,7 @@
 		"cost": 3300,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 40,
 		"header": [
 			"Pallid Chain",
 			"Source ~`Inner Sea Gods pg. 252`~",
@@ -2917,7 +2917,7 @@
 		"cost": 3325,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 25,
 		"header": [
 			"Pelt of the Demon Mother",
 			"Source ~`Inner Sea Gods pg. 253`~",
@@ -2936,7 +2936,7 @@
 		"cost": 3410,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 7,
 		"header": [
 			"Djezet Skin",
 			"Source ~`Armor Master's Handbook pg. 25`~",
@@ -2955,7 +2955,7 @@
 		"cost": 3460,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 40,
 		"header": [
 			"Starsong Mail",
 			"Source ~`Inner Sea Gods pg. 253`~",
@@ -2974,7 +2974,7 @@
 		"cost": 3515,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 20,
 		"header": [
 			"Powerhouse Pelt",
 			"Source ~`Villain Codex pg. 33`~",
@@ -2993,7 +2993,7 @@
 		"cost": 3605,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 20,
 		"header": [
 			"Sea Banshee Coat",
 			"Source ~`Inner Sea Gods pg. 253`~",
@@ -3012,7 +3012,7 @@
 		"cost": 3750,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 25,
 		"header": [
 			"Calamitous Mail",
 			"Source ~`Inner Sea Gods pg. 250`~",
@@ -3031,7 +3031,7 @@
 		"cost": 3860,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 15,
 		"header": [
 			"Perfection Leather",
 			"Source ~`Inner Sea Gods pg. 253`~",
@@ -3050,7 +3050,7 @@
 		"cost": 3900,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 20,
 		"header": [
 			"Ekujae Jungle Armor",
 			"Source ~`Inner Sea Combat pg. 51`~",
@@ -3070,7 +3070,7 @@
 		"cost": 3910,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 50,
 		"header": [
 			"Half-Plate of the Dark Prince",
 			"Source ~`Inner Sea Gods pg. 252`~",
@@ -3089,7 +3089,7 @@
 		"cost": 3920,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 40,
 		"header": [
 			"Toiler's Armor",
 			"Source ~`Inner Sea Gods pg. 253`~",
@@ -3108,7 +3108,7 @@
 		"cost": 4145,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 20,
 		"header": [
 			"Painspike Armor",
 			"Source ~`Inner Sea Gods pg. 252`~",
@@ -3127,7 +3127,7 @@
 		"cost": 4180,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 50,
 		"header": [
 			"Forgefather's Half-Plate",
 			"Source ~`Inner Sea Gods pg. 251`~",
@@ -3146,7 +3146,7 @@
 		"cost": 4490,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 25,
 		"header": [
 			"Veiled Chain",
 			"Source ~`Inner Sea Gods pg. 253`~",
@@ -3165,7 +3165,7 @@
 		"cost": 4840,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 40,
 		"header": [
 			"Armor of the Unquenchable Fire",
 			"Source ~`Inner Sea Gods pg. 250`~",
@@ -3184,7 +3184,7 @@
 		"cost": 4840,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 40,
 		"header": [
 			"Lucky Drunk's Mail",
 			"Source ~`Inner Sea Gods pg. 252`~",
@@ -3203,7 +3203,7 @@
 		"cost": 4890,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 30,
 		"header": [
 			"Eternal Iron Breastplate",
 			"Source ~`Inner Sea Gods pg. 251`~",
@@ -3222,7 +3222,7 @@
 		"cost": 4890,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 30,
 		"header": [
 			"Fangtide Scale Mail",
 			"Source ~`Inner Sea Gods pg. 251`~",
@@ -3241,7 +3241,7 @@
 		"cost": 5000,
 		"type": "armor",
 		"slot": "head",
-		"weight": 0,
+		"weight": 2,
 		"header": [
 			"Thanatotic Visage",
 			"Source ~`Book of the Damned pg. 197`~",
@@ -3260,7 +3260,7 @@
 		"cost": 5000,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 30,
 		"header": [
 			"Waverider Breastplate",
 			"Source ~`Inner Sea Monster Codex pg. 29`~",
@@ -3279,7 +3279,7 @@
 		"cost": 5110,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 30,
 		"header": [
 			"Golden Judge's Breastplate",
 			"Source ~`Inner Sea Gods pg. 251`~",
@@ -3301,7 +3301,7 @@
 		"cost": 5150,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 20,
 		"header": [
 			"Elven Chain",
 			"Source ~`Ultimate Equipment pg. 126`~, ~`PRPG Core Rulebook pg. 464`~",
@@ -3322,7 +3322,7 @@
 		"cost": 5165,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 25,
 		"header": [
 			"Rhino Hide",
 			"Source ~`Ultimate Equipment pg. 129`~, ~`PRPG Core Rulebook pg. 464`~",
@@ -3341,7 +3341,7 @@
 		"cost": 5235,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 10,
 		"header": [
 			"Akhentepi's Armor",
 			"Source ~`Pathfinder #79: The Half-Dead City pg. 60`~",
@@ -3360,7 +3360,7 @@
 		"cost": 5240,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 15,
 		"header": [
 			"Blackfingers Apron",
 			"Source ~`Inner Sea Gods pg. 250`~",
@@ -3379,7 +3379,7 @@
 		"cost": 5380,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 40,
 		"header": [
 			"Gravewatcher Chainmail",
 			"Source ~`Inner Sea Gods pg. 251`~",
@@ -3398,7 +3398,7 @@
 		"cost": 5425,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 20,
 		"header": [
 			"Deadeye Leather",
 			"Source ~`Inner Sea Gods pg. 251`~",
@@ -3417,7 +3417,7 @@
 		"cost": 5570,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 25,
 		"header": [
 			"All-Seeing Armor",
 			"Source ~`Inner Sea Gods pg. 250`~",
@@ -3436,7 +3436,7 @@
 		"cost": 5720,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 15,
 		"header": [
 			"Gray Master's Leathers",
 			"Source ~`Inner Sea Gods pg. 251`~",
@@ -3455,7 +3455,7 @@
 		"cost": 5965,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 8,
 		"header": [
 			"Shifting Jerkin",
 			"Source ~`Armor Master's Handbook pg. 25`~",
@@ -3474,7 +3474,7 @@
 		"cost": 6160,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 15,
 		"header": [
 			"Arachnid Harness",
 			"Source ~`Armor Master's Handbook pg. 25`~",
@@ -3493,7 +3493,7 @@
 		"cost": 6250,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 25,
 		"header": [
 			"Raiment of Chains",
 			"Source ~`Inner Sea Temples pg. 12`~",
@@ -3513,7 +3513,7 @@
 		"cost": 6565,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 8,
 		"header": [
 			"Locust Cuirass",
 			"Source ~`Pathfinder #81: Shifting Sands pg. 58`~",
@@ -3533,7 +3533,7 @@
 		"cost": 6950,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 25,
 		"header": [
 			"Dawnflower Chain Vest",
 			"Source ~`Inner Sea Gods pg. 250`~",
@@ -3552,7 +3552,7 @@
 		"cost": 6950,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 1,
 		"header": [
 			"Truefaith Vestments",
 			"Source ~`Inner Sea Combat pg. 53`~",
@@ -3571,7 +3571,7 @@
 		"cost": 7310,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 1,
 		"header": [
 			"Featherleaf Barding",
 			"Source ~`Familiar Folio pg. 21`~",
@@ -3590,7 +3590,7 @@
 		"cost": 8350,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 30,
 		"header": [
 			"Trained Barding",
 			"Source ~`Armor Master's Handbook pg. 27`~",
@@ -3609,7 +3609,7 @@
 		"cost": 8575,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 20,
 		"header": [
 			"Stalking",
 			"Source ~`Advanced Class Guide pg. 211`~",
@@ -3628,7 +3628,7 @@
 		"cost": 8750,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 15,
 		"header": [
 			"Scouting Leather",
 			"Source ~`Inner Sea Combat pg. 53`~",
@@ -3647,7 +3647,7 @@
 		"cost": 8900,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 20,
 		"header": [
 			"Snakescale Armor",
 			"Source ~`Pathfinder #42: Sanctum of the Serpent God pg. 39`~",
@@ -3666,7 +3666,7 @@
 		"cost": 8910,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 15,
 		"header": [
 			"Morlock Hide",
 			"Source ~`Ultimate Equipment pg. 128`~",
@@ -3685,7 +3685,7 @@
 		"cost": 8950,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 75,
 		"header": [
 			"Stone-eater Armor",
 			"Source ~`Armor Master's Handbook pg. 29`~",
@@ -3705,7 +3705,7 @@
 		"cost": 9200,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 30,
 		"header": [
 			"Giant's Nail Scale Mail",
 			"Source ~`Pathfinder #93: Forge of the Giant God pg. 16`~",
@@ -3724,7 +3724,7 @@
 		"cost": 9480,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 5,
 		"header": [
 			"Writhing Armor",
 			"Source ~`Melee Tactics Toolbox pg. 23`~",
@@ -3743,7 +3743,7 @@
 		"cost": 10000,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 10,
 		"header": [
 			"Spelunker's Mail",
 			"Source ~`Second Darkness Player's Guide pg. 29`~",
@@ -3763,7 +3763,7 @@
 		"cost": 10100,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 10,
 		"header": [
 			"Windstrider Mail",
 			"Source ~`Down the Blighted Path pg. 63`~",
@@ -3787,7 +3787,7 @@
 		"cost": 10200,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 30,
 		"header": [
 			"Adamantine Breastplate",
 			"Source ~`Ultimate Equipment pg. 124`~, ~`PRPG Core Rulebook pg. 464`~",
@@ -3808,7 +3808,7 @@
 		"cost": 10300,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 40,
 		"header": [
 			"Soothsayer's Raiment",
 			"Source ~`Ultimate Equipment pg. 129`~, ~`Advanced Player's Guide pg. 286`~",
@@ -3828,7 +3828,7 @@
 		"cost": 10650,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 50,
 		"header": [
 			"Equestrian Plate",
 			"Source ~`Ultimate Equipment pg. 126`~",
@@ -3848,7 +3848,7 @@
 		"cost": 11160,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 15,
 		"header": [
 			"Enchanted Eelskin",
 			"Source ~`Ultimate Equipment pg. 126`~",
@@ -3867,7 +3867,7 @@
 		"cost": 11165,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 25,
 		"header": [
 			"Tireless Tracking Hide",
 			"Source ~`Advanced Class Guide pg. 212`~",
@@ -3886,7 +3886,7 @@
 		"cost": 11175,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 10,
 		"header": [
 			"Gnome Scrap Armor (Gnome)",
 			"Source ~`Inner Sea Races pg. 224`~",
@@ -3908,7 +3908,7 @@
 		"cost": 11350,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 30,
 		"header": [
 			"Breastplate of the Planes",
 			"Source ~`Planar Adventures pg. 47`~",
@@ -3927,7 +3927,7 @@
 		"cost": 11350,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 30,
 		"header": [
 			"Emissary's Breastplate",
 			"Source ~`Heroes of the Streets pg. 15`~",
@@ -3946,7 +3946,7 @@
 		"cost": 11350,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 100,
 		"header": [
 			"Uskroth's Armor",
 			"Source ~`Pathfinder #91: Battle of Bloodmarch Hills pg. 55`~",
@@ -3965,7 +3965,7 @@
 		"cost": 11575,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 20,
 		"header": [
 			"Mosswater Stained Leather",
 			"Source ~`Inner Sea Combat pg. 52`~",
@@ -3985,7 +3985,7 @@
 		"cost": 11655,
 		"type": "armor",
 		"slot": "none",
-		"weight": 0,
+		"weight": 10,
 		"header": [
 			"Bilgewater Coat",
 			"Source ~`Merchant's Manifest pg. 25`~",
@@ -4007,7 +4007,7 @@
 		"cost": 12160,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 15,
 		"header": [
 			"Boneless Leather",
 			"Source ~`Ultimate Equipment pg. 124`~, ~`Advanced Player's Guide pg. 284`~",
@@ -4026,7 +4026,7 @@
 		"cost": 12160,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 15,
 		"header": [
 			"Lupine Rageskin",
 			"Source ~`Horror Adventures pg. 214`~",
@@ -4045,7 +4045,7 @@
 		"cost": 12300,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 40,
 		"header": [
 			"Elemental Bulwark",
 			"Source ~`Armor Master's Handbook pg. 27`~",
@@ -4067,7 +4067,7 @@
 		"cost": 12405,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 10,
 		"header": [
 			"Murderer's Blackcloth",
 			"Source ~`Ultimate Equipment pg. 128`~, ~`Advanced Player's Guide pg. 285`~",
@@ -4086,7 +4086,7 @@
 		"cost": 12550,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 50,
 		"header": [
 			"Honor's Panoply",
 			"Source ~`Pathfinder #104: Wrath of Thrune pg. 59`~",
@@ -4110,7 +4110,7 @@
 		"cost": 12650,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 50,
 		"header": [
 			"Folding Plate",
 			"Source ~`Ultimate Equipment pg. 126`~, ~`Advanced Player's Guide pg. 284`~",
@@ -4129,7 +4129,7 @@
 		"cost": 12800,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 40,
 		"header": [
 			"Hallowed Chain (Varisian)",
 			"Source ~`Inner Sea Races pg. 225`~",
@@ -4150,7 +4150,7 @@
 		"cost": 13400,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 35,
 		"header": [
 			"Legion Armor",
 			"Source ~`Armor Master's Handbook pg. 29`~",
@@ -4170,7 +4170,7 @@
 		"cost": 14160,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 15,
 		"header": [
 			"Armor of the Sands",
 			"Source ~`Melee Tactics Toolbox pg. 22`~",
@@ -4189,7 +4189,7 @@
 		"cost": 14300,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 40,
 		"header": [
 			"Armor of Grim Triumph (Orc)",
 			"Source ~`Inner Sea Races pg. 224`~",
@@ -4216,7 +4216,7 @@
 		"cost": 14665,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 25,
 		"header": [
 			"Mammoth Hide",
 			"Source ~`Adventurer's Guide pg. 134`~, ~`Inner Sea Combat pg. 52`~, ~`Melee Tactics Toolbox pg. 23`~",
@@ -4235,7 +4235,7 @@
 		"cost": 15100,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 20,
 		"header": [
 			"Source ~`Pathfinder #69: Maiden, Mother, Crone pg. 61`~",
 			"Aura moderate evocation CL 6th",
@@ -4273,7 +4273,7 @@
 		"cost": 15200,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 15,
 		"header": [
 			"Breastplate of Vanishing",
 			"Source ~`Ultimate Equipment pg. 124`~",
@@ -4293,7 +4293,7 @@
 		"cost": 15350,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 20,
 		"header": [
 			"Coat of Shells (Gillmen, Merfolk)",
 			"Source ~`Inner Sea Races pg. 224`~",
@@ -4314,7 +4314,7 @@
 		"cost": 16150,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 20,
 		"header": [
 			"Elven Vengeance",
 			"Source ~`Adventurer's Guide pg. 115`~",
@@ -4336,7 +4336,7 @@
 		"cost": 16175,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 20,
 		"header": [
 			"Armor of Insults",
 			"Source ~`Ultimate Equipment pg. 124`~, ~`Advanced Player's Guide pg. 283`~",
@@ -4355,7 +4355,7 @@
 		"cost": 16315,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 25,
 		"header": [
 			"Skin of Klendar the Troll King",
 			"Source ~`Pathfinder #27: What Lies in Dust pg. 58`~",
@@ -4375,7 +4375,7 @@
 		"cost": 16350,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 30,
 		"header": [
 			"Numerian Resistance Plate",
 			"Source ~`Inner Sea Combat pg. 52`~",
@@ -4398,7 +4398,7 @@
 		"cost": 16500,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 50,
 		"header": [
 			"Dwarven Plate",
 			"Source ~`Ultimate Equipment pg. 126`~, ~`PRPG Core Rulebook pg. 464`~",
@@ -4416,7 +4416,7 @@
 		"cost": 16600,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 25,
 		"header": [
 			"Hero's Hauberk",
 			"Source ~`Advanced Class Guide pg. 211`~",
@@ -4436,7 +4436,7 @@
 		"cost": 17175,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 10,
 		"header": [
 			"Abrogalian Corset",
 			"Source ~`Cheliax, Empire of Devils pg. 20`~",
@@ -4457,7 +4457,7 @@
 		"cost": 17650,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 45,
 		"header": [
 			"Backbreaker Mail",
 			"Source ~`Inner Sea Combat pg. 50`~",
@@ -4477,7 +4477,7 @@
 		"cost": 18165,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 25,
 		"header": [
 			"Hide of the Hagfish",
 			"Source ~`Seers of the Drowned City pg. 54`~",
@@ -4499,7 +4499,7 @@
 		"cost": 18175,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 20,
 		"header": [
 			"Eagle Knight Dress Uniform",
 			"Source ~`Adventurer's Guide pg. 76`~, ~`Inner Sea Combat pg. 50`~",
@@ -4518,7 +4518,7 @@
 		"cost": 18200,
 		"type": "armor",
 		"slot": "chest and neck",
-		"weight": 0,
+		"weight": 10,
 		"header": [
 			"Lifecollar Coat",
 			"Source ~`Undead Slayer's Handbook pg. 29`~",
@@ -4539,7 +4539,7 @@
 		"cost": 18300,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 30,
 		"header": [
 			"Armor of the Pure Legion",
 			"Source ~`Armor Master's Handbook pg. 27`~",
@@ -4558,7 +4558,7 @@
 		"cost": 18480,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 25,
 		"header": [
 			"Hide of the Dragonrider",
 			"Source ~`Pathfinder #70: The Frozen Stars pg. 63`~",
@@ -4577,7 +4577,7 @@
 		"cost": 18670,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 25,
 		"header": [
 			"Arboreal Armor",
 			"Source ~`Heroes of the Wild pg. 28`~",
@@ -4599,7 +4599,7 @@
 		"cost": 18900,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 35,
 		"header": [
 			"Banded Mail of Luck",
 			"Source ~`Ultimate Equipment pg. 124`~, ~`PRPG Core Rulebook pg. 464`~",
@@ -4618,7 +4618,7 @@
 		"cost": 18910,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 15,
 		"header": [
 			"Catskin Leather",
 			"Source ~`Ultimate Equipment pg. 125`~",
@@ -4637,7 +4637,7 @@
 		"cost": 19650,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 30,
 		"header": [
 			"Infiltrator's Mail",
 			"Source ~`Magical Marketplace pg. 7`~",
@@ -4656,7 +4656,7 @@
 		"cost": 20165,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 25,
 		"header": [
 			"Ursine Rageskin",
 			"Source ~`Horror Adventures pg. 214`~",
@@ -4675,7 +4675,7 @@
 		"cost": 20175,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 20,
 		"header": [
 			"The Forbidden Name",
 			"Source ~`Pathfinder #113: What Grows Within pg. 42`~",
@@ -4695,7 +4695,7 @@
 		"cost": 20375,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 20,
 		"header": [
 			"Howling Skull Armor",
 			"Source ~`Pathfinder #59: The Price of Infamy pg. 60`~",
@@ -4714,7 +4714,7 @@
 		"cost": 20550,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 30,
 		"header": [
 			"Do-Maru of Broken Flesh",
 			"Source ~`Pathfinder #52: Forest of Spirits pg. 60`~",
@@ -4734,7 +4734,7 @@
 		"cost": 20750,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 50,
 		"header": [
 			"Raiment of the Shining Crusade",
 			"Source ~`Armor Master's Handbook pg. 29`~",
@@ -4754,7 +4754,7 @@
 		"cost": 21600,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 50,
 		"header": [
 			"War Commander's Field Plate",
 			"Source ~`Inner Sea Combat pg. 53`~",
@@ -4774,7 +4774,7 @@
 		"cost": 21650,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 60,
 		"header": [
 			"Armor of Fragmenting Stone",
 			"Source ~`Monster Summoner's Handbook pg. 20`~",
@@ -4793,7 +4793,7 @@
 		"cost": 22165,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 25,
 		"header": [
 			"Gug Hide",
 			"Source ~`Planar Adventures pg. 47`~",
@@ -4812,7 +4812,7 @@
 		"cost": 22350,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 40,
 		"header": [
 			"Stalwart Breastplate",
 			"Source ~`Mythic Adventures pg. 143`~",
@@ -4834,7 +4834,7 @@
 		"cost": 22400,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 20,
 		"header": [
 			"Celestial Armor",
 			"Source ~`Ultimate Equipment pg. 125`~, ~`PRPG Core Rulebook pg. 464`~",
@@ -4853,7 +4853,7 @@
 		"cost": 22400,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 35,
 		"header": [
 			"Source ~`Dragonslayer's Handbook pg. 30`~",
 			"Aura strong conjuration and divination CL 18th",
@@ -4871,7 +4871,7 @@
 		"cost": 22500,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 50,
 		"header": [
 			"Armiger's Armor",
 			"Source ~`Melee Tactics Toolbox pg. 22`~",
@@ -4890,7 +4890,7 @@
 		"cost": 22675,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 45,
 		"header": [
 			"Ghost Mirror Armor",
 			"Source ~`Pathfinder #51: The Hungry Storm pg. 62`~",
@@ -4909,7 +4909,7 @@
 		"cost": 23300,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 25,
 		"header": [
 			"Armor of the Pious",
 			"Source ~`Pathfinder #74: Sword of Valor pg. 62`~",
@@ -4928,7 +4928,7 @@
 		"cost": 23650,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 25,
 		"header": [
 			"Goblin Plate (Goblin)",
 			"Source ~`Inner Sea Races pg. 224`~",
@@ -4951,7 +4951,7 @@
 		"cost": 23850,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 30,
 		"header": [
 			"Buccaneer's Breastplate",
 			"Source ~`Ultimate Equipment pg. 124`~, ~`Advanced Player's Guide pg. 284`~",
@@ -4970,7 +4970,7 @@
 		"cost": 24120,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 15,
 		"header": [
 			"Source ~`Dragonslayer's Handbook pg. 30`~",
 			"Aura moderate transmutation CL 11th",
@@ -4988,7 +4988,7 @@
 		"cost": 24175,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 30,
 		"header": [
 			"Purgatory's Cowl",
 			"Source ~`Planar Adventures pg. 47`~",
@@ -5007,7 +5007,7 @@
 		"cost": 24200,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 20,
 		"header": [
 			"Aldori Dueling Armor",
 			"Source ~`Armor Master's Handbook pg. 27`~",
@@ -5029,7 +5029,7 @@
 		"cost": 24650,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 50,
 		"header": [
 			"Plate Armor of the Deep",
 			"Source ~`Ultimate Equipment pg. 128`~, ~`PRPG Core Rulebook pg. 464`~",
@@ -5048,7 +5048,7 @@
 		"cost": 25000,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 50,
 		"header": [
 			"Suit of Inverted Jade",
 			"Source ~`Pathfinder #139: The Dead Road pg. 70`~",
@@ -5068,7 +5068,7 @@
 		"cost": 25160,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 15,
 		"header": [
 			"Spiritwalk Armor",
 			"Source ~`Mythic Adventures pg. 142`~",
@@ -5090,7 +5090,7 @@
 		"cost": 25400,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 30,
 		"header": [
 			"Breastplate of Command",
 			"Source ~`Ultimate Equipment pg. 124`~, ~`PRPG Core Rulebook pg. 464`~",
@@ -5112,7 +5112,7 @@
 		"cost": 25400,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 35,
 		"header": [
 			"Forsaken Banded Mail",
 			"Source ~`Ultimate Equipment pg. 126`~, ~`Advanced Player's Guide pg. 284`~",
@@ -5131,7 +5131,7 @@
 		"cost": 25900,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 15,
 		"header": [
 			"Armor of the Tireless Warrior",
 			"Source ~`Pathfinder #53: Tide of Honor pg. 60`~",
@@ -5150,7 +5150,7 @@
 		"cost": 25900,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 5,
 		"header": [
 			"Mail of Sly Steps (Halfling)",
 			"Source ~`Inner Sea Races pg. 225`~",
@@ -5173,7 +5173,7 @@
 		"cost": 26500,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 25,
 		"header": [
 			"Mithral Full Plate of Speed",
 			"Source ~`Ultimate Equipment pg. 128`~, ~`PRPG Core Rulebook pg. 464`~",
@@ -5192,7 +5192,7 @@
 		"cost": 26500,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 25,
 		"header": [
 			"Panoply of the Fierani Knight (Elf)",
 			"Source ~`Inner Sea Races pg. 225`~",
@@ -5212,7 +5212,7 @@
 		"cost": 26700,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 75,
 		"header": [
 			"Tunnel Defender Stoneplate",
 			"Source ~`Inner Sea Combat pg. 53`~",
@@ -5233,7 +5233,7 @@
 		"cost": 28165,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 25,
 		"header": [
 			"Vibrant Frog Hide",
 			"Source ~`Down the Blighted Path pg. 63`~",
@@ -5254,7 +5254,7 @@
 		"cost": 28650,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 25,
 		"header": [
 			"Celestial Plate Armor",
 			"Source ~`Pathfinder #11: Skeletons of Scarwall pg. 29`~",
@@ -5273,7 +5273,7 @@
 		"cost": 28700,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 20,
 		"header": [
 			"Blackjacket",
 			"Source ~`Inner Sea Combat pg. 50`~",
@@ -5293,7 +5293,7 @@
 		"cost": 29350,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 25,
 		"header": [
 			"Warden of the Woods",
 			"Source ~`Ultimate Equipment pg. 129`~",
@@ -5314,7 +5314,7 @@
 		"cost": 30000,
 		"type": "armor",
 		"slot": "body",
-		"weight": 0,
+		"weight": 1,
 		"header": [
 			"Source ~`Kobolds of Golarion pg. 30`~",
 			"Aura faint abjuration CL 3rd",
@@ -5332,7 +5332,7 @@
 		"cost": 30250,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 15,
 		"header": [
 			"Alchemist's Suit",
 			"Source ~`Melee Tactics Toolbox pg. 22`~",
@@ -5351,7 +5351,7 @@
 		"cost": 30300,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 20,
 		"header": [
 			"Skyplate Armor",
 			"Source ~`Pathfinder #83: The Slave Trenches of Hakotep pg. 63`~",
@@ -5370,7 +5370,7 @@
 		"cost": 30350,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 30,
 		"header": [
 			"Flowing Fortress Armor",
 			"Source ~`Down the Blighted Path pg. 61`~",
@@ -5392,7 +5392,7 @@
 		"cost": 30650,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 50,
 		"header": [
 			"Maiden's Panoply",
 			"Source ~`Adventurer's Guide pg. 87`~",
@@ -5411,7 +5411,7 @@
 		"cost": 31160,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 15,
 		"header": [
 			"Diviner's Blight",
 			"Source ~`Ultimate Intrigue pg. 237`~",
@@ -5432,7 +5432,7 @@
 		"cost": 32350,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 75,
 		"header": [
 			"Man Mountain Armor",
 			"Source ~`The Harrow Handbook pg. 31`~",
@@ -5451,7 +5451,7 @@
 		"cost": 32350,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 30,
 		"header": [
 			"Scarab Breastplate",
 			"Source ~`Ultimate Equipment pg. 129`~",
@@ -5472,7 +5472,7 @@
 		"cost": 33160,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 15,
 		"header": [
 			"Advocate's Armor",
 			"Source ~`Melee Tactics Toolbox pg. 22`~",
@@ -5491,7 +5491,7 @@
 		"cost": 33350,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 60,
 		"header": [
 			"Clockwork Armor",
 			"Source ~`Armor Master's Handbook pg. 28`~",
@@ -5512,7 +5512,7 @@
 		"cost": 33810,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 15,
 		"header": [
 			"Eel Skin Armor",
 			"Source ~`Pathfinder #58: Island of Empty Eyes pg. 60`~",
@@ -5531,7 +5531,7 @@
 		"cost": 35650,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 50,
 		"header": [
 			"Full Plate of the Corpse",
 			"Source ~`Advanced Class Guide pg. 211`~",
@@ -5550,7 +5550,7 @@
 		"cost": 36000,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 30,
 		"header": [
 			"Snailplate",
 			"Source ~`Misfit Monsters Redeemed pg. 30`~",
@@ -5569,7 +5569,7 @@
 		"cost": 36130,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 50,
 		"header": [
 			"Source ~`Champions of Purity pg. 31`~",
 			"Aura moderate evocation and transmutation CL 9th",
@@ -5590,7 +5590,7 @@
 		"cost": 39165,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 25,
 		"header": [
 			"Giant-Hide Armor",
 			"Source ~`Ultimate Equipment pg. 127`~, ~`Advanced Player's Guide pg. 284`~",
@@ -5610,7 +5610,7 @@
 		"cost": 41300,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 50,
 		"header": [
 			"Crag Linnorm Plate",
 			"Source ~`Inner Sea Combat pg. 50`~",
@@ -5630,7 +5630,7 @@
 		"cost": 43300,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 40,
 		"header": [
 			"Hallowed Chain, Greater (Varisian)",
 			"Source ~`Inner Sea Races pg. 225`~",
@@ -5650,7 +5650,7 @@
 		"cost": 44215,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 12,
 		"header": [
 			"Hamatula Hide",
 			"Source ~`Ultimate Equipment pg. 127`~",
@@ -5673,7 +5673,7 @@
 		"cost": 46665,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 25,
 		"header": [
 			"Giant-Hide Armor",
 			"Source ~`Ultimate Equipment pg. 127`~, ~`Advanced Player's Guide pg. 284`~",
@@ -5693,7 +5693,7 @@
 		"cost": 52100,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 5,
 		"header": [
 			"Wizard's Mail",
 			"Source ~`Melee Tactics Toolbox pg. 23`~",
@@ -5715,7 +5715,7 @@
 		"cost": 52260,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 50,
 		"header": [
 			"Demon Armor",
 			"Source ~`Ultimate Equipment pg. 125`~, ~`PRPG Core Rulebook pg. 464`~",
@@ -5735,7 +5735,7 @@
 		"cost": 52900,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 30,
 		"header": [
 			"Source ~`Champions of Purity pg. 31`~",
 			"Aura moderate abjuration, faint conjuration CL 7th",
@@ -5753,7 +5753,7 @@
 		"cost": 53100,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 25,
 		"header": [
 			"Nightskin",
 			"Source ~`Pathfinder #30: The Twice-Damned Prince pg. 68`~",
@@ -5773,7 +5773,7 @@
 		"cost": 54115,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 25,
 		"header": [
 			"Tiger's Hide",
 			"Source ~`Blood of the Moon pg. 23`~",
@@ -5795,7 +5795,7 @@
 		"cost": 54165,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 25,
 		"header": [
 			"Giant-Hide Armor",
 			"Source ~`Ultimate Equipment pg. 127`~, ~`Advanced Player's Guide pg. 284`~",
@@ -5818,7 +5818,7 @@
 		"cost": 59165,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 25,
 		"header": [
 			"Giant-Hide Armor",
 			"Source ~`Ultimate Equipment pg. 127`~, ~`Advanced Player's Guide pg. 284`~",
@@ -5838,7 +5838,7 @@
 		"cost": 60500,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 6,
 		"header": [
 			"Ebon Thorn",
 			"Source ~`Lost Treasures pg. 26`~",
@@ -5860,7 +5860,7 @@
 		"cost": 60950,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 50,
 		"header": [
 			"Gelugon Plate",
 			"Source ~`Adventurer's Guide pg. 97`~, ~`Inner Sea Combat pg. 51`~",
@@ -5880,7 +5880,7 @@
 		"cost": 61300,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 40,
 		"header": [
 			"Mail of Malevolence",
 			"Source ~`Ultimate Equipment pg. 127`~",
@@ -5900,7 +5900,7 @@
 		"cost": 63150,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 50,
 		"header": [
 			"Coruscating Raiment",
 			"Source ~`Planar Adventures pg. 47`~",
@@ -5919,7 +5919,7 @@
 		"cost": 68400,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 45,
 		"header": [
 			"O-Yoroi of Imperial Rule",
 			"Source ~`Pathfinder #54: The Empty Throne pg. 60`~",
@@ -5941,7 +5941,7 @@
 		"cost": 69165,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 25,
 		"header": [
 			"Giant-Hide Armor",
 			"Source ~`Ultimate Equipment pg. 127`~, ~`Advanced Player's Guide pg. 284`~",
@@ -5964,7 +5964,7 @@
 		"cost": 79665,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 25,
 		"header": [
 			"Giant-Hide Armor",
 			"Source ~`Ultimate Equipment pg. 127`~, ~`Advanced Player's Guide pg. 284`~",
@@ -5987,7 +5987,7 @@
 		"cost": 81250,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 50,
 		"header": [
 			"Daystar Half-Plate",
 			"Source ~`Ultimate Equipment pg. 125`~, ~`Advanced Player's Guide pg. 284`~",
@@ -6006,7 +6006,7 @@
 		"cost": 83050,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 15,
 		"header": [
 			"Xill Carapace Armor",
 			"Source ~`Inner Sea Combat pg. 53`~",
@@ -6026,7 +6026,7 @@
 		"cost": 100050,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 50,
 		"header": [
 			"Source ~`Chronicle of the Righteous pg. 52`~",
 			"Aura strong evocation [fire] CL 13th",
@@ -6045,7 +6045,7 @@
 		"cost": 117650,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 50,
 		"header": [
 			"Gelugon Armor",
 			"Source ~`Melee Tactics Toolbox pg. 23`~",
@@ -6064,7 +6064,7 @@
 		"cost": 137650,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 50,
 		"header": [
 			"Invincible Armor",
 			"Source ~`Ultimate Equipment pg. 127`~",
@@ -6083,7 +6083,7 @@
 		"cost": 141240,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 50,
 		"header": [
 			"Thanatotic Plate",
 			"Source ~`Book of the Damned pg. 197`~",
@@ -6104,7 +6104,7 @@
 		"cost": 160650,
 		"type": "armor",
 		"slot": "armor",
-		"weight": 0,
+		"weight": 50,
 		"header": [
 			"Prismatic Plate",
 			"Source ~`Ultimate Equipment pg. 128`~",
@@ -6152,7 +6152,7 @@
 		"cost": 120,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 15,
 		"header": [
 			"Living Steel Heavy Shield",
 			"Source ~`Ultimate Equipment pg. 132`~",
@@ -6173,7 +6173,7 @@
 		"cost": 203,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 2.5,
 		"header": [
 			"Darkwood Buckler",
 			"Source ~`Ultimate Equipment pg. 131`~, ~`PRPG Core Rulebook pg. 467`~",
@@ -6194,7 +6194,7 @@
 		"cost": 257,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 5,
 		"header": [
 			"Darkwood Shield",
 			"Source ~`Ultimate Equipment pg. 131`~, ~`PRPG Core Rulebook pg. 467`~",
@@ -6215,7 +6215,7 @@
 		"cost": 1020,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 5,
 		"header": [
 			"Mithral Heavy Shield",
 			"Source ~`Ultimate Equipment pg. 132`~, ~`PRPG Core Rulebook pg. 467`~",
@@ -6233,7 +6233,7 @@
 		"cost": 2159,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 15,
 		"header": [
 			"Zombie Skin Shield",
 			"Source ~`Ultimate Equipment pg. 133`~",
@@ -6252,7 +6252,7 @@
 		"cost": 2370,
 		"type": "shield",
 		"slot": "none",
-		"weight": 0,
+		"weight": 15,
 		"header": [
 			"Breach Barrier",
 			"Source ~`Down the Blighted Path pg. 60`~",
@@ -6271,7 +6271,7 @@
 		"cost": 2527,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 10,
 		"header": [
 			"Driftwood Shield",
 			"Source ~`Inner Sea Gods pg. 251`~",
@@ -6293,7 +6293,7 @@
 		"cost": 3153,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 5,
 		"header": [
 			"Caster's Shield",
 			"Source ~`Ultimate Equipment pg. 130`~, ~`PRPG Core Rulebook pg. 467`~",
@@ -6313,7 +6313,7 @@
 		"cost": 4279,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 6,
 		"header": [
 			"Bronze Whisperer's Shield",
 			"Source ~`Inner Sea Gods pg. 250`~",
@@ -6332,7 +6332,7 @@
 		"cost": 4399,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 6,
 		"header": [
 			"Scarab Shield",
 			"Source ~`Pathfinder #79: The Half-Dead City pg. 61`~",
@@ -6353,7 +6353,7 @@
 		"cost": 4655,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 5,
 		"header": [
 			"Burglar's Buckler",
 			"Source ~`Ultimate Equipment pg. 130`~",
@@ -6373,7 +6373,7 @@
 		"cost": 5170,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 15,
 		"header": [
 			"Challenging Shield",
 			"Source ~`Armor Master's Handbook pg. 31`~",
@@ -6395,7 +6395,7 @@
 		"cost": 5580,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 15,
 		"header": [
 			"Spined Shield",
 			"Source ~`Ultimate Equipment pg. 133`~, ~`PRPG Core Rulebook pg. 467`~",
@@ -6414,7 +6414,7 @@
 		"cost": 5590,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 5,
 		"header": [
 			"Okeno Madu",
 			"Source ~`Inner Sea Combat pg. 52`~",
@@ -6434,7 +6434,7 @@
 		"cost": 7159,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 6,
 		"header": [
 			"Lockpick Shield",
 			"Source ~`Ultimate Intrigue pg. 237`~",
@@ -6454,7 +6454,7 @@
 		"cost": 7170,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 15,
 		"header": [
 			"Dragonslayer's Shield",
 			"Source ~`Ultimate Equipment pg. 131`~",
@@ -6473,7 +6473,7 @@
 		"cost": 7659,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 6,
 		"header": [
 			"Shield of Sunrise",
 			"Source ~`Undead Slayer's Handbook pg. 29`~",
@@ -6493,7 +6493,7 @@
 		"cost": 8157,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 10,
 		"header": [
 			"Shield of Covered Retreat",
 			"Source ~`Magical Marketplace pg. 7`~",
@@ -6512,7 +6512,7 @@
 		"cost": 8158,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 8,
 		"header": [
 			"Clawhand Shield",
 			"Source ~`Advanced Class Guide pg. 211`~",
@@ -6532,7 +6532,7 @@
 		"cost": 8170,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 15,
 		"header": [
 			"Collapsible Tower",
 			"Source ~`Ultimate Equipment pg. 131`~",
@@ -6551,7 +6551,7 @@
 		"cost": 9157,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 15,
 		"header": [
 			"Bulette Bulwark",
 			"Source ~`Dungeon Denizens Revisited pg. 7`~",
@@ -6573,7 +6573,7 @@
 		"cost": 9170,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 15,
 		"header": [
 			"Lion's Shield",
 			"Source ~`Ultimate Equipment pg. 132`~, ~`PRPG Core Rulebook pg. 467`~",
@@ -6592,7 +6592,7 @@
 		"cost": 9170,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 15,
 		"header": [
 			"Maiden's Aegis",
 			"Source ~`Adventurer's Guide pg. 87`~",
@@ -6611,7 +6611,7 @@
 		"cost": 9655,
 		"type": "shield",
 		"slot": "none",
-		"weight": 0,
+		"weight": 4,
 		"header": [
 			"Brilliant Bulwark",
 			"Source ~`Blood of Shadows pg. 21`~",
@@ -6630,7 +6630,7 @@
 		"cost": 10153,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 5,
 		"header": [
 			"Caster's Shield, Greater",
 			"Source ~`Ultimate Equipment pg. 131`~",
@@ -6649,7 +6649,7 @@
 		"cost": 10155,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 2,
 		"header": [
 			"Gunner's Buckler",
 			"Source ~`Armor Master's Handbook pg. 31`~",
@@ -6668,7 +6668,7 @@
 		"cost": 11462,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 6,
 		"header": [
 			"Stalker's Fang (Shoanti)",
 			"Source ~`Inner Sea Races pg. 225`~",
@@ -6691,7 +6691,7 @@
 		"cost": 13170,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 7,
 		"header": [
 			"Celestial Shield",
 			"Source ~`Ultimate Equipment pg. 131`~, ~`Advanced Race Guide pg. 88`~",
@@ -6710,7 +6710,7 @@
 		"cost": 14000,
 		"type": "shield",
 		"slot": "none",
-		"weight": 0,
+		"weight": 5,
 		"header": [
 			"Starsling Buckler",
 			"Source ~`Seers of the Drowned City pg. 55`~",
@@ -6730,7 +6730,7 @@
 		"cost": 14080,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 30,
 		"header": [
 			"Phalanx Shield",
 			"Source ~`Armor Master's Handbook pg. 31`~",
@@ -6749,7 +6749,7 @@
 		"cost": 14170,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 10,
 		"header": [
 			"Maelstrom Shield",
 			"Source ~`Ultimate Equipment pg. 132`~",
@@ -6768,7 +6768,7 @@
 		"cost": 14170,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 15,
 		"header": [
 			"Spiteful Shield",
 			"Source ~`Book of the Damned pg. 197`~",
@@ -6787,7 +6787,7 @@
 		"cost": 14170,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 10,
 		"header": [
 			"Volcanic Shield",
 			"Source ~`Ultimate Equipment pg. 133`~",
@@ -6806,7 +6806,7 @@
 		"cost": 14200,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 15,
 		"header": [
 			"Surefooted Shield",
 			"Source ~`Pathfinder #94: Ice Tomb of the Giant Queen pg. 18`~",
@@ -6826,7 +6826,7 @@
 		"cost": 15170,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 10,
 		"header": [
 			"Tempest Shield",
 			"Source ~`Ultimate Equipment pg. 133`~",
@@ -6848,7 +6848,7 @@
 		"cost": 16180,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 45,
 		"header": [
 			"Battlement Shield",
 			"Source ~`Ultimate Equipment pg. 130`~, ~`Advanced Player's Guide pg. 286`~",
@@ -6867,7 +6867,7 @@
 		"cost": 17155,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 5,
 		"header": [
 			"Shieldmarshal's Ward",
 			"Source ~`Mythic Origins pg. 18`~",
@@ -6888,7 +6888,7 @@
 		"cost": 17180,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 45,
 		"header": [
 			"Guard of Man",
 			"Source ~`Inner Sea Combat pg. 51`~",
@@ -6911,7 +6911,7 @@
 		"cost": 17257,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 10,
 		"header": [
 			"Winged Shield",
 			"Source ~`Ultimate Equipment pg. 133`~, ~`PRPG Core Rulebook pg. 467`~",
@@ -6930,7 +6930,7 @@
 		"cost": 18170,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 15,
 		"header": [
 			"Shield of the Mazeborn",
 			"Source ~`Melee Tactics Toolbox pg. 23`~",
@@ -6952,7 +6952,7 @@
 		"cost": 18770,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 15,
 		"header": [
 			"Bloodfeast Shield",
 			"Source ~`Monster Codex pg. 237`~, ~`Pathfinder #48: Shadows of Gallowspire pg. 65`~",
@@ -6972,7 +6972,7 @@
 		"cost": 19007,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 10,
 		"header": [
 			"Broadside Bulwark",
 			"Source ~`Inner Sea Combat pg. 50`~",
@@ -6993,7 +6993,7 @@
 		"cost": 19170,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 10,
 		"header": [
 			"Avalanche Shield",
 			"Source ~`Ultimate Equipment pg. 130`~",
@@ -7015,7 +7015,7 @@
 		"cost": 19180,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 45,
 		"header": [
 			"Fortress Shield",
 			"Source ~`Ultimate Equipment pg. 132`~, ~`Advanced Player's Guide pg. 286`~",
@@ -7034,7 +7034,7 @@
 		"cost": 19393,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 5,
 		"header": [
 			"Mwangi Spirit Shield",
 			"Source ~`Sargava, the Lost Colony pg. 29`~",
@@ -7054,7 +7054,7 @@
 		"cost": 19912,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 6,
 		"header": [
 			"Lyrune-Quah Klar",
 			"Source ~`Inner Sea Combat pg. 52`~",
@@ -7074,7 +7074,7 @@
 		"cost": 20170,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 15,
 		"header": [
 			"Wyrmslayer's Shield",
 			"Source ~`Ultimate Equipment pg. 133`~",
@@ -7093,7 +7093,7 @@
 		"cost": 20273,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 5,
 		"header": [
 			"Shield of Hags",
 			"Source ~`People of the River pg. 29`~",
@@ -7119,7 +7119,7 @@
 		"cost": 21340,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 10,
 		"header": [
 			"Elephant Shield",
 			"Source ~`Melee Tactics Toolbox pg. 23`~",
@@ -7138,7 +7138,7 @@
 		"cost": 22170,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 15,
 		"header": [
 			"Bastion of the Inheritor",
 			"Source ~`Mythic Adventures pg. 142`~",
@@ -7157,7 +7157,7 @@
 		"cost": 25180,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 15,
 		"header": [
 			"Spell Ward Tower Shield",
 			"Source ~`Ultimate Equipment pg. 133`~",
@@ -7176,7 +7176,7 @@
 		"cost": 26170,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 15,
 		"header": [
 			"Icon of Order",
 			"Source ~`Divine Anthology pg. 6`~",
@@ -7195,7 +7195,7 @@
 		"cost": 29170,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 30,
 		"header": [
 			"Lens of the Dark Tapestry",
 			"Source ~`Armor Master's Handbook pg. 31`~",
@@ -7214,7 +7214,7 @@
 		"cost": 36155,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 15,
 		"header": [
 			"Quick Block Buckler",
 			"Source ~`Ultimate Equipment pg. 132`~",
@@ -7233,7 +7233,7 @@
 		"cost": 36170,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 15,
 		"header": [
 			"Belligerent Shield",
 			"Source ~`Ultimate Equipment pg. 130`~",
@@ -7252,7 +7252,7 @@
 		"cost": 38312,
 		"type": "shield",
 		"slot": "none",
-		"weight": 0,
+		"weight": 6,
 		"header": [
 			"Storval's Fang",
 			"Source ~`Disciple's Doctrine pg. 30`~",
@@ -7272,7 +7272,7 @@
 		"cost": 46030,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 22,
 		"header": [
 			"Force Tower",
 			"Source ~`Ultimate Equipment pg. 132`~",
@@ -7294,7 +7294,7 @@
 		"cost": 50170,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 15,
 		"header": [
 			"Absorbing Shield",
 			"Source ~`Ultimate Equipment pg. 130`~, ~`PRPG Core Rulebook pg. 467`~",
@@ -7316,7 +7316,7 @@
 		"cost": 52620,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 45,
 		"header": [
 			"Elysian Shield",
 			"Source ~`Ultimate Equipment pg. 132`~, ~`Advanced Race Guide pg. 89`~",
@@ -7335,7 +7335,7 @@
 		"cost": 59170,
 		"type": "shield",
 		"slot": "none",
-		"weight": 0,
+		"weight": 15,
 		"header": [
 			"Savith's Iron",
 			"Source ~`Lost Treasures pg. 51`~",
@@ -7354,7 +7354,7 @@
 		"cost": 79180,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 45,
 		"header": [
 			"Spellbane Shield",
 			"Source ~`Melee Tactics Toolbox pg. 23`~",
@@ -7373,7 +7373,7 @@
 		"cost": 120830,
 		"type": "shield",
 		"slot": "shield",
-		"weight": 0,
+		"weight": 23,
 		"header": [
 			"Source ~`Champions of Purity pg. 30`~",
 			"Aura strong abjuration CL 12th",
