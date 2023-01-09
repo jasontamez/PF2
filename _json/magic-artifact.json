@@ -1908,6 +1908,7 @@
 			"Aura strong evocation CL 20th",
 			"Slot none; Price -; Weight 2 lbs."
 		],
+		"intelligent": true,
 		"statistics": [
 			"Alignment LE; Ego 16",
 			"Senses 60 ft., darkvision",
@@ -2324,6 +2325,8 @@
 			"Aura strong evocation CL 20th",
 			"Slot none; Price -; Weight 12 lbs."
 		],
+		"intelligent": true,
+		"cursed": true,
 		"statistics": [
 			"Alignment CN; Ego 25",
 			"Senses 60 ft.",
@@ -3321,6 +3324,7 @@
 			"Aura strong evocation CL 20th",
 			"Slot none; Price -; Weight 6 lbs."
 		],
+		"intelligent": true,
 		"statistics": [
 			"Alignment NG; Ego 25",
 			"Senses 60 ft., darkvision, detect Amatatsu scions, read languages",
@@ -3842,6 +3846,7 @@
 			"Aura strong necromancy and transmutation CL 20th",
 			"Slot none; Price -; Weight 150 lbs."
 		],
+		"intelligent": true,
 		"statistics": [
 			"Alignment CE; Ego 18",
 			"Senses 30 ft. hearing and tremorsense, true seeing",
@@ -4236,6 +4241,7 @@
 			"Aura moderate divination CL 10th",
 			"Slot none; Price -; Weight 1 lb."
 		],
+		"intelligent": true,
 		"statistics": [
 			"Alignment CG; Ego 8",
 			"Senses 60 ft.",
@@ -4294,6 +4300,7 @@
 			"Aura strong evocation [evil] CL 20th",
 			"Slot none; Price -; Weight 12 lbs."
 		],
+		"intelligent": true,
 		"statistics": [
 			"Alignment CE; Ego 24",
 			"Senses darkvision 120 ft., hearing",
@@ -4365,6 +4372,7 @@
 			"Aura overwhelming conjuration and necromancy CL 25th",
 			"Slot none; Price -; Weight 2 lbs."
 		],
+		"cursed": true,
 		"description": [
 			"This small, innocuous, black wooden box appears randomly throughout the multiverse, drawn to great heroes, greedy rulers, and desperate (and often morally ambiguous) mortals. The Apocalypse Box appears subtly, sometimes as a dusty old box on a shelf or a forgotten heirloom in a grandparent's attic. A creature looking upon the Apocalypse Box is struck with a sensation of nearly overwhelming avarice, and must succeed at a DC 30 Will save or be compelled to touch the box. This is a mind-affecting compulsion effect. If a creature touches the Apocalypse Box, she must succeed at another DC 30 Will save or fall under the box's curse. Cursed creatures are compelled to use any available means-including fleeing from or murdering friends and loved ones-to keep the box out of the hands of others. This curse can't be broken until the cursed creature dies or the box is destroyed. Additionally, if the cursed creature moves more than 10 feet away from the box, she immediately takes 1d4 points of Wisdom damage plus 1d4 points of Wisdom damage each subsequent day until she and the Apocalypse Box are reunited.",
 			"Only a creature bearing the Apocalypse Box's curse can open it. Once per day, the cursed creature can open the box and draw forth a single item her heart desires. The item must be nonmagical, weigh no more than 50 pounds, and be worth no more than 50,000 gp, but is otherwise limited only by the parameters of the wish spell. A mythic character can expend two uses of mythic power to draw forth a second such item each day. Each time the Apocalypse Box is opened, there is a 50% chance that instead of granting a wish, the box summons a number of horrific monsters that immediately attack anyone in sight and remain to wreak havoc on the Material Plane for 1 week before returning to their plane of origin. Roll on Table 5-1 below to determine the monsters that appear.",
@@ -4501,6 +4509,7 @@
 			"Aura strong abjuration [evil] CL 17th",
 			"Slot none; Price -; Weight 12 lbs."
 		],
+		"intelligent": true,
 		"statistics": [
 			"Alignment LE; Ego 19",
 			"Senses darkvision 60 ft., hearing",
@@ -4787,6 +4796,7 @@
 			"Aura strong conjuration, necromancy, transmutation CL 20th",
 			"Slot none; Price -; Weight 6 lbs."
 		],
+		"intelligent": true,
 		"statistics": [
 			"Alignment CN; Ego 23",
 			"Senses 120 ft., darkvision",
@@ -5082,6 +5092,7 @@
 			"Aura strong enchantment, illusion, and necromancy CL 20th",
 			"Slot head; Price -; Weight 4 lbs."
 		],
+		"intelligent": true,
 		"statistics": [
 			"Alignment LE; Ego 20",
 			"Senses 30 ft.",
@@ -5699,6 +5710,7 @@
 			"Aura moderate transmutation CL 20th",
 			"Price -; Weight -"
 		],
+		"intelligent": true,
 		"statistics": [
 			"Alignment LE; Ego 33",
 			"Int 18, Wis 19, Cha 20",
@@ -5811,6 +5823,7 @@
 			"Aura strong transmutation [evil] CL 17th",
 			"Slot none; Price -; Weight 8 lbs."
 		],
+		"intelligent": true,
 		"statistics": [
 			"Alignment NE; Ego 22",
 			"Senses darkvision 120 ft., hearing",
@@ -6213,6 +6226,7 @@
 			"Aura strong necromancy CL 20th",
 			"Slot none; Price -; Weight -"
 		],
+		"intelligent": true,
 		"statistics": [
 			"Alignment NE; Ego 30",
 			"Senses 120 ft., blindsense and darkvision",
@@ -6317,6 +6331,7 @@
 			"Aura strong abjuration and transmutation CL 20th",
 			"Slot armor; Price -; Weight 30 lbs."
 		],
+		"intelligent": true,
 		"statistics": [
 			"Alignment LE; Ego 10",
 			"Senses 30 ft.",
@@ -6345,6 +6360,7 @@
 			"Aura strong necromancy CL 20th",
 			"Slot none; Price -; Weight 6 lbs."
 		],
+		"intelligent": true,
 		"statistics": [
 			"Alignment LE; Ego 10",
 			"Senses 30 ft.",
@@ -6371,6 +6387,7 @@
 			"Aura strong enchantment, illusion, necromancy CL 20th",
 			"Slot head; Price -; Weight 4 lbs."
 		],
+		"intelligent": true,
 		"statistics": [
 			"Alignment LE; Ego 10",
 			"Senses 30 ft.",
@@ -6399,6 +6416,7 @@
 			"Aura strong evocation CL 20th",
 			"Slot none; Price -; Weight 12 lbs."
 		],
+		"intelligent": true,
 		"statistics": [
 			"Alignment LE; Ego 10",
 			"Senses 30 ft.",
@@ -6427,6 +6445,7 @@
 			"Aura strong divination and illusion CL 20th",
 			"Slot chest; Price -; Weight 20 lbs."
 		],
+		"intelligent": true,
 		"statistics": [
 			"Alignment LE; Ego 10",
 			"Senses 30 ft.",
@@ -6455,6 +6474,7 @@
 			"Aura strong evocation CL 20th",
 			"Slot none; Price -; Weight 6 lbs."
 		],
+		"intelligent": true,
 		"statistics": [
 			"Alignment NG (Kolwyddon), LE (Kazavon); Ego 10",
 			"Senses 30 ft.",
@@ -6485,6 +6505,7 @@
 			"Aura strong divination and enchantment CL 20th",
 			"Slot none; Price -; Weight 3,475 lbs."
 		],
+		"intelligent": true,
 		"statistics": [
 			"Alignment LE; Ego 10",
 			"Senses 30 ft.",
@@ -6838,6 +6859,7 @@
 			"Aura strong abjuration CL 17th",
 			"Slot none; Price -; Weight 5 lbs."
 		],
+		"intelligent": true,
 		"statistics": [
 			"Alignment LG; Ego 16",
 			"Senses 60 ft.",
@@ -7068,6 +7090,7 @@
 			"Aura strong (all schools) CL 20th",
 			"Slot none; Price -; Weight -"
 		],
+		"intelligent": true,
 		"statistics": [
 			"Alignment CN; Ego 21",
 			"Senses 30 ft. senses",
@@ -7275,6 +7298,7 @@
 			"Aura strong evocation [evil] CL 20th",
 			"Slot none; Price -; Weight 10 lbs."
 		],
+		"intelligent": true,
 		"statistics": [
 			"Alignment NE; Ego 37",
 			"Senses darkvision 120 ft., hearing",
@@ -7419,6 +7443,7 @@
 			"Aura strong necromancy CL 16th",
 			"Slot none; Price -; Weight 8 lbs."
 		],
+		"intelligent": true,
 		"statistics": [
 			"Alignment LE; Ego 25",
 			"Senses 30 ft. (vision and hearing)",
@@ -7450,6 +7475,7 @@
 			"Aura strong transmutation CL 16th",
 			"Slot none; Price -; Weight 25 lbs."
 		],
+		"intelligent": true,
 		"statistics": [
 			"Alignment LE; Ego 25",
 			"Senses 30 ft., sight and hearing",
@@ -7480,6 +7506,7 @@
 			"Aura strong enchantment CL 16th",
 			"Slot none; Price -; Weight 6 lbs."
 		],
+		"intelligent": true,
 		"statistics": [
 			"Alignment LE; Ego 25",
 			"Senses 30 ft. (vision and hearing)",
@@ -7509,6 +7536,7 @@
 			"Aura  CL 16th",
 			"Slot none; Price -; Weight 2 lbs."
 		],
+		"intelligent": true,
 		"statistics": [
 			"Alignment LE; Ego 25",
 			"Senses 30 ft. (vision and hearing)",
@@ -7536,6 +7564,7 @@
 			"Aura strong conjuration CL 16th",
 			"Slot none; Price -; Weight 2 lbs."
 		],
+		"intelligent": true,
 		"statistics": [
 			"Alignment LE; Ego 25",
 			"Senses 30 ft. (vision and hearing)",
@@ -7583,6 +7612,7 @@
 			"Aura strong evocation CL 16th",
 			"Slot none; Price -; Weight 10 lbs."
 		],
+		"intelligent": true,
 		"statistics": [
 			"Alignment LE; Ego 25",
 			"Senses 30 ft. (vision and hearing)",
@@ -7644,6 +7674,7 @@
 			"Aura strong abjuration CL 16th",
 			"Slot none; Price -; Weight 7 lbs."
 		],
+		"intelligent": true,
 		"statistics": [
 			"Alignment LE; Ego 25",
 			"Senses sight 30 ft., hearing",
