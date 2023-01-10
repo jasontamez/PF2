@@ -1,0 +1,523 @@
+{
+	"Achaekek, the Mantis God": {
+		"monstername": "Achaekek, the Mantis God",
+		"file": "monsterdisplay73be.html",
+		"cr": 30,
+		"type": "outsider",
+		"subtypes": [ "lawful", "evil", "extraplanar" ],
+		"info": "-"
+	},
+	"Agmazar the Star Titan": {
+		"monstername": "Agmazar the Star Titan",
+		"file": "monsterdisplaye180.html",
+		"cr": 26,
+		"type": "undead",
+		"subtypes": [ "cold", " kaiju" ],
+		"info": "-"
+	},
+	"Ahriman, Lord of All Divs": {
+		"monstername": "Ahriman, Lord of All Divs",
+		"file": "monsterdisplay5553.html",
+		"cr": 26,
+		"type": "outsider",
+		"subtypes": [ "div", "evil", "extraplanar" ],
+		"info": "-"
+	},
+	"Akilep, Lady of Stone": {
+		"monstername": "Akilep, Lady of Stone",
+		"file": "monsterdisplay41d0.html",
+		"cr": 13,
+		"type": "magical beast",
+		"info": "Female unique gynosphinx (Pathfinder RPG Bestiary 257)"
+	},
+	"Amalya": {
+		"monstername": "Amalya",
+		"file": "monsterdisplay21f5.html",
+		"cr": 6,
+		"type": "fey",
+		"info": "Dryad druid 3 (Pathfinder RPG Bestiary 116)"
+	},
+	"Aridus, the Desert's Howl": {
+		"monstername": "Aridus, the Desert's Howl",
+		"file": "monsterdisplay893f.html",
+		"cr": 19,
+		"type": "outsider",
+		"subtypes": [ "air", "fire", "native" ],
+		"info": "Male dust wendigo (Pathfinder RPG Bestiary 2 281)"
+	},
+	"Ayandamahla, the Crimson Lotus": {
+		"monstername": "Ayandamahla, the Crimson Lotus",
+		"file": "monsterdisplaye9bf.html",
+		"cr": 24,
+		"type": "outsider",
+		"subtypes": [ "chaotic", "demon", "evil", "extraplanar" ],
+		"info": "Female succubus bard 20 (Pathfinder RPG Bestiary 68)"
+	},
+	"Balravnus, Lord of the Deep Pools": {
+		"monstername": "Balravnus, Lord of the Deep Pools",
+		"file": "monsterdisplay298e.html",
+		"cr": 18,
+		"type": "outsider",
+		"subtypes": [ "aquatic", "chaotic", "demon", "evil", "extraplanar" ],
+		"info": "Male hezrou barbarian 7 (Pathfinder RPG Bestiary 62)"
+	},
+	"Bee-Man of Bellis": {
+		"monstername": "Bee-Man of Bellis",
+		"file": "monsterdisplay9120.html",
+		"cr": 9,
+		"type": "aberration",
+		"info": "-"
+	},
+	"Bezilak, the Silken Fang": {
+		"monstername": "Bezilak, the Silken Fang",
+		"file": "monsterdisplay9449.html",
+		"cr": 17,
+		"type": "outsider",
+		"subtypes": [ "chaotic", "demon", "evil", "extraplanar" ],
+		"info": "Male glabrezu rogue 8 (Pathfinder RPG Bestiary 61)"
+	},
+	"Black Magga": {
+		"monstername": "Black Magga",
+		"file": "monsterdisplayf7e1.html",
+		"cr": 15,
+		"type": "outsider",
+		"subtypes": [ "aquatic", " native" ],
+		"info": "-"
+	},
+	"Captain Ignisco": {
+		"monstername": "Captain Ignisco",
+		"file": "monsterdisplayedaa.html",
+		"cr": 6,
+		"type": "humanoid",
+		"subtypes": [ "munavri" ],
+		"info": "Male munavri psychic 2/swashbuckler 4 (Pathfinder Campaign Setting: Occult Bestiary 34, Pathfinder RPG Occult Adventures 60, Pathfinder RPG Advanced Class Guide 56)"
+	},
+	"Courage Heart": {
+		"monstername": "Courage Heart",
+		"file": "monsterdisplay0bf4.html",
+		"cr": 15,
+		"type": "outsider",
+		"subtypes": [ "chaotic", "extraplanar", "good" ],
+		"info": "-"
+	},
+	"Emperor of Scales": {
+		"monstername": "Emperor of Scales",
+		"file": "monsterdisplaye1f0.html",
+		"cr": 15,
+		"type": "outsider",
+		"subtypes": [ "chaotic", "evil", "native" ],
+		"info": "-"
+	},
+	"Erotundee, Keeper of the Risen Light": {
+		"monstername": "Erotundee, Keeper of the Risen Light",
+		"file": "monsterdisplay8593.html",
+		"cr": 22,
+		"type": "outsider",
+		"subtypes": [ "chaotic", "demon", "evil", "extraplanar" ],
+		"info": "Female nalfeshnee wizard 15 (Pathfinder RPG Bestiary 65)"
+	},
+	"Eudranis": {
+		"monstername": "Eudranis",
+		"file": "monsterdisplay100c.html",
+		"cr": 5,
+		"type": "monstrous humanoid",
+		"info": "Male morlock cleric of Lamashtu 4 (Pathfinder RPG Bestiary 209)"
+	},
+	"Fyndylsnitch the Shadowking": {
+		"monstername": "Fyndylsnitch the Shadowking",
+		"file": "monsterdisplayd3f5.html",
+		"cr": 7,
+		"type": "fey",
+		"info": "Male leprechaun sorcerer 5 (Pathfinder RPG Bestiary 2 177)"
+	},
+	"Galundari, the Scourge of Heaven": {
+		"monstername": "Galundari, the Scourge of Heaven",
+		"file": "monsterdisplay0c68.html",
+		"cr": 25,
+		"type": "outsider",
+		"subtypes": [ "chaotic", "demon", "evil", "extraplanar" ],
+		"info": "Male balor lord fighter 5 (Pathfinder RPG Bestiary 59)"
+	},
+	"Ghristah": {
+		"monstername": "Ghristah",
+		"file": "monsterdisplayf6b8.html",
+		"cr": 8,
+		"type": "humanoid",
+		"subtypes": [ "reptilian" ],
+		"info": "Female troglodyte hunter (feral hunter) 7 (Pathfinder RPG Bestiary 267, Pathfinder RPG Advanced Class Guide 26, 95)"
+	},
+	"Grendler Red-Chains": {
+		"monstername": "Grendler Red-Chains",
+		"file": "monsterdisplay0868.html",
+		"cr": 11,
+		"type": "fey",
+		"info": "Male advanced redcap (Pathfinder RPG Bestiary 2 233)"
+	},
+	"Ilzunae, the Gloom Widow": {
+		"monstername": "Ilzunae, the Gloom Widow",
+		"file": "monsterdisplayca32.html",
+		"cr": 19,
+		"type": "outsider",
+		"subtypes": [ "chaotic", "demon", "evil", "extraplanar", "incorporeal" ],
+		"info": "Female shadow demon cleric of Nocticula 15 (Pathfinder RPG Bestiary 67)"
+	},
+	"Kallas Devil": {
+		"monstername": "Kallas Devil",
+		"file": "monsterdisplay4d71.html",
+		"cr": 9,
+		"type": "fey",
+		"subtypes": [ "aquatic" ],
+		"info": "Variant nuckelavee (Pathfinder RPG Bestiary 3 203)"
+	},
+	"Kaltestrua, Governess of Casnoriva": {
+		"monstername": "Kaltestrua, Governess of Casnoriva",
+		"file": "monsterdisplay5813.html",
+		"cr": 21,
+		"type": "outsider",
+		"subtypes": [ "chaotic", "demon", "evil", "extraplanar" ],
+		"info": "Female marilith sorcerer 7 (Pathfinder RPG Bestiary 63)"
+	},
+	"Khalirai, the Ivory Queen": {
+		"monstername": "Khalirai, the Ivory Queen",
+		"file": "monsterdisplay999a.html",
+		"cr": 15,
+		"type": "fey",
+		"info": "Nymph oracle 8 (Pathfinder RPG Bestiary 217, Pathfinder RPG Advanced Player's Guide 42)"
+	},
+	"Kurshu the Undying": {
+		"monstername": "Kurshu the Undying",
+		"file": "monsterdisplay0381.html",
+		"cr": 15,
+		"type": "outsider",
+		"subtypes": [ "evil", "extraplanar", "lawful" ],
+		"info": "-"
+	},
+	"Lorthact": {
+		"monstername": "Lorthact",
+		"file": "monsterdisplayff9d.html",
+		"cr": 25,
+		"type": "outsider",
+		"subtypes": [ "devil", "evil", "extraplanar", "lawful" ],
+		"info": "-"
+	},
+	"Malsandra": {
+		"monstername": "Malsandra",
+		"file": "monsterdisplayf444.html",
+		"cr": 16,
+		"type": "fey",
+		"subtypes": [ "aquatic" ],
+		"info": "Rusalka rogue 4 (Pathfinder RPG Bestiary 3 232)"
+	},
+	"Malziarax, Rune Giant Overlord": {
+		"monstername": "Malziarax, Rune Giant Overlord",
+		"file": "monsterdisplay9cdb.html",
+		"cr": 21,
+		"type": "humanoid",
+		"subtypes": [ "giant" ],
+		"info": "Female rune giant fighter 4"
+	},
+	"Mangvhune, the Temple Hill Slasher": {
+		"monstername": "Mangvhune, the Temple Hill Slasher",
+		"file": "monsterdisplayf813.html",
+		"cr": 16,
+		"type": "outsider",
+		"subtypes": [ "chaotic", "demon", "evil", "extraplanar" ],
+		"info": "Male babau assassin 10 (Pathfinder RPG Bestiary 57)"
+	},
+	"Mardahamman, Cyclops Tyrant": {
+		"monstername": "Mardahamman, Cyclops Tyrant",
+		"file": "monsterdisplay765c.html",
+		"cr": 15,
+		"type": "humanoid",
+		"subtypes": [ "giant" ],
+		"info": "Male cyclops fighter 10 (Pathfinder RPG Bestiary 52)"
+	},
+	"Moxix": {
+		"monstername": "Moxix",
+		"file": "monsterdisplay174a.html",
+		"cr": 20,
+		"type": "outsider",
+		"subtypes": [ "chaotic", "demon", "evil", "extraplanar" ],
+		"info": "-"
+	},
+	"Nightripper": {
+		"monstername": "Nightripper",
+		"file": "monsterdisplayd9f2.html",
+		"cr": 24,
+		"type": "outsider",
+		"subtypes": [ "chaotic", "demon", "evil", "extraplanar" ],
+		"info": "-"
+	},
+	"Old Wulunga": {
+		"monstername": "Old Wulunga",
+		"file": "monsterdisplayed76.html",
+		"cr": 6,
+		"type": "magical beast",
+		"subtypes": [ "aquatic" ],
+		"info": "Male advanced muck bunyip"
+	},
+	"Oliphaunt of Jandelay": {
+		"monstername": "Oliphaunt of Jandelay",
+		"file": "monsterdisplay171f.html",
+		"cr": 30,
+		"type": "outsider",
+		"subtypes": [ "chaotic", " extraplanar" ],
+		"info": "-"
+	},
+	"Oozlosh, Marsh Giant High Priest": {
+		"monstername": "Oozlosh, Marsh Giant High Priest",
+		"file": "monsterdisplay9526.html",
+		"cr": 14,
+		"type": "humanoid",
+		"subtypes": [ "giant" ],
+		"info": "Male marsh giant cleric of Dagon 10"
+	},
+	"Orania, Cloud Giant Oligarch": {
+		"monstername": "Orania, Cloud Giant Oligarch",
+		"file": "monsterdisplay9e7b.html",
+		"cr": 18,
+		"type": "humanoid",
+		"subtypes": [ "giant" ],
+		"info": "Female cloud giant oracle 12"
+	},
+	"Orynox Marchelin, Fire Giant King": {
+		"monstername": "Orynox Marchelin, Fire Giant King",
+		"file": "monsterdisplay2614.html",
+		"cr": 19,
+		"type": "humanoid",
+		"subtypes": [ "fire", " giant" ],
+		"info": "Male fire giant <%CLASSES%Fighter%%>fighter<%END> (<%ARCHETYPES%Fighter Polearm Master%%>polearm master<%END>) 9"
+	},
+	"Paakis-Si": {
+		"monstername": "Paakis-Si",
+		"file": "monsterdisplay01b8.html",
+		"cr": 5,
+		"type": "humanoid",
+		"subtypes": [ "sasquatch" ],
+		"info": "Male sasquatch ranger (warden) 3"
+	},
+	"Papa Chupar": {
+		"monstername": "Papa Chupar",
+		"file": "monsterdisplaye2fc.html",
+		"cr": 7,
+		"type": "magical beast",
+		"info": "Male unique winged chupacabra"
+	},
+	"Prismatic Orrery": {
+		"monstername": "Prismatic Orrery",
+		"file": "monsterdisplay59a4.html",
+		"cr": 13,
+		"type": "construct",
+		"info": "-"
+	},
+	"Qaishan Yeti": {
+		"monstername": "Qaishan Yeti",
+		"file": "monsterdisplay4cba.html",
+		"cr": 7,
+		"type": "monstrous humanoid",
+		"subtypes": [ "cold" ],
+		"info": "Yeti monk 5"
+	},
+	"Quetzutrhul": {
+		"monstername": "Quetzutrhul",
+		"file": "monsterdisplay7987.html",
+		"cr": 11,
+		"type": "aberration",
+		"info": "Rogue mutant intellect devourer (Pathfinder RPG Monster Codex 248, Pathfinder RPG Bestiary 5 180, Pathfinder RPG Bestiary 180)"
+	},
+	"Rahstalshan, Stone Giant Elder": {
+		"monstername": "Rahstalshan, Stone Giant Elder",
+		"file": "monsterdisplay99a7.html",
+		"cr": 14,
+		"type": "humanoid",
+		"subtypes": [ "giant" ],
+		"info": "Female stone giant elder sorcerer 10"
+	},
+	"Sandpoint Devil": {
+		"monstername": "Sandpoint Devil",
+		"file": "monsterdisplay1c45.html",
+		"cr": 8,
+		"type": "outsider",
+		"subtypes": [ "native" ],
+		"info": "-"
+	},
+	"Scyld Hranni, Storm Giant Matriarch": {
+		"monstername": "Scyld Hranni, Storm Giant Matriarch",
+		"file": "monsterdisplay106c.html",
+		"cr": 20,
+		"type": "humanoid",
+		"subtypes": [ "giant" ],
+		"info": "Female storm giant cleric of Aegirran 13"
+	},
+	"Shamira": {
+		"monstername": "Shamira",
+		"file": "monsterdisplaye618.html",
+		"cr": 25,
+		"type": "outsider",
+		"subtypes": [ "chaotic", "demon", "evil", "extraplanar", "fire" ],
+		"info": "-"
+	},
+	"Shaorhaz, Glutton of the Green": {
+		"monstername": "Shaorhaz, Glutton of the Green",
+		"file": "monsterdisplay0cde.html",
+		"cr": 23,
+		"type": "outsider",
+		"subtypes": [ "chaotic", "demon", "evil", "extraplanar" ],
+		"info": "Male vrolikai inquisitor of Cyth-V'sug 9 (Pathfinder RPG Bestiary 2 81)"
+	},
+	"Talmandor": {
+		"monstername": "Talmandor",
+		"file": "monsterdisplay60cd.html",
+		"cr": 23,
+		"type": "outsider",
+		"subtypes": [ "agathion", "extraplanar", "good" ],
+		"info": "-"
+	},
+	"Tanaq Mammoth-Eater, Taiga Giant Shaman": {
+		"monstername": "Tanaq Mammoth-Eater, Taiga Giant Shaman",
+		"file": "monsterdisplaya205.html",
+		"cr": 17,
+		"type": "humanoid",
+		"subtypes": [ "giant" ],
+		"info": "Male taiga giant druid (mountain druid) 10 (Pathfinder RPG Advanced Player's Guide 100)"
+	},
+	"Thath-Malal, the Eyeless Prince": {
+		"monstername": "Thath-Malal, the Eyeless Prince",
+		"file": "monsterdisplay1816.html",
+		"cr": 13,
+		"type": "aberration",
+		"info": "Variant young neothelid (Pathfinder RPG Bestiary 295, 214)"
+	},
+	"The Mistress of the Fen": {
+		"monstername": "The Mistress of the Fen",
+		"file": "monsterdisplay5195.html",
+		"cr": 12,
+		"type": "magical beast",
+		"subtypes": [ "aquatic" ],
+		"info": "Female unique water orm"
+	},
+	"The Moldering Emperor": {
+		"monstername": "The Moldering Emperor",
+		"file": "monsterdisplay9638.html",
+		"cr": 16,
+		"type": "aberration",
+		"info": "Black-blooded neothelid (aquatic)"
+	},
+	"The Mourning One": {
+		"monstername": "The Mourning One",
+		"file": "monsterdisplay1920.html",
+		"cr": 19,
+		"type": "aberration",
+		"subtypes": [ "aquatic" ],
+		"info": "Unique black-blooded sea serpent (Pathfinder RPG Bestiary 244, Pathfinder Adventure Path #18 82)"
+	},
+	"The Sandpoint Devil": {
+		"monstername": "The Sandpoint Devil",
+		"file": "monsterdisplay380c.html",
+		"cr": 8,
+		"type": "outsider",
+		"subtypes": [ "native" ],
+		"info": "-"
+	},
+	"The Surface Caller": {
+		"monstername": "The Surface Caller",
+		"file": "monsterdisplaye280.html",
+		"cr": 7,
+		"type": "humanoid",
+		"subtypes": [ "elf" ],
+		"info": "Female drow sorcerer 4/swashbuckler 4 (Pathfinder RPG Bestiary 114, Pathfinder RPG Advanced Class Guide 56)"
+	},
+	"The Would-Be Queen, Almara Kazaar": {
+		"monstername": "The Would-Be Queen, Almara Kazaar",
+		"file": "monsterdisplay92de.html",
+		"cr": 10,
+		"type": "humanoid",
+		"subtypes": [ "dwarf" ],
+		"info": "Female duergar warpriest of Droskar 11 (Pathfinder RPG Bestiary 117, Pathfinder RPG Advanced Class Guide 60)"
+	},
+	"Treerazer": {
+		"monstername": "Treerazer",
+		"file": "monsterdisplay1b33.html",
+		"cr": 25,
+		"type": "outsider",
+		"subtypes": [ "demon", " native" ],
+		"info": "-"
+	},
+	"Triaza": {
+		"monstername": "Triaza",
+		"file": "monsterdisplayef1c.html",
+		"cr": 10,
+		"type": "outsider",
+		"subtypes": [ "native" ],
+		"info": "Female urdefhan magus 7 (Pathfinder RPG Bestiary 2 276, Pathfinder RPG Ultimate Magic 9)"
+	},
+	"Tychilarius": {
+		"monstername": "Tychilarius",
+		"file": "monsterdisplay67b2.html",
+		"cr": 23,
+		"type": "aberration",
+		"subtypes": [ "aquatic", "chaotic", "evil" ],
+		"info": "-"
+	},
+	"Uchurah": {
+		"monstername": "Uchurah",
+		"file": "monsterdisplay3360.html",
+		"cr": 12,
+		"type": "aberration",
+		"info": "Gug barbarian 2 (Pathfinder RPG Bestiary 2 151)"
+	},
+	"Undrella": {
+		"monstername": "Undrella",
+		"file": "monsterdisplayd494.html",
+		"cr": 11,
+		"type": "monstrous humanoid",
+		"info": "Female harpy ranger 7"
+	},
+	"Urburg Armbreaker, Hill Giant Chieftain": {
+		"monstername": "Urburg Armbreaker, Hill Giant Chieftain",
+		"file": "monsterdisplay7e3a.html",
+		"cr": 13,
+		"type": "humanoid",
+		"subtypes": [ "giant" ],
+		"info": "Male hill giant barbarian (scarred rager) 6 (Pathfinder RPG Ultimate Combat 29)"
+	},
+	"Uvaglor, the Misbegotten Prince": {
+		"monstername": "Uvaglor, the Misbegotten Prince",
+		"file": "monsterdisplayb508.html",
+		"cr": 20,
+		"type": "outsider",
+		"subtypes": [ "chaotic", "demon", "evil", "extraplanar" ],
+		"info": "Male advanced vrock oracle 15 (Pathfinder RPG Bestiary 69)"
+	},
+	"Valonesse Hergrut, Frost Giant Jarl": {
+		"monstername": "Valonesse Hergrut, Frost Giant Jarl",
+		"file": "monsterdisplay5783.html",
+		"cr": 18,
+		"type": "humanoid",
+		"subtypes": [ "cold", " giant" ],
+		"info": "Female frost giant barbarian 9"
+	},
+	"Voice of the Damned": {
+		"monstername": "Voice of the Damned",
+		"file": "monsterdisplay5fb5.html",
+		"cr": 25,
+		"type": "outsider",
+		"subtypes": [ "evil", " native" ],
+		"info": "-"
+	},
+	"Yrldak": {
+		"monstername": "Yrldak",
+		"file": "monsterdisplay30e5.html",
+		"cr": 10,
+		"type": "fey",
+		"info": "Variant norn (Pathfinder RPG Bestiary 3 202)"
+	},
+	"Zelishkar of the Bitter Flame": {
+		"monstername": "Zelishkar of the Bitter Flame",
+		"file": "monsterdisplay9106.html",
+		"cr": 21,
+		"type": "outsider",
+		"subtypes": [ "daemon", "evil", "extraplanar", "fire" ],
+		"info": "-"
+	}
+}

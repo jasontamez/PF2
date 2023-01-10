@@ -1,0 +1,2459 @@
+{
+	"Aeon": {
+		"monsterfamily": "Aeon",
+		"file": "monsterfamiliesc452.html",
+		"sources": [
+			"Bestiary 2"
+		],
+		"members": [
+			"~`Agnoia`~",
+			"~`Akhana`~",
+			"~`Bythos`~",
+			"~`Lipika`~",
+			"~`Othaos`~",
+			"~`Paracletus`~",
+			"~`Pleroma`~",
+			"~`Synesis`~",
+			"~`Theletos`~ "
+		]
+	},
+	"Agathion": {
+		"monsterfamily": "Agathion",
+		"file": "monsterfamiliesb5c3.html",
+		"sources": [
+			"Bestiary 2"
+		],
+		"members": [
+			"~`Avoral`~",
+			"~`Bishop Agathion`~",
+			"~`Cervapral`~",
+			"~`Cervinal`~",
+			"~`Cetaceal`~",
+			"~`Chelonidal`~",
+			"~`Draconal`~",
+			"~`Leonal`~",
+			"~`Muldnal`~",
+			"~`Mustelidal`~",
+			"~`Procyal`~",
+			"~`Reptial`~",
+			"~`Silvanshee`~",
+			"~`Vulpinal`~ "
+		]
+	},
+	"Alghollthu": {
+		"monsterfamily": "Alghollthu",
+		"file": "monsterfamiliesf34c.html",
+		"sources": [
+			"Pathfinder RPG Bestiary"
+		],
+		"members": [
+			"~`Aboleth`~",
+			"~`Enisysian`~",
+			"~`Omnipath`~",
+			"~`Omnipath`~",
+			"~`Plizeazoth`~",
+			"~`Thalassic Architect`~",
+			"~`Veiled Master`~ "
+		]
+	},
+	"Angel": {
+		"monsterfamily": "Angel",
+		"file": "monsterfamilies1c35.html",
+		"sources": [
+			"Pathfinder RPG Bestiary"
+		],
+		"members": [
+			"~`Astral Deva`~",
+			"~`Balisse`~",
+			"~`Cassisian`~",
+			"~`Choral`~",
+			"~`Dapsara`~",
+			"~`Empyrean`~",
+			"~`Erelim`~",
+			"~`Iophanite`~",
+			"~`Kuribu`~",
+			"~`Monadic Deva`~",
+			"~`Movanic Deva`~",
+			"~`Ninkonda`~",
+			"~`Planetar`~",
+			"~`Solar`~ "
+		]
+	},
+	"Archdevil": {
+		"monsterfamily": "Archdevil",
+		"file": "monsterfamilies8675.html",
+		"sources": [
+			"Bestiary 6"
+		],
+		"members": [
+			"~`Baalzebul`~",
+			"~`Barbatos`~",
+			"~`Belial`~",
+			"~`Dispater`~",
+			"~`Geryon`~",
+			"~`Mammon`~",
+			"~`Mephistopheles`~",
+			"~`Moloch`~ "
+		]
+	},
+	"Archon": {
+		"monsterfamily": "Archon",
+		"file": "monsterfamilies2393.html",
+		"sources": [
+			"Pathfinder RPG Bestiary"
+		],
+		"members": [
+			"~`Bastion Archon`~",
+			"~`Codex Archon`~",
+			"~`Exscinder`~",
+			"~`Gate Archon`~",
+			"~`Hammer Archon`~",
+			"~`Harbinger Archon`~",
+			"~`Hound Archon`~",
+			"~`Lantern Archon`~",
+			"~`Legion Archon`~",
+			"~`Preceptor Archon`~",
+			"~`Shield Archon`~",
+			"~`Spyglass Archon`~",
+			"~`Stag Archon`~",
+			"~`Star Archon`~",
+			"~`Trumpet Archon`~ "
+		]
+	},
+	"Asura": {
+		"monsterfamily": "Asura",
+		"file": "monsterfamilies97c2.html",
+		"sources": [
+			"Bestiary 3"
+		],
+		"members": [
+			"~`Adhukait`~",
+			"~`Aghasura`~",
+			"~`Asurendra`~",
+			"~`Hishandura`~",
+			"~`Japalisura`~",
+			"~`Nikaramsa`~",
+			"~`Tripurasura`~",
+			"~`Upasunda`~",
+			"~`Vayuphak`~ "
+		]
+	},
+	"Automaton": {
+		"monsterfamily": "Automaton",
+		"file": "monsterfamilies334b.html",
+		"sources": [
+			"Construct Handbook"
+		],
+		"members": [
+			"~`Champion Automaton`~",
+			"~`Familiar Automaton`~",
+			"~`Master Automaton`~",
+			"~`Sharpshooter Automaton`~",
+			"~`Stalker Automaton`~ "
+		]
+	},
+	"Azata": {
+		"monsterfamily": "Azata",
+		"file": "monsterfamilies54da.html",
+		"sources": [
+			"Pathfinder RPG Bestiary"
+		],
+		"members": [
+			"~`Bralani`~",
+			"~`Brijidine`~",
+			"~`Gancanagh`~",
+			"~`Ghaele`~",
+			"~`Lillend`~",
+			"~`Lyrakien`~",
+			"~`Nualidu`~",
+			"~`Prydanu`~",
+			"~`Raelis`~",
+			"~`Thyrlien`~",
+			"~`Uinuja`~",
+			"~`Veranallia`~",
+			"~`Yamah`~ "
+		]
+	},
+	"Azi": {
+		"monsterfamily": "Azi",
+		"file": "monsterfamilies4a0b.html",
+		"sources": [
+			"Pathfinder #24: The Final Wish"
+		],
+		"members": [
+			"~`Gandareva`~",
+			"~`Sruvara`~",
+			"~`Zahhak`~ "
+		]
+	},
+	"Baba Yaga's Rider": {
+		"monsterfamily": "Baba Yaga's Rider",
+		"file": "monsterfamilies1788.html",
+		"sources": [
+			"Irrisen - Land of Eternal Winter"
+		],
+		"members": [
+			"~`Black Rider`~",
+			"~`Red Rider`~",
+			"~`White Rider`~ "
+		]
+	},
+	"Beheaded": {
+		"monsterfamily": "Beheaded",
+		"file": "monsterfamiliese925.html",
+		"sources": [
+			"Bestiary 4"
+		],
+		"members": [
+			"~`Beheaded`~",
+			"~`Flaming Skull`~",
+			"~`Giant Beheaded`~",
+			"~`Medusa Head`~",
+			"~`Severed Head`~",
+			"~`Skull Swarm`~ "
+		]
+	},
+	"Behemoth": {
+		"monsterfamily": "Behemoth",
+		"file": "monsterfamilies9ba4.html",
+		"sources": [
+			"Bestiary 3"
+		],
+		"members": [
+			"~`Ravener`~",
+			"~`Tempest Behemoth`~",
+			"~`Thalassic Behemoth`~",
+			"~`Thunder Behemoth`~ "
+		]
+	},
+	"Blight": {
+		"monsterfamily": "Blight",
+		"file": "monsterfamilies0c82.html",
+		"sources": [
+			"Bestiary 6"
+		],
+		"members": [
+			"~`Cave Blight`~",
+			"~`Desert Blight`~",
+			"~`Forest Blight`~",
+			"~`Mountain Blight`~",
+			"~`Sewer Blight`~",
+			"~`Swamp Blight`~",
+			"~`Tundra Blight`~ "
+		]
+	},
+	"Bore Worm": {
+		"monsterfamily": "Bore Worm",
+		"file": "monsterfamilies0805.html",
+		"sources": [
+			"Pathfinder #117: Assault on Longshadow"
+		],
+		"members": [
+			"~`Bore Worm Monarch`~",
+			"~`Bore Worm Swarm`~",
+			"~`Empress Bore Worm`~ "
+		]
+	},
+	"Boreal Creature": {
+		"monsterfamily": "Boreal Creature",
+		"file": "monsterfamiliesd967.html",
+		"sources": [
+			"Irrisen - Land of Eternal Winter"
+		],
+		"members": [
+			"~`Boreal Annis Hag`~",
+			"~`Boreal Manticore`~",
+			"~`Boreal Wolf`~ "
+		]
+	},
+	"Clockwork": {
+		"monsterfamily": "Clockwork",
+		"file": "monsterfamilies5175.html",
+		"sources": [
+			"Bestiary 3"
+		],
+		"members": [
+			"~`Clockwork Angel`~",
+			"~`Clockwork Assassin`~",
+			"~`Clockwork Dragon`~",
+			"~`Clockwork Excavator`~",
+			"~`Clockwork Familiar`~",
+			"~`Clockwork Fiend`~",
+			"~`Clockwork Goblin`~",
+			"~`Clockwork Goliath`~",
+			"~`Clockwork Guardian`~",
+			"~`Clockwork Gunslinger`~",
+			"~`Clockwork Hound`~",
+			"~`Clockwork Leviathan`~",
+			"~`Clockwork Mage`~",
+			"~`Clockwork Nautiloid`~",
+			"~`Clockwork Overseer`~",
+			"~`Clockwork Priest`~",
+			"~`Clockwork Servant`~",
+			"~`Clockwork Snail`~",
+			"~`Clockwork Soldier`~",
+			"~`Clockwork Songbird`~",
+			"~`Clockwork Spy`~",
+			"~`Clockwork Steed`~",
+			"~`Clockwork Vivisectionist`~",
+			"~`Mechanical Efreeti`~",
+			"~`Toy Golem`~ "
+		]
+	},
+	"Colossus": {
+		"monsterfamily": "Colossus",
+		"file": "monsterfamilies6bdf.html",
+		"sources": [
+			"Bestiary 4"
+		],
+		"mythicMembers": [
+			"~`Flesh Colossus`~",
+			"~`Iron Colossus`~",
+			"~`Sphinx Colossus`~",
+			"~`Stone Colossus`~",
+			"~`Wood Colossus`~"
+		]
+	},
+	"Daemon": {
+		"monsterfamily": "Daemon",
+		"file": "monsterfamilies2e84.html",
+		"sources": [
+			"Bestiary 2"
+		],
+		"members": [
+			"~`Acrididaemon`~",
+			"~`Astradaemon`~",
+			"~`Bibliodaemon`~",
+			"~`Cacodaemon`~",
+			"~`Ceustodaemon`~",
+			"~`Crucidaemon`~",
+			"~`Derghodaemon`~",
+			"~`Erodaemon`~",
+			"~`Genthodaemon`~",
+			"~`Hydrodaemon`~",
+			"~`Lacridaemon`~",
+			"~`Lapsudaemon`~",
+			"~`Leukodaemon`~",
+			"~`Meladaemon`~",
+			"~`Nixudaemon`~",
+			"~`Obcisidaemon`~",
+			"~`Olethrodaemon`~",
+			"~`Phasmadaemon`~",
+			"~`Piscodaemon`~",
+			"~`Purrodaemon`~",
+			"~`Sangudaemon`~",
+			"~`Sepsidaemon`~",
+			"~`Suspiridaemon`~",
+			"~`Temerdaemon`~",
+			"~`Thanadaemon`~",
+			"~`Venedaemon`~",
+			"~`Vulnudaemon`~ "
+		]
+	},
+	"Dark Folk": {
+		"monsterfamily": "Dark Folk",
+		"file": "monsterfamilies5610.html",
+		"sources": [
+			"Pathfinder RPG Bestiary"
+		],
+		"members": [
+			"~`Caligni`~",
+			"~`Dark Caller`~",
+			"~`Dark Champion`~",
+			"~`Dark Creeper`~",
+			"~`Dark Dancer`~",
+			"~`Dark Empath`~",
+			"~`Dark Slayer`~",
+			"~`Dark Stalker`~ "
+		]
+	},
+	"Demodand": {
+		"monsterfamily": "Demodand",
+		"file": "monsterfamilies89e7.html",
+		"sources": [
+			"Bestiary 3"
+		],
+		"members": [
+			"~`Gristly Demodand`~",
+			"~`Shaggy Demodand`~",
+			"~`Slimy Demodand`~",
+			"~`Squamous Demodand`~",
+			"~`Stringy Demodand`~",
+			"~`Tarry Demodand`~ "
+		]
+	},
+	"Demon": {
+		"monsterfamily": "Demon",
+		"file": "monsterfamilies4381.html",
+		"sources": [
+			"Pathfinder RPG Bestiary"
+		],
+		"members": [
+			"~`Abrikandilu`~",
+			"~`Andrazku`~",
+			"~`Babau`~",
+			"~`Balor`~",
+			"~`Brimorak`~",
+			"~`Cambion`~",
+			"~`Coloxus`~",
+			"~`Derakni`~",
+			"~`Dretch`~",
+			"~`Gallu`~",
+			"~`Ghalzarokh`~",
+			"~`Gibrileth`~",
+			"~`Glabrezu`~",
+			"~`Hala`~",
+			"~`Hezrou`~",
+			"~`Incubus`~",
+			"~`Kalavakus`~",
+			"~`Katpaskir`~",
+			"~`Kithangian`~",
+			"~`Larva`~",
+			"~`Lilitu`~",
+			"~`Marilith`~",
+			"~`Nabasu`~",
+			"~`Nalfeshnee`~",
+			"~`Omox`~",
+			"~`Oolioddroo`~",
+			"~`Painajai`~",
+			"~`Quasit`~",
+			"~`Schir`~",
+			"~`Seraptis`~",
+			"~`Shachath`~",
+			"~`Shadow Demon`~",
+			"~`Shemhazian`~",
+			"~`Succubus`~",
+			"~`Swaithe`~",
+			"~`Thoxel Demon`~",
+			"~`Ulkreth`~",
+			"~`Vavakia`~",
+			"~`Vermlek`~",
+			"~`Vilsteth`~",
+			"~`Vrock`~",
+			"~`Vrolikai`~",
+			"~`Yaenit`~ "
+		],
+		"mythicMembers": [
+			"~`Marilith`~",
+			"~`Nalfeshnee`~",
+			"~`Vrock`~"
+		]
+	},
+	"Demon Lord": {
+		"monsterfamily": "Demon Lord",
+		"file": "monsterfamilies79a6.html",
+		"sources": [
+			"Bestiary 4"
+		],
+		"members": [
+			"~`Baphomet`~",
+			"~`Dagon`~",
+			"~`Deskari`~",
+			"~`Kostchtchie`~",
+			"~`Nocticula`~",
+			"~`Pazuzu`~",
+			"~`Shax`~",
+			"~`Sifkesh`~",
+			"~`Xoveron`~ "
+		]
+	},
+	"Devil": {
+		"monsterfamily": "Devil",
+		"file": "monsterfamiliesd73f.html",
+		"sources": [
+			"Pathfinder RPG Bestiary"
+		],
+		"members": [
+			"~`Accomplice Devil (Hesperian)`~",
+			"~`Accuser Devil (Zebub)`~",
+			"~`Advodaza`~",
+			"~`Apostate Devil (Deimavigga)`~",
+			"~`Barbed Devil (Hamatula)`~",
+			"~`Bearded Devil (Barbazu)`~",
+			"~`Belier Devil (Bdellavritra)`~",
+			"~`Bone Devil (Osyluth)`~",
+			"~`Cabal Devil (Uniila)`~",
+			"~`Chortov`~",
+			"~`Contract Devil (Phistophilus)`~",
+			"~`Curse Devil (Phiam)`~",
+			"~`Drowning Devil (Sarglagon)`~",
+			"~`Erinyes`~",
+			"~`Executioner Devil (Munagola)`~",
+			"~`Gambling Devil (Magadaz)`~",
+			"~`Handmaiden Devil (Gylou)`~",
+			"~`Heresy Devil (Ayngavhaul)`~",
+			"~`Horned Devil (Cornugon)`~",
+			"~`Host Devil, Greater (Magaav)`~",
+			"~`Host Devil, Lesser (Gaav)`~",
+			"~`Ice Devil (Gelugon)`~",
+			"~`Immolation Devil (Puragaus)`~",
+			"~`Imp`~",
+			"~`Lemure`~",
+			"~`Mnemor`~",
+			"~`Nemesis Devil (Advodaza)`~",
+			"~`Nupperibo`~",
+			"~`Pit Fiend`~",
+			"~`Possession Devil, Greater (Gidim)`~",
+			"~`Possession Devil, Lesser (Gidim)`~",
+			"~`Rust Devil (Ferrugon)`~",
+			"~`Salikotal`~",
+			"~`Sire Devil (Patraavex)`~",
+			"~`Tinder Devil (Ukobach)`~",
+			"~`Warmonger Devil (Levaloch)`~ "
+		],
+		"mythicMembers": [
+			"~`Bone Devil`~",
+			"~`Ice Devil`~"
+		]
+	},
+	"Dinosaur": {
+		"monsterfamily": "Dinosaur",
+		"file": "monsterfamilies5326.html",
+		"sources": [
+			"Pathfinder RPG Bestiary"
+		],
+		"members": [
+			"~`Allosaurus`~",
+			"~`Amargasaurus`~",
+			"~`Ankylosaurus`~",
+			"~`Brachiosaurus`~",
+			"~`Ceratosaurus`~",
+			"~`Compsognathus`~",
+			"~`Deinonychus`~",
+			"~`Dimetrodon`~",
+			"~`Dimorphodon`~",
+			"~`Diplodocus`~",
+			"~`Elasmosaurus`~",
+			"~`Giganotosaurus`~",
+			"~`Iguanodon`~",
+			"~`Kentrosaurus`~",
+			"~`Pachycephalosaurus`~",
+			"~`Parasaurolophus`~",
+			"~`Plesiosaurus`~",
+			"~`Pteranodon`~",
+			"~`Quetzalcoatlus`~",
+			"~`Spinosaurus`~",
+			"~`Stegosaurus`~",
+			"~`Styracosaurus`~",
+			"~`Therizinosaurus`~",
+			"~`Triceratops`~",
+			"~`Troodon`~",
+			"~`Tylosaurus`~",
+			"~`Tyrannosaurus`~",
+			"~`Velociraptor`~ "
+		]
+	},
+	"Div": {
+		"monsterfamily": "Div",
+		"file": "monsterfamilies3fe4.html",
+		"sources": [
+			"Bestiary 3"
+		],
+		"members": [
+			"~`Aghash`~",
+			"~`Akvan`~",
+			"~`Bushyasta`~",
+			"~`Doru`~",
+			"~`Druj Nasu`~",
+			"~`Ghawwas`~",
+			"~`Pairaka`~",
+			"~`Sepid`~",
+			"~`Shira`~ "
+		]
+	},
+	"Dragon (Black)": {
+		"monsterfamily": "Dragon (Black)",
+		"file": "monsterfamiliesf0da.html",
+		"sources": [
+			"Pathfinder RPG Bestiary"
+		],
+		"members": [
+			"~`Adult Black Dragon`~",
+			"~`Ancient Black Dragon`~",
+			"~`Young Black Dragon`~ "
+		],
+		"mythicMembers": [
+			"~`Mature Adult Black Dragon`~"
+		]
+	},
+	"Dragon (Blue)": {
+		"monsterfamily": "Dragon (Blue)",
+		"file": "monsterfamilies8688.html",
+		"sources": [
+			"Pathfinder RPG Bestiary"
+		],
+		"members": [
+			"~`Adult Blue Dragon`~",
+			"~`Ancient Blue Dragon`~",
+			"~`Young Blue Dragon`~ "
+		],
+		"mythicMembers": [
+			"~`Mature Adult Blue Dragon`~"
+		]
+	},
+	"Dragon (Brass)": {
+		"monsterfamily": "Dragon (Brass)",
+		"file": "monsterfamilies97db.html",
+		"sources": [
+			"Pathfinder RPG Bestiary"
+		],
+		"members": [
+			"~`Adult Brass Dragon`~",
+			"~`Ancient Brass Dragon`~",
+			"~`Young Brass Dragon`~ "
+		]
+	},
+	"Dragon (Bronze)": {
+		"monsterfamily": "Dragon (Bronze)",
+		"file": "monsterfamilies9593.html",
+		"sources": [
+			"Pathfinder RPG Bestiary"
+		],
+		"members": [
+			"~`Adult Bronze Dragon`~",
+			"~`Ancient Bronze Dragon`~",
+			"~`Young Bronze Dragon`~ "
+		]
+	},
+	"Dragon (Copper)": {
+		"monsterfamily": "Dragon (Copper)",
+		"file": "monsterfamiliesd013.html",
+		"sources": [
+			"Pathfinder RPG Bestiary"
+		],
+		"members": [
+			"~`Adult Copper Dragon`~",
+			"~`Ancient Copper Dragon`~",
+			"~`Young Copper Dragon`~ "
+		]
+	},
+	"Dragon (Esoteric, Astral)": {
+		"monsterfamily": "Dragon (Esoteric, Astral)",
+		"file": "monsterfamiliesd900.html",
+		"sources": [
+			"Bestiary 5"
+		],
+		"members": [
+			"~`Adult Astral Dragon`~",
+			"~`Ancient Astral Dragon`~",
+			"~`Young Astral Dragon`~ "
+		]
+	},
+	"Dragon (Esoteric, Dream)": {
+		"monsterfamily": "Dragon (Esoteric, Dream)",
+		"file": "monsterfamilies3e50.html",
+		"sources": [
+			"Bestiary 5"
+		],
+		"members": [
+			"~`Adult Dream Dragon`~",
+			"~`Ancient Dream Dragon`~",
+			"~`Young Dream Dragon`~ "
+		]
+	},
+	"Dragon (Esoteric, Etheric)": {
+		"monsterfamily": "Dragon (Esoteric, Etheric)",
+		"file": "monsterfamilies3ffe.html",
+		"sources": [
+			"Bestiary 5"
+		],
+		"members": [
+			"~`Adult Etheric Dragon`~",
+			"~`Ancient Etheric Dragon`~",
+			"~`Young Etheric Dragon`~ "
+		]
+	},
+	"Dragon (Esoteric, Nightmare)": {
+		"monsterfamily": "Dragon (Esoteric, Nightmare)",
+		"file": "monsterfamilies07d2.html",
+		"sources": [
+			"Bestiary 5"
+		],
+		"members": [
+			"~`Adult Nightmare Dragon`~",
+			"~`Ancient Nightmare Dragon`~",
+			"~`Young Nightmare Dragon`~ "
+		]
+	},
+	"Dragon (Esoteric, Occult)": {
+		"monsterfamily": "Dragon (Esoteric, Occult)",
+		"file": "monsterfamiliesb88e.html",
+		"sources": [
+			"Bestiary 5"
+		],
+		"members": [
+			"~`Adult Occult Dragon`~",
+			"~`Ancient Occult Dragon`~",
+			"~`Young Occult Dragon`~ "
+		]
+	},
+	"Dragon (Gold)": {
+		"monsterfamily": "Dragon (Gold)",
+		"file": "monsterfamiliesbe2a.html",
+		"sources": [
+			"Pathfinder RPG Bestiary"
+		],
+		"members": [
+			"~`Adult Gold Dragon`~",
+			"~`Ancient Gold Dragon`~",
+			"~`Young Gold Dragon`~ "
+		]
+	},
+	"Dragon (Green)": {
+		"monsterfamily": "Dragon (Green)",
+		"file": "monsterfamiliese5b7.html",
+		"sources": [
+			"Pathfinder RPG Bestiary"
+		],
+		"members": [
+			"~`Adult Green Dragon`~",
+			"~`Ancient Green Dragon`~",
+			"~`Young Green Dragon`~ "
+		],
+		"mythicMembers": [
+			"~`Very Old Green Dragon`~"
+		]
+	},
+	"Dragon (Imperial, Forest)": {
+		"monsterfamily": "Dragon (Imperial, Forest)",
+		"file": "monsterfamiliese30e.html",
+		"sources": [
+			"Bestiary 3"
+		],
+		"members": [
+			"~`Adult Forest Dragon`~",
+			"~`Ancient Forest Dragon`~",
+			"~`Young Forest Dragon`~ "
+		]
+	},
+	"Dragon (Imperial, Sea)": {
+		"monsterfamily": "Dragon (Imperial, Sea)",
+		"file": "monsterfamilies917f.html",
+		"sources": [
+			"Bestiary 3"
+		],
+		"members": [
+			"~`Adult Sea Dragon`~",
+			"~`Ancient Sea Dragon`~",
+			"~`Young Sea Dragon`~ "
+		]
+	},
+	"Dragon (Imperial, Sky)": {
+		"monsterfamily": "Dragon (Imperial, Sky)",
+		"file": "monsterfamiliese432.html",
+		"sources": [
+			"Bestiary 3"
+		],
+		"members": [
+			"~`Adult Sky Dragon`~",
+			"~`Ancient Sky Dragon`~",
+			"~`Young Sky Dragon`~ "
+		]
+	},
+	"Dragon (Imperial, Sovereign)": {
+		"monsterfamily": "Dragon (Imperial, Sovereign)",
+		"file": "monsterfamiliesa09c.html",
+		"sources": [
+			"Bestiary 3"
+		],
+		"members": [
+			"~`Adult Sovereign Dragon`~",
+			"~`Ancient Sovereign Dragon`~",
+			"~`Young Sovereign Dragon`~ "
+		]
+	},
+	"Dragon (Imperial, Underworld)": {
+		"monsterfamily": "Dragon (Imperial, Underworld)",
+		"file": "monsterfamiliesd84c.html",
+		"sources": [
+			"Bestiary 3"
+		],
+		"members": [
+			"~`Adult Underworld Dragon`~",
+			"~`Ancient Underworld Dragon`~",
+			"~`Young Underworld Dragon`~ "
+		]
+	},
+	"Dragon (Outer, Lunar)": {
+		"monsterfamily": "Dragon (Outer, Lunar)",
+		"file": "monsterfamilies46f7.html",
+		"sources": [
+			"Bestiary 4"
+		],
+		"members": [
+			"~`Adult Lunar Dragon`~",
+			"~`Ancient Lunar Dragon`~",
+			"~`Young Lunar Dragon`~ "
+		]
+	},
+	"Dragon (Outer, Solar)": {
+		"monsterfamily": "Dragon (Outer, Solar)",
+		"file": "monsterfamiliesde49.html",
+		"sources": [
+			"Bestiary 4"
+		],
+		"members": [
+			"~`Adult Solar Dragon`~",
+			"~`Ancient Solar Dragon`~",
+			"~`Young Solar Dragon`~ "
+		]
+	},
+	"Dragon (Outer, Time)": {
+		"monsterfamily": "Dragon (Outer, Time)",
+		"file": "monsterfamiliesc0d1.html",
+		"sources": [
+			"Bestiary 4"
+		],
+		"members": [
+			"~`Adult Time Dragon`~",
+			"~`Ancient Time Dragon`~",
+			"~`Young Time Dragon`~ "
+		]
+	},
+	"Dragon (Outer, Void)": {
+		"monsterfamily": "Dragon (Outer, Void)",
+		"file": "monsterfamilies8eaf.html",
+		"sources": [
+			"Bestiary 4"
+		],
+		"members": [
+			"~`Adult Void Dragon`~",
+			"~`Ancient Void Dragon`~",
+			"~`Young Void Dragon`~ "
+		]
+	},
+	"Dragon (Outer, Vortex)": {
+		"monsterfamily": "Dragon (Outer, Vortex)",
+		"file": "monsterfamilies36e2.html",
+		"sources": [
+			"Bestiary 4"
+		],
+		"members": [
+			"~`Adult Vortex Dragon`~",
+			"~`Ancient Vortex Dragon`~",
+			"~`Young Vortex Dragon`~ "
+		]
+	},
+	"Dragon (Planar, Apocalypse)": {
+		"monsterfamily": "Dragon (Planar, Apocalypse)",
+		"file": "monsterfamilies4c2a.html",
+		"sources": [
+			"Pathfinder #137: The City Outside of Time"
+		],
+		"members": [
+			"~`Adult Apocalypse Dragon`~",
+			"~`Ancient Apocalypse Dragon`~",
+			"~`Young Apocalypse Dragon`~ "
+		]
+	},
+	"Dragon (Planar, Bliss)": {
+		"monsterfamily": "Dragon (Planar, Bliss)",
+		"file": "monsterfamilies5a8e.html",
+		"sources": [
+			"Pathfinder #137: The City Outside of Time"
+		],
+		"members": [
+			"~`Adult Bliss Dragon`~",
+			"~`Ancient Bliss Dragon`~",
+			"~`Young Bliss Dragon`~ "
+		]
+	},
+	"Dragon (Planar, Crypt)": {
+		"monsterfamily": "Dragon (Planar, Crypt)",
+		"file": "monsterfamiliesa113.html",
+		"sources": [
+			"Bestiary 6"
+		],
+		"members": [
+			"~`Adult Crypt Dragon`~",
+			"~`Ancient Crypt Dragon`~",
+			"~`Young Crypt Dragon`~ "
+		]
+	},
+	"Dragon (Planar, Edict)": {
+		"monsterfamily": "Dragon (Planar, Edict)",
+		"file": "monsterfamilies7d4e.html",
+		"sources": [
+			"Pathfinder #131: The Reaper's Right Hand"
+		],
+		"members": [
+			"~`Adult Edict Dragon`~",
+			"~`Ancient Edict Dragon`~",
+			"~`Young Edict Dragon`~ "
+		]
+	},
+	"Dragon (Planar, Havoc)": {
+		"monsterfamily": "Dragon (Planar, Havoc)",
+		"file": "monsterfamiliesae01.html",
+		"sources": [
+			"Bestiary 6"
+		],
+		"members": [
+			"~`Adult Havoc Dragon`~",
+			"~`Ancient Havoc Dragon`~",
+			"~`Young Havoc Dragon`~ "
+		]
+	},
+	"Dragon (Planar, Infernal)": {
+		"monsterfamily": "Dragon (Planar, Infernal)",
+		"file": "monsterfamilies0448.html",
+		"sources": [
+			"Bestiary 6"
+		],
+		"members": [
+			"~`Adult Infernal Dragon`~",
+			"~`Ancient Infernal Dragon`~",
+			"~`Young Infernal Dragon`~ "
+		]
+	},
+	"Dragon (Planar, Paradise)": {
+		"monsterfamily": "Dragon (Planar, Paradise)",
+		"file": "monsterfamilies34c0.html",
+		"sources": [
+			"Bestiary 6"
+		],
+		"members": [
+			"~`Adult Paradise Dragon`~",
+			"~`Ancient Paradise Dragon`~",
+			"~`Young Paradise Dragon`~ "
+		]
+	},
+	"Dragon (Planar, Rift)": {
+		"monsterfamily": "Dragon (Planar, Rift)",
+		"file": "monsterfamilies2d89.html",
+		"sources": [
+			"Bestiary 6"
+		],
+		"members": [
+			"~`Adult Rift Dragon`~",
+			"~`Ancient Rift Dragon`~",
+			"~`Young Rift Dragon`~ "
+		]
+	},
+	"Dragon (Planar, Tumult)": {
+		"monsterfamily": "Dragon (Planar, Tumult)",
+		"file": "monsterfamilies0afb.html",
+		"sources": [
+			"Pathfinder #138: Rise of New Thassilon"
+		],
+		"members": [
+			"~`Adult Tumult Dragon`~",
+			"~`Ancient Tumult Dragon`~",
+			"~`Young Tumult Dragon`~ "
+		]
+	},
+	"Dragon (Primal, Brine)": {
+		"monsterfamily": "Dragon (Primal, Brine)",
+		"file": "monsterfamilies0d0f.html",
+		"sources": [
+			"Bestiary 2"
+		],
+		"members": [
+			"~`Adult Brine Dragon`~",
+			"~`Ancient Brine Dragon`~",
+			"~`Young Brine Dragon`~ "
+		]
+	},
+	"Dragon (Primal, Cloud)": {
+		"monsterfamily": "Dragon (Primal, Cloud)",
+		"file": "monsterfamilies6b1d.html",
+		"sources": [
+			"Bestiary 2"
+		],
+		"members": [
+			"~`Adult Cloud Dragon`~",
+			"~`Ancient Cloud Dragon`~",
+			"~`Young Cloud Dragon`~ "
+		]
+	},
+	"Dragon (Primal, Crystal)": {
+		"monsterfamily": "Dragon (Primal, Crystal)",
+		"file": "monsterfamiliesd66f.html",
+		"sources": [
+			"Bestiary 2"
+		],
+		"members": [
+			"~`Adult Crystal Dragon`~",
+			"~`Ancient Crystal Dragon`~",
+			"~`Young Crystal Dragon`~ "
+		]
+	},
+	"Dragon (Primal, Magma)": {
+		"monsterfamily": "Dragon (Primal, Magma)",
+		"file": "monsterfamilies8ab0.html",
+		"sources": [
+			"Bestiary 2"
+		],
+		"members": [
+			"~`Adult Magma Dragon`~",
+			"~`Ancient Magma Dragon`~",
+			"~`Young Magma Dragon`~ "
+		]
+	},
+	"Dragon (Primal, Umbral)": {
+		"monsterfamily": "Dragon (Primal, Umbral)",
+		"file": "monsterfamilies6fa5.html",
+		"sources": [
+			"Bestiary 2"
+		],
+		"members": [
+			"~`Adult Umbral Dragon`~",
+			"~`Ancient Umbral Dragon`~",
+			"~`Young Umbral Dragon`~ "
+		]
+	},
+	"Dragon (Red)": {
+		"monsterfamily": "Dragon (Red)",
+		"file": "monsterfamilies01e7.html",
+		"sources": [
+			"Pathfinder RPG Bestiary"
+		],
+		"members": [
+			"~`Adult Red Dragon`~",
+			"~`Ancient Red Dragon`~",
+			"~`Young Red Dragon`~ "
+		],
+		"mythicMembers": [
+			"~`Wyrm Red Dragon`~",
+			"~`Young Red Dragon`~"
+		]
+	},
+	"Dragon (Silver)": {
+		"monsterfamily": "Dragon (Silver)",
+		"file": "monsterfamilies43c0.html",
+		"sources": [
+			"Pathfinder RPG Bestiary"
+		],
+		"members": [
+			"~`Adult Silver Dragon`~",
+			"~`Ancient Silver Dragon`~",
+			"~`Young Silver Dragon`~ "
+		]
+	},
+	"Dragon (White)": {
+		"monsterfamily": "Dragon (White)",
+		"file": "monsterfamiliesf99a.html",
+		"sources": [
+			"Pathfinder RPG Bestiary"
+		],
+		"members": [
+			"~`Adult White Dragon`~",
+			"~`Ancient White Dragon`~",
+			"~`Young White Dragon`~ "
+		],
+		"mythicMembers": [
+			"~`Juvenile White Dragon`~"
+		]
+	},
+	"Drake": {
+		"monsterfamily": "Drake",
+		"file": "monsterfamiliesaddd.html",
+		"sources": [
+			"Bestiary 2"
+		],
+		"members": [
+			"~`Desert Drake`~",
+			"~`Ether Drake`~",
+			"~`Flame Drake`~",
+			"~`Forest Drake`~",
+			"~`Frost Drake`~",
+			"~`Jungle Drake`~",
+			"~`Lava Drake`~",
+			"~`Mist Drake`~",
+			"~`Rift Drake`~",
+			"~`River Drake`~",
+			"~`Sea Drake`~",
+			"~`Shadow Drake`~",
+			"~`Spire Drake`~ "
+		]
+	},
+	"Elemental (Aether)": {
+		"monsterfamily": "Elemental (Aether)",
+		"file": "monsterfamilies5748.html",
+		"sources": [
+			"Bestiary 5"
+		],
+		"members": [
+			"~`Elder Aether Elemental`~",
+			"~`Greater Aether Elemental`~",
+			"~`Huge Aether Elemental`~",
+			"~`Large Aether Elemental`~",
+			"~`Medium Aether Elemental`~",
+			"~`Small Aether Elemental`~"
+		]
+	},
+	"Elemental (Air)": {
+		"monsterfamily": "Elemental (Air)",
+		"file": "monsterfamilies14cf.html",
+		"sources": [
+			"Pathfinder RPG Bestiary"
+		],
+		"members": [
+			"~`Elder Air Elemental`~",
+			"~`Greater Air Elemental`~",
+			"~`Huge Air Elemental`~",
+			"~`Large Air Elemental`~",
+			"~`Medium Air Elemental`~",
+			"~`Small Air Elemental`~ "
+		],
+		"mythicMembers": [
+			"~`Elder Air Elemental`~"
+		]
+	},
+	"Elemental (Earth)": {
+		"monsterfamily": "Elemental (Earth)",
+		"file": "monsterfamilies6fa6.html",
+		"sources": [
+			"Pathfinder RPG Bestiary"
+		],
+		"members": [
+			"~`Elder Earth Elemental`~",
+			"~`Greater Earth Elemental`~",
+			"~`Huge Earth Elemental`~",
+			"~`Large Earth Elemental`~",
+			"~`Medium Earth Elemental`~",
+			"~`Small Earth Elemental`~ "
+		],
+		"mythicMembers": [
+			"~`Elder Earth Elemental`~"
+		]
+	},
+	"Elemental (Fire)": {
+		"monsterfamily": "Elemental (Fire)",
+		"file": "monsterfamilies9195.html",
+		"sources": [
+			"Pathfinder RPG Bestiary"
+		],
+		"members": [
+			"~`Elder Fire Elemental`~",
+			"~`Greater Fire Elemental`~",
+			"~`Huge Fire Elemental`~",
+			"~`Large Fire Elemental`~",
+			"~`Medium Fire Elemental`~",
+			"~`Small Fire Elemental`~ "
+		],
+		"mythicMembers": [
+			"~`Elder Fire Elemental`~"
+		]
+	},
+	"Elemental (Ice)": {
+		"monsterfamily": "Elemental (Ice)",
+		"file": "monsterfamilies6992.html",
+		"sources": [
+			"Bestiary 2"
+		],
+		"members": [
+			"~`Elder Ice Elemental`~",
+			"~`Greater Ice Elemental`~",
+			"~`Huge Ice Elemental`~",
+			"~`Large Ice Elemental`~",
+			"~`Medium Ice Elemental`~",
+			"~`Small Ice Elemental`~ "
+		]
+	},
+	"Elemental (Lightning)": {
+		"monsterfamily": "Elemental (Lightning)",
+		"file": "monsterfamilies7450.html",
+		"sources": [
+			"Bestiary 2"
+		],
+		"members": [
+			"~`Elder Lightning Elemental`~",
+			"~`Greater Lightning Elemental`~",
+			"~`Huge Lightning Elemental`~",
+			"~`Large Lightning Elemental`~",
+			"~`Medium Lightning Elemental`~",
+			"~`Small Lightning Elemental`~ "
+		]
+	},
+	"Elemental (Magma)": {
+		"monsterfamily": "Elemental (Magma)",
+		"file": "monsterfamiliesaff8.html",
+		"sources": [
+			"Bestiary 2"
+		],
+		"members": [
+			"~`Elder Magma Elemental`~",
+			"~`Greater Magma Elemental`~",
+			"~`Huge Magma Elemental`~",
+			"~`Large Magma Elemental`~",
+			"~`Medium Magma Elemental`~",
+			"~`Small Magma Elemental`~ "
+		]
+	},
+	"Elemental (Mud)": {
+		"monsterfamily": "Elemental (Mud)",
+		"file": "monsterfamilies4fed.html",
+		"sources": [
+			"Bestiary 2"
+		],
+		"members": [
+			"~`Elder Mud Elemental`~",
+			"~`Greater Mud Elemental`~",
+			"~`Huge Mud Elemental`~",
+			"~`Large Mud Elemental`~",
+			"~`Medium Mud Elemental`~",
+			"~`Small Mud Elemental`~ "
+		]
+	},
+	"Elemental (Water)": {
+		"monsterfamily": "Elemental (Water)",
+		"file": "monsterfamiliesb275.html",
+		"sources": [
+			"Pathfinder RPG Bestiary"
+		],
+		"members": [
+			"~`Elder Water Elemental`~",
+			"~`Greater Water Elemental`~",
+			"~`Huge Water Elemental`~",
+			"~`Large Water Elemental`~",
+			"~`Medium Water Elemental`~",
+			"~`Small Water Elemental`~ "
+		],
+		"mythicMembers": [
+			"~`Elder Water Elemental`~"
+		]
+	},
+	"Elemental Lord": {
+		"monsterfamily": "Elemental Lord",
+		"file": "monsterfamiliesc7ce.html",
+		"sources": [
+			"Planes of Power"
+		],
+		"members": [
+			"~`Ymeri`~"
+		]
+	},
+	"Empyreal Lord": {
+		"monsterfamily": "Empyreal Lord",
+		"file": "monsterfamiliescd5b.html",
+		"sources": [
+			"Bestiary 4"
+		],
+		"members": [
+			"~`Arshea`~",
+			"~`Ashava`~",
+			"~`Black Butterfly`~",
+			"~`Cernunnos`~",
+			"~`Korada`~",
+			"~`Ragathiel`~",
+			"~`Vildeis`~ "
+		]
+	},
+	"Entothrope": {
+		"monsterfamily": "Entothrope",
+		"file": "monsterfamilies922e.html",
+		"sources": [
+			"Bestiary 6"
+		],
+		"members": [
+			"~`Weremantis (Human Form)`~",
+			"~`Weremantis (Hybrid Form)`~",
+			"~`Werespider (Human Form)`~",
+			"~`Werespider (Hybrid Form)`~",
+			"~`Werewasp (Human Form)`~",
+			"~`Werewasp (Hybrid Form)`~ "
+		]
+	},
+	"Exoskeleton": {
+		"monsterfamily": "Exoskeleton",
+		"file": "monsterfamiliesd1d9.html",
+		"sources": [
+			"Bestiary 6"
+		],
+		"members": [
+			"~`Exoskeleton Giant Cockroach`~",
+			"~`Exoskeleton Giant Stag Beetle`~",
+			"~`Exoskeleton Titan Centipede`~ "
+		]
+	},
+	"Exoskeleton": {
+		"monsterfamily": "Exoskeleton",
+		"file": "monsterfamiliesd1d9.html",
+		"sources": [
+			"Pathfinder #91: Battle of Bloodmarch Hills"
+		],
+		"members": [
+			"~`Exoskeleton Giant Cockroach`~",
+			"~`Exoskeleton Giant Stag Beetle`~",
+			"~`Exoskeleton Titan Centipede`~ "
+		]
+	},
+	"Familiar": {
+		"monsterfamily": "Familiar",
+		"file": "monsterfamilies477d.html",
+		"sources": [
+			"Pathfinder RPG Bestiary"
+		],
+		"members": [
+			"~`Archaeopteryx`~",
+			"~`Arctic Hare`~",
+			"~`Arctic Tern`~",
+			"~`Armadillo`~",
+			"~`Bat`~",
+			"~`Blue-Ringed Octopus`~",
+			"~`Butterfly/Moth`~",
+			"~`Cat`~",
+			"~`Chicken`~",
+			"~`Cockroach`~",
+			"~`Creeper Ivy`~",
+			"~`Dodo`~",
+			"~`Donkey Rat`~",
+			"~`Dwarf Caiman`~",
+			"~`Dweomer Cap`~",
+			"~`Fire Salamander`~",
+			"~`Flowering Lattice`~",
+			"~`Flying Fox`~",
+			"~`Flying Squirrel`~",
+			"~`Fox`~",
+			"~`Giant Isopod`~",
+			"~`Giant Tardigrade`~",
+			"~`Goat`~",
+			"~`Hawk`~",
+			"~`Hedgehog`~",
+			"~`Horned Lizard`~",
+			"~`House Centipede`~",
+			"~`Ioun Wyrd`~",
+			"~`Jerboa`~",
+			"~`Kakapo`~",
+			"~`King Crab`~",
+			"~`Koala`~",
+			"~`Lamprey`~",
+			"~`Lemming`~",
+			"~`Leopard Slug`~",
+			"~`Lizard`~",
+			"~`Margay Cat`~",
+			"~`Meerkat`~",
+			"~`Mole (FF)`~",
+			"~`Mole (UW)`~",
+			"~`Monkey`~",
+			"~`Otter`~",
+			"~`Owl`~",
+			"~`Peacock`~",
+			"~`Peafowl`~",
+			"~`Penguin`~",
+			"~`Petrifern`~",
+			"~`Pig`~",
+			"~`Platypus`~",
+			"~`Popoto Dolphin`~",
+			"~`Ptarmigan`~",
+			"~`Pufferfish`~",
+			"~`Puffin`~",
+			"~`Rabbit`~",
+			"~`Raccoon`~",
+			"~`Rat`~",
+			"~`Raven`~",
+			"~`Ravenous Tumbleweed`~",
+			"~`Razor Fern`~",
+			"~`Red Panda`~",
+			"~`Rhamphorhynchus`~",
+			"~`Sawleg Locust`~",
+			"~`Scarlet Spider`~",
+			"~`Seal`~",
+			"~`Shimmerwing Dragonfly`~",
+			"~`Sloth`~",
+			"~`Spiny Starfish`~",
+			"~`Squirrel`~",
+			"~`Suture Vine`~",
+			"~`Tarsier`~",
+			"~`Thrush`~",
+			"~`Toad`~",
+			"~`Trilobite`~",
+			"~`Tuatara`~",
+			"~`Vampire Squid`~",
+			"~`Viper`~",
+			"~`Wallaby`~",
+			"~`Weasel`~ "
+		]
+	},
+	"Fiend-Bred Animal": {
+		"monsterfamily": "Fiend-Bred Animal",
+		"file": "monsterfamilies9d10.html",
+		"sources": [
+			"Pathfinder #103: The Hellfire Compact"
+		],
+		"members": [
+			"~`Chelish Hell-Bred Dog`~",
+			"~`Quillcat`~",
+			"~`Stygian Hot-Blooded Horse`~ "
+		]
+	},
+	"Fleshwarp": {
+		"monsterfamily": "Fleshwarp",
+		"file": "monsterfamiliesfd89.html",
+		"sources": [
+			"Bestiary 4"
+		],
+		"members": [
+			"~`Drider`~",
+			"~`Ghonhatine`~",
+			"~`Grothlut`~",
+			"~`Halsora`~",
+			"~`Irnakurse`~",
+			"~`Oronci`~ "
+		]
+	},
+	"Formian": {
+		"monsterfamily": "Formian",
+		"file": "monsterfamilies6b67.html",
+		"sources": [
+			"Bestiary 4"
+		],
+		"members": [
+			"~`Formian Myrmarch`~",
+			"~`Formian Queen`~",
+			"~`Formian Taskmaster`~",
+			"~`Formian Warrior`~",
+			"~`Formian Worker`~ "
+		]
+	},
+	"Gargoyle": {
+		"monsterfamily": "Gargoyle",
+		"file": "monsterfamilies8e0b.html",
+		"sources": [
+			"Classic Horrors Revisited"
+		],
+		"members": [
+			"~`Four-Armed Gargoyle`~",
+			"~`Gargoyle`~",
+			"~`Gargoyle Abductor`~",
+			"~`Gargoyle Guardian`~",
+			"~`Kapoacinth Hunter`~ "
+		]
+	},
+	"Genie": {
+		"monsterfamily": "Genie",
+		"file": "monsterfamilies493f.html",
+		"sources": [
+			"Pathfinder RPG Bestiary"
+		],
+		"members": [
+			"~`Djinni`~",
+			"~`Efreeti`~",
+			"~`Janni`~",
+			"~`Marid`~",
+			"~`Shaitan`~ "
+		]
+	},
+	"Gigas": {
+		"monsterfamily": "Gigas",
+		"file": "monsterfamiliesdae2.html",
+		"sources": [
+			"Pathfinder #30: The Twice-Damned Prince"
+		],
+		"members": [
+			"~`Abaddon Gigas`~",
+			"~`Abyss Gigas`~",
+			"~`Hell Gigas`~ "
+		]
+	},
+	"Golem": {
+		"monsterfamily": "Golem",
+		"file": "monsterfamilies51b3.html",
+		"sources": [
+			"Pathfinder RPG Bestiary"
+		],
+		"members": [
+			"~`Adamantine Golem`~",
+			"~`Alchemical Golem`~",
+			"~`Behemoth Golem`~",
+			"~`Blood Golem`~",
+			"~`Bone Golem`~",
+			"~`Brass Golem`~",
+			"~`Cannon Golem`~",
+			"~`Carrion Golem`~",
+			"~`Clay Golem`~",
+			"~`Clockwork Golem`~",
+			"~`Coral Golem`~",
+			"~`Crystal Golem`~",
+			"~`Dragonhide Golem`~",
+			"~`Equine Bone Golem`~",
+			"~`Fiend-Infused Golem`~",
+			"~`Flesh Golem`~",
+			"~`Fossil Golem`~",
+			"~`Glass Golem`~",
+			"~`Gold Golem`~",
+			"~`Ice Golem`~",
+			"~`Inubrix Golem`~",
+			"~`Ioun Golem`~",
+			"~`Iron Golem`~",
+			"~`Junk Golem`~",
+			"~`Lead Golem`~",
+			"~`Magnetitie Golem`~",
+			"~`Marrowstone Golem`~",
+			"~`Mask Golem`~",
+			"~`Mithral Golem`~",
+			"~`Noqual Golem`~",
+			"~`Obsidian Golem`~",
+			"~`Panthereon`~",
+			"~`Quantium Golem`~",
+			"~`Quintessence Golem`~",
+			"~`Robot Golem`~",
+			"~`Sand Golem`~",
+			"~`Sentient Wax Golem`~",
+			"~`Shadow Golem`~",
+			"~`Stone Golem`~",
+			"~`Viridium Golem`~",
+			"~`Wax Golem`~",
+			"~`Wood Golem`~ "
+		],
+		"mythicMembers": [
+			"~`Flesh Golem`~"
+		]
+	},
+	"Great Old One": {
+		"monsterfamily": "Great Old One",
+		"file": "monsterfamilies287c.html",
+		"sources": [
+			"Bestiary 4"
+		],
+		"members": [
+			"~`Atlach-Nacha`~",
+			"~`Bokrug`~",
+			"~`Cthulhu`~",
+			"~`Ghatanothoa`~",
+			"~`Hastur`~",
+			"~`Ithaqua`~",
+			"~`Mhar`~",
+			"~`Mordiggian`~",
+			"~`Rhan-Tegoth`~",
+			"~`Tawil At'umr`~",
+			"~`Tsathoggua`~",
+			"~`Xhamen-Dor`~",
+			"~`Yig`~ "
+		]
+	},
+	"Gremlin": {
+		"monsterfamily": "Gremlin",
+		"file": "monsterfamilies622c.html",
+		"sources": [
+			"Bestiary 2"
+		],
+		"members": [
+			"~`Drexin`~",
+			"~`Erinat`~",
+			"~`Fuath`~",
+			"~`Grimple`~",
+			"~`Haniver`~",
+			"~`Hobkins`~",
+			"~`Jinkin`~",
+			"~`Monaciello`~",
+			"~`Nuglub`~",
+			"~`Nuno`~",
+			"~`Pugwampi`~",
+			"~`Vexgit`~ "
+		]
+	},
+	"Hag": {
+		"monsterfamily": "Hag",
+		"file": "monsterfamilies0733.html",
+		"sources": [
+			"Classic Horrors Revisited"
+		],
+		"members": [
+			"~`Annis Hag`~",
+			"~`Ash Hag`~",
+			"~`Blood Hag`~",
+			"~`Dreamthief Hag`~",
+			"~`Green Hag`~",
+			"~`Moon Hag`~",
+			"~`Mute Hag`~",
+			"~`Night Hag`~",
+			"~`Sea Hag`~",
+			"~`Storm Hag`~",
+			"~`Winter Hag`~ "
+		]
+	},
+	"Herald": {
+		"monsterfamily": "Herald",
+		"file": "monsterfamiliesc514.html",
+		"sources": [
+			"Inner Sea Gods"
+		],
+		"members": [
+			"~`Arcanotheign`~",
+			"~`Basileus`~",
+			"~`End's Voice`~",
+			"~`Gravedragger`~",
+			"~`Great Elder Iuu`~",
+			"~`Hand of the Inheritor`~",
+			"~`Latten Mechanism`~",
+			"~`Lawgiver`~",
+			"~`Lawgiver`~",
+			"~`Mother's Maw`~",
+			"~`Mother's Maw`~",
+			"~`Night Monarch`~",
+			"~`Night Monarch`~",
+			"~`Personification of Fury`~",
+			"~`Steward of the Skein`~",
+			"~`Sunlord Thalachos`~",
+			"~`Tarrasque`~",
+			"~`Thais`~",
+			"~`The First Blade`~",
+			"~`The Grand Defender`~",
+			"~`The Grim White Stag`~",
+			"~`The Menotherian`~",
+			"~`The Old Man`~",
+			"~`The Prince in Chains`~",
+			"~`The Prince in Chains`~",
+			"~`The Spirit of Adoration`~",
+			"~`The Stabbing Beast`~",
+			"~`Yethazmari`~",
+			"~`Yethazmari`~ "
+		]
+	},
+	"Herd Animal": {
+		"monsterfamily": "Herd Animal",
+		"file": "monsterfamilies94f1.html",
+		"sources": [
+			"Pathfinder RPG Bestiary"
+		],
+		"members": [
+			"~`Antelope`~",
+			"~`Aurochs`~",
+			"~`Bison`~",
+			"~`Camel`~",
+			"~`Elk`~",
+			"~`Giraffe`~",
+			"~`Ram`~",
+			"~`River Elk`~",
+			"~`Stag`~ "
+		]
+	},
+	"Hive": {
+		"monsterfamily": "Hive",
+		"file": "monsterfamilies2d16.html",
+		"sources": [
+			"Horror Adventures"
+		],
+		"members": [
+			"~`Hive Brute`~",
+			"~`Hive Larva Swarm`~",
+			"~`Hive Queen`~",
+			"~`Hive Warrior`~ "
+		]
+	},
+	"Horsemen of the Apocalypse": {
+		"monsterfamily": "Horsemen of the Apocalypse",
+		"file": "monsterfamilies72f1.html",
+		"sources": [
+			"Bestiary 6"
+		],
+		"members": [
+			"~`Apollyon`~",
+			"~`Charon`~",
+			"~`Szuriel`~",
+			"~`Trelmarixian`~ "
+		]
+	},
+	"House Spirit": {
+		"monsterfamily": "House Spirit",
+		"file": "monsterfamiliesa688.html",
+		"sources": [
+			"Bestiary 5"
+		],
+		"members": [
+			"~`Domovoi`~",
+			"~`Dvorovoi`~",
+			"~`Ovinnik`~ "
+		]
+	},
+	"House Spirit": {
+		"monsterfamily": "House Spirit",
+		"file": "monsterfamiliesa688.html",
+		"sources": [
+			"Pathfinder #67: The Snows of Summer"
+		],
+		"members": [
+			"~`Domovoi`~",
+			"~`Dvorovoi`~",
+			"~`Ovinnik`~ "
+		]
+	},
+	"Idol": {
+		"monsterfamily": "Idol",
+		"file": "monsterfamilies4441.html",
+		"sources": [
+			"Pathfinder #27: What Lies in Dust"
+		],
+		"members": [
+			"~`Bone`~",
+			"~`Jade`~",
+			"~`Stone`~",
+			"~`Wood`~ "
+		]
+	},
+	"Inevitable": {
+		"monsterfamily": "Inevitable",
+		"file": "monsterfamilies3992.html",
+		"sources": [
+			"Bestiary 2"
+		],
+		"members": [
+			"~`Arbiter`~",
+			"~`Hykariut`~",
+			"~`Impariut`~",
+			"~`Kastamut`~",
+			"~`Kolyarut`~",
+			"~`Lhaksharut`~",
+			"~`Marut`~",
+			"~`Novenarut`~",
+			"~`Rokyamut`~",
+			"~`Valharut`~",
+			"~`Yarahkut`~",
+			"~`Zelekhut`~ "
+		]
+	},
+	"Kaiju": {
+		"monsterfamily": "Kaiju",
+		"file": "monsterfamiliesec22.html",
+		"sources": [
+			"Bestiary 4"
+		],
+		"members": [
+			"~`Agyra`~",
+			"~`Bezravnis`~",
+			"~`Mogaru`~",
+			"~`Varklops`~",
+			"~`Vorgozen`~",
+			"~`Yarthoon`~ "
+		]
+	},
+	"Kami": {
+		"monsterfamily": "Kami",
+		"file": "monsterfamilies9402.html",
+		"sources": [
+			"Bestiary 3"
+		],
+		"members": [
+			"~`Dosojin`~",
+			"~`Dunagh`~",
+			"~`Fukujin`~",
+			"~`Jinushigami`~",
+			"~`Kaminari`~",
+			"~`Kodama`~",
+			"~`Shikigami`~",
+			"~`Suijin`~",
+			"~`Toshigami`~",
+			"~`Zuishin`~ "
+		]
+	},
+	"Kyton": {
+		"monsterfamily": "Kyton",
+		"file": "monsterfamilies2ecb.html",
+		"sources": [
+			"Bestiary 3"
+		],
+		"members": [
+			"~`Apocrisiarius`~",
+			"~`Apostle Kyton`~",
+			"~`Augur`~",
+			"~`Cantor`~",
+			"~`Ephialtes`~",
+			"~`Eremite`~",
+			"~`Interlocutor`~",
+			"~`Kyton`~",
+			"~`Lampadarius`~",
+			"~`Libitinarii`~",
+			"~`Oitos`~",
+			"~`Ostiarius`~",
+			"~`Phylacator`~",
+			"~`Sacristan`~",
+			"~`Suffragan`~",
+			"~`Termagant`~ "
+		]
+	},
+	"Kyton Demagogue": {
+		"monsterfamily": "Kyton Demagogue",
+		"file": "monsterfamiliesb671.html",
+		"sources": [
+			"Pathfinder #137: The City Outside of Time"
+		],
+		"members": [
+			"~`Inkariax`~"
+		]
+	},
+	"Leshy": {
+		"monsterfamily": "Leshy",
+		"file": "monsterfamilies0db4.html",
+		"sources": [
+			"Bestiary 3"
+		],
+		"members": [
+			"~`Cactus Leshy`~",
+			"~`Flytrap Leshy`~",
+			"~`Fungus Leshy`~",
+			"~`Gourd Leshy`~",
+			"~`Leaf Leshy`~",
+			"~`Lichen Leshy`~",
+			"~`Lotus Leshy`~",
+			"~`Seaweed Leshy`~",
+			"~`Snapdragon Leshy`~",
+			"~`Sunflower Leshy`~ "
+		]
+	},
+	"Linnorm": {
+		"monsterfamily": "Linnorm",
+		"file": "monsterfamilies1955.html",
+		"sources": [
+			"Bestiary 3"
+		],
+		"members": [
+			"~`Cairn Linnorm`~",
+			"~`Crag Linnorm`~",
+			"~`Fjord Linnorm`~",
+			"~`Gare Linnorm`~",
+			"~`Ice Linnorm`~",
+			"~`Sea Linnorm`~",
+			"~`Taiga Linnorm`~",
+			"~`Tarn Linnorm`~",
+			"~`Tor Linnorm`~ "
+		]
+	},
+	"Lurking Ray": {
+		"monsterfamily": "Lurking Ray",
+		"file": "monsterfamiliescfc8.html",
+		"sources": [
+			"Bestiary 4"
+		],
+		"members": [
+			"~`Executioner's Hood`~",
+			"~`Lurker Above`~",
+			"~`Trapper`~ "
+		]
+	},
+	"Lycanthrope": {
+		"monsterfamily": "Lycanthrope",
+		"file": "monsterfamiliesc814.html",
+		"sources": [
+			"Pathfinder RPG Bestiary"
+		],
+		"members": [
+			"~`Silverblood Lycanthrope (Human Form)`~",
+			"~`Silverblood Werewolf (Hybrid Form)`~",
+			"~`Werebat (Human Form)`~",
+			"~`Werebat (Hybrid Form)`~",
+			"~`Werebear (Human Form)`~",
+			"~`Werebear (Hybrid Form)`~",
+			"~`Wereboar (Human Form)`~",
+			"~`Wereboar (Hybrid Form)`~",
+			"~`Werecrocodile (Human Form)`~",
+			"~`Werecrocodile (Hybrid Form)`~",
+			"~`Wereraptor (Human Form)`~",
+			"~`Wereraptor (Hybrid Form)`~",
+			"~`Wererat (Human Form)`~",
+			"~`Wererat (Hybrid Form)`~",
+			"~`Wereshark (Human Form)`~",
+			"~`Wereshark (Hybrid Form)`~",
+			"~`Weretiger (Human Form)`~",
+			"~`Weretiger (Hybrid Form)`~",
+			"~`Werewolf (Human Form)`~",
+			"~`Werewolf (Hybrid Form)`~ "
+		]
+	},
+	"Manasaputra": {
+		"monsterfamily": "Manasaputra",
+		"file": "monsterfamiliesd444.html",
+		"sources": [
+			"Bestiary 5"
+		],
+		"members": [
+			"~`Maharishi Manu`~",
+			"~`Manu`~",
+			"~`Rishi Manu`~",
+			"~`Twilight Pitri (Barhisad)`~ "
+		],
+		"mythicMembers": [
+			"~`Solar Pitri (Agnishvatta)`~"
+		]
+	},
+	"Megafauna": {
+		"monsterfamily": "Megafauna",
+		"file": "monsterfamiliesa308.html",
+		"sources": [
+			"Pathfinder RPG Bestiary"
+		],
+		"members": [
+			"~`Archelon`~",
+			"~`Arsinoitherium`~",
+			"~`Baluchitherium`~",
+			"~`Basilosaurus`~",
+			"~`Brontotherium`~",
+			"~`Chalicotherium`~",
+			"~`Deinotherium`~",
+			"~`Elasmotherium`~",
+			"~`Embolotherium`~",
+			"~`Glyptodon`~",
+			"~`Kaprosuchus`~",
+			"~`Megalania`~",
+			"~`Megaloceros`~",
+			"~`Megatherium`~",
+			"~`Moa`~",
+			"~`Titanoboa`~",
+			"~`Uintatherium`~ "
+		]
+	},
+	"Mortic": {
+		"monsterfamily": "Mortic",
+		"file": "monsterfamiliesbf7d.html",
+		"sources": [
+			"Pathfinder #139: The Dead Road"
+		],
+		"members": [
+			"~`Angheuvore`~",
+			"~`Etioling`~",
+			"~`Gurgist`~",
+			"~`Jitterbone`~",
+			"~`Lifeleecher`~",
+			"~`Relictner`~ "
+		]
+	},
+	"Naga": {
+		"monsterfamily": "Naga",
+		"file": "monsterfamiliese818.html",
+		"sources": [
+			"Pathfinder RPG Bestiary"
+		],
+		"members": [
+			"~`Dark Naga`~",
+			"~`Deep Naga`~",
+			"~`Dream Naga`~",
+			"~`Guardian Naga`~",
+			"~`Lunar Naga`~",
+			"~`Royal Naga`~",
+			"~`Slime Naga`~",
+			"~`Spirit Naga`~",
+			"~`Water Naga`~ "
+		]
+	},
+	"Nightshade": {
+		"monsterfamily": "Nightshade",
+		"file": "monsterfamilies1bc5.html",
+		"sources": [
+			"Bestiary 2"
+		],
+		"members": [
+			"~`Nightcrawler`~",
+			"~`Nightprowler`~",
+			"~`Nightwalker`~",
+			"~`Nightwave`~",
+			"~`Nightwing`~ "
+		]
+	},
+	"Ogrekin": {
+		"monsterfamily": "Ogrekin",
+		"file": "monsterfamilies77b1.html",
+		"sources": [
+			"Bestiary 2"
+		],
+		"members": [
+			"~`Kin Seeker`~",
+			"~`Kreegwood Stalker`~",
+			"~`Ogrekin`~",
+			"~`Stroud Apprentice`~",
+			"~`Thanegraves Looter`~ "
+		]
+	},
+	"Oni": {
+		"monsterfamily": "Oni",
+		"file": "monsterfamilies4db8.html",
+		"sources": [
+			"Bestiary 3"
+		],
+		"members": [
+			"~`Atamahuta`~",
+			"~`Earth Yai`~",
+			"~`Fire Yai`~",
+			"~`Ice Yai`~",
+			"~`Ja Noi`~",
+			"~`Kigyo`~",
+			"~`Kuwa`~",
+			"~`Najikai`~",
+			"~`Nogitsune`~",
+			"~`Ogre Mage`~",
+			"~`Spirit Oni`~",
+			"~`Void Yai`~",
+			"~`Water Yai`~",
+			"~`Wind Yai`~",
+			"~`Yamabushi Tengu`~ "
+		]
+	},
+	"Ossumental": {
+		"monsterfamily": "Ossumental",
+		"file": "monsterfamilies21d1.html",
+		"sources": [
+			"Pathfinder #83: The Slave Trenches of Hakotep"
+		],
+		"members": [
+			"~`Ossumental (Air)`~",
+			"~`Ossumental (Earth)`~",
+			"~`Ossumental (Fire)`~",
+			"~`Ossumental (Water)`~ "
+		]
+	},
+	"Phantom Armor": {
+		"monsterfamily": "Phantom Armor",
+		"file": "monsterfamiliesf9bf.html",
+		"sources": [
+			"Pathfinder #47: Ashes at Dawn"
+		],
+		"members": [
+			"~`Giant Phantom Armor`~",
+			"~`Guardian Phantom Armor`~",
+			"~`Hollow Helm`~",
+			"~`Phantom Lancer`~ "
+		]
+	},
+	"Plague Swarm": {
+		"monsterfamily": "Plague Swarm",
+		"file": "monsterfamilies6217.html",
+		"sources": [
+			"Bestiary 5"
+		],
+		"mythicMembers": [
+			"~`Bat Plague Swarm`~,",
+			"~`Locust Plague Swarm`~",
+			"~`Rat Plague Swarm`~"
+		]
+	},
+	"Poppet": {
+		"monsterfamily": "Poppet",
+		"file": "monsterfamilies727b.html",
+		"sources": [
+			"Adventurer's Armory 2"
+		],
+		"members": [
+			"~`Poppet, Small`~",
+			"~`Poppet, Tiny`~ "
+		]
+	},
+	"Primeval Sea Creature": {
+		"monsterfamily": "Primeval Sea Creature",
+		"file": "monsterfamiliese918.html",
+		"sources": [
+			"Pathfinder #60: From Hell's Heart"
+		],
+		"members": [
+			"~`Kronosaurus`~",
+			"~`Nothosaur`~",
+			"~`Zeuglodon`~ "
+		]
+	},
+	"Protean": {
+		"monsterfamily": "Protean",
+		"file": "monsterfamilies681d.html",
+		"sources": [
+			"Bestiary 2"
+		],
+		"members": [
+			"~`Akizendri`~",
+			"~`Azuretzi`~",
+			"~`Hegessik`~",
+			"~`Ibshaunet`~",
+			"~`Illureshi`~",
+			"~`Imentesh`~",
+			"~`Izfiitar`~",
+			"~`Keketar`~",
+			"~`Naunet`~",
+			"~`Oshageros`~",
+			"~`Ourdivar`~",
+			"~`Pelagastr`~",
+			"~`Voidworm`~ "
+		]
+	},
+	"Psychopomp": {
+		"monsterfamily": "Psychopomp",
+		"file": "monsterfamilies01d9.html",
+		"sources": [
+			"Bestiary 4"
+		],
+		"members": [
+			"~`Ahmuuth`~",
+			"~`Algea`~",
+			"~`Calaca`~",
+			"~`Catrina`~",
+			"~`Ember Weaver`~",
+			"~`Esobok`~",
+			"~`Fulgati`~",
+			"~`Kere`~",
+			"~`Memitim`~",
+			"~`Morbai`~",
+			"~`Morrigna`~",
+			"~`Nosoi`~",
+			"~`Olethros`~",
+			"~`Shoki`~",
+			"~`Vanth`~",
+			"~`Viduus`~",
+			"~`Yamaraj`~ "
+		]
+	},
+	"Qlippoth": {
+		"monsterfamily": "Qlippoth",
+		"file": "monsterfamilies3d0f.html",
+		"sources": [
+			"Bestiary 2"
+		],
+		"members": [
+			"~`Augnagar`~",
+			"~`Behimiron`~",
+			"~`Cataboligne`~",
+			"~`Chernobue`~",
+			"~`Cythnigot`~",
+			"~`Deinochos`~",
+			"~`Gongorinan`~",
+			"~`Gorgoros`~",
+			"~`Hydraggon`~",
+			"~`Iathavos`~",
+			"~`Nyogoth`~",
+			"~`Shoggti`~",
+			"~`Thognorok`~",
+			"~`Thulgant`~",
+			"~`Utukku`~",
+			"~`Vexenion`~ "
+		]
+	},
+	"Qlippoth Lord": {
+		"monsterfamily": "Qlippoth Lord",
+		"file": "monsterfamiliesbae8.html",
+		"sources": [
+			"Bestiary 6"
+		],
+		"members": [
+			"~`Chavazvug`~",
+			"~`Isph-Aun-Vuln`~",
+			"~`Qaur-Ooung`~",
+			"~`Thuskchoon`~",
+			"~`Yamasoth`~ "
+		]
+	},
+	"Rakshasa": {
+		"monsterfamily": "Rakshasa",
+		"file": "monsterfamilies5da9.html",
+		"sources": [
+			"Bestiary 3"
+		],
+		"members": [
+			"~`Amanusya`~",
+			"~`Avatarana`~",
+			"~`Dandasuka`~",
+			"~`Marai`~",
+			"~`Orsatka`~",
+			"~`Rakshasa`~",
+			"~`Rakshasa Maharaja`~",
+			"~`Raktavarna`~",
+			"~`Tataka`~",
+			"~`Zalyakavat`~ "
+		]
+	},
+	"Robot": {
+		"monsterfamily": "Robot",
+		"file": "monsterfamilies338d.html",
+		"sources": [
+			"Bestiary 5"
+		],
+		"members": [
+			"~`Annihilator Robot`~",
+			"~`Arachnid Robot`~",
+			"~`Collector Robot`~",
+			"~`Director Robot`~",
+			"~`Evaluator Robot`~",
+			"~`Gearsman Robot`~",
+			"~`Gladiator Robot`~",
+			"~`Juggernaut Robot`~",
+			"~`Mannequin Robot`~",
+			"~`Myrmidon Robot`~",
+			"~`Observer Robot`~",
+			"~`Observer Robot Swarm`~",
+			"~`Octopod Mechanic Drone`~",
+			"~`Reclamation Robot`~",
+			"~`Repair Robot`~",
+			"~`Scrapyard Robot`~",
+			"~`Surgeon Robot`~",
+			"~`Terraformer Robot`~",
+			"~`Thought Harvester Robot`~",
+			"~`Torturer Robot`~",
+			"~`Warden Robot`~ "
+		]
+	},
+	"Robot": {
+		"monsterfamily": "Robot",
+		"file": "monsterfamilies338d.html",
+		"sources": [
+			"Inner Sea Bestiary"
+		],
+		"members": [
+			"~`Annihilator Robot`~",
+			"~`Arachnid Robot`~",
+			"~`Collector Robot`~",
+			"~`Director Robot`~",
+			"~`Evaluator Robot`~",
+			"~`Gearsman Robot`~",
+			"~`Gladiator Robot`~",
+			"~`Juggernaut Robot`~",
+			"~`Mannequin Robot`~",
+			"~`Myrmidon Robot`~",
+			"~`Observer Robot`~",
+			"~`Observer Robot Swarm`~",
+			"~`Octopod Mechanic Drone`~",
+			"~`Reclamation Robot`~",
+			"~`Repair Robot`~",
+			"~`Scrapyard Robot`~",
+			"~`Surgeon Robot`~",
+			"~`Terraformer Robot`~",
+			"~`Thought Harvester Robot`~",
+			"~`Torturer Robot`~",
+			"~`Warden Robot`~ "
+		]
+	},
+	"Rot Grub": {
+		"monsterfamily": "Rot Grub",
+		"file": "monsterfamiliesfa5c.html",
+		"sources": [
+			"Pathfinder #25: The Bastards of Erebus"
+		],
+		"members": [
+			"~`Giant Rot Grub`~",
+			"~`Rot Grub Swarm`~"
+		]
+	},
+	"Sahkil": {
+		"monsterfamily": "Sahkil",
+		"file": "monsterfamilies3898.html",
+		"sources": [
+			"Bestiary 5"
+		],
+		"members": [
+			"~`Esipil`~",
+			"~`Ichkoh`~",
+			"~`Kimenhul`~",
+			"~`Nucol`~",
+			"~`Pakalchi`~",
+			"~`Qolok`~",
+			"~`Wihsaak`~",
+			"~`Ximtal`~",
+			"~`Zohanil`~ "
+		]
+	},
+	"Siktempora": {
+		"monsterfamily": "Siktempora",
+		"file": "monsterfamilies3049.html",
+		"sources": [
+			"Pathfinder #135: Runeplague"
+		],
+		"members": [
+			"~`Misery Siktempora`~"
+		]
+	},
+	"Skeleton": {
+		"monsterfamily": "Skeleton",
+		"file": "monsterfamiliesca0a.html",
+		"sources": [
+			"Pathfinder RPG Bestiary"
+		],
+		"members": [
+			"~`Armored Ogre Skeleton`~",
+			"~`Four-Armed Mudra Skeleton`~",
+			"~`Human Skeleton`~",
+			"~`Multiplying T-Rex Skeleton`~",
+			"~`Skeletal Champion`~",
+			"~`Skeletal Mage`~",
+			"~`Skeletal Mount`~ "
+		]
+	},
+	"Spawn of Rovagug": {
+		"monsterfamily": "Spawn of Rovagug",
+		"file": "monsterfamiliescc76.html",
+		"sources": [
+			"Inner Sea Bestiary"
+		],
+		"members": [
+			"~`Chemnosit (The Monarch Worm)`~",
+			"~`Festering Ulunat (The Unholy First)`~",
+			"~`Volnagur (The End-Singer)`~",
+			"~`Xotani (The Firebleeder)`~ "
+		]
+	},
+	"Sphinx": {
+		"monsterfamily": "Sphinx",
+		"file": "monsterfamilies4bdb.html",
+		"sources": [
+			"Bestiary 3"
+		],
+		"members": [
+			"~`Androsphinx`~",
+			"~`Criosphinx`~",
+			"~`Cynosphinx`~",
+			"~`Elder Sphinx`~",
+			"~`Gynosphinx`~",
+			"~`Hieracosphinx`~ "
+		]
+	},
+	"Thassilonian Sentinel": {
+		"monsterfamily": "Thassilonian Sentinel",
+		"file": "monsterfamilies0057.html",
+		"sources": [
+			"Pathfinder #134: It Came from Hollow Mountain"
+		],
+		"members": [
+			"~`Bronze Sentinel`~",
+			"~`Iron Sentinel`~",
+			"~`Ivory Sentinel`~",
+			"~`Marble Sentinel`~ "
+		]
+	},
+	"Thriae": {
+		"monsterfamily": "Thriae",
+		"file": "monsterfamilies9821.html",
+		"sources": [
+			"Bestiary 3"
+		],
+		"members": [
+			"~`Thriae Constructor`~",
+			"~`Thriae Dancer`~",
+			"~`Thriae Queen`~",
+			"~`Thriae Seer`~",
+			"~`Thriae Soldier`~ "
+		]
+	},
+	"Titan": {
+		"monsterfamily": "Titan",
+		"file": "monsterfamiliesd8fa.html",
+		"sources": [
+			"Bestiary 2"
+		],
+		"members": [
+			"~`Elysian`~",
+			"~`Hekatonkheires`~",
+			"~`Thanatotic`~ "
+		],
+		"mythicMembers": [
+			"~`Danava`~",
+			"~`Fomorian Titan`~",
+		]
+	},
+	"Troll": {
+		"monsterfamily": "Troll",
+		"file": "monsterfamilies358f.html",
+		"sources": [
+			"Pathfinder RPG Bestiary"
+		],
+		"members": [
+			"~`Canopy Troll`~",
+			"~`Chimney Troll`~",
+			"~`Flood Troll`~",
+			"~`Ice Troll`~",
+			"~`Jotund Troll`~",
+			"~`Moss Troll`~",
+			"~`Mountain Troll`~",
+			"~`Rock Troll`~",
+			"~`Sewer Troll`~",
+			"~`Troll`~",
+			"~`Troll Acolyte`~",
+			"~`Troll Berserker`~",
+			"~`Troll Brute`~",
+			"~`Troll Elder Matron`~",
+			"~`Troll Fury`~",
+			"~`Troll Monarch`~",
+			"~`Troll Render`~",
+			"~`Troll Ripper`~",
+			"~`Troll Warden`~ "
+		]
+	},
+	"Troop": {
+		"monsterfamily": "Troop",
+		"file": "monsterfamiliesc9d6.html",
+		"sources": [
+			"Bestiary 6"
+		],
+		"members": [
+			"~`Barrier Breaker Troop`~",
+			"~`Cultist Troop`~",
+			"~`Goblin Troop`~",
+			"~`Outlaw Troop`~",
+			"~`Sodden Drauger Troop`~ "
+		]
+	},
+	"Troops": {
+		"monsterfamily": "Troops",
+		"file": "monsterfamilies4b5d.html",
+		"sources": [
+			"Pathfinder #100: A Song of Silver"
+		],
+		"members": [
+			"~`Dottari Troop`~",
+			"~`Glorious Reclamation`~",
+			"~`Hobgoblin Phalanx Troop`~",
+			"~`Hound Archon Troop`~",
+			"~`Inquisitor Troop`~",
+			"~`Ironfang Magehunter Troop`~",
+			"~`Ironfang Siege Alchemist Troop`~",
+			"~`Ironfang Yzobu Rider Troop`~",
+			"~`Morlock Swarmer Troop`~",
+			"~`Warmaze Disciples Troop`~ "
+		]
+	},
+	"Tsukumogami": {
+		"monsterfamily": "Tsukumogami",
+		"file": "monsterfamilies4d07.html",
+		"sources": [
+			"Bestiary 5"
+		],
+		"members": [
+			"~`Boroboroton`~",
+			"~`Kasa-obake`~",
+			"~`Koto-furunishi`~ "
+		]
+	},
+	"Vampire Servant": {
+		"monsterfamily": "Vampire Servant",
+		"file": "monsterfamiliesdcdd.html",
+		"sources": [
+			"Monster Codex"
+		],
+		"members": [
+			"~`Coffin Guard`~",
+			"~`Weird Butler`~ "
+		]
+	},
+	"Veela": {
+		"monsterfamily": "Veela",
+		"file": "monsterfamilies892c.html",
+		"sources": [
+			"Bestiary 5"
+		],
+		"members": [
+			"~`Air Veela`~",
+			"~`Earth Veela`~",
+			"~`Fire Veela`~",
+			"~`Water Veela`~ "
+		]
+	},
+	"Wild Hunt": {
+		"monsterfamily": "Wild Hunt",
+		"file": "monsterfamilies4e9b.html",
+		"sources": [
+			"Bestiary 6"
+		],
+		"members": [
+			"~`Wild Hunt Archer`~",
+			"~`Wild Hunt Horse`~",
+			"~`Wild Hunt Hound`~",
+			"~`Wild Hunt Monarch`~",
+			"~`Wild Hunt Scout`~ "
+		]
+	},
+	"Wysp": {
+		"monsterfamily": "Wysp",
+		"file": "monsterfamilies087b.html",
+		"sources": [
+			"Bestiary 5"
+		],
+		"members": [
+			"~`Aether Wysp`~",
+			"~`Air Wysp`~",
+			"~`Earth Wysp`~",
+			"~`Fire Wysp`~",
+			"~`Water Wysp`~ "
+		]
+	}
+}

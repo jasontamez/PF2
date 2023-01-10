@@ -1,0 +1,73 @@
+{
+	"Arazni": {
+		"monstername": "Arazni",
+		"file": "mythicmonsterdisplayea52.html",
+		"cr": 26,
+		"mr": 8,
+		"type": "undead",
+		"subtypes": [ "human" ],
+		"info": "Female human lich wizard 20/marshal 8 (Pathfinder RPG Bestiary 188, Pathfinder RPG Mythic Adventures 38)"
+	},
+	"Baba Yaga": {
+		"monstername": "Baba Yaga",
+		"file": "mythicmonsterdisplay6ace.html",
+		"cr": 30,
+		"mr": 10,
+		"type": "humanoid",
+		"subtypes": [ "human", "mythic" ],
+		"info": "Female venerable advanced human witch 20/archmage 10 (Pathfinder RPG Advanced Player's Guide 65, Pathfinder RPG Bestiary 294, Pathfinder RPG Mythic Adventures 14)"
+	},
+	"Jarl Gnargorak": {
+		"monstername": "Jarl Gnargorak",
+		"file": "mythicmonsterdisplay28f8.html",
+		"cr": 25,
+		"mr": 8,
+		"type": "humanoid",
+		"subtypes": [ "cold", "giant" ],
+		"info": "Male frost giant ranger 12/marshal 8 (Pathfinder RPG Mythic Adventures 38)"
+	},
+	"Kortash Khain": {
+		"monstername": "Kortash Khain",
+		"file": "mythicmonsterdisplayca4a.html",
+		"cr": 23,
+		"mr": 6,
+		"type": "undead",
+		"info": "Male ghoul cleric of Kabriri 5/sorcerer (wildblooded) 5/mystic theurge 10/hierophant 6 (Pathfinder RPG Mythic Adventures 32, Pathfinder RPG Ultimate Magic 70)"
+	},
+	"Old-Mage Jatembe": {
+		"monstername": "Old-Mage Jatembe",
+		"file": "mythicmonsterdisplay769b.html",
+		"cr": 24,
+		"mr": 6,
+		"type": "humanoid",
+		"subtypes": [ "human" ],
+		"info": "Male old human wizard 20/archmage 6"
+	},
+	"Raskineya, the Dark Comet": {
+		"monstername": "Raskineya, the Dark Comet",
+		"file": "mythicmonsterdisplay50fe.html",
+		"cr": 16,
+		"mr": 6,
+		"type": "dragon",
+		"subtypes": [ "mythic" ],
+		"info": "Female adult void dragon (see Pathfinder RPG Bestiary 4)"
+	},
+	"The First Owlbear": {
+		"monstername": "The First Owlbear",
+		"file": "mythicmonsterdisplaya1d2.html",
+		"cr": 10,
+		"mr": 4,
+		"type": "magical beast",
+		"subtypes": [ "mythic" ],
+		"info": "Advanced mythic owlbear"
+	},
+	"The Whispering Tyrant": {
+		"monstername": "The Whispering Tyrant",
+		"file": "mythicmonsterdisplay8929.html",
+		"cr": 26,
+		"mr": 10,
+		"type": "undead",
+		"subtypes": [ "augmented humanoid", "human", "mythic" ],
+		"info": "Human mythic lich necromancer 20 (Pathfinder RPG Mythic Adventures 206)"
+	}
+}

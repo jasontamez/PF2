@@ -1,0 +1,803 @@
+{
+	"Aboleth": {
+		"monstername": "Aboleth",
+		"file": "mythicmonsterdisplay2a84.html",
+		"cr": 9,
+		"mr": 3,
+		"type": "aberration",
+		"subtypes": [ "aquatic", "mythic" ],
+		"environment": "any aquatic"
+	},
+	"Anunnaki": {
+		"monstername": "Anunnaki",
+		"file": "mythicmonsterdisplaye4c0.html",
+		"cr": 18,
+		"mr": 7,
+		"type": "monstrous humanoid",
+		"subtypes": [ "mythic", "shapechanger" ],
+		"environment": "any"
+	},
+	"Apkallu": {
+		"monstername": "Apkallu",
+		"file": "mythicmonsterdisplaya525.html",
+		"cr": 23,
+		"mr": 9,
+		"type": "outsider",
+		"subtypes": [ "extraplanar", "lawful", "mythic", "water" ],
+		"environment": "any (lawful planes)"
+	},
+	"Apocalypse Locust": {
+		"monstername": "Apocalypse Locust",
+		"file": "mythicmonsterdisplayff7a.html",
+		"cr": 6,
+		"mr": 3,
+		"type": "outsider",
+		"subtypes": [ "evil", "extraplanar", "mythic" ],
+		"environment": "any evil-aligned planes"
+	},
+	"Arazni": {
+		"monstername": "Arazni",
+		"file": "mythicmonsterdisplayea52.html",
+		"cr": 26,
+		"mr": 8,
+		"type": "undead",
+		"subtypes": [ "human" ],
+		"environment": "&mdash;"
+	},
+	"Argus": {
+		"monstername": "Argus",
+		"file": "mythicmonsterdisplay49ba.html",
+		"cr": 13,
+		"mr": 6,
+		"type": "aberration",
+		"subtypes": [ "mythic" ],
+		"environment": "any land"
+	},
+	"Baba Yaga": {
+		"monstername": "Baba Yaga",
+		"file": "mythicmonsterdisplay6ace.html",
+		"cr": 30,
+		"mr": 10,
+		"type": "humanoid",
+		"subtypes": [ "human", "mythic" ],
+		"environment": "&mdash;"
+	},
+	"Champion of the Gilded Host": {
+		"monstername": "Champion of the Gilded Host",
+		"file": "mythicmonsterdisplayaed1.html",
+		"cr": 18,
+		"mr": 7,
+		"type": "construct",
+		"subtypes": [ "colossus", "mythic" ],
+		"environment": "any land"
+	},
+	"Chaneque": {
+		"monstername": "Chaneque",
+		"file": "mythicmonsterdisplayfd62.html",
+		"cr": 1,
+		"mr": 1,
+		"type": "fey",
+		"subtypes": [ "mythic" ],
+		"environment": "any forests"
+	},
+	"Cockatrice": {
+		"monstername": "Cockatrice",
+		"file": "mythicmonsterdisplay8558.html",
+		"cr": 4,
+		"mr": 1,
+		"type": "magical beast",
+		"subtypes": [ "mythic" ],
+		"environment": "temperate plains"
+	},
+	"Colossus, Flesh Colossus": {
+		"monstername": "Colossus, Flesh Colossus",
+		"file": "mythicmonsterdisplayb738.html",
+		"cr": 16,
+		"mr": 6,
+		"type": "construct",
+		"subtypes": [ "colossus", "mythic" ],
+		"environment": "any land"
+	},
+	"Colossus, Iron Colossus": {
+		"monstername": "Colossus, Iron Colossus",
+		"file": "mythicmonsterdisplay2573.html",
+		"cr": 21,
+		"mr": 8,
+		"type": "construct",
+		"subtypes": [ "colossus", "mythic" ],
+		"environment": "any land"
+	},
+	"Colossus, Sphinx Colossus": {
+		"monstername": "Colossus, Sphinx Colossus",
+		"file": "mythicmonsterdisplayf2fd.html",
+		"cr": 14,
+		"mr": 4,
+		"type": "construct",
+		"subtypes": [ "colossus", "mythic" ],
+		"environment": "warm deserts"
+	},
+	"Colossus, Stone Colossus": {
+		"monstername": "Colossus, Stone Colossus",
+		"file": "mythicmonsterdisplay9772.html",
+		"cr": 19,
+		"mr": 7,
+		"type": "construct",
+		"subtypes": [ "colossus", "mythic" ],
+		"environment": "any land"
+	},
+	"Colossus, Wood Colossus": {
+		"monstername": "Colossus, Wood Colossus",
+		"file": "mythicmonsterdisplaybfdc.html",
+		"cr": 17,
+		"mr": 6,
+		"type": "construct",
+		"subtypes": [ "colossus", "mythic" ],
+		"environment": "any land"
+	},
+	"Cyclops, Great Cyclops": {
+		"monstername": "Cyclops, Great Cyclops",
+		"file": "mythicmonsterdisplay0cdb.html",
+		"cr": 15,
+		"mr": 6,
+		"type": "humanoid",
+		"subtypes": [ "giant", "mythic" ],
+		"environment": "any temperate or tropical"
+	},
+	"Demon, Marilith": {
+		"monstername": "Demon, Marilith",
+		"file": "mythicmonsterdisplay2dc8.html",
+		"cr": 21,
+		"mr": 8,
+		"type": "outsider",
+		"subtypes": [ "chaotic", "demon", "evil", "extraplanar", "mythic" ],
+		"environment": "any (Abyss)"
+	},
+	"Demon, Nalfeshnee": {
+		"monstername": "Demon, Nalfeshnee",
+		"file": "mythicmonsterdisplayc64c.html",
+		"cr": 17,
+		"mr": 7,
+		"type": "outsider",
+		"subtypes": [ "chaotic", "demon", "evil", "extraplanar", "mythic" ],
+		"environment": "any (Abyss)"
+	},
+	"Demon, Vrock": {
+		"monstername": "Demon, Vrock",
+		"file": "mythicmonsterdisplay14b5.html",
+		"cr": 11,
+		"mr": 4,
+		"type": "outsider",
+		"subtypes": [ "chaotic", "demon", "evil", "extraplanar", "mythic" ],
+		"environment": "any (Abyss)"
+	},
+	"Devastator": {
+		"monstername": "Devastator",
+		"file": "mythicmonsterdisplayf864.html",
+		"cr": 22,
+		"mr": 8,
+		"type": "construct",
+		"subtypes": [ "extraplanar", "mythic" ],
+		"environment": "any (Abyss)"
+	},
+	"Devil, Bone Devil": {
+		"monstername": "Devil, Bone Devil",
+		"file": "mythicmonsterdisplay2482.html",
+		"cr": 11,
+		"mr": 4,
+		"type": "outsider",
+		"subtypes": [ "devil", "evil", "extraplanar", "lawful", "mythic" ],
+		"environment": "any (Hell)"
+	},
+	"Devil, Ice Devil": {
+		"monstername": "Devil, Ice Devil",
+		"file": "mythicmonsterdisplaye996.html",
+		"cr": 16,
+		"mr": 6,
+		"type": "outsider",
+		"subtypes": [ "devil", "evil", "extraplanar", "lawful", "mythic" ],
+		"environment": "any (Hell)"
+	},
+	"Dragon (Black), Mature Adult Black Dragon": {
+		"monstername": "Dragon (Black), Mature Adult Black Dragon",
+		"file": "mythicmonsterdisplayf3d8.html",
+		"cr": 15,
+		"mr": 6,
+		"type": "dragon",
+		"subtypes": [ "mythic", "water" ],
+		"environment": "warm marshes"
+	},
+	"Dragon (Blue), Mature Adult Blue Dragon": {
+		"monstername": "Dragon (Blue), Mature Adult Blue Dragon",
+		"file": "mythicmonsterdisplayd948.html",
+		"cr": 17,
+		"mr": 7,
+		"type": "dragon",
+		"subtypes": [ "earth", "mythic" ],
+		"environment": "warm deserts"
+	},
+	"Dragon (Green), Very Old Green Dragon": {
+		"monstername": "Dragon (Green), Very Old Green Dragon",
+		"file": "mythicmonsterdisplay6b8f.html",
+		"cr": 20,
+		"mr": 8,
+		"type": "dragon",
+		"subtypes": [ "air", "mythic" ],
+		"environment": "temperate forests"
+	},
+	"Dragon (Red), Wyrm Red Dragon": {
+		"monstername": "Dragon (Red), Wyrm Red Dragon",
+		"file": "mythicmonsterdisplay22f7.html",
+		"cr": 25,
+		"mr": 10,
+		"type": "dragon",
+		"subtypes": [ "fire", "mythic" ],
+		"environment": "warm mountains"
+	},
+	"Dragon (Red), Young Red Dragon": {
+		"monstername": "Dragon (Red), Young Red Dragon",
+		"file": "mythicmonsterdisplay7d96.html",
+		"cr": 12,
+		"mr": 5,
+		"type": "dragon",
+		"subtypes": [ "fire", "mythic" ],
+		"environment": "warm mountains"
+	},
+	"Dragon (White), Juvenile White Dragon": {
+		"monstername": "Dragon (White), Juvenile White Dragon",
+		"file": "mythicmonsterdisplayb509.html",
+		"cr": 9,
+		"mr": 3,
+		"type": "dragon",
+		"subtypes": [ "cold", "mythic" ],
+		"environment": "cold mountains"
+	},
+	"Drakainia": {
+		"monstername": "Drakainia",
+		"file": "mythicmonsterdisplay0f9b.html",
+		"cr": 25,
+		"mr": 10,
+		"type": "aberration",
+		"subtypes": [ "mythic" ],
+		"environment": "any"
+	},
+	"Elemental (Air), Elder Air Elemental": {
+		"monstername": "Elemental (Air), Elder Air Elemental",
+		"file": "mythicmonsterdisplay86fb.html",
+		"cr": 14,
+		"mr": 5,
+		"type": "outsider",
+		"subtypes": [ "air", "elemental", "extraplanar", "mythic" ],
+		"environment": "any (Plane of Air)"
+	},
+	"Elemental (Earth), Elder Earth Elemental": {
+		"monstername": "Elemental (Earth), Elder Earth Elemental",
+		"file": "mythicmonsterdisplay6daf.html",
+		"cr": 14,
+		"mr": 5,
+		"type": "outsider",
+		"subtypes": [ "earth", "elemental", "extraplanar", "mythic" ],
+		"environment": "any (Plane of Earth)"
+	},
+	"Elemental (Fire), Elder Fire Elemental": {
+		"monstername": "Elemental (Fire), Elder Fire Elemental",
+		"file": "mythicmonsterdisplay5068.html",
+		"cr": 14,
+		"mr": 5,
+		"type": "outsider",
+		"subtypes": [ "elemental", "extraplanar", "fire", "mythic" ],
+		"environment": "any (Plane of Fire)"
+	},
+	"Elemental (Water), Elder Water Elemental": {
+		"monstername": "Elemental (Water), Elder Water Elemental",
+		"file": "mythicmonsterdisplaya089.html",
+		"cr": 14,
+		"mr": 5,
+		"type": "outsider",
+		"subtypes": [ "elemental", "extraplanar", "mythic", "water" ],
+		"environment": "any (Plane of Water)"
+	},
+	"Elohim": {
+		"monstername": "Elohim",
+		"file": "mythicmonsterdisplay1b55.html",
+		"cr": 23,
+		"mr": 6,
+		"type": "outsider",
+		"subtypes": [ "extraplanar", "mythic" ],
+		"environment": "any (extraplanar)"
+	},
+	"Ettin": {
+		"monstername": "Ettin",
+		"file": "mythicmonsterdisplay6505.html",
+		"cr": 8,
+		"mr": 3,
+		"type": "humanoid",
+		"subtypes": [ "giant", "mythic" ],
+		"environment": "cold hills"
+	},
+	"Gargoyle": {
+		"monstername": "Gargoyle",
+		"file": "mythicmonsterdisplay8e0b.html",
+		"cr": 5,
+		"mr": 2,
+		"type": "monstrous humanoid",
+		"subtypes": [ "earth", "mythic" ],
+		"environment": "any"
+	},
+	"Giant, Fire Giant": {
+		"monstername": "Giant, Fire Giant",
+		"file": "mythicmonsterdisplay5015.html",
+		"cr": 12,
+		"mr": 5,
+		"type": "humanoid",
+		"subtypes": [ "fire", "giant", "mythic" ],
+		"environment": "warm mountains"
+	},
+	"Giant, Hill Giant": {
+		"monstername": "Giant, Hill Giant",
+		"file": "mythicmonsterdisplayed04.html",
+		"cr": 9,
+		"mr": 3,
+		"type": "humanoid",
+		"subtypes": [ "giant", "mythic" ],
+		"environment": "temperate hills"
+	},
+	"Glaistig": {
+		"monstername": "Glaistig",
+		"file": "mythicmonsterdisplay0846.html",
+		"cr": 21,
+		"mr": 10,
+		"type": "fey",
+		"subtypes": [ "earth", "mythic" ],
+		"environment": "temperate forests or swamps"
+	},
+	"Golem, Flesh Golem": {
+		"monstername": "Golem, Flesh Golem",
+		"file": "mythicmonsterdisplay0621.html",
+		"cr": 9,
+		"mr": 3,
+		"type": "construct",
+		"subtypes": [ "mythic" ],
+		"environment": "any"
+	},
+	"Graeae": {
+		"monstername": "Graeae",
+		"file": "mythicmonsterdisplay17ef.html",
+		"cr": 5,
+		"mr": 2,
+		"type": "monstrous humanoid",
+		"subtypes": [ "evil", "mythic" ],
+		"environment": "any"
+	},
+	"Greater Barghest": {
+		"monstername": "Greater Barghest",
+		"file": "mythicmonsterdisplay928d.html",
+		"cr": 8,
+		"mr": 2,
+		"type": "outsider",
+		"subtypes": [ "evil", "extraplanar", "lawful", "mythic", "shapechanger" ],
+		"environment": "any"
+	},
+	"Grendel": {
+		"monstername": "Grendel",
+		"file": "mythicmonsterdisplay0560.html",
+		"cr": 19,
+		"mr": 7,
+		"type": "monstrous humanoid",
+		"subtypes": [ "mythic" ],
+		"environment": "cold swamps"
+	},
+	"Griffon": {
+		"monstername": "Griffon",
+		"file": "mythicmonsterdisplayf1ab.html",
+		"cr": 5,
+		"mr": 2,
+		"type": "magical beast",
+		"subtypes": [ "mythic" ],
+		"environment": "temperate hills"
+	},
+	"Grogrisant": {
+		"monstername": "Grogrisant",
+		"file": "mythicmonsterdisplay0290.html",
+		"cr": 16,
+		"mr": 6,
+		"type": "magical beast",
+		"subtypes": [ "mythic" ],
+		"environment": "temperate or warm plains or hills"
+	},
+	"Guardian Dragon": {
+		"monstername": "Guardian Dragon",
+		"file": "mythicmonsterdisplay7d39.html",
+		"cr": 24,
+		"mr": 10,
+		"type": "dragon",
+		"subtypes": [ "aquatic", "mythic" ],
+		"environment": "any"
+	},
+	"Hell Hound": {
+		"monstername": "Hell Hound",
+		"file": "mythicmonsterdisplay699e.html",
+		"cr": 4,
+		"mr": 1,
+		"type": "outsider",
+		"subtypes": [ "evil", "extraplanar", "fire", "lawful", "mythic" ],
+		"environment": "any (Hell)"
+	},
+	"Hell Hound, Nessian Warhound": {
+		"monstername": "Hell Hound, Nessian Warhound",
+		"file": "mythicmonsterdisplay153f.html",
+		"cr": 11,
+		"mr": 4,
+		"type": "outsider",
+		"subtypes": [ "evil", "extraplanar", "fire", "lawful", "mythic" ],
+		"environment": "any (Hell)"
+	},
+	"Human Skeleton": {
+		"monstername": "Human Skeleton",
+		"file": "mythicmonsterdisplay4e20.html",
+		"cr": 1,
+		"mr": 1,
+		"type": "undead",
+		"subtypes": [ "mythic" ],
+		"environment": "any"
+	},
+	"Hydra": {
+		"monstername": "Hydra",
+		"file": "mythicmonsterdisplayc54c.html",
+		"cr": 9,
+		"mr": 3,
+		"type": "magical beast",
+		"subtypes": [ "mythic" ],
+		"environment": "temperate marshes"
+	},
+	"Irminsul": {
+		"monstername": "Irminsul",
+		"file": "mythicmonsterdisplayaa24.html",
+		"cr": 17,
+		"mr": 7,
+		"type": "plant",
+		"subtypes": [ "extraplanar", "mythic" ],
+		"environment": "any"
+	},
+	"Jarl Gnargorak": {
+		"monstername": "Jarl Gnargorak",
+		"file": "mythicmonsterdisplay28f8.html",
+		"cr": 25,
+		"mr": 8,
+		"type": "humanoid",
+		"subtypes": [ "cold", "giant" ],
+		"environment": "&mdash;"
+	},
+	"Julunggali": {
+		"monstername": "Julunggali",
+		"file": "mythicmonsterdisplaye192.html",
+		"cr": 21,
+		"mr": 8,
+		"type": "magical beast",
+		"subtypes": [ "aquatic", "extraplanar", "mythic", "shapechanger" ],
+		"environment": "any land or water"
+	},
+	"Kortash Khain": {
+		"monstername": "Kortash Khain",
+		"file": "mythicmonsterdisplayca4a.html",
+		"cr": 23,
+		"mr": 6,
+		"type": "undead",
+		"subtypes": [ "y" ],
+		"environment": "&mdash;"
+	},
+	"Lamia": {
+		"monstername": "Lamia",
+		"file": "mythicmonsterdisplay4be8.html",
+		"cr": 7,
+		"mr": 3,
+		"type": "monstrous humanoid",
+		"subtypes": [ "mythic", "shapechanger" ],
+		"environment": "temperate desert"
+	},
+	"Leanan Sidhe": {
+		"monstername": "Leanan Sidhe",
+		"file": "mythicmonsterdisplay5ad1.html",
+		"cr": 9,
+		"mr": 3,
+		"type": "fey",
+		"subtypes": [ "mythic" ],
+		"environment": "any land"
+	},
+	"Lich": {
+		"monstername": "Lich",
+		"file": "mythicmonsterdisplay37f3.html",
+		"cr": 17,
+		"mr": 7,
+		"type": "undead",
+		"subtypes": [ "augmented humanoid", "human", "mythic" ],
+		"environment": "any"
+	},
+	"Manasaputra, Solar Pitri (Agnishvatta)": {
+		"monstername": "Manasaputra, Solar Pitri (Agnishvatta)",
+		"file": "mythicmonsterdisplay6945.html",
+		"cr": 22,
+		"mr": 8,
+		"type": "outsider",
+		"subtypes": [ "extraplanar", "good", "lawful", "manasaputra", "mythic" ],
+		"environment": "any (Positive Energy Plane)"
+	},
+	"Manticore": {
+		"monstername": "Manticore",
+		"file": "mythicmonsterdisplay1f53.html",
+		"cr": 6,
+		"mr": 2,
+		"type": "magical beast",
+		"subtypes": [ "mythic" ],
+		"environment": "warm hills and marshes"
+	},
+	"Medusa": {
+		"monstername": "Medusa",
+		"file": "mythicmonsterdisplayb72d.html",
+		"cr": 9,
+		"mr": 3,
+		"type": "monstrous humanoid",
+		"subtypes": [ "mythic" ],
+		"environment": "temperate marshes and underground"
+	},
+	"Minotaur": {
+		"monstername": "Minotaur",
+		"file": "mythicmonsterdisplayfe22.html",
+		"cr": 6,
+		"mr": 2,
+		"type": "monstrous humanoid",
+		"subtypes": [ "mythic" ],
+		"environment": "temperate ruins or underground"
+	},
+	"Mummy": {
+		"monstername": "Mummy",
+		"file": "mythicmonsterdisplay2107.html",
+		"cr": 7,
+		"mr": 3,
+		"type": "undead",
+		"subtypes": [ "mythic" ],
+		"environment": "any"
+	},
+	"Myrmecoleon": {
+		"monstername": "Myrmecoleon",
+		"file": "mythicmonsterdisplaya468.html",
+		"cr": 10,
+		"mr": 3,
+		"type": "magical beast",
+		"subtypes": [ "mythic" ],
+		"environment": "temperate plains or hills"
+	},
+	"Ogre": {
+		"monstername": "Ogre",
+		"file": "mythicmonsterdisplay3302.html",
+		"cr": 4,
+		"mr": 1,
+		"type": "humanoid",
+		"subtypes": [ "giant", "mythic" ],
+		"environment": "temperate or cold hills"
+	},
+	"Old-Mage Jatembe": {
+		"monstername": "Old-Mage Jatembe",
+		"file": "mythicmonsterdisplay769b.html",
+		"cr": 24,
+		"mr": 6,
+		"type": "humanoid",
+		"subtypes": [ "human" ],
+		"environment": "&mdash;"
+	},
+	"Ophiotaurus": {
+		"monstername": "Ophiotaurus",
+		"file": "mythicmonsterdisplaya01c.html",
+		"cr": 17,
+		"mr": 7,
+		"type": "magical beast",
+		"subtypes": [ "mythic" ],
+		"environment": "warm hills, plains, or swamps"
+	},
+	"Owlbear": {
+		"monstername": "Owlbear",
+		"file": "mythicmonsterdisplaya0a2.html",
+		"cr": 5,
+		"mr": 2,
+		"type": "magical beast",
+		"subtypes": [ "mythic" ],
+		"environment": "temperate forests"
+	},
+	"Phoenix": {
+		"monstername": "Phoenix",
+		"file": "mythicmonsterdisplayc56a.html",
+		"cr": 18,
+		"mr": 7,
+		"type": "magical beast",
+		"subtypes": [ "fire", "mythic" ],
+		"environment": "warm desert and hills"
+	},
+	"Plague Swarm, Bat Plague Swarm": {
+		"monstername": "Plague Swarm, Bat Plague Swarm",
+		"file": "mythicmonsterdisplayf081.html",
+		"cr": 17,
+		"mr": 8,
+		"type": "magical beast",
+		"subtypes": [ "mythic", "swarm" ],
+		"environment": "&mdash;"
+	},
+	"Plague Swarm, Locust Plague Swarm": {
+		"monstername": "Plague Swarm, Locust Plague Swarm",
+		"file": "mythicmonsterdisplayaf8e.html",
+		"cr": 15,
+		"mr": 8,
+		"type": "magical beast",
+		"subtypes": [ "mythic", "swarm" ],
+		"environment": "&mdash;"
+	},
+	"Plague Swarm, Rat Plague Swarm": {
+		"monstername": "Plague Swarm, Rat Plague Swarm",
+		"file": "mythicmonsterdisplay3d93.html",
+		"cr": 11,
+		"mr": 8,
+		"type": "magical beast",
+		"subtypes": [ "mythic", "swarm" ],
+		"environment": "&mdash;"
+	},
+	"Portunus": {
+		"monstername": "Portunus",
+		"file": "mythicmonsterdisplaya246.html",
+		"cr": 16,
+		"mr": 6,
+		"type": "outsider",
+		"subtypes": [ "elemental", "extraplanar", "mythic", "water" ],
+		"environment": "any aquatic (Plane of Water)"
+	},
+	"Rakshasa": {
+		"monstername": "Rakshasa",
+		"file": "mythicmonsterdisplay5da9.html",
+		"cr": 12,
+		"mr": 5,
+		"type": "outsider",
+		"subtypes": [ "mythic", "native", "shapechanger" ],
+		"environment": "any"
+	},
+	"Raskineya, the Dark Comet": {
+		"monstername": "Raskineya, the Dark Comet",
+		"file": "mythicmonsterdisplay50fe.html",
+		"cr": 16,
+		"mr": 6,
+		"type": "dragon",
+		"subtypes": [ "mythic" ],
+		"environment": "&mdash;"
+	},
+	"Shen": {
+		"monstername": "Shen",
+		"file": "mythicmonsterdisplay9686.html",
+		"cr": 24,
+		"mr": 9,
+		"type": "dragon",
+		"subtypes": [ "aquatic", "mythic", "water" ],
+		"environment": "any water"
+	},
+	"Sphinx": {
+		"monstername": "Sphinx",
+		"file": "mythicmonsterdisplay4bdb.html",
+		"cr": 10,
+		"mr": 4,
+		"type": "magical beast",
+		"subtypes": [ "mythic" ],
+		"environment": "warm deserts and hills"
+	},
+	"The First Owlbear": {
+		"monstername": "The First Owlbear",
+		"file": "mythicmonsterdisplaya1d2.html",
+		"cr": 10,
+		"mr": 4,
+		"type": "magical beast",
+		"subtypes": [ "mythic" ],
+		"environment": "temperate forests"
+	},
+	"The Whispering Tyrant": {
+		"monstername": "The Whispering Tyrant",
+		"file": "mythicmonsterdisplay8929.html",
+		"cr": 26,
+		"mr": 10,
+		"type": "undead",
+		"subtypes": [ "augmented humanoid", "human", "mythic" ],
+		"environment": "&mdash;"
+	},
+	"Titan, Danava": {
+		"monstername": "Titan, Danava",
+		"file": "mythicmonsterdisplayc9a2.html",
+		"cr": 24,
+		"mr": 9,
+		"type": "outsider",
+		"subtypes": [ "extraplanar", "lawful", "mythic" ],
+		"environment": "any"
+	},
+	"Titan, Fomorian Titan": {
+		"monstername": "Titan, Fomorian Titan",
+		"file": "mythicmonsterdisplay25c5.html",
+		"cr": 22,
+		"mr": 8,
+		"type": "outsider",
+		"subtypes": [ "chaotic", "evil", "extraplanar", "mythic" ],
+		"environment": "any (Abyss)"
+	},
+	"Treant": {
+		"monstername": "Treant",
+		"file": "mythicmonsterdisplayb378.html",
+		"cr": 10,
+		"mr": 4,
+		"type": "plant",
+		"subtypes": [ "mythic" ],
+		"environment": "any forest"
+	},
+	"Troll": {
+		"monstername": "Troll",
+		"file": "mythicmonsterdisplay358f.html",
+		"cr": 6,
+		"mr": 2,
+		"type": "humanoid",
+		"subtypes": [ "giant", "mythic" ],
+		"environment": "cold mountains"
+	},
+	"Tyrant Jelly": {
+		"monstername": "Tyrant Jelly",
+		"file": "mythicmonsterdisplay8720.html",
+		"cr": 9,
+		"mr": 3,
+		"type": "ooze",
+		"subtypes": [ "mythic" ],
+		"environment": "any underground"
+	},
+	"Udaeus": {
+		"monstername": "Udaeus",
+		"file": "mythicmonsterdisplayb93d.html",
+		"cr": 4,
+		"mr": 1,
+		"type": "humanoid",
+		"subtypes": [ "mythic", "udaeus" ],
+		"environment": "any land or urban"
+	},
+	"Vampire": {
+		"monstername": "Vampire",
+		"file": "mythicmonsterdisplay8a4a.html",
+		"cr": 10,
+		"mr": 4,
+		"type": "undead",
+		"subtypes": [ "augmented humanoid", "human", "mythic" ],
+		"environment": "any"
+	},
+	"Winter Wolf": {
+		"monstername": "Winter Wolf",
+		"file": "mythicmonsterdisplay05f1.html",
+		"cr": 6,
+		"mr": 2,
+		"type": "magical beast",
+		"subtypes": [ "cold", "mythic" ],
+		"environment": "cold forests and plains"
+	},
+	"Worg": {
+		"monstername": "Worg",
+		"file": "mythicmonsterdisplaycd53.html",
+		"cr": 3,
+		"mr": 1,
+		"type": "magical beast",
+		"subtypes": [ "mythic" ],
+		"environment": "temperate forests and plains"
+	},
+	"Wyvern": {
+		"monstername": "Wyvern",
+		"file": "mythicmonsterdisplayadab.html",
+		"cr": 8,
+		"mr": 3,
+		"type": "dragon",
+		"subtypes": [ "mythic" ],
+		"environment": "temperate or warm hills"
+	},
+	"Xiomorn, Vault Builder": {
+		"monstername": "Xiomorn, Vault Builder",
+		"file": "mythicmonsterdisplay1bac.html",
+		"cr": 20,
+		"mr": 8,
+		"type": "outsider",
+		"subtypes": [ "earth", "elemental", "extraplanar", "mythic" ],
+		"environment": "any"
+	}
+}
