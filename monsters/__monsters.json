@@ -161,14 +161,18 @@
 		"size": "huge",
 		"type": "construct",
 		"init": 1,
+		"senses": [
+			"blindsense 120 ft.",
+			"darkvision 60 ft.",
+			"low-light vision"
+		],
 		"pcp": 0,
 		"heading": [
 			"Abandoned Armory CR 13",
 			"Source ~`Pathfinder #142: Gardens of Gallowspire pg. 82`~",
 			"XP 25,600",
 			"NE Huge construct",
-			"Init +1; Senses blindsense 120 ft., darkvision 60 ft., low-light",
-			"vision; Perception +0"
+			"Init +1; Senses blindsense 120 ft., darkvision 60 ft., low-light vision; Perception +0"
 		],
 		"environment": "any plain or battlefield",
 		"shortDescription": "This aggregation of weapons, armor, and other tools of war looms like a slow avalanche of twisted iron and eldritch sparks."
@@ -3204,8 +3208,7 @@
 			"Source ~`Pathfinder #142: Gardens of Gallowspire pg. 84`~",
 			"XP 25,600",
 			"NE Large outsider (daemon, evil, extraplanar)",
-			"Init +8; Senses arcane sight, blindsight 60 ft., detect good;",
-			"Perception +21",
+			"Init +8; Senses arcane sight, blindsight 60 ft., detect good; Perception +21",
 			"Aura worry (30 ft., DC 22)"
 		],
 		"environment": "any (Abaddon)",
@@ -3669,8 +3672,7 @@
 			"Source ~`Bestiary 6 pg. 12`~",
 			"XP 1,638,400",
 			"NE Large outsider (evil, extraplanar)",
-			"Init +13; Senses darkvision 60 ft., scent, true seeing;",
-			"Perception +38",
+			"Init +13; Senses darkvision 60 ft., scent, true seeing; Perception +38",
 			"Aura unholy aura (DC 25)"
 		],
 		"environment": "any (Abaddon)",
@@ -3755,6 +3757,14 @@
 			"lawful"
 		],
 		"init": 14,
+		"senses": [
+			"blindsight 120 ft.",
+			"darkvision 60 ft.",
+			"detect chaos",
+			"detect good",
+			"see in darkness",
+			"true seeing"
+		],
 		"pcp": 49,
 		"aura": [
 			"frightful presence (120 ft., DC 39)",
@@ -3765,12 +3775,11 @@
 			"Source ~`Bestiary 6 pg. 16`~",
 			"XP 9,830,400",
 			"LE Large outsider (devil, evil, extraplanar, lawful)",
-			"Init +14; Senses blindsight 120 ft., darkvision 60 ft., detect chaos,",
-			"detect good, see in darkness, true seeing; Perception +49",
+			"Init +14; Senses blindsight 120 ft., darkvision 60 ft., detect chaos, detect good, see in darkness, true seeing; Perception +49",
 			"Aura frightful presence (120 ft., DC 39), shield of law (DC 30)"
 		],
 		"environment": "any (Hell)",
-		"shortDescription": "This swarm of droning black f lies teems in the semblance of a winged angel with glowing red eyes."
+		"shortDescription": "This swarm of droning black flies teems in the semblance of a winged angel with glowing red eyes."
 	},
 	"Archdevil, Barbatos": {
 		"monsterfullname": "Archdevil, Barbatos",
@@ -3791,6 +3800,13 @@
 			"shapechanger"
 		],
 		"init": 13,
+		"senses": [
+			"darkvision 60 ft.",
+			"detect chaos",
+			"detect good",
+			"see in darkness",
+			"true seeing"
+		],
 		"pcp": 44,
 		"aura": [
 			"frightful presence (120 ft., DC 35)",
@@ -3801,8 +3817,7 @@
 			"Source ~`Bestiary 6 pg. 18`~",
 			"XP 2,457,600",
 			"LE Medium outsider (evil, extraplanar, lawful, shapechanger)",
-			"Init +13; Senses darkvision 60 ft., detect chaos, detect good,",
-			"see in darkness, true seeing; Perception +44",
+			"Init +13; Senses darkvision 60 ft., detect chaos, detect good, see in darkness, true seeing; Perception +44",
 			"Aura frightful presence (120 ft., DC 35), unholy aura (DC 28)"
 		],
 		"environment": "any (Hell)",
@@ -3828,6 +3843,13 @@
 			"shapechanger"
 		],
 		"init": 12,
+		"senses": [
+			"darkvision 60 ft.",
+			"detect chaos",
+			"detect good",
+			"see in darkness",
+			"true seeing"
+		],
 		"pcp": 45,
 		"aura": [
 			"baleful beauty (30 ft., DC 39)",
@@ -3838,8 +3860,7 @@
 			"Source ~`Bestiary 6 pg. 20`~",
 			"XP 4,915,200",
 			"LE Medium outsider (devil, evil, extraplanar, lawful, shapechanger)",
-			"Init +12; Senses darkvision 60 ft., detect chaos, detect good,",
-			"see in darkness, true seeing; Perception +45",
+			"Init +12; Senses darkvision 60 ft., detect chaos, detect good, see in darkness, true seeing; Perception +45",
 			"Aura baleful beauty (30 ft., DC 39), shield of law (DC 31)"
 		],
 		"environment": "any (Hell)",
@@ -3865,6 +3886,13 @@
 			"shapechanger"
 		],
 		"init": 13,
+		"senses": [
+			"darkvision 60 ft.",
+			"detect chaos",
+			"detect good",
+			"see in darkness",
+			"true seeing"
+		],
 		"pcp": 46,
 		"aura": [
 			"frightful presence (120 ft., DC 37)",
@@ -3875,8 +3903,7 @@
 			"Source ~`Bestiary 6 pg. 22`~",
 			"XP 3,276,800",
 			"LE Large outsider (devil, evil, extraplanar, lawful, shapechanger)",
-			"Init +13; Senses darkvision 60 ft., detect chaos, detect good,",
-			"see in darkness, true seeing; Perception +46",
+			"Init +13; Senses darkvision 60 ft., detect chaos, detect good, see in darkness, true seeing; Perception +46",
 			"Aura frightful presence (120 ft., DC 37), shield of law (DC 29)"
 		],
 		"environment": "any (Hell)",
@@ -3902,6 +3929,14 @@
 			"lawful"
 		],
 		"init": 9,
+		"senses": [
+			"darkvision 60 ft.",
+			"detect chaos",
+			"detect good",
+			"scent",
+			"see in darkness",
+			"true seeing"
+		],
 		"pcp": 47,
 		"aura": [
 			"frightful presence (120 ft., DC 38)",
@@ -3912,8 +3947,7 @@
 			"Source ~`Bestiary 6 pg. 24`~",
 			"XP 6,553,600",
 			"LE Huge outsider (aquatic, devil, evil, extraplanar, lawful)",
-			"Init +9; Senses darkvision 60 ft., detect chaos, detect good,",
-			"scent, see in darkness, true seeing; Perception +47",
+			"Init +9; Senses darkvision 60 ft., detect chaos, detect good, scent, see in darkness, true seeing; Perception +47",
 			"Aura frightful presence (120 ft., DC 38), shield of law (DC 29)"
 		],
 		"environment": "any (Hell)",
@@ -3938,6 +3972,14 @@
 			"lawful"
 		],
 		"init": 16,
+		"senses": [
+			"darkvision 60 ft.",
+			"detect chaos",
+			"detect good",
+			"see in darkness",
+			"tremorsense 60 ft.",
+			"true seeing"
+		],
 		"pcp": 46,
 		"aura": [
 			"frightful presence (120 ft., DC 37)",
@@ -3948,9 +3990,7 @@
 			"Source ~`Bestiary 6 pg. 26`~",
 			"XP 4,915,200",
 			"LE Medium outsider (devil, evil, extraplanar, lawful)",
-			"Init +16; Senses darkvision 60 ft., detect chaos, detect",
-			"good, see in darkness, tremorsense 60 ft., true seeing;",
-			"Perception +46",
+			"Init +16; Senses darkvision 60 ft., detect chaos, detect good, see in darkness, tremorsense 60 ft., true seeing; Perception +46",
 			"Aura frightful presence (120 ft., DC 37), shield of law (DC 29)"
 		],
 		"environment": "any (Hell)",
@@ -3975,6 +4015,14 @@
 			"lawful"
 		],
 		"init": 14,
+		"senses": [
+			"darkvision 60 ft.",
+			"detect chaos",
+			"detect good",
+			"discern lies",
+			"see in darkness",
+			"true seeing"
+		],
 		"pcp": 50,
 		"aura": [
 			"frightful presence (120 ft., DC 41)",
@@ -3985,8 +4033,7 @@
 			"Source ~`Bestiary 6 pg. 28`~",
 			"XP 9,830,400",
 			"LE Large outsider (devil, evil, extraplanar, lawful)",
-			"Init +14; Senses darkvision 60 ft., detect chaos, detect good,",
-			"discern lies, see in darkness, true seeing; Perception +50",
+			"Init +14; Senses darkvision 60 ft., detect chaos, detect good, discern lies, see in darkness, true seeing; Perception +50",
 			"Aura frightful presence (120 ft., DC 41), shield of law (DC 32)"
 		],
 		"environment": "any (Hell)",
@@ -4011,20 +4058,27 @@
 			"lawful"
 		],
 		"init": 11,
+		"senses": [
+			"darkvision 60 ft.",
+			"detect chaos",
+			"detect good",
+			"mistsight",
+			"see in darkness",
+			"true seeing"
+		],
 		"pcp": 49,
 		"aura": [
 			"fiendish furnace (10 ft.)",
-			"frightful presence (120 ft.,"
+			"frightful presence (120 ft., DC 38)",
+			"shield of law (DC 29)"
 		],
 		"heading": [
 			"Moloch CR 29",
 			"Source ~`Bestiary 6 pg. 30`~",
 			"XP 6,553,600",
 			"LE Huge outsider (devil, evil, extraplanar, lawful)",
-			"Init +11; Senses darkvision 60 ft., detect chaos, detect good,",
-			"mistsight, see in darkness, true seeing; Perception +49",
-			"Aura fiendish furnace (10 ft.), frightful presence (120 ft.,",
-			"DC 38), shield of law (DC 29)"
+			"Init +11; Senses darkvision 60 ft., detect chaos, detect good, mistsight, see in darkness, true seeing; Perception +49",
+			"Aura fiendish furnace (10 ft.), frightful presence (120 ft., DC 38), shield of law (DC 29)"
 		],
 		"environment": "any (Hell)",
 		"shortDescription": "This immense figure appears to be a suit of blackened, diabolic armor filled with shrieking blasts of blistering fire."
@@ -4211,8 +4265,7 @@
 		],
 		"pcp": 26,
 		"aura": [
-			"aura of menace (30 ft.",
-			"DC 23, 10 rounds)"
+			"aura of menace (30 ft., DC 23, 10 rounds)"
 		],
 		"heading": [
 			"Gate Archon CR 17",
@@ -4514,6 +4567,12 @@
 			"lawful"
 		],
 		"init": 2,
+		"senses": [
+			"darkvision 60 ft.",
+			"detect evil",
+			"hone senses",
+			"low-light vision"
+		],
 		"pcp": 7,
 		"aura": [
 			"aura of menace (DC 13)",
@@ -4524,8 +4583,7 @@
 			"Source ~`Chronicle of the Righteous pg. 61`~",
 			"XP 800",
 			"LG Medium outsider (archon, extraplanar, good, lawful)",
-			"Init +2; Senses darkvision 60 ft., detect evil, hone senses, lowlight",
-			"vision; Perception +7",
+			"Init +2; Senses darkvision 60 ft., detect evil, hone senses, low-light vision; Perception +7",
 			"Aura aura of menace (DC 13), magic circle against evil"
 		],
 		"environment": "any (Heaven)",
@@ -4558,8 +4616,7 @@
 		],
 		"pcp": 11,
 		"aura": [
-			"menace (20 ft.",
-			"DC 15, 10 rounds)"
+			"menace (20 ft., DC 15, 10 rounds)"
 		],
 		"heading": [
 			"Stag Archon CR 4",
@@ -5468,6 +5525,11 @@
 			"aquatic"
 		],
 		"init": 11,
+		"senses": [
+			"darkvision 60 ft.",
+			"low-light vision",
+			"tremorsense 120 ft."
+		],
 		"pcp": 16,
 		"heading": [
 			"Atuikakura CR 14",
@@ -6249,6 +6311,14 @@
 			"good"
 		],
 		"init": 12,
+		"senses": [
+			"darkvision 60 ft.",
+			"detect animals or plants",
+			"detect evil",
+			"low-light vision",
+			"tremorsense 60 ft.",
+			"true seeing"
+		],
 		"pcp": 35,
 		"aura": [
 			"holy aura (DC 27)"
@@ -6258,9 +6328,7 @@
 			"Source ~`Bestiary 6 pg. 34`~, ~`Chronicle of the Righteous pg. 62`~",
 			"XP 307,200",
 			"CG Large outsider (azata, chaotic, extraplanar, good)",
-			"Init +12; Senses darkvision 60 ft., detect animals or plants,",
-			"detect evil, low-light vision, tremorsense 60 ft., true seeing;",
-			"Perception +35",
+			"Init +12; Senses darkvision 60 ft., detect animals or plants, detect evil, low-light vision, tremorsense 60 ft., true seeing; Perception +35",
 			"Aura holy aura (DC 27)"
 		],
 		"environment": "any (Elysium)",
@@ -6289,7 +6357,8 @@
 		"senses": [
 			"darkvision 60 ft.",
 			"detect evil",
-			"detect magic"
+			"detect magic",
+			"low-light vision"
 		],
 		"pcp": 12,
 		"heading": [
@@ -6297,8 +6366,7 @@
 			"Source ~`Bestiary 6 pg. 36`~, ~`Magnimar, City of Monuments pg. 63`~",
 			"XP 1,600",
 			"CG Medium outsider (azata, chaotic, extraplanar, good)",
-			"Init +5; Senses darkvision 60 ft., detect evil, detect magic; low-light",
-			"vision, Perception +12"
+			"Init +5; Senses darkvision 60 ft., detect evil, detect magic, low-light vision; Perception +12"
 		],
 		"environment": "any (Elysium)",
 		"shortDescription": "This blue-skinned woman has blue-and-white butterfly wings. Her black hair sparkles like a starlit sky."
@@ -6348,18 +6416,21 @@
 			"aquatic"
 		],
 		"init": 3,
+		"senses": [
+			"all-around vision",
+			"darkvision 60 ft.",
+			"low-light vision"
+		],
 		"pcp": 20,
 		"aura": [
-			"frightful presence (30 ft.",
-			"DC 16, inverted form only)"
+			"frightful presence (30 ft., DC 16, inverted form only)"
 		],
 		"heading": [
 			"Azgenzak CR 8",
 			"Source ~`Pathfinder #69: Maiden, Mother, Crone pg. 82`~",
 			"XP 4,800",
 			"NE Large aberration (aquatic)",
-			"Init +3; Senses all-around vision, darkvision 60 ft., low-light",
-			"vision; Perception +20",
+			"Init +3; Senses all-around vision, darkvision 60 ft., low-light vision; Perception +20",
 			"Aura frightful presence (30 ft., DC 16, inverted form only)"
 		],
 		"environment": "warm and temperate fresh water and swamps",
@@ -6824,8 +6895,7 @@
 			"Source ~`Bestiary 6 pg. 37`~",
 			"XP 19,200",
 			"NE Medium fey",
-			"Init +15; Senses blindsight 60 ft., low-light vision;",
-			"Perception +25",
+			"Init +15; Senses blindsight 60 ft., low-light vision; Perception +25",
 			"Aura banelight (60 ft.)"
 		],
 		"environment": "any",
@@ -10238,7 +10308,7 @@
 			"Init +2; Senses darkvision 60 ft.; Perception +0"
 		],
 		"environment": "warm jungle",
-		"shortDescription": "This foot-long, gray-and-black-striped insect looks like a cross between a bee and f ly, with an oversized head and bulbous eyes."
+		"shortDescription": "This foot-long, gray-and-black-striped insect looks like a cross between a bee and fly, with an oversized head and bulbous eyes."
 	},
 	"Brain Mole": {
 		"monstername": "Brain Mole",
@@ -11816,8 +11886,7 @@
 		],
 		"pcp": 25,
 		"aura": [
-			"stench (30 ft.",
-			"DC 23, 10 rounds)"
+			"stench (30 ft., DC 23, 10 rounds)"
 		],
 		"heading": [
 			"Catoblepas CR 12",
@@ -11937,14 +12006,19 @@
 		"size": "colossal",
 		"type": "plant",
 		"init": 6,
+		"senses": [
+			"blindsight 120 ft.",
+			"low-light vision",
+			"tremorsense 1 mi.",
+			"true seeing"
+		],
 		"pcp": 33,
 		"heading": [
 			"Cauldron Bloom CR 15",
 			"Source ~`Pathfinder #142: Gardens of Gallowspire pg. 86`~",
 			"XP 51,200",
 			"N Colossal plant",
-			"Init +6; Senses blindsight 120 ft., low-light vision,",
-			"tremorsense 1 mi., true seeing; Perception +33"
+			"Init +6; Senses blindsight 120 ft., low-light vision, tremorsense 1 mi., true seeing; Perception +33"
 		],
 		"environment": "any cold land",
 		"shortDescription": "Three thick vines sprout from this massive cylindrical plant's base. Ruddy light flickers beneath its sloping armored sides, and it exudes a palpable aura of magic."
@@ -12531,6 +12605,7 @@
 		"size": "tiny",
 		"type": "ooze",
 		"init": 6,
+		"senses": ["thoughtsense 30 ft."],
 		"pcp": 16,
 		"aura": [
 			"brain static (30 ft.)",
@@ -12541,7 +12616,7 @@
 			"Source ~`Occult Bestiary pg. 13`~",
 			"XP 3,200",
 			"NE Tiny ooze",
-			"Init +6; Senses thoughtsense 30 ft., Perception +16",
+			"Init +6; Senses thoughtsense 30 ft.; Perception +16",
 			"Aura brain static (30 ft.), mental static (30 ft., DC 19)"
 		],
 		"environment": "any ruins or underground",
@@ -13140,6 +13215,12 @@
 		"size": "large",
 		"type": "construct",
 		"init": 11,
+		"senses": [
+			"darkvision 60 ft.",
+			"divine sense",
+			"low-light vision",
+			"true seeing"
+		],
 		"pcp": 36,
 		"aura": [
 			"divine antithesis (60 ft., DC 35)"
@@ -13149,8 +13230,7 @@
 			"Source ~`Bestiary 6 pg. 54`~",
 			"XP 819,200",
 			"CE Large construct",
-			"Init +11; Senses darkvision 60 ft., divine sense, low-light vision,",
-			"true seeing; Perception +36",
+			"Init +11; Senses darkvision 60 ft., divine sense, low-light vision, true seeing; Perception +36",
 			"Aura divine antithesis (60 ft., DC 35)"
 		],
 		"environment": "any",
@@ -13339,6 +13419,10 @@
 			"augmented humanoid"
 		],
 		"init": 5,
+		"senses": [
+			"all-around vision",
+			"low-light vision"
+		],
 		"pcp": 7,
 		"heading": [
 			"Child of Yog-Sothoth CR 7",
@@ -13346,7 +13430,7 @@
 			"XP 3,200",
 			"Male human child of Yog-Sothoth wizard 7",
 			"CE Medium aberration (augmented humanoid)",
-			"Init +5; Senses all-around vision, low-light vision, Perception +7"
+			"Init +5; Senses all-around vision, low-light vision; Perception +7"
 		],
 		"environment": "any",
 		"shortDescription": "This creature could almost pass for human from the neck up, but below that its scaly skin, tail, and animal-like legs, as well as the tentacles that droop from its belly, reveal its aberrant nature."
@@ -13895,14 +13979,20 @@
 			"aquatic"
 		],
 		"init": 10,
+		"senses": [
+			"darkvision 180 ft.",
+			"low-light vision",
+			"scent",
+			"tremorsense 60 ft.",
+			"true seeing"
+		],
 		"pcp": 35,
 		"heading": [
 			"Cipactli CR 21",
 			"Source ~`Bestiary 6 pg. 56`~",
 			"XP 409,600",
 			"CN Gargantuan magical beast (aquatic)",
-			"Init +10; Senses darkvision 180 ft., low-light vision, scent,",
-			"tremorsense 60 ft., true seeing; Perception +35"
+			"Init +10; Senses darkvision 180 ft., low-light vision, scent, tremorsense 60 ft., true seeing; Perception +35"
 		],
 		"environment": "any water",
 		"shortDescription": "This creature is covered in snapping jaws, from its massive, toothy head to the various mouths that open in its body and tail."
@@ -13977,14 +14067,17 @@
 			"clockwork"
 		],
 		"init": 13,
+		"senses": [
+			"darkvision 60 ft.",
+			"low-light vision"
+		],
 		"pcp": 6,
 		"heading": [
 			"Clockwork Angel CR 15",
 			"Source ~`Bestiary 6 pg. 58`~",
 			"XP 51,200",
 			"N Medium construct (clockwork)",
-			"Init +13; Senses darkvision 60 ft., low-light",
-			"vision; Perception +6"
+			"Init +13; Senses darkvision 60 ft., low-light vision; Perception +6"
 		],
 		"environment": "any",
 		"shortDescription": "Brass, bronze, and silver components adorn this angelic figure. Moving gears are visible within the gaps of its metallic body."
@@ -14016,8 +14109,7 @@
 			"Source ~`Bestiary 6 pg. 59`~",
 			"XP 25,600",
 			"N Medium construct (clockwork)",
-			"Init +12; Senses darkvision 120 ft., low-light vision, mistsight;",
-			"Perception +0 (+20 in sentinel mode)"
+			"Init +12; Senses darkvision 120 ft., low-light vision, mistsight; Perception +0 (+20 in sentinel mode)"
 		],
 		"environment": "any",
 		"shortDescription": "This sleek, one-eyed construct crouches, ready for battle. Its arms end in weapons-a rapier and a compact crossbow bolt launcher."
@@ -14302,8 +14394,7 @@
 			"Source ~`Bestiary 6 pg. 62`~",
 			"XP 1,600",
 			"N Small construct (clockwork)",
-			"Init +8; Senses darkvision 60 ft., low-light vision, scent;",
-			"Perception +3"
+			"Init +8; Senses darkvision 60 ft., low-light vision, scent; Perception +3"
 		],
 		"environment": "any",
 		"shortDescription": "Two emerald crystal eyes stare out from this artificial hound's brass-, bronze-, and iron-forged body."
@@ -15041,14 +15132,18 @@
 		"size": "colossal",
 		"type": "aberration",
 		"init": 11,
+		"senses": [
+			"darkvision 60 ft.",
+			"tremorsense 120 ft.",
+			"true seeing"
+		],
 		"pcp": 37,
 		"heading": [
 			"Conqueror Worm CR 21",
 			"Source ~`Bestiary 6 pg. 64`~",
 			"XP 409,600",
 			"NE Colossal aberration",
-			"Init +11; Senses darkvision 60 ft., tremorsense 120 ft.,",
-			"true seeing; Perception +37"
+			"Init +11; Senses darkvision 60 ft., tremorsense 120 ft., true seeing; Perception +37"
 		],
 		"environment": "any",
 		"shortDescription": "This immense worm resembles a gigantic maggot with pale flesh. Its mouth is peeled back to reveal four long, hooklike jaws."
@@ -15163,8 +15258,7 @@
 			"Source ~`Bestiary 6 pg. 66`~, ~`Pathfinder #58: Island of Empty Eyes pg. 82`~",
 			"XP 400",
 			"N Tiny magical beast (aquatic)",
-			"Init +3; Senses darkvision 60 f t., low-light vision;",
-			"Perception +1"
+			"Init +3; Senses darkvision 60 f t., low-light vision; Perception +1"
 		],
 		"environment": "warm coasts or oceans",
 		"shortDescription": "This strange creature can only be described as a light pink, hairless monkey with the head of a fish and large, finlike wings."
@@ -16050,8 +16144,7 @@
 		],
 		"pcp": 15,
 		"aura": [
-			"fear (10 ft.",
-			"frightened for 1d4 rounds, Will DC 16 negates)"
+			"fear (10 ft., frightened for 1d4 rounds, Will DC 16 negates)"
 		],
 		"heading": [
 			"Crypt Thing CR 5",
@@ -16089,8 +16182,7 @@
 			"Source ~`Bestiary 6 pg. 68`~",
 			"XP 6,400",
 			"N Medium construct",
-			"Init +3; Senses darkvision 60 ft., low-light vision;",
-			"Perception +1",
+			"Init +3; Senses darkvision 60 ft., low-light vision; Perception +1",
 			"Aura consecration (30 ft., DC 12)"
 		],
 		"environment": "any",
@@ -16174,8 +16266,7 @@
 		],
 		"pcp": 12,
 		"aura": [
-			"demanding aura (30 ft.",
-			"DC 20, 1d4 rounds)"
+			"demanding aura (30 ft., DC 20, 1d4 rounds)"
 		],
 		"heading": [
 			"Cursed King CR 10",
@@ -17023,8 +17114,7 @@
 			"Source ~`Bestiary 6 pg. 71`~, ~`Book of the Damned - Volume 3: Horsemen of the Apocalypse pg. 48`~",
 			"XP 800",
 			"NE Medium outsider (daemon, evil, extraplanar)",
-			"Init +7; Senses darkvision 60 ft., detect good, detect magic;",
-			"Perception +8",
+			"Init +7; Senses darkvision 60 ft., detect good, detect magic; Perception +8",
 			"Aura weeping (100 ft.)"
 		],
 		"environment": "any (Abaddon)",
@@ -17212,8 +17302,7 @@
 			"Source ~`Bestiary 6 pg. 72`~, ~`Book of the Damned - Volume 3: Horsemen of the Apocalypse pg. 50`~",
 			"XP 204,800",
 			"NE Gargantuan outsider (daemon, evil, extraplanar)",
-			"Init +4; Senses darkvision 60 ft., deathwatch, true seeing;",
-			"Perception +30",
+			"Init +4; Senses darkvision 60 ft., deathwatch, true seeing; Perception +30",
 			"Aura scorched earth (60 ft., DC 28), unholy aura (DC 25)"
 		],
 		"environment": "any (Abaddon)",
@@ -17289,8 +17378,7 @@
 			"Source ~`Bestiary 6 pg. 74`~, ~`Book of the Damned - Volume 3: Horsemen of the Apocalypse pg. 52`~",
 			"XP 102,400",
 			"NE Large outsider (daemon, evil, extraplanar)",
-			"Init +11; Senses darkvision 60 ft., deathwatch, true seeing;",
-			"Perception +30",
+			"Init +11; Senses darkvision 60 ft., deathwatch, true seeing; Perception +30",
 			"Aura frightful presence (60 ft., DC 27)"
 		],
 		"environment": "any (Abaddon)",
@@ -17506,8 +17594,7 @@
 		],
 		"pcp": 27,
 		"aura": [
-			"reaper's curse (30 ft.",
-			"DC 23, 10 rounds)"
+			"reaper's curse (30 ft., DC 23, 10 rounds)"
 		],
 		"heading": [
 			"Temerdaemon CR 14",
@@ -19215,10 +19302,8 @@
 		],
 		"pcp": 58,
 		"aura": [
-			"frightful presence (180 ft.",
-			"DC 40, 10 rounds)",
-			"locusts (10 ft.",
-			"distraction, DC 43)",
+			"frightful presence (180 ft., DC 40, 10 rounds)",
+			"locusts (10 ft., distraction, DC 43)",
 			"unholy aura (DC 31)"
 		],
 		"heading": [
@@ -20733,8 +20818,7 @@
 			"Source ~`Bestiary 6 pg. 90`~, ~`Book of the Damned - Volume 2: Lords of Chaos pg. 54`~",
 			"XP 800",
 			"CE Medium outsider (chaotic, demon, evil, extraplanar)",
-			"Init -1; Senses blindsense 30 ft., darkvision 60 ft., scent;",
-			"Perception +8"
+			"Init -1; Senses blindsense 30 ft., darkvision 60 ft., scent; Perception +8"
 		],
 		"environment": "any (Abyss; battlefields or graveyards)",
 		"shortDescription": "A hideous, pale, wormlike head pushes violently up and out of a corpulent man's body."
@@ -21578,8 +21662,7 @@
 		],
 		"pcp": 19,
 		"aura": [
-			"fear aura (5 ft.",
-			"DC 19, 1d6 rounds)"
+			"fear aura (5 ft., DC 19, 1d6 rounds)"
 		],
 		"heading": [
 			"Bone Devil (Osyluth) CR 9",
@@ -24614,6 +24697,9 @@
 			"earth"
 		],
 		"init": 5,
+		"senses": [
+			"dragon senses"
+		],
 		"pcp": 22,
 		"aura": [
 			"frightful presence (180 ft., DC 21)"
@@ -24623,7 +24709,7 @@
 			"Source ~`Pathfinder RPG Bestiary pg. 106`~",
 			"XP 19,200",
 			"CG Large dragon (earth)",
-			"Init +5; Senses Perception +22",
+			"Init +5; Senses dragon senses; Perception +22",
 			"Aura frightful presence (180 ft., DC 21)"
 		],
 		"environment": "warm hills "
@@ -28722,13 +28808,14 @@
 			"water"
 		],
 		"init": 0,
+		"senses": ["darkvision 60 ft."],
 		"pcp": 6,
 		"heading": [
 			"Draugr CR 2",
 			"Source ~`Bestiary 2 pg. 110`~",
 			"XP 600",
 			"CE Medium undead (water)",
-			"Init +0; Senses darkvision 60 ft., Perception +6"
+			"Init +0; Senses darkvision 60 ft.; Perception +6"
 		],
 		"environment": "any coastal",
 		"shortDescription": "This barnacle-encrusted walking corpse looks like a zombie, but is dripping with water and gives off a nauseating stench."
@@ -28855,8 +28942,7 @@
 		],
 		"pcp": 2,
 		"aura": [
-			"fear (30 ft.",
-			"DC 18, 1d6 rounds)"
+			"fear (30 ft., DC 18, 1d6 rounds)"
 		],
 		"heading": [
 			"Drocha Swarm CR 7",
@@ -32375,6 +32461,13 @@
 			"good"
 		],
 		"init": 16,
+		"senses": [
+			"blindsense 60 ft.",
+			"darkvision 60 ft.",
+			"detect evil",
+			"low-light vision",
+			"true seeing"
+		],
 		"pcp": 49,
 		"aura": [
 			"primal aura (30 ft.)",
@@ -32385,8 +32478,7 @@
 			"Source ~`Bestiary 6 pg. 110`~",
 			"XP 6,553,600",
 			"NG Medium outsider (angel, extraplanar, good)",
-			"Init +16; Senses blindsense 60 ft., darkvision 60 ft., detect evil,",
-			"low-light vision, true seeing; Perception +49",
+			"Init +16; Senses blindsense 60 ft., darkvision 60 ft., detect evil, low-light vision, true seeing; Perception +49",
 			"Aura primal aura (30 ft.), protective aura (20 ft.)"
 		],
 		"environment": "any (Nirvana)",
@@ -32455,6 +32547,16 @@
 		],
 		"init": 19,
 		"pcp": 50,
+		"senses": [
+			"blindsense 60 ft.",
+			"darkvision 60 ft.",
+			"detect aberration",
+			"detect evil",
+			"detect law",
+			"low-light vision",
+			"see in darkness",
+			"true seeing"
+		],
 		"aura": [
 			"primal aura (30 ft.)"
 		],
@@ -32463,9 +32565,7 @@
 			"Source ~`Bestiary 6 pg. 112`~",
 			"XP 4,915,200",
 			"CG Large outsider (azata, chaotic, extraplanar, good)",
-			"Init +19; Senses blindsense 60 ft., darkvision 60 ft., detect",
-			"aberration, detect evil, detect law, low-light vision, see in",
-			"darkness, true seeing; Perception +50",
+			"Init +19; Senses blindsense 60 ft., darkvision 60 ft., detect aberration, detect evil, detect law, low-light vision, see in darkness, true seeing; Perception +50",
 			"Aura primal aura (30 ft.)"
 		],
 		"environment": "any (Elysium)",
@@ -32573,6 +32673,13 @@
 			"lawful"
 		],
 		"init": 13,
+		"senses": [
+			"blindsense 60 ft.",
+			"darkvision 60 ft.",
+			"detect evil",
+			"low-light vision",
+			"true seeing"
+		],
 		"pcp": 40,
 		"aura": [
 			"holy aura (DC 27)",
@@ -32584,8 +32691,7 @@
 			"Source ~`Bestiary 6 pg. 114`~",
 			"XP 2,457,600",
 			"LG Huge outsider (angel, extraplanar, good, lawful)",
-			"Init +13; Senses blindsense 60 ft., darkvision 60 ft., detect evil,",
-			"low-light vision, true seeing; Perception +40",
+			"Init +13; Senses blindsense 60 ft., darkvision 60 ft., detect evil, low-light vision, true seeing; Perception +40",
 			"Aura holy aura (DC 27), primal aura (30 ft.), protective aura"
 		],
 		"environment": "any (Heaven)",
@@ -32710,8 +32816,7 @@
 		],
 		"pcp": 0,
 		"aura": [
-			"caustic mist (5 ft.",
-			"1d6 acid plus poison, DC 13)"
+			"caustic mist (5 ft., 1d6 acid plus poison, DC 13)"
 		],
 		"heading": [
 			"Energized Ice Golem CR 7",
@@ -32868,14 +32973,17 @@
 			"shapechanger"
 		],
 		"init": 8,
+		"senses": [
+			"darkvision 60 ft.",
+			"tremorsense 60 ft."
+		],
 		"pcp": 7,
 		"heading": [
 			"Werespider (Hybrid Form) CR 2",
 			"Source ~`Bestiary 6 pg. 118`~",
 			"XP 600",
 			"NE Medium humanoid (human, shapechanger)",
-			"Init +8; Senses darkvision 60 ft., tremorsense",
-			"60 ft.; Perception +7"
+			"Init +8; Senses darkvision 60 ft., tremorsense 60 ft.; Perception +7"
 		],
 		"environment": "any",
 		"shortDescription": "This hideous, spider-headed man is covered with bristly black hair, and his elongated mandibles drip with glistening poison."
@@ -33234,8 +33342,7 @@
 			"Source ~`Bestiary 6 pg. 120`~",
 			"XP 307,200",
 			"CE Medium monstrous humanoid",
-			"Init +15; Senses blindsight 60 ft., darkvision 120 ft., true seeing;",
-			"Perception +38"
+			"Init +15; Senses blindsight 60 ft., darkvision 120 ft., true seeing; Perception +38"
 		],
 		"environment": "any",
 		"shortDescription": "This creature has the upper body of a woman, the lower body of a snake, and a mass of undulating cobras for hair."
@@ -36197,8 +36304,7 @@
 			"Source ~`Bestiary 6 pg. 127`~",
 			"XP 9,600",
 			"NE Large monstrous humanoid",
-			"Init +8; Senses darkvision 60 ft., low-light vision, scent;",
-			"Perception +17",
+			"Init +8; Senses darkvision 60 ft., low-light vision, scent; Perception +17",
 			"Aura stench (DC 15, 10 rounds)"
 		],
 		"environment": "temperate swamps",
@@ -36539,14 +36645,18 @@
 			"extraplanar"
 		],
 		"init": 6,
+		"senses": [
+			"blindsense 60 ft.",
+			"darkvision 60 ft.",
+			"low-light vision"
+		],
 		"pcp": 16,
 		"heading": [
 			"Fire Whale CR 16",
 			"Source ~`Bestiary 6 pg. 128`~",
 			"XP 76,800",
 			"N Colossal magical beast (extraplanar)",
-			"Init +6; Senses blindsense 60 ft., darkvision 60 ft., low-light",
-			"vision; Perception +16"
+			"Init +6; Senses blindsense 60 ft., darkvision 60 ft., low-light vision; Perception +16"
 		],
 		"environment": "any (Plane of Fire)",
 		"shortDescription": "Waves of searing heat ripple from the stony, gem-encrusted hide of this enormous whalelike beast."
@@ -36895,8 +37005,7 @@
 		],
 		"pcp": 9,
 		"aura": [
-			"powerful stench (10 ft.",
-			"DC 24, 1d4 rounds)"
+			"powerful stench (10 ft., DC 24, 1d4 rounds)"
 		],
 		"heading": [
 			"Ghonhatine CR 10",
@@ -38022,8 +38131,7 @@
 			"Source ~`Bestiary 6 pg. 130`~, ~`Inner Sea Bestiary pg. 12`~",
 			"XP 6,400",
 			"CE Medium plant (extraplanar)",
-			"Init +7; Senses darkvision 60 ft., detect good, low-light vision;",
-			"Perception +18"
+			"Init +7; Senses darkvision 60 ft., detect good, low-light vision; Perception +18"
 		],
 		"environment": "any underground",
 		"shortDescription": "This eerie creature has the upper body of a beautiful, pale green woman, but her lower body is a pulsating mound of fungus."
@@ -38040,6 +38148,11 @@
 		"size": "huge",
 		"type": "magical beast",
 		"init": 9,
+		"senses": [
+			"blindsense 30 ft.",
+			"darkvision 60 ft.",
+			"low-light vision"
+		],
 		"pcp": 16,
 		"aura": [
 			"deleriant aura (50 ft.)"
@@ -38049,8 +38162,7 @@
 			"Source ~`Pathfinder #142: Gardens of Gallowspire pg. 90`~",
 			"XP 25,600",
 			"CN Huge magical beast",
-			"Init +9; Senses blindsense 30 ft., darkvision 60 ft., low-light",
-			"vision; Perception +16",
+			"Init +9; Senses blindsense 30 ft., darkvision 60 ft., low-light vision; Perception +16",
 			"Aura deleriant aura (50 ft.)"
 		],
 		"environment": "any forest",
@@ -40601,8 +40713,7 @@
 			"Source ~`Bestiary 5 pg. 242`~",
 			"XP 800",
 			"N Medium vermin",
-			"Init +0; Senses darkvision 60 ft., scent, tremorsense 60 ft.;",
-			"Perception +1"
+			"Init +0; Senses darkvision 60 ft., scent, tremorsense 60 ft.; Perception +1"
 		],
 		"environment": "warm forests, plains, or underground",
 		"shortDescription": "This pony-sized insect has long black mandibles and a banded abdomen of white."
@@ -40738,7 +40849,7 @@
 		],
 		"cr": 11,
 		"xp": 12800,
-		"alignment": "NG or NE",
+		"alignment": [ "NG", "NE" ],
 		"size": "huge",
 		"type": "humanoid",
 		"subtypes": [
@@ -40969,8 +41080,7 @@
 		],
 		"pcp": 29,
 		"aura": [
-			"frightful presence (60 ft.",
-			"DC 24, 10 rounds)"
+			"frightful presence (60 ft., DC 24, 10 rounds)"
 		],
 		"heading": [
 			"Mountain Giant CR 18",
@@ -40992,7 +41102,7 @@
 		],
 		"cr": 14,
 		"xp": 38400,
-		"alignment": "CG or CE",
+		"alignment": [ "CG", "CE" ],
 		"size": "huge",
 		"type": "humanoid",
 		"subtypes": [
@@ -41053,7 +41163,7 @@
 		],
 		"cr": 6,
 		"xp": 2400,
-		"alignment": "CG or CE",
+		"alignment": [ "CG", "CE" ],
 		"size": "large",
 		"type": "humanoid",
 		"subtypes": [
@@ -41238,7 +41348,7 @@
 		],
 		"cr": 16,
 		"xp": 76800,
-		"alignment": "CG or CE",
+		"alignment": [ "CG", "CE" ],
 		"size": "huge",
 		"type": "humanoid",
 		"subtypes": [
@@ -43993,8 +44103,7 @@
 			"Source ~`Bestiary 6 pg. 142`~",
 			"XP 307,200",
 			"N Huge construct (extraplanar)",
-			"Init +10; Senses darkvision 60 ft., lifesense, low-light vision;",
-			"Perception +0",
+			"Init +10; Senses darkvision 60 ft., lifesense, low-light vision; Perception +0",
 			"Aura soul siphon (100 ft.)"
 		],
 		"environment": "any",
@@ -44965,6 +45074,12 @@
 			"Great Old One"
 		],
 		"init": 24,
+		"senses": [
+			"darkvision 60 ft.",
+			"low-light vision",
+			"tremorsense 120 ft. (640 ft. when in statue form)",
+			"true seeing"
+		],
 		"pcp": 47,
 		"aura": [
 			"unspeakable presence (300 ft., DC 35)"
@@ -44974,9 +45089,7 @@
 			"Source ~`Bestiary 6 pg. 146`~",
 			"XP 4,915,200",
 			"CE Large aberration (aquatic, chaotic, evil, Great Old One)",
-			"Init +24; Senses darkvision 60 ft., low-light vision, tremorsense",
-			"120 ft. (640 ft. when in statue form), true seeing;",
-			"Perception +47",
+			"Init +24; Senses darkvision 60 ft., low-light vision, tremorsense 120 ft. (640 ft. when in statue form), true seeing; Perception +47",
 			"Aura unspeakable presence (300 ft., DC 35)"
 		],
 		"environment": "any",
@@ -45015,8 +45128,7 @@
 			"Source ~`Bestiary 6 pg. 148`~",
 			"XP 9,830,400",
 			"CN Large outsider (chaotic, extraplanar, Great Old One)",
-			"Init +27; Senses darkvision 60 ft., see in darkness, true seeing;",
-			"Perception +49",
+			"Init +27; Senses darkvision 60 ft., see in darkness, true seeing; Perception +49",
 			"Aura cloak of chaos (DC 30), unspeakable presence (300 ft., DC 39)"
 		],
 		"environment": "any",
@@ -45047,8 +45159,7 @@
 		],
 		"pcp": 47,
 		"aura": [
-			"unspeakable presence (300 ft.",
-			"DC 38, 10 rounds)"
+			"unspeakable presence (300 ft., DC 38, 10 rounds)"
 		],
 		"heading": [
 			"Tsathoggua CR 29",
@@ -45151,6 +45262,12 @@
 			"shapechanger"
 		],
 		"init": 14,
+		"senses": [
+			"darkvision 60 ft.",
+			"greensight 60 ft.",
+			"lifesense",
+			"low-light vision"
+		],
 		"pcp": 11,
 		"aura": [
 			"green caress (60 ft., DC 36)"
@@ -45160,8 +45277,7 @@
 			"Source ~`Bestiary 6 pg. 152`~",
 			"XP 2,457,600",
 			"N Medium plant (shapechanger)",
-			"Init +14; Senses darkvision 60 ft., greensight 60 ft., lifesense,",
-			"low-light vision; Perception +11",
+			"Init +14; Senses darkvision 60 ft., greensight 60 ft., lifesense, low-light vision; Perception +11",
 			"Aura green caress (60 ft., DC 36)"
 		],
 		"environment": "temperate forests",
@@ -45577,7 +45693,7 @@
 			"Init +8; Senses all-around vision, low-light vision; Perception +16"
 		],
 		"environment": "temperate or warm forests or urban",
-		"shortDescription": "Thorn-tipped tendrils and f lowering filaments sprout from this tiny, squirming grublike plant."
+		"shortDescription": "Thorn-tipped tendrils and flowering filaments sprout from this tiny, squirming grublike plant."
 	},
 	"Griffon": {
 		"monstername": "Griffon",
@@ -46030,7 +46146,7 @@
 			"Init +2; Senses darkvision 60 ft., low-light vision; Perception +0"
 		],
 		"environment": "any",
-		"shortDescription": "This innocuous-looking scroll f lits about with serpentine grace, baring its razor-sharp edges."
+		"shortDescription": "This innocuous-looking scroll flits about with serpentine grace, baring its razor-sharp edges."
 	},
 	"Guardian Spirit, Guardian Spirit Imp": {
 		"monsterfullname": "Guardian Spirit, Guardian Spirit Imp",
@@ -47750,8 +47866,7 @@
 		],
 		"pcp": 22,
 		"aura": [
-			"alluring scent (30 ft.",
-			"DC 25, 1 hour)"
+			"alluring scent (30 ft., DC 25, 1 hour)"
 		],
 		"heading": [
 			"The Menotherian CR 15",
@@ -47824,8 +47939,7 @@
 		],
 		"pcp": 31,
 		"aura": [
-			"charming (30 ft.",
-			"DC 24, 1 day)"
+			"charming (30 ft., DC 24, 1 day)"
 		],
 		"heading": [
 			"The Spirit of Adoration CR 15",
@@ -48270,7 +48384,7 @@
 			"Init +4; Senses low-light vision, scent; Perception +8"
 		],
 		"environment": "warm rivers",
-		"shortDescription": "This f leshy behemoth wallows forward on four stumpy legs. Its jaws spread wide in a roar of challenge, exposing massive, tusk-like teeth."
+		"shortDescription": "This fleshy behemoth wallows forward on four stumpy legs. Its jaws spread wide in a roar of challenge, exposing massive, tusk-like teeth."
 	},
 	"Hippopotamus, Behemoth Hippopotamus": {
 		"monsterfullname": "Hippopotamus, Behemoth Hippopotamus",
@@ -48505,14 +48619,19 @@
 			"swarm"
 		],
 		"init": 6,
+		"senses": [
+			"darkvision 60 ft.",
+			"low-light vision",
+			"scent",
+			"thoughtsense 60 ft."
+		],
 		"pcp": 16,
 		"heading": [
 			"Hivemind Rat Swarm CR 8",
 			"Source ~`Bestiary 6 pg. 156`~",
 			"XP 4,800",
 			"N Tiny magical beast (swarm)",
-			"Init +6; Senses darkvision 60 ft., low-light vision, scent,",
-			"thoughtsense 60 ft.; Perception +16"
+			"Init +6; Senses darkvision 60 ft., low-light vision, scent, thoughtsense 60 ft.; Perception +16"
 		],
 		"environment": "any",
 		"shortDescription": "A swarm of rats groups around a barrel, every pair of red eyes staring intently at one rat in the center of the mass."
@@ -48899,8 +49018,7 @@
 		],
 		"pcp": 17,
 		"aura": [
-			"desiccation (30 ft.",
-			"1d4 Cha damage, Fort DC 26 negates)"
+			"desiccation (30 ft., 1d4 Cha damage, Fort DC 26 negates)"
 		],
 		"heading": [
 			"Hollow Serpent CR 16",
@@ -48951,7 +49069,7 @@
 		],
 		"cr": 1,
 		"xp": 400,
-		"alignment": "Any alignment (same as creator)",
+		"alignment": ["LG", "LN", "LE", "NG", "N", "NE", "CG", "CN", "CE"],
 		"size": "tiny",
 		"type": "construct",
 		"init": 2,
@@ -49084,8 +49202,7 @@
 			"Source ~`Bestiary 6 pg. 249`~",
 			"XP 3,200",
 			"N Huge vermin (aquatic)",
-			"Init +8; Senses darkvision 60 ft., tremorsense 30 ft.;",
-			"Perception +3"
+			"Init +8; Senses darkvision 60 ft., tremorsense 30 ft.; Perception +3"
 		],
 		"environment": "any oceans",
 		"shortDescription": "This long, orange, segmented worm's colorful head unfolds like a horrific flower to reveal five large, black, hooklike teeth."
@@ -49207,13 +49324,12 @@
 			"Source ~`Bestiary 6 pg. 160`~",
 			"XP 6,553,600",
 			"NE Medium outsider (daemon, evil, extraplanar)",
-			"Init +12; Senses darkvision 60 ft., detect good, true seeing;",
-			"Perception +49",
+			"Init +12; Senses darkvision 60 ft., detect good, true seeing; Perception +49",
 			"Aura frightful presence (120 ft., DC 38), plague shadow (10 ft.),",
 			"unholy aura (DC 29)"
 		],
 		"environment": "any (Abaddon)",
-		"shortDescription": "This muscular figure has a skeletal ram's head and a cloud of f lies spews from his mouth."
+		"shortDescription": "This muscular figure has a skeletal ram's head and a cloud of flies spews from his mouth."
 	},
 	"Horsemen of the Apocalypse, Charon": {
 		"monsterfullname": "Horsemen of the Apocalypse, Charon",
@@ -49233,6 +49349,12 @@
 			"extraplanar"
 		],
 		"init": 12,
+		"senses": [
+			"darkvision 60 ft.",
+			"detect good",
+			"lifesense",
+			"true seeing"
+		],
 		"pcp": 50,
 		"aura": [
 			"frightful presence (120 ft., DC 40)",
@@ -49243,8 +49365,7 @@
 			"Source ~`Bestiary 6 pg. 162`~",
 			"XP 9,830,400",
 			"NE Medium outsider (daemon, evil, extraplanar)",
-			"Init +12; Senses darkvision 60 ft., detect good, lifesense, true",
-			"seeing; Perception +50",
+			"Init +12; Senses darkvision 60 ft., detect good, lifesense, true seeing; Perception +50",
 			"Aura frightful presence (120 ft., DC 40), unholy aura (DC 30)"
 		],
 		"environment": "any (Abaddon)",
@@ -49284,8 +49405,7 @@
 			"Source ~`Bestiary 6 pg. 164`~",
 			"XP 4,915,200",
 			"NE Medium outsider (daemon, evil, extraplanar)",
-			"Init +13; Senses darkvision 60 ft., detect good, true seeing;",
-			"Perception +46",
+			"Init +13; Senses darkvision 60 ft., detect good, true seeing; Perception +46",
 			"Aura frightful presence, (120 ft., DC 36), unholy aura (DC 28)"
 		],
 		"environment": "any (Abaddon)",
@@ -49324,8 +49444,7 @@
 			"Source ~`Bestiary 6 pg. 166`~",
 			"XP 3,276,800",
 			"NE Medium outsider (daemon, evil, extraplanar)",
-			"Init +13; Senses darkvision 60 ft., detect good, true seeing;",
-			"Perception +46",
+			"Init +13; Senses darkvision 60 ft., detect good, true seeing; Perception +46",
 			"Aura frightful presence (120 ft., DC 36), unholy aura (DC 28)"
 		],
 		"environment": "any (Abaddon)",
@@ -50213,8 +50332,7 @@
 		],
 		"pcp": 15,
 		"aura": [
-			"lethargy (30 ft.",
-			"DC 17, 10 rounds)"
+			"lethargy (30 ft., DC 17, 10 rounds)"
 		],
 		"heading": [
 			"Ikelos CR 7",
@@ -50411,7 +50529,7 @@
 			"Init +9; Senses darkvision 60 ft., low-light vision; Perception +21"
 		],
 		"environment": "temperate or warm forest",
-		"shortDescription": "A dark shadow moves rapidly across the ground. In the skies high above, silhouetted by the sun, a monstrous, black-feathered avian creature circles. Slowly, a supernatural wind begins to swirl about the creature, and crackling sparks erupt from its body. Screeching wildly, it descends as if falling from the sky, its blood-f lecked wings tipped with cruel curved hooks, and its protruding lower beak scalloped with vicious, jagged barbs."
+		"shortDescription": "A dark shadow moves rapidly across the ground. In the skies high above, silhouetted by the sun, a monstrous, black-feathered avian creature circles. Slowly, a supernatural wind begins to swirl about the creature, and crackling sparks erupt from its body. Screeching wildly, it descends as if falling from the sky, its blood-flecked wings tipped with cruel curved hooks, and its protruding lower beak scalloped with vicious, jagged barbs."
 	},
 	"Incutilis": {
 		"monstername": "Incutilis",
@@ -51147,7 +51265,7 @@
 		],
 		"cr": 19,
 		"xp": 204800,
-		"alignment": "LN or CN",
+		"alignment": [ "LN", "CN" ],
 		"size": "medium",
 		"type": "outsider",
 		"subtypes": [
@@ -52000,14 +52118,19 @@
 			"kaiju"
 		],
 		"init": 17,
+		"senses": [
+			"darkvision 600 ft.",
+			"low-light vision",
+			"mistsight",
+			"tremorsense 300 ft."
+		],
 		"pcp": 34,
 		"heading": [
 			"Varklops CR 30",
 			"Source ~`Bestiary 6 pg. 170`~",
 			"XP 9,830,400",
 			"CE Colossal magical beast (fire, kaiju)",
-			"Init +17; Senses darkvision 600 ft., low-light vision, mistsight,",
-			"tremorsense 300 ft.; Perception +34"
+			"Init +17; Senses darkvision 600 ft., low-light vision, mistsight, tremorsense 300 ft.; Perception +34"
 		],
 		"environment": "warm mountains",
 		"shortDescription": "This immense, fiery-orange serpent has three horned heads, a pair of draconic wings, and a long tail tipped with four bony spikes."
@@ -52168,8 +52291,7 @@
 			"Source ~`Bestiary 6 pg. 176`~",
 			"XP 25,600",
 			"CE Medium fey (air)",
-			"Init +12; Senses blindsight 60 ft., low-light vision, scent;",
-			"Perception +24"
+			"Init +12; Senses blindsight 60 ft., low-light vision, scent; Perception +24"
 		],
 		"environment": "any",
 		"shortDescription": "This weasellike creature has sickles in place of feet. It moves incredibly swiftly, swirling in the air astride a vortex of dust."
@@ -52853,7 +52975,7 @@
 			"Init +7; Senses low-light vision; Perception +10"
 		],
 		"environment": "temperate marshes or rivers",
-		"shortDescription": "This combination of a lily pad and a f lytrap is ringed with horrifying fangs and has another tiny, toothy maw at its center."
+		"shortDescription": "This combination of a lily pad and a flytrap is ringed with horrifying fangs and has another tiny, toothy maw at its center."
 	},
 	"Kech": {
 		"monstername": "Kech",
@@ -53113,7 +53235,7 @@
 			"Init +10; Senses darkvision 60 ft., low-light vision; Perception +30"
 		],
 		"environment": "any cold",
-		"shortDescription": "This dragon has broad, ragged wings. Its serpentine body ends in three long, f lailing necks with hissing, triangular heads."
+		"shortDescription": "This dragon has broad, ragged wings. Its serpentine body ends in three long, flailing necks with hissing, triangular heads."
 	},
 	"Khardajeen": {
 		"monstername": "Khardajeen",
@@ -53215,8 +53337,7 @@
 		],
 		"pcp": 24,
 		"aura": [
-			"frightful presence (60 ft.",
-			"DC 24, 2d4 rounds)"
+			"frightful presence (60 ft., DC 24, 2d4 rounds)"
 		],
 		"heading": [
 			"Kikituk CR 13",
@@ -53904,6 +54025,12 @@
 		"size": "large",
 		"type": "monstrous humanoid",
 		"init": 13,
+		"senses": [
+			"scent",
+			"see in darkness",
+			"see invisibility",
+			"storm sight"
+		],
 		"pcp": 33,
 		"aura": [
 			"frightful presence (120 ft., DC 32)"
@@ -53913,8 +54040,7 @@
 			"Source ~`Bestiary 6 pg. 178`~",
 			"XP 409,600",
 			"NE Large monstrous humanoid",
-			"Init +13; Senses scent, see in darkness, see invisibility, storm",
-			"sight; Perception +33",
+			"Init +13; Senses scent, see in darkness, see invisibility, storm sight; Perception +33",
 			"Aura frightful presence (120 ft., DC 32)"
 		],
 		"environment": "any",
@@ -54218,6 +54344,7 @@
 			"native"
 		],
 		"init": 11,
+		"senses": ["darkvision 60 ft."],
 		"pcp": 17,
 		"heading": [
 			"Apostle Kyton CR 12",
@@ -54225,7 +54352,7 @@
 			"XP 19,200",
 			"Female human apostle kyton slayer 11 (Pathfinder RPG Advanced Class Guide 53)",
 			"LE Medium outsider (augmented humanoid, kyton, native)",
-			"Init +11; Senses darkvision 60 ft., Perception +17"
+			"Init +11; Senses darkvision 60 ft.; Perception +17"
 		],
 		"environment": "any land",
 		"shortDescription": "Clad in black leather, this woman has pale skin and bloody holes where her eyes used to be."
@@ -54819,8 +54946,7 @@
 			"Source ~`Rise of the Runelords Anniversary Edition pg. 411`~, ~`Pathfinder #6: Spires of Xin-Shalast pg. 80`~",
 			"XP 4,800",
 			"CE Medium monstrous humanoid",
-			"Init +10; Senses darkvision 60 ft., low-light vision, scent;",
-			"Perception +19"
+			"Init +10; Senses darkvision 60 ft., low-light vision, scent; Perception +19"
 		],
 		"environment": "any mountains",
 		"shortDescription": "This vaguely humanoid creature has a vulture's head and wings for arms, and wields an enormous bow in its taloned feet."
@@ -55207,8 +55333,7 @@
 			"Source ~`Bestiary 5 pg. 155`~, ~`Tears at Bitter Manor pg. 62`~",
 			"XP 1,200",
 			"NE Large undead",
-			"Init -1; Senses darkvision 60 ft., tremorsense 30 ft.;",
-			"Perception +3"
+			"Init -1; Senses darkvision 60 ft., tremorsense 30 ft.; Perception +3"
 		],
 		"environment": "any forests",
 		"shortDescription": "This tangle of rotten, seemingly lifeless roots twitches slightly, moving the damp, bloody ground beneath it."
@@ -55517,8 +55642,7 @@
 		],
 		"pcp": 14,
 		"aura": [
-			"tranquility (20 ft.",
-			"DC 15, 10 rounds)"
+			"tranquility (20 ft., DC 15, 10 rounds)"
 		],
 		"heading": [
 			"Lotus Leshy CR 5",
@@ -55900,8 +56024,7 @@
 			"Source ~`Bestiary 5 pg. 158`~",
 			"XP 600",
 			"CN Tiny fey",
-			"Init +7; Senses low-light vision;",
-			"Perception +7"
+			"Init +7; Senses low-light vision; Perception +7"
 		],
 		"environment": "any urban",
 		"shortDescription": "This creature resembles an elven courtier in miniature, dressed in the latest fashion and mothlike wings on its back."
@@ -57141,18 +57264,22 @@
 		"size": "gargantuan",
 		"type": "plant",
 		"init": 10,
+		"senses": [
+			"detect thoughts (DC 23)",
+			"low-light vision",
+			"thoughtsense 60 ft.",
+			"tremorsense 120 ft."
+		],
 		"pcp": 40,
 		"aura": [
-			"hallucination (60 ft.",
-			"DC 30, 4d6 hours)"
+			"hallucination (60 ft., DC 30, 4d6 hours)"
 		],
 		"heading": [
 			"Lotus Tree CR 20",
 			"Source ~`Bestiary 5 pg. 160`~",
 			"XP 307,200",
 			"N Gargantuan plant",
-			"Init +10; Senses detect thoughts (DC 23), low-light vision,",
-			"thoughtsense 60 ft., tremorsense 120 ft.; Perception +40",
+			"Init +10; Senses detect thoughts (DC 23), low-light vision, thoughtsense 60 ft., tremorsense 120 ft.; Perception +40",
 			"Aura hallucination (60 ft., DC 30, 4d6 hours)"
 		],
 		"environment": "any coastlines or forests",
@@ -58240,8 +58367,7 @@
 			"Source ~`Bestiary 5 pg. 262`~",
 			"XP 6,400",
 			"N Huge magical beast (aquatic, augmented animal)",
-			"Init +2; Senses darkvision 60 ft., low-light vision, scent;",
-			"Perception +22"
+			"Init +2; Senses darkvision 60 ft., low-light vision, scent; Perception +22"
 		],
 		"environment": "any",
 		"shortDescription": "This massive creature combines the trunk, tusks, and size of an elephant with the powerful jaws, scaly hide, and tail of a crocodile."
@@ -58469,7 +58595,7 @@
 			"Init +10; Senses darkvision 60 ft.; Perception +26"
 		],
 		"environment": "any (Material Plane or Positive Energy Plane)",
-		"shortDescription": "This regal, apparently human figure has glowing purple eyes and the grace and f luidity of water given form."
+		"shortDescription": "This regal, apparently human figure has glowing purple eyes and the grace and fluidity of water given form."
 	},
 	"Manasaputra, Twilight Pitri (Barhisad)": {
 		"monsterfullname": "Manasaputra, Twilight Pitri (Barhisad)",
@@ -58699,8 +58825,7 @@
 		],
 		"pcp": 18,
 		"aura": [
-			"stench (30 ft.",
-			"DC 22, 10 rounds)"
+			"stench (30 ft., DC 22, 10 rounds)"
 		],
 		"heading": [
 			"Mapinguari CR 11",
@@ -59247,7 +59372,7 @@
 			"Init +7; Senses low-light vision; Perception +9"
 		],
 		"environment": "warm plains",
-		"shortDescription": "Standing on muscular legs that end in enormous talons, this f lightless bird is almost twice the height of a man."
+		"shortDescription": "Standing on muscular legs that end in enormous talons, this flightless bird is almost twice the height of a man."
 	},
 	"Megafauna, Titanoboa": {
 		"monsterfullname": "Megafauna, Titanoboa",
@@ -60056,8 +60181,7 @@
 			"Source ~`Bestiary 5 pg. 173`~",
 			"XP 3,200",
 			"CE Large magical beast",
-			"Init +8; Senses darkvision 60 ft., low-light vision, scent;",
-			"Perception +10"
+			"Init +8; Senses darkvision 60 ft., low-light vision, scent; Perception +10"
 		],
 		"environment": "warm forests",
 		"shortDescription": "This jungle cat has a dark coat of striped fur, glossy black teeth and claws, and a black mane."
@@ -60214,14 +60338,18 @@
 		"size": "small",
 		"type": "plant",
 		"init": 10,
+		"senses": [
+			"darkvision 60 ft.",
+			"low-light vision",
+			"tremorsense 30 ft."
+		],
 		"pcp": 18,
 		"heading": [
 			"Moldwretch CR 7",
 			"Source ~`Bestiary 6 pg. 191`~",
 			"XP 3,200",
 			"N Small plant",
-			"Init +10; Senses darkvision 60 ft., low-light vision, tremorsense",
-			"30 ft.; Perception +18"
+			"Init +10; Senses darkvision 60 ft., low-light vision, tremorsense 30 ft.; Perception +18"
 		],
 		"environment": "any swamps or underground",
 		"shortDescription": "This deformed mold creature has long, dragging arms and an even longer tentacle growing out of its back that spews clouds of spores."
@@ -60781,14 +60909,19 @@
 		"size": "large",
 		"type": "plant",
 		"init": 13,
+		"senses": [
+			"darkvision 60 ft.",
+			"greensight",
+			"low-light vision",
+			"see invisibility"
+		],
 		"pcp": 35,
 		"heading": [
 			"Mosslord CR 18",
 			"Source ~`Bestiary 6 pg. 194`~",
 			"XP 153,600",
 			"LE Large plant",
-			"Init +13; Senses darkvision 60 ft., greensight, low-light vision,",
-			"see invisibility; Perception +35"
+			"Init +13; Senses darkvision 60 ft., greensight, low-light vision, see invisibility; Perception +35"
 		],
 		"environment": "temperate forests",
 		"shortDescription": "This towering, four-armed humanoid seems to be made of moss and splintered wood, its face sinister and mouthless."
@@ -61095,8 +61228,7 @@
 		],
 		"pcp": 21,
 		"aura": [
-			"frightful presence (30 ft.",
-			"DC 20, 1d6 rounds)"
+			"frightful presence (30 ft., DC 20, 1d6 rounds)"
 		],
 		"heading": [
 			"Mummified Gynosphinx CR 9",
@@ -61126,8 +61258,7 @@
 		],
 		"pcp": 16,
 		"aura": [
-			"despair (30 ft.",
-			"paralyzed for 1d4 rounds, Will DC 16 negates)"
+			"despair (30 ft., paralyzed for 1d4 rounds, Will DC 16 negates)"
 		],
 		"heading": [
 			"Mummy CR 5",
@@ -61838,8 +61969,7 @@
 			"Source ~`Bestiary 6 pg. 201`~",
 			"XP 2,400",
 			"NE Medium magical beast (shapechanger)",
-			"Init +8; Senses darkvision 60 ft., low-light vision, scent;",
-			"Perception +14"
+			"Init +8; Senses darkvision 60 ft., low-light vision, scent; Perception +14"
 		],
 		"environment": "any land",
 		"shortDescription": "This oversized house cat has two twitching tails and a malevolent gleam in its eyes."
@@ -62527,7 +62657,7 @@
 			"Init +8; Senses darkvision 60 ft.; Perception +28"
 		],
 		"environment": "cold oceans",
-		"shortDescription": "This enormous f lippered creature is as pale as an iceberg and is nearly as large."
+		"shortDescription": "This enormous flippered creature is as pale as an iceberg and is nearly as large."
 	},
 	"Ningyo": {
 		"monstername": "Ningyo",
@@ -65043,6 +65173,11 @@
 			"extraplanar"
 		],
 		"init": 12,
+		"senses": [
+			"blindsense 120 ft.",
+			"darkvision 60 ft.",
+			"low-light vision"
+		],
 		"pcp": 23,
 		"aura": [
 			"hypnotic coils (100 ft., DC 27)"
@@ -65052,8 +65187,7 @@
 			"Source ~`Bestiary 6 pg. 206`~",
 			"XP 409,600",
 			"N Colossal magical beast (extraplanar)",
-			"Init +12; Senses blindsense 120 ft., darkvision 60 ft., low-light",
-			"vision; Perception +23",
+			"Init +12; Senses blindsense 120 ft., darkvision 60 ft., low-light vision; Perception +23",
 			"Aura hypnotic coils (100 ft., DC 27)"
 		],
 		"environment": "any (Astral Plane)",
@@ -65315,6 +65449,12 @@
 			"extraplanar"
 		],
 		"init": 7,
+		"senses": [
+			"darkvision 60 ft.",
+			"detect good",
+			"detect magic",
+			"low-light vision"
+		],
 		"pcp": 18,
 		"aura": [
 			"frightful presence (30 ft., DC 21)"
@@ -65324,8 +65464,7 @@
 			"Source ~`Pathfinder #141: Last Watch pg. 82`~",
 			"XP 19,200",
 			"NE Medium outsider (evil, extraplanar)",
-			"Init +7; Senses darkvision 60 ft., detect good, detect magic,",
-			"low-light vision; Perception +18",
+			"Init +7; Senses darkvision 60 ft., detect good, detect magic, low-light vision; Perception +18",
 			"Aura frightful presence (30 ft., DC 21)"
 		],
 		"environment": "any (Abaddon)",
@@ -65409,8 +65548,7 @@
 			"Source ~`Bestiary 5 pg. 188`~",
 			"XP 25,600",
 			"NE Huge humanoid (giant)",
-			"Init +8; Senses darkvision 120 ft., low-light vision, sense decay;",
-			"Perception +4"
+			"Init +8; Senses darkvision 120 ft., low-light vision, sense decay; Perception +4"
 		],
 		"environment": "warm plains",
 		"shortDescription": "This imposing one-eyed giant wears fragments of crude armor and a breechcloth adorned with skulls. Its breath reeks of pestilence."
@@ -65683,8 +65821,7 @@
 			"Source ~`Pathfinder #141: Last Watch pg. 84`~",
 			"XP 6,400",
 			"N Diminutive dragon (swarm)",
-			"Init +11; Senses darkvision 60 ft., low-light vision;",
-			"Perception +8"
+			"Init +11; Senses darkvision 60 ft., low-light vision; Perception +8"
 		],
 		"environment": "any urban",
 		"shortDescription": "These songbird-sized drakes declare their territory with an insistent chorus of shrill chirps."
@@ -65697,13 +65834,14 @@
 		],
 		"cr": 1,
 		"xp": 400,
-		"alignment": "Any alignment",
+		"alignment": ["LG", "LN", "LE", "NG", "N", "NE", "CG", "CN", "CE"],
 		"size": "medium",
 		"type": "outsider",
 		"subtypes": [
 			"extraplanar"
 		],
 		"init": 0,
+		"senses": ["darkvision 60 ft."],
 		"pcp": 5,
 		"heading": [
 			"Petitioner CR 1",
@@ -65711,7 +65849,7 @@
 			"XP 400",
 			"Human petitioner",
 			"Any alignment Medium outsider (extraplanar)",
-			"Init +0; Senses darkvision 60 ft., Perception +5"
+			"Init +0; Senses darkvision 60 ft.; Perception +5"
 		],
 		"environment": "any (Outer Planes)",
 		"shortDescription": "Something seems strange and disturbingly familiar about this wispy, ghostly humanoid shape."
@@ -65794,8 +65932,7 @@
 			"Source ~`Bestiary 5 pg. 189`~",
 			"XP 9,600",
 			"NE Medium magical beast (shapechanger)",
-			"Init +6; Senses darkvision 60 ft., low-light vision, scent;",
-			"Perception +16"
+			"Init +6; Senses darkvision 60 ft., low-light vision, scent; Perception +16"
 		],
 		"environment": "any warm or temperate land",
 		"shortDescription": "This enormous snake has glowing green eyes, large fangs, and wide, membranous wings."
@@ -66049,8 +66186,7 @@
 		],
 		"pcp": 37,
 		"aura": [
-			"shroud of flame (20 ft.",
-			"4d6 fire, DC 25)"
+			"shroud of flame (20 ft., 4d6 fire, DC 25)"
 		],
 		"heading": [
 			"Phoenix CR 15",
@@ -66894,8 +67030,7 @@
 			"Source ~`Bestiary 6 pg. 208`~, ~`Pathfinder #98: Turn of the Torrent pg. 86`~",
 			"XP 1,600",
 			"CN Small outsider (chaotic, extraplanar, protean, shapechanger)",
-			"Init +9; Senses blindsense 30 ft., darkvision 60 ft., detect law;",
-			"Perception +11"
+			"Init +9; Senses blindsense 30 ft., darkvision 60 ft., detect law; Perception +11"
 		],
 		"environment": "any (Maelstrom)",
 		"shortDescription": "Brilliant blue scales with purple highlights cover this sinuous creature's body, and its slender reptilian maw is filled with tiny, sharp teeth."
@@ -66934,8 +67069,7 @@
 			"Source ~`Bestiary 6 pg. 209`~, ~`Pathfinder #101: The Kintargo Contract pg. 84`~",
 			"XP 51,200",
 			"CN Large outsider (chaotic, extraplanar, protean, shapechanger)",
-			"Init +10; Senses blindsense 60 ft., darkvision 60 ft., detect law;",
-			"Perception +26",
+			"Init +10; Senses blindsense 60 ft., darkvision 60 ft., detect law; Perception +26",
 			"Aura maddening whispers (20 ft., DC 24)"
 		],
 		"environment": "any (Maelstrom)",
@@ -67200,8 +67334,7 @@
 			"Source ~`Bestiary 6 pg. 212`~",
 			"XP 25,600",
 			"CN Medium outsider (chaotic, extraplanar, protean, shapechanger)",
-			"Init +11; Senses blindsense 30 ft., darkvision 60 ft., detect law;",
-			"Perception +24"
+			"Init +11; Senses blindsense 30 ft., darkvision 60 ft., detect law; Perception +24"
 		],
 		"environment": "any (Maelstrom)",
 		"shortDescription": "This crocodile-jawed creature has two talon-tipped hands and luminescent tentacles extending from its back."
@@ -67273,8 +67406,7 @@
 			"Source ~`Bestiary 6 pg. 214`~, ~`Pathfinder #99: Dance of the Damned pg. 88`~",
 			"XP 4,800",
 			"CN Medium outsider (chaotic, extraplanar, incorporeal, protean, shapechanger)",
-			"Init +10; Senses blindsight 30 ft., darkvision 60 ft., detect law;",
-			"Perception +16"
+			"Init +10; Senses blindsight 30 ft., darkvision 60 ft., detect law; Perception +16"
 		],
 		"environment": "any (Maelstrom)",
 		"shortDescription": "This glittering serpent's body ends in a looping length of tail. Its scales glow softly in ever-changing patterns."
@@ -67536,12 +67668,11 @@
 			"Source ~`Bestiary 5 pg. 197`~",
 			"XP 4,800",
 			"N Small outsider (extraplanar, incorporeal)",
-			"Init +8; Senses darkvision 60 ft., thoughtsense 60 ft.;",
-			"Perception +18",
+			"Init +8; Senses darkvision 60 ft., thoughtsense 60 ft.; Perception +18",
 			"Aura mental static (30 ft., DC 18)"
 		],
 		"environment": "any (Astral Plane)",
-		"shortDescription": "This incorporeal field shimmers with a constant f lux of colors and shapes that coalesce into distorted, ephemeral images and ref lections."
+		"shortDescription": "This incorporeal field shimmers with a constant flux of colors and shapes that coalesce into distorted, ephemeral images and ref lections."
 	},
 	"Psychepore": {
 		"monstername": "Psychepore",
@@ -67555,14 +67686,18 @@
 		"size": "medium",
 		"type": "plant",
 		"init": 3,
+		"senses": [
+			"all-around vision",
+			"darkvision 60 ft.",
+			"low-light vision"
+		],
 		"pcp": 12,
 		"heading": [
 			"Psychepore CR 7",
 			"Source ~`Bestiary 5 pg. 198`~",
 			"XP 3,200",
 			"N Medium plant",
-			"Init +3; Senses all-around vision, darkvision 60 ft., low-light",
-			"vision; Perception +12"
+			"Init +3; Senses all-around vision, darkvision 60 ft., low-light vision; Perception +12"
 		],
 		"environment": "warm forests or jungles",
 		"shortDescription": "A mass of shell-like fungus grows so thick it obscures the mass of plant matter beneath."
@@ -67731,6 +67866,12 @@
 			"swarm"
 		],
 		"init": 14,
+		"senses": [
+			"darkvision 60 ft.",
+			"greater arcane sight",
+			"low-light vision",
+			"spiritsense"
+		],
 		"pcp": 26,
 		"aura": [
 			"grief (30 ft., DC 24)"
@@ -67740,8 +67881,7 @@
 			"Source ~`Bestiary 6 pg. 217`~",
 			"XP 12,800",
 			"N Diminutive outsider (extraplanar, psychopomp, swarm)",
-			"Init +14; Senses darkvision 60 ft., greater arcane sight, low-light",
-			"vision, spiritsense; Perception +26",
+			"Init +14; Senses darkvision 60 ft., greater arcane sight, low-light vision, spiritsense; Perception +26",
 			"Aura grief (30 ft., DC 24)"
 		],
 		"environment": "any (Boneyard)",
@@ -67872,14 +68012,20 @@
 			"psychopomp"
 		],
 		"init": 3,
+		"senses": [
+			"darkvision 60 ft.",
+			"detect undead",
+			"low-light vision",
+			"scent",
+			"spiritsense"
+		],
 		"pcp": 2,
 		"heading": [
 			"Esobok CR 3",
 			"Source ~`Bestiary 6 pg. 218`~, ~`Pathfinder #80: Empty Graves pg. 84`~",
 			"XP 800",
 			"N Medium outsider (extraplanar, psychopomp)",
-			"Init +3; Senses darkvision 60 ft., detect undead, low-light vision,",
-			"scent, spiritsense; Perception +2"
+			"Init +3; Senses darkvision 60 ft., detect undead, low-light vision, scent, spiritsense; Perception +2"
 		],
 		"environment": "any (Boneyard)",
 		"shortDescription": "This stout, hunched predator has a ruff of dirty feathers and a crocodilian skull for a head."
@@ -67973,6 +68119,14 @@
 			"psychopomp"
 		],
 		"init": 13,
+		"senses": [
+			"darkvision 60 ft.",
+			"detect evil",
+			"detect good",
+			"low-light vision",
+			"spiritsense",
+			"true seeing"
+		],
 		"pcp": 24,
 		"aura": [
 			"terminal aura (50 ft., DC 23)"
@@ -67982,8 +68136,7 @@
 			"Source ~`Bestiary 6 pg. 219`~, ~`Inner Sea Bestiary pg. 39`~",
 			"XP 51,200",
 			"N Medium outsider (extraplanar, psychopomp)",
-			"Init +13; Senses darkvision 60 ft., detect evil, detect good, low-light",
-			"vision, spiritsense, true seeing; Perception +24",
+			"Init +13; Senses darkvision 60 ft., detect evil, detect good, low-light vision, spiritsense, true seeing; Perception +24",
 			"Aura terminal aura (50 ft., DC 23)"
 		],
 		"environment": "any (Boneyard)",
@@ -68143,15 +68296,23 @@
 			"psychopomp"
 		],
 		"init": 4,
+		"senses": [
+			"darkvision 60 ft.",
+			"detect chaos",
+			"detect evil",
+			"detect good",
+			"detect law",
+			"detect magic",
+			"low-light vision",
+			"spirit-sense"
+		],
 		"pcp": 22,
 		"heading": [
 			"Shoki CR 9",
 			"Source ~`Bestiary 6 pg. 222`~, ~`Inner Sea Bestiary pg. 40`~",
 			"XP 6,400",
 			"N Medium outsider (extraplanar, psychopomp)",
-			"Init +4; Senses darkvision 60 ft., detect chaos, detect evil, detect",
-			"good, detect law, detect magic, low-light vision, spirit-sense;",
-			"Perception +22"
+			"Init +4; Senses darkvision 60 ft., detect chaos, detect evil, detect good, detect law, detect magic, low-light vision, spirit-sense; Perception +22"
 		],
 		"environment": "any (Boneyard)",
 		"shortDescription": "A wooden staff topped with a silver cage containing a ghostly face keeps this grizzled, snail-backed creature upright."
@@ -68223,8 +68384,7 @@
 			"Source ~`Bestiary 6 pg. 223`~, ~`Inner Sea Bestiary pg. 41`~",
 			"XP 1,200",
 			"N Medium outsider (extraplanar, psychopomp)",
-			"Init +4; Senses darkvision 60 ft., low-light vision, spiritsense;",
-			"Perception +14"
+			"Init +4; Senses darkvision 60 ft., low-light vision, spiritsense; Perception +14"
 		],
 		"environment": "any (Boneyard)",
 		"shortDescription": "This dour being has a mostly humanoid form with its lower body wrapped in a cocoon-like husk."
@@ -68498,6 +68658,13 @@
 			"qlippoth"
 		],
 		"init": 11,
+		"senses": [
+			"darkvision 60 ft.",
+			"detect good",
+			"detect law",
+			"tremorsense 60 ft.",
+			"true seeing"
+		],
 		"pcp": 34,
 		"aura": [
 			"cloak of chaos (DC 24)"
@@ -68507,8 +68674,7 @@
 			"Source ~`Bestiary 6 pg. 232`~",
 			"XP 614,400",
 			"CE Colossal outsider (chaotic, evil, extraplanar, qlippoth)",
-			"Init +11; Senses darkvision 60 ft., detect good, detect law,",
-			"tremorsense 60 ft., true seeing; Perception +34",
+			"Init +11; Senses darkvision 60 ft., detect good, detect law, tremorsense 60 ft., true seeing; Perception +34",
 			"Aura cloak of chaos (DC 24)"
 		],
 		"environment": "any (Abyss)",
@@ -68534,6 +68700,12 @@
 			"qlippoth"
 		],
 		"init": 16,
+		"senses": [
+			"darkvision 60 ft.",
+			"detect good",
+			"detect law",
+			"true seeing"
+		],
 		"pcp": 40,
 		"aura": [
 			"cloak of chaos (DC 27)"
@@ -68543,16 +68715,15 @@
 			"Source ~`Bestiary 6 pg. 234`~",
 			"XP 1,638,400",
 			"CE Medium outsider (chaotic, evil, extraplanar, incorporeal, qlippoth)",
-			"Init +16; Senses darkvision 60 ft., detect good, detect law, true",
-			"seeing; Perception +40",
+			"Init +16; Senses darkvision 60 ft., detect good, detect law, true seeing; Perception +40",
 			"Aura cloak of chaos (DC 27)"
 		],
 		"environment": "any (Abyss)",
 		"shortDescription": "A cloud of smoke the size of a human condenses, forming a clot of tentacles and eyes surrounding a fanged mouth."
 	},
-	"Qlippoth Lord, Qaur-Ooung": {
-		"monsterfullname": "Qlippoth Lord, Qaur-Ooung",
-		"monstername": "Qaur-Ooung",
+	"Qlippoth Lord, Oaur-Ooung": {
+		"monsterfullname": "Qlippoth Lord, Oaur-Ooung",
+		"monstername": "Oaur-Ooung",
 		"file": "monsterdisplay1bf6.html",
 		"sources": [
 			"Bestiary 6"
@@ -68589,7 +68760,7 @@
 			"Aura cloak of chaos (DC 24)"
 		],
 		"environment": "any (Abyss)",
-		"shortDescription": "The sides of this tentacled monstrosity-part jellyfish, part mushroom forest'swell with opaque, pulsing blisters."
+		"shortDescription": "The sides of this tentacled monstrosity-part jellyfish, part mushroom forest-swell with opaque, pulsing blisters."
 	},
 	"Qlippoth Lord, Thuskchoon": {
 		"monsterfullname": "Qlippoth Lord, Thuskchoon",
@@ -68610,6 +68781,13 @@
 			"qlippoth"
 		],
 		"init": 14,
+		"senses": [
+			"darkvision 60 ft.",
+			"detect good",
+			"detect law",
+			"tremorsense 120 ft.",
+			"true seeing"
+		],
 		"pcp": 36,
 		"aura": [
 			"cloak of chaos (DC 23)"
@@ -68619,8 +68797,7 @@
 			"Source ~`Bestiary 6 pg. 238`~",
 			"XP 409,600",
 			"CE Gargantuan outsider (chaotic, evil, extraplanar, qlippoth)",
-			"Init +14; Senses darkvision 60 ft., detect good, detect law,",
-			"tremorsense 120 ft., true seeing; Perception +36",
+			"Init +14; Senses darkvision 60 ft., detect good, detect law, tremorsense 120 ft., true seeing; Perception +36",
 			"Aura cloak of chaos (DC 23)"
 		],
 		"environment": "any (Abyss)",
@@ -69745,8 +69922,7 @@
 			"Source ~`Bestiary 5 pg. 201`~",
 			"XP 200",
 			"N Medium magical beast",
-			"Init +2; Senses darkvision 60 ft., low-light vision, scent;",
-			"Perception +6"
+			"Init +2; Senses darkvision 60 ft., low-light vision, scent; Perception +6"
 		],
 		"environment": "any land",
 		"shortDescription": "This long, serpent-bodied weasel has tusks and a snout similar to that of a boar and a body covered with soft, green fur."
@@ -70705,13 +70881,17 @@
 			"extraplanar"
 		],
 		"init": 7,
+		"senses": [
+			"darkvision 60 ft.",
+			"low-light vision"
+		],
 		"pcp": 15,
 		"heading": [
 			"Retriever CR 11",
 			"Source ~`Pathfinder RPG Bestiary pg. 234`~",
 			"XP 12,800",
 			"CE Huge construct (extraplanar)",
-			"Init +7; Senses darkvision 60 ft., low-light vision, Perception +15"
+			"Init +7; Senses darkvision 60 ft., low-light vision; Perception +15"
 		],
 		"environment": "any (Abyss)",
 		"shortDescription": "A spider the size of a bull elephant rears up on its back four legs in a violent challenge, eyes shimmering with magical energy."
@@ -70851,8 +71031,7 @@
 			"Source ~`Bestiary 5 pg. 204`~, ~`The Worldwound pg. 57`~",
 			"XP 51,200",
 			"CE Gargantuan ooze (extraplanar)",
-			"Init +12; Senses blindsight 60 ft., tremorsense 120 ft.;",
-			"Perception +3"
+			"Init +12; Senses blindsight 60 ft., tremorsense 120 ft.; Perception +3"
 		],
 		"environment": "any mountains (Abyss)",
 		"shortDescription": "This slithering mass of bubbling red ooze extrudes a nest of long, thin tendrils, as if tasting the air in search of prey."
@@ -70901,14 +71080,18 @@
 			"robot"
 		],
 		"init": 6,
+		"senses": [
+			"darkvision 120 ft.",
+			"low-light vision",
+			"tremorsense 60 ft."
+		],
 		"pcp": 24,
 		"heading": [
 			"Annihilator Robot CR 16",
 			"Source ~`Bestiary 5 pg. 206`~, ~`Inner Sea Bestiary pg. 43`~",
 			"XP 76,800",
 			"N Gargantuan construct (robot)",
-			"Init +6; Senses darkvision 120 ft., low-light vision, tremorsense",
-			"60 ft.; Perception +24"
+			"Init +6; Senses darkvision 120 ft., low-light vision, tremorsense 60 ft.; Perception +24"
 		],
 		"environment": "any",
 		"shortDescription": "The tip of this towering, scorpion-like construct's tail thrums with otherworldly energy."
@@ -71194,8 +71377,7 @@
 			"Source ~`Bestiary 5 pg. 208`~, ~`Inner Sea Bestiary pg. 45`~",
 			"XP 12,800",
 			"N Large construct (robot)",
-			"Init +6; Senses darkvision 60 ft., low-light vision, superior optics;",
-			"Perception +20"
+			"Init +6; Senses darkvision 60 ft., low-light vision, superior optics; Perception +20"
 		],
 		"environment": "any",
 		"shortDescription": "This metallic creature has pincer-tipped arms, a single red eye, and an array of deadly armaments."
@@ -72254,14 +72436,20 @@
 			"sahkil"
 		],
 		"init": 8,
+		"senses": [
+			"darkvision 60 ft.",
+			"detect good",
+			"detect magic",
+			"low-light vision",
+			"see invisibility"
+		],
 		"pcp": 15,
 		"heading": [
 			"Ichkoh CR 7",
 			"Source ~`Bestiary 6 pg. 243`~",
 			"XP 3,200",
 			"NE Medium outsider (evil, extraplanar, sahkil)",
-			"Init +8; Senses darkvision 60 ft., detect good, detect magic,",
-			"low-light vision, see invisibility; Perception +15"
+			"Init +8; Senses darkvision 60 ft., detect good, detect magic, low-light vision, see invisibility; Perception +15"
 		],
 		"environment": "any (Ethereal Plane)",
 		"shortDescription": "This monstrosity looks like a massive cockroach made from putrid hair. A humanoid face leers in place of an insectile head."
@@ -72295,8 +72483,7 @@
 			"Source ~`Bestiary 5 pg. 214`~",
 			"XP 307,200",
 			"NE Huge outsider (evil, extraplanar, sahkil)",
-			"Init +9; Senses darkvision 60 ft., low-light vision, true seeing;",
-			"Perception +37"
+			"Init +9; Senses darkvision 60 ft., low-light vision, true seeing; Perception +37"
 		],
 		"environment": "any (Ethereal Plane)",
 		"shortDescription": "Three monstrous, misshapen skulls top a twisted trunk balanced on three leglike splinters of flesh and bone."
@@ -72364,11 +72551,10 @@
 			"Source ~`Bestiary 5 pg. 216`~",
 			"XP 6,400",
 			"NE Medium outsider (evil, extraplanar, sahkil)",
-			"Init +10; Senses darkvision 60 ft., low-light vision, true seeing;",
-			"Perception +13"
+			"Init +10; Senses darkvision 60 ft., low-light vision, true seeing; Perception +13"
 		],
 		"environment": "any (Ethereal Plane)",
-		"shortDescription": "Thorny vines with tiny red f lowers grow from this emaciated woman and f low like a train behind her."
+		"shortDescription": "Thorny vines with tiny red flowers grow from this emaciated woman and flow like a train behind her."
 	},
 	"Sahkil, Qolok": {
 		"monsterfullname": "Sahkil, Qolok",
@@ -72399,11 +72585,10 @@
 			"Source ~`Bestiary 5 pg. 217`~",
 			"XP 76,800",
 			"NE Large outsider (evil, extraplanar, sahkil)",
-			"Init +8; Senses darkvision 60 ft., low-light vision, true seeing;",
-			"Perception +27"
+			"Init +8; Senses darkvision 60 ft., low-light vision, true seeing; Perception +27"
 		],
 		"environment": "any (Ethereal Plane)",
-		"shortDescription": "Terrible jaws ringed with clawed arms open atop this towering mass of f lesh. A probing tongue f lops from another orifice."
+		"shortDescription": "Terrible jaws ringed with clawed arms open atop this towering mass of flesh. A probing tongue flops from another orifice."
 	},
 	"Sahkil, Wihsaak": {
 		"monsterfullname": "Sahkil, Wihsaak",
@@ -72433,8 +72618,7 @@
 			"Source ~`Bestiary 5 pg. 218`~",
 			"XP 2,400",
 			"NE Medium outsider (evil, extraplanar, sahkil)",
-			"Init +7; Senses darkvision 60 ft., low-light vision;",
-			"Perception +12"
+			"Init +7; Senses darkvision 60 ft., low-light vision; Perception +12"
 		],
 		"environment": "any (Ethereal Plane)",
 		"shortDescription": "Buzzing wings hold this gaunt creature just above the ground. A grasshopper serves as the creature's head."
@@ -72457,14 +72641,20 @@
 			"sahkil"
 		],
 		"init": 11,
+		"senses": [
+			"darkvision 60 ft.",
+			"detect good",
+			"detect magic",
+			"see in darkness",
+			"true seeing"
+		],
 		"pcp": 27,
 		"heading": [
 			"Ximtal CR 17",
 			"Source ~`Bestiary 6 pg. 244`~",
 			"XP 102,400",
 			"NE Large outsider (evil, extraplanar, sahkil)",
-			"Init +11; Senses darkvision 60 ft., detect good, detect magic,",
-			"see in darkness, true seeing; Perception +27"
+			"Init +11; Senses darkvision 60 ft., detect good, detect magic, see in darkness, true seeing; Perception +27"
 		],
 		"environment": "any (Ethereal Plane)",
 		"shortDescription": "A rat's head sprouts from the front of a crab-like body, and two tentacular tails ending in hands erupt from the towering bulk."
@@ -72487,14 +72677,20 @@
 			"sahkil"
 		],
 		"init": 8,
+		"senses": [
+			"darkvision 60 ft.",
+			"detect good",
+			"detect magic",
+			"low-light vision",
+			"see invisibility"
+		],
 		"pcp": 19,
 		"heading": [
 			"Zohanil CR 10",
 			"Source ~`Bestiary 6 pg. 246`~",
 			"XP 9,600",
 			"NE Medium outsider (evil, extraplanar, sahkil)",
-			"Init +8; Senses darkvision 60 ft., detect good, detect magic,",
-			"low-light vision, see invisibility; Perception +19"
+			"Init +8; Senses darkvision 60 ft., detect good, detect magic, low-light vision, see invisibility; Perception +19"
 		],
 		"environment": "any (Ethereal Plane)",
 		"shortDescription": "This monster is vaguely humanoid, but stands on three legs. A foul liquid drips from the needlelike tips of its long, hooked arms."
@@ -73534,8 +73730,7 @@
 			"Source ~`Rise of the Runelords Anniversary Edition pg. 414`~",
 			"XP 19,200",
 			"LE Huge outsider (evil, extraplanar, lawful)",
-			"Init +9; Senses bloodsense, darkvision 60 ft., detect thoughts;",
-			"Perception +24"
+			"Init +9; Senses bloodsense, darkvision 60 ft., detect thoughts; Perception +24"
 		],
 		"environment": "any",
 		"shortDescription": "This crimson horror walks upon six long, thin legs. Its face is neither that of a skull nor spider, but some horrid mix of the two."
@@ -73597,8 +73792,7 @@
 			"Source ~`Pathfinder #141: Last Watch pg. 86`~",
 			"XP 6,400",
 			"NE Large outsider (extraplanar)",
-			"Init +8; Senses darkvision 120 ft., lifesense, low-light vision;",
-			"Perception +9"
+			"Init +8; Senses darkvision 120 ft., lifesense, low-light vision; Perception +9"
 		],
 		"environment": "any (Negative Energy Plane)",
 		"shortDescription": "This winged, six-legged creature seems to be constructed of dark crystal. Its mouth is disproportionately large for its wolfish head, gaping open to display rows of jagged teeth, and its spiky, manyjointed legs bend in unsettling ways."
@@ -74147,7 +74341,7 @@
 			"Init +6; Senses low-light vision; Perception +12"
 		],
 		"environment": "warm oceans",
-		"shortDescription": "This great, writhing aquatic beast is pale blue with bright yellow stripes, and possesses a f lipperlike tail to aid it as it swims."
+		"shortDescription": "This great, writhing aquatic beast is pale blue with bright yellow stripes, and possesses a flipperlike tail to aid it as it swims."
 	},
 	"Sea Urchin, Giant, Black Spot": {
 		"monsterfullname": "Sea Urchin, Giant, Black Spot",
@@ -75034,14 +75228,18 @@
 		"size": "medium",
 		"type": "magical beast",
 		"init": 4,
+		"senses": [
+			"darkvision 60 ft.",
+			"low-light vision",
+			"sandstorm sight"
+		],
 		"pcp": 7,
 		"heading": [
 			"Sha CR 4",
 			"Source ~`Bestiary 5 pg. 226`~, ~`Pathfinder #80: Empty Graves pg. 86`~",
 			"XP 1,200",
 			"LE Medium magical beast",
-			"Init +4; Senses darkvision 60 ft., low-light vision, sandstorm",
-			"sight; Perception +7"
+			"Init +4; Senses darkvision 60 ft., low-light vision, sandstorm sight; Perception +7"
 		],
 		"environment": "warm deserts",
 		"shortDescription": "The strangely shaped glowing red eyes, unnaturally upright ears, and split tail betray the unnatural origins of this black canine."
@@ -77295,8 +77493,7 @@
 		],
 		"pcp": 1,
 		"aura": [
-			"stench (30 ft.",
-			"DC 17, 10 rounds)"
+			"stench (30 ft., DC 17, 10 rounds)"
 		],
 		"heading": [
 			"Slaugrak CR 6",
@@ -77832,11 +78029,10 @@
 			"Source ~`Bestiary 5 pg. 234`~, ~`The Moonscar pg. 29`~",
 			"XP 19,200",
 			"NE Large aberration",
-			"Init +7; Senses darkvision 60 ft., tremorsense 60 ft.;",
-			"Perception +26"
+			"Init +7; Senses darkvision 60 ft., tremorsense 60 ft.; Perception +26"
 		],
 		"environment": "any (terrestrial vacuum)",
-		"shortDescription": "Four long antennae stretch from the face of this giant, multi-eyed f latworm. From its spiny, chitinous body emerge four tentacles."
+		"shortDescription": "Four long antennae stretch from the face of this giant, multi-eyed flatworm. From its spiny, chitinous body emerge four tentacles."
 	},
 	"Sorico": {
 		"monstername": "Sorico",
@@ -78300,8 +78496,7 @@
 		],
 		"pcp": 20,
 		"aura": [
-			"stench (30 ft.",
-			"DC 22, 10 rounds)"
+			"stench (30 ft., DC 22, 10 rounds)"
 		],
 		"heading": [
 			"Spawn of Yog-Sothoth CR 10",
@@ -78364,8 +78559,7 @@
 		],
 		"pcp": 17,
 		"aura": [
-			"discordant field (30 ft.",
-			"DC 25, 10 rounds)"
+			"discordant field (30 ft., DC 25, 10 rounds)"
 		],
 		"heading": [
 			"Spellgorger CR 12",
@@ -78946,7 +79140,7 @@
 			"Aura charming (30 feet, DC 25)"
 		],
 		"environment": "any (extraplanar)",
-		"shortDescription": "This armored woman appears to be carved from living marble, her angelic wings rising behind the shape of a heavenly warrior. In one hand she grips a fearsome glaive, every movement of which paints the air around her with swirls and f lourishes of magical energy."
+		"shortDescription": "This armored woman appears to be carved from living marble, her angelic wings rising behind the shape of a heavenly warrior. In one hand she grips a fearsome glaive, every movement of which paints the air around her with swirls and flourishes of magical energy."
 	},
 	"Spiroskek": {
 		"monstername": "Spiroskek",
@@ -79144,8 +79338,7 @@
 			"Source ~`Fey Revisited pg. 62`~",
 			"XP 1,600",
 			"CN Diminutive fey (swarm)",
-			"Init +7; Senses low-light vision, detect evil, detect good;",
-			"Perception +14"
+			"Init +7; Senses low-light vision, detect evil, detect good; Perception +14"
 		],
 		"environment": "temperate forests",
 		"shortDescription": "Thousands of tiny, colorful winged humanoids crawl from every corner of the forest to form this buzzing, writhing swarm."
@@ -79428,6 +79621,14 @@
 		"size": "large",
 		"type": "monstrous humanoid",
 		"init": 12,
+		"senses": [
+			"all-around vision",
+			"darkvision 90 ft.",
+			"low-light vision",
+			"mistsight",
+			"scent",
+			"see in darkness"
+		],
 		"pcp": 22,
 		"aura": [
 			"static aura (5 ft., 2d6 electricity)"
@@ -79437,8 +79638,7 @@
 			"Source ~`Bestiary 5 pg. 236`~, ~`Pathfinder #70: The Frozen Stars pg. 84`~",
 			"XP 51,200",
 			"CE Large monstrous humanoid",
-			"Init +12; Senses all-around vision, darkvision 90 ft., low-light",
-			"vision, mistsight, scent, see in darkness; Perception +22",
+			"Init +12; Senses all-around vision, darkvision 90 ft., low-light vision, mistsight, scent, see in darkness; Perception +22",
 			"Aura static aura (5 ft., 2d6 electricity)"
 		],
 		"environment": "cold mountains",
@@ -79791,14 +79991,19 @@
 		"size": "medium",
 		"type": "magical beast",
 		"init": 4,
+		"senses": [
+			"all-around vision",
+			"darkvision 60 ft.",
+			"low-light vision",
+			"scent"
+		],
 		"pcp": 10,
 		"heading": [
 			"Su CR 8",
 			"Source ~`Bestiary 5 pg. 238`~",
 			"XP 4,800",
 			"CE Medium magical beast",
-			"Init +4; Senses all-around vision, darkvision 60 ft., low-light",
-			"vision, scent; Perception +10"
+			"Init +4; Senses all-around vision, darkvision 60 ft., low-light vision, scent; Perception +10"
 		],
 		"environment": "any forests",
 		"shortDescription": "This emaciated quadruped has a mouth full of jagged teeth and a cluster of bald, mewling offspring clinging to its back."
@@ -80279,8 +80484,7 @@
 			"Source ~`Bestiary 6 pg. 259`~",
 			"XP 2,400",
 			"CG Large magical beast (aquatic)",
-			"Init +2; Senses darkvision 60 ft., detect poison, low-light vision;",
-			"Perception +16"
+			"Init +2; Senses darkvision 60 ft., detect poison, low-light vision; Perception +16"
 		],
 		"environment": "warm rivers",
 		"shortDescription": "This creature has a long, sinuous, eellike body but the scaly head of a crocodile with large, piercing blue eyes."
@@ -80355,14 +80559,18 @@
 		"size": "colossal",
 		"type": "plant",
 		"init": 14,
+		"senses": [
+			"greensight 60 ft.",
+			"low-light vision",
+			"tremorsense 90 ft."
+		],
 		"pcp": 36,
 		"heading": [
 			"Tarantula Tree CR 19",
 			"Source ~`Bestiary 6 pg. 260`~",
 			"XP 204,800",
 			"CN Colossal plant",
-			"Init +14; Senses greensight 60 ft., low-light vision, tremorsense",
-			"90 ft.; Perception +36"
+			"Init +14; Senses greensight 60 ft., low-light vision, tremorsense 90 ft.; Perception +36"
 		],
 		"environment": "temperate or tropical forests",
 		"shortDescription": "This towering mass of vegetation balances itself upon several long and misshapen tree trunks."
@@ -80811,8 +81019,7 @@
 			"Source ~`Bestiary 5 pg. 242`~",
 			"XP 2,400",
 			"N Fine vermin (swarm)",
-			"Init +2; Senses darkvision 60 ft., scent, tremorsense 60 ft.;",
-			"Perception +1"
+			"Init +2; Senses darkvision 60 ft., scent, tremorsense 60 ft.; Perception +1"
 		],
 		"environment": "warm forests, plains, or underground",
 		"shortDescription": "The ground teems with crawling termites, biting and stinging as they come."
@@ -81039,8 +81246,7 @@
 			"Source ~`Bestiary 6 pg. 263`~",
 			"XP 153,600",
 			"N Gargantuan aberration",
-			"Init +15; Senses darkvision 60 ft., low-light vision, scent;",
-			"Perception +31"
+			"Init +15; Senses darkvision 60 ft., low-light vision, scent; Perception +31"
 		],
 		"environment": "temperate swamps",
 		"shortDescription": "This four-legged reptile has eight serpentine heads arrayed around a central maw. Its long, thrashing tail ends in a crab-like pincer."
@@ -81284,7 +81490,7 @@
 			"Init +7; Senses darkvision 60 ft., detect secret doors; Perception +10"
 		],
 		"environment": "any",
-		"shortDescription": "This elegant half-woman, half-bee wields a glaive and is clad in f lowing, gauzy garments. A veil covers most of her face."
+		"shortDescription": "This elegant half-woman, half-bee wields a glaive and is clad in flowing, gauzy garments. A veil covers most of her face."
 	},
 	"Thriae, Thriae Queen": {
 		"monsterfullname": "Thriae, Thriae Queen",
@@ -81982,11 +82188,10 @@
 			"Source ~`Bestiary 5 pg. 249`~, ~`Tears at Bitter Manor pg. 63`~",
 			"XP 1,600",
 			"N Large magical beast",
-			"Init +3; Senses darkvision 60 ft., low-light vision;",
-			"Perception +7"
+			"Init +3; Senses darkvision 60 ft., low-light vision; Perception +7"
 		],
 		"environment": "temperate rivers or marshes",
-		"shortDescription": "This serpentine beast undulates through the water. Its scaly skin and its f lesh are clear, revealing its red-and-brown organs."
+		"shortDescription": "This serpentine beast undulates through the water. Its scaly skin and its flesh are clear, revealing its red-and-brown organs."
 	},
 	"Toad, Giant Toad": {
 		"monsterfullname": "Toad, Giant Toad",
@@ -82622,8 +82827,7 @@
 		],
 		"pcp": 0,
 		"aura": [
-			"stench (30 ft.",
-			"DC 13, 10 rounds)"
+			"stench (30 ft., DC 13, 10 rounds)"
 		],
 		"heading": [
 			"Troglodyte CR 1",
@@ -82656,8 +82860,7 @@
 			"darkvision 90 ft."
 		],
 		"aura": [
-			"stench (30 ft.",
-			"DC 13, 10 rounds)"
+			"stench (30 ft., DC 13, 10 rounds)"
 		],
 		"heading": [
 			"Troglodyte Beast-Speaker CR 3",
@@ -82692,8 +82895,7 @@
 		],
 		"pcp": 3,
 		"aura": [
-			"stench (30 ft.",
-			"DC 15, 10 rounds)"
+			"stench (30 ft., DC 15, 10 rounds)"
 		],
 		"heading": [
 			"Troglodyte Champion CR 7",
@@ -82727,8 +82929,7 @@
 		],
 		"pcp": 12,
 		"aura": [
-			"stench (30 ft.",
-			"DC 14, 10 rounds)"
+			"stench (30 ft., DC 14, 10 rounds)"
 		],
 		"heading": [
 			"Troglodyte Chieftain CR 8",
@@ -82763,8 +82964,7 @@
 		],
 		"pcp": 2,
 		"aura": [
-			"stench (30 ft.",
-			"DC 14, 10 rounds)"
+			"stench (30 ft., DC 14, 10 rounds)"
 		],
 		"heading": [
 			"Troglodyte Priest CR 3",
@@ -82799,8 +82999,7 @@
 		],
 		"pcp": 10,
 		"aura": [
-			"stench (30 ft.",
-			"DC 14, 10 rounds)"
+			"stench (30 ft., DC 14, 10 rounds)"
 		],
 		"heading": [
 			"Troglodyte Scale-Rider CR 6",
@@ -82835,8 +83034,7 @@
 		],
 		"pcp": 8,
 		"aura": [
-			"stench (30 ft.",
-			"DC 14, 10 rounds)"
+			"stench (30 ft., DC 14, 10 rounds)"
 		],
 		"heading": [
 			"Troglodyte Skulker CR 2",
@@ -82871,8 +83069,7 @@
 		],
 		"pcp": 1,
 		"aura": [
-			"stench (30 ft.",
-			"DC 13, 10 rounds)"
+			"stench (30 ft., DC 13, 10 rounds)"
 		],
 		"heading": [
 			"Troglodyte Sorcerer CR 4",
@@ -82906,8 +83103,7 @@
 		],
 		"pcp": 13,
 		"aura": [
-			"stench (30 ft.",
-			"DC 21, 10 rounds)"
+			"stench (30 ft., DC 21, 10 rounds)"
 		],
 		"heading": [
 			"Troglodyte Tyrant CR 10",
@@ -82941,8 +83137,7 @@
 		],
 		"pcp": 14,
 		"aura": [
-			"stench (30 ft.",
-			"DC 16, 10 rounds)"
+			"stench (30 ft., DC 16, 10 rounds)"
 		],
 		"heading": [
 			"Troglodyte Warren Guard CR 9",
@@ -84298,7 +84493,7 @@
 			"Init +7; Senses darkvision 60 ft.; Perception +11"
 		],
 		"environment": "any",
-		"shortDescription": "A gray-skinned humanoid with oddly unremarkable features f loats ponderously in mid-air."
+		"shortDescription": "A gray-skinned humanoid with oddly unremarkable features floats ponderously in mid-air."
 	},
 	"Tunche": {
 		"monstername": "Tunche",
@@ -84462,8 +84657,7 @@
 			"Source ~`Bestiary 5 pg. 256`~",
 			"XP 204,800",
 			"N Gargantuan outsider (extraplanar)",
-			"Init +7; Senses darkvision 60 ft., detect magic, see invisibility;",
-			"Perception +37"
+			"Init +7; Senses darkvision 60 ft., detect magic, see invisibility; Perception +37"
 		],
 		"environment": "any (Positive Energy Plane)",
 		"shortDescription": "Flickers of light and energy radiate from this awe-inspiring, birdlike creature."
@@ -84896,7 +85090,7 @@
 			"Init +1; Senses darkvision 60 ft.; Perception +6"
 		],
 		"environment": "any",
-		"shortDescription": "A jumble of melted bones and skull fragments f loat amid an oozing brown and yellow slurry."
+		"shortDescription": "A jumble of melted bones and skull fragments float amid an oozing brown and yellow slurry."
 	},
 	"Undigested, Undigested Swarm": {
 		"monsterfullname": "Undigested, Undigested Swarm",
@@ -85104,11 +85298,10 @@
 			"Source ~`Bestiary 5 pg. 259`~, ~`Osirion, Legacy of the Pharaohs pg. 63`~",
 			"XP 1,600",
 			"LG Medium magical beast",
-			"Init +7; Senses darkvision 60 ft., low-light vision, scent;",
-			"Perception +16"
+			"Init +7; Senses darkvision 60 ft., low-light vision, scent; Perception +16"
 		],
 		"environment": "warm rivers",
-		"shortDescription": "This two-headed cobra f lies with a large pair of sleek, blackfeathered wings that sprout from its serpentine body."
+		"shortDescription": "This two-headed cobra flies with a large pair of sleek, blackfeathered wings that sprout from its serpentine body."
 	},
 	"Urannag": {
 		"monstername": "Urannag",
@@ -85334,17 +85527,22 @@
 		"size": "huge",
 		"type": "magical beast",
 		"init": 4,
+		"senses": [
+			"darkvision 60 ft.",
+			"low-light vision",
+			"scent",
+			"tremorsense 30 ft."
+		],
 		"pcp": 15,
 		"heading": [
 			"Ursikka CR 10",
 			"Source ~`Bestiary 5 pg. 261`~, ~`Pathfinder #70: The Frozen Stars pg. 88`~",
 			"XP 9,600",
 			"N Huge magical beast",
-			"Init +4; Senses darkvision 60 ft., low-light vision, scent,",
-			"tremorsense 30 ft.; Perception +15"
+			"Init +4; Senses darkvision 60 ft., low-light vision, scent, tremorsense 30 ft.; Perception +15"
 		],
 		"environment": "any cold land",
-		"shortDescription": "This insectlike creature is covered in downy white fur. A pair of eyes gleams above a three-part mouth that drips viscous f luid."
+		"shortDescription": "This insectlike creature is covered in downy white fur. A pair of eyes gleams above a three-part mouth that drips viscous fluid."
 	},
 	"Urtleytlar, The Tempest Queen": {
 		"monstername": "Urtleytlar, The Tempest Queen",
@@ -86013,8 +86211,7 @@
 			"Source ~`Bestiary 5 pg. 264`~",
 			"XP 3,200",
 			"N Medium outsider (earth, extraplanar)",
-			"Init +3; Senses darkvision 60 ft., tremorsense 30 ft.;",
-			"Perception +12"
+			"Init +3; Senses darkvision 60 ft., tremorsense 30 ft.; Perception +12"
 		],
 		"environment": "any mountains or underground (Plane of Earth)",
 		"shortDescription": "This lithe, androgynous humanoid has unusually colored skin and an otherworldly grace."
@@ -86076,8 +86273,7 @@
 			"Source ~`Bestiary 5 pg. 265`~",
 			"XP 3,200",
 			"N Medium outsider (extraplanar, water)",
-			"Init +3; Senses darkvision 60 ft.;",
-			"Perception +12"
+			"Init +3; Senses darkvision 60 ft.; Perception +12"
 		],
 		"environment": "any water (Plane of Water)",
 		"shortDescription": "This lithe, androgynous humanoid has unusually colored skin and an otherworldly grace."
@@ -86443,6 +86639,12 @@
 			"shapechanger"
 		],
 		"init": 11,
+		"senses": [
+			"deathwatch",
+			"low-light vision",
+			"see in darkness",
+			"true seeing"
+		],
 		"pcp": 29,
 		"aura": [
 			"frightful presence (30 ft., DC 26)",
@@ -86453,8 +86655,7 @@
 			"Source ~`Bestiary 5 pg. 268`~",
 			"XP 76,800",
 			"NE Medium fey (shapechanger)",
-			"Init +11; Senses deathwatch, low-light vision, see in darkness,",
-			"true seeing; Perception +29",
+			"Init +11; Senses deathwatch, low-light vision, see in darkness, true seeing; Perception +29",
 			"Aura frightful presence (30 ft., DC 26), shatter loyalties"
 		],
 		"environment": "any",
@@ -86976,14 +87177,21 @@
 			"water"
 		],
 		"init": 6,
+		"senses": [
+			"darkvision 60 ft.",
+			"detect evil",
+			"detect magic",
+			"low-light vision",
+			"scent",
+			"mistsight"
+		],
 		"pcp": 23,
 		"heading": [
 			"Wakandagi CR 14",
 			"Source ~`Bestiary 5 pg. 273`~",
 			"XP 38,400",
 			"NG Large outsider (native, water)",
-			"Init +6; Senses darkvision 60 ft., detect evil, detect magic,",
-			"low-light vision, scent, mistsight; Perception +23"
+			"Init +6; Senses darkvision 60 ft., detect evil, detect magic, low-light vision, scent, mistsight; Perception +23"
 		],
 		"environment": "temperate rivers",
 		"shortDescription": "This antlered beast combines the features of an elegant deer and a slithering serpent."
@@ -87290,8 +87498,7 @@
 			"Source ~`Bestiary 5 pg. 274`~, ~`The Worldwound pg. 61`~",
 			"XP 3,200",
 			"CE Large construct (extraplanar)",
-			"Init +10; Senses darkvision 60 ft., low-light vision;",
-			"Perception +13"
+			"Init +10; Senses darkvision 60 ft., low-light vision; Perception +13"
 		],
 		"environment": "any (Abyss)",
 		"shortDescription": "This wasplike creature seems to be partially made of metal. Its wings create an iridescent glow as it buzzes through the air."
@@ -88014,6 +88221,11 @@
 			"incorporeal"
 		],
 		"init": 20,
+		"senses": [
+			"blindsight 360 ft.",
+			"low-light vision",
+			"see in darkness"
+		],
 		"pcp": 37,
 		"aura": [
 			"whispers (120 ft., DC 30)"
@@ -88023,8 +88235,7 @@
 			"Source ~`Bestiary 6 pg. 276`~",
 			"XP 307,200",
 			"NE Large fey (extraplanar, incorporeal)",
-			"Init +20; Senses blindsight 360 ft., low-light vision, see in",
-			"darkness; Perception +37",
+			"Init +20; Senses blindsight 360 ft., low-light vision, see in darkness; Perception +37",
 			"Aura whispers (120 ft., DC 30)"
 		],
 		"environment": "any wilderness",
@@ -88162,14 +88373,19 @@
 			"wild hunt"
 		],
 		"init": 13,
+		"senses": [
+			"greensight 60 ft.",
+			"low-light vision",
+			"scent",
+			"see in darkness"
+		],
 		"pcp": 31,
 		"heading": [
 			"Wild Hunt Archer CR 13",
 			"Source ~`Bestiary 6 pg. 279`~",
 			"XP 25,600",
 			"CN Medium fey (wild hunt)",
-			"Init +13; Senses greensight 60 ft., low-light vision, scent,",
-			"see in darkness; Perception +31"
+			"Init +13; Senses greensight 60 ft., low-light vision, scent, see in darkness; Perception +31"
 		],
 		"environment": "any land",
 		"shortDescription": "This lithe, androgynous humanoid has pointed ears, glowing green eyes, and six fingers on each slender hand."
@@ -88190,14 +88406,19 @@
 			"wild hunt"
 		],
 		"init": 4,
+		"senses": [
+			"greensight 60 ft.",
+			"low-light vision",
+			"scent",
+			"see in darkness"
+		],
 		"pcp": 23,
 		"heading": [
 			"Wild Hunt Horse CR 11",
 			"Source ~`Bestiary 6 pg. 280`~",
 			"XP 12,800",
 			"CN Large fey (wild hunt)",
-			"Init +4; Senses greensight 60 ft., low-light vision, scent,",
-			"see in darkness; Perception +23"
+			"Init +4; Senses greensight 60 ft., low-light vision, scent, see in darkness; Perception +23"
 		],
 		"environment": "any land",
 		"shortDescription": "This powerful steed stands upon wispy puffs of air, its grassy mane and tail swishing majestically in the wind."
@@ -88218,15 +88439,23 @@
 			"wild hunt"
 		],
 		"init": 4,
+		"senses": [
+			"blindsense 60 ft.",
+			"blindsight 30 ft.",
+			"greater arcane sight",
+			"greensight 60 ft.",
+			"low-light vision",
+			"scent",
+			"see in darkness",
+			"see invisibility"
+		],
 		"pcp": 22,
 		"heading": [
 			"Wild Hunt Hound CR 10",
 			"Source ~`Bestiary 6 pg. 281`~",
 			"XP 9,600",
 			"CN Medium fey (wild hunt)",
-			"Init +4; Senses blindsense 60 ft., blindsight 30 ft., greater",
-			"arcane sight, greensight 60 ft., low-light vision, scent, see in",
-			"darkness, see invisibility; Perception +22"
+			"Init +4; Senses blindsense 60 ft., blindsight 30 ft., greater arcane sight, greensight 60 ft., low-light vision, scent, see in darkness, see invisibility; Perception +22"
 		],
 		"environment": "any land",
 		"shortDescription": "Green smoke billows from the bared teeth and flared nostrils of this muscular, sharp-eared hound."
@@ -88247,14 +88476,20 @@
 			"wild hunt"
 		],
 		"init": 11,
+		"senses": [
+			"greensight 60 ft.",
+			"low-light vision",
+			"mistsight",
+			"scent",
+			"see in darkness"
+		],
 		"pcp": 37,
 		"heading": [
 			"Wild Hunt Monarch CR 19",
 			"Source ~`Bestiary 6 pg. 282`~",
 			"XP 204,800",
 			"CN Medium fey (wild hunt)",
-			"Init +11; Senses greensight 60 ft., low-light vision, mistsight,",
-			"scent, see in darkness; Perception +37"
+			"Init +11; Senses greensight 60 ft., low-light vision, mistsight, scent, see in darkness; Perception +37"
 		],
 		"environment": "any land",
 		"shortDescription": "This limber and regal humanoid has an elk's antlers, long pointed ears, flowing white hair, and luminescent green eyes."
@@ -88700,7 +88935,7 @@
 			"Init +2; Senses low-light vision, scent; Perception +9"
 		],
 		"environment": "temperate hills",
-		"shortDescription": "This shaggy, multi-legged creature has a f lattened face with wide nostrils and four eyes. Ivory tusks jut downward, f lanking its mouth."
+		"shortDescription": "This shaggy, multi-legged creature has a flattened face with wide nostrils and four eyes. Ivory tusks jut downward, flanking its mouth."
 	},
 	"Wolliped, Wolliped (Combat Trained)": {
 		"monsterfullname": "Wolliped, Wolliped (Combat Trained)",
@@ -89555,11 +89790,10 @@
 			"Source ~`Bestiary 5 pg. 284`~",
 			"XP 600",
 			"CN Tiny magical beast",
-			"Init +3; Senses darkvision 60 ft., low-light vision, scent;",
-			"Perception +4"
+			"Init +3; Senses darkvision 60 ft., low-light vision, scent; Perception +4"
 		],
 		"environment": "warm mountains or forests",
-		"shortDescription": "This snarling blue-white monkey f lies through the air on a pair of birdlike wings."
+		"shortDescription": "This snarling blue-white monkey flies through the air on a pair of birdlike wings."
 	},
 	"Xill": {
 		"monstername": "Xill",
@@ -90002,8 +90236,7 @@
 		],
 		"pcp": 10,
 		"aura": [
-			"shroud of flame (10 ft.",
-			"DC 14, 10 rounds)"
+			"shroud of flame (10 ft., DC 14, 10 rounds)"
 		],
 		"heading": [
 			"Yhohm CR 4",
@@ -90759,9 +90992,8 @@
 		],
 		"pcp": 7,
 		"aura": [
-			"fascinating aura (300 ft.",
-			"DC 36, 10 rounds)",
-			"stench (100 ft.,"
+			"fascinating aura (300 ft., DC 36, 10 rounds)",
+			"stench (100 ft., DC 29, 2d4 rounds)"
 		],
 		"heading": [
 			"Zygomind CR 18",
@@ -90769,8 +91001,7 @@
 			"XP 153,600",
 			"N Colossal plant",
 			"Init +7; Senses blindsight 100 ft., low-light vision; Perception +7",
-			"Aura fascinating aura (300 ft., DC 36, 10 rounds), stench (100 ft.,",
-			"DC 29, 2d4 rounds)"
+			"Aura fascinating aura (300 ft., DC 36, 10 rounds), stench (100 ft., DC 29, 2d4 rounds)"
 		],
 		"environment": "any temperate",
 		"shortDescription": "This enormous fungus looks like a cage, and a strange glow emanates from within."
