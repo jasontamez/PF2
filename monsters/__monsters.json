@@ -23488,7 +23488,7 @@
 			"Init +7; Senses low-light vision, scent; Perception +25"
 		],
 		"environment": "warm plains",
-		"shortDescription": "This feathered bipedal saurian looks somewhat comical'save for its outlandish sword-sized claws."
+		"shortDescription": "This feathered bipedal saurian looks somewhat comical-save for its outlandish sword-sized claws."
 	},
 	"Dinosaur, Triceratops": {
 		"monsterfullname": "Dinosaur, Triceratops",
@@ -43925,7 +43925,7 @@
 			"Init +7; Senses darkvision 60 ft., low-light vision; Perception +5"
 		],
 		"environment": "any",
-		"shortDescription": "This creature is made of hundreds of metal masks, welded together to form a roughly humanoid body. The masks are mostly iron, but some'such as the hands, knees, and feet- are made of silver lined with gold. The mask that makes up its head is made of porcelain with gold trim and has a large sapphire set into its brow. At the creature moves, the masks seem to shift and stare."
+		"shortDescription": "This creature is made of hundreds of metal masks, welded together to form a roughly humanoid body. The masks are mostly iron, but some-such as the hands, knees, and feet- are made of silver lined with gold. The mask that makes up its head is made of porcelain with gold trim and has a large sapphire set into its brow. At the creature moves, the masks seem to shift and stare."
 	},
 	"Golem, Mithral Golem": {
 		"monsterfullname": "Golem, Mithral Golem",
@@ -82772,7 +82772,7 @@
 			"Init +1; Senses darkvision 60 ft., low-light vision; Perception +6"
 		],
 		"environment": "cold hills and mountains",
-		"shortDescription": "This leathery creature has a lanky, ogre-like shape, but walks on all fours. Its claws, teeth, tail, and gait give it a degenerate , bestial appearance."
+		"shortDescription": "This leathery creature has a lanky, ogre-like shape, but walks on all fours. Its claws, teeth, tail, and gait give it a degenerate, bestial appearance."
 	},
 	"Troggle, Troggle Raider": {
 		"monsterfullname": "Troggle, Troggle Raider",
