@@ -5147,9 +5147,9 @@
 		"description": [
 			"This jagged crown is composed of ice that never melts regardless of the ambient temperature. The Icecrown of Irrisen is the royal regalia of the queen of Irrisen, was crafted by Baba Yaga specifically for that role, and has been worn by all of Baba Yaga's daughters who have served as monarchs of that realm. When placed on the head, the Icecrown merges with the wearer so that icicles seem to grow directly from her head. Once in place, the crown can be removed only by Baba Yaga or upon the death of the wearer or the destruction of the crown. The Icecrown of Irrisen deals 3d6 points of cold damage per round to any creature touching or wearing it as it absorbs body heat (or 6d6 points of cold damage per round to a creature with the fire subtype).",
 			"The Icecrown of Irrisen grants its wearer the following abilities: fire resistance 20, spell resistance 32, and a +4 enhancement bonus to Intelligence and Charisma (with ranks in Knowledge [local] and Sense Motive, as a headband of vast intelligence). The wearer doesn't take penalties to Strength, Dexterity, and Constitution from being of middle age or older (Pathfinder RPG Core Rulebook 169), and retains a youthful appearance, always appearing to be the same age as when she first put on the crown. Once per day, the wearer can summon three elder ice elementals that remain for 1 hour and follow her commands. In addition, the Icecrown gives its wearer the following abilities:",
-			"Constant-tongues At will-frigid touch, ice crystal teleport, Irriseni mirror sight*, unseen servant 3/day-control weather, dominate monster (creatures with the cold subtype only), ice spears* 1/day-overwhelming presence, polar midnight",
+			"Constant-tongues At will-frigid touch, ice crystal teleport, Irriseni mirror sight[^A], unseen servant 3/day-control weather, dominate monster (creatures with the cold subtype only), ice spears[^A] 1/day-overwhelming presence, polar midnight",
 			"Finally, the Icecrown of Irrisen gives its wearer the ability to shape the ice that forms the Royal Palace in Whitethrone, allowing her to create or destroy walls, doors, windows, and even furnishings and decorations at will.",
-			"* See Pathfinder Adventure Path #67 72-73."
+			"[^A]: See Pathfinder Adventure Path #67 72-73."
 		],
 		"destruction": "The Icecrown of Irrisen can be destroyed only if the perpetual winter that shrouds the land of Irrisen ends and the normal course of the seasons returns. In this case, the Icecrown melts away on the first day of Irrisen's new spring."
 	},
@@ -6038,8 +6038,8 @@
 			"| 7 | White | Wearer gains cold resistance 30 |",
 			"| 8 | Yellow | Wearer gains freedom of movement |",
 			"| 9 | Copper | Wearer gains a +5 resistance bonus on saving throws |",
-			"| 10* | Roll again |",
-			"* This step does not count as a facet for the purposes of adjusting the ring's daily ability."
+			"| 10[^R] | Roll again |",
+			"[^R]: This step does not count as a facet for the purposes of adjusting the ring's daily ability."
 		],
 		"destruction": "If the wearer of the Ring of Nine Facets successfully shifts it through all nine facets twice (requiring a DC 105 Wisdom check and incurring 18d6 points of nonlethal damage) a tenth, black facet is revealed. This causes the ring to deal 2d6 points of lethal damage to any nonneutral (not solely neutral) wearer every round it is worn. The other powers of this new facet are a mystery, but the wearer can use the tenth facet to completely destroy the Ring of Nine Facets."
 	},
