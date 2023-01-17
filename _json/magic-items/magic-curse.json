@@ -11,7 +11,7 @@
 		"weight": 4,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 342`~, ~`PRPG Core Rulebook pg. 543`~",
+			"Source [Ultimate Equipment pg. 342](source:Ultimate Equipment), [PRPG Core Rulebook pg. 543](source:PRPG Core Rulebook)",
 			"Aura strong evocation CL 15th",
 			"Slot none; Weight 4 lbs."
 		],
@@ -33,7 +33,7 @@
 		"weight": 0.5,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 342`~, ~`PRPG Core Rulebook pg. 538`~",
+			"Source [Ultimate Equipment pg. 342](source:Ultimate Equipment), [PRPG Core Rulebook pg. 538](source:PRPG Core Rulebook)",
 			"Aura moderate abjuration CL 10th",
 			"Slot neck; Weight 1/2 lb."
 		],
@@ -54,7 +54,7 @@
 		"weight": 50,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 342`~, ~`PRPG Core Rulebook pg. 538`~",
+			"Source [Ultimate Equipment pg. 342](source:Ultimate Equipment), [PRPG Core Rulebook pg. 538](source:PRPG Core Rulebook)",
 			"Aura strong abjuration CL 16th",
 			"Slot armor; Weight 50 lbs."
 		],
@@ -75,7 +75,7 @@
 		"weight": 50,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 342`~, ~`PRPG Core Rulebook pg. 538`~",
+			"Source [Ultimate Equipment pg. 342](source:Ultimate Equipment), [PRPG Core Rulebook pg. 538](source:PRPG Core Rulebook)",
 			"Aura strong necromancy CL 16th",
 			"Slot armor; Weight 50 lbs."
 		],
@@ -93,7 +93,7 @@
 		"weight": 2,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 342`~",
+			"Source [Ultimate Equipment pg. 342](source:Ultimate Equipment)",
 			"Aura moderate evocation CL 6th",
 			"Slot none; Weight 2 lbs."
 		],
@@ -114,7 +114,7 @@
 		"weight": 15,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 342`~, ~`PRPG Core Rulebook pg. 539`~",
+			"Source [Ultimate Equipment pg. 342](source:Ultimate Equipment), [PRPG Core Rulebook pg. 539](source:PRPG Core Rulebook)",
 			"Aura strong conjuration CL 17th",
 			"Slot none; Weight 15 lbs."
 		],
@@ -134,7 +134,7 @@
 		"weight": 1,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 343`~",
+			"Source [Ultimate Equipment pg. 343](source:Ultimate Equipment)",
 			"Aura moderate transmutation CL 8th",
 			"Slot belt; Weight 1 lb."
 		],
@@ -155,7 +155,7 @@
 		"weight": 8,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 343`~, ~`PRPG Core Rulebook pg. 543`~",
+			"Source [Ultimate Equipment pg. 343](source:Ultimate Equipment), [PRPG Core Rulebook pg. 543](source:PRPG Core Rulebook)",
 			"Aura moderate evocation CL 8th",
 			"Slot none; Weight 8 lbs."
 		],
@@ -173,7 +173,7 @@
 		"weight": 6,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 343`~",
+			"Source [Ultimate Equipment pg. 343](source:Ultimate Equipment)",
 			"Aura moderate evocation CL 8th",
 			"Slot none; Weight 6 lbs."
 		],
@@ -192,7 +192,7 @@
 		"cursed": true,
 		"header": [
 			"Bloodbite",
-			"Source ~`Antihero's Handbook pg. 31`~",
+			"Source [Antihero's Handbook pg. 31](source:Antihero's Handbook)",
 			"Aura moderate evocation CL 10th",
 			"Slot none; Weight 8 lbs."
 		],
@@ -211,7 +211,7 @@
 		"cursed": true,
 		"header": [
 			"Book of Perilous Journey's",
-			"Source ~`Horror Adventures pg. 226`~",
+			"Source [Horror Adventures pg. 226](source:Horror Adventures)",
 			"Aura strong conjuration CL 13th",
 			"Slot none; Weight 1/2 lb."
 		],
@@ -234,7 +234,7 @@
 		"weight": 1,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 343`~, ~`PRPG Core Rulebook pg. 539`~",
+			"Source [Ultimate Equipment pg. 343](source:Ultimate Equipment), [PRPG Core Rulebook pg. 539](source:PRPG Core Rulebook)",
 			"Aura strong enchantment CL 16th",
 			"Slot feet; Weight 1 lb."
 		],
@@ -255,7 +255,7 @@
 		"weight": 1,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 344`~, ~`PRPG Core Rulebook pg. 540`~",
+			"Source [Ultimate Equipment pg. 344](source:Ultimate Equipment), [PRPG Core Rulebook pg. 540](source:PRPG Core Rulebook)",
 			"Aura strong conjuration CL 16th",
 			"Slot wrists; Weight 1 lb."
 		],
@@ -276,7 +276,7 @@
 		"weight": 3,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 344`~, ~`PRPG Core Rulebook pg. 540`~",
+			"Source [Ultimate Equipment pg. 344](source:Ultimate Equipment), [PRPG Core Rulebook pg. 540](source:PRPG Core Rulebook)",
 			"Aura moderate transmutation CL 10th",
 			"Slot none; Weight 3 lbs."
 		],
@@ -298,7 +298,7 @@
 		"weight": 2,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 344`~, ~`Advanced Player's Guide pg. 310`~",
+			"Source [Ultimate Equipment pg. 344](source:Ultimate Equipment), [Advanced Player's Guide pg. 310](source:Advanced Player's Guide)",
 			"Aura moderate divination CL 10th",
 			"Slot none; Weight 2 lbs."
 		],
@@ -319,7 +319,7 @@
 		"weight": 0,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 344`~, ~`Advanced Player's Guide pg. 310`~",
+			"Source [Ultimate Equipment pg. 344](source:Ultimate Equipment), [Advanced Player's Guide pg. 310](source:Advanced Player's Guide)",
 			"Aura strong transmutation CL 16th",
 			"Slot ring; Weight -"
 		],
@@ -338,7 +338,7 @@
 		"weight": 1,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 344`~",
+			"Source [Ultimate Equipment pg. 344](source:Ultimate Equipment)",
 			"Aura moderate abjuration CL 9th",
 			"Slot shoulders; Weight 1 lb."
 		],
@@ -357,7 +357,7 @@
 		"cursed": true,
 		"header": [
 			"Carnivorous Jar",
-			"Source ~`Pathfinder #82: Secrets of the Sphinx pg. 75`~",
+			"Source [Pathfinder #82: Secrets of the Sphinx pg. 75](source:Pathfinder #82: Secrets of the Sphinx)",
 			"Aura moderate necromancy CL 11th",
 			"Slot none; Weight 10 lbs."
 		],
@@ -376,7 +376,7 @@
 		"cursed": true,
 		"header": [
 			"Chatter Ring",
-			"Source ~`Antihero's Handbook pg. 31`~",
+			"Source [Antihero's Handbook pg. 31](source:Antihero's Handbook)",
 			"Aura faint divination CL 3rd",
 			"Slot ring; Weight -"
 		],
@@ -397,20 +397,15 @@
 		"weight": 15,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 356`~, ~`Rival Guide pg. 41`~",
+			"Source [Ultimate Equipment pg. 356](source:Ultimate Equipment), [Rival Guide pg. 41](source:Rival Guide)",
 			"Aura strong conjuration CL 17th",
 			"Slot none; Weight 15 lbs."
 		],
 		"description": [
 			"Most bags of devouring appear to be normal sacks, but Chomper is unlike most bags of devouring. Sporting rows of vicious teeth, a bad attitude, and a thirst to devour all things, this intelligent cursed item believes that it is the favored maw and most important appendage of a creature it mysteriously refers to as the Eater of All. Chomper hates all creatures except for demons, whom it considers kindred spirits of destruction.",
 			"Chomper has all of the magical abilities of a regular bag of devouring, along with the following additional powers. ",
-			{
-				"list": true,
-				"items": [
-					"As a standard action, Chomperâ€™s possessor can swing the bag by its straps in an attempt to strike any single creature or unattended item within a 5-foot radius. Chomper (not the wielder) can then make a single bite attack against the target. This bite has a +14 attack bonus and deals 1d10+5 points of damage plus 2 points of bleed damage. This action does not provoke attacks of opportunity. Attacks made in this way are never modified by the wielderâ€™s abilities.",
-					"When a non-demon is in possession of Chomper, the bagâ€™s cursed aura imparts a â€“1 penalty on all of its wielderâ€™s attack rolls, saving throws, skill checks, and ability checks. If Chomper manages to gain dominance over a non-demon wielder through a personality conflict, it directs its bearer to seek out victims to feed to it."
-				]
-			}
+			"- As a standard action, Chomperâ€™s possessor can swing the bag by its straps in an attempt to strike any single creature or unattended item within a 5-foot radius. Chomper (not the wielder) can then make a single bite attack against the target. This bite has a +14 attack bonus and deals 1d10+5 points of damage plus 2 points of bleed damage. This action does not provoke attacks of opportunity. Attacks made in this way are never modified by the wielderâ€™s abilities.",
+			"- When a non-demon is in possession of Chomper, the bagâ€™s cursed aura imparts a â€“1 penalty on all of its wielderâ€™s attack rolls, saving throws, skill checks, and ability checks. If Chomper manages to gain dominance over a non-demon wielder through a personality conflict, it directs its bearer to seek out victims to feed to it."
 		],
 		"construction": "Requirements bag of holding type III; Cost -"
 	},
@@ -426,7 +421,7 @@
 		"weight": 1,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 344`~, ~`Advanced Player's Guide pg. 310`~",
+			"Source [Ultimate Equipment pg. 344](source:Ultimate Equipment), [Advanced Player's Guide pg. 310](source:Advanced Player's Guide)",
 			"Aura strong evocation CL 12th",
 			"Slot shoulders; Weight 1 lb."
 		],
@@ -445,7 +440,7 @@
 		"cursed": true,
 		"header": [
 			"Constrictor Armor",
-			"Source ~`Pathfinder #82: Secrets of the Sphinx pg. 75`~",
+			"Source [Pathfinder #82: Secrets of the Sphinx pg. 75](source:Pathfinder #82: Secrets of the Sphinx)",
 			"Aura strong transmutation CL 12th",
 			"Slot body; Weight 30 lbs."
 		],
@@ -466,7 +461,7 @@
 		"weight": 1,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 345`~, ~`Advanced Player's Guide pg. 310`~",
+			"Source [Ultimate Equipment pg. 345](source:Ultimate Equipment), [Advanced Player's Guide pg. 310](source:Advanced Player's Guide)",
 			"Aura moderate illusion CL 10th",
 			"Slot headband; Weight 1 lb."
 		],
@@ -487,7 +482,7 @@
 		"weight": 7,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 345`~, ~`PRPG Core Rulebook pg. 540`~",
+			"Source [Ultimate Equipment pg. 345](source:Ultimate Equipment), [PRPG Core Rulebook pg. 540](source:PRPG Core Rulebook)",
 			"Aura strong divination CL 17th",
 			"Slot none; Weight 7 lbs."
 		],
@@ -509,7 +504,7 @@
 		"weight": 3,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 345`~, ~`PRPG Core Rulebook pg. 542`~",
+			"Source [Ultimate Equipment pg. 345](source:Ultimate Equipment), [PRPG Core Rulebook pg. 542](source:PRPG Core Rulebook)",
 			"Aura moderate evocation CL 10th",
 			"Slot none; Weight 3 lbs."
 		],
@@ -528,7 +523,7 @@
 		"cursed": true,
 		"header": [
 			"Deadflesh Waraxe",
-			"Source ~`Dungeons of Golarion pg. 62`~",
+			"Source [Dungeons of Golarion pg. 62](source:Dungeons of Golarion)",
 			"Aura strong conjuration and transmutation CL 12th",
 			"Slot none; Weight 8 lbs."
 		],
@@ -546,7 +541,7 @@
 		"weight": 2,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 345`~",
+			"Source [Ultimate Equipment pg. 345](source:Ultimate Equipment)",
 			"Aura moderate evocation CL 8th",
 			"Slot none; Weight 2 lbs."
 		],
@@ -564,7 +559,7 @@
 		"weight": 5,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 345`~",
+			"Source [Ultimate Equipment pg. 345](source:Ultimate Equipment)",
 			"Aura faint transmutation CL 5th",
 			"Slot none; Weight 5 lbs."
 		],
@@ -585,7 +580,7 @@
 		"weight": 0,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 345`~, ~`PRPG Core Rulebook pg. 540`~",
+			"Source [Ultimate Equipment pg. 345](source:Ultimate Equipment), [PRPG Core Rulebook pg. 540](source:PRPG Core Rulebook)",
 			"Aura moderate conjuration CL 7th",
 			"Slot none; Weight -"
 		],
@@ -604,7 +599,7 @@
 		"cursed": true,
 		"header": [
 			"Eyes of Blindness",
-			"Source ~`Ultimate Equipment pg. 345`~",
+			"Source [Ultimate Equipment pg. 345](source:Ultimate Equipment)",
 			"Aura faint necromancy CL 5th",
 			"Slot eyes; Weight -"
 		],
@@ -626,7 +621,7 @@
 		"cursed": true,
 		"header": [
 			"Flask of Curses",
-			"Source ~`Ultimate Equipment pg. 345`~, ~`PRPG Core Rulebook pg. 540`~",
+			"Source [Ultimate Equipment pg. 345](source:Ultimate Equipment), [PRPG Core Rulebook pg. 540](source:PRPG Core Rulebook)",
 			"Aura moderate conjuration CL 7th",
 			"Slot none; Weight 2 lbs."
 		],
@@ -648,7 +643,7 @@
 		"cursed": true,
 		"header": [
 			"Gauntlets of Fumbling",
-			"Source ~`Ultimate Equipment pg. 346`~, ~`PRPG Core Rulebook pg. 540`~",
+			"Source [Ultimate Equipment pg. 346](source:Ultimate Equipment), [PRPG Core Rulebook pg. 540](source:PRPG Core Rulebook)",
 			"Aura moderate transmutation CL 7th",
 			"Slot hands; Weight 2 lbs."
 		],
@@ -670,7 +665,7 @@
 		"cursed": true,
 		"header": [
 			"Girdle of Opposite Gender",
-			"Source ~`Ultimate Equipment pg. 346`~, ~`Advanced Player's Guide pg. 310`~",
+			"Source [Ultimate Equipment pg. 346](source:Ultimate Equipment), [Advanced Player's Guide pg. 310](source:Advanced Player's Guide)",
 			"Aura moderate transmutation CL 10th",
 			"Slot belt; Weight 1 lb."
 		],
@@ -690,7 +685,7 @@
 		"cursed": true,
 		"header": [
 			"Grasp of Droskar",
-			"Source ~`Crown of the Kobold King pg. 12`~",
+			"Source [Crown of the Kobold King pg. 12](source:Crown of the Kobold King)",
 			"Aura moderate transmutation and divination CL 10th",
 			"Slot gauntlet; Price 12,302 gp; Weight -"
 		],
@@ -712,7 +707,7 @@
 		"weight": 20,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 346`~, ~`Advanced Player's Guide pg. 310`~",
+			"Source [Ultimate Equipment pg. 346](source:Ultimate Equipment), [Advanced Player's Guide pg. 310](source:Advanced Player's Guide)",
 			"Aura moderate enchantment CL 10th",
 			"Slot armor; Weight 20 lbs."
 		],
@@ -734,7 +729,7 @@
 		"weight": 0,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 346`~, ~`Advanced Player's Guide pg. 310`~",
+			"Source [Ultimate Equipment pg. 346](source:Ultimate Equipment), [Advanced Player's Guide pg. 310](source:Advanced Player's Guide)",
 			"Aura moderate illusion CL 10th",
 			"Slot head; Weight -"
 		],
@@ -755,7 +750,7 @@
 		"cursed": true,
 		"header": [
 			"Haunted Doll",
-			"Source ~`Occult Adventures pg. 265`~",
+			"Source [Occult Adventures pg. 265](source:Occult Adventures)",
 			"Aura moderate divination and necromancy CL 11th",
 			"Slot none; Weight 1 lb."
 		],
@@ -774,7 +769,7 @@
 		"weight": 1,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 346`~",
+			"Source [Ultimate Equipment pg. 346](source:Ultimate Equipment)",
 			"Aura strong transmutation CL 8th",
 			"Slot headband; Weight 1 lb."
 		],
@@ -793,7 +788,7 @@
 		"cursed": true,
 		"header": [
 			"Heavy Hammer",
-			"Source ~`Ultimate Equipment pg. 346`~",
+			"Source [Ultimate Equipment pg. 346](source:Ultimate Equipment)",
 			"Aura moderate transmutation CL 8th",
 			"Slot none; Weight 20 lbs."
 		],
@@ -812,7 +807,7 @@
 		"cursed": true,
 		"header": [
 			"Helm of Ikimizi",
-			"Source ~`Lost Kingdoms pg. 32`~",
+			"Source [Lost Kingdoms pg. 32](source:Lost Kingdoms)",
 			"Aura moderate enchantment CL 7th",
 			"Slot head; Price -; Weight 3 lbs."
 		],
@@ -835,7 +830,7 @@
 		"weight": 3,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 347`~, ~`PRPG Core Rulebook pg. 540`~",
+			"Source [Ultimate Equipment pg. 347](source:Ultimate Equipment), [PRPG Core Rulebook pg. 540](source:PRPG Core Rulebook)",
 			"Aura strong transmutation CL 12th",
 			"Slot head; Weight 3 lbs."
 		],
@@ -857,7 +852,7 @@
 		"weight": 0,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 347`~, ~`PRPG Core Rulebook pg. 541`~",
+			"Source [Ultimate Equipment pg. 347](source:Ultimate Equipment), [PRPG Core Rulebook pg. 541](source:PRPG Core Rulebook)",
 			"Aura moderate enchantment CL 6th",
 			"Slot none; Weight -"
 		],
@@ -876,7 +871,7 @@
 		"cursed": true,
 		"header": [
 			"Kleptomaniac's Gloves",
-			"Source ~`Antihero's Handbook pg. 31`~",
+			"Source [Antihero's Handbook pg. 31](source:Antihero's Handbook)",
 			"Aura faint transmutation CL 3rd",
 			"Slot hands; Weight 1 lb."
 		],
@@ -896,7 +891,7 @@
 		"cursed": true,
 		"header": [
 			"Liar's Well",
-			"Source ~`Classic Treasures Revisited pg. 61`~",
+			"Source [Classic Treasures Revisited pg. 61](source:Classic Treasures Revisited)",
 			"Aura strong conjuration CL 17th",
 			"Slot none; Price 84,250 gp; Weight -"
 		],
@@ -917,7 +912,7 @@
 		"weight": 8,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 347`~, ~`PRPG Core Rulebook pg. 541`~",
+			"Source [Ultimate Equipment pg. 347](source:Ultimate Equipment), [PRPG Core Rulebook pg. 541](source:PRPG Core Rulebook)",
 			"Aura moderate abjuration CL 8th",
 			"Slot none; Weight 8 lbs."
 		],
@@ -936,7 +931,7 @@
 		"cursed": true,
 		"header": [
 			"Maniac Hand",
-			"Source ~`Occult Adventures pg. 266`~",
+			"Source [Occult Adventures pg. 266](source:Occult Adventures)",
 			"Aura strong necromancy CL 13th",
 			"Slot none (replaces hand); Weight 2 lbs."
 		],
@@ -959,7 +954,7 @@
 		"weight": 1,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 347`~",
+			"Source [Ultimate Equipment pg. 347](source:Ultimate Equipment)",
 			"Aura moderate transmutation CL 8th",
 			"Slot head; Weight 1 lb."
 		],
@@ -980,7 +975,7 @@
 		"weight": 0,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 347`~, ~`PRPG Core Rulebook pg. 541`~",
+			"Source [Ultimate Equipment pg. 347](source:Ultimate Equipment), [PRPG Core Rulebook pg. 541](source:PRPG Core Rulebook)",
 			"Aura moderate divination CL 7th",
 			"Slot neck; Weight -"
 		],
@@ -1000,7 +995,7 @@
 		"cursed": true,
 		"header": [
 			"Mindborer Ioun Stone",
-			"Source ~`Seekers of Secrets pg. 57`~",
+			"Source [Seekers of Secrets pg. 57](source:Seekers of Secrets)",
 			"Aura strong transmutation CL 12th",
 			"Slot none; Price varies; Weight -"
 		],
@@ -1019,7 +1014,7 @@
 		"cursed": true,
 		"header": [
 			"Mirror of Soul Snaring",
-			"Source ~`Occult Adventures pg. 266`~",
+			"Source [Occult Adventures pg. 266](source:Occult Adventures)",
 			"Aura strong necromancy CL 15th",
 			"Slot none; Weight 45 lbs."
 		],
@@ -1040,7 +1035,7 @@
 		"cursed": true,
 		"header": [
 			"Monkey's Paw",
-			"Source ~`Occult Adventures pg. 267`~",
+			"Source [Occult Adventures pg. 267](source:Occult Adventures)",
 			"Aura strong universal CL 20th",
 			"Slot none; Weight 1/2 lb."
 		],
@@ -1059,7 +1054,7 @@
 		"weight": 2,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 347`~",
+			"Source [Ultimate Equipment pg. 347](source:Ultimate Equipment)",
 			"Aura moderate divination CL 6th",
 			"Slot none; Weight 2 lbs."
 		],
@@ -1080,7 +1075,7 @@
 		"weight": 0,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 347`~, ~`PRPG Core Rulebook pg. 541`~",
+			"Source [Ultimate Equipment pg. 347](source:Ultimate Equipment), [PRPG Core Rulebook pg. 541](source:PRPG Core Rulebook)",
 			"Aura strong conjuration CL 18th",
 			"Slot neck; Weight -"
 		],
@@ -1099,7 +1094,7 @@
 		"cursed": true,
 		"header": [
 			"Needful Doll",
-			"Source ~`Horror Adventures pg. 226`~",
+			"Source [Horror Adventures pg. 226](source:Horror Adventures)",
 			"Aura strong conjuration and illusion CL 13th",
 			"Slot none; Weight 1 lb."
 		],
@@ -1124,7 +1119,7 @@
 		"cursed": true,
 		"header": [
 			"Net of Snaring",
-			"Source ~`Ultimate Equipment pg. 348`~, ~`PRPG Core Rulebook pg. 541`~",
+			"Source [Ultimate Equipment pg. 348](source:Ultimate Equipment), [PRPG Core Rulebook pg. 541](source:PRPG Core Rulebook)",
 			"Aura moderate evocation CL 8th",
 			"Slot none; Weight 1 lb."
 		],
@@ -1145,7 +1140,7 @@
 		"weight": 1,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 348`~, ~`Advanced Player's Guide pg. 310`~",
+			"Source [Ultimate Equipment pg. 348](source:Ultimate Equipment), [Advanced Player's Guide pg. 310](source:Advanced Player's Guide)",
 			"Aura faint divination CL 5th",
 			"Slot none; Weight 1 lb."
 		],
@@ -1166,7 +1161,7 @@
 		"weight": 4,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 348`~",
+			"Source [Ultimate Equipment pg. 348](source:Ultimate Equipment)",
 			"Aura strong transmutation CL 12th",
 			"Slot none; Weight 4 lbs."
 		],
@@ -1185,7 +1180,7 @@
 		"cursed": true,
 		"header": [
 			"Overcharged Staff",
-			"Source ~`Antihero's Handbook pg. 31`~",
+			"Source [Antihero's Handbook pg. 31](source:Antihero's Handbook)",
 			"Aura moderate evocation CL 11th",
 			"Slot none; Weight 5 lbs."
 		],
@@ -1204,7 +1199,7 @@
 		"weight": 3,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 348`~",
+			"Source [Ultimate Equipment pg. 348](source:Ultimate Equipment)",
 			"Aura moderate transmutation CL 7th",
 			"Slot shoulders; Weight 3 lbs."
 		],
@@ -1225,7 +1220,7 @@
 		"weight": 0,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 348`~, ~`PRPG Core Rulebook pg. 541`~",
+			"Source [Ultimate Equipment pg. 348](source:Ultimate Equipment), [PRPG Core Rulebook pg. 541](source:PRPG Core Rulebook)",
 			"Aura moderate abjuration CL 10th",
 			"Slot neck; Weight -"
 		],
@@ -1243,7 +1238,7 @@
 		"weight": 1,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 348`~",
+			"Source [Ultimate Equipment pg. 348](source:Ultimate Equipment)",
 			"Aura moderate transmutation CL 11th",
 			"Slot shoulders; Weight 1 lb."
 		],
@@ -1264,7 +1259,7 @@
 		"weight": 15,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 349`~, ~`Advanced Player's Guide pg. 310`~",
+			"Source [Ultimate Equipment pg. 349](source:Ultimate Equipment), [Advanced Player's Guide pg. 310](source:Advanced Player's Guide)",
 			"Aura strong conjuration CL 17th",
 			"Slot shield; Weight 15 lbs."
 		],
@@ -1286,7 +1281,7 @@
 		"weight": 1,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 349`~, ~`PRPG Core Rulebook pg. 541`~",
+			"Source [Ultimate Equipment pg. 349](source:Ultimate Equipment), [PRPG Core Rulebook pg. 541](source:PRPG Core Rulebook)",
 			"Aura moderate transmutation CL 15th",
 			"Slot shoulders; Weight 1 lb."
 		],
@@ -1309,7 +1304,7 @@
 		"cursed": true,
 		"header": [
 			"Potion of Poison",
-			"Source ~`Ultimate Equipment pg. 349`~, ~`PRPG Core Rulebook pg. 542`~",
+			"Source [Ultimate Equipment pg. 349](source:Ultimate Equipment), [PRPG Core Rulebook pg. 542](source:PRPG Core Rulebook)",
 			"Aura strong conjuration CL 12th",
 			"Slot none; Weight -"
 		],
@@ -1330,7 +1325,7 @@
 		"weight": 0,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 349`~, ~`PRPG Core Rulebook pg. 542`~",
+			"Source [Ultimate Equipment pg. 349](source:Ultimate Equipment), [PRPG Core Rulebook pg. 542](source:PRPG Core Rulebook)",
 			"Aura strong transmutation CL 15th",
 			"Slot ring; Weight -"
 		],
@@ -1348,7 +1343,7 @@
 		"weight": 0,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 349`~",
+			"Source [Ultimate Equipment pg. 349](source:Ultimate Equipment)",
 			"Aura moderate necromancy CL 10th",
 			"Slot ring; Weight -"
 		],
@@ -1366,7 +1361,7 @@
 		"weight": 0,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 349`~",
+			"Source [Ultimate Equipment pg. 349](source:Ultimate Equipment)",
 			"Aura strong abjuration CL 13th",
 			"Slot ring; Weight -"
 		],
@@ -1387,7 +1382,7 @@
 		"weight": 0,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 349`~, ~`Advanced Player's Guide pg. 310`~",
+			"Source [Ultimate Equipment pg. 349](source:Ultimate Equipment), [Advanced Player's Guide pg. 310](source:Advanced Player's Guide)",
 			"Aura moderate enchantment CL 9th",
 			"Slot ring; Weight -"
 		],
@@ -1408,7 +1403,7 @@
 		"weight": 3,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 350`~, ~`Advanced Player's Guide pg. 310`~",
+			"Source [Ultimate Equipment pg. 350](source:Ultimate Equipment), [Advanced Player's Guide pg. 310](source:Advanced Player's Guide)",
 			"Aura moderate enchantment CL 10th",
 			"Slot none; Weight 3 lbs."
 		],
@@ -1429,7 +1424,7 @@
 		"weight": 1,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 350`~, ~`PRPG Core Rulebook pg. 542`~",
+			"Source [Ultimate Equipment pg. 350](source:Ultimate Equipment), [PRPG Core Rulebook pg. 542](source:PRPG Core Rulebook)",
 			"Aura strong transmutation CL 13th",
 			"Slot body; Weight 1 lb."
 		],
@@ -1450,7 +1445,7 @@
 		"weight": 1,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 350`~, ~`PRPG Core Rulebook pg. 542`~",
+			"Source [Ultimate Equipment pg. 350](source:Ultimate Equipment), [PRPG Core Rulebook pg. 542](source:PRPG Core Rulebook)",
 			"Aura strong abjuration CL 13th",
 			"Slot body; Weight 1 lb."
 		],
@@ -1472,7 +1467,7 @@
 		"weight": 5,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 350`~, ~`Advanced Player's Guide pg. 311`~",
+			"Source [Ultimate Equipment pg. 350](source:Ultimate Equipment), [Advanced Player's Guide pg. 311](source:Advanced Player's Guide)",
 			"Aura strong evocation CL 12th",
 			"Slot none; Weight 5 lbs."
 		],
@@ -1491,7 +1486,7 @@
 		"weight": 5,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 350`~",
+			"Source [Ultimate Equipment pg. 350](source:Ultimate Equipment)",
 			"Aura strong (no school) CL 17th",
 			"Slot none; Weight 5 lbs."
 		],
@@ -1510,7 +1505,7 @@
 		"cursed": true,
 		"header": [
 			"Sasquatch Skull",
-			"Source ~`Mystery Monsters Revisited pg. 43`~",
+			"Source [Mystery Monsters Revisited pg. 43](source:Mystery Monsters Revisited)",
 			"Aura moderate transmutation CL 7th",
 			"Slot none; Price -; Weight 5 lbs."
 		],
@@ -1532,7 +1527,7 @@
 		"cursed": true,
 		"header": [
 			"Scarab of Death",
-			"Source ~`Ultimate Equipment pg. 350`~, ~`PRPG Core Rulebook pg. 542`~",
+			"Source [Ultimate Equipment pg. 350](source:Ultimate Equipment), [PRPG Core Rulebook pg. 542](source:PRPG Core Rulebook)",
 			"Aura strong abjuration CL 19th",
 			"Slot neck; Weight -"
 		],
@@ -1550,7 +1545,7 @@
 		"weight": 1,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 351`~",
+			"Source [Ultimate Equipment pg. 351](source:Ultimate Equipment)",
 			"Aura faint transmutation CL 5th",
 			"Slot wrists; Weight 1 lb."
 		],
@@ -1569,7 +1564,7 @@
 		"cursed": true,
 		"header": [
 			"Scroll of Blood Ink",
-			"Source ~`Horror Adventures pg. 143`~",
+			"Source [Horror Adventures pg. 143](source:Horror Adventures)",
 			"Aura varies CL varies",
 			"Slot none; Weight -"
 		],
@@ -1588,7 +1583,7 @@
 		"cursed": true,
 		"header": [
 			"Staff of Magical Decline",
-			"Source ~`Horror Adventures pg. 143`~",
+			"Source [Horror Adventures pg. 143](source:Horror Adventures)",
 			"Aura varies CL varies",
 			"Slot none; Weight 5 lbs."
 		],
@@ -1607,7 +1602,7 @@
 		"weight": 4,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 351`~",
+			"Source [Ultimate Equipment pg. 351](source:Ultimate Equipment)",
 			"Aura varies CL varies",
 			"Slot none; Weight 4 lbs."
 		],
@@ -1628,7 +1623,7 @@
 		"weight": 1,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 351`~, ~`PRPG Core Rulebook pg. 543`~",
+			"Source [Ultimate Equipment pg. 351](source:Ultimate Equipment), [PRPG Core Rulebook pg. 543](source:PRPG Core Rulebook)",
 			"Aura faint transmutation CL 5th",
 			"Slot none; Weight 1 lb."
 		],
@@ -1647,7 +1642,7 @@
 		"cursed": true,
 		"header": [
 			"Tome of Heretical Revelation",
-			"Source ~`Faiths and Philosophies pg. 31`~",
+			"Source [Faiths and Philosophies pg. 31](source:Faiths and Philosophies)",
 			"Aura strong abjuration CL 17th",
 			"Slot none; Weight 5 lbs."
 		],
@@ -1665,7 +1660,7 @@
 		"weight": 0,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 351`~",
+			"Source [Ultimate Equipment pg. 351](source:Ultimate Equipment)",
 			"Aura moderate transmutation CL 6th",
 			"Slot none; Weight -"
 		],
@@ -1683,7 +1678,7 @@
 		"weight": 1,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 351`~",
+			"Source [Ultimate Equipment pg. 351](source:Ultimate Equipment)",
 			"Aura moderate enchantment CL 11th",
 			"Slot none; Weight 1 lb."
 		],
@@ -1702,7 +1697,7 @@
 		"cursed": true,
 		"header": [
 			"Unspeakable One's Vestments",
-			"Source ~`Pathfinder #113: What Grows Within pg. 33`~",
+			"Source [Pathfinder #113: What Grows Within pg. 33](source:Pathfinder #113: What Grows Within)",
 			"Aura strong varied CL 15th",
 			"Slot body; Weight 1 lb."
 		],
@@ -1721,7 +1716,7 @@
 		"weight": 9,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 351`~",
+			"Source [Ultimate Equipment pg. 351](source:Ultimate Equipment)",
 			"Aura moderate transmutation CL 6th",
 			"Slot none; Weight 9 lbs."
 		],
@@ -1739,7 +1734,7 @@
 		"weight": 10,
 		"cursed": true,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 351`~",
+			"Source [Ultimate Equipment pg. 351](source:Ultimate Equipment)",
 			"Aura faint transmutation CL 5th",
 			"Slot none; Weight 10 lbs."
 		],
@@ -1761,7 +1756,7 @@
 		"cursed": true,
 		"header": [
 			"Vacuous Grimoire",
-			"Source ~`Ultimate Equipment pg. 351`~, ~`PRPG Core Rulebook pg. 543`~",
+			"Source [Ultimate Equipment pg. 351](source:Ultimate Equipment), [PRPG Core Rulebook pg. 543](source:PRPG Core Rulebook)",
 			"Aura strong enchantment CL 20th",
 			"Slot none; Weight 2 lbs."
 		],

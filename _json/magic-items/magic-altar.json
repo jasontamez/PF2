@@ -9,7 +9,7 @@
 		"weight": 1000,
 		"header": [
 			"Altar of Pharasma",
-			"Source ~`Inner Sea Gods pg. 249`~",
+			"Source [Inner Sea Gods pg. 249](source:Inner Sea Gods)",
 			"Aura moderate abjuration and conjuration CL 7th",
 			"Slot none; Price 5,380 gp; Weight 1,000 lbs."
 		],
@@ -28,7 +28,7 @@
 		"weight": 150,
 		"header": [
 			"Altar of Cayden Cailean",
-			"Source ~`Inner Sea Gods pg. 246`~",
+			"Source [Inner Sea Gods pg. 246](source:Inner Sea Gods)",
 			"Aura moderate abjuration [chaotic, good] CL 10th",
 			"Slot none; Price 8,000 gp; Weight 150 lbs."
 		],
@@ -47,7 +47,7 @@
 		"weight": 750,
 		"header": [
 			"Altar of Gorum",
-			"Source ~`Inner Sea Gods pg. 247`~",
+			"Source [Inner Sea Gods pg. 247](source:Inner Sea Gods)",
 			"Aura moderate abjuration and transmutation [chaotic] CL 10th",
 			"Slot none; Price 8,000 gp; Weight 750 lbs."
 		],
@@ -66,7 +66,7 @@
 		"weight": 1000,
 		"header": [
 			"Altar of Gozreh",
-			"Source ~`Inner Sea Gods pg. 247`~",
+			"Source [Inner Sea Gods pg. 247](source:Inner Sea Gods)",
 			"Aura moderate abjuration and transmutation CL 10th",
 			"Slot none; Price 8,000 gp; Weight 1,000 lbs."
 		],
@@ -85,7 +85,7 @@
 		"weight": 1000,
 		"header": [
 			"Altar of Iomedae",
-			"Source ~`Inner Sea Gods pg. 248`~",
+			"Source [Inner Sea Gods pg. 248](source:Inner Sea Gods)",
 			"Aura moderate abjuration and transmutation [lawful, good] CL 10th",
 			"Slot none; Price 8,000 gp; Weight 1,000 lbs."
 		],
@@ -104,7 +104,7 @@
 		"weight": 150,
 		"header": [
 			"Altar of Irori",
-			"Source ~`Inner Sea Gods pg. 248`~",
+			"Source [Inner Sea Gods pg. 248](source:Inner Sea Gods)",
 			"Aura moderate abjuration and transmutation [lawful] CL 10th",
 			"Slot none; Price 8,000 gp; Weight 150 lbs."
 		],
@@ -123,7 +123,7 @@
 		"weight": 500,
 		"header": [
 			"Altar of Nethys",
-			"Source ~`Inner Sea Gods pg. 248`~",
+			"Source [Inner Sea Gods pg. 248](source:Inner Sea Gods)",
 			"Aura moderate abjuration and transmutation CL 10th",
 			"Slot none; Price 8,000 gp; Weight 500 lbs."
 		],
@@ -142,7 +142,7 @@
 		"weight": 750,
 		"header": [
 			"Altar of Sarenrae",
-			"Source ~`Inner Sea Gods pg. 249`~",
+			"Source [Inner Sea Gods pg. 249](source:Inner Sea Gods)",
 			"Aura moderate abjuration and conjuration [good, healing] CL 10th",
 			"Slot none; Price 8,000 gp; Weight 750 lbs."
 		],
@@ -161,7 +161,7 @@
 		"weight": 150,
 		"header": [
 			"Altar of Shelyn",
-			"Source ~`Inner Sea Gods pg. 249`~",
+			"Source [Inner Sea Gods pg. 249](source:Inner Sea Gods)",
 			"Aura moderate abjuration and transmutation CL 10th",
 			"Slot none; Price 8,000 gp; Weight 150 lbs."
 		],
@@ -180,7 +180,7 @@
 		"weight": 500,
 		"header": [
 			"Altar of Urgathoa",
-			"Source ~`Inner Sea Gods pg. 249`~",
+			"Source [Inner Sea Gods pg. 249](source:Inner Sea Gods)",
 			"Aura moderate abjuration and necromancy [evil] CL 10th",
 			"Slot none; Price 8,000 gp; Weight 500 lbs."
 		],
@@ -199,7 +199,7 @@
 		"weight": 150,
 		"header": [
 			"Altar of Zon-Kuthon",
-			"Source ~`Inner Sea Gods pg. 249`~",
+			"Source [Inner Sea Gods pg. 249](source:Inner Sea Gods)",
 			"Aura moderate abjuration and enchantment [evil, lawful] CL 10th",
 			"Slot none; Price 8,000 gp; Weight 150 lbs."
 		],
@@ -218,7 +218,7 @@
 		"weight": 1000,
 		"header": [
 			"Altar of Abadar",
-			"Source ~`Inner Sea Gods pg. 246`~",
+			"Source [Inner Sea Gods pg. 246](source:Inner Sea Gods)",
 			"Aura moderate abjuration [lawful] CL 10th",
 			"Slot none; Price 10,000 gp; Weight 1,000 lbs."
 		],
@@ -237,7 +237,7 @@
 		"weight": 1000,
 		"header": [
 			"Altar of Desna",
-			"Source ~`Inner Sea Gods pg. 247`~",
+			"Source [Inner Sea Gods pg. 247](source:Inner Sea Gods)",
 			"Aura moderate abjuration and transmutation [chaotic, good] CL 10th",
 			"Slot none; Price 10,000 gp; Weight 1,000 lbs."
 		],
@@ -256,7 +256,7 @@
 		"weight": 1000,
 		"header": [
 			"Altar of Erastil",
-			"Source ~`Inner Sea Gods pg. 247`~",
+			"Source [Inner Sea Gods pg. 247](source:Inner Sea Gods)",
 			"Aura moderate abjuration, conjuration, and divination [good, lawful] CL 10th",
 			"Slot none; Price 10,000 gp; Weight 1,000 lbs."
 		],
@@ -275,7 +275,7 @@
 		"weight": 500,
 		"header": [
 			"Altar of Lamashtu",
-			"Source ~`Inner Sea Gods pg. 248`~",
+			"Source [Inner Sea Gods pg. 248](source:Inner Sea Gods)",
 			"Aura moderate abjuration and transmutation [chaotic, evil] CL 10th",
 			"Slot none; Price 10,000 gp; Weight 500 lbs."
 		],
@@ -294,7 +294,7 @@
 		"weight": 250,
 		"header": [
 			"Altar of Norgorber",
-			"Source ~`Inner Sea Gods pg. 248`~",
+			"Source [Inner Sea Gods pg. 248](source:Inner Sea Gods)",
 			"Aura moderate abjuration and enchantment [evil] CL 10th",
 			"Slot none; Price 10,000 gp; Weight 250 lbs."
 		],
@@ -313,7 +313,7 @@
 		"weight": 150,
 		"header": [
 			"Altar of Rovagug",
-			"Source ~`Inner Sea Gods pg. 249`~",
+			"Source [Inner Sea Gods pg. 249](source:Inner Sea Gods)",
 			"Aura moderate abjuration and transmutation [chaotic, evil] CL 10th",
 			"Slot none; Price 10,000 gp; Weight 150 lbs."
 		],
@@ -332,7 +332,7 @@
 		"weight": 250,
 		"header": [
 			"Altar of the Dawnflower",
-			"Source ~`Inner Sea Temples pg. 52`~",
+			"Source [Inner Sea Temples pg. 52](source:Inner Sea Temples)",
 			"Aura moderate conjuration and enchantment [good, healing] CL 10th",
 			"Slot none; Price 10,000 gp; Weight 250 lbs."
 		],
@@ -352,7 +352,7 @@
 		"weight": 500,
 		"header": [
 			"Altar of Torag",
-			"Source ~`Inner Sea Gods pg. 249`~",
+			"Source [Inner Sea Gods pg. 249](source:Inner Sea Gods)",
 			"Aura moderate abjuration and transmutation [good, lawful] CL 10th",
 			"Slot none; Price 10,000 gp; Weight 500 lbs."
 		],
@@ -371,7 +371,7 @@
 		"weight": 1000,
 		"header": [
 			"Altar of Zursvaater",
-			"Source ~`Pathfinder #95: Anvil of Fire pg. 45`~",
+			"Source [Pathfinder #95: Anvil of Fire pg. 45](source:Pathfinder #95: Anvil of Fire)",
 			"Aura moderate abjuration [evil, lawful] CL 10th",
 			"Slot none; Price 10,000 gp; Weight 1,000 lbs."
 		],
@@ -390,7 +390,7 @@
 		"weight": 750,
 		"header": [
 			"Altar of Asmodeus",
-			"Source ~`Inner Sea Gods pg. 246`~",
+			"Source [Inner Sea Gods pg. 246](source:Inner Sea Gods)",
 			"Aura moderate abjuration and enchantment [evil, lawful] CL 10th",
 			"Slot none; Price 16,000 gp; Weight 750 lbs."
 		],
@@ -409,7 +409,7 @@
 		"weight": 500,
 		"header": [
 			"Altar of Calistria",
-			"Source ~`Inner Sea Gods pg. 246`~",
+			"Source [Inner Sea Gods pg. 246](source:Inner Sea Gods)",
 			"Aura moderate abjuration and evocation [chaotic] CL 10th",
 			"Slot none; Price 16,000 gp; Weight 500 lbs."
 		],

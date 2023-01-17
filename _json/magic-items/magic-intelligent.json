@@ -10,7 +10,7 @@
 		"weight": 3,
 		"header": [
 			"Crusader's Scabbard",
-			"Source ~`Magical Marketplace pg. 16`~",
+			"Source [Magical Marketplace pg. 16](source:Magical Marketplace)",
 			"Aura moderate transmutation CL 7th",
 			"Slot belt; Price 8,500 gp; Weight 3 lbs."
 		],
@@ -36,7 +36,7 @@
 		"weight": 2,
 		"header": [
 			"Balgorrah",
-			"Source ~`Pathfinder #98: Turn of the Torrent pg. 36`~",
+			"Source [Pathfinder #98: Turn of the Torrent pg. 36](source:Pathfinder #98: Turn of the Torrent)",
 			"Aura faint necromancy CL 7th",
 			"Slot none; Price 11,708 gp; Weight 2 lbs."
 		],
@@ -62,7 +62,7 @@
 		"intelligent": true,
 		"weight": 8,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 359`~",
+			"Source [Ultimate Equipment pg. 359](source:Ultimate Equipment)",
 			"Aura moderate abjuration CL 9th",
 			"Slot none; Price 12,000 gp; Weight 8 lbs."
 		],
@@ -89,7 +89,7 @@
 		"intelligent": true,
 		"weight": 5,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 359`~",
+			"Source [Ultimate Equipment pg. 359](source:Ultimate Equipment)",
 			"Aura moderate divination CL 11th",
 			"Slot shield; Price 14,500 gp; Weight 5 lbs."
 		],
@@ -115,7 +115,7 @@
 		"weight": 0,
 		"header": [
 			"Wary Ring",
-			"Source ~`Magical Marketplace pg. 17`~",
+			"Source [Magical Marketplace pg. 17](source:Magical Marketplace)",
 			"Aura n/a CL 9th",
 			"Slot ring; Price 14,600 gp"
 		],
@@ -141,7 +141,7 @@
 		"weight": 0,
 		"header": [
 			"Ring of the Weary Sky",
-			"Source ~`Lost Treasures pg. 49`~",
+			"Source [Lost Treasures pg. 49](source:Lost Treasures)",
 			"Aura moderate abjuration and enchantment CL 7th",
 			"Slot ring; Price 14,800 gp"
 		],
@@ -168,7 +168,7 @@
 		"weight": 25,
 		"header": [
 			"Gossamer Shrouds of the Clairvoyant",
-			"Source ~`Magical Marketplace pg. 17`~",
+			"Source [Magical Marketplace pg. 17](source:Magical Marketplace)",
 			"Aura moderate conjuration and illusion CL 9th",
 			"Slot armor; Price 20,150 gp; Weight 25 lbs."
 		],
@@ -194,7 +194,7 @@
 		"weight": 4,
 		"header": [
 			"Clarity",
-			"Source ~`Tears at Bitter Manor pg. 18`~",
+			"Source [Tears at Bitter Manor pg. 18](source:Tears at Bitter Manor)",
 			"Aura moderate evocation [good] CL 7th",
 			"Slot none; Price 21,015 gp; Weight 4 lbs."
 		],
@@ -220,7 +220,7 @@
 		"weight": 6,
 		"header": [
 			"Ukwar",
-			"Source ~`Curse of the Crimson Throne (PFRPG) pg. 437`~",
+			"Source [Curse of the Crimson Throne (PFRPG) pg. 437](source:Curse of the Crimson Throne (PFRPG))",
 			"Aura moderate necromancy CL 8th",
 			"Slot none; Price 23,335 gp; Weight 6 lbs."
 		],
@@ -231,12 +231,12 @@
 			"Communication speech (Common and Orc)"
 		],
 		"description": [
-			"Ukwar is a +1 ~`conductive`~ battleaxe infused with the angry spirit of a Deadwatcher orc leader named Ukwar. After perishing in Scarwall and rising soon thereafter as a ~`fext`~, Ukwar spent decades longing to be free of her curse. When she is permanently slain, her spirit enters her axe. As long as the PCs continue to adventure in Scarwall, she doesn't attempt to exert influence over her wielder'she wants to see each and every one of Scarwall's denizens suffer. If her wielder spends more than 1 day outside of Scarwall (and the castle remains cursed), she attempts to take control and force her wielder to return and finish this job.",
-			"As long as Ukwar remains intelligent, the blade grants weapon proficiency with the battleaxe to her wielder. If the wielder is already proficient with battleaxes, he instead gains a +1 bonus on all attack rolls and damage rolls made with Ukwar. She imposes negative levels on nonchaotic evil wielders only when they are outside of Scarwall. She can cast ~`rage`~ once per day, and does so on her wielder the first time each day he attacks one of the spirit anchors or the chained spirit'she can be convinced to cast ~`rage`~ on her wielder at another time with a successful DC 20 Diplomacy or Intimidate check (a standard action).",
+			"Ukwar is a +1 [conductive][unknown:conductive) battleaxe infused with the angry spirit of a Deadwatcher orc leader named Ukwar. After perishing in Scarwall and rising soon thereafter as a [fext][unknown:fext), Ukwar spent decades longing to be free of her curse. When she is permanently slain, her spirit enters her axe. As long as the PCs continue to adventure in Scarwall, she doesn't attempt to exert influence over her wielder'she wants to see each and every one of Scarwall's denizens suffer. If her wielder spends more than 1 day outside of Scarwall (and the castle remains cursed), she attempts to take control and force her wielder to return and finish this job.",
+			"As long as Ukwar remains intelligent, the blade grants weapon proficiency with the battleaxe to her wielder. If the wielder is already proficient with battleaxes, he instead gains a +1 bonus on all attack rolls and damage rolls made with Ukwar. She imposes negative levels on nonchaotic evil wielders only when they are outside of Scarwall. She can cast [rage][unknown:rage) once per day, and does so on her wielder the first time each day he attacks one of the spirit anchors or the chained spirit'she can be convinced to cast [rage][unknown:rage) on her wielder at another time with a successful DC 20 Diplomacy or Intimidate check (a standard action).",
 			"Ukwar's special purpose is to lift Scarwall's curse, and as long as her wielder is engaged in this quest and is within Scarwall, the weapon functions as a +1 conductive <MAGIC.WEAPONS%Bane\">undead-bane</a> battleaxe. If Scarwall's curse is lifted, Ukwar's spirit leaves the axe behind, and this weapon returns to being an unintelligent +1 conductive battleaxe.",
 			"Ukwar is a unique weapon created through a nonstandard method, but a character who wishes to create an identical weapon can do so using the guidelines below."
 		],
-		"construction": "~`Craft Magic Arms and Armor`~, ~`rage`~, ~`spectral hand`~, ~`summon monster I`~; Price 14,335 gp"
+		"construction": "[Craft Magic Arms and Armor][unknown:Craft Magic Arms and Armor), [rage][unknown:rage), [spectral hand][unknown:spectral hand), [summon monster I][unknown:summon monster I); Price 14,335 gp"
 	},
 	"Lady Ninahu's Doll": {
 		"itemname": "Lady Ninahu's Doll",
@@ -249,7 +249,7 @@
 		"weight": 2,
 		"header": [
 			"Lady Ninahu's Doll",
-			"Source ~`Lost Treasures pg. 37`~",
+			"Source [Lost Treasures pg. 37](source:Lost Treasures)",
 			"Aura moderate transmutation CL 10th",
 			"Slot none; Price 28,500 gp; Weight 2 lbs."
 		],
@@ -279,7 +279,7 @@
 		"weight": 6,
 		"header": [
 			"Fiendsplitter",
-			"Source ~`Lost Treasures pg. 30`~, ~`Pathfinder #74: Sword of Valor pg. 66`~",
+			"Source [Lost Treasures pg. 30](source:Lost Treasures), [Pathfinder #74: Sword of Valor pg. 66](source:Pathfinder #74: Sword of Valor)",
 			"Aura moderate conjuration and evocation CL 7th",
 			"Slot none; Price 28,715 gp; Weight 6 lbs."
 		],
@@ -306,7 +306,7 @@
 		"weight": 0,
 		"header": [
 			"Hollis's Lucky Rock",
-			"Source ~`Magical Marketplace pg. 17`~",
+			"Source [Magical Marketplace pg. 17](source:Magical Marketplace)",
 			"Aura moderate enchantment and evocation CL 11th",
 			"Slot none; Price 35,000 gp"
 		],
@@ -331,7 +331,7 @@
 		"intelligent": true,
 		"weight": 3,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 358`~",
+			"Source [Ultimate Equipment pg. 358](source:Ultimate Equipment)",
 			"Aura moderate enchantment CL 12th",
 			"Slot none; Price 37,900 gp; Weight 3 lbs."
 		],
@@ -343,14 +343,9 @@
 		],
 		"description": [
 			"This lute is a masterwork instrument constructed of polished ebony, with mother of pearl embellishments and gold frets. It grants any creature playing it a +2 competence bonus on Perform (string instruments) checks as it gently telepathically whispers ways the creature can improve is current performance. It also grants those who can play the lute the following abilities. ",
-			{
-				"list": true,
-				"items": [
-					"Three times per day on command, a creature with at least 6 ranks in Perform (string instruments) can play a chord on the lute of discord to employ the murderous command spell (Ultimate Magic).",
-					"Three times per day on command, a creature with at least 6 ranks in Perform (string instruments) can play a chord on the lute of discord to use the distracting cacophony spell (3rd level) (Ultimate Magic).",
-					"Once per day on command, a creature with at least 6 ranks in Perform (string instruments) can play a chord to use the echolocation spell (Ultimate Magic) (4th level caster)"
-				]
-			}
+			"- Three times per day on command, a creature with at least 6 ranks in Perform (string instruments) can play a chord on the lute of discord to employ the murderous command spell (Ultimate Magic).",
+			"- Three times per day on command, a creature with at least 6 ranks in Perform (string instruments) can play a chord on the lute of discord to use the distracting cacophony spell (3rd level) (Ultimate Magic).",
+			"- Once per day on command, a creature with at least 6 ranks in Perform (string instruments) can play a chord to use the echolocation spell (Ultimate Magic) (4th level caster)"
 		],
 		"construction": "Craft Wondrous Item, distracting cacophony ( Ultimate Magic), echolocation (Ultimate Magic), murderous command (Ultimate Magic); Price 18,950 gp"
 	},
@@ -364,7 +359,7 @@
 		"intelligent": true,
 		"weight": 8,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 359`~",
+			"Source [Ultimate Equipment pg. 359](source:Ultimate Equipment)",
 			"Aura strong abjuration CL 16th",
 			"Slot none; Price 40,000 gp; Weight 8 lbs."
 		],
@@ -391,7 +386,7 @@
 		"intelligent": true,
 		"weight": 5,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 357`~",
+			"Source [Ultimate Equipment pg. 357](source:Ultimate Equipment)",
 			"Aura moderate conjuration CL 8th",
 			"Price 44,200 gp; Weight 5 lbs."
 		],
@@ -403,13 +398,8 @@
 		],
 		"description": [
 			"This copper rod is made up of constantly grinding gearlike parts. It is believed that these rods may be some alternate or lesser form of harbinger archons (Bestiary 3 18). T he rod can take may useful forms, and after 24 hours in the possession of a lawful good creature, the wielder can command it to take the form of any tool, including a chime of opening. Very intelligent and witty, these rods communicate with their wielders in truespeech (Bestiary 310; see archon subtype) or Celestial. Furthermore, the rod has the following powers. ",
-			{
-				"list": true,
-				"items": [
-					"Three times per day, on command, the rod's wielder can use dimension door, as the spell.",
-					"Once per day, on command, the rod can emit a blast of energy that deals 2d6 points of force damage to creatures adjacent to the wielder. A successful DC 12 Reflex save halves the damage. The wielder can choose to omit any target from this blast that it desires, damaging only the foes it chooses."
-				]
-			},
+			"- Three times per day, on command, the rod's wielder can use dimension door, as the spell.",
+			"- Once per day, on command, the rod can emit a blast of energy that deals 2d6 points of force damage to creatures adjacent to the wielder. A successful DC 12 Reflex save halves the damage. The wielder can choose to omit any target from this blast that it desires, damaging only the foes it chooses.",
 			"The rod's purpose is to destroy or foil the plans of chaotic evil creatures."
 		],
 		"construction": "Craft Rod, dimension door, knock, explosive runes, creator must be lawful good; Price 22,100 gp"
@@ -425,7 +415,7 @@
 		"weight": 10,
 		"header": [
 			"Soulshear",
-			"Source ~`Pathfinder #74: Sword of Valor pg. 63`~",
+			"Source [Pathfinder #74: Sword of Valor pg. 63](source:Pathfinder #74: Sword of Valor)",
 			"Aura strong conjuration [evil] CL 15th",
 			"Slot none; Price 45,508 gp; Weight 10 lbs."
 		],
@@ -452,7 +442,7 @@
 		"weight": 6,
 		"header": [
 			"Teralindar's Honor",
-			"Source ~`Pathfinder #113: What Grows Within pg. 35`~",
+			"Source [Pathfinder #113: What Grows Within pg. 35](source:Pathfinder #113: What Grows Within)",
 			"Aura strong conjuration and divination CL 13th",
 			"Slot none; Price 48,535 gp; Weight 6 lbs."
 		],
@@ -478,7 +468,7 @@
 		"weight": 5,
 		"header": [
 			"Abat-Ne, the Blackstone Mace",
-			"Source ~`Pathfinder #83: The Slave Trenches of Hakotep pg. 71`~",
+			"Source [Pathfinder #83: The Slave Trenches of Hakotep pg. 71](source:Pathfinder #83: The Slave Trenches of Hakotep)",
 			"Aura strong abjuration CL 10th",
 			"Slot weapon; Price 51,005 gp; Weight 5 lbs."
 		],
@@ -506,7 +496,7 @@
 		"weight": 1,
 		"header": [
 			"Bloody Mantis",
-			"Source ~`Lost Treasures pg. 21`~",
+			"Source [Lost Treasures pg. 21](source:Lost Treasures)",
 			"Aura moderate divination, enchantment, and illusion CL 11th",
 			"Slot head; Price 52,500 gp; Weight 1 lb."
 		],
@@ -532,7 +522,7 @@
 		"intelligent": true,
 		"weight": 5,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 357`~",
+			"Source [Ultimate Equipment pg. 357](source:Ultimate Equipment)",
 			"Aura moderate conjuration CL 10th",
 			"Price 54,212 gp; Weight 5 lbs."
 		],
@@ -557,7 +547,7 @@
 		"intelligent": true,
 		"weight": 3,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 358`~",
+			"Source [Ultimate Equipment pg. 358](source:Ultimate Equipment)",
 			"Aura strong evocation CL 17th",
 			"Slot none; Price 54,300 gp; Weight 3 lbs."
 		],
@@ -569,14 +559,9 @@
 		],
 		"description": [
 			"This intelligent item is called a lightning bow by mortals, a name is seen as a slight to the lightning elemental trapped within it-a creature honor-bound to serve in the bow for no less than 100 years. Each of these +3 adaptive composite longbows is a haughty and often highly intelligent member of its race, who chides those who don't know its true name- which is often a complicated series of high pitched squeaks, like live wood burning on a pyre. The elemental in a lightning bow only speaks Auran. Lightning bows will not fire on other outsiders with the elemental subtype. Some are also bound not to attack other individuals, based on their history. For instance, one of these bows might be foresworn not to attack the Sultan of Fire, fire giants, or red dragons. Additionally, lightning bows have the following powers. ",
-			{
-				"list": true,
-				"items": [
-					"A lightning bow needs no ammunition. With the pull of a string, it creates a +3 shock arrow or a +3 brilliant energy arrow (the wielder's choice with each shot).",
-					"Three times per day, the wielder can cast true strike as a swift action. The true strike can only be used with attacks made with the lightning bow.",
-					"Three times per day, the wielder can use lightning bolt as a spell-like ability."
-				]
-			}
+			"- A lightning bow needs no ammunition. With the pull of a string, it creates a +3 shock arrow or a +3 brilliant energy arrow (the wielder's choice with each shot).",
+			"- Three times per day, the wielder can cast true strike as a swift action. The true strike can only be used with attacks made with the lightning bow.",
+			"- Three times per day, the wielder can use lightning bolt as a spell-like ability."
 		],
 		"construction": "Craft Magic Arms and Armor, call lightning, the willing service of one Huge lighting elemental for at least 100 years; Price 27,300 gp"
 	},
@@ -591,7 +576,7 @@
 		"weight": 5,
 		"header": [
 			"Draddeth Edge",
-			"Source ~`Lost Treasures pg. 25`~",
+			"Source [Lost Treasures pg. 25](source:Lost Treasures)",
 			"Aura moderate conjuration and transmutation CL 10th",
 			"Slot none; Price 58,312 gp; Weight 5 lbs."
 		],
@@ -619,7 +604,7 @@
 		"intelligent": true,
 		"weight": 3,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 357`~",
+			"Source [Ultimate Equipment pg. 357](source:Ultimate Equipment)",
 			"Aura strong divination CL 13th",
 			"Slot head; Price 62,000 gp; Weight 3 lbs."
 		],
@@ -632,13 +617,8 @@
 		"description": [
 			"This golden gem-studded helmet acts like a crown of conquest and grants its wielder three performance or teamwork feats. The wearer can use each of these feats as if it were on his feat list. Once chosen, at the time of the item's creation, these feats cannot be changed. The helmet must be worn for 24 hours in order to gain the teamwork or performance feats.",
 			"Furthermore this helmet can speak through a central ruby that sits over the nose guard of the helmet. It knows Common and four other languages. These helmets are always confident-even arrogant-and give a running commentary of the battle, praising heroism, chiding tactical missteps, and giving its wearer and its allies martial advice. It has the following other powers. ",
-			{
-				"list": true,
-				"items": [
-					"Three times per day, it can affect its wearer or an ally within 30 feet as the true strike spell.",
-					"Three times per day, it can attempt to demoralize all enemies within 30 feet as a free action, as if using the Intimidate skill. The helmet's Intimidate is bonus +17."
-				]
-			}
+			"- Three times per day, it can affect its wearer or an ally within 30 feet as the true strike spell.",
+			"- Three times per day, it can attempt to demoralize all enemies within 30 feet as a free action, as if using the Intimidate skill. The helmet's Intimidate is bonus +17."
 		],
 		"construction": "Craft Wondrous Item, the item's performance and teamwork feat, bless, eagle's splendor, prayer, scare, true strike; Price 31,000 gp"
 	},
@@ -652,7 +632,7 @@
 		"intelligent": true,
 		"weight": 1,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 357`~",
+			"Source [Ultimate Equipment pg. 357](source:Ultimate Equipment)",
 			"Aura moderate divination CL 10th",
 			"Slot headband; Price 71,300 gp; Weight 1 lb."
 		],
@@ -678,7 +658,7 @@
 		"weight": 5,
 		"header": [
 			"Norgir's Ruin",
-			"Source ~`Dungeons of Golarion pg. 9`~",
+			"Source [Dungeons of Golarion pg. 9](source:Dungeons of Golarion)",
 			"Aura strong evocation CL 15th",
 			"Price 91,712 gp; Weight 5 lbs."
 		],
@@ -705,7 +685,7 @@
 		"intelligent": true,
 		"weight": 5,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 358`~",
+			"Source [Ultimate Equipment pg. 358](source:Ultimate Equipment)",
 			"Aura strong divination CL 18th",
 			"Slot none; Price 93,605 gp; Weight 5 lbs."
 		],
@@ -737,7 +717,7 @@
 		"weight": 6,
 		"header": [
 			"Skullduster",
-			"Source ~`Magical Marketplace pg. 17`~",
+			"Source [Magical Marketplace pg. 17](source:Magical Marketplace)",
 			"Aura strong abjuration and conjuration CL 14th",
 			"Slot none; Price 104,508 gp; Weight 6 lbs."
 		],
@@ -762,7 +742,7 @@
 		"intelligent": true,
 		"weight": 0,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 359`~",
+			"Source [Ultimate Equipment pg. 359](source:Ultimate Equipment)",
 			"Aura moderate abjuration CL 9th",
 			"Slot none; Price 116,500 gp"
 		],
@@ -776,14 +756,9 @@
 			"These rings of protection +3 are extremely varied in form. They can be of any alignment and each has its own unique personality and proclivities. Each ring has a specific obsession. To determine a particular obsession ring's obsession, roll on Table 6-10: Intelligent Item Purpose. When the ring is in pursuit of its purpose, its Ego is 10 points higher than normal.",
 			"Gnomes with the obsession racial trait have a unique understanding of the ring's mentality and gain a +5 bonus on Will saving throws to resist the obsession ring's attempts to dominate the wearer.",
 			"When an obsession ring is engaged in action directly related to its obsession, it grants its wearer the following powers, but can choose to withhold such powers if it does not believe their uses would further its obsession. ",
-			{
-				"list": true,
-				"items": [
-					"The ring functions as a ring of protection +5.",
-					"The ring grants its wearer a +2 luck bonus on attack rolls against creatures its obsession is sworn to defeat.",
-					"Three times per day, the ring can allow its wearer to reroll any saving throw. The wearer gains a +4 luck bonus on the saving throw reroll."
-				]
-			},
+			"- The ring functions as a ring of protection +5.",
+			"- The ring grants its wearer a +2 luck bonus on attack rolls against creatures its obsession is sworn to defeat.",
+			"- Three times per day, the ring can allow its wearer to reroll any saving throw. The wearer gains a +4 luck bonus on the saving throw reroll.",
 			"These rings are typically quite emphatic on their desire to fulfill their obsessions, and frequently communicate with their wielder to encourage pursuit of this goal."
 		],
 		"construction": "Forge Ring, shield of faith, creator must be 15th level (or 9th level if the creator is a gnome); Price 58,250 gp"
@@ -798,7 +773,7 @@
 		"intelligent": true,
 		"weight": 15,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 356`~",
+			"Source [Ultimate Equipment pg. 356](source:Ultimate Equipment)",
 			"Aura moderate illusion CL 8th",
 			"Price 117,160 gp; Weight 15 lbs."
 		],
@@ -824,7 +799,7 @@
 		"weight": 4,
 		"header": [
 			"The Bloodwind",
-			"Source ~`Pathfinder #111: Dreams of the Yellow King pg. 38`~",
+			"Source [Pathfinder #111: Dreams of the Yellow King pg. 38](source:Pathfinder #111: Dreams of the Yellow King)",
 			"Aura moderate transmutation CL 10th",
 			"Slot none; Price 126,900 gp; Weight 4 lbs."
 		],
@@ -851,7 +826,7 @@
 		"weight": 0,
 		"header": [
 			"Phylactery of Jadis-Vel",
-			"Source ~`Lost Treasures pg. 47`~",
+			"Source [Lost Treasures pg. 47](source:Lost Treasures)",
 			"Aura moderate necromancy [evil] CL 11th",
 			"Slot headband; Price 135,000 gp"
 		],
@@ -877,7 +852,7 @@
 		"intelligent": true,
 		"weight": 4,
 		"header": [
-			"Source ~`Ultimate Equipment pg. 359`~",
+			"Source [Ultimate Equipment pg. 359](source:Ultimate Equipment)",
 			"Aura strong enchantment CL 14th",
 			"Slot none; Price 165,315 gp; Weight 4 lbs."
 		],
@@ -889,13 +864,8 @@
 		],
 		"description": [
 			"This +2 keen dancing longsword is infused with the soul of a bard who chose to instill his consciousness into a weapon rather than to see his voice die. The sword constantly sings. The only way to silence it to a whisper is with a DC 15 Diplomacy or Intimidate check, and even this only quiets the sword for 10 minutes plus another 10 minutes for every 5 points by which the DC is exceeded. The sword speaks, though it typically communicates through song. A singing sword has the following powers. ",
-			{
-				"list": true,
-				"items": [
-					"For 22 rounds per day, a singing sword can use bardic performance, but can only use the countersong, distraction, fascinate, inspire courage, or inspire competence abilities. The sword is treated as an 8thlevel bard for the purposes of these abilities.",
-					"Three times per day, the singing sword can use the heroic finale spell (Advanced Player's Guide)."
-				]
-			}
+			"- For 22 rounds per day, a singing sword can use bardic performance, but can only use the countersong, distraction, fascinate, inspire courage, or inspire competence abilities. The sword is treated as an 8thlevel bard for the purposes of these abilities.",
+			"- Three times per day, the singing sword can use the heroic finale spell (Advanced Player's Guide)."
 		],
 		"construction": "Craft Arms and Armor, keen edge, animate object, the soul of a willing bard of at least 8th level; Price 500 gp"
 	}

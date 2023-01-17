@@ -9,7 +9,7 @@
 		"weight": 0,
 		"header": [
 			"Advancing",
-			"Source ~`Armor Master's Handbook pg. 28`~",
+			"Source [Armor Master's Handbook pg. 28](source:Armor Master's Handbook)",
 			"Aura faint necromancy CL 5th",
 			"Slot armor quality; Price +1 bonus; Weight -"
 		],
@@ -31,7 +31,7 @@
 		"weight": 0,
 		"header": [
 			"Balanced",
-			"Source ~`Armor Master's Handbook pg. 26`~, ~`Ultimate Equipment pg. 115`~",
+			"Source [Armor Master's Handbook pg. 26](source:Armor Master's Handbook), [Ultimate Equipment pg. 115](source:Ultimate Equipment)",
 			"Aura faint evocation CL 3rd",
 			"Slot armor quality; Price +1 bonus; Weight -"
 		],
@@ -50,7 +50,7 @@
 		"weight": 0,
 		"header": [
 			"Benevolent",
-			"Source ~`Ultimate Equipment pg. 115`~",
+			"Source [Ultimate Equipment pg. 115](source:Ultimate Equipment)",
 			"Aura faint enchantment CL 5th",
 			"Slot armor quality; Price +1 bonus; Weight -"
 		],
@@ -69,7 +69,7 @@
 		"weight": 0,
 		"header": [
 			"Billowing",
-			"Source ~`Planar Adventures pg. 46`~",
+			"Source [Planar Adventures pg. 46](source:Planar Adventures)",
 			"Aura faint conjuration CL 3rd",
 			"Slot none; Price +1 bonus; Weight -"
 		],
@@ -91,7 +91,7 @@
 		"weight": 0,
 		"header": [
 			"Bitter",
-			"Source ~`Ultimate Equipment pg. 115`~, ~`Pathfinder Society Field Guide pg. 50`~",
+			"Source [Ultimate Equipment pg. 115](source:Ultimate Equipment), [Pathfinder Society Field Guide pg. 50](source:Pathfinder Society Field Guide)",
 			"Aura faint transmutation CL 5th",
 			"Slot armor quality; Price +1 bonus; Weight -"
 		],
@@ -111,7 +111,7 @@
 		"weight": 0,
 		"header": [
 			"Bolstering",
-			"Source ~`Ultimate Equipment pg. 116`~",
+			"Source [Ultimate Equipment pg. 116](source:Ultimate Equipment)",
 			"Aura faint enchantment CL 5th",
 			"Slot armor quality; Price +1 bonus; Weight -"
 		],
@@ -130,7 +130,7 @@
 		"weight": 0,
 		"header": [
 			"Calming",
-			"Source ~`Advanced Class Guide pg. 209`~",
+			"Source [Advanced Class Guide pg. 209](source:Advanced Class Guide)",
 			"Aura faint enchantment CL 5th",
 			"Slot none; Price +1 bonus; Weight -"
 		],
@@ -152,7 +152,7 @@
 		"weight": 0,
 		"header": [
 			"Champion",
-			"Source ~`Ultimate Equipment pg. 116`~, ~`Advanced Player's Guide pg. 283`~",
+			"Source [Ultimate Equipment pg. 116](source:Ultimate Equipment), [Advanced Player's Guide pg. 283](source:Advanced Player's Guide)",
 			"Aura faint abjuration CL 5th",
 			"Slot armor quality; Price +1 bonus; Weight -"
 		],
@@ -171,7 +171,7 @@
 		"weight": 0,
 		"header": [
 			"Cocooning",
-			"Source ~`Planar Adventures pg. 46`~",
+			"Source [Planar Adventures pg. 46](source:Planar Adventures)",
 			"Aura moderate transmutation CL 9th",
 			"Slot none; Price +1 bonus; Weight -"
 		],
@@ -190,7 +190,7 @@
 		"weight": 0,
 		"header": [
 			"Crusading",
-			"Source ~`Advanced Class Origins pg. 28`~",
+			"Source [Advanced Class Origins pg. 28](source:Advanced Class Origins)",
 			"Aura faint abjuration CL 5th",
 			"Slot none; Price +1 bonus; Weight -"
 		],
@@ -212,7 +212,7 @@
 		"weight": 0,
 		"header": [
 			"Dastard",
-			"Source ~`Ultimate Equipment pg. 116`~, ~`Advanced Player's Guide pg. 283`~",
+			"Source [Ultimate Equipment pg. 116](source:Ultimate Equipment), [Advanced Player's Guide pg. 283](source:Advanced Player's Guide)",
 			"Aura faint abjuration CL 5th",
 			"Slot armor quality; Price +1 bonus; Weight -"
 		],
@@ -231,7 +231,7 @@
 		"weight": 0,
 		"header": [
 			"Deathless",
-			"Source ~`Ultimate Equipment pg. 116`~",
+			"Source [Ultimate Equipment pg. 116](source:Ultimate Equipment)",
 			"Aura moderate abjuration CL 7th",
 			"Slot armor quality; Price +1 bonus; Weight -"
 		],
@@ -250,7 +250,7 @@
 		"weight": 0,
 		"header": [
 			"Defiant",
-			"Source ~`Ultimate Equipment pg. 116`~",
+			"Source [Ultimate Equipment pg. 116](source:Ultimate Equipment)",
 			"Aura moderate conjuration CL 8th",
 			"Slot armor/shield quality; Price +1 bonus; Weight -"
 		],
@@ -269,7 +269,7 @@
 		"weight": 0,
 		"header": [
 			"Evolving",
-			"Source ~`Melee Tactics Toolbox pg. 26`~",
+			"Source [Melee Tactics Toolbox pg. 26](source:Melee Tactics Toolbox)",
 			"Aura moderate transmutation CL 7th",
 			"Slot none; Price +1 bonus; Weight -"
 		],
@@ -291,7 +291,7 @@
 		"weight": 0,
 		"header": [
 			"Fortification",
-			"Source ~`Ultimate Equipment pg. 118`~, ~`PRPG Core Rulebook pg. 463`~",
+			"Source [Ultimate Equipment pg. 118](source:Ultimate Equipment), [PRPG Core Rulebook pg. 463](source:PRPG Core Rulebook)",
 			"Aura strong abjuration CL 13th",
 			"Slot armor/shield quality; Price light (+1 bonus), moderate (+3 bonus), heavy (+5 bonus); Weight -"
 		],
@@ -310,7 +310,7 @@
 		"weight": 0,
 		"header": [
 			"Grinding",
-			"Source ~`Ultimate Equipment pg. 119`~",
+			"Source [Ultimate Equipment pg. 119](source:Ultimate Equipment)",
 			"Aura faint transmutation CL 5th",
 			"Slot armor/shield quality; Price +1 bonus; Weight -"
 		],
@@ -329,7 +329,7 @@
 		"weight": 0,
 		"header": [
 			"Impervious",
-			"Source ~`Ultimate Equipment pg. 119`~",
+			"Source [Ultimate Equipment pg. 119](source:Ultimate Equipment)",
 			"Aura moderate transmutation CL 7th",
 			"Slot armor/shield quality; Price +1 bonus; Weight -"
 		],
@@ -348,7 +348,7 @@
 		"weight": 0,
 		"header": [
 			"Mirrored",
-			"Source ~`Ultimate Equipment pg. 120`~",
+			"Source [Ultimate Equipment pg. 120](source:Ultimate Equipment)",
 			"Aura moderate abjuration CL 8th",
 			"Slot armor/shield quality; Price +1 bonus; Weight -"
 		],
@@ -367,7 +367,7 @@
 		"weight": 0,
 		"header": [
 			"Poisoning",
-			"Source ~`Magical Marketplace pg. 27`~",
+			"Source [Magical Marketplace pg. 27](source:Magical Marketplace)",
 			"Aura moderate necromancy CL 7th",
 			"Slot armor; Price +1 bonus; Weight -"
 		],
@@ -386,7 +386,7 @@
 		"weight": 0,
 		"header": [
 			"Resonating",
-			"Source ~`Mythic Adventures pg. 142`~",
+			"Source [Mythic Adventures pg. 142](source:Mythic Adventures)",
 			"Aura moderate abjuration CL 7th",
 			"Slot armor; Price +1 bonus; Weight -"
 		],
@@ -405,7 +405,7 @@
 		"weight": 0,
 		"header": [
 			"Spell Storing",
-			"Source ~`Ultimate Equipment pg. 122`~",
+			"Source [Ultimate Equipment pg. 122](source:Ultimate Equipment)",
 			"Aura strong evocation CL 12th",
 			"Slot armor quality; Price +1 bonus; Weight -"
 		],
@@ -424,7 +424,7 @@
 		"weight": 0,
 		"header": [
 			"Spellsink",
-			"Source ~`Dirty Tactics Toolbox pg. 24`~",
+			"Source [Dirty Tactics Toolbox pg. 24](source:Dirty Tactics Toolbox)",
 			"Aura moderate abjuration CL 6th",
 			"Price +1 bonus; Weight -"
 		],
@@ -443,7 +443,7 @@
 		"weight": 0,
 		"header": [
 			"Stanching",
-			"Source ~`Ultimate Equipment pg. 122`~",
+			"Source [Ultimate Equipment pg. 122](source:Ultimate Equipment)",
 			"Aura moderate transmutation CL 7th",
 			"Slot armor quality; Price +1 bonus; Weight -"
 		],
@@ -462,7 +462,7 @@
 		"weight": 0,
 		"header": [
 			"Terrain-striding",
-			"Source ~`Armor Master's Handbook pg. 27`~",
+			"Source [Armor Master's Handbook pg. 27](source:Armor Master's Handbook)",
 			"Aura strong enchantment CL 13th",
 			"Slot armor quality; Price +1 bonus; Weight -"
 		],
@@ -481,7 +481,7 @@
 		"weight": 0,
 		"header": [
 			"Trapwarding",
-			"Source ~`Pathfinder Society Field Guide pg. 50`~",
+			"Source [Pathfinder Society Field Guide pg. 50](source:Pathfinder Society Field Guide)",
 			"Aura faint transmutation CL 5th",
 			"Slot armor quality; Price +1 bonus; Weight -"
 		],
@@ -500,7 +500,7 @@
 		"weight": 0,
 		"header": [
 			"Vouchsafing",
-			"Source ~`Advanced Class Guide pg. 210`~",
+			"Source [Advanced Class Guide pg. 210](source:Advanced Class Guide)",
 			"Aura moderate abjuration CL 9th",
 			"Slot none; Price +1 bonus; Weight -"
 		],
@@ -519,7 +519,7 @@
 		"weight": 0,
 		"header": [
 			"Warding",
-			"Source ~`Ultimate Equipment pg. 123`~",
+			"Source [Ultimate Equipment pg. 123](source:Ultimate Equipment)",
 			"Aura strong abjuration CL 12th",
 			"Slot armor quality; Price +1 bonus; Weight -"
 		],
@@ -538,7 +538,7 @@
 		"weight": 0,
 		"header": [
 			"Withstanding",
-			"Source ~`Armor Master's Handbook pg. 27`~",
+			"Source [Armor Master's Handbook pg. 27](source:Armor Master's Handbook)",
 			"Aura moderate enchantment CL 10th",
 			"Slot armor quality; Price +1 bonus; Weight -"
 		],
@@ -557,7 +557,7 @@
 		"weight": 0,
 		"header": [
 			"Buoyant",
-			"Source ~`Magical Marketplace pg. 9`~",
+			"Source [Magical Marketplace pg. 9](source:Magical Marketplace)",
 			"Aura faint transmutation CL 5th",
 			"Slot armor; Price light armor (+1,000 gp), shield (+1,000 gp), medium/heavy armor (+2,000 gp); Weight -"
 		],
@@ -576,7 +576,7 @@
 		"weight": 0,
 		"header": [
 			"Cushioned",
-			"Source ~`Armor Master's Handbook pg. 24`~",
+			"Source [Armor Master's Handbook pg. 24](source:Armor Master's Handbook)",
 			"Aura faint transmutation CL 1st",
 			"Slot armor quality; Price +1,000 gp; Weight -"
 		],
@@ -604,7 +604,7 @@
 		"weight": 0,
 		"header": [
 			"Fitting",
-			"Source ~`Giant Hunter's Handbook pg. 33`~",
+			"Source [Giant Hunter's Handbook pg. 33](source:Giant Hunter's Handbook)",
 			"Aura faint transmutation CL 5th",
 			"Slot none; Price +2,000 gp; Weight -"
 		],
@@ -623,7 +623,7 @@
 		"weight": 0,
 		"header": [
 			"Poison-Resistant",
-			"Source ~`Ultimate Equipment pg. 121`~",
+			"Source [Ultimate Equipment pg. 121](source:Ultimate Equipment)",
 			"Aura moderate conjuration CL 7th",
 			"Slot armor/shield quality; Price +2,250 gp; Weight -"
 		],
@@ -645,7 +645,7 @@
 		"weight": 0,
 		"header": [
 			"Glamered",
-			"Source ~`Ultimate Equipment pg. 119`~, ~`PRPG Core Rulebook pg. 463`~",
+			"Source [Ultimate Equipment pg. 119](source:Ultimate Equipment), [PRPG Core Rulebook pg. 463](source:PRPG Core Rulebook)",
 			"Aura moderate illusion CL 10th",
 			"Slot armor quality; Price +2,700 gp; Weight -"
 		],
@@ -664,7 +664,7 @@
 		"weight": 0,
 		"header": [
 			"Mental Focus",
-			"Source ~`Armor Master's Handbook pg. 26`~",
+			"Source [Armor Master's Handbook pg. 26](source:Armor Master's Handbook)",
 			"Aura evocation CL 5th",
 			"Slot armor quality; Price +3,000 gp; Weight -"
 		],
@@ -683,7 +683,7 @@
 		"weight": 0,
 		"header": [
 			"Aquadynamic",
-			"Source ~`Aquatic Adventures pg. 62`~",
+			"Source [Aquatic Adventures pg. 62](source:Aquatic Adventures)",
 			"Aura varies CL 5th",
 			"Slot none; Price  (+3,750 gp), Improved (+15,000 gp), Greater (+33,750 gp); Weight -"
 		],
@@ -705,7 +705,7 @@
 		"weight": 0,
 		"header": [
 			"Jousting",
-			"Source ~`Ultimate Equipment pg. 120`~, ~`Advanced Player's Guide pg. 283`~",
+			"Source [Ultimate Equipment pg. 120](source:Ultimate Equipment), [Advanced Player's Guide pg. 283](source:Advanced Player's Guide)",
 			"Aura faint transmutation CL 5th",
 			"Slot armor quality; Price +3,750 gp; Weight -"
 		],
@@ -727,7 +727,7 @@
 		"weight": 0,
 		"header": [
 			"Shadow",
-			"Source ~`Ultimate Equipment pg. 121`~, ~`PRPG Core Rulebook pg. 463`~",
+			"Source [Ultimate Equipment pg. 121](source:Ultimate Equipment), [PRPG Core Rulebook pg. 463](source:PRPG Core Rulebook)",
 			"Aura faint illusion CL 5th",
 			"Slot armor quality; Price +3,750 gp; Weight -"
 		],
@@ -749,7 +749,7 @@
 		"weight": 0,
 		"header": [
 			"Slick",
-			"Source ~`Ultimate Equipment pg. 122`~, ~`PRPG Core Rulebook pg. 463`~",
+			"Source [Ultimate Equipment pg. 122](source:Ultimate Equipment), [PRPG Core Rulebook pg. 463](source:PRPG Core Rulebook)",
 			"Aura faint conjuration CL 4th",
 			"Slot armor quality; Price +3,750 gp; Weight -"
 		],
@@ -768,7 +768,7 @@
 		"weight": 0,
 		"header": [
 			"Adamant",
-			"Source ~`Dirty Tactics Toolbox pg. 24`~",
+			"Source [Dirty Tactics Toolbox pg. 24](source:Dirty Tactics Toolbox)",
 			"Aura moderate conjuration CL 9th",
 			"Price +2 bonus; Weight -"
 		],
@@ -787,7 +787,7 @@
 		"weight": 0,
 		"header": [
 			"Bloodthirsty",
-			"Source ~`Agents of Evil pg. 26`~",
+			"Source [Agents of Evil pg. 26](source:Agents of Evil)",
 			"Aura moderate enchantment CL 7th",
 			"Price +2 bonus; Weight -"
 		],
@@ -806,7 +806,7 @@
 		"weight": 0,
 		"header": [
 			"Frosted",
-			"Source ~`Melee Tactics Toolbox pg. 26`~",
+			"Source [Melee Tactics Toolbox pg. 26](source:Melee Tactics Toolbox)",
 			"Aura faint transmutation CL 3rd",
 			"Slot none; Price +2 bonus; Weight -"
 		],
@@ -825,7 +825,7 @@
 		"weight": 0,
 		"header": [
 			"Ghost Spike",
-			"Source ~`Dirty Tactics Toolbox pg. 24`~",
+			"Source [Dirty Tactics Toolbox pg. 24](source:Dirty Tactics Toolbox)",
 			"Aura moderate evocation CL 10th",
 			"Price +2 bonus; Weight -"
 		],
@@ -844,7 +844,7 @@
 		"weight": 0,
 		"header": [
 			"Jarring",
-			"Source ~`Advanced Class Guide pg. 210`~",
+			"Source [Advanced Class Guide pg. 210](source:Advanced Class Guide)",
 			"Aura moderate evocation CL 6th",
 			"Slot none; Price +2 bonus; Weight -"
 		],
@@ -863,7 +863,7 @@
 		"weight": 0,
 		"header": [
 			"Mind Buttressing",
-			"Source ~`Magical Marketplace pg. 7`~",
+			"Source [Magical Marketplace pg. 7](source:Magical Marketplace)",
 			"Aura faint abjuration CL 12th",
 			"Slot armor; Price +2 bonus; Weight -"
 		],
@@ -882,7 +882,7 @@
 		"weight": 0,
 		"header": [
 			"Phantasmal",
-			"Source ~`Armor Master's Handbook pg. 24`~",
+			"Source [Armor Master's Handbook pg. 24](source:Armor Master's Handbook)",
 			"Aura moderate illusion CL 7th",
 			"Slot armor quality; Price +2 bonus; Weight -"
 		],
@@ -901,7 +901,7 @@
 		"weight": 0,
 		"header": [
 			"Rampaging",
-			"Source ~`Armor Master's Handbook pg. 28`~",
+			"Source [Armor Master's Handbook pg. 28](source:Armor Master's Handbook)",
 			"Aura faint conjuration and transmutation CL 3rd",
 			"Slot armor quality; Price +2 bonus; Weight -"
 		],
@@ -920,7 +920,7 @@
 		"weight": 0,
 		"header": [
 			"Shadow Blending",
-			"Source ~`Planar Adventures pg. 46`~",
+			"Source [Planar Adventures pg. 46](source:Planar Adventures)",
 			"Aura moderate illusion CL 11th",
 			"Slot none; Price +2 bonus; Weight -"
 		],
@@ -939,7 +939,7 @@
 		"weight": 0,
 		"header": [
 			"Spell Dodging",
-			"Source ~`Advanced Class Guide pg. 210`~",
+			"Source [Advanced Class Guide pg. 210](source:Advanced Class Guide)",
 			"Aura faint abjuration CL 4th",
 			"Slot none; Price +2 bonus; Weight -"
 		],
@@ -961,7 +961,7 @@
 		"weight": 0,
 		"header": [
 			"Spell Resistance",
-			"Source ~`Ultimate Equipment pg. 122`~, ~`PRPG Core Rulebook pg. 463`~",
+			"Source [Ultimate Equipment pg. 122](source:Ultimate Equipment), [PRPG Core Rulebook pg. 463](source:PRPG Core Rulebook)",
 			"Aura strong abjuration CL 15th",
 			"Slot armor/shield quality; Price 13 (+2 bonus), 15 (+3 bonus), 17 (+4 bonus), 19 (+5 bonus); Weight -"
 		],
@@ -980,7 +980,7 @@
 		"weight": 0,
 		"header": [
 			"Steaming",
-			"Source ~`Monster Codex pg. 57`~",
+			"Source [Monster Codex pg. 57](source:Monster Codex)",
 			"Aura faint evocation CL 3rd",
 			"Slot none; Price +2 bonus; Weight -"
 		],
@@ -1001,7 +1001,7 @@
 		"weight": 0,
 		"header": [
 			"Volcanic",
-			"Source ~`Melee Tactics Toolbox pg. 26`~",
+			"Source [Melee Tactics Toolbox pg. 26](source:Melee Tactics Toolbox)",
 			"Aura strong evocation CL 14th",
 			"Slot none; Price +2 bonus; Weight -"
 		],
@@ -1020,7 +1020,7 @@
 		"weight": 0,
 		"header": [
 			"Burdenless",
-			"Source ~`Advanced Class Guide pg. 209`~",
+			"Source [Advanced Class Guide pg. 209](source:Advanced Class Guide)",
 			"Aura faint transmutation CL 5th",
 			"Slot none; Price +4,000 gp; Weight -"
 		],
@@ -1039,7 +1039,7 @@
 		"weight": 0,
 		"header": [
 			"Expeditious",
-			"Source ~`Ultimate Equipment pg. 118`~",
+			"Source [Ultimate Equipment pg. 118](source:Ultimate Equipment)",
 			"Aura faint transmutation CL 5th",
 			"Slot armor quality; Price +4,000 gp; Weight -"
 		],
@@ -1058,7 +1058,7 @@
 		"weight": 0,
 		"header": [
 			"Amorphous",
-			"Source ~`Advanced Class Guide pg. 209`~",
+			"Source [Advanced Class Guide pg. 209](source:Advanced Class Guide)",
 			"Aura moderate transmutation CL 8th",
 			"Slot none; Price +4,500 gp; Weight -"
 		],
@@ -1077,7 +1077,7 @@
 		"weight": 0,
 		"header": [
 			"Restful",
-			"Source ~`Advanced Class Guide pg. 210`~",
+			"Source [Advanced Class Guide pg. 210](source:Advanced Class Guide)",
 			"Aura faint necromancy CL 5th",
 			"Slot none; Price +4,500 gp; Weight -"
 		],
@@ -1096,7 +1096,7 @@
 		"weight": 0,
 		"header": [
 			"Cloudburst",
-			"Source ~`Advanced Race Guide pg. 160`~",
+			"Source [Advanced Race Guide pg. 160](source:Advanced Race Guide)",
 			"Aura faint abjuration and evocation CL 5th",
 			"Slot armor quality; Price +5,000 gp; Weight -"
 		],
@@ -1115,7 +1115,7 @@
 		"weight": 0,
 		"header": [
 			"Comfort",
-			"Source ~`Pathfinder Society Field Guide pg. 50`~",
+			"Source [Pathfinder Society Field Guide pg. 50](source:Pathfinder Society Field Guide)",
 			"Aura faint transmutation CL 5th",
 			"Slot armor quality; Price +5,000 gp; Weight -"
 		],
@@ -1134,7 +1134,7 @@
 		"weight": 0,
 		"header": [
 			"Corsair",
-			"Source ~`Advanced Class Origins pg. 28`~",
+			"Source [Advanced Class Origins pg. 28](source:Advanced Class Origins)",
 			"Aura faint transmutation CL 5th",
 			"Slot none; Price +5,000 gp; Weight -"
 		],
@@ -1153,7 +1153,7 @@
 		"weight": 0,
 		"header": [
 			"Creeping",
-			"Source ~`Ultimate Equipment pg. 116`~",
+			"Source [Ultimate Equipment pg. 116](source:Ultimate Equipment)",
 			"Aura moderate illusion and transmutation CL 7th",
 			"Slot armor quality; Price +5,000 gp; Weight -"
 		],
@@ -1172,7 +1172,7 @@
 		"weight": 0,
 		"header": [
 			"Deceiving",
-			"Source ~`Agents of Evil pg. 26`~",
+			"Source [Agents of Evil pg. 26](source:Agents of Evil)",
 			"Aura moderate evocation CL 7th",
 			"Price +5,000 gp; Weight -"
 		],
@@ -1191,7 +1191,7 @@
 		"weight": 0,
 		"header": [
 			"Malevolent",
-			"Source ~`Agents of Evil pg. 26`~",
+			"Source [Agents of Evil pg. 26](source:Agents of Evil)",
 			"Aura moderate evocation CL 7th",
 			"Price +5,000 gp; Weight -"
 		],
@@ -1210,7 +1210,7 @@
 		"weight": 0,
 		"header": [
 			"Rallying",
-			"Source ~`Ultimate Equipment pg. 121`~",
+			"Source [Ultimate Equipment pg. 121](source:Ultimate Equipment)",
 			"Aura faint abjuration CL 5th",
 			"Slot armor/shield quality; Price +5,000 gp; Weight -"
 		],
@@ -1229,7 +1229,7 @@
 		"weight": 0,
 		"header": [
 			"Spirit-bonded",
-			"Source ~`Armor Master's Handbook pg. 26`~",
+			"Source [Armor Master's Handbook pg. 26](source:Armor Master's Handbook)",
 			"Aura moderate conjuration CL 9th",
 			"Slot armor quality; Price +6,000 gp; Weight -"
 		],
@@ -1248,7 +1248,7 @@
 		"weight": 0,
 		"header": [
 			"Locksmith",
-			"Source ~`Armor Master's Handbook pg. 24`~",
+			"Source [Armor Master's Handbook pg. 24](source:Armor Master's Handbook)",
 			"Aura faint transmutation CL 3rd",
 			"Slot armor quality; Price +6,500 gp; Weight -"
 		],
@@ -1267,7 +1267,7 @@
 		"weight": 0,
 		"header": [
 			"Adhesive",
-			"Source ~`Ultimate Equipment pg. 114`~",
+			"Source [Ultimate Equipment pg. 114](source:Ultimate Equipment)",
 			"Aura moderate transmutation CL 10th",
 			"Slot armor quality; Price +7,000 gp; Weight -"
 		],
@@ -1286,7 +1286,7 @@
 		"weight": 0,
 		"header": [
 			"Spiteful",
-			"Source ~`Advanced Class Guide pg. 210`~",
+			"Source [Advanced Class Guide pg. 210](source:Advanced Class Guide)",
 			"Aura moderate enchantment CL 7th",
 			"Slot none; Price +7,000 gp; Weight -"
 		],
@@ -1305,7 +1305,7 @@
 		"weight": 0,
 		"header": [
 			"Hosteling",
-			"Source ~`Ultimate Equipment pg. 119`~",
+			"Source [Ultimate Equipment pg. 119](source:Ultimate Equipment)",
 			"Aura moderate conjuration CL 9th",
 			"Slot armor/shield quality; Price +7,500 gp; Weight -"
 		],
@@ -1327,7 +1327,7 @@
 		"weight": 0,
 		"header": [
 			"Radiant",
-			"Source ~`Ultimate Equipment pg. 121`~",
+			"Source [Ultimate Equipment pg. 121](source:Ultimate Equipment)",
 			"Aura moderate evocation CL 6th",
 			"Slot armor/shield quality; Price +7,500 gp; Weight -"
 		],
@@ -1346,7 +1346,7 @@
 		"weight": 0,
 		"header": [
 			"Trackless",
-			"Source ~`Advanced Class Guide pg. 210`~",
+			"Source [Advanced Class Guide pg. 210](source:Advanced Class Guide)",
 			"Aura faint transmutation CL 5th",
 			"Slot none; Price +7,500 gp; Weight -"
 		],
@@ -1365,7 +1365,7 @@
 		"weight": 0,
 		"header": [
 			"Arrow-collecting",
-			"Source ~`Armor Master's Handbook pg. 26`~",
+			"Source [Armor Master's Handbook pg. 26](source:Armor Master's Handbook)",
 			"Aura moderate abjuration and evocation CL 11th",
 			"Slot armor quality; Price +3 bonus; Weight -"
 		],
@@ -1384,7 +1384,7 @@
 		"weight": 0,
 		"header": [
 			"Brawling",
-			"Source ~`Ultimate Equipment pg. 116`~",
+			"Source [Ultimate Equipment pg. 116](source:Ultimate Equipment)",
 			"Aura faint transmutation CL 5th",
 			"Slot armor quality; Price +3 bonus; Weight -"
 		],
@@ -1403,7 +1403,7 @@
 		"weight": 0,
 		"header": [
 			"Cotraveling",
-			"Source ~`Planar Adventures pg. 46`~",
+			"Source [Planar Adventures pg. 46](source:Planar Adventures)",
 			"Aura strong conjuration CL 14th",
 			"Slot none; Price +3 bonus; Weight -"
 		],
@@ -1425,7 +1425,7 @@
 		"weight": 0,
 		"header": [
 			"Fortification",
-			"Source ~`Ultimate Equipment pg. 118`~, ~`PRPG Core Rulebook pg. 463`~",
+			"Source [Ultimate Equipment pg. 118](source:Ultimate Equipment), [PRPG Core Rulebook pg. 463](source:PRPG Core Rulebook)",
 			"Aura strong abjuration CL 13th",
 			"Slot armor/shield quality; Price light (+1 bonus), moderate (+3 bonus), heavy (+5 bonus); Weight -"
 		],
@@ -1447,7 +1447,7 @@
 		"weight": 0,
 		"header": [
 			"Ghost Touch",
-			"Source ~`Ultimate Equipment pg. 119`~, ~`PRPG Core Rulebook pg. 463`~",
+			"Source [Ultimate Equipment pg. 119](source:Ultimate Equipment), [PRPG Core Rulebook pg. 463](source:PRPG Core Rulebook)",
 			"Aura strong transmutation CL 15th",
 			"Slot armor/shield quality; Price +3 bonus; Weight -"
 		],
@@ -1469,7 +1469,7 @@
 		"weight": 0,
 		"header": [
 			"Invulnerability",
-			"Source ~`Ultimate Equipment pg. 120`~, ~`PRPG Core Rulebook pg. 463`~",
+			"Source [Ultimate Equipment pg. 120](source:Ultimate Equipment), [PRPG Core Rulebook pg. 463](source:PRPG Core Rulebook)",
 			"Aura strong varies CL 18th",
 			"Slot armor quality; Price +3 bonus; Weight -"
 		],
@@ -1488,7 +1488,7 @@
 		"weight": 0,
 		"header": [
 			"Sensing",
-			"Source ~`Advanced Class Guide pg. 210`~",
+			"Source [Advanced Class Guide pg. 210](source:Advanced Class Guide)",
 			"Aura strong divination CL 14th",
 			"Slot none; Price +3 bonus; Weight -"
 		],
@@ -1510,7 +1510,7 @@
 		"weight": 0,
 		"header": [
 			"Spell Resistance",
-			"Source ~`Ultimate Equipment pg. 122`~, ~`PRPG Core Rulebook pg. 463`~",
+			"Source [Ultimate Equipment pg. 122](source:Ultimate Equipment), [PRPG Core Rulebook pg. 463](source:PRPG Core Rulebook)",
 			"Aura strong abjuration CL 15th",
 			"Slot armor/shield quality; Price 13 (+2 bonus), 15 (+3 bonus), 17 (+4 bonus), 19 (+5 bonus); Weight -"
 		],
@@ -1529,7 +1529,7 @@
 		"weight": 0,
 		"header": [
 			"Titanic",
-			"Source ~`Ultimate Equipment pg. 122`~",
+			"Source [Ultimate Equipment pg. 122](source:Ultimate Equipment)",
 			"Aura moderate transmutation CL 7th",
 			"Slot armor quality; Price +3 bonus; Weight -"
 		],
@@ -1551,7 +1551,7 @@
 		"weight": 0,
 		"header": [
 			"Wild",
-			"Source ~`Ultimate Equipment pg. 123`~, ~`PRPG Core Rulebook pg. 463`~",
+			"Source [Ultimate Equipment pg. 123](source:Ultimate Equipment), [PRPG Core Rulebook pg. 463](source:PRPG Core Rulebook)",
 			"Aura moderate transmutation CL 9th",
 			"Slot armor/shield quality; Price +3 bonus; Weight -"
 		],
@@ -1570,7 +1570,7 @@
 		"weight": 0,
 		"header": [
 			"Phase Lurching",
-			"Source ~`Armor Master's Handbook pg. 24`~",
+			"Source [Armor Master's Handbook pg. 24](source:Armor Master's Handbook)",
 			"Aura strong conjuration CL 13th",
 			"Slot armor quality; Price +9,100 gp; Weight -"
 		],
@@ -1592,7 +1592,7 @@
 		"weight": 0,
 		"header": [
 			"Delving",
-			"Source ~`Ultimate Equipment pg. 117`~, ~`Dungeon Denizens Revisited pg. 7`~",
+			"Source [Ultimate Equipment pg. 117](source:Ultimate Equipment), [Dungeon Denizens Revisited pg. 7](source:Dungeon Denizens Revisited)",
 			"Aura faint transmutation CL 5th",
 			"Slot armor quality; Price +10,000 gp; Weight -"
 		],
@@ -1611,7 +1611,7 @@
 		"weight": 0,
 		"header": [
 			"Putrid",
-			"Source ~`Ultimate Equipment pg. 121`~",
+			"Source [Ultimate Equipment pg. 121](source:Ultimate Equipment)",
 			"Aura faint conjuration CL 5th",
 			"Slot armor quality; Price +10,000 gp; Weight -"
 		],
@@ -1630,7 +1630,7 @@
 		"weight": 0,
 		"header": [
 			"Harmonizing",
-			"Source ~`Ultimate Equipment pg. 119`~",
+			"Source [Ultimate Equipment pg. 119](source:Ultimate Equipment)",
 			"Aura moderate illusion CL 7th",
 			"Slot armor quality; Price +15,000 gp; Weight -"
 		],
@@ -1651,7 +1651,7 @@
 		"weight": 0,
 		"header": [
 			"Aquadynamic",
-			"Source ~`Aquatic Adventures pg. 62`~",
+			"Source [Aquatic Adventures pg. 62](source:Aquatic Adventures)",
 			"Aura varies CL 5th",
 			"Slot none; Price  (+3,750 gp), Improved (+15,000 gp), Greater (+33,750 gp); Weight -"
 		],
@@ -1670,7 +1670,7 @@
 		"weight": 0,
 		"header": [
 			"Radiant Flight",
-			"Source ~`Armor Master's Handbook pg. 28`~",
+			"Source [Armor Master's Handbook pg. 28](source:Armor Master's Handbook)",
 			"Aura moderate transmutation CL 10th",
 			"Slot armor quality; Price +15,000 gp; Weight -"
 		],
@@ -1692,7 +1692,7 @@
 		"weight": 0,
 		"header": [
 			"Shadow, Improved",
-			"Source ~`Ultimate Equipment pg. 122`~, ~`PRPG Core Rulebook pg. 463`~",
+			"Source [Ultimate Equipment pg. 122](source:Ultimate Equipment), [PRPG Core Rulebook pg. 463](source:PRPG Core Rulebook)",
 			"Aura moderate illusion CL 10th",
 			"Slot armor quality; Price +15,000 gp; Weight -"
 		],
@@ -1714,7 +1714,7 @@
 		"weight": 0,
 		"header": [
 			"Slick, Improved",
-			"Source ~`Ultimate Equipment pg. 122`~, ~`PRPG Core Rulebook pg. 463`~",
+			"Source [Ultimate Equipment pg. 122](source:Ultimate Equipment), [PRPG Core Rulebook pg. 463](source:PRPG Core Rulebook)",
 			"Aura moderate conjuration CL 10th",
 			"Slot armor quality; Price +15,000 gp; Weight -"
 		],
@@ -1733,7 +1733,7 @@
 		"weight": 0,
 		"header": [
 			"Venom-eating",
-			"Source ~`Armor Master's Handbook pg. 24`~",
+			"Source [Armor Master's Handbook pg. 24](source:Armor Master's Handbook)",
 			"Aura faint transmutation CL 5th",
 			"Slot armor quality; Price +15,000 gp; Weight -"
 		],
@@ -1752,7 +1752,7 @@
 		"weight": 0,
 		"header": [
 			"Denying",
-			"Source ~`Mythic Adventures pg. 142`~",
+			"Source [Mythic Adventures pg. 142](source:Mythic Adventures)",
 			"Aura strong abjuration CL 13th",
 			"Slot armor; Price +4 bonus; Weight -"
 		],
@@ -1774,7 +1774,7 @@
 		"weight": 0,
 		"header": [
 			"Spell Resistance",
-			"Source ~`Ultimate Equipment pg. 122`~, ~`PRPG Core Rulebook pg. 463`~",
+			"Source [Ultimate Equipment pg. 122](source:Ultimate Equipment), [PRPG Core Rulebook pg. 463](source:PRPG Core Rulebook)",
 			"Aura strong abjuration CL 15th",
 			"Slot armor/shield quality; Price 13 (+2 bonus), 15 (+3 bonus), 17 (+4 bonus), 19 (+5 bonus); Weight -"
 		],
@@ -1796,7 +1796,7 @@
 		"weight": 0,
 		"header": [
 			"Energy Resistance",
-			"Source ~`Ultimate Equipment pg. 117`~, ~`PRPG Core Rulebook pg. 463`~",
+			"Source [Ultimate Equipment pg. 117](source:Ultimate Equipment), [PRPG Core Rulebook pg. 463](source:PRPG Core Rulebook)",
 			"Aura faint abjuration CL 3rd",
 			"Slot armor/shield quality; Price +18,000 gp; Weight -"
 		],
@@ -1815,7 +1815,7 @@
 		"weight": 0,
 		"header": [
 			"Martyring",
-			"Source ~`Ultimate Equipment pg. 120`~",
+			"Source [Ultimate Equipment pg. 120](source:Ultimate Equipment)",
 			"Aura moderate conjuration CL 9th",
 			"Slot armor quality; Price +18,000 gp; Weight -"
 		],
@@ -1834,7 +1834,7 @@
 		"weight": 0,
 		"header": [
 			"Dread Wing",
-			"Source ~`Armor Master's Handbook pg. 28`~",
+			"Source [Armor Master's Handbook pg. 28](source:Armor Master's Handbook)",
 			"Aura strong transmutation CL 15th",
 			"Slot armor quality; Price +5 bonus; Weight -"
 		],
@@ -1856,7 +1856,7 @@
 		"weight": 0,
 		"header": [
 			"Fortification",
-			"Source ~`Ultimate Equipment pg. 118`~, ~`PRPG Core Rulebook pg. 463`~",
+			"Source [Ultimate Equipment pg. 118](source:Ultimate Equipment), [PRPG Core Rulebook pg. 463](source:PRPG Core Rulebook)",
 			"Aura strong abjuration CL 13th",
 			"Slot armor/shield quality; Price light (+1 bonus), moderate (+3 bonus), heavy (+5 bonus); Weight -"
 		],
@@ -1878,7 +1878,7 @@
 		"weight": 0,
 		"header": [
 			"Spell Resistance",
-			"Source ~`Ultimate Equipment pg. 122`~, ~`PRPG Core Rulebook pg. 463`~",
+			"Source [Ultimate Equipment pg. 122](source:Ultimate Equipment), [PRPG Core Rulebook pg. 463](source:PRPG Core Rulebook)",
 			"Aura strong abjuration CL 15th",
 			"Slot armor/shield quality; Price 13 (+2 bonus), 15 (+3 bonus), 17 (+4 bonus), 19 (+5 bonus); Weight -"
 		],
@@ -1897,7 +1897,7 @@
 		"weight": 0,
 		"header": [
 			"Unbowed",
-			"Source ~`Armor Master's Handbook pg. 28`~",
+			"Source [Armor Master's Handbook pg. 28](source:Armor Master's Handbook)",
 			"Aura moderate conjuration and evocation CL 9th",
 			"Slot armor quality; Price +5 bonus; Weight -"
 		],
@@ -1919,7 +1919,7 @@
 		"weight": 0,
 		"header": [
 			"Righteous",
-			"Source ~`Ultimate Equipment pg. 121`~, ~`Advanced Player's Guide pg. 283`~",
+			"Source [Ultimate Equipment pg. 121](source:Ultimate Equipment), [Advanced Player's Guide pg. 283](source:Advanced Player's Guide)",
 			"Aura moderate transmutation CL 10th",
 			"Slot armor quality; Price +27,000 gp; Weight -"
 		],
@@ -1938,7 +1938,7 @@
 		"weight": 0,
 		"header": [
 			"Unbound",
-			"Source ~`Ultimate Equipment pg. 123`~",
+			"Source [Ultimate Equipment pg. 123](source:Ultimate Equipment)",
 			"Aura moderate transmutation CL 10th",
 			"Slot armor quality; Price +27,000 gp; Weight -"
 		],
@@ -1960,7 +1960,7 @@
 		"weight": 0,
 		"header": [
 			"Unrighteous",
-			"Source ~`Ultimate Equipment pg. 123`~, ~`Advanced Player's Guide pg. 283`~",
+			"Source [Ultimate Equipment pg. 123](source:Ultimate Equipment), [Advanced Player's Guide pg. 283](source:Advanced Player's Guide)",
 			"Aura moderate transmutation CL 10th",
 			"Slot armor quality; Price +27,000 gp; Weight -"
 		],
@@ -1979,7 +1979,7 @@
 		"weight": 0,
 		"header": [
 			"Vigilant",
-			"Source ~`Ultimate Equipment pg. 123`~",
+			"Source [Ultimate Equipment pg. 123](source:Ultimate Equipment)",
 			"Aura moderate transmutation CL 10th",
 			"Slot armor quality; Price +27,000 gp; Weight -"
 		],
@@ -2001,7 +2001,7 @@
 		"weight": 0,
 		"header": [
 			"Determination",
-			"Source ~`Ultimate Equipment pg. 117`~, ~`Advanced Player's Guide pg. 283`~",
+			"Source [Ultimate Equipment pg. 117](source:Ultimate Equipment), [Advanced Player's Guide pg. 283](source:Advanced Player's Guide)",
 			"Aura moderate conjuration CL 10th",
 			"Slot armor/shield quality; Price +30,000 gp; Weight -"
 		],
@@ -2020,7 +2020,7 @@
 		"weight": 0,
 		"header": [
 			"Aquadynamic",
-			"Source ~`Aquatic Adventures pg. 62`~",
+			"Source [Aquatic Adventures pg. 62](source:Aquatic Adventures)",
 			"Aura varies CL 5th",
 			"Slot none; Price  (+3,750 gp), Improved (+15,000 gp), Greater (+33,750 gp); Weight -"
 		],
@@ -2042,7 +2042,7 @@
 		"weight": 0,
 		"header": [
 			"Shadow, Greater",
-			"Source ~`Ultimate Equipment pg. 122`~, ~`PRPG Core Rulebook pg. 463`~",
+			"Source [Ultimate Equipment pg. 122](source:Ultimate Equipment), [PRPG Core Rulebook pg. 463](source:PRPG Core Rulebook)",
 			"Aura strong illusion CL 15th",
 			"Slot armor quality; Price +33,750 gp; Weight -"
 		],
@@ -2064,7 +2064,7 @@
 		"weight": 0,
 		"header": [
 			"Slick, Greater",
-			"Source ~`Ultimate Equipment pg. 122`~, ~`PRPG Core Rulebook pg. 463`~",
+			"Source [Ultimate Equipment pg. 122](source:Ultimate Equipment), [PRPG Core Rulebook pg. 463](source:PRPG Core Rulebook)",
 			"Aura strong conjuration CL 15th",
 			"Slot armor quality; Price +33,750 gp; Weight -"
 		],
@@ -2086,7 +2086,7 @@
 		"weight": 0,
 		"header": [
 			"Energy Resistance, Improved",
-			"Source ~`Ultimate Equipment pg. 117`~, ~`PRPG Core Rulebook pg. 463`~",
+			"Source [Ultimate Equipment pg. 117](source:Ultimate Equipment), [PRPG Core Rulebook pg. 463](source:PRPG Core Rulebook)",
 			"Aura moderate abjuration CL 7th",
 			"Slot armor/shield quality; Price +42,000 gp; Weight -"
 		],
@@ -2108,7 +2108,7 @@
 		"weight": 0,
 		"header": [
 			"Etherealness",
-			"Source ~`Ultimate Equipment pg. 118`~, ~`PRPG Core Rulebook pg. 463`~",
+			"Source [Ultimate Equipment pg. 118](source:Ultimate Equipment), [PRPG Core Rulebook pg. 463](source:PRPG Core Rulebook)",
 			"Aura strong transmutation CL 13th",
 			"Slot armor quality; Price +49,000 gp; Weight -"
 		],
@@ -2130,7 +2130,7 @@
 		"weight": 0,
 		"header": [
 			"Undead Controlling",
-			"Source ~`Ultimate Equipment pg. 123`~, ~`PRPG Core Rulebook pg. 463`~",
+			"Source [Ultimate Equipment pg. 123](source:Ultimate Equipment), [PRPG Core Rulebook pg. 463](source:PRPG Core Rulebook)",
 			"Aura strong necromancy CL 13th",
 			"Slot armor/shield quality; Price +49,000 gp; Weight -"
 		],
@@ -2152,7 +2152,7 @@
 		"weight": 0,
 		"header": [
 			"Energy Resistance, Greater",
-			"Source ~`Ultimate Equipment pg. 117`~, ~`PRPG Core Rulebook pg. 463`~",
+			"Source [Ultimate Equipment pg. 117](source:Ultimate Equipment), [PRPG Core Rulebook pg. 463](source:PRPG Core Rulebook)",
 			"Aura moderate abjuration CL 11th",
 			"Slot armor/shield quality; Price +66,000 gp; Weight -"
 		],
@@ -2174,7 +2174,7 @@
 		"weight": 0,
 		"header": [
 			"Arrow Catching",
-			"Source ~`Ultimate Equipment pg. 115`~, ~`PRPG Core Rulebook pg. 463`~",
+			"Source [Ultimate Equipment pg. 115](source:Ultimate Equipment), [PRPG Core Rulebook pg. 463](source:PRPG Core Rulebook)",
 			"Aura moderate abjuration CL 8th",
 			"Slot shield quality; Price +1 bonus; Weight -"
 		],
@@ -2193,7 +2193,7 @@
 		"weight": 0,
 		"header": [
 			"Assiduous",
-			"Source ~`Armor Master's Handbook pg. 30`~",
+			"Source [Armor Master's Handbook pg. 30](source:Armor Master's Handbook)",
 			"Aura faint enchantment and conjuration CL 1st",
 			"Slot shield quality; Price +1 bonus; Weight -"
 		],
@@ -2215,7 +2215,7 @@
 		"weight": 0,
 		"header": [
 			"Bashing",
-			"Source ~`Ultimate Equipment pg. 115`~, ~`PRPG Core Rulebook pg. 463`~",
+			"Source [Ultimate Equipment pg. 115](source:Ultimate Equipment), [PRPG Core Rulebook pg. 463](source:PRPG Core Rulebook)",
 			"Aura moderate transmutation CL 8th",
 			"Slot shield quality; Price +1 bonus; Weight -"
 		],
@@ -2237,7 +2237,7 @@
 		"weight": 0,
 		"header": [
 			"Blinding",
-			"Source ~`Ultimate Equipment pg. 116`~, ~`PRPG Core Rulebook pg. 463`~",
+			"Source [Ultimate Equipment pg. 116](source:Ultimate Equipment), [PRPG Core Rulebook pg. 463](source:PRPG Core Rulebook)",
 			"Aura moderate evocation CL 7th",
 			"Slot shield quality; Price +1 bonus; Weight -"
 		],
@@ -2256,7 +2256,7 @@
 		"weight": 0,
 		"header": [
 			"Clangorous",
-			"Source ~`Ultimate Equipment pg. 116`~",
+			"Source [Ultimate Equipment pg. 116](source:Ultimate Equipment)",
 			"Aura moderate evocation CL 7th",
 			"Slot shield quality; Price +1 bonus; Weight -"
 		],
@@ -2275,7 +2275,7 @@
 		"weight": 0,
 		"header": [
 			"Folding",
-			"Source ~`Armor Master's Handbook pg. 30`~",
+			"Source [Armor Master's Handbook pg. 30](source:Armor Master's Handbook)",
 			"Aura strong conjuration and transmutation CL 13th",
 			"Slot shield quality; Price +1 bonus; Weight -"
 		],
@@ -2294,7 +2294,7 @@
 		"weight": 0,
 		"header": [
 			"Guarding",
-			"Source ~`Advanced Race Guide pg. 148`~",
+			"Source [Advanced Race Guide pg. 148](source:Advanced Race Guide)",
 			"Aura moderate abjuration CL 8th",
 			"Slot shield quality; Price +1 bonus; Weight -"
 		],
@@ -2313,7 +2313,7 @@
 		"weight": 0,
 		"header": [
 			"Heraldric",
-			"Source ~`Armor Master's Handbook pg. 30`~",
+			"Source [Armor Master's Handbook pg. 30](source:Armor Master's Handbook)",
 			"Aura strong enchantment CL 13th",
 			"Slot shield quality; Price +1 bonus; Weight -"
 		],
@@ -2332,7 +2332,7 @@
 		"weight": 0,
 		"header": [
 			"Ramming",
-			"Source ~`Ultimate Equipment pg. 121`~",
+			"Source [Ultimate Equipment pg. 121](source:Ultimate Equipment)",
 			"Aura faint evocation CL 5th",
 			"Slot shield quality; Price +1 bonus; Weight -"
 		],
@@ -2351,7 +2351,7 @@
 		"weight": 0,
 		"header": [
 			"Rebounding",
-			"Source ~`Magical Marketplace pg. 21`~",
+			"Source [Magical Marketplace pg. 21](source:Magical Marketplace)",
 			"Aura faint abjuration CL 5th",
 			"Slot shield; Price +1 bonus; Weight -"
 		],
@@ -2370,7 +2370,7 @@
 		"weight": 0,
 		"header": [
 			"Singing",
-			"Source ~`Melee Tactics Toolbox pg. 26`~",
+			"Source [Melee Tactics Toolbox pg. 26](source:Melee Tactics Toolbox)",
 			"Aura moderate evocation CL 10th",
 			"Slot none; Price +1 bonus; Weight -"
 		],
@@ -2389,7 +2389,7 @@
 		"weight": 0,
 		"header": [
 			"Spellrending",
-			"Source ~`Armor Master's Handbook pg. 31`~",
+			"Source [Armor Master's Handbook pg. 31](source:Armor Master's Handbook)",
 			"Aura moderate abjuration CL 9th",
 			"Slot shield quality; Price +1 bonus; Weight -"
 		],
@@ -2420,7 +2420,7 @@
 		"weight": 0,
 		"header": [
 			"Animated",
-			"Source ~`Ultimate Equipment pg. 114`~, ~`PRPG Core Rulebook pg. 463`~",
+			"Source [Ultimate Equipment pg. 114](source:Ultimate Equipment), [PRPG Core Rulebook pg. 463](source:PRPG Core Rulebook)",
 			"Aura strong transmutation CL 12th",
 			"Slot shield quality; Price +2 bonus; Weight -"
 		],
@@ -2442,7 +2442,7 @@
 		"weight": 0,
 		"header": [
 			"Arrow Deflection",
-			"Source ~`Ultimate Equipment pg. 115`~, ~`PRPG Core Rulebook pg. 463`~",
+			"Source [Ultimate Equipment pg. 115](source:Ultimate Equipment), [PRPG Core Rulebook pg. 463](source:PRPG Core Rulebook)",
 			"Aura faint abjuration CL 5th",
 			"Slot shield quality; Price +2 bonus; Weight -"
 		],
@@ -2461,7 +2461,7 @@
 		"weight": 0,
 		"header": [
 			"Guarding, Greater",
-			"Source ~`Advanced Race Guide pg. 148`~",
+			"Source [Advanced Race Guide pg. 148](source:Advanced Race Guide)",
 			"Aura strong abjuration CL 12th",
 			"Slot shield quality; Price +2 bonus; Weight -"
 		],
@@ -2480,7 +2480,7 @@
 		"weight": 0,
 		"header": [
 			"Jawbreaker",
-			"Source ~`Ultimate Wilderness pg. 246`~",
+			"Source [Ultimate Wilderness pg. 246](source:Ultimate Wilderness)",
 			"Aura moderate necromancy CL 9th",
 			"Slot none; Price +2 bonus; Weight -"
 		],
@@ -2501,7 +2501,7 @@
 		"weight": 0,
 		"header": [
 			"Mastering",
-			"Source ~`Armor Master's Handbook pg. 30`~",
+			"Source [Armor Master's Handbook pg. 30](source:Armor Master's Handbook)",
 			"Aura strong conjuration and transmutation CL 13th",
 			"Slot shield quality; Price +2 bonus; Weight -"
 		],
@@ -2520,7 +2520,7 @@
 		"weight": 0,
 		"header": [
 			"Merging",
-			"Source ~`Ultimate Equipment pg. 120`~",
+			"Source [Ultimate Equipment pg. 120](source:Ultimate Equipment)",
 			"Aura moderate transmutation CL 10th",
 			"Slot shield quality; Price +2 bonus; Weight -"
 		],
@@ -2539,7 +2539,7 @@
 		"weight": 0,
 		"header": [
 			"Weeping",
-			"Source ~`Agents of Evil pg. 26`~",
+			"Source [Agents of Evil pg. 26](source:Agents of Evil)",
 			"Aura moderate enchantment CL 10th",
 			"Price +2 bonus; Weight -"
 		],
@@ -2558,7 +2558,7 @@
 		"weight": 0,
 		"header": [
 			"Wyrmsbreath",
-			"Source ~`Ultimate Equipment pg. 123`~",
+			"Source [Ultimate Equipment pg. 123](source:Ultimate Equipment)",
 			"Aura faint evocation CL 5th",
 			"Slot shield quality; Price +5,000 gp; Weight -"
 		],
@@ -2577,7 +2577,7 @@
 		"weight": 0,
 		"header": [
 			"Deflecting",
-			"Source ~`Mythic Adventures pg. 142`~",
+			"Source [Mythic Adventures pg. 142](source:Mythic Adventures)",
 			"Aura strong abjuration CL 13th",
 			"Slot shield; Price +3 bonus; Weight -"
 		],
@@ -2596,7 +2596,7 @@
 		"weight": 0,
 		"header": [
 			"Bastion",
-			"Source ~`Armor Master's Handbook pg. 30`~",
+			"Source [Armor Master's Handbook pg. 30](source:Armor Master's Handbook)",
 			"Aura strong abjuration CL 15th",
 			"Slot shield quality; Price +4 bonus; Weight -"
 		],
@@ -2615,7 +2615,7 @@
 		"weight": 0,
 		"header": [
 			"Channeling",
-			"Source ~`Melee Tactics Toolbox pg. 26`~",
+			"Source [Melee Tactics Toolbox pg. 26](source:Melee Tactics Toolbox)",
 			"Aura moderate conjuration CL 8th",
 			"Slot none; Price +18,000 gp; Weight -"
 		],
@@ -2637,7 +2637,7 @@
 		"weight": 0,
 		"header": [
 			"Reflecting",
-			"Source ~`Ultimate Equipment pg. 121`~, ~`PRPG Core Rulebook pg. 463`~",
+			"Source [Ultimate Equipment pg. 121](source:Ultimate Equipment), [PRPG Core Rulebook pg. 463](source:PRPG Core Rulebook)",
 			"Aura strong abjuration CL 14th",
 			"Slot shield quality; Price +5 bonus; Weight -"
 		],
@@ -2659,7 +2659,7 @@
 		"weight": 10,
 		"header": [
 			"Mithral Shirt",
-			"Source ~`Ultimate Equipment pg. 128`~, ~`PRPG Core Rulebook pg. 464`~",
+			"Source [Ultimate Equipment pg. 128](source:Ultimate Equipment), [PRPG Core Rulebook pg. 464](source:PRPG Core Rulebook)",
 			"Aura no aura (nonmagical) CL",
 			"Slot armor; Price 1,100 gp; Weight 10 lbs."
 		],
@@ -2680,7 +2680,7 @@
 		"weight": 25,
 		"header": [
 			"Mistmail",
-			"Source ~`Ultimate Equipment pg. 127`~, ~`Advanced Player's Guide pg. 285`~",
+			"Source [Ultimate Equipment pg. 127](source:Ultimate Equipment), [Advanced Player's Guide pg. 285](source:Advanced Player's Guide)",
 			"Aura faint conjuration CL 3rd",
 			"Slot armor; Price 2,250 gp; Weight 25 lbs."
 		],
@@ -2699,7 +2699,7 @@
 		"weight": 15,
 		"header": [
 			"KimlÃ© Coat",
-			"Source ~`Inner Sea Gods pg. 252`~",
+			"Source [Inner Sea Gods pg. 252](source:Inner Sea Gods)",
 			"Aura faint transmutation CL 3rd",
 			"Slot armor; Price 2,300 gp; Weight 15 lbs."
 		],
@@ -2718,7 +2718,7 @@
 		"weight": 40,
 		"header": [
 			"Grim Gloom Mail",
-			"Source ~`Inner Sea Gods pg. 252`~",
+			"Source [Inner Sea Gods pg. 252](source:Inner Sea Gods)",
 			"Aura faint abjuration and necromancy CL 3rd",
 			"Slot armor; Price 2,380 gp; Weight 40 lbs."
 		],
@@ -2740,7 +2740,7 @@
 		"weight": 30,
 		"header": [
 			"Inheritor's Breastplate",
-			"Source ~`Pathfinder #103: The Hellfire Compact pg. 73`~, ~`Inner Sea Gods pg. 252`~",
+			"Source [Pathfinder #103: The Hellfire Compact pg. 73](source:Pathfinder #103: The Hellfire Compact), [Inner Sea Gods pg. 252](source:Inner Sea Gods)",
 			"Aura faint abjuration and transmutation CL 3rd",
 			"Slot armor; Price 2,430 gp; Weight 30 lbs."
 		],
@@ -2759,7 +2759,7 @@
 		"weight": 25,
 		"header": [
 			"Otyugh Hide",
-			"Source ~`Ultimate Equipment pg. 128`~",
+			"Source [Ultimate Equipment pg. 128](source:Ultimate Equipment)",
 			"Aura faint evocation CL 5th",
 			"Slot armor; Price 2,565 gp; Weight 25 lbs."
 		],
@@ -2780,7 +2780,7 @@
 		"weight": 5,
 		"header": [
 			"Iadaran Dress Uniform",
-			"Source ~`Merchant's Manifest pg. 12`~",
+			"Source [Merchant's Manifest pg. 12](source:Merchant's Manifest)",
 			"Aura faint transmutation CL 3rd",
 			"Slot armor; Price 2,625 gp; Weight 5 lbs."
 		],
@@ -2799,7 +2799,7 @@
 		"weight": 15,
 		"header": [
 			"Milanite Armor",
-			"Source ~`Inner Sea Gods pg. 252`~",
+			"Source [Inner Sea Gods pg. 252](source:Inner Sea Gods)",
 			"Aura faint conjuration CL 3rd",
 			"Slot armor; Price 2,780 gp; Weight 15 lbs."
 		],
@@ -2818,7 +2818,7 @@
 		"weight": 25,
 		"header": [
 			"Ghoul Hide",
-			"Source ~`Inner Sea Combat pg. 51`~",
+			"Source [Inner Sea Combat pg. 51](source:Inner Sea Combat)",
 			"Aura faint necromancy CL 3rd",
 			"Slot armor; Price 2,865 gp; Weight 25 lbs."
 		],
@@ -2841,7 +2841,7 @@
 		"weight": 15,
 		"header": [
 			"Red Stalker Armor",
-			"Source ~`Adventurer's Guide pg. 159`~, ~`Inner Sea Gods pg. 253`~",
+			"Source [Adventurer's Guide pg. 159](source:Adventurer's Guide), [Inner Sea Gods pg. 253](source:Inner Sea Gods)",
 			"Aura faint enchantment CL 3rd",
 			"Slot armor; Price 3,035 gp; Weight 15 lbs."
 		],
@@ -2860,7 +2860,7 @@
 		"weight": 25,
 		"header": [
 			"Rosy Hauberk",
-			"Source ~`Inner Sea Gods pg. 253`~",
+			"Source [Inner Sea Gods pg. 253](source:Inner Sea Gods)",
 			"Aura faint conjuration and transmutation CL 3rd",
 			"Slot armor; Price 3,035 gp; Weight 25 lbs."
 		],
@@ -2882,7 +2882,7 @@
 		"weight": 50,
 		"header": [
 			"Dragonhide Plate",
-			"Source ~`Ultimate Equipment pg. 126`~, ~`PRPG Core Rulebook pg. 464`~",
+			"Source [Ultimate Equipment pg. 126](source:Ultimate Equipment), [PRPG Core Rulebook pg. 464](source:PRPG Core Rulebook)",
 			"Aura no aura (nonmagical) CL",
 			"Slot armor; Price 3,300 gp; Weight 50 lbs."
 		],
@@ -2901,7 +2901,7 @@
 		"weight": 40,
 		"header": [
 			"Pallid Chain",
-			"Source ~`Inner Sea Gods pg. 252`~",
+			"Source [Inner Sea Gods pg. 252](source:Inner Sea Gods)",
 			"Aura faint necromancy CL 3rd",
 			"Slot armor; Price 3,300 gp; Weight 40 lbs."
 		],
@@ -2920,7 +2920,7 @@
 		"weight": 25,
 		"header": [
 			"Pelt of the Demon Mother",
-			"Source ~`Inner Sea Gods pg. 253`~",
+			"Source [Inner Sea Gods pg. 253](source:Inner Sea Gods)",
 			"Aura faint necromancy CL 3rd",
 			"Slot armor; Price 3,325 gp; Weight 25 lbs."
 		],
@@ -2939,7 +2939,7 @@
 		"weight": 7,
 		"header": [
 			"Djezet Skin",
-			"Source ~`Armor Master's Handbook pg. 25`~",
+			"Source [Armor Master's Handbook pg. 25](source:Armor Master's Handbook)",
 			"Aura faint enchantment CL 3rd",
 			"Slot armor; Price 3,410 gp; Weight 7 lbs."
 		],
@@ -2958,7 +2958,7 @@
 		"weight": 40,
 		"header": [
 			"Starsong Mail",
-			"Source ~`Inner Sea Gods pg. 253`~",
+			"Source [Inner Sea Gods pg. 253](source:Inner Sea Gods)",
 			"Aura faint conjuration and transmutation CL 3rd",
 			"Slot armor; Price 3,460 gp; Weight 40 lbs."
 		],
@@ -2977,7 +2977,7 @@
 		"weight": 20,
 		"header": [
 			"Powerhouse Pelt",
-			"Source ~`Villain Codex pg. 33`~",
+			"Source [Villain Codex pg. 33](source:Villain Codex)",
 			"Aura faint transmutation CL 5th",
 			"Slot armor; Price 3,515 gp; Weight 20 lbs."
 		],
@@ -2996,7 +2996,7 @@
 		"weight": 20,
 		"header": [
 			"Sea Banshee Coat",
-			"Source ~`Inner Sea Gods pg. 253`~",
+			"Source [Inner Sea Gods pg. 253](source:Inner Sea Gods)",
 			"Aura faint conjuration and transmutation CL 3rd",
 			"Slot armor; Price 3,605 gp; Weight 20 lbs."
 		],
@@ -3015,7 +3015,7 @@
 		"weight": 25,
 		"header": [
 			"Calamitous Mail",
-			"Source ~`Inner Sea Gods pg. 250`~",
+			"Source [Inner Sea Gods pg. 250](source:Inner Sea Gods)",
 			"Aura faint evocation CL 3rd",
 			"Slot armor; Price 3,750 gp; Weight 25 lbs."
 		],
@@ -3034,7 +3034,7 @@
 		"weight": 15,
 		"header": [
 			"Perfection Leather",
-			"Source ~`Inner Sea Gods pg. 253`~",
+			"Source [Inner Sea Gods pg. 253](source:Inner Sea Gods)",
 			"Aura faint divination, necromancy, and transmutation CL 3rd",
 			"Slot armor; Price 3,860 gp; Weight 15 lbs."
 		],
@@ -3053,7 +3053,7 @@
 		"weight": 20,
 		"header": [
 			"Ekujae Jungle Armor",
-			"Source ~`Inner Sea Combat pg. 51`~",
+			"Source [Inner Sea Combat pg. 51](source:Inner Sea Combat)",
 			"Aura faint abjuration and transmutation CL 3rd",
 			"Slot armor; Price 3,900 gp; Weight 20 lbs."
 		],
@@ -3073,7 +3073,7 @@
 		"weight": 50,
 		"header": [
 			"Half-Plate of the Dark Prince",
-			"Source ~`Inner Sea Gods pg. 252`~",
+			"Source [Inner Sea Gods pg. 252](source:Inner Sea Gods)",
 			"Aura faint conjuration and enchantment CL 3rd",
 			"Slot armor; Price 3,910 gp; Weight 50 lbs."
 		],
@@ -3092,7 +3092,7 @@
 		"weight": 40,
 		"header": [
 			"Toiler's Armor",
-			"Source ~`Inner Sea Gods pg. 253`~",
+			"Source [Inner Sea Gods pg. 253](source:Inner Sea Gods)",
 			"Aura faint transmutation CL 3rd",
 			"Slot armor; Price 3,920 gp; Weight 40 lbs."
 		],
@@ -3111,7 +3111,7 @@
 		"weight": 20,
 		"header": [
 			"Painspike Armor",
-			"Source ~`Inner Sea Gods pg. 252`~",
+			"Source [Inner Sea Gods pg. 252](source:Inner Sea Gods)",
 			"Aura faint necromancy [evil] CL 5th",
 			"Slot armor; Price 4,145 gp; Weight 20 lbs."
 		],
@@ -3130,7 +3130,7 @@
 		"weight": 50,
 		"header": [
 			"Forgefather's Half-Plate",
-			"Source ~`Inner Sea Gods pg. 251`~",
+			"Source [Inner Sea Gods pg. 251](source:Inner Sea Gods)",
 			"Aura faint abjuration, divination, evocation, and transmutation CL 3rd",
 			"Slot armor; Price 4,180 gp; Weight 50 lbs."
 		],
@@ -3149,7 +3149,7 @@
 		"weight": 25,
 		"header": [
 			"Veiled Chain",
-			"Source ~`Inner Sea Gods pg. 253`~",
+			"Source [Inner Sea Gods pg. 253](source:Inner Sea Gods)",
 			"Aura faint illusion CL 3rd",
 			"Slot armor; Price 4,490 gp; Weight 25 lbs."
 		],
@@ -3168,7 +3168,7 @@
 		"weight": 40,
 		"header": [
 			"Armor of the Unquenchable Fire",
-			"Source ~`Inner Sea Gods pg. 250`~",
+			"Source [Inner Sea Gods pg. 250](source:Inner Sea Gods)",
 			"Aura moderate conjuration and enchantment CL 8th",
 			"Slot armor; Price 4,840 gp; Weight 40 lbs."
 		],
@@ -3187,7 +3187,7 @@
 		"weight": 40,
 		"header": [
 			"Lucky Drunk's Mail",
-			"Source ~`Inner Sea Gods pg. 252`~",
+			"Source [Inner Sea Gods pg. 252](source:Inner Sea Gods)",
 			"Aura faint enchantment and evocation CL 3rd",
 			"Slot armor; Price 4,840 gp; Weight 40 lbs."
 		],
@@ -3206,7 +3206,7 @@
 		"weight": 30,
 		"header": [
 			"Eternal Iron Breastplate",
-			"Source ~`Inner Sea Gods pg. 251`~",
+			"Source [Inner Sea Gods pg. 251](source:Inner Sea Gods)",
 			"Aura moderate enchantment and conjuration CL 7th",
 			"Slot armor; Price 4,890 gp; Weight 30 lbs."
 		],
@@ -3225,7 +3225,7 @@
 		"weight": 30,
 		"header": [
 			"Fangtide Scale Mail",
-			"Source ~`Inner Sea Gods pg. 251`~",
+			"Source [Inner Sea Gods pg. 251](source:Inner Sea Gods)",
 			"Aura moderate enchantment, evocation, and illusion CL 10th",
 			"Slot armor; Price 4,890 gp; Weight 30 lbs."
 		],
@@ -3244,7 +3244,7 @@
 		"weight": 2,
 		"header": [
 			"Thanatotic Visage",
-			"Source ~`Book of the Damned pg. 197`~",
+			"Source [Book of the Damned pg. 197](source:Book of the Damned)",
 			"Aura strong conjuration CL 15th",
 			"Slot head; Price 5,000 gp; Weight 2 lbs."
 		],
@@ -3263,7 +3263,7 @@
 		"weight": 30,
 		"header": [
 			"Waverider Breastplate",
-			"Source ~`Inner Sea Monster Codex pg. 29`~",
+			"Source [Inner Sea Monster Codex pg. 29](source:Inner Sea Monster Codex)",
 			"Aura faint transmutation CL 5th",
 			"Slot armor; Price 5,000 gp; Weight 30 lbs."
 		],
@@ -3282,7 +3282,7 @@
 		"weight": 30,
 		"header": [
 			"Golden Judge's Breastplate",
-			"Source ~`Inner Sea Gods pg. 251`~",
+			"Source [Inner Sea Gods pg. 251](source:Inner Sea Gods)",
 			"Aura faint abjuration, enchantment, and transmutation CL 3rd",
 			"Slot armor; Price 5,110 gp; Weight 30 lbs."
 		],
@@ -3304,7 +3304,7 @@
 		"weight": 20,
 		"header": [
 			"Elven Chain",
-			"Source ~`Ultimate Equipment pg. 126`~, ~`PRPG Core Rulebook pg. 464`~",
+			"Source [Ultimate Equipment pg. 126](source:Ultimate Equipment), [PRPG Core Rulebook pg. 464](source:PRPG Core Rulebook)",
 			"Aura no aura (nonmagical) CL",
 			"Slot armor; Price 5,150 gp; Weight 20 lbs."
 		],
@@ -3325,7 +3325,7 @@
 		"weight": 25,
 		"header": [
 			"Rhino Hide",
-			"Source ~`Ultimate Equipment pg. 129`~, ~`PRPG Core Rulebook pg. 464`~",
+			"Source [Ultimate Equipment pg. 129](source:Ultimate Equipment), [PRPG Core Rulebook pg. 464](source:PRPG Core Rulebook)",
 			"Aura moderate transmutation CL 9th",
 			"Slot armor; Price 5,165 gp; Weight 25 lbs."
 		],
@@ -3344,7 +3344,7 @@
 		"weight": 10,
 		"header": [
 			"Akhentepi's Armor",
-			"Source ~`Pathfinder #79: The Half-Dead City pg. 60`~",
+			"Source [Pathfinder #79: The Half-Dead City pg. 60](source:Pathfinder #79: The Half-Dead City)",
 			"Aura moderate transmutation CL 7th",
 			"Slot armor; Price 5,235 gp; Weight 10 lbs."
 		],
@@ -3363,7 +3363,7 @@
 		"weight": 15,
 		"header": [
 			"Blackfingers Apron",
-			"Source ~`Inner Sea Gods pg. 250`~",
+			"Source [Inner Sea Gods pg. 250](source:Inner Sea Gods)",
 			"Aura faint conjuration and transmutation CL 5th",
 			"Slot armor; Price 5,240 gp; Weight 15 lbs."
 		],
@@ -3382,7 +3382,7 @@
 		"weight": 40,
 		"header": [
 			"Gravewatcher Chainmail",
-			"Source ~`Inner Sea Gods pg. 251`~",
+			"Source [Inner Sea Gods pg. 251](source:Inner Sea Gods)",
 			"Aura moderate divination, evocation, and necromancy CL 7th",
 			"Slot armor; Price 5,380 gp; Weight 40 lbs."
 		],
@@ -3401,7 +3401,7 @@
 		"weight": 20,
 		"header": [
 			"Deadeye Leather",
-			"Source ~`Inner Sea Gods pg. 251`~",
+			"Source [Inner Sea Gods pg. 251](source:Inner Sea Gods)",
 			"Aura faint divination and illusion CL 5th",
 			"Slot armor; Price 5,425 gp; Weight 20 lbs."
 		],
@@ -3420,7 +3420,7 @@
 		"weight": 25,
 		"header": [
 			"All-Seeing Armor",
-			"Source ~`Inner Sea Gods pg. 250`~",
+			"Source [Inner Sea Gods pg. 250](source:Inner Sea Gods)",
 			"Aura faint divination CL 3rd",
 			"Slot armor; Price 5,570 gp; Weight 25 lbs."
 		],
@@ -3439,7 +3439,7 @@
 		"weight": 15,
 		"header": [
 			"Gray Master's Leathers",
-			"Source ~`Inner Sea Gods pg. 251`~",
+			"Source [Inner Sea Gods pg. 251](source:Inner Sea Gods)",
 			"Aura faint conjuration, evocation, illusion, and transmutation CL 5th",
 			"Slot armor; Price 5,720 gp; Weight 15 lbs."
 		],
@@ -3458,7 +3458,7 @@
 		"weight": 8,
 		"header": [
 			"Shifting Jerkin",
-			"Source ~`Armor Master's Handbook pg. 25`~",
+			"Source [Armor Master's Handbook pg. 25](source:Armor Master's Handbook)",
 			"Aura faint illusion and transmutation CL 3rd",
 			"Slot armor; Price 5,965 gp; Weight 8 lbs."
 		],
@@ -3477,7 +3477,7 @@
 		"weight": 15,
 		"header": [
 			"Arachnid Harness",
-			"Source ~`Armor Master's Handbook pg. 25`~",
+			"Source [Armor Master's Handbook pg. 25](source:Armor Master's Handbook)",
 			"Aura faint transmutation CL 4th",
 			"Slot armor; Price 6,160 gp; Weight 15 lbs."
 		],
@@ -3496,7 +3496,7 @@
 		"weight": 25,
 		"header": [
 			"Raiment of Chains",
-			"Source ~`Inner Sea Temples pg. 12`~",
+			"Source [Inner Sea Temples pg. 12](source:Inner Sea Temples)",
 			"Aura faint transmutation CL 5th",
 			"Slot armor; Price 6,250 gp; Weight 25 lbs."
 		],
@@ -3516,7 +3516,7 @@
 		"weight": 8,
 		"header": [
 			"Locust Cuirass",
-			"Source ~`Pathfinder #81: Shifting Sands pg. 58`~",
+			"Source [Pathfinder #81: Shifting Sands pg. 58](source:Pathfinder #81: Shifting Sands)",
 			"Aura moderate conjuration CL 6th",
 			"Slot armor; Price 6,565 gp; Weight 8 lbs."
 		],
@@ -3536,7 +3536,7 @@
 		"weight": 25,
 		"header": [
 			"Dawnflower Chain Vest",
-			"Source ~`Inner Sea Gods pg. 250`~",
+			"Source [Inner Sea Gods pg. 250](source:Inner Sea Gods)",
 			"Aura strong conjuration and evocation CL 12th",
 			"Slot armor; Price 6,950 gp; Weight 25 lbs."
 		],
@@ -3555,7 +3555,7 @@
 		"weight": 1,
 		"header": [
 			"Truefaith Vestments",
-			"Source ~`Inner Sea Combat pg. 53`~",
+			"Source [Inner Sea Combat pg. 53](source:Inner Sea Combat)",
 			"Aura moderate illusion CL 10th",
 			"Slot armor; Price 6,950 gp; Weight 1 lb."
 		],
@@ -3574,7 +3574,7 @@
 		"weight": 1,
 		"header": [
 			"Featherleaf Barding",
-			"Source ~`Familiar Folio pg. 21`~",
+			"Source [Familiar Folio pg. 21](source:Familiar Folio)",
 			"Aura faint transmutation CL 9th",
 			"Slot armor; Price 7,310 gp; Weight 1 lb."
 		],
@@ -3593,7 +3593,7 @@
 		"weight": 30,
 		"header": [
 			"Trained Barding",
-			"Source ~`Armor Master's Handbook pg. 27`~",
+			"Source [Armor Master's Handbook pg. 27](source:Armor Master's Handbook)",
 			"Aura moderate transmutation CL 9th",
 			"Slot armor; Price 8,350 gp; Weight 30 lbs."
 		],
@@ -3612,7 +3612,7 @@
 		"weight": 20,
 		"header": [
 			"Stalking",
-			"Source ~`Advanced Class Guide pg. 211`~",
+			"Source [Advanced Class Guide pg. 211](source:Advanced Class Guide)",
 			"Aura moderate transmutation CL 6th",
 			"Slot armor; Price 8,575 gp; Weight 20 lbs."
 		],
@@ -3631,7 +3631,7 @@
 		"weight": 15,
 		"header": [
 			"Scouting Leather",
-			"Source ~`Inner Sea Combat pg. 53`~",
+			"Source [Inner Sea Combat pg. 53](source:Inner Sea Combat)",
 			"Aura moderate illusion and transmutation CL 10th",
 			"Slot armor; Price 8,750 gp; Weight 15 lbs."
 		],
@@ -3650,7 +3650,7 @@
 		"weight": 20,
 		"header": [
 			"Snakescale Armor",
-			"Source ~`Pathfinder #42: Sanctum of the Serpent God pg. 39`~",
+			"Source [Pathfinder #42: Sanctum of the Serpent God pg. 39](source:Pathfinder #42: Sanctum of the Serpent God)",
 			"Aura faint illusion CL 5th",
 			"Slot armor; Price 8,900 gp; Weight 20 lbs."
 		],
@@ -3669,7 +3669,7 @@
 		"weight": 15,
 		"header": [
 			"Morlock Hide",
-			"Source ~`Ultimate Equipment pg. 128`~",
+			"Source [Ultimate Equipment pg. 128](source:Ultimate Equipment)",
 			"Aura moderate illusion and transmutation CL 10th",
 			"Slot armor; Price 8,910 gp; Weight 15 lbs."
 		],
@@ -3688,7 +3688,7 @@
 		"weight": 75,
 		"header": [
 			"Stone-eater Armor",
-			"Source ~`Armor Master's Handbook pg. 29`~",
+			"Source [Armor Master's Handbook pg. 29](source:Armor Master's Handbook)",
 			"Aura moderate abjuration and evocation CL 10th",
 			"Slot armor; Price 8,950 gp; Weight 75 lbs."
 		],
@@ -3708,7 +3708,7 @@
 		"weight": 30,
 		"header": [
 			"Giant's Nail Scale Mail",
-			"Source ~`Pathfinder #93: Forge of the Giant God pg. 16`~",
+			"Source [Pathfinder #93: Forge of the Giant God pg. 16](source:Pathfinder #93: Forge of the Giant God)",
 			"Aura moderate necromancy CL 7th",
 			"Slot armor; Price 9,200 gp; Weight 30 lbs."
 		],
@@ -3727,7 +3727,7 @@
 		"weight": 5,
 		"header": [
 			"Writhing Armor",
-			"Source ~`Melee Tactics Toolbox pg. 23`~",
+			"Source [Melee Tactics Toolbox pg. 23](source:Melee Tactics Toolbox)",
 			"Aura moderate transmutation CL 6th",
 			"Slot armor; Price 9,480 gp; Weight 5 lbs."
 		],
@@ -3746,7 +3746,7 @@
 		"weight": 10,
 		"header": [
 			"Spelunker's Mail",
-			"Source ~`Second Darkness Player's Guide pg. 29`~",
+			"Source [Second Darkness Player's Guide pg. 29](source:Second Darkness Player's Guide)",
 			"Aura faint conjuration and moderate transmutation CL 10th",
 			"Slot armor; Price 10,000 gp; Weight 10 lbs."
 		],
@@ -3766,7 +3766,7 @@
 		"weight": 10,
 		"header": [
 			"Windstrider Mail",
-			"Source ~`Down the Blighted Path pg. 63`~",
+			"Source [Down the Blighted Path pg. 63](source:Down the Blighted Path)",
 			"Aura faint evocation and transmutation CL 5th",
 			"Slot armor; Price 10,100 gp; Weight 10 lbs."
 		],
@@ -3790,7 +3790,7 @@
 		"weight": 30,
 		"header": [
 			"Adamantine Breastplate",
-			"Source ~`Ultimate Equipment pg. 124`~, ~`PRPG Core Rulebook pg. 464`~",
+			"Source [Ultimate Equipment pg. 124](source:Ultimate Equipment), [PRPG Core Rulebook pg. 464](source:PRPG Core Rulebook)",
 			"Aura no aura (nonmagical) CL",
 			"Slot armor; Price 10,200 gp; Weight 30 lbs."
 		],
@@ -3811,7 +3811,7 @@
 		"weight": 40,
 		"header": [
 			"Soothsayer's Raiment",
-			"Source ~`Ultimate Equipment pg. 129`~, ~`Advanced Player's Guide pg. 286`~",
+			"Source [Ultimate Equipment pg. 129](source:Ultimate Equipment), [Advanced Player's Guide pg. 286](source:Advanced Player's Guide)",
 			"Aura faint divination CL 5th",
 			"Slot armor; Price 10,300 gp; Weight 40 lbs."
 		],
@@ -3831,7 +3831,7 @@
 		"weight": 50,
 		"header": [
 			"Equestrian Plate",
-			"Source ~`Ultimate Equipment pg. 126`~",
+			"Source [Ultimate Equipment pg. 126](source:Ultimate Equipment)",
 			"Aura moderate transmutation CL 9th",
 			"Slot armor; Price 10,650 gp; Weight 50 lbs. (full plate), 35 lbs. (banded mail), 70 lbs. (barding)"
 		],
@@ -3851,7 +3851,7 @@
 		"weight": 15,
 		"header": [
 			"Enchanted Eelskin",
-			"Source ~`Ultimate Equipment pg. 126`~",
+			"Source [Ultimate Equipment pg. 126](source:Ultimate Equipment)",
 			"Aura faint transmutation CL 5th",
 			"Slot armor; Price 11,160 gp; Weight 15 lbs."
 		],
@@ -3870,7 +3870,7 @@
 		"weight": 25,
 		"header": [
 			"Tireless Tracking Hide",
-			"Source ~`Advanced Class Guide pg. 212`~",
+			"Source [Advanced Class Guide pg. 212](source:Advanced Class Guide)",
 			"Aura faint transmutation CL 5th",
 			"Slot armor; Price 11,165 gp; Weight 25 lbs."
 		],
@@ -3889,7 +3889,7 @@
 		"weight": 10,
 		"header": [
 			"Gnome Scrap Armor (Gnome)",
-			"Source ~`Inner Sea Races pg. 224`~",
+			"Source [Inner Sea Races pg. 224](source:Inner Sea Races)",
 			"Aura faint transmutation CL 5th",
 			"Slot armor; Price 11,175 gp; Weight 10 lbs."
 		],
@@ -3911,7 +3911,7 @@
 		"weight": 30,
 		"header": [
 			"Breastplate of the Planes",
-			"Source ~`Planar Adventures pg. 47`~",
+			"Source [Planar Adventures pg. 47](source:Planar Adventures)",
 			"Aura strong evocation CL 15th",
 			"Slot armor; Price 11,350 gp; Weight 30 lbs."
 		],
@@ -3930,7 +3930,7 @@
 		"weight": 30,
 		"header": [
 			"Emissary's Breastplate",
-			"Source ~`Heroes of the Streets pg. 15`~",
+			"Source [Heroes of the Streets pg. 15](source:Heroes of the Streets)",
 			"Aura faint transmutation CL 5th",
 			"Slot armor; Price 11,350 gp; Weight 30 lbs."
 		],
@@ -3949,7 +3949,7 @@
 		"weight": 100,
 		"header": [
 			"Uskroth's Armor",
-			"Source ~`Pathfinder #91: Battle of Bloodmarch Hills pg. 55`~",
+			"Source [Pathfinder #91: Battle of Bloodmarch Hills pg. 55](source:Pathfinder #91: Battle of Bloodmarch Hills)",
 			"Aura faint transmutation CL 5th",
 			"Slot armor; Price 11,350 gp; Weight 100 lbs."
 		],
@@ -3968,7 +3968,7 @@
 		"weight": 20,
 		"header": [
 			"Mosswater Stained Leather",
-			"Source ~`Inner Sea Combat pg. 52`~",
+			"Source [Inner Sea Combat pg. 52](source:Inner Sea Combat)",
 			"Aura strong transmutation CL 14th",
 			"Slot armor; Price 11,575 gp; Weight 20 lbs."
 		],
@@ -3988,7 +3988,7 @@
 		"weight": 10,
 		"header": [
 			"Bilgewater Coat",
-			"Source ~`Merchant's Manifest pg. 25`~",
+			"Source [Merchant's Manifest pg. 25](source:Merchant's Manifest)",
 			"Aura faint conjuration CL 5th",
 			"Slot none; Price 11,655 gp; Weight 10 lbs."
 		],
@@ -4010,7 +4010,7 @@
 		"weight": 15,
 		"header": [
 			"Boneless Leather",
-			"Source ~`Ultimate Equipment pg. 124`~, ~`Advanced Player's Guide pg. 284`~",
+			"Source [Ultimate Equipment pg. 124](source:Ultimate Equipment), [Advanced Player's Guide pg. 284](source:Advanced Player's Guide)",
 			"Aura faint transmutation CL 3rd",
 			"Slot armor; Price 12,160 gp; Weight 15 lbs."
 		],
@@ -4029,7 +4029,7 @@
 		"weight": 15,
 		"header": [
 			"Lupine Rageskin",
-			"Source ~`Horror Adventures pg. 214`~",
+			"Source [Horror Adventures pg. 214](source:Horror Adventures)",
 			"Aura faint transmutation CL 5th",
 			"Slot armor; Price 12,160 gp; Weight 15 lbs."
 		],
@@ -4048,7 +4048,7 @@
 		"weight": 40,
 		"header": [
 			"Elemental Bulwark",
-			"Source ~`Armor Master's Handbook pg. 27`~",
+			"Source [Armor Master's Handbook pg. 27](source:Armor Master's Handbook)",
 			"Aura faint abjuration CL 3rd",
 			"Slot armor; Price 12,300 gp; Weight 40 lbs."
 		],
@@ -4070,7 +4070,7 @@
 		"weight": 10,
 		"header": [
 			"Murderer's Blackcloth",
-			"Source ~`Ultimate Equipment pg. 128`~, ~`Advanced Player's Guide pg. 285`~",
+			"Source [Ultimate Equipment pg. 128](source:Ultimate Equipment), [Advanced Player's Guide pg. 285](source:Advanced Player's Guide)",
 			"Aura moderate necromancy CL 9th",
 			"Slot armor; Price 12,405 gp; Weight 10 lbs."
 		],
@@ -4089,7 +4089,7 @@
 		"weight": 50,
 		"header": [
 			"Honor's Panoply",
-			"Source ~`Pathfinder #104: Wrath of Thrune pg. 59`~",
+			"Source [Pathfinder #104: Wrath of Thrune pg. 59](source:Pathfinder #104: Wrath of Thrune)",
 			"Aura faint abjuration CL 5th",
 			"Slot armor; Price 12,550 gp; Weight 50 lbs."
 		],
@@ -4113,7 +4113,7 @@
 		"weight": 50,
 		"header": [
 			"Folding Plate",
-			"Source ~`Ultimate Equipment pg. 126`~, ~`Advanced Player's Guide pg. 284`~",
+			"Source [Ultimate Equipment pg. 126](source:Ultimate Equipment), [Advanced Player's Guide pg. 284](source:Advanced Player's Guide)",
 			"Aura moderate conjuration CL 10th",
 			"Slot armor; Price 12,650 gp; Weight 50 lbs."
 		],
@@ -4132,7 +4132,7 @@
 		"weight": 40,
 		"header": [
 			"Hallowed Chain (Varisian)",
-			"Source ~`Inner Sea Races pg. 225`~",
+			"Source [Inner Sea Races pg. 225](source:Inner Sea Races)",
 			"Aura faint conjuration CL 5th",
 			"Slot armor; Price 12,800 gp; Weight 40 lbs."
 		],
@@ -4153,7 +4153,7 @@
 		"weight": 35,
 		"header": [
 			"Legion Armor",
-			"Source ~`Armor Master's Handbook pg. 29`~",
+			"Source [Armor Master's Handbook pg. 29](source:Armor Master's Handbook)",
 			"Aura moderate evocation CL 7th",
 			"Slot armor; Price 13,400 gp; Weight 35 lbs."
 		],
@@ -4173,7 +4173,7 @@
 		"weight": 15,
 		"header": [
 			"Armor of the Sands",
-			"Source ~`Melee Tactics Toolbox pg. 22`~",
+			"Source [Melee Tactics Toolbox pg. 22](source:Melee Tactics Toolbox)",
 			"Aura moderate transmutation CL 7th",
 			"Slot armor; Price 14,160 gp; Weight 15 lbs."
 		],
@@ -4192,7 +4192,7 @@
 		"weight": 40,
 		"header": [
 			"Armor of Grim Triumph (Orc)",
-			"Source ~`Inner Sea Races pg. 224`~",
+			"Source [Inner Sea Races pg. 224](source:Inner Sea Races)",
 			"Aura moderate necromancy CL 7th",
 			"Slot armor; Price 14,300 gp; Weight 40 lbs."
 		],
@@ -4219,7 +4219,7 @@
 		"weight": 25,
 		"header": [
 			"Mammoth Hide",
-			"Source ~`Adventurer's Guide pg. 134`~, ~`Inner Sea Combat pg. 52`~, ~`Melee Tactics Toolbox pg. 23`~",
+			"Source [Adventurer's Guide pg. 134](source:Adventurer's Guide), [Inner Sea Combat pg. 52](source:Inner Sea Combat), [Melee Tactics Toolbox pg. 23](source:Melee Tactics Toolbox)",
 			"Aura moderate transmutation CL 11th",
 			"Slot armor; Price 14,665 gp; Weight 25 lbs."
 		],
@@ -4237,7 +4237,7 @@
 		"slot": "armor",
 		"weight": 20,
 		"header": [
-			"Source ~`Pathfinder #69: Maiden, Mother, Crone pg. 61`~",
+			"Source [Pathfinder #69: Maiden, Mother, Crone pg. 61](source:Pathfinder #69: Maiden, Mother, Crone)",
 			"Aura moderate evocation CL 6th",
 			"Slot armor; Price 15,100 gp; Weight 20 lbs."
 		],
@@ -4257,7 +4257,7 @@
 		"weight": 0,
 		"header": [
 			"Gale Armor",
-			"Source ~`Armor Master's Handbook pg. 25`~",
+			"Source [Armor Master's Handbook pg. 25](source:Armor Master's Handbook)",
 			"Aura moderate transmutation CL 7th",
 			"Slot armor; Price 15,180 gp; Weight -"
 		],
@@ -4276,7 +4276,7 @@
 		"weight": 15,
 		"header": [
 			"Breastplate of Vanishing",
-			"Source ~`Ultimate Equipment pg. 124`~",
+			"Source [Ultimate Equipment pg. 124](source:Ultimate Equipment)",
 			"Aura faint conjuration CL 5th",
 			"Slot armor; Price 15,200 gp; Weight 15 lbs."
 		],
@@ -4296,7 +4296,7 @@
 		"weight": 20,
 		"header": [
 			"Coat of Shells (Gillmen, Merfolk)",
-			"Source ~`Inner Sea Races pg. 224`~",
+			"Source [Inner Sea Races pg. 224](source:Inner Sea Races)",
 			"Aura moderate transmutation CL 7th",
 			"Slot armor; Price 15,350 gp; Weight 20 lbs."
 		],
@@ -4317,7 +4317,7 @@
 		"weight": 20,
 		"header": [
 			"Elven Vengeance",
-			"Source ~`Adventurer's Guide pg. 115`~",
+			"Source [Adventurer's Guide pg. 115](source:Adventurer's Guide)",
 			"Aura strong abjuration CL 12th",
 			"Slot armor; Price 16,150 gp; Weight 20 lbs."
 		],
@@ -4339,7 +4339,7 @@
 		"weight": 20,
 		"header": [
 			"Armor of Insults",
-			"Source ~`Ultimate Equipment pg. 124`~, ~`Advanced Player's Guide pg. 283`~",
+			"Source [Ultimate Equipment pg. 124](source:Ultimate Equipment), [Advanced Player's Guide pg. 283](source:Advanced Player's Guide)",
 			"Aura moderate enchantment CL 7th",
 			"Slot armor; Price 16,175 gp; Weight 20 lbs."
 		],
@@ -4358,7 +4358,7 @@
 		"weight": 25,
 		"header": [
 			"Skin of Klendar the Troll King",
-			"Source ~`Pathfinder #27: What Lies in Dust pg. 58`~",
+			"Source [Pathfinder #27: What Lies in Dust pg. 58](source:Pathfinder #27: What Lies in Dust)",
 			"Aura moderate conjuration CL 8th",
 			"Slot armor; Price 16,315 gp; Weight 25 lbs."
 		],
@@ -4378,7 +4378,7 @@
 		"weight": 30,
 		"header": [
 			"Numerian Resistance Plate",
-			"Source ~`Inner Sea Combat pg. 52`~",
+			"Source [Inner Sea Combat pg. 52](source:Inner Sea Combat)",
 			"Aura moderate abjuration CL 6th",
 			"Slot armor; Price 16,350 gp; Weight 30 lbs."
 		],
@@ -4401,7 +4401,7 @@
 		"weight": 50,
 		"header": [
 			"Dwarven Plate",
-			"Source ~`Ultimate Equipment pg. 126`~, ~`PRPG Core Rulebook pg. 464`~",
+			"Source [Ultimate Equipment pg. 126](source:Ultimate Equipment), [PRPG Core Rulebook pg. 464](source:PRPG Core Rulebook)",
 			"Aura no aura (nonmagical) CL",
 			"Slot armor; Price 16,500 gp; Weight 50 lbs."
 		],
@@ -4419,7 +4419,7 @@
 		"weight": 25,
 		"header": [
 			"Hero's Hauberk",
-			"Source ~`Advanced Class Guide pg. 211`~",
+			"Source [Advanced Class Guide pg. 211](source:Advanced Class Guide)",
 			"Aura strong abjuration CL 13th",
 			"Slot armor; Price 16,600 gp; Weight 25 lbs."
 		],
@@ -4439,7 +4439,7 @@
 		"weight": 10,
 		"header": [
 			"Abrogalian Corset",
-			"Source ~`Cheliax, Empire of Devils pg. 20`~",
+			"Source [Cheliax, Empire of Devils pg. 20](source:Cheliax, Empire of Devils)",
 			"Aura moderate enchantment CL 9th",
 			"Slot armor; Price 17,175 gp; Weight 10 lbs."
 		],
@@ -4460,7 +4460,7 @@
 		"weight": 45,
 		"header": [
 			"Backbreaker Mail",
-			"Source ~`Inner Sea Combat pg. 50`~",
+			"Source [Inner Sea Combat pg. 50](source:Inner Sea Combat)",
 			"Aura moderate illusion and transmutation CL 10th",
 			"Slot armor; Price 17,650 gp; Weight 45 lbs."
 		],
@@ -4480,14 +4480,14 @@
 		"weight": 25,
 		"header": [
 			"Hide of the Hagfish",
-			"Source ~`Seers of the Drowned City pg. 54`~",
+			"Source [Seers of the Drowned City pg. 54](source:Seers of the Drowned City)",
 			"Aura moderate transmutation CL 10th",
 			"Slot armor; Price 18,165 gp; Weight 25 lbs."
 		],
 		"description": [
-			"With the coming of the Eye of Abendego and the permanent change to the coastline's environs, its inhabitants have been forced to look to strange new places for resources. Hagfish hide may well be one of the most unusual replacement materials. This suit of +1 ~`slick`~ hide armor appears to constantly drip a viscous ooze. When immersed in water, the wearer gains a swim speed of 20 feet and the ability to breathe underwater. The slime exuded by the armor is particularly unpleasant and foul-tasting-the first time a creature successfully bites a character wearing hide of the hagfish in a 24 hour period, that creature must succeed at a DC 14 Fortitude saving throw to avoid being nauseated by the slime for 1 round."
+			"With the coming of the Eye of Abendego and the permanent change to the coastline's environs, its inhabitants have been forced to look to strange new places for resources. Hagfish hide may well be one of the most unusual replacement materials. This suit of +1 [slick][unknown:slick) hide armor appears to constantly drip a viscous ooze. When immersed in water, the wearer gains a swim speed of 20 feet and the ability to breathe underwater. The slime exuded by the armor is particularly unpleasant and foul-tasting-the first time a creature successfully bites a character wearing hide of the hagfish in a 24 hour period, that creature must succeed at a DC 14 Fortitude saving throw to avoid being nauseated by the slime for 1 round."
 		],
-		"construction": "Requirements ~`Craft Magic Arms and Armor`~, ~`grease`~, ~`water breathing`~; Price 9,165 gp"
+		"construction": "Requirements [Craft Magic Arms and Armor][unknown:Craft Magic Arms and Armor), [grease][unknown:grease), [water breathing][unknown:water breathing); Price 9,165 gp"
 	},
 	"Eagle Knight Dress Uniform": {
 		"itemname": "Eagle Knight Dress Uniform",
@@ -4502,7 +4502,7 @@
 		"weight": 20,
 		"header": [
 			"Eagle Knight Dress Uniform",
-			"Source ~`Adventurer's Guide pg. 76`~, ~`Inner Sea Combat pg. 50`~",
+			"Source [Adventurer's Guide pg. 76](source:Adventurer's Guide), [Inner Sea Combat pg. 50](source:Inner Sea Combat)",
 			"Aura moderate enchantment CL 6th",
 			"Slot armor; Price 18,175 gp; Weight 20 lbs."
 		],
@@ -4521,7 +4521,7 @@
 		"weight": 10,
 		"header": [
 			"Lifecollar Coat",
-			"Source ~`Undead Slayer's Handbook pg. 29`~",
+			"Source [Undead Slayer's Handbook pg. 29](source:Undead Slayer's Handbook)",
 			"Aura moderate abjuration and necromancy CL 7th",
 			"Slot chest and neck (see text); Price 18,200 gp; Weight 10 lbs."
 		],
@@ -4542,7 +4542,7 @@
 		"weight": 30,
 		"header": [
 			"Armor of the Pure Legion",
-			"Source ~`Armor Master's Handbook pg. 27`~",
+			"Source [Armor Master's Handbook pg. 27](source:Armor Master's Handbook)",
 			"Aura strong abjuration CL 15th",
 			"Slot armor; Price 18,300 gp; Weight 30 lbs."
 		],
@@ -4561,7 +4561,7 @@
 		"weight": 25,
 		"header": [
 			"Hide of the Dragonrider",
-			"Source ~`Pathfinder #70: The Frozen Stars pg. 63`~",
+			"Source [Pathfinder #70: The Frozen Stars pg. 63](source:Pathfinder #70: The Frozen Stars)",
 			"Aura moderate abjuration and enchantment CL 8th",
 			"Slot armor; Price 18,480 gp; Weight 25 lbs."
 		],
@@ -4580,7 +4580,7 @@
 		"weight": 25,
 		"header": [
 			"Arboreal Armor",
-			"Source ~`Heroes of the Wild pg. 28`~",
+			"Source [Heroes of the Wild pg. 28](source:Heroes of the Wild)",
 			"Aura moderate transmutation CL 9th",
 			"Slot armor; Price 18,670 gp; Weight 25 lbs."
 		],
@@ -4602,7 +4602,7 @@
 		"weight": 35,
 		"header": [
 			"Banded Mail of Luck",
-			"Source ~`Ultimate Equipment pg. 124`~, ~`PRPG Core Rulebook pg. 464`~",
+			"Source [Ultimate Equipment pg. 124](source:Ultimate Equipment), [PRPG Core Rulebook pg. 464](source:PRPG Core Rulebook)",
 			"Aura strong enchantment CL 12th",
 			"Slot armor; Price 18,900 gp; Weight 35 lbs."
 		],
@@ -4621,7 +4621,7 @@
 		"weight": 15,
 		"header": [
 			"Catskin Leather",
-			"Source ~`Ultimate Equipment pg. 125`~",
+			"Source [Ultimate Equipment pg. 125](source:Ultimate Equipment)",
 			"Aura strong transmutation CL 13th",
 			"Slot armor; Price 18,910 gp; Weight 15 lbs."
 		],
@@ -4640,7 +4640,7 @@
 		"weight": 30,
 		"header": [
 			"Infiltrator's Mail",
-			"Source ~`Magical Marketplace pg. 7`~",
+			"Source [Magical Marketplace pg. 7](source:Magical Marketplace)",
 			"Aura moderate transmutation (see text) CL 7th",
 			"Slot armor; Price 19,650 gp; Weight 30 lbs."
 		],
@@ -4659,7 +4659,7 @@
 		"weight": 25,
 		"header": [
 			"Ursine Rageskin",
-			"Source ~`Horror Adventures pg. 214`~",
+			"Source [Horror Adventures pg. 214](source:Horror Adventures)",
 			"Aura moderate transmutation CL 7th",
 			"Slot armor; Price 20,165 gp; Weight 25 lbs."
 		],
@@ -4678,7 +4678,7 @@
 		"weight": 20,
 		"header": [
 			"The Forbidden Name",
-			"Source ~`Pathfinder #113: What Grows Within pg. 42`~",
+			"Source [Pathfinder #113: What Grows Within pg. 42](source:Pathfinder #113: What Grows Within)",
 			"Aura moderate abjuration CL 9th",
 			"Slot armor; Price 20,175 gp; Weight 20 lbs."
 		],
@@ -4698,7 +4698,7 @@
 		"weight": 20,
 		"header": [
 			"Howling Skull Armor",
-			"Source ~`Pathfinder #59: The Price of Infamy pg. 60`~",
+			"Source [Pathfinder #59: The Price of Infamy pg. 60](source:Pathfinder #59: The Price of Infamy)",
 			"Aura moderate necromancy CL 7th",
 			"Slot armor; Price 20,375 gp; Weight 20 lbs."
 		],
@@ -4717,7 +4717,7 @@
 		"weight": 30,
 		"header": [
 			"Do-Maru of Broken Flesh",
-			"Source ~`Pathfinder #52: Forest of Spirits pg. 60`~",
+			"Source [Pathfinder #52: Forest of Spirits pg. 60](source:Pathfinder #52: Forest of Spirits)",
 			"Aura moderate evocation CL 9th",
 			"Slot armor; Price 20,550 gp; Weight 30 lbs."
 		],
@@ -4737,7 +4737,7 @@
 		"weight": 50,
 		"header": [
 			"Raiment of the Shining Crusade",
-			"Source ~`Armor Master's Handbook pg. 29`~",
+			"Source [Armor Master's Handbook pg. 29](source:Armor Master's Handbook)",
 			"Aura moderate abjuration and evocation CL 7th",
 			"Slot armor; Price 20,750 gp; Weight 50 lbs."
 		],
@@ -4757,7 +4757,7 @@
 		"weight": 50,
 		"header": [
 			"War Commander's Field Plate",
-			"Source ~`Inner Sea Combat pg. 53`~",
+			"Source [Inner Sea Combat pg. 53](source:Inner Sea Combat)",
 			"Aura moderate abjuration and enchantment CL 6th",
 			"Slot armor; Price 21,600 gp; Weight 50 lbs."
 		],
@@ -4777,7 +4777,7 @@
 		"weight": 60,
 		"header": [
 			"Armor of Fragmenting Stone",
-			"Source ~`Monster Summoner's Handbook pg. 20`~",
+			"Source [Monster Summoner's Handbook pg. 20](source:Monster Summoner's Handbook)",
 			"Aura moderate conjuration CL 7th",
 			"Slot armor; Price 21,650 gp; Weight 60 lbs."
 		],
@@ -4796,7 +4796,7 @@
 		"weight": 25,
 		"header": [
 			"Gug Hide",
-			"Source ~`Planar Adventures pg. 47`~",
+			"Source [Planar Adventures pg. 47](source:Planar Adventures)",
 			"Aura strong abjuration and transmutation CL 13th",
 			"Slot armor; Price 22,165 gp; Weight 25 lbs."
 		],
@@ -4815,7 +4815,7 @@
 		"weight": 40,
 		"header": [
 			"Stalwart Breastplate",
-			"Source ~`Mythic Adventures pg. 143`~",
+			"Source [Mythic Adventures pg. 143](source:Mythic Adventures)",
 			"Aura strong abjuration CL 13th",
 			"Slot armor; Price 22,350 gp; Weight 40 lbs."
 		],
@@ -4837,7 +4837,7 @@
 		"weight": 20,
 		"header": [
 			"Celestial Armor",
-			"Source ~`Ultimate Equipment pg. 125`~, ~`PRPG Core Rulebook pg. 464`~",
+			"Source [Ultimate Equipment pg. 125](source:Ultimate Equipment), [PRPG Core Rulebook pg. 464](source:PRPG Core Rulebook)",
 			"Aura faint transmutation [good] CL 5th",
 			"Slot armor; Price 22,400 gp; Weight 20 lbs."
 		],
@@ -4855,7 +4855,7 @@
 		"slot": "armor",
 		"weight": 35,
 		"header": [
-			"Source ~`Dragonslayer's Handbook pg. 30`~",
+			"Source [Dragonslayer's Handbook pg. 30](source:Dragonslayer's Handbook)",
 			"Aura strong conjuration and divination CL 18th",
 			"Slot armor; Price 22,400 gp; Weight 35 lbs."
 		],
@@ -4874,7 +4874,7 @@
 		"weight": 50,
 		"header": [
 			"Armiger's Armor",
-			"Source ~`Melee Tactics Toolbox pg. 22`~",
+			"Source [Melee Tactics Toolbox pg. 22](source:Melee Tactics Toolbox)",
 			"Aura strong abjuration CL 13th",
 			"Slot armor; Price 22,500 gp; Weight 50 lbs."
 		],
@@ -4893,7 +4893,7 @@
 		"weight": 45,
 		"header": [
 			"Ghost Mirror Armor",
-			"Source ~`Pathfinder #51: The Hungry Storm pg. 62`~",
+			"Source [Pathfinder #51: The Hungry Storm pg. 62](source:Pathfinder #51: The Hungry Storm)",
 			"Aura strong abjuration and transmutation CL 15th",
 			"Slot armor; Price 22,675 gp; Weight 45 lbs."
 		],
@@ -4912,7 +4912,7 @@
 		"weight": 25,
 		"header": [
 			"Armor of the Pious",
-			"Source ~`Pathfinder #74: Sword of Valor pg. 62`~",
+			"Source [Pathfinder #74: Sword of Valor pg. 62](source:Pathfinder #74: Sword of Valor)",
 			"Aura moderate abjuration [good] CL 9th",
 			"Slot armor; Price 23,300 gp; Weight 25 lbs."
 		],
@@ -4931,7 +4931,7 @@
 		"weight": 25,
 		"header": [
 			"Goblin Plate (Goblin)",
-			"Source ~`Inner Sea Races pg. 224`~",
+			"Source [Inner Sea Races pg. 224](source:Inner Sea Races)",
 			"Aura faint evocation CL 5th",
 			"Slot armor; Price 23,650 gp; Weight 25 lbs."
 		],
@@ -4954,7 +4954,7 @@
 		"weight": 30,
 		"header": [
 			"Buccaneer's Breastplate",
-			"Source ~`Ultimate Equipment pg. 124`~, ~`Advanced Player's Guide pg. 284`~",
+			"Source [Ultimate Equipment pg. 124](source:Ultimate Equipment), [Advanced Player's Guide pg. 284](source:Advanced Player's Guide)",
 			"Aura moderate transmutation CL 9th",
 			"Slot armor; Price 23,850 gp; Weight 30 lbs."
 		],
@@ -4972,7 +4972,7 @@
 		"slot": "armor",
 		"weight": 15,
 		"header": [
-			"Source ~`Dragonslayer's Handbook pg. 30`~",
+			"Source [Dragonslayer's Handbook pg. 30](source:Dragonslayer's Handbook)",
 			"Aura moderate transmutation CL 11th",
 			"Slot armor; Price 24,120 gp; Weight 15 lbs."
 		],
@@ -4991,7 +4991,7 @@
 		"weight": 30,
 		"header": [
 			"Purgatory's Cowl",
-			"Source ~`Planar Adventures pg. 47`~",
+			"Source [Planar Adventures pg. 47](source:Planar Adventures)",
 			"Aura moderate abjuration and necromancy CL 11th",
 			"Slot armor; Price 24,175 gp; Weight 30 lbs."
 		],
@@ -5010,7 +5010,7 @@
 		"weight": 20,
 		"header": [
 			"Aldori Dueling Armor",
-			"Source ~`Armor Master's Handbook pg. 27`~",
+			"Source [Armor Master's Handbook pg. 27](source:Armor Master's Handbook)",
 			"Aura moderate illusion and transmutation CL 9th",
 			"Slot armor; Price 24,200 gp; Weight 20 lbs."
 		],
@@ -5032,7 +5032,7 @@
 		"weight": 50,
 		"header": [
 			"Plate Armor of the Deep",
-			"Source ~`Ultimate Equipment pg. 128`~, ~`PRPG Core Rulebook pg. 464`~",
+			"Source [Ultimate Equipment pg. 128](source:Ultimate Equipment), [PRPG Core Rulebook pg. 464](source:PRPG Core Rulebook)",
 			"Aura moderate abjuration CL 11th",
 			"Slot armor; Price 24,650 gp; Weight 50 lbs."
 		],
@@ -5051,15 +5051,15 @@
 		"weight": 50,
 		"header": [
 			"Suit of Inverted Jade",
-			"Source ~`Pathfinder #139: The Dead Road pg. 70`~",
+			"Source [Pathfinder #139: The Dead Road pg. 70](source:Pathfinder #139: The Dead Road)",
 			"Aura strong necromancy CL 14th",
 			"Slot armor; Price 25,000 gp; Weight 50 lbs."
 		],
 		"description": [
-			"Originating in ancient Minkai, the typical jade burial suit consists of several hundred jade plaques joined with gold wire, carefully inscribed with prayers to ~`Tsukiyo`~, the Tian-Min god of the moon, spirits, and preservation. Jade is believed to have preservative properties, and many ancient Tian royals were buried in jade suits.",
-			"By disassembling and inverting the plaques and replacing Tsukiyo's name with that of his brother ~`Fumeiyoshi`~, god of graves, one clever ru-shi learned how to give the impression of death instead of life. A character wearing a suit of inverted jade gains a +3 profane bonus on saving throws against disease, mind-affecting effects, poison, sleep, and stunning. The wearer has the aura of an undead for the purposes of divination spells and effects, and unintelligent undead perceive the wearer as a fellow undead. The wearer, however, becomes vulnerable to effects that target or deal additional damage to undead (such as ~`searing light`~). A suit of inverted jade otherwise functions as +3 stone lamellar."
+			"Originating in ancient Minkai, the typical jade burial suit consists of several hundred jade plaques joined with gold wire, carefully inscribed with prayers to [Tsukiyo][unknown:Tsukiyo), the Tian-Min god of the moon, spirits, and preservation. Jade is believed to have preservative properties, and many ancient Tian royals were buried in jade suits.",
+			"By disassembling and inverting the plaques and replacing Tsukiyo's name with that of his brother [Fumeiyoshi][unknown:Fumeiyoshi), god of graves, one clever ru-shi learned how to give the impression of death instead of life. A character wearing a suit of inverted jade gains a +3 profane bonus on saving throws against disease, mind-affecting effects, poison, sleep, and stunning. The wearer has the aura of an undead for the purposes of divination spells and effects, and unintelligent undead perceive the wearer as a fellow undead. The wearer, however, becomes vulnerable to effects that target or deal additional damage to undead (such as [searing light][unknown:searing light)). A suit of inverted jade otherwise functions as +3 stone lamellar."
 		],
-		"construction": "Requirements ~`Craft Magic Arms and Armor`~, ~`undead anatomy II`~; Price 12,500 gp"
+		"construction": "Requirements [Craft Magic Arms and Armor][unknown:Craft Magic Arms and Armor), [undead anatomy II][unknown:undead anatomy II); Price 12,500 gp"
 	},
 	"Spiritwalk Armor": {
 		"itemname": "Spiritwalk Armor",
@@ -5071,7 +5071,7 @@
 		"weight": 15,
 		"header": [
 			"Spiritwalk Armor",
-			"Source ~`Mythic Adventures pg. 142`~",
+			"Source [Mythic Adventures pg. 142](source:Mythic Adventures)",
 			"Aura strong illusion and transmutation CL 11th",
 			"Slot armor; Price 25,160 gp; Weight 15 lbs."
 		],
@@ -5093,7 +5093,7 @@
 		"weight": 30,
 		"header": [
 			"Breastplate of Command",
-			"Source ~`Ultimate Equipment pg. 124`~, ~`PRPG Core Rulebook pg. 464`~",
+			"Source [Ultimate Equipment pg. 124](source:Ultimate Equipment), [PRPG Core Rulebook pg. 464](source:PRPG Core Rulebook)",
 			"Aura strong enchantment CL 15th",
 			"Slot armor; Price 25,400 gp; Weight 30 lbs."
 		],
@@ -5115,7 +5115,7 @@
 		"weight": 35,
 		"header": [
 			"Forsaken Banded Mail",
-			"Source ~`Ultimate Equipment pg. 126`~, ~`Advanced Player's Guide pg. 284`~",
+			"Source [Ultimate Equipment pg. 126](source:Ultimate Equipment), [Advanced Player's Guide pg. 284](source:Advanced Player's Guide)",
 			"Aura moderate evocation CL 11th",
 			"Slot armor; Price 25,400 gp; Weight 35 lbs."
 		],
@@ -5134,7 +5134,7 @@
 		"weight": 15,
 		"header": [
 			"Armor of the Tireless Warrior",
-			"Source ~`Pathfinder #53: Tide of Honor pg. 60`~",
+			"Source [Pathfinder #53: Tide of Honor pg. 60](source:Pathfinder #53: Tide of Honor)",
 			"Aura moderate necromancy CL 9th",
 			"Slot armor; Price 25,900 gp; Weight 15 lbs."
 		],
@@ -5153,7 +5153,7 @@
 		"weight": 5,
 		"header": [
 			"Mail of Sly Steps (Halfling)",
-			"Source ~`Inner Sea Races pg. 225`~",
+			"Source [Inner Sea Races pg. 225](source:Inner Sea Races)",
 			"Aura moderate transmutation CL 6th",
 			"Slot armor; Price 25,900 gp; Weight 5 lbs."
 		],
@@ -5176,7 +5176,7 @@
 		"weight": 25,
 		"header": [
 			"Mithral Full Plate of Speed",
-			"Source ~`Ultimate Equipment pg. 128`~, ~`PRPG Core Rulebook pg. 464`~",
+			"Source [Ultimate Equipment pg. 128](source:Ultimate Equipment), [PRPG Core Rulebook pg. 464](source:PRPG Core Rulebook)",
 			"Aura faint transmutation CL 5th",
 			"Slot armor; Price 26,500 gp; Weight 25 lbs."
 		],
@@ -5195,7 +5195,7 @@
 		"weight": 25,
 		"header": [
 			"Panoply of the Fierani Knight (Elf)",
-			"Source ~`Inner Sea Races pg. 225`~",
+			"Source [Inner Sea Races pg. 225](source:Inner Sea Races)",
 			"Aura moderate abjuration CL 7th",
 			"Slot armor; Price 26,500 gp; Weight 25 lbs."
 		],
@@ -5215,7 +5215,7 @@
 		"weight": 75,
 		"header": [
 			"Tunnel Defender Stoneplate",
-			"Source ~`Inner Sea Combat pg. 53`~",
+			"Source [Inner Sea Combat pg. 53](source:Inner Sea Combat)",
 			"Aura moderate conjuration CL 9th",
 			"Slot armor; Price 26,700 gp; Weight 75 lbs."
 		],
@@ -5236,7 +5236,7 @@
 		"weight": 25,
 		"header": [
 			"Vibrant Frog Hide",
-			"Source ~`Down the Blighted Path pg. 63`~",
+			"Source [Down the Blighted Path pg. 63](source:Down the Blighted Path)",
 			"Aura moderate transmutation CL 7th",
 			"Slot armor; Price 28,165 gp; Weight 25 lbs."
 		],
@@ -5257,7 +5257,7 @@
 		"weight": 25,
 		"header": [
 			"Celestial Plate Armor",
-			"Source ~`Pathfinder #11: Skeletons of Scarwall pg. 29`~",
+			"Source [Pathfinder #11: Skeletons of Scarwall pg. 29](source:Pathfinder #11: Skeletons of Scarwall)",
 			"Aura faint transmutation (good) CL 8th",
 			"Slot armor; Price 28,650 gp; Weight 25 lbs."
 		],
@@ -5276,7 +5276,7 @@
 		"weight": 20,
 		"header": [
 			"Blackjacket",
-			"Source ~`Inner Sea Combat pg. 50`~",
+			"Source [Inner Sea Combat pg. 50](source:Inner Sea Combat)",
 			"Aura moderate enchantment CL 6th",
 			"Slot armor; Price 28,700 gp; Weight 20 lbs."
 		],
@@ -5296,7 +5296,7 @@
 		"weight": 25,
 		"header": [
 			"Warden of the Woods",
-			"Source ~`Ultimate Equipment pg. 129`~",
+			"Source [Ultimate Equipment pg. 129](source:Ultimate Equipment)",
 			"Aura moderate transmutation CL 11th",
 			"Slot armor; Price 29,350 gp; Weight 25 lbs."
 		],
@@ -5316,7 +5316,7 @@
 		"slot": "body",
 		"weight": 1,
 		"header": [
-			"Source ~`Kobolds of Golarion pg. 30`~",
+			"Source [Kobolds of Golarion pg. 30](source:Kobolds of Golarion)",
 			"Aura faint abjuration CL 3rd",
 			"Slot body; Price 30,000 gp; Weight 1 lb."
 		],
@@ -5335,7 +5335,7 @@
 		"weight": 15,
 		"header": [
 			"Alchemist's Suit",
-			"Source ~`Melee Tactics Toolbox pg. 22`~",
+			"Source [Melee Tactics Toolbox pg. 22](source:Melee Tactics Toolbox)",
 			"Aura varies CL 5th",
 			"Slot armor; Price 30,250 gp; Weight 15 lbs."
 		],
@@ -5354,7 +5354,7 @@
 		"weight": 20,
 		"header": [
 			"Skyplate Armor",
-			"Source ~`Pathfinder #83: The Slave Trenches of Hakotep pg. 63`~",
+			"Source [Pathfinder #83: The Slave Trenches of Hakotep pg. 63](source:Pathfinder #83: The Slave Trenches of Hakotep)",
 			"Aura moderate transmutation CL 11th",
 			"Slot armor; Price 30,300 gp; Weight 20 lbs."
 		],
@@ -5373,7 +5373,7 @@
 		"weight": 30,
 		"header": [
 			"Flowing Fortress Armor",
-			"Source ~`Down the Blighted Path pg. 61`~",
+			"Source [Down the Blighted Path pg. 61](source:Down the Blighted Path)",
 			"Aura moderate evocation CL 10th",
 			"Slot armor; Price 30,350 gp; Weight 30 lbs."
 		],
@@ -5395,7 +5395,7 @@
 		"weight": 50,
 		"header": [
 			"Maiden's Panoply",
-			"Source ~`Adventurer's Guide pg. 87`~",
+			"Source [Adventurer's Guide pg. 87](source:Adventurer's Guide)",
 			"Aura moderate abjuration and divination CL 11th",
 			"Slot armor; Price 30,650 gp; Weight 50 lbs."
 		],
@@ -5414,7 +5414,7 @@
 		"weight": 15,
 		"header": [
 			"Diviner's Blight",
-			"Source ~`Ultimate Intrigue pg. 237`~",
+			"Source [Ultimate Intrigue pg. 237](source:Ultimate Intrigue)",
 			"Aura strong illusion CL 13th",
 			"Slot armor; Price 31,160 gp; Weight 15 lbs."
 		],
@@ -5435,7 +5435,7 @@
 		"weight": 75,
 		"header": [
 			"Man Mountain Armor",
-			"Source ~`The Harrow Handbook pg. 31`~",
+			"Source [The Harrow Handbook pg. 31](source:The Harrow Handbook)",
 			"Aura strong transmutation CL 15th",
 			"Slot armor; Price 32,350 gp; Weight 75 lbs."
 		],
@@ -5454,7 +5454,7 @@
 		"weight": 30,
 		"header": [
 			"Scarab Breastplate",
-			"Source ~`Ultimate Equipment pg. 129`~",
+			"Source [Ultimate Equipment pg. 129](source:Ultimate Equipment)",
 			"Aura moderate transmutation CL 8th",
 			"Slot armor; Price 32,350 gp; Weight 30 lbs."
 		],
@@ -5475,7 +5475,7 @@
 		"weight": 15,
 		"header": [
 			"Advocate's Armor",
-			"Source ~`Melee Tactics Toolbox pg. 22`~",
+			"Source [Melee Tactics Toolbox pg. 22](source:Melee Tactics Toolbox)",
 			"Aura moderate enchantment CL 11th",
 			"Slot armor; Price 33,160 gp; Weight 15 lbs."
 		],
@@ -5494,7 +5494,7 @@
 		"weight": 60,
 		"header": [
 			"Clockwork Armor",
-			"Source ~`Armor Master's Handbook pg. 28`~",
+			"Source [Armor Master's Handbook pg. 28](source:Armor Master's Handbook)",
 			"Aura moderate transmutation CL 11th",
 			"Slot armor; Price 33,350 gp; Weight 60 lbs."
 		],
@@ -5515,7 +5515,7 @@
 		"weight": 15,
 		"header": [
 			"Eel Skin Armor",
-			"Source ~`Pathfinder #58: Island of Empty Eyes pg. 60`~",
+			"Source [Pathfinder #58: Island of Empty Eyes pg. 60](source:Pathfinder #58: Island of Empty Eyes)",
 			"Aura moderate evocation CL 6th",
 			"Slot armor; Price 33,810 gp; Weight 15 lbs."
 		],
@@ -5534,7 +5534,7 @@
 		"weight": 50,
 		"header": [
 			"Full Plate of the Corpse",
-			"Source ~`Advanced Class Guide pg. 211`~",
+			"Source [Advanced Class Guide pg. 211](source:Advanced Class Guide)",
 			"Aura faint abjuration CL 5th",
 			"Slot armor; Price 35,650 gp; Weight 50 lbs."
 		],
@@ -5553,7 +5553,7 @@
 		"weight": 30,
 		"header": [
 			"Snailplate",
-			"Source ~`Misfit Monsters Redeemed pg. 30`~",
+			"Source [Misfit Monsters Redeemed pg. 30](source:Misfit Monsters Redeemed)",
 			"Aura strong abjuration CL 14th",
 			"Slot armor; Price 36,000 gp; Weight 30 lbs."
 		],
@@ -5571,7 +5571,7 @@
 		"slot": "armor",
 		"weight": 50,
 		"header": [
-			"Source ~`Champions of Purity pg. 31`~",
+			"Source [Champions of Purity pg. 31](source:Champions of Purity)",
 			"Aura moderate evocation and transmutation CL 9th",
 			"Slot armor; Price 36,130 gp; Weight 50 lbs."
 		],
@@ -5593,7 +5593,7 @@
 		"weight": 25,
 		"header": [
 			"Giant-Hide Armor",
-			"Source ~`Ultimate Equipment pg. 127`~, ~`Advanced Player's Guide pg. 284`~",
+			"Source [Ultimate Equipment pg. 127](source:Ultimate Equipment), [Advanced Player's Guide pg. 284](source:Advanced Player's Guide)",
 			"Aura strong transmutation CL 15th",
 			"Slot armor; Price ogre (39,165 gp), hill giant (46,665 gp), stone, fire, or frost giant (54,165 gp), troll (59,165 gp), cloud giant (69,165 gp), storm giant (79,665 gp); Weight 25 lbs."
 		],
@@ -5613,7 +5613,7 @@
 		"weight": 50,
 		"header": [
 			"Crag Linnorm Plate",
-			"Source ~`Inner Sea Combat pg. 50`~",
+			"Source [Inner Sea Combat pg. 50](source:Inner Sea Combat)",
 			"Aura moderate necromancy CL 11th",
 			"Slot armor; Price 41,300 gp; Weight 50 lbs."
 		],
@@ -5633,7 +5633,7 @@
 		"weight": 40,
 		"header": [
 			"Hallowed Chain, Greater (Varisian)",
-			"Source ~`Inner Sea Races pg. 225`~",
+			"Source [Inner Sea Races pg. 225](source:Inner Sea Races)",
 			"Aura moderate conjuration CL 11th",
 			"Slot armor; Price 43,300 gp; Weight 40 lbs."
 		],
@@ -5653,7 +5653,7 @@
 		"weight": 12,
 		"header": [
 			"Hamatula Hide",
-			"Source ~`Ultimate Equipment pg. 127`~",
+			"Source [Ultimate Equipment pg. 127](source:Ultimate Equipment)",
 			"Aura moderate transmutation CL 9th",
 			"Slot armor; Price 44,215 gp; Weight 12 lbs."
 		],
@@ -5676,7 +5676,7 @@
 		"weight": 25,
 		"header": [
 			"Giant-Hide Armor",
-			"Source ~`Ultimate Equipment pg. 127`~, ~`Advanced Player's Guide pg. 284`~",
+			"Source [Ultimate Equipment pg. 127](source:Ultimate Equipment), [Advanced Player's Guide pg. 284](source:Advanced Player's Guide)",
 			"Aura strong transmutation CL 15th",
 			"Slot armor; Price ogre (39,165 gp), hill giant (46,665 gp), stone, fire, or frost giant (54,165 gp), troll (59,165 gp), cloud giant (69,165 gp), storm giant (79,665 gp); Weight 25 lbs."
 		],
@@ -5696,7 +5696,7 @@
 		"weight": 5,
 		"header": [
 			"Wizard's Mail",
-			"Source ~`Melee Tactics Toolbox pg. 23`~",
+			"Source [Melee Tactics Toolbox pg. 23](source:Melee Tactics Toolbox)",
 			"Aura strong conjuration CL 15th",
 			"Slot armor; Price 52,100 gp; Weight 5 lbs."
 		],
@@ -5718,7 +5718,7 @@
 		"weight": 50,
 		"header": [
 			"Demon Armor",
-			"Source ~`Ultimate Equipment pg. 125`~, ~`PRPG Core Rulebook pg. 464`~",
+			"Source [Ultimate Equipment pg. 125](source:Ultimate Equipment), [PRPG Core Rulebook pg. 464](source:PRPG Core Rulebook)",
 			"Aura strong necromancy [evil] CL 13th",
 			"Slot armor; Price 52,260 gp; Weight 50 lbs."
 		],
@@ -5737,7 +5737,7 @@
 		"slot": "armor",
 		"weight": 30,
 		"header": [
-			"Source ~`Champions of Purity pg. 31`~",
+			"Source [Champions of Purity pg. 31](source:Champions of Purity)",
 			"Aura moderate abjuration, faint conjuration CL 7th",
 			"Slot armor; Price 52,900 gp; Weight 30 lbs."
 		],
@@ -5756,7 +5756,7 @@
 		"weight": 25,
 		"header": [
 			"Nightskin",
-			"Source ~`Pathfinder #30: The Twice-Damned Prince pg. 68`~",
+			"Source [Pathfinder #30: The Twice-Damned Prince pg. 68](source:Pathfinder #30: The Twice-Damned Prince)",
 			"Aura moderate illusion (evil) CL 10th",
 			"Slot armor; Price 53,100 gp; Weight 25 lbs."
 		],
@@ -5776,7 +5776,7 @@
 		"weight": 25,
 		"header": [
 			"Tiger's Hide",
-			"Source ~`Blood of the Moon pg. 23`~",
+			"Source [Blood of the Moon pg. 23](source:Blood of the Moon)",
 			"Aura moderate abjuration and transmutation CL 10th",
 			"Slot armor; Price 54,115 gp; Weight 25 lbs."
 		],
@@ -5798,7 +5798,7 @@
 		"weight": 25,
 		"header": [
 			"Giant-Hide Armor",
-			"Source ~`Ultimate Equipment pg. 127`~, ~`Advanced Player's Guide pg. 284`~",
+			"Source [Ultimate Equipment pg. 127](source:Ultimate Equipment), [Advanced Player's Guide pg. 284](source:Advanced Player's Guide)",
 			"Aura strong transmutation CL 15th",
 			"Slot armor; Price ogre (39,165 gp), hill giant (46,665 gp), stone, fire, or frost giant (54,165 gp), troll (59,165 gp), cloud giant (69,165 gp), storm giant (79,665 gp); Weight 25 lbs."
 		],
@@ -5821,7 +5821,7 @@
 		"weight": 25,
 		"header": [
 			"Giant-Hide Armor",
-			"Source ~`Ultimate Equipment pg. 127`~, ~`Advanced Player's Guide pg. 284`~",
+			"Source [Ultimate Equipment pg. 127](source:Ultimate Equipment), [Advanced Player's Guide pg. 284](source:Advanced Player's Guide)",
 			"Aura strong transmutation CL 15th",
 			"Slot armor; Price ogre (39,165 gp), hill giant (46,665 gp), stone, fire, or frost giant (54,165 gp), troll (59,165 gp), cloud giant (69,165 gp), storm giant (79,665 gp); Weight 25 lbs."
 		],
@@ -5841,7 +5841,7 @@
 		"weight": 6,
 		"header": [
 			"Ebon Thorn",
-			"Source ~`Lost Treasures pg. 26`~",
+			"Source [Lost Treasures pg. 26](source:Lost Treasures)",
 			"Aura moderate enchantment and necromancy CL 7th",
 			"Slot armor; Price 60,500 gp; Weight 6 lbs."
 		],
@@ -5863,7 +5863,7 @@
 		"weight": 50,
 		"header": [
 			"Gelugon Plate",
-			"Source ~`Adventurer's Guide pg. 97`~, ~`Inner Sea Combat pg. 51`~",
+			"Source [Adventurer's Guide pg. 97](source:Adventurer's Guide), [Inner Sea Combat pg. 51](source:Inner Sea Combat)",
 			"Aura moderate conjuration and transmutation CL 7th",
 			"Slot armor; Price 60,950 gp; Weight 50 lbs."
 		],
@@ -5883,7 +5883,7 @@
 		"weight": 40,
 		"header": [
 			"Mail of Malevolence",
-			"Source ~`Ultimate Equipment pg. 127`~",
+			"Source [Ultimate Equipment pg. 127](source:Ultimate Equipment)",
 			"Aura moderate abjuration CL 10th",
 			"Slot armor; Price 61,300 gp; Weight 40 lbs."
 		],
@@ -5903,7 +5903,7 @@
 		"weight": 50,
 		"header": [
 			"Coruscating Raiment",
-			"Source ~`Planar Adventures pg. 47`~",
+			"Source [Planar Adventures pg. 47](source:Planar Adventures)",
 			"Aura strong transmutation CL 13th",
 			"Slot armor; Price 63,150 gp; Weight 50 lbs."
 		],
@@ -5922,7 +5922,7 @@
 		"weight": 45,
 		"header": [
 			"O-Yoroi of Imperial Rule",
-			"Source ~`Pathfinder #54: The Empty Throne pg. 60`~",
+			"Source [Pathfinder #54: The Empty Throne pg. 60](source:Pathfinder #54: The Empty Throne)",
 			"Aura strong evocation CL 13th",
 			"Slot armor; Price 68,400 gp; Weight 45 lbs."
 		],
@@ -5944,7 +5944,7 @@
 		"weight": 25,
 		"header": [
 			"Giant-Hide Armor",
-			"Source ~`Ultimate Equipment pg. 127`~, ~`Advanced Player's Guide pg. 284`~",
+			"Source [Ultimate Equipment pg. 127](source:Ultimate Equipment), [Advanced Player's Guide pg. 284](source:Advanced Player's Guide)",
 			"Aura strong transmutation CL 15th",
 			"Slot armor; Price ogre (39,165 gp), hill giant (46,665 gp), stone, fire, or frost giant (54,165 gp), troll (59,165 gp), cloud giant (69,165 gp), storm giant (79,665 gp); Weight 25 lbs."
 		],
@@ -5967,7 +5967,7 @@
 		"weight": 25,
 		"header": [
 			"Giant-Hide Armor",
-			"Source ~`Ultimate Equipment pg. 127`~, ~`Advanced Player's Guide pg. 284`~",
+			"Source [Ultimate Equipment pg. 127](source:Ultimate Equipment), [Advanced Player's Guide pg. 284](source:Advanced Player's Guide)",
 			"Aura strong transmutation CL 15th",
 			"Slot armor; Price ogre (39,165 gp), hill giant (46,665 gp), stone, fire, or frost giant (54,165 gp), troll (59,165 gp), cloud giant (69,165 gp), storm giant (79,665 gp); Weight 25 lbs."
 		],
@@ -5990,7 +5990,7 @@
 		"weight": 50,
 		"header": [
 			"Daystar Half-Plate",
-			"Source ~`Ultimate Equipment pg. 125`~, ~`Advanced Player's Guide pg. 284`~",
+			"Source [Ultimate Equipment pg. 125](source:Ultimate Equipment), [Advanced Player's Guide pg. 284](source:Advanced Player's Guide)",
 			"Aura strong evocation CL 15th",
 			"Slot armor; Price 81,250 gp; Weight 50 lbs."
 		],
@@ -6009,7 +6009,7 @@
 		"weight": 15,
 		"header": [
 			"Xill Carapace Armor",
-			"Source ~`Inner Sea Combat pg. 53`~",
+			"Source [Inner Sea Combat pg. 53](source:Inner Sea Combat)",
 			"Aura strong transmutation CL 13th",
 			"Slot armor; Price 83,050 gp; Weight 15 lbs."
 		],
@@ -6028,7 +6028,7 @@
 		"slot": "armor",
 		"weight": 50,
 		"header": [
-			"Source ~`Chronicle of the Righteous pg. 52`~",
+			"Source [Chronicle of the Righteous pg. 52](source:Chronicle of the Righteous)",
 			"Aura strong evocation [fire] CL 13th",
 			"Slot armor; Price 100,050 gp; Weight 50 lbs."
 		],
@@ -6048,7 +6048,7 @@
 		"weight": 50,
 		"header": [
 			"Gelugon Armor",
-			"Source ~`Melee Tactics Toolbox pg. 23`~",
+			"Source [Melee Tactics Toolbox pg. 23](source:Melee Tactics Toolbox)",
 			"Aura strong abjuration and evocation CL 13th",
 			"Slot armor; Price 117,650 gp; Weight 50 lbs."
 		],
@@ -6067,7 +6067,7 @@
 		"weight": 50,
 		"header": [
 			"Invincible Armor",
-			"Source ~`Ultimate Equipment pg. 127`~",
+			"Source [Ultimate Equipment pg. 127](source:Ultimate Equipment)",
 			"Aura strong abjuration CL 13th",
 			"Slot armor; Price 137,650 gp; Weight 50 lbs."
 		],
@@ -6086,7 +6086,7 @@
 		"weight": 50,
 		"header": [
 			"Thanatotic Plate",
-			"Source ~`Book of the Damned pg. 197`~",
+			"Source [Book of the Damned pg. 197](source:Book of the Damned)",
 			"Aura strong abjuration [evil] CL 15th",
 			"Slot armor; Price 141,240 gp; Weight 50 lbs."
 		],
@@ -6107,41 +6107,21 @@
 		"weight": 50,
 		"header": [
 			"Prismatic Plate",
-			"Source ~`Ultimate Equipment pg. 128`~",
+			"Source [Ultimate Equipment pg. 128](source:Ultimate Equipment)",
 			"Aura strong abjuration CL 13th",
 			"Slot armor; Price 160,650 gp; Weight 50 lbs."
 		],
 		"description": [
 			"This resplendent suit of +3 full plate shimmers and shifts between all the colors of the rainbow. A single color dominates the others at any given time. As a swift action, the wearer can change the dominant color. This color remains dominant until the wearer changes it again. When the wearer of prismatic plate is struck by a prismatic spray, or when he passes through a prismatic sphere or prismatic wall, he ignores the effect that matches the dominant armor color. He receives no special protection against the other colors of those spells. In addition to this benefit, each color provides a unique type of protection.",
-			{
-				"table": true,
-				"rows": [
-					[
-						"Color"
-					],
-					[
-						"Red"
-					],
-					[
-						"Orange"
-					],
-					[
-						"Yellow"
-					],
-					[
-						"Green"
-					],
-					[
-						"Blue"
-					],
-					[
-						"Indigo"
-					],
-					[
-						"Violet"
-					]
-				]
-			}
+			"| Color |",
+			"|---|",
+			"| Red |",
+			"| Orange |",
+			"| Yellow |",
+			"| Green |",
+			"| Blue |",
+			"| Indigo |",
+			"| Violet |"
 		],
 		"construction": "Requirements Craft Magic Arms and Armor, dimensional anchor, mind blank, neutralize poison, resist energy, stone to flesh, and prismatic sphere, prismatic spray, or prismatic wall; Price 81,150 gp"
 	},
@@ -6155,7 +6135,7 @@
 		"weight": 15,
 		"header": [
 			"Living Steel Heavy Shield",
-			"Source ~`Ultimate Equipment pg. 132`~",
+			"Source [Ultimate Equipment pg. 132](source:Ultimate Equipment)",
 			"Aura no aura (nonmagical) CL",
 			"Slot shield; Price 120 gp; Weight 15 lbs."
 		],
@@ -6176,7 +6156,7 @@
 		"weight": 2.5,
 		"header": [
 			"Darkwood Buckler",
-			"Source ~`Ultimate Equipment pg. 131`~, ~`PRPG Core Rulebook pg. 467`~",
+			"Source [Ultimate Equipment pg. 131](source:Ultimate Equipment), [PRPG Core Rulebook pg. 467](source:PRPG Core Rulebook)",
 			"Aura no aura (nonmagical) CL",
 			"Slot shield; Price 203 gp; Weight 2-1/2 lbs."
 		],
@@ -6197,7 +6177,7 @@
 		"weight": 5,
 		"header": [
 			"Darkwood Shield",
-			"Source ~`Ultimate Equipment pg. 131`~, ~`PRPG Core Rulebook pg. 467`~",
+			"Source [Ultimate Equipment pg. 131](source:Ultimate Equipment), [PRPG Core Rulebook pg. 467](source:PRPG Core Rulebook)",
 			"Aura no aura (nonmagical) CL",
 			"Slot shield; Price 257 gp; Weight 5 lbs."
 		],
@@ -6218,7 +6198,7 @@
 		"weight": 5,
 		"header": [
 			"Mithral Heavy Shield",
-			"Source ~`Ultimate Equipment pg. 132`~, ~`PRPG Core Rulebook pg. 467`~",
+			"Source [Ultimate Equipment pg. 132](source:Ultimate Equipment), [PRPG Core Rulebook pg. 467](source:PRPG Core Rulebook)",
 			"Aura no aura (nonmagical) CL",
 			"Slot shield; Price 1,020 gp; Weight 5 lbs."
 		],
@@ -6236,7 +6216,7 @@
 		"weight": 15,
 		"header": [
 			"Zombie Skin Shield",
-			"Source ~`Ultimate Equipment pg. 133`~",
+			"Source [Ultimate Equipment pg. 133](source:Ultimate Equipment)",
 			"Aura moderate abjuration CL 5th",
 			"Slot shield; Price 2,159 gp; Weight 15 lbs."
 		],
@@ -6255,7 +6235,7 @@
 		"weight": 15,
 		"header": [
 			"Breach Barrier",
-			"Source ~`Down the Blighted Path pg. 60`~",
+			"Source [Down the Blighted Path pg. 60](source:Down the Blighted Path)",
 			"Aura faint abjuration CL 3rd",
 			"Slot none; Price 2,370 gp; Weight 15 lbs."
 		],
@@ -6274,7 +6254,7 @@
 		"weight": 10,
 		"header": [
 			"Driftwood Shield",
-			"Source ~`Inner Sea Gods pg. 251`~",
+			"Source [Inner Sea Gods pg. 251](source:Inner Sea Gods)",
 			"Aura faint divination and transmutation CL 3rd",
 			"Slot shield; Price 2,527 gp; Weight 10 lbs."
 		],
@@ -6296,7 +6276,7 @@
 		"weight": 5,
 		"header": [
 			"Caster's Shield",
-			"Source ~`Ultimate Equipment pg. 130`~, ~`PRPG Core Rulebook pg. 467`~",
+			"Source [Ultimate Equipment pg. 130](source:Ultimate Equipment), [PRPG Core Rulebook pg. 467](source:PRPG Core Rulebook)",
 			"Aura moderate abjuration CL 6th",
 			"Slot shield; Price 3,153 gp; Weight 5 lbs."
 		],
@@ -6316,7 +6296,7 @@
 		"weight": 6,
 		"header": [
 			"Bronze Whisperer's Shield",
-			"Source ~`Inner Sea Gods pg. 250`~",
+			"Source [Inner Sea Gods pg. 250](source:Inner Sea Gods)",
 			"Aura faint evocation and transmutation CL 3rd",
 			"Slot shield; Price 4,279 gp; Weight 6 lbs."
 		],
@@ -6335,7 +6315,7 @@
 		"weight": 6,
 		"header": [
 			"Scarab Shield",
-			"Source ~`Pathfinder #79: The Half-Dead City pg. 61`~",
+			"Source [Pathfinder #79: The Half-Dead City pg. 61](source:Pathfinder #79: The Half-Dead City)",
 			"Aura faint conjuration CL 3rd",
 			"Slot shield; Price 4,399 gp; Weight 6 lbs."
 		],
@@ -6356,7 +6336,7 @@
 		"weight": 5,
 		"header": [
 			"Burglar's Buckler",
-			"Source ~`Ultimate Equipment pg. 130`~",
+			"Source [Ultimate Equipment pg. 130](source:Ultimate Equipment)",
 			"Aura faint transmutation CL 5th",
 			"Slot shield; Price 4,655 gp; Weight 5 lbs."
 		],
@@ -6376,7 +6356,7 @@
 		"weight": 15,
 		"header": [
 			"Challenging Shield",
-			"Source ~`Armor Master's Handbook pg. 31`~",
+			"Source [Armor Master's Handbook pg. 31](source:Armor Master's Handbook)",
 			"Aura faint abjuration CL 1st",
 			"Slot shield; Price 5,170 gp; Weight 15 lbs."
 		],
@@ -6398,7 +6378,7 @@
 		"weight": 15,
 		"header": [
 			"Spined Shield",
-			"Source ~`Ultimate Equipment pg. 133`~, ~`PRPG Core Rulebook pg. 467`~",
+			"Source [Ultimate Equipment pg. 133](source:Ultimate Equipment), [PRPG Core Rulebook pg. 467](source:PRPG Core Rulebook)",
 			"Aura moderate evocation CL 6th",
 			"Slot shield; Price 5,580 gp; Weight 15 lbs."
 		],
@@ -6417,7 +6397,7 @@
 		"weight": 5,
 		"header": [
 			"Okeno Madu",
-			"Source ~`Inner Sea Combat pg. 52`~",
+			"Source [Inner Sea Combat pg. 52](source:Inner Sea Combat)",
 			"Aura faint enchantment CL 3rd",
 			"Slot shield; Price 5,590 gp; Weight 5 lbs."
 		],
@@ -6437,7 +6417,7 @@
 		"weight": 6,
 		"header": [
 			"Lockpick Shield",
-			"Source ~`Ultimate Intrigue pg. 237`~",
+			"Source [Ultimate Intrigue pg. 237](source:Ultimate Intrigue)",
 			"Aura moderate transmutation CL 11th",
 			"Slot shield; Price 7,159 gp; Weight 6 lbs."
 		],
@@ -6457,7 +6437,7 @@
 		"weight": 15,
 		"header": [
 			"Dragonslayer's Shield",
-			"Source ~`Ultimate Equipment pg. 131`~",
+			"Source [Ultimate Equipment pg. 131](source:Ultimate Equipment)",
 			"Aura faint abjuration CL 5th",
 			"Slot shield; Price 7,170 gp; Weight 15 lbs."
 		],
@@ -6476,7 +6456,7 @@
 		"weight": 6,
 		"header": [
 			"Shield of Sunrise",
-			"Source ~`Undead Slayer's Handbook pg. 29`~",
+			"Source [Undead Slayer's Handbook pg. 29](source:Undead Slayer's Handbook)",
 			"Aura moderate evocation CL 5th",
 			"Slot shield; Price 7,659 gp; Weight 6 lbs."
 		],
@@ -6496,7 +6476,7 @@
 		"weight": 10,
 		"header": [
 			"Shield of Covered Retreat",
-			"Source ~`Magical Marketplace pg. 7`~",
+			"Source [Magical Marketplace pg. 7](source:Magical Marketplace)",
 			"Aura moderate abjuration CL 8th",
 			"Slot shield; Price 8,157 gp; Weight 10 lbs."
 		],
@@ -6515,7 +6495,7 @@
 		"weight": 8,
 		"header": [
 			"Clawhand Shield",
-			"Source ~`Advanced Class Guide pg. 211`~",
+			"Source [Advanced Class Guide pg. 211](source:Advanced Class Guide)",
 			"Aura moderate necromancy CL 9th",
 			"Slot shield; Price 8,158 gp; Weight 8 lbs."
 		],
@@ -6535,7 +6515,7 @@
 		"weight": 15,
 		"header": [
 			"Collapsible Tower",
-			"Source ~`Ultimate Equipment pg. 131`~",
+			"Source [Ultimate Equipment pg. 131](source:Ultimate Equipment)",
 			"Aura moderate transmutation CL 6th",
 			"Slot shield; Price 8,170 gp; Weight 15 lbs."
 		],
@@ -6554,7 +6534,7 @@
 		"weight": 15,
 		"header": [
 			"Bulette Bulwark",
-			"Source ~`Dungeon Denizens Revisited pg. 7`~",
+			"Source [Dungeon Denizens Revisited pg. 7](source:Dungeon Denizens Revisited)",
 			"Aura faint abjuration CL 9th",
 			"Slot shield; Price 9,157 gp; Weight 15 lbs."
 		],
@@ -6576,7 +6556,7 @@
 		"weight": 15,
 		"header": [
 			"Lion's Shield",
-			"Source ~`Ultimate Equipment pg. 132`~, ~`PRPG Core Rulebook pg. 467`~",
+			"Source [Ultimate Equipment pg. 132](source:Ultimate Equipment), [PRPG Core Rulebook pg. 467](source:PRPG Core Rulebook)",
 			"Aura moderate conjuration CL 10th",
 			"Slot shield; Price 9,170 gp; Weight 15 lbs."
 		],
@@ -6595,7 +6575,7 @@
 		"weight": 15,
 		"header": [
 			"Maiden's Aegis",
-			"Source ~`Adventurer's Guide pg. 87`~",
+			"Source [Adventurer's Guide pg. 87](source:Adventurer's Guide)",
 			"Aura moderate abjuration CL 6th",
 			"Slot shield; Price 9,170 gp; Weight 15 lbs."
 		],
@@ -6614,7 +6594,7 @@
 		"weight": 4,
 		"header": [
 			"Brilliant Bulwark",
-			"Source ~`Blood of Shadows pg. 21`~",
+			"Source [Blood of Shadows pg. 21](source:Blood of Shadows)",
 			"Aura moderate evocation CL 10th",
 			"Slot none; Price 9,655 gp; Weight 4 lbs."
 		],
@@ -6633,7 +6613,7 @@
 		"weight": 5,
 		"header": [
 			"Caster's Shield, Greater",
-			"Source ~`Ultimate Equipment pg. 131`~",
+			"Source [Ultimate Equipment pg. 131](source:Ultimate Equipment)",
 			"Aura moderate abjuration CL 11th",
 			"Slot shield; Price 10,153 gp; Weight 5 lbs."
 		],
@@ -6652,7 +6632,7 @@
 		"weight": 2,
 		"header": [
 			"Gunner's Buckler",
-			"Source ~`Armor Master's Handbook pg. 31`~",
+			"Source [Armor Master's Handbook pg. 31](source:Armor Master's Handbook)",
 			"Aura faint abjuration CL 3rd",
 			"Slot shield; Price 10,155 gp; Weight 2 lbs."
 		],
@@ -6671,7 +6651,7 @@
 		"weight": 6,
 		"header": [
 			"Stalker's Fang (Shoanti)",
-			"Source ~`Inner Sea Races pg. 225`~",
+			"Source [Inner Sea Races pg. 225](source:Inner Sea Races)",
 			"Aura faint transmutation CL 5th",
 			"Slot shield; Price 11,462 gp; Weight 6 lbs."
 		],
@@ -6694,7 +6674,7 @@
 		"weight": 7,
 		"header": [
 			"Celestial Shield",
-			"Source ~`Ultimate Equipment pg. 131`~, ~`Advanced Race Guide pg. 88`~",
+			"Source [Ultimate Equipment pg. 131](source:Ultimate Equipment), [Advanced Race Guide pg. 88](source:Advanced Race Guide)",
 			"Aura moderate evocation CL 7th",
 			"Slot shield; Price 13,170 gp; Weight 7 lbs."
 		],
@@ -6713,15 +6693,15 @@
 		"weight": 5,
 		"header": [
 			"Starsling Buckler",
-			"Source ~`Seers of the Drowned City pg. 55`~",
+			"Source [Seers of the Drowned City pg. 55](source:Seers of the Drowned City)",
 			"Aura moderate evocation and transmutation CL 6th",
 			"Slot none; Price 14,000 gp; Weight 5 lbs."
 		],
 		"description": [
 			"This +2 buckler is emblazoned with a swirl of stars and comets. Many of the Saoc Brethren commissioned these bucklers as markers of high social standing; they had them each decorated with unique depictions of constellations, comets, phases of the moon, or other distinctive astronomical sights, and used them as much as decor as for defense.",
-			"As a swift action, the user of a starsling buckler can cause the face to illuminate and whirl to life, duplicating the effect of the ~`light`~ spell. The stars, comets, and sun begin to glow as they lift off the shield and spin around in a brilliant display. They can be fired from the spinning celestial vortex as if via a +2 sling (the user is considered proficient with the sling for purposes of resolving such attacks from a starsling buckler). All feats and proficiencies related to slings apply to stars fired from a starsling buckler. These sling attacks cannot be made as offhand weapon attacks. The shield contains five sling stars' once all five have been fired, new sling stars are restored to the shield automatically after 1 minute."
+			"As a swift action, the user of a starsling buckler can cause the face to illuminate and whirl to life, duplicating the effect of the [light][unknown:light) spell. The stars, comets, and sun begin to glow as they lift off the shield and spin around in a brilliant display. They can be fired from the spinning celestial vortex as if via a +2 sling (the user is considered proficient with the sling for purposes of resolving such attacks from a starsling buckler). All feats and proficiencies related to slings apply to stars fired from a starsling buckler. These sling attacks cannot be made as offhand weapon attacks. The shield contains five sling stars' once all five have been fired, new sling stars are restored to the shield automatically after 1 minute."
 		],
-		"construction": "Requirements ~`Craft Magic Arms and Armor`~, ~`light`~, ~`magic stone`~; Price 7,000 gp"
+		"construction": "Requirements [Craft Magic Arms and Armor][unknown:Craft Magic Arms and Armor), [light][unknown:light), [magic stone][unknown:magic stone); Price 7,000 gp"
 	},
 	"Phalanx Shield": {
 		"itemname": "Phalanx Shield",
@@ -6733,7 +6713,7 @@
 		"weight": 30,
 		"header": [
 			"Phalanx Shield",
-			"Source ~`Armor Master's Handbook pg. 31`~",
+			"Source [Armor Master's Handbook pg. 31](source:Armor Master's Handbook)",
 			"Aura moderate evocation CL 7th",
 			"Slot shield; Price 14,080 gp; Weight 30 lbs."
 		],
@@ -6752,7 +6732,7 @@
 		"weight": 10,
 		"header": [
 			"Maelstrom Shield",
-			"Source ~`Ultimate Equipment pg. 132`~",
+			"Source [Ultimate Equipment pg. 132](source:Ultimate Equipment)",
 			"Aura faint evocation CL 5th",
 			"Slot shield; Price 14,170 gp; Weight 10 lbs."
 		],
@@ -6771,7 +6751,7 @@
 		"weight": 15,
 		"header": [
 			"Spiteful Shield",
-			"Source ~`Book of the Damned pg. 197`~",
+			"Source [Book of the Damned pg. 197](source:Book of the Damned)",
 			"Aura moderate illusion CL 8th",
 			"Slot shield; Price 14,170 gp; Weight 15 lbs."
 		],
@@ -6790,7 +6770,7 @@
 		"weight": 10,
 		"header": [
 			"Volcanic Shield",
-			"Source ~`Ultimate Equipment pg. 133`~",
+			"Source [Ultimate Equipment pg. 133](source:Ultimate Equipment)",
 			"Aura faint evocation CL 5th",
 			"Slot shield; Price 14,170 gp; Weight 10 lbs."
 		],
@@ -6809,7 +6789,7 @@
 		"weight": 15,
 		"header": [
 			"Surefooted Shield",
-			"Source ~`Pathfinder #94: Ice Tomb of the Giant Queen pg. 18`~",
+			"Source [Pathfinder #94: Ice Tomb of the Giant Queen pg. 18](source:Pathfinder #94: Ice Tomb of the Giant Queen)",
 			"Aura moderate abjuration CL 6th",
 			"Slot shield; Price 14,200 gp; Weight 15 lbs."
 		],
@@ -6829,7 +6809,7 @@
 		"weight": 10,
 		"header": [
 			"Tempest Shield",
-			"Source ~`Ultimate Equipment pg. 133`~",
+			"Source [Ultimate Equipment pg. 133](source:Ultimate Equipment)",
 			"Aura moderate evocation CL 6th",
 			"Slot shield; Price 15,170 gp; Weight 10 lbs."
 		],
@@ -6851,7 +6831,7 @@
 		"weight": 45,
 		"header": [
 			"Battlement Shield",
-			"Source ~`Ultimate Equipment pg. 130`~, ~`Advanced Player's Guide pg. 286`~",
+			"Source [Ultimate Equipment pg. 130](source:Ultimate Equipment), [Advanced Player's Guide pg. 286](source:Advanced Player's Guide)",
 			"Aura moderate conjuration CL 9th",
 			"Slot shield; Price 16,180 gp; Weight 45 lbs."
 		],
@@ -6870,7 +6850,7 @@
 		"weight": 5,
 		"header": [
 			"Shieldmarshal's Ward",
-			"Source ~`Mythic Origins pg. 18`~",
+			"Source [Mythic Origins pg. 18](source:Mythic Origins)",
 			"Aura moderate abjuration CL 9th",
 			"Slot shield; Price 17,155 gp; Weight 5 lbs."
 		],
@@ -6891,7 +6871,7 @@
 		"weight": 45,
 		"header": [
 			"Guard of Man",
-			"Source ~`Inner Sea Combat pg. 51`~",
+			"Source [Inner Sea Combat pg. 51](source:Inner Sea Combat)",
 			"Aura strong abjuration CL 15th",
 			"Slot shield; Price 17,180 gp; Weight 45 lbs."
 		],
@@ -6914,7 +6894,7 @@
 		"weight": 10,
 		"header": [
 			"Winged Shield",
-			"Source ~`Ultimate Equipment pg. 133`~, ~`PRPG Core Rulebook pg. 467`~",
+			"Source [Ultimate Equipment pg. 133](source:Ultimate Equipment), [PRPG Core Rulebook pg. 467](source:PRPG Core Rulebook)",
 			"Aura faint transmutation CL 5th",
 			"Slot shield; Price 17,257 gp; Weight 10 lbs."
 		],
@@ -6933,7 +6913,7 @@
 		"weight": 15,
 		"header": [
 			"Shield of the Mazeborn",
-			"Source ~`Melee Tactics Toolbox pg. 23`~",
+			"Source [Melee Tactics Toolbox pg. 23](source:Melee Tactics Toolbox)",
 			"Aura faint divination and enchantment CL 5th",
 			"Slot shield; Price 18,170 gp; Weight 15 lbs."
 		],
@@ -6955,7 +6935,7 @@
 		"weight": 15,
 		"header": [
 			"Bloodfeast Shield",
-			"Source ~`Monster Codex pg. 237`~, ~`Pathfinder #48: Shadows of Gallowspire pg. 65`~",
+			"Source [Monster Codex pg. 237](source:Monster Codex), [Pathfinder #48: Shadows of Gallowspire pg. 65](source:Pathfinder #48: Shadows of Gallowspire)",
 			"Aura strong necromancy CL 12th",
 			"Slot shield; Price 18,770 gp; Weight 15 lbs."
 		],
@@ -6975,7 +6955,7 @@
 		"weight": 10,
 		"header": [
 			"Broadside Bulwark",
-			"Source ~`Inner Sea Combat pg. 50`~",
+			"Source [Inner Sea Combat pg. 50](source:Inner Sea Combat)",
 			"Aura moderate evocation CL 10th",
 			"Slot shield; Price 19,007 gp; Weight 10 lbs."
 		],
@@ -6996,7 +6976,7 @@
 		"weight": 10,
 		"header": [
 			"Avalanche Shield",
-			"Source ~`Ultimate Equipment pg. 130`~",
+			"Source [Ultimate Equipment pg. 130](source:Ultimate Equipment)",
 			"Aura strong evocation CL 12th",
 			"Slot shield; Price 19,170 gp; Weight 10 lbs."
 		],
@@ -7018,7 +6998,7 @@
 		"weight": 45,
 		"header": [
 			"Fortress Shield",
-			"Source ~`Ultimate Equipment pg. 132`~, ~`Advanced Player's Guide pg. 286`~",
+			"Source [Ultimate Equipment pg. 132](source:Ultimate Equipment), [Advanced Player's Guide pg. 286](source:Advanced Player's Guide)",
 			"Aura moderate conjuration CL 11th",
 			"Slot shield; Price 19,180 gp; Weight 45 lbs."
 		],
@@ -7037,7 +7017,7 @@
 		"weight": 5,
 		"header": [
 			"Mwangi Spirit Shield",
-			"Source ~`Sargava, the Lost Colony pg. 29`~",
+			"Source [Sargava, the Lost Colony pg. 29](source:Sargava, the Lost Colony)",
 			"Aura strong transmutation CL 15th",
 			"Slot shield; Price 19,393 gp; Weight 5 lbs."
 		],
@@ -7057,7 +7037,7 @@
 		"weight": 6,
 		"header": [
 			"Lyrune-Quah Klar",
-			"Source ~`Inner Sea Combat pg. 52`~",
+			"Source [Inner Sea Combat pg. 52](source:Inner Sea Combat)",
 			"Aura moderate illusion CL 7th",
 			"Slot shield; Price 19,912 gp; Weight 6 lbs."
 		],
@@ -7077,7 +7057,7 @@
 		"weight": 15,
 		"header": [
 			"Wyrmslayer's Shield",
-			"Source ~`Ultimate Equipment pg. 133`~",
+			"Source [Ultimate Equipment pg. 133](source:Ultimate Equipment)",
 			"Aura moderate abjuration CL 9th",
 			"Slot shield; Price 20,170 gp; Weight 15 lbs."
 		],
@@ -7096,19 +7076,14 @@
 		"weight": 5,
 		"header": [
 			"Shield of Hags",
-			"Source ~`People of the River pg. 29`~",
+			"Source [People of the River pg. 29](source:People of the River)",
 			"Aura moderate necromancy CL 7th",
 			"Slot shield; Price 20,273 gp; Weight 5 lbs."
 		],
 		"description": [
 			"Found with disturbing frequency amid treasure caches in the wilderness of Loric Fells, this +1 light wooden shield has what appears to be a human face stretched across its front, with the weathered skin held in place by thick iron studs. Three times per day on command, the open mouth of the face can emit one of the two following effects: ",
-			{
-				"list": true,
-				"items": [
-					"A burst of terrified screams that causes creatures in a 30-foot cone to become panicked as if by the fear spell. A successful DC 16 Will save causes a creature to become shaken for 1 round instead.",
-					"A tortured voice pleading for help. Anyone within 60 feet of the shield hears the voice in her own language, spoken as if by a member of her own race."
-				]
-			}
+			"- A burst of terrified screams that causes creatures in a 30-foot cone to become panicked as if by the fear spell. A successful DC 16 Will save causes a creature to become shaken for 1 round instead.",
+			"- A tortured voice pleading for help. Anyone within 60 feet of the shield hears the voice in her own language, spoken as if by a member of her own race."
 		],
 		"construction": "Requirements Craft Magic Arms and Armor, fear, tongues; Price 10,713 gp"
 	},
@@ -7122,7 +7097,7 @@
 		"weight": 10,
 		"header": [
 			"Elephant Shield",
-			"Source ~`Melee Tactics Toolbox pg. 23`~",
+			"Source [Melee Tactics Toolbox pg. 23](source:Melee Tactics Toolbox)",
 			"Aura moderate evocation and transmutation CL 6th",
 			"Slot shield; Price 21,340 gp; Weight 10 lbs."
 		],
@@ -7141,7 +7116,7 @@
 		"weight": 15,
 		"header": [
 			"Bastion of the Inheritor",
-			"Source ~`Mythic Adventures pg. 142`~",
+			"Source [Mythic Adventures pg. 142](source:Mythic Adventures)",
 			"Aura faint abjuration CL 5th",
 			"Slot shield; Price 22,170 gp; Weight 15 lbs."
 		],
@@ -7160,7 +7135,7 @@
 		"weight": 15,
 		"header": [
 			"Spell Ward Tower Shield",
-			"Source ~`Ultimate Equipment pg. 133`~",
+			"Source [Ultimate Equipment pg. 133](source:Ultimate Equipment)",
 			"Aura strong abjuration CL 15th",
 			"Slot shield; Price 25,180 gp; Weight 15 lbs."
 		],
@@ -7179,7 +7154,7 @@
 		"weight": 15,
 		"header": [
 			"Icon of Order",
-			"Source ~`Divine Anthology pg. 6`~",
+			"Source [Divine Anthology pg. 6](source:Divine Anthology)",
 			"Aura moderate abjuration CL 9th",
 			"Slot shield; Price 26,170 gp; Weight 15 lbs."
 		],
@@ -7198,7 +7173,7 @@
 		"weight": 30,
 		"header": [
 			"Lens of the Dark Tapestry",
-			"Source ~`Armor Master's Handbook pg. 31`~",
+			"Source [Armor Master's Handbook pg. 31](source:Armor Master's Handbook)",
 			"Aura moderate evocation CL 7th",
 			"Slot shield; Price 29,170 gp; Weight 30 lbs."
 		],
@@ -7217,7 +7192,7 @@
 		"weight": 15,
 		"header": [
 			"Quick Block Buckler",
-			"Source ~`Ultimate Equipment pg. 132`~",
+			"Source [Ultimate Equipment pg. 132](source:Ultimate Equipment)",
 			"Aura strong abjuration CL 14th",
 			"Slot shield; Price 36,155 gp; Weight 15 lbs."
 		],
@@ -7236,7 +7211,7 @@
 		"weight": 15,
 		"header": [
 			"Belligerent Shield",
-			"Source ~`Ultimate Equipment pg. 130`~",
+			"Source [Ultimate Equipment pg. 130](source:Ultimate Equipment)",
 			"Aura strong transmutation CL 12th",
 			"Slot shield; Price 36,170 gp; Weight 15 lbs."
 		],
@@ -7255,7 +7230,7 @@
 		"weight": 6,
 		"header": [
 			"Storval's Fang",
-			"Source ~`Disciple's Doctrine pg. 30`~",
+			"Source [Disciple's Doctrine pg. 30](source:Disciple's Doctrine)",
 			"Aura moderate transmutation CL 6th",
 			"Slot none; Price 38,312 gp; Weight 6 lbs."
 		],
@@ -7275,7 +7250,7 @@
 		"weight": 22,
 		"header": [
 			"Force Tower",
-			"Source ~`Ultimate Equipment pg. 132`~",
+			"Source [Ultimate Equipment pg. 132](source:Ultimate Equipment)",
 			"Aura moderate evocation CL 7th",
 			"Slot shield; Price 46,030 gp; Weight 22 lbs."
 		],
@@ -7297,7 +7272,7 @@
 		"weight": 15,
 		"header": [
 			"Absorbing Shield",
-			"Source ~`Ultimate Equipment pg. 130`~, ~`PRPG Core Rulebook pg. 467`~",
+			"Source [Ultimate Equipment pg. 130](source:Ultimate Equipment), [PRPG Core Rulebook pg. 467](source:PRPG Core Rulebook)",
 			"Aura strong transmutation CL 17th",
 			"Slot shield; Price 50,170 gp; Weight 15 lbs."
 		],
@@ -7319,7 +7294,7 @@
 		"weight": 45,
 		"header": [
 			"Elysian Shield",
-			"Source ~`Ultimate Equipment pg. 132`~, ~`Advanced Race Guide pg. 89`~",
+			"Source [Ultimate Equipment pg. 132](source:Ultimate Equipment), [Advanced Race Guide pg. 89](source:Advanced Race Guide)",
 			"Aura strong conjuration CL 13th",
 			"Slot shield; Price 52,620 gp; Weight 45 lbs."
 		],
@@ -7338,7 +7313,7 @@
 		"weight": 15,
 		"header": [
 			"Savith's Iron",
-			"Source ~`Lost Treasures pg. 51`~",
+			"Source [Lost Treasures pg. 51](source:Lost Treasures)",
 			"Aura strong abjuration and transmutation CL 13th",
 			"Slot none; Price 59,170 gp; Weight 15 lbs."
 		],
@@ -7357,7 +7332,7 @@
 		"weight": 45,
 		"header": [
 			"Spellbane Shield",
-			"Source ~`Melee Tactics Toolbox pg. 23`~",
+			"Source [Melee Tactics Toolbox pg. 23](source:Melee Tactics Toolbox)",
 			"Aura strong abjuration CL 15th",
 			"Slot shield; Price 79,180 gp; Weight 45 lbs."
 		],
@@ -7375,7 +7350,7 @@
 		"slot": "shield",
 		"weight": 23,
 		"header": [
-			"Source ~`Champions of Purity pg. 30`~",
+			"Source [Champions of Purity pg. 30](source:Champions of Purity)",
 			"Aura strong abjuration CL 12th",
 			"Slot shield; Price 120,830 gp; Weight 23 lbs."
 		],

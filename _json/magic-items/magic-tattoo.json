@@ -9,7 +9,7 @@
 		"weight": 0,
 		"header": [
 			"Spell Tattoo",
-			"Source ~`Inner Sea Magic pg. 16`~",
+			"Source [Inner Sea Magic pg. 16](source:Inner Sea Magic)",
 			"Aura varies CL varies",
 			"Slot none; Price varies; Weight -"
 		],
@@ -28,7 +28,7 @@
 		"weight": 0,
 		"header": [
 			"Hypnotic Tattoo",
-			"Source ~`Magical Marketplace pg. 5`~",
+			"Source [Magical Marketplace pg. 5](source:Magical Marketplace)",
 			"Aura faint enchantment CL 1st",
 			"Slot none; Price 900 gp; Weight -"
 		],
@@ -48,7 +48,7 @@
 		"weight": 0,
 		"header": [
 			"Runeward Tattoo",
-			"Source ~`Magical Marketplace pg. 5`~",
+			"Source [Magical Marketplace pg. 5](source:Magical Marketplace)",
 			"Aura faint divination CL 1st",
 			"Slot none; Price 1,000 gp; Weight -"
 		],
@@ -67,7 +67,7 @@
 		"weight": 0,
 		"header": [
 			"Radiant Tattoo",
-			"Source ~`Dirty Tactics Toolbox pg. 27`~",
+			"Source [Dirty Tactics Toolbox pg. 27](source:Dirty Tactics Toolbox)",
 			"Aura faint evocation CL 5th",
 			"Slot none; Price 1,500 gp; Weight -"
 		],
@@ -89,7 +89,7 @@
 		"weight": 0,
 		"header": [
 			"Kin's Face Tattoo",
-			"Source ~`Pathfinder #91: Battle of Bloodmarch Hills pg. 61`~, ~`Bastards of Golarion pg. 11`~",
+			"Source [Pathfinder #91: Battle of Bloodmarch Hills pg. 61](source:Pathfinder #91: Battle of Bloodmarch Hills), [Bastards of Golarion pg. 11][source:Bastards of Golarion)",
 			"Aura faint illusion CL 5th",
 			"Slot none; Price 1,600 gp; Weight -"
 		],
@@ -109,7 +109,7 @@
 		"weight": 0,
 		"header": [
 			"Serpentine Tattoo",
-			"Source ~`Magical Marketplace pg. 5`~",
+			"Source [Magical Marketplace pg. 5](source:Magical Marketplace)",
 			"Aura faint conjuration CL 1st",
 			"Slot none; Price 2,000 gp; Weight -"
 		],
@@ -128,7 +128,7 @@
 		"weight": 0,
 		"header": [
 			"Caster's Tattoo",
-			"Source ~`Inner Sea Magic pg. 16`~",
+			"Source [Inner Sea Magic pg. 16](source:Inner Sea Magic)",
 			"Aura faint evocation CL 5th",
 			"Slot none; Price 6,000 gp (Lesser), 21,000 gp (Normal), 48,000 gp (Greater); Weight -"
 		],
@@ -148,7 +148,7 @@
 		"weight": 0,
 		"header": [
 			"Watchtower Tattoo",
-			"Source ~`Feast of Dust pg. 5`~",
+			"Source [Feast of Dust pg. 5](source:Feast of Dust)",
 			"Aura moderate abjuration CL 8th",
 			"Slot none; Price 9,500 gp; Weight -"
 		],
@@ -168,7 +168,7 @@
 		"weight": 0,
 		"header": [
 			"Reservoir Tattoo",
-			"Source ~`Inner Sea Magic pg. 16`~",
+			"Source [Inner Sea Magic pg. 16](source:Inner Sea Magic)",
 			"Aura moderate transmutation CL 7th",
 			"Slot none; Price 10,000 gp; Weight -"
 		],
@@ -187,7 +187,7 @@
 		"weight": 0,
 		"header": [
 			"Weapon Tattoo",
-			"Source ~`Dirty Tactics Toolbox pg. 27`~",
+			"Source [Dirty Tactics Toolbox pg. 27](source:Dirty Tactics Toolbox)",
 			"Aura faint conjuration CL 5th",
 			"Slot none; Price 10,000 gp; Weight -"
 		],
@@ -206,7 +206,7 @@
 		"weight": 0,
 		"header": [
 			"Mesmerizing Tattoo",
-			"Source ~`Blood of Shadows pg. 12`~",
+			"Source [Blood of Shadows pg. 12](source:Blood of Shadows)",
 			"Aura faint enchantment CL 5th",
 			"Slot none; Price 10,800 gp; Weight -"
 		],
@@ -226,7 +226,7 @@
 		"weight": 0,
 		"header": [
 			"Animal Totem Tattoo",
-			"Source ~`Magical Marketplace pg. 5`~",
+			"Source [Magical Marketplace pg. 5](source:Magical Marketplace)",
 			"Aura faint transmutation CL 5th",
 			"Slot none; Price 12,000 gp; Weight -"
 		],
@@ -245,7 +245,7 @@
 		"weight": 0,
 		"header": [
 			"Swirling Smoke Tattoo",
-			"Source ~`Blood of Shadows pg. 12`~",
+			"Source [Blood of Shadows pg. 12](source:Blood of Shadows)",
 			"Aura faint enchantment CL 5th",
 			"Slot none; Price 12,500 gp; Weight -"
 		],
@@ -264,7 +264,7 @@
 		"weight": 0,
 		"header": [
 			"Viper Tattoo",
-			"Source ~`Dirty Tactics Toolbox pg. 27`~",
+			"Source [Dirty Tactics Toolbox pg. 27](source:Dirty Tactics Toolbox)",
 			"Aura faint conjuration CL 5th",
 			"Slot none; Price 18,000 gp; Weight -"
 		],
@@ -295,7 +295,7 @@
 		"weight": 0,
 		"header": [
 			"Penumbra Tattoo",
-			"Source ~`Blood of Shadows pg. 12`~",
+			"Source [Blood of Shadows pg. 12](source:Blood of Shadows)",
 			"Aura faint evocation CL 3rd",
 			"Slot none; Price 24,000 gp; Weight -"
 		],

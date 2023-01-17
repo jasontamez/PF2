@@ -9,7 +9,7 @@
 		"weight": 50,
 		"header": [
 			"Grabbing Vines",
-			"Source ~`Ultimate Wilderness pg. 248`~",
+			"Source [Ultimate Wilderness pg. 248](source:Ultimate Wilderness)",
 			"Aura faint transmutation CL 5th",
 			"Slot none; Price 2,000 gp; Weight 50 lbs."
 		],
@@ -29,7 +29,7 @@
 		"weight": 500,
 		"header": [
 			"Tree of Knowledge",
-			"Source ~`Ultimate Wilderness pg. 250`~",
+			"Source [Ultimate Wilderness pg. 250](source:Ultimate Wilderness)",
 			"Aura faint divination CL 3rd",
 			"Slot none; Price 3,000 gp; Weight 500 lbs."
 		],
@@ -49,7 +49,7 @@
 		"weight": 500,
 		"header": [
 			"Restful Birch",
-			"Source ~`Ultimate Wilderness pg. 249`~",
+			"Source [Ultimate Wilderness pg. 249](source:Ultimate Wilderness)",
 			"Aura faint conjuration CL 5th",
 			"Slot none; Price 4,000 gp; Weight 500 lbs."
 		],
@@ -70,7 +70,7 @@
 		"weight": 500,
 		"header": [
 			"Fireapple Tree",
-			"Source ~`Ultimate Wilderness pg. 248`~",
+			"Source [Ultimate Wilderness pg. 248](source:Ultimate Wilderness)",
 			"Aura faint evocation CL 5th",
 			"Slot none; Price 5,000 gp; Weight 500 lbs."
 		],
@@ -90,15 +90,15 @@
 		"weight": 50,
 		"header": [
 			"Cleanthistle",
-			"Source ~`Wilderness Origins pg. 16`~",
+			"Source [Wilderness Origins pg. 16](source:Wilderness Origins)",
 			"Aura moderate conjuration CL 9th",
 			"Slot none; Price 7,200 gp; Weight 50 lbs."
 		],
 		"description": [
-			"The needles of this bitter, black herb grow in Numeria and are used to alleviate the effects of radiation poisoning. A creature that drinks tea made from the needles of cleanthistle is affected by a ~`neutralize poison`~ effect (CL 9th) except that the effect can neutralize only the oldest poison affecting the creature.",
+			"The needles of this bitter, black herb grow in Numeria and are used to alleviate the effects of radiation poisoning. A creature that drinks tea made from the needles of cleanthistle is affected by a [neutralize poison][unknown:neutralize poison) effect (CL 9th) except that the effect can neutralize only the oldest poison affecting the creature.",
 			"A cleanthistle stalk has a single 26-week growing period, through spring and summer. During this period, enough needles for a single dose of tea regrow 4 days after being harvested. The needles remain potent enough to brew for 1 week after being harvested."
 		],
-		"construction": "Requirements ~`Cultivate Magic Plant`~, ~`neutralize poison`~, cultivator must have 5 ranks in Knowledge (nature); Cost 3,600 gp"
+		"construction": "Requirements [Cultivate Magic Plant][unknown:Cultivate Magic Plant), [neutralize poison][unknown:neutralize poison), cultivator must have 5 ranks in Knowledge (nature); Cost 3,600 gp"
 	},
 	"Goodberry Bush": {
 		"itemname": "Goodberry Bush",
@@ -110,7 +110,7 @@
 		"weight": 50,
 		"header": [
 			"Goodberry Bush",
-			"Source ~`Ultimate Wilderness pg. 248`~",
+			"Source [Ultimate Wilderness pg. 248](source:Ultimate Wilderness)",
 			"Aura faint transmutation CL 1st",
 			"Slot none; Price 8,000 gp; Weight 50 lbs."
 		],
@@ -130,7 +130,7 @@
 		"weight": 50,
 		"header": [
 			"Salvation Cactus",
-			"Source ~`Ultimate Wilderness pg. 249`~",
+			"Source [Ultimate Wilderness pg. 249](source:Ultimate Wilderness)",
 			"Aura faint conjuration CL 3rd",
 			"Slot none; Price 8,000 gp; Weight 50 lbs."
 		],
@@ -150,7 +150,7 @@
 		"weight": 500,
 		"header": [
 			"Palm of Decadent Feasts",
-			"Source ~`Ultimate Wilderness pg. 249`~",
+			"Source [Ultimate Wilderness pg. 249](source:Ultimate Wilderness)",
 			"Aura strong conjuration CL 11th",
 			"Slot none; Price 9,600 gp; Weight 500 lbs."
 		],
@@ -170,7 +170,7 @@
 		"weight": 5,
 		"header": [
 			"Breezeblown Dandelion",
-			"Source ~`Ultimate Wilderness pg. 25`~",
+			"Source [Ultimate Wilderness pg. 25](source:Ultimate Wilderness)",
 			"Aura faint transmutation CL 3rd",
 			"Slot none; Price 10,000 gp; Weight 5 lbs."
 		],
@@ -190,7 +190,7 @@
 		"weight": 50,
 		"header": [
 			"Ghostblossom",
-			"Source ~`Wilderness Origins pg. 16`~",
+			"Source [Wilderness Origins pg. 16](source:Wilderness Origins)",
 			"Aura moderate enchantment CL 10th",
 			"Slot none; Price 10,500 gp; Weight 50 lbs."
 		],
@@ -198,7 +198,7 @@
 			"The eyes of those who chew these pale white flowers widen and turn a milky white. The flowers send the user into a furious rage similar to that of a barbarian, granting a +2 morale bonus to Strength and Constitution, a +1 morale bonus on Will saves, and a -2 penalty to AC. These effects remain active for as long as she chews the flower, up to 1 minute. A creature can begin chewing ghostblossom as a move action and can continue to chew as a free action every round.",
 			"A ghostblossom vine flowers once daily through a single 13-week growing period every summer."
 		],
-		"construction": "Requirements ~`Cultivate Magic Plant`~, ~`rage`~, cultivator must have 3 ranks in Knowledge (nature); Cost 5,250 gp"
+		"construction": "Requirements [Cultivate Magic Plant][unknown:Cultivate Magic Plant), [rage][unknown:rage), cultivator must have 3 ranks in Knowledge (nature); Cost 5,250 gp"
 	},
 	"Acidic Lemon Tree": {
 		"itemname": "Acidic Lemon Tree",
@@ -210,7 +210,7 @@
 		"weight": 500,
 		"header": [
 			"Acidic Lemon Tree",
-			"Source ~`Ultimate Wilderness pg. 248`~",
+			"Source [Ultimate Wilderness pg. 248](source:Ultimate Wilderness)",
 			"Aura faint conjuration CL 3rd",
 			"Slot none; Price 12,000 gp; Weight 500 lbs."
 		],
@@ -230,7 +230,7 @@
 		"weight": 50,
 		"header": [
 			"Altitude Fern",
-			"Source ~`Ultimate Wilderness pg. 248`~",
+			"Source [Ultimate Wilderness pg. 248](source:Ultimate Wilderness)",
 			"Aura moderate abjuration CL 6th",
 			"Slot none; Price 12,000 gp; Weight 50 lbs."
 		],
@@ -250,7 +250,7 @@
 		"weight": 50,
 		"header": [
 			"Helping Hands Vine",
-			"Source ~`Ultimate Wilderness pg. 249`~",
+			"Source [Ultimate Wilderness pg. 249](source:Ultimate Wilderness)",
 			"Aura faint transmutation CL 5th",
 			"Slot none; Price 12,000 gp; Weight 50 lbs."
 		],
@@ -270,7 +270,7 @@
 		"weight": 50,
 		"header": [
 			"Sheltershrub",
-			"Source ~`Ultimate Wilderness pg. 250`~",
+			"Source [Ultimate Wilderness pg. 250](source:Ultimate Wilderness)",
 			"Aura faint abjuration CL 1st",
 			"Slot none; Price 12,000 gp; Weight 50 lbs."
 		],
@@ -290,15 +290,15 @@
 		"weight": 50,
 		"header": [
 			"Gravebane Petals",
-			"Source ~`Wilderness Origins pg. 16`~",
+			"Source [Wilderness Origins pg. 16](source:Wilderness Origins)",
 			"Aura faint necromancy CL 3rd",
 			"Slot none; Price 16,000 gp; Weight 50 lbs."
 		],
 		"description": [
-			"When packed tightly within the mouth of a corpse or undead creature, the deep red petals of the gravebane flower prevent any decay, as if the corpse were under the effects of ~`gentle repose`~, and they completely mask any stench with a sickly sweet fragrance. These effects persist for 1 month.",
+			"When packed tightly within the mouth of a corpse or undead creature, the deep red petals of the gravebane flower prevent any decay, as if the corpse were under the effects of [gentle repose][unknown:gentle repose), and they completely mask any stench with a sickly sweet fragrance. These effects persist for 1 month.",
 			"A single bush grows one new flower each day, and it takes 1 month to accumulate enough gravebane petals to preserve a single corpse. The plant has a 52-week growing period."
 		],
-		"construction": "Requirements ~`Cultivate Magic Plant`~, ~`rage`~, cultivator must have 3 ranks in Knowledge (nature); Cost 8,000 gp"
+		"construction": "Requirements [Cultivate Magic Plant][unknown:Cultivate Magic Plant), [rage][unknown:rage), cultivator must have 3 ranks in Knowledge (nature); Cost 8,000 gp"
 	},
 	"Tree of Woe": {
 		"itemname": "Tree of Woe",
@@ -310,7 +310,7 @@
 		"weight": 500,
 		"header": [
 			"Tree of Woe",
-			"Source ~`Ultimate Wilderness pg. 250`~",
+			"Source [Ultimate Wilderness pg. 250](source:Ultimate Wilderness)",
 			"Aura strong enchantment CL 11th",
 			"Slot none; Price 20,000 gp; Weight 500 lbs."
 		],
@@ -330,15 +330,15 @@
 		"weight": 50,
 		"header": [
 			"Ambrosial Lotus",
-			"Source ~`Wilderness Origins pg. 16`~",
+			"Source [Wilderness Origins pg. 16](source:Wilderness Origins)",
 			"Aura strong enchantment CL 12th",
 			"Slot none; Price 25,000 gp; Weight 50 lbs."
 		],
 		"description": [
-			"A creature who consumes an ambrosial lotus must succeed at a DC 17 Will save or be overtaken by such a state of total bliss so as to be almost oblivious to the world around him. The creature's Intelligence and Charisma scores drop to 1, and the creature can no longer cast spells, understand language, or communicate. These effects are permanent unless removed with a ~`heal`~, ~`limited wish`~, ~`miracle`~, or ~`wish`~ spell.",
+			"A creature who consumes an ambrosial lotus must succeed at a DC 17 Will save or be overtaken by such a state of total bliss so as to be almost oblivious to the world around him. The creature's Intelligence and Charisma scores drop to 1, and the creature can no longer cast spells, understand language, or communicate. These effects are permanent unless removed with a [heal][unknown:heal), [limited wish][unknown:limited wish), [miracle][unknown:miracle), or [wish][unknown:wish) spell.",
 			"An ambrosial lotus stalk grows one flower per day during its 13-week growing period in spring."
 		],
-		"construction": "Requirements ~`Cultivate Magic Plant`~, ~`feeblemind`~, cultivator must have 10 ranks in Knowledge (nature); Cost 12,500 gp"
+		"construction": "Requirements [Cultivate Magic Plant][unknown:Cultivate Magic Plant), [feeblemind][unknown:feeblemind), cultivator must have 10 ranks in Knowledge (nature); Cost 12,500 gp"
 	},
 	"Fishweed": {
 		"itemname": "Fishweed",
@@ -350,7 +350,7 @@
 		"weight": 50,
 		"header": [
 			"Fishweed",
-			"Source ~`Ultimate Wilderness pg. 248`~",
+			"Source [Ultimate Wilderness pg. 248](source:Ultimate Wilderness)",
 			"Aura faint transmutation CL 5th",
 			"Slot none; Price 30,000 gp; Weight 50 lbs."
 		],
@@ -370,7 +370,7 @@
 		"weight": 50,
 		"header": [
 			"Waterwalk Reeds",
-			"Source ~`Ultimate Wilderness pg. 250`~",
+			"Source [Ultimate Wilderness pg. 250](source:Ultimate Wilderness)",
 			"Aura faint transmutation CL 5th",
 			"Slot none; Price 30,000 gp; Weight 50 lbs."
 		],
@@ -390,7 +390,7 @@
 		"weight": 500,
 		"header": [
 			"Portal Oak",
-			"Source ~`Ultimate Wilderness pg. 249`~",
+			"Source [Ultimate Wilderness pg. 249](source:Ultimate Wilderness)",
 			"Aura moderate conjuration CL 9th",
 			"Slot none; Price 45,000 gp; Weight 500 lbs."
 		],
@@ -410,7 +410,7 @@
 		"weight": 500,
 		"header": [
 			"Poison Siphon Tree",
-			"Source ~`Ultimate Wilderness pg. 249`~",
+			"Source [Ultimate Wilderness pg. 249](source:Ultimate Wilderness)",
 			"Aura moderate conjuration CL 7th",
 			"Slot none; Price 56,000 gp; Weight 500 lbs."
 		],

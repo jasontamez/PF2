@@ -9,7 +9,7 @@
 		"weight": 1,
 		"header": [
 			"Waybread",
-			"Source ~`Elves of Golarion pg. 27`~",
+			"Source [Elves of Golarion pg. 27](source:Elves of Golarion)",
 			"Aura faint conjuration CL 6th",
 			"Slot none; Price 50 gp; Weight 1 lb."
 		],
@@ -28,7 +28,7 @@
 		"weight": 1,
 		"header": [
 			"Cheya Dumplings",
-			"Source ~`Elves of Golarion pg. 27`~",
+			"Source [Elves of Golarion pg. 27](source:Elves of Golarion)",
 			"Aura moderate transmutation CL 10th",
 			"Slot none; Price 300 gp; Weight 1 lb."
 		],
@@ -47,7 +47,7 @@
 		"weight": 1,
 		"header": [
 			"Leap Cake",
-			"Source ~`Elves of Golarion pg. 27`~",
+			"Source [Elves of Golarion pg. 27](source:Elves of Golarion)",
 			"Aura faint transmutation CL 5th",
 			"Slot none; Price 500 gp; Weight 1 lb."
 		],
@@ -66,7 +66,7 @@
 		"weight": 1,
 		"header": [
 			"Snowberry Fire Peppers",
-			"Source ~`Elves of Golarion pg. 27`~; Errata ~`Link 1`~",
+			"Source [Elves of Golarion pg. 27](source:Elves of Golarion); Errata",
 			"Aura faint abjuration CL 6th",
 			"Slot none; Price 600 gp; Weight 1 lb."
 		],
@@ -85,7 +85,7 @@
 		"weight": 1,
 		"header": [
 			"Buttered Sparrowfish Fillet",
-			"Source ~`Elves of Golarion pg. 26`~",
+			"Source [Elves of Golarion pg. 26](source:Elves of Golarion)",
 			"Aura faint transmutation CL 5th",
 			"Slot none; Price 900 gp; Weight 1 lb."
 		],
@@ -104,7 +104,7 @@
 		"weight": 1,
 		"header": [
 			"Sun-Dried Lantern Lemons",
-			"Source ~`Elves of Golarion pg. 27`~",
+			"Source [Elves of Golarion pg. 27](source:Elves of Golarion)",
 			"Aura faint evocation (light) CL 6th",
 			"Slot none; Price 900 gp; Weight 1 lb."
 		],
@@ -124,7 +124,7 @@
 		"weight": 0,
 		"header": [
 			"Calming Oils (Gozreh)",
-			"Source ~`Faiths of Balance pg. 26`~",
+			"Source [Faiths of Balance pg. 26](source:Faiths of Balance)",
 			"Aura faint abjuration CL 5th",
 			"Slot none; Price 1,000 gp; Weight -"
 		],
@@ -143,7 +143,7 @@
 		"weight": 0,
 		"header": [
 			"Hero's Brew",
-			"Source ~`Second Darkness Player's Guide pg. 25`~",
+			"Source [Second Darkness Player's Guide pg. 25](source:Second Darkness Player's Guide)",
 			"Aura faint enchantment CL 5th",
 			"Slot none; Price 1,400 gp; Weight -"
 		],
@@ -164,7 +164,7 @@
 		"weight": 1,
 		"header": [
 			"Newlife Soup",
-			"Source ~`Elves of Golarion pg. 27`~",
+			"Source [Elves of Golarion pg. 27](source:Elves of Golarion)",
 			"Aura moderate conjuration (healing) CL 10th",
 			"Slot none; Price 1,500 gp; Weight 1 lb."
 		],
@@ -183,7 +183,7 @@
 		"weight": 0,
 		"header": [
 			"Hellfire Infusion",
-			"Source ~`Tower of the Last Baron pg. 27`~",
+			"Source [Tower of the Last Baron pg. 27](source:Tower of the Last Baron)",
 			"Aura moderate enchantment CL 5th",
 			"Slot none; Price 1,900 gp; Weight -"
 		],
