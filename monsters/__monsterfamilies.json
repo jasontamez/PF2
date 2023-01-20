@@ -6,15 +6,15 @@
 			"Bestiary 2"
 		],
 		"members": [
-			"~`Agnoia`~",
-			"~`Akhana`~",
-			"~`Bythos`~",
-			"~`Lipika`~",
-			"~`Othaos`~",
-			"~`Paracletus`~",
-			"~`Pleroma`~",
-			"~`Synesis`~",
-			"~`Theletos`~ "
+			"[Agnoia](monster:Agnoia)",
+			"[Akhana](monster:Akhana)",
+			"[Bythos](monster:Bythos)",
+			"[Lipika](monster:Lipika)",
+			"[Othaos](monster:Othaos)",
+			"[Paracletus](monster:Paracletus)",
+			"[Pleroma](monster:Pleroma)",
+			"[Synesis](monster:Synesis)",
+			"[Theletos](monster:Theletos)"
 		]
 	},
 	"Agathion": {
@@ -24,20 +24,20 @@
 			"Bestiary 2"
 		],
 		"members": [
-			"~`Avoral`~",
-			"~`Bishop Agathion`~",
-			"~`Cervapral`~",
-			"~`Cervinal`~",
-			"~`Cetaceal`~",
-			"~`Chelonidal`~",
-			"~`Draconal`~",
-			"~`Leonal`~",
-			"~`Muldnal`~",
-			"~`Mustelidal`~",
-			"~`Procyal`~",
-			"~`Reptial`~",
-			"~`Silvanshee`~",
-			"~`Vulpinal`~ "
+			"[Avoral](monster:Avoral)",
+			"[Bishop Agathion](monster:Bishop Agathion)",
+			"[Cervapral](monster:Cervapral)",
+			"[Cervinal](monster:Cervinal)",
+			"[Cetaceal](monster:Cetaceal)",
+			"[Chelonidal](monster:Chelonidal)",
+			"[Draconal](monster:Draconal)",
+			"[Leonal](monster:Leonal)",
+			"[Muldnal](monster:Muldnal)",
+			"[Mustelidal](monster:Mustelidal)",
+			"[Procyal](monster:Procyal)",
+			"[Reptial](monster:Reptial)",
+			"[Silvanshee](monster:Silvanshee)",
+			"[Vulpinal](monster:Vulpinal)"
 		]
 	},
 	"Alghollthu": {
@@ -47,13 +47,13 @@
 			"Pathfinder RPG Bestiary"
 		],
 		"members": [
-			"~`Aboleth`~",
-			"~`Enisysian`~",
-			"~`Omnipath`~",
-			"~`Omnipath`~",
-			"~`Plizeazoth`~",
-			"~`Thalassic Architect`~",
-			"~`Veiled Master`~ "
+			"[Aboleth](monster:Aboleth)",
+			"[Enisysian](monster:Enisysian)",
+			"[Omnipath](monster:Omnipath)",
+			"[Omnipath](monster:Omnipath)",
+			"[Plizeazoth](monster:Plizeazoth)",
+			"[Thalassic Architect](monster:Thalassic Architect)",
+			"[Veiled Master](monster:Veiled Master)"
 		]
 	},
 	"Angel": {
@@ -63,20 +63,20 @@
 			"Pathfinder RPG Bestiary"
 		],
 		"members": [
-			"~`Astral Deva`~",
-			"~`Balisse`~",
-			"~`Cassisian`~",
-			"~`Choral`~",
-			"~`Dapsara`~",
-			"~`Empyrean`~",
-			"~`Erelim`~",
-			"~`Iophanite`~",
-			"~`Kuribu`~",
-			"~`Monadic Deva`~",
-			"~`Movanic Deva`~",
-			"~`Ninkonda`~",
-			"~`Planetar`~",
-			"~`Solar`~ "
+			"[Astral Deva](monster:Astral Deva)",
+			"[Balisse](monster:Balisse)",
+			"[Cassisian](monster:Cassisian)",
+			"[Choral](monster:Choral)",
+			"[Dapsara](monster:Dapsara)",
+			"[Empyrean](monster:Empyrean)",
+			"[Erelim](monster:Erelim)",
+			"[Iophanite](monster:Iophanite)",
+			"[Kuribu](monster:Kuribu)",
+			"[Monadic Deva](monster:Monadic Deva)",
+			"[Movanic Deva](monster:Movanic Deva)",
+			"[Ninkonda](monster:Ninkonda)",
+			"[Planetar](monster:Planetar)",
+			"[Solar](monster:Solar)"
 		]
 	},
 	"Archdevil": {
@@ -86,14 +86,14 @@
 			"Bestiary 6"
 		],
 		"members": [
-			"~`Baalzebul`~",
-			"~`Barbatos`~",
-			"~`Belial`~",
-			"~`Dispater`~",
-			"~`Geryon`~",
-			"~`Mammon`~",
-			"~`Mephistopheles`~",
-			"~`Moloch`~ "
+			"[Baalzebul](monster:Baalzebul)",
+			"[Barbatos](monster:Barbatos)",
+			"[Belial](monster:Belial)",
+			"[Dispater](monster:Dispater)",
+			"[Geryon](monster:Geryon)",
+			"[Mammon](monster:Mammon)",
+			"[Mephistopheles](monster:Mephistopheles)",
+			"[Moloch](monster:Moloch)"
 		]
 	},
 	"Archon": {
@@ -103,21 +103,21 @@
 			"Pathfinder RPG Bestiary"
 		],
 		"members": [
-			"~`Bastion Archon`~",
-			"~`Codex Archon`~",
-			"~`Exscinder`~",
-			"~`Gate Archon`~",
-			"~`Hammer Archon`~",
-			"~`Harbinger Archon`~",
-			"~`Hound Archon`~",
-			"~`Lantern Archon`~",
-			"~`Legion Archon`~",
-			"~`Preceptor Archon`~",
-			"~`Shield Archon`~",
-			"~`Spyglass Archon`~",
-			"~`Stag Archon`~",
-			"~`Star Archon`~",
-			"~`Trumpet Archon`~ "
+			"[Bastion Archon](monster:Bastion Archon)",
+			"[Codex Archon](monster:Codex Archon)",
+			"[Exscinder](monster:Exscinder)",
+			"[Gate Archon](monster:Gate Archon)",
+			"[Hammer Archon](monster:Hammer Archon)",
+			"[Harbinger Archon](monster:Harbinger Archon)",
+			"[Hound Archon](monster:Hound Archon)",
+			"[Lantern Archon](monster:Lantern Archon)",
+			"[Legion Archon](monster:Legion Archon)",
+			"[Preceptor Archon](monster:Preceptor Archon)",
+			"[Shield Archon](monster:Shield Archon)",
+			"[Spyglass Archon](monster:Spyglass Archon)",
+			"[Stag Archon](monster:Stag Archon)",
+			"[Star Archon](monster:Star Archon)",
+			"[Trumpet Archon](monster:Trumpet Archon)"
 		]
 	},
 	"Asura": {
@@ -127,15 +127,15 @@
 			"Bestiary 3"
 		],
 		"members": [
-			"~`Adhukait`~",
-			"~`Aghasura`~",
-			"~`Asurendra`~",
-			"~`Hishandura`~",
-			"~`Japalisura`~",
-			"~`Nikaramsa`~",
-			"~`Tripurasura`~",
-			"~`Upasunda`~",
-			"~`Vayuphak`~ "
+			"[Adhukait](monster:Adhukait)",
+			"[Aghasura](monster:Aghasura)",
+			"[Asurendra](monster:Asurendra)",
+			"[Hishandura](monster:Hishandura)",
+			"[Japalisura](monster:Japalisura)",
+			"[Nikaramsa](monster:Nikaramsa)",
+			"[Tripurasura](monster:Tripurasura)",
+			"[Upasunda](monster:Upasunda)",
+			"[Vayuphak](monster:Vayuphak)"
 		]
 	},
 	"Automaton": {
@@ -145,11 +145,11 @@
 			"Construct Handbook"
 		],
 		"members": [
-			"~`Champion Automaton`~",
-			"~`Familiar Automaton`~",
-			"~`Master Automaton`~",
-			"~`Sharpshooter Automaton`~",
-			"~`Stalker Automaton`~ "
+			"[Champion Automaton](monster:Champion Automaton)",
+			"[Familiar Automaton](monster:Familiar Automaton)",
+			"[Master Automaton](monster:Master Automaton)",
+			"[Sharpshooter Automaton](monster:Sharpshooter Automaton)",
+			"[Stalker Automaton](monster:Stalker Automaton)"
 		]
 	},
 	"Azata": {
@@ -159,19 +159,19 @@
 			"Pathfinder RPG Bestiary"
 		],
 		"members": [
-			"~`Bralani`~",
-			"~`Brijidine`~",
-			"~`Gancanagh`~",
-			"~`Ghaele`~",
-			"~`Lillend`~",
-			"~`Lyrakien`~",
-			"~`Nualidu`~",
-			"~`Prydanu`~",
-			"~`Raelis`~",
-			"~`Thyrlien`~",
-			"~`Uinuja`~",
-			"~`Veranallia`~",
-			"~`Yamah`~ "
+			"[Bralani](monster:Bralani)",
+			"[Brijidine](monster:Brijidine)",
+			"[Gancanagh](monster:Gancanagh)",
+			"[Ghaele](monster:Ghaele)",
+			"[Lillend](monster:Lillend)",
+			"[Lyrakien](monster:Lyrakien)",
+			"[Nualidu](monster:Nualidu)",
+			"[Prydanu](monster:Prydanu)",
+			"[Raelis](monster:Raelis)",
+			"[Thyrlien](monster:Thyrlien)",
+			"[Uinuja](monster:Uinuja)",
+			"[Veranallia](monster:Veranallia)",
+			"[Yamah](monster:Yamah)"
 		]
 	},
 	"Azi": {
@@ -181,9 +181,9 @@
 			"Pathfinder #24: The Final Wish"
 		],
 		"members": [
-			"~`Gandareva`~",
-			"~`Sruvara`~",
-			"~`Zahhak`~ "
+			"[Gandareva](monster:Gandareva)",
+			"[Sruvara](monster:Sruvara)",
+			"[Zahhak](monster:Zahhak)"
 		]
 	},
 	"Baba Yaga's Rider": {
@@ -193,9 +193,9 @@
 			"Irrisen - Land of Eternal Winter"
 		],
 		"members": [
-			"~`Black Rider`~",
-			"~`Red Rider`~",
-			"~`White Rider`~ "
+			"[Black Rider](monster:Black Rider)",
+			"[Red Rider](monster:Red Rider)",
+			"[White Rider](monster:White Rider)"
 		]
 	},
 	"Beheaded": {
@@ -205,12 +205,12 @@
 			"Bestiary 4"
 		],
 		"members": [
-			"~`Beheaded`~",
-			"~`Flaming Skull`~",
-			"~`Giant Beheaded`~",
-			"~`Medusa Head`~",
-			"~`Severed Head`~",
-			"~`Skull Swarm`~ "
+			"[Beheaded](monster:Beheaded)",
+			"[Flaming Skull](monster:Flaming Skull)",
+			"[Giant Beheaded](monster:Giant Beheaded)",
+			"[Medusa Head](monster:Medusa Head)",
+			"[Severed Head](monster:Severed Head)",
+			"[Skull Swarm](monster:Skull Swarm)"
 		]
 	},
 	"Behemoth": {
@@ -220,10 +220,10 @@
 			"Bestiary 3"
 		],
 		"members": [
-			"~`Ravener`~",
-			"~`Tempest Behemoth`~",
-			"~`Thalassic Behemoth`~",
-			"~`Thunder Behemoth`~ "
+			"[Ravener](monster:Ravener)",
+			"[Tempest Behemoth](monster:Tempest Behemoth)",
+			"[Thalassic Behemoth](monster:Thalassic Behemoth)",
+			"[Thunder Behemoth](monster:Thunder Behemoth)"
 		]
 	},
 	"Blight": {
@@ -233,13 +233,13 @@
 			"Bestiary 6"
 		],
 		"members": [
-			"~`Cave Blight`~",
-			"~`Desert Blight`~",
-			"~`Forest Blight`~",
-			"~`Mountain Blight`~",
-			"~`Sewer Blight`~",
-			"~`Swamp Blight`~",
-			"~`Tundra Blight`~ "
+			"[Cave Blight](monster:Cave Blight)",
+			"[Desert Blight](monster:Desert Blight)",
+			"[Forest Blight](monster:Forest Blight)",
+			"[Mountain Blight](monster:Mountain Blight)",
+			"[Sewer Blight](monster:Sewer Blight)",
+			"[Swamp Blight](monster:Swamp Blight)",
+			"[Tundra Blight](monster:Tundra Blight)"
 		]
 	},
 	"Bore Worm": {
@@ -249,9 +249,9 @@
 			"Pathfinder #117: Assault on Longshadow"
 		],
 		"members": [
-			"~`Bore Worm Monarch`~",
-			"~`Bore Worm Swarm`~",
-			"~`Empress Bore Worm`~ "
+			"[Bore Worm Monarch](monster:Bore Worm Monarch)",
+			"[Bore Worm Swarm](monster:Bore Worm Swarm)",
+			"[Empress Bore Worm](monster:Empress Bore Worm)"
 		]
 	},
 	"Boreal Creature": {
@@ -261,9 +261,9 @@
 			"Irrisen - Land of Eternal Winter"
 		],
 		"members": [
-			"~`Boreal Annis Hag`~",
-			"~`Boreal Manticore`~",
-			"~`Boreal Wolf`~ "
+			"[Boreal Annis Hag](monster:Boreal Annis Hag)",
+			"[Boreal Manticore](monster:Boreal Manticore)",
+			"[Boreal Wolf](monster:Boreal Wolf)"
 		]
 	},
 	"Clockwork": {
@@ -273,31 +273,31 @@
 			"Bestiary 3"
 		],
 		"members": [
-			"~`Clockwork Angel`~",
-			"~`Clockwork Assassin`~",
-			"~`Clockwork Dragon`~",
-			"~`Clockwork Excavator`~",
-			"~`Clockwork Familiar`~",
-			"~`Clockwork Fiend`~",
-			"~`Clockwork Goblin`~",
-			"~`Clockwork Goliath`~",
-			"~`Clockwork Guardian`~",
-			"~`Clockwork Gunslinger`~",
-			"~`Clockwork Hound`~",
-			"~`Clockwork Leviathan`~",
-			"~`Clockwork Mage`~",
-			"~`Clockwork Nautiloid`~",
-			"~`Clockwork Overseer`~",
-			"~`Clockwork Priest`~",
-			"~`Clockwork Servant`~",
-			"~`Clockwork Snail`~",
-			"~`Clockwork Soldier`~",
-			"~`Clockwork Songbird`~",
-			"~`Clockwork Spy`~",
-			"~`Clockwork Steed`~",
-			"~`Clockwork Vivisectionist`~",
-			"~`Mechanical Efreeti`~",
-			"~`Toy Golem`~ "
+			"[Clockwork Angel](monster:Clockwork Angel)",
+			"[Clockwork Assassin](monster:Clockwork Assassin)",
+			"[Clockwork Dragon](monster:Clockwork Dragon)",
+			"[Clockwork Excavator](monster:Clockwork Excavator)",
+			"[Clockwork Familiar](monster:Clockwork Familiar)",
+			"[Clockwork Fiend](monster:Clockwork Fiend)",
+			"[Clockwork Goblin](monster:Clockwork Goblin)",
+			"[Clockwork Goliath](monster:Clockwork Goliath)",
+			"[Clockwork Guardian](monster:Clockwork Guardian)",
+			"[Clockwork Gunslinger](monster:Clockwork Gunslinger)",
+			"[Clockwork Hound](monster:Clockwork Hound)",
+			"[Clockwork Leviathan](monster:Clockwork Leviathan)",
+			"[Clockwork Mage](monster:Clockwork Mage)",
+			"[Clockwork Nautiloid](monster:Clockwork Nautiloid)",
+			"[Clockwork Overseer](monster:Clockwork Overseer)",
+			"[Clockwork Priest](monster:Clockwork Priest)",
+			"[Clockwork Servant](monster:Clockwork Servant)",
+			"[Clockwork Snail](monster:Clockwork Snail)",
+			"[Clockwork Soldier](monster:Clockwork Soldier)",
+			"[Clockwork Songbird](monster:Clockwork Songbird)",
+			"[Clockwork Spy](monster:Clockwork Spy)",
+			"[Clockwork Steed](monster:Clockwork Steed)",
+			"[Clockwork Vivisectionist](monster:Clockwork Vivisectionist)",
+			"[Mechanical Efreeti](monster:Mechanical Efreeti)",
+			"[Toy Golem](monster:Toy Golem)"
 		]
 	},
 	"Colossus": {
@@ -307,11 +307,11 @@
 			"Bestiary 4"
 		],
 		"mythicMembers": [
-			"~`Flesh Colossus`~",
-			"~`Iron Colossus`~",
-			"~`Sphinx Colossus`~",
-			"~`Stone Colossus`~",
-			"~`Wood Colossus`~"
+			"[Flesh Colossus](monster:Flesh Colossus)",
+			"[Iron Colossus](monster:Iron Colossus)",
+			"[Sphinx Colossus](monster:Sphinx Colossus)",
+			"[Stone Colossus](monster:Stone Colossus)",
+			"[Wood Colossus](monster:Wood Colossus)"
 		]
 	},
 	"Daemon": {
@@ -321,33 +321,33 @@
 			"Bestiary 2"
 		],
 		"members": [
-			"~`Acrididaemon`~",
-			"~`Astradaemon`~",
-			"~`Bibliodaemon`~",
-			"~`Cacodaemon`~",
-			"~`Ceustodaemon`~",
-			"~`Crucidaemon`~",
-			"~`Derghodaemon`~",
-			"~`Erodaemon`~",
-			"~`Genthodaemon`~",
-			"~`Hydrodaemon`~",
-			"~`Lacridaemon`~",
-			"~`Lapsudaemon`~",
-			"~`Leukodaemon`~",
-			"~`Meladaemon`~",
-			"~`Nixudaemon`~",
-			"~`Obcisidaemon`~",
-			"~`Olethrodaemon`~",
-			"~`Phasmadaemon`~",
-			"~`Piscodaemon`~",
-			"~`Purrodaemon`~",
-			"~`Sangudaemon`~",
-			"~`Sepsidaemon`~",
-			"~`Suspiridaemon`~",
-			"~`Temerdaemon`~",
-			"~`Thanadaemon`~",
-			"~`Venedaemon`~",
-			"~`Vulnudaemon`~ "
+			"[Acrididaemon](monster:Acrididaemon)",
+			"[Astradaemon](monster:Astradaemon)",
+			"[Bibliodaemon](monster:Bibliodaemon)",
+			"[Cacodaemon](monster:Cacodaemon)",
+			"[Ceustodaemon](monster:Ceustodaemon)",
+			"[Crucidaemon](monster:Crucidaemon)",
+			"[Derghodaemon](monster:Derghodaemon)",
+			"[Erodaemon](monster:Erodaemon)",
+			"[Genthodaemon](monster:Genthodaemon)",
+			"[Hydrodaemon](monster:Hydrodaemon)",
+			"[Lacridaemon](monster:Lacridaemon)",
+			"[Lapsudaemon](monster:Lapsudaemon)",
+			"[Leukodaemon](monster:Leukodaemon)",
+			"[Meladaemon](monster:Meladaemon)",
+			"[Nixudaemon](monster:Nixudaemon)",
+			"[Obcisidaemon](monster:Obcisidaemon)",
+			"[Olethrodaemon](monster:Olethrodaemon)",
+			"[Phasmadaemon](monster:Phasmadaemon)",
+			"[Piscodaemon](monster:Piscodaemon)",
+			"[Purrodaemon](monster:Purrodaemon)",
+			"[Sangudaemon](monster:Sangudaemon)",
+			"[Sepsidaemon](monster:Sepsidaemon)",
+			"[Suspiridaemon](monster:Suspiridaemon)",
+			"[Temerdaemon](monster:Temerdaemon)",
+			"[Thanadaemon](monster:Thanadaemon)",
+			"[Venedaemon](monster:Venedaemon)",
+			"[Vulnudaemon](monster:Vulnudaemon)"
 		]
 	},
 	"Dark Folk": {
@@ -357,14 +357,14 @@
 			"Pathfinder RPG Bestiary"
 		],
 		"members": [
-			"~`Caligni`~",
-			"~`Dark Caller`~",
-			"~`Dark Champion`~",
-			"~`Dark Creeper`~",
-			"~`Dark Dancer`~",
-			"~`Dark Empath`~",
-			"~`Dark Slayer`~",
-			"~`Dark Stalker`~ "
+			"[Caligni](monster:Caligni)",
+			"[Dark Caller](monster:Dark Caller)",
+			"[Dark Champion](monster:Dark Champion)",
+			"[Dark Creeper](monster:Dark Creeper)",
+			"[Dark Dancer](monster:Dark Dancer)",
+			"[Dark Empath](monster:Dark Empath)",
+			"[Dark Slayer](monster:Dark Slayer)",
+			"[Dark Stalker](monster:Dark Stalker)"
 		]
 	},
 	"Demodand": {
@@ -374,12 +374,12 @@
 			"Bestiary 3"
 		],
 		"members": [
-			"~`Gristly Demodand`~",
-			"~`Shaggy Demodand`~",
-			"~`Slimy Demodand`~",
-			"~`Squamous Demodand`~",
-			"~`Stringy Demodand`~",
-			"~`Tarry Demodand`~ "
+			"[Gristly Demodand](monster:Gristly Demodand)",
+			"[Shaggy Demodand](monster:Shaggy Demodand)",
+			"[Slimy Demodand](monster:Slimy Demodand)",
+			"[Squamous Demodand](monster:Squamous Demodand)",
+			"[Stringy Demodand](monster:Stringy Demodand)",
+			"[Tarry Demodand](monster:Tarry Demodand)"
 		]
 	},
 	"Demon": {
@@ -389,54 +389,54 @@
 			"Pathfinder RPG Bestiary"
 		],
 		"members": [
-			"~`Abrikandilu`~",
-			"~`Andrazku`~",
-			"~`Babau`~",
-			"~`Balor`~",
-			"~`Brimorak`~",
-			"~`Cambion`~",
-			"~`Coloxus`~",
-			"~`Derakni`~",
-			"~`Dretch`~",
-			"~`Gallu`~",
-			"~`Ghalzarokh`~",
-			"~`Gibrileth`~",
-			"~`Glabrezu`~",
-			"~`Hala`~",
-			"~`Hezrou`~",
-			"~`Incubus`~",
-			"~`Kalavakus`~",
-			"~`Katpaskir`~",
-			"~`Kithangian`~",
-			"~`Larva`~",
-			"~`Lilitu`~",
-			"~`Marilith`~",
-			"~`Nabasu`~",
-			"~`Nalfeshnee`~",
-			"~`Omox`~",
-			"~`Oolioddroo`~",
-			"~`Painajai`~",
-			"~`Quasit`~",
-			"~`Schir`~",
-			"~`Seraptis`~",
-			"~`Shachath`~",
-			"~`Shadow Demon`~",
-			"~`Shemhazian`~",
-			"~`Succubus`~",
-			"~`Swaithe`~",
-			"~`Thoxel Demon`~",
-			"~`Ulkreth`~",
-			"~`Vavakia`~",
-			"~`Vermlek`~",
-			"~`Vilsteth`~",
-			"~`Vrock`~",
-			"~`Vrolikai`~",
-			"~`Yaenit`~ "
+			"[Abrikandilu](monster:Abrikandilu)",
+			"[Andrazku](monster:Andrazku)",
+			"[Babau](monster:Babau)",
+			"[Balor](monster:Balor)",
+			"[Brimorak](monster:Brimorak)",
+			"[Cambion](monster:Cambion)",
+			"[Coloxus](monster:Coloxus)",
+			"[Derakni](monster:Derakni)",
+			"[Dretch](monster:Dretch)",
+			"[Gallu](monster:Gallu)",
+			"[Ghalzarokh](monster:Ghalzarokh)",
+			"[Gibrileth](monster:Gibrileth)",
+			"[Glabrezu](monster:Glabrezu)",
+			"[Hala](monster:Hala)",
+			"[Hezrou](monster:Hezrou)",
+			"[Incubus](monster:Incubus)",
+			"[Kalavakus](monster:Kalavakus)",
+			"[Katpaskir](monster:Katpaskir)",
+			"[Kithangian](monster:Kithangian)",
+			"[Larva](monster:Larva)",
+			"[Lilitu](monster:Lilitu)",
+			"[Marilith](monster:Marilith)",
+			"[Nabasu](monster:Nabasu)",
+			"[Nalfeshnee](monster:Nalfeshnee)",
+			"[Omox](monster:Omox)",
+			"[Oolioddroo](monster:Oolioddroo)",
+			"[Painajai](monster:Painajai)",
+			"[Quasit](monster:Quasit)",
+			"[Schir](monster:Schir)",
+			"[Seraptis](monster:Seraptis)",
+			"[Shachath](monster:Shachath)",
+			"[Shadow Demon](monster:Shadow Demon)",
+			"[Shemhazian](monster:Shemhazian)",
+			"[Succubus](monster:Succubus)",
+			"[Swaithe](monster:Swaithe)",
+			"[Thoxel Demon](monster:Thoxel Demon)",
+			"[Ulkreth](monster:Ulkreth)",
+			"[Vavakia](monster:Vavakia)",
+			"[Vermlek](monster:Vermlek)",
+			"[Vilsteth](monster:Vilsteth)",
+			"[Vrock](monster:Vrock)",
+			"[Vrolikai](monster:Vrolikai)",
+			"[Yaenit](monster:Yaenit)"
 		],
 		"mythicMembers": [
-			"~`Marilith`~",
-			"~`Nalfeshnee`~",
-			"~`Vrock`~"
+			"[Marilith](monster:Marilith)",
+			"[Nalfeshnee](monster:Nalfeshnee)",
+			"[Vrock](monster:Vrock)"
 		]
 	},
 	"Demon Lord": {
@@ -446,15 +446,15 @@
 			"Bestiary 4"
 		],
 		"members": [
-			"~`Baphomet`~",
-			"~`Dagon`~",
-			"~`Deskari`~",
-			"~`Kostchtchie`~",
-			"~`Nocticula`~",
-			"~`Pazuzu`~",
-			"~`Shax`~",
-			"~`Sifkesh`~",
-			"~`Xoveron`~ "
+			"[Baphomet](monster:Baphomet)",
+			"[Dagon](monster:Dagon)",
+			"[Deskari](monster:Deskari)",
+			"[Kostchtchie](monster:Kostchtchie)",
+			"[Nocticula](monster:Nocticula)",
+			"[Pazuzu](monster:Pazuzu)",
+			"[Shax](monster:Shax)",
+			"[Sifkesh](monster:Sifkesh)",
+			"[Xoveron](monster:Xoveron)"
 		]
 	},
 	"Devil": {
@@ -464,46 +464,46 @@
 			"Pathfinder RPG Bestiary"
 		],
 		"members": [
-			"~`Accomplice Devil (Hesperian)`~",
-			"~`Accuser Devil (Zebub)`~",
-			"~`Advodaza`~",
-			"~`Apostate Devil (Deimavigga)`~",
-			"~`Barbed Devil (Hamatula)`~",
-			"~`Bearded Devil (Barbazu)`~",
-			"~`Belier Devil (Bdellavritra)`~",
-			"~`Bone Devil (Osyluth)`~",
-			"~`Cabal Devil (Uniila)`~",
-			"~`Chortov`~",
-			"~`Contract Devil (Phistophilus)`~",
-			"~`Curse Devil (Phiam)`~",
-			"~`Drowning Devil (Sarglagon)`~",
-			"~`Erinyes`~",
-			"~`Executioner Devil (Munagola)`~",
-			"~`Gambling Devil (Magadaz)`~",
-			"~`Handmaiden Devil (Gylou)`~",
-			"~`Heresy Devil (Ayngavhaul)`~",
-			"~`Horned Devil (Cornugon)`~",
-			"~`Host Devil, Greater (Magaav)`~",
-			"~`Host Devil, Lesser (Gaav)`~",
-			"~`Ice Devil (Gelugon)`~",
-			"~`Immolation Devil (Puragaus)`~",
-			"~`Imp`~",
-			"~`Lemure`~",
-			"~`Mnemor`~",
-			"~`Nemesis Devil (Advodaza)`~",
-			"~`Nupperibo`~",
-			"~`Pit Fiend`~",
-			"~`Possession Devil, Greater (Gidim)`~",
-			"~`Possession Devil, Lesser (Gidim)`~",
-			"~`Rust Devil (Ferrugon)`~",
-			"~`Salikotal`~",
-			"~`Sire Devil (Patraavex)`~",
-			"~`Tinder Devil (Ukobach)`~",
-			"~`Warmonger Devil (Levaloch)`~ "
+			"[Accomplice Devil (Hesperian)](monster:Accomplice Devil (Hesperian))",
+			"[Accuser Devil (Zebub)](monster:Accuser Devil (Zebub))",
+			"[Advodaza](monster:Advodaza)",
+			"[Apostate Devil (Deimavigga)](monster:Apostate Devil (Deimavigga))",
+			"[Barbed Devil (Hamatula)](monster:Barbed Devil (Hamatula))",
+			"[Bearded Devil (Barbazu)](monster:Bearded Devil (Barbazu))",
+			"[Belier Devil (Bdellavritra)](monster:Belier Devil (Bdellavritra))",
+			"[Bone Devil (Osyluth)](monster:Bone Devil (Osyluth))",
+			"[Cabal Devil (Uniila)](monster:Cabal Devil (Uniila))",
+			"[Chortov](monster:Chortov)",
+			"[Contract Devil (Phistophilus)](monster:Contract Devil (Phistophilus))",
+			"[Curse Devil (Phiam)](monster:Curse Devil (Phiam))",
+			"[Drowning Devil (Sarglagon)](monster:Drowning Devil (Sarglagon))",
+			"[Erinyes](monster:Erinyes)",
+			"[Executioner Devil (Munagola)](monster:Executioner Devil (Munagola))",
+			"[Gambling Devil (Magadaz)](monster:Gambling Devil (Magadaz))",
+			"[Handmaiden Devil (Gylou)](monster:Handmaiden Devil (Gylou))",
+			"[Heresy Devil (Ayngavhaul)](monster:Heresy Devil (Ayngavhaul))",
+			"[Horned Devil (Cornugon)](monster:Horned Devil (Cornugon))",
+			"[Host Devil, Greater (Magaav)](monster:Host Devil, Greater (Magaav))",
+			"[Host Devil, Lesser (Gaav)](monster:Host Devil, Lesser (Gaav))",
+			"[Ice Devil (Gelugon)](monster:Ice Devil (Gelugon))",
+			"[Immolation Devil (Puragaus)](monster:Immolation Devil (Puragaus))",
+			"[Imp](monster:Imp)",
+			"[Lemure](monster:Lemure)",
+			"[Mnemor](monster:Mnemor)",
+			"[Nemesis Devil (Advodaza)](monster:Nemesis Devil (Advodaza))",
+			"[Nupperibo](monster:Nupperibo)",
+			"[Pit Fiend](monster:Pit Fiend)",
+			"[Possession Devil, Greater (Gidim)](monster:Possession Devil, Greater (Gidim))",
+			"[Possession Devil, Lesser (Gidim)](monster:Possession Devil, Lesser (Gidim))",
+			"[Rust Devil (Ferrugon)](monster:Rust Devil (Ferrugon))",
+			"[Salikotal](monster:Salikotal)",
+			"[Sire Devil (Patraavex)](monster:Sire Devil (Patraavex))",
+			"[Tinder Devil (Ukobach)](monster:Tinder Devil (Ukobach))",
+			"[Warmonger Devil (Levaloch)](monster:Warmonger Devil (Levaloch))"
 		],
 		"mythicMembers": [
-			"~`Bone Devil`~",
-			"~`Ice Devil`~"
+			"[Bone Devil](monster:Bone Devil)",
+			"[Ice Devil](monster:Ice Devil)"
 		]
 	},
 	"Dinosaur": {
@@ -513,34 +513,34 @@
 			"Pathfinder RPG Bestiary"
 		],
 		"members": [
-			"~`Allosaurus`~",
-			"~`Amargasaurus`~",
-			"~`Ankylosaurus`~",
-			"~`Brachiosaurus`~",
-			"~`Ceratosaurus`~",
-			"~`Compsognathus`~",
-			"~`Deinonychus`~",
-			"~`Dimetrodon`~",
-			"~`Dimorphodon`~",
-			"~`Diplodocus`~",
-			"~`Elasmosaurus`~",
-			"~`Giganotosaurus`~",
-			"~`Iguanodon`~",
-			"~`Kentrosaurus`~",
-			"~`Pachycephalosaurus`~",
-			"~`Parasaurolophus`~",
-			"~`Plesiosaurus`~",
-			"~`Pteranodon`~",
-			"~`Quetzalcoatlus`~",
-			"~`Spinosaurus`~",
-			"~`Stegosaurus`~",
-			"~`Styracosaurus`~",
-			"~`Therizinosaurus`~",
-			"~`Triceratops`~",
-			"~`Troodon`~",
-			"~`Tylosaurus`~",
-			"~`Tyrannosaurus`~",
-			"~`Velociraptor`~ "
+			"[Allosaurus](monster:Allosaurus)",
+			"[Amargasaurus](monster:Amargasaurus)",
+			"[Ankylosaurus](monster:Ankylosaurus)",
+			"[Brachiosaurus](monster:Brachiosaurus)",
+			"[Ceratosaurus](monster:Ceratosaurus)",
+			"[Compsognathus](monster:Compsognathus)",
+			"[Deinonychus](monster:Deinonychus)",
+			"[Dimetrodon](monster:Dimetrodon)",
+			"[Dimorphodon](monster:Dimorphodon)",
+			"[Diplodocus](monster:Diplodocus)",
+			"[Elasmosaurus](monster:Elasmosaurus)",
+			"[Giganotosaurus](monster:Giganotosaurus)",
+			"[Iguanodon](monster:Iguanodon)",
+			"[Kentrosaurus](monster:Kentrosaurus)",
+			"[Pachycephalosaurus](monster:Pachycephalosaurus)",
+			"[Parasaurolophus](monster:Parasaurolophus)",
+			"[Plesiosaurus](monster:Plesiosaurus)",
+			"[Pteranodon](monster:Pteranodon)",
+			"[Quetzalcoatlus](monster:Quetzalcoatlus)",
+			"[Spinosaurus](monster:Spinosaurus)",
+			"[Stegosaurus](monster:Stegosaurus)",
+			"[Styracosaurus](monster:Styracosaurus)",
+			"[Therizinosaurus](monster:Therizinosaurus)",
+			"[Triceratops](monster:Triceratops)",
+			"[Troodon](monster:Troodon)",
+			"[Tylosaurus](monster:Tylosaurus)",
+			"[Tyrannosaurus](monster:Tyrannosaurus)",
+			"[Velociraptor](monster:Velociraptor)"
 		]
 	},
 	"Div": {
@@ -550,15 +550,15 @@
 			"Bestiary 3"
 		],
 		"members": [
-			"~`Aghash`~",
-			"~`Akvan`~",
-			"~`Bushyasta`~",
-			"~`Doru`~",
-			"~`Druj Nasu`~",
-			"~`Ghawwas`~",
-			"~`Pairaka`~",
-			"~`Sepid`~",
-			"~`Shira`~ "
+			"[Aghash](monster:Aghash)",
+			"[Akvan](monster:Akvan)",
+			"[Bushyasta](monster:Bushyasta)",
+			"[Doru](monster:Doru)",
+			"[Druj Nasu](monster:Druj Nasu)",
+			"[Ghawwas](monster:Ghawwas)",
+			"[Pairaka](monster:Pairaka)",
+			"[Sepid](monster:Sepid)",
+			"[Shira](monster:Shira)"
 		]
 	},
 	"Dragon (Black)": {
@@ -568,12 +568,12 @@
 			"Pathfinder RPG Bestiary"
 		],
 		"members": [
-			"~`Adult Black Dragon`~",
-			"~`Ancient Black Dragon`~",
-			"~`Young Black Dragon`~ "
+			"[Adult Black Dragon](monster:Adult Black Dragon)",
+			"[Ancient Black Dragon](monster:Ancient Black Dragon)",
+			"[Young Black Dragon](monster:Young Black Dragon)"
 		],
 		"mythicMembers": [
-			"~`Mature Adult Black Dragon`~"
+			"[Mature Adult Black Dragon](monster:Mature Adult Black Dragon)"
 		]
 	},
 	"Dragon (Blue)": {
@@ -583,12 +583,12 @@
 			"Pathfinder RPG Bestiary"
 		],
 		"members": [
-			"~`Adult Blue Dragon`~",
-			"~`Ancient Blue Dragon`~",
-			"~`Young Blue Dragon`~ "
+			"[Adult Blue Dragon](monster:Adult Blue Dragon)",
+			"[Ancient Blue Dragon](monster:Ancient Blue Dragon)",
+			"[Young Blue Dragon](monster:Young Blue Dragon)"
 		],
 		"mythicMembers": [
-			"~`Mature Adult Blue Dragon`~"
+			"[Mature Adult Blue Dragon](monster:Mature Adult Blue Dragon)"
 		]
 	},
 	"Dragon (Brass)": {
@@ -598,9 +598,9 @@
 			"Pathfinder RPG Bestiary"
 		],
 		"members": [
-			"~`Adult Brass Dragon`~",
-			"~`Ancient Brass Dragon`~",
-			"~`Young Brass Dragon`~ "
+			"[Adult Brass Dragon](monster:Adult Brass Dragon)",
+			"[Ancient Brass Dragon](monster:Ancient Brass Dragon)",
+			"[Young Brass Dragon](monster:Young Brass Dragon)"
 		]
 	},
 	"Dragon (Bronze)": {
@@ -610,9 +610,9 @@
 			"Pathfinder RPG Bestiary"
 		],
 		"members": [
-			"~`Adult Bronze Dragon`~",
-			"~`Ancient Bronze Dragon`~",
-			"~`Young Bronze Dragon`~ "
+			"[Adult Bronze Dragon](monster:Adult Bronze Dragon)",
+			"[Ancient Bronze Dragon](monster:Ancient Bronze Dragon)",
+			"[Young Bronze Dragon](monster:Young Bronze Dragon)"
 		]
 	},
 	"Dragon (Copper)": {
@@ -622,9 +622,9 @@
 			"Pathfinder RPG Bestiary"
 		],
 		"members": [
-			"~`Adult Copper Dragon`~",
-			"~`Ancient Copper Dragon`~",
-			"~`Young Copper Dragon`~ "
+			"[Adult Copper Dragon](monster:Adult Copper Dragon)",
+			"[Ancient Copper Dragon](monster:Ancient Copper Dragon)",
+			"[Young Copper Dragon](monster:Young Copper Dragon)"
 		]
 	},
 	"Dragon (Esoteric, Astral)": {
@@ -634,9 +634,9 @@
 			"Bestiary 5"
 		],
 		"members": [
-			"~`Adult Astral Dragon`~",
-			"~`Ancient Astral Dragon`~",
-			"~`Young Astral Dragon`~ "
+			"[Adult Astral Dragon](monster:Adult Astral Dragon)",
+			"[Ancient Astral Dragon](monster:Ancient Astral Dragon)",
+			"[Young Astral Dragon](monster:Young Astral Dragon)"
 		]
 	},
 	"Dragon (Esoteric, Dream)": {
@@ -646,9 +646,9 @@
 			"Bestiary 5"
 		],
 		"members": [
-			"~`Adult Dream Dragon`~",
-			"~`Ancient Dream Dragon`~",
-			"~`Young Dream Dragon`~ "
+			"[Adult Dream Dragon](monster:Adult Dream Dragon)",
+			"[Ancient Dream Dragon](monster:Ancient Dream Dragon)",
+			"[Young Dream Dragon](monster:Young Dream Dragon)"
 		]
 	},
 	"Dragon (Esoteric, Etheric)": {
@@ -658,9 +658,9 @@
 			"Bestiary 5"
 		],
 		"members": [
-			"~`Adult Etheric Dragon`~",
-			"~`Ancient Etheric Dragon`~",
-			"~`Young Etheric Dragon`~ "
+			"[Adult Etheric Dragon](monster:Adult Etheric Dragon)",
+			"[Ancient Etheric Dragon](monster:Ancient Etheric Dragon)",
+			"[Young Etheric Dragon](monster:Young Etheric Dragon)"
 		]
 	},
 	"Dragon (Esoteric, Nightmare)": {
@@ -670,9 +670,9 @@
 			"Bestiary 5"
 		],
 		"members": [
-			"~`Adult Nightmare Dragon`~",
-			"~`Ancient Nightmare Dragon`~",
-			"~`Young Nightmare Dragon`~ "
+			"[Adult Nightmare Dragon](monster:Adult Nightmare Dragon)",
+			"[Ancient Nightmare Dragon](monster:Ancient Nightmare Dragon)",
+			"[Young Nightmare Dragon](monster:Young Nightmare Dragon)"
 		]
 	},
 	"Dragon (Esoteric, Occult)": {
@@ -682,9 +682,9 @@
 			"Bestiary 5"
 		],
 		"members": [
-			"~`Adult Occult Dragon`~",
-			"~`Ancient Occult Dragon`~",
-			"~`Young Occult Dragon`~ "
+			"[Adult Occult Dragon](monster:Adult Occult Dragon)",
+			"[Ancient Occult Dragon](monster:Ancient Occult Dragon)",
+			"[Young Occult Dragon](monster:Young Occult Dragon)"
 		]
 	},
 	"Dragon (Gold)": {
@@ -694,9 +694,9 @@
 			"Pathfinder RPG Bestiary"
 		],
 		"members": [
-			"~`Adult Gold Dragon`~",
-			"~`Ancient Gold Dragon`~",
-			"~`Young Gold Dragon`~ "
+			"[Adult Gold Dragon](monster:Adult Gold Dragon)",
+			"[Ancient Gold Dragon](monster:Ancient Gold Dragon)",
+			"[Young Gold Dragon](monster:Young Gold Dragon)"
 		]
 	},
 	"Dragon (Green)": {
@@ -706,12 +706,12 @@
 			"Pathfinder RPG Bestiary"
 		],
 		"members": [
-			"~`Adult Green Dragon`~",
-			"~`Ancient Green Dragon`~",
-			"~`Young Green Dragon`~ "
+			"[Adult Green Dragon](monster:Adult Green Dragon)",
+			"[Ancient Green Dragon](monster:Ancient Green Dragon)",
+			"[Young Green Dragon](monster:Young Green Dragon)"
 		],
 		"mythicMembers": [
-			"~`Very Old Green Dragon`~"
+			"[Very Old Green Dragon](monster:Very Old Green Dragon)"
 		]
 	},
 	"Dragon (Imperial, Forest)": {
@@ -721,9 +721,9 @@
 			"Bestiary 3"
 		],
 		"members": [
-			"~`Adult Forest Dragon`~",
-			"~`Ancient Forest Dragon`~",
-			"~`Young Forest Dragon`~ "
+			"[Adult Forest Dragon](monster:Adult Forest Dragon)",
+			"[Ancient Forest Dragon](monster:Ancient Forest Dragon)",
+			"[Young Forest Dragon](monster:Young Forest Dragon)"
 		]
 	},
 	"Dragon (Imperial, Sea)": {
@@ -733,9 +733,9 @@
 			"Bestiary 3"
 		],
 		"members": [
-			"~`Adult Sea Dragon`~",
-			"~`Ancient Sea Dragon`~",
-			"~`Young Sea Dragon`~ "
+			"[Adult Sea Dragon](monster:Adult Sea Dragon)",
+			"[Ancient Sea Dragon](monster:Ancient Sea Dragon)",
+			"[Young Sea Dragon](monster:Young Sea Dragon)"
 		]
 	},
 	"Dragon (Imperial, Sky)": {
@@ -745,9 +745,9 @@
 			"Bestiary 3"
 		],
 		"members": [
-			"~`Adult Sky Dragon`~",
-			"~`Ancient Sky Dragon`~",
-			"~`Young Sky Dragon`~ "
+			"[Adult Sky Dragon](monster:Adult Sky Dragon)",
+			"[Ancient Sky Dragon](monster:Ancient Sky Dragon)",
+			"[Young Sky Dragon](monster:Young Sky Dragon)"
 		]
 	},
 	"Dragon (Imperial, Sovereign)": {
@@ -757,9 +757,9 @@
 			"Bestiary 3"
 		],
 		"members": [
-			"~`Adult Sovereign Dragon`~",
-			"~`Ancient Sovereign Dragon`~",
-			"~`Young Sovereign Dragon`~ "
+			"[Adult Sovereign Dragon](monster:Adult Sovereign Dragon)",
+			"[Ancient Sovereign Dragon](monster:Ancient Sovereign Dragon)",
+			"[Young Sovereign Dragon](monster:Young Sovereign Dragon)"
 		]
 	},
 	"Dragon (Imperial, Underworld)": {
@@ -769,9 +769,9 @@
 			"Bestiary 3"
 		],
 		"members": [
-			"~`Adult Underworld Dragon`~",
-			"~`Ancient Underworld Dragon`~",
-			"~`Young Underworld Dragon`~ "
+			"[Adult Underworld Dragon](monster:Adult Underworld Dragon)",
+			"[Ancient Underworld Dragon](monster:Ancient Underworld Dragon)",
+			"[Young Underworld Dragon](monster:Young Underworld Dragon)"
 		]
 	},
 	"Dragon (Outer, Lunar)": {
@@ -781,9 +781,9 @@
 			"Bestiary 4"
 		],
 		"members": [
-			"~`Adult Lunar Dragon`~",
-			"~`Ancient Lunar Dragon`~",
-			"~`Young Lunar Dragon`~ "
+			"[Adult Lunar Dragon](monster:Adult Lunar Dragon)",
+			"[Ancient Lunar Dragon](monster:Ancient Lunar Dragon)",
+			"[Young Lunar Dragon](monster:Young Lunar Dragon)"
 		]
 	},
 	"Dragon (Outer, Solar)": {
@@ -793,9 +793,9 @@
 			"Bestiary 4"
 		],
 		"members": [
-			"~`Adult Solar Dragon`~",
-			"~`Ancient Solar Dragon`~",
-			"~`Young Solar Dragon`~ "
+			"[Adult Solar Dragon](monster:Adult Solar Dragon)",
+			"[Ancient Solar Dragon](monster:Ancient Solar Dragon)",
+			"[Young Solar Dragon](monster:Young Solar Dragon)"
 		]
 	},
 	"Dragon (Outer, Time)": {
@@ -805,9 +805,9 @@
 			"Bestiary 4"
 		],
 		"members": [
-			"~`Adult Time Dragon`~",
-			"~`Ancient Time Dragon`~",
-			"~`Young Time Dragon`~ "
+			"[Adult Time Dragon](monster:Adult Time Dragon)",
+			"[Ancient Time Dragon](monster:Ancient Time Dragon)",
+			"[Young Time Dragon](monster:Young Time Dragon)"
 		]
 	},
 	"Dragon (Outer, Void)": {
@@ -817,9 +817,9 @@
 			"Bestiary 4"
 		],
 		"members": [
-			"~`Adult Void Dragon`~",
-			"~`Ancient Void Dragon`~",
-			"~`Young Void Dragon`~ "
+			"[Adult Void Dragon](monster:Adult Void Dragon)",
+			"[Ancient Void Dragon](monster:Ancient Void Dragon)",
+			"[Young Void Dragon](monster:Young Void Dragon)"
 		]
 	},
 	"Dragon (Outer, Vortex)": {
@@ -829,9 +829,9 @@
 			"Bestiary 4"
 		],
 		"members": [
-			"~`Adult Vortex Dragon`~",
-			"~`Ancient Vortex Dragon`~",
-			"~`Young Vortex Dragon`~ "
+			"[Adult Vortex Dragon](monster:Adult Vortex Dragon)",
+			"[Ancient Vortex Dragon](monster:Ancient Vortex Dragon)",
+			"[Young Vortex Dragon](monster:Young Vortex Dragon)"
 		]
 	},
 	"Dragon (Planar, Apocalypse)": {
@@ -841,9 +841,9 @@
 			"Pathfinder #137: The City Outside of Time"
 		],
 		"members": [
-			"~`Adult Apocalypse Dragon`~",
-			"~`Ancient Apocalypse Dragon`~",
-			"~`Young Apocalypse Dragon`~ "
+			"[Adult Apocalypse Dragon](monster:Adult Apocalypse Dragon)",
+			"[Ancient Apocalypse Dragon](monster:Ancient Apocalypse Dragon)",
+			"[Young Apocalypse Dragon](monster:Young Apocalypse Dragon)"
 		]
 	},
 	"Dragon (Planar, Bliss)": {
@@ -853,9 +853,9 @@
 			"Pathfinder #137: The City Outside of Time"
 		],
 		"members": [
-			"~`Adult Bliss Dragon`~",
-			"~`Ancient Bliss Dragon`~",
-			"~`Young Bliss Dragon`~ "
+			"[Adult Bliss Dragon](monster:Adult Bliss Dragon)",
+			"[Ancient Bliss Dragon](monster:Ancient Bliss Dragon)",
+			"[Young Bliss Dragon](monster:Young Bliss Dragon)"
 		]
 	},
 	"Dragon (Planar, Crypt)": {
@@ -865,9 +865,9 @@
 			"Bestiary 6"
 		],
 		"members": [
-			"~`Adult Crypt Dragon`~",
-			"~`Ancient Crypt Dragon`~",
-			"~`Young Crypt Dragon`~ "
+			"[Adult Crypt Dragon](monster:Adult Crypt Dragon)",
+			"[Ancient Crypt Dragon](monster:Ancient Crypt Dragon)",
+			"[Young Crypt Dragon](monster:Young Crypt Dragon)"
 		]
 	},
 	"Dragon (Planar, Edict)": {
@@ -877,9 +877,9 @@
 			"Pathfinder #131: The Reaper's Right Hand"
 		],
 		"members": [
-			"~`Adult Edict Dragon`~",
-			"~`Ancient Edict Dragon`~",
-			"~`Young Edict Dragon`~ "
+			"[Adult Edict Dragon](monster:Adult Edict Dragon)",
+			"[Ancient Edict Dragon](monster:Ancient Edict Dragon)",
+			"[Young Edict Dragon](monster:Young Edict Dragon)"
 		]
 	},
 	"Dragon (Planar, Havoc)": {
@@ -889,9 +889,9 @@
 			"Bestiary 6"
 		],
 		"members": [
-			"~`Adult Havoc Dragon`~",
-			"~`Ancient Havoc Dragon`~",
-			"~`Young Havoc Dragon`~ "
+			"[Adult Havoc Dragon](monster:Adult Havoc Dragon)",
+			"[Ancient Havoc Dragon](monster:Ancient Havoc Dragon)",
+			"[Young Havoc Dragon](monster:Young Havoc Dragon)"
 		]
 	},
 	"Dragon (Planar, Infernal)": {
@@ -901,9 +901,9 @@
 			"Bestiary 6"
 		],
 		"members": [
-			"~`Adult Infernal Dragon`~",
-			"~`Ancient Infernal Dragon`~",
-			"~`Young Infernal Dragon`~ "
+			"[Adult Infernal Dragon](monster:Adult Infernal Dragon)",
+			"[Ancient Infernal Dragon](monster:Ancient Infernal Dragon)",
+			"[Young Infernal Dragon](monster:Young Infernal Dragon)"
 		]
 	},
 	"Dragon (Planar, Paradise)": {
@@ -913,9 +913,9 @@
 			"Bestiary 6"
 		],
 		"members": [
-			"~`Adult Paradise Dragon`~",
-			"~`Ancient Paradise Dragon`~",
-			"~`Young Paradise Dragon`~ "
+			"[Adult Paradise Dragon](monster:Adult Paradise Dragon)",
+			"[Ancient Paradise Dragon](monster:Ancient Paradise Dragon)",
+			"[Young Paradise Dragon](monster:Young Paradise Dragon)"
 		]
 	},
 	"Dragon (Planar, Rift)": {
@@ -925,9 +925,9 @@
 			"Bestiary 6"
 		],
 		"members": [
-			"~`Adult Rift Dragon`~",
-			"~`Ancient Rift Dragon`~",
-			"~`Young Rift Dragon`~ "
+			"[Adult Rift Dragon](monster:Adult Rift Dragon)",
+			"[Ancient Rift Dragon](monster:Ancient Rift Dragon)",
+			"[Young Rift Dragon](monster:Young Rift Dragon)"
 		]
 	},
 	"Dragon (Planar, Tumult)": {
@@ -937,9 +937,9 @@
 			"Pathfinder #138: Rise of New Thassilon"
 		],
 		"members": [
-			"~`Adult Tumult Dragon`~",
-			"~`Ancient Tumult Dragon`~",
-			"~`Young Tumult Dragon`~ "
+			"[Adult Tumult Dragon](monster:Adult Tumult Dragon)",
+			"[Ancient Tumult Dragon](monster:Ancient Tumult Dragon)",
+			"[Young Tumult Dragon](monster:Young Tumult Dragon)"
 		]
 	},
 	"Dragon (Primal, Brine)": {
@@ -949,9 +949,9 @@
 			"Bestiary 2"
 		],
 		"members": [
-			"~`Adult Brine Dragon`~",
-			"~`Ancient Brine Dragon`~",
-			"~`Young Brine Dragon`~ "
+			"[Adult Brine Dragon](monster:Adult Brine Dragon)",
+			"[Ancient Brine Dragon](monster:Ancient Brine Dragon)",
+			"[Young Brine Dragon](monster:Young Brine Dragon)"
 		]
 	},
 	"Dragon (Primal, Cloud)": {
@@ -961,9 +961,9 @@
 			"Bestiary 2"
 		],
 		"members": [
-			"~`Adult Cloud Dragon`~",
-			"~`Ancient Cloud Dragon`~",
-			"~`Young Cloud Dragon`~ "
+			"[Adult Cloud Dragon](monster:Adult Cloud Dragon)",
+			"[Ancient Cloud Dragon](monster:Ancient Cloud Dragon)",
+			"[Young Cloud Dragon](monster:Young Cloud Dragon)"
 		]
 	},
 	"Dragon (Primal, Crystal)": {
@@ -973,9 +973,9 @@
 			"Bestiary 2"
 		],
 		"members": [
-			"~`Adult Crystal Dragon`~",
-			"~`Ancient Crystal Dragon`~",
-			"~`Young Crystal Dragon`~ "
+			"[Adult Crystal Dragon](monster:Adult Crystal Dragon)",
+			"[Ancient Crystal Dragon](monster:Ancient Crystal Dragon)",
+			"[Young Crystal Dragon](monster:Young Crystal Dragon)"
 		]
 	},
 	"Dragon (Primal, Magma)": {
@@ -985,9 +985,9 @@
 			"Bestiary 2"
 		],
 		"members": [
-			"~`Adult Magma Dragon`~",
-			"~`Ancient Magma Dragon`~",
-			"~`Young Magma Dragon`~ "
+			"[Adult Magma Dragon](monster:Adult Magma Dragon)",
+			"[Ancient Magma Dragon](monster:Ancient Magma Dragon)",
+			"[Young Magma Dragon](monster:Young Magma Dragon)"
 		]
 	},
 	"Dragon (Primal, Umbral)": {
@@ -997,9 +997,9 @@
 			"Bestiary 2"
 		],
 		"members": [
-			"~`Adult Umbral Dragon`~",
-			"~`Ancient Umbral Dragon`~",
-			"~`Young Umbral Dragon`~ "
+			"[Adult Umbral Dragon](monster:Adult Umbral Dragon)",
+			"[Ancient Umbral Dragon](monster:Ancient Umbral Dragon)",
+			"[Young Umbral Dragon](monster:Young Umbral Dragon)"
 		]
 	},
 	"Dragon (Red)": {
@@ -1009,13 +1009,13 @@
 			"Pathfinder RPG Bestiary"
 		],
 		"members": [
-			"~`Adult Red Dragon`~",
-			"~`Ancient Red Dragon`~",
-			"~`Young Red Dragon`~ "
+			"[Adult Red Dragon](monster:Adult Red Dragon)",
+			"[Ancient Red Dragon](monster:Ancient Red Dragon)",
+			"[Young Red Dragon](monster:Young Red Dragon)"
 		],
 		"mythicMembers": [
-			"~`Wyrm Red Dragon`~",
-			"~`Young Red Dragon`~"
+			"[Wyrm Red Dragon](monster:Wyrm Red Dragon)",
+			"[Young Red Dragon](monster:Young Red Dragon)"
 		]
 	},
 	"Dragon (Silver)": {
@@ -1025,9 +1025,9 @@
 			"Pathfinder RPG Bestiary"
 		],
 		"members": [
-			"~`Adult Silver Dragon`~",
-			"~`Ancient Silver Dragon`~",
-			"~`Young Silver Dragon`~ "
+			"[Adult Silver Dragon](monster:Adult Silver Dragon)",
+			"[Ancient Silver Dragon](monster:Ancient Silver Dragon)",
+			"[Young Silver Dragon](monster:Young Silver Dragon)"
 		]
 	},
 	"Dragon (White)": {
@@ -1037,12 +1037,12 @@
 			"Pathfinder RPG Bestiary"
 		],
 		"members": [
-			"~`Adult White Dragon`~",
-			"~`Ancient White Dragon`~",
-			"~`Young White Dragon`~ "
+			"[Adult White Dragon](monster:Adult White Dragon)",
+			"[Ancient White Dragon](monster:Ancient White Dragon)",
+			"[Young White Dragon](monster:Young White Dragon)"
 		],
 		"mythicMembers": [
-			"~`Juvenile White Dragon`~"
+			"[Juvenile White Dragon](monster:Juvenile White Dragon)"
 		]
 	},
 	"Drake": {
@@ -1052,19 +1052,19 @@
 			"Bestiary 2"
 		],
 		"members": [
-			"~`Desert Drake`~",
-			"~`Ether Drake`~",
-			"~`Flame Drake`~",
-			"~`Forest Drake`~",
-			"~`Frost Drake`~",
-			"~`Jungle Drake`~",
-			"~`Lava Drake`~",
-			"~`Mist Drake`~",
-			"~`Rift Drake`~",
-			"~`River Drake`~",
-			"~`Sea Drake`~",
-			"~`Shadow Drake`~",
-			"~`Spire Drake`~ "
+			"[Desert Drake](monster:Desert Drake)",
+			"[Ether Drake](monster:Ether Drake)",
+			"[Flame Drake](monster:Flame Drake)",
+			"[Forest Drake](monster:Forest Drake)",
+			"[Frost Drake](monster:Frost Drake)",
+			"[Jungle Drake](monster:Jungle Drake)",
+			"[Lava Drake](monster:Lava Drake)",
+			"[Mist Drake](monster:Mist Drake)",
+			"[Rift Drake](monster:Rift Drake)",
+			"[River Drake](monster:River Drake)",
+			"[Sea Drake](monster:Sea Drake)",
+			"[Shadow Drake](monster:Shadow Drake)",
+			"[Spire Drake](monster:Spire Drake)"
 		]
 	},
 	"Elemental (Aether)": {
@@ -1074,12 +1074,12 @@
 			"Bestiary 5"
 		],
 		"members": [
-			"~`Elder Aether Elemental`~",
-			"~`Greater Aether Elemental`~",
-			"~`Huge Aether Elemental`~",
-			"~`Large Aether Elemental`~",
-			"~`Medium Aether Elemental`~",
-			"~`Small Aether Elemental`~"
+			"[Elder Aether Elemental](monster:Elder Aether Elemental)",
+			"[Greater Aether Elemental](monster:Greater Aether Elemental)",
+			"[Huge Aether Elemental](monster:Huge Aether Elemental)",
+			"[Large Aether Elemental](monster:Large Aether Elemental)",
+			"[Medium Aether Elemental](monster:Medium Aether Elemental)",
+			"[Small Aether Elemental](monster:Small Aether Elemental)"
 		]
 	},
 	"Elemental (Air)": {
@@ -1089,15 +1089,15 @@
 			"Pathfinder RPG Bestiary"
 		],
 		"members": [
-			"~`Elder Air Elemental`~",
-			"~`Greater Air Elemental`~",
-			"~`Huge Air Elemental`~",
-			"~`Large Air Elemental`~",
-			"~`Medium Air Elemental`~",
-			"~`Small Air Elemental`~ "
+			"[Elder Air Elemental](monster:Elder Air Elemental)",
+			"[Greater Air Elemental](monster:Greater Air Elemental)",
+			"[Huge Air Elemental](monster:Huge Air Elemental)",
+			"[Large Air Elemental](monster:Large Air Elemental)",
+			"[Medium Air Elemental](monster:Medium Air Elemental)",
+			"[Small Air Elemental](monster:Small Air Elemental)"
 		],
 		"mythicMembers": [
-			"~`Elder Air Elemental`~"
+			"[Elder Air Elemental](monster:Elder Air Elemental)"
 		]
 	},
 	"Elemental (Earth)": {
@@ -1107,15 +1107,15 @@
 			"Pathfinder RPG Bestiary"
 		],
 		"members": [
-			"~`Elder Earth Elemental`~",
-			"~`Greater Earth Elemental`~",
-			"~`Huge Earth Elemental`~",
-			"~`Large Earth Elemental`~",
-			"~`Medium Earth Elemental`~",
-			"~`Small Earth Elemental`~ "
+			"[Elder Earth Elemental](monster:Elder Earth Elemental)",
+			"[Greater Earth Elemental](monster:Greater Earth Elemental)",
+			"[Huge Earth Elemental](monster:Huge Earth Elemental)",
+			"[Large Earth Elemental](monster:Large Earth Elemental)",
+			"[Medium Earth Elemental](monster:Medium Earth Elemental)",
+			"[Small Earth Elemental](monster:Small Earth Elemental)"
 		],
 		"mythicMembers": [
-			"~`Elder Earth Elemental`~"
+			"[Elder Earth Elemental](monster:Elder Earth Elemental)"
 		]
 	},
 	"Elemental (Fire)": {
@@ -1125,15 +1125,15 @@
 			"Pathfinder RPG Bestiary"
 		],
 		"members": [
-			"~`Elder Fire Elemental`~",
-			"~`Greater Fire Elemental`~",
-			"~`Huge Fire Elemental`~",
-			"~`Large Fire Elemental`~",
-			"~`Medium Fire Elemental`~",
-			"~`Small Fire Elemental`~ "
+			"[Elder Fire Elemental](monster:Elder Fire Elemental)",
+			"[Greater Fire Elemental](monster:Greater Fire Elemental)",
+			"[Huge Fire Elemental](monster:Huge Fire Elemental)",
+			"[Large Fire Elemental](monster:Large Fire Elemental)",
+			"[Medium Fire Elemental](monster:Medium Fire Elemental)",
+			"[Small Fire Elemental](monster:Small Fire Elemental)"
 		],
 		"mythicMembers": [
-			"~`Elder Fire Elemental`~"
+			"[Elder Fire Elemental](monster:Elder Fire Elemental)"
 		]
 	},
 	"Elemental (Ice)": {
@@ -1143,12 +1143,12 @@
 			"Bestiary 2"
 		],
 		"members": [
-			"~`Elder Ice Elemental`~",
-			"~`Greater Ice Elemental`~",
-			"~`Huge Ice Elemental`~",
-			"~`Large Ice Elemental`~",
-			"~`Medium Ice Elemental`~",
-			"~`Small Ice Elemental`~ "
+			"[Elder Ice Elemental](monster:Elder Ice Elemental)",
+			"[Greater Ice Elemental](monster:Greater Ice Elemental)",
+			"[Huge Ice Elemental](monster:Huge Ice Elemental)",
+			"[Large Ice Elemental](monster:Large Ice Elemental)",
+			"[Medium Ice Elemental](monster:Medium Ice Elemental)",
+			"[Small Ice Elemental](monster:Small Ice Elemental)"
 		]
 	},
 	"Elemental (Lightning)": {
@@ -1158,12 +1158,12 @@
 			"Bestiary 2"
 		],
 		"members": [
-			"~`Elder Lightning Elemental`~",
-			"~`Greater Lightning Elemental`~",
-			"~`Huge Lightning Elemental`~",
-			"~`Large Lightning Elemental`~",
-			"~`Medium Lightning Elemental`~",
-			"~`Small Lightning Elemental`~ "
+			"[Elder Lightning Elemental](monster:Elder Lightning Elemental)",
+			"[Greater Lightning Elemental](monster:Greater Lightning Elemental)",
+			"[Huge Lightning Elemental](monster:Huge Lightning Elemental)",
+			"[Large Lightning Elemental](monster:Large Lightning Elemental)",
+			"[Medium Lightning Elemental](monster:Medium Lightning Elemental)",
+			"[Small Lightning Elemental](monster:Small Lightning Elemental)"
 		]
 	},
 	"Elemental (Magma)": {
@@ -1173,12 +1173,12 @@
 			"Bestiary 2"
 		],
 		"members": [
-			"~`Elder Magma Elemental`~",
-			"~`Greater Magma Elemental`~",
-			"~`Huge Magma Elemental`~",
-			"~`Large Magma Elemental`~",
-			"~`Medium Magma Elemental`~",
-			"~`Small Magma Elemental`~ "
+			"[Elder Magma Elemental](monster:Elder Magma Elemental)",
+			"[Greater Magma Elemental](monster:Greater Magma Elemental)",
+			"[Huge Magma Elemental](monster:Huge Magma Elemental)",
+			"[Large Magma Elemental](monster:Large Magma Elemental)",
+			"[Medium Magma Elemental](monster:Medium Magma Elemental)",
+			"[Small Magma Elemental](monster:Small Magma Elemental)"
 		]
 	},
 	"Elemental (Mud)": {
@@ -1188,12 +1188,12 @@
 			"Bestiary 2"
 		],
 		"members": [
-			"~`Elder Mud Elemental`~",
-			"~`Greater Mud Elemental`~",
-			"~`Huge Mud Elemental`~",
-			"~`Large Mud Elemental`~",
-			"~`Medium Mud Elemental`~",
-			"~`Small Mud Elemental`~ "
+			"[Elder Mud Elemental](monster:Elder Mud Elemental)",
+			"[Greater Mud Elemental](monster:Greater Mud Elemental)",
+			"[Huge Mud Elemental](monster:Huge Mud Elemental)",
+			"[Large Mud Elemental](monster:Large Mud Elemental)",
+			"[Medium Mud Elemental](monster:Medium Mud Elemental)",
+			"[Small Mud Elemental](monster:Small Mud Elemental)"
 		]
 	},
 	"Elemental (Water)": {
@@ -1203,15 +1203,15 @@
 			"Pathfinder RPG Bestiary"
 		],
 		"members": [
-			"~`Elder Water Elemental`~",
-			"~`Greater Water Elemental`~",
-			"~`Huge Water Elemental`~",
-			"~`Large Water Elemental`~",
-			"~`Medium Water Elemental`~",
-			"~`Small Water Elemental`~ "
+			"[Elder Water Elemental](monster:Elder Water Elemental)",
+			"[Greater Water Elemental](monster:Greater Water Elemental)",
+			"[Huge Water Elemental](monster:Huge Water Elemental)",
+			"[Large Water Elemental](monster:Large Water Elemental)",
+			"[Medium Water Elemental](monster:Medium Water Elemental)",
+			"[Small Water Elemental](monster:Small Water Elemental)"
 		],
 		"mythicMembers": [
-			"~`Elder Water Elemental`~"
+			"[Elder Water Elemental](monster:Elder Water Elemental)"
 		]
 	},
 	"Elemental Lord": {
@@ -1221,7 +1221,7 @@
 			"Planes of Power"
 		],
 		"members": [
-			"~`Ymeri`~"
+			"[Ymeri](monster:Ymeri)"
 		]
 	},
 	"Empyreal Lord": {
@@ -1231,13 +1231,13 @@
 			"Bestiary 4"
 		],
 		"members": [
-			"~`Arshea`~",
-			"~`Ashava`~",
-			"~`Black Butterfly`~",
-			"~`Cernunnos`~",
-			"~`Korada`~",
-			"~`Ragathiel`~",
-			"~`Vildeis`~ "
+			"[Arshea](monster:Arshea)",
+			"[Ashava](monster:Ashava)",
+			"[Black Butterfly](monster:Black Butterfly)",
+			"[Cernunnos](monster:Cernunnos)",
+			"[Korada](monster:Korada)",
+			"[Ragathiel](monster:Ragathiel)",
+			"[Vildeis](monster:Vildeis)"
 		]
 	},
 	"Entothrope": {
@@ -1247,36 +1247,25 @@
 			"Bestiary 6"
 		],
 		"members": [
-			"~`Weremantis (Human Form)`~",
-			"~`Weremantis (Hybrid Form)`~",
-			"~`Werespider (Human Form)`~",
-			"~`Werespider (Hybrid Form)`~",
-			"~`Werewasp (Human Form)`~",
-			"~`Werewasp (Hybrid Form)`~ "
+			"[Weremantis (Human Form)](monster:Weremantis (Human Form))",
+			"[Weremantis (Hybrid Form)](monster:Weremantis (Hybrid Form))",
+			"[Werespider (Human Form)](monster:Werespider (Human Form))",
+			"[Werespider (Hybrid Form)](monster:Werespider (Hybrid Form))",
+			"[Werewasp (Human Form)](monster:Werewasp (Human Form))",
+			"[Werewasp (Hybrid Form)](monster:Werewasp (Hybrid Form))"
 		]
 	},
 	"Exoskeleton": {
 		"monsterfamily": "Exoskeleton",
 		"file": "monsterfamiliesd1d9.html",
 		"sources": [
-			"Bestiary 6"
-		],
-		"members": [
-			"~`Exoskeleton Giant Cockroach`~",
-			"~`Exoskeleton Giant Stag Beetle`~",
-			"~`Exoskeleton Titan Centipede`~ "
-		]
-	},
-	"Exoskeleton": {
-		"monsterfamily": "Exoskeleton",
-		"file": "monsterfamiliesd1d9.html",
-		"sources": [
+			"Bestiary 6",
 			"Pathfinder #91: Battle of Bloodmarch Hills"
 		],
 		"members": [
-			"~`Exoskeleton Giant Cockroach`~",
-			"~`Exoskeleton Giant Stag Beetle`~",
-			"~`Exoskeleton Titan Centipede`~ "
+			"[Exoskeleton Giant Cockroach](monster:Exoskeleton Giant Cockroach)",
+			"[Exoskeleton Giant Stag Beetle](monster:Exoskeleton Giant Stag Beetle)",
+			"[Exoskeleton Titan Centipede](monster:Exoskeleton Titan Centipede)"
 		]
 	},
 	"Familiar": {
@@ -1286,84 +1275,84 @@
 			"Pathfinder RPG Bestiary"
 		],
 		"members": [
-			"~`Archaeopteryx`~",
-			"~`Arctic Hare`~",
-			"~`Arctic Tern`~",
-			"~`Armadillo`~",
-			"~`Bat`~",
-			"~`Blue-Ringed Octopus`~",
-			"~`Butterfly/Moth`~",
-			"~`Cat`~",
-			"~`Chicken`~",
-			"~`Cockroach`~",
-			"~`Creeper Ivy`~",
-			"~`Dodo`~",
-			"~`Donkey Rat`~",
-			"~`Dwarf Caiman`~",
-			"~`Dweomer Cap`~",
-			"~`Fire Salamander`~",
-			"~`Flowering Lattice`~",
-			"~`Flying Fox`~",
-			"~`Flying Squirrel`~",
-			"~`Fox`~",
-			"~`Giant Isopod`~",
-			"~`Giant Tardigrade`~",
-			"~`Goat`~",
-			"~`Hawk`~",
-			"~`Hedgehog`~",
-			"~`Horned Lizard`~",
-			"~`House Centipede`~",
-			"~`Ioun Wyrd`~",
-			"~`Jerboa`~",
-			"~`Kakapo`~",
-			"~`King Crab`~",
-			"~`Koala`~",
-			"~`Lamprey`~",
-			"~`Lemming`~",
-			"~`Leopard Slug`~",
-			"~`Lizard`~",
-			"~`Margay Cat`~",
-			"~`Meerkat`~",
-			"~`Mole (FF)`~",
-			"~`Mole (UW)`~",
-			"~`Monkey`~",
-			"~`Otter`~",
-			"~`Owl`~",
-			"~`Peacock`~",
-			"~`Peafowl`~",
-			"~`Penguin`~",
-			"~`Petrifern`~",
-			"~`Pig`~",
-			"~`Platypus`~",
-			"~`Popoto Dolphin`~",
-			"~`Ptarmigan`~",
-			"~`Pufferfish`~",
-			"~`Puffin`~",
-			"~`Rabbit`~",
-			"~`Raccoon`~",
-			"~`Rat`~",
-			"~`Raven`~",
-			"~`Ravenous Tumbleweed`~",
-			"~`Razor Fern`~",
-			"~`Red Panda`~",
-			"~`Rhamphorhynchus`~",
-			"~`Sawleg Locust`~",
-			"~`Scarlet Spider`~",
-			"~`Seal`~",
-			"~`Shimmerwing Dragonfly`~",
-			"~`Sloth`~",
-			"~`Spiny Starfish`~",
-			"~`Squirrel`~",
-			"~`Suture Vine`~",
-			"~`Tarsier`~",
-			"~`Thrush`~",
-			"~`Toad`~",
-			"~`Trilobite`~",
-			"~`Tuatara`~",
-			"~`Vampire Squid`~",
-			"~`Viper`~",
-			"~`Wallaby`~",
-			"~`Weasel`~ "
+			"[Archaeopteryx](monster:Archaeopteryx)",
+			"[Arctic Hare](monster:Arctic Hare)",
+			"[Arctic Tern](monster:Arctic Tern)",
+			"[Armadillo](monster:Armadillo)",
+			"[Bat](monster:Bat)",
+			"[Blue-Ringed Octopus](monster:Blue-Ringed Octopus)",
+			"[Butterfly/Moth](monster:Butterfly/Moth)",
+			"[Cat](monster:Cat)",
+			"[Chicken](monster:Chicken)",
+			"[Cockroach](monster:Cockroach)",
+			"[Creeper Ivy](monster:Creeper Ivy)",
+			"[Dodo](monster:Dodo)",
+			"[Donkey Rat](monster:Donkey Rat)",
+			"[Dwarf Caiman](monster:Dwarf Caiman)",
+			"[Dweomer Cap](monster:Dweomer Cap)",
+			"[Fire Salamander](monster:Fire Salamander)",
+			"[Flowering Lattice](monster:Flowering Lattice)",
+			"[Flying Fox](monster:Flying Fox)",
+			"[Flying Squirrel](monster:Flying Squirrel)",
+			"[Fox](monster:Fox)",
+			"[Giant Isopod](monster:Giant Isopod)",
+			"[Giant Tardigrade](monster:Giant Tardigrade)",
+			"[Goat](monster:Goat)",
+			"[Hawk](monster:Hawk)",
+			"[Hedgehog](monster:Hedgehog)",
+			"[Horned Lizard](monster:Horned Lizard)",
+			"[House Centipede](monster:House Centipede)",
+			"[Ioun Wyrd](monster:Ioun Wyrd)",
+			"[Jerboa](monster:Jerboa)",
+			"[Kakapo](monster:Kakapo)",
+			"[King Crab](monster:King Crab)",
+			"[Koala](monster:Koala)",
+			"[Lamprey](monster:Lamprey)",
+			"[Lemming](monster:Lemming)",
+			"[Leopard Slug](monster:Leopard Slug)",
+			"[Lizard](monster:Lizard)",
+			"[Margay Cat](monster:Margay Cat)",
+			"[Meerkat](monster:Meerkat)",
+			"[Mole (FF)](monster:Mole (FF))",
+			"[Mole (UW)](monster:Mole (UW))",
+			"[Monkey](monster:Monkey)",
+			"[Otter](monster:Otter)",
+			"[Owl](monster:Owl)",
+			"[Peacock](monster:Peacock)",
+			"[Peafowl](monster:Peafowl)",
+			"[Penguin](monster:Penguin)",
+			"[Petrifern](monster:Petrifern)",
+			"[Pig](monster:Pig)",
+			"[Platypus](monster:Platypus)",
+			"[Popoto Dolphin](monster:Popoto Dolphin)",
+			"[Ptarmigan](monster:Ptarmigan)",
+			"[Pufferfish](monster:Pufferfish)",
+			"[Puffin](monster:Puffin)",
+			"[Rabbit](monster:Rabbit)",
+			"[Raccoon](monster:Raccoon)",
+			"[Rat](monster:Rat)",
+			"[Raven](monster:Raven)",
+			"[Ravenous Tumbleweed](monster:Ravenous Tumbleweed)",
+			"[Razor Fern](monster:Razor Fern)",
+			"[Red Panda](monster:Red Panda)",
+			"[Rhamphorhynchus](monster:Rhamphorhynchus)",
+			"[Sawleg Locust](monster:Sawleg Locust)",
+			"[Scarlet Spider](monster:Scarlet Spider)",
+			"[Seal](monster:Seal)",
+			"[Shimmerwing Dragonfly](monster:Shimmerwing Dragonfly)",
+			"[Sloth](monster:Sloth)",
+			"[Spiny Starfish](monster:Spiny Starfish)",
+			"[Squirrel](monster:Squirrel)",
+			"[Suture Vine](monster:Suture Vine)",
+			"[Tarsier](monster:Tarsier)",
+			"[Thrush](monster:Thrush)",
+			"[Toad](monster:Toad)",
+			"[Trilobite](monster:Trilobite)",
+			"[Tuatara](monster:Tuatara)",
+			"[Vampire Squid](monster:Vampire Squid)",
+			"[Viper](monster:Viper)",
+			"[Wallaby](monster:Wallaby)",
+			"[Weasel](monster:Weasel)"
 		]
 	},
 	"Fiend-Bred Animal": {
@@ -1373,9 +1362,9 @@
 			"Pathfinder #103: The Hellfire Compact"
 		],
 		"members": [
-			"~`Chelish Hell-Bred Dog`~",
-			"~`Quillcat`~",
-			"~`Stygian Hot-Blooded Horse`~ "
+			"[Chelish Hell-Bred Dog](monster:Chelish Hell-Bred Dog)",
+			"[Quillcat](monster:Quillcat)",
+			"[Stygian Hot-Blooded Horse](monster:Stygian Hot-Blooded Horse)"
 		]
 	},
 	"Fleshwarp": {
@@ -1385,12 +1374,12 @@
 			"Bestiary 4"
 		],
 		"members": [
-			"~`Drider`~",
-			"~`Ghonhatine`~",
-			"~`Grothlut`~",
-			"~`Halsora`~",
-			"~`Irnakurse`~",
-			"~`Oronci`~ "
+			"[Drider](monster:Drider)",
+			"[Ghonhatine](monster:Ghonhatine)",
+			"[Grothlut](monster:Grothlut)",
+			"[Halsora](monster:Halsora)",
+			"[Irnakurse](monster:Irnakurse)",
+			"[Oronci](monster:Oronci)"
 		]
 	},
 	"Formian": {
@@ -1400,11 +1389,11 @@
 			"Bestiary 4"
 		],
 		"members": [
-			"~`Formian Myrmarch`~",
-			"~`Formian Queen`~",
-			"~`Formian Taskmaster`~",
-			"~`Formian Warrior`~",
-			"~`Formian Worker`~ "
+			"[Formian Myrmarch](monster:Formian Myrmarch)",
+			"[Formian Queen](monster:Formian Queen)",
+			"[Formian Taskmaster](monster:Formian Taskmaster)",
+			"[Formian Warrior](monster:Formian Warrior)",
+			"[Formian Worker](monster:Formian Worker)"
 		]
 	},
 	"Gargoyle": {
@@ -1414,11 +1403,11 @@
 			"Classic Horrors Revisited"
 		],
 		"members": [
-			"~`Four-Armed Gargoyle`~",
-			"~`Gargoyle`~",
-			"~`Gargoyle Abductor`~",
-			"~`Gargoyle Guardian`~",
-			"~`Kapoacinth Hunter`~ "
+			"[Four-Armed Gargoyle](monster:Four-Armed Gargoyle)",
+			"[Gargoyle](monster:Gargoyle)",
+			"[Gargoyle Abductor](monster:Gargoyle Abductor)",
+			"[Gargoyle Guardian](monster:Gargoyle Guardian)",
+			"[Kapoacinth Hunter](monster:Kapoacinth Hunter)"
 		]
 	},
 	"Genie": {
@@ -1428,11 +1417,11 @@
 			"Pathfinder RPG Bestiary"
 		],
 		"members": [
-			"~`Djinni`~",
-			"~`Efreeti`~",
-			"~`Janni`~",
-			"~`Marid`~",
-			"~`Shaitan`~ "
+			"[Djinni](monster:Djinni)",
+			"[Efreeti](monster:Efreeti)",
+			"[Janni](monster:Janni)",
+			"[Marid](monster:Marid)",
+			"[Shaitan](monster:Shaitan)"
 		]
 	},
 	"Gigas": {
@@ -1442,9 +1431,9 @@
 			"Pathfinder #30: The Twice-Damned Prince"
 		],
 		"members": [
-			"~`Abaddon Gigas`~",
-			"~`Abyss Gigas`~",
-			"~`Hell Gigas`~ "
+			"[Abaddon Gigas](monster:Abaddon Gigas)",
+			"[Abyss Gigas](monster:Abyss Gigas)",
+			"[Hell Gigas](monster:Hell Gigas)"
 		]
 	},
 	"Golem": {
@@ -1454,51 +1443,51 @@
 			"Pathfinder RPG Bestiary"
 		],
 		"members": [
-			"~`Adamantine Golem`~",
-			"~`Alchemical Golem`~",
-			"~`Behemoth Golem`~",
-			"~`Blood Golem`~",
-			"~`Bone Golem`~",
-			"~`Brass Golem`~",
-			"~`Cannon Golem`~",
-			"~`Carrion Golem`~",
-			"~`Clay Golem`~",
-			"~`Clockwork Golem`~",
-			"~`Coral Golem`~",
-			"~`Crystal Golem`~",
-			"~`Dragonhide Golem`~",
-			"~`Equine Bone Golem`~",
-			"~`Fiend-Infused Golem`~",
-			"~`Flesh Golem`~",
-			"~`Fossil Golem`~",
-			"~`Glass Golem`~",
-			"~`Gold Golem`~",
-			"~`Ice Golem`~",
-			"~`Inubrix Golem`~",
-			"~`Ioun Golem`~",
-			"~`Iron Golem`~",
-			"~`Junk Golem`~",
-			"~`Lead Golem`~",
-			"~`Magnetitie Golem`~",
-			"~`Marrowstone Golem`~",
-			"~`Mask Golem`~",
-			"~`Mithral Golem`~",
-			"~`Noqual Golem`~",
-			"~`Obsidian Golem`~",
-			"~`Panthereon`~",
-			"~`Quantium Golem`~",
-			"~`Quintessence Golem`~",
-			"~`Robot Golem`~",
-			"~`Sand Golem`~",
-			"~`Sentient Wax Golem`~",
-			"~`Shadow Golem`~",
-			"~`Stone Golem`~",
-			"~`Viridium Golem`~",
-			"~`Wax Golem`~",
-			"~`Wood Golem`~ "
+			"[Adamantine Golem](monster:Adamantine Golem)",
+			"[Alchemical Golem](monster:Alchemical Golem)",
+			"[Behemoth Golem](monster:Behemoth Golem)",
+			"[Blood Golem](monster:Blood Golem)",
+			"[Bone Golem](monster:Bone Golem)",
+			"[Brass Golem](monster:Brass Golem)",
+			"[Cannon Golem](monster:Cannon Golem)",
+			"[Carrion Golem](monster:Carrion Golem)",
+			"[Clay Golem](monster:Clay Golem)",
+			"[Clockwork Golem](monster:Clockwork Golem)",
+			"[Coral Golem](monster:Coral Golem)",
+			"[Crystal Golem](monster:Crystal Golem)",
+			"[Dragonhide Golem](monster:Dragonhide Golem)",
+			"[Equine Bone Golem](monster:Equine Bone Golem)",
+			"[Fiend-Infused Golem](monster:Fiend-Infused Golem)",
+			"[Flesh Golem](monster:Flesh Golem)",
+			"[Fossil Golem](monster:Fossil Golem)",
+			"[Glass Golem](monster:Glass Golem)",
+			"[Gold Golem](monster:Gold Golem)",
+			"[Ice Golem](monster:Ice Golem)",
+			"[Inubrix Golem](monster:Inubrix Golem)",
+			"[Ioun Golem](monster:Ioun Golem)",
+			"[Iron Golem](monster:Iron Golem)",
+			"[Junk Golem](monster:Junk Golem)",
+			"[Lead Golem](monster:Lead Golem)",
+			"[Magnetitie Golem](monster:Magnetitie Golem)",
+			"[Marrowstone Golem](monster:Marrowstone Golem)",
+			"[Mask Golem](monster:Mask Golem)",
+			"[Mithral Golem](monster:Mithral Golem)",
+			"[Noqual Golem](monster:Noqual Golem)",
+			"[Obsidian Golem](monster:Obsidian Golem)",
+			"[Panthereon](monster:Panthereon)",
+			"[Quantium Golem](monster:Quantium Golem)",
+			"[Quintessence Golem](monster:Quintessence Golem)",
+			"[Robot Golem](monster:Robot Golem)",
+			"[Sand Golem](monster:Sand Golem)",
+			"[Sentient Wax Golem](monster:Sentient Wax Golem)",
+			"[Shadow Golem](monster:Shadow Golem)",
+			"[Stone Golem](monster:Stone Golem)",
+			"[Viridium Golem](monster:Viridium Golem)",
+			"[Wax Golem](monster:Wax Golem)",
+			"[Wood Golem](monster:Wood Golem)"
 		],
 		"mythicMembers": [
-			"~`Flesh Golem`~"
+			"[Flesh Golem](monster:Flesh Golem)"
 		]
 	},
 	"Great Old One": {
@@ -1508,19 +1497,19 @@
 			"Bestiary 4"
 		],
 		"members": [
-			"~`Atlach-Nacha`~",
-			"~`Bokrug`~",
-			"~`Cthulhu`~",
-			"~`Ghatanothoa`~",
-			"~`Hastur`~",
-			"~`Ithaqua`~",
-			"~`Mhar`~",
-			"~`Mordiggian`~",
-			"~`Rhan-Tegoth`~",
-			"~`Tawil At'umr`~",
-			"~`Tsathoggua`~",
-			"~`Xhamen-Dor`~",
-			"~`Yig`~ "
+			"[Atlach-Nacha](monster:Atlach-Nacha)",
+			"[Bokrug](monster:Bokrug)",
+			"[Cthulhu](monster:Cthulhu)",
+			"[Ghatanothoa](monster:Ghatanothoa)",
+			"[Hastur](monster:Hastur)",
+			"[Ithaqua](monster:Ithaqua)",
+			"[Mhar](monster:Mhar)",
+			"[Mordiggian](monster:Mordiggian)",
+			"[Rhan-Tegoth](monster:Rhan-Tegoth)",
+			"[Tawil At'umr](monster:Tawil At'umr)",
+			"[Tsathoggua](monster:Tsathoggua)",
+			"[Xhamen-Dor](monster:Xhamen-Dor)",
+			"[Yig](monster:Yig)"
 		]
 	},
 	"Gremlin": {
@@ -1530,18 +1519,18 @@
 			"Bestiary 2"
 		],
 		"members": [
-			"~`Drexin`~",
-			"~`Erinat`~",
-			"~`Fuath`~",
-			"~`Grimple`~",
-			"~`Haniver`~",
-			"~`Hobkins`~",
-			"~`Jinkin`~",
-			"~`Monaciello`~",
-			"~`Nuglub`~",
-			"~`Nuno`~",
-			"~`Pugwampi`~",
-			"~`Vexgit`~ "
+			"[Drexin](monster:Drexin)",
+			"[Erinat](monster:Erinat)",
+			"[Fuath](monster:Fuath)",
+			"[Grimple](monster:Grimple)",
+			"[Haniver](monster:Haniver)",
+			"[Hobkins](monster:Hobkins)",
+			"[Jinkin](monster:Jinkin)",
+			"[Monaciello](monster:Monaciello)",
+			"[Nuglub](monster:Nuglub)",
+			"[Nuno](monster:Nuno)",
+			"[Pugwampi](monster:Pugwampi)",
+			"[Vexgit](monster:Vexgit)"
 		]
 	},
 	"Hag": {
@@ -1551,17 +1540,17 @@
 			"Classic Horrors Revisited"
 		],
 		"members": [
-			"~`Annis Hag`~",
-			"~`Ash Hag`~",
-			"~`Blood Hag`~",
-			"~`Dreamthief Hag`~",
-			"~`Green Hag`~",
-			"~`Moon Hag`~",
-			"~`Mute Hag`~",
-			"~`Night Hag`~",
-			"~`Sea Hag`~",
-			"~`Storm Hag`~",
-			"~`Winter Hag`~ "
+			"[Annis Hag](monster:Annis Hag)",
+			"[Ash Hag](monster:Ash Hag)",
+			"[Blood Hag](monster:Blood Hag)",
+			"[Dreamthief Hag](monster:Dreamthief Hag)",
+			"[Green Hag](monster:Green Hag)",
+			"[Moon Hag](monster:Moon Hag)",
+			"[Mute Hag](monster:Mute Hag)",
+			"[Night Hag](monster:Night Hag)",
+			"[Sea Hag](monster:Sea Hag)",
+			"[Storm Hag](monster:Storm Hag)",
+			"[Winter Hag](monster:Winter Hag)"
 		]
 	},
 	"Herald": {
@@ -1571,35 +1560,35 @@
 			"Inner Sea Gods"
 		],
 		"members": [
-			"~`Arcanotheign`~",
-			"~`Basileus`~",
-			"~`End's Voice`~",
-			"~`Gravedragger`~",
-			"~`Great Elder Iuu`~",
-			"~`Hand of the Inheritor`~",
-			"~`Latten Mechanism`~",
-			"~`Lawgiver`~",
-			"~`Lawgiver`~",
-			"~`Mother's Maw`~",
-			"~`Mother's Maw`~",
-			"~`Night Monarch`~",
-			"~`Night Monarch`~",
-			"~`Personification of Fury`~",
-			"~`Steward of the Skein`~",
-			"~`Sunlord Thalachos`~",
-			"~`Tarrasque`~",
-			"~`Thais`~",
-			"~`The First Blade`~",
-			"~`The Grand Defender`~",
-			"~`The Grim White Stag`~",
-			"~`The Menotherian`~",
-			"~`The Old Man`~",
-			"~`The Prince in Chains`~",
-			"~`The Prince in Chains`~",
-			"~`The Spirit of Adoration`~",
-			"~`The Stabbing Beast`~",
-			"~`Yethazmari`~",
-			"~`Yethazmari`~ "
+			"[Arcanotheign](monster:Arcanotheign)",
+			"[Basileus](monster:Basileus)",
+			"[End's Voice](monster:End's Voice)",
+			"[Gravedragger](monster:Gravedragger)",
+			"[Great Elder Iuu](monster:Great Elder Iuu)",
+			"[Hand of the Inheritor](monster:Hand of the Inheritor)",
+			"[Latten Mechanism](monster:Latten Mechanism)",
+			"[Lawgiver](monster:Lawgiver)",
+			"[Lawgiver](monster:Lawgiver)",
+			"[Mother's Maw](monster:Mother's Maw)",
+			"[Mother's Maw](monster:Mother's Maw)",
+			"[Night Monarch](monster:Night Monarch)",
+			"[Night Monarch](monster:Night Monarch)",
+			"[Personification of Fury](monster:Personification of Fury)",
+			"[Steward of the Skein](monster:Steward of the Skein)",
+			"[Sunlord Thalachos](monster:Sunlord Thalachos)",
+			"[Tarrasque](monster:Tarrasque)",
+			"[Thais](monster:Thais)",
+			"[The First Blade](monster:The First Blade)",
+			"[The Grand Defender](monster:The Grand Defender)",
+			"[The Grim White Stag](monster:The Grim White Stag)",
+			"[The Menotherian](monster:The Menotherian)",
+			"[The Old Man](monster:The Old Man)",
+			"[The Prince in Chains](monster:The Prince in Chains)",
+			"[The Prince in Chains](monster:The Prince in Chains)",
+			"[The Spirit of Adoration](monster:The Spirit of Adoration)",
+			"[The Stabbing Beast](monster:The Stabbing Beast)",
+			"[Yethazmari](monster:Yethazmari)",
+			"[Yethazmari](monster:Yethazmari)"
 		]
 	},
 	"Herd Animal": {
@@ -1609,15 +1598,15 @@
 			"Pathfinder RPG Bestiary"
 		],
 		"members": [
-			"~`Antelope`~",
-			"~`Aurochs`~",
-			"~`Bison`~",
-			"~`Camel`~",
-			"~`Elk`~",
-			"~`Giraffe`~",
-			"~`Ram`~",
-			"~`River Elk`~",
-			"~`Stag`~ "
+			"[Antelope](monster:Antelope)",
+			"[Aurochs](monster:Aurochs)",
+			"[Bison](monster:Bison)",
+			"[Camel](monster:Camel)",
+			"[Elk](monster:Elk)",
+			"[Giraffe](monster:Giraffe)",
+			"[Ram](monster:Ram)",
+			"[River Elk](monster:River Elk)",
+			"[Stag](monster:Stag)"
 		]
 	},
 	"Hive": {
@@ -1627,10 +1616,10 @@
 			"Horror Adventures"
 		],
 		"members": [
-			"~`Hive Brute`~",
-			"~`Hive Larva Swarm`~",
-			"~`Hive Queen`~",
-			"~`Hive Warrior`~ "
+			"[Hive Brute](monster:Hive Brute)",
+			"[Hive Larva Swarm](monster:Hive Larva Swarm)",
+			"[Hive Queen](monster:Hive Queen)",
+			"[Hive Warrior](monster:Hive Warrior)"
 		]
 	},
 	"Horsemen of the Apocalypse": {
@@ -1640,34 +1629,23 @@
 			"Bestiary 6"
 		],
 		"members": [
-			"~`Apollyon`~",
-			"~`Charon`~",
-			"~`Szuriel`~",
-			"~`Trelmarixian`~ "
+			"[Apollyon](monster:Apollyon)",
+			"[Charon](monster:Charon)",
+			"[Szuriel](monster:Szuriel)",
+			"[Trelmarixian](monster:Trelmarixian)"
 		]
 	},
 	"House Spirit": {
 		"monsterfamily": "House Spirit",
 		"file": "monsterfamiliesa688.html",
 		"sources": [
-			"Bestiary 5"
-		],
-		"members": [
-			"~`Domovoi`~",
-			"~`Dvorovoi`~",
-			"~`Ovinnik`~ "
-		]
-	},
-	"House Spirit": {
-		"monsterfamily": "House Spirit",
-		"file": "monsterfamiliesa688.html",
-		"sources": [
+			"Bestiary 5",
 			"Pathfinder #67: The Snows of Summer"
 		],
 		"members": [
-			"~`Domovoi`~",
-			"~`Dvorovoi`~",
-			"~`Ovinnik`~ "
+			"[Domovoi](monster:Domovoi)",
+			"[Dvorovoi](monster:Dvorovoi)",
+			"[Ovinnik](monster:Ovinnik)"
 		]
 	},
 	"Idol": {
@@ -1677,10 +1655,10 @@
 			"Pathfinder #27: What Lies in Dust"
 		],
 		"members": [
-			"~`Bone`~",
-			"~`Jade`~",
-			"~`Stone`~",
-			"~`Wood`~ "
+			"[Bone](monster:Bone)",
+			"[Jade](monster:Jade)",
+			"[Stone](monster:Stone)",
+			"[Wood](monster:Wood)"
 		]
 	},
 	"Inevitable": {
@@ -1690,18 +1668,18 @@
 			"Bestiary 2"
 		],
 		"members": [
-			"~`Arbiter`~",
-			"~`Hykariut`~",
-			"~`Impariut`~",
-			"~`Kastamut`~",
-			"~`Kolyarut`~",
-			"~`Lhaksharut`~",
-			"~`Marut`~",
-			"~`Novenarut`~",
-			"~`Rokyamut`~",
-			"~`Valharut`~",
-			"~`Yarahkut`~",
-			"~`Zelekhut`~ "
+			"[Arbiter](monster:Arbiter)",
+			"[Hykariut](monster:Hykariut)",
+			"[Impariut](monster:Impariut)",
+			"[Kastamut](monster:Kastamut)",
+			"[Kolyarut](monster:Kolyarut)",
+			"[Lhaksharut](monster:Lhaksharut)",
+			"[Marut](monster:Marut)",
+			"[Novenarut](monster:Novenarut)",
+			"[Rokyamut](monster:Rokyamut)",
+			"[Valharut](monster:Valharut)",
+			"[Yarahkut](monster:Yarahkut)",
+			"[Zelekhut](monster:Zelekhut)"
 		]
 	},
 	"Kaiju": {
@@ -1711,12 +1689,12 @@
 			"Bestiary 4"
 		],
 		"members": [
-			"~`Agyra`~",
-			"~`Bezravnis`~",
-			"~`Mogaru`~",
-			"~`Varklops`~",
-			"~`Vorgozen`~",
-			"~`Yarthoon`~ "
+			"[Agyra](monster:Agyra)",
+			"[Bezravnis](monster:Bezravnis)",
+			"[Mogaru](monster:Mogaru)",
+			"[Varklops](monster:Varklops)",
+			"[Vorgozen](monster:Vorgozen)",
+			"[Yarthoon](monster:Yarthoon)"
 		]
 	},
 	"Kami": {
@@ -1726,16 +1704,16 @@
 			"Bestiary 3"
 		],
 		"members": [
-			"~`Dosojin`~",
-			"~`Dunagh`~",
-			"~`Fukujin`~",
-			"~`Jinushigami`~",
-			"~`Kaminari`~",
-			"~`Kodama`~",
-			"~`Shikigami`~",
-			"~`Suijin`~",
-			"~`Toshigami`~",
-			"~`Zuishin`~ "
+			"[Dosojin](monster:Dosojin)",
+			"[Dunagh](monster:Dunagh)",
+			"[Fukujin](monster:Fukujin)",
+			"[Jinushigami](monster:Jinushigami)",
+			"[Kaminari](monster:Kaminari)",
+			"[Kodama](monster:Kodama)",
+			"[Shikigami](monster:Shikigami)",
+			"[Suijin](monster:Suijin)",
+			"[Toshigami](monster:Toshigami)",
+			"[Zuishin](monster:Zuishin)"
 		]
 	},
 	"Kyton": {
@@ -1745,22 +1723,22 @@
 			"Bestiary 3"
 		],
 		"members": [
-			"~`Apocrisiarius`~",
-			"~`Apostle Kyton`~",
-			"~`Augur`~",
-			"~`Cantor`~",
-			"~`Ephialtes`~",
-			"~`Eremite`~",
-			"~`Interlocutor`~",
-			"~`Kyton`~",
-			"~`Lampadarius`~",
-			"~`Libitinarii`~",
-			"~`Oitos`~",
-			"~`Ostiarius`~",
-			"~`Phylacator`~",
-			"~`Sacristan`~",
-			"~`Suffragan`~",
-			"~`Termagant`~ "
+			"[Apocrisiarius](monster:Apocrisiarius)",
+			"[Apostle Kyton](monster:Apostle Kyton)",
+			"[Augur](monster:Augur)",
+			"[Cantor](monster:Cantor)",
+			"[Ephialtes](monster:Ephialtes)",
+			"[Eremite](monster:Eremite)",
+			"[Interlocutor](monster:Interlocutor)",
+			"[Kyton](monster:Kyton)",
+			"[Lampadarius](monster:Lampadarius)",
+			"[Libitinarii](monster:Libitinarii)",
+			"[Oitos](monster:Oitos)",
+			"[Ostiarius](monster:Ostiarius)",
+			"[Phylacator](monster:Phylacator)",
+			"[Sacristan](monster:Sacristan)",
+			"[Suffragan](monster:Suffragan)",
+			"[Termagant](monster:Termagant)"
 		]
 	},
 	"Kyton Demagogue": {
@@ -1770,7 +1748,7 @@
 			"Pathfinder #137: The City Outside of Time"
 		],
 		"members": [
-			"~`Inkariax`~"
+			"[Inkariax](monster:Inkariax)"
 		]
 	},
 	"Leshy": {
@@ -1780,16 +1758,16 @@
 			"Bestiary 3"
 		],
 		"members": [
-			"~`Cactus Leshy`~",
-			"~`Flytrap Leshy`~",
-			"~`Fungus Leshy`~",
-			"~`Gourd Leshy`~",
-			"~`Leaf Leshy`~",
-			"~`Lichen Leshy`~",
-			"~`Lotus Leshy`~",
-			"~`Seaweed Leshy`~",
-			"~`Snapdragon Leshy`~",
-			"~`Sunflower Leshy`~ "
+			"[Cactus Leshy](monster:Cactus Leshy)",
+			"[Flytrap Leshy](monster:Flytrap Leshy)",
+			"[Fungus Leshy](monster:Fungus Leshy)",
+			"[Gourd Leshy](monster:Gourd Leshy)",
+			"[Leaf Leshy](monster:Leaf Leshy)",
+			"[Lichen Leshy](monster:Lichen Leshy)",
+			"[Lotus Leshy](monster:Lotus Leshy)",
+			"[Seaweed Leshy](monster:Seaweed Leshy)",
+			"[Snapdragon Leshy](monster:Snapdragon Leshy)",
+			"[Sunflower Leshy](monster:Sunflower Leshy)"
 		]
 	},
 	"Linnorm": {
@@ -1799,15 +1777,15 @@
 			"Bestiary 3"
 		],
 		"members": [
-			"~`Cairn Linnorm`~",
-			"~`Crag Linnorm`~",
-			"~`Fjord Linnorm`~",
-			"~`Gare Linnorm`~",
-			"~`Ice Linnorm`~",
-			"~`Sea Linnorm`~",
-			"~`Taiga Linnorm`~",
-			"~`Tarn Linnorm`~",
-			"~`Tor Linnorm`~ "
+			"[Cairn Linnorm](monster:Cairn Linnorm)",
+			"[Crag Linnorm](monster:Crag Linnorm)",
+			"[Fjord Linnorm](monster:Fjord Linnorm)",
+			"[Gare Linnorm](monster:Gare Linnorm)",
+			"[Ice Linnorm](monster:Ice Linnorm)",
+			"[Sea Linnorm](monster:Sea Linnorm)",
+			"[Taiga Linnorm](monster:Taiga Linnorm)",
+			"[Tarn Linnorm](monster:Tarn Linnorm)",
+			"[Tor Linnorm](monster:Tor Linnorm)"
 		]
 	},
 	"Lurking Ray": {
@@ -1817,9 +1795,9 @@
 			"Bestiary 4"
 		],
 		"members": [
-			"~`Executioner's Hood`~",
-			"~`Lurker Above`~",
-			"~`Trapper`~ "
+			"[Executioner's Hood](monster:Executioner's Hood)",
+			"[Lurker Above](monster:Lurker Above)",
+			"[Trapper](monster:Trapper)"
 		]
 	},
 	"Lycanthrope": {
@@ -1829,26 +1807,26 @@
 			"Pathfinder RPG Bestiary"
 		],
 		"members": [
-			"~`Silverblood Lycanthrope (Human Form)`~",
-			"~`Silverblood Werewolf (Hybrid Form)`~",
-			"~`Werebat (Human Form)`~",
-			"~`Werebat (Hybrid Form)`~",
-			"~`Werebear (Human Form)`~",
-			"~`Werebear (Hybrid Form)`~",
-			"~`Wereboar (Human Form)`~",
-			"~`Wereboar (Hybrid Form)`~",
-			"~`Werecrocodile (Human Form)`~",
-			"~`Werecrocodile (Hybrid Form)`~",
-			"~`Wereraptor (Human Form)`~",
-			"~`Wereraptor (Hybrid Form)`~",
-			"~`Wererat (Human Form)`~",
-			"~`Wererat (Hybrid Form)`~",
-			"~`Wereshark (Human Form)`~",
-			"~`Wereshark (Hybrid Form)`~",
-			"~`Weretiger (Human Form)`~",
-			"~`Weretiger (Hybrid Form)`~",
-			"~`Werewolf (Human Form)`~",
-			"~`Werewolf (Hybrid Form)`~ "
+			"[Silverblood Lycanthrope (Human Form)](monster:Silverblood Lycanthrope (Human Form))",
+			"[Silverblood Werewolf (Hybrid Form)](monster:Silverblood Werewolf (Hybrid Form))",
+			"[Werebat (Human Form)](monster:Werebat (Human Form))",
+			"[Werebat (Hybrid Form)](monster:Werebat (Hybrid Form))",
+			"[Werebear (Human Form)](monster:Werebear (Human Form))",
+			"[Werebear (Hybrid Form)](monster:Werebear (Hybrid Form))",
+			"[Wereboar (Human Form)](monster:Wereboar (Human Form))",
+			"[Wereboar (Hybrid Form)](monster:Wereboar (Hybrid Form))",
+			"[Werecrocodile (Human Form)](monster:Werecrocodile (Human Form))",
+			"[Werecrocodile (Hybrid Form)](monster:Werecrocodile (Hybrid Form))",
+			"[Wereraptor (Human Form)](monster:Wereraptor (Human Form))",
+			"[Wereraptor (Hybrid Form)](monster:Wereraptor (Hybrid Form))",
+			"[Wererat (Human Form)](monster:Wererat (Human Form))",
+			"[Wererat (Hybrid Form)](monster:Wererat (Hybrid Form))",
+			"[Wereshark (Human Form)](monster:Wereshark (Human Form))",
+			"[Wereshark (Hybrid Form)](monster:Wereshark (Hybrid Form))",
+			"[Weretiger (Human Form)](monster:Weretiger (Human Form))",
+			"[Weretiger (Hybrid Form)](monster:Weretiger (Hybrid Form))",
+			"[Werewolf (Human Form)](monster:Werewolf (Human Form))",
+			"[Werewolf (Hybrid Form)](monster:Werewolf (Hybrid Form))"
 		]
 	},
 	"Manasaputra": {
@@ -1858,13 +1836,13 @@
 			"Bestiary 5"
 		],
 		"members": [
-			"~`Maharishi Manu`~",
-			"~`Manu`~",
-			"~`Rishi Manu`~",
-			"~`Twilight Pitri (Barhisad)`~ "
+			"[Maharishi Manu](monster:Maharishi Manu)",
+			"[Manu](monster:Manu)",
+			"[Rishi Manu](monster:Rishi Manu)",
+			"[Twilight Pitri (Barhisad)](monster:Twilight Pitri (Barhisad))"
 		],
 		"mythicMembers": [
-			"~`Solar Pitri (Agnishvatta)`~"
+			"[Solar Pitri (Agnishvatta)](monster:Solar Pitri (Agnishvatta))"
 		]
 	},
 	"Megafauna": {
@@ -1874,23 +1852,23 @@
 			"Pathfinder RPG Bestiary"
 		],
 		"members": [
-			"~`Archelon`~",
-			"~`Arsinoitherium`~",
-			"~`Baluchitherium`~",
-			"~`Basilosaurus`~",
-			"~`Brontotherium`~",
-			"~`Chalicotherium`~",
-			"~`Deinotherium`~",
-			"~`Elasmotherium`~",
-			"~`Embolotherium`~",
-			"~`Glyptodon`~",
-			"~`Kaprosuchus`~",
-			"~`Megalania`~",
-			"~`Megaloceros`~",
-			"~`Megatherium`~",
-			"~`Moa`~",
-			"~`Titanoboa`~",
-			"~`Uintatherium`~ "
+			"[Archelon](monster:Archelon)",
+			"[Arsinoitherium](monster:Arsinoitherium)",
+			"[Baluchitherium](monster:Baluchitherium)",
+			"[Basilosaurus](monster:Basilosaurus)",
+			"[Brontotherium](monster:Brontotherium)",
+			"[Chalicotherium](monster:Chalicotherium)",
+			"[Deinotherium](monster:Deinotherium)",
+			"[Elasmotherium](monster:Elasmotherium)",
+			"[Embolotherium](monster:Embolotherium)",
+			"[Glyptodon](monster:Glyptodon)",
+			"[Kaprosuchus](monster:Kaprosuchus)",
+			"[Megalania](monster:Megalania)",
+			"[Megaloceros](monster:Megaloceros)",
+			"[Megatherium](monster:Megatherium)",
+			"[Moa](monster:Moa)",
+			"[Titanoboa](monster:Titanoboa)",
+			"[Uintatherium](monster:Uintatherium)"
 		]
 	},
 	"Mortic": {
@@ -1900,12 +1878,12 @@
 			"Pathfinder #139: The Dead Road"
 		],
 		"members": [
-			"~`Angheuvore`~",
-			"~`Etioling`~",
-			"~`Gurgist`~",
-			"~`Jitterbone`~",
-			"~`Lifeleecher`~",
-			"~`Relictner`~ "
+			"[Angheuvore](monster:Angheuvore)",
+			"[Etioling](monster:Etioling)",
+			"[Gurgist](monster:Gurgist)",
+			"[Jitterbone](monster:Jitterbone)",
+			"[Lifeleecher](monster:Lifeleecher)",
+			"[Relictner](monster:Relictner)"
 		]
 	},
 	"Naga": {
@@ -1915,15 +1893,15 @@
 			"Pathfinder RPG Bestiary"
 		],
 		"members": [
-			"~`Dark Naga`~",
-			"~`Deep Naga`~",
-			"~`Dream Naga`~",
-			"~`Guardian Naga`~",
-			"~`Lunar Naga`~",
-			"~`Royal Naga`~",
-			"~`Slime Naga`~",
-			"~`Spirit Naga`~",
-			"~`Water Naga`~ "
+			"[Dark Naga](monster:Dark Naga)",
+			"[Deep Naga](monster:Deep Naga)",
+			"[Dream Naga](monster:Dream Naga)",
+			"[Guardian Naga](monster:Guardian Naga)",
+			"[Lunar Naga](monster:Lunar Naga)",
+			"[Royal Naga](monster:Royal Naga)",
+			"[Slime Naga](monster:Slime Naga)",
+			"[Spirit Naga](monster:Spirit Naga)",
+			"[Water Naga](monster:Water Naga)"
 		]
 	},
 	"Nightshade": {
@@ -1933,11 +1911,11 @@
 			"Bestiary 2"
 		],
 		"members": [
-			"~`Nightcrawler`~",
-			"~`Nightprowler`~",
-			"~`Nightwalker`~",
-			"~`Nightwave`~",
-			"~`Nightwing`~ "
+			"[Nightcrawler](monster:Nightcrawler)",
+			"[Nightprowler](monster:Nightprowler)",
+			"[Nightwalker](monster:Nightwalker)",
+			"[Nightwave](monster:Nightwave)",
+			"[Nightwing](monster:Nightwing)"
 		]
 	},
 	"Ogrekin": {
@@ -1947,11 +1925,11 @@
 			"Bestiary 2"
 		],
 		"members": [
-			"~`Kin Seeker`~",
-			"~`Kreegwood Stalker`~",
-			"~`Ogrekin`~",
-			"~`Stroud Apprentice`~",
-			"~`Thanegraves Looter`~ "
+			"[Kin Seeker](monster:Kin Seeker)",
+			"[Kreegwood Stalker](monster:Kreegwood Stalker)",
+			"[Ogrekin](monster:Ogrekin)",
+			"[Stroud Apprentice](monster:Stroud Apprentice)",
+			"[Thanegraves Looter](monster:Thanegraves Looter)"
 		]
 	},
 	"Oni": {
@@ -1961,21 +1939,21 @@
 			"Bestiary 3"
 		],
 		"members": [
-			"~`Atamahuta`~",
-			"~`Earth Yai`~",
-			"~`Fire Yai`~",
-			"~`Ice Yai`~",
-			"~`Ja Noi`~",
-			"~`Kigyo`~",
-			"~`Kuwa`~",
-			"~`Najikai`~",
-			"~`Nogitsune`~",
-			"~`Ogre Mage`~",
-			"~`Spirit Oni`~",
-			"~`Void Yai`~",
-			"~`Water Yai`~",
-			"~`Wind Yai`~",
-			"~`Yamabushi Tengu`~ "
+			"[Atamahuta](monster:Atamahuta)",
+			"[Earth Yai](monster:Earth Yai)",
+			"[Fire Yai](monster:Fire Yai)",
+			"[Ice Yai](monster:Ice Yai)",
+			"[Ja Noi](monster:Ja Noi)",
+			"[Kigyo](monster:Kigyo)",
+			"[Kuwa](monster:Kuwa)",
+			"[Najikai](monster:Najikai)",
+			"[Nogitsune](monster:Nogitsune)",
+			"[Ogre Mage](monster:Ogre Mage)",
+			"[Spirit Oni](monster:Spirit Oni)",
+			"[Void Yai](monster:Void Yai)",
+			"[Water Yai](monster:Water Yai)",
+			"[Wind Yai](monster:Wind Yai)",
+			"[Yamabushi Tengu](monster:Yamabushi Tengu)"
 		]
 	},
 	"Ossumental": {
@@ -1985,10 +1963,10 @@
 			"Pathfinder #83: The Slave Trenches of Hakotep"
 		],
 		"members": [
-			"~`Ossumental (Air)`~",
-			"~`Ossumental (Earth)`~",
-			"~`Ossumental (Fire)`~",
-			"~`Ossumental (Water)`~ "
+			"[Ossumental (Air)](monster:Ossumental (Air))",
+			"[Ossumental (Earth)](monster:Ossumental (Earth))",
+			"[Ossumental (Fire)](monster:Ossumental (Fire))",
+			"[Ossumental (Water)](monster:Ossumental (Water))"
 		]
 	},
 	"Phantom Armor": {
@@ -1998,10 +1976,10 @@
 			"Pathfinder #47: Ashes at Dawn"
 		],
 		"members": [
-			"~`Giant Phantom Armor`~",
-			"~`Guardian Phantom Armor`~",
-			"~`Hollow Helm`~",
-			"~`Phantom Lancer`~ "
+			"[Giant Phantom Armor](monster:Giant Phantom Armor)",
+			"[Guardian Phantom Armor](monster:Guardian Phantom Armor)",
+			"[Hollow Helm](monster:Hollow Helm)",
+			"[Phantom Lancer](monster:Phantom Lancer)"
 		]
 	},
 	"Plague Swarm": {
@@ -2011,9 +1989,9 @@
 			"Bestiary 5"
 		],
 		"mythicMembers": [
-			"~`Bat Plague Swarm`~,",
-			"~`Locust Plague Swarm`~",
-			"~`Rat Plague Swarm`~"
+			"[Bat Plague Swarm](monster:Bat Plague Swarm)",
+			"[Locust Plague Swarm](monster:Locust Plague Swarm)",
+			"[Rat Plague Swarm](monster:Rat Plague Swarm)"
 		]
 	},
 	"Poppet": {
@@ -2023,8 +2001,8 @@
 			"Adventurer's Armory 2"
 		],
 		"members": [
-			"~`Poppet, Small`~",
-			"~`Poppet, Tiny`~ "
+			"[Poppet, Small](monster:Poppet, Small)",
+			"[Poppet, Tiny](monster:Poppet, Tiny)"
 		]
 	},
 	"Primeval Sea Creature": {
@@ -2034,9 +2012,9 @@
 			"Pathfinder #60: From Hell's Heart"
 		],
 		"members": [
-			"~`Kronosaurus`~",
-			"~`Nothosaur`~",
-			"~`Zeuglodon`~ "
+			"[Kronosaurus](monster:Kronosaurus)",
+			"[Nothosaur](monster:Nothosaur)",
+			"[Zeuglodon](monster:Zeuglodon)"
 		]
 	},
 	"Protean": {
@@ -2046,19 +2024,19 @@
 			"Bestiary 2"
 		],
 		"members": [
-			"~`Akizendri`~",
-			"~`Azuretzi`~",
-			"~`Hegessik`~",
-			"~`Ibshaunet`~",
-			"~`Illureshi`~",
-			"~`Imentesh`~",
-			"~`Izfiitar`~",
-			"~`Keketar`~",
-			"~`Naunet`~",
-			"~`Oshageros`~",
-			"~`Ourdivar`~",
-			"~`Pelagastr`~",
-			"~`Voidworm`~ "
+			"[Akizendri](monster:Akizendri)",
+			"[Azuretzi](monster:Azuretzi)",
+			"[Hegessik](monster:Hegessik)",
+			"[Ibshaunet](monster:Ibshaunet)",
+			"[Illureshi](monster:Illureshi)",
+			"[Imentesh](monster:Imentesh)",
+			"[Izfiitar](monster:Izfiitar)",
+			"[Keketar](monster:Keketar)",
+			"[Naunet](monster:Naunet)",
+			"[Oshageros](monster:Oshageros)",
+			"[Ourdivar](monster:Ourdivar)",
+			"[Pelagastr](monster:Pelagastr)",
+			"[Voidworm](monster:Voidworm)"
 		]
 	},
 	"Psychopomp": {
@@ -2068,23 +2046,23 @@
 			"Bestiary 4"
 		],
 		"members": [
-			"~`Ahmuuth`~",
-			"~`Algea`~",
-			"~`Calaca`~",
-			"~`Catrina`~",
-			"~`Ember Weaver`~",
-			"~`Esobok`~",
-			"~`Fulgati`~",
-			"~`Kere`~",
-			"~`Memitim`~",
-			"~`Morbai`~",
-			"~`Morrigna`~",
-			"~`Nosoi`~",
-			"~`Olethros`~",
-			"~`Shoki`~",
-			"~`Vanth`~",
-			"~`Viduus`~",
-			"~`Yamaraj`~ "
+			"[Ahmuuth](monster:Ahmuuth)",
+			"[Algea](monster:Algea)",
+			"[Calaca](monster:Calaca)",
+			"[Catrina](monster:Catrina)",
+			"[Ember Weaver](monster:Ember Weaver)",
+			"[Esobok](monster:Esobok)",
+			"[Fulgati](monster:Fulgati)",
+			"[Kere](monster:Kere)",
+			"[Memitim](monster:Memitim)",
+			"[Morbai](monster:Morbai)",
+			"[Morrigna](monster:Morrigna)",
+			"[Nosoi](monster:Nosoi)",
+			"[Olethros](monster:Olethros)",
+			"[Shoki](monster:Shoki)",
+			"[Vanth](monster:Vanth)",
+			"[Viduus](monster:Viduus)",
+			"[Yamaraj](monster:Yamaraj)"
 		]
 	},
 	"Qlippoth": {
@@ -2094,22 +2072,22 @@
 			"Bestiary 2"
 		],
 		"members": [
-			"~`Augnagar`~",
-			"~`Behimiron`~",
-			"~`Cataboligne`~",
-			"~`Chernobue`~",
-			"~`Cythnigot`~",
-			"~`Deinochos`~",
-			"~`Gongorinan`~",
-			"~`Gorgoros`~",
-			"~`Hydraggon`~",
-			"~`Iathavos`~",
-			"~`Nyogoth`~",
-			"~`Shoggti`~",
-			"~`Thognorok`~",
-			"~`Thulgant`~",
-			"~`Utukku`~",
-			"~`Vexenion`~ "
+			"[Augnagar](monster:Augnagar)",
+			"[Behimiron](monster:Behimiron)",
+			"[Cataboligne](monster:Cataboligne)",
+			"[Chernobue](monster:Chernobue)",
+			"[Cythnigot](monster:Cythnigot)",
+			"[Deinochos](monster:Deinochos)",
+			"[Gongorinan](monster:Gongorinan)",
+			"[Gorgoros](monster:Gorgoros)",
+			"[Hydraggon](monster:Hydraggon)",
+			"[Iathavos](monster:Iathavos)",
+			"[Nyogoth](monster:Nyogoth)",
+			"[Shoggti](monster:Shoggti)",
+			"[Thognorok](monster:Thognorok)",
+			"[Thulgant](monster:Thulgant)",
+			"[Utukku](monster:Utukku)",
+			"[Vexenion](monster:Vexenion)"
 		]
 	},
 	"Qlippoth Lord": {
@@ -2119,11 +2097,11 @@
 			"Bestiary 6"
 		],
 		"members": [
-			"~`Chavazvug`~",
-			"~`Isph-Aun-Vuln`~",
-			"~`Qaur-Ooung`~",
-			"~`Thuskchoon`~",
-			"~`Yamasoth`~ "
+			"[Chavazvug](monster:Chavazvug)",
+			"[Isph-Aun-Vuln](monster:Isph-Aun-Vuln)",
+			"[Qaur-Ooung](monster:Qaur-Ooung)",
+			"[Thuskchoon](monster:Thuskchoon)",
+			"[Yamasoth](monster:Yamasoth)"
 		]
 	},
 	"Rakshasa": {
@@ -2133,76 +2111,47 @@
 			"Bestiary 3"
 		],
 		"members": [
-			"~`Amanusya`~",
-			"~`Avatarana`~",
-			"~`Dandasuka`~",
-			"~`Marai`~",
-			"~`Orsatka`~",
-			"~`Rakshasa`~",
-			"~`Rakshasa Maharaja`~",
-			"~`Raktavarna`~",
-			"~`Tataka`~",
-			"~`Zalyakavat`~ "
+			"[Amanusya](monster:Amanusya)",
+			"[Avatarana](monster:Avatarana)",
+			"[Dandasuka](monster:Dandasuka)",
+			"[Marai](monster:Marai)",
+			"[Orsatka](monster:Orsatka)",
+			"[Rakshasa](monster:Rakshasa)",
+			"[Rakshasa Maharaja](monster:Rakshasa Maharaja)",
+			"[Raktavarna](monster:Raktavarna)",
+			"[Tataka](monster:Tataka)",
+			"[Zalyakavat](monster:Zalyakavat)"
 		]
 	},
 	"Robot": {
 		"monsterfamily": "Robot",
 		"file": "monsterfamilies338d.html",
 		"sources": [
-			"Bestiary 5"
-		],
-		"members": [
-			"~`Annihilator Robot`~",
-			"~`Arachnid Robot`~",
-			"~`Collector Robot`~",
-			"~`Director Robot`~",
-			"~`Evaluator Robot`~",
-			"~`Gearsman Robot`~",
-			"~`Gladiator Robot`~",
-			"~`Juggernaut Robot`~",
-			"~`Mannequin Robot`~",
-			"~`Myrmidon Robot`~",
-			"~`Observer Robot`~",
-			"~`Observer Robot Swarm`~",
-			"~`Octopod Mechanic Drone`~",
-			"~`Reclamation Robot`~",
-			"~`Repair Robot`~",
-			"~`Scrapyard Robot`~",
-			"~`Surgeon Robot`~",
-			"~`Terraformer Robot`~",
-			"~`Thought Harvester Robot`~",
-			"~`Torturer Robot`~",
-			"~`Warden Robot`~ "
-		]
-	},
-	"Robot": {
-		"monsterfamily": "Robot",
-		"file": "monsterfamilies338d.html",
-		"sources": [
+			"Bestiary 5",
 			"Inner Sea Bestiary"
 		],
 		"members": [
-			"~`Annihilator Robot`~",
-			"~`Arachnid Robot`~",
-			"~`Collector Robot`~",
-			"~`Director Robot`~",
-			"~`Evaluator Robot`~",
-			"~`Gearsman Robot`~",
-			"~`Gladiator Robot`~",
-			"~`Juggernaut Robot`~",
-			"~`Mannequin Robot`~",
-			"~`Myrmidon Robot`~",
-			"~`Observer Robot`~",
-			"~`Observer Robot Swarm`~",
-			"~`Octopod Mechanic Drone`~",
-			"~`Reclamation Robot`~",
-			"~`Repair Robot`~",
-			"~`Scrapyard Robot`~",
-			"~`Surgeon Robot`~",
-			"~`Terraformer Robot`~",
-			"~`Thought Harvester Robot`~",
-			"~`Torturer Robot`~",
-			"~`Warden Robot`~ "
+			"[Annihilator Robot](monster:Annihilator Robot)",
+			"[Arachnid Robot](monster:Arachnid Robot)",
+			"[Collector Robot](monster:Collector Robot)",
+			"[Director Robot](monster:Director Robot)",
+			"[Evaluator Robot](monster:Evaluator Robot)",
+			"[Gearsman Robot](monster:Gearsman Robot)",
+			"[Gladiator Robot](monster:Gladiator Robot)",
+			"[Juggernaut Robot](monster:Juggernaut Robot)",
+			"[Mannequin Robot](monster:Mannequin Robot)",
+			"[Myrmidon Robot](monster:Myrmidon Robot)",
+			"[Observer Robot](monster:Observer Robot)",
+			"[Observer Robot Swarm](monster:Observer Robot Swarm)",
+			"[Octopod Mechanic Drone](monster:Octopod Mechanic Drone)",
+			"[Reclamation Robot](monster:Reclamation Robot)",
+			"[Repair Robot](monster:Repair Robot)",
+			"[Scrapyard Robot](monster:Scrapyard Robot)",
+			"[Surgeon Robot](monster:Surgeon Robot)",
+			"[Terraformer Robot](monster:Terraformer Robot)",
+			"[Thought Harvester Robot](monster:Thought Harvester Robot)",
+			"[Torturer Robot](monster:Torturer Robot)",
+			"[Warden Robot](monster:Warden Robot)"
 		]
 	},
 	"Rot Grub": {
@@ -2212,8 +2161,8 @@
 			"Pathfinder #25: The Bastards of Erebus"
 		],
 		"members": [
-			"~`Giant Rot Grub`~",
-			"~`Rot Grub Swarm`~"
+			"[Giant Rot Grub](monster:Giant Rot Grub)",
+			"[Rot Grub Swarm](monster:Rot Grub Swarm)"
 		]
 	},
 	"Sahkil": {
@@ -2223,15 +2172,15 @@
 			"Bestiary 5"
 		],
 		"members": [
-			"~`Esipil`~",
-			"~`Ichkoh`~",
-			"~`Kimenhul`~",
-			"~`Nucol`~",
-			"~`Pakalchi`~",
-			"~`Qolok`~",
-			"~`Wihsaak`~",
-			"~`Ximtal`~",
-			"~`Zohanil`~ "
+			"[Esipil](monster:Esipil)",
+			"[Ichkoh](monster:Ichkoh)",
+			"[Kimenhul](monster:Kimenhul)",
+			"[Nucol](monster:Nucol)",
+			"[Pakalchi](monster:Pakalchi)",
+			"[Qolok](monster:Qolok)",
+			"[Wihsaak](monster:Wihsaak)",
+			"[Ximtal](monster:Ximtal)",
+			"[Zohanil](monster:Zohanil)"
 		]
 	},
 	"Siktempora": {
@@ -2241,7 +2190,7 @@
 			"Pathfinder #135: Runeplague"
 		],
 		"members": [
-			"~`Misery Siktempora`~"
+			"[Misery Siktempora](monster:Misery Siktempora)"
 		]
 	},
 	"Skeleton": {
@@ -2251,13 +2200,13 @@
 			"Pathfinder RPG Bestiary"
 		],
 		"members": [
-			"~`Armored Ogre Skeleton`~",
-			"~`Four-Armed Mudra Skeleton`~",
-			"~`Human Skeleton`~",
-			"~`Multiplying T-Rex Skeleton`~",
-			"~`Skeletal Champion`~",
-			"~`Skeletal Mage`~",
-			"~`Skeletal Mount`~ "
+			"[Armored Ogre Skeleton](monster:Armored Ogre Skeleton)",
+			"[Four-Armed Mudra Skeleton](monster:Four-Armed Mudra Skeleton)",
+			"[Human Skeleton](monster:Human Skeleton)",
+			"[Multiplying T-Rex Skeleton](monster:Multiplying T-Rex Skeleton)",
+			"[Skeletal Champion](monster:Skeletal Champion)",
+			"[Skeletal Mage](monster:Skeletal Mage)",
+			"[Skeletal Mount](monster:Skeletal Mount)"
 		]
 	},
 	"Spawn of Rovagug": {
@@ -2267,10 +2216,10 @@
 			"Inner Sea Bestiary"
 		],
 		"members": [
-			"~`Chemnosit (The Monarch Worm)`~",
-			"~`Festering Ulunat (The Unholy First)`~",
-			"~`Volnagur (The End-Singer)`~",
-			"~`Xotani (The Firebleeder)`~ "
+			"[Chemnosit (The Monarch Worm)](monster:Chemnosit (The Monarch Worm))",
+			"[Festering Ulunat (The Unholy First)](monster:Festering Ulunat (The Unholy First))",
+			"[Volnagur (The End-Singer)](monster:Volnagur (The End-Singer))",
+			"[Xotani (The Firebleeder)](monster:Xotani (The Firebleeder))"
 		]
 	},
 	"Sphinx": {
@@ -2280,12 +2229,12 @@
 			"Bestiary 3"
 		],
 		"members": [
-			"~`Androsphinx`~",
-			"~`Criosphinx`~",
-			"~`Cynosphinx`~",
-			"~`Elder Sphinx`~",
-			"~`Gynosphinx`~",
-			"~`Hieracosphinx`~ "
+			"[Androsphinx](monster:Androsphinx)",
+			"[Criosphinx](monster:Criosphinx)",
+			"[Cynosphinx](monster:Cynosphinx)",
+			"[Elder Sphinx](monster:Elder Sphinx)",
+			"[Gynosphinx](monster:Gynosphinx)",
+			"[Hieracosphinx](monster:Hieracosphinx)"
 		]
 	},
 	"Thassilonian Sentinel": {
@@ -2295,10 +2244,10 @@
 			"Pathfinder #134: It Came from Hollow Mountain"
 		],
 		"members": [
-			"~`Bronze Sentinel`~",
-			"~`Iron Sentinel`~",
-			"~`Ivory Sentinel`~",
-			"~`Marble Sentinel`~ "
+			"[Bronze Sentinel](monster:Bronze Sentinel)",
+			"[Iron Sentinel](monster:Iron Sentinel)",
+			"[Ivory Sentinel](monster:Ivory Sentinel)",
+			"[Marble Sentinel](monster:Marble Sentinel)"
 		]
 	},
 	"Thriae": {
@@ -2308,11 +2257,11 @@
 			"Bestiary 3"
 		],
 		"members": [
-			"~`Thriae Constructor`~",
-			"~`Thriae Dancer`~",
-			"~`Thriae Queen`~",
-			"~`Thriae Seer`~",
-			"~`Thriae Soldier`~ "
+			"[Thriae Constructor](monster:Thriae Constructor)",
+			"[Thriae Dancer](monster:Thriae Dancer)",
+			"[Thriae Queen](monster:Thriae Queen)",
+			"[Thriae Seer](monster:Thriae Seer)",
+			"[Thriae Soldier](monster:Thriae Soldier)"
 		]
 	},
 	"Titan": {
@@ -2322,13 +2271,13 @@
 			"Bestiary 2"
 		],
 		"members": [
-			"~`Elysian`~",
-			"~`Hekatonkheires`~",
-			"~`Thanatotic`~ "
+			"[Elysian](monster:Elysian)",
+			"[Hekatonkheires](monster:Hekatonkheires)",
+			"[Thanatotic](monster:Thanatotic)"
 		],
 		"mythicMembers": [
-			"~`Danava`~",
-			"~`Fomorian Titan`~",
+			"[Danava](monster:Danava)",
+			"[Fomorian Titan](monster:Fomorian Titan)"
 		]
 	},
 	"Troll": {
@@ -2338,25 +2287,25 @@
 			"Pathfinder RPG Bestiary"
 		],
 		"members": [
-			"~`Canopy Troll`~",
-			"~`Chimney Troll`~",
-			"~`Flood Troll`~",
-			"~`Ice Troll`~",
-			"~`Jotund Troll`~",
-			"~`Moss Troll`~",
-			"~`Mountain Troll`~",
-			"~`Rock Troll`~",
-			"~`Sewer Troll`~",
-			"~`Troll`~",
-			"~`Troll Acolyte`~",
-			"~`Troll Berserker`~",
-			"~`Troll Brute`~",
-			"~`Troll Elder Matron`~",
-			"~`Troll Fury`~",
-			"~`Troll Monarch`~",
-			"~`Troll Render`~",
-			"~`Troll Ripper`~",
-			"~`Troll Warden`~ "
+			"[Canopy Troll](monster:Canopy Troll)",
+			"[Chimney Troll](monster:Chimney Troll)",
+			"[Flood Troll](monster:Flood Troll)",
+			"[Ice Troll](monster:Ice Troll)",
+			"[Jotund Troll](monster:Jotund Troll)",
+			"[Moss Troll](monster:Moss Troll)",
+			"[Mountain Troll](monster:Mountain Troll)",
+			"[Rock Troll](monster:Rock Troll)",
+			"[Sewer Troll](monster:Sewer Troll)",
+			"[Troll](monster:Troll)",
+			"[Troll Acolyte](monster:Troll Acolyte)",
+			"[Troll Berserker](monster:Troll Berserker)",
+			"[Troll Brute](monster:Troll Brute)",
+			"[Troll Elder Matron](monster:Troll Elder Matron)",
+			"[Troll Fury](monster:Troll Fury)",
+			"[Troll Monarch](monster:Troll Monarch)",
+			"[Troll Render](monster:Troll Render)",
+			"[Troll Ripper](monster:Troll Ripper)",
+			"[Troll Warden](monster:Troll Warden)"
 		]
 	},
 	"Troop": {
@@ -2366,11 +2315,11 @@
 			"Bestiary 6"
 		],
 		"members": [
-			"~`Barrier Breaker Troop`~",
-			"~`Cultist Troop`~",
-			"~`Goblin Troop`~",
-			"~`Outlaw Troop`~",
-			"~`Sodden Drauger Troop`~ "
+			"[Barrier Breaker Troop](monster:Barrier Breaker Troop)",
+			"[Cultist Troop](monster:Cultist Troop)",
+			"[Goblin Troop](monster:Goblin Troop)",
+			"[Outlaw Troop](monster:Outlaw Troop)",
+			"[Sodden Drauger Troop](monster:Sodden Drauger Troop)"
 		]
 	},
 	"Troops": {
@@ -2380,16 +2329,16 @@
 			"Pathfinder #100: A Song of Silver"
 		],
 		"members": [
-			"~`Dottari Troop`~",
-			"~`Glorious Reclamation`~",
-			"~`Hobgoblin Phalanx Troop`~",
-			"~`Hound Archon Troop`~",
-			"~`Inquisitor Troop`~",
-			"~`Ironfang Magehunter Troop`~",
-			"~`Ironfang Siege Alchemist Troop`~",
-			"~`Ironfang Yzobu Rider Troop`~",
-			"~`Morlock Swarmer Troop`~",
-			"~`Warmaze Disciples Troop`~ "
+			"[Dottari Troop](monster:Dottari Troop)",
+			"[Glorious Reclamation](monster:Glorious Reclamation)",
+			"[Hobgoblin Phalanx Troop](monster:Hobgoblin Phalanx Troop)",
+			"[Hound Archon Troop](monster:Hound Archon Troop)",
+			"[Inquisitor Troop](monster:Inquisitor Troop)",
+			"[Ironfang Magehunter Troop](monster:Ironfang Magehunter Troop)",
+			"[Ironfang Siege Alchemist Troop](monster:Ironfang Siege Alchemist Troop)",
+			"[Ironfang Yzobu Rider Troop](monster:Ironfang Yzobu Rider Troop)",
+			"[Morlock Swarmer Troop](monster:Morlock Swarmer Troop)",
+			"[Warmaze Disciples Troop](monster:Warmaze Disciples Troop)"
 		]
 	},
 	"Tsukumogami": {
@@ -2399,9 +2348,9 @@
 			"Bestiary 5"
 		],
 		"members": [
-			"~`Boroboroton`~",
-			"~`Kasa-obake`~",
-			"~`Koto-furunishi`~ "
+			"[Boroboroton](monster:Boroboroton)",
+			"[Kasa-obake](monster:Kasa-obake)",
+			"[Koto-furunishi](monster:Koto-furunishi)"
 		]
 	},
 	"Vampire Servant": {
@@ -2411,8 +2360,8 @@
 			"Monster Codex"
 		],
 		"members": [
-			"~`Coffin Guard`~",
-			"~`Weird Butler`~ "
+			"[Coffin Guard](monster:Coffin Guard)",
+			"[Weird Butler](monster:Weird Butler)"
 		]
 	},
 	"Veela": {
@@ -2422,10 +2371,10 @@
 			"Bestiary 5"
 		],
 		"members": [
-			"~`Air Veela`~",
-			"~`Earth Veela`~",
-			"~`Fire Veela`~",
-			"~`Water Veela`~ "
+			"[Air Veela](monster:Air Veela)",
+			"[Earth Veela](monster:Earth Veela)",
+			"[Fire Veela](monster:Fire Veela)",
+			"[Water Veela](monster:Water Veela)"
 		]
 	},
 	"Wild Hunt": {
@@ -2435,11 +2384,11 @@
 			"Bestiary 6"
 		],
 		"members": [
-			"~`Wild Hunt Archer`~",
-			"~`Wild Hunt Horse`~",
-			"~`Wild Hunt Hound`~",
-			"~`Wild Hunt Monarch`~",
-			"~`Wild Hunt Scout`~ "
+			"[Wild Hunt Archer](monster:Wild Hunt Archer)",
+			"[Wild Hunt Horse](monster:Wild Hunt Horse)",
+			"[Wild Hunt Hound](monster:Wild Hunt Hound)",
+			"[Wild Hunt Monarch](monster:Wild Hunt Monarch)",
+			"[Wild Hunt Scout](monster:Wild Hunt Scout)"
 		]
 	},
 	"Wysp": {
@@ -2449,11 +2398,11 @@
 			"Bestiary 5"
 		],
 		"members": [
-			"~`Aether Wysp`~",
-			"~`Air Wysp`~",
-			"~`Earth Wysp`~",
-			"~`Fire Wysp`~",
-			"~`Water Wysp`~ "
+			"[Aether Wysp](monster:Aether Wysp)",
+			"[Air Wysp](monster:Air Wysp)",
+			"[Earth Wysp](monster:Earth Wysp)",
+			"[Fire Wysp](monster:Fire Wysp)",
+			"[Water Wysp](monster:Water Wysp)"
 		]
 	}
 }
