@@ -1,0 +1,6572 @@
+{
+	"Abadar": {
+		"deityname": "Abadar",
+		"file": "deitydisplay7c82.html",
+		"pantheon": "Core Deities",
+		"alignment": "LN",
+		"areasOfConcern": "Cities, laws, merchants, wealth",
+		"domains": [
+			"Earth",
+			"Law",
+			"Nobility",
+			"Protection",
+			"Travel"
+		],
+		"favoredWeapon": "Light crossbow"
+	},
+	"Abhoth": {
+		"deityname": "Abhoth",
+		"file": "deitydisplay454d.html",
+		"pantheon": "Outer Gods",
+		"alignment": "CN",
+		"areasOfConcern": "Disease, fercundity, oozes",
+		"domains": [
+			"Chaos",
+			"Darkness",
+			"Earth",
+			"Madness",
+			"Strength"
+		],
+		"favoredWeapon": "Whip"
+	},
+	"Abraxas": {
+		"deityname": "Abraxas",
+		"file": "deitydisplay37d7.html",
+		"pantheon": "Demon Lords",
+		"alignment": "CE",
+		"areasOfConcern": "Forbidden lore, magic, snakes",
+		"domains": [
+			"Chaos",
+			"Evil",
+			"Knowledge",
+			"Magic"
+		],
+		"favoredWeapon": "Whip"
+	},
+	"Acavna": {
+		"deityname": "Acavna",
+		"file": "deitydisplayc59b.html",
+		"pantheon": "Azlanti Pantheon",
+		"alignment": "CN",
+		"areasOfConcern": "Companionship, defensive battle, and the moon",
+		"domains": [
+			"Chaos",
+			"Darkness",
+			"Protection",
+			"Repose",
+			"War"
+		],
+		"favoredWeapon": "Spear"
+	},
+	"Achaekek": {
+		"deityname": "Achaekek",
+		"file": "deitydisplay2ed2.html",
+		"pantheon": "Other Deities",
+		"alignment": "LE",
+		"areasOfConcern": "Assassinations, divine punishment, the red mantis",
+		"domains": [
+			"Death",
+			"Evil",
+			"Law",
+			"Trickery",
+			"War"
+		],
+		"favoredWeapon": "Sawtooth sabre"
+	},
+	"Aegirran": {
+		"deityname": "Aegirran",
+		"file": "deitydisplay9482.html",
+		"pantheon": "Giant Deities",
+		"alignment": "NG",
+		"areasOfConcern": "Dreams, sailing, voyages",
+		"domains": [
+			"Good",
+			"Travel",
+			"Water",
+			"Weather"
+		],
+		"favoredWeapon": "Trident"
+	},
+	"Aerekostes": {
+		"deityname": "Aerekostes",
+		"file": "deitydisplay506b.html",
+		"pantheon": "Iblydan Hero-Gods",
+		"alignment": "N",
+		"areasOfConcern": "Contingencies, intelligent items",
+		"domains": [
+			"Artifice",
+			"Healing",
+			"Knowledge",
+			"Magic"
+		],
+		"favoredWeapon": "none"
+	},
+	"Aesdurath": {
+		"deityname": "Aesdurath",
+		"file": "deitydisplayfaae.html",
+		"pantheon": "Daemon Harbingers",
+		"alignment": "NE",
+		"areasOfConcern": "Immortality, liches, magical catastrophes",
+		"domains": [
+			"Death",
+			"Evil",
+			"Magic",
+			"Trickery"
+		],
+		"favoredWeapon": "Dagger"
+	},
+	"Aesocar": {
+		"deityname": "Aesocar",
+		"file": "deitydisplay6089.html",
+		"pantheon": "Azlanti Pantheon",
+		"alignment": "LG",
+		"areasOfConcern": "Creation of life, health, and medicine",
+		"domains": [
+			"Artifice",
+			"Good",
+			"Healing",
+			"Law",
+			"Protection"
+		],
+		"favoredWeapon": "Mancatcher"
+	},
+	"Ah Pook": {
+		"deityname": "Ah Pook",
+		"file": "deitydisplayb6e4.html",
+		"pantheon": "Other Deities",
+		"alignment": "NE",
+		"areasOfConcern": "Death, destruction, and the moon",
+		"domains": [
+			"Darkness",
+			"Death",
+			"Destruction",
+			"Evil",
+			"Void"
+		],
+		"favoredWeapon": "Terbutje"
+	},
+	"Ahriman": {
+		"deityname": "Ahriman",
+		"file": "deitydisplay87dc.html",
+		"pantheon": "Other Deities",
+		"alignment": "NE",
+		"areasOfConcern": "Destruction, div, nihilism",
+		"domains": [
+			"Darkness",
+			"Death",
+			"Destruction",
+			"Evil"
+		],
+		"favoredWeapon": "Whip"
+	},
+	"Ajids": {
+		"deityname": "Ajids",
+		"file": "deitydisplay78a4.html",
+		"pantheon": "Daemon Harbingers",
+		"alignment": "NE",
+		"areasOfConcern": "Mutilation, skinning, trophy taking",
+		"domains": [
+			"Death",
+			"Evil",
+			"Madness",
+			"War"
+		],
+		"favoredWeapon": "War razor"
+	},
+	"Aksha": {
+		"deityname": "Aksha",
+		"file": "deitydisplayfba6.html",
+		"pantheon": "Rakshasa Immortals",
+		"alignment": "LE",
+		"areasOfConcern": "N/a",
+		"domains": [
+			"Animal",
+			"Evil",
+			"Law",
+			"Trickery"
+		],
+		"favoredWeapon": "Kukri"
+	},
+	"Akuma": {
+		"deityname": "Akuma",
+		"file": "deitydisplaya596.html",
+		"pantheon": "Oni Daimyo",
+		"alignment": "LE",
+		"areasOfConcern": "Battle, honor, martial arts",
+		"domains": [
+			"Evil",
+			"Glory",
+			"Law",
+			"War"
+		],
+		"favoredWeapon": "Unarmed strike"
+	},
+	"Alazhra": {
+		"deityname": "Alazhra",
+		"file": "deitydisplay9aa9.html",
+		"pantheon": "Other Deities",
+		"alignment": "NE",
+		"areasOfConcern": "Dreams, night hags, planar travel",
+		"domains": [
+			"Darkness",
+			"Evil",
+			"Repose",
+			"Travel"
+		],
+		"favoredWeapon": "Dagger"
+	},
+	"Aldinach": {
+		"deityname": "Aldinach",
+		"file": "deitydisplayfaec.html",
+		"pantheon": "Demon Lords",
+		"alignment": "CE",
+		"areasOfConcern": "Sand, scorpions, thirst",
+		"domains": [
+			"Animal",
+			"Chaos",
+			"Evil",
+			"Sun"
+		],
+		"favoredWeapon": "Kukri"
+	},
+	"Alichino": {
+		"deityname": "Alichino",
+		"file": "deitydisplaya385.html",
+		"pantheon": "Malebranche",
+		"alignment": "LE",
+		"areasOfConcern": "Deception, madness, royalty",
+		"domains": [
+			"Evil",
+			"Law",
+			"Madness",
+			"Trickery"
+		],
+		"favoredWeapon": "Dagger"
+	},
+	"Alocer": {
+		"deityname": "Alocer",
+		"file": "deitydisplay1a99.html",
+		"pantheon": "Infernal Dukes",
+		"alignment": "LE",
+		"areasOfConcern": "Beasts, hunters, tradition",
+		"domains": [
+			"Animal",
+			"Evil",
+			"Law",
+			"Strength"
+		],
+		"favoredWeapon": "Shortbow"
+	},
+	"Alseta": {
+		"deityname": "Alseta",
+		"file": "deitydisplay25b7.html",
+		"pantheon": "Other Deities",
+		"alignment": "LN",
+		"areasOfConcern": "Doors, transitions, years",
+		"domains": [
+			"Community",
+			"Law",
+			"Magic",
+			"Protection"
+		],
+		"favoredWeapon": "Dagger"
+	},
+	"Amaznen": {
+		"deityname": "Amaznen",
+		"file": "deitydisplay4408.html",
+		"pantheon": "Azlanti Pantheon",
+		"alignment": "LN",
+		"areasOfConcern": "Invention, magic, and secret knowledge",
+		"domains": [
+			"Artifice",
+			"Knowledge",
+			"Law",
+			"Magic",
+			"Protection"
+		],
+		"favoredWeapon": "light hammer"
+	},
+	"Ananshea": {
+		"deityname": "Ananshea",
+		"file": "deitydisplay9248.html",
+		"pantheon": "Sahkil Tormentors",
+		"alignment": "CE",
+		"areasOfConcern": "Brutality, torture, wild animals",
+		"domains": [
+			"Animal",
+			"Destruction",
+			"Evil",
+			"Strength"
+		],
+		"favoredWeapon": "Kukri"
+	},
+	"Andak": {
+		"deityname": "Andak",
+		"file": "deitydisplay50fd.html",
+		"pantheon": "Asura Ranas",
+		"alignment": "LE",
+		"areasOfConcern": "Axes, dismemberment, torture",
+		"domains": [
+			"Death",
+			"Destruction",
+			"Evil",
+			"Law"
+		],
+		"favoredWeapon": "Battleaxe"
+	},
+	"Andirifkhu": {
+		"deityname": "Andirifkhu",
+		"file": "deitydisplay4190.html",
+		"pantheon": "Demon Lords",
+		"alignment": "CE",
+		"areasOfConcern": "Knives, illusions, traps",
+		"domains": [
+			"Chaos",
+			"Evil",
+			"Luck",
+			"Trickery"
+		],
+		"favoredWeapon": "Kukri"
+	},
+	"Andoletta": {
+		"deityname": "Andoletta",
+		"file": "deitydisplaye7e3.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "LG",
+		"areasOfConcern": "Consolation, respect, security",
+		"domains": [
+			"Good",
+			"Knowledge",
+			"Law",
+			"Protection"
+		],
+		"favoredWeapon": "Quarterstaff"
+	},
+	"Angazhan": {
+		"deityname": "Angazhan",
+		"file": "deitydisplay2e56.html",
+		"pantheon": "Demon Lords",
+		"alignment": "CE",
+		"areasOfConcern": "Apes, jungles, tyrants",
+		"domains": [
+			"Animal",
+			"Chaos",
+			"Evil",
+			"Plant"
+		],
+		"favoredWeapon": "Spear"
+	},
+	"Angradd": {
+		"deityname": "Angradd",
+		"file": "deitydisplayc361.html",
+		"pantheon": "Dwarven Deities",
+		"alignment": "LG",
+		"areasOfConcern": "Fire, tradition, war",
+		"domains": [
+			"Fire",
+			"Good",
+			"Law",
+			"War"
+		],
+		"favoredWeapon": "Greataxe"
+	},
+	"Anogetz": {
+		"deityname": "Anogetz",
+		"file": "deitydisplay2764.html",
+		"pantheon": "Daemon Harbingers",
+		"alignment": "NE",
+		"areasOfConcern": "Animal attacks, coups, revolution",
+		"domains": [
+			"Animal",
+			"Destruction",
+			"Evil",
+			"Liberation"
+		],
+		"favoredWeapon": "Spiked gauntlet"
+	},
+	"Anubis": {
+		"deityname": "Anubis",
+		"file": "deitydisplayd307.html",
+		"pantheon": "Deities of Ancient Osirion",
+		"alignment": "LN",
+		"areasOfConcern": "Burial, the dead, funeral rites, mummification, tombs",
+		"domains": [
+			"Death",
+			"Earth",
+			"Law",
+			"Protection",
+			"Repose"
+		],
+		"favoredWeapon": "Flail"
+	},
+	"Apep": {
+		"deityname": "Apep",
+		"file": "deitydisplay4548.html",
+		"pantheon": "Deities of Ancient Osirion",
+		"alignment": "CE",
+		"areasOfConcern": "Chaos, darkness, destruction, snakes",
+		"domains": [
+			"Chaos",
+			"Darkness",
+			"Destruction",
+			"Evil",
+			"Scalykind"
+		],
+		"favoredWeapon": "Dagger"
+	},
+	"Apollyon": {
+		"deityname": "Apollyon",
+		"file": "deitydisplayd84c.html",
+		"pantheon": "Horsemen",
+		"alignment": "NE",
+		"areasOfConcern": "Pestilence",
+		"domains": [
+			"Air",
+			"Darkness",
+			"Destruction",
+			"Evil"
+		],
+		"favoredWeapon": "Scythe"
+	},
+	"Apsu": {
+		"deityname": "Apsu",
+		"file": "deitydisplay4b06.html",
+		"pantheon": "Other Deities",
+		"alignment": "LG",
+		"areasOfConcern": "Good dragons, leadership, peace",
+		"domains": [
+			"Artifice",
+			"Good",
+			"Law",
+			"Scalykind",
+			"Travel"
+		],
+		"favoredWeapon": "Bite or quarterstaff"
+	},
+	"Arazni": {
+		"deityname": "Arazni",
+		"file": "deitydisplayea52.html",
+		"pantheon": "Other Deities",
+		"alignment": "NE",
+		"areasOfConcern": "Command of undeath, lichdom",
+		"domains": [
+			"Evil",
+			"Nobility",
+			"Protection"
+		],
+		"favoredWeapon": "Rapier"
+	},
+	"Ardad Lili": {
+		"deityname": "Ardad Lili",
+		"file": "deitydisplay32e2.html",
+		"pantheon": "Queens of the Night",
+		"alignment": "LE",
+		"areasOfConcern": "Seduction, snakes, women",
+		"domains": [
+			"Charm",
+			"Evil",
+			"Law",
+			"Scalykind"
+		],
+		"favoredWeapon": "Dagger"
+	},
+	"Areshkagal": {
+		"deityname": "Areshkagal",
+		"file": "deitydisplayd9d3.html",
+		"pantheon": "Demon Lords",
+		"alignment": "CE",
+		"areasOfConcern": "Greed, portals, riddles",
+		"domains": [
+			"Air",
+			"Chaos",
+			"Evil",
+			"Trickery"
+		],
+		"favoredWeapon": "Sickle"
+	},
+	"Arlachramas": {
+		"deityname": "Arlachramas",
+		"file": "deitydisplay50bb.html",
+		"pantheon": "Daemon Harbingers",
+		"alignment": "NE",
+		"areasOfConcern": "Dehumanization, disposal, euthanasia",
+		"domains": [
+			"Community",
+			"Death",
+			"Evil",
+			"Strength"
+		],
+		"favoredWeapon": "Warhammer"
+	},
+	"Aroden": {
+		"deityname": "Aroden",
+		"file": "deitydisplaycee4.html",
+		"pantheon": "Dead Deities",
+		"alignment": "LN",
+		"areasOfConcern": "Humanity, innovation, history, culture, and fulfillment of destiny",
+		"domains": [
+			"Community",
+			"Glory",
+			"Knowledge",
+			"Law",
+			"Protection"
+		],
+		"favoredWeapon": "Longsword"
+	},
+	"Aroggus": {
+		"deityname": "Aroggus",
+		"file": "deitydisplay950e.html",
+		"pantheon": "Kyton Demagogues",
+		"alignment": "LE",
+		"areasOfConcern": "Possibility, revenge, sanctuary",
+		"domains": [
+			"Evil",
+			"Law",
+			"Protection",
+			"Trickery"
+		],
+		"favoredWeapon": "Warhammer"
+	},
+	"Arqueros": {
+		"deityname": "Arqueros",
+		"file": "deitydisplay121f.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "LG",
+		"areasOfConcern": "Bodyguards, protection, watchfulness",
+		"domains": [
+			"Good",
+			"Law",
+			"Protection",
+			"War"
+		],
+		"favoredWeapon": "Longspear"
+	},
+	"Arshea": {
+		"deityname": "Arshea",
+		"file": "deitydisplay317c.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "NG",
+		"areasOfConcern": "Freedom, physical beauty, sexuality",
+		"domains": [
+			"Charm",
+			"Good",
+			"Liberation",
+			"Strength"
+		],
+		"favoredWeapon": "Flail"
+	},
+	"Ashava": {
+		"deityname": "Ashava",
+		"file": "deitydisplayb117.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "CG",
+		"areasOfConcern": "Dancers, lonely spirits, moonlight",
+		"domains": [
+			"Chaos",
+			"Darkness",
+			"Good",
+			"Repose"
+		],
+		"favoredWeapon": "Bladed scarf"
+	},
+	"Ashukharma": {
+		"deityname": "Ashukharma",
+		"file": "deitydisplayb5ae.html",
+		"pantheon": "Other Deities",
+		"alignment": "CN",
+		"areasOfConcern": "Canyons, cliffs, gorges, and ravines",
+		"domains": [
+			"Chaos",
+			"Earth",
+			"Protection",
+			"Strength"
+		],
+		"favoredWeapon": "Greatsword"
+	},
+	"Asmodeus": {
+		"deityname": "Asmodeus",
+		"file": "deitydisplay86e0.html",
+		"pantheon": "Core Deities",
+		"alignment": "LE",
+		"areasOfConcern": "Contracts, pride, slavery, tyranny",
+		"domains": [
+			"Evil",
+			"Fire",
+			"Law",
+			"Magic",
+			"Trickery"
+		],
+		"favoredWeapon": "Mace"
+	},
+	"Atlach-Nacha": {
+		"deityname": "Atlach-Nacha",
+		"file": "deitydisplay8226.html",
+		"pantheon": "Great Old Ones",
+		"alignment": "NE",
+		"areasOfConcern": "Construction, futility, spiders",
+		"domains": [
+			"Artifice",
+			"Evil",
+			"Madness",
+			"Void"
+		],
+		"favoredWeapon": "Net"
+	},
+	"Atropos": {
+		"deityname": "Atropos",
+		"file": "deitydisplay48b6.html",
+		"pantheon": "Psychopomp Usher",
+		"alignment": "N",
+		"areasOfConcern": "Fate, sleep, and youth",
+		"domains": [
+			"Darkness",
+			"Death",
+			"Luck",
+			"Repose"
+		],
+		"favoredWeapon": "Dagger"
+	},
+	"Ayrzul": {
+		"deityname": "Ayrzul",
+		"file": "deitydisplaye834.html",
+		"pantheon": "Elemental Lords",
+		"alignment": "NE",
+		"areasOfConcern": "Buried secrets, earth, metal",
+		"domains": [
+			"Destruction",
+			"Earth",
+			"Evil",
+			"Strength"
+		],
+		"favoredWeapon": "Morningstar"
+	},
+	"Azathoth": {
+		"deityname": "Azathoth",
+		"file": "deitydisplayda8d.html",
+		"pantheon": "Outer Gods",
+		"alignment": "CN",
+		"areasOfConcern": "Entropy, madness, mindless destruction",
+		"domains": [
+			"Chaos",
+			"Destruction",
+			"Madness",
+			"Sun",
+			"Void"
+		],
+		"favoredWeapon": "Warhammer"
+	},
+	"Baalzebul": {
+		"deityname": "Baalzebul",
+		"file": "deitydisplay93ee.html",
+		"pantheon": "Archdevils",
+		"alignment": "LE",
+		"areasOfConcern": "Arrogance, flies, lies",
+		"domains": [
+			"Air",
+			"Death",
+			"Evil",
+			"Law"
+		],
+		"favoredWeapon": "Spear"
+	},
+	"Baphomet": {
+		"deityname": "Baphomet",
+		"file": "deitydisplayc6d7.html",
+		"pantheon": "Demon Lords",
+		"alignment": "CE",
+		"areasOfConcern": "Beasts, labyrinths, minotaurs",
+		"domains": [
+			"Animal",
+			"Chaos",
+			"Evil",
+			"Strength"
+		],
+		"favoredWeapon": "Glaive"
+	},
+	"Barbariccia": {
+		"deityname": "Barbariccia",
+		"file": "deitydisplay29c7.html",
+		"pantheon": "Malebranche",
+		"alignment": "LE",
+		"areasOfConcern": "Fecundity, predators, slaughter",
+		"domains": [
+			"Animal",
+			"Evil",
+			"Law",
+			"Plant"
+		],
+		"favoredWeapon": "Spiked gauntlet"
+	},
+	"Barbatos": {
+		"deityname": "Barbatos",
+		"file": "deitydisplayec3a.html",
+		"pantheon": "Archdevils",
+		"alignment": "LE",
+		"areasOfConcern": "Animals, corruption, gateways",
+		"domains": [
+			"Evil",
+			"Law",
+			"Magic",
+			"Travel"
+		],
+		"favoredWeapon": "Quarterstaff"
+	},
+	"Barravoclair": {
+		"deityname": "Barravoclair",
+		"file": "deitydisplay7566.html",
+		"pantheon": "Kyton Demagogues",
+		"alignment": "LE",
+		"areasOfConcern": "The elderly, fatalistic insights, resurrection",
+		"domains": [
+			"Death",
+			"Evil",
+			"Healing",
+			"Law"
+		],
+		"favoredWeapon": "War razor"
+	},
+	"Barzahk": {
+		"deityname": "Barzahk",
+		"file": "deitydisplay7206.html",
+		"pantheon": "Psychopomp Usher",
+		"alignment": "N",
+		"areasOfConcern": "Compasses, travelers, and vigils",
+		"domains": [
+			"Knowledge",
+			"Protection",
+			"Repose",
+			"Travel"
+		],
+		"favoredWeapon": "Club"
+	},
+	"Bastet": {
+		"deityname": "Bastet",
+		"file": "deitydisplaydeb7.html",
+		"pantheon": "Deities of Ancient Osirion",
+		"alignment": "CN",
+		"areasOfConcern": "Cats, pleasure, secrets",
+		"domains": [
+			"Animal",
+			"Chaos",
+			"Charm",
+			"Protection",
+			"Trickery"
+		],
+		"favoredWeapon": "Cat's claws (tekko-kagi)"
+	},
+	"Belial": {
+		"deityname": "Belial",
+		"file": "deitydisplay8aaf.html",
+		"pantheon": "Archdevils",
+		"alignment": "LE",
+		"areasOfConcern": "Adultery, deception, desire",
+		"domains": [
+			"Charm",
+			"Destruction",
+			"Evil",
+			"Law"
+		],
+		"favoredWeapon": "Ranseur"
+	},
+	"Benorus": {
+		"deityname": "Benorus",
+		"file": "deitydisplay3bc6.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "NG",
+		"areasOfConcern": "Hidden wonders, mines, subterranean creatures",
+		"domains": [
+			"Darkness",
+			"Earth",
+			"Good",
+			"Rune"
+		],
+		"favoredWeapon": "Heavy mace"
+	},
+	"Bergelmir": {
+		"deityname": "Bergelmir",
+		"file": "deitydisplay7649.html",
+		"pantheon": "Giant Deities",
+		"alignment": "CG",
+		"areasOfConcern": "Elders, family, genealogy",
+		"domains": [
+			"Chaos",
+			"Community",
+			"Good",
+			"Knowledge"
+		],
+		"favoredWeapon": "Quarterstaff"
+	},
+	"Bes": {
+		"deityname": "Bes",
+		"file": "deitydisplay8e04.html",
+		"pantheon": "Deities of Ancient Osirion",
+		"alignment": "NG",
+		"areasOfConcern": "Households, luck, marriage, protection",
+		"domains": [
+			"Community",
+			"Earth",
+			"Good",
+			"Luck",
+			"Protection"
+		],
+		"favoredWeapon": "Hunga munga"
+	},
+	"Besmara": {
+		"deityname": "Besmara",
+		"file": "deitydisplayb718.html",
+		"pantheon": "Other Deities",
+		"alignment": "CN",
+		"areasOfConcern": "Piracy, sea monsters, strife",
+		"domains": [
+			"Chaos",
+			"Trickery",
+			"War",
+			"Water",
+			"Weather"
+		],
+		"favoredWeapon": "Rapier"
+	},
+	"Bharnarol": {
+		"deityname": "Bharnarol",
+		"file": "deitydisplay7057.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "NG",
+		"areasOfConcern": "Creativity, invention, persistence",
+		"domains": [
+			"Artifice",
+			"Community",
+			"Good",
+			"Knowledge"
+		],
+		"favoredWeapon": "Sickle"
+	},
+	"Bifrons": {
+		"deityname": "Bifrons",
+		"file": "deitydisplay257a.html",
+		"pantheon": "Infernal Dukes",
+		"alignment": "LE",
+		"areasOfConcern": "Fate, luck, patterns",
+		"domains": [
+			"Artifice",
+			"Evil",
+			"Law",
+			"Rune"
+		],
+		"favoredWeapon": "Dire flail"
+	},
+	"Black Butterfly": {
+		"deityname": "Black Butterfly",
+		"file": "deitydisplaya56f.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "CG",
+		"areasOfConcern": "Distance, silence, space",
+		"domains": [
+			"Chaos",
+			"Good",
+			"Liberation",
+			"Void"
+		],
+		"favoredWeapon": "Starknife"
+	},
+	"Bohga": {
+		"deityname": "Bohga",
+		"file": "deitydisplay661e.html",
+		"pantheon": "Asura Ranas",
+		"alignment": "LE",
+		"areasOfConcern": "Avarice, meditation, vigilance",
+		"domains": [
+			"Evil",
+			"Law",
+			"Protection",
+			"Strength"
+		],
+		"favoredWeapon": "Halberd"
+	},
+	"Bokrug": {
+		"deityname": "Bokrug",
+		"file": "deitydisplay89cf.html",
+		"pantheon": "Great Old Ones",
+		"alignment": "CN",
+		"areasOfConcern": "Revenge, storms, water",
+		"domains": [
+			"Chaos",
+			"Destruction",
+			"Water",
+			"Weather"
+		],
+		"favoredWeapon": "Ranseur"
+	},
+	"Bolka": {
+		"deityname": "Bolka",
+		"file": "deitydisplayfeda.html",
+		"pantheon": "Dwarven Deities",
+		"alignment": "NG",
+		"areasOfConcern": "Beauty, desire, love",
+		"domains": [
+			"Charm",
+			"Community",
+			"Good",
+			"Healing"
+		],
+		"favoredWeapon": "Mace"
+	},
+	"Braismois": {
+		"deityname": "Braismois",
+		"file": "deitydisplay1fc0.html",
+		"pantheon": "Daemon Harbingers",
+		"alignment": "NE",
+		"areasOfConcern": "Broken deals, fine print, unfair bargains",
+		"domains": [
+			"Evil",
+			"Knowledge",
+			"Rune",
+			"Trickery"
+		],
+		"favoredWeapon": "Light mace"
+	},
+	"Brigh": {
+		"deityname": "Brigh",
+		"file": "deitydisplaya715.html",
+		"pantheon": "Other Deities",
+		"alignment": "N",
+		"areasOfConcern": "Clockwork, invention, time",
+		"domains": [
+			"Artifice",
+			"Earth",
+			"Fire",
+			"Knowledge"
+		],
+		"favoredWeapon": "Light hammer"
+	},
+	"Bundha": {
+		"deityname": "Bundha",
+		"file": "deitydisplay5954.html",
+		"pantheon": "Rakshasa Immortals",
+		"alignment": "LE",
+		"areasOfConcern": "N/a",
+		"domains": [
+			"Animal",
+			"Evil",
+			"Law",
+			"Trickery"
+		],
+		"favoredWeapon": "Kukri"
+	},
+	"Caera": {
+		"deityname": "Caera",
+		"file": "deitydisplayc396.html",
+		"pantheon": "Rakshasa Immortals",
+		"alignment": "LE",
+		"areasOfConcern": "N/a",
+		"domains": [
+			"Animal",
+			"Evil",
+			"Law",
+			"Trickery"
+		],
+		"favoredWeapon": "Kukri"
+	},
+	"Cagnazzo": {
+		"deityname": "Cagnazzo",
+		"file": "deitydisplay30f7.html",
+		"pantheon": "Malebranche",
+		"alignment": "LE",
+		"areasOfConcern": "Elusiveness, fear, murder",
+		"domains": [
+			"Death",
+			"Evil",
+			"Law",
+			"Travel"
+		],
+		"favoredWeapon": "Short sword"
+	},
+	"Calcabrina": {
+		"deityname": "Calcabrina",
+		"file": "deitydisplaycb6c.html",
+		"pantheon": "Malebranche",
+		"alignment": "LE",
+		"areasOfConcern": "Dreams, insanity, mystery",
+		"domains": [
+			"Evil",
+			"Knowledge",
+			"Law",
+			"Madness"
+		],
+		"favoredWeapon": "Kukri"
+	},
+	"Calistria": {
+		"deityname": "Calistria",
+		"file": "deitydisplay40d2.html",
+		"pantheon": "Core Deities",
+		"alignment": "CN",
+		"areasOfConcern": "Lust, revenge, trickery",
+		"domains": [
+			"Chaos",
+			"Charm",
+			"Knowledge",
+			"Luck",
+			"Trickery"
+		],
+		"favoredWeapon": "Whip"
+	},
+	"Camazotz": {
+		"deityname": "Camazotz",
+		"file": "deitydisplay4e1c.html",
+		"pantheon": "Other Deities",
+		"alignment": "CE",
+		"areasOfConcern": "Bats, blood, caverns, nocturnal predators",
+		"domains": [
+			"Animal",
+			"Chaos",
+			"Darkness",
+			"Evil",
+			"Trickery"
+		],
+		"favoredWeapon": "Javelin"
+	},
+	"Cayden Cailean": {
+		"deityname": "Cayden Cailean",
+		"file": "deitydisplay3a22.html",
+		"pantheon": "Core Deities",
+		"alignment": "CG",
+		"areasOfConcern": "Ale, bravery, freedom, wine",
+		"domains": [
+			"Chaos",
+			"Charm",
+			"Good",
+			"Strength",
+			"Travel"
+		],
+		"favoredWeapon": "Rapier"
+	},
+	"Cernunnos": {
+		"deityname": "Cernunnos",
+		"file": "deitydisplay588b.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "CG",
+		"areasOfConcern": "Fertility, seasons, wild animals",
+		"domains": [
+			"Animal",
+			"Chaos",
+			"Good",
+			"Plant"
+		],
+		"favoredWeapon": "Longbow"
+	},
+	"Ceyannan": {
+		"deityname": "Ceyannan",
+		"file": "deitydisplayde57.html",
+		"pantheon": "Psychopomp Usher",
+		"alignment": "N",
+		"areasOfConcern": "Final words, lost souls, and searches",
+		"domains": [
+			"Community",
+			"Repose",
+			"Protection",
+			"Strength"
+		],
+		"favoredWeapon": "Quarterstaff"
+	},
+	"Chadali": {
+		"deityname": "Chadali",
+		"file": "deitydisplay7f76.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "CG",
+		"areasOfConcern": "Fate, safety, serendipity",
+		"domains": [
+			"Chaos",
+			"Good",
+			"Luck",
+			"Protection"
+		],
+		"favoredWeapon": "Net"
+	},
+	"Chaldira": {
+		"deityname": "Chaldira",
+		"file": "deitydisplay56a6.html",
+		"pantheon": "Halfling Deities",
+		"alignment": "NG",
+		"areasOfConcern": "Battle, luck, mischief",
+		"domains": [
+			"Good",
+			"Luck",
+			"Trickery",
+			"War"
+		],
+		"favoredWeapon": "Short sword"
+	},
+	"Chamiaholom": {
+		"deityname": "Chamiaholom",
+		"file": "deitydisplayde17.html",
+		"pantheon": "Sahkil Tormentors",
+		"alignment": "CE",
+		"areasOfConcern": "Domination, hopelessness, mortality",
+		"domains": [
+			"Death",
+			"Evil",
+			"Magic",
+			"Repose"
+		],
+		"favoredWeapon": "Quarterstaff"
+	},
+	"Charg": {
+		"deityname": "Charg",
+		"file": "deitydisplaycbc6.html",
+		"pantheon": "Sahkil Tormentors",
+		"alignment": "CE",
+		"areasOfConcern": "Catastrophic decline, detrimental complacency, monsters",
+		"domains": [
+			"Destruction",
+			"Evil",
+			"Madness",
+			"Strength"
+		],
+		"favoredWeapon": "Falchion"
+	},
+	"Charon": {
+		"deityname": "Charon",
+		"file": "deitydisplay2645.html",
+		"pantheon": "Horsemen",
+		"alignment": "NE",
+		"areasOfConcern": "Death",
+		"domains": [
+			"Death",
+			"Evil",
+			"Knowledge",
+			"Water"
+		],
+		"favoredWeapon": "Quarterstaff"
+	},
+	"Chaugnar Faugn": {
+		"deityname": "Chaugnar Faugn",
+		"file": "deitydisplay1b3c.html",
+		"pantheon": "Great Old Ones",
+		"alignment": "CE",
+		"areasOfConcern": "Blood, patience, remote hill country",
+		"domains": [
+			"Chaos",
+			"Death",
+			"Evil",
+			"War"
+		],
+		"favoredWeapon": "Light pick"
+	},
+	"Chavazvug": {
+		"deityname": "Chavazvug",
+		"file": "deitydisplay77c5.html",
+		"pantheon": "Qlippoth Lords",
+		"alignment": "CE",
+		"areasOfConcern": "Fiery consumption, monstrous recursion",
+		"domains": [
+			"Chaos",
+			"Evil",
+			"Fire",
+			"Repose"
+		],
+		"favoredWeapon": "Heavy flail"
+	},
+	"Chimon": {
+		"deityname": "Chimon",
+		"file": "deitydisplaya58e.html",
+		"pantheon": "Oni Daimyo",
+		"alignment": "NE",
+		"areasOfConcern": "Ambushes, hunting, traps",
+		"domains": [
+			"Artifice",
+			"Evil",
+			"Travel",
+			"Trickery"
+		],
+		"favoredWeapon": "Longbow"
+	},
+	"Chinostes (Evil Aspect)": {
+		"deityname": "Chinostes (Evil Aspect)",
+		"file": "deitydisplay6ab4.html",
+		"pantheon": "Iblydan Hero-Gods",
+		"alignment": "NE",
+		"areasOfConcern": "Tragedy, sacrifice",
+		"domains": [
+			"Evil",
+			"Luck",
+			"Nobility"
+		],
+		"favoredWeapon": "wooden stake"
+	},
+	"Chinostes (Good Aspect)": {
+		"deityname": "Chinostes (Good Aspect)",
+		"file": "deitydisplay77ec.html",
+		"pantheon": "Iblydan Hero-Gods",
+		"alignment": "NG",
+		"areasOfConcern": "Tragedy, sacrifice",
+		"domains": [
+			"Good",
+			"Luck",
+			"Nobility"
+		],
+		"favoredWeapon": "dagger"
+	},
+	"Chucaro": {
+		"deityname": "Chucaro",
+		"file": "deitydisplayb0ad.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "CG",
+		"areasOfConcern": "Dreams, hallucinations, mists",
+		"domains": [
+			"Chaos",
+			"Good",
+			"Madness",
+			"Magic"
+		],
+		"favoredWeapon": "Morningstar"
+	},
+	"Chugarra": {
+		"deityname": "Chugarra",
+		"file": "deitydisplay904e.html",
+		"pantheon": "Asura Ranas",
+		"alignment": "LE",
+		"areasOfConcern": "Blood, butchers, leather",
+		"domains": [
+			"Death",
+			"Evil",
+			"Law",
+			"War"
+		],
+		"favoredWeapon": "Handaxe"
+	},
+	"Chupurvagasti": {
+		"deityname": "Chupurvagasti",
+		"file": "deitydisplaydf66.html",
+		"pantheon": "Asura Ranas",
+		"alignment": "LE",
+		"areasOfConcern": "Mist, poison, veils",
+		"domains": [
+			"Air",
+			"Evil",
+			"Law",
+			"Trickery"
+		],
+		"favoredWeapon": "Handaxe"
+	},
+	"Cihua Couatl": {
+		"deityname": "Cihua Couatl",
+		"file": "deitydisplay60d8.html",
+		"pantheon": "Other Deities",
+		"alignment": "NG",
+		"areasOfConcern": "Childbirth, protection, and warfare",
+		"domains": [
+			"Good",
+			"Healing",
+			"Protection",
+			"Strength",
+			"War"
+		],
+		"favoredWeapon": "Shortspear"
+	},
+	"Circiatto": {
+		"deityname": "Circiatto",
+		"file": "deitydisplay7045.html",
+		"pantheon": "Malebranche",
+		"alignment": "LE",
+		"areasOfConcern": "Gluttony, greed, undead",
+		"domains": [
+			"Death",
+			"Evil",
+			"Law",
+			"Magic"
+		],
+		"favoredWeapon": "Warhammer"
+	},
+	"Cixyron": {
+		"deityname": "Cixyron",
+		"file": "deitydisplay9629.html",
+		"pantheon": "Daemon Harbingers",
+		"alignment": "NE",
+		"areasOfConcern": "Electricity, gunpowder, poisonous metals",
+		"domains": [
+			"Artifice",
+			"Earth",
+			"Evil",
+			"Knowledge"
+		],
+		"favoredWeapon": "Musket"
+	},
+	"Corosbel": {
+		"deityname": "Corosbel",
+		"file": "deitydisplay220b.html",
+		"pantheon": "Daemon Harbingers",
+		"alignment": "NE",
+		"areasOfConcern": "Failed martyrdom, false worship, ritual death",
+		"domains": [
+			"Death",
+			"Evil",
+			"Repose",
+			"Trickery"
+		],
+		"favoredWeapon": "Dagger"
+	},
+	"Count Ranalc": {
+		"deityname": "Count Ranalc",
+		"file": "deitydisplay84ce.html",
+		"pantheon": "Eldest",
+		"alignment": "CN",
+		"areasOfConcern": "Betrayal, exiles, shadows",
+		"domains": [
+			"Chaos",
+			"Darkness",
+			"Nobility",
+			"Travel"
+		],
+		"favoredWeapon": "Rapier"
+	},
+	"Crocell": {
+		"deityname": "Crocell",
+		"file": "deitydisplay7d5e.html",
+		"pantheon": "Infernal Dukes",
+		"alignment": "LE",
+		"areasOfConcern": "Hidden waters, illusion, language",
+		"domains": [
+			"Evil",
+			"Knowledge",
+			"Law",
+			"Water"
+		],
+		"favoredWeapon": "Glaive"
+	},
+	"Cthulhu": {
+		"deityname": "Cthulhu",
+		"file": "deitydisplay73cd.html",
+		"pantheon": "Great Old Ones",
+		"alignment": "CE",
+		"areasOfConcern": "Cataclysms, dreams, the stars",
+		"domains": [
+			"Chaos",
+			"Evil",
+			"Madness",
+			"Void"
+		],
+		"favoredWeapon": "Dagger"
+	},
+	"Cyth-V'sug": {
+		"deityname": "Cyth-V'sug",
+		"file": "deitydisplay6a73.html",
+		"pantheon": "Demon Lords",
+		"alignment": "CE",
+		"areasOfConcern": "Disease, fungus, parasites",
+		"domains": [
+			"Chaos",
+			"Earth",
+			"Evil",
+			"Plant"
+		],
+		"favoredWeapon": "Scimitar"
+	},
+	"Dachzerul": {
+		"deityname": "Dachzerul",
+		"file": "deitydisplay2f93.html",
+		"pantheon": "Sahkil Tormentors",
+		"alignment": "CE",
+		"areasOfConcern": "Deadly pranks, stalkers, sudden death",
+		"domains": [
+			"Charm",
+			"Evil",
+			"Luck",
+			"Trickery"
+		],
+		"favoredWeapon": "Rapier"
+	},
+	"Daclau-Sar": {
+		"deityname": "Daclau-Sar",
+		"file": "deitydisplay2727.html",
+		"pantheon": "Nascent Demon Lords",
+		"alignment": "CE",
+		"areasOfConcern": "Carrion, scavengers",
+		"domains": [
+			"Animal",
+			"Chaos",
+			"Destruction",
+			"Evil"
+		],
+		"favoredWeapon": "Spiked gauntlet"
+	},
+	"Dagon": {
+		"deityname": "Dagon",
+		"file": "deitydisplaya05d.html",
+		"pantheon": "Demon Lords",
+		"alignment": "CE",
+		"areasOfConcern": "Deformity, sea monsters, the sea",
+		"domains": [
+			"Chaos",
+			"Destruction",
+			"Evil",
+			"Water"
+		],
+		"favoredWeapon": "Trident"
+	},
+	"Dahak": {
+		"deityname": "Dahak",
+		"file": "deitydisplaye1b5.html",
+		"pantheon": "Other Deities",
+		"alignment": "CE",
+		"areasOfConcern": "Destruction, evil dragons, greed",
+		"domains": [
+			"Chaos",
+			"Destruction",
+			"Evil",
+			"Scalykind",
+			"Trickery"
+		],
+		"favoredWeapon": "Bite or whip"
+	},
+	"Daikitsu": {
+		"deityname": "Daikitsu",
+		"file": "deitydisplayaa90.html",
+		"pantheon": "Deities of Tian Xia",
+		"alignment": "N",
+		"areasOfConcern": "Agriculture, craftsmanship, kitsune, rice",
+		"domains": [
+			"Animal",
+			"Artifice",
+			"Community",
+			"Plant",
+			"Weather"
+		],
+		"favoredWeapon": "Flail"
+	},
+	"Dalenydra": {
+		"deityname": "Dalenydra",
+		"file": "deitydisplay4687.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "NG",
+		"areasOfConcern": "Battlefield healing, caregiving, sanctuaries",
+		"domains": [
+			"Good",
+			"Healing",
+			"Protection",
+			"Repose"
+		],
+		"favoredWeapon": "Light mace"
+	},
+	"Damerrich": {
+		"deityname": "Damerrich",
+		"file": "deitydisplay35ef.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "LG",
+		"areasOfConcern": "Executions, judiciousness, responsibility",
+		"domains": [
+			"Death",
+			"Glory",
+			"Good",
+			"Law"
+		],
+		"favoredWeapon": "Greataxe"
+	},
+	"Dammar": {
+		"deityname": "Dammar",
+		"file": "deitydisplay448f.html",
+		"pantheon": "Psychopomp Usher",
+		"alignment": "N",
+		"areasOfConcern": "Liquor, luck, and medicine",
+		"domains": [
+			"Healing",
+			"Luck",
+			"Protection",
+			"Repose"
+		],
+		"favoredWeapon": "Short sword"
+	},
+	"Deskari": {
+		"deityname": "Deskari",
+		"file": "deitydisplayb7b9.html",
+		"pantheon": "Demon Lords",
+		"alignment": "CE",
+		"areasOfConcern": "Chasms, infestations, locusts",
+		"domains": [
+			"Chaos",
+			"Destruction",
+			"Evil",
+			"War"
+		],
+		"favoredWeapon": "Scythe"
+	},
+	"Desna": {
+		"deityname": "Desna",
+		"file": "deitydisplaydf40.html",
+		"pantheon": "Core Deities",
+		"alignment": "CG",
+		"areasOfConcern": "Dreams, luck, stars, travelers",
+		"domains": [
+			"Chaos",
+			"Good",
+			"Liberation",
+			"Luck",
+			"Travel"
+		],
+		"favoredWeapon": "Starknife"
+	},
+	"Deumus": {
+		"deityname": "Deumus",
+		"file": "deitydisplay46b6.html",
+		"pantheon": "Infernal Dukes",
+		"alignment": "LE",
+		"areasOfConcern": "Apprehension, promises, terror",
+		"domains": [
+			"Darkness",
+			"Death",
+			"Evil",
+			"Law"
+		],
+		"favoredWeapon": "Halberd"
+	},
+	"Dhalavei": {
+		"deityname": "Dhalavei",
+		"file": "deitydisplay715e.html",
+		"pantheon": "Other Deities",
+		"alignment": "LE",
+		"areasOfConcern": "Secrets, discord, eclipses",
+		"domains": [
+			"Destruction",
+			"Evil",
+			"Knowledge",
+			"Law",
+			"Trickery"
+		],
+		"favoredWeapon": "Temple sword"
+	},
+	"Diceid": {
+		"deityname": "Diceid",
+		"file": "deitydisplay1b98.html",
+		"pantheon": "Daemon Harbingers",
+		"alignment": "NE",
+		"areasOfConcern": "Invasive species, extinction, natural disaster",
+		"domains": [
+			"Animal",
+			"Evil",
+			"Plant",
+			"Weather"
+		],
+		"favoredWeapon": "Scythe"
+	},
+	"Dispater": {
+		"deityname": "Dispater",
+		"file": "deitydisplayb286.html",
+		"pantheon": "Archdevils",
+		"alignment": "LE",
+		"areasOfConcern": "Cities, prisons, rulership",
+		"domains": [
+			"Evil",
+			"Law",
+			"Nobility",
+			"Trickery"
+		],
+		"favoredWeapon": "Heavy mace"
+	},
+	"Doloras": {
+		"deityname": "Doloras",
+		"file": "deitydisplayb29c.html",
+		"pantheon": "Queens of the Night",
+		"alignment": "LE",
+		"areasOfConcern": "Detachment, dispassion, pain",
+		"domains": [
+			"Destruction",
+			"Evil",
+			"Law",
+			"Repose"
+		],
+		"favoredWeapon": "Kukri"
+	},
+	"Dradjit": {
+		"deityname": "Dradjit",
+		"file": "deitydisplay1c7e.html",
+		"pantheon": "Rakshasa Immortals",
+		"alignment": "LE",
+		"areasOfConcern": "N/a",
+		"domains": [
+			"Animal",
+			"Evil",
+			"Law",
+			"Trickery"
+		],
+		"favoredWeapon": "Kukri"
+	},
+	"Draghignazzo": {
+		"deityname": "Draghignazzo",
+		"file": "deitydisplay4401.html",
+		"pantheon": "Malebranche",
+		"alignment": "LE",
+		"areasOfConcern": "Devastation, monsters, patience",
+		"domains": [
+			"Destruction",
+			"Earth",
+			"Evil",
+			"Law"
+		],
+		"favoredWeapon": "Greataxe"
+	},
+	"Dranngvit": {
+		"deityname": "Dranngvit",
+		"file": "deitydisplaya88f.html",
+		"pantheon": "Dwarven Deities",
+		"alignment": "LN",
+		"areasOfConcern": "Debt, pursuit, vengeance",
+		"domains": [
+			"Knowledge",
+			"Law",
+			"Strength",
+			"Travel"
+		],
+		"favoredWeapon": "Light pick"
+	},
+	"Dretha": {
+		"deityname": "Dretha",
+		"file": "deitydisplay2dab.html",
+		"pantheon": "Orc Deities",
+		"alignment": "CE",
+		"areasOfConcern": "Birth, fertility, tribes",
+		"domains": [
+			"Chaos",
+			"Community",
+			"Evil",
+			"Protection"
+		],
+		"favoredWeapon": "Scimitar"
+	},
+	"Drokalion": {
+		"deityname": "Drokalion",
+		"file": "deitydisplay73d2.html",
+		"pantheon": "Iblydan Hero-Gods",
+		"alignment": "N",
+		"areasOfConcern": "none",
+		"domains": [
+			"Animal",
+			"Glory"
+		],
+		"favoredWeapon": "none"
+	},
+	"Droskar": {
+		"deityname": "Droskar",
+		"file": "deitydisplay0aa3.html",
+		"pantheon": "Dwarven Deities",
+		"alignment": "NE",
+		"areasOfConcern": "Cheating, slavery, toil",
+		"domains": [
+			"Artifice",
+			"Charm",
+			"Darkness",
+			"Evil",
+			"Trickery"
+		],
+		"favoredWeapon": "Light hammer"
+	},
+	"Ealdeez": {
+		"deityname": "Ealdeez",
+		"file": "deitydisplay0a6c.html",
+		"pantheon": "Daemon Harbingers",
+		"alignment": "NE",
+		"areasOfConcern": "Regression, reversion, savage revenge",
+		"domains": [
+			"Animal",
+			"Destruction",
+			"Evil",
+			"Strength"
+		],
+		"favoredWeapon": "Greatclub"
+	},
+	"Eaqueo": {
+		"deityname": "Eaqueo",
+		"file": "deitydisplayab47.html",
+		"pantheon": "Infernal Dukes",
+		"alignment": "LE",
+		"areasOfConcern": "Depression, nooses, sad stories",
+		"domains": [
+			"Evil",
+			"Law",
+			"Liberation",
+			"Madness"
+		],
+		"favoredWeapon": "Net"
+	},
+	"Easivra": {
+		"deityname": "Easivra",
+		"file": "deitydisplay982d.html",
+		"pantheon": "Other Deities",
+		"alignment": "LG",
+		"areasOfConcern": "Avians, gold, the sun",
+		"domains": [
+			"Animal",
+			"Good",
+			"Law",
+			"Sun"
+		],
+		"favoredWeapon": "Morningstar"
+	},
+	"Eiseth": {
+		"deityname": "Eiseth",
+		"file": "deitydisplaybe10.html",
+		"pantheon": "Queens of the Night",
+		"alignment": "LE",
+		"areasOfConcern": "Battle, revenge, wrath",
+		"domains": [
+			"Destruction",
+			"Evil",
+			"Law",
+			"War"
+		],
+		"favoredWeapon": "Longbow"
+	},
+	"Eldas": {
+		"deityname": "Eldas",
+		"file": "deitydisplayc672.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "LG",
+		"areasOfConcern": "Architecture, masonry, planning",
+		"domains": [
+			"Artifice",
+			"Earth",
+			"Good",
+			"Law"
+		],
+		"favoredWeapon": "Light pick"
+	},
+	"Eligos": {
+		"deityname": "Eligos",
+		"file": "deitydisplayd4c1.html",
+		"pantheon": "Infernal Dukes",
+		"alignment": "LE",
+		"areasOfConcern": "Flight, soldiers, watchfulness",
+		"domains": [
+			"Air",
+			"Evil",
+			"Law",
+			"Travel"
+		],
+		"favoredWeapon": "Lance"
+	},
+	"Elion": {
+		"deityname": "Elion",
+		"file": "deitydisplaydddb.html",
+		"pantheon": "Azlanti Pantheon",
+		"alignment": "CG",
+		"areasOfConcern": "Colonization, discovery, and exploration",
+		"domains": [
+			"Chaos",
+			"Community",
+			"Good",
+			"Travel",
+			"Weather"
+		],
+		"favoredWeapon": "Longbow"
+	},
+	"Erastil": {
+		"deityname": "Erastil",
+		"file": "deitydisplay8303.html",
+		"pantheon": "Core Deities",
+		"alignment": "LG",
+		"areasOfConcern": "Family, farming, hunting, trade",
+		"domains": [
+			"Animal",
+			"Community",
+			"Good",
+			"Law",
+			"Plant"
+		],
+		"favoredWeapon": "Longbow"
+	},
+	"Erecura": {
+		"deityname": "Erecura",
+		"file": "deitydisplayeb62.html",
+		"pantheon": "Other Deities",
+		"alignment": "LN",
+		"areasOfConcern": "Deduction, mind reading, subtlety",
+		"domains": [
+			"Knowledge",
+			"Law",
+			"Nobility",
+			"Trickery"
+		],
+		"favoredWeapon": "Light mace"
+	},
+	"Eritrice": {
+		"deityname": "Eritrice",
+		"file": "deitydisplay2288.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "NG",
+		"areasOfConcern": "Debate, opinions, truth",
+		"domains": [
+			"Charm",
+			"Good",
+			"Knowledge",
+			"Nobility"
+		],
+		"favoredWeapon": "Dagger"
+	},
+	"Falayna": {
+		"deityname": "Falayna",
+		"file": "deitydisplay711b.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "LG",
+		"areasOfConcern": "Femininity, martial training, rings",
+		"domains": [
+			"Good",
+			"Law",
+			"Liberation",
+			"Strength"
+		],
+		"favoredWeapon": "Longsword"
+	},
+	"Fandarra": {
+		"deityname": "Fandarra",
+		"file": "deitydisplay77ab.html",
+		"pantheon": "Giant Deities",
+		"alignment": "N",
+		"areasOfConcern": "Cycle of life, earth, knowledge",
+		"domains": [
+			"Community",
+			"Death",
+			"Earth",
+			"Knowledge",
+			"Plant"
+		],
+		"favoredWeapon": "Stone dagger"
+	},
+	"Farfarello": {
+		"deityname": "Farfarello",
+		"file": "deitydisplay75b7.html",
+		"pantheon": "Malebranche",
+		"alignment": "LE",
+		"areasOfConcern": "Antiquity, death, mists",
+		"domains": [
+			"Death",
+			"Evil",
+			"Knowledge",
+			"Law"
+		],
+		"favoredWeapon": "Morningstar"
+	},
+	"Feronia": {
+		"deityname": "Feronia",
+		"file": "deitydisplay1dab.html",
+		"pantheon": "Other Deities",
+		"alignment": "N",
+		"areasOfConcern": "Fertility, sacred fires, wildlife",
+		"domains": [
+			"Destruction",
+			"Fire",
+			"Liberation",
+			"Protection"
+		],
+		"favoredWeapon": "Bastard sword"
+	},
+	"Fharaas": {
+		"deityname": "Fharaas",
+		"file": "deitydisplayde35.html",
+		"pantheon": "Kyton Demagogues",
+		"alignment": "LE",
+		"areasOfConcern": "Experience, murder, patterns",
+		"domains": [
+			"Evil",
+			"Knowledge",
+			"Law",
+			"Repose"
+		],
+		"favoredWeapon": "Battle axe"
+	},
+	"Findeladlara": {
+		"deityname": "Findeladlara",
+		"file": "deitydisplayff64.html",
+		"pantheon": "Elven Deities",
+		"alignment": "CG",
+		"areasOfConcern": "Architecture, art, twilight",
+		"domains": [
+			"Air",
+			"Artifice",
+			"Chaos",
+			"Community",
+			"Good"
+		],
+		"favoredWeapon": "Quarterstaff"
+	},
+	"Flauros": {
+		"deityname": "Flauros",
+		"file": "deitydisplayeb4a.html",
+		"pantheon": "Demon Lords",
+		"alignment": "CE",
+		"areasOfConcern": "Fire, salamanders, volcanoes",
+		"domains": [
+			"Chaos",
+			"Evil",
+			"Fire",
+			"War"
+		],
+		"favoredWeapon": "Spear"
+	},
+	"Folca": {
+		"deityname": "Folca",
+		"file": "deitydisplay63ac.html",
+		"pantheon": "Daemon Harbingers",
+		"alignment": "NE",
+		"areasOfConcern": "Abduction, strangers, sweets",
+		"domains": [
+			"Charm",
+			"Evil",
+			"Travel",
+			"Trickery"
+		],
+		"favoredWeapon": "Net"
+	},
+	"Folgrit": {
+		"deityname": "Folgrit",
+		"file": "deitydisplay6503.html",
+		"pantheon": "Dwarven Deities",
+		"alignment": "LG",
+		"areasOfConcern": "Children, hearths, mothers",
+		"domains": [
+			"Community",
+			"Law",
+			"Nobility",
+			"Good"
+		],
+		"favoredWeapon": "Quarterstaff"
+	},
+	"Fumeiyoshi": {
+		"deityname": "Fumeiyoshi",
+		"file": "deitydisplaybc41.html",
+		"pantheon": "Deities of Tian Xia",
+		"alignment": "NE",
+		"areasOfConcern": "Dishonor, envy, graves, undead",
+		"domains": [
+			"Death",
+			"Destruction",
+			"Evil",
+			"Repose",
+			"War"
+		],
+		"favoredWeapon": "Naginata"
+	},
+	"Furcas": {
+		"deityname": "Furcas",
+		"file": "deitydisplay29f2.html",
+		"pantheon": "Infernal Dukes",
+		"alignment": "LE",
+		"areasOfConcern": "Duty, flames, herbalism",
+		"domains": [
+			"Evil",
+			"Fire",
+			"Law",
+			"Plant"
+		],
+		"favoredWeapon": "Trident"
+	},
+	"Gaap": {
+		"deityname": "Gaap",
+		"file": "deitydisplay870f.html",
+		"pantheon": "Infernal Dukes",
+		"alignment": "LE",
+		"areasOfConcern": "Divination, illusion, water",
+		"domains": [
+			"Evil",
+			"Law",
+			"Rune",
+			"Water"
+		],
+		"favoredWeapon": "Shortspear"
+	},
+	"Gavidya": {
+		"deityname": "Gavidya",
+		"file": "deitydisplaycbcb.html",
+		"pantheon": "Asura Ranas",
+		"alignment": "LE",
+		"areasOfConcern": "Corruption, indoctrination, lies",
+		"domains": [
+			"Community",
+			"Evil",
+			"Law",
+			"Trickery"
+		],
+		"favoredWeapon": "Sap"
+	},
+	"General Susumu": {
+		"deityname": "General Susumu",
+		"file": "deitydisplay593d.html",
+		"pantheon": "Deities of Tian Xia",
+		"alignment": "LE",
+		"areasOfConcern": "Archery, horses, personal glory, war",
+		"domains": [
+			"Evil",
+			"Glory",
+			"Law",
+			"Nobility",
+			"War"
+		],
+		"favoredWeapon": "Longbow"
+	},
+	"Geon": {
+		"deityname": "Geon",
+		"file": "deitydisplay00d0.html",
+		"pantheon": "Daemon Harbingers",
+		"alignment": "NE",
+		"areasOfConcern": "Nightmares, quartering, trampling",
+		"domains": [
+			"Air",
+			"Evil",
+			"Fire",
+			"Travel"
+		],
+		"favoredWeapon": "Lance"
+	},
+	"Geryon": {
+		"deityname": "Geryon",
+		"file": "deitydisplaycf54.html",
+		"pantheon": "Archdevils",
+		"alignment": "LE",
+		"areasOfConcern": "Forbidden knowledge, heresy, snakes",
+		"domains": [
+			"Evil",
+			"Law",
+			"Strength",
+			"Water"
+		],
+		"favoredWeapon": "Heavy flail"
+	},
+	"Ghatanothoa": {
+		"deityname": "Ghatanothoa",
+		"file": "deitydisplay2615.html",
+		"pantheon": "Great Old Ones",
+		"alignment": "NE",
+		"areasOfConcern": "Disasters, lost islands, sacrifice",
+		"domains": [
+			"Destruction",
+			"Evil",
+			"Madness",
+			"Water"
+		],
+		"favoredWeapon": "Morningstar"
+	},
+	"Ghenshau": {
+		"deityname": "Ghenshau",
+		"file": "deitydisplay9faf.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "LG",
+		"areasOfConcern": "Ignorance, placidity, simplicity",
+		"domains": [
+			"Community",
+			"Good",
+			"Law",
+			"Repose"
+		],
+		"favoredWeapon": "Handaxe"
+	},
+	"Ghlaunder": {
+		"deityname": "Ghlaunder",
+		"file": "deitydisplay1965.html",
+		"pantheon": "Other Deities",
+		"alignment": "CE",
+		"areasOfConcern": "Infection, parasites, stagnation",
+		"domains": [
+			"Air",
+			"Animal",
+			"Chaos",
+			"Destruction",
+			"Evil"
+		],
+		"favoredWeapon": "Spear"
+	},
+	"Gogunta": {
+		"deityname": "Gogunta",
+		"file": "deitydisplay4152.html",
+		"pantheon": "Demon Lords",
+		"alignment": "CE",
+		"areasOfConcern": "Amphibians, boggards, swamps",
+		"domains": [
+			"Chaos",
+			"Death",
+			"Evil",
+			"Water"
+		],
+		"favoredWeapon": "Whip"
+	},
+	"Gorum": {
+		"deityname": "Gorum",
+		"file": "deitydisplay3932.html",
+		"pantheon": "Core Deities",
+		"alignment": "CN",
+		"areasOfConcern": "Battle, strength, weapons",
+		"domains": [
+			"Chaos",
+			"Destruction",
+			"Glory",
+			"Strength",
+			"War"
+		],
+		"favoredWeapon": "Greatsword"
+	},
+	"Gozreh": {
+		"deityname": "Gozreh",
+		"file": "deitydisplayc8b7.html",
+		"pantheon": "Core Deities",
+		"alignment": "N",
+		"areasOfConcern": "Nature, the sea, weather",
+		"domains": [
+			"Air",
+			"Animal",
+			"Plant",
+			"Water",
+			"Weather"
+		],
+		"favoredWeapon": "Trident"
+	},
+	"Graffiacane": {
+		"deityname": "Graffiacane",
+		"file": "deitydisplay245d.html",
+		"pantheon": "Malebranche",
+		"alignment": "LE",
+		"areasOfConcern": "Corruption, elusiveness, vermin",
+		"domains": [
+			"Animal",
+			"Evil",
+			"Law",
+			"Luck"
+		],
+		"favoredWeapon": "Shuriken"
+	},
+	"Grandmother Spider": {
+		"deityname": "Grandmother Spider",
+		"file": "deitydisplay2531.html",
+		"pantheon": "Other Deities",
+		"alignment": "N",
+		"areasOfConcern": "Twilight, weaving, illusion, and family",
+		"domains": [
+			"Charm",
+			"Community",
+			"Darkness",
+			"Luck",
+			"Trickery"
+		],
+		"favoredWeapon": "Net"
+	},
+	"Green Faith": {
+		"deityname": "Green Faith",
+		"file": "deitydisplay6eac.html",
+		"pantheon": "Core Deities",
+		"alignment": "N",
+		"areasOfConcern": "Air, beast, earth, fire, water",
+		"domains": [
+			"Air",
+			"Animal",
+			"Earth",
+			"Fire",
+			"Plant"
+		],
+		"favoredWeapon": "Druidic weapons"
+	},
+	"Groetus": {
+		"deityname": "Groetus",
+		"file": "deitydisplay7635.html",
+		"pantheon": "Other Deities",
+		"alignment": "CN",
+		"areasOfConcern": "Empty places, oblivion, ruins",
+		"domains": [
+			"Chaos",
+			"Darkness",
+			"Destruction",
+			"Madness",
+			"Void"
+		],
+		"favoredWeapon": "Heavy flail"
+	},
+	"Gruhastha": {
+		"deityname": "Gruhastha",
+		"file": "deitydisplayb5da.html",
+		"pantheon": "Other Deities",
+		"alignment": "LG",
+		"areasOfConcern": "The Vudrani holy book",
+		"domains": [
+			"Animals",
+			"Good",
+			"Knowledge",
+			"Law",
+			"Travel"
+		],
+		"favoredWeapon": "Shortbow"
+	},
+	"Grundinnar": {
+		"deityname": "Grundinnar",
+		"file": "deitydisplaydd7f.html",
+		"pantheon": "Dwarven Deities",
+		"alignment": "LG",
+		"areasOfConcern": "Friendship, loyalty, peace",
+		"domains": [
+			"Community",
+			"Good",
+			"Law",
+			"Protection"
+		],
+		"favoredWeapon": "Hammer"
+	},
+	"Guyuku": {
+		"deityname": "Guyuku",
+		"file": "deitydisplay58ae.html",
+		"pantheon": "Oni Daimyo",
+		"alignment": "CE",
+		"areasOfConcern": "Piracy, tea, tsunamis",
+		"domains": [
+			"Chaos",
+			"Evil",
+			"Strength",
+			"Water"
+		],
+		"favoredWeapon": "Nine-ring broadsword"
+	},
+	"Gyronna": {
+		"deityname": "Gyronna",
+		"file": "deitydisplayccc8.html",
+		"pantheon": "Other Deities",
+		"alignment": "CE",
+		"areasOfConcern": "Extortion, hatred, spite",
+		"domains": [
+			"Chaos",
+			"Destruction",
+			"Evil",
+			"Madness"
+		],
+		"favoredWeapon": "Dagger"
+	},
+	"Haagenti": {
+		"deityname": "Haagenti",
+		"file": "deitydisplay5b95.html",
+		"pantheon": "Demon Lords",
+		"alignment": "CE",
+		"areasOfConcern": "Alchemy, invention, transformation",
+		"domains": [
+			"Artifice",
+			"Chaos",
+			"Evil",
+			"Strength"
+		],
+		"favoredWeapon": "Battleaxe"
+	},
+	"Haborym": {
+		"deityname": "Haborym",
+		"file": "deitydisplay1497.html",
+		"pantheon": "Infernal Dukes",
+		"alignment": "LE",
+		"areasOfConcern": "Immolation, renewal, shackles",
+		"domains": [
+			"Evil",
+			"Fire",
+			"Law",
+			"Protection"
+		],
+		"favoredWeapon": "Longspear"
+	},
+	"Hadregash": {
+		"deityname": "Hadregash",
+		"file": "deitydisplay9c18.html",
+		"pantheon": "Goblin Hero-Gods",
+		"alignment": "LE",
+		"areasOfConcern": "Goblin supremacy, slavery, territory",
+		"domains": [
+			"Evil",
+			"Law",
+			"Strength",
+			"War"
+		],
+		"favoredWeapon": "Flail"
+	},
+	"Haggakal": {
+		"deityname": "Haggakal",
+		"file": "deitydisplayc44c.html",
+		"pantheon": "Giant Deities",
+		"alignment": "CE",
+		"areasOfConcern": "Darkness, inbreeding, ogres",
+		"domains": [
+			"Chaos",
+			"Evil",
+			"Madness",
+			"Strength"
+		],
+		"favoredWeapon": "Greatclub"
+	},
+	"Halcamora": {
+		"deityname": "Halcamora",
+		"file": "deitydisplay82fd.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "NG",
+		"areasOfConcern": "Gardens, orchards, wine",
+		"domains": [
+			"Good",
+			"Luck",
+			"Plant",
+			"Weather"
+		],
+		"favoredWeapon": "Club"
+	},
+	"Hanspur": {
+		"deityname": "Hanspur",
+		"file": "deitydisplay4a80.html",
+		"pantheon": "Other Deities",
+		"alignment": "CN",
+		"areasOfConcern": "River travel, rivers, smugglers",
+		"domains": [
+			"Chaos",
+			"Death",
+			"Travel",
+			"Water"
+		],
+		"favoredWeapon": "Trident"
+	},
+	"Hastrikhal": {
+		"deityname": "Hastrikhal",
+		"file": "deitydisplayae51.html",
+		"pantheon": "Daemon Harbingers",
+		"alignment": "NE",
+		"areasOfConcern": "Explosions, immolation, pyromaniacs",
+		"domains": [
+			"Destruction",
+			"Fire",
+			"Evil",
+			"Madness"
+		],
+		"favoredWeapon": "Spear"
+	},
+	"Hastur": {
+		"deityname": "Hastur",
+		"file": "deitydisplay6c60.html",
+		"pantheon": "Great Old Ones",
+		"alignment": "CE",
+		"areasOfConcern": "Decadence, disorder, nihilism",
+		"domains": [
+			"Chaos",
+			"Evil",
+			"Rune",
+			"Void"
+		],
+		"favoredWeapon": "Rapier"
+	},
+	"Hataam": {
+		"deityname": "Hataam",
+		"file": "deitydisplayf2cb.html",
+		"pantheon": "Sahkil Tormentors",
+		"alignment": "CE",
+		"areasOfConcern": "Drought, drowning, stagnation",
+		"domains": [
+			"Evil",
+			"Travel",
+			"Water",
+			"Weather"
+		],
+		"favoredWeapon": "Net"
+	},
+	"Hathor": {
+		"deityname": "Hathor",
+		"file": "deitydisplayf5af.html",
+		"pantheon": "Deities of Ancient Osirion",
+		"alignment": "CG",
+		"areasOfConcern": "Dance, joy, love, music, the sky",
+		"domains": [
+			"Air",
+			"Chaos",
+			"Charm",
+			"Good",
+			"Travel"
+		],
+		"favoredWeapon": "Short sword"
+	},
+	"Hei Feng": {
+		"deityname": "Hei Feng",
+		"file": "deitydisplay536f.html",
+		"pantheon": "Deities of Tian Xia",
+		"alignment": "CN",
+		"areasOfConcern": "Sea, storms, thunder, wind",
+		"domains": [
+			"Air",
+			"Chaos",
+			"Destruction",
+			"Water",
+			"Weather"
+		],
+		"favoredWeapon": "Nine-ring broadsword"
+	},
+	"Hembad": {
+		"deityname": "Hembad",
+		"file": "deitydisplay1823.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "CG",
+		"areasOfConcern": "Connections, matchmaking, synergy",
+		"domains": [
+			"Chaos",
+			"Charm",
+			"Good",
+			"Luck"
+		],
+		"favoredWeapon": "Spiked chain"
+	},
+	"Horus": {
+		"deityname": "Horus",
+		"file": "deitydisplayb962.html",
+		"pantheon": "Deities of Ancient Osirion",
+		"alignment": "LN",
+		"areasOfConcern": "Rulership, the sky, the sun",
+		"domains": [
+			"Air",
+			"Animal",
+			"Law",
+			"Nobility",
+			"Sun"
+		],
+		"favoredWeapon": "Khopesh"
+	},
+	"Hshurha": {
+		"deityname": "Hshurha",
+		"file": "deitydisplaye1b8.html",
+		"pantheon": "Elemental Lords",
+		"alignment": "NE",
+		"areasOfConcern": "Air, last breaths, windstorms",
+		"domains": [
+			"Air",
+			"Destruction",
+			"Evil",
+			"Weather"
+		],
+		"favoredWeapon": "Longbow"
+	},
+	"Hudima": {
+		"deityname": "Hudima",
+		"file": "deitydisplay2e1a.html",
+		"pantheon": "Rakshasa Immortals",
+		"alignment": "LE",
+		"areasOfConcern": "N/a",
+		"domains": [
+			"Animal",
+			"Evil",
+			"Law",
+			"Trickery"
+		],
+		"favoredWeapon": "Kukri"
+	},
+	"Hydim": {
+		"deityname": "Hydim",
+		"file": "deitydisplay7a0b.html",
+		"pantheon": "Asura Ranas",
+		"alignment": "LE",
+		"areasOfConcern": "Eternity, hunger, madness",
+		"domains": [
+			"Evil",
+			"Knowledge",
+			"Law",
+			"Madness"
+		],
+		"favoredWeapon": "Kukri"
+	},
+	"Iaozrael": {
+		"deityname": "Iaozrael",
+		"file": "deitydisplay8744.html",
+		"pantheon": "Infernal Dukes",
+		"alignment": "LE",
+		"areasOfConcern": "Authority, hubris, liars",
+		"domains": [
+			"Destruction",
+			"Evil",
+			"Law",
+			"Sun"
+		],
+		"favoredWeapon": "Scythe"
+	},
+	"Iapholi": {
+		"deityname": "Iapholi",
+		"file": "deitydisplay448c.html",
+		"pantheon": "Iblydan Hero-Gods",
+		"alignment": "N",
+		"areasOfConcern": "Monstrous heritage, acceptance",
+		"domains": [
+			"Community",
+			"Glory",
+			"Strength"
+		],
+		"favoredWeapon": "tail slap or heavy flail"
+	},
+	"Iggeret": {
+		"deityname": "Iggeret",
+		"file": "deitydisplay9448.html",
+		"pantheon": "Sahkil Tormentors",
+		"alignment": "CE",
+		"areasOfConcern": "Darkness, empty places, pits",
+		"domains": [
+			"Darkness",
+			"Evil",
+			"Protection",
+			"Void"
+		],
+		"favoredWeapon": "Shortbow"
+	},
+	"Il'surrish": {
+		"deityname": "Il'surrish",
+		"file": "deitydisplay48de.html",
+		"pantheon": "Protean Lord",
+		"alignment": "CN",
+		"areasOfConcern": "Formlessness, loss of control, and potential",
+		"domains": [
+			"Animal",
+			"Artifice",
+			"Chaos",
+			"Plant"
+		],
+		"favoredWeapon": "Unarmed strike"
+	},
+	"Imbrex": {
+		"deityname": "Imbrex",
+		"file": "deitydisplay472b.html",
+		"pantheon": "Eldest",
+		"alignment": "LN",
+		"areasOfConcern": "Endings, statues, twins",
+		"domains": [
+			"Community",
+			"Earth",
+			"Law",
+			"Strength"
+		],
+		"favoredWeapon": "Dire flail"
+	},
+	"Immonhiel": {
+		"deityname": "Immonhiel",
+		"file": "deitydisplay1271.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "CG",
+		"areasOfConcern": "Herbs, medicine, toads",
+		"domains": [
+			"Chaos",
+			"Good",
+			"Healing",
+			"Plant"
+		],
+		"favoredWeapon": "Handaxe"
+	},
+	"Imot": {
+		"deityname": "Imot",
+		"file": "deitydisplay4d3c.html",
+		"pantheon": "Psychopomp Usher",
+		"alignment": "N",
+		"areasOfConcern": "Inevitably, mathematics, and portents",
+		"domains": [
+			"Luck",
+			"Repose",
+			"Rune",
+			"Weather"
+		],
+		"favoredWeapon": "Light shield"
+	},
+	"Inkariax": {
+		"deityname": "Inkariax",
+		"file": "deitydisplay7d86.html",
+		"pantheon": "Kyton Demagogues",
+		"alignment": "LE",
+		"areasOfConcern": "Absolute cold, preservation, solitude",
+		"domains": [
+			"Evil",
+			"Law",
+			"Void",
+			"Water"
+		],
+		"favoredWeapon": "Spiked Gaunutlet"
+	},
+	"Inma": {
+		"deityname": "Inma",
+		"file": "deitydisplay6900.html",
+		"pantheon": "Oni Daimyo",
+		"alignment": "LE",
+		"areasOfConcern": "Lavish wealth, origami, servitude",
+		"domains": [
+			"Community",
+			"Evil",
+			"Law",
+			"Nobility"
+		],
+		"favoredWeapon": "Katana"
+	},
+	"Iomedae": {
+		"deityname": "Iomedae",
+		"file": "deitydisplay813c.html",
+		"pantheon": "Core Deities",
+		"alignment": "LG",
+		"areasOfConcern": "Honor, justice, rulership, valor",
+		"domains": [
+			"Glory",
+			"Good",
+			"Law",
+			"Sun",
+			"War"
+		],
+		"favoredWeapon": "Longsword"
+	},
+	"Ioramvol": {
+		"deityname": "Ioramvol",
+		"file": "deitydisplay1b2a.html",
+		"pantheon": "Asura Ranas",
+		"alignment": "LE",
+		"areasOfConcern": [
+			"Caverns",
+			"Cliffs",
+			"Premature Burials"
+		],
+		"domains": [
+			"Death",
+			"Earth",
+			"Evil",
+			"Law"
+		],
+		"favoredWeapon": "Heavy pick"
+	},
+	"Irez": {
+		"deityname": "Irez",
+		"file": "deitydisplay8b04.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "NG",
+		"areasOfConcern": "Cards, scribes, spells",
+		"domains": [
+			"Good",
+			"Luck",
+			"Magic",
+			"Rune"
+		],
+		"favoredWeapon": "Dart"
+	},
+	"Irori": {
+		"deityname": "Irori",
+		"file": "deitydisplay5211.html",
+		"pantheon": "Core Deities",
+		"alignment": "LN",
+		"areasOfConcern": "History, knowledge, self-perfection",
+		"domains": [
+			"Healing",
+			"Knowledge",
+			"Law",
+			"Rune",
+			"Strength"
+		],
+		"favoredWeapon": "Unarmed strike"
+	},
+	"Isis": {
+		"deityname": "Isis",
+		"file": "deitydisplay642a.html",
+		"pantheon": "Deities of Ancient Osirion",
+		"alignment": "NG",
+		"areasOfConcern": "Fertility, magic, motherhood, rebirth",
+		"domains": [
+			"Charm",
+			"Community",
+			"Good",
+			"Healing",
+			"Magic"
+		],
+		"favoredWeapon": "Quarterstaff"
+	},
+	"Isph-Aun-Vuln": {
+		"deityname": "Isph-Aun-Vuln",
+		"file": "deitydisplay605b.html",
+		"pantheon": "Qlippoth Lords",
+		"alignment": "CE",
+		"areasOfConcern": "Infestation of the flesh, poisonous wind",
+		"domains": [
+			"Air",
+			"Chaos",
+			"Evil",
+			"Trickery"
+		],
+		"favoredWeapon": "Longbow"
+	},
+	"Ithaqua": {
+		"deityname": "Ithaqua",
+		"file": "deitydisplay5bed.html",
+		"pantheon": "Great Old Ones",
+		"alignment": "CE",
+		"areasOfConcern": "Cannibalism, cold, the wind",
+		"domains": [
+			"Air",
+			"Chaos",
+			"Evil",
+			"Weather"
+		],
+		"favoredWeapon": "Handaxe"
+	},
+	"Izyagna": {
+		"deityname": "Izyagna",
+		"file": "deitydisplayd17d.html",
+		"pantheon": "Nascent Demon Lords",
+		"alignment": "CE",
+		"areasOfConcern": "Angry mobs, ants",
+		"domains": [
+			"Chaos",
+			"Evil",
+			"Fire",
+			"War"
+		],
+		"favoredWeapon": "Trident"
+	},
+	"Jacarkas": {
+		"deityname": "Jacarkas",
+		"file": "deitydisplayad79.html",
+		"pantheon": "Daemon Harbingers",
+		"alignment": "NE",
+		"areasOfConcern": "Hobbling, lobotomizing, slavery",
+		"domains": [
+			"Death",
+			"Destruction",
+			"Evil",
+			"Nobility"
+		],
+		"favoredWeapon": "Bolas"
+	},
+	"Jaidi": {
+		"deityname": "Jaidi",
+		"file": "deitydisplayaa1c.html",
+		"pantheon": "Azlanti Pantheon",
+		"alignment": "NG",
+		"areasOfConcern": "Agriculture, hard work, and self-sufficiency",
+		"domains": [
+			"Animal",
+			"Glory",
+			"Good",
+			"Plant",
+			"Sun"
+		],
+		"favoredWeapon": "Scythe"
+	},
+	"Jaidz": {
+		"deityname": "Jaidz",
+		"file": "deitydisplayb0f6.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "NG",
+		"areasOfConcern": "Cowards, the untested, youths",
+		"domains": [
+			"Glory",
+			"Good",
+			"Protection",
+			"Travel"
+		],
+		"favoredWeapon": "Short sword"
+	},
+	"Jalaijatali": {
+		"deityname": "Jalaijatali",
+		"file": "deitydisplay1735.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "CG",
+		"areasOfConcern": "Natural music, rapids, waterfalls",
+		"domains": [
+			"Chaos",
+			"Good",
+			"Scalykind",
+			"Water"
+		],
+		"favoredWeapon": "Whip"
+	},
+	"Jerishall": {
+		"deityname": "Jerishall",
+		"file": "deitydisplaya2cb.html",
+		"pantheon": "Primal Inevitable",
+		"alignment": "LN",
+		"areasOfConcern": "Planes, planetary orbits, and separation",
+		"domains": [
+			"Earth",
+			"Knowledge",
+			"Law",
+			"Sun"
+		],
+		"favoredWeapon": "Longspear"
+	},
+	"Jezelda": {
+		"deityname": "Jezelda",
+		"file": "deitydisplayde85.html",
+		"pantheon": "Demon Lords",
+		"alignment": "CE",
+		"areasOfConcern": "Desolation, the moon, werewolves",
+		"domains": [
+			"Animal",
+			"Chaos",
+			"Evil",
+			"Trickery"
+		],
+		"favoredWeapon": "Scimitar"
+	},
+	"Jiraviddain": {
+		"deityname": "Jiraviddain",
+		"file": "deitydisplay63ce.html",
+		"pantheon": "Infernal Dukes",
+		"alignment": "LE",
+		"areasOfConcern": "Debility, dependence, frailty",
+		"domains": [
+			"Community",
+			"Evil",
+			"Healing",
+			"Law"
+		],
+		"favoredWeapon": "Sap"
+	},
+	"Jubilex": {
+		"deityname": "Jubilex",
+		"file": "deitydisplay3054.html",
+		"pantheon": "Demon Lords",
+		"alignment": "CE",
+		"areasOfConcern": "Ooze, poison, sloth",
+		"domains": [
+			"Chaos",
+			"Destruction",
+			"Evil",
+			"Water"
+		],
+		"favoredWeapon": "Heavy mace"
+	},
+	"Jyotah": {
+		"deityname": "Jyotah",
+		"file": "deitydisplay553d.html",
+		"pantheon": "Rakshasa Immortals",
+		"alignment": "LE",
+		"areasOfConcern": "N/a",
+		"domains": [
+			"Animal",
+			"Evil",
+			"Law",
+			"Trickery"
+		],
+		"favoredWeapon": "Kukri"
+	},
+	"Kabriri": {
+		"deityname": "Kabriri",
+		"file": "deitydisplay31c9.html",
+		"pantheon": "Demon Lords",
+		"alignment": "CE",
+		"areasOfConcern": "Ghouls, graves, secrets kept by the dead",
+		"domains": [
+			"Chaos",
+			"Death",
+			"Evil",
+			"Knowledge"
+		],
+		"favoredWeapon": "Flail"
+	},
+	"Kaikyton": {
+		"deityname": "Kaikyton",
+		"file": "deitydisplay99f9.html",
+		"pantheon": "Kyton Demagogues",
+		"alignment": "LE",
+		"areasOfConcern": "Experimentation, physical merger, stiches",
+		"domains": [
+			"Community",
+			"Earth",
+			"Evil",
+			"Law"
+		],
+		"favoredWeapon": "Spiked chain"
+	},
+	"Kalma": {
+		"deityname": "Kalma",
+		"file": "deitydisplayb6ec.html",
+		"pantheon": "Infernal Dukes",
+		"alignment": "LE",
+		"areasOfConcern": "Burial rites, death, insects",
+		"domains": [
+			"Animal",
+			"Death",
+			"Evil",
+			"Law"
+		],
+		"favoredWeapon": "Heavy pick"
+	},
+	"Kazutal": {
+		"deityname": "Kazutal",
+		"file": "deitydisplay6876.html",
+		"pantheon": "Other Deities",
+		"alignment": "NG",
+		"areasOfConcern": "Community, liberty, and  safety",
+		"domains": [
+			"Community",
+			"Good",
+			"Liberation",
+			"Protection",
+			"Strength"
+		],
+		"favoredWeapon": "Machete"
+	},
+	"Kelinahat": {
+		"deityname": "Kelinahat",
+		"file": "deitydisplay2047.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "LG",
+		"areasOfConcern": "Intelligence, spies, stealth",
+		"domains": [
+			"Darkness",
+			"Good",
+			"Knowledge",
+			"Law"
+		],
+		"favoredWeapon": "Short sword"
+	},
+	"Kelizandri": {
+		"deityname": "Kelizandri",
+		"file": "deitydisplayd04f.html",
+		"pantheon": "Elemental Lords",
+		"alignment": "NE",
+		"areasOfConcern": "Drowning, water, waves",
+		"domains": [
+			"Destruction",
+			"Evil",
+			"Travel",
+			"Water"
+		],
+		"favoredWeapon": "Trident"
+	},
+	"Kelksiomides": {
+		"deityname": "Kelksiomides",
+		"file": "deitydisplayd267.html",
+		"pantheon": "Iblydan Hero-Gods",
+		"alignment": "NG",
+		"areasOfConcern": "Hero-god of gardens, orchards, and terraces",
+		"domains": [
+			"Good",
+			"Plant"
+		],
+		"favoredWeapon": "Sickle"
+	},
+	"Keltheald": {
+		"deityname": "Keltheald",
+		"file": "deitydisplay1476.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "CG",
+		"areasOfConcern": "Natural formations, sunsets, vistas",
+		"domains": [
+			"Chaos",
+			"Good",
+			"Sun",
+			"Travel"
+		],
+		"favoredWeapon": "Halberd"
+	},
+	"Kerkamoth": {
+		"deityname": "Kerkamoth",
+		"file": "deitydisplayc2cf.html",
+		"pantheon": "Primal Inevitable",
+		"alignment": "LN",
+		"areasOfConcern": "Emptiness, entropy, and stillness",
+		"domains": [
+			"Darkness",
+			"Destruction",
+			"Law",
+			"Void"
+		],
+		"favoredWeapon": "Warhammer"
+	},
+	"Ketephys": {
+		"deityname": "Ketephys",
+		"file": "deitydisplaye858.html",
+		"pantheon": "Elven Deities",
+		"alignment": "CG",
+		"areasOfConcern": "Forestry, hunting, the moon",
+		"domains": [
+			"Animal",
+			"Chaos",
+			"Good",
+			"Plant",
+			"Weather"
+		],
+		"favoredWeapon": "Bow"
+	},
+	"Khepri": {
+		"deityname": "Khepri",
+		"file": "deitydisplayad7c.html",
+		"pantheon": "Deities of Ancient Osirion",
+		"alignment": "NG",
+		"areasOfConcern": "Freedom, the rising sun, work",
+		"domains": [
+			"Artifice",
+			"Good",
+			"Liberation",
+			"Sun",
+			"Trickery"
+		],
+		"favoredWeapon": "Sling"
+	},
+	"Kitumu": {
+		"deityname": "Kitumu",
+		"file": "deitydisplaya459.html",
+		"pantheon": "Other Deities",
+		"alignment": "CE",
+		"areasOfConcern": "Fireflies, hibernation, swarms",
+		"domains": [
+			"Animal",
+			"Chaos",
+			"Evil",
+			"War"
+		],
+		"favoredWeapon": "Dagger"
+	},
+	"Kofusachi": {
+		"deityname": "Kofusachi",
+		"file": "deitydisplay053a.html",
+		"pantheon": "Deities of Tian Xia",
+		"alignment": "CG",
+		"areasOfConcern": "Abundance, discovery, happiness, prosperity",
+		"domains": [
+			"Chaos",
+			"Charm",
+			"Good",
+			"Luck",
+			"Travel"
+		],
+		"favoredWeapon": "Bo staff"
+	},
+	"Kols": {
+		"deityname": "Kols",
+		"file": "deitydisplay69ca.html",
+		"pantheon": "Dwarven Deities",
+		"alignment": "LN",
+		"areasOfConcern": "Duty, honor, promises",
+		"domains": [
+			"Glory",
+			"Law",
+			"Nobility",
+			"Strength"
+		],
+		"favoredWeapon": "Hammer"
+	},
+	"Korada": {
+		"deityname": "Korada",
+		"file": "deitydisplayd072.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "NG",
+		"areasOfConcern": "Foresight, forgiveness, peace",
+		"domains": [
+			"Good",
+			"Healing",
+			"Magic",
+			"Protection"
+		],
+		"favoredWeapon": "Unarmed strike"
+	},
+	"Kostchtchie": {
+		"deityname": "Kostchtchie",
+		"file": "deitydisplaya2ba.html",
+		"pantheon": "Demon Lords",
+		"alignment": "CE",
+		"areasOfConcern": "Cold, giants, revenge",
+		"domains": [
+			"Chaos",
+			"Evil",
+			"Strength",
+			"War"
+		],
+		"favoredWeapon": "Warhammer"
+	},
+	"Kro'akoth": {
+		"deityname": "Kro'akoth",
+		"file": "deitydisplay5e5d.html",
+		"pantheon": "Nascent Demon Lords",
+		"alignment": "CE",
+		"areasOfConcern": "The forgotten, hidden agendas",
+		"domains": [
+			"Chaos",
+			"Evil",
+			"Fire",
+			"Trickery"
+		],
+		"favoredWeapon": "Falchion"
+	},
+	"Kroina": {
+		"deityname": "Kroina",
+		"file": "deitydisplaya7ee.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "LG",
+		"areasOfConcern": "Divination, eyes, instincts",
+		"domains": [
+			"Good",
+			"Knowledge",
+			"Law",
+			"Magic"
+		],
+		"favoredWeapon": "Longbow"
+	},
+	"Kunkarna": {
+		"deityname": "Kunkarna",
+		"file": "deitydisplayc922.html",
+		"pantheon": "Rakshasa Immortals",
+		"alignment": "LE",
+		"areasOfConcern": "N/a",
+		"domains": [
+			"Animal",
+			"Evil",
+			"Law",
+			"Trickery"
+		],
+		"favoredWeapon": "Kukri"
+	},
+	"Kurgess": {
+		"deityname": "Kurgess",
+		"file": "deitydisplaybe6c.html",
+		"pantheon": "Other Deities",
+		"alignment": "NG",
+		"areasOfConcern": "Bravery, competition, sport",
+		"domains": [
+			"Community",
+			"Good",
+			"Luck",
+			"Strength",
+			"Travel"
+		],
+		"favoredWeapon": "Javelin"
+	},
+	"Lady Nanbyo": {
+		"deityname": "Lady Nanbyo",
+		"file": "deitydisplay9b45.html",
+		"pantheon": "Deities of Tian Xia",
+		"alignment": "CE",
+		"areasOfConcern": "Earthquakes, fire, plague, suffering",
+		"domains": [
+			"Chaos",
+			"Destruction",
+			"Evil",
+			"Fire",
+			"Plant"
+		],
+		"favoredWeapon": "Warhammer"
+	},
+	"Laivatiniel": {
+		"deityname": "Laivatiniel",
+		"file": "deitydisplay1aa4.html",
+		"pantheon": "Daemon Harbingers",
+		"alignment": "NE",
+		"areasOfConcern": "Anxiety, coddling, unhealthy parental love",
+		"domains": [
+			"Charm",
+			"Evil",
+			"Madness",
+			"Trickery"
+		],
+		"favoredWeapon": "Light crossbow"
+	},
+	"Lalaci": {
+		"deityname": "Lalaci",
+		"file": "deitydisplayf4b9.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "CG",
+		"areasOfConcern": "Rainbows, relaxation, shade",
+		"domains": [
+			"Chaos",
+			"Good",
+			"Luck",
+			"Sun"
+		],
+		"favoredWeapon": "Sling"
+	},
+	"Lamashtu": {
+		"deityname": "Lamashtu",
+		"file": "deitydisplaya3ab.html",
+		"pantheon": "Core Deities",
+		"alignment": "CE",
+		"areasOfConcern": "Madness, monsters, nightmares",
+		"domains": [
+			"Chaos",
+			"Evil",
+			"Madness",
+			"Strength",
+			"Trickery"
+		],
+		"favoredWeapon": "Falchion"
+	},
+	"Lanishra": {
+		"deityname": "Lanishra",
+		"file": "deitydisplay683f.html",
+		"pantheon": "Orc Deities",
+		"alignment": "CE",
+		"areasOfConcern": "Slavery, subjugation, tyranny",
+		"domains": [
+			"Chaos",
+			"Evil",
+			"Nobility",
+			"Strength"
+		],
+		"favoredWeapon": "Heavy flail"
+	},
+	"Lao Shu Po": {
+		"deityname": "Lao Shu Po",
+		"file": "deitydisplay1da1.html",
+		"pantheon": "Deities of Tian Xia",
+		"alignment": "NE",
+		"areasOfConcern": "Night, rats, thieves",
+		"domains": [
+			"Animal",
+			"Darkness",
+			"Evil",
+			"Luck",
+			"Trickery"
+		],
+		"favoredWeapon": "Dagger"
+	},
+	"Libicocco": {
+		"deityname": "Libicocco",
+		"file": "deitydisplay8eaf.html",
+		"pantheon": "Malebranche",
+		"alignment": "LE",
+		"areasOfConcern": "Rage, violence, wind",
+		"domains": [
+			"Air",
+			"Destruction",
+			"Evil",
+			"Law"
+		],
+		"favoredWeapon": "Scimitar"
+	},
+	"Lissala (pre-Earthfall)": {
+		"deityname": "Lissala (pre-Earthfall)",
+		"file": "deitydisplayb382.html",
+		"pantheon": "Azlanti Pantheon",
+		"alignment": "LN",
+		"areasOfConcern": "Duty, fate, reward for service, and runes",
+		"domains": [
+			"Knowledge",
+			"Law",
+			"Nobility",
+			"Rune"
+		],
+		"favoredWeapon": "Whip"
+	},
+	"Lissala": {
+		"deityname": "Lissala",
+		"file": "deitydisplay97b4.html",
+		"pantheon": "Other Deities",
+		"alignment": "LE",
+		"areasOfConcern": "Obedience, reward of service, runes",
+		"domains": [
+			"Evil",
+			"Knowledge",
+			"Law",
+			"Nobility",
+			"Rune"
+		],
+		"favoredWeapon": "Whip"
+	},
+	"Llamolaek": {
+		"deityname": "Llamolaek",
+		"file": "deitydisplay5555.html",
+		"pantheon": "Daemon Harbingers",
+		"alignment": "NE",
+		"areasOfConcern": "Rebirth, rites of passage, transformation",
+		"domains": [
+			"Air",
+			"Evil",
+			"Liberation",
+			"Strength"
+		],
+		"favoredWeapon": "Whip"
+	},
+	"Lorcan": {
+		"deityname": "Lorcan",
+		"file": "deitydisplay9d5b.html",
+		"pantheon": "Infernal Dukes",
+		"alignment": "LE",
+		"areasOfConcern": "Blood, rebirth, undeath",
+		"domains": [
+			"Evil",
+			"Healing",
+			"Law",
+			"Repose"
+		],
+		"favoredWeapon": "Short sword"
+	},
+	"Lorris": {
+		"deityname": "Lorris",
+		"file": "deitydisplay30c3.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "NG",
+		"areasOfConcern": "Charity, the disadvantaged, volunteering",
+		"domains": [
+			"Community",
+			"Good",
+			"Liberation",
+			"Protection"
+		],
+		"favoredWeapon": "Shortspear"
+	},
+	"Lorthact": {
+		"deityname": "Lorthact",
+		"file": "deitydisplayff9d.html",
+		"pantheon": "Infernal Dukes",
+		"alignment": "LE",
+		"areasOfConcern": "Exiles, scholars, theories",
+		"domains": [
+			"Evil",
+			"Law",
+			"Magic",
+			"Trickery"
+		],
+		"favoredWeapon": "Quarterstaff"
+	},
+	"Losarkur": {
+		"deityname": "Losarkur",
+		"file": "deitydisplayd20b.html",
+		"pantheon": "Infernal Dukes",
+		"alignment": "LE",
+		"areasOfConcern": "Dominance, hounds, punishment",
+		"domains": [
+			"Animal",
+			"Evil",
+			"Law",
+			"Nobility"
+		],
+		"favoredWeapon": "Club"
+	},
+	"Lymnieris": {
+		"deityname": "Lymnieris",
+		"file": "deitydisplay92f4.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "LG",
+		"areasOfConcern": "Prostitution, rites of passage, virginity",
+		"domains": [
+			"Community",
+			"Good",
+			"Law",
+			"Protection"
+		],
+		"favoredWeapon": "Longsword"
+	},
+	"Lythertida": {
+		"deityname": "Lythertida",
+		"file": "deitydisplayef2b.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "NG",
+		"areasOfConcern": "Idealism, potential, young death",
+		"domains": [
+			"Community",
+			"Death",
+			"Good",
+			"Healing"
+		],
+		"favoredWeapon": "Unarmed strike"
+	},
+	"Maat": {
+		"deityname": "Maat",
+		"file": "deitydisplayf10a.html",
+		"pantheon": "Deities of Ancient Osirion",
+		"alignment": "LN",
+		"areasOfConcern": "Justice, law, order, truth",
+		"domains": [
+			"Knowledge",
+			"Law",
+			"Protection",
+			"Void",
+			"Weather"
+		],
+		"favoredWeapon": "Starknife"
+	},
+	"Maeha": {
+		"deityname": "Maeha",
+		"file": "deitydisplay9c22.html",
+		"pantheon": "Asura Ranas",
+		"alignment": "LE",
+		"areasOfConcern": "Abduction, isolation, propaganda",
+		"domains": [
+			"Darkness",
+			"Evil",
+			"Law",
+			"Void"
+		],
+		"favoredWeapon": "Net"
+	},
+	"Magdh": {
+		"deityname": "Magdh",
+		"file": "deitydisplayc0a7.html",
+		"pantheon": "Eldest",
+		"alignment": "LN",
+		"areasOfConcern": "Complexity, fate, triplets",
+		"domains": [
+			"Knowledge",
+			"Law",
+			"Luck",
+			"Rune"
+		],
+		"favoredWeapon": "Scythe"
+	},
+	"Magrim": {
+		"deityname": "Magrim",
+		"file": "deitydisplaye19f.html",
+		"pantheon": "Dwarven Deities",
+		"alignment": "LN",
+		"areasOfConcern": "Death, fate, underworld",
+		"domains": [
+			"Earth",
+			"Law",
+			"Repose",
+			"Rune"
+		],
+		"favoredWeapon": "Hammer"
+	},
+	"Mahathallah": {
+		"deityname": "Mahathallah",
+		"file": "deitydisplay4dc7.html",
+		"pantheon": "Queens of the Night",
+		"alignment": "LE",
+		"areasOfConcern": "Death, fate, vanity",
+		"domains": [
+			"Death",
+			"Evil",
+			"Law",
+			"Trickery"
+		],
+		"favoredWeapon": "Net"
+	},
+	"Malacoda": {
+		"deityname": "Malacoda",
+		"file": "deitydisplay9eab.html",
+		"pantheon": "Malebranche",
+		"alignment": "LE",
+		"areasOfConcern": "Conquest, cruelty, martial skill",
+		"domains": [
+			"Evil",
+			"Law",
+			"Strength",
+			"War"
+		],
+		"favoredWeapon": "Bastard sword"
+	},
+	"Malthus": {
+		"deityname": "Malthus",
+		"file": "deitydisplaya53b.html",
+		"pantheon": "Infernal Dukes",
+		"alignment": "LE",
+		"areasOfConcern": "Architecture, expansion, waste",
+		"domains": [
+			"Artifice",
+			"Evil",
+			"Knowledge",
+			"Law"
+		],
+		"favoredWeapon": "Light crossbow"
+	},
+	"Mammon": {
+		"deityname": "Mammon",
+		"file": "deitydisplay57a1.html",
+		"pantheon": "Archdevils",
+		"alignment": "LE",
+		"areasOfConcern": "Avarice, watchfulness, wealth",
+		"domains": [
+			"Artifice",
+			"Earth",
+			"Evil",
+			"Law"
+		],
+		"favoredWeapon": "Shortspear"
+	},
+	"Marishi": {
+		"deityname": "Marishi",
+		"file": "deitydisplayecef.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "CG",
+		"areasOfConcern": "Athletics, contests, sports",
+		"domains": [
+			"Chaos",
+			"Good",
+			"Healing",
+			"Strength"
+		],
+		"favoredWeapon": "Spiked gauntlet"
+	},
+	"Matravash": {
+		"deityname": "Matravash",
+		"file": "deitydisplay36e5.html",
+		"pantheon": "Other Deities",
+		"alignment": "LN",
+		"areasOfConcern": "The Matra River",
+		"domains": [
+			"Community",
+			"Law",
+			"Travel",
+			"Water"
+		],
+		"favoredWeapon": "Whip"
+	},
+	"Mazludeh": {
+		"deityname": "Mazludeh",
+		"file": "deitydisplay5d81.html",
+		"pantheon": "Other Deities",
+		"alignment": "NG",
+		"areasOfConcern": "Balance, community, negotiation, and twilight",
+		"domains": [
+			"Artifice",
+			"Community",
+			"Good",
+			"Knowledge"
+		],
+		"favoredWeapon": "Heavy shield"
+	},
+	"Mazmezz": {
+		"deityname": "Mazmezz",
+		"file": "deitydisplayfbda.html",
+		"pantheon": "Demon Lords",
+		"alignment": "CE",
+		"areasOfConcern": "Bindings, driders, vermin",
+		"domains": [
+			"Animal",
+			"Chaos",
+			"Destruction",
+			"Evil"
+		],
+		"favoredWeapon": "Net"
+	},
+	"Menxyr": {
+		"deityname": "Menxyr",
+		"file": "deitydisplay039b.html",
+		"pantheon": "Nascent Demon Lords",
+		"alignment": "CE",
+		"areasOfConcern": "Grave robbing, necrophilia",
+		"domains": [
+			"Chaos",
+			"Death",
+			"Evil",
+			"Trickery"
+		],
+		"favoredWeapon": "Heavy pick"
+	},
+	"Mephistopheles": {
+		"deityname": "Mephistopheles",
+		"file": "deitydisplayce09.html",
+		"pantheon": "Archdevils",
+		"alignment": "LE",
+		"areasOfConcern": "Contracts, devils, secrets",
+		"domains": [
+			"Evil",
+			"Knowledge",
+			"Law",
+			"Rune"
+		],
+		"favoredWeapon": "Trident"
+	},
+	"Mestama": {
+		"deityname": "Mestama",
+		"file": "deitydisplaye251.html",
+		"pantheon": "Demon Lords",
+		"alignment": "CE",
+		"areasOfConcern": "Cruelty, deception, hags",
+		"domains": [
+			"Chaos",
+			"Charm",
+			"Evil",
+			"Trickery"
+		],
+		"favoredWeapon": "Punching dagger"
+	},
+	"Mhar": {
+		"deityname": "Mhar",
+		"file": "deitydisplayb5e7.html",
+		"pantheon": "Great Old Ones",
+		"alignment": "CN",
+		"areasOfConcern": "Caverns, mountains, volcanoes",
+		"domains": [
+			"Chaos",
+			"Destruction",
+			"Earth",
+			"Fire"
+		],
+		"favoredWeapon": "Heavy pick"
+	},
+	"Milani": {
+		"deityname": "Milani",
+		"file": "deitydisplay9f06.html",
+		"pantheon": "Other Deities",
+		"alignment": "CG",
+		"areasOfConcern": "Devotion, hope, uprisings",
+		"domains": [
+			"Chaos",
+			"Good",
+			"Healing",
+			"Liberation",
+			"Protection"
+		],
+		"favoredWeapon": "Morningstar"
+	},
+	"Minderhal": {
+		"deityname": "Minderhal",
+		"file": "deitydisplay9135.html",
+		"pantheon": "Giant Deities",
+		"alignment": "LE",
+		"areasOfConcern": "Creation, justice, giants, strength",
+		"domains": [
+			"Artifice",
+			"Earth",
+			"Evil",
+			"Law",
+			"Strength"
+		],
+		"favoredWeapon": "Warhammer"
+	},
+	"Mneoc": {
+		"deityname": "Mneoc",
+		"file": "deitydisplay15a9.html",
+		"pantheon": "Daemon Harbingers",
+		"alignment": "NE",
+		"areasOfConcern": "Aging pains, organ failure, senility",
+		"domains": [
+			"Death",
+			"Evil",
+			"Liberation",
+			"Rune"
+		],
+		"favoredWeapon": "Dagger"
+	},
+	"Moloch": {
+		"deityname": "Moloch",
+		"file": "deitydisplay743d.html",
+		"pantheon": "Archdevils",
+		"alignment": "LE",
+		"areasOfConcern": "Fire, obedience, war",
+		"domains": [
+			"Evil",
+			"Fire",
+			"Law",
+			"War"
+		],
+		"favoredWeapon": "Whip"
+	},
+	"Monad": {
+		"deityname": "Monad",
+		"file": "deitydisplay9062.html",
+		"pantheon": "Aeon",
+		"alignment": "N",
+		"areasOfConcern": "Creation, the infinite, and truth",
+		"domains": [
+			"Artifice",
+			"Darkness",
+			"Knowledge",
+			"Void"
+		],
+		"favoredWeapon": "Unarmed strike"
+	},
+	"Mordiggian": {
+		"deityname": "Mordiggian",
+		"file": "deitydisplay8027.html",
+		"pantheon": "Great Old Ones",
+		"alignment": "CE",
+		"areasOfConcern": "Darkness, ghouls, voices of the dead",
+		"domains": [
+			"Chaos",
+			"Darkness",
+			"Death",
+			"Evil"
+		],
+		"favoredWeapon": "Scimitar"
+	},
+	"Morrobahn": {
+		"deityname": "Morrobahn",
+		"file": "deitydisplay2b2c.html",
+		"pantheon": "Kyton Demagogues",
+		"alignment": "LE",
+		"areasOfConcern": "Invasiveness, proliferation, redundancy",
+		"domains": [
+			"Animal",
+			"Evil",
+			"Law",
+			"Travel"
+		],
+		"favoredWeapon": "Heavy flail"
+	},
+	"Mother Vulture": {
+		"deityname": "Mother Vulture",
+		"file": "deitydisplay8911.html",
+		"pantheon": "Psychopomp Usher",
+		"alignment": "N",
+		"areasOfConcern": "Consumption, renewal, and transformation",
+		"domains": [
+			"Animal",
+			"Destruction",
+			"Healing",
+			"Repose"
+		],
+		"favoredWeapon": "Sickle"
+	},
+	"Mrtyu": {
+		"deityname": "Mrtyu",
+		"file": "deitydisplay4e5d.html",
+		"pantheon": "Psychopomp Usher",
+		"alignment": "N",
+		"areasOfConcern": "Poetry, trauma, and war",
+		"domains": [
+			"Charm",
+			"Death",
+			"Repose",
+			"War"
+		],
+		"favoredWeapon": "Greatsword"
+	},
+	"Murnath": {
+		"deityname": "Murnath",
+		"file": "deitydisplaybf56.html",
+		"pantheon": "Nascent Demon Lords",
+		"alignment": "CE",
+		"areasOfConcern": "Rats, sewers",
+		"domains": [
+			"Animal",
+			"Chaos",
+			"Earth",
+			"Evil"
+		],
+		"favoredWeapon": "Short sword"
+	},
+	"Muronna": {
+		"deityname": "Muronna",
+		"file": "deitydisplayfa5a.html",
+		"pantheon": "Oni Daimyo",
+		"alignment": "NE",
+		"areasOfConcern": "Eclipses, sunsets, unseen things",
+		"domains": [
+			"Darkness",
+			"Evil",
+			"Sun",
+			"Trickery"
+		],
+		"favoredWeapon": "Kusarigama"
+	},
+	"Mursha": {
+		"deityname": "Mursha",
+		"file": "deitydisplayc2d7.html",
+		"pantheon": "Rakshasa Immortals",
+		"alignment": "LE",
+		"areasOfConcern": "N/a",
+		"domains": [
+			"Animal",
+			"Evil",
+			"Law",
+			"Trickery"
+		],
+		"favoredWeapon": "Kukri"
+	},
+	"Myr": {
+		"deityname": "Myr",
+		"file": "deitydisplay2e79.html",
+		"pantheon": "Azlanti Pantheon",
+		"alignment": "LG",
+		"areasOfConcern": "Charity, lineage, and physical perfection",
+		"domains": [
+			"Glory",
+			"Good",
+			"Law",
+			"Nobility",
+			"Strength"
+		],
+		"favoredWeapon": "Longsword"
+	},
+	"Naderi": {
+		"deityname": "Naderi",
+		"file": "deitydisplay68fa.html",
+		"pantheon": "Other Deities",
+		"alignment": "N",
+		"areasOfConcern": "Drowning, romantic tragedy, suicide",
+		"domains": [
+			"Charm",
+			"Nobility",
+			"Repose",
+			"Water"
+		],
+		"favoredWeapon": "Dagger"
+	},
+	"Nalinivati": {
+		"deityname": "Nalinivati",
+		"file": "deitydisplay6242.html",
+		"pantheon": "Deities of Tian Xia",
+		"alignment": "N",
+		"areasOfConcern": "Fertility, nagaji, snakes, sorcery",
+		"domains": [
+			"Charm",
+			"Magic",
+			"Nobility",
+			"Rune",
+			"Scalykind"
+		],
+		"favoredWeapon": "Urumi"
+	},
+	"Nalmungder": {
+		"deityname": "Nalmungder",
+		"file": "deitydisplay6663.html",
+		"pantheon": "Daemon Harbingers",
+		"alignment": "NE",
+		"areasOfConcern": "Basements, closets, delusions of safety",
+		"domains": [
+			"Darkness",
+			"Earth",
+			"Evil",
+			"Trickery"
+		],
+		"favoredWeapon": "Sickle"
+	},
+	"Nameless": {
+		"deityname": "Nameless",
+		"file": "deitydisplayf337.html",
+		"pantheon": "Sahkil Tormentors",
+		"alignment": "CE",
+		"areasOfConcern": "Deslusions of authority, doubt, torment",
+		"domains": [
+			"Artifice",
+			"Evil",
+			"Nobility",
+			"Strength"
+		],
+		"favoredWeapon": "Longsword"
+	},
+	"Narakaas": {
+		"deityname": "Narakaas",
+		"file": "deitydisplaye979.html",
+		"pantheon": "Psychopomp Usher",
+		"alignment": "N",
+		"areasOfConcern": "Atonement, difficult choices, and pain",
+		"domains": [
+			"Death",
+			"Magic",
+			"Repose",
+			"Rune"
+		],
+		"favoredWeapon": "Greataxe"
+	},
+	"Narriseminek": {
+		"deityname": "Narriseminek",
+		"file": "deitydisplay5936.html",
+		"pantheon": "Protean Lord",
+		"alignment": "CN",
+		"areasOfConcern": "Ascendance, keketars, and revelations",
+		"domains": [
+			"Chaos",
+			"Knowledge",
+			"Liberation",
+			"Madness"
+		],
+		"favoredWeapon": "Handaxe"
+	},
+	"Nataka": {
+		"deityname": "Nataka",
+		"file": "deitydisplay2793.html",
+		"pantheon": "Oni Daimyo",
+		"alignment": "NE",
+		"areasOfConcern": "Drought, forest fires, perfume",
+		"domains": [
+			"Destruction",
+			"Evil",
+			"Fire",
+			"Weather"
+		],
+		"favoredWeapon": "Scimitar"
+	},
+	"Neith": {
+		"deityname": "Neith",
+		"file": "deitydisplayccb7.html",
+		"pantheon": "Deities of Ancient Osirion",
+		"alignment": "NG",
+		"areasOfConcern": "Hunting, war, weaving",
+		"domains": [
+			"Animal",
+			"Artifice",
+			"Good",
+			"War",
+			"Water"
+		],
+		"favoredWeapon": "Shortbow"
+	},
+	"Nephthys": {
+		"deityname": "Nephthys",
+		"file": "deitydisplay0718.html",
+		"pantheon": "Deities of Ancient Osirion",
+		"alignment": "CN",
+		"areasOfConcern": "Mourning, night, protection of the dead",
+		"domains": [
+			"Chaos",
+			"Charm",
+			"Community",
+			"Darkness",
+			"Protection"
+		],
+		"favoredWeapon": "Light mace"
+	},
+	"Nergal": {
+		"deityname": "Nergal",
+		"file": "deitydisplay3765.html",
+		"pantheon": "Infernal Dukes",
+		"alignment": "LE",
+		"areasOfConcern": "Atrocity, pestilence, war",
+		"domains": [
+			"Death",
+			"Evil",
+			"Law",
+			"War"
+		],
+		"favoredWeapon": "Spiked chain"
+	},
+	"Neshen": {
+		"deityname": "Neshen",
+		"file": "deitydisplay165c.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "LG",
+		"areasOfConcern": "Penitence, repentance, suffering",
+		"domains": [
+			"Good",
+			"Law",
+			"Liberation",
+			"Strength"
+		],
+		"favoredWeapon": "Ranseur"
+	},
+	"Nethys": {
+		"deityname": "Nethys",
+		"file": "deitydisplay2e8a.html",
+		"pantheon": "Core Deities",
+		"alignment": "N",
+		"areasOfConcern": "Magic",
+		"domains": [
+			"Destruction",
+			"Knowledge",
+			"Magic",
+			"Protection",
+			"Rune"
+		],
+		"favoredWeapon": "Quarterstaff"
+	},
+	"Ng": {
+		"deityname": "Ng",
+		"file": "deitydisplay0460.html",
+		"pantheon": "Eldest",
+		"alignment": "N",
+		"areasOfConcern": "Seasons, secrets, wanderers",
+		"domains": [
+			"Knowledge",
+			"Magic",
+			"Travel",
+			"Weather"
+		],
+		"favoredWeapon": "Gauntlet"
+	},
+	"Nhimbaloth": {
+		"deityname": "Nhimbaloth",
+		"file": "deitydisplay020b.html",
+		"pantheon": "Outer Gods",
+		"alignment": "CE",
+		"areasOfConcern": "Despair, ghosts, swamps",
+		"domains": [
+			"Chaos",
+			"Death",
+			"Evil",
+			"Plant",
+			"Void"
+		],
+		"favoredWeapon": "Flail"
+	},
+	"Nightripper": {
+		"deityname": "Nightripper",
+		"file": "deitydisplayd9f2.html",
+		"pantheon": "Nascent Demon Lords",
+		"alignment": "CE",
+		"areasOfConcern": "Botched executions, pits",
+		"domains": [
+			"Chaos",
+			"Darkness",
+			"Evil",
+			"Strength"
+		],
+		"favoredWeapon": "Bastard sword"
+	},
+	"Nivi Rhombodazzle": {
+		"deityname": "Nivi Rhombodazzle",
+		"file": "deitydisplayd2eb.html",
+		"pantheon": "Other Deities",
+		"alignment": "N",
+		"areasOfConcern": "Gems, stealth, gambling",
+		"domains": [
+			"Community",
+			"Earth",
+			"Luck",
+			"Trickery"
+		],
+		"favoredWeapon": "Light hammer"
+	},
+	"Nocticula (Redeemed)": {
+		"deityname": "Nocticula (Redeemed)",
+		"file": "deitydisplaye44d.html",
+		"pantheon": "Other Deities",
+		"alignment": "CN",
+		"areasOfConcern": "Artists, exiles, midnight",
+		"domains": [
+			"Artifice",
+			"Chaos",
+			"Darkness",
+			"Travel",
+			"Void"
+		],
+		"favoredWeapon": "dagger"
+	},
+	"Nocticula": {
+		"deityname": "Nocticula",
+		"file": "deitydisplay12da.html",
+		"pantheon": "Demon Lords",
+		"alignment": "CE",
+		"areasOfConcern": "Assassins, darkness, lust",
+		"domains": [
+			"Chaos",
+			"Charm",
+			"Darkness",
+			"Evil"
+		],
+		"favoredWeapon": "Hand crossbow"
+	},
+	"Norgorber": {
+		"deityname": "Norgorber",
+		"file": "deitydisplaycd2c.html",
+		"pantheon": "Core Deities",
+		"alignment": "NE",
+		"areasOfConcern": "Greed, murder, poison, secrets",
+		"domains": [
+			"Charm",
+			"Death",
+			"Evil",
+			"Knowledge",
+			"Trickery"
+		],
+		"favoredWeapon": "Short sword"
+	},
+	"Nulgreth": {
+		"deityname": "Nulgreth",
+		"file": "deitydisplay2dff.html",
+		"pantheon": "Orc Deities",
+		"alignment": "CE",
+		"areasOfConcern": "Anger, rage, strength",
+		"domains": [
+			"Chaos",
+			"Evil",
+			"Strength",
+			"War"
+		],
+		"favoredWeapon": "Orc double axe"
+	},
+	"Nurgal": {
+		"deityname": "Nurgal",
+		"file": "deitydisplay12a4.html",
+		"pantheon": "Demon Lords",
+		"alignment": "CE",
+		"areasOfConcern": "Deserts, senseless warfare, the sun",
+		"domains": [
+			"Chaos",
+			"Evil",
+			"Fire",
+			"Sun"
+		],
+		"favoredWeapon": "Heavy mace"
+	},
+	"Nyarlathotep (Black Pharaoh)": {
+		"deityname": "Nyarlathotep (Black Pharaoh)",
+		"file": "deitydisplaydc4f.html",
+		"pantheon": "Outer Gods",
+		"alignment": "CE",
+		"areasOfConcern": "Conspiracies, dangerous secrets, forbidden magic",
+		"domains": [
+			"Chaos",
+			"Evil",
+			"Knowledge",
+			"Magic",
+			"Trickery"
+		],
+		"favoredWeapon": "Quarterstaff"
+	},
+	"Nyarlathotep (Faceless Sphinx)": {
+		"deityname": "Nyarlathotep (Faceless Sphinx)",
+		"file": "deitydisplay8b8c.html",
+		"pantheon": "Outer Gods",
+		"alignment": "CE",
+		"areasOfConcern": "Conspiracies, dangerous secrets, forbidden magic",
+		"domains": [
+			"Air",
+			"Chaos",
+			"Evil",
+			"Knowledge",
+			"Magic"
+		],
+		"favoredWeapon": "Punching dagger"
+	},
+	"Nyarlathotep (Haunter of the Dark)": {
+		"deityname": "Nyarlathotep (Haunter of the Dark)",
+		"file": "deitydisplay901c.html",
+		"pantheon": "Outer Gods",
+		"alignment": "CE",
+		"areasOfConcern": "Conspiracies, dangerous secrets, forbidden magic",
+		"domains": [
+			"Chaos",
+			"Darkness",
+			"Evil",
+			"Knowledge",
+			"Magic"
+		],
+		"favoredWeapon": "Dagger"
+	},
+	"Oaur-Ooung": {
+		"deityname": "Oaur-Ooung",
+		"file": "deitydisplaydb78.html",
+		"pantheon": "Qlippoth Lords",
+		"alignment": "CE",
+		"areasOfConcern": "Tainted oceans, vile fecundity",
+		"domains": [
+			"Chaos",
+			"Evil",
+			"Plant",
+			"Water"
+		],
+		"favoredWeapon": "Trident"
+	},
+	"Olheon": {
+		"deityname": "Olheon",
+		"file": "deitydisplay065e.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "LG",
+		"areasOfConcern": "Deservedness, nobility, rulership",
+		"domains": [
+			"Good",
+			"Law",
+			"Nobility",
+			"Protection"
+		],
+		"favoredWeapon": "Halberd"
+	},
+	"Omrataji": {
+		"deityname": "Omrataji",
+		"file": "deitydisplaybec8.html",
+		"pantheon": "Other Deities",
+		"alignment": "NG",
+		"areasOfConcern": "Silver, silverwork, and silver mining",
+		"domains": [
+			"Artifice",
+			"Earth",
+			"Good",
+			"Nobility"
+		],
+		"favoredWeapon": "Spiked chain"
+	},
+	"Onamahli": {
+		"deityname": "Onamahli",
+		"file": "deitydisplayc19e.html",
+		"pantheon": "Asura Ranas",
+		"alignment": "LE",
+		"areasOfConcern": "Beauty, double standards, self-mutalation",
+		"domains": [
+			"Charm",
+			"Evil",
+			"Law",
+			"Madness"
+		],
+		"favoredWeapon": "Urumi"
+	},
+	"Ondisso": {
+		"deityname": "Ondisso",
+		"file": "deitydisplay6ecc.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "NG",
+		"areasOfConcern": "Elevation, incorruptibility, resisting temptation",
+		"domains": [
+			"Good",
+			"Liberation",
+			"Protection",
+			"Strength"
+		],
+		"favoredWeapon": "Light crossbow"
+	},
+	"Ongalte": {
+		"deityname": "Ongalte",
+		"file": "deitydisplay8717.html",
+		"pantheon": "Iblydan Hero-Gods",
+		"alignment": "CE",
+		"areasOfConcern": "Deicide",
+		"domains": [
+			"Chaos",
+			"Death",
+			"Evil"
+		],
+		"favoredWeapon": "greataxe"
+	},
+	"Onmyuza": {
+		"deityname": "Onmyuza",
+		"file": "deitydisplayf5c0.html",
+		"pantheon": "Oni Daimyo",
+		"alignment": "CE",
+		"areasOfConcern": "Orgies, sake, tattoos",
+		"domains": [
+			"Chaos",
+			"Charm",
+			"Evil",
+			"Rune"
+		],
+		"favoredWeapon": "Kerambit"
+	},
+	"Onos": {
+		"deityname": "Onos",
+		"file": "deitydisplaycfdd.html",
+		"pantheon": "Azlanti Pantheon",
+		"alignment": "N",
+		"areasOfConcern": "Elements, embassies, and extraplanar travel",
+		"domains": [
+			"Air",
+			"Earth",
+			"Fire",
+			"Travel",
+			"Water"
+		],
+		"favoredWeapon": "Chakram"
+	},
+	"Orcus": {
+		"deityname": "Orcus",
+		"file": "deitydisplay4d49.html",
+		"pantheon": "Demon Lords",
+		"alignment": "CE",
+		"areasOfConcern": "Death, necromancy, wrath",
+		"domains": [
+			"Chaos",
+			"Death",
+			"Evil",
+			"Magic"
+		],
+		"favoredWeapon": "Heavy mace"
+	},
+	"Orgesh": {
+		"deityname": "Orgesh",
+		"file": "deitydisplay12a2.html",
+		"pantheon": "Great Old Ones",
+		"alignment": "CE",
+		"areasOfConcern": "Alchemy, hunger, subterranean waterways",
+		"domains": [
+			"Chaos",
+			"Earth",
+			"Evil",
+			"Water"
+		],
+		"favoredWeapon": "Spear"
+	},
+	"Ose": {
+		"deityname": "Ose",
+		"file": "deitydisplayc340.html",
+		"pantheon": "Infernal Dukes",
+		"alignment": "LE",
+		"areasOfConcern": "Betrayal, doom, obsession",
+		"domains": [
+			"Artifice",
+			"Evil",
+			"Law",
+			"Madness"
+		],
+		"favoredWeapon": "Spiked gauntlet"
+	},
+	"Osiris": {
+		"deityname": "Osiris",
+		"file": "deitydisplay5806.html",
+		"pantheon": "Deities of Ancient Osirion",
+		"alignment": "LG",
+		"areasOfConcern": "Afterlife, fertility, rebirth, resurrection",
+		"domains": [
+			"Good",
+			"Healing",
+			"Law",
+			"Plant",
+			"Repose"
+		],
+		"favoredWeapon": "Flail"
+	},
+	"Osolmyr": {
+		"deityname": "Osolmyr",
+		"file": "deitydisplayc4f4.html",
+		"pantheon": "Daemon Harbingers",
+		"alignment": "NE",
+		"areasOfConcern": "Flagellation, repression, self denial",
+		"domains": [
+			"Evil",
+			"Glory",
+			"Healing",
+			"Madness"
+		],
+		"favoredWeapon": "Flail"
+	},
+	"Otikaya": {
+		"deityname": "Otikaya",
+		"file": "deitydisplay1b8c.html",
+		"pantheon": "Rakshasa Immortals",
+		"alignment": "LE",
+		"areasOfConcern": "N/a",
+		"domains": [
+			"Animal",
+			"Evil",
+			"Law",
+			"Trickery"
+		],
+		"favoredWeapon": "Kukri"
+	},
+	"Otolmens": {
+		"deityname": "Otolmens",
+		"file": "deitydisplay40f3.html",
+		"pantheon": "Primal Inevitable",
+		"alignment": "LN",
+		"areasOfConcern": "Machinery, math, and physics",
+		"domains": [
+			"Artifice",
+			"Fire",
+			"Knowledge",
+			"Law"
+		],
+		"favoredWeapon": "Mace"
+	},
+	"Ovonovo": {
+		"deityname": "Ovonovo",
+		"file": "deitydisplay9b7b.html",
+		"pantheon": "Nascent Demon Lords",
+		"alignment": "CE",
+		"areasOfConcern": "Sharks, shipwrecks",
+		"domains": [
+			"Animal",
+			"Chaos",
+			"Evil",
+			"Water"
+		],
+		"favoredWeapon": "Punching dagger"
+	},
+	"Ozranvial": {
+		"deityname": "Ozranvial",
+		"file": "deitydisplay0c78.html",
+		"pantheon": "Sahkil Tormentors",
+		"alignment": "CE",
+		"areasOfConcern": "Despair, restless spirits, sadism",
+		"domains": [
+			"Destruction",
+			"Evil",
+			"Madness",
+			"Repose"
+		],
+		"favoredWeapon": "Scorpion whip"
+	},
+	"Pavnuri": {
+		"deityname": "Pavnuri",
+		"file": "deitydisplaya8a4.html",
+		"pantheon": "Daemon Harbingers",
+		"alignment": "NE",
+		"areasOfConcern": "Cacodaemons, cannibalism, secret messages",
+		"domains": [
+			"Death",
+			"Evil",
+			"Knowledge",
+			"Travel"
+		],
+		"favoredWeapon": "Morningstar"
+	},
+	"Pazuzu": {
+		"deityname": "Pazuzu",
+		"file": "deitydisplay273a.html",
+		"pantheon": "Demon Lords",
+		"alignment": "CE",
+		"areasOfConcern": "The sky, temptation, winged creatures",
+		"domains": [
+			"Air",
+			"Chaos",
+			"Evil",
+			"Trickery"
+		],
+		"favoredWeapon": "Longsword"
+	},
+	"Pharasma": {
+		"deityname": "Pharasma",
+		"file": "deitydisplaybf7b.html",
+		"pantheon": "Core Deities",
+		"alignment": "N",
+		"areasOfConcern": "Birth, death, fate, prophecy",
+		"domains": [
+			"Death",
+			"Healing",
+			"Knowledge",
+			"Repose",
+			"Water"
+		],
+		"favoredWeapon": "Dagger"
+	},
+	"Pharmimia": {
+		"pantheon": "",
+		"areasOfConcern": "Ports, lighthouses",
+		"domains": [
+			"Fire",
+			"Sun",
+			"Travel",
+			"Water"
+		],
+		"favoredWeapon": "none"
+	},
+	"Phlegyas": {
+		"deityname": "Phlegyas",
+		"file": "deitydisplay382e.html",
+		"pantheon": "Psychopomp Usher",
+		"alignment": "N",
+		"areasOfConcern": "Atheists, legacies, and reincarnation",
+		"domains": [
+			"Artifice",
+			"Earth",
+			"Knowledge",
+			"Repose"
+		],
+		"favoredWeapon": "Longbow"
+	},
+	"Picoperi": {
+		"deityname": "Picoperi",
+		"file": "deitydisplaye813.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "CG",
+		"areasOfConcern": "Jokes, pranks, surprises",
+		"domains": [
+			"Chaos",
+			"Charm",
+			"Good",
+			"Trickery"
+		],
+		"favoredWeapon": "Blowgun"
+	},
+	"Pirias": {
+		"deityname": "Pirias",
+		"file": "deitydisplay4f0a.html",
+		"pantheon": "Infernal Dukes",
+		"alignment": "LE",
+		"areasOfConcern": "Denial, drugs, wonder",
+		"domains": [
+			"Evil",
+			"Law",
+			"Madness",
+			"Plant"
+		],
+		"favoredWeapon": "Throwing axe"
+	},
+	"Prihasta": {
+		"deityname": "Prihasta",
+		"file": "deitydisplaye68a.html",
+		"pantheon": "Rakshasa Immortals",
+		"alignment": "LE",
+		"areasOfConcern": "N/a",
+		"domains": [
+			"Animal",
+			"Evil",
+			"Law",
+			"Trickery"
+		],
+		"favoredWeapon": "Kukri"
+	},
+	"Psomeira": {
+		"deityname": "Psomeira",
+		"file": "deitydisplay7153.html",
+		"pantheon": "Iblydan Hero-Gods",
+		"alignment": "LN",
+		"areasOfConcern": "Hero-god of seasons and spears",
+		"domains": [
+			"Law",
+			"War",
+			"Weather"
+		],
+		"favoredWeapon": "Doru"
+	},
+	"Ptah": {
+		"deityname": "Ptah",
+		"file": "deitydisplay1a05.html",
+		"pantheon": "Deities of Ancient Osirion",
+		"alignment": "N",
+		"areasOfConcern": "Architecture, craftsmanship, creation, metalworking",
+		"domains": [
+			"Artifice",
+			"Earth",
+			"Fire",
+			"Knowledge",
+			"Travel"
+		],
+		"favoredWeapon": "Quarterstaff"
+	},
+	"Pulura": {
+		"deityname": "Pulura",
+		"file": "deitydisplay169b.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "CG",
+		"areasOfConcern": "Constellations, homesickness, northern lights",
+		"domains": [
+			"Air",
+			"Chaos",
+			"Good",
+			"Weather"
+		],
+		"favoredWeapon": "Sling"
+	},
+	"Qi Zhong": {
+		"deityname": "Qi Zhong",
+		"file": "deitydisplay3417.html",
+		"pantheon": "Deities of Tian Xia",
+		"alignment": "NG",
+		"areasOfConcern": "Healing, magic, medicine",
+		"domains": [
+			"Good",
+			"Healing",
+			"Knowledge",
+			"Magic",
+			"Protection"
+		],
+		"favoredWeapon": "Heavy mace"
+	},
+	"Quindiovatos": {
+		"deityname": "Quindiovatos",
+		"file": "deitydisplay91e8.html",
+		"pantheon": "Infernal Dukes",
+		"alignment": "LE",
+		"areasOfConcern": "Exploration, gems, legends",
+		"domains": [
+			"Glory",
+			"Earth",
+			"Evil",
+			"Law"
+		],
+		"favoredWeapon": "Rapier"
+	},
+	"Ra": {
+		"deityname": "Ra",
+		"file": "deitydisplay526b.html",
+		"pantheon": "Deities of Ancient Osirion",
+		"alignment": "LN",
+		"areasOfConcern": "Creation, rulership, the sun",
+		"domains": [
+			"Fire",
+			"Glory",
+			"Law",
+			"Nobility",
+			"Sun"
+		],
+		"favoredWeapon": "Spear"
+	},
+	"Raetorgash": {
+		"deityname": "Raetorgash",
+		"file": "deitydisplayf342.html",
+		"pantheon": "Kyton Demagogues",
+		"alignment": "LE",
+		"areasOfConcern": "Evolution, mutation, skulls",
+		"domains": [
+			"Evil",
+			"Healing",
+			"Law",
+			"Luck"
+		],
+		"favoredWeapon": "Halberd"
+	},
+	"Ragadahn": {
+		"deityname": "Ragadahn",
+		"file": "deitydisplay669c.html",
+		"pantheon": "Eldest",
+		"alignment": "CE",
+		"areasOfConcern": "Linnorms, oceans, spirals",
+		"domains": [
+			"Chaos",
+			"Evil",
+			"Scalykind",
+			"Water"
+		],
+		"favoredWeapon": "Whip"
+	},
+	"Ragathiel": {
+		"deityname": "Ragathiel",
+		"file": "deitydisplay013c.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "LG",
+		"areasOfConcern": "Chivalry, duty, vengeance",
+		"domains": [
+			"Destruction",
+			"Good",
+			"Law",
+			"Nobility"
+		],
+		"favoredWeapon": "Bastard sword"
+	},
+	"Rahu": {
+		"deityname": "Rahu",
+		"file": "deitydisplay81da.html",
+		"pantheon": "Asura Ranas",
+		"alignment": "LE",
+		"areasOfConcern": [
+			"Eclipses",
+			"Executions",
+			"Gluttony"
+		],
+		"domains": [
+			"Darkness",
+			"Death",
+			"Evil",
+			"Law"
+		],
+		"favoredWeapon": "Morningstar"
+	},
+	"Rasvocel": {
+		"deityname": "Rasvocel",
+		"file": "deitydisplay320b.html",
+		"pantheon": "Infernal Dukes",
+		"alignment": "LE",
+		"areasOfConcern": "Carrion, patience, storms",
+		"domains": [
+			"Animal",
+			"Evil",
+			"Law",
+			"Weather"
+		],
+		"favoredWeapon": "Sickle"
+	},
+	"Ravana": {
+		"deityname": "Ravana",
+		"file": "deitydisplaye7a9.html",
+		"pantheon": "Rakshasa Immortals",
+		"alignment": "LE",
+		"areasOfConcern": "N/a",
+		"domains": [
+			"Animal",
+			"Evil",
+			"Law",
+			"Trickery"
+		],
+		"favoredWeapon": "Kukri"
+	},
+	"Reymenda": {
+		"deityname": "Reymenda",
+		"file": "deitydisplay3f20.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "CG",
+		"areasOfConcern": "Childlessness, endings, responsibility",
+		"domains": [
+			"Chaos",
+			"Destruction",
+			"Good",
+			"Healing"
+		],
+		"favoredWeapon": "Falchion"
+	},
+	"Rhan-Tegoth": {
+		"deityname": "Rhan-Tegoth",
+		"file": "deitydisplay1bc8.html",
+		"pantheon": "Great Old Ones",
+		"alignment": "CE",
+		"areasOfConcern": "Hibernation, immortality, ruin",
+		"domains": [
+			"Chaos",
+			"Evil",
+			"Repose",
+			"Void"
+		],
+		"favoredWeapon": "Sickle"
+	},
+	"Roqorolos": {
+		"deityname": "Roqorolos",
+		"file": "deitydisplay7275.html",
+		"pantheon": "Daemon Harbingers",
+		"alignment": "NE",
+		"areasOfConcern": "Castaways, fouled water, oceans",
+		"domains": [
+			"Evil",
+			"Travel",
+			"Water",
+			"Weather"
+		],
+		"favoredWeapon": "Net"
+	},
+	"Rovagug": {
+		"deityname": "Rovagug",
+		"file": "deitydisplaya42b.html",
+		"pantheon": "Core Deities",
+		"alignment": "CE",
+		"areasOfConcern": "Destruction, disaster, wrath",
+		"domains": [
+			"Chaos",
+			"Destruction",
+			"Evil",
+			"War",
+			"Weather"
+		],
+		"favoredWeapon": "Greataxe"
+	},
+	"Rowdrosh": {
+		"deityname": "Rowdrosh",
+		"file": "deitydisplayd1c3.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "NG",
+		"areasOfConcern": "Herd animals, husbandry, shepherds",
+		"domains": [
+			"Animal",
+			"Good",
+			"Protection",
+			"Travel"
+		],
+		"favoredWeapon": "Quarterstaff"
+	},
+	"Ruapceras": {
+		"deityname": "Ruapceras",
+		"file": "deitydisplay6620.html",
+		"pantheon": "Daemon Harbingers",
+		"alignment": "NE",
+		"areasOfConcern": "Cyclical revenge, crusades, intolerance",
+		"domains": [
+			"Evil",
+			"Nobility",
+			"Strength",
+			"War"
+		],
+		"favoredWeapon": "Heavy flail"
+	},
+	"Rubicante": {
+		"deityname": "Rubicante",
+		"file": "deitydisplayc4f7.html",
+		"pantheon": "Malebranche",
+		"alignment": "LE",
+		"areasOfConcern": "Fire, honor, nobility",
+		"domains": [
+			"Evil",
+			"Fire",
+			"Glory",
+			"Law"
+		],
+		"favoredWeapon": "Starknife"
+	},
+	"Rull": {
+		"deityname": "Rull",
+		"file": "deitydisplay59e6.html",
+		"pantheon": "Orc Deities",
+		"alignment": "CE",
+		"areasOfConcern": "Lightning, storms, thunder",
+		"domains": [
+			"Air",
+			"Chaos",
+			"Evil",
+			"Weather"
+		],
+		"favoredWeapon": "Falchion"
+	},
+	"Ruzel": {
+		"deityname": "Ruzel",
+		"file": "deitydisplay120e.html",
+		"pantheon": "Infernal Dukes",
+		"alignment": "LE",
+		"areasOfConcern": "Blasphemy, humor, undeath",
+		"domains": [
+			"Death",
+			"Evil",
+			"Law",
+			"Trickery"
+		],
+		"favoredWeapon": "Kukri"
+	},
+	"Rytara": {
+		"deityname": "Rytara",
+		"file": "deitydisplay6468.html",
+		"pantheon": "Asura Ranas",
+		"alignment": "LE",
+		"areasOfConcern": "Fearful memories, serpents, vision",
+		"domains": [
+			"Evil",
+			"Knowledge",
+			"Law",
+			"Scalykind"
+		],
+		"favoredWeapon": "Whip"
+	},
+	"Sabnach": {
+		"deityname": "Sabnach",
+		"file": "deitydisplay46b2.html",
+		"pantheon": "Infernal Dukes",
+		"alignment": "LE",
+		"areasOfConcern": "Construction, parasites, toil",
+		"domains": [
+			"Artifice",
+			"Evil",
+			"Law",
+			"Strength"
+		],
+		"favoredWeapon": "Heavy crossbow"
+	},
+	"Saloc": {
+		"deityname": "Saloc",
+		"file": "deitydisplay4fa1.html",
+		"pantheon": "Psychopomp Usher",
+		"alignment": "N",
+		"areasOfConcern": "Agency, bronze, and education",
+		"domains": [
+			"Knowledge",
+			"Liberation",
+			"Repose",
+			"Strength"
+		],
+		"favoredWeapon": "Guisarme"
+	},
+	"Sarenrae": {
+		"deityname": "Sarenrae",
+		"file": "deitydisplay5b20.html",
+		"pantheon": "Core Deities",
+		"alignment": "NG",
+		"areasOfConcern": "Healing, honesty, redemption, the sun",
+		"domains": [
+			"Fire",
+			"Glory",
+			"Good",
+			"Healing",
+			"Sun"
+		],
+		"favoredWeapon": "Scimitar"
+	},
+	"Scal": {
+		"deityname": "Scal",
+		"file": "deitydisplayd283.html",
+		"pantheon": "Azlanti Pantheon",
+		"alignment": "NE",
+		"areasOfConcern": "Annihilation, catharsis, and purity",
+		"domains": [
+			"Destruction",
+			"Earth",
+			"Evil",
+			"Liberation",
+			"Void"
+		],
+		"favoredWeapon": "Meteor hammer"
+	},
+	"Scarmiglione": {
+		"deityname": "Scarmiglione",
+		"file": "deitydisplay4798.html",
+		"pantheon": "Malebranche",
+		"alignment": "LE",
+		"areasOfConcern": "Deceit, poison, temptation",
+		"domains": [
+			"Charm",
+			"Evil",
+			"Law",
+			"Water"
+		],
+		"favoredWeapon": "Hand crossbow"
+	},
+	"Sekhmet": {
+		"deityname": "Sekhmet",
+		"file": "deitydisplaydf64.html",
+		"pantheon": "Deities of Ancient Osirion",
+		"alignment": "CN",
+		"areasOfConcern": "Fire, healing, vengeance, war",
+		"domains": [
+			"Chaos",
+			"Destruction",
+			"Fire",
+			"Healing",
+			"War"
+		],
+		"favoredWeapon": "Battleaxe"
+	},
+	"Selket": {
+		"deityname": "Selket",
+		"file": "deitydisplayd74e.html",
+		"pantheon": "Deities of Ancient Osirion",
+		"alignment": "CG",
+		"areasOfConcern": "Embalming, healing, scorpions",
+		"domains": [
+			"Chaos",
+			"Good",
+			"Healing",
+			"Protection",
+			"Repose"
+		],
+		"favoredWeapon": "Scorpion whip"
+	},
+	"Seramaydiel": {
+		"deityname": "Seramaydiel",
+		"file": "deitydisplay39fe.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "NG",
+		"areasOfConcern": "Communication, inspiration, music",
+		"domains": [
+			"Air",
+			"Charm",
+			"Good",
+			"Nobility"
+		],
+		"favoredWeapon": "Blowgun"
+	},
+	"Set": {
+		"deityname": "Set",
+		"file": "deitydisplay2d5c.html",
+		"pantheon": "Deities of Ancient Osirion",
+		"alignment": "NE",
+		"areasOfConcern": "Darkness, deserts, murder, storms",
+		"domains": [
+			"Darkness",
+			"Death",
+			"Evil",
+			"Madness",
+			"Weather"
+		],
+		"favoredWeapon": "Spear"
+	},
+	"Sezelrian": {
+		"deityname": "Sezelrian",
+		"file": "deitydisplay123a.html",
+		"pantheon": "Orc Deities",
+		"alignment": "CE",
+		"areasOfConcern": "Fire, magic, revenge",
+		"domains": [
+			"Chaos",
+			"Evil",
+			"Fire",
+			"Magic"
+		],
+		"favoredWeapon": "Heavy mace"
+	},
+	"Shamira": {
+		"deityname": "Shamira",
+		"file": "deitydisplaye618.html",
+		"pantheon": "Nascent Demon Lords",
+		"alignment": "CE",
+		"areasOfConcern": "Lost dreams, seduction of the pure",
+		"domains": [
+			"Chaos",
+			"Charm",
+			"Evil",
+			"Nobility"
+		],
+		"favoredWeapon": "Longbow"
+	},
+	"Shawnari": {
+		"deityname": "Shawnari",
+		"file": "deitydisplay6b67.html",
+		"pantheon": "Sahkil Tormentors",
+		"alignment": "CE",
+		"areasOfConcern": "Isolation, loneliness, lost time",
+		"domains": [
+			"Darkness",
+			"Evil",
+			"Knowledge",
+			"Void"
+		],
+		"favoredWeapon": "Sap"
+	},
+	"Shax": {
+		"deityname": "Shax",
+		"file": "deitydisplay629b.html",
+		"pantheon": "Demon Lords",
+		"alignment": "CE",
+		"areasOfConcern": "Envy, lies, murder",
+		"domains": [
+			"Chaos",
+			"Destruction",
+			"Evil",
+			"Nobility"
+		],
+		"favoredWeapon": "Dagger"
+	},
+	"Shei": {
+		"deityname": "Shei",
+		"file": "deitydisplaybb52.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "NG",
+		"areasOfConcern": "Age, life, self-actualization",
+		"domains": [
+			"Community",
+			"Good",
+			"Healing",
+			"Liberation"
+		],
+		"favoredWeapon": "Sickle"
+	},
+	"Shelyn (pre-Earthfall)": {
+		"deityname": "Shelyn (pre-Earthfall)",
+		"file": "deitydisplaye6ce.html",
+		"pantheon": "Azlanti Pantheon",
+		"alignment": "NG",
+		"areasOfConcern": "Art, beauty, love, and music",
+		"domains": [
+			"Air",
+			"Charm",
+			"Good",
+			"Luck",
+			"Protection"
+		],
+		"favoredWeapon": "Dagger"
+	},
+	"Shelyn": {
+		"deityname": "Shelyn",
+		"file": "deitydisplay13ee.html",
+		"pantheon": "Core Deities",
+		"alignment": "NG",
+		"areasOfConcern": "Art, beauty, love, music",
+		"domains": [
+			"Air",
+			"Charm",
+			"Good",
+			"Luck",
+			"Protection"
+		],
+		"favoredWeapon": "Glaive"
+	},
+	"Shiggarreb": {
+		"deityname": "Shiggarreb",
+		"file": "deitydisplay4ebf.html",
+		"pantheon": "Qlippoth Lords",
+		"alignment": "CE",
+		"areasOfConcern": "Forbidden magic, wartime atrocities",
+		"domains": [
+			"Chaos",
+			"Evil",
+			"Magic",
+			"War"
+		],
+		"favoredWeapon": "Ranseur"
+	},
+	"Shivaska": {
+		"deityname": "Shivaska",
+		"file": "deitydisplay9b6a.html",
+		"pantheon": "Demon Lords",
+		"alignment": "CE",
+		"areasOfConcern": "Aberrations, clocks, prisons",
+		"domains": [
+			"Chaos",
+			"Darkness",
+			"Evil",
+			"Madness"
+		],
+		"favoredWeapon": "Heavy flail"
+	},
+	"Shizuru": {
+		"deityname": "Shizuru",
+		"file": "deitydisplay0731.html",
+		"pantheon": "Deities of Tian Xia",
+		"alignment": "LG",
+		"areasOfConcern": "Ancestors, honor, the sun, swordplay",
+		"domains": [
+			"Glory",
+			"Good",
+			"Law",
+			"Repose",
+			"Sun"
+		],
+		"favoredWeapon": "Katana"
+	},
+	"Shub-Niggurath": {
+		"deityname": "Shub-Niggurath",
+		"file": "deitydisplay9160.html",
+		"pantheon": "Outer Gods",
+		"alignment": "CE",
+		"areasOfConcern": "Fertility, forests, monsters",
+		"domains": [
+			"Animal",
+			"Chaos",
+			"Evil",
+			"Plant",
+			"Void"
+		],
+		"favoredWeapon": "Dagger"
+	},
+	"Shyka": {
+		"deityname": "Shyka",
+		"file": "deitydisplaya34c.html",
+		"pantheon": "Eldest",
+		"alignment": "N",
+		"areasOfConcern": "Entropy, reincarnation, time",
+		"domains": [
+			"Death",
+			"Destruction",
+			"Madness",
+			"Magic"
+		],
+		"favoredWeapon": "Light mace"
+	},
+	"Sicva": {
+		"deityname": "Sicva",
+		"file": "deitydisplay9bc2.html",
+		"pantheon": "Azlanti Pantheon",
+		"alignment": "LE",
+		"areasOfConcern": "Domination, invasive species, and oppression",
+		"domains": [
+			"Animal",
+			"Evil",
+			"Law",
+			"Nobility",
+			"Strength"
+		],
+		"favoredWeapon": "Lasso"
+	},
+	"Sifkesh": {
+		"deityname": "Sifkesh",
+		"file": "deitydisplay5802.html",
+		"pantheon": "Demon Lords",
+		"alignment": "CE",
+		"areasOfConcern": "Despair, heresy, suicide",
+		"domains": [
+			"Chaos",
+			"Evil",
+			"Madness",
+			"Trickery"
+		],
+		"favoredWeapon": "War razor"
+	},
+	"Sinashakti": {
+		"deityname": "Sinashakti",
+		"file": "deitydisplayd173.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "CG",
+		"areasOfConcern": "Journeys, joy, messengers",
+		"domains": [
+			"Chaos",
+			"Good",
+			"Luck",
+			"Travel"
+		],
+		"favoredWeapon": "Shortbow"
+	},
+	"Sithhud": {
+		"deityname": "Sithhud",
+		"file": "deitydisplay46ec.html",
+		"pantheon": "Nascent Demon Lords",
+		"alignment": "CE",
+		"areasOfConcern": "Blizzards, the frozen dead",
+		"domains": [
+			"Chaos",
+			"Death",
+			"Evil",
+			"Weather"
+		],
+		"favoredWeapon": "Longsword"
+	},
+	"Sivanah": {
+		"deityname": "Sivanah",
+		"file": "deitydisplayae9b.html",
+		"pantheon": "Other Deities",
+		"alignment": "N",
+		"areasOfConcern": "Illusions, mystery, reflections",
+		"domains": [
+			"Knowledge",
+			"Madness",
+			"Magic",
+			"Rune",
+			"Trickery"
+		],
+		"favoredWeapon": "Bladed scarf"
+	},
+	"Skode": {
+		"deityname": "Skode",
+		"file": "deitydisplay16a7.html",
+		"pantheon": "Giant Deities",
+		"alignment": "CG",
+		"areasOfConcern": "Diurnal beasts, hunting evil, trophies",
+		"domains": [
+			"Chaos",
+			"Glory",
+			"Good",
+			"Sun"
+		],
+		"favoredWeapon": "Longbow"
+	},
+	"Skrymir": {
+		"deityname": "Skrymir",
+		"file": "deitydisplaye024.html",
+		"pantheon": "Giant Deities",
+		"alignment": "CG",
+		"areasOfConcern": "Riddles, wanderlust, wit",
+		"domains": [
+			"Chaos",
+			"Good",
+			"Magic",
+			"Trickery"
+		],
+		"favoredWeapon": "Rapier"
+	},
+	"Slandrais": {
+		"deityname": "Slandrais",
+		"file": "deitydisplayb885.html",
+		"pantheon": "Daemon Harbingers",
+		"alignment": "NE",
+		"areasOfConcern": "Lechery, love potions, obsession",
+		"domains": [
+			"Darkness",
+			"Evil",
+			"Knowledge",
+			"Magic"
+		],
+		"favoredWeapon": "Shortbow"
+	},
+	"Smiad": {
+		"deityname": "Smiad",
+		"file": "deitydisplay9786.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "LG",
+		"areasOfConcern": "Dragon-hunting, honor, renown",
+		"domains": [
+			"Good",
+			"Law",
+			"Nobility",
+			"War"
+		],
+		"favoredWeapon": "Greatsword"
+	},
+	"Sobek": {
+		"deityname": "Sobek",
+		"file": "deitydisplayeb53.html",
+		"pantheon": "Deities of Ancient Osirion",
+		"alignment": "CN",
+		"areasOfConcern": "Crocodiles, fertility, military prowess, rivers",
+		"domains": [
+			"Chaos",
+			"Scalykind",
+			"Strength",
+			"War",
+			"Water"
+		],
+		"favoredWeapon": "Falchion"
+	},
+	"Socothbenoth": {
+		"deityname": "Socothbenoth",
+		"file": "deitydisplay7443.html",
+		"pantheon": "Demon Lords",
+		"alignment": "CE",
+		"areasOfConcern": "Perversion, pride, taboos",
+		"domains": [
+			"Chaos",
+			"Charm",
+			"Evil",
+			"Travel"
+		],
+		"favoredWeapon": "Quarterstaff"
+	},
+	"Soralyon": {
+		"deityname": "Soralyon",
+		"file": "deitydisplayae72.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "NG",
+		"areasOfConcern": "Guardians, magic, monuments",
+		"domains": [
+			"Artifice",
+			"Earth",
+			"Good",
+			"Protection"
+		],
+		"favoredWeapon": "Heavy pick"
+	},
+	"Speakers of the Depths": {
+		"deityname": "Speakers of the Depths",
+		"file": "deitydisplay9363.html",
+		"pantheon": "Other Deities",
+		"alignment": "CN",
+		"areasOfConcern": "Chaos, creation, and destruction",
+		"domains": [
+			"Artifice",
+			"Chaos",
+			"Destruction",
+			"Madness",
+			"Water"
+		],
+		"favoredWeapon": "Sickle"
+	},
+	"Ssila'meshnik": {
+		"deityname": "Ssila'meshnik",
+		"file": "deitydisplayaf7a.html",
+		"pantheon": "Protean Lord",
+		"alignment": "CN",
+		"areasOfConcern": "Fate, freedom, and paradox",
+		"domains": [
+			"Chaos",
+			"Knowledge",
+			"Liberation",
+			"Trickery"
+		],
+		"favoredWeapon": "Light hammer"
+	},
+	"Stygidvod": {
+		"deityname": "Stygidvod",
+		"file": "deitydisplayc412.html",
+		"pantheon": "Daemon Harbingers",
+		"alignment": "NE",
+		"areasOfConcern": "Fear of aging, radical routes to immortality, wills",
+		"domains": [
+			"Artifice",
+			"Evil",
+			"Knowledge",
+			"Rune"
+		],
+		"favoredWeapon": "Quarterstaff"
+	},
+	"Sugroz": {
+		"deityname": "Sugroz",
+		"file": "deitydisplayeedc.html",
+		"pantheon": "Kyton Demagogues",
+		"alignment": "LE",
+		"areasOfConcern": "Ecstasy, fleetingness, incorporeality",
+		"domains": [
+			"Air",
+			"Evil",
+			"Law",
+			"Nobility"
+		],
+		"favoredWeapon": "Net"
+	},
+	"Sun Wukong": {
+		"deityname": "Sun Wukong",
+		"file": "deitydisplay83cc.html",
+		"pantheon": "Deities of Tian Xia",
+		"alignment": "CN",
+		"areasOfConcern": "Drunkenness, nature, trickery",
+		"domains": [
+			"Animal",
+			"Chaos",
+			"Liberation",
+			"Travel",
+			"Trickery"
+		],
+		"favoredWeapon": "Quarterstaff"
+	},
+	"Surpa": {
+		"deityname": "Surpa",
+		"file": "deitydisplay5d35.html",
+		"pantheon": "Rakshasa Immortals",
+		"alignment": "LE",
+		"areasOfConcern": "N/a",
+		"domains": [
+			"Animal",
+			"Evil",
+			"Law",
+			"Trickery"
+		],
+		"favoredWeapon": "Kukri"
+	},
+	"Svarozic": {
+		"deityname": "Svarozic",
+		"file": "deitydisplaya057.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "LG",
+		"areasOfConcern": "Ingenuity, parenthood, refinement",
+		"domains": [
+			"Community",
+			"Fire",
+			"Good",
+			"Law"
+		],
+		"favoredWeapon": "Scythe"
+	},
+	"Szuriel": {
+		"deityname": "Szuriel",
+		"file": "deitydisplay54b2.html",
+		"pantheon": "Horsemen",
+		"alignment": "NE",
+		"areasOfConcern": "War",
+		"domains": [
+			"Evil",
+			"Fire",
+			"Strength",
+			"War"
+		],
+		"favoredWeapon": "Greatsword"
+	},
+	"Tamede": {
+		"deityname": "Tamede",
+		"file": "deitydisplay72ff.html",
+		"pantheon": "Daemon Harbingers",
+		"alignment": "NE",
+		"areasOfConcern": "Fungi, infected wounds, rot",
+		"domains": [
+			"Destruction",
+			"Evil",
+			"Plant",
+			"War"
+		],
+		"favoredWeapon": "Sickle"
+	},
+	"Tanagaar": {
+		"deityname": "Tanagaar",
+		"file": "deitydisplayfae2.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "LG",
+		"areasOfConcern": "Night, owls, watchfulness",
+		"domains": [
+			"Animal",
+			"Darkness",
+			"Good",
+			"Law"
+		],
+		"favoredWeapon": "Kukri"
+	},
+	"Taraksun": {
+		"deityname": "Taraksun",
+		"file": "deitydisplayd333.html",
+		"pantheon": "Asura Ranas",
+		"alignment": "LE",
+		"areasOfConcern": "Anger, dreams, shattering of bonds",
+		"domains": [
+			"Evil",
+			"Law",
+			"Liberation",
+			"Madness"
+		],
+		"favoredWeapon": "Warhammer"
+	},
+	"Teshallas": {
+		"deityname": "Teshallas",
+		"file": "deitydisplay2c9e.html",
+		"pantheon": "Psychopomp Usher",
+		"alignment": "N",
+		"areasOfConcern": "Aging, poison, and venomous creatures",
+		"domains": [
+			"Healing",
+			"Magic",
+			"Repose",
+			"Scalykind"
+		],
+		"favoredWeapon": "Chakram"
+	},
+	"Thamir Gixx": {
+		"deityname": "Thamir Gixx",
+		"file": "deitydisplayc4ff.html",
+		"pantheon": "Halfling Deities",
+		"alignment": "CE",
+		"areasOfConcern": "Greed, opportunity, thievery",
+		"domains": [
+			"Chaos",
+			"Evil",
+			"Nobility",
+			"Trickery"
+		],
+		"favoredWeapon": "Dagger"
+	},
+	"The Green Mother": {
+		"deityname": "The Green Mother",
+		"file": "deitydisplayc341.html",
+		"pantheon": "Eldest",
+		"alignment": "NE",
+		"areasOfConcern": "Carnivorous plants, intrigue, seduction",
+		"domains": [
+			"Charm",
+			"Earth",
+			"Evil",
+			"Plant"
+		],
+		"favoredWeapon": "Sickle"
+	},
+	"The Lantern King": {
+		"deityname": "The Lantern King",
+		"file": "deitydisplaye868.html",
+		"pantheon": "Eldest",
+		"alignment": "CN",
+		"areasOfConcern": "Laughter, mischief, transformation",
+		"domains": [
+			"Charm",
+			"Chaos",
+			"Madness",
+			"Trickery"
+		],
+		"favoredWeapon": "Dagger"
+	},
+	"The Lost Prince": {
+		"deityname": "The Lost Prince",
+		"file": "deitydisplay7904.html",
+		"pantheon": "Eldest",
+		"alignment": "N",
+		"areasOfConcern": "Forgotten things, sadness, solitude",
+		"domains": [
+			"Knowledge",
+			"Madness",
+			"Nobility",
+			"Repose"
+		],
+		"favoredWeapon": "Quarterstaff"
+	},
+	"The Pale Horse": {
+		"deityname": "The Pale Horse",
+		"file": "deitydisplay1ceb.html",
+		"pantheon": "Psychopomp Usher",
+		"alignment": "N",
+		"areasOfConcern": "Duty, revenge, and beasts of burden",
+		"domains": [
+			"Death",
+			"Repose",
+			"Travel",
+			"Water"
+		],
+		"favoredWeapon": "Trident"
+	},
+	"Thisamet": {
+		"deityname": "Thisamet",
+		"file": "deitydisplay2aae.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "CG",
+		"areasOfConcern": "Celebrations, feasts, holidays",
+		"domains": [
+			"Chaos",
+			"Community",
+			"Fire",
+			"Good"
+		],
+		"favoredWeapon": "Short sword"
+	},
+	"Thoth": {
+		"deityname": "Thoth",
+		"file": "deitydisplayde4d.html",
+		"pantheon": "Deities of Ancient Osirion",
+		"alignment": "LN",
+		"areasOfConcern": "Magic, the moon, wisdom, writing",
+		"domains": [
+			"Darkness",
+			"Knowledge",
+			"Law",
+			"Magic",
+			"Rune"
+		],
+		"favoredWeapon": "Sickle"
+	},
+	"Thremyr": {
+		"deityname": "Thremyr",
+		"file": "deitydisplay25e3.html",
+		"pantheon": "Giant Deities",
+		"alignment": "CE",
+		"areasOfConcern": "Ice, salt, tribute",
+		"domains": [
+			"Chaos",
+			"Evil",
+			"War",
+			"Water"
+		],
+		"favoredWeapon": "Greataxe"
+	},
+	"Thuskchoon": {
+		"deityname": "Thuskchoon",
+		"file": "deitydisplay30d0.html",
+		"pantheon": "Qlippoth Lords",
+		"alignment": "CE",
+		"areasOfConcern": "Blinding hunger, revealed secrets",
+		"domains": [
+			"Chaos",
+			"Destruction",
+			"Evil",
+			"Knowledge"
+		],
+		"favoredWeapon": "Greatclub"
+	},
+	"Titivilus": {
+		"deityname": "Titivilus",
+		"file": "deitydisplay3d54.html",
+		"pantheon": "Infernal Dukes",
+		"alignment": "LE",
+		"areasOfConcern": "Lies, propaganda, rhetoric",
+		"domains": [
+			"Evil",
+			"Knowledge",
+			"Law",
+			"Trickery"
+		],
+		"favoredWeapon": "Longsword"
+	},
+	"Tjasse": {
+		"deityname": "Tjasse",
+		"file": "deitydisplay1147.html",
+		"pantheon": "Giant Deities",
+		"alignment": "CN",
+		"areasOfConcern": "Giant birds, mountain peaks, pride",
+		"domains": [
+			"Air",
+			"Animal",
+			"Chaos",
+			"Destruction"
+		],
+		"favoredWeapon": "Spear"
+	},
+	"Tolc": {
+		"deityname": "Tolc",
+		"file": "deitydisplay1528.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "CG",
+		"areasOfConcern": "Cold, frozen wilds, survival",
+		"domains": [
+			"Chaos",
+			"Good",
+			"Travel",
+			"Water"
+		],
+		"favoredWeapon": "Javelin"
+	},
+	"Torag": {
+		"deityname": "Torag",
+		"file": "deitydisplay0003.html",
+		"pantheon": "Core Deities",
+		"alignment": "LG",
+		"areasOfConcern": "Forges, protection, strategy",
+		"domains": [
+			"Artifice",
+			"Earth",
+			"Good",
+			"Law",
+			"Protection"
+		],
+		"favoredWeapon": "Warhammer"
+	},
+	"Treerazer": {
+		"deityname": "Treerazer",
+		"file": "deitydisplay1b33.html",
+		"pantheon": "Nascent Demon Lords",
+		"alignment": "CE",
+		"areasOfConcern": "Corruption of nature, pollution",
+		"domains": [
+			"Chaos",
+			"Destruction",
+			"Evil",
+			"Plant"
+		],
+		"favoredWeapon": "Greataxe"
+	},
+	"Trelmarixian": {
+		"deityname": "Trelmarixian",
+		"file": "deitydisplay5244.html",
+		"pantheon": "Horsemen",
+		"alignment": "NE",
+		"areasOfConcern": "Famine",
+		"domains": [
+			"Earth",
+			"Evil",
+			"Madness",
+			"Weather"
+		],
+		"favoredWeapon": "Spiked gauntlet"
+	},
+	"Tresmalvos": {
+		"deityname": "Tresmalvos",
+		"file": "deitydisplay16fa.html",
+		"pantheon": "Daemon Harbingers",
+		"alignment": "NE",
+		"areasOfConcern": "Cesspools, rat catchers, sewers",
+		"domains": [
+			"Animal",
+			"Darkness",
+			"Evil",
+			"Water"
+		],
+		"favoredWeapon": "Halberd"
+	},
+	"Trudd": {
+		"deityname": "Trudd",
+		"file": "deitydisplay2573.html",
+		"pantheon": "Dwarven Deities",
+		"alignment": "NG",
+		"areasOfConcern": "Bravery, defense, strength",
+		"domains": [
+			"Good",
+			"Nobility",
+			"Protection",
+			"Strength"
+		],
+		"favoredWeapon": "Warhammer"
+	},
+	"Tsathoggua": {
+		"deityname": "Tsathoggua",
+		"file": "deitydisplay33d7.html",
+		"pantheon": "Great Old Ones",
+		"alignment": "CE",
+		"areasOfConcern": "Magic, outcasts, the underworld",
+		"domains": [
+			"Chaos",
+			"Evil",
+			"Knowledge",
+			"Magic"
+		],
+		"favoredWeapon": "Short sword"
+	},
+	"Tsukiyo": {
+		"deityname": "Tsukiyo",
+		"file": "deitydisplaya207.html",
+		"pantheon": "Deities of Tian Xia",
+		"alignment": "LG",
+		"areasOfConcern": "Jade, the moon, spirits",
+		"domains": [
+			"Darkness",
+			"Good",
+			"Law",
+			"Madness",
+			"Repose"
+		],
+		"favoredWeapon": "Longspear"
+	},
+	"Uaransaph": {
+		"deityname": "Uaransaph",
+		"file": "deitydisplay3c77.html",
+		"pantheon": "Daemon Harbingers",
+		"alignment": "NE",
+		"areasOfConcern": "Falling, nonmagical flight, projectiles",
+		"domains": [
+			"Air",
+			"Evil",
+			"Luck",
+			"Void"
+		],
+		"favoredWeapon": "Repeating crossbow"
+	},
+	"Ulon": {
+		"deityname": "Ulon",
+		"file": "deitydisplay5d91.html",
+		"pantheon": "Azlanti Pantheon",
+		"alignment": "NE",
+		"areasOfConcern": "Conspiracy, isolation, and manipulation",
+		"domains": [
+			"Charm",
+			"Community",
+			"Evil",
+			"Knowledge",
+			"Trickery"
+		],
+		"favoredWeapon": "Hand crossbow"
+	},
+	"Upion and Warrik": {
+		"deityname": "Upion and Warrik",
+		"file": "deitydisplay6bfe.html",
+		"pantheon": "Iblydan Hero-Gods",
+		"alignment": "NG",
+		"areasOfConcern": "Promises, shield-bearers",
+		"domains": [
+			"Charm",
+			"Good",
+			"Protection"
+		],
+		"favoredWeapon": "none"
+	},
+	"Urazra": {
+		"deityname": "Urazra",
+		"file": "deitydisplay7734.html",
+		"pantheon": "Giant Deities",
+		"alignment": "CE",
+		"areasOfConcern": "Battle, brutality, strength",
+		"domains": [
+			"Animal",
+			"Chaos",
+			"Evil",
+			"Strength",
+			"War"
+		],
+		"favoredWeapon": "Spiked gauntlet"
+	},
+	"Urgathoa": {
+		"deityname": "Urgathoa",
+		"file": "deitydisplay5d68.html",
+		"pantheon": "Core Deities",
+		"alignment": "NE",
+		"areasOfConcern": "Disease, gluttony, undeath",
+		"domains": [
+			"Death",
+			"Evil",
+			"Magic",
+			"Strength",
+			"War"
+		],
+		"favoredWeapon": "Scythe"
+	},
+	"Uruskreil": {
+		"deityname": "Uruskreil",
+		"file": "deitydisplaya2fa.html",
+		"pantheon": "Infernal Dukes",
+		"alignment": "LE",
+		"areasOfConcern": "Armor, mercilessness, revelation",
+		"domains": [
+			"Evil",
+			"Glory",
+			"Law",
+			"Strength"
+		],
+		"favoredWeapon": "Falchion"
+	},
+	"Urxehl": {
+		"deityname": "Urxehl",
+		"file": "deitydisplay7693.html",
+		"pantheon": "Demon Lords",
+		"alignment": "CE",
+		"areasOfConcern": "Natural disasters, storms, trolls",
+		"domains": [
+			"Chaos",
+			"Evil",
+			"Fire",
+			"Weather"
+		],
+		"favoredWeapon": "Greatclub"
+	},
+	"Ushitora": {
+		"deityname": "Ushitora",
+		"file": "deitydisplayb9fd.html",
+		"pantheon": "Oni Daimyo",
+		"alignment": "CE",
+		"areasOfConcern": [
+			"Earthquakes",
+			"Keys",
+			"Sabotage"
+		],
+		"domains": [
+			"Chaos",
+			"Destruction",
+			"Earth",
+			"Evil"
+		],
+		"favoredWeapon": "Tetsubo"
+	},
+	"Uskyeria": {
+		"deityname": "Uskyeria",
+		"file": "deitydisplay2b6c.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "NG",
+		"areasOfConcern": "Hunting, prudence, slumber",
+		"domains": [
+			"Animal",
+			"Good",
+			"Repose",
+			"Strength"
+		],
+		"favoredWeapon": "Scimitar"
+	},
+	"Uzumae": {
+		"deityname": "Uzumae",
+		"file": "deitydisplaycaa8.html",
+		"pantheon": "Oni Daimyo",
+		"alignment": "LE",
+		"areasOfConcern": "Blizzards, frozen ghosts, starvation",
+		"domains": [
+			"Death",
+			"Evil",
+			"Law",
+			"Water"
+		],
+		"favoredWeapon": "Urumi"
+	},
+	"Valani": {
+		"deityname": "Valani",
+		"file": "deitydisplaybc78.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "CG",
+		"areasOfConcern": "Change, growth, primal forces",
+		"domains": [
+			"Chaos",
+			"Earth",
+			"Good",
+			"Weather"
+		],
+		"favoredWeapon": "Club"
+	},
+	"Vale": {
+		"deityname": "Vale",
+		"file": "deitydisplay814c.html",
+		"pantheon": "Psychopomp Usher",
+		"alignment": "N",
+		"areasOfConcern": "Consequence, superstition, and tradition",
+		"domains": [
+			"Community",
+			"Knowledge",
+			"Nobility",
+			"Repose"
+		],
+		"favoredWeapon": "Heavy flail"
+	},
+	"Valmallos": {
+		"deityname": "Valmallos",
+		"file": "deitydisplay613b.html",
+		"pantheon": "Primal Inevitable",
+		"alignment": "LN",
+		"areasOfConcern": "Ceremonies, magic, and preparation",
+		"domains": [
+			"Law",
+			"Magic",
+			"Rune",
+			"Water"
+		],
+		"favoredWeapon": "Kukri"
+	},
+	"Vapula": {
+		"deityname": "Vapula",
+		"file": "deitydisplay08e3.html",
+		"pantheon": "Infernal Dukes",
+		"alignment": "LE",
+		"areasOfConcern": "Discovery, hubris, scholarship",
+		"domains": [
+			"Evil",
+			"Knowledge",
+			"Law",
+			"Liberation"
+		],
+		"favoredWeapon": "Quarterstaff"
+	},
+	"Varg": {
+		"deityname": "Varg",
+		"file": "deitydisplay73b1.html",
+		"pantheon": "Orc Deities",
+		"alignment": "CE",
+		"areasOfConcern": "Iron, siege engines, war",
+		"domains": [
+			"Chaos",
+			"Earth",
+			"Evil",
+			"War"
+		],
+		"favoredWeapon": "Greataxe"
+	},
+	"Vavaalrav": {
+		"deityname": "Vavaalrav",
+		"file": "deitydisplayd905.html",
+		"pantheon": "Psychopomp Usher",
+		"alignment": "N",
+		"areasOfConcern": "Gargoyles, holy ground, and rest",
+		"domains": [
+			"Darkness",
+			"Earth",
+			"Protection",
+			"Repose"
+		],
+		"favoredWeapon": "Shortbow"
+	},
+	"Velgaas": {
+		"deityname": "Velgaas",
+		"file": "deitydisplay0cd0.html",
+		"pantheon": "Sahkil Tormentors",
+		"alignment": "CE",
+		"areasOfConcern": "Emotional manipulation, emptiness, ignorance",
+		"domains": [
+			"Charm",
+			"Evil",
+			"Knowledge",
+			"Void"
+		],
+		"favoredWeapon": "Spiked chain"
+	},
+	"Venkelvore": {
+		"deityname": "Venkelvore",
+		"file": "deitydisplay49b7.html",
+		"pantheon": "Goblin Hero-Gods",
+		"alignment": "NE",
+		"areasOfConcern": "Famine, graves, torture",
+		"domains": [
+			"Death",
+			"Destruction",
+			"Earth",
+			"Evil"
+		],
+		"favoredWeapon": "Spear"
+	},
+	"Verex": {
+		"deityname": "Verex",
+		"file": "deitydisplay0643.html",
+		"pantheon": "Orc Deities",
+		"alignment": "CE",
+		"areasOfConcern": "Lust, pillage, plunder",
+		"domains": [
+			"Chaos",
+			"Charm",
+			"Evil",
+			"Trickery"
+		],
+		"favoredWeapon": "Battleaxe"
+	},
+	"Vermilion Mother": {
+		"deityname": "Vermilion Mother",
+		"file": "deitydisplayb3ce.html",
+		"pantheon": "Sahkil Tormentors",
+		"alignment": "CE",
+		"areasOfConcern": "Fecundity, overgrown places, psychoactive plants",
+		"domains": [
+			"Charm",
+			"Evil",
+			"Plant",
+			"Weather"
+		],
+		"favoredWeapon": "Scythe"
+	},
+	"Vevelor": {
+		"deityname": "Vevelor",
+		"file": "deitydisplay0952.html",
+		"pantheon": "Kyton Demagogues",
+		"alignment": "LE",
+		"areasOfConcern": "Illusion of freedom, potential, transcendence",
+		"domains": [
+			"Destruction",
+			"Evil",
+			"Law",
+			"Liberation"
+		],
+		"favoredWeapon": "Whip"
+	},
+	"Vibhishah": {
+		"deityname": "Vibhishah",
+		"file": "deitydisplay24c7.html",
+		"pantheon": "Rakshasa Immortals",
+		"alignment": "LE",
+		"areasOfConcern": "N/a",
+		"domains": [
+			"Animal",
+			"Evil",
+			"Law",
+			"Trickery"
+		],
+		"favoredWeapon": "Kukri"
+	},
+	"Vildeis": {
+		"deityname": "Vildeis",
+		"file": "deitydisplay0f0d.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "LG",
+		"areasOfConcern": "Devotion, sacrifice, scars",
+		"domains": [
+			"Destruction",
+			"Good",
+			"Healing",
+			"Law"
+		],
+		"favoredWeapon": "Dagger"
+	},
+	"Vois": {
+		"deityname": "Vois",
+		"file": "deitydisplay3f14.html",
+		"pantheon": "Infernal Dukes",
+		"alignment": "LE",
+		"areasOfConcern": "Pollution, swamps, toads",
+		"domains": [
+			"Evil",
+			"Law",
+			"Scalykind",
+			"Weather"
+		],
+		"favoredWeapon": "Greatclub"
+	},
+	"Vonymos": {
+		"deityname": "Vonymos",
+		"file": "deitydisplay6592.html",
+		"pantheon": "Psychopomp Usher",
+		"alignment": "N",
+		"areasOfConcern": "Catastrophes, last stands, and suicides",
+		"domains": [
+			"Fire",
+			"Glory",
+			"Repose",
+			"Weather"
+		],
+		"favoredWeapon": "Scythe"
+	},
+	"Vorasha": {
+		"deityname": "Vorasha",
+		"file": "deitydisplaycc7d.html",
+		"pantheon": "Daemon Harbingers",
+		"alignment": "NE",
+		"areasOfConcern": "Incurable afflictions, poison, toxicity",
+		"domains": [
+			"Evil",
+			"Magic",
+			"Scalykind",
+			"Water"
+		],
+		"favoredWeapon": "Spiked chain"
+	},
+	"Wadjet": {
+		"deityname": "Wadjet",
+		"file": "deitydisplaya1ea.html",
+		"pantheon": "Deities of Ancient Osirion",
+		"alignment": "LG",
+		"areasOfConcern": "Good serpents, the River Sphinx, wisdom",
+		"domains": [
+			"Good",
+			"Law",
+			"Protection",
+			"Travel",
+			"Water"
+		],
+		"favoredWeapon": "Light mace"
+	},
+	"Winlas": {
+		"deityname": "Winlas",
+		"file": "deitydisplay491b.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "LG",
+		"areasOfConcern": "Ceremonies, religiousness, service",
+		"domains": [
+			"Good",
+			"Knowledge",
+			"Law",
+			"Protection"
+		],
+		"favoredWeapon": "Heavy mace"
+	},
+	"Wylgart": {
+		"deityname": "Wylgart",
+		"file": "deitydisplay784d.html",
+		"pantheon": "Infernal Dukes",
+		"alignment": "LE",
+		"areasOfConcern": "Condemnation, judges, revision",
+		"domains": [
+			"Earth",
+			"Evil",
+			"Law",
+			"Protection"
+		],
+		"favoredWeapon": "Sling"
+	},
+	"Xhamen-Dor": {
+		"deityname": "Xhamen-Dor",
+		"file": "deitydisplay8f72.html",
+		"pantheon": "Great Old Ones",
+		"alignment": "NE",
+		"areasOfConcern": "Decay, parasites, transformation",
+		"domains": [
+			"Death",
+			"Evil",
+			"Plant",
+			"Trickery"
+		],
+		"favoredWeapon": "Spear"
+	},
+	"Xhasnaphar": {
+		"deityname": "Xhasnaphar",
+		"file": "deitydisplay1235.html",
+		"pantheon": "Infernal Dukes",
+		"alignment": "LE",
+		"areasOfConcern": "Masks, ugliness, volition",
+		"domains": [
+			"Evil",
+			"Law",
+			"Liberation",
+			"Protection"
+		],
+		"favoredWeapon": "Hand crossbow"
+	},
+	"Xiquiripat": {
+		"deityname": "Xiquiripat",
+		"file": "deitydisplay6243.html",
+		"pantheon": "Sahkil Tormentors",
+		"alignment": "CE",
+		"areasOfConcern": "Evisceration, fatal falls, genocide",
+		"domains": [
+			"Air",
+			"Destruction",
+			"Evil",
+			"War"
+		],
+		"favoredWeapon": "Terbutje"
+	},
+	"Xoveron": {
+		"deityname": "Xoveron",
+		"file": "deitydisplay7517.html",
+		"pantheon": "Demon Lords",
+		"alignment": "CE",
+		"areasOfConcern": "Gargoyles, gluttony, ruins",
+		"domains": [
+			"Chaos",
+			"Earth",
+			"Evil",
+			"Strength"
+		],
+		"favoredWeapon": "Ranseur"
+	},
+	"Xsistaid": {
+		"deityname": "Xsistaid",
+		"file": "deitydisplayd828.html",
+		"pantheon": "Daemon Harbingers",
+		"alignment": "NE",
+		"areasOfConcern": "Maggots, myiasis, parasites",
+		"domains": [
+			"Animal",
+			"Charm",
+			"Destruction",
+			"Evil"
+		],
+		"favoredWeapon": "Dart"
+	},
+	"Yabu": {
+		"deityname": "Yabu",
+		"file": "deitydisplaydc60.html",
+		"pantheon": "Oni Daimyo",
+		"alignment": "NE",
+		"areasOfConcern": "Curses, promises, volcanoes",
+		"domains": [
+			"Destruction",
+			"Evil",
+			"Fire",
+			"Luck"
+		],
+		"favoredWeapon": "Meteor hammer"
+	},
+	"Yaezhing": {
+		"deityname": "Yaezhing",
+		"file": "deitydisplay2b65.html",
+		"pantheon": "Deities of Tian Xia",
+		"alignment": "LE",
+		"areasOfConcern": "Harsh justice, murder, punishment",
+		"domains": [
+			"Artifice",
+			"Death",
+			"Evil",
+			"Law",
+			"Trickery"
+		],
+		"favoredWeapon": "Shuriken"
+	},
+	"Yamasoth": {
+		"deityname": "Yamasoth",
+		"file": "deitydisplaye725.html",
+		"pantheon": "Qlippoth Lords",
+		"alignment": "CE",
+		"areasOfConcern": "Cursed kingdoms, vile experiments",
+		"domains": [
+			"Artifice",
+			"Chaos",
+			"Earth",
+			"Evil"
+		],
+		"favoredWeapon": "Halberd"
+	},
+	"Yamatsumi": {
+		"deityname": "Yamatsumi",
+		"file": "deitydisplaya0c5.html",
+		"pantheon": "Deities of Tian Xia",
+		"alignment": "N",
+		"areasOfConcern": "Mountains, volcanoes, winter",
+		"domains": [
+			"Earth",
+			"Fire",
+			"Protection",
+			"Strength",
+			"Water"
+		],
+		"favoredWeapon": "Tetsubo"
+	},
+	"Yan-gant-y-tan": {
+		"deityname": "Yan-gant-y-tan",
+		"file": "deitydisplay84c3.html",
+		"pantheon": "Infernal Dukes",
+		"alignment": "LE",
+		"areasOfConcern": "Hellspawn, misdirection, night",
+		"domains": [
+			"Darkness",
+			"Evil",
+			"Law",
+			"Weather"
+		],
+		"favoredWeapon": "Guisarme"
+	},
+	"Ydajisk": {
+		"deityname": "Ydajisk",
+		"file": "deitydisplay79cf.html",
+		"pantheon": "Protean Lord",
+		"alignment": "CN",
+		"areasOfConcern": "Language evolution, lost words, and slang",
+		"domains": [
+			"Chaos",
+			"Knowledge",
+			"Rune",
+			"Trickery"
+		],
+		"favoredWeapon": "Bite or greatclub"
+	},
+	"Ydersius": {
+		"deityname": "Ydersius",
+		"file": "deitydisplay118c.html",
+		"pantheon": "Other Deities",
+		"alignment": "CE",
+		"areasOfConcern": "Serpentfolk, immortality, poison",
+		"domains": [
+			"Chaos",
+			"Evil",
+			"Nobility",
+			"Scalykind",
+			"War"
+		],
+		"favoredWeapon": "Dagger"
+	},
+	"Yhidothrus": {
+		"deityname": "Yhidothrus",
+		"file": "deitydisplayf296.html",
+		"pantheon": "Demon Lords",
+		"alignment": "CE",
+		"areasOfConcern": "Age, time, worms",
+		"domains": [
+			"Chaos",
+			"Death",
+			"Evil",
+			"Repose"
+		],
+		"favoredWeapon": "Spiked chain"
+	},
+	"Yig": {
+		"deityname": "Yig",
+		"file": "deitydisplay8046.html",
+		"pantheon": "Great Old Ones",
+		"alignment": "CN",
+		"areasOfConcern": "Cycles, procreation, serpents",
+		"domains": [
+			"Chaos",
+			"Community",
+			"Protection",
+			"Scalykind"
+		],
+		"favoredWeapon": "Punching dagger"
+	},
+	"Ylimancha": {
+		"deityname": "Ylimancha",
+		"file": "deitydisplayeb3c.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "NG",
+		"areasOfConcern": "Coastal waters, fisherfolk, flying creatures",
+		"domains": [
+			"Air",
+			"Animal",
+			"Good",
+			"Water"
+		],
+		"favoredWeapon": "Longbow"
+	},
+	"Ymeri": {
+		"deityname": "Ymeri",
+		"file": "deitydisplay7e5e.html",
+		"pantheon": "Elemental Lords",
+		"alignment": "NE",
+		"areasOfConcern": "Deserts, fire, volcanoes",
+		"domains": [
+			"Destruction",
+			"Evil",
+			"Fire",
+			"War"
+		],
+		"favoredWeapon": "Longsword"
+	},
+	"Yog-Sothoth": {
+		"deityname": "Yog-Sothoth",
+		"file": "deitydisplay34e1.html",
+		"pantheon": "Outer Gods",
+		"alignment": "CN",
+		"areasOfConcern": "Gates, space, time",
+		"domains": [
+			"Darkness",
+			"Chaos",
+			"Knowledge",
+			"Travel",
+			"Void"
+		],
+		"favoredWeapon": "Dagger"
+	},
+	"Yuelral": {
+		"deityname": "Yuelral",
+		"file": "deitydisplay0c01.html",
+		"pantheon": "Elven Deities",
+		"alignment": "NG",
+		"areasOfConcern": "Crystals, jewelers, magic",
+		"domains": [
+			"Artifice",
+			"Earth",
+			"Good",
+			"Knowledge",
+			"Magic"
+		],
+		"favoredWeapon": "Dagger"
+	},
+	"Zabha": {
+		"deityname": "Zabha",
+		"file": "deitydisplay1209.html",
+		"pantheon": "Rakshasa Immortals",
+		"alignment": "LE",
+		"areasOfConcern": "N/a",
+		"domains": [
+			"Animal",
+			"Evil",
+			"Law",
+			"Trickery"
+		],
+		"favoredWeapon": "Kukri"
+	},
+	"Zaebos": {
+		"deityname": "Zaebos",
+		"file": "deitydisplay0add.html",
+		"pantheon": "Infernal Dukes",
+		"alignment": "LE",
+		"areasOfConcern": "Arrogance, nobility, sexual perversion",
+		"domains": [
+			"Destruction",
+			"Evil",
+			"Law",
+			"Nobility"
+		],
+		"favoredWeapon": "Flail"
+	},
+	"Zagresh": {
+		"deityname": "Zagresh",
+		"file": "deitydisplay3f54.html",
+		"pantheon": "Orc Deities",
+		"alignment": "CE",
+		"areasOfConcern": "Death, destruction, disaster",
+		"domains": [
+			"Chaos",
+			"Death",
+			"Destruction",
+			"Evil"
+		],
+		"favoredWeapon": "Greatclub"
+	},
+	"Zaigasnar": {
+		"deityname": "Zaigasnar",
+		"file": "deitydisplay1cb0.html",
+		"pantheon": "Daemon Harbingers",
+		"alignment": "NE",
+		"areasOfConcern": "Body modification, destructive vanity, pins",
+		"domains": [
+			"Charm",
+			"Destruction",
+			"Evil",
+			"Liberation"
+		],
+		"favoredWeapon": "Javelin"
+	},
+	"Zarongel": {
+		"deityname": "Zarongel",
+		"file": "deitydisplayc11c.html",
+		"pantheon": "Goblin Hero-Gods",
+		"alignment": "NE",
+		"areasOfConcern": "Dog killing, fire, mounted combat",
+		"domains": [
+			"Animal",
+			"Evil",
+			"Fire",
+			"Travel"
+		],
+		"favoredWeapon": "Dogslicer"
+	},
+	"Zelishkar": {
+		"deityname": "Zelishkar",
+		"file": "deitydisplayc060.html",
+		"pantheon": "Daemon Harbingers",
+		"alignment": "NE",
+		"areasOfConcern": "Arson, burning alive, cremation",
+		"domains": [
+			"Animal",
+			"Evil",
+			"Fire",
+			"War"
+		],
+		"favoredWeapon": "Ranseur"
+	},
+	"Zepar": {
+		"deityname": "Zepar",
+		"file": "deitydisplay3fc6.html",
+		"pantheon": "Infernal Dukes",
+		"alignment": "LE",
+		"areasOfConcern": "Abduction, rape, transformation",
+		"domains": [
+			"Charm",
+			"Evil",
+			"Law",
+			"Trickery"
+		],
+		"favoredWeapon": "Bolas"
+	},
+	"Zevgavizeb": {
+		"deityname": "Zevgavizeb",
+		"file": "deitydisplay2df0.html",
+		"pantheon": "Demon Lords",
+		"alignment": "CE",
+		"areasOfConcern": "Caverns, reptiles, troglodytes",
+		"domains": [
+			"Animal",
+			"Chaos",
+			"Evil",
+			"Strength"
+		],
+		"favoredWeapon": "Spiked gauntlet"
+	},
+	"Zipacna": {
+		"deityname": "Zipacna",
+		"file": "deitydisplaya68d.html",
+		"pantheon": "Sahkil Tormentors",
+		"alignment": "CE",
+		"areasOfConcern": "Avoiding responsibility, shifting earth, violence",
+		"domains": [
+			"Earth",
+			"Evil",
+			"Fire",
+			"Strength"
+		],
+		"favoredWeapon": "Tepoztopilli"
+	},
+	"Zogmugot": {
+		"deityname": "Zogmugot",
+		"file": "deitydisplayb01f.html",
+		"pantheon": "Goblin Hero-Gods",
+		"alignment": "CE",
+		"areasOfConcern": "Drowning, flotsam, scavenging",
+		"domains": [
+			"Chaos",
+			"Evil",
+			"Trickery",
+			"Water"
+		],
+		"favoredWeapon": "Sickle"
+	},
+	"Zohls": {
+		"deityname": "Zohls",
+		"file": "deitydisplay4877.html",
+		"pantheon": "Empyreal Lords",
+		"alignment": "LG",
+		"areasOfConcern": "Determination, investigation, truth",
+		"domains": [
+			"Good",
+			"Knowledge",
+			"Law",
+			"Travel"
+		],
+		"favoredWeapon": "Heavy crossbow"
+	},
+	"Zon-Kuthon": {
+		"deityname": "Zon-Kuthon",
+		"file": "deitydisplay5e52.html",
+		"pantheon": "Core Deities",
+		"alignment": "LE",
+		"areasOfConcern": "Darkness, envy, loss, pain",
+		"domains": [
+			"Darkness",
+			"Death",
+			"Destruction",
+			"Evil",
+			"Law"
+		],
+		"favoredWeapon": "Spiked chain"
+	},
+	"Zura": {
+		"deityname": "Zura",
+		"file": "deitydisplayb3ec.html",
+		"pantheon": "Demon Lords",
+		"alignment": "CE",
+		"areasOfConcern": "Blood, cannibalism, vampires",
+		"domains": [
+			"Chaos",
+			"Death",
+			"Evil",
+			"Madness"
+		],
+		"favoredWeapon": "Rapier"
+	},
+	"Zurapadyn": {
+		"deityname": "Zurapadyn",
+		"file": "deitydisplay950f.html",
+		"pantheon": "Asura Ranas",
+		"alignment": "LE",
+		"areasOfConcern": "Fire, injustice, vendetts",
+		"domains": [
+			"Destruction",
+			"Evil",
+			"Fire",
+			"Law"
+		],
+		"favoredWeapon": "Kukri"
+	},
+	"Zursvaater": {
+		"deityname": "Zursvaater",
+		"file": "deitydisplay7650.html",
+		"pantheon": "Giant Deities",
+		"alignment": "LE",
+		"areasOfConcern": "Conquest, slavery, weapons",
+		"domains": [
+			"Evil",
+			"Fire",
+			"Law",
+			"Trickery",
+			"War"
+		],
+		"favoredWeapon": "Greatsword"
+	},
+	"Zyphus": {
+		"deityname": "Zyphus",
+		"file": "deitydisplay0213.html",
+		"pantheon": "Other Deities",
+		"alignment": "NE",
+		"areasOfConcern": "Accidental death, graveyards, tragedy",
+		"domains": [
+			"Death",
+			"Destruction",
+			"Evil",
+			"Plant",
+			"War"
+		],
+		"favoredWeapon": "Heavy pick"
+	}
+}
