@@ -44,7 +44,8 @@
 		"dmg": "1d6",
 		"range": "15 ft. cone",
 		"dmgType": "acid",
-		"special": "see text"
+		"special": "see text",
+		"copyof": "Alchemical coal (blinding cinders)"
 	},
 	"Alchemist's fire": {
 		"equipmentname": "Alchemist's fire",
@@ -82,7 +83,7 @@
 		"weight": 0,
 		"category": "ammunition",
 		"dmg": "bleed 1",
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "see text"
 	},
 	"Arrow (durable)": {
@@ -92,7 +93,7 @@
 		"cost": 1,
 		"weight": 0,
 		"category": "ammunition",
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "see text"
 	},
 	"Arrow (dye)": {
@@ -114,7 +115,7 @@
 		"weight": 0,
 		"category": "ammunition",
 		"dmg": "half",
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "see text"
 	},
 	"Arrow (pheromone)": {
@@ -124,7 +125,7 @@
 		"cost": 15,
 		"weight": 0,
 		"category": "ammunition",
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "see text"
 	},
 	"Arrow (raining)": {
@@ -134,7 +135,7 @@
 		"cost": 30,
 		"weight": 0,
 		"category": "ammunition",
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "splash, see text"
 	},
 	"Arrow (slow burn)": {
@@ -145,7 +146,7 @@
 		"weight": 0,
 		"category": "ammunition",
 		"dmg": "1d6",
-		"dmgTypeP": true,
+		"piercing": true,
 		"dmgType": "fire",
 		"special": "see text"
 	},
@@ -157,7 +158,7 @@
 		"weight": 0,
 		"category": "ammunition",
 		"dmg": "1d3",
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "area, see text"
 	},
 	"Arrow (tangleshot)": {
@@ -177,7 +178,7 @@
 		"cost": 40,
 		"weight": 0,
 		"category": "ammunition",
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "trip, see text"
 	},
 	"Artokus's fire": {
@@ -435,7 +436,8 @@
 		"cost": 25,
 		"weight": 0,
 		"dmg": "see text",
-		"special": "see text"
+		"special": "see text",
+		"copyof": "Dust knuckles (4 vials)"
 	},
 	"Dust knuckles (gloves)": {
 		"equipmentname": "Dust knuckles (gloves)",
@@ -444,7 +446,8 @@
 		"cost": 25,
 		"weight": 0.5,
 		"dmg": "see text",
-		"special": "see text"
+		"special": "see text",
+		"copyof": "Dust knuckles (4 vials)"
 	},
 	"Ectoplasmic residue": {
 		"equipmentname": "Ectoplasmic residue",
@@ -568,7 +571,6 @@
 		"type": "weapon",
 		"cost": 100,
 		"weight": 0,
-		"melee": true,
 		"dmg": "1d8",
 		"critMultiplier": 2,
 		"dmgType": "fire",
@@ -728,7 +730,8 @@
 		"type": "weapon",
 		"cost": 250,
 		"weight": 50,
-		"Ranged": true,
+		"category": "ranged",
+		"proficiency": "none",
 		"dmg": "3d6",
 		"range": "10 ft. radius",
 		"dmgType": "fire",
@@ -763,7 +766,8 @@
 		"type": "weapon",
 		"cost": 40,
 		"weight": 1,
-		"Ranged": true,
+		"category": "ranged",
+		"proficiency": "none",
 		"range": "10 ft.",
 		"special": "see text"
 	},
@@ -821,13 +825,12 @@
 		"type": "weapon",
 		"cost": 40,
 		"weight": 2,
-		"melee": true,
-		"light": true,
+		"category": "light",
 		"proficiency": "martial",
 		"dmg": "1d6",
 		"critMultiplier": 2,
 		"critRange": 19,
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "fragile, see text"
 	},
 	"Liquid ice": {
@@ -862,7 +865,8 @@
 		"type": "weapon",
 		"cost": 50,
 		"weight": 1,
-		"Ranged": true,
+		"category": "ranged",
+		"proficiency": "none",
 		"dmg": "2d6",
 		"range": "10 ft.",
 		"dmgType": "acid",
@@ -907,8 +911,8 @@
 		"proficiency": "none",
 		"dmg": "1d6/1d6/1d6",
 		"range": "10 ft.",
-		"dmgTypeB": true,
-		"dmgTypeP": true,
+		"bludgeoning": true,
+		"piercing": true,
 		"dmgType": "fire",
 		"special": "area, see text"
 	},
@@ -922,8 +926,8 @@
 		"proficiency": "none",
 		"dmg": "1d6/1d6/1d6",
 		"range": "10 ft.",
-		"dmgTypeB": true,
-		"dmgTypeP": true,
+		"bludgeoning": true,
+		"piercing": true,
 		"dmgType": "fire",
 		"special": "area, see text",
 		"copyof": "Pellet grenade (adamantine)"
@@ -938,8 +942,8 @@
 		"proficiency": "none",
 		"dmg": "1d6/1d6/1d6",
 		"range": "10 ft.",
-		"dmgTypeB": true,
-		"dmgTypeP": true,
+		"bludgeoning": true,
+		"piercing": true,
 		"dmgType": "fire",
 		"special": "area, see text",
 		"copyof": "Pellet grenade (adamantine)"
@@ -954,8 +958,8 @@
 		"proficiency": "none",
 		"dmg": "1d6/1d6/1d6",
 		"range": "10 ft.",
-		"dmgTypeB": true,
-		"dmgTypeP": true,
+		"bludgeoning": true,
+		"piercing": true,
 		"dmgType": "fire",
 		"special": "area, see text",
 		"copyof": "Pellet grenade (adamantine)"
@@ -985,7 +989,8 @@
 		"type": "weapon",
 		"cost": 300,
 		"weight": 0,
-		"Ranged": true,
+		"category": "ranged",
+		"proficiency": "none",
 		"range": "10 ft.",
 		"special": "see text"
 	},
@@ -1024,7 +1029,7 @@
 		"dmg": "1d4",
 		"critMultiplier": 2,
 		"range": "10 ft.",
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "splash"
 	},
 	"Shriek bomb": {
@@ -1136,7 +1141,8 @@
 		"type": "weapon",
 		"cost": 30,
 		"weight": 0.5,
-		"Ranged": true,
+		"category": "ranged",
+		"proficiency": "none",
 		"range": "10 ft.",
 		"special": "see text"
 	},
@@ -1146,7 +1152,8 @@
 		"type": "weapon",
 		"cost": 100,
 		"weight": 1,
-		"Ranged": true,
+		"category": "ranged",
+		"proficiency": "none",
 		"dmg": "2d6/1d6",
 		"critMultiplier": 2,
 		"range": "10 ft.",
@@ -1345,7 +1352,7 @@
 		"cost": 2,
 		"category": "ammunition",
 		"weight": 5,
-		"dmgTypeB": true,
+		"bludgeoning": true,
 		"special": "see text"
 	},
 	"Crossbow bolts (10)": {
@@ -1381,7 +1388,7 @@
 		"dmgM": "1",
 		"category": "ammunition",
 		"weight": 2,
-		"dmgTypeB": true,
+		"bludgeoning": true,
 		"special": "nonlethal"
 	},
 	"Halfling sharpstones (10)": {
@@ -1393,8 +1400,8 @@
 		"dmgM": "1d4",
 		"category": "ammunition",
 		"weight": 5,
-		"dmgTypeP": true,
-		"dmgTypeS": true
+		"piercing": true,
+		"slashing": true
 	},
 	"Halfling softstones (10)": {
 		"equipmentname": "Halfling softstones (10)",
@@ -1403,7 +1410,7 @@
 		"cost": 0.1,
 		"category": "ammunition",
 		"weight": 4,
-		"dmgTypeB": true,
+		"bludgeoning": true,
 		"special": "nonlethal"
 	},
 	"Halfling spongestones (10)": {
@@ -1413,7 +1420,7 @@
 		"cost": 10,
 		"category": "ammunition",
 		"weight": 2,
-		"dmgTypeP": true
+		"piercing": true
 	},
 	"Incendiary arrow (20)": {
 		"equipmentname": "Incendiary arrow (20)",
@@ -1526,11 +1533,11 @@
 		"cost": 5,
 		"dmgS": "1d4",
 		"dmgM": "1d6",
-		"light": true,
+		"category": "light",
 		"proficiency": "simple",
 		"critMultiplier": 2,
 		"weight": 4,
-		"dmgTypeB": true,
+		"bludgeoning": true,
 		"special": "see text"
 	},
 	"Brass knife": {
@@ -1540,14 +1547,14 @@
 		"cost": 2,
 		"dmgS": "1d3",
 		"dmgM": "1d4",
-		"light": true,
+		"category": "light",
 		"proficiency": "simple",
 		"critMultiplier": 2,
 		"critRange": 19,
 		"range": "10 ft.",
 		"weight": 1,
-		"dmgTypeP": true,
-		"dmgTypeS": true,
+		"piercing": true,
+		"slashing": true,
 		"special": "fragile"
 	},
 	"Brass knuckles": {
@@ -1557,11 +1564,11 @@
 		"cost": 1,
 		"dmgS": "1d2",
 		"dmgM": "1d3",
-		"light": true,
+		"category": "light",
 		"proficiency": "simple",
 		"critMultiplier": 2,
 		"weight": 1,
-		"dmgTypeB": true,
+		"bludgeoning": true,
 		"special": "monk, see text"
 	},
 	"Cestus": {
@@ -1571,13 +1578,13 @@
 		"cost": 5,
 		"dmgS": "1d3",
 		"dmgM": "1d4",
-		"light": true,
+		"category": "light",
 		"proficiency": "simple",
 		"critMultiplier": 2,
 		"critRange": 19,
 		"weight": 1,
-		"dmgTypeB": true,
-		"dmgTypeP": true,
+		"bludgeoning": true,
+		"piercing": true,
 		"special": "monk, see text"
 	},
 	"Dagger": {
@@ -1587,14 +1594,14 @@
 		"cost": 2,
 		"dmgS": "1d3",
 		"dmgM": "1d4",
-		"light": true,
+		"category": "light",
 		"proficiency": "simple",
 		"critMultiplier": 2,
 		"critRange": 19,
 		"range": "10 ft.",
 		"weight": 1,
-		"dmgTypeP": true,
-		"dmgTypeS": true
+		"piercing": true,
+		"slashing": true
 	},
 	"Gauntlet": {
 		"equipmentname": "Gauntlet",
@@ -1603,11 +1610,11 @@
 		"cost": 2,
 		"dmgS": "1d2",
 		"dmgM": "1d3",
-		"light": true,
+		"category": "light",
 		"proficiency": "simple",
 		"critMultiplier": 2,
 		"weight": 1,
-		"dmgTypeB": true
+		"bludgeoning": true
 	},
 	"Hanbo": {
 		"equipmentname": "Hanbo",
@@ -1616,11 +1623,11 @@
 		"cost": 1,
 		"dmgS": "1d4",
 		"dmgM": "1d6",
-		"light": true,
+		"category": "light",
 		"proficiency": "simple",
 		"critMultiplier": 2,
 		"weight": 2,
-		"dmgTypeB": true,
+		"bludgeoning": true,
 		"special": "monk, trip"
 	},
 	"Handwraps": {
@@ -1628,7 +1635,7 @@
 		"file": "equipmentweaponsdisplay0e53.html",
 		"type": "weapon",
 		"cost": 0.1,
-		"light": true,
+		"category": "light",
 		"proficiency": "simple",
 		"weight": 0,
 		"special": "See text"
@@ -1640,11 +1647,11 @@
 		"cost": 10,
 		"dmgS": "1d3",
 		"dmgM": "1d4",
-		"light": true,
+		"category": "light",
 		"proficiency": "simple",
 		"critMultiplier": 2,
 		"weight": 1,
-		"dmgTypeS": true,
+		"slashing": true,
 		"special": "disarm"
 	},
 	"Kunai": {
@@ -1654,13 +1661,13 @@
 		"cost": 2,
 		"dmgS": "1d3",
 		"dmgM": "1d4",
-		"light": true,
+		"category": "light",
 		"proficiency": "simple",
 		"critMultiplier": 2,
 		"range": "10 ft.",
 		"weight": 2,
-		"dmgTypeB": true,
-		"dmgTypeP": true
+		"bludgeoning": true,
+		"piercing": true
 	},
 	"Light mace": {
 		"equipmentname": "Light mace",
@@ -1669,11 +1676,11 @@
 		"cost": 5,
 		"dmgS": "1d4",
 		"dmgM": "1d6",
-		"light": true,
+		"category": "light",
 		"proficiency": "simple",
 		"critMultiplier": 2,
 		"weight": 4,
-		"dmgTypeB": true
+		"bludgeoning": true
 	},
 	"Punching dagger": {
 		"equipmentname": "Punching dagger",
@@ -1682,11 +1689,11 @@
 		"cost": 2,
 		"dmgS": "1d3",
 		"dmgM": "1d4",
-		"light": true,
+		"category": "light",
 		"proficiency": "simple",
 		"critMultiplier": 3,
 		"weight": 1,
-		"dmgTypeP": true
+		"piercing": true
 	},
 	"Sickle": {
 		"equipmentname": "Sickle",
@@ -1695,11 +1702,11 @@
 		"cost": 6,
 		"dmgS": "1d4",
 		"dmgM": "1d6",
-		"light": true,
+		"category": "light",
 		"proficiency": "simple",
 		"critMultiplier": 2,
 		"weight": 2,
-		"dmgTypeS": true,
+		"slashing": true,
 		"special": "trip"
 	},
 	"Spider-leg sickle": {
@@ -1709,11 +1716,11 @@
 		"cost": 15,
 		"dmgS": "1d4",
 		"dmgM": "1d6",
-		"light": true,
+		"category": "light",
 		"proficiency": "simple",
 		"critMultiplier": 2,
 		"weight": 2,
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "trip"
 	},
 	"Spiked gauntlet": {
@@ -1723,11 +1730,11 @@
 		"cost": 5,
 		"dmgS": "1d3",
 		"dmgM": "1d4",
-		"light": true,
+		"category": "light",
 		"proficiency": "simple",
 		"critMultiplier": 2,
 		"weight": 1,
-		"dmgTypeP": true
+		"piercing": true
 	},
 	"Spring blade": {
 		"equipmentname": "Spring blade",
@@ -1736,13 +1743,13 @@
 		"cost": 70,
 		"dmgS": "1d3",
 		"dmgM": "1d4",
-		"light": true,
+		"category": "light",
 		"proficiency": "simple",
 		"critMultiplier": 2,
 		"range": "10 ft.",
 		"weight": 1,
-		"dmgTypeP": true,
-		"dmgTypeS": true
+		"piercing": true,
+		"slashing": true
 	},
 	"Traveling kettle": {
 		"equipmentname": "Traveling kettle",
@@ -1751,11 +1758,11 @@
 		"cost": 5,
 		"dmgS": "1d4",
 		"dmgM": "1d6",
-		"light": true,
+		"category": "light",
 		"proficiency": "simple",
 		"critMultiplier": 2,
 		"weight": 2,
-		"dmgTypeB": true,
+		"bludgeoning": true,
 		"special": "Monk, see text"
 	},
 	"Wooden stake": {
@@ -1765,12 +1772,12 @@
 		"cost": 0,
 		"dmgS": "1d3",
 		"dmgM": "1d4",
-		"light": true,
+		"category": "light",
 		"proficiency": "simple",
 		"critMultiplier": 2,
 		"range": "10 ft.",
 		"weight": 1,
-		"dmgTypeP": true
+		"piercing": true
 	},
 	"Baston fighting stick": {
 		"equipmentname": "Baston fighting stick",
@@ -1779,11 +1786,11 @@
 		"cost": 10,
 		"dmgS": "1d4",
 		"dmgM": "1d6",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "simple",
 		"critMultiplier": 2,
 		"weight": 2,
-		"dmgTypeB": true,
+		"bludgeoning": true,
 		"special": "Monk, see text"
 	},
 	"Club": {
@@ -1793,12 +1800,12 @@
 		"cost": 0,
 		"dmgS": "1d4",
 		"dmgM": "1d6",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "simple",
 		"critMultiplier": 2,
 		"range": "10 ft.",
 		"weight": 3,
-		"dmgTypeB": true
+		"bludgeoning": true
 	},
 	"Heavy mace": {
 		"equipmentname": "Heavy mace",
@@ -1807,11 +1814,11 @@
 		"cost": 12,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "simple",
 		"critMultiplier": 2,
 		"weight": 8,
-		"dmgTypeB": true
+		"bludgeoning": true
 	},
 	"Mere club": {
 		"equipmentname": "Mere club",
@@ -1820,12 +1827,12 @@
 		"cost": 2,
 		"dmgS": "1d3",
 		"dmgM": "1d4",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "simple",
 		"critMultiplier": 2,
 		"weight": 2,
-		"dmgTypeB": true,
-		"dmgTypeP": true,
+		"bludgeoning": true,
+		"piercing": true,
 		"special": "fragile"
 	},
 	"Morningstar": {
@@ -1835,11 +1842,12 @@
 		"cost": 8,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "simple",
 		"critMultiplier": 2,
 		"weight": 6,
-		"dmgType": "B and P"
+		"bludgeoning": true,
+		"piercing": true
 	},
 	"Shortspear": {
 		"equipmentname": "Shortspear",
@@ -1848,12 +1856,12 @@
 		"cost": 1,
 		"dmgS": "1d4",
 		"dmgM": "1d6",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "simple",
 		"critMultiplier": 2,
 		"range": "20 ft.",
 		"weight": 3,
-		"dmgTypeP": true
+		"piercing": true
 	},
 	"Bayonet": {
 		"equipmentname": "Bayonet",
@@ -1862,11 +1870,11 @@
 		"cost": 5,
 		"dmgS": "1d4",
 		"dmgM": "1d6",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "simple",
 		"critMultiplier": 2,
 		"weight": 1,
-		"dmgTypeP": true
+		"piercing": true
 	},
 	"Boar spear": {
 		"equipmentname": "Boar spear",
@@ -1875,11 +1883,11 @@
 		"cost": 5,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "simple",
 		"critMultiplier": 2,
 		"weight": 8,
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "brace, see text"
 	},
 	"Boarding pike": {
@@ -1889,11 +1897,11 @@
 		"cost": 8,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "simple",
 		"critMultiplier": 3,
 		"weight": 9,
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "brace, reach"
 	},
 	"Kumade": {
@@ -1903,11 +1911,11 @@
 		"cost": 5,
 		"dmgS": "1d4",
 		"dmgM": "1d6",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "simple",
 		"critMultiplier": 3,
 		"weight": 4,
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "grapple"
 	},
 	"Kumade, collapsible": {
@@ -1917,11 +1925,11 @@
 		"cost": 10,
 		"dmgS": "1d4",
 		"dmgM": "1d6",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "simple",
 		"critMultiplier": 3,
 		"weight": 4,
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "grapple"
 	},
 	"Lantern staff": {
@@ -1931,11 +1939,11 @@
 		"cost": 15,
 		"dmgS": "1d4",
 		"dmgM": "1d6",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "simple",
 		"critMultiplier": 3,
 		"weight": 9,
-		"dmgTypeB": true,
+		"bludgeoning": true,
 		"special": "see text"
 	},
 	"Longspear": {
@@ -1945,11 +1953,11 @@
 		"cost": 5,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "simple",
 		"critMultiplier": 3,
 		"weight": 9,
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "brace, reach"
 	},
 	"Quarterstaff": {
@@ -1959,11 +1967,11 @@
 		"cost": 0,
 		"dmgS": "1d4/1d4",
 		"dmgM": "1d6/1d6",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "simple",
 		"critMultiplier": 2,
 		"weight": 4,
-		"dmgTypeB": true,
+		"bludgeoning": true,
 		"special": "double, monk"
 	},
 	"Spear": {
@@ -1973,12 +1981,12 @@
 		"cost": 2,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "simple",
 		"critMultiplier": 3,
 		"range": "20 ft.",
 		"weight": 6,
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "brace"
 	},
 	"Weighted spear": {
@@ -1988,12 +1996,12 @@
 		"cost": 10,
 		"dmgS": "1d6/1d4",
 		"dmgM": "1d8/1d6",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "simple",
 		"crit": "x3/x2",
 		"weight": 8,
-		"dmgTypeB": true,
-		"dmgTypeP": true,
+		"bludgeoning": true,
+		"piercing": true,
 		"special": "brace, double"
 	},
 	"Blowgun": {
@@ -2008,7 +2016,7 @@
 		"critMultiplier": 2,
 		"range": "20 ft.",
 		"weight": 1,
-		"dmgTypeP": true
+		"piercing": true
 	},
 	"Dart": {
 		"equipmentname": "Dart",
@@ -2022,7 +2030,7 @@
 		"critMultiplier": 2,
 		"range": "20 ft.",
 		"weight": 0.5,
-		"dmgTypeP": true
+		"piercing": true
 	},
 	"Heavy crossbow": {
 		"equipmentname": "Heavy crossbow",
@@ -2037,7 +2045,7 @@
 		"critRange": 19,
 		"range": "120 ft.",
 		"weight": 8,
-		"dmgTypeP": true
+		"piercing": true
 	},
 	"Javelin": {
 		"equipmentname": "Javelin",
@@ -2051,7 +2059,7 @@
 		"critMultiplier": 2,
 		"range": "30 ft.",
 		"weight": 2,
-		"dmgTypeP": true
+		"piercing": true
 	},
 	"Light crossbow": {
 		"equipmentname": "Light crossbow",
@@ -2066,7 +2074,7 @@
 		"critRange": 19,
 		"range": "80 ft.",
 		"weight": 4,
-		"dmgTypeP": true
+		"piercing": true
 	},
 	"Sling": {
 		"equipmentname": "Sling",
@@ -2080,7 +2088,7 @@
 		"critMultiplier": 2,
 		"range": "50 ft.",
 		"weight": 0,
-		"dmgTypeB": true
+		"bludgeoning": true
 	},
 	"Stingchuck": {
 		"equipmentname": "Stingchuck",
@@ -2094,7 +2102,7 @@
 		"critMultiplier": 2,
 		"range": "10 ft.",
 		"weight": 9,
-		"dmgTypeB": true,
+		"bludgeoning": true,
 		"special": "see text"
 	},
 	"Stonebow": {
@@ -2109,7 +2117,7 @@
 		"critMultiplier": 2,
 		"range": "50 ft.",
 		"weight": 4,
-		"dmgTypeB": true
+		"bludgeoning": true
 	},
 	"Underwater heavy crossbow": {
 		"equipmentname": "Underwater heavy crossbow",
@@ -2124,7 +2132,7 @@
 		"critRange": 19,
 		"range": "120 ft.",
 		"weight": 8,
-		"dmgTypeP": true
+		"piercing": true
 	},
 	"Underwater light crossbow": {
 		"equipmentname": "Underwater light crossbow",
@@ -2139,7 +2147,7 @@
 		"critRange": 19,
 		"range": "80 ft.",
 		"weight": 4,
-		"dmgTypeP": true
+		"piercing": true
 	},
 	"Blade boot": {
 		"equipmentname": "Blade boot",
@@ -2152,7 +2160,7 @@
 		"proficiency": "martial",
 		"critMultiplier": 2,
 		"weight": 2,
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "see text"
 	},
 	"Boarding axe": {
@@ -2166,8 +2174,8 @@
 		"proficiency": "martial",
 		"critMultiplier": 3,
 		"weight": 3,
-		"dmgTypeP": true,
-		"dmgTypeS": true
+		"piercing": true,
+		"slashing": true
 	},
 	"Butterfly sword": {
 		"equipmentname": "Butterfly sword",
@@ -2181,7 +2189,7 @@
 		"critMultiplier": 2,
 		"critRange": 19,
 		"weight": 1,
-		"dmgTypeS": true,
+		"slashing": true,
 		"special": "monk"
 	},
 	"Cat-o'-nine-tails": {
@@ -2195,7 +2203,7 @@
 		"proficiency": "martial",
 		"critMultiplier": 2,
 		"weight": 1,
-		"dmgTypeS": true,
+		"slashing": true,
 		"special": "disarm, nonlethal"
 	},
 	"Dogslicer": {
@@ -2210,7 +2218,7 @@
 		"critMultiplier": 2,
 		"critRange": 19,
 		"weight": 1,
-		"dmgTypeS": true,
+		"slashing": true,
 		"special": "fragile"
 	},
 	"Dueling dagger": {
@@ -2226,8 +2234,8 @@
 		"critRange": 19,
 		"range": "10 ft.",
 		"weight": 1,
-		"dmgTypeP": true,
-		"dmgTypeS": true,
+		"piercing": true,
+		"slashing": true,
 		"special": "see text"
 	},
 	"Gladius": {
@@ -2242,8 +2250,8 @@
 		"critMultiplier": 2,
 		"critRange": 19,
 		"weight": 3,
-		"dmgTypeP": true,
-		"dmgTypeS": true,
+		"piercing": true,
+		"slashing": true,
 		"special": "performance"
 	},
 	"Handaxe": {
@@ -2257,7 +2265,7 @@
 		"proficiency": "martial",
 		"critMultiplier": 3,
 		"weight": 3,
-		"dmgTypeS": true
+		"slashing": true
 	},
 	"Iron brush": {
 		"equipmentname": "Iron brush",
@@ -2271,7 +2279,7 @@
 		"critMultiplier": 2,
 		"range": "10 ft.",
 		"weight": 0,
-		"dmgTypeP": true
+		"piercing": true
 	},
 	"Jutte": {
 		"equipmentname": "Jutte",
@@ -2284,7 +2292,7 @@
 		"proficiency": "martial",
 		"critMultiplier": 2,
 		"weight": 1,
-		"dmgTypeB": true,
+		"bludgeoning": true,
 		"special": "disarm, monk"
 	},
 	"Katar, tri-bladed": {
@@ -2298,7 +2306,7 @@
 		"proficiency": "martial",
 		"critMultiplier": 4,
 		"weight": 2,
-		"dmgTypeP": true
+		"piercing": true
 	},
 	"Kerambit": {
 		"equipmentname": "Kerambit",
@@ -2311,7 +2319,7 @@
 		"proficiency": "martial",
 		"critMultiplier": 3,
 		"weight": 0,
-		"dmgTypeS": true
+		"slashing": true
 	},
 	"Kukri": {
 		"equipmentname": "Kukri",
@@ -2325,7 +2333,7 @@
 		"critMultiplier": 2,
 		"critRange": 18,
 		"weight": 2,
-		"dmgTypeS": true
+		"slashing": true
 	},
 	"Light hammer": {
 		"equipmentname": "Light hammer",
@@ -2339,7 +2347,7 @@
 		"critMultiplier": 2,
 		"range": "20 ft.",
 		"weight": 2,
-		"dmgTypeB": true
+		"bludgeoning": true
 	},
 	"Light pick": {
 		"equipmentname": "Light pick",
@@ -2352,7 +2360,7 @@
 		"proficiency": "martial",
 		"critMultiplier": 4,
 		"weight": 3,
-		"dmgTypeP": true
+		"piercing": true
 	},
 	"Lungchuan tamo": {
 		"equipmentname": "Lungchuan tamo",
@@ -2366,8 +2374,8 @@
 		"critMultiplier": 2,
 		"range": "10 ft.",
 		"weight": 1,
-		"dmgTypeP": true,
-		"dmgTypeS": true,
+		"piercing": true,
+		"slashing": true,
 		"special": "monk"
 	},
 	"Machete": {
@@ -2382,7 +2390,7 @@
 		"critMultiplier": 2,
 		"critRange": 19,
 		"weight": 2,
-		"dmgTypeS": true
+		"slashing": true
 	},
 	"Sap": {
 		"equipmentname": "Sap",
@@ -2395,7 +2403,7 @@
 		"proficiency": "martial",
 		"critMultiplier": 2,
 		"weight": 2,
-		"dmgTypeB": true,
+		"bludgeoning": true,
 		"special": "nonlethal"
 	},
 	"Sea-knife": {
@@ -2410,7 +2418,7 @@
 		"critMultiplier": 2,
 		"critRange": 19,
 		"weight": 1,
-		"dmgTypeS": true
+		"slashing": true
 	},
 	"Shang gou": {
 		"equipmentname": "Shang gou",
@@ -2423,7 +2431,7 @@
 		"proficiency": "martial",
 		"critMultiplier": 2,
 		"weight": 1,
-		"dmgTypeS": true,
+		"slashing": true,
 		"special": "disarm or trip, monk"
 	},
 	"Short sword": {
@@ -2438,7 +2446,7 @@
 		"critMultiplier": 2,
 		"critRange": 19,
 		"weight": 2,
-		"dmgTypeP": true
+		"piercing": true
 	},
 	"Starknife": {
 		"equipmentname": "Starknife",
@@ -2452,7 +2460,7 @@
 		"critMultiplier": 3,
 		"range": "20 ft.",
 		"weight": 3,
-		"dmgTypeP": true
+		"piercing": true
 	},
 	"Switchblade knife": {
 		"equipmentname": "Switchblade knife",
@@ -2467,7 +2475,7 @@
 		"critRange": 19,
 		"range": "10 ft.",
 		"weight": 1,
-		"dmgTypeP": true
+		"piercing": true
 	},
 	"Tailblade, ratfolk": {
 		"equipmentname": "Tailblade, ratfolk",
@@ -2480,7 +2488,7 @@
 		"proficiency": "martial",
 		"critMultiplier": 2,
 		"weight": 0.5,
-		"dmgTypeS": true
+		"slashing": true
 	},
 	"Throwing axe": {
 		"equipmentname": "Throwing axe",
@@ -2494,7 +2502,7 @@
 		"critMultiplier": 2,
 		"range": "10 ft.",
 		"weight": 2,
-		"dmgTypeS": true
+		"slashing": true
 	},
 	"Tonfa": {
 		"equipmentname": "Tonfa",
@@ -2507,7 +2515,7 @@
 		"proficiency": "martial",
 		"critMultiplier": 2,
 		"weight": 1,
-		"dmgTypeB": true,
+		"bludgeoning": true,
 		"special": "blocking, monk"
 	},
 	"War razor": {
@@ -2522,7 +2530,7 @@
 		"critMultiplier": 2,
 		"critRange": 19,
 		"weight": 1,
-		"dmgTypeS": true
+		"slashing": true
 	},
 	"Wushu dart": {
 		"equipmentname": "Wushu dart",
@@ -2536,7 +2544,7 @@
 		"critMultiplier": 2,
 		"range": "10 ft.",
 		"weight": 0,
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "monk"
 	},
 	"Ankus": {
@@ -2546,11 +2554,11 @@
 		"cost": 8,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "martial",
 		"critMultiplier": 2,
 		"weight": 5,
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "disarm, trip"
 	},
 	"Battleaxe": {
@@ -2560,11 +2568,11 @@
 		"cost": 10,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "martial",
 		"critMultiplier": 3,
 		"weight": 6,
-		"dmgTypeS": true
+		"slashing": true
 	},
 	"Combat scabbard": {
 		"equipmentname": "Combat scabbard",
@@ -2573,11 +2581,11 @@
 		"cost": 1,
 		"dmgS": "1d4",
 		"dmgM": "1d6",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "martial",
 		"critMultiplier": 2,
 		"weight": 1,
-		"dmgTypeB": true,
+		"bludgeoning": true,
 		"special": "improvised, see text"
 	},
 	"Combat scabbard, sharpened": {
@@ -2587,11 +2595,11 @@
 		"cost": 10,
 		"dmgS": "1d4",
 		"dmgM": "1d6",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "martial",
 		"critMultiplier": 2,
 		"weight": 1,
-		"dmgTypeS": true,
+		"slashing": true,
 		"special": "see text"
 	},
 	"Cutlass": {
@@ -2601,12 +2609,12 @@
 		"cost": 15,
 		"dmgS": "1d4",
 		"dmgM": "1d6",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "martial",
 		"critMultiplier": 2,
 		"critRange": 18,
 		"weight": 4,
-		"dmgTypeS": true
+		"slashing": true
 	},
 	"Double chicken saber": {
 		"equipmentname": "Double chicken saber",
@@ -2615,12 +2623,12 @@
 		"cost": 12,
 		"dmgS": "1d4",
 		"dmgM": "1d6",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "martial",
 		"critMultiplier": 2,
 		"critRange": 19,
 		"weight": 3,
-		"dmgTypeS": true,
+		"slashing": true,
 		"special": "disarm, monk"
 	},
 	"Gandasa": {
@@ -2630,11 +2638,11 @@
 		"cost": 15,
 		"dmgS": "1d6",
 		"dmgM": "2d4",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "martial",
 		"critMultiplier": 3,
 		"weight": 4,
-		"dmgTypeS": true
+		"slashing": true
 	},
 	"Heavy pick": {
 		"equipmentname": "Heavy pick",
@@ -2643,11 +2651,11 @@
 		"cost": 8,
 		"dmgS": "1d4",
 		"dmgM": "1d6",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "martial",
 		"critMultiplier": 4,
 		"weight": 6,
-		"dmgTypeP": true
+		"piercing": true
 	},
 	"Klar": {
 		"equipmentname": "Klar",
@@ -2656,11 +2664,11 @@
 		"cost": 12,
 		"dmgS": "1d4",
 		"dmgM": "1d6",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "martial",
 		"critMultiplier": 2,
 		"weight": 6,
-		"dmgTypeS": true,
+		"slashing": true,
 		"special": "see text"
 	},
 	"Light flail": {
@@ -2670,11 +2678,11 @@
 		"cost": 8,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "martial",
 		"critMultiplier": 2,
 		"weight": 5,
-		"dmgTypeB": true,
+		"bludgeoning": true,
 		"special": "disarm, trip"
 	},
 	"Longsword": {
@@ -2684,12 +2692,12 @@
 		"cost": 15,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "martial",
 		"critMultiplier": 2,
 		"critRange": 19,
 		"weight": 4,
-		"dmgTypeS": true
+		"slashing": true
 	},
 	"Manople": {
 		"equipmentname": "Manople",
@@ -2698,12 +2706,12 @@
 		"cost": 17,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "martial",
 		"critMultiplier": 2,
 		"weight": 4,
-		"dmgTypeP": true,
-		"dmgTypeS": true,
+		"piercing": true,
+		"slashing": true,
 		"special": "blocking, disarm"
 	},
 	"Nine-ring broadsword": {
@@ -2713,11 +2721,11 @@
 		"cost": 15,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "martial",
 		"critMultiplier": 3,
 		"weight": 4,
-		"dmgTypeS": true,
+		"slashing": true,
 		"special": "monk"
 	},
 	"Rapier": {
@@ -2727,12 +2735,12 @@
 		"cost": 20,
 		"dmgS": "1d4",
 		"dmgM": "1d6",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "martial",
 		"critMultiplier": 2,
 		"critRange": 18,
 		"weight": 2,
-		"dmgTypeP": true
+		"piercing": true
 	},
 	"Scimitar": {
 		"equipmentname": "Scimitar",
@@ -2741,12 +2749,12 @@
 		"cost": 15,
 		"dmgS": "1d4",
 		"dmgM": "1d6",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "martial",
 		"critMultiplier": 2,
 		"critRange": 18,
 		"weight": 4,
-		"dmgTypeS": true
+		"slashing": true
 	},
 	"Scizore": {
 		"equipmentname": "Scizore",
@@ -2755,11 +2763,11 @@
 		"cost": 20,
 		"dmgS": "1d8",
 		"dmgM": "1d10",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "martial",
 		"critMultiplier": 2,
 		"weight": 3,
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "performance"
 	},
 	"Sibat": {
@@ -2769,13 +2777,13 @@
 		"cost": 2,
 		"dmgS": "1d4",
 		"dmgM": "1d6",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "martial",
 		"critMultiplier": 3,
 		"range": "10 ft.",
 		"weight": 2,
-		"dmgTypeP": true,
-		"dmgTypeS": true,
+		"piercing": true,
+		"slashing": true,
 		"special": "grapple"
 	},
 	"Sword cane": {
@@ -2785,11 +2793,11 @@
 		"cost": 45,
 		"dmgS": "1d4",
 		"dmgM": "1d6",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "martial",
 		"critMultiplier": 2,
 		"weight": 4,
-		"dmgTypeP": true
+		"piercing": true
 	},
 	"Terbutje": {
 		"equipmentname": "Terbutje",
@@ -2798,12 +2806,12 @@
 		"cost": 5,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "martial",
 		"critMultiplier": 2,
 		"critRange": 19,
 		"weight": 2,
-		"dmgTypeS": true,
+		"slashing": true,
 		"special": "fragile"
 	},
 	"Terbutje, steel": {
@@ -2813,12 +2821,12 @@
 		"cost": 20,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "martial",
 		"critMultiplier": 2,
 		"critRange": 19,
 		"weight": 4,
-		"dmgTypeS": true
+		"slashing": true
 	},
 	"Trident": {
 		"equipmentname": "Trident",
@@ -2827,12 +2835,12 @@
 		"cost": 15,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "martial",
 		"critMultiplier": 2,
 		"range": "10 ft.",
 		"weight": 4,
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "brace"
 	},
 	"Warhammer": {
@@ -2842,11 +2850,11 @@
 		"cost": 12,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "martial",
 		"critMultiplier": 3,
 		"weight": 5,
-		"dmgTypeB": true
+		"bludgeoning": true
 	},
 	"Bardiche": {
 		"equipmentname": "Bardiche",
@@ -2855,12 +2863,12 @@
 		"cost": 13,
 		"dmgS": "1d8",
 		"dmgM": "1d10",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "martial",
 		"critMultiplier": 2,
 		"critRange": 19,
 		"weight": 14,
-		"dmgTypeS": true,
+		"slashing": true,
 		"special": "brace, reach, see text"
 	},
 	"Bec de corbin": {
@@ -2870,12 +2878,12 @@
 		"cost": 15,
 		"dmgS": "1d8",
 		"dmgM": "1d10",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "martial",
 		"critMultiplier": 3,
 		"weight": 12,
-		"dmgTypeB": true,
-		"dmgTypeP": true,
+		"bludgeoning": true,
+		"piercing": true,
 		"special": "brace, reach, see text"
 	},
 	"Bill": {
@@ -2885,11 +2893,11 @@
 		"cost": 11,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "martial",
 		"critMultiplier": 3,
 		"weight": 11,
-		"dmgTypeS": true,
+		"slashing": true,
 		"special": "brace, disarm, reach, see text"
 	},
 	"Earth breaker": {
@@ -2899,11 +2907,11 @@
 		"cost": 40,
 		"dmgS": "1d10",
 		"dmgM": "2d6",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "martial",
 		"critMultiplier": 3,
 		"weight": 14,
-		"dmgTypeB": true
+		"bludgeoning": true
 	},
 	"Falchion": {
 		"equipmentname": "Falchion",
@@ -2912,12 +2920,12 @@
 		"cost": 75,
 		"dmgS": "1d6",
 		"dmgM": "2d4",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "martial",
 		"critMultiplier": 2,
 		"critRange": 18,
 		"weight": 8,
-		"dmgTypeS": true
+		"slashing": true
 	},
 	"Glaive": {
 		"equipmentname": "Glaive",
@@ -2926,11 +2934,11 @@
 		"cost": 8,
 		"dmgS": "1d8",
 		"dmgM": "1d10",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "martial",
 		"critMultiplier": 3,
 		"weight": 10,
-		"dmgTypeS": true,
+		"slashing": true,
 		"special": "reach"
 	},
 	"Glaive-guisarme": {
@@ -2940,11 +2948,11 @@
 		"cost": 12,
 		"dmgS": "1d8",
 		"dmgM": "1d10",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "martial",
 		"critMultiplier": 3,
 		"weight": 10,
-		"dmgTypeS": true,
+		"slashing": true,
 		"special": "brace, reach, see text"
 	},
 	"Greataxe": {
@@ -2954,11 +2962,11 @@
 		"cost": 20,
 		"dmgS": "1d10",
 		"dmgM": "1d12",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "martial",
 		"critMultiplier": 3,
 		"weight": 12,
-		"dmgTypeS": true
+		"slashing": true
 	},
 	"Greatclub": {
 		"equipmentname": "Greatclub",
@@ -2967,11 +2975,11 @@
 		"cost": 5,
 		"dmgS": "1d8",
 		"dmgM": "1d10",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "martial",
 		"critMultiplier": 2,
 		"weight": 8,
-		"dmgTypeB": true
+		"bludgeoning": true
 	},
 	"Greatsword": {
 		"equipmentname": "Greatsword",
@@ -2980,12 +2988,12 @@
 		"cost": 50,
 		"dmgS": "1d10",
 		"dmgM": "2d6",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "martial",
 		"critMultiplier": 2,
 		"critRange": 19,
 		"weight": 8,
-		"dmgTypeS": true
+		"slashing": true
 	},
 	"Guisarme": {
 		"equipmentname": "Guisarme",
@@ -2994,11 +3002,11 @@
 		"cost": 9,
 		"dmgS": "1d6",
 		"dmgM": "2d4",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "martial",
 		"critMultiplier": 3,
 		"weight": 12,
-		"dmgTypeS": true,
+		"slashing": true,
 		"special": "reach, trip"
 	},
 	"Halberd": {
@@ -3008,12 +3016,12 @@
 		"cost": 10,
 		"dmgS": "1d8",
 		"dmgM": "1d10",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "martial",
 		"critMultiplier": 3,
 		"weight": 12,
-		"dmgTypeP": true,
-		"dmgTypeS": true,
+		"piercing": true,
+		"slashing": true,
 		"special": "brace, trip"
 	},
 	"Heavy flail": {
@@ -3023,12 +3031,12 @@
 		"cost": 15,
 		"dmgS": "1d8",
 		"dmgM": "1d10",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "martial",
 		"critMultiplier": 2,
 		"critRange": 19,
 		"weight": 10,
-		"dmgTypeB": true,
+		"bludgeoning": true,
 		"special": "disarm, trip"
 	},
 	"Hooked lance": {
@@ -3038,11 +3046,11 @@
 		"cost": 3,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "martial",
 		"critMultiplier": 4,
 		"weight": 10,
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "reach, trip"
 	},
 	"Horsechopper": {
@@ -3052,12 +3060,12 @@
 		"cost": 10,
 		"dmgS": "1d8",
 		"dmgM": "1d10",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "martial",
 		"critMultiplier": 3,
 		"weight": 12,
-		"dmgTypeP": true,
-		"dmgTypeS": true,
+		"piercing": true,
+		"slashing": true,
 		"special": "reach, trip"
 	},
 	"Lance": {
@@ -3067,11 +3075,11 @@
 		"cost": 10,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "martial",
 		"critMultiplier": 3,
 		"weight": 10,
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "reach"
 	},
 	"Lucerne hammer": {
@@ -3081,12 +3089,12 @@
 		"cost": 15,
 		"dmgS": "1d10",
 		"dmgM": "1d12",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "martial",
 		"critMultiplier": 2,
 		"weight": 12,
-		"dmgTypeB": true,
-		"dmgTypeP": true,
+		"bludgeoning": true,
+		"piercing": true,
 		"special": "brace, reach, see text"
 	},
 	"Mattock": {
@@ -3096,11 +3104,11 @@
 		"cost": 12,
 		"dmgS": "1d6",
 		"dmgM": "2d4",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "martial",
 		"critMultiplier": 4,
 		"weight": 12,
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "fragile"
 	},
 	"Monk's spade": {
@@ -3110,7 +3118,7 @@
 		"cost": 20,
 		"dmgS": "1d4/1d4",
 		"dmgM": "1d6/1d6",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "martial",
 		"critMultiplier": 2,
 		"weight": 12,
@@ -3124,11 +3132,11 @@
 		"cost": 35,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "martial",
 		"critMultiplier": 4,
 		"weight": 9,
-		"dmgTypeS": true,
+		"slashing": true,
 		"special": "reach"
 	},
 	"Nodachi": {
@@ -3138,13 +3146,13 @@
 		"cost": 60,
 		"dmgS": "1d8",
 		"dmgM": "1d10",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "martial",
 		"critMultiplier": 2,
 		"critRange": 18,
 		"weight": 8,
-		"dmgTypeS": true,
-		"dmgTypeP": true,
+		"slashing": true,
+		"piercing": true,
 		"special": "brace"
 	},
 	"Ogre hook": {
@@ -3154,11 +3162,11 @@
 		"cost": 24,
 		"dmgS": "1d8",
 		"dmgM": "1d10",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "martial",
 		"critMultiplier": 3,
 		"weight": 10,
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "trip"
 	},
 	"Planson": {
@@ -3168,12 +3176,12 @@
 		"cost": 10,
 		"dmgS": "1d8",
 		"dmgM": "1d10",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "martial",
 		"critMultiplier": 2,
 		"weight": 10,
-		"dmgTypeB": true,
-		"dmgTypeP": true,
+		"bludgeoning": true,
+		"piercing": true,
 		"special": "brace"
 	},
 	"Ranseur": {
@@ -3183,11 +3191,11 @@
 		"cost": 10,
 		"dmgS": "1d6",
 		"dmgM": "2d4",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "martial",
 		"critMultiplier": 3,
 		"weight": 12,
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "disarm, reach"
 	},
 	"Rhomphaia": {
@@ -3197,12 +3205,12 @@
 		"cost": 15,
 		"dmgS": "1d6",
 		"dmgM": "2d4",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "martial",
 		"critMultiplier": 3,
 		"weight": 10,
-		"dmgTypeP": true,
-		"dmgTypeS": true,
+		"piercing": true,
+		"slashing": true,
 		"special": "brace, fragile, reach"
 	},
 	"Sansetsukon": {
@@ -3212,12 +3220,12 @@
 		"cost": 8,
 		"dmgS": "1d8",
 		"dmgM": "1d10",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "martial",
 		"critMultiplier": 2,
 		"critRange": 19,
 		"weight": 3,
-		"dmgTypeB": true,
+		"bludgeoning": true,
 		"special": "blocking, disarm, monk"
 	},
 	"Sarissa": {
@@ -3227,11 +3235,11 @@
 		"cost": 12,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "martial",
 		"critMultiplier": 3,
 		"weight": 12,
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "brace, reach, see text"
 	},
 	"Scythe": {
@@ -3241,12 +3249,12 @@
 		"cost": 18,
 		"dmgS": "1d6",
 		"dmgM": "2d4",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "martial",
 		"critMultiplier": 4,
 		"weight": 10,
-		"dmgTypeP": true,
-		"dmgTypeS": true,
+		"piercing": true,
+		"slashing": true,
 		"special": "trip"
 	},
 	"Syringe spear": {
@@ -3256,12 +3264,12 @@
 		"cost": 100,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "martial",
 		"critMultiplier": 3,
 		"range": "20 ft.",
 		"weight": 6,
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "brace, see text"
 	},
 	"Tepoztopilli": {
@@ -3271,13 +3279,13 @@
 		"cost": 8,
 		"dmgS": "1d8",
 		"dmgM": "1d10",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "martial",
 		"critMultiplier": 2,
 		"critRange": 19,
 		"weight": 8,
-		"dmgTypeP": true,
-		"dmgTypeS": true,
+		"piercing": true,
+		"slashing": true,
 		"special": "fragile, reach"
 	},
 	"Tiger fork": {
@@ -3287,11 +3295,11 @@
 		"cost": 5,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "martial",
 		"critMultiplier": 2,
 		"weight": 8,
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "brace, monk"
 	},
 	"Tri-point double-edged sword": {
@@ -3301,11 +3309,11 @@
 		"cost": 12,
 		"dmgS": "1d8",
 		"dmgM": "1d10",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "martial",
 		"critMultiplier": 3,
 		"weight": 14,
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "reach"
 	},
 	"Amentum": {
@@ -3320,7 +3328,7 @@
 		"critMultiplier": 2,
 		"range": "50 ft.",
 		"weight": 1,
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "performance"
 	},
 	"Atlatl": {
@@ -3335,7 +3343,7 @@
 		"critMultiplier": 2,
 		"range": "50 ft.",
 		"weight": 2,
-		"dmgTypeP": true
+		"piercing": true
 	},
 	"Chakram": {
 		"equipmentname": "Chakram",
@@ -3349,7 +3357,7 @@
 		"critMultiplier": 2,
 		"range": "30 ft.",
 		"weight": 1,
-		"dmgTypeS": true
+		"slashing": true
 	},
 	"Composite longbow": {
 		"equipmentname": "Composite longbow",
@@ -3363,7 +3371,7 @@
 		"critMultiplier": 3,
 		"range": "110 ft.",
 		"weight": 3,
-		"dmgTypeP": true
+		"piercing": true
 	},
 	"Composite shortbow": {
 		"equipmentname": "Composite shortbow",
@@ -3377,7 +3385,7 @@
 		"critMultiplier": 3,
 		"range": "70 ft.",
 		"weight": 2,
-		"dmgTypeP": true
+		"piercing": true
 	},
 	"Gastraphetes": {
 		"equipmentname": "Gastraphetes",
@@ -3392,7 +3400,7 @@
 		"critRange": 19,
 		"range": "120 ft.",
 		"weight": 12,
-		"dmgTypeP": true
+		"piercing": true
 	},
 	"Hunga munga": {
 		"equipmentname": "Hunga munga",
@@ -3406,7 +3414,7 @@
 		"critMultiplier": 2,
 		"range": "15 ft.",
 		"weight": 3,
-		"dmgTypeP": true
+		"piercing": true
 	},
 	"Hurlbat": {
 		"equipmentname": "Hurlbat",
@@ -3420,7 +3428,8 @@
 		"critMultiplier": 3,
 		"range": "10 ft.",
 		"weight": 2,
-		"dmgType": "P and S"
+		"piercing": true,
+		"slashing": true
 	},
 	"Jolting dart": {
 		"equipmentname": "Jolting dart",
@@ -3434,7 +3443,7 @@
 		"critMultiplier": 2,
 		"range": "20 ft.",
 		"weight": 0.5,
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "see text"
 	},
 	"Longbow": {
@@ -3449,7 +3458,7 @@
 		"critMultiplier": 3,
 		"range": "100 ft.",
 		"weight": 3,
-		"dmgTypeP": true
+		"piercing": true
 	},
 	"Phaleros": {
 		"equipmentname": "Phaleros",
@@ -3463,7 +3472,7 @@
 		"critMultiplier": 2,
 		"range": "20 ft.",
 		"weight": 3,
-		"dmgTypeP": true
+		"piercing": true
 	},
 	"Pilum": {
 		"equipmentname": "Pilum",
@@ -3477,7 +3486,7 @@
 		"critMultiplier": 2,
 		"range": "20 ft.",
 		"weight": 4,
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "see text"
 	},
 	"Poisoned sand tube": {
@@ -3504,7 +3513,7 @@
 		"critMultiplier": 3,
 		"range": "100 ft.",
 		"weight": 2,
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "See text"
 	},
 	"Shortbow": {
@@ -3519,7 +3528,7 @@
 		"critMultiplier": 3,
 		"range": "60 ft.",
 		"weight": 2,
-		"dmgTypeP": true
+		"piercing": true
 	},
 	"Spear-sling": {
 		"equipmentname": "Spear-sling",
@@ -3533,7 +3542,7 @@
 		"critMultiplier": 3,
 		"range": "see text",
 		"weight": 2,
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "see text"
 	},
 	"Throwing arrow cord": {
@@ -3548,7 +3557,7 @@
 		"critMultiplier": 2,
 		"range": "60 ft.",
 		"weight": 0,
-		"dmgTypeP": true
+		"piercing": true
 	},
 	"Tube arrow shooter": {
 		"equipmentname": "Tube arrow shooter",
@@ -3562,7 +3571,7 @@
 		"critMultiplier": 2,
 		"range": "40 ft.",
 		"weight": 0.5,
-		"dmgTypeP": true
+		"piercing": true
 	},
 	"Aklys": {
 		"equipmentname": "Aklys",
@@ -3576,7 +3585,7 @@
 		"critMultiplier": 2,
 		"range": "20 ft.",
 		"weight": 2,
-		"dmgTypeB": true,
+		"bludgeoning": true,
 		"special": "performance, trip"
 	},
 	"Axe-gauntlet, dwarven light": {
@@ -3590,7 +3599,7 @@
 		"proficiency": "exotic",
 		"critMultiplier": 3,
 		"weight": 5,
-		"dmgTypeS": true,
+		"slashing": true,
 		"special": "blocking, disarm"
 	},
 	"Barbazu beard": {
@@ -3604,7 +3613,7 @@
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"weight": 5,
-		"dmgTypeS": true
+		"slashing": true
 	},
 	"Battle poi": {
 		"equipmentname": "Battle poi",
@@ -3631,8 +3640,8 @@
 		"critMultiplier": 2,
 		"critRange": 19,
 		"weight": 1,
-		"dmgTypeP": true,
-		"dmgTypeS": true
+		"piercing": true,
+		"slashing": true
 	},
 	"Dan bong": {
 		"equipmentname": "Dan bong",
@@ -3647,7 +3656,7 @@
 		"critRange": 19,
 		"range": "10 ft.",
 		"weight": 0,
-		"dmgTypeB": true,
+		"bludgeoning": true,
 		"special": "blocking, monk, see text"
 	},
 	"Deer horn knife": {
@@ -3662,7 +3671,7 @@
 		"critMultiplier": 3,
 		"range": "20 ft.",
 		"weight": 3,
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "blocking, monk"
 	},
 	"Dwarven maulaxe": {
@@ -3677,8 +3686,8 @@
 		"critMultiplier": 3,
 		"range": "10 ft.",
 		"weight": 5,
-		"dmgTypeB": true,
-		"dmgTypeS": true
+		"bludgeoning": true,
+		"slashing": true
 	},
 	"Elven leafblade": {
 		"equipmentname": "Elven leafblade",
@@ -3692,8 +3701,8 @@
 		"critMultiplier": 2,
 		"critRange": 18,
 		"weight": 3,
-		"dmgTypeP": true,
-		"dmgTypeS": true,
+		"piercing": true,
+		"slashing": true,
 		"special": "see text"
 	},
 	"Emei piercer": {
@@ -3708,7 +3717,7 @@
 		"critMultiplier": 2,
 		"critRange": 19,
 		"weight": 0,
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "see text"
 	},
 	"Fighting fan": {
@@ -3722,7 +3731,7 @@
 		"proficiency": "exotic",
 		"critMultiplier": 3,
 		"weight": 0,
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "distracting, monk"
 	},
 	"Flying talon": {
@@ -3736,8 +3745,8 @@
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"weight": 5,
-		"dmgTypeP": true,
-		"dmgTypeS": true,
+		"piercing": true,
+		"slashing": true,
 		"special": "disarm, reach, trip, see text"
 	},
 	"Gnome pincher": {
@@ -3751,7 +3760,7 @@
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"weight": 2,
-		"dmgTypeB": true,
+		"bludgeoning": true,
 		"special": "disarm, see text"
 	},
 	"Halfling rope-shot": {
@@ -3765,7 +3774,7 @@
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"weight": 1,
-		"dmgTypeB": true,
+		"bludgeoning": true,
 		"special": "disarm"
 	},
 	"Helmet, dwarven boulder": {
@@ -3779,7 +3788,7 @@
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"weight": 10,
-		"dmgTypeB": true,
+		"bludgeoning": true,
 		"special": "see text"
 	},
 	"Kama": {
@@ -3793,7 +3802,7 @@
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"weight": 2,
-		"dmgTypeS": true,
+		"slashing": true,
 		"special": "monk, trip"
 	},
 	"Kasatha spinal sword": {
@@ -3807,8 +3816,8 @@
 		"proficiency": "exotic",
 		"critMultiplier": 3,
 		"weight": 3,
-		"dmgTypeP": true,
-		"dmgTypeS": true,
+		"piercing": true,
+		"slashing": true,
 		"special": "fragile"
 	},
 	"Knuckle axe": {
@@ -3822,7 +3831,7 @@
 		"proficiency": "exotic",
 		"critMultiplier": 3,
 		"weight": 2,
-		"dmgTypeS": true,
+		"slashing": true,
 		"special": "monk, performance"
 	},
 	"Madu (leather)": {
@@ -3836,7 +3845,7 @@
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"weight": 5,
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "performance"
 	},
 	"Madu (steel)": {
@@ -3850,8 +3859,9 @@
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"weight": 5,
-		"dmgTypeP": true,
-		"special": "performance"
+		"piercing": true,
+		"special": "performance",
+		"copyof": "Madu (leather)"
 	},
 	"Nunchaku": {
 		"equipmentname": "Nunchaku",
@@ -3864,7 +3874,7 @@
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"weight": 2,
-		"dmgTypeB": true,
+		"bludgeoning": true,
 		"special": "disarm, monk"
 	},
 	"Pata": {
@@ -3878,7 +3888,7 @@
 		"proficiency": "exotic",
 		"critMultiplier": 3,
 		"weight": 3,
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "performance"
 	},
 	"Quadrens": {
@@ -3893,7 +3903,7 @@
 		"critMultiplier": 2,
 		"critRange": 19,
 		"weight": 2,
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "performance"
 	},
 	"Razor, drow": {
@@ -3908,7 +3918,7 @@
 		"critMultiplier": 2,
 		"critRange": 18,
 		"weight": 2,
-		"dmgTypeS": true,
+		"slashing": true,
 		"special": "see text"
 	},
 	"Rope gauntlet": {
@@ -3935,7 +3945,7 @@
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"weight": 1,
-		"dmgTypeB": true,
+		"bludgeoning": true,
 		"special": "disarm, monk"
 	},
 	"Sanpkhang": {
@@ -3950,8 +3960,8 @@
 		"critMultiplier": 2,
 		"critRange": 19,
 		"weight": 1,
-		"dmgTypeP": true,
-		"dmgTypeS": true,
+		"piercing": true,
+		"slashing": true,
 		"special": "monk, see text"
 	},
 	"Scorpion whip": {
@@ -3965,7 +3975,7 @@
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"weight": 3,
-		"dmgTypeS": true,
+		"slashing": true,
 		"special": "performance"
 	},
 	"Siangham": {
@@ -3979,7 +3989,7 @@
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"weight": 1,
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "monk"
 	},
 	"Sica": {
@@ -3993,7 +4003,7 @@
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"weight": 2,
-		"dmgTypeS": true,
+		"slashing": true,
 		"special": "performance"
 	},
 	"Swordbreaker dagger": {
@@ -4007,7 +4017,7 @@
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"weight": 3,
-		"dmgTypeS": true,
+		"slashing": true,
 		"special": "disarm, see text"
 	},
 	"Tekko-kagi": {
@@ -4021,7 +4031,7 @@
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"weight": 0,
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "disarm, see text"
 	},
 	"Wakizashi": {
@@ -4036,8 +4046,8 @@
 		"critMultiplier": 2,
 		"critRange": 18,
 		"weight": 2,
-		"dmgTypeP": true,
-		"dmgTypeS": true,
+		"piercing": true,
+		"slashing": true,
 		"special": "deadly"
 	},
 	"Waveblade": {
@@ -4052,8 +4062,8 @@
 		"critMultiplier": 2,
 		"critRange": 18,
 		"weight": 2,
-		"dmgTypeP": true,
-		"dmgTypeS": true,
+		"piercing": true,
+		"slashing": true,
 		"special": "monk, see text"
 	},
 	"Aldori dueling sword": {
@@ -4063,12 +4073,12 @@
 		"cost": 20,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"critRange": 19,
 		"weight": 3,
-		"dmgTypeS": true
+		"slashing": true
 	},
 	"Axe-gauntlet, dwarven heavy": {
 		"equipmentname": "Axe-gauntlet, dwarven heavy",
@@ -4077,12 +4087,13 @@
 		"cost": 21,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 3,
 		"weight": 5,
-		"dmgTypeS": true,
-		"special": "blocking, disarm"
+		"slashing": true,
+		"special": "blocking, disarm",
+		"copyof": "Axe-gauntlet, dwarven light"
 	},
 	"Bastard sword": {
 		"equipmentname": "Bastard sword",
@@ -4091,12 +4102,12 @@
 		"cost": 35,
 		"dmgS": "1d8",
 		"dmgM": "1d10",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"critRange": 19,
 		"weight": 6,
-		"dmgTypeS": true
+		"slashing": true
 	},
 	"Broken-back seax": {
 		"equipmentname": "Broken-back seax",
@@ -4105,7 +4116,7 @@
 		"cost": 40,
 		"dmgS": "1d8",
 		"dmgM": "1d10",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"critRange": 19,
@@ -4120,12 +4131,12 @@
 		"cost": 4,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 3,
 		"range": "20 ft.",
 		"weight": 6,
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "brace"
 	},
 	"Dwarven double waraxe": {
@@ -4135,11 +4146,11 @@
 		"cost": 60,
 		"dmgS": "1d8",
 		"dmgM": "1d10",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 3,
 		"weight": 12,
-		"dmgTypeS": true,
+		"slashing": true,
 		"special": "see text"
 	},
 	"Dwarven waraxe": {
@@ -4149,11 +4160,11 @@
 		"cost": 30,
 		"dmgS": "1d8",
 		"dmgM": "1d10",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 3,
 		"weight": 8,
-		"dmgTypeS": true
+		"slashing": true
 	},
 	"Elven thornblade": {
 		"equipmentname": "Elven thornblade",
@@ -4162,13 +4173,13 @@
 		"cost": 60,
 		"dmgS": "1d4",
 		"dmgM": "1d6",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"critRange": 18,
 		"weight": 4,
-		"dmgTypeP": true,
-		"dmgTypeS": true,
+		"piercing": true,
+		"slashing": true,
 		"special": "see text"
 	},
 	"Estoc": {
@@ -4178,12 +4189,12 @@
 		"cost": 50,
 		"dmgS": "2d3",
 		"dmgM": "2d4",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"critRange": 18,
 		"weight": 4,
-		"dmgTypeP": true
+		"piercing": true
 	},
 	"Falcata": {
 		"equipmentname": "Falcata",
@@ -4192,12 +4203,12 @@
 		"cost": 18,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 3,
 		"critRange": 19,
 		"weight": 4,
-		"dmgTypeS": true
+		"slashing": true
 	},
 	"Flindbar": {
 		"equipmentname": "Flindbar",
@@ -4206,11 +4217,12 @@
 		"cost": 9,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"weight": 6,
-		"dmgType": "B and P",
+		"bludgeoning": true,
+		"piercing": true,
 		"special": "disarm, trip"
 	},
 	"Gnome flick-mace": {
@@ -4220,11 +4232,11 @@
 		"cost": 20,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"weight": 10,
-		"dmgTypeB": true,
+		"bludgeoning": true,
 		"special": "reach, trip"
 	},
 	"Great terbutje": {
@@ -4234,12 +4246,12 @@
 		"cost": 12,
 		"dmgS": "1d8",
 		"dmgM": "1d10",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"critRange": 19,
 		"weight": 4,
-		"dmgTypeS": true,
+		"slashing": true,
 		"special": "fragile"
 	},
 	"Hooked axe": {
@@ -4249,11 +4261,11 @@
 		"cost": 20,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 3,
 		"weight": 7,
-		"dmgTypeS": true,
+		"slashing": true,
 		"special": "disarm, performance, trip"
 	},
 	"Katana": {
@@ -4263,12 +4275,12 @@
 		"cost": 50,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"critRange": 18,
 		"weight": 6,
-		"dmgTypeS": true,
+		"slashing": true,
 		"special": "deadly"
 	},
 	"Khopesh": {
@@ -4278,12 +4290,12 @@
 		"cost": 20,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"critRange": 19,
 		"weight": 8,
-		"dmgTypeS": true,
+		"slashing": true,
 		"special": "trip"
 	},
 	"Knobkerrie": {
@@ -4293,12 +4305,12 @@
 		"cost": 5,
 		"dmgS": "1d4",
 		"dmgM": "1d6",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"range": "20 ft.",
 		"weight": 4,
-		"dmgTypeB": true,
+		"bludgeoning": true,
 		"special": "see text"
 	},
 	"Nine-section whip": {
@@ -4308,12 +4320,12 @@
 		"cost": 8,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"critRange": 19,
 		"weight": 3,
-		"dmgTypeB": true,
+		"bludgeoning": true,
 		"special": "blocking, distracting, monk, trip"
 	},
 	"Ram hammer, dwarven": {
@@ -4323,12 +4335,12 @@
 		"cost": 25,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 3,
 		"range": "10 ft.",
 		"weight": 5,
-		"dmgTypeB": true
+		"bludgeoning": true
 	},
 	"Rhoka sword": {
 		"equipmentname": "Rhoka sword",
@@ -4337,12 +4349,12 @@
 		"cost": 25,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"critRange": 18,
 		"weight": 6,
-		"dmgTypeS": true
+		"slashing": true
 	},
 	"Sawtooth sabre": {
 		"equipmentname": "Sawtooth sabre",
@@ -4351,12 +4363,12 @@
 		"cost": 35,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"critRange": 19,
 		"weight": 2,
-		"dmgTypeS": true,
+		"slashing": true,
 		"special": "see text"
 	},
 	"Shotel": {
@@ -4366,11 +4378,11 @@
 		"cost": 30,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 3,
 		"weight": 3,
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "performance"
 	},
 	"Sickle-sword": {
@@ -4380,12 +4392,12 @@
 		"cost": 20,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"critRange": 19,
 		"weight": 4,
-		"dmgTypeS": true,
+		"slashing": true,
 		"special": "distracting, see text"
 	},
 	"Spiral rapier": {
@@ -4395,12 +4407,12 @@
 		"cost": 80,
 		"dmgS": "1d4",
 		"dmgM": "1d6",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"critRange": 18,
 		"weight": 3,
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "blocking, disarm, see text"
 	},
 	"Split-blade sword": {
@@ -4410,11 +4422,11 @@
 		"cost": 200,
 		"dmgS": "1d10",
 		"dmgM": "2d6",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"weight": 8,
-		"dmgTypeS": true,
+		"slashing": true,
 		"special": "Disarm, trip, see text"
 	},
 	"Taiaha": {
@@ -4424,12 +4436,12 @@
 		"cost": 10,
 		"dmgS": "1d8/1d4",
 		"dmgM": "1d10/1d6",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "exotic",
 		"crit": "x2/x3",
 		"weight": 8,
-		"dmgTypeB": true,
-		"dmgTypeP": true,
+		"bludgeoning": true,
+		"piercing": true,
 		"special": "double"
 	},
 	"Temple sword": {
@@ -4439,12 +4451,12 @@
 		"cost": 30,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"critRange": 19,
 		"weight": 3,
-		"dmgTypeS": true,
+		"slashing": true,
 		"special": "monk, trip"
 	},
 	"Tongi": {
@@ -4454,12 +4466,12 @@
 		"cost": 18,
 		"dmgS": "1d4",
 		"dmgM": "1d6",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 3,
 		"critRange": 19,
 		"weight": 4,
-		"dmgTypeP": true
+		"piercing": true
 	},
 	"Urumi": {
 		"equipmentname": "Urumi",
@@ -4468,12 +4480,12 @@
 		"cost": 30,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"critRange": 18,
 		"weight": 6,
-		"dmgTypeS": true,
+		"slashing": true,
 		"special": "distracting"
 	},
 	"Wahaika": {
@@ -4483,12 +4495,12 @@
 		"cost": 3,
 		"dmgS": "1d4",
 		"dmgM": "1d6",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"range": "10 ft.",
 		"weight": 3,
-		"dmgTypeB": true,
+		"bludgeoning": true,
 		"special": "disarm"
 	},
 	"Whip": {
@@ -4498,11 +4510,11 @@
 		"cost": 1,
 		"dmgS": "1d2",
 		"dmgM": "1d3",
-		"oneHanded": true,
+		"category": "one-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"weight": 2,
-		"dmgTypeS": true,
+		"slashing": true,
 		"special": "disarm, nonlethal, reach, trip"
 	},
 	"Barbed spear": {
@@ -4512,11 +4524,11 @@
 		"cost": 15,
 		"dmgS": "1d4",
 		"dmgM": "1d6",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"weight": 10,
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "fragile, reach, see text"
 	},
 	"Battle ladder, gnome": {
@@ -4526,11 +4538,11 @@
 		"cost": 20,
 		"dmgS": "1d4/1d4",
 		"dmgM": "1d6/1d6",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"weight": 8,
-		"dmgTypeB": true,
+		"bludgeoning": true,
 		"special": "double, trip, see text"
 	},
 	"Bladed scarf": {
@@ -4540,11 +4552,11 @@
 		"cost": 12,
 		"dmgS": "1d4",
 		"dmgM": "1d6",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"weight": 2,
-		"dmgTypeS": true,
+		"slashing": true,
 		"special": "disarm, trip"
 	},
 	"Bo staff": {
@@ -4554,11 +4566,11 @@
 		"cost": 1,
 		"dmgS": "1d4/1d4",
 		"dmgM": "1d6/1d6",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"weight": 3,
-		"dmgTypeB": true,
+		"bludgeoning": true,
 		"special": "blocking, double, monk"
 	},
 	"Boarding gaff": {
@@ -4568,12 +4580,12 @@
 		"cost": 8,
 		"dmgS": "1d4/1d4",
 		"dmgM": "1d6/1d6",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"weight": 8,
-		"dmgTypeP": true,
-		"dmgTypeS": true,
+		"piercing": true,
+		"slashing": true,
 		"special": "double, reach, trip"
 	},
 	"Butchering axe": {
@@ -4583,11 +4595,11 @@
 		"cost": 65,
 		"dmgS": "1d12",
 		"dmgM": "3d6",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 3,
 		"weight": 25,
-		"dmgTypeS": true,
+		"slashing": true,
 		"special": "see text"
 	},
 	"Chain spear": {
@@ -4597,11 +4609,12 @@
 		"cost": 15,
 		"dmgS": "1d4/1d4",
 		"dmgM": "1d6/1d6",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"weight": 13,
-		"dmgType": "P and S",
+		"piercing": true,
+		"slashing": true,
 		"special": "double, trip"
 	},
 	"Chain-hammer": {
@@ -4611,12 +4624,12 @@
 		"cost": 34,
 		"dmgS": "1d4/1d4",
 		"dmgM": "1d6/1d6",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"range": "20 ft.",
 		"weight": 8,
-		"dmgTypeB": true,
+		"bludgeoning": true,
 		"special": "double, see text"
 	},
 	"Crook": {
@@ -4626,11 +4639,11 @@
 		"cost": 1,
 		"dmgS": "1d4",
 		"dmgM": "1d6",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"weight": 5,
-		"dmgTypeB": true,
+		"bludgeoning": true,
 		"special": "reach, trip"
 	},
 	"Dire flail": {
@@ -4640,11 +4653,11 @@
 		"cost": 90,
 		"dmgS": "1d6/1d6",
 		"dmgM": "1d8/1d8",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"weight": 10,
-		"dmgTypeB": true,
+		"bludgeoning": true,
 		"special": "disarm, double, trip"
 	},
 	"Dorn-dergar, dwarven": {
@@ -4654,11 +4667,11 @@
 		"cost": 50,
 		"dmgS": "1d8",
 		"dmgM": "1d10",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"weight": 15,
-		"dmgTypeB": true,
+		"bludgeoning": true,
 		"special": "reach, see text"
 	},
 	"Double spear": {
@@ -4668,11 +4681,11 @@
 		"cost": 25,
 		"dmgS": "1d6/1d6",
 		"dmgM": "1d8/1d8",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 3,
 		"weight": 12,
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "Double"
 	},
 	"Double-chained kama": {
@@ -4682,11 +4695,11 @@
 		"cost": 8,
 		"dmgS": "1d4/1d4",
 		"dmgM": "1d6/1d6",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"weight": 4,
-		"dmgTypeS": true,
+		"slashing": true,
 		"special": "double, monk, reach, trip"
 	},
 	"Dwarven urgrosh": {
@@ -4696,12 +4709,12 @@
 		"cost": 50,
 		"dmgS": "1d6/1d4",
 		"dmgM": "1d8/1d6",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 3,
 		"weight": 12,
-		"dmgTypeP": true,
-		"dmgTypeS": true,
+		"piercing": true,
+		"slashing": true,
 		"special": "brace, double"
 	},
 	"Elven branched spear": {
@@ -4711,11 +4724,11 @@
 		"cost": 20,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 3,
 		"weight": 10,
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "brace, reach"
 	},
 	"Elven curve blade": {
@@ -4725,12 +4738,12 @@
 		"cost": 80,
 		"dmgS": "1d8",
 		"dmgM": "1d10",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"critRange": 18,
 		"weight": 7,
-		"dmgTypeS": true
+		"slashing": true
 	},
 	"Fauchard": {
 		"equipmentname": "Fauchard",
@@ -4739,12 +4752,12 @@
 		"cost": 14,
 		"dmgS": "1d8",
 		"dmgM": "1d10",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"critRange": 18,
 		"weight": 10,
-		"dmgTypeS": true,
+		"slashing": true,
 		"special": "reach,trip"
 	},
 	"Flailpole": {
@@ -4754,11 +4767,11 @@
 		"cost": 15,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"weight": 10,
-		"dmgTypeB": true,
+		"bludgeoning": true,
 		"special": "disarm, reach, trip"
 	},
 	"Flambard": {
@@ -4768,12 +4781,12 @@
 		"cost": 50,
 		"dmgS": "1d8",
 		"dmgM": "1d10",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"critRange": 19,
 		"weight": 6,
-		"dmgTypeS": true,
+		"slashing": true,
 		"special": "sunder"
 	},
 	"Flask pike": {
@@ -4783,11 +4796,11 @@
 		"cost": 30,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 3,
 		"weight": 9,
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "reach, see text"
 	},
 	"Flying blade": {
@@ -4797,11 +4810,11 @@
 		"cost": 40,
 		"dmgS": "1d10",
 		"dmgM": "1d12",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 3,
 		"weight": 12,
-		"dmgTypeS": true,
+		"slashing": true,
 		"special": "performance, reach"
 	},
 	"Garrote": {
@@ -4811,11 +4824,11 @@
 		"cost": 3,
 		"dmgS": "1d4",
 		"dmgM": "1d6",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"weight": 1,
-		"dmgTypeS": true,
+		"slashing": true,
 		"special": "grapple, see text"
 	},
 	"Giant-sticker, dwarven": {
@@ -4825,12 +4838,12 @@
 		"cost": 25,
 		"dmgS": "1d8",
 		"dmgM": "2d6",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 3,
 		"weight": 12,
-		"dmgTypeP": true,
-		"dmgTypeS": true,
+		"piercing": true,
+		"slashing": true,
 		"special": "brace, reach"
 	},
 	"Gnome hooked hammer": {
@@ -4840,12 +4853,12 @@
 		"cost": 20,
 		"dmgS": "1d6/1d4",
 		"dmgM": "1d8/1d6",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"crit": "x3/x4",
 		"weight": 6,
-		"dmgTypeB": true,
-		"dmgTypeP": true,
+		"bludgeoning": true,
+		"piercing": true,
 		"special": "double, trip"
 	},
 	"Harpoon": {
@@ -4855,12 +4868,12 @@
 		"cost": 5,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 3,
 		"range": "10 ft.",
 		"weight": 16,
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "grapple, see text"
 	},
 	"Injection spear": {
@@ -4870,11 +4883,11 @@
 		"cost": 60,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 3,
 		"weight": 8,
-		"dmgTypeP": true
+		"piercing": true
 	},
 	"Katana, double walking stick": {
 		"equipmentname": "Katana, double walking stick",
@@ -4883,12 +4896,12 @@
 		"cost": 50,
 		"dmgS": "1d4",
 		"dmgM": "1d6",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"critRange": 19,
 		"weight": 6,
-		"dmgTypeS": true
+		"slashing": true
 	},
 	"Kusarigama": {
 		"equipmentname": "Kusarigama",
@@ -4897,12 +4910,12 @@
 		"cost": 12,
 		"dmgS": "1d2/1d4",
 		"dmgM": "1d3/1d6",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"weight": 3,
-		"dmgTypeS": true,
-		"dmgTypeB": true,
+		"slashing": true,
+		"bludgeoning": true,
 		"special": "double, grapple, monk, reach, trip"
 	},
 	"Kyoketsu shoge": {
@@ -4912,13 +4925,13 @@
 		"cost": 6,
 		"dmgS": "1d3",
 		"dmgM": "1d4",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"range": "20 ft.",
 		"weight": 1,
-		"dmgTypeS": true,
-		"dmgTypeP": true,
+		"slashing": true,
+		"piercing": true,
 		"special": "disarm, grapple, monk, reach"
 	},
 	"Longaxe, dwarven": {
@@ -4928,11 +4941,11 @@
 		"cost": 50,
 		"dmgS": "1d10",
 		"dmgM": "1d12",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 3,
 		"weight": 14,
-		"dmgTypeS": true,
+		"slashing": true,
 		"special": "reach"
 	},
 	"Longhammer, dwarven": {
@@ -4942,11 +4955,11 @@
 		"cost": 70,
 		"dmgS": "1d10",
 		"dmgM": "2d6",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 3,
 		"weight": 20,
-		"dmgTypeB": true,
+		"bludgeoning": true,
 		"special": "reach"
 	},
 	"Mancatcher": {
@@ -4956,10 +4969,10 @@
 		"cost": 15,
 		"dmgS": "1",
 		"dmgM": "1d2",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"weight": 10,
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "reach, see text"
 	},
 	"Meteor hammer": {
@@ -4969,11 +4982,11 @@
 		"cost": 10,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"weight": 10,
-		"dmgTypeB": true,
+		"bludgeoning": true,
 		"special": "reach, trip"
 	},
 	"Orc double axe": {
@@ -4983,11 +4996,11 @@
 		"cost": 60,
 		"dmgS": "1d6/1d6",
 		"dmgM": "1d8/1d8",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 3,
 		"weight": 15,
-		"dmgTypeS": true,
+		"slashing": true,
 		"special": "double"
 	},
 	"Orc skull ram": {
@@ -4997,11 +5010,11 @@
 		"cost": 15,
 		"dmgS": "1d8",
 		"dmgM": "1d10",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 3,
 		"weight": 20,
-		"dmgTypeB": true,
+		"bludgeoning": true,
 		"special": "reach"
 	},
 	"Piston maul, gnome": {
@@ -5011,11 +5024,11 @@
 		"cost": 70,
 		"dmgS": "1d8",
 		"dmgM": "1d10",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"weight": 15,
-		"dmgTypeB": true,
+		"bludgeoning": true,
 		"special": "see text"
 	},
 	"Ripsaw glaive, gnome": {
@@ -5025,11 +5038,11 @@
 		"cost": 30,
 		"dmgS": "1d8",
 		"dmgM": "1d10",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 3,
 		"weight": 12,
-		"dmgTypeS": true,
+		"slashing": true,
 		"special": "reach, see text"
 	},
 	"Seven-branched sword": {
@@ -5039,11 +5052,11 @@
 		"cost": 50,
 		"dmgS": "1d8",
 		"dmgM": "1d10",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 3,
 		"weight": 7,
-		"dmgTypeS": true,
+		"slashing": true,
 		"special": "disarm, monk"
 	},
 	"Sphinx hammer, dwarven": {
@@ -5053,12 +5066,12 @@
 		"cost": 45,
 		"dmgS": "1d8",
 		"dmgM": "1d10",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 3,
 		"range": "20 ft.",
 		"weight": 8,
-		"dmgTypeB": true
+		"bludgeoning": true
 	},
 	"Spiked chain": {
 		"equipmentname": "Spiked chain",
@@ -5067,11 +5080,11 @@
 		"cost": 25,
 		"dmgS": "1d6",
 		"dmgM": "2d4",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"weight": 10,
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "disarm, trip"
 	},
 	"Switchscythe": {
@@ -5081,12 +5094,12 @@
 		"cost": 18,
 		"dmgS": "1d6",
 		"dmgM": "2d4",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 4,
 		"weight": 10,
-		"dmgTypeP": true,
-		"dmgTypeS": true,
+		"piercing": true,
+		"slashing": true,
 		"special": "trip"
 	},
 	"Tetsubo": {
@@ -5096,11 +5109,11 @@
 		"cost": 20,
 		"dmgS": "1d8",
 		"dmgM": "1d10",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 4,
 		"weight": 10,
-		"dmgTypeB": true
+		"bludgeoning": true
 	},
 	"Totem spear": {
 		"equipmentname": "Totem spear",
@@ -5109,13 +5122,13 @@
 		"cost": 25,
 		"dmgS": "1d8",
 		"dmgM": "1d10",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 3,
 		"range": "10 ft.",
 		"weight": 6,
-		"dmgTypeP": true,
-		"dmgTypeB": true
+		"piercing": true,
+		"bludgeoning": true
 	},
 	"Two-bladed sword": {
 		"equipmentname": "Two-bladed sword",
@@ -5124,12 +5137,12 @@
 		"cost": 100,
 		"dmgS": "1d6/1d6",
 		"dmgM": "1d8/1d8",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"critRange": 19,
 		"weight": 10,
-		"dmgTypeS": true,
+		"slashing": true,
 		"special": "double"
 	},
 	"Bolas": {
@@ -5139,12 +5152,12 @@
 		"cost": 5,
 		"dmgS": "1d3",
 		"dmgM": "1d4",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"range": "10 ft.",
 		"weight": 2,
-		"dmgTypeB": true,
+		"bludgeoning": true,
 		"special": "nonlethal, trip"
 	},
 	"Boomerang": {
@@ -5154,12 +5167,12 @@
 		"cost": 3,
 		"dmgS": "1d4",
 		"dmgM": "1d6",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"range": "30 ft.",
 		"weight": 3,
-		"dmgTypeB": true,
+		"bludgeoning": true,
 		"special": "see text"
 	},
 	"Crystal chakram": {
@@ -5169,12 +5182,12 @@
 		"cost": 20,
 		"dmgS": "1d4",
 		"dmgM": "1d6",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"critRange": 18,
 		"weight": 2,
-		"dmgTypeS": true
+		"slashing": true
 	},
 	"Dire bolas": {
 		"equipmentname": "Dire bolas",
@@ -5183,12 +5196,12 @@
 		"cost": 20,
 		"dmgS": "1d4",
 		"dmgM": "1d6",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"range": "10 ft.",
 		"weight": 4,
-		"dmgTypeB": true,
+		"bludgeoning": true,
 		"special": "nonlethal, trip"
 	},
 	"Double crossbow": {
@@ -5198,13 +5211,13 @@
 		"cost": 300,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"critRange": 19,
 		"range": "80 ft.",
 		"weight": 18,
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "see text"
 	},
 	"Flask thrower": {
@@ -5212,7 +5225,7 @@
 		"file": "equipmentweaponsdisplay1293.html",
 		"type": "weapon",
 		"cost": 25,
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"range": "20 ft.",
 		"weight": 4,
@@ -5225,12 +5238,12 @@
 		"cost": 6,
 		"dmgS": "1d4",
 		"dmgM": "1d6",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"range": "10 ft.",
 		"weight": 14,
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "grappling"
 	},
 	"Halfling double sling": {
@@ -5240,12 +5253,12 @@
 		"cost": 10,
 		"dmgS": "1d3",
 		"dmgM": "1d4",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"range": "50 ft.",
 		"weight": 1,
-		"dmgTypeB": true,
+		"bludgeoning": true,
 		"special": "double (see text)"
 	},
 	"Halfling sling staff": {
@@ -5255,12 +5268,12 @@
 		"cost": 20,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 3,
 		"range": "80 ft.",
 		"weight": 3,
-		"dmgTypeB": true
+		"bludgeoning": true
 	},
 	"Halfling stitched sling": {
 		"equipmentname": "Halfling stitched sling",
@@ -5269,11 +5282,11 @@
 		"cost": 0,
 		"dmgS": "1d4",
 		"dmgM": "1d6",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"weight": 1,
-		"dmgTypeB": true,
+		"bludgeoning": true,
 		"special": "disarm, trip"
 	},
 	"Hand crossbow": {
@@ -5283,13 +5296,13 @@
 		"cost": 100,
 		"dmgS": "1d3",
 		"dmgM": "1d4",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"critRange": 19,
 		"range": "30 ft.",
 		"weight": 2,
-		"dmgTypeP": true
+		"piercing": true
 	},
 	"Heavy crank crossbow": {
 		"equipmentname": "Heavy crank crossbow",
@@ -5298,13 +5311,13 @@
 		"cost": 400,
 		"dmgS": "1d8",
 		"dmgM": "1d10",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"critRange": 19,
 		"range": "120 ft.",
 		"weight": 12,
-		"dmgTypeP": true
+		"piercing": true
 	},
 	"Heavy slaver's crossbow": {
 		"equipmentname": "Heavy slaver's crossbow",
@@ -5313,13 +5326,13 @@
 		"cost": 400,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"crit": "see text",
 		"critRange": 19,
 		"range": "80 ft.",
 		"weight": 12,
-		"dmgTypeB": true,
+		"bludgeoning": true,
 		"special": "nonlethal, trip, see text"
 	},
 	"Heavy wrist launcher": {
@@ -5329,13 +5342,13 @@
 		"cost": 250,
 		"dmgS": "1d3",
 		"dmgM": "1d4",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"critRange": 19,
 		"range": "30 ft.",
 		"weight": 2,
-		"dmgTypeP": true
+		"piercing": true
 	},
 	"Hornbow, orc": {
 		"equipmentname": "Hornbow, orc",
@@ -5344,12 +5357,12 @@
 		"cost": 130,
 		"dmgS": "1d8",
 		"dmgM": "2d6",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 3,
 		"range": "80 ft.",
 		"weight": 7,
-		"dmgTypeP": true
+		"piercing": true
 	},
 	"Horse bow": {
 		"equipmentname": "Horse bow",
@@ -5358,12 +5371,12 @@
 		"cost": 150,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 3,
 		"range": "110 ft.",
 		"weight": 3,
-		"dmgTypeP": true
+		"piercing": true
 	},
 	"Kestros": {
 		"equipmentname": "Kestros",
@@ -5372,19 +5385,19 @@
 		"cost": 1,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 3,
 		"range": "50 ft.",
 		"weight": 1,
-		"dmgTypeP": true
+		"piercing": true
 	},
 	"Lasso": {
 		"equipmentname": "Lasso",
 		"file": "equipmentweaponsdisplaye08d.html",
 		"type": "weapon",
 		"cost": 0.1,
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"weight": 5,
 		"special": "see text"
@@ -5394,7 +5407,7 @@
 		"file": "equipmentweaponsdisplay33a2.html",
 		"type": "weapon",
 		"cost": 75,
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"range": "30 ft.",
 		"weight": 8
@@ -5406,13 +5419,13 @@
 		"cost": 250,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"critRange": 19,
 		"range": "80 ft.",
 		"weight": 6,
-		"dmgTypeP": true
+		"piercing": true
 	},
 	"Light slaver's crossbow": {
 		"equipmentname": "Light slaver's crossbow",
@@ -5421,21 +5434,22 @@
 		"cost": 250,
 		"dmgS": "1d3",
 		"dmgM": "1d4",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"crit": "see text",
 		"critRange": 19,
 		"range": "40 ft.",
 		"weight": 6,
-		"dmgTypeB": true,
-		"special": "nonlethal, trip, see text"
+		"bludgeoning": true,
+		"special": "nonlethal, trip, see text",
+		"copyof": "Heavy slaver's crossbow"
 	},
 	"Net": {
 		"equipmentname": "Net",
 		"file": "equipmentweaponsdisplayf1c8.html",
 		"type": "weapon",
 		"cost": 20,
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"range": "10 ft.",
 		"weight": 6,
@@ -5448,13 +5462,13 @@
 		"cost": 75,
 		"dmgS": "1d4",
 		"dmgM": "1d6",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 3,
 		"critRange": 19,
 		"range": "60 ft.",
 		"weight": 8,
-		"dmgTypeB": true
+		"bludgeoning": true
 	},
 	"Pelletbow, dwarven light": {
 		"equipmentname": "Pelletbow, dwarven light",
@@ -5463,13 +5477,14 @@
 		"cost": 50,
 		"dmgS": "1d3",
 		"dmgM": "1d4",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 3,
 		"critRange": 19,
 		"range": "40 ft.",
 		"weight": 4,
-		"dmgTypeB": true
+		"bludgeoning": true,
+		"copyof": "Pelletbow, dwarven heavy"
 	},
 	"Repeating hand crossbow": {
 		"equipmentname": "Repeating hand crossbow",
@@ -5478,13 +5493,13 @@
 		"cost": 800,
 		"dmgS": "1d3",
 		"dmgM": "1d4",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"critRange": 19,
 		"range": "30 ft.",
 		"weight": 4,
-		"dmgTypeP": true
+		"piercing": true
 	},
 	"Repeating heavy crossbow": {
 		"equipmentname": "Repeating heavy crossbow",
@@ -5493,13 +5508,13 @@
 		"cost": 400,
 		"dmgS": "1d8",
 		"dmgM": "1d10",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"critRange": 19,
 		"range": "120 ft.",
 		"weight": 12,
-		"dmgTypeP": true
+		"piercing": true
 	},
 	"Repeating light crossbow": {
 		"equipmentname": "Repeating light crossbow",
@@ -5508,13 +5523,13 @@
 		"cost": 250,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"critRange": 19,
 		"range": "80 ft.",
 		"weight": 6,
-		"dmgTypeP": true
+		"piercing": true
 	},
 	"Rope dart": {
 		"equipmentname": "Rope dart",
@@ -5523,12 +5538,12 @@
 		"cost": 1,
 		"dmgS": "1d3",
 		"dmgM": "1d4",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"range": "20 ft.",
 		"weight": 0,
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "blocking, distracting, monk"
 	},
 	"Shoanti bolas": {
@@ -5538,12 +5553,13 @@
 		"cost": 15,
 		"dmgS": "1d3",
 		"dmgM": "1d4",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"range": "10 ft.",
 		"weight": 2,
-		"dmgType": "B and P",
+		"bludgeoning": true,
+		"piercing": true,
 		"special": "trip"
 	},
 	"Shrillshaft javelin": {
@@ -5553,12 +5569,12 @@
 		"cost": 35,
 		"dmgS": "1d4",
 		"dmgM": "1d6",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"range": "30 ft.",
 		"weight": 3,
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "see text"
 	},
 	"Shuriken (5)": {
@@ -5568,12 +5584,12 @@
 		"cost": 1,
 		"dmgS": "1",
 		"dmgM": "1d2",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"range": "10 ft.",
 		"weight": 0.5,
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "monk"
 	},
 	"Sling glove": {
@@ -5583,23 +5599,23 @@
 		"cost": 5,
 		"dmgS": "1d3",
 		"dmgM": "1d4",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"range": "50 ft.",
 		"weight": 2,
-		"dmgTypeB": true
+		"bludgeoning": true
 	},
 	"Snag net": {
 		"equipmentname": "Snag net",
 		"file": "equipmentweaponsdisplay684b.html",
 		"type": "weapon",
 		"cost": 30,
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"range": "10 ft.",
 		"weight": 10,
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "trip, see text"
 	},
 	"Stormshaft javelin": {
@@ -5609,12 +5625,12 @@
 		"cost": 35,
 		"dmgS": "1d4",
 		"dmgM": "1d6",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 2,
 		"range": "30 ft.",
 		"weight": 3,
-		"dmgTypeP": true,
+		"piercing": true,
 		"special": "see text"
 	},
 	"Thorn bow": {
@@ -5624,33 +5640,33 @@
 		"cost": 50,
 		"dmgS": "1d4",
 		"dmgM": "1d6",
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"critMultiplier": 3,
 		"range": "40 ft.",
 		"weight": 2,
-		"dmgTypeP": true
+		"piercing": true
 	},
 	"Wrist launcher": {
 		"equipmentname": "Wrist launcher",
 		"file": "equipmentweaponsdisplay2072.html",
 		"type": "weapon",
 		"cost": 200,
-		"category": "twoHanded",
+		"category": "two-handed",
 		"proficiency": "exotic",
 		"range": "20 ft.",
 		"weight": 1,
-		"dmgTypeP": true
+		"piercing": true
 	},
 	"Claw blades": {
 		"equipmentname": "Claw blades",
 		"file": "equipmentweaponsdisplay144b.html",
 		"type": "weapon",
 		"cost": 305,
-		"light": true,
+		"category": "light",
 		"proficiency": "special",
 		"weight": 2,
-		"dmgTypeS": true,
+		"slashing": true,
 		"special": "catfolk only, see description"
 	},
 	"Kobold tail, long lash": {
@@ -5660,11 +5676,11 @@
 		"cost": 15,
 		"dmgS": "1d4",
 		"dmgM": "1d6",
-		"light": true,
+		"category": "light",
 		"proficiency": "special",
 		"critMultiplier": 2,
 		"weight": 1,
-		"dmgTypeS": true,
+		"slashing": true,
 		"special": "reach"
 	},
 	"Kobold tail, pounder": {
@@ -5674,11 +5690,12 @@
 		"cost": 1,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"light": true,
+		"category": "light",
 		"proficiency": "special",
 		"critMultiplier": 2,
 		"weight": 4,
-		"dmgTypeB": true
+		"bludgeoning": true,
+		"copyof": "Kobold tail, long lash"
 	},
 	"Kobold tail, razored": {
 		"equipmentname": "Kobold tail, razored",
@@ -5687,12 +5704,13 @@
 		"cost": 3,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"light": true,
+		"category": "light",
 		"proficiency": "special",
 		"critMultiplier": 2,
 		"critRange": 19,
 		"weight": 2,
-		"dmgTypeS": true
+		"slashing": true,
+		"copyof": "Kobold tail, long lash"
 	},
 	"Kobold tail, spiked": {
 		"equipmentname": "Kobold tail, spiked",
@@ -5701,11 +5719,12 @@
 		"cost": 3,
 		"dmgS": "1d6",
 		"dmgM": "1d8",
-		"light": true,
+		"category": "light",
 		"proficiency": "special",
 		"critMultiplier": 3,
 		"weight": 2,
-		"dmgTypeP": true
+		"piercing": true,
+		"copyof": "Kobold tail, long lash"
 	},
 	"Kobold tail, sweeper": {
 		"equipmentname": "Kobold tail, sweeper",
@@ -5714,11 +5733,777 @@
 		"cost": 7,
 		"dmgS": "1d4",
 		"dmgM": "1d6",
-		"light": true,
+		"category": "light",
 		"proficiency": "special",
 		"critMultiplier": 2,
 		"weight": 3,
-		"dmgTypeB": true,
-		"special": "trip"
+		"bludgeoning": true,
+		"special": "trip",
+		"copyof": "Kobold tail, long lash"
+	},
+	"Breech-loader": {
+		"equipmentname": "Breech-loader",
+		"file": "equipmentweaponsdisplayba24.html",
+		"type": "weapon",
+		"cost": 3000,
+		"dmgS": "1d4",
+		"dmgM": "1d6",
+		"category": "one-handed firearm",
+		"era": "early",
+		"proficiency": "exotic",
+		"critMultiplier": 4,
+		"range": "20 ft.",
+		"misfireBurst": 5,
+		"capacity": 2,
+		"weight": 4,
+		"bludgeoning": true,
+		"piercing": true
+	},
+	"Buckler gun": {
+		"equipmentname": "Buckler gun",
+		"file": "equipmentweaponsdisplay36fd.html",
+		"type": "weapon",
+		"cost": 750,
+		"dmgS": "1d4",
+		"dmgM": "1d6",
+		"category": "one-handed firearm",
+		"era": "early",
+		"proficiency": "exotic",
+		"critMultiplier": 4,
+		"range": "10 ft.",
+		"misfireBurst": 5,
+		"capacity": 2,
+		"weight": 6,
+		"bludgeoning": true,
+		"piercing": true
+	},
+	"Coat pistol": {
+		"equipmentname": "Coat pistol",
+		"file": "equipmentweaponsdisplay4fae.html",
+		"type": "weapon",
+		"cost": 750,
+		"dmgS": "1d3",
+		"dmgM": "1d4",
+		"category": "one-handed firearm",
+		"era": "early",
+		"proficiency": "exotic",
+		"critMultiplier": 3,
+		"range": "10 ft.",
+		"misfireBurst": 5,
+		"capacity": 1,
+		"weight": 1,
+		"bludgeoning": true,
+		"piercing": true
+	},
+	"Dagger pistol": {
+		"equipmentname": "Dagger pistol",
+		"file": "equipmentweaponsdisplay931c.html",
+		"type": "weapon",
+		"cost": 740,
+		"dmgS": "1d3",
+		"dmgM": "1d4",
+		"category": "one-handed firearm",
+		"era": "early",
+		"proficiency": "exotic",
+		"critMultiplier": 3,
+		"range": "10 ft.",
+		"misfireBurst": 5,
+		"capacity": 1,
+		"weight": 1,
+		"bludgeoning": true,
+		"piercing": true
+	},
+	"Double-barreled pistol": {
+		"equipmentname": "Double-barreled pistol",
+		"file": "equipmentweaponsdisplay01b8.html",
+		"type": "weapon",
+		"cost": 1750,
+		"dmgS": "1d6",
+		"dmgM": "1d8",
+		"category": "one-handed firearm",
+		"era": "early",
+		"proficiency": "exotic",
+		"critMultiplier": 4,
+		"range": "20 ft.",
+		"misfireRange": 2,
+		"misfireBurst": 5,
+		"capacity": 2,
+		"weight": 5,
+		"bludgeoning": true,
+		"piercing": true
+	},
+	"Dragon pistol": {
+		"equipmentname": "Dragon pistol",
+		"file": "equipmentweaponsdisplay1521.html",
+		"type": "weapon",
+		"cost": 1000,
+		"dmgS": "1d4",
+		"dmgM": "1d6",
+		"category": "one-handed firearm",
+		"era": "early",
+		"proficiency": "exotic",
+		"critMultiplier": 4,
+		"range": "special",
+		"misfireRange": 2,
+		"misfireBurst": 5,
+		"capacity": 1,
+		"weight": 3,
+		"bludgeoning": true,
+		"piercing": true,
+		"special": "scatter"
+	},
+	"Dragoon Pistol": {
+		"equipmentname": "Dragoon Pistol",
+		"file": "equipmentweaponsdisplay340c.html",
+		"type": "weapon",
+		"cost": 1500,
+		"dmgS": "1d6",
+		"dmgM": "1d8",
+		"category": "one-handed firearm",
+		"era": "early",
+		"proficiency": "exotic",
+		"critMultiplier": 3,
+		"range": "30 ft.",
+		"misfireBurst": 5,
+		"capacity": 3,
+		"weight": 5,
+		"bludgeoning": true,
+		"piercing": true
+	},
+	"Paddle-foot pistol": {
+		"equipmentname": "Paddle-foot pistol",
+		"file": "equipmentweaponsdisplay63d9.html",
+		"type": "weapon",
+		"cost": 2500,
+		"dmgS": "1d4",
+		"dmgM": "1d6",
+		"category": "one-handed firearm",
+		"era": "early",
+		"proficiency": "exotic",
+		"critMultiplier": 3,
+		"range": "20 ft.",
+		"misfireRange": 2,
+		"misfireBurst": 5,
+		"capacity": 4,
+		"weight": 5,
+		"bludgeoning": true,
+		"piercing": true,
+		"special": "scatter"
+	},
+	"Pepperbox": {
+		"equipmentname": "Pepperbox",
+		"file": "equipmentweaponsdisplay810e.html",
+		"type": "weapon",
+		"cost": 3000,
+		"dmgS": "1d6",
+		"dmgM": "1d8",
+		"category": "one-handed firearm",
+		"era": "early",
+		"proficiency": "exotic",
+		"critMultiplier": 4,
+		"range": "20 ft.",
+		"misfireRange": 2,
+		"misfireBurst": 5,
+		"capacity": 6,
+		"weight": 5,
+		"bludgeoning": true,
+		"piercing": true
+	},
+	"Pistol": {
+		"equipmentname": "Pistol",
+		"file": "equipmentweaponsdisplayc206.html",
+		"type": "weapon",
+		"cost": 1000,
+		"dmgS": "1d6",
+		"dmgM": "1d8",
+		"category": "one-handed firearm",
+		"era": "early",
+		"proficiency": "exotic",
+		"critMultiplier": 4,
+		"range": "20 ft.",
+		"misfireBurst": 5,
+		"capacity": 1,
+		"weight": 4,
+		"bludgeoning": true,
+		"piercing": true
+	},
+	"Sword cane pistol": {
+		"equipmentname": "Sword cane pistol",
+		"file": "equipmentweaponsdisplay7167.html",
+		"type": "weapon",
+		"cost": 775,
+		"dmgS": "1d3",
+		"dmgM": "1d4",
+		"category": "one-handed firearm",
+		"era": "early",
+		"proficiency": "exotic",
+		"critMultiplier": 3,
+		"range": "10 ft.",
+		"misfireBurst": 5,
+		"capacity": 1,
+		"weight": 1,
+		"bludgeoning": true,
+		"piercing": true
+	},
+	"Air repeater": {
+		"equipmentname": "Air repeater",
+		"file": "equipmentweaponsdisplaycf77.html",
+		"type": "weapon",
+		"cost": 600,
+		"dmgS": "1d6",
+		"dmgM": "1d8",
+		"category": "two-handed firearm",
+		"era": "early",
+		"proficiency": "exotic",
+		"critMultiplier": 4,
+		"range": "50 ft.",
+		"misfire": "1 (see text)",
+		"capacity": 6,
+		"weight": 6,
+		"bludgeoning": true,
+		"piercing": true
+	},
+	"Axe musket": {
+		"equipmentname": "Axe musket",
+		"file": "equipmentweaponsdisplayb81a.html",
+		"type": "weapon",
+		"cost": 1600,
+		"dmgS": "1d6",
+		"dmgM": "1d8",
+		"category": "two-handed firearm",
+		"era": "early",
+		"proficiency": "exotic",
+		"critMultiplier": 4,
+		"range": "30 ft.",
+		"misfireRange": 2,
+		"misfireBurst": 5,
+		"capacity": 1,
+		"weight": 6,
+		"bludgeoning": true,
+		"piercing": true
+	},
+	"Blunderbuss": {
+		"equipmentname": "Blunderbuss",
+		"file": "equipmentweaponsdisplayc4f1.html",
+		"type": "weapon",
+		"cost": 2000,
+		"dmgS": "1d6",
+		"dmgM": "1d8",
+		"category": "two-handed firearm",
+		"era": "early",
+		"proficiency": "exotic",
+		"critMultiplier": 2,
+		"range": "special",
+		"misfireRange": 2,
+		"misfireBurst": 10,
+		"capacity": 1,
+		"weight": 8,
+		"bludgeoning": true,
+		"piercing": true,
+		"special": "scatter"
+	},
+	"Culverin": {
+		"equipmentname": "Culverin",
+		"file": "equipmentweaponsdisplay120f.html",
+		"type": "weapon",
+		"cost": 4000,
+		"dmgS": "2d6",
+		"dmgM": "2d8",
+		"category": "two-handed firearm",
+		"era": "early",
+		"proficiency": "exotic",
+		"critMultiplier": 4,
+		"range": "30 ft.",
+		"misfireBurst": 10,
+		"capacity": 1,
+		"weight": 40,
+		"bludgeoning": true,
+		"piercing": true,
+		"special": "scatter"
+	},
+	"Cylinder rifle": {
+		"equipmentname": "Cylinder rifle",
+		"file": "equipmentweaponsdisplay8d48.html",
+		"type": "weapon",
+		"cost": 6000,
+		"dmgS": "1d6",
+		"dmgM": "1d8",
+		"category": "two-handed firearm",
+		"era": "early",
+		"proficiency": "exotic",
+		"critMultiplier": 4,
+		"range": "40 ft.",
+		"misfireRange": 3,
+		"misfireBurst": 10,
+		"capacity": 8,
+		"weight": 12,
+		"bludgeoning": true,
+		"piercing": true
+	},
+	"Double hackbut": {
+		"equipmentname": "Double hackbut",
+		"file": "equipmentweaponsdisplayaaf1.html",
+		"type": "weapon",
+		"cost": 4000,
+		"dmgS": "2d10",
+		"dmgM": "2d12",
+		"category": "two-handed firearm",
+		"era": "early",
+		"proficiency": "exotic",
+		"critMultiplier": 4,
+		"range": "50 ft.",
+		"misfireRange": 2,
+		"misfireBurst": 5,
+		"capacity": 2,
+		"weight": 18,
+		"bludgeoning": true,
+		"piercing": true
+	},
+	"Double-barreled musket": {
+		"equipmentname": "Double-barreled musket",
+		"file": "equipmentweaponsdisplay9620.html",
+		"type": "weapon",
+		"cost": 2500,
+		"dmgS": "1d10",
+		"dmgM": "1d12",
+		"category": "two-handed firearm",
+		"era": "early",
+		"proficiency": "exotic",
+		"critMultiplier": 4,
+		"range": "10 ft.",
+		"misfireRange": 3,
+		"misfireBurst": 5,
+		"capacity": 2,
+		"weight": 11,
+		"bludgeoning": true,
+		"piercing": true
+	},
+	"Dragoon Musket": {
+		"equipmentname": "Dragoon Musket",
+		"file": "equipmentweaponsdisplay8ea0.html",
+		"type": "weapon",
+		"cost": 2000,
+		"dmgS": "1d10",
+		"dmgM": "1d12",
+		"category": "two-handed firearm",
+		"era": "early",
+		"proficiency": "exotic",
+		"critMultiplier": 3,
+		"range": "60 ft.",
+		"misfireRange": 2,
+		"misfireBurst": 5,
+		"capacity": 3,
+		"weight": 12,
+		"bludgeoning": true,
+		"piercing": true
+	},
+	"Fire lance": {
+		"equipmentname": "Fire lance",
+		"file": "equipmentweaponsdisplay4eb3.html",
+		"type": "weapon",
+		"cost": 25,
+		"dmgS": "1d4",
+		"dmgM": "1d6",
+		"category": "two-handed firearm",
+		"era": "early",
+		"proficiency": "exotic",
+		"critMultiplier": 4,
+		"range": "10 ft.",
+		"misfireRange": 4,
+		"misfireBurst": 5,
+		"capacity": 1,
+		"weight": 4,
+		"dmgType$1": true
+	},
+	"Musket": {
+		"equipmentname": "Musket",
+		"file": "equipmentweaponsdisplayf78d.html",
+		"type": "weapon",
+		"cost": 1500,
+		"dmgS": "1d10",
+		"dmgM": "1d12",
+		"category": "two-handed firearm",
+		"era": "early",
+		"proficiency": "exotic",
+		"critMultiplier": 4,
+		"range": "40 ft.",
+		"misfireRange": 2,
+		"misfireBurst": 5,
+		"capacity": 1,
+		"weight": 9,
+		"bludgeoning": true,
+		"piercing": true
+	},
+	"Warhammer musket": {
+		"equipmentname": "Warhammer musket",
+		"file": "equipmentweaponsdisplaybe82.html",
+		"type": "weapon",
+		"cost": 1600,
+		"dmgS": "1d6",
+		"dmgM": "1d8",
+		"category": "two-handed firearm",
+		"era": "early",
+		"proficiency": "exotic",
+		"critMultiplier": 4,
+		"range": "30 ft.",
+		"misfireRange": 2,
+		"misfireBurst": 5,
+		"capacity": 1,
+		"weight": 6,
+		"bludgeoning": true,
+		"piercing": true
+	},
+	"Radium pistol": {
+		"equipmentname": "Radium pistol",
+		"file": "equipmentweaponsdisplay7d78.html",
+		"type": "weapon",
+		"cost": 4500,
+		"dmgS": "1d6",
+		"dmgM": "1d8",
+		"category": "one-handed firearm",
+		"era": "advanced",
+		"proficiency": "exotic",
+		"critMultiplier": 4,
+		"range": "30 ft.",
+		"capacity": 6,
+		"weight": 3,
+		"bludgeoning": true,
+		"piercing": true,
+		"special": "see text"
+	},
+	"Revolver": {
+		"equipmentname": "Revolver",
+		"file": "equipmentweaponsdisplay1331.html",
+		"type": "weapon",
+		"cost": 4000,
+		"dmgS": "1d6",
+		"dmgM": "1d8",
+		"category": "one-handed firearm",
+		"era": "advanced",
+		"proficiency": "exotic",
+		"critMultiplier": 4,
+		"range": "20 ft.",
+		"capacity": 6,
+		"weight": 4,
+		"bludgeoning": true,
+		"piercing": true
+	},
+	"Double-barreled shotgun": {
+		"equipmentname": "Double-barreled shotgun",
+		"file": "equipmentweaponsdisplayf447.html",
+		"type": "weapon",
+		"cost": 7000,
+		"dmgS": "1d6",
+		"dmgM": "1d8",
+		"category": "two-handed firearm",
+		"era": "advanced",
+		"proficiency": "exotic",
+		"critMultiplier": 2,
+		"range": "20 ft.",
+		"misfireRange": 2,
+		"capacity": 2,
+		"weight": 15,
+		"bludgeoning": true,
+		"piercing": true,
+		"special": "scatter"
+	},
+	"Pepperbox rifle": {
+		"equipmentname": "Pepperbox rifle",
+		"file": "equipmentweaponsdisplayc35b.html",
+		"type": "weapon",
+		"cost": 7000,
+		"dmgS": "1d8",
+		"dmgM": "1d10",
+		"category": "two-handed firearm",
+		"era": "advanced",
+		"proficiency": "exotic",
+		"critMultiplier": 4,
+		"range": "80 ft.",
+		"misfireRange": 2,
+		"capacity": 4,
+		"weight": 15,
+		"bludgeoning": true,
+		"piercing": true
+	},
+	"Radium rifle": {
+		"equipmentname": "Radium rifle",
+		"file": "equipmentweaponsdisplaya06b.html",
+		"type": "weapon",
+		"cost": 5500,
+		"dmgS": "1d8",
+		"dmgM": "1d10",
+		"category": "two-handed firearm",
+		"era": "advanced",
+		"proficiency": "exotic",
+		"critMultiplier": 4,
+		"range": "100 ft.",
+		"capacity": 1,
+		"weight": 10,
+		"bludgeoning": true,
+		"piercing": true,
+		"special": "see text"
+	},
+	"Rifle": {
+		"equipmentname": "Rifle",
+		"file": "equipmentweaponsdisplayf688.html",
+		"type": "weapon",
+		"cost": 5000,
+		"dmgS": "1d8",
+		"dmgM": "1d10",
+		"category": "two-handed firearm",
+		"era": "advanced",
+		"proficiency": "exotic",
+		"critMultiplier": 4,
+		"range": "80 ft.",
+		"capacity": 1,
+		"weight": 12,
+		"bludgeoning": true,
+		"piercing": true
+	},
+	"Shotgun": {
+		"equipmentname": "Shotgun",
+		"file": "equipmentweaponsdisplayc077.html",
+		"type": "weapon",
+		"cost": 5000,
+		"dmgS": "1d6",
+		"dmgM": "1d8",
+		"category": "two-handed firearm",
+		"era": "advanced",
+		"proficiency": "exotic",
+		"critMultiplier": 2,
+		"range": "20 ft.",
+		"misfireRange": 2,
+		"capacity": 1,
+		"weight": 12,
+		"bludgeoning": true,
+		"piercing": true,
+		"special": "scatter"
+	},
+	"Thark rifle": {
+		"equipmentname": "Thark rifle",
+		"file": "equipmentweaponsdisplayd9c9.html",
+		"type": "weapon",
+		"cost": 6500,
+		"dmgS": "1d8",
+		"dmgM": "1d10",
+		"category": "two-handed firearm",
+		"era": "advanced",
+		"proficiency": "exotic",
+		"critMultiplier": 4,
+		"range": "1 mile",
+		"misfireRange": 2,
+		"capacity": 1,
+		"weight": 12,
+		"bludgeoning": true,
+		"piercing": true,
+		"special": "see text"
+	},
+	"Air reservoir": {
+		"equipmentname": "Air reservoir",
+		"file": "equipmentweaponsdisplay752f.html",
+		"type": "weapon",
+		"cost": 6,
+		"weight": 0,
+		"category": "ammunition"
+	},
+	"Alchemical cartridge (dragon's breath)": {
+		"equipmentname": "Alchemical cartridge (dragon's breath)",
+		"file": "equipmentweaponsdisplay0fdc.html",
+		"type": "weapon",
+		"cost": 40,
+		"weight": 0,
+		"category": "ammunition"
+	},
+	"Alchemical cartridge (entangling shot)": {
+		"equipmentname": "Alchemical cartridge (entangling shot)",
+		"file": "equipmentweaponsdisplayc345.html",
+		"type": "weapon",
+		"cost": 40,
+		"weight": 0,
+		"category": "ammunition"
+	},
+	"Alchemical cartridge (flare)": {
+		"equipmentname": "Alchemical cartridge (flare)",
+		"file": "equipmentweaponsdisplaye187.html",
+		"type": "weapon",
+		"cost": 10,
+		"weight": 0,
+		"category": "ammunition"
+	},
+	"Alchemical cartridge (gray dust shot)": {
+		"equipmentname": "Alchemical cartridge (gray dust shot)",
+		"file": "equipmentweaponsdisplay0752.html",
+		"type": "weapon",
+		"cost": 50,
+		"weight": 0,
+		"category": "ammunition"
+	},
+	"Alchemical cartridge (gray dust)": {
+		"equipmentname": "Alchemical cartridge (gray dust)",
+		"file": "equipmentweaponsdisplaya614.html",
+		"type": "weapon",
+		"cost": 50,
+		"weight": 0,
+		"category": "ammunition"
+	},
+	"Alchemical cartridge (molten shot)": {
+		"equipmentname": "Alchemical cartridge (molten shot)",
+		"file": "equipmentweaponsdisplay8f93.html",
+		"type": "weapon",
+		"cost": 40,
+		"weight": 0,
+		"category": "ammunition"
+	},
+	"Alchemical cartridge (paper, bullet or pellet)": {
+		"equipmentname": "Alchemical cartridge (paper, bullet or pellet)",
+		"file": "equipmentweaponsdisplayb4e1.html",
+		"type": "weapon",
+		"cost": 12,
+		"weight": 0,
+		"category": "ammunition"
+	},
+	"Alchemical cartridge (repellent)": {
+		"equipmentname": "Alchemical cartridge (repellent)",
+		"file": "equipmentweaponsdisplay6f3a.html",
+		"type": "weapon",
+		"cost": 30,
+		"weight": 0,
+		"category": "ammunition"
+	},
+	"Alchemical cartridge (salt shot)": {
+		"equipmentname": "Alchemical cartridge (salt shot)",
+		"file": "equipmentweaponsdisplay5bcc.html",
+		"type": "weapon",
+		"cost": 12,
+		"weight": 0,
+		"category": "ammunition"
+	},
+	"Alchemical cartridge (smoke cartridge)": {
+		"equipmentname": "Alchemical cartridge (smoke cartridge)",
+		"file": "equipmentweaponsdisplay62d8.html",
+		"type": "weapon",
+		"cost": 35,
+		"weight": 0,
+		"category": "ammunition"
+	},
+	"Alchemical cartridge (toxin)": {
+		"equipmentname": "Alchemical cartridge (toxin)",
+		"file": "equipmentweaponsdisplay25d5.html",
+		"type": "weapon",
+		"cost": 100,
+		"weight": 0,
+		"category": "ammunition"
+	},
+	"Black powder (dose)": {
+		"equipmentname": "Black powder (dose)",
+		"file": "equipmentweaponsdisplayad80.html",
+		"type": "weapon",
+		"cost": 10,
+		"weight": 0,
+		"category": "ammunition"
+	},
+	"Black powder (keg)": {
+		"equipmentname": "Black powder (keg)",
+		"file": "equipmentweaponsdisplayee34.html",
+		"type": "weapon",
+		"cost": 1000,
+		"weight": 5,
+		"category": "ammunition"
+	},
+	"Bullet, adamantine": {
+		"equipmentname": "Bullet, adamantine",
+		"file": "equipmentweaponsdisplayf433.html",
+		"type": "weapon",
+		"cost": 61,
+		"weight": 0,
+		"category": "ammunition"
+	},
+	"Bullet, screaming": {
+		"equipmentname": "Bullet, screaming",
+		"file": "equipmentweaponsdisplaycf5b.html",
+		"type": "weapon",
+		"cost": 20,
+		"weight": 0,
+		"category": "ammunition"
+	},
+	"Dragoon Cartridge": {
+		"equipmentname": "Dragoon Cartridge",
+		"file": "equipmentweaponsdisplay94b5.html",
+		"type": "weapon",
+		"cost": 30,
+		"weight": 0,
+		"category": "ammunition"
+	},
+	"Firearm bullet (1)": {
+		"equipmentname": "Firearm bullet (1)",
+		"file": "equipmentweaponsdisplay113d-2.html",
+		"type": "weapon",
+		"cost": 1,
+		"weight": 0,
+		"category": "ammunition"
+	},
+	"Firearm bullet (30)": {
+		"equipmentname": "Firearm bullet (30)",
+		"file": "equipmentweaponsdisplay6038.html",
+		"type": "weapon",
+		"cost": 30,
+		"weight": 0.5,
+		"category": "ammunition"
+	},
+	"Firearm bullet, silver": {
+		"equipmentname": "Firearm bullet, silver",
+		"file": "equipmentweaponsdisplay38b2.html",
+		"type": "weapon",
+		"cost": 25,
+		"weight": 0,
+		"category": "ammunition"
+	},
+	"Gunsmith's kit": {
+		"equipmentname": "Gunsmith's kit",
+		"file": "equipmentweaponsdisplay3999.html",
+		"type": "weapon",
+		"cost": 15,
+		"weight": 2,
+		"category": "ammunition"
+	},
+	"Metal cartridge": {
+		"equipmentname": "Metal cartridge",
+		"file": "equipmentweaponsdisplay689f.html",
+		"type": "weapon",
+		"cost": 15,
+		"weight": 0,
+		"category": "ammunition"
+	},
+	"Pellets (30 handfuls)": {
+		"equipmentname": "Pellets (30 handfuls)",
+		"file": "equipmentweaponsdisplaya147.html",
+		"type": "weapon",
+		"cost": 30,
+		"weight": 0.5,
+		"category": "ammunition"
+	},
+	"Pellets (handful)": {
+		"equipmentname": "Pellets (handful)",
+		"file": "equipmentweaponsdisplayb453.html",
+		"type": "weapon",
+		"cost": 1,
+		"weight": 0,
+		"category": "ammunition"
+	},
+	"Pitted bullet": {
+		"equipmentname": "Pitted bullet",
+		"file": "equipmentweaponsdisplayb680.html",
+		"type": "weapon",
+		"cost": 5,
+		"weight": 0,
+		"category": "ammunition"
+	},
+	"Powder horn": {
+		"equipmentname": "Powder horn",
+		"file": "equipmentweaponsdisplay2a4c.html",
+		"type": "weapon",
+		"cost": 3,
+		"weight": 1,
+		"category": "ammunition"
 	}
 }
