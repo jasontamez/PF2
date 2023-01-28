@@ -13921,5 +13921,147 @@
 			"**Cost** 3 gp **Weight** 1 lb.",
 			"**Category** Ammunition; **Proficiency** Exotic"
 		]
+	},
+	"Brutally weighted": {
+		"equipmentname": "Brutally weighted",
+		"file": "equipmentweaponsdisplay3ffc.html",
+		"sources": [ "Adventurer's Armory 2" ],
+		"type": "weapon",
+		"costAdjustment": 1500,
+		"weightAdjustment": 1,
+		"category": "modification",
+		"proficiency": "modification",
+		"heading": [
+			"**Brutally weighted**",
+			"**Source** [Adventurer's Armory 2 pg. 10](source:Adventurer's Armory 2)"
+		],
+		"description": [
+			"A brutally weighted weapon is balanced to put more weight on the striking surface, knocking targets off balance with every blow. Only bludgeoning melee weapons can be brutally weighted. This modification can be added to a greatclub or tetsubo without increasing its weapon's category, but doing so increases the cost of modification by an additional 1,500 gp. A creature hit with a brutally weighted weapon takes a -2 penalty to its CMD against bull rush, reposition, and trip combat maneuvers until the end of its next turn or until after it is subject to such a maneuver (whichever comes first)."
+		],
+		"statistics": [
+			"**Cost** +1,500 gp **Weight** +1 lb.",
+			"**Category** Modification; **Proficiency** Modification"
+		]
+	},
+	"Dual-balanced": {
+		"equipmentname": "Dual-balanced",
+		"file": "equipmentweaponsdisplay3f30.html",
+		"sources": [ "Adventurer's Armory 2" ],
+		"type": "weapon",
+		"costAdjustment": 2000,
+		"category": "modification",
+		"proficiency": "modification",
+		"heading": [
+			"**Dual-balanced**",
+			"**Source** [Adventurer's Armory 2 pg. 10](source:Adventurer's Armory 2)"
+		],
+		"description": [
+			"Dual-balanced weapons are balanced to be wielded in tandem. Only melee weapons can be dual-balanced. When wielding two weapons with the dual-balanced modification, reduce any two-weapon fighting penalties by 1 for both weapons. The weapons do not need to be the same type, but both must have the dual-balanced modification."
+		],
+		"statistics": [
+			"**Cost** +2,000 gp **Weight** -",
+			"**Category** Modification; **Proficiency** Modification"
+		]
+	},
+	"Jagged hooks": {
+		"equipmentname": "Jagged hooks",
+		"file": "equipmentweaponsdisplay8808.html",
+		"sources": [ "Adventurer's Armory 2" ],
+		"type": "weapon",
+		"costAdjustment": 1000,
+		"weightAdjustment": 1,
+		"category": "modification",
+		"proficiency": "modification",
+		"heading": [
+			"**Jagged hooks**",
+			"**Source** [Adventurer's Armory 2 pg. 10](source:Adventurer's Armory 2)"
+		],
+		"description": [
+			"Brutal hooks and barbs are worked along the weapon's blade or length. Only piercing or slashing weapons can have jagged hooks. Projectile weapons can't have jagged hooks, but their ammunition can. A weapon with jagged hooks deals additional damage equal to the weapon's critical hit multiplier on a confirmed critical hit; this additional damage is added to the final total, and is not multiplied by the critical hit multiplier."
+		],
+		"statistics": [
+			"**Cost** +1,000 gp **Weight** +1 lb.",
+			"**Category** Modification; **Proficiency** Modification"
+		]
+	},
+	"Razor-sharp": {
+		"equipmentname": "Razor-sharp",
+		"file": "equipmentweaponsdisplay1a76.html",
+		"sources": [ "Adventurer's Armory 2" ],
+		"type": "weapon",
+		"costAdjustment": 1000,
+		"category": "modification",
+		"proficiency": "modification",
+		"heading": [
+			"**Razor-sharp**",
+			"**Source** [Adventurer's Armory 2 pg. 10](source:Adventurer's Armory 2)"
+		],
+		"description": [
+			"The weapon's edge is honed to incredible sharpness. The weapon's edge dulls after a number of daily uses, but the bonus can be reset by spending 15 minutes whetting the blade after a night's rest. Only piercing or slashing weapons can have the razor-sharp modification. Projectile weapons can't be razorsharp, but their ammunition can. A razor-sharp weapon gains a +1 bonus on weapon damage rolls for a number of attacks each day equal to 3 + your base attack bonus."
+		],
+		"statistics": [
+			"**Cost** +1,000 gp **Weight** -",
+			"**Category** Modification; **Proficiency** Modification"
+		]
+	},
+	"Serrated edge": {
+		"equipmentname": "Serrated edge",
+		"file": "equipmentweaponsdisplay2675.html",
+		"sources": [ "Adventurer's Armory 2" ],
+		"type": "weapon",
+		"costAdjustment": 2000,
+		"category": "modification",
+		"proficiency": "modification",
+		"heading": [
+			"**Serrated edge**",
+			"**Source** [Adventurer's Armory 2 pg. 10](source:Adventurer's Armory 2)"
+		],
+		"description": [
+			"The weapon's blade inflicts wounds that bleed profusely. Only piercing or slashing melee weapons can have a serrated edge. This modification can be added to a sawtooth sabre or rhoka sword without increasing its weapon category, but doing so increases the cost of modification by 2,000 gp. When you make an attack with a weapon with a serrated edge, you can take a -2 penalty on the attack roll. If you do and the attack deals damage, the weapon also inflicts 1 point of bleed damage. This bleed stacks with itself (to a maximum equal to the weapon's critical multiplier), but does not stack with bleed from other sources."
+		],
+		"statistics": [
+			"**Cost** +2,000 gp **Weight** -",
+			"**Category** Modification; **Proficiency** Modification"
+		]
+	},
+	"Tactically adapted": {
+		"equipmentname": "Tactically adapted",
+		"file": "equipmentweaponsdisplay15a7.html",
+		"sources": [ "Adventurer's Armory 2" ],
+		"type": "weapon",
+		"costAdjustment": 2000,
+		"category": "modification",
+		"proficiency": "modification",
+		"heading": [
+			"**Tactically adapted**",
+			"**Source** [Adventurer's Armory 2 pg. 10](source:Adventurer's Armory 2)"
+		],
+		"description": [
+			"A tactically adapted weapon is designed for specialized tactics rather than just swinging and stabbing. Only melee weapons can be tactically adapted. When this quality is added to a weapon, choose a weapon quality from the following list: blocking, brace, disarm, distracting, nonlethal, performance, or trip. The modified weapon gains that weapon quality."
+		],
+		"statistics": [
+			"**Cost** +2,000 gp **Weight** -",
+			"**Category** Modification; **Proficiency** Modification"
+		]
+	},
+	"Versatile design": {
+		"equipmentname": "Versatile design",
+		"file": "equipmentweaponsdisplay527a.html",
+		"sources": [ "Adventurer's Armory 2" ],
+		"type": "weapon",
+		"costAdjustment": 500,
+		"category": "modification",
+		"proficiency": "modification",
+		"heading": [
+			"**Versatile design**",
+			"**Source** [Adventurer's Armory 2 pg. 10](source:Adventurer's Armory 2)"
+		],
+		"description": [
+			"A weapon with the versatile design modification is easier to wield for those skilled with other weapon groups. When versatile design is added to a weapon, choose a fighter weapon group. The modified weapon is considered to be a weapon of that weapon group (such as for the fighter's weapon training class feature). A melee weapon cannot be considered part of a weapon group for ranged weapons, and vice versa."
+		],
+		"statistics": [
+			"**Cost** +500 gp **Weight** -",
+			"**Category** Modification; **Proficiency** Modification"
+		]
 	}
 }
