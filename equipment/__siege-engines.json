@@ -1,0 +1,1495 @@
+{
+	"Alchemist's fire": {
+		"equipmentname": "Alchemist's fire",
+		"file": "equipmentweaponsdisplay35d1.html",
+		"sources": [ "Ultimate Combat" ],
+		"type": "siege weapon",
+		"cost": 200,
+		"weight": 10,
+		"category": "ammunition",
+		"proficiency": "siege engine",
+		"heading": [
+			"**Alchemist's fire**",
+			"**Source** [Ultimate Combat pg. 164](source:Ultimate Combat)"
+		],
+		"description": [
+			"This hard, ceramic canister of alchemist's fire can be used as ammunition in catapults and trebuchets. When it hits its target square, it deals 4d6 points of fire damage to each creature and wooden structure within 5 feet of the target space, and each creature must make a DC 20 Reflex saving throw or catch on fire (wooden objects automatically catch on fire). Every creature and wooden object within the area between 5 and 30 feet of the target space must make a DC 20 Reflex saving throw or take half the fire damage, but they do not catch on fire. On a siege engine mishap, this ammunition explodes before it is launched, dealing its damage to the siege engine and all nearby creatures and wooden objects as if one of the spaces of the siege engine (crew leader's choice) were the target square. This alchemical fire ignores the hardness of wooden objects."
+		],
+		"statistics": [
+			"**Cost** 200 gp **Weight** 10 lbs.",
+			"**Category** Ammunition; **Proficiency** Siege Engine"
+		]
+	},
+	"Blast Shot": {
+		"equipmentname": "Blast Shot",
+		"file": "equipmentweaponsdisplayb9e4.html",
+		"sources": [ "Ultimate Combat" ],
+		"type": "siege weapon",
+		"cost": 30,
+		"weight": 25,
+		"category": "ammunition",
+		"proficiency": "siege engine",
+		"heading": [
+			"**Blast Shot**",
+			"**Source** [Ultimate Combat pg. 164](source:Ultimate Combat)"
+		],
+		"description": [
+			"Instead of a single hard ball, this ammunition is a bundle of large pellets, balls, or pieces of scrap metal, propelled a short distance by black powder and attacking all creatures and objects within an area. Both cannons and fiend's mouth cannons can fire this kind of ammunition. When such a siege engine fires this ammunition, it hits every creature and object within a 30-foot-cone burst. The siege engine makes attack rolls against each creature and unattended object in the burst. It must miss every creature or target to misfire, and a misfire generates the normal effect. It deals its normal damage on a hit, but does not ignore the hardness of objects."
+		],
+		"statistics": [
+			"**Cost** 30 gp **Weight** 25 lbs.",
+			"**Category** Ammunition; **Proficiency** Siege Engine"
+		]
+	},
+	"Bomb": {
+		"equipmentname": "Bomb",
+		"file": "equipmentweaponsdisplay8558.html",
+		"sources": [ "Ultimate Combat" ],
+		"type": "siege weapon",
+		"cost": 600,
+		"weight": 30,
+		"category": "ammunition",
+		"proficiency": "siege engine",
+		"heading": [
+			"**Bomb**",
+			"**Source** [Ultimate Combat pg. 164](source:Ultimate Combat)"
+		],
+		"description": [
+			"A bomb is a metal canister filled with metal balls and black powder that can be used as ammunition in catapults and trebuchets or carried by two Medium creatures or one Large creature to its destination. A bomb either explodes on impact (if fired from a catapult or trebuchet, or within 3 rounds of a fuse being lit if carried). When it explodes, it deals 6d6 points of piercing and bludgeoning damage to all creatures and objects within 30 feet of the target square. On a siege engine mishap, this ammunition explodes before it is launched, dealing its damage to the siege engine and all nearby creatures and wooden objects as if one of the spaces of the siege engine (crew leader's choice) were the target square. It ignores the hardness of wood and stone."
+		],
+		"statistics": [
+			"**Cost** 600 gp **Weight** 30 lbs.",
+			"**Category** Ammunition; **Proficiency** Siege Engine"
+		]
+	},
+	"Chain shot": {
+		"equipmentname": "Chain shot",
+		"file": "equipmentweaponsdisplay5357.html",
+		"sources": [ "Ultimate Combat" ],
+		"type": "siege weapon",
+		"cost": 50,
+		"weight": 30,
+		"category": "ammunition",
+		"proficiency": "siege engine",
+		"heading": [
+			"**Chain shot**",
+			"**Source** [Ultimate Combat pg. 164](source:Ultimate Combat)"
+		],
+		"description": [
+			"This siege engine firearm ammunition can be loaded in a cannon or a fiend's mouth cannon. It is especially good at tearing through sails and dirigibles (see the [Vehicle rules](unknown:Vehicle rules)), dealing double its normal damage to those forms of propulsion. When fired at a creature, on a hit, the creature must succeed at a DC 20 Fortitude saving throw or be knocked prone."
+		],
+		"statistics": [
+			"**Cost** 50 gp **Weight** 30 lbs",
+			"**Category** Ammunition; **Proficiency** Siege Engine"
+		]
+	},
+	"Defoliant Shot": {
+		"equipmentname": "Defoliant Shot",
+		"file": "equipmentweaponsdisplaydf27.html",
+		"sources": [ "Belkzen, Hold of the Orc Hordes" ],
+		"type": "siege weapon",
+		"cost": 300,
+		"weight": 20,
+		"category": "ammunition",
+		"proficiency": "siege engine",
+		"heading": [
+			"**Defoliant Shot**",
+			"**Source** [Belkzen, Hold of the Orc Hordes pg. 39](source:Belkzen, Hold of the Orc Hordes)"
+		],
+		"description": [
+			"When used as ammunition in a catapult or trebuchet, this ceramic canister releases a mist of [defoliant](unknown:defoliant) on impact. When it hits the target square, it deals 2d6 points of damage to any creature in that space. Plant creatures within 30 feet of the target square take an additional 4d6 points of damage. A successful DC 20 Fortitude saving throw halves this additional damage. Plant creatures within 5 feet of the target space that fail their saving throws also take 1d4 points of Strength damage and 1d4 points of Constitution damage. The defoliant also kills vegetation within 30 feet of the target square as described in Ultimate Equipment.",
+			"On a siege engine mishap, this ammunition explodes before it's launched, dealing its damage to the siege engine and all nearby plant creatures as if one of the spaces of the siege engine (crew leader's choice) were the target square."
+		],
+		"statistics": [
+			"**Cost** 300 gp **Weight** 20 lbs",
+			"**Category** Ammunition; **Proficiency** Siege Engine"
+		]
+	},
+	"Entangling Bolt": {
+		"equipmentname": "Entangling Bolt",
+		"file": "equipmentweaponsdisplayb644.html",
+		"sources": [ "Belkzen, Hold of the Orc Hordes" ],
+		"type": "siege weapon",
+		"cost": 50,
+		"weight": 25,
+		"category": "ammunition",
+		"proficiency": "siege engine",
+		"heading": [
+			"**Entangling Bolt**",
+			"**Source** [Belkzen, Hold of the Orc Hordes pg. 39](source:Belkzen, Hold of the Orc Hordes)"
+		],
+		"description": [
+			"When launched from a ballista, this specialized bolt unfurls into a large net. An attack with entangling ammunition is a ranged touch attack, but it's only effective within one range increment. If it hits, the target is entangled, but the attack deals no damage.",
+			"An entangled creature can escape with a successful DC 20 Escape Artist check (a full-round action). The net has 5 hit points and can be burst with a successful DC 25 Strength check (also a full-round action). Entangling ammunition is useful only against creatures within one size category of the firing ballista."
+		],
+		"statistics": [
+			"**Cost** 50 gp **Weight** 25 lbs.",
+			"**Category** Ammunition; **Proficiency** Siege Engine"
+		]
+	},
+	"Liquid ice": {
+		"equipmentname": "Liquid ice",
+		"file": "equipmentweaponsdisplayec8f.html",
+		"sources": [ "Ultimate Combat" ],
+		"type": "siege weapon",
+		"cost": 400,
+		"weight": 20,
+		"category": "ammunition",
+		"proficiency": "siege engine",
+		"heading": [
+			"**Liquid ice**",
+			"**Source** [Ultimate Combat pg. 164](source:Ultimate Combat)"
+		],
+		"description": [
+			"This hard, ceramic canister filled with alchemical liquid ice can be used as ammunition in catapults and trebuchets. When it hits its target square, it deals 4d6 points of cold damage to each creature within 5 feet of the targeting space, and each creature must make a DC 20 Fortitude save or become entangled for 1 round. Every creature within the area between 5 and 30 feet of the target space must make a DC 20 Fortitude saving throw or take half damage. On a siege engine mishap, this ammunition explodes before it is launched, dealing its damage to all nearby creatures as if one of the spaces of the siege engine (crew leader's choice) were the target square."
+		],
+		"statistics": [
+			"**Cost** 400 gp **Weight** 20 lbs.",
+			"**Category** Ammunition; **Proficiency** Siege Engine"
+		]
+	},
+	"Plague bundle": {
+		"equipmentname": "Plague bundle",
+		"file": "equipmentweaponsdisplayd7f6.html",
+		"sources": [ "Ultimate Combat" ],
+		"type": "siege weapon",
+		"cost": 80,
+		"weight": 20,
+		"category": "ammunition",
+		"proficiency": "siege engine",
+		"heading": [
+			"**Plague bundle**",
+			"**Source** [Ultimate Combat pg. 164](source:Ultimate Combat)"
+		],
+		"description": [
+			"This hard, ceramic canister is filled with a noxious mass of diseased carrion and offal that can be used as ammunition for a catapult or a trebuchet. It deals only half damage, but every creature hit by it is exposed to filth fever (Core Rulebook 557). A GM might allow a plague bundle to inflict other diseases."
+		],
+		"statistics": [
+			"**Cost** 80 gp **Weight** 20 lbs.",
+			"**Category** Ammunition; **Proficiency** Siege Engine"
+		]
+	},
+	"Rockwasp Bomb": {
+		"equipmentname": "Rockwasp Bomb",
+		"file": "equipmentweaponsdisplaydb52.html",
+		"sources": [ "Belkzen, Hold of the Orc Hordes" ],
+		"type": "siege weapon",
+		"cost": 2000,
+		"weight": 100,
+		"category": "ammunition",
+		"proficiency": "siege engine",
+		"heading": [
+			"**Rockwasp Bomb**",
+			"**Source** [Belkzen, Hold of the Orc Hordes pg. 39](source:Belkzen, Hold of the Orc Hordes)"
+		],
+		"description": [
+			"Usable in catapults and trebuchets, this ammunition consists of a wooden crate packed with wax globes, from which a faint buzzing sound emanates. Visible as a dark shape at the center of each globe is a rat-sized hornet known as a rockwasp. The alchemical wax keeps the wasps immobilized, while tiny air holes allow them to breath. This ammunition deals only half damage, but releases a [wasp swarm](monster:wasp swarm)-two wasp swarms if used for a heavy catapult or heavy trebuchet. The wasps attack for 1 minute before dispersing. On a siege engine mishap, the wasps escape before the ammunition is launched."
+		],
+		"statistics": [
+			"**Cost** 2,000 gp **Weight** 100 lbs.",
+			"**Category** Ammunition; **Proficiency** Siege Engine"
+		]
+	},
+	"Smoke shot": {
+		"equipmentname": "Smoke shot",
+		"file": "equipmentweaponsdisplay5d5e.html",
+		"sources": [ "Ultimate Combat" ],
+		"type": "siege weapon",
+		"cost": 250,
+		"weight": 20,
+		"category": "ammunition",
+		"proficiency": "siege engine",
+		"heading": [
+			"**Smoke shot**",
+			"**Source** [Ultimate Combat pg. 164](source:Ultimate Combat)"
+		],
+		"description": [
+			"This hard ceramic sphere contains two alchemical substances separated by a thin barrier, much like a <a href=\"equipmentmiscdisplay132c.html?ItemName=Smoke%20pellet\">smoke pellet<%END in larger form, usable by cannons and fiend's mouth cannons. When it hits the targeting space, it deals 2d6 points of damage to any creature in that space, and the substances mingle and then create an area of foul but harmless yellow smoke radiating 30 feet from the target square. Treat the effect as a [fog cloud](spell:fog cloud) spell. On a siege engine mishap, the ammunition explodes before it is launched. Its effect is centered on one of the spaces of the siege engine (crew leader's choice)."
+		],
+		"statistics": [
+			"**Cost** 250 gp **Weight** 20 lbs.",
+			"**Category** Ammunition; **Proficiency** Siege Engine"
+		]
+	},
+	"Ballista net": {
+		"equipmentname": "Ballista net",
+		"file": "equipmentweaponsdisplay3a3f.html",
+		"sources": [ "Dragonslayer's Handbook" ],
+		"type": "siege weapon",
+		"cost": 75,
+		"weight": 15,
+		"category": "ammunition",
+		"proficiency": "siege engine",
+		"heading": [
+			"**Ballista net**",
+			"**Source** [Dragonslayer's Handbook pg. 27](source:Dragonslayer's Handbook)"
+		],
+		"description": [
+			"This ballista bolt is specially equipped with a net which unfurls as the bolt flies toward its target. Unlike a standard ballista bolt, a ballista net requires only a touch attack to hit. If a ballista net hits, it deals no damage, but causes the target to become entangled. An entangled creature takes a -2 penalty on attack rolls and a -4 penalty to Dexterity, can move at only half speed, and cannot charge or run."
+		],
+		"statistics": [
+			"**Cost** 75 gp **Weight** 15 lbs.",
+			"**Category** Ammunition; **Proficiency** Ammunition"
+		]
+	},
+	"Flak": {
+		"equipmentname": "Flak",
+		"file": "equipmentweaponsdisplay7611.html",
+		"sources": [ "Dragonslayer's Handbook" ],
+		"type": "siege weapon",
+		"cost": 500,
+		"weight": 30,
+		"category": "ammunition",
+		"proficiency": "siege engine",
+		"heading": [
+			"**Flak**",
+			"**Source** [Dragonslayer's Handbook pg. 27](source:Dragonslayer's Handbook)"
+		],
+		"description": [
+			"Flak ammunition is a type of short-fused bomb, specifically designed to explode in midair. Flak ammunition is packed with steel balls and black powder, and may be fired from a bombard or catapult. When flak explodes, it deals 4d6 points of piercing and bludgeoning damage to all creatures and objects within 40 feet of the target square. A flak bomb must reach an altitude of at least 50 feet to function properly. If flak ammunition impacts anything before it reaches this altitude, the bomb deals 1d6 points of bludgeoning damage and fails to explode."
+		],
+		"statistics": [
+			"**Cost** 500 gp **Weight** 30 lbs.",
+			"**Category** Ammunition; **Proficiency** Ammunition"
+		]
+	},
+	"Flechette bolt": {
+		"equipmentname": "Flechette bolt",
+		"file": "equipmentweaponsdisplayc223.html",
+		"sources": [ "Dragonslayer's Handbook" ],
+		"type": "siege weapon",
+		"cost": 30,
+		"weight": 20,
+		"category": "ammunition",
+		"proficiency": "siege engine",
+		"heading": [
+			"**Flechette bolt**",
+			"**Source** [Dragonslayer's Handbook pg. 27](source:Dragonslayer's Handbook)"
+		],
+		"description": [
+			"This ballista bolt consists of dozens of small steel darts, called flechettes, which break away after the bolt is released. If the bolt impacts anything before it reaches a distance of 30 feet, it deals 1d8 points of damage. Between 30 and 60 feet away, the flechettes deploy, dealing piercing damage to every creature and object within a 30-foot-cone burst. After 60 feet, the flechettes lose momentum and fall harmlessly to the ground.",
+			"Separate attack rolls must be made against each target hit by the burst. Light ballista flechettes deal 2d8 points of damage, while heavy ballista flechettes deal 3d8 points. Additionally, any winged creature hit by flechettes has several holes punched in its wings, and has its fly speed reduced by 10 feet. The creature takes a -4 penalty on Fly checks until the damage is healed."
+		],
+		"statistics": [
+			"**Cost** 30 gp **Weight** 20 lbs.",
+			"**Category** Ammunition; **Proficiency** Ammunition"
+		]
+	},
+	"Weighted bolt": {
+		"equipmentname": "Weighted bolt",
+		"file": "equipmentweaponsdisplay0e56.html",
+		"sources": [ "Dragonslayer's Handbook" ],
+		"type": "siege weapon",
+		"cost": 50,
+		"weight": 40,
+		"category": "ammunition",
+		"proficiency": "siege engine",
+		"heading": [
+			"**Weighted bolt**",
+			"**Source** [Dragonslayer's Handbook pg. 27](source:Dragonslayer's Handbook)"
+		],
+		"description": [
+			"This barbed ballista bolt is equipped with a heavy weight at the end of a long chain. The bolt's extra weight makes the bolt harder to fire accurately, and imposes a -2 penalty on attack rolls. In addition to the normal damage dealt by a ballista bolt of its size, on a successful hit the weighted bolt lodges itself into the target's body, leaving the weighted chain hanging loosely, imparting a -5 penalty on all Fly checks made by the target. These penalties stack if a target is hit with multiple weighted bolts. A weighted bolt can be removed with a successful DC 25 Heal check or a DC 20 Strength check."
+		],
+		"statistics": [
+			"**Cost** 50 gp **Weight** 40 lbs.",
+			"**Category** Ammunition; **Proficiency** Ammunition"
+		]
+	},
+	"Ballista, light": {
+		"equipmentname": "Ballista, light",
+		"file": "equipmentweaponsdisplaydace.html",
+		"sources": [
+			"Ultimate Combat",
+			"PRPG Core Rulebook"
+		],
+		"type": "siege weapon",
+		"cost": 500,
+		"dmg": "3d8",
+		"piercing": true,
+		"category": "direct-fire (large)",
+		"proficiency": "siege engine",
+		"critRange": 19,
+		"critMultiplier": 2,
+		"range": 120,
+		"crew": 1,
+		"aim": 0,
+		"load": 2,
+		"speed": "10 ft.",
+		"heading": [
+			"**Ballista, light**",
+			"**Source** [Ultimate Combat pg. 160](source:Ultimate Combat), [PRPG Core Rulebook pg. 435](source:PRPG Core Rulebook)"
+		],
+		"description": [
+			"Resembling a massive crossbow, a ballista's power is provided by twisted skeins of animal sinew used as torsion springs driving a pair of adjustable arms. A cord attached to both arms is winched back and a projectile is loaded into a grooved slider for release. Ballistae are direct-fire weapons.",
+			"**Light:** This common type of ballista, also called an arbalest or scorpion, is size Large, maneuverable, and often mounted atop towers or even vehicles. Light ballistae have a hardness of 5 and 50 hit points. Light ballista bolts cost 10 gp each and weigh 10 pounds.",
+			"**Heavy:** These Huge-sized siege engines are commonly used as castle defenses, as well as on large warships. Heavy ballistae have a hardness of 5 and 100 hit points. Heavy ballista bolts cost 30 gp and weigh 20 pounds each.",
+			"**Gate Breaker:** This massive ballista fires specially weighted quarrels with blunt metal tips. These are used as long-range battering rams, shot at walls or the gates of castles. When they hit a wooden structure, they have a critical range of 19-20/x3. Gate breaker ballistae have a hardness of 5 and 200 hit points. Gate breaker ballista bolts cost 50 gp and weigh 30 pounds each."
+		],
+		"statistics": [
+			"**Cost** 500 gp **Weight** -",
+			"**Damage** 3d8; **Critical** 19-20/x2; **Range** 120 ft.; **Type** P",
+			"**Crew** 1; **Aim** 0; **Load** 2; **Speed** 10 ft.",
+			"**Category** Direct-Fire (Large); **Proficiency** Siege Engine"
+		]
+	},
+	"Cannon": {
+		"equipmentname": "Cannon",
+		"file": "equipmentweaponsdisplayde18.html",
+		"sources": [ "Ultimate Combat" ],
+		"type": "siege weapon",
+		"cost": 6000,
+		"dmg": "6d6",
+		"bludgeoning": true,
+		"piercing": true,
+		"category": "direct-fire (large)",
+		"proficiency": "siege engine",
+		"critMultiplier": 4,
+		"range": 100,
+		"crew": 2,
+		"aim": 1,
+		"load": 3,
+		"speed": "10 ft.",
+		"heading": [
+			"**Cannon**",
+			"**Source** [Ultimate Combat pg. 162](source:Ultimate Combat)"
+		],
+		"description": [
+			"Cannons are crafted of metal'some are cast in one piece, others welded with iron bands-and mounted either in the ground or on wooden frames. Cannons use black powder to propel their projectiles with great force. A cannon has a misfire range of 1 (20 feet). Cannons have a hardness of 10 and 70 hit points. Cannon balls cost 30 gp each and weigh 25 pounds."
+		],
+		"statistics": [
+			"**Cost** 6,000 gp **Weight** -",
+			"**Damage** 6d6; **Critical** x4; **Range** 100 ft.; **Type** B and P",
+			"**Crew** 2; **Aim** 1; **Load** 3; **Speed** 10 ft.",
+			"**Category** Direct-Fire (Large); **Proficiency** Siege Engine"
+		]
+	},
+	"Ballista, heavy": {
+		"equipmentname": "Ballista, heavy",
+		"file": "equipmentweaponsdisplay9267.html",
+		"sources": [ "Ultimate Combat" ],
+		"type": "siege weapon",
+		"cost": 800,
+		"dmg": "4d8",
+		"piercing": true,
+		"category": "direct-fire (huge)",
+		"proficiency": "siege engine",
+		"critRange": 19,
+		"critMultiplier": 2,
+		"range": 180,
+		"crew": 3,
+		"aim": 2,
+		"load": 3,
+		"speed": "0 ft.",
+		"copyof": "Ballista, light",
+		"heading": [
+			"**Ballista, heavy**",
+			"**Source** [Ultimate Combat pg. 160](source:Ultimate Combat)"
+		],
+		"statistics": [
+			"**Cost** 800 gp **Weight** -",
+			"**Damage** 4d8; **Critical** 19-20/x2; **Range** 180 ft.; **Type** P",
+			"**Crew** 3; **Aim** 2; **Load** 3; **Speed** 0 ft.",
+			"**Category** Direct-Fire (Huge); **Proficiency** Siege Engine"
+		]
+	},
+	"Cannon, fiend's mouth": {
+		"equipmentname": "Cannon, fiend's mouth",
+		"file": "equipmentweaponsdisplayd566.html",
+		"sources": [ "Ultimate Combat" ],
+		"type": "siege weapon",
+		"cost": 9000,
+		"dmg": "8d6",
+		"bludgeoning": true,
+		"piercing": true,
+		"category": "direct-fire (huge)",
+		"proficiency": "siege engine",
+		"critMultiplier": 4,
+		"range": 150,
+		"crew": 3,
+		"aim": 1,
+		"load": 3,
+		"speed": "0 ft.",
+		"heading": [
+			"**Cannon, fiend's mouth**",
+			"**Source** [Ultimate Combat pg. 163](source:Ultimate Combat)"
+		],
+		"description": [
+			"These massive cannons are usually crafted in multiple pieces, and sometimes feature the heads of demons, devils, or other fiends at their mouths. Like normal canons, they propel their projectiles with great force. A fiend's mouth cannon has a misfire range of 1 (30 ft.). Fiend's mouth canons have a hardness of 10 and 140 hit points. Fiend's mouth cannon balls cost 45 gp and weigh 30 pounds each."
+		],
+		"statistics": [
+			"**Cost** 9,000 gp **Weight** -",
+			"**Damage** 8d6; **Critical** x4; **Range** 150 ft.; **Type** B and P",
+			"**Crew** 3; **Aim** 1; **Load** 3; **Speed** 0 ft.",
+			"**Category** Direct-Fire (Huge); **Proficiency** Siege Engine"
+		]
+	},
+	"Firedrake": {
+		"equipmentname": "Firedrake",
+		"file": "equipmentweaponsdisplaydde4.html",
+		"sources": [ "Ultimate Combat" ],
+		"type": "siege weapon",
+		"cost": 4000,
+		"dmg": "6d6",
+		"dmgType": "fire",
+		"category": "direct-fire (huge)",
+		"proficiency": "siege engine",
+		"crew": 3,
+		"aim": 2,
+		"load": 5,
+		"speed": "10 ft.",
+		"heading": [
+			"**Firedrake**",
+			"**Source** [Ultimate Combat pg. 163](source:Ultimate Combat)"
+		],
+		"description": [
+			"These large siege engines are typically wheeled or attached to vehicles that can transport them to the battlefield. This apparatus fires gouts of alchemist's fire in either a 60-foot line or a 30-foot cone (siege crew leader's choice). Targets in the area take 6d6 points of fire damage (DC 15 Reflex save halves); those who fail their saves also catch on fire. A firedrake with the broken condition that suffers a further mishap explodes, dealing its damage to all creatures within a 20-foot blast (DC 15 Reflex save halves). Firedrakes have a hardness of 10 and 70 hit points. One use of firedrake ammunition costs 200 gp and weighs 20 pounds."
+		],
+		"statistics": [
+			"**Cost** 4,000 gp **Weight** -",
+			"**Damage** 6d6; **Critical** -; **Range** -; **Type** fire",
+			"**Crew** 3; **Aim** 2; **Load** 5; **Speed** 10 ft.",
+			"**Category** Direct-Fire (Huge); **Proficiency** Siege Engine"
+		]
+	},
+	"Manticore's Tail": {
+		"equipmentname": "Manticore's Tail",
+		"file": "equipmentweaponsdisplaydce8.html",
+		"sources": [ "Belkzen, Hold of the Orc Hordes" ],
+		"type": "siege weapon",
+		"cost": 1000,
+		"dmg": "3d8",
+		"piercing": true,
+		"category": "direct-fire (huge)",
+		"proficiency": "siege engine",
+		"critRange": 19,
+		"critMultiplier": 2,
+		"rangeSpecial": true,
+		"crew": 3,
+		"aim": 0,
+		"load": 4,
+		"speed": "0 ft.",
+		"heading": [
+			"**Manticore's Tail**",
+			"**Source** [Belkzen, Hold of the Orc Hordes pg. 39](source:Belkzen, Hold of the Orc Hordes)"
+		],
+		"description": [
+			"This massive ballista fires a dozen or more bolts at once in a devastating rain of steel that deals 3d8 points of damage. The crew leader makes a separate attack roll with a -2 penalty against each creature and object within a 60-foot cone, ignoring concealment. Confirm any critical threats separately. This weapon has a mishap only if the first attack roll is a mishap. A manticore's tail has a hardness of 5 and 100 hit points. Ammunition for one use of the manticore's tail costs 120 gp and weighs 120 pounds."
+		],
+		"statistics": [
+			"**Cost** 1,000 gp **Weight** -",
+			"**Damage** 3d8; **Critical** 19-20/x2; **Range** see text; **Type** P",
+			"**Crew** 3; **Aim** 0; **Load** 4; **Speed** 0 ft.",
+			"**Category** Direct-Fire (Huge); **Proficiency** Siege Engine"
+		]
+	},
+	"Ballista, gate breaker": {
+		"equipmentname": "Ballista, gate breaker",
+		"file": "equipmentweaponsdisplay816c.html",
+		"sources": [ "Ultimate Combat" ],
+		"type": "siege weapon",
+		"cost": 1200,
+		"dmg": "6d8",
+		"bludgeoning": true,
+		"category": "direct-fire (gargantuan)",
+		"proficiency": "siege engine",
+		"critRange": 19,
+		"critMultiplier": 2,
+		"range": 100,
+		"crew": 5,
+		"aim": 3,
+		"load": 5,
+		"speed": "0 ft.",
+		"copyof": "Ballista, light",
+		"heading": [
+			"**Ballista, gate breaker**",
+			"**Source** [Ultimate Combat pg. 160](source:Ultimate Combat)"
+		],
+		"statistics": [
+			"**Cost** 1,200 gp **Weight** -",
+			"**Damage** 6d8; **Critical** 19-20/x2; **Range** 100 ft.; **Type** B",
+			"**Crew** 5; **Aim** 3; **Load** 5; **Speed** 0 ft.",
+			"**Category** Direct-Fire (Gargantuan); **Proficiency** Siege Engine"
+		]
+	},
+	"Firewyrm": {
+		"equipmentname": "Firewyrm",
+		"file": "equipmentweaponsdisplay1317.html",
+		"sources": [ "Ultimate Combat" ],
+		"type": "siege weapon",
+		"cost": 6000,
+		"dmg": "6d6",
+		"dmgType": "fire",
+		"category": "direct-fire (gargantuan)",
+		"proficiency": "siege engine",
+		"crew": 5,
+		"aim": 2,
+		"load": 6,
+		"speed": "0 ft.",
+		"heading": [
+			"**Firewyrm**",
+			"**Source** [Ultimate Combat pg. 163](source:Ultimate Combat)"
+		],
+		"description": [
+			"This siege engine is a larger version of the firedrake. A firewyrm is too large to be transported to the battlefield in one piece and must be assembled once the component parts reach the battlefield. A firewyrm fires its gout of flame in either a 120-foot line or a 60-foot cone (crew leader's choice). Targets in the area take 6d6 points of fire damage (DC 20 Reflex save halves). Those who fail their saves catch on fire. A firewyrm with the broken condition that suffers a further mishap explodes, dealing its damage to all creatures within a 30-foot blast (DC 20 Reflex save halves). Firewyrms have a hardness of 10 and 140 hit points. One use of firewyrm ammunition costs 400 gp and weighs 40 pounds."
+		],
+		"statistics": [
+			"**Cost** 6,000 gp **Weight** -",
+			"**Damage** 6d6; **Critical** -; **Range** -; **Type** fire",
+			"**Crew** 5; **Aim** 2; **Load** 6; **Speed** 0 ft.",
+			"**Category** Direct-Fire (Gargantuan); **Proficiency** Siege Engine"
+		]
+	},
+	"Bombard, light": {
+		"equipmentname": "Bombard, light",
+		"file": "equipmentweaponsdisplay1ec7.html",
+		"sources": [ "Ultimate Combat" ],
+		"type": "siege weapon",
+		"cost": 6000,
+		"dmg": "5d6",
+		"bludgeoning": true,
+		"piercing": true,
+		"category": "indirect-fire (large)",
+		"proficiency": "siege engine",
+		"critMultiplier": 4,
+		"range": 100,
+		"rangeMin": 50,
+		"crew": 2,
+		"aim": 1,
+		"load": 3,
+		"speed": "10 ft.",
+		"heading": [
+			"**Bombard, light**",
+			"**Source** [Ultimate Combat pg. 161](source:Ultimate Combat)"
+		],
+		"description": [
+			"Resembling either large cauldrons or more traditional cannons, these firearms lob their ammunition in an arc in order to deliver their deadly payloads over troops or castle walls. Bombards are normally fired indirectly, but can also be fired as direct-fire siege engines. When they are used for direct fire, they take a -4 penalty on attack rolls and have their range increment halved, but do not have a minimum range. Like all firearms, bombards do not suffer mishaps, but instead have a misfire chance.",
+			"**Light:** These bombards resemble cauldrons attached to swivels. Often they are mounted into the ground or into the stone of castle walls because of the mighty power of their recoil. The targeting DC of a light bombard is 15. A light bombard has a base misfire range of 1-2 (10 feet). Light bombards have a hardness of 10 and 70 hit points. Light bombard balls cost 30 gp each and weigh 25 pounds.",
+			"**Standard:** These bombards feature the greatest diversity of forms. Many take the cauldron shape of the light bombard, but they may also take the forms of more traditional cannons, albeit featuring stabilizing mechanisms that allow them to fire at a much steeper incline. The targeting DC of a standard bombard is 20. A standard bombard has a misfire range of 1-2 (20 feet). Standard bombards have a hardness of 10 and 140 hit points. Standard bombard balls cost 35 gp each and weigh 30 pounds.",
+			"**Heavy:** These massive siege engines are often fixed to positions on high hilltops or atop massive keeps, raining death down on a valley or strait. Often these firearms come in two pieces connected by a screw mechanism. The bombard is unscrewed to be loaded, and then the main part of the muzzle is screwed back on to the barrel section in order to be fired. Heavy bombards are too large and powerful to mount on vehicles. The targeting DC of a heavy bombard is 25. A heavy bombard has a misfire range of 1-2 (30 feet). Heavy bombards have a hardness of 10 and 280 hit points. Heavy bombard balls cost 45 gp each and weigh 50 pounds."
+		],
+		"statistics": [
+			"**Cost** 6,000 gp **Weight** -",
+			"**Damage** 5d6; **Critical** x4; **Range** 100 ft. (50 ft. min.); **Type** B and P",
+			"**Crew** 2; **Aim** 1; **Load** 3; **Speed** 10 ft.",
+			"**Category** Indirect-Fire (Large); **Proficiency** Siege Engine"
+		]
+	},
+	"Catapult, light": {
+		"equipmentname": "Catapult, light",
+		"file": "equipmentweaponsdisplayd144.html",
+		"sources": [
+			"Ultimate Combat",
+			"PRPG Core Rulebook"
+		],
+		"type": "siege weapon",
+		"cost": 550,
+		"dmg": "4d6",
+		"bludgeoning": true,
+		"category": "indirect-fire (large)",
+		"proficiency": "siege engine",
+		"critMultiplier": 2,
+		"range": 150,
+		"rangeMin": 50,
+		"crew": 2,
+		"aim": 2,
+		"load": 3,
+		"speed": "10 ft.",
+		"heading": [
+			"**Catapult, light**",
+			"**Source** [Ultimate Combat pg. 162](source:Ultimate Combat), [PRPG Core Rulebook pg. 435](source:PRPG Core Rulebook)"
+		],
+		"description": [
+			"Catapults are stone-throwing siege engines powered by winched arms that run through torsion skeins, and hold their payload in a cup that swings up and over the weapon when released. Catapults can hurl a variety of different types of ammunition (the damage given is for stone projectiles; other types of ammunition can be found later in this chapter). They are indirect-fire siege engines.",
+			"**Light:** These catapults are Large and often mounted on wheels. The targeting DC of a light catapult is 15. Light catapults have a hardness of 5 and 50 hit points. Light catapult stones cost 10 gp and weigh 50 pounds each. Standard: These Huge siege engines are too large to be transported to the battlefield in one piece, and require assembly. They typically hurl large stones indirectly at a target (targeting DC 20). Standard catapults have a hardness of 5 and 100 hit points. Standard catapult stones cost 15 gp and weigh 75 pounds each. Heavy: These Gargantuan siege engines are too large to be transported to the battlefield in one piece, and require assembly. They typically hurl large stones indirectly at a target (targeting DC 25). Heavy catapults have a hardness of 5 and 200 hit points. Heavy catapult stones cost 25 gp and weigh 90 pounds each."
+		],
+		"statistics": [
+			"**Cost** 550 gp **Weight** -",
+			"**Damage** 4d6; **Critical** x2; **Range** 150 ft. (50 ft. min.); **Type** B",
+			"**Crew** 2; **Aim** 2; **Load** 3; **Speed** 10 ft.",
+			"**Category** Indirect-Fire (Large); **Proficiency** Siege Engine"
+		]
+	},
+	"Trebuchet, light": {
+		"equipmentname": "Trebuchet, light",
+		"file": "equipmentweaponsdisplaye756.html",
+		"sources": [ "Ultimate Combat" ],
+		"type": "siege weapon",
+		"cost": 800,
+		"dmg": "4d6",
+		"bludgeoning": true,
+		"category": "indirect-fire (large)",
+		"proficiency": "siege engine",
+		"critMultiplier": 2,
+		"range": 200,
+		"rangeMin": 100,
+		"crew": 3,
+		"aim": 2,
+		"load": 3,
+		"speed": "0 ft.",
+		"heading": [
+			"**Trebuchet, light**",
+			"**Source** [Ultimate Combat pg. 163](source:Ultimate Combat)"
+		],
+		"description": [
+			"Trebuchets are similar in form to catapults, with the payload placed into a basket, cup, or sling at the end of a long lever, and a counterweight (often with crew or animals pulling attached ropes) close to the fulcrum. The leverage imparted by a trebuchet allows it to hurl massive missiles that scatter to a number of squares around the target square based on the size of the trebuchet. Trebuchets are too bulky to move on wheels or vehicles and must be assembled on the battlefield. Trebuchets have a minimum range of 150 feet.",
+			"**Light:** These Large siege engines typically hurl large stones indirectly at a target (targeting DC 15). A light trebuchet's ammunition scatters on contact, dealing full damage to the target square and half its damage to creatures and objects within 5 feet of the target square (creatures can make a DC 15 Reflex save to halve the damage again). Light trebuchets have a hardness of 5 and 50 hit points. One use of light trebuchet stones costs 15 gp and weighs 60 pounds.",
+			"**Standard:** These Huge siege engines typically hurl large stones indirectly at a target (targeting DC 20). A standard trebuchet's ammunition scatters on contact, dealing full damage to the target square and half damage to creatures and objects within 15 feet of the target square (creatures can make a DC 20 Reflex save to halve the damage again). Standard trebuchets have a hardness of 5 and 100 hit points. One use of standard trebuchet stones costs 30 gp and weighs 110 pounds.",
+			"**Heavy:** These Gargantuan siege engines typically hurl large stones indirectly at a target (targeting DC 25). A heavy trebuchet's ammunition scatters on contact, dealing full damage to the target square and half its damage to creatures and objects within 30 feet of the target square (creatures can make a DC 25 Reflex save to halve the damage again). Heavy trebuchets have a hardness of 5 and 200 hit points. One use of heavy trebuchet stones costs 40 gp and weighs 120 pounds."
+		],
+		"statistics": [
+			"**Cost** 800 gp **Weight** -",
+			"**Damage** 4d6; **Critical** x2; **Range** 200 ft. (100 ft. min.); **Type** B",
+			"**Crew** 3; **Aim** 2; **Load** 3; **Speed** 0 ft.",
+			"**Category** Indirect-Fire (Large); **Proficiency** Siege Engine"
+		]
+	},
+	"Bombard, standard": {
+		"equipmentname": "Bombard, standard",
+		"file": "equipmentweaponsdisplayc038.html",
+		"sources": [ "Ultimate Combat" ],
+		"type": "siege weapon",
+		"cost": 8000,
+		"dmg": "7d6",
+		"bludgeoning": true,
+		"piercing": true,
+		"category": "indirect-fire (huge)",
+		"proficiency": "siege engine",
+		"critMultiplier": 4,
+		"range": 150,
+		"rangeMin": 100,
+		"crew": 2,
+		"aim": 1,
+		"load": 3,
+		"speed": "10 ft.",
+		"copyof": "Bombard, light",
+		"heading": [
+			"**Bombard, standard**",
+			"**Source** [Ultimate Combat pg. 161](source:Ultimate Combat)"
+		],
+		"statistics": [
+			"**Cost** 8,000 gp **Weight** -",
+			"**Damage** 7d6; **Critical** x4; **Range** 150 ft. (100 ft. min.); **Type** B and P",
+			"**Crew** 2; **Aim** 1; **Load** 3; **Speed** 10 ft.",
+			"**Category** Indirect-Fire (Huge); **Proficiency** Siege Engine"
+		]
+	},
+	"Catapult, standard": {
+		"equipmentname": "Catapult, standard",
+		"file": "equipmentweaponsdisplay2eba.html",
+		"sources": [ "Ultimate Combat" ],
+		"type": "siege weapon",
+		"cost": 800,
+		"dmg": "6d6",
+		"bludgeoning": true,
+		"category": "indirect-fire (huge)",
+		"proficiency": "siege engine",
+		"critMultiplier": 2,
+		"range": 200,
+		"rangeMin": 100,
+		"crew": 3,
+		"aim": 2,
+		"load": 3,
+		"speed": "0 ft.",
+		"copyof": "Catapult, light",
+		"heading": [
+			"**Catapult, standard**",
+			"**Source** [Ultimate Combat pg. 162](source:Ultimate Combat)"
+		],
+		"statistics": [
+			"**Cost** 800 gp **Weight** -",
+			"**Damage** 6d6; **Critical** x2; **Range** 200 ft. (100 ft. min.); **Type** B",
+			"**Crew** 3; **Aim** 2; **Load** 3; **Speed** 0 ft.",
+			"**Category** Indirect-Fire (Huge); **Proficiency** Siege Engine"
+		]
+	},
+	"Springal, arrow": {
+		"equipmentname": "Springal, arrow",
+		"file": "equipmentweaponsdisplayf0b8.html",
+		"sources": [ "Ultimate Combat" ],
+		"type": "siege weapon",
+		"cost": 1000,
+		"dmg": "3d8",
+		"piercing": true,
+		"category": "indirect-fire (huge)",
+		"proficiency": "siege engine",
+		"critMultiplier": 3,
+		"range": 100,
+		"rangeMin": 50,
+		"crew": 3,
+		"aim": 2,
+		"load": 3,
+		"speed": "0 ft.",
+		"heading": [
+			"**Springal, arrow**",
+			"**Source** [Ultimate Combat pg. 163](source:Ultimate Combat)"
+		],
+		"description": [
+			"A springal uses a torsion-cranked composite paddle to strike a firing rack containing multiple arrows or black-powder-propelled rockets, which rain down in an arc over a burst area. Springals are indirect-fire weapons that affect an area centered on the target square (targeting DC 20).",
+			"**Arrow:** This springal propels a group of arrows that rains down on the targeted square and in a 15-foot burst around that square. One use of arrow springal ammunition costs 20 gp and weighs 10 pounds.",
+			"**Rocket:** This highly volatile springal propels a group of black-powder rockets that rain down on the targeted square and in a 15-foot burst around the area. If the rocket springal misfires, it explodes, dealing its damage in a 20- foot blast around the springal. This explosion destroys the rocket springal. One use of rocket springal ammunition costs 500 gp and weighs 30 pounds."
+		],
+		"statistics": [
+			"**Cost** 1,000 gp **Weight** -",
+			"**Damage** 3d8; **Critical** x3; **Range** 100 ft. (50 ft. min.); **Type** P",
+			"**Crew** 3; **Aim** 2; **Load** 3; **Speed** 0 ft.",
+			"**Category** Indirect-Fire (Huge); **Proficiency** Siege Engine"
+		]
+	},
+	"Springal, rocket": {
+		"equipmentname": "Springal, rocket",
+		"file": "equipmentweaponsdisplaya4ad.html",
+		"sources": [ "Ultimate Combat" ],
+		"type": "siege weapon",
+		"cost": 6000,
+		"dmg": "3d10",
+		"dmgType": "fire",
+		"category": "indirect-fire (huge)",
+		"proficiency": "siege engine",
+		"critMultiplier": 4,
+		"range": 100,
+		"rangeMin": 50,
+		"crew": 3,
+		"aim": 2,
+		"load": 3,
+		"speed": "0 ft.",
+		"copyof": "Springal, arrow",
+		"heading": [
+			"**Springal, rocket**",
+			"**Source** [Ultimate Combat pg. 163](source:Ultimate Combat)"
+		],
+		"statistics": [
+			"**Cost** 6,000 gp **Weight** -",
+			"**Damage** 3d10; **Critical** x4; **Range** 100 ft. (50 ft. min.); **Type** fire",
+			"**Crew** 3; **Aim** 2; **Load** 3; **Speed** 0 ft.",
+			"**Category** Indirect-Fire (Huge); **Proficiency** Siege Engine"
+		]
+	},
+	"Trebuchet, standard": {
+		"equipmentname": "Trebuchet, standard",
+		"file": "equipmentweaponsdisplay0ab2.html",
+		"sources": [ "Ultimate Combat" ],
+		"type": "siege weapon",
+		"cost": 1000,
+		"dmg": "6d6",
+		"bludgeoning": true,
+		"category": "indirect-fire (huge)",
+		"proficiency": "siege engine",
+		"critMultiplier": 2,
+		"range": 300,
+		"rangeMin": 150,
+		"crew": 4,
+		"aim": 2,
+		"load": 3,
+		"speed": "0 ft.",
+		"copyof": "Trebuchet, light",
+		"heading": [
+			"**Trebuchet, standard**",
+			"**Source** [Ultimate Combat pg. 163](source:Ultimate Combat)"
+		],
+		"statistics": [
+			"**Cost** 1,000 gp **Weight** -",
+			"**Damage** 6d6; **Critical** x2; **Range** 300 ft. (150 ft. min.); **Type** B",
+			"**Crew** 4; **Aim** 2; **Load** 3; **Speed** 0 ft.",
+			"**Category** Indirect-Fire (Huge); **Proficiency** Siege Engine"
+		]
+	},
+	"Bombard, heavy": {
+		"equipmentname": "Bombard, heavy",
+		"file": "equipmentweaponsdisplayf759.html",
+		"sources": [ "Ultimate Combat" ],
+		"type": "siege weapon",
+		"cost": 16000,
+		"dmg": "9d6",
+		"bludgeoning": true,
+		"piercing": true,
+		"category": "indirect-fire (gargantuan)",
+		"proficiency": "siege engine",
+		"critMultiplier": 4,
+		"range": 200,
+		"rangeMin": 100,
+		"crew": 4,
+		"aim": 3,
+		"load": 5,
+		"speed": "0 ft.",
+		"copyof": "Bombard, light",
+		"heading": [
+			"**Bombard, heavy**",
+			"**Source** [Ultimate Combat pg. 161](source:Ultimate Combat)"
+		],
+		"statistics": [
+			"**Cost** 16,000 gp **Weight** -",
+			"**Damage** 9d6; **Critical** x4; **Range** 200 ft. (100 ft. min.); **Type** B and P",
+			"**Crew** 4; **Aim** 3; **Load** 5; **Speed** 0 ft.",
+			"**Category** Indirect-Fire (Gargantuan); **Proficiency** Siege Engine"
+		]
+	},
+	"Catapult, heavy": {
+		"equipmentname": "Catapult, heavy",
+		"file": "equipmentweaponsdisplaybb6a.html",
+		"sources": [
+			"Ultimate Combat",
+			"PRPG Core Rulebook"
+		],
+		"type": "siege weapon",
+		"cost": 1000,
+		"dmg": "8d6",
+		"bludgeoning": true,
+		"category": "indirect-fire (gargantuan)",
+		"proficiency": "siege engine",
+		"critMultiplier": 2,
+		"range": 300,
+		"rangeMin": 100,
+		"crew": 4,
+		"aim": 3,
+		"load": 3,
+		"speed": "0 ft.",
+		"copyof": "Catapult, light",
+		"heading": [
+			"**Catapult, heavy**",
+			"**Source** [Ultimate Combat pg. 162](source:Ultimate Combat), [PRPG Core Rulebook pg. 434](source:PRPG Core Rulebook)"
+		],
+		"statistics": [
+			"**Cost** 1,000 gp **Weight** -",
+			"**Damage** 8d6; **Critical** x2; **Range** 300 ft. (100 ft. min.); **Type** B",
+			"**Crew** 4; **Aim** 3; **Load** 3; **Speed** 0 ft.",
+			"**Category** Indirect-Fire (Gargantuan); **Proficiency** Siege Engine"
+		]
+	},
+	"Trebuchet, heavy": {
+		"equipmentname": "Trebuchet, heavy",
+		"file": "equipmentweaponsdisplay79c3.html",
+		"sources": [ "Ultimate Combat" ],
+		"type": "siege weapon",
+		"cost": 1500,
+		"dmg": "8d6",
+		"bludgeoning": true,
+		"category": "indirect-fire (gargantuan)",
+		"proficiency": "siege engine",
+		"critMultiplier": 2,
+		"range": 400,
+		"rangeMin": 200,
+		"crew": 4,
+		"aim": 3,
+		"load": 3,
+		"speed": "0 ft.",
+		"copyof": "Trebuchet, light",
+		"heading": [
+			"**Trebuchet, heavy**",
+			"**Source** [Ultimate Combat pg. 163](source:Ultimate Combat)"
+		],
+		"statistics": [
+			"**Cost** 1,500 gp **Weight** -",
+			"**Damage** 8d6; **Critical** x2; **Range** 400 ft. (200 ft. min.); **Type** B",
+			"**Crew** 4; **Aim** 3; **Load** 3; **Speed** 0 ft.",
+			"**Category** Indirect-Fire (Gargantuan); **Proficiency** Siege Engine"
+		]
+	},
+	"Bridge, assault, Colossal": {
+		"equipmentname": "Bridge, assault, Colossal",
+		"file": "equipmentweaponsdisplay62b3.html",
+		"sources": [ "Ultimate Combat" ],
+		"type": "siege weapon",
+		"cost": 250,
+		"category": "close assault",
+		"proficiency": "siege engine",
+		"crew": 0,
+		"speed": "0 ft.",
+		"heading": [
+			"**Bridge, assault, Colossal**",
+			"**Source** [Ultimate Combat pg. 165](source:Ultimate Combat)"
+		],
+		"description": [
+			"An assault bridge is used to span a ditch, moat, or other gap. Raising an assault bridge requires one full-round action per 5 feet of length; up to four creatures may cooperate to raise a bridge. The time required is doubled for each size category that the bridge is larger than the creatures raising it. Large assault bridges have 40 hit points, Huge ones have 60 hit points, Gargantuan ones have 160 hit points, and Colossal ones have 240 hit points.",
+			"**Table 3-16:** Bridges and Escalade Ladders",
+			"| Size | Width | Length/Height |",
+			"| --- | --- | --- |",
+			"| Large | 5 ft. | 20 ft. |",
+			"| Huge | 5 ft. | 30 ft. |",
+			"| Gargantuan | 10 ft. | 40 ft. |",
+			"| Colossal | 10 ft. | 60 ft. |"
+		],
+		"statistics": [
+			"**Cost** 250 gp **Weight** -",
+			"**Damage** -; **Critical** -; **Range** -; **Type** -",
+			"**Crew** 0; **Aim** 0; **Load** 0; **Speed** 0 ft.",
+			"**Category** Close Assault; **Proficiency** Siege Engine"
+		]
+	},
+	"Bridge, assault, Gargantuan": {
+		"equipmentname": "Bridge, assault, Gargantuan",
+		"file": "equipmentweaponsdisplay2c10.html",
+		"sources": [ "Ultimate Combat" ],
+		"type": "siege weapon",
+		"cost": 50,
+		"category": "close assault",
+		"proficiency": "siege engine",
+		"crew": 0,
+		"speed": "0 ft.",
+		"copyof": "Bridge, assault, Colossal",
+		"heading": [
+			"**Bridge, assault, Gargantuan**",
+			"**Source** [Ultimate Combat pg. 165](source:Ultimate Combat)"
+		],
+		"statistics": [
+			"**Cost** 50 gp **Weight** -",
+			"**Damage** -; **Critical** -; **Range** -; **Type** -",
+			"**Crew** 0; **Aim** 0; **Load** 0; **Speed** 0 ft.",
+			"**Category** Close Assault; **Proficiency** Siege Engine"
+		]
+	},
+	"Bridge, assault, Huge": {
+		"equipmentname": "Bridge, assault, Huge",
+		"file": "equipmentweaponsdisplaya6d0.html",
+		"sources": [ "Ultimate Combat" ],
+		"type": "siege weapon",
+		"cost": 10,
+		"category": "close assault",
+		"proficiency": "siege engine",
+		"crew": 0,
+		"speed": "0 ft.",
+		"copyof": "Bridge, assault, Colossal",
+		"heading": [
+			"**Bridge, assault, Huge**",
+			"**Source** [Ultimate Combat pg. 165](source:Ultimate Combat)"
+		],
+		"statistics": [
+			"**Cost** 10 gp **Weight** -",
+			"**Damage** -; **Critical** -; **Range** -; **Type** -",
+			"**Crew** 0; **Aim** 0; **Load** 0; **Speed** 0 ft.",
+			"**Category** Close Assault; **Proficiency** Siege Engine"
+		]
+	},
+	"Bridge, assault, Large": {
+		"equipmentname": "Bridge, assault, Large",
+		"file": "equipmentweaponsdisplayd200.html",
+		"sources": [ "Ultimate Combat" ],
+		"type": "siege weapon",
+		"cost": 1,
+		"category": "close assault",
+		"proficiency": "siege engine",
+		"crew": 0,
+		"speed": "0 ft.",
+		"copyof": "Bridge, assault, Colossal",
+		"heading": [
+			"**Bridge, assault, Large**",
+			"**Source** [Ultimate Combat pg. 165](source:Ultimate Combat)"
+		],
+		"statistics": [
+			"**Cost** 1 gp **Weight** -",
+			"**Damage** -; **Critical** -; **Range** -; **Type** -",
+			"**Crew** 0; **Aim** 0; **Load** 0; **Speed** 0 ft.",
+			"**Category** Close Assault; **Proficiency** Siege Engine"
+		]
+	},
+	"Corvus": {
+		"equipmentname": "Corvus",
+		"file": "equipmentweaponsdisplay9f57.html",
+		"sources": [ "Ultimate Combat" ],
+		"type": "siege weapon",
+		"cost": 100,
+		"category": "close assault",
+		"proficiency": "siege engine",
+		"crew": 1,
+		"speed": "0 ft.",
+		"heading": [
+			"**Corvus**",
+			"**Source** [Ultimate Combat pg. 165](source:Ultimate Combat)"
+		],
+		"description": [
+			"A corvus is a boarding device that features a hinged counterweight system for mounting a bridge vertically on a siege tower or a vehicle, with a hooked end to grab onto a target vehicle or structure. A corvus is usually 10 feet wide and 15 feet long. It has a hardness of 5 and 10 hit points per square. Using a corvus requires a DC 10 Profession (siege engineer) check as a full-round action; if the check fails, the corvus fails to catch on the target and must be reset (a full-round action). A corvus mounted on a vehicle can target another moving vehicle (see Chapter 4: Vehicles). Doing so requires an opposed driving check to get the corvus into the correct position, which is within the length of the corvus and adjacent to the other vehicle. Once a corvus is attached, it takes a Strength check as a full-round action to dislodge the corvus. Alternatively, if the corvus is attached to a vehicle, either vehicle driver can make a driving check as a standard action to dislodge the corvus (a check that succeeds by 5 or more destroys the corvus). The base DC for either of these checks is 15, and the DC increases by 5 for every Small or Medium creature currently standing on the corvus. If a corvus is disengaged while creatures are standing on it, those creatures must make a DC 15 Reflex saving throw or fall. Succeeding at the saving throw allows them to move to the nearest area of safe ground, but such movement provokes attacks of opportunity. A corvus cannot be armored."
+		],
+		"statistics": [
+			"**Cost** 100 gp **Weight** -",
+			"**Damage** -; **Critical** -; **Range** -; **Type** -",
+			"**Crew** 1; **Aim** 0; **Load** 0; **Speed** 0 ft.",
+			"**Category** Close Assault; **Proficiency** Siege Engine"
+		]
+	},
+	"Crushing Wheel": {
+		"equipmentname": "Crushing Wheel",
+		"file": "equipmentweaponsdisplay2585.html",
+		"sources": [ "Belkzen, Hold of the Orc Hordes" ],
+		"type": "siege weapon",
+		"cost": 500,
+		"dmg": "4d6",
+		"bludgeoning": true,
+		"category": "close assault",
+		"proficiency": "siege engine",
+		"crew": 4,
+		"speed": "0 ft.",
+		"heading": [
+			"**Crushing Wheel**",
+			"**Source** [Belkzen, Hold of the Orc Hordes pg. 39](source:Belkzen, Hold of the Orc Hordes)"
+		],
+		"description": [
+			"The bulk of this weapon is a steel roller nearly 10 feet wide. Handles or a harness project from the axle, allowing four orcs or one Large beast to push the crushing wheel from behind. As a full-round action, its crew can roll the crushing wheel over creatures in front of it. This functions as the trample monster ability except as noted here. Creatures that are overrun fall prone and take 4d6 points of damage. Targets that succeed at a DC 15 Reflex saving throw take only half damage and avoid falling prone. A crushing wheel has a hardness of 10 and 100 hit points.",
+			"A crushing wheel is a Large siege engine."
+		],
+		"statistics": [
+			"**Cost** 500 gp **Weight** -",
+			"**Damage** 4d6; **Critical** -; **Range** -; **Type** B",
+			"**Crew** 4; **Aim** 0; **Load** 0; **Speed** 0 ft.",
+			"**Category** Close Assault; **Proficiency** Siege Engine"
+		]
+	},
+	"Earthmaul": {
+		"equipmentname": "Earthmaul",
+		"file": "equipmentweaponsdisplay1786.html",
+		"sources": [ "Belkzen, Hold of the Orc Hordes" ],
+		"type": "siege weapon",
+		"cost": 1000,
+		"dmg": "6d6",
+		"bludgeoning": true,
+		"category": "close assault",
+		"proficiency": "siege engine",
+		"crew": 3,
+		"speed": "0 ft.",
+		"heading": [
+			"**Earthmaul**",
+			"**Source** [Belkzen, Hold of the Orc Hordes pg. 39](source:Belkzen, Hold of the Orc Hordes)"
+		],
+		"description": [
+			"This war machine is fitted with an enormous hammer. When dropped into the horizontal position, it functions like a sideways-mounted catapult, and is capable of clearing wide swaths of enemies. Although it doesn't use ammunition, the earthmaul must effectively be reloaded by winding the torsion. When the earthmaul is activated, creatures on the ground in a 15-foot cone take 6d6 points of damage, are knocked 10 feet in the direction of the swing, and fall prone. A successful DC 20 Reflex saving throw halves the damage and negates the additional effects. An earthmaul has a hardness of 5 and 100 hit points.",
+			"An earthmaul is a Huge siege engine."
+		],
+		"statistics": [
+			"**Cost** 1,000 gp **Weight** -",
+			"**Damage** 6d6; **Critical** -; **Range** -; **Type** B",
+			"**Crew** 3; **Aim** 0; **Load** 3; **Speed** 0 ft.",
+			"**Category** Close Assault; **Proficiency** Siege Engine"
+		]
+	},
+	"Gallery, Colossal": {
+		"equipmentname": "Gallery, Colossal",
+		"file": "equipmentweaponsdisplay4a89.html",
+		"sources": [ "Ultimate Combat" ],
+		"type": "siege weapon",
+		"cost": 2000,
+		"category": "close assault",
+		"proficiency": "siege engine",
+		"crew": 18,
+		"speed": "15 ft.",
+		"heading": [
+			"**Gallery, Colossal**",
+			"**Source** [Ultimate Combat pg. 166](source:Ultimate Combat)"
+		],
+		"description": [
+			"A mobile temporary defense, a gallery is similar to a building made of hide or wood. Most are of flimsy construction, but rare examples are more stoutly built (use the rules for giving siege engines armor, and adjust AC, hardness, and hit points accordingly). Galleries are almost always a single section of movable \"wall\" plus another section that acts as the \"roof.\" (Galleries made to house battering rams are an exception, and typically have two joined wall sections and roof sections.) Because a gallery is partially open, it does not provide the same cover as a normal building: a creature inside a gallery gains cover if it is the same size as the gallery, improved cover if it is one size smaller, and total cover if it is two or more sizes smaller. Galleries are sized like creatures-a Larger gallery protects the same space as a Large creature, and so on.",
+			"Wooden galleries can be moved on rollers at a speed of 10 feet with their full crew, or 5 feet with at least half the required crew. Galleries have a base speed of 15 feet (or 10 feet if protected with medium or heavy armor).",
+			"Galleries have a hardness of 5, and hit points based on their size. A Large gallery has 30 hit points, a Huge one has 120 hit points, a Gargantuan one has 320 hit points, and a colossal one has 625 hit points."
+		],
+		"statistics": [
+			"**Cost** 2,000 gp **Weight** -",
+			"**Damage** -; **Critical** -; **Range** -; **Type** -",
+			"**Crew** 18; **Aim** 0; **Load** 0; **Speed** 15 ft.",
+			"**Category** Close Assault; **Proficiency** Siege Engine"
+		]
+	},
+	"Gallery, Gargantuan": {
+		"equipmentname": "Gallery, Gargantuan",
+		"file": "equipmentweaponsdisplay2ab2.html",
+		"sources": [ "Ultimate Combat" ],
+		"type": "siege weapon",
+		"cost": 1000,
+		"category": "close assault",
+		"proficiency": "siege engine",
+		"crew": 9,
+		"speed": "15 ft.",
+		"copyof": "Gallery, Colossal",
+		"heading": [
+			"**Gallery, Gargantuan**",
+			"**Source** [Ultimate Combat pg. 166](source:Ultimate Combat)"
+		],
+		"statistics": [
+			"**Cost** 1,000 gp **Weight** -",
+			"**Damage** -; **Critical** -; **Range** -; **Type** -",
+			"**Crew** 9; **Aim** 0; **Load** 0; **Speed** 15 ft.",
+			"**Category** Close Assault; **Proficiency** Siege Engine"
+		]
+	},
+	"Gallery, Huge": {
+		"equipmentname": "Gallery, Huge",
+		"file": "equipmentweaponsdisplay7b0e.html",
+		"sources": [ "Ultimate Combat" ],
+		"type": "siege weapon",
+		"cost": 500,
+		"category": "close assault",
+		"proficiency": "siege engine",
+		"crew": 6,
+		"speed": "15 ft.",
+		"copyof": "Gallery, Colossal",
+		"heading": [
+			"**Gallery, Huge**",
+			"**Source** [Ultimate Combat pg. 166](source:Ultimate Combat)"
+		],
+		"statistics": [
+			"**Cost** 500 gp **Weight** -",
+			"**Damage** -; **Critical** -; **Range** -; **Type** -",
+			"**Crew** 6; **Aim** 0; **Load** 0; **Speed** 15 ft.",
+			"**Category** Close Assault; **Proficiency** Siege Engine"
+		]
+	},
+	"Gallery, Large": {
+		"equipmentname": "Gallery, Large",
+		"file": "equipmentweaponsdisplaye4dc.html",
+		"sources": [ "Ultimate Combat" ],
+		"type": "siege weapon",
+		"cost": 250,
+		"category": "close assault",
+		"proficiency": "siege engine",
+		"crew": 3,
+		"speed": "15 ft.",
+		"copyof": "Gallery, Colossal",
+		"heading": [
+			"**Gallery, Large**",
+			"**Source** [Ultimate Combat pg. 166](source:Ultimate Combat)"
+		],
+		"statistics": [
+			"**Cost** 250 gp **Weight** -",
+			"**Damage** -; **Critical** -; **Range** -; **Type** -",
+			"**Crew** 3; **Aim** 0; **Load** 0; **Speed** 15 ft.",
+			"**Category** Close Assault; **Proficiency** Siege Engine"
+		]
+	},
+	"Harvester": {
+		"equipmentname": "Harvester",
+		"file": "equipmentweaponsdisplay94a3.html",
+		"sources": [ "Belkzen, Hold of the Orc Hordes" ],
+		"type": "siege weapon",
+		"cost": 800,
+		"dmg": "2d8",
+		"slashing": true,
+		"category": "close assault",
+		"proficiency": "siege engine",
+		"critMultiplier": 4,
+		"crew": 4,
+		"speed": "0 ft.",
+		"heading": [
+			"**Harvester**",
+			"**Source** [Belkzen, Hold of the Orc Hordes pg. 39](source:Belkzen, Hold of the Orc Hordes)"
+		],
+		"description": [
+			"A variety of scythe-like blades extend from two sides of this wheeled machine. When it's pulled-typically by an aurochs or enslaved giants-the wheels' rotation causes the blades to slash indiscriminately. Each round the harvester moves, it makes a melee attack with a +10 modifier against any adjacent creature it passes; it deals 2d8 points of damage to those it hits. Multiple harvesters can be strung together. The crew required for a train of harvesters is equal to the total crew of the individual machines. Adjacent creatures are attacked by each individual harvester that passes them. A harvester has a hardness of 5 and 50 hit points.",
+			"A  harvester is a Large siege engine."
+		],
+		"statistics": [
+			"**Cost** 800 gp **Weight** -",
+			"**Damage** 2d8; **Critical** x4; **Range** -; **Type** S",
+			"**Crew** 4; **Aim** 0; **Load** 0; **Speed** 0 ft.",
+			"**Category** Close Assault; **Proficiency** Siege Engine"
+		]
+	},
+	"Ladder, escalade, Gargantuan": {
+		"equipmentname": "Ladder, escalade, Gargantuan",
+		"file": "equipmentweaponsdisplay4775.html",
+		"sources": [ "Ultimate Combat" ],
+		"type": "siege weapon",
+		"cost": 50,
+		"category": "close assault",
+		"proficiency": "siege engine",
+		"crew": 6,
+		"speed": "0 ft.",
+		"heading": [
+			"**Ladder, escalade, Gargantuan**",
+			"**Source** [Ultimate Combat pg. 166](source:Ultimate Combat)"
+		],
+		"description": [
+			"Escalade ladders have spiked bases for stability, and the upper 5 feet are metal-shod, with hardness 10 and 20 hit points. The remainder of the ladder is wooden and has hardness 5 and hit points based on its size. Large escalade ladders have 20 hit points, Huge ones have 30 hit points, Gargantuan ones have 80 hit points, and Colossal ones have 120 hit points. Escalade ladders cannot be armored.",
+			"**Table 3-16:** Bridges and Escalade Ladders",
+			"| Size | Width | Length/Height |",
+			"| --- | --- | --- |",
+			"| Large | 5 ft. | 20 ft. |",
+			"| Huge | 5 ft. | 30 ft. |",
+			"| Gargantuan | 10 ft. | 40 ft. |",
+			"| Colossal | 10 ft. | 60 ft. |"
+		],
+		"statistics": [
+			"**Cost** 50 gp **Weight** -",
+			"**Damage** -; **Critical** -; **Range** -; **Type** -",
+			"**Crew** 6; **Aim** 0; **Load** 0; **Speed** 0 ft.",
+			"**Category** Close Assault; **Proficiency** Siege Engine"
+		]
+	},
+	"Ladder, escalade, Colossal": {
+		"equipmentname": "Ladder, escalade, Colossal",
+		"file": "equipmentweaponsdisplayfed9.html",
+		"sources": [ "Ultimate Combat" ],
+		"type": "siege weapon",
+		"cost": 250,
+		"category": "close assault",
+		"proficiency": "siege engine",
+		"crew": 8,
+		"speed": "0 ft.",
+		"copyof": "Ladder, escalade, Gargantuan",
+		"heading": [
+			"**Ladder, escalade, Colossal**",
+			"**Source** [Ultimate Combat pg. 166](source:Ultimate Combat)"
+		],
+		"statistics": [
+			"**Cost** 250 gp **Weight** -",
+			"**Damage** -; **Critical** -; **Range** -; **Type** -",
+			"**Crew** 8; **Aim** 0; **Load** 0; **Speed** 0 ft.",
+			"**Category** Close Assault; **Proficiency** Siege Engine"
+		]
+	},
+	"Ladder, escalade, Huge": {
+		"equipmentname": "Ladder, escalade, Huge",
+		"file": "equipmentweaponsdisplay9887.html",
+		"sources": [ "Ultimate Combat" ],
+		"type": "siege weapon",
+		"cost": 10,
+		"category": "close assault",
+		"proficiency": "siege engine",
+		"crew": 4,
+		"speed": "0 ft.",
+		"copyof": "Ladder, escalade, Gargantuan",
+		"heading": [
+			"**Ladder, escalade, Huge**",
+			"**Source** [Ultimate Combat pg. 166](source:Ultimate Combat)"
+		],
+		"statistics": [
+			"**Cost** 10 gp **Weight** -",
+			"**Damage** -; **Critical** -; **Range** -; **Type** -",
+			"**Crew** 4; **Aim** 0; **Load** 0; **Speed** 0 ft.",
+			"**Category** Close Assault; **Proficiency** Siege Engine"
+		]
+	},
+	"Ladder, escalade, Large": {
+		"equipmentname": "Ladder, escalade, Large",
+		"file": "equipmentweaponsdisplaybc26.html",
+		"sources": [ "Ultimate Combat" ],
+		"type": "siege weapon",
+		"cost": 5,
+		"category": "close assault",
+		"proficiency": "siege engine",
+		"crew": 2,
+		"speed": "0 ft.",
+		"copyof": "Ladder, escalade, Gargantuan",
+		"heading": [
+			"**Ladder, escalade, Large**",
+			"**Source** [Ultimate Combat pg. 166](source:Ultimate Combat)"
+		],
+		"statistics": [
+			"**Cost** 5 gp **Weight** -",
+			"**Damage** -; **Critical** -; **Range** -; **Type** -",
+			"**Crew** 2; **Aim** 0; **Load** 0; **Speed** 0 ft.",
+			"**Category** Close Assault; **Proficiency** Siege Engine"
+		]
+	},
+	"Ram, Large": {
+		"equipmentname": "Ram, Large",
+		"file": "equipmentweaponsdisplay0ea7.html",
+		"sources": [
+			"Ultimate Combat",
+			"PRPG Core Rulebook"
+		],
+		"type": "siege weapon",
+		"cost": 500,
+		"dmg": "2d6",
+		"bludgeoning": true,
+		"category": "close assault",
+		"proficiency": "siege engine",
+		"critMultiplier": 3,
+		"crew": 5,
+		"speed": "15 ft.",
+		"heading": [
+			"**Ram, Large**",
+			"**Source** [Ultimate Combat pg. 166](source:Ultimate Combat), [PRPG Core Rulebook pg. 435](source:PRPG Core Rulebook)"
+		],
+		"description": [
+			"The most basic close assault weapons are iron-shod logs carried by one or more creatures to combine their strength. A ram can be used to deal damage or to make a Strength check against the target's break DC.",
+			"**Ramming Charge:** Rams require momentum to be effective. All creatures using the ram must use the charge action to gain its full effect. Creatures not wishing to charge may make a ram attack as a full-round action, taking a -4 penalty on attack and damage rolls and Strength checks with the ram.",
+			"**Breaking:** The crew leader makes a Strength check with a +2 bonus, adding +2 for each member of the crew (or equivalent number of larger creatures; see [Crew under Siege Engine Rules](unknown:Crew under Siege Engine Rules)) assisting. The ram also provides a +4 bonus per size category above Medium.",
+			"**Damage:** The crew leader makes an attack roll with a -4 nonproficiency penalty. A hit deals the listed damage, plus the Strength modifiers of the crew leader and all members of the crew, regardless of their size.",
+			"**Improvised Ram:** Any tree, log, or timber can be used as a ram with a -4 penalty on attack and damage rolls and Strength checks.",
+			"**Pick:** A ram with a pick head grants a +2 circumstance bonus on Strength checks and attack and damage rolls made against stone structures.",
+			"**Screw:** A ram with a screw head grants a +2 circumstance bonus on Strength checks and attack and damage rolls made against earthen structures.",
+			"**Gallery Ram:** This is a ram suspended from chains or ropes within a gallery. A gallery ram does not require a charge action for full momentum. In addition, adding tethers to the back end of the ram allows four additional crew members to assist in using the ram.",
+			"**Hit Points:** Rams have a hardness of 5 and hit points based on their size. A Large ram has 30 hit points, a Huge one has 120 hit points, a Gargantuan one has 320 hit points, and a Colossal one has 625 hit points. Improvised rams have half the normal hit points."
+		],
+		"statistics": [
+			"**Cost** 500 gp **Weight** -",
+			"**Damage** 2d6; **Critical** x3; **Range** -; **Type** B",
+			"**Crew** 5; **Aim** 0; **Load** 0; **Speed** 15 ft.",
+			"**Category** Close Assault; **Proficiency** Siege Engine"
+		]
+	},
+	"Ram, Colossal": {
+		"equipmentname": "Ram, Colossal",
+		"file": "equipmentweaponsdisplayc553.html",
+		"sources": [ "Ultimate Combat" ],
+		"type": "siege weapon",
+		"cost": 5000,
+		"dmg": "10d6",
+		"bludgeoning": true,
+		"category": "close assault",
+		"proficiency": "siege engine",
+		"critMultiplier": 3,
+		"crew": 40,
+		"speed": "15 ft.",
+		"copyof": "Ram, Large",
+		"heading": [
+			"**Ram, Colossal**",
+			"**Source** [Ultimate Combat pg. 166](source:Ultimate Combat)"
+		],
+		"statistics": [
+			"**Cost** 5,000 gp **Weight** -",
+			"**Damage** 10d6; **Critical** x3; **Range** -; **Type** B",
+			"**Crew** 40; **Aim** 0; **Load** 0; **Speed** 15 ft.",
+			"**Category** Close Assault; **Proficiency** Siege Engine"
+		]
+	},
+	"Ram, Gargantuan": {
+		"equipmentname": "Ram, Gargantuan",
+		"file": "equipmentweaponsdisplayfc3a.html",
+		"sources": [ "Ultimate Combat" ],
+		"type": "siege weapon",
+		"cost": 2000,
+		"dmg": "6d6",
+		"bludgeoning": true,
+		"category": "close assault",
+		"proficiency": "siege engine",
+		"critMultiplier": 3,
+		"crew": 20,
+		"speed": "15 ft.",
+		"copyof": "Ram, Large",
+		"heading": [
+			"**Ram, Gargantuan**",
+			"**Source** [Ultimate Combat pg. 166](source:Ultimate Combat)"
+		],
+		"statistics": [
+			"**Cost** 2,000 gp **Weight** -",
+			"**Damage** 6d6; **Critical** x3; **Range** -; **Type** B",
+			"**Crew** 20; **Aim** 0; **Load** 0; **Speed** 15 ft.",
+			"**Category** Close Assault; **Proficiency** Siege Engine"
+		]
+	},
+	"Ram, Huge": {
+		"equipmentname": "Ram, Huge",
+		"file": "equipmentweaponsdisplay6211.html",
+		"sources": [ "Ultimate Combat" ],
+		"type": "siege weapon",
+		"cost": 1000,
+		"dmg": "3d6",
+		"bludgeoning": true,
+		"category": "close assault",
+		"proficiency": "siege engine",
+		"critMultiplier": 3,
+		"crew": 10,
+		"speed": "15 ft.",
+		"copyof": "Ram, Large",
+		"heading": [
+			"**Ram, Huge**",
+			"**Source** [Ultimate Combat pg. 166](source:Ultimate Combat)"
+		],
+		"statistics": [
+			"**Cost** 1,000 gp **Weight** -",
+			"**Damage** 3d6; **Critical** x3; **Range** -; **Type** B",
+			"**Crew** 10; **Aim** 0; **Load** 0; **Speed** 15 ft.",
+			"**Category** Close Assault; **Proficiency** Siege Engine"
+		]
+	},
+	"Siege tower, Colossal": {
+		"equipmentname": "Siege tower, Colossal",
+		"file": "equipmentweaponsdisplay6d9b.html",
+		"sources": [ "Ultimate Combat" ],
+		"type": "siege weapon",
+		"cost": 10000,
+		"category": "close assault",
+		"proficiency": "siege engine",
+		"crew": 48,
+		"speed": "15 ft.",
+		"heading": [
+			"**Siege tower, Colossal**",
+			"**Source** [Ultimate Combat pg. 166](source:Ultimate Combat)"
+		],
+		"description": [
+			"A wooden gallery of stout construction, a siege tower consists of a tall protective shell with a roof section. The lower story of the tower contains the crew members who propel the tower, and provides total cover to those within. A siege tower with the broken condition moves at half speed. If a siege tower is destroyed, the entire tower collapses. Treat this as a [cave-in](unknown:cave-in).",
+			"The upper section of a siege tower provides improved cover for a number of soldiers (see below) and may have pierced walls allowing creatures to fire ranged weapons out the sides. The roof section may have a battlement and may mount a siege engine of the siege tower's size or smaller and a corvus. Siege towers have a base speed of 15 (or 10 feet if protected with medium or heavy armor).",
+			"Siege towers have a hardness of 5, and hit points based on their size. A Large siege tower has 60 hit points, a Huge one has 240 hit points, a Gargantuan one has 640 hit points, and a Colossal one has 1,250 hit points.",
+			"**Table 3-17:** Siege Tower Complement",
+			"| Size | Soldiers |",
+			"| --- | --- |",
+			"| Large | 5 |",
+			"| Huge | 10 |",
+			"| Gargantuan | 50 |",
+			"| Colossal | 200 |"
+		],
+		"statistics": [
+			"**Cost** 10,000 gp **Weight** -",
+			"**Damage** -; **Critical** -; **Range** -; **Type** -",
+			"**Crew** 48; **Aim** 0; **Load** 0; **Speed** 15 ft.",
+			"**Category** Close Assault; **Proficiency** Siege Engine"
+		]
+	},
+	"Siege tower, Gargantuan": {
+		"equipmentname": "Siege tower, Gargantuan",
+		"file": "equipmentweaponsdisplay07d0.html",
+		"sources": [ "Ultimate Combat" ],
+		"type": "siege weapon",
+		"cost": 5000,
+		"category": "close assault",
+		"proficiency": "siege engine",
+		"crew": 24,
+		"speed": "15 ft.",
+		"copyof": "Siege tower, Colossal",
+		"heading": [
+			"**Siege tower, Gargantuan**",
+			"**Source** [Ultimate Combat pg. 166](source:Ultimate Combat)"
+		],
+		"statistics": [
+			"**Cost** 5,000 gp **Weight** -",
+			"**Damage** -; **Critical** -; **Range** -; **Type** -",
+			"**Crew** 24; **Aim** 0; **Load** 0; **Speed** 15 ft.",
+			"**Category** Close Assault; **Proficiency** Siege Engine"
+		]
+	},
+	"Siege tower, Huge": {
+		"equipmentname": "Siege tower, Huge",
+		"file": "equipmentweaponsdisplay4460.html",
+		"sources": [ "Ultimate Combat" ],
+		"type": "siege weapon",
+		"cost": 2000,
+		"category": "close assault",
+		"proficiency": "siege engine",
+		"crew": 12,
+		"speed": "15 ft.",
+		"copyof": "Siege tower, Colossal",
+		"heading": [
+			"**Siege tower, Huge**",
+			"**Source** [Ultimate Combat pg. 166](source:Ultimate Combat)"
+		],
+		"statistics": [
+			"**Cost** 2,000 gp **Weight** -",
+			"**Damage** -; **Critical** -; **Range** -; **Type** -",
+			"**Crew** 12; **Aim** 0; **Load** 0; **Speed** 15 ft.",
+			"**Category** Close Assault; **Proficiency** Siege Engine"
+		]
+	},
+	"Siege tower, Large": {
+		"equipmentname": "Siege tower, Large",
+		"file": "equipmentweaponsdisplay68cb.html",
+		"sources": [
+			"Ultimate Combat",
+			"PRPG Core Rulebook"
+		],
+		"type": "siege weapon",
+		"cost": 1000,
+		"category": "close assault",
+		"proficiency": "siege engine",
+		"crew": 6,
+		"speed": "15 ft.",
+		"copyof": "Siege tower, Colossal",
+		"heading": [
+			"**Siege tower, Large**",
+			"**Source** [Ultimate Combat pg. 166](source:Ultimate Combat), [PRPG Core Rulebook pg. 435](source:PRPG Core Rulebook)"
+		],
+		"statistics": [
+			"**Cost** 1,000 gp **Weight** -",
+			"**Damage** -; **Critical** -; **Range** -; **Type** -",
+			"**Crew** 6; **Aim** 0; **Load** 0; **Speed** 15 ft.",
+			"**Category** Close Assault; **Proficiency** Siege Engine"
+		]
+	}
+}
