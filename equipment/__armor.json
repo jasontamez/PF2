@@ -1,0 +1,1312 @@
+{
+	"Armor spikes": {
+		"equipmentname": "Armor spikes",
+		"file": "equipmentarmordisplay649c.html",
+		"sources": [
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
+		],
+		"type": "armor",
+		"category": "extra",
+		"costAdjustment": 50,
+		"weightAdjustment": 10
+	},
+	"Locked gauntlet": {
+		"equipmentname": "Locked gauntlet",
+		"file": "equipmentarmordisplayc81f.html",
+		"sources": [
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
+		],
+		"type": "armor",
+		"category": "extra",
+		"costAdjustment": 8,
+		"weightAdjustment": 5
+	},
+	"Shield spikes": {
+		"equipmentname": "Shield spikes",
+		"file": "equipmentarmordisplayeea6.html",
+		"sources": [
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
+		],
+		"type": "armor",
+		"category": "extra",
+		"costAdjustment": 10,
+		"weightAdjustment": 5
+	},
+	"Burnished": {
+		"equipmentname": "Burnished",
+		"file": "equipmentarmordisplay6043.html",
+		"sources": [
+			"Adventurer's Armory 2"
+		],
+		"type": "armor",
+		"category": "modification",
+		"costAdjustment": 500,
+		"weightAdjustment": 5
+	},
+	"Deflecting": {
+		"equipmentname": "Deflecting",
+		"file": "equipmentarmordisplayb3cc.html",
+		"sources": [
+			"Adventurer's Armory 2",
+			"Faction Guide"
+		],
+		"type": "armor",
+		"category": "modification",
+		"costAdjustment": 1000,
+		"weightAdjustment": 10
+	},
+	"Double-plated": {
+		"equipmentname": "Double-plated",
+		"file": "equipmentarmordisplayfbd9.html",
+		"sources": [
+			"Adventurer's Armory 2"
+		],
+		"type": "armor",
+		"category": "modification",
+		"costAdjustment": 1000,
+		"weightAdjustment": 20
+	},
+	"Jarring": {
+		"equipmentname": "Jarring",
+		"file": "equipmentarmordisplay9597.html",
+		"sources": [
+			"Adventurer's Armory 2",
+			"Faction Guide"
+		],
+		"type": "armor",
+		"category": "modification",
+		"costAdjustment": 1000,
+		"weightAdjustment": 20
+	},
+	"Nimble": {
+		"equipmentname": "Nimble",
+		"file": "equipmentarmordisplay9bde.html",
+		"sources": [
+			"Adventurer's Armory 2"
+		],
+		"type": "armor",
+		"category": "modification",
+		"costAdjustment": 1000,
+		"weightAdjustment": 5
+	},
+	"Razored": {
+		"equipmentname": "Razored",
+		"file": "equipmentarmordisplayff9b.html",
+		"sources": [
+			"Adventurer's Armory 2"
+		],
+		"type": "armor",
+		"category": "modification",
+		"costAdjustment": 1350,
+		"weightAdjustment": 10
+	},
+	"Slumbering": {
+		"equipmentname": "Slumbering",
+		"file": "equipmentarmordisplay80c1.html",
+		"sources": [
+			"Adventurer's Armory 2"
+		],
+		"type": "armor",
+		"category": "modification",
+		"costAdjustment": 500,
+		"weightAdjustment": 5
+	},
+	"Throwing shield": {
+		"equipmentname": "Throwing shield",
+		"file": "equipmentarmordisplay8862.html",
+		"sources": [
+			"Adventurer's Armory"
+		],
+		"type": "armor",
+		"category": "modification",
+		"costAdjustment": 50,
+		"weightAdjustment": 0
+	},
+	"Vitalguard": {
+		"equipmentname": "Vitalguard",
+		"file": "equipmentarmordisplayebe6.html",
+		"sources": [
+			"Adventurer's Armory 2",
+			"Faction Guide"
+		],
+		"type": "armor",
+		"category": "modification",
+		"costAdjustment": 500,
+		"weightAdjustment": 15
+	},
+	"Armored kilt": {
+		"equipmentname": "Armored kilt",
+		"file": "equipmentarmordisplayf84c.html",
+		"sources": [
+			"Adventurer's Armory",
+			"Pathfinder Campaign Setting"
+		],
+		"type": "armor",
+		"category": "light",
+		"cost": 20,
+		"weight": 10,
+		"armorBonus": 1,
+		"maxDexBonus": 6,
+		"armorCheckPenalty": 0,
+		"arcaneSpellFailureChance": 0,
+		"base30SpeedReduction": 0,
+		"base20SpeedReduction": 0
+	},
+	"Haramaki": {
+		"equipmentname": "Haramaki",
+		"file": "equipmentarmordisplay7ebc.html",
+		"sources": [
+			"Ultimate Equipment",
+			"Ultimate Combat"
+		],
+		"type": "armor",
+		"category": "light",
+		"cost": 3,
+		"weight": 1,
+		"armorBonus": 1,
+		"maxDexBonus": 0,
+		"armorCheckPenalty": 0,
+		"arcaneSpellFailureChance": 0,
+		"base30SpeedReduction": 0,
+		"base20SpeedReduction": 0
+	},
+	"Martial arts training gear": {
+		"equipmentname": "Martial arts training gear",
+		"file": "equipmentarmordisplaye090.html",
+		"sources": [
+			"Merchant's Manifest"
+		],
+		"type": "armor",
+		"category": "light",
+		"cost": 45,
+		"weight": 5,
+		"armorBonus": 1,
+		"maxDexBonus": 8,
+		"armorCheckPenalty": 0,
+		"arcaneSpellFailureChance": 5,
+		"base30SpeedReduction": 0,
+		"base20SpeedReduction": 0
+	},
+	"Padded": {
+		"equipmentname": "Padded",
+		"file": "equipmentarmordisplay226c.html",
+		"sources": [
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
+		],
+		"type": "armor",
+		"category": "light",
+		"cost": 5,
+		"weight": 10,
+		"armorBonus": 1,
+		"maxDexBonus": 8,
+		"armorCheckPenalty": 0,
+		"arcaneSpellFailureChance": 5,
+		"base30SpeedReduction": 0,
+		"base20SpeedReduction": 0
+	},
+	"Quilted cloth": {
+		"equipmentname": "Quilted cloth",
+		"file": "equipmentarmordisplayf411.html",
+		"sources": [
+			"Ultimate Equipment",
+			"Advanced Player's Guide"
+		],
+		"type": "armor",
+		"category": "light",
+		"cost": 100,
+		"weight": 15,
+		"armorBonus": 1,
+		"maxDexBonus": 8,
+		"armorCheckPenalty": 0,
+		"arcaneSpellFailureChance": 10,
+		"base30SpeedReduction": 0,
+		"base20SpeedReduction": 0
+	},
+	"Reinforced tunic": {
+		"equipmentname": "Reinforced tunic",
+		"file": "equipmentarmordisplay413c.html",
+		"sources": [
+			"Adventurer's Armory 2"
+		],
+		"type": "armor",
+		"category": "light",
+		"cost": 1,
+		"weight": 5,
+		"armorBonus": 1,
+		"maxDexBonus": 5,
+		"armorCheckPenalty": 0,
+		"arcaneSpellFailureChance": 5,
+		"base30SpeedReduction": 0,
+		"base20SpeedReduction": 0
+	},
+	"Silken ceremonial": {
+		"equipmentname": "Silken ceremonial",
+		"file": "equipmentarmordisplayea76.html",
+		"sources": [
+			"Ultimate Equipment",
+			"Ultimate Combat"
+		],
+		"type": "armor",
+		"category": "light",
+		"cost": 30,
+		"weight": 4,
+		"armorBonus": 1,
+		"maxDexBonus": 0,
+		"armorCheckPenalty": 0,
+		"arcaneSpellFailureChance": 0,
+		"base30SpeedReduction": 0,
+		"base20SpeedReduction": 0
+	},
+	"Lamellar cuirass": {
+		"equipmentname": "Lamellar cuirass",
+		"file": "equipmentarmordisplayb65c.html",
+		"sources": [
+			"Ultimate Equipment",
+			"Ultimate Combat"
+		],
+		"type": "armor",
+		"category": "light",
+		"cost": 15,
+		"weight": 8,
+		"armorBonus": 2,
+		"maxDexBonus": 4,
+		"armorCheckPenalty": 0,
+		"arcaneSpellFailureChance": 5,
+		"base30SpeedReduction": 0,
+		"base20SpeedReduction": 0
+	},
+	"Leather": {
+		"equipmentname": "Leather",
+		"file": "equipmentarmordisplayea15.html",
+		"sources": [
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
+		],
+		"type": "armor",
+		"category": "light",
+		"cost": 10,
+		"weight": 15,
+		"armorBonus": 2,
+		"maxDexBonus": 6,
+		"armorCheckPenalty": 0,
+		"arcaneSpellFailureChance": 10,
+		"base30SpeedReduction": 0,
+		"base20SpeedReduction": 0
+	},
+	"Rosewood armor": {
+		"equipmentname": "Rosewood armor",
+		"file": "equipmentarmordisplayf705.html",
+		"sources": [
+			"Adventurer's Armory",
+			"Pathfinder Campaign Setting",
+			"Conquest of Bloodsworn Vale"
+		],
+		"type": "armor",
+		"category": "light",
+		"cost": 50,
+		"weight": 15,
+		"armorBonus": 2,
+		"maxDexBonus": 6,
+		"armorCheckPenalty": 0,
+		"arcaneSpellFailureChance": 10,
+		"base30SpeedReduction": 0,
+		"base20SpeedReduction": 0
+	},
+	"Varisian dancing scarves": {
+		"equipmentname": "Varisian dancing scarves",
+		"file": "equipmentarmordisplay7fd0.html",
+		"sources": [
+			"Adventurer's Armory 2"
+		],
+		"type": "armor",
+		"category": "light",
+		"cost": 150,
+		"weight": 8,
+		"armorBonus": 2,
+		"maxDexBonus": 0,
+		"armorCheckPenalty": 0,
+		"base30SpeedReduction": 0,
+		"base20SpeedReduction": 0
+	},
+	"Hellknight leather": {
+		"equipmentname": "Hellknight leather",
+		"file": "equipmentarmordisplay4017.html",
+		"sources": [
+			"Adventurer's Guide",
+			"Path of the Hellknight"
+		],
+		"type": "armor",
+		"category": "light",
+		"cost": 30,
+		"weight": 25,
+		"armorBonus": 3,
+		"maxDexBonus": 5,
+		"armorCheckPenalty": -1,
+		"arcaneSpellFailureChance": 15,
+		"base30SpeedReduction": 0,
+		"base20SpeedReduction": 0
+	},
+	"Hide shirt": {
+		"equipmentname": "Hide shirt",
+		"file": "equipmentarmordisplay0576.html",
+		"sources": [
+			"Varisia, Birthplace of Legends",
+			"Rise of the Runelords Player's Guide",
+			"Curse of the Crimson Throne Player's Guide"
+		],
+		"type": "armor",
+		"category": "light",
+		"cost": 20,
+		"weight": 18,
+		"armorBonus": 3,
+		"maxDexBonus": 4,
+		"armorCheckPenalty": -1,
+		"arcaneSpellFailureChance": 15,
+		"base30SpeedReduction": 0,
+		"base20SpeedReduction": 0
+	},
+	"Leaf armor": {
+		"equipmentname": "Leaf armor",
+		"file": "equipmentarmordisplay8e0e.html",
+		"sources": [
+			"Inner Sea World Guide",
+			"Adventurer's Armory",
+			"Gallery of Evil",
+			"Pathfinder Campaign Setting"
+		],
+		"type": "armor",
+		"category": "light",
+		"cost": 500,
+		"weight": 20,
+		"armorBonus": 3,
+		"maxDexBonus": 5,
+		"armorCheckPenalty": 0,
+		"arcaneSpellFailureChance": 15,
+		"base30SpeedReduction": 0,
+		"base20SpeedReduction": 0
+	},
+	"Parade": {
+		"equipmentname": "Parade",
+		"file": "equipmentarmordisplay5b83.html",
+		"sources": [
+			"Ultimate Equipment",
+			"Adventurer's Armory"
+		],
+		"type": "armor",
+		"category": "light",
+		"cost": 25,
+		"weight": 20,
+		"armorBonus": 3,
+		"maxDexBonus": 5,
+		"armorCheckPenalty": -1,
+		"arcaneSpellFailureChance": 15,
+		"base30SpeedReduction": 0,
+		"base20SpeedReduction": 0
+	},
+	"Spider-silk bodysuit": {
+		"equipmentname": "Spider-silk bodysuit",
+		"file": "equipmentarmordisplay8a8e.html",
+		"sources": [
+			"Adventurer's Armory 2"
+		],
+		"type": "armor",
+		"category": "light",
+		"cost": 850,
+		"weight": 4,
+		"armorBonus": 3,
+		"maxDexBonus": 6,
+		"armorCheckPenalty": -1,
+		"arcaneSpellFailureChance": 10,
+		"base30SpeedReduction": 0,
+		"base20SpeedReduction": 0
+	},
+	"Studded leather": {
+		"equipmentname": "Studded leather",
+		"file": "equipmentarmordisplay63cc.html",
+		"sources": [
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
+		],
+		"type": "armor",
+		"category": "light",
+		"cost": 25,
+		"weight": 20,
+		"armorBonus": 3,
+		"maxDexBonus": 5,
+		"armorCheckPenalty": -1,
+		"arcaneSpellFailureChance": 15,
+		"base30SpeedReduction": 0,
+		"base20SpeedReduction": 0
+	},
+	"Wooden": {
+		"equipmentname": "Wooden",
+		"file": "equipmentarmordisplay3ab0.html",
+		"sources": [
+			"Ultimate Equipment",
+			"Advanced Player's Guide"
+		],
+		"type": "armor",
+		"category": "light",
+		"cost": 20,
+		"weight": 25,
+		"armorBonus": 3,
+		"maxDexBonus": 3,
+		"armorCheckPenalty": -1,
+		"arcaneSpellFailureChance": 15,
+		"base30SpeedReduction": 0,
+		"base20SpeedReduction": 0
+	},
+	"Chain shirt": {
+		"equipmentname": "Chain shirt",
+		"file": "equipmentarmordisplay09cf.html",
+		"sources": [
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
+		],
+		"type": "armor",
+		"category": "light",
+		"cost": 100,
+		"weight": 25,
+		"armorBonus": 4,
+		"maxDexBonus": 4,
+		"armorCheckPenalty": -2,
+		"arcaneSpellFailureChance": 20,
+		"base30SpeedReduction": 0,
+		"base20SpeedReduction": 0
+	},
+	"Lamellar (leather)": {
+		"equipmentname": "Lamellar (leather)",
+		"file": "equipmentarmordisplay8c83.html",
+		"sources": [
+			"Ultimate Equipment",
+			"Ultimate Combat"
+		],
+		"type": "armor",
+		"category": "light",
+		"cost": 60,
+		"weight": 25,
+		"armorBonus": 4,
+		"maxDexBonus": 3,
+		"armorCheckPenalty": -2,
+		"arcaneSpellFailureChance": 20,
+		"base30SpeedReduction": 0,
+		"base20SpeedReduction": 0
+	},
+	"Armored coat": {
+		"equipmentname": "Armored coat",
+		"file": "equipmentarmordisplayabe8.html",
+		"sources": [
+			"Ultimate Equipment",
+			"Advanced Player's Guide"
+		],
+		"type": "armor",
+		"category": "medium",
+		"cost": 50,
+		"weight": 20,
+		"armorBonus": 4,
+		"maxDexBonus": 3,
+		"armorCheckPenalty": -2,
+		"arcaneSpellFailureChance": 20,
+		"base30SpeedReduction": 10,
+		"base20SpeedReduction": 5
+	},
+	"Chain coat": {
+		"equipmentname": "Chain coat",
+		"file": "equipmentarmordisplay2b14.html",
+		"sources": [
+			"Adventurer's Armory 2"
+		],
+		"type": "armor",
+		"category": "medium",
+		"cost": 75,
+		"weight": 40,
+		"armorBonus": 4,
+		"maxDexBonus": 5,
+		"armorCheckPenalty": -2,
+		"arcaneSpellFailureChance": 30,
+		"base30SpeedReduction": 10,
+		"base20SpeedReduction": 5
+	},
+	"Erutaki coat": {
+		"equipmentname": "Erutaki coat",
+		"file": "equipmentarmordisplaye58a.html",
+		"sources": [
+			"Adventurer's Armory 2"
+		],
+		"type": "armor",
+		"category": "medium",
+		"cost": 80,
+		"weight": 24,
+		"armorBonus": 4,
+		"maxDexBonus": 3,
+		"armorCheckPenalty": -2,
+		"arcaneSpellFailureChance": 20,
+		"base30SpeedReduction": 10,
+		"base20SpeedReduction": 5
+	},
+	"Hide": {
+		"equipmentname": "Hide",
+		"file": "equipmentarmordisplay921d.html",
+		"sources": [
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
+		],
+		"type": "armor",
+		"category": "medium",
+		"cost": 15,
+		"weight": 25,
+		"armorBonus": 4,
+		"maxDexBonus": 4,
+		"armorCheckPenalty": -3,
+		"arcaneSpellFailureChance": 20,
+		"base30SpeedReduction": 10,
+		"base20SpeedReduction": 5
+	},
+	"Do-maru": {
+		"equipmentname": "Do-maru",
+		"file": "equipmentarmordisplay6106.html",
+		"sources": [
+			"Ultimate Equipment",
+			"Ultimate Combat"
+		],
+		"type": "armor",
+		"category": "medium",
+		"cost": 200,
+		"weight": 30,
+		"armorBonus": 5,
+		"maxDexBonus": 4,
+		"armorCheckPenalty": -4,
+		"arcaneSpellFailureChance": 25,
+		"base30SpeedReduction": 10,
+		"base20SpeedReduction": 5
+	},
+	"Kikko": {
+		"equipmentname": "Kikko",
+		"file": "equipmentarmordisplaye760.html",
+		"sources": [
+			"Ultimate Equipment",
+			"Ultimate Combat"
+		],
+		"type": "armor",
+		"category": "medium",
+		"cost": 250,
+		"weight": 25,
+		"armorBonus": 5,
+		"maxDexBonus": 4,
+		"armorCheckPenalty": -3,
+		"arcaneSpellFailureChance": 20,
+		"base30SpeedReduction": 10,
+		"base20SpeedReduction": 5
+	},
+	"Lamellar (horn)": {
+		"equipmentname": "Lamellar (horn)",
+		"file": "equipmentarmordisplay8c01.html",
+		"sources": [
+			"Ultimate Equipment",
+			"Ultimate Combat"
+		],
+		"type": "armor",
+		"category": "medium",
+		"cost": 100,
+		"weight": 30,
+		"armorBonus": 5,
+		"maxDexBonus": 3,
+		"armorCheckPenalty": -4,
+		"arcaneSpellFailureChance": 25,
+		"base30SpeedReduction": 10,
+		"base20SpeedReduction": 5
+	},
+	"Scale mail": {
+		"equipmentname": "Scale mail",
+		"file": "equipmentarmordisplaya878.html",
+		"sources": [
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
+		],
+		"type": "armor",
+		"category": "medium",
+		"cost": 50,
+		"weight": 30,
+		"armorBonus": 5,
+		"maxDexBonus": 3,
+		"armorCheckPenalty": -4,
+		"arcaneSpellFailureChance": 25,
+		"base30SpeedReduction": 10,
+		"base20SpeedReduction": 5
+	},
+	"Agile breastplate": {
+		"equipmentname": "Agile breastplate",
+		"file": "equipmentarmordisplay71a0.html",
+		"sources": [
+			"Ultimate Equipment",
+			"Advanced Player's Guide"
+		],
+		"type": "armor",
+		"category": "medium",
+		"cost": 400,
+		"weight": 25,
+		"armorBonus": 6,
+		"maxDexBonus": 3,
+		"armorCheckPenalty": -4,
+		"arcaneSpellFailureChance": 25,
+		"base30SpeedReduction": 10,
+		"base20SpeedReduction": 5
+	},
+	"Breastplate": {
+		"equipmentname": "Breastplate",
+		"file": "equipmentarmordisplayf151.html",
+		"sources": [
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
+		],
+		"type": "armor",
+		"category": "medium",
+		"cost": 200,
+		"weight": 30,
+		"armorBonus": 6,
+		"maxDexBonus": 3,
+		"armorCheckPenalty": -4,
+		"arcaneSpellFailureChance": 25,
+		"base30SpeedReduction": 10,
+		"base20SpeedReduction": 5
+	},
+	"Chainmail": {
+		"equipmentname": "Chainmail",
+		"file": "equipmentarmordisplaybbd4.html",
+		"sources": [
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
+		],
+		"type": "armor",
+		"category": "medium",
+		"cost": 150,
+		"weight": 40,
+		"armorBonus": 6,
+		"maxDexBonus": 2,
+		"armorCheckPenalty": -5,
+		"arcaneSpellFailureChance": 30,
+		"base30SpeedReduction": 10,
+		"base20SpeedReduction": 5
+	},
+	"Four-mirror": {
+		"equipmentname": "Four-mirror",
+		"file": "equipmentarmordisplay194d.html",
+		"sources": [
+			"Ultimate Equipment",
+			"Ultimate Combat"
+		],
+		"type": "armor",
+		"category": "medium",
+		"cost": 125,
+		"weight": 45,
+		"armorBonus": 6,
+		"maxDexBonus": 2,
+		"armorCheckPenalty": -5,
+		"arcaneSpellFailureChance": 30,
+		"base30SpeedReduction": 10,
+		"base20SpeedReduction": 5
+	},
+	"Lamellar (steel)": {
+		"equipmentname": "Lamellar (steel)",
+		"file": "equipmentarmordisplay3e05.html",
+		"sources": [
+			"Ultimate Equipment",
+			"Ultimate Combat"
+		],
+		"type": "armor",
+		"category": "medium",
+		"cost": 150,
+		"weight": 35,
+		"armorBonus": 6,
+		"maxDexBonus": 3,
+		"armorCheckPenalty": -5,
+		"arcaneSpellFailureChance": 25,
+		"base30SpeedReduction": 10,
+		"base20SpeedReduction": 5
+	},
+	"Mountain pattern": {
+		"equipmentname": "Mountain pattern",
+		"file": "equipmentarmordisplay7fad.html",
+		"sources": [
+			"Ultimate Equipment",
+			"Ultimate Combat"
+		],
+		"type": "armor",
+		"category": "medium",
+		"cost": 250,
+		"weight": 40,
+		"armorBonus": 6,
+		"maxDexBonus": 3,
+		"armorCheckPenalty": -4,
+		"arcaneSpellFailureChance": 30,
+		"base30SpeedReduction": 10,
+		"base20SpeedReduction": 5
+	},
+	"Banded mail": {
+		"equipmentname": "Banded mail",
+		"file": "equipmentarmordisplay09e2.html",
+		"sources": [
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
+		],
+		"type": "armor",
+		"category": "heavy",
+		"cost": 250,
+		"weight": 35,
+		"armorBonus": 7,
+		"maxDexBonus": 1,
+		"armorCheckPenalty": -6,
+		"arcaneSpellFailureChance": 35,
+		"base30SpeedReduction": 10,
+		"base20SpeedReduction": 5
+	},
+	"Field plate": {
+		"equipmentname": "Field plate",
+		"file": "equipmentarmordisplayde6c.html",
+		"sources": [
+			"Inner Sea World Guide",
+			"Pathfinder Campaign Setting",
+			"Adventurer's Armory"
+		],
+		"type": "armor",
+		"category": "heavy",
+		"cost": 1200,
+		"weight": 50,
+		"armorBonus": 7,
+		"maxDexBonus": 1,
+		"armorCheckPenalty": -5,
+		"arcaneSpellFailureChance": 35,
+		"base30SpeedReduction": 10,
+		"base20SpeedReduction": 5
+	},
+	"Kusari gusoku": {
+		"equipmentname": "Kusari gusoku",
+		"file": "equipmentarmordisplayba1e.html",
+		"sources": [
+			"Ultimate Equipment",
+			"Ultimate Combat"
+		],
+		"type": "armor",
+		"category": "heavy",
+		"cost": 350,
+		"weight": 45,
+		"armorBonus": 7,
+		"maxDexBonus": 1,
+		"armorCheckPenalty": -7,
+		"arcaneSpellFailureChance": 35,
+		"base30SpeedReduction": 10,
+		"base20SpeedReduction": 5
+	},
+	"Lamellar (iron)": {
+		"equipmentname": "Lamellar (iron)",
+		"file": "equipmentarmordisplay21f7.html",
+		"sources": [
+			"Ultimate Equipment",
+			"Ultimate Combat"
+		],
+		"type": "armor",
+		"category": "heavy",
+		"cost": 200,
+		"weight": 50,
+		"armorBonus": 7,
+		"maxDexBonus": 0,
+		"armorCheckPenalty": -7,
+		"arcaneSpellFailureChance": 40,
+		"base30SpeedReduction": 10,
+		"base20SpeedReduction": 5
+	},
+	"Splint mail": {
+		"equipmentname": "Splint mail",
+		"file": "equipmentarmordisplay6465.html",
+		"sources": [
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
+		],
+		"type": "armor",
+		"category": "heavy",
+		"cost": 200,
+		"weight": 45,
+		"armorBonus": 7,
+		"maxDexBonus": 0,
+		"armorCheckPenalty": -7,
+		"arcaneSpellFailureChance": 40,
+		"base30SpeedReduction": 10,
+		"base20SpeedReduction": 5
+	},
+	"Tatami-do": {
+		"equipmentname": "Tatami-do",
+		"file": "equipmentarmordisplaybb50.html",
+		"sources": [
+			"Ultimate Equipment",
+			"Ultimate Combat"
+		],
+		"type": "armor",
+		"category": "heavy",
+		"cost": 1000,
+		"weight": 45,
+		"armorBonus": 7,
+		"maxDexBonus": 3,
+		"armorCheckPenalty": -6,
+		"arcaneSpellFailureChance": 35,
+		"base30SpeedReduction": 10,
+		"base20SpeedReduction": 5
+	},
+	"Agile half-plate": {
+		"equipmentname": "Agile half-plate",
+		"file": "equipmentarmordisplay5d51.html",
+		"sources": [
+			"Ultimate Equipment",
+			"Advanced Player's Guide"
+		],
+		"type": "armor",
+		"category": "heavy",
+		"cost": 850,
+		"weight": 55,
+		"armorBonus": 8,
+		"maxDexBonus": 0,
+		"armorCheckPenalty": -7,
+		"arcaneSpellFailureChance": 40,
+		"base30SpeedReduction": 10,
+		"base20SpeedReduction": 5
+	},
+	"Alkenstar fortress plate": {
+		"equipmentname": "Alkenstar fortress plate",
+		"file": "equipmentarmordisplay8ea9.html",
+		"sources": [
+			"Adventurer's Armory 2"
+		],
+		"type": "armor",
+		"category": "heavy",
+		"cost": 2100,
+		"weight": 75,
+		"armorBonus": 8,
+		"maxDexBonus": 0,
+		"armorCheckPenalty": -7,
+		"arcaneSpellFailureChance": 40,
+		"base30SpeedReduction": 10,
+		"base20SpeedReduction": 5
+	},
+	"Half-plate": {
+		"equipmentname": "Half-plate",
+		"file": "equipmentarmordisplay9477.html",
+		"sources": [
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
+		],
+		"type": "armor",
+		"category": "heavy",
+		"cost": 600,
+		"weight": 50,
+		"armorBonus": 8,
+		"maxDexBonus": 0,
+		"armorCheckPenalty": -7,
+		"arcaneSpellFailureChance": 40,
+		"base30SpeedReduction": 10,
+		"base20SpeedReduction": 5
+	},
+	"Hellknight half-plate": {
+		"equipmentname": "Hellknight half-plate",
+		"file": "equipmentarmordisplayc383.html",
+		"sources": [
+			"Adventurer's Guide",
+			"Path of the Hellknight"
+		],
+		"type": "armor",
+		"category": "heavy",
+		"cost": 850,
+		"weight": 50,
+		"armorBonus": 8,
+		"maxDexBonus": 0,
+		"armorCheckPenalty": -7,
+		"arcaneSpellFailureChance": 40,
+		"base30SpeedReduction": 10,
+		"base20SpeedReduction": 5
+	},
+	"Lamellar (stone)": {
+		"equipmentname": "Lamellar (stone)",
+		"file": "equipmentarmordisplayc683.html",
+		"sources": [
+			"Ultimate Equipment",
+			"Ultimate Combat"
+		],
+		"type": "armor",
+		"category": "heavy",
+		"cost": 500,
+		"weight": 45,
+		"armorBonus": 8,
+		"maxDexBonus": 0,
+		"armorCheckPenalty": -7,
+		"arcaneSpellFailureChance": 40,
+		"base30SpeedReduction": 10,
+		"base20SpeedReduction": 5
+	},
+	"O-yoroi": {
+		"equipmentname": "O-yoroi",
+		"file": "equipmentarmordisplay5016.html",
+		"sources": [
+			"Ultimate Equipment",
+			"Ultimate Combat"
+		],
+		"type": "armor",
+		"category": "heavy",
+		"cost": 1700,
+		"weight": 45,
+		"armorBonus": 8,
+		"maxDexBonus": 2,
+		"armorCheckPenalty": -6,
+		"arcaneSpellFailureChance": 35,
+		"base30SpeedReduction": 10,
+		"base20SpeedReduction": 5
+	},
+	"Full plate": {
+		"equipmentname": "Full plate",
+		"file": "equipmentarmordisplayb5e3.html",
+		"sources": [
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
+		],
+		"type": "armor",
+		"category": "heavy",
+		"cost": 1500,
+		"weight": 50,
+		"armorBonus": 9,
+		"maxDexBonus": 1,
+		"armorCheckPenalty": -6,
+		"arcaneSpellFailureChance": 35,
+		"base30SpeedReduction": 10,
+		"base20SpeedReduction": 5
+	},
+	"Gray maiden plate": {
+		"equipmentname": "Gray maiden plate",
+		"file": "equipmentarmordisplay453f.html",
+		"sources": [
+			"Adventurer's Guide"
+		],
+		"type": "armor",
+		"category": "heavy",
+		"cost": 1500,
+		"weight": 50,
+		"armorBonus": 9,
+		"maxDexBonus": 1,
+		"armorCheckPenalty": -6,
+		"arcaneSpellFailureChance": 35,
+		"base30SpeedReduction": 10,
+		"base20SpeedReduction": 5
+	},
+	"Hellknight plate": {
+		"equipmentname": "Hellknight plate",
+		"file": "equipmentarmordisplay070c.html",
+		"sources": [
+			"Adventurer's Guide",
+			"Inner Sea World Guide"
+		],
+		"type": "armor",
+		"category": "heavy",
+		"cost": 2000,
+		"weight": 50,
+		"armorBonus": 9,
+		"maxDexBonus": 1,
+		"armorCheckPenalty": -5,
+		"arcaneSpellFailureChance": 35,
+		"base30SpeedReduction": 10,
+		"base20SpeedReduction": 5
+	},
+	"Stoneplate": {
+		"equipmentname": "Stoneplate",
+		"file": "equipmentarmordisplayd848.html",
+		"sources": [
+			"Ultimate Equipment",
+			"Inner Sea World Guide",
+			"Adventurer's Armory",
+			"Pathfinder Campaign Setting"
+		],
+		"type": "armor",
+		"category": "heavy",
+		"cost": 1800,
+		"weight": 75,
+		"armorBonus": 9,
+		"maxDexBonus": 1,
+		"armorCheckPenalty": -6,
+		"arcaneSpellFailureChance": 35,
+		"base30SpeedReduction": 15,
+		"base20SpeedReduction": 10
+	},
+	"Buckler": {
+		"equipmentname": "Buckler",
+		"file": "equipmentarmordisplay8f8c.html",
+		"sources": [
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
+		],
+		"type": "armor",
+		"category": "shield",
+		"cost": 5,
+		"weight": 5,
+		"armorBonus": 1,
+		"maxDexBonus": 0,
+		"armorCheckPenalty": -1,
+		"arcaneSpellFailureChance": 5,
+		"base30SpeedReduction": 0,
+		"base20SpeedReduction": 0
+	},
+	"Klar": {
+		"equipmentname": "Klar",
+		"file": "equipmentarmordisplayda29.html",
+		"sources": [
+			"Ultimate Equipment",
+			"Varisia, Birthplace of Legends",
+			"Pathfinder Campaign Setting",
+			"Curse of the Crimson Throne Player's Guide",
+			"Rise of the Runelords Player's Guide",
+			"Inner Sea World Guide",
+			"Adventurer's Armory"
+		],
+		"type": "armor",
+		"category": "shield",
+		"cost": 12,
+		"weight": 6,
+		"armorBonus": 1,
+		"maxDexBonus": 0,
+		"armorCheckPenalty": -1,
+		"arcaneSpellFailureChance": 5,
+		"base30SpeedReduction": 0,
+		"base20SpeedReduction": 0
+	},
+	"Light steel": {
+		"equipmentname": "Light steel",
+		"file": "equipmentarmordisplaya867.html",
+		"sources": [
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
+		],
+		"type": "armor",
+		"category": "shield",
+		"cost": 9,
+		"weight": 6,
+		"armorBonus": 1,
+		"maxDexBonus": 0,
+		"armorCheckPenalty": -1,
+		"arcaneSpellFailureChance": 5,
+		"base30SpeedReduction": 0,
+		"base20SpeedReduction": 0
+	},
+	"Light steel quickdraw": {
+		"equipmentname": "Light steel quickdraw",
+		"file": "equipmentarmordisplayf80c.html",
+		"sources": [
+			"Ultimate Equipment",
+			"Advanced Player's Guide"
+		],
+		"type": "armor",
+		"category": "shield",
+		"cost": 59,
+		"weight": 7,
+		"armorBonus": 1,
+		"maxDexBonus": 0,
+		"armorCheckPenalty": -2,
+		"arcaneSpellFailureChance": 5,
+		"base30SpeedReduction": 0,
+		"base20SpeedReduction": 0
+	},
+	"Light wooden": {
+		"equipmentname": "Light wooden",
+		"file": "equipmentarmordisplayebd3.html",
+		"sources": [
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
+		],
+		"type": "armor",
+		"category": "shield",
+		"cost": 3,
+		"weight": 5,
+		"armorBonus": 1,
+		"maxDexBonus": 0,
+		"armorCheckPenalty": -1,
+		"arcaneSpellFailureChance": 5,
+		"base30SpeedReduction": 0,
+		"base20SpeedReduction": 0
+	},
+	"Light wooden quickdraw": {
+		"equipmentname": "Light wooden quickdraw",
+		"file": "equipmentarmordisplay15b8.html",
+		"sources": [
+			"Ultimate Equipment",
+			"Advanced Player's Guide"
+		],
+		"type": "armor",
+		"category": "shield",
+		"cost": 53,
+		"weight": 6,
+		"armorBonus": 1,
+		"maxDexBonus": 0,
+		"armorCheckPenalty": -2,
+		"arcaneSpellFailureChance": 5,
+		"base30SpeedReduction": 0,
+		"base20SpeedReduction": 0
+	},
+	"Madu (leather)": {
+		"equipmentname": "Madu (leather)",
+		"file": "equipmentarmordisplay974a.html",
+		"sources": [
+			"Ultimate Equipment",
+			"Adventurer's Armory",
+			"Legacy of Fire Player's Guide"
+		],
+		"type": "armor",
+		"category": "shield",
+		"cost": 40,
+		"weight": 5,
+		"armorBonus": 1,
+		"maxDexBonus": 0,
+		"armorCheckPenalty": -2,
+		"arcaneSpellFailureChance": 5,
+		"base30SpeedReduction": 0,
+		"base20SpeedReduction": 0
+	},
+	"Madu (steel)": {
+		"equipmentname": "Madu (steel)",
+		"file": "equipmentarmordisplay895c.html",
+		"sources": [
+			"Ultimate Equipment",
+			"Legacy of Fire Player's Guide",
+			"Adventurer's Armory"
+		],
+		"type": "armor",
+		"category": "shield",
+		"cost": 50,
+		"weight": 6,
+		"armorBonus": 1,
+		"maxDexBonus": 0,
+		"armorCheckPenalty": -2,
+		"arcaneSpellFailureChance": 5,
+		"base30SpeedReduction": 0,
+		"base20SpeedReduction": 0
+	},
+	"Poisoner's Buckler": {
+		"equipmentname": "Poisoner's Buckler",
+		"file": "equipmentarmordisplayd77d.html",
+		"sources": [
+			"Heroes from the Fringe"
+		],
+		"type": "armor",
+		"category": "shield",
+		"cost": 1505,
+		"weight": 3,
+		"armorBonus": 1,
+		"maxDexBonus": 0,
+		"armorCheckPenalty": 0,
+		"base30SpeedReduction": 0,
+		"base20SpeedReduction": 0
+	},
+	"War-shield, dwarven": {
+		"equipmentname": "War-shield, dwarven",
+		"file": "equipmentarmordisplay989f.html",
+		"sources": [
+			"Adventurer's Armory 2"
+		],
+		"type": "armor",
+		"category": "shield",
+		"cost": 50,
+		"weight": 8,
+		"armorBonus": 1,
+		"maxDexBonus": 0,
+		"armorCheckPenalty": -1,
+		"arcaneSpellFailureChance": 20,
+		"base30SpeedReduction": 0,
+		"base20SpeedReduction": 0
+	},
+	"Heavy steel": {
+		"equipmentname": "Heavy steel",
+		"file": "equipmentarmordisplayb5c9.html",
+		"sources": [
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
+		],
+		"type": "armor",
+		"category": "shield",
+		"cost": 20,
+		"weight": 15,
+		"armorBonus": 2,
+		"maxDexBonus": 0,
+		"armorCheckPenalty": -2,
+		"arcaneSpellFailureChance": 15,
+		"base30SpeedReduction": 0,
+		"base20SpeedReduction": 0
+	},
+	"Heavy wooden": {
+		"equipmentname": "Heavy wooden",
+		"file": "equipmentarmordisplay2a89.html",
+		"sources": [
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
+		],
+		"type": "armor",
+		"category": "shield",
+		"cost": 7,
+		"weight": 10,
+		"armorBonus": 2,
+		"maxDexBonus": 0,
+		"armorCheckPenalty": -2,
+		"arcaneSpellFailureChance": 15,
+		"base30SpeedReduction": 0,
+		"base20SpeedReduction": 0
+	},
+	"Snarlshield, steel": {
+		"equipmentname": "Snarlshield, steel",
+		"file": "equipmentarmordisplay1c33.html",
+		"sources": [
+			"Adventurer's Armory 2",
+			"Gnomes of Golarion"
+		],
+		"type": "armor",
+		"category": "shield",
+		"cost": 50,
+		"weight": 20,
+		"armorBonus": 2,
+		"maxDexBonus": 0,
+		"armorCheckPenalty": -3,
+		"arcaneSpellFailureChance": 15,
+		"base30SpeedReduction": 0,
+		"base20SpeedReduction": 0
+	},
+	"Snarlshield, wooden": {
+		"equipmentname": "Snarlshield, wooden",
+		"file": "equipmentarmordisplaya53c.html",
+		"sources": [
+			"Adventurer's Armory 2",
+			"Gnomes of Golarion"
+		],
+		"type": "armor",
+		"category": "shield",
+		"cost": 37,
+		"weight": 15,
+		"armorBonus": 2,
+		"maxDexBonus": 0,
+		"armorCheckPenalty": -3,
+		"arcaneSpellFailureChance": 15,
+		"base30SpeedReduction": 0,
+		"base20SpeedReduction": 0
+	},
+	"Tower": {
+		"equipmentname": "Tower",
+		"file": "equipmentarmordisplay9eb5.html",
+		"sources": [
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
+		],
+		"type": "armor",
+		"category": "shield",
+		"cost": 30,
+		"weight": 45,
+		"armorBonus": 4,
+		"maxDexBonus": 2,
+		"armorCheckPenalty": -10,
+		"arcaneSpellFailureChance": 50,
+		"base30SpeedReduction": 0,
+		"base20SpeedReduction": 0
+	}
+}
