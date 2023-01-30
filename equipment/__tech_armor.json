@@ -25,6 +25,10 @@
 			"**Speed (30 ft.)** 30 ft.; **Speed (20 ft.)** 20 ft.",
 			"**Capacity** - ; **Usage** -"
 		],
+		"construction": [
+			"Craft DC 27; Cost 4,500 gp",
+			"Craft Technological Arms and Armor, military lab"
+		],
 		"description": [
 			"Known also as an \"H-belt,\" a heavy weapon harness is an elaborate network of plastic and metal struts and straps. The harness can be worn in conjunction with any other suit of armor-the armor bonus granted by the heavy weapon harness does not stack with that granted by other suits of armor, but the armor check penalties and spell failure percentages do.",
 			"A heavy weapon harness provides its wearer with additional stability and support, allowing the user to wield heavy weapons as if they were regular firearms, using the Exotic Weapon (firearms) feat for proficiency rather than Exotic Weapon (heavy weaponry). A character with Exotic Weapon (heavy weaponry) who wears an H-belt finds the use of heavy weapons even easier, and gains a +1 circumstance bonus on all attack rolls made with harnessed heavy weapons.",
@@ -59,6 +63,10 @@
 			"**Speed (30 ft.)** 30 ft.; **Speed (20 ft.)** 20 ft.",
 			"**Capacity** 24 ; **Usage** 1 charge/hour"
 		],
+		"construction": [
+			"Craft DC 24; Cost 50 gp",
+			"Craft Technological Arms and Armor, military lab"
+		],
 		"description": [
 			"A scatterlight suit is a tight, form-fitting suit of highly reflective polymers and synthetic metal fibers. It's designed to reflect beam weapon attacks, and provides only minimal protection against physical damage. Activating a scatterlight suit is a standard action; once activated, the suit diffuses and blurs light reflected from its surface, making the wearer appear hazy and indistinct. While active, a scatterlight suit increases the wearer's touch AC by a variable amount-this bonus is an armor bonus, but does not increase the wearer's normal or flatfooted AC beyond the scatterlight suit's baseline armor bonus of +1. This bonus to touch AC only applies to attacks made by beam weapons and rays-it does not provide additional protection to other touch attacks."
 		]
@@ -91,6 +99,10 @@
 			"**Speed (30 ft.)** 30 ft.; **Speed (20 ft.)** 20 ft.",
 			"**Capacity** 50 ; **Usage** 1 charge/minute"
 		],
+		"construction": [
+			"Craft DC 29; Cost 7,500 gp",
+			"Craft Technological Arms and Armor, military lab"
+		],
 		"description": [
 			"This suit of light woven-fiber armor covers the wearer from ankle to wrist and includes a hooded cowl. Its surface consists of millions of tiny, scale-like lenses and LED screens. When powered on, a chameleon suit analyzes its environment and generates digital camouflage. The wearer gains a +10 competence bonus on Stealth checks and can hide in plain sight (as a ranger in his favored terrain)."
 		]
@@ -122,6 +134,10 @@
 			"**Arcane Spell Failure Chance** 5%",
 			"**Speed (30 ft.)** 30 ft.; **Speed (20 ft.)** 20 ft.",
 			"**Capacity** 24 ; **Usage** 1 charge"
+		],
+		"construction": [
+			"Craft DC 22; Cost 600 gp",
+			"Craft Technological Arms and Armor, production lab"
 		],
 		"description": [
 			"This lightweight, formfitting bodysuit features a variety of pockets, straps, and a built-in interface for automatically adjusting the various colors and patterns on its fabric. Selecting a color or pattern is a full-round action that consumes 1 charge and provokes an attack of opportunity. Capable of cycling through dozens of hues, the armor can even be used to adopt sophisticated camouflage patterns that grant a +3 competence bonus on Stealth checks. Whenever the wearer enters a terrain of significantly different coloration and background patterns, the armor must be recalibrated to its current area to maintain this bonus."
@@ -156,6 +172,10 @@
 			"**Speed (30 ft.)** 30 ft.; **Speed (20 ft.)** 20 ft.",
 			"**Capacity** 24 ; **Usage** 1 charge/hour"
 		],
+		"construction": [
+			"Craft DC 25; Cost 75 gp",
+			"Craft Technological Arms and Armor, military lab"
+		],
 		"copyof": "Scatterlight suit (brown)"
 	},
 	"Deep diving suit": {
@@ -185,6 +205,10 @@
 			"**Arcane Spell Failure Chance** 30%",
 			"**Speed (30 ft.)** 30 ft.; **Speed (20 ft.)** 20 ft.",
 			"**Capacity** 25 ; **Usage** 1 charge/hour"
+		],
+		"construction": [
+			"Craft DC 26; Cost 13,000 gp",
+			"Craft Technological Arms and Armor, production lab"
 		],
 		"description": [
 			"A deep diving suit is a body-tight mesh of reinforced rubber and polymer fitted with scrubbers that can draw and purify oxygen from its surrounding environment, extracting oxygen from water as easily as from air. The suit's helmet is close-fitting but offers excellent visibility, while the suit's fabric itself can flex while still remaining supportive against pressure-depths are treated as being 1,000 feet shallower than their actual depth for the purposes of determining pressure damage from deep water. The wearer is also immune to inhaled toxins and can breathe underwater with ease-the suit does not allow breathing in a vacuum.",
@@ -217,6 +241,10 @@
 			"**Arcane Spell Failure Chance** 15%",
 			"**Speed (30 ft.)** 30 ft.; **Speed (20 ft.)** 20 ft.",
 			"**Capacity** - ; **Usage** -"
+		],
+		"construction": [
+			"Craft DC 24; Cost 9,625 gp",
+			"Craft Technological Arms and Armor, military lab"
 		],
 		"description": [
 			"This padded jumpsuit is made of resilient polymers interwoven with superconducting thread. It provides modest protection from conventional and energy weapons. The wearer applies the armor's AC bonus (including enhancement bonus, if any) against touch and ranged touch attacks that deal energy damage. In addition, the inssuit provides resist energy 5 against cold, acid, and electricity."
@@ -251,6 +279,10 @@
 			"**Speed (30 ft.)** 30 ft.; **Speed (20 ft.)** 20 ft.",
 			"**Capacity** 24 ; **Usage** 1 charge/hour"
 		],
+		"construction": [
+			"Craft DC 26; Cost 100 gp",
+			"Craft Technological Arms and Armor, military lab"
+		],
 		"copyof": "Scatterlight suit (brown)"
 	},
 	"Smart armor (compact form)": {
@@ -280,6 +312,10 @@
 			"**Arcane Spell Failure Chance** 25%",
 			"**Speed (30 ft.)** 30 ft.; **Speed (20 ft.)** 20 ft.",
 			"**Capacity** 60 ; **Usage** 1 charge/10 minutes"
+		],
+		"construction": [
+			"Craft DC 28; Cost 1,400 gp",
+			"Craft Technological Arms and Armor, military lab"
 		],
 		"description": [
 			"While inactive, smart armor resembles a breastplate of adamantine scales, which doesn't seem out of place among the metal armor of Golarion, except for its the alien aesthetics of its Androffan design. When activated as an immediate action, smart armor expands to cover the wearer's legs and limbs, and a built-in magnetic generator hardens the armor into a rigid, plate-like form. When in this form, it uses the statistics of smart armor (expanded form). It can be collapsed back to breastplate form with a move action, and automatically retracts when it loses power. In either form, smart armor provides DR 2/- due to its adamantine construction. Smart armor is considered masterwork armor."
@@ -314,6 +350,10 @@
 			"**Speed (30 ft.)** 30 ft.; **Speed (20 ft.)** 20 ft.",
 			"**Capacity** 24 ; **Usage** 1 charge/hour"
 		],
+		"construction": [
+			"Craft DC 27; Cost 350 gp",
+			"Craft Technological Arms and Armor, military lab"
+		],
 		"copyof": "Scatterlight suit (brown)"
 	},
 	"Scatterlight suit (green)": {
@@ -344,6 +384,10 @@
 			"**Arcane Spell Failure Chance** 5%",
 			"**Speed (30 ft.)** 30 ft.; **Speed (20 ft.)** 20 ft.",
 			"**Capacity** 24 ; **Usage** 1 charge/hour"
+		],
+		"construction": [
+			"Craft DC 28; Cost 500 gp",
+			"Craft Technological Arms and Armor, military lab"
 		],
 		"copyof": "Scatterlight suit (brown)"
 	},
@@ -376,6 +420,10 @@
 			"**Speed (30 ft.)** 30 ft.; **Speed (20 ft.)** 20 ft.",
 			"**Capacity** 24 ; **Usage** 1 charge/hour"
 		],
+		"construction": [
+			"Craft DC 29; Cost 700 gp",
+			"Craft Technological Arms and Armor, military lab"
+		],
 		"copyof": "Scatterlight suit (brown)"
 	},
 	"Scatterlight suit (blue)": {
@@ -406,6 +454,10 @@
 			"**Arcane Spell Failure Chance** 5%",
 			"**Speed (30 ft.)** 30 ft.; **Speed (20 ft.)** 20 ft.",
 			"**Capacity** 24 ; **Usage** 1 charge/hour"
+		],
+		"construction": [
+			"Craft DC 30; Cost 1,800 gp",
+			"Craft Technological Arms and Armor, military lab"
 		],
 		"copyof": "Scatterlight suit (brown)"
 	},
@@ -438,6 +490,10 @@
 			"**Speed (30 ft.)** 30 ft.; **Speed (20 ft.)** 20 ft.",
 			"**Capacity** 24 ; **Usage** 1 charge/hour"
 		],
+		"construction": [
+			"Craft DC 31; Cost 3,000 gp",
+			"Craft Technological Arms and Armor, military lab"
+		],
 		"copyof": "Scatterlight suit (brown)"
 	},
 	"Scatterlight suit (prismatic)": {
@@ -469,6 +525,10 @@
 			"**Speed (30 ft.)** 30 ft.; **Speed (20 ft.)** 20 ft.",
 			"**Capacity** 24 ; **Usage** 1 charge/hour"
 		],
+		"construction": [
+			"Craft DC 32; Cost 6,000 gp",
+			"Craft Technological Arms and Armor, military lab"
+		],
 		"copyof": "Scatterlight suit (brown)"
 	},
 	"Gravity suit": {
@@ -499,6 +559,10 @@
 			"**Speed (30 ft.)** 30 ft.; **Speed (20 ft.)** 20 ft.",
 			"**Capacity** 24 ; **Usage** 1 charge/hour"
 		],
+		"construction": [
+			"Craft DC 33; Cost 20,000 gp",
+			"Craft Technological Arms and Armor, graviton lab"
+		],
 		"description": [
 			"A gravity suit consists of several black, flexible straps attached to a framework of delicate servos, thin plates, and small strips of black polymer plastic-this give it an appearance of being ineffective armor. The armor bonus provided by an unpowered gravity suit is +0, but when activated, the suit generates a field of gravitons around the wearer that grants a +5 armor bonus (this bonus is a force effect). This bonus is doubled when it applies to the wearer's CMD score against bull rush, overrun, and trip attempts, and slows any fall as if the wearer were under the effect of a feather fall spell.",
 			"At the cost of 1 additional charge per minute, the wearer of a gravity suit can fly at a speed of 60 ft. (average). Activating this ability is a standard action."
@@ -516,8 +580,8 @@
 		"maxDexBonus": 2,
 		"armorCheckPenalty": -4,
 		"arcaneSpellFailureChance": 50,
-		"base30SpeedReduction": -10,
-		"base20SpeedReduction": -5,
+		"base30SpeedReduction": 10,
+		"base20SpeedReduction": 5,
 		"capacity": 10,
 		"usage": "1 charge/hour, disposable",
 		"heading": [
@@ -531,6 +595,10 @@
 			"**Arcane Spell Failure Chance** 50%",
 			"**Speed (30 ft.)** 20 ft.; **Speed (20 ft.)** 15 ft.",
 			"**Capacity** 10 ; **Usage** 1 charge/hour, disposable"
+		],
+		"construction": [
+			"Craft DC 30; Cost 1,000 gp",
+			"Craft Technological Arms and Armor, military lab"
 		],
 		"description": [
 			"When not being worn, a panic suit is a fist-sized plastic sphere. When activated, it envelops the creature holding it in a full-body protective suit. While activated, it provides immunity to low radiation and resistance 5 against all forms of energy except sonic damage. Its air filters grant a +4 bonus on saving throws against inhaled poisons and diseases.",
@@ -549,8 +617,8 @@
 		"maxDexBonus": 3,
 		"armorCheckPenalty": -4,
 		"arcaneSpellFailureChance": 40,
-		"base30SpeedReduction": -10,
-		"base20SpeedReduction": -5,
+		"base30SpeedReduction": 10,
+		"base20SpeedReduction": 5,
 		"capacity": 25,
 		"usage": "1 charge/hour",
 		"heading": [
@@ -564,6 +632,10 @@
 			"**Arcane Spell Failure Chance** 40%",
 			"**Speed (30 ft.)** 20 ft.; **Speed (20 ft.)** 15 ft.",
 			"**Capacity** 25 ; **Usage** 1 charge/hour"
+		],
+		"construction": [
+			"Craft DC 28; Cost 30,500 gp",
+			"Craft Technological Arms and Armor, production lab"
 		],
 		"description": [
 			"Short for \"hazardous environment,\" an HEV suit provides protection from radiation, disease, poisonous gas, cold, heat, and similar environmental dangers. The suit needs a power supply to work-while deactivated, none of the following abilities function at all.",
@@ -582,8 +654,8 @@
 		"maxDexBonus": 4,
 		"armorCheckPenalty": -3,
 		"arcaneSpellFailureChance": 20,
-		"base30SpeedReduction": -10,
-		"base20SpeedReduction": -5,
+		"base30SpeedReduction": 10,
+		"base20SpeedReduction": 5,
 		"capacity": 24,
 		"usage": "1 charge/hour",
 		"heading": [
@@ -597,6 +669,10 @@
 			"**Arcane Spell Failure Chance** 20%",
 			"**Speed (30 ft.)** 20 ft.; **Speed (20 ft.)** 15 ft.",
 			"**Capacity** 24 ; **Usage** 1 charge/hour"
+		],
+		"construction": [
+			"Craft DC 30; Cost 5,000 gp",
+			"Craft Technological Arms and Armor, graviton lab"
 		],
 		"description": [
 			"This suit of armor consists of several layers of scaly mesh over a thick, clothlike polymer weave. When activated, a suit of nanite ablative armor grants the wearer additional protection against nanites, through the use of imperceptible magnetic fields that repel the microscopic robots. An active suit of nanite ablative armor grants its armor bonus (including any enhancement bonuses) to the wearer's touch AC against nanites. The wearer gains a +4 resistance bonus on saving throws made against nanite-related effects delivered through means other than touch attacks."
@@ -614,8 +690,8 @@
 		"maxDexBonus": 0,
 		"armorCheckPenalty": -8,
 		"arcaneSpellFailureChance": 50,
-		"base30SpeedReduction": -10,
-		"base20SpeedReduction": -5,
+		"base30SpeedReduction": 10,
+		"base20SpeedReduction": 5,
 		"capacity": 25,
 		"usage": "1 charge/hour",
 		"heading": [
@@ -629,6 +705,10 @@
 			"**Arcane Spell Failure Chance** 50%",
 			"**Speed (30 ft.)** 20 ft.; **Speed (20 ft.)** 15 ft.",
 			"**Capacity** 25 ; **Usage** 1 charge/hour"
+		],
+		"construction": [
+			"Craft DC 30; Cost 45,000 gp",
+			"Craft Technological Arms and Armor, military lab"
 		],
 		"description": [
 			"This airtight suit of synthetic polymers includes a transparent, dome-like helmet that completely covers the wearer's head. A spacesuit is nearly identical in function to an HEV suit (see page 31), except that as long as the spacesuit is charged, it provides a bit more armor protection as well as complete protection from all radiation and exposure to vacuum. A spacesuit repairs damage to itself at the rate of 4d6 points of damage per charge consumed. It has hardness 6 and 60 hit points.",
@@ -647,8 +727,8 @@
 		"maxDexBonus": 1,
 		"armorCheckPenalty": -5,
 		"arcaneSpellFailureChance": 35,
-		"base30SpeedReduction": -10,
-		"base20SpeedReduction": -5,
+		"base30SpeedReduction": 10,
+		"base20SpeedReduction": 5,
 		"capacity": 60,
 		"usage": "1 charge/10 minutes",
 		"heading": [
@@ -662,6 +742,10 @@
 			"**Arcane Spell Failure Chance** 35%",
 			"**Speed (30 ft.)** 20 ft.; **Speed (20 ft.)** 15 ft.",
 			"**Capacity** 60 ; **Usage** 1 charge/10 minutes"
+		],
+		"construction": [
+			"Craft DC 28; Cost 1,400 gp",
+			"Craft Technological Arms and Armor, military lab"
 		],
 		"copyof": "Smart armor (compact form)"
 	},
@@ -688,10 +772,14 @@
 		"statistics": [
 			"**Cost** 6,400 gp",
 			"**Type** Shield; **Weight** 1 lbs.; **Armor Bonus** +2undefined",
-			"**Max Dex Bonus** +&mdash;; **Armor Check Penalty** 0",
+			"**Max Dex Bonus** &mdash;; **Armor Check Penalty** 0",
 			"**Arcane Spell Failure Chance** 10%",
 			"**Speed (30 ft.)** -; **Speed (20 ft.)** -",
 			"**Capacity** 20 ; **Usage** 1 charge/minute"
+		],
+		"construction": [
+			"Craft DC 27; Cost 3,200 gp",
+			"Craft Technological Arms and Armor, graviton lab"
 		],
 		"description": [
 			"This bulky bracelet is covered in blinking blue lights and pulsing holographic emitters. A hard light shield produces a translucent but substantial holographic barrier when activated. The shield bonus counts as a force effect and applies to the wielder's touch AC against beam and ray attacks (but not other touch attacks). As a transparent force effect, a hard light shield provides no bonus against lasers. A hard light shield can be used to deliver shield bash attacks like a heavy shield.",
