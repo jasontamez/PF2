@@ -14063,5 +14063,203 @@
 			"**Cost** +500 gp **Weight** -",
 			"**Category** Modification; **Proficiency** Modification"
 		]
+	},
+	"War-shield, dwarven": {
+		"equipmentname": "War-shield, dwarven",
+		"file": "equipmentweaponsdisplay989f.html",
+		"sources": [ "Adventurer's Armory 2" ],
+		"type": "weapon",
+		"category": "light",
+		"proficiency": "exotic",
+		"dmgS": "1d4",
+		"dmgM": "1d6",
+		"critMultiplier": 2,
+		"piercing": true,
+		"slashing": true,
+		"special": "see text",
+		"heading": [
+			"**War-shield, dwarven**",
+			"**Source** [Adventurer's Armory 2 pg. 9](source:Adventurer's Armory 2)"
+		],
+		"statistics": [
+			"**Cost** 50 gp **Weight** 8 lbs.",
+			"**Damage** 1d4 (small), 1d6 (medium); **Critical** x2; **Range** -; **Type** P or S; **Special** see text",
+			"**Category** Light; **Proficiency** Exotic",
+			"**[Weapon Group](unknown:Fighter Weapon Group)** Close"
+		],
+		"description": [
+			"This shield's sides are cut into jagged angles and honed to razor sharpness. Dwarven skirmishers often wield these shields in pairs, savagely hacking opponents to pieces, while some dwarven scoundrels enjoy the shields' imposing appearance and ease of use. If you have the Two-Weapon Fighting feat and are wielding two dwarven war-shields, increase the higher of the two shield bonuses by 1. You lose this benefit for 1 round when you make a shield bash with one or both dwarven war-shields (unless you have the Improved Shield Bash feat or a similar benefit). A hand holding a dwarven warshield can't be used for anything else. A dwarven war-shield gains no benefit from shield spikes."
+		]
+	},
+	"Throwing shield": {
+		"equipmentname": "Throwing shield",
+		"file": "equipmentweaponsdisplay8862.html",
+		"sources": [
+			"Ranged Tactics Toolbox",
+			"Adventurer's Armory",
+			"Ultimate Combat",
+			"Ultimate Equipment"
+		],
+		"type": "weapon",
+		"category": "ranged",
+		"proficiency": "exotic",
+		"range": "20 ft.",
+		"dmgS": "1d4",
+		"dmgM": "1d6",
+		"critMultiplier": 2,
+		"bludgeoning": true,
+		"special": "performance, trip",
+		"heading": [
+			"**Throwing shield**",
+			"**Source** [Ranged Tactics Toolbox pg. 33](source:Ranged Tactics Toolbox), [Adventurer's Armory pg. 5](source:Adventurer's Armory), [Ultimate Combat pg. 145](source:Ultimate Combat), [Ultimate Equipment pg. 21](source:Ultimate Equipment)"
+		],
+		"statistics": [
+			"**Cost** +50 gp **Weight** -",
+			"**Damage** 1d4 (small), 1d6 (medium); **Critical** x2; **Range** 20 ft.; **Type** B; **Special** performance, trip",
+			"**Category** Ranged; **Proficiency** Exotic",
+			"**[Weapon Group](unknown:Fighter Weapon Group)** Thrown"
+		],
+		"description": [
+			"This shield is designed for throwing and has specially designed straps that allow you to unclasp and throw it as a free action. Tower shields cannot be throwing shields. Neither a shield's enhancement bonus to AC nor its shield spikes apply on your attack or damage rolls. A throwing shield can't be disarmed."
+		]
+	},
+	"Light shield": {
+		"equipmentname": "Light shield",
+		"file": "equipmentweaponsdisplay6968.html",
+		"sources": [
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
+		],
+		"type": "weapon",
+		"category": "light",
+		"proficiency": "martial",
+		"dmgS": "1d2",
+		"dmgM": "1d3",
+		"critMultiplier": 2,
+		"bludgeoning": true,
+		"heading": [
+			"**Light shield**",
+			"**Source** [Ultimate Equipment pg. 18](source:Ultimate Equipment), [PRPG Core Rulebook pg. 142](source:PRPG Core Rulebook)"
+		],
+		"statistics": [
+			"**Cost** 3 gp/9 gp **Weight** special",
+			"**Damage** 1d2 (small), 1d3 (medium); **Critical** x2; **Range** -; **Type** B; **Special** -",
+			"**Category** Light; **Proficiency** Martial",
+			"**[Weapon Group](unknown:Fighter Weapon Group)** Close; Tribal"
+		],
+		"description": [
+			"You can bash with a light shield instead of using it for defense. The shield entries for light shields appear on page 12."
+		]
+	},
+	"Spiked armor": {
+		"equipmentname": "Spiked armor",
+		"file": "equipmentweaponsdisplay3888.html",
+		"sources": [
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
+		],
+		"type": "weapon",
+		"category": "light",
+		"proficiency": "martial",
+		"dmgS": "1d4",
+		"dmgM": "1d6",
+		"critMultiplier": 2,
+		"piercing": true,
+		"heading": [
+			"**Spiked armor**",
+			"**Source** [Ultimate Equipment pg. 18](source:Ultimate Equipment), [PRPG Core Rulebook pg. 142](source:PRPG Core Rulebook)"
+		],
+		"statistics": [
+			"**Cost** +50 gp **Weight** special",
+			"**Damage** 1d4 (small), 1d6 (medium); **Critical** x2; **Range** -; **Type** P; **Special** -",
+			"**Category** Light; **Proficiency** Martial",
+			"**[Weapon Group](unknown:Fighter Weapon Group)** Close"
+		],
+		"description": [
+			"You can outfit your armor with spikes, which can deal damage in a grapple or as a separate attack. See the armor spikes entry on page 10 for details. Armor spikes can't be disarmed."
+		]
+	},
+	"Spiked light shield": {
+		"equipmentname": "Spiked light shield",
+		"file": "equipmentweaponsdisplay4a72.html",
+		"sources": [
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
+		],
+		"type": "weapon",
+		"category": "light",
+		"proficiency": "martial",
+		"dmgS": "1d3",
+		"dmgM": "1d4",
+		"critMultiplier": 2,
+		"piercing": true,
+		"heading": [
+			"**Spiked light shield**",
+			"**Source** [Ultimate Equipment pg. 18](source:Ultimate Equipment), [PRPG Core Rulebook pg. 142](source:PRPG Core Rulebook)"
+		],
+		"statistics": [
+			"**Cost** 13 gp/19 gp **Weight** special",
+			"**Damage** 1d3 (small), 1d4 (medium); **Critical** x2; **Range** -; **Type** P; **Special** -",
+			"**Category** Light; **Proficiency** Martial"
+		],
+		"description": [
+			"You can bash with a spiked light shield instead of using it for defense. A spiked light shield can't be disarmed. See the armor spikes entry on page 10 for details."
+		]
+	},
+	"Heavy shield": {
+		"equipmentname": "Heavy shield",
+		"file": "equipmentweaponsdisplay00fb.html",
+		"sources": [
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
+		],
+		"type": "weapon",
+		"category": "one-handed",
+		"proficiency": "martial",
+		"dmgS": "1d3",
+		"dmgM": "1d4",
+		"critMultiplier": 2,
+		"bludgeoning": true,
+		"heading": [
+			"**Heavy shield**",
+			"**Source** [Ultimate Equipment pg. 18](source:Ultimate Equipment), [PRPG Core Rulebook pg. 142](source:PRPG Core Rulebook)"
+		],
+		"statistics": [
+			"**Cost** 7 gp/20 gp **Weight** special",
+			"**Damage** 1d3 (small), 1d4 (medium); **Critical** x2; **Range** -; **Type** B; **Special** -",
+			"**Category** One-Handed; **Proficiency** Martial",
+			"**[Weapon Group](unknown:Fighter Weapon Group)** Close; Tribal"
+		],
+		"description": [
+			"You can bash with a heavy shield instead of using it for defense. The shield entries for heavy shields appear on page 11."
+		]
+	},
+	"Spiked heavy shield": {
+		"equipmentname": "Spiked heavy shield",
+		"file": "equipmentweaponsdisplayfcb5.html",
+		"sources": [
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
+		],
+		"type": "weapon",
+		"category": "one-handed",
+		"proficiency": "martial",
+		"dmgS": "1d4",
+		"dmgM": "1d6",
+		"critMultiplier": 2,
+		"piercing": true,
+		"heading": [
+			"**Spiked heavy shield**",
+			"**Source** [Ultimate Equipment pg. 18](source:Ultimate Equipment), [PRPG Core Rulebook pg. 142](source:PRPG Core Rulebook)"
+		],
+		"statistics": [
+			"**Cost** 17 gp/30 gp **Weight** special",
+			"**Damage** 1d4 (small), 1d6 (medium); **Critical** x2; **Range** -; **Type** P; **Special** -",
+			"**Category** One-Handed; **Proficiency** Martial",
+			"**[Weapon Group](unknown:Fighter Weapon Group)** Close"
+		],
+		"description": [
+			"Spiked shields are intimidating weapons, and can have a single protruding central spike, razored shield edges, or a whole forest of deadly protrusions. You can bash with a spiked heavy shield instead of using it for defense. A spiked heavy shield can't be disarmed. See the armor spikes entry on page 10 for details."
+		]
 	}
 }
