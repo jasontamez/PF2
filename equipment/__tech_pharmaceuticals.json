@@ -1,0 +1,325 @@
+{
+	"Azonite Pellets": {
+		"equipmentname": "Azonite Pellets",
+		"file": "equipmenttechpharmaceuticalsdisplayc9be.html",
+		"sources": [
+			"Pathfinder #89: Palace of Fallen Stars"
+		],
+		"type": "tech pharmaceuticals",
+		"cost": 100,
+		"heading": [
+			"**Azonite Pellets**",
+			"**Source** [Pathfinder #89: Palace of Fallen Stars pg. 62](source:Pathfinder #89: Palace of Fallen Stars)",
+			"**Price** 100 gp"
+		],
+		"construction": [
+			"Craft DC 22; Cost 50 gp",
+			"Craft Pharmaceutical, medical lab"
+		],
+		"description": [
+			"The crew of the Divinity did their best to avoid exposure to radiation, but during a mult-iyear exploration of uncharted space, accidents will happen. Azonite pellets were the typical answer to radiation exposure-a less expensive alternative to cureall. An azonite pellet grants a +5 bonus on all saving throws against radiation for 1 hour. Taking multiple pellets resets the duration, but doesn't increase the bonus. Taking 5 pellets at once instantly cures all Strength damage caused by radiation poisoning, but doesn't cure Strength damage caused by any other effect. Azonite pellets can't cure Constitution drain caused by radiation."
+		]
+	},
+	"Baseline": {
+		"equipmentname": "Baseline",
+		"file": "equipmenttechpharmaceuticalsdisplay16e4.html",
+		"sources": [
+			"Technology Guide"
+		],
+		"type": "tech pharmaceuticals",
+		"cost": 2250,
+		"heading": [
+			"**Baseline**",
+			"**Source** [Technology Guide pg. 33](source:Technology Guide)",
+			"**Price** 2,250 gp"
+		],
+		"construction": [
+			"Craft DC 26; Cost 1,125 gp",
+			"Craft Pharmaceutical, medical lab"
+		],
+		"description": [
+			"An injection of baseline floods the brain with neuroinhibitors that purge the mind of excess emotion. Baseline has an onset time of 10 minutes. When it takes effect, baseline renders the recipient immune to insanity, mind-affecting effects, and morale bonuses for 1 hour, as well as suppressing (but not removing) any such active, ongoing effects. It can be resisted with a successful DC 14 Fortitude saving throw. Once a creature has been affected by baseline, it cannot be affected by additional doses for 24 hours."
+		]
+	},
+	"Cardioamp": {
+		"equipmentname": "Cardioamp",
+		"file": "equipmenttechpharmaceuticalsdisplay4485.html",
+		"sources": [
+			"Technology Guide"
+		],
+		"type": "tech pharmaceuticals",
+		"cost": 4550,
+		"heading": [
+			"**Cardioamp**",
+			"**Source** [Technology Guide pg. 33](source:Technology Guide)",
+			"**Price** 4,550 gp"
+		],
+		"construction": [
+			"Craft DC 30; Cost 2,275 gp",
+			"Craft Pharmaceutical, medical lab"
+		],
+		"description": [
+			"This potent drug can revive a recently deceased victim. If administered to a corpse within 1 minute of death, the victim can immediately attempt a Fortitude saving throw (DC = 15 + 1 per round since death occurred) to be restored to life, automatically stabilizing at -1 hit point. Multiple doses injected within this 1-minute period can grant the deceased additional attempts at revival; each additional dose grants a cumulative +2 bonus to the Fortitude saving throw. As with most other effects that revive the dead, a creature restored to life in this manner gains 1 negative level. Cardioamp only works on bodies that are relatively intact. Bodies that have been dismembered, horribly burned, or otherwise mutilated (at the GM's discretion) cannot be revived by cardioamp, but bodies slain by death effects can be.",
+			"Cardioamp can be deadly if injected into a living creature. A living creature injected with cardioamp must succeed at a DC 16 Fortitude saving throw to resist taking 3d6 points of Constitution damage from a sudden heart attack. If the save is successful, the Constitution damage is negated but the victim becomes sickened for 1d6 rounds. The effect when injected in a living creature is a poison effect."
+		]
+	},
+	"Cureall": {
+		"equipmentname": "Cureall",
+		"file": "equipmenttechpharmaceuticalsdisplay8f4d.html",
+		"sources": [
+			"Technology Guide"
+		],
+		"type": "tech pharmaceuticals",
+		"cost": 1400,
+		"heading": [
+			"**Cureall**",
+			"**Source** [Technology Guide pg. 33](source:Technology Guide)",
+			"**Price** 1,400 gp"
+		],
+		"construction": [
+			"Craft DC 25; Cost 700 gp",
+			"Craft Pharmaceutical, medical lab"
+		],
+		"description": [
+			"A dose of cureall allows the target to attempt an additional saving throw against a single disease or poison effect currently afflicting him. This additional saving throw counts for the total number of successful saves needed to recover from the disease or poison. If the target is suffering from multiple afflictions, a single dose of cureall works against only the effect with the highest save DC currently afflicting him.",
+			"Cureall also restores 1d4 points of ability damage or 1 point of ability drain that has been inflicted by a disease or poison, even if the user doesn't succeed at the save. A dose cures any ability drain before curing ability damage. If the target is suffering from drain or damage to multiple ability scores, the cureall cures the score with the most damage or drain (or randomly selects one if multiple scores have equal drain or damage)."
+		]
+	},
+	"Hemochem (Grade I)": {
+		"equipmentname": "Hemochem (Grade I)",
+		"file": "equipmenttechpharmaceuticalsdisplaya51c.html",
+		"sources": [
+			"Technology Guide"
+		],
+		"type": "tech pharmaceuticals",
+		"cost": 250,
+		"heading": [
+			"**Hemochem (Grade I)**",
+			"**Source** [Technology Guide pg. 34](source:Technology Guide)",
+			"**Price** 250 gp (Grade I), 500 gp (Grade II), 750 gp (Grade III), 1,000 gp (Grade IV), 1,250 gp (Grave V)"
+		],
+		"construction": [
+			"Craft DC 23 (Grade I), DC 24 (Grade II), DC 25 (Grade III), DC 26 (Grade IV), DC 27 (Grave V); Cost 125 gp (Grade I), 250 gp (Grade II), 375 gp (Grade III), 500 gp (Grade IV), 625 gp (Grave V)",
+			"Craft Pharmaceutical, medical lab"
+		],
+		"description": [
+			"Hemochem stops bleeding and promotes healing. A single dose of hemochem grants fast healing for 1 minute. Multiple doses injected do not stack, but they do reset the duration of the fast healing back to 1 minute. Five grades of hemochem exist; the fast healing granted by a dose depends on the pharmaceutical's grade, as detailed below.",
+			"| Grade | Fast Healing |",
+			"| --- | --- |",
+			"| Grade I | 1 |",
+			"| Grade II | 2 |",
+			"| Grade III | 3 |",
+			"| Grade IV | 4 |",
+			"| Grade V | 5 |"
+		]
+	},
+	"Hemochem (Grade II)": {
+		"equipmentname": "Hemochem (Grade II)",
+		"file": "equipmenttechpharmaceuticalsdisplayb00f.html",
+		"sources": [
+			"Technology Guide"
+		],
+		"type": "tech pharmaceuticals",
+		"cost": 500,
+		"heading": [
+			"**Hemochem (Grade II)**",
+			"**Source** [Technology Guide pg. 34](source:Technology Guide)",
+			"**Price** 250 gp (Grade I), 500 gp (Grade II), 750 gp (Grade III), 1,000 gp (Grade IV), 1,250 gp (Grave V)"
+		],
+		"copyof": "Hemochem (Grade I)"
+	},
+	"Hemochem (Grade III)": {
+		"equipmentname": "Hemochem (Grade III)",
+		"file": "equipmenttechpharmaceuticalsdisplay0bcc.html",
+		"sources": [
+			"Technology Guide"
+		],
+		"type": "tech pharmaceuticals",
+		"cost": 750,
+		"heading": [
+			"**Hemochem (Grade III)**",
+			"**Source** [Technology Guide pg. 34](source:Technology Guide)",
+			"**Price** 250 gp (Grade I), 500 gp (Grade II), 750 gp (Grade III), 1,000 gp (Grade IV), 1,250 gp (Grave V)"
+		],
+		"copyof": "Hemochem (Grade I)"
+	},
+	"Hemochem (Grade IV)": {
+		"equipmentname": "Hemochem (Grade IV)",
+		"file": "equipmenttechpharmaceuticalsdisplay07a4.html",
+		"sources": [
+			"Technology Guide"
+		],
+		"type": "tech pharmaceuticals",
+		"cost": 1000,
+		"heading": [
+			"**Hemochem (Grade IV)**",
+			"**Source** [Technology Guide pg. 34](source:Technology Guide)",
+			"**Price** 250 gp (Grade I), 500 gp (Grade II), 750 gp (Grade III), 1,000 gp (Grade IV), 1,250 gp (Grave V)"
+		],
+		"copyof": "Hemochem (Grade I)"
+	},
+	"Hemochem (Grave V)": {
+		"equipmentname": "Hemochem (Grave V)",
+		"file": "equipmenttechpharmaceuticalsdisplay39ef.html",
+		"sources": [
+			"Technology Guide"
+		],
+		"type": "tech pharmaceuticals",
+		"cost": 1250,
+		"heading": [
+			"**Hemochem (Grave V)**",
+			"**Source** [Technology Guide pg. 34](source:Technology Guide)",
+			"**Price** 250 gp (Grade I), 500 gp (Grade II), 750 gp (Grade III), 1,000 gp (Grade IV), 1,250 gp (Grave V)"
+		],
+		"copyof": "Hemochem (Grade I)"
+	},
+	"Hype": {
+		"equipmentname": "Hype",
+		"file": "equipmenttechpharmaceuticalsdisplay7b89.html",
+		"sources": [
+			"Technology Guide"
+		],
+		"type": "tech pharmaceuticals",
+		"cost": 250,
+		"heading": [
+			"**Hype**",
+			"**Source** [Technology Guide pg. 34](source:Technology Guide)",
+			"**Price** 250 gp"
+		],
+		"construction": [
+			"Craft DC 24; Cost 125 gp",
+			"Craft Pharmaceutical, medical lab"
+		],
+		"description": [
+			"A synthetic adrenaline derivative once used by soldiers, hype boosts perception and reaction time but comes with some nasty side effects. This pharmaceutical has an onset time of 1 round and its effects last for 1 hour. It provides a +5 competence bonus on Perception checks and increases the user's base land speed by 10 feet, but the user takes a -4 penalty on concentration checks and on all Intelligence-, Wisdom-, and Charisma-based skill checks (with the exception of Perception)."
+		]
+	},
+	"Soothe": {
+		"equipmentname": "Soothe",
+		"file": "equipmenttechpharmaceuticalsdisplayb24b.html",
+		"sources": [
+			"Pathfinder #86: Lords of Rust"
+		],
+		"type": "tech pharmaceuticals",
+		"cost": 200,
+		"heading": [
+			"**Soothe**",
+			"**Source** [Pathfinder #86: Lords of Rust pg. 63](source:Pathfinder #86: Lords of Rust)",
+			"**Price** 200 gp"
+		],
+		"construction": [
+			"Craft DC 20; Cost 100 gp",
+			"Craft Pharmaceutical, medical lab"
+		],
+		"description": [
+			"This strange, pink, gel-like substance is generally contained in a small glass jar that holds 1 dose. A single dose of soothe dulls pain and creates a euphoric sensation, particularly when applied to an open wound. Rubbing a dose of soothe onto one's skin or imbibing the faintly citrusflavored stuff cures 1 point of damage, but rubbing a dose onto a wound received in the last minute heals the user of 1d8 points of damage. In addition, for the next minute, the user becomes immune to bleed damage and gains a +2 morale bonus on saving throws against fear effects. As a somewhat unusual and disturbing side effect, wounds healed by soothe tend to form raw, unsightly scars, giving the appearance of the wound still being fresh but disturbingly bloodless. Soothe has a further side effect-the stuff is slightly addictive, and those who use it run the danger of developing a habit. Soothe's side effect of transforming wounds into raw, ugly scar tissue tends to make those who abuse the drug-like pharmaceutical increasingly into hideous monstrosities over time. In fact, some subcultures, like the Smilers of Scrapwall, use this side effect to make themselves appear more ferocious, and openly encourage self-mutilation followed by healing via of this strange substance."
+		]
+	},
+	"Torpinal": {
+		"equipmentname": "Torpinal",
+		"file": "equipmenttechpharmaceuticalsdisplay5de3.html",
+		"sources": [
+			"Technology Guide"
+		],
+		"type": "tech pharmaceuticals",
+		"cost": 300,
+		"heading": [
+			"**Torpinal**",
+			"**Source** [Technology Guide pg. 34](source:Technology Guide)",
+			"**Price** 300 gp"
+		],
+		"construction": [
+			"Craft DC 25; Cost 150 gp",
+			"Craft Pharmaceutical, medical lab"
+		],
+		"description": [
+			"Torpinal is a serum that makes the injected subject more cooperative during interrogation. It has a 1-minute onset time. The effects of a single dose of torpinal can be resisted with a successful DC 12 Will saving throw. Additional dose can be used, and often are when the subject succeeds at a save against torpinal. Each dose administered within a 1-minute period forces a new saving throw to resist the effects, with the DC increasing by 2 per additional dose (to a maximum of DC 22).",
+			"A victim that succumbs to torpinal becomes highly suggestible to revealing truthful information for 10 minutes. Whenever the victim is posed a question during this time, the victim must succeed at a Will saving throw (DC = the DC of the dose of torpinal the victim failed his saving throw against) to resist replying to the question in as truthful a manner as he can. The victim isn't compelled to follow any suggestions other than the one to answer questions truthfully. A victim under the effects of torpinal takes a -10 penalty on Bluff checks, making it difficult to lie even if successfully saving against the torpinal's ongoing effects. Torpinal is a poison and mind-affecting effect."
+		]
+	},
+	"Universal Serum": {
+		"equipmentname": "Universal Serum",
+		"file": "equipmenttechpharmaceuticalsdisplay6761.html",
+		"sources": [
+			"Pathfinder #85: Fires of Creation"
+		],
+		"type": "tech pharmaceuticals",
+		"cost": 400,
+		"heading": [
+			"**Universal Serum**",
+			"**Source** [Pathfinder #85: Fires of Creation pg. 61](source:Pathfinder #85: Fires of Creation)",
+			"**Price** 400 gp"
+		],
+		"construction": [
+			"Craft DC 25; Cost 200 gp",
+			"Craft Pharmaceutical, medical lab"
+		],
+		"description": [
+			"A viscous, blue serum fills the receptacle attached behind the nozzle of this metallic injector. Three small panels on the side of the injector light up one at a time when touched- selecting a color (red, blue, or green) is a swift action. The injector contains only 1 dose of universal serum. Injecting the serum is a standard action that heals the recipient of 1d8 points of damage and has an additional effect depending upon the current color selection. Red grants the recipient a +4 enhancement bonus to Constitution. Blue grants the recipient a +4 enhancement bonus to Strength. Green grants the recipient a +4 enhancement bonus to Dexterity. The enhancement bonus lasts for 3 minutes, after which the recipient of the serum becomes fatigued for 1 hour. If the recipient receives more than 1 dose of universal serum in a 24-hour period, the healing effect still occurs but no enhancement bonus is granted; instead, the recipient immediately becomes fatigued for 1 hour."
+		]
+	},
+	"Vitality Serum": {
+		"equipmentname": "Vitality Serum",
+		"file": "equipmenttechpharmaceuticalsdisplay3750.html",
+		"sources": [
+			"Pathfinder #85: Fires of Creation"
+		],
+		"type": "tech pharmaceuticals",
+		"cost": 500,
+		"heading": [
+			"**Vitality Serum**",
+			"**Source** [Pathfinder #85: Fires of Creation pg. 61](source:Pathfinder #85: Fires of Creation)",
+			"**Price** 500 gp"
+		],
+		"construction": [
+			"Craft DC 25; Cost 250 gp",
+			"Craft Pharmaceutical, medical lab"
+		],
+		"description": [
+			"The glass receptacle of this injector contains 1 dose of a bright-yellow serum. When injected into a creature (this is a standard action), the substance grants immunity to low radiation for 1 hour, and a +5 alchemical bonus on all saving throws against other radiation effects for that duration. In addition, it heals 1d4 points of Strength damage caused by radiation poisoning. Vitality serum cannot cure Constitution drain caused by radiation poisoning."
+		]
+	},
+	"Vive": {
+		"equipmentname": "Vive",
+		"file": "equipmenttechpharmaceuticalsdisplay523c.html",
+		"sources": [
+			"Technology Guide"
+		],
+		"type": "tech pharmaceuticals",
+		"cost": 200,
+		"heading": [
+			"**Vive**",
+			"**Source** [Technology Guide pg. 34](source:Technology Guide)",
+			"**Price** 200 gp"
+		],
+		"construction": [
+			"Craft DC 22; Cost 100 gp",
+			"Craft Pharmaceutical, medical lab"
+		],
+		"description": [
+			"Vive revitalizes the body at the cost of mental acuity. This pharmaceutical has an onset time of 1 minute. It eliminates fatigue and exhaustion and heals 1d4 points of ability damage to a physical ability score (Strength, Dexterity, or Constitution) of the target's choice. The first dose taken in a 24-hour period deals 1d2 points of ability damage to Intelligence and Wisdom; additional doses in that period deal 1d4 points of ability damage instead. Vive can be resisted with a successful DC 12 Fortitude saving throw."
+		]
+	},
+	"Zortaphen": {
+		"equipmentname": "Zortaphen",
+		"file": "equipmenttechpharmaceuticalsdisplay6bab.html",
+		"sources": [
+			"Technology Guide"
+		],
+		"type": "tech pharmaceuticals",
+		"cost": 2250,
+		"heading": [
+			"**Zortaphen**",
+			"**Source** [Technology Guide pg. 34](source:Technology Guide)",
+			"**Price** 2,250 gp"
+		],
+		"construction": [
+			"Craft DC 22; Cost 1,125 gp",
+			"Craft Pharmaceutical, medical lab"
+		],
+		"description": [
+			"Zortaphen is a powerful anesthetic. A creature that takes a dose of zortaphen must succeed at a DC 15 Fortitude saving throw or become unconscious for 1 hour; the unconsciousness takes effect 1d6 rounds after the failed save. A creature under the effects of zortaphen is numbed as well, making it immune to pain effects while sleeping. Damage inflicted on someone put to sleep with zortaphen does not cause the sleeper to awaken. Awakening someone early requires a successful DC 20 Heal check and a full-round action. Zortaphen is a poison and sleep effect.",
+			"Zortaphen can be dangerous if too much is taken at once. A skilled character can use a successful DC 15 Heal check to keep someone under the effects of zortaphen unconscious indefinitely by injecting a new dose every hour. On a failed Heal check or if a second dose is administered without attempting a Heal check, a victim already under the effects of zortaphen must succeed at a DC 15 Fortitude save or take 1d6 points of Constitution damage."
+		]
+	}
+}
