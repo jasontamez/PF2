@@ -1,4 +1,14 @@
 {
+	"_information": {
+		"description": [
+			"A pharmaceutical takes a standard action to consume, or a move action if administered by a medlance (see page 49). A single dose of any pharmaceutical weighs only a tenth of a pound-no entry for weight is given for the following item descriptions. Individual doses of pharmaceuticals can take various forms, from an injected serum to an ingested pill. Each pharmaceutical is assumed to contain a means of delivery included in its weight and cost. Any pharmaceutical can be used with a medlance to speed up its administration time, regardless of its form.",
+			"Each pharmaceutical has a full description, including a set of abbreviated statistics, organized as follows.",
+			"**Price:** This is the cost in gold pieces to purchase the pharmaceutical if it's available for sale. As with magic potions, a pharmaceutical can be sold by PCs for half this value.",
+			"**Construction Requirements:** Certain requirements must be met for a character to craft a pharmaceutical. These requirements generally include a feat and access to a medical laboratory. Crafting components are consumed during construction and are not counted as part of the item's cost; if the crafting attempt fails, new crafting components must be provided for the next attempt.",
+			"**Craft:** This is the Craft DC required to create the pharmaceutical. It is also the Knowledge (engineering) or Heal DC to correctly identify the pharmaceutical.",
+			"**Cost:** This is the cost in gold pieces to create the pharmaceutical. Generally this cost is equal to half the price of the pharmaceutical."
+		]
+	},
 	"Azonite Pellets": {
 		"equipmentname": "Azonite Pellets",
 		"file": "equipmenttechpharmaceuticalsdisplayc9be.html",

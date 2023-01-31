@@ -1,4 +1,9 @@
 {
+	"information": {
+		"description": [
+			"In the case of technological items, artifact status refers to an item that is beyond the means of anyone on Golarion to create or replicate, as well as beyond conventional measures of value. Unlike magical artifacts, technological artifacts can be destroyed just as other items could, and indeed may be quite fragile."
+		]
+	},
 	"Arms of the Iron God": {
 		"equipmentname": "Arms of the Iron God",
 		"file": "equipmenttechartifactsdisplaye869.html",
