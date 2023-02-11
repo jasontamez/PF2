@@ -1,5 +1,5 @@
 {
-	"Acid": {
+	"acid": {
 		"equipmentname": "Acid",
 		"file": "equipmentmiscdisplaydfeb.html",
 		"sources": [
@@ -31,7 +31,7 @@
 			"**Time** 1 day;  **Tools** retort;  **Type** alchemical weapon"
 		]
 	},
-	"Acid neutralizer": {
+	"acid neutralizer": {
 		"equipmentname": "Acid neutralizer",
 		"file": "equipmentmiscdisplay5779.html",
 		"sources": [ "Alchemy Manual" ],
@@ -57,7 +57,7 @@
 			"**Time** 10 minutes;  **Tools** crucible;  **Type** alchemical weapon"
 		]
 	},
-	"Alchemical coal (blinding cinders)": {
+	"alchemical coal (blinding cinders)": {
 		"equipmentname": "Alchemical coal (blinding cinders)",
 		"file": "equipmentmiscdisplayf5e8.html",
 		"sources": [ "Advanced Race Guide" ],
@@ -84,7 +84,7 @@
 			"Choking smoke: Craft (Alchemy) DC 20"
 		]
 	},
-	"Alchemical coal (choking smoke)": {
+	"alchemical coal (choking smoke)": {
 		"equipmentname": "Alchemical coal (choking smoke)",
 		"file": "equipmentmiscdisplay7f3b.html",
 		"sources": [ "Advanced Race Guide" ],
@@ -107,7 +107,7 @@
 			"Choking smoke: Craft (Alchemy) DC 20"
 		]
 	},
-	"Alchemist's fire": {
+	"alchemist's fire": {
 		"equipmentname": "Alchemist's fire",
 		"file": "equipmentmiscdisplay35d1.html",
 		"sources": [
@@ -140,7 +140,7 @@
 			"**Time** 10 minutes;  **Tools** alchemist's lab;  **Type** alchemical weapon"
 		]
 	},
-	"Alkali flask": {
+	"alkali flask": {
 		"equipmentname": "Alkali flask",
 		"file": "equipmentmiscdisplayf4e5.html",
 		"sources": [
@@ -169,7 +169,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 20" ]
 	},
-	"Arrow (bleeding)": {
+	"arrow (bleeding)": {
 		"equipmentname": "Arrow (bleeding)",
 		"file": "equipmentmiscdisplay96a6.html",
 		"sources": [
@@ -197,7 +197,7 @@
 			"**Time** 1 hour;  **Tools** -;  **Type** alchemical weapon"
 		]
 	},
-	"Arrow (durable)": {
+	"arrow (durable)": {
 		"equipmentname": "Arrow (durable)",
 		"file": "equipmentmiscdisplay92b9.html",
 		"sources": [
@@ -224,7 +224,7 @@
 			"**Time** 1 hour;  **Tools** -;  **Type** alchemical weapon"
 		]
 	},
-	"Arrow (dye)": {
+	"arrow (dye)": {
 		"equipmentname": "Arrow (dye)",
 		"file": "equipmentmiscdisplayb6be.html",
 		"sources": [
@@ -252,7 +252,7 @@
 			"**Time** 10 minutes;  **Tools** -;  **Type** alchemical weapon"
 		]
 	},
-	"Arrow (lodestone)": {
+	"arrow (lodestone)": {
 		"equipmentname": "Arrow (lodestone)",
 		"file": "equipmentmiscdisplayccd7.html",
 		"sources": [
@@ -280,7 +280,7 @@
 			"**Time** 1 hour;  **Tools** -;  **Type** alchemical weapon"
 		]
 	},
-	"Arrow (pheromone)": {
+	"arrow (pheromone)": {
 		"equipmentname": "Arrow (pheromone)",
 		"file": "equipmentmiscdisplay2a4c-2.html",
 		"sources": [
@@ -307,7 +307,7 @@
 			"**Time** 10 minutes;  **Tools** alchemist's lab;  **Type** alchemical weapon"
 		]
 	},
-	"Arrow (raining)": {
+	"arrow (raining)": {
 		"equipmentname": "Arrow (raining)",
 		"file": "equipmentmiscdisplay4ca7.html",
 		"sources": [
@@ -332,7 +332,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 25" ]
 	},
-	"Arrow (slow burn)": {
+	"arrow (slow burn)": {
 		"equipmentname": "Arrow (slow burn)",
 		"file": "equipmentmiscdisplayba14.html",
 		"sources": [
@@ -361,7 +361,7 @@
 			"**Time** 10 minutes;  **Tools** alchemist's lab;  **Type** alchemical weapon"
 		]
 	},
-	"Arrow (splintercloud)": {
+	"arrow (splintercloud)": {
 		"equipmentname": "Arrow (splintercloud)",
 		"file": "equipmentmiscdisplayd2c6.html",
 		"sources": [
@@ -389,7 +389,7 @@
 			"**Time** 10 minutes;  **Tools** -;  **Type** alchemical weapon"
 		]
 	},
-	"Arrow (tangleshot)": {
+	"arrow (tangleshot)": {
 		"equipmentname": "Arrow (tangleshot)",
 		"file": "equipmentmiscdisplayfdf4.html",
 		"sources": [
@@ -416,7 +416,7 @@
 			"**Time** 10 minutes;  **Tools** alchemist's lab;  **Type** alchemical weapon"
 		]
 	},
-	"Arrow (trip)": {
+	"arrow (trip)": {
 		"equipmentname": "Arrow (trip)",
 		"file": "equipmentmiscdisplay9966.html",
 		"sources": [
@@ -443,7 +443,7 @@
 			"**Time** 10 minutes;  **Tools** -;  **Type** alchemical weapon"
 		]
 	},
-	"Artokus's fire": {
+	"artokus's fire": {
 		"equipmentname": "Artokus's fire",
 		"file": "equipmentmiscdisplay4f2d.html",
 		"sources": [ "Alchemy Manual" ],
@@ -470,7 +470,7 @@
 			"**Time** 1 hour;  **Tools** alchemist's lab;  **Type** alchemical weapon"
 		]
 	},
-	"Blanch bomb (adamantine)": {
+	"blanch bomb (adamantine)": {
 		"equipmentname": "Blanch bomb (adamantine)",
 		"file": "equipmentmiscdisplay8569.html",
 		"sources": [ "Alchemy Manual" ],
@@ -496,7 +496,7 @@
 			"**Time** 1 hour;  **Tools** crucible;  **Type** alchemical weapon"
 		]
 	},
-	"Blanch bomb (cold iron)": {
+	"blanch bomb (cold iron)": {
 		"equipmentname": "Blanch bomb (cold iron)",
 		"file": "equipmentmiscdisplay885d.html",
 		"sources": [ "Alchemy Manual" ],
@@ -522,7 +522,7 @@
 			"**Time** 1 hour;  **Tools** crucible;  **Type** alchemical weapon"
 		]
 	},
-	"Blanch bomb (silver)": {
+	"blanch bomb (silver)": {
 		"equipmentname": "Blanch bomb (silver)",
 		"file": "equipmentmiscdisplay7f38.html",
 		"sources": [ "Alchemy Manual" ],
@@ -548,7 +548,7 @@
 			"**Time** 1 hour;  **Tools** crucible;  **Type** alchemical weapon"
 		]
 	},
-	"Bloating solution": {
+	"bloating solution": {
 		"equipmentname": "Bloating solution",
 		"file": "equipmentmiscdisplay49a3.html",
 		"sources": [ "Alchemy Manual" ],
@@ -574,7 +574,7 @@
 			"**Time** 10 minutes;  **Tools** retort;  **Type** alchemical weapon"
 		]
 	},
-	"Bolt, acid": {
+	"bolt, acid": {
 		"equipmentname": "Bolt, acid",
 		"file": "equipmentmiscdisplayb7bf.html",
 		"sources": [
@@ -599,7 +599,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 25" ]
 	},
-	"Bolt, alchemical fire": {
+	"bolt, alchemical fire": {
 		"equipmentname": "Bolt, alchemical fire",
 		"file": "equipmentmiscdisplay3f08.html",
 		"sources": [ "Adventurer's Armory 2" ],
@@ -621,7 +621,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 25" ]
 	},
-	"Bolt, liquid ice": {
+	"bolt, liquid ice": {
 		"equipmentname": "Bolt, liquid ice",
 		"file": "equipmentmiscdisplaya86a.html",
 		"sources": [ "Adventurer's Armory 2" ],
@@ -643,7 +643,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 25" ]
 	},
-	"Bolt, poison": {
+	"bolt, poison": {
 		"equipmentname": "Bolt, poison",
 		"file": "equipmentmiscdisplay3852.html",
 		"sources": [ "Adventurer's Armory 2" ],
@@ -664,7 +664,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 20" ]
 	},
-	"Bone Burn": {
+	"bone Burn": {
 		"equipmentname": "Bone Burn",
 		"file": "equipmentmiscdisplay100e.html",
 		"sources": [ "Pathfinder #139: The Dead Road" ],
@@ -689,7 +689,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 20" ]
 	},
-	"Bottled lightning": {
+	"bottled lightning": {
 		"equipmentname": "Bottled lightning",
 		"file": "equipmentmiscdisplay4ea6.html",
 		"sources": [ "Ultimate Equipment" ],
@@ -714,7 +714,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 25" ]
 	},
-	"Brewed reek": {
+	"brewed reek": {
 		"equipmentname": "Brewed reek",
 		"file": "equipmentmiscdisplay408b.html",
 		"sources": [ "Advanced Race Guide" ],
@@ -737,7 +737,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 25" ]
 	},
-	"Burst jar": {
+	"burst jar": {
 		"equipmentname": "Burst jar",
 		"file": "equipmentmiscdisplay1f17.html",
 		"sources": [ "Ultimate Equipment" ],
@@ -761,7 +761,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 25" ]
 	},
-	"Chroma grenade": {
+	"chroma grenade": {
 		"equipmentname": "Chroma grenade",
 		"file": "equipmentmiscdisplaydcdf.html",
 		"sources": [ "Legacy of the First World" ],
@@ -779,7 +779,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 25" ]
 	},
-	"Congealer spray": {
+	"congealer spray": {
 		"equipmentname": "Congealer spray",
 		"file": "equipmentmiscdisplay2144.html",
 		"sources": [ "Alchemy Manual" ],
@@ -803,7 +803,7 @@
 			"**Time** 10 minutes;  **Tools** retort;  **Type** alchemical weapon"
 		]
 	},
-	"Consecrated Salts": {
+	"consecrated Salts": {
 		"equipmentname": "Consecrated Salts",
 		"file": "equipmentmiscdisplay574e.html",
 		"sources": [ "Pathfinder #139: The Dead Road" ],
@@ -827,7 +827,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 30" ]
 	},
-	"Corrosenze": {
+	"corrosenze": {
 		"equipmentname": "Corrosenze",
 		"file": "equipmentmiscdisplay5fa4.html",
 		"sources": [ "Elemental Master's Handbook" ],
@@ -845,7 +845,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 25" ]
 	},
-	"Cytillesh stun vial": {
+	"cytillesh stun vial": {
 		"equipmentname": "Cytillesh stun vial",
 		"file": "equipmentmiscdisplay1e87.html",
 		"sources": [ "Kobolds of Golarion" ],
@@ -865,7 +865,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 30" ]
 	},
-	"Darkflare": {
+	"darkflare": {
 		"equipmentname": "Darkflare",
 		"file": "equipmentmiscdisplay42c9.html",
 		"sources": [
@@ -887,7 +887,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 25" ]
 	},
-	"Deadground dust": {
+	"deadground dust": {
 		"equipmentname": "Deadground dust",
 		"file": "equipmentmiscdisplayfa71.html",
 		"sources": [ "Elemental Master's Handbook" ],
@@ -905,7 +905,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 25" ]
 	},
-	"Desiccating lubricant": {
+	"desiccating lubricant": {
 		"equipmentname": "Desiccating lubricant",
 		"file": "equipmentmiscdisplay66c8.html",
 		"sources": [ "Alchemy Manual" ],
@@ -931,7 +931,7 @@
 			"**Time** 10 minutes;  **Tools** alchemist's lab;  **Type** alchemical weapon"
 		]
 	},
-	"Dung grenade": {
+	"dung grenade": {
 		"equipmentname": "Dung grenade",
 		"file": "equipmentmiscdisplay7f7e.html",
 		"sources": [ "Antihero's Handbook" ],
@@ -956,7 +956,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 25" ]
 	},
-	"Dust knuckles (4 vials)": {
+	"dust knuckles (4 vials)": {
 		"equipmentname": "Dust knuckles (4 vials)",
 		"file": "equipmentmiscdisplaye51a.html",
 		"sources": [ "Advanced Class Guide" ],
@@ -980,7 +980,7 @@
 			"Diamond dust vial: Craft (Alchemy) DC 25"
 		]
 	},
-	"Dust knuckles (diamond dust vial)": {
+	"dust knuckles (diamond dust vial)": {
 		"equipmentname": "Dust knuckles (diamond dust vial)",
 		"file": "equipmentmiscdisplay19fe.html",
 		"sources": [ "Advanced Class Guide" ],
@@ -1001,7 +1001,7 @@
 			"Diamond dust vial: Craft (Alchemy) DC 25"
 		]
 	},
-	"Dust knuckles (gloves)": {
+	"dust knuckles (gloves)": {
 		"equipmentname": "Dust knuckles (gloves)",
 		"file": "equipmentmiscdisplay9729.html",
 		"sources": [ "Advanced Class Guide" ],
@@ -1022,7 +1022,7 @@
 			"Diamond dust vial: Craft (Alchemy) DC 25"
 		]
 	},
-	"Ectoplasmic residue": {
+	"ectoplasmic residue": {
 		"equipmentname": "Ectoplasmic residue",
 		"file": "equipmentmiscdisplay70fd.html",
 		"sources": [ "Occult Adventures" ],
@@ -1045,7 +1045,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 25" ]
 	},
-	"Elemental brine": {
+	"elemental brine": {
 		"equipmentname": "Elemental brine",
 		"file": "equipmentmiscdisplay575a.html",
 		"sources": [ "Blood of the Elements" ],
@@ -1072,7 +1072,7 @@
 			"Finally, elemental brine can be used as a splash weapon with a range increment of 10 feet. While it has little effect on most creatures (other than soaking them in salty water) when used in this way, a bottle of elemental brine is quite lethal if it's flung at a creature with the fire subtype. On a direct hit, a creature with the fire subtype takes 2d6 points of damage, and creatures with the fire subtype in adjacent squares take 1d4 points of damage. In addition, a direct hit against a creature with the fire subtype creates a unique interplay between elemental brine's salt and water and the creature's flames, making the target more conductive and thus more susceptible to electrocution. Anytime the target would take electricity damage within the next minute, it must succeed at a DC 20 Reflex save or take 1-1/2 times as much electricity damage as normal."
 		]
 	},
-	"Elemental flux (flask)": {
+	"elemental flux (flask)": {
 		"equipmentname": "Elemental flux (flask)",
 		"file": "equipmentmiscdisplay6939.html",
 		"sources": [ "Advanced Race Guide" ],
@@ -1097,7 +1097,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 20" ]
 	},
-	"Fiery boulder": {
+	"fiery boulder": {
 		"equipmentname": "Fiery boulder",
 		"file": "equipmentmiscdisplayfd7b.html",
 		"sources": [ "Pathfinder #91: Battle of Bloodmarch Hills" ],
@@ -1127,7 +1127,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 30" ]
 	},
-	"Firework (banshee ballerina)": {
+	"firework (banshee ballerina)": {
 		"equipmentname": "Firework (banshee ballerina)",
 		"file": "equipmentmiscdisplay94b1.html",
 		"sources": [ "Ultimate Equipment" ],
@@ -1150,7 +1150,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 30" ]
 	},
-	"Firework (coughing dragon)": {
+	"firework (coughing dragon)": {
 		"equipmentname": "Firework (coughing dragon)",
 		"file": "equipmentmiscdisplaydb07.html",
 		"sources": [ "Ships of the Inner Sea" ],
@@ -1174,7 +1174,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 25" ]
 	},
-	"Firework (dancing peonies)": {
+	"firework (dancing peonies)": {
 		"equipmentname": "Firework (dancing peonies)",
 		"file": "equipmentmiscdisplay2b2b.html",
 		"sources": [ "Alchemy Manual" ],
@@ -1196,7 +1196,7 @@
 			"**Time** 1 hour;  **Tools** crucible;  **Type** alchemical weapon"
 		]
 	},
-	"Firework (fire wheel)": {
+	"firework (fire wheel)": {
 		"equipmentname": "Firework (fire wheel)",
 		"file": "equipmentmiscdisplay0cc0.html",
 		"sources": [ "Ranged Tactics Toolbox" ],
@@ -1220,7 +1220,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 25" ]
 	},
-	"Firework (firecracker)": {
+	"firework (firecracker)": {
 		"equipmentname": "Firework (firecracker)",
 		"file": "equipmentmiscdisplay8948.html",
 		"sources": [ "Alchemy Manual" ],
@@ -1242,7 +1242,7 @@
 			"**Time** 10 minutes;  **Tools** crucible;  **Type** alchemical weapon"
 		]
 	},
-	"Firework (firecracker, spirit)": {
+	"firework (firecracker, spirit)": {
 		"equipmentname": "Firework (firecracker, spirit)",
 		"file": "equipmentmiscdisplay3648.html",
 		"sources": [ "Alchemy Manual" ],
@@ -1264,7 +1264,7 @@
 			"**Time** 1 hour;  **Tools** crucible;  **Type** alchemical weapon"
 		]
 	},
-	"Firework (flame fountain)": {
+	"firework (flame fountain)": {
 		"equipmentname": "Firework (flame fountain)",
 		"file": "equipmentmiscdisplay3fef.html",
 		"sources": [ "Ultimate Equipment" ],
@@ -1287,7 +1287,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 25" ]
 	},
-	"Firework (flashing fiend)": {
+	"firework (flashing fiend)": {
 		"equipmentname": "Firework (flashing fiend)",
 		"file": "equipmentmiscdisplay073a.html",
 		"sources": [ "Ships of the Inner Sea" ],
@@ -1311,7 +1311,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 30" ]
 	},
-	"Firework (holy fountain)": {
+	"firework (holy fountain)": {
 		"equipmentname": "Firework (holy fountain)",
 		"file": "equipmentmiscdisplayb50e.html",
 		"sources": [ "Demon Hunter's Handbook" ],
@@ -1334,7 +1334,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 25" ]
 	},
-	"Firework (jumping jenny)": {
+	"firework (jumping jenny)": {
 		"equipmentname": "Firework (jumping jenny)",
 		"file": "equipmentmiscdisplay5454.html",
 		"sources": [ "Alchemy Manual" ],
@@ -1356,7 +1356,7 @@
 			"**Time** 10 minutes;  **Tools** crucible;  **Type** alchemical weapon"
 		]
 	},
-	"Firework (paper candle)": {
+	"firework (paper candle)": {
 		"equipmentname": "Firework (paper candle)",
 		"file": "equipmentmiscdisplay9f68.html",
 		"sources": [
@@ -1381,7 +1381,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 20" ]
 	},
-	"Firework (signal rocket)": {
+	"firework (signal rocket)": {
 		"equipmentname": "Firework (signal rocket)",
 		"file": "equipmentmiscdisplaya4b3.html",
 		"sources": [ "Monster Codex" ],
@@ -1404,7 +1404,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 15" ]
 	},
-	"Firework (skydragon)": {
+	"firework (skydragon)": {
 		"equipmentname": "Firework (skydragon)",
 		"file": "equipmentmiscdisplaybb6d.html",
 		"sources": [ "Alchemy Manual" ],
@@ -1426,7 +1426,7 @@
 			"**Time** 1 day;  **Tools** crucible;  **Type** alchemical weapon"
 		]
 	},
-	"Firework (skyrocket)": {
+	"firework (skyrocket)": {
 		"equipmentname": "Firework (skyrocket)",
 		"file": "equipmentmiscdisplaycb3b.html",
 		"sources": [
@@ -1453,7 +1453,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 25" ]
 	},
-	"Firework (sparking pinwheel)": {
+	"firework (sparking pinwheel)": {
 		"equipmentname": "Firework (sparking pinwheel)",
 		"file": "equipmentmiscdisplay35bf.html",
 		"sources": [ "Alchemy Manual" ],
@@ -1475,7 +1475,7 @@
 			"**Time** 1 hour;  **Tools** crucible;  **Type** alchemical weapon"
 		]
 	},
-	"Firework (star candle)": {
+	"firework (star candle)": {
 		"equipmentname": "Firework (star candle)",
 		"file": "equipmentmiscdisplay417d.html",
 		"sources": [
@@ -1503,7 +1503,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 20" ]
 	},
-	"Firework (starfountain)": {
+	"firework (starfountain)": {
 		"equipmentname": "Firework (starfountain)",
 		"file": "equipmentmiscdisplay2f94.html",
 		"sources": [
@@ -1530,7 +1530,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 25" ]
 	},
-	"Flash powder": {
+	"flash powder": {
 		"equipmentname": "Flash powder",
 		"file": "equipmentmiscdisplayb3b1.html",
 		"sources": [
@@ -1557,7 +1557,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 20" ]
 	},
-	"Fuse grenade": {
+	"fuse grenade": {
 		"equipmentname": "Fuse grenade",
 		"file": "equipmentmiscdisplay8125.html",
 		"sources": [
@@ -1585,7 +1585,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 25" ]
 	},
-	"Ghast retch flask": {
+	"ghast retch flask": {
 		"equipmentname": "Ghast retch flask",
 		"file": "equipmentmiscdisplay7ac1.html",
 		"sources": [ "Ultimate Equipment" ],
@@ -1608,7 +1608,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 20" ]
 	},
-	"Hellfire sparkler": {
+	"hellfire sparkler": {
 		"equipmentname": "Hellfire sparkler",
 		"file": "equipmentmiscdisplay4996.html",
 		"sources": [ "Antihero's Handbook" ],
@@ -1633,7 +1633,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 25" ]
 	},
-	"Holy water": {
+	"holy water": {
 		"equipmentname": "Holy water",
 		"file": "equipmentmiscdisplay0315.html",
 		"sources": [
@@ -1662,7 +1662,7 @@
 			"Temples to good deities sell holy water at cost (making no profit). Holy water is made using the bless water spell."
 		]
 	},
-	"Holy weapon balm": {
+	"holy weapon balm": {
 		"equipmentname": "Holy weapon balm",
 		"file": "equipmentmiscdisplaye240.html",
 		"sources": [ "Advanced Class Guide" ],
@@ -1683,7 +1683,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 20" ]
 	},
-	"Incendiary catalyst": {
+	"incendiary catalyst": {
 		"equipmentname": "Incendiary catalyst",
 		"file": "equipmentmiscdisplay3c94.html",
 		"sources": [ "Pathfinder #115: Trail of the Hunted" ],
@@ -1705,7 +1705,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 20" ]
 	},
-	"Insomnia powder": {
+	"insomnia powder": {
 		"equipmentname": "Insomnia powder",
 		"file": "equipmentmiscdisplay2715.html",
 		"sources": [ "Dungeoneer's Handbook" ],
@@ -1728,7 +1728,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 25" ]
 	},
-	"Itching powder": {
+	"itching powder": {
 		"equipmentname": "Itching powder",
 		"file": "equipmentmiscdisplay69b0.html",
 		"sources": [
@@ -1754,7 +1754,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 25" ]
 	},
-	"Keros oil": {
+	"keros oil": {
 		"equipmentname": "Keros oil",
 		"file": "equipmentmiscdisplaybf2f.html",
 		"sources": [
@@ -1782,7 +1782,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 15" ]
 	},
-	"Kitumu's ire": {
+	"kitumu's ire": {
 		"equipmentname": "Kitumu's ire",
 		"file": "equipmentmiscdisplaya270.html",
 		"sources": [ "Adventurer's Armory 2" ],
@@ -1804,7 +1804,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 30" ]
 	},
-	"Liquid blade": {
+	"liquid blade": {
 		"equipmentname": "Liquid blade",
 		"file": "equipmentmiscdisplay0b26.html",
 		"sources": [ "Ultimate Equipment" ],
@@ -1829,7 +1829,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 15" ]
 	},
-	"Liquid ice": {
+	"liquid ice": {
 		"equipmentname": "Liquid ice",
 		"file": "equipmentmiscdisplayec8f.html",
 		"sources": [
@@ -1858,7 +1858,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 25" ]
 	},
-	"Lyddric essence": {
+	"lyddric essence": {
 		"equipmentname": "Lyddric essence",
 		"file": "equipmentmiscdisplay688c.html",
 		"sources": [ "Alchemy Manual" ],
@@ -1884,7 +1884,7 @@
 			"**Time** 1 day;  **Tools** retort;  **Type** alchemical weapon"
 		]
 	},
-	"Mineral acid": {
+	"mineral acid": {
 		"equipmentname": "Mineral acid",
 		"file": "equipmentmiscdisplaydf1f.html",
 		"sources": [ "People of the Wastes" ],
@@ -1908,7 +1908,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 20" ]
 	},
-	"Mu spore secretions": {
+	"mu spore secretions": {
 		"equipmentname": "Mu spore secretions",
 		"file": "equipmentmiscdisplay1284-2.html",
 		"sources": [ "Heroes of the Darklands" ],
@@ -1925,7 +1925,7 @@
 			"These secretions are only one of the many spores and fluids that the mu spores of Orv produce, but this is one of the few that surface dwellers have learned to safely use. This clear secretion can be added to any alchemical weapon, including an alchemist's bombs, as a move action. When mixed in this way, the affected alchemical weapon ignores half the hardness of any wooden objects it strikes. Alternatively, against creatures primarily made of wood (such as treants or wood golems), such weapons ignore the first 5 points of damage reduction the creatures has."
 		]
 	},
-	"Noxious aromatic (flask)": {
+	"noxious aromatic (flask)": {
 		"equipmentname": "Noxious aromatic (flask)",
 		"file": "equipmentmiscdisplayc5d6.html",
 		"sources": [ "Animal Archive" ],
@@ -1947,7 +1947,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 20" ]
 	},
-	"Noxious pig": {
+	"noxious pig": {
 		"equipmentname": "Noxious pig",
 		"file": "equipmentmiscdisplay9af9.html",
 		"sources": [ "Pathfinder #91: Battle of Bloodmarch Hills" ],
@@ -1974,7 +1974,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 35" ]
 	},
-	"Pellet grenade (adamantine)": {
+	"pellet grenade (adamantine)": {
 		"equipmentname": "Pellet grenade (adamantine)",
 		"file": "equipmentmiscdisplay4102.html",
 		"sources": [ "Ultimate Equipment" ],
@@ -1999,7 +1999,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 25" ]
 	},
-	"Pellet grenade (cold iron)": {
+	"pellet grenade (cold iron)": {
 		"equipmentname": "Pellet grenade (cold iron)",
 		"file": "equipmentmiscdisplay752d.html",
 		"sources": [ "Ultimate Equipment" ],
@@ -2022,7 +2022,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 25" ]
 	},
-	"Pellet grenade (iron)": {
+	"pellet grenade (iron)": {
 		"equipmentname": "Pellet grenade (iron)",
 		"file": "equipmentmiscdisplay9498.html",
 		"sources": [ "Ultimate Equipment" ],
@@ -2045,7 +2045,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 25" ]
 	},
-	"Pellet grenade (silver)": {
+	"pellet grenade (silver)": {
 		"equipmentname": "Pellet grenade (silver)",
 		"file": "equipmentmiscdisplayce55.html",
 		"sources": [ "Ultimate Equipment" ],
@@ -2068,7 +2068,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 25" ]
 	},
-	"Perfect ice": {
+	"perfect ice": {
 		"equipmentname": "Perfect ice",
 		"file": "equipmentmiscdisplayc9cb.html",
 		"sources": [ "Ranged Tactics Toolbox" ],
@@ -2091,7 +2091,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 25" ]
 	},
-	"Plague powder": {
+	"plague powder": {
 		"equipmentname": "Plague powder",
 		"file": "equipmentmiscdisplay3faf.html",
 		"sources": [ "Horror Adventures" ],
@@ -2110,7 +2110,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 25" ]
 	},
-	"Portable hive": {
+	"portable hive": {
 		"equipmentname": "Portable hive",
 		"file": "equipmentmiscdisplaycdfd.html",
 		"sources": [ "Antihero's Handbook" ],
@@ -2132,7 +2132,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 25" ]
 	},
-	"Pox burster": {
+	"pox burster": {
 		"equipmentname": "Pox burster",
 		"file": "equipmentmiscdisplay5658.html",
 		"sources": [ "Advanced Race Guide" ],
@@ -2155,7 +2155,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 20" ]
 	},
-	"Shadowcloy flask": {
+	"shadowcloy flask": {
 		"equipmentname": "Shadowcloy flask",
 		"file": "equipmentmiscdisplayeb50.html",
 		"sources": [ "Advanced Race Guide" ],
@@ -2178,7 +2178,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 20" ]
 	},
-	"Shard gel": {
+	"shard gel": {
 		"equipmentname": "Shard gel",
 		"file": "equipmentmiscdisplayd441.html",
 		"sources": [ "Ultimate Equipment" ],
@@ -2203,7 +2203,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 20" ]
 	},
-	"Shriek bomb": {
+	"shriek bomb": {
 		"equipmentname": "Shriek bomb",
 		"file": "equipmentmiscdisplaydbb2.html",
 		"sources": [ "Alchemy Manual" ],
@@ -2230,7 +2230,7 @@
 			"**Time** 10 minutes;  **Tools** alchemist's lab;  **Type** alchemical weapon"
 		]
 	},
-	"Silvercloud oil": {
+	"silvercloud oil": {
 		"equipmentname": "Silvercloud oil",
 		"file": "equipmentmiscdisplay41a7.html",
 		"sources": [ "Blood of the Moon" ],
@@ -2254,7 +2254,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 25" ]
 	},
-	"Slime grenade": {
+	"slime grenade": {
 		"equipmentname": "Slime grenade",
 		"file": "equipmentmiscdisplayb3fc.html",
 		"sources": [ "Alchemy Manual" ],
@@ -2281,7 +2281,7 @@
 			"**Time** 10 minutes;  **Tools** alchemist's lab;  **Type** alchemical weapon"
 		]
 	},
-	"Slime slow": {
+	"slime slow": {
 		"equipmentname": "Slime slow",
 		"file": "equipmentmiscdisplay6993.html",
 		"sources": [ "Demon Hunter's Handbook" ],
@@ -2305,7 +2305,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 20" ]
 	},
-	"Sneezing powder": {
+	"sneezing powder": {
 		"equipmentname": "Sneezing powder",
 		"file": "equipmentmiscdisplayb87a.html",
 		"sources": [
@@ -2332,7 +2332,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 25" ]
 	},
-	"Somnigrip": {
+	"somnigrip": {
 		"equipmentname": "Somnigrip",
 		"file": "equipmentmiscdisplay2553.html",
 		"sources": [ "Elemental Master's Handbook" ],
@@ -2352,7 +2352,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 20" ]
 	},
-	"Specialty smoke pellet (Pepper)": {
+	"specialty smoke pellet (Pepper)": {
 		"equipmentname": "Specialty smoke pellet (Pepper)",
 		"file": "equipmentmiscdisplay6b6c.html",
 		"sources": [ "Dungeoneer's Handbook" ],
@@ -2375,7 +2375,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 25" ]
 	},
-	"Specialty smoke pellet (Smog)": {
+	"specialty smoke pellet (Smog)": {
 		"equipmentname": "Specialty smoke pellet (Smog)",
 		"file": "equipmentmiscdisplay19ad.html",
 		"sources": [ "Dungeoneer's Handbook" ],
@@ -2394,7 +2394,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 25" ]
 	},
-	"Spore dehiscent": {
+	"spore dehiscent": {
 		"equipmentname": "Spore dehiscent",
 		"file": "equipmentmiscdisplaye832.html",
 		"sources": [ "Heroes of the Darklands" ],
@@ -2411,7 +2411,7 @@
 			"This pungent concoction can be thrown as a splash weapon to trigger unsustainable spore or pollen release in fungi and plants. Any plant creature in the square where the spore dehiscent lands must succeed at a DC 14 Fortitude save or immediately activate any of its effects based on spores or pollen, treating itself as the target or center of the effect. Fungal hazards like russet mold or yellow mold are activated automatically with no saving throw. Plant creatures or hazards in squares adjacent to the square of impact must each succeed at a DC 10 Fortitude save or suffer the same effect. Once the effect is triggered, the creature or hazard cannot activate the effect again for 1d4 rounds or until the effect could normally be used again, whichever is longer."
 		]
 	},
-	"Stench-gas bladder": {
+	"stench-gas bladder": {
 		"equipmentname": "Stench-gas bladder",
 		"file": "equipmentmiscdisplay9e6f.html",
 		"sources": [ "Pathfinder #115: Trail of the Hunted" ],
@@ -2432,7 +2432,7 @@
 			"This thin bladder splits when it hits a target. You can throw a gas bladder as a ranged weapon with a range increment of 10 feet. Any creature struck by a gas bladder must succeed at a DC 14 Fortitude save or be sickened for 1d6 rounds."
 		]
 	},
-	"Sting grenade": {
+	"sting grenade": {
 		"equipmentname": "Sting grenade",
 		"file": "equipmentmiscdisplay4fb7.html",
 		"sources": [ "Pathfinder #115: Trail of the Hunted" ],
@@ -2457,7 +2457,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 25" ]
 	},
-	"Stormstone": {
+	"stormstone": {
 		"equipmentname": "Stormstone",
 		"file": "equipmentmiscdisplay8288.html",
 		"sources": [ "Alchemy Manual" ],
@@ -2484,7 +2484,7 @@
 			"**Time** 1 hour;  **Tools** crucible;  **Type** alchemical weapon"
 		]
 	},
-	"Suffocating powder": {
+	"suffocating powder": {
 		"equipmentname": "Suffocating powder",
 		"file": "equipmentmiscdisplay3ade.html",
 		"sources": [ "Alchemy Manual" ],
@@ -2510,7 +2510,7 @@
 			"**Time** 1 hour;  **Tools** retort;  **Type** alchemical weapon"
 		]
 	},
-	"Tangleburn bag": {
+	"tangleburn bag": {
 		"equipmentname": "Tangleburn bag",
 		"file": "equipmentmiscdisplayb301.html",
 		"sources": [ "Ultimate Equipment" ],
@@ -2534,7 +2534,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 30" ]
 	},
-	"Tanglefoot bag": {
+	"tanglefoot bag": {
 		"equipmentname": "Tanglefoot bag",
 		"file": "equipmentmiscdisplay0a83.html",
 		"sources": [
@@ -2564,7 +2564,7 @@
 			"**Time** 10 minutes;  **Tools** alchemist's lab;  **Type** alchemical weapon"
 		]
 	},
-	"Tanglefoot bundle": {
+	"tanglefoot bundle": {
 		"equipmentname": "Tanglefoot bundle",
 		"file": "equipmentmiscdisplayc82f.html",
 		"sources": [ "Pathfinder #91: Battle of Bloodmarch Hills" ],
@@ -2586,7 +2586,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 35" ]
 	},
-	"Tar bomb": {
+	"tar bomb": {
 		"equipmentname": "Tar bomb",
 		"file": "equipmentmiscdisplay780b.html",
 		"sources": [ "Pirates of the Inner Sea" ],
@@ -2612,7 +2612,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 15" ]
 	},
-	"Thunderclap charge": {
+	"thunderclap charge": {
 		"equipmentname": "Thunderclap charge",
 		"file": "equipmentmiscdisplay6120.html",
 		"sources": [ "People of the Wastes" ],
@@ -2635,7 +2635,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 25" ]
 	},
-	"Thunderstone": {
+	"thunderstone": {
 		"equipmentname": "Thunderstone",
 		"file": "equipmentmiscdisplayb715.html",
 		"sources": [
@@ -2666,7 +2666,7 @@
 			"**Time** 1 day;  **Tools** heat source;  **Type** alchemical weapon"
 		]
 	},
-	"Tress tincture": {
+	"tress tincture": {
 		"equipmentname": "Tress tincture",
 		"file": "equipmentmiscdisplay0edf.html",
 		"sources": [ "Adventurer's Armory 2" ],
@@ -2688,7 +2688,7 @@
 		],
 		"construction": [ "Craft (Alchemy) DC 25" ]
 	},
-	"Venomblock": {
+	"venomblock": {
 		"equipmentname": "Venomblock",
 		"file": "equipmentmiscdisplay0d85.html",
 		"sources": [ "Monster Hunter's Handbook" ],
@@ -2705,7 +2705,7 @@
 			"This light-blue liquid is rich with antibodies and other chemicals that block poison and disease and is usually contained in a tempered glass vial. Venomblock can be applied to a weapon like a injury poison (save Fort DC 14; frequency 1/round for 6 rounds; cure 2 saves), but every time the affected creature fails its Fortitude save, instead of dealing damage, venomblock suppresses the target's ability to transmit one randomly selected poison or disease through its natural attacks until the end of its next turn. This is a poison effect."
 		]
 	},
-	"Arrow, iron-tipped distance (20)": {
+	"arrow, iron-tipped distance (20)": {
 		"equipmentname": "Arrow, iron-tipped distance (20)",
 		"file": "equipmentweaponsdisplay6faa.html",
 		"sources": [ "Ultimate Combat" ],
@@ -2725,7 +2725,7 @@
 			"**Category** Ammunition; **Proficiency** Ammunition"
 		]
 	},
-	"Arrows (20)": {
+	"arrows (20)": {
 		"equipmentname": "Arrows (20)",
 		"file": "equipmentweaponsdisplaye985.html",
 		"sources": [
@@ -2748,7 +2748,7 @@
 			"**Category** Ammunition; **Proficiency** Ammunition"
 		]
 	},
-	"Atlatl dart": {
+	"atlatl dart": {
 		"equipmentname": "Atlatl dart",
 		"file": "equipmentweaponsdisplayf607.html",
 		"sources": [ "Ultimate Equipment" ],
@@ -2768,7 +2768,7 @@
 			"**Category** Ammunition; **Proficiency** Ammunition"
 		]
 	},
-	"Bamboo shaft arrows": {
+	"bamboo shaft arrows": {
 		"equipmentname": "Bamboo shaft arrows",
 		"file": "equipmentweaponsdisplaya208.html",
 		"sources": [
@@ -2791,7 +2791,7 @@
 			"**Category** Ammunition; **Proficiency** Ammunition"
 		]
 	},
-	"Barbed arrow (20)": {
+	"barbed arrow (20)": {
 		"equipmentname": "Barbed arrow (20)",
 		"file": "equipmentweaponsdisplay9d77.html",
 		"sources": [ "Ranged Tactics Toolbox" ],
@@ -2811,7 +2811,7 @@
 			"**Category** Ammunition; **Proficiency** Ammunition"
 		]
 	},
-	"Blowgun darts (10)": {
+	"blowgun darts (10)": {
 		"equipmentname": "Blowgun darts (10)",
 		"file": "equipmentweaponsdisplay764f.html",
 		"sources": [
@@ -2835,7 +2835,7 @@
 			"**Category** Ammunition; **Proficiency** Ammunition"
 		]
 	},
-	"Blunt arrows (20)": {
+	"blunt arrows (20)": {
 		"equipmentname": "Blunt arrows (20)",
 		"file": "equipmentweaponsdisplayee0f.html",
 		"sources": [
@@ -2858,7 +2858,7 @@
 			"**Category** Ammunition; **Proficiency** Ammunition"
 		]
 	},
-	"Bolas bolts": {
+	"bolas bolts": {
 		"equipmentname": "Bolas bolts",
 		"file": "equipmentweaponsdisplayf26d.html",
 		"sources": [ "Monster Codex" ],
@@ -2880,7 +2880,7 @@
 			"**Category** Ammunition; **Proficiency** Ammunition"
 		]
 	},
-	"Bolts, heartstake (5)": {
+	"bolts, heartstake (5)": {
 		"equipmentname": "Bolts, heartstake (5)",
 		"file": "equipmentweaponsdisplay3bf0.html",
 		"sources": [ "Advanced Race Guide" ],
@@ -2901,7 +2901,7 @@
 			"**Category** Ammunition; **Proficiency** Ammunition"
 		]
 	},
-	"Bullets, groaning (10)": {
+	"bullets, groaning (10)": {
 		"equipmentname": "Bullets, groaning (10)",
 		"file": "equipmentweaponsdisplayc0c2.html",
 		"sources": [ "Adventurer's Armory" ],
@@ -2923,7 +2923,7 @@
 			"**Category** Ammunition; **Proficiency** Ammunition"
 		]
 	},
-	"Crossbow bolts (10)": {
+	"crossbow bolts (10)": {
 		"equipmentname": "Crossbow bolts (10)",
 		"file": "equipmentweaponsdisplay0a01.html",
 		"sources": [
@@ -2946,7 +2946,7 @@
 			"**Category** Ammunition; **Proficiency** Ammunition"
 		]
 	},
-	"Featherweight dart (10)": {
+	"featherweight dart (10)": {
 		"equipmentname": "Featherweight dart (10)",
 		"file": "equipmentweaponsdisplaycda2.html",
 		"sources": [ "Ultimate Intrigue" ],
@@ -2966,7 +2966,7 @@
 			"**Category** Ammunition; **Proficiency** Ammunition"
 		]
 	},
-	"Flight arrows (20)": {
+	"flight arrows (20)": {
 		"equipmentname": "Flight arrows (20)",
 		"file": "equipmentweaponsdisplay5ccf.html",
 		"sources": [
@@ -2989,7 +2989,7 @@
 			"**Category** Ammunition; **Proficiency** Ammunition"
 		]
 	},
-	"Halfling little starstones (10)": {
+	"halfling little starstones (10)": {
 		"equipmentname": "Halfling little starstones (10)",
 		"file": "equipmentweaponsdisplayda5c.html",
 		"sources": [ "Halflings of Golarion" ],
@@ -3013,7 +3013,7 @@
 			"**Category** Ammunition; **Proficiency** Ammunition"
 		]
 	},
-	"Halfling sharpstones (10)": {
+	"halfling sharpstones (10)": {
 		"equipmentname": "Halfling sharpstones (10)",
 		"file": "equipmentweaponsdisplay2bf1.html",
 		"sources": [ "Halflings of Golarion" ],
@@ -3037,7 +3037,7 @@
 			"**Category** Ammunition; **Proficiency** Ammunition"
 		]
 	},
-	"Halfling softstones (10)": {
+	"halfling softstones (10)": {
 		"equipmentname": "Halfling softstones (10)",
 		"file": "equipmentweaponsdisplayed64.html",
 		"sources": [ "Halflings of Golarion" ],
@@ -3059,7 +3059,7 @@
 			"**Category** Ammunition; **Proficiency** Ammunition"
 		]
 	},
-	"Halfling spongestones (10)": {
+	"halfling spongestones (10)": {
 		"equipmentname": "Halfling spongestones (10)",
 		"file": "equipmentweaponsdisplay058b.html",
 		"sources": [ "Halflings of Golarion" ],
@@ -3080,7 +3080,7 @@
 			"**Category** Ammunition; **Proficiency** Ammunition"
 		]
 	},
-	"Incendiary arrow (20)": {
+	"incendiary arrow (20)": {
 		"equipmentname": "Incendiary arrow (20)",
 		"file": "equipmentweaponsdisplay0739.html",
 		"sources": [ "Ranged Tactics Toolbox" ],
@@ -3100,7 +3100,7 @@
 			"**Category** Ammunition; **Proficiency** Ammunition"
 		]
 	},
-	"Kestros dart (10)": {
+	"kestros dart (10)": {
 		"equipmentname": "Kestros dart (10)",
 		"file": "equipmentweaponsdisplay013b.html",
 		"sources": [ "Ultimate Equipment" ],
@@ -3120,7 +3120,7 @@
 			"**Category** Ammunition; **Proficiency** Ammunition"
 		]
 	},
-	"Pronged arrow (20)": {
+	"pronged arrow (20)": {
 		"equipmentname": "Pronged arrow (20)",
 		"file": "equipmentweaponsdisplay5580.html",
 		"sources": [ "Ranged Tactics Toolbox" ],
@@ -3140,7 +3140,7 @@
 			"**Category** Ammunition; **Proficiency** Ammunition"
 		]
 	},
-	"Repeating crossbow bolts (5)": {
+	"repeating crossbow bolts (5)": {
 		"equipmentname": "Repeating crossbow bolts (5)",
 		"file": "equipmentweaponsdisplay7f15.html",
 		"sources": [
@@ -3163,7 +3163,7 @@
 			"**Category** Ammunition; **Proficiency** Ammunition"
 		]
 	},
-	"Sling bullets (10)": {
+	"sling bullets (10)": {
 		"equipmentname": "Sling bullets (10)",
 		"file": "equipmentweaponsdisplayc081.html",
 		"sources": [
@@ -3186,7 +3186,7 @@
 			"**Category** Ammunition; **Proficiency** Ammunition"
 		]
 	},
-	"Smoke arrow": {
+	"smoke arrow": {
 		"equipmentname": "Smoke arrow",
 		"file": "equipmentweaponsdisplaydb8f.html",
 		"sources": [
@@ -3209,7 +3209,7 @@
 			"**Category** Ammunition; **Proficiency** Ammunition"
 		]
 	},
-	"Thistle arrow": {
+	"thistle arrow": {
 		"equipmentname": "Thistle arrow",
 		"file": "equipmentweaponsdisplaya36b.html",
 		"sources": [
@@ -3232,7 +3232,7 @@
 			"**Category** Ammunition; **Proficiency** Ammunition"
 		]
 	},
-	"Throwing arrow": {
+	"throwing arrow": {
 		"equipmentname": "Throwing arrow",
 		"file": "equipmentweaponsdisplay9d25.html",
 		"sources": [ "Ranged Tactics Toolbox" ],
@@ -3252,7 +3252,7 @@
 			"**Category** Ammunition; **Proficiency** Ammunition"
 		]
 	},
-	"Whistling arrows (20)": {
+	"whistling arrows (20)": {
 		"equipmentname": "Whistling arrows (20)",
 		"file": "equipmentweaponsdisplayb439.html",
 		"sources": [
@@ -3276,7 +3276,7 @@
 			"**Category** Ammunition; **Proficiency** Ammunition"
 		]
 	},
-	"Ballista net": {
+	"ballista net": {
 		"equipmentname": "Ballista net",
 		"file": "equipmentweaponsdisplay3a3f.html",
 		"sources": [ "Dragonslayer's Handbook" ],
@@ -3296,7 +3296,7 @@
 			"**Category** Ammunition; **Proficiency** Ammunition"
 		]
 	},
-	"Flak": {
+	"flak": {
 		"equipmentname": "Flak",
 		"file": "equipmentweaponsdisplay7611.html",
 		"sources": [ "Dragonslayer's Handbook" ],
@@ -3316,7 +3316,7 @@
 			"**Category** Ammunition; **Proficiency** Ammunition"
 		]
 	},
-	"Flechette bolt": {
+	"flechette bolt": {
 		"equipmentname": "Flechette bolt",
 		"file": "equipmentweaponsdisplayc223.html",
 		"sources": [ "Dragonslayer's Handbook" ],
@@ -3337,7 +3337,7 @@
 			"**Category** Ammunition; **Proficiency** Ammunition"
 		]
 	},
-	"Weighted bolt": {
+	"weighted bolt": {
 		"equipmentname": "Weighted bolt",
 		"file": "equipmentweaponsdisplay0e56.html",
 		"sources": [ "Dragonslayer's Handbook" ],
@@ -3357,7 +3357,7 @@
 			"**Category** Ammunition; **Proficiency** Ammunition"
 		]
 	},
-	"Battle aspergillum": {
+	"battle aspergillum": {
 		"equipmentname": "Battle aspergillum",
 		"file": "equipmentweaponsdisplaydd22.html",
 		"sources": [
@@ -3388,7 +3388,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Hammers"
 		]
 	},
-	"Brass knife": {
+	"brass knife": {
 		"equipmentname": "Brass knife",
 		"file": "equipmentweaponsdisplay3588.html",
 		"sources": [ "Pirates of the Inner Sea" ],
@@ -3419,7 +3419,7 @@
 			"**Category** Light; **Proficiency** Simple"
 		]
 	},
-	"Brass knuckles": {
+	"brass knuckles": {
 		"equipmentname": "Brass knuckles",
 		"file": "equipmentweaponsdisplay9a9b.html",
 		"sources": [
@@ -3451,7 +3451,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Close; Monk"
 		]
 	},
-	"Cestus": {
+	"cestus": {
 		"equipmentname": "Cestus",
 		"file": "equipmentweaponsdisplay8608.html",
 		"sources": [
@@ -3485,7 +3485,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Close; Monk"
 		]
 	},
-	"Dagger": {
+	"dagger": {
 		"equipmentname": "Dagger",
 		"file": "equipmentweaponsdisplayc6fa.html",
 		"sources": [
@@ -3518,7 +3518,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Light; Thrown; Tribal"
 		]
 	},
-	"Gauntlet": {
+	"gauntlet": {
 		"equipmentname": "Gauntlet",
 		"file": "equipmentweaponsdisplay0068.html",
 		"sources": [
@@ -3548,7 +3548,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Close"
 		]
 	},
-	"Hanbo": {
+	"hanbo": {
 		"equipmentname": "Hanbo",
 		"file": "equipmentweaponsdisplay85e4.html",
 		"sources": [ "Adventurer's Armory" ],
@@ -3576,7 +3576,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Monk"
 		]
 	},
-	"Handwraps": {
+	"handwraps": {
 		"equipmentname": "Handwraps",
 		"file": "equipmentweaponsdisplay0e53.html",
 		"sources": [ "Martial Arts Handbook" ],
@@ -3599,7 +3599,7 @@
 			"**Category** Light; **Proficiency** Simple"
 		]
 	},
-	"Hook hand": {
+	"hook hand": {
 		"equipmentname": "Hook hand",
 		"file": "equipmentweaponsdisplaye2ce.html",
 		"sources": [
@@ -3630,7 +3630,7 @@
 			"**Category** Light; **Proficiency** Simple"
 		]
 	},
-	"Kunai": {
+	"kunai": {
 		"equipmentname": "Kunai",
 		"file": "equipmentweaponsdisplay312e.html",
 		"sources": [ "Ranged Tactics Toolbox" ],
@@ -3658,7 +3658,7 @@
 			"**Category** Light; **Proficiency** Simple"
 		]
 	},
-	"Light mace": {
+	"light mace": {
 		"equipmentname": "Light mace",
 		"file": "equipmentweaponsdisplayaf25.html",
 		"sources": [
@@ -3688,7 +3688,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Hammers"
 		]
 	},
-	"Punching dagger": {
+	"punching dagger": {
 		"equipmentname": "Punching dagger",
 		"file": "equipmentweaponsdisplay113d.html",
 		"sources": [
@@ -3718,7 +3718,36 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Close"
 		]
 	},
-	"Sickle": {
+	"katar": {
+		"equipmentname": "Katar",
+		"file": "equipmentweaponsdisplay113d.html",
+		"sources": [
+			"Ultimate Equipment",
+			"PRPG Core Rulebook"
+		],
+		"type": "weapon",
+		"cost": 2,
+		"weight": 1,
+		"category": "light",
+		"proficiency": "simple",
+		"dmgS": "1d3",
+		"dmgM": "1d4",
+		"piercing": true,
+		"critMultiplier": 3,
+		"heading": [
+			"**Katar**"
+		],
+		"description": [
+			"A katar uses the same statistics as a punching dagger."
+		],
+		"statistics": [
+			"**Cost** 2 gp **Weight** 1 lb.",
+			"**Damage** 1d3 (small), 1d4 (medium); **Critical** x3; **Range** -; **Type** P; **Special** -",
+			"**Category** Light; **Proficiency** Simple",
+			"**[Weapon Group](unknown:Fighter Weapon Group)** Close"
+		]
+	},
+	"sickle": {
 		"equipmentname": "Sickle",
 		"file": "equipmentweaponsdisplaydaf0.html",
 		"sources": [
@@ -3749,7 +3778,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Light"
 		]
 	},
-	"Spider-leg sickle": {
+	"spider-leg sickle": {
 		"equipmentname": "Spider-leg sickle",
 		"file": "equipmentweaponsdisplayba99.html",
 		"sources": [ "The House on Hook Street" ],
@@ -3776,7 +3805,7 @@
 			"**Category** Light; **Proficiency** Simple"
 		]
 	},
-	"Spiked gauntlet": {
+	"spiked gauntlet": {
 		"equipmentname": "Spiked gauntlet",
 		"file": "equipmentweaponsdisplay349d.html",
 		"sources": [
@@ -3806,7 +3835,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Close"
 		]
 	},
-	"Spring blade": {
+	"spring blade": {
 		"equipmentname": "Spring blade",
 		"file": "equipmentweaponsdisplayc558.html",
 		"sources": [ "Ultimate Intrigue" ],
@@ -3834,7 +3863,7 @@
 			"**Category** Light; **Proficiency** Simple"
 		]
 	},
-	"Traveling kettle": {
+	"traveling kettle": {
 		"equipmentname": "Traveling kettle",
 		"file": "equipmentweaponsdisplay7b96.html",
 		"sources": [ "Martial Arts Handbook" ],
@@ -3862,7 +3891,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Monk"
 		]
 	},
-	"Wooden stake": {
+	"wooden stake": {
 		"equipmentname": "Wooden stake",
 		"file": "equipmentweaponsdisplay0437.html",
 		"sources": [
@@ -3895,7 +3924,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Close"
 		]
 	},
-	"Baston fighting stick": {
+	"baston fighting stick": {
 		"equipmentname": "Baston fighting stick",
 		"file": "equipmentweaponsdisplay21d9.html",
 		"sources": [ "Merchant's Manifest" ],
@@ -3922,7 +3951,7 @@
 			"**Category** One-Handed; **Proficiency** Simple"
 		]
 	},
-	"Club": {
+	"club": {
 		"equipmentname": "Club",
 		"file": "equipmentweaponsdisplay5d05.html",
 		"sources": [
@@ -3953,7 +3982,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Hammers; Thrown; Tribal"
 		]
 	},
-	"Heavy mace": {
+	"heavy mace": {
 		"equipmentname": "Heavy mace",
 		"file": "equipmentweaponsdisplaye1fc.html",
 		"sources": [
@@ -3983,7 +4012,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Hammers"
 		]
 	},
-	"Mere club": {
+	"mere club": {
 		"equipmentname": "Mere club",
 		"file": "equipmentweaponsdisplayae20.html",
 		"sources": [
@@ -4015,7 +4044,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Close; Hammers"
 		]
 	},
-	"Morningstar": {
+	"morningstar": {
 		"equipmentname": "Morningstar",
 		"file": "equipmentweaponsdisplay9e57.html",
 		"sources": [
@@ -4044,7 +4073,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Flails"
 		]
 	},
-	"Shortspear": {
+	"shortspear": {
 		"equipmentname": "Shortspear",
 		"file": "equipmentweaponsdisplayf2cd.html",
 		"sources": [
@@ -4075,7 +4104,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Spears; Thrown; Tribal"
 		]
 	},
-	"Bayonet": {
+	"bayonet": {
 		"equipmentname": "Bayonet",
 		"file": "equipmentweaponsdisplay9125.html",
 		"sources": [
@@ -4108,7 +4137,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Light; Close"
 		]
 	},
-	"Boar spear": {
+	"boar spear": {
 		"equipmentname": "Boar spear",
 		"file": "equipmentweaponsdisplayb2d0.html",
 		"sources": [
@@ -4139,7 +4168,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Spears"
 		]
 	},
-	"Boarding pike": {
+	"boarding pike": {
 		"equipmentname": "Boarding pike",
 		"file": "equipmentweaponsdisplaye243.html",
 		"sources": [
@@ -4169,7 +4198,7 @@
 			"**Category** Two-Handed; **Proficiency** Simple"
 		]
 	},
-	"Kumade": {
+	"kumade": {
 		"equipmentname": "Kumade",
 		"file": "equipmentweaponsdisplay87b8.html",
 		"sources": [ "Melee Tactics Toolbox" ],
@@ -4197,7 +4226,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Axes"
 		]
 	},
-	"Kumade, collapsible": {
+	"kumade, collapsible": {
 		"equipmentname": "Kumade, collapsible",
 		"file": "equipmentweaponsdisplay01df.html",
 		"sources": [ "Melee Tactics Toolbox" ],
@@ -4225,7 +4254,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Axes"
 		]
 	},
-	"Lantern staff": {
+	"lantern staff": {
 		"equipmentname": "Lantern staff",
 		"file": "equipmentweaponsdisplayde01.html",
 		"sources": [ "Adventurer's Armory 2" ],
@@ -4253,7 +4282,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Hammers"
 		]
 	},
-	"Longspear": {
+	"longspear": {
 		"equipmentname": "Longspear",
 		"file": "equipmentweaponsdisplaya589.html",
 		"sources": [
@@ -4282,7 +4311,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Spears"
 		]
 	},
-	"Quarterstaff": {
+	"quarterstaff": {
 		"equipmentname": "Quarterstaff",
 		"file": "equipmentweaponsdisplay2912.html",
 		"sources": [
@@ -4313,7 +4342,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Double; Monk"
 		]
 	},
-	"Spear": {
+	"spear": {
 		"equipmentname": "Spear",
 		"file": "equipmentweaponsdisplayfb21.html",
 		"sources": [
@@ -4343,7 +4372,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Spears; Thrown; Tribal"
 		]
 	},
-	"Weighted spear": {
+	"weighted spear": {
 		"equipmentname": "Weighted spear",
 		"file": "equipmentweaponsdisplaydc9d.html",
 		"sources": [ "Melee Tactics Toolbox" ],
@@ -4372,7 +4401,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Double; Spears"
 		]
 	},
-	"Blowgun": {
+	"blowgun": {
 		"equipmentname": "Blowgun",
 		"file": "equipmentweaponsdisplay12d6.html",
 		"sources": [
@@ -4405,7 +4434,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Thrown"
 		]
 	},
-	"Dart": {
+	"dart": {
 		"equipmentname": "Dart",
 		"file": "equipmentweaponsdisplay6c05.html",
 		"sources": [
@@ -4437,7 +4466,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Thrown"
 		]
 	},
-	"Heavy crossbow": {
+	"heavy crossbow": {
 		"equipmentname": "Heavy crossbow",
 		"file": "equipmentweaponsdisplayf358.html",
 		"sources": [
@@ -4471,7 +4500,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Crossbows"
 		]
 	},
-	"Javelin": {
+	"javelin": {
 		"equipmentname": "Javelin",
 		"file": "equipmentweaponsdisplay3c61.html",
 		"sources": [
@@ -4504,7 +4533,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Spears; Thrown"
 		]
 	},
-	"Light crossbow": {
+	"light crossbow": {
 		"equipmentname": "Light crossbow",
 		"file": "equipmentweaponsdisplaye706.html",
 		"sources": [
@@ -4538,7 +4567,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Crossbows"
 		]
 	},
-	"Sling": {
+	"sling": {
 		"equipmentname": "Sling",
 		"file": "equipmentweaponsdisplaybb31.html",
 		"sources": [
@@ -4571,7 +4600,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Thrown"
 		]
 	},
-	"Stingchuck": {
+	"stingchuck": {
 		"equipmentname": "Stingchuck",
 		"file": "equipmentweaponsdisplayf77f.html",
 		"sources": [ "Adventurer's Armory" ],
@@ -4599,7 +4628,7 @@
 			"**Category** Ranged; **Proficiency** Simple"
 		]
 	},
-	"Stonebow": {
+	"stonebow": {
 		"equipmentname": "Stonebow",
 		"file": "equipmentweaponsdisplayab15.html",
 		"sources": [ "Ranged Tactics Toolbox" ],
@@ -4628,7 +4657,7 @@
 			"**Category** Ranged; **Proficiency** Simple"
 		]
 	},
-	"Underwater heavy crossbow": {
+	"underwater heavy crossbow": {
 		"equipmentname": "Underwater heavy crossbow",
 		"file": "equipmentweaponsdisplayc672.html",
 		"sources": [
@@ -4661,7 +4690,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Crossbows"
 		]
 	},
-	"Underwater light crossbow": {
+	"underwater light crossbow": {
 		"equipmentname": "Underwater light crossbow",
 		"file": "equipmentweaponsdisplay7f5a.html",
 		"sources": [
@@ -4694,7 +4723,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Crossbows"
 		]
 	},
-	"Blade boot": {
+	"blade boot": {
 		"equipmentname": "Blade boot",
 		"file": "equipmentweaponsdisplay5aa7.html",
 		"sources": [ "Adventurer's Armory" ],
@@ -4721,7 +4750,7 @@
 			"**Category** Light; **Proficiency** Martial"
 		]
 	},
-	"Boarding axe": {
+	"boarding axe": {
 		"equipmentname": "Boarding axe",
 		"file": "equipmentweaponsdisplay1a36.html",
 		"sources": [
@@ -4753,7 +4782,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Axes"
 		]
 	},
-	"Butterfly sword": {
+	"butterfly sword": {
 		"equipmentname": "Butterfly sword",
 		"file": "equipmentweaponsdisplaya6eb.html",
 		"sources": [
@@ -4785,7 +4814,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Light; Monk"
 		]
 	},
-	"Cat-o'-nine-tails": {
+	"cat-o'-nine-tails": {
 		"equipmentname": "Cat-o'-nine-tails",
 		"file": "equipmentweaponsdisplay723f.html",
 		"sources": [
@@ -4817,7 +4846,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Flails"
 		]
 	},
-	"Dogslicer": {
+	"dogslicer": {
 		"equipmentname": "Dogslicer",
 		"file": "equipmentweaponsdisplay5683.html",
 		"sources": [
@@ -4853,7 +4882,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Light"
 		]
 	},
-	"Dueling dagger": {
+	"dueling dagger": {
 		"equipmentname": "Dueling dagger",
 		"file": "equipmentweaponsdisplayb4a9.html",
 		"sources": [ "Adventurer's Armory 2" ],
@@ -4884,7 +4913,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Light; Thrown"
 		]
 	},
-	"Gladius": {
+	"gladius": {
 		"equipmentname": "Gladius",
 		"file": "equipmentweaponsdisplayb40f.html",
 		"sources": [
@@ -4917,7 +4946,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Light"
 		]
 	},
-	"Handaxe": {
+	"handaxe": {
 		"equipmentname": "Handaxe",
 		"file": "equipmentweaponsdisplay8f11.html",
 		"sources": [
@@ -4947,7 +4976,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Axes; Tribal"
 		]
 	},
-	"Iron brush": {
+	"iron brush": {
 		"equipmentname": "Iron brush",
 		"file": "equipmentweaponsdisplay922b.html",
 		"sources": [
@@ -4978,7 +5007,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Close"
 		]
 	},
-	"Jutte": {
+	"jutte": {
 		"equipmentname": "Jutte",
 		"file": "equipmentweaponsdisplay51f8.html",
 		"sources": [
@@ -5009,7 +5038,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Monk"
 		]
 	},
-	"Katar, tri-bladed": {
+	"katar, tri-bladed": {
 		"equipmentname": "Katar, tri-bladed",
 		"file": "equipmentweaponsdisplaya8da.html",
 		"sources": [
@@ -5040,7 +5069,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Close"
 		]
 	},
-	"Kerambit": {
+	"kerambit": {
 		"equipmentname": "Kerambit",
 		"file": "equipmentweaponsdisplay39a6.html",
 		"sources": [
@@ -5070,7 +5099,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Light"
 		]
 	},
-	"Kukri": {
+	"kukri": {
 		"equipmentname": "Kukri",
 		"file": "equipmentweaponsdisplayc77a.html",
 		"sources": [
@@ -5099,7 +5128,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Light"
 		]
 	},
-	"Light hammer": {
+	"light hammer": {
 		"equipmentname": "Light hammer",
 		"file": "equipmentweaponsdisplay66c4.html",
 		"sources": [
@@ -5130,7 +5159,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Hammers; Thrown"
 		]
 	},
-	"Light pick": {
+	"light pick": {
 		"equipmentname": "Light pick",
 		"file": "equipmentweaponsdisplay4bd2.html",
 		"sources": [
@@ -5160,7 +5189,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Axes"
 		]
 	},
-	"Lungchuan tamo": {
+	"lungchuan tamo": {
 		"equipmentname": "Lungchuan tamo",
 		"file": "equipmentweaponsdisplaybbe7.html",
 		"sources": [
@@ -5192,7 +5221,7 @@
 			"**Category** Light; **Proficiency** Martial"
 		]
 	},
-	"Machete": {
+	"machete": {
 		"equipmentname": "Machete",
 		"file": "equipmentweaponsdisplayba80.html",
 		"sources": [ "Melee Tactics Toolbox" ],
@@ -5220,7 +5249,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Light"
 		]
 	},
-	"Sap": {
+	"sap": {
 		"equipmentname": "Sap",
 		"file": "equipmentweaponsdisplaybedb.html",
 		"sources": [
@@ -5251,7 +5280,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Close"
 		]
 	},
-	"Sea-knife": {
+	"sea-knife": {
 		"equipmentname": "Sea-knife",
 		"file": "equipmentweaponsdisplay9fbb.html",
 		"sources": [ "Advanced Race Guide" ],
@@ -5278,7 +5307,7 @@
 			"**Category** Light; **Proficiency** Martial"
 		]
 	},
-	"Shang gou": {
+	"shang gou": {
 		"equipmentname": "Shang gou",
 		"file": "equipmentweaponsdisplay398d.html",
 		"sources": [
@@ -5309,7 +5338,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Monk"
 		]
 	},
-	"Short sword": {
+	"short sword": {
 		"equipmentname": "Short sword",
 		"file": "equipmentweaponsdisplayb232.html",
 		"sources": [
@@ -5340,7 +5369,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Light"
 		]
 	},
-	"Starknife": {
+	"starknife": {
 		"equipmentname": "Starknife",
 		"file": "equipmentweaponsdisplay36f2.html",
 		"sources": [
@@ -5375,7 +5404,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Light; Thrown"
 		]
 	},
-	"Switchblade knife": {
+	"switchblade knife": {
 		"equipmentname": "Switchblade knife",
 		"file": "equipmentweaponsdisplay0664.html",
 		"sources": [ "Adventurer's Armory" ],
@@ -5403,7 +5432,7 @@
 			"**Category** Light; **Proficiency** Martial"
 		]
 	},
-	"Tailblade, ratfolk": {
+	"tailblade, ratfolk": {
 		"equipmentname": "Tailblade, ratfolk",
 		"file": "equipmentweaponsdisplay571e.html",
 		"sources": [ "Advanced Race Guide" ],
@@ -5429,7 +5458,7 @@
 			"**Category** Light; **Proficiency** Martial"
 		]
 	},
-	"Throwing axe": {
+	"throwing axe": {
 		"equipmentname": "Throwing axe",
 		"file": "equipmentweaponsdisplay5309.html",
 		"sources": [
@@ -5460,7 +5489,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Axes; Thrown; Tribal"
 		]
 	},
-	"Tonfa": {
+	"tonfa": {
 		"equipmentname": "Tonfa",
 		"file": "equipmentweaponsdisplayb98b.html",
 		"sources": [
@@ -5491,7 +5520,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Close; Monk"
 		]
 	},
-	"War razor": {
+	"war razor": {
 		"equipmentname": "War razor",
 		"file": "equipmentweaponsdisplay445c.html",
 		"sources": [
@@ -5525,7 +5554,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Light"
 		]
 	},
-	"Wushu dart": {
+	"wushu dart": {
 		"equipmentname": "Wushu dart",
 		"file": "equipmentweaponsdisplay7b58.html",
 		"sources": [
@@ -5557,7 +5586,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Close; Monk; Thrown"
 		]
 	},
-	"Ankus": {
+	"ankus": {
 		"equipmentname": "Ankus",
 		"file": "equipmentweaponsdisplay2b83.html",
 		"sources": [ "Melee Tactics Toolbox" ],
@@ -5585,7 +5614,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Heavy"
 		]
 	},
-	"Battleaxe": {
+	"battleaxe": {
 		"equipmentname": "Battleaxe",
 		"file": "equipmentweaponsdisplay19b5.html",
 		"sources": [
@@ -5615,7 +5644,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Axes"
 		]
 	},
-	"Combat scabbard": {
+	"combat scabbard": {
 		"equipmentname": "Combat scabbard",
 		"file": "equipmentweaponsdisplay276d.html",
 		"sources": [ "Adventurer's Armory" ],
@@ -5642,7 +5671,7 @@
 			"**Category** One-Handed; **Proficiency** Martial"
 		]
 	},
-	"Combat scabbard, sharpened": {
+	"combat scabbard, sharpened": {
 		"equipmentname": "Combat scabbard, sharpened",
 		"file": "equipmentweaponsdisplayc6cf.html",
 		"sources": [ "Adventurer's Armory" ],
@@ -5669,7 +5698,7 @@
 			"**Category** One-Handed; **Proficiency** Martial"
 		]
 	},
-	"Cutlass": {
+	"cutlass": {
 		"equipmentname": "Cutlass",
 		"file": "equipmentweaponsdisplay923a.html",
 		"sources": [
@@ -5702,7 +5731,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Heavy"
 		]
 	},
-	"Double chicken saber": {
+	"double chicken saber": {
 		"equipmentname": "Double chicken saber",
 		"file": "equipmentweaponsdisplay3b18.html",
 		"sources": [
@@ -5734,7 +5763,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Heavy; Monk"
 		]
 	},
-	"Gandasa": {
+	"gandasa": {
 		"equipmentname": "Gandasa",
 		"file": "equipmentweaponsdisplayfccd.html",
 		"sources": [ "Melee Tactics Toolbox" ],
@@ -5761,7 +5790,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Axes"
 		]
 	},
-	"Heavy pick": {
+	"heavy pick": {
 		"equipmentname": "Heavy pick",
 		"file": "equipmentweaponsdisplaybb60.html",
 		"sources": [
@@ -5791,7 +5820,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Axes"
 		]
 	},
-	"Klar": {
+	"klar": {
 		"equipmentname": "Klar",
 		"file": "equipmentweaponsdisplayda29.html",
 		"sources": [
@@ -5827,7 +5856,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Heavy; Close"
 		]
 	},
-	"Light flail": {
+	"light flail": {
 		"equipmentname": "Light flail",
 		"file": "equipmentweaponsdisplay180f.html",
 		"sources": [
@@ -5858,7 +5887,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Flails"
 		]
 	},
-	"Longsword": {
+	"longsword": {
 		"equipmentname": "Longsword",
 		"file": "equipmentweaponsdisplay4f78.html",
 		"sources": [
@@ -5887,7 +5916,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Heavy"
 		]
 	},
-	"Manople": {
+	"manople": {
 		"equipmentname": "Manople",
 		"file": "equipmentweaponsdisplay5567.html",
 		"sources": [ "Melee Tactics Toolbox" ],
@@ -5916,7 +5945,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Light"
 		]
 	},
-	"Nine-ring broadsword": {
+	"nine-ring broadsword": {
 		"equipmentname": "Nine-ring broadsword",
 		"file": "equipmentweaponsdisplay1a93.html",
 		"sources": [
@@ -5947,7 +5976,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Heavy; Monk"
 		]
 	},
-	"Rapier": {
+	"rapier": {
 		"equipmentname": "Rapier",
 		"file": "equipmentweaponsdisplay52b2.html",
 		"sources": [
@@ -5978,7 +6007,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Light"
 		]
 	},
-	"Scimitar": {
+	"scimitar": {
 		"equipmentname": "Scimitar",
 		"file": "equipmentweaponsdisplay39e7.html",
 		"sources": [
@@ -6009,7 +6038,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Heavy"
 		]
 	},
-	"Scizore": {
+	"scizore": {
 		"equipmentname": "Scizore",
 		"file": "equipmentweaponsdisplayae45.html",
 		"sources": [
@@ -6041,7 +6070,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Light; Close"
 		]
 	},
-	"Sibat": {
+	"sibat": {
 		"equipmentname": "Sibat",
 		"file": "equipmentweaponsdisplay8161.html",
 		"sources": [
@@ -6075,7 +6104,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Spears; Thrown"
 		]
 	},
-	"Sword cane": {
+	"sword cane": {
 		"equipmentname": "Sword cane",
 		"file": "equipmentweaponsdisplay3040.html",
 		"sources": [
@@ -6105,7 +6134,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Light"
 		]
 	},
-	"Terbutje": {
+	"terbutje": {
 		"equipmentname": "Terbutje",
 		"file": "equipmentweaponsdisplayae74.html",
 		"sources": [
@@ -6137,7 +6166,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Heavy"
 		]
 	},
-	"Terbutje, steel": {
+	"terbutje, steel": {
 		"equipmentname": "Terbutje, steel",
 		"file": "equipmentweaponsdisplay728f.html",
 		"sources": [ "Adventurer's Armory" ],
@@ -6164,7 +6193,7 @@
 			"**Category** One-Handed; **Proficiency** Martial"
 		]
 	},
-	"Trident": {
+	"trident": {
 		"equipmentname": "Trident",
 		"file": "equipmentweaponsdisplayc2a6.html",
 		"sources": [
@@ -6196,7 +6225,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Spears; Thrown"
 		]
 	},
-	"Warhammer": {
+	"warhammer": {
 		"equipmentname": "Warhammer",
 		"file": "equipmentweaponsdisplay4dae.html",
 		"sources": [
@@ -6226,7 +6255,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Hammers"
 		]
 	},
-	"Bardiche": {
+	"bardiche": {
 		"equipmentname": "Bardiche",
 		"file": "equipmentweaponsdisplay1a87.html",
 		"sources": [
@@ -6259,7 +6288,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Axes; Polearms"
 		]
 	},
-	"Bec de corbin": {
+	"bec de corbin": {
 		"equipmentname": "Bec de corbin",
 		"file": "equipmentweaponsdisplayb474.html",
 		"sources": [
@@ -6292,7 +6321,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Polearms"
 		]
 	},
-	"Bill": {
+	"bill": {
 		"equipmentname": "Bill",
 		"file": "equipmentweaponsdisplay49bc.html",
 		"sources": [
@@ -6324,7 +6353,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Polearms"
 		]
 	},
-	"Earth breaker": {
+	"earth breaker": {
 		"equipmentname": "Earth breaker",
 		"file": "equipmentweaponsdisplay53ad.html",
 		"sources": [
@@ -6359,7 +6388,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Hammers"
 		]
 	},
-	"Falchion": {
+	"falchion": {
 		"equipmentname": "Falchion",
 		"file": "equipmentweaponsdisplay2702.html",
 		"sources": [
@@ -6390,7 +6419,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Heavy"
 		]
 	},
-	"Glaive": {
+	"glaive": {
 		"equipmentname": "Glaive",
 		"file": "equipmentweaponsdisplay16e9.html",
 		"sources": [
@@ -6421,7 +6450,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Polearms"
 		]
 	},
-	"Glaive-guisarme": {
+	"glaive-guisarme": {
 		"equipmentname": "Glaive-guisarme",
 		"file": "equipmentweaponsdisplay949a.html",
 		"sources": [
@@ -6453,7 +6482,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Polearms"
 		]
 	},
-	"Greataxe": {
+	"greataxe": {
 		"equipmentname": "Greataxe",
 		"file": "equipmentweaponsdisplayba18.html",
 		"sources": [
@@ -6483,7 +6512,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Axes"
 		]
 	},
-	"Greatclub": {
+	"greatclub": {
 		"equipmentname": "Greatclub",
 		"file": "equipmentweaponsdisplayc08e.html",
 		"sources": [
@@ -6513,7 +6542,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Hammers; Tribal"
 		]
 	},
-	"Greatsword": {
+	"greatsword": {
 		"equipmentname": "Greatsword",
 		"file": "equipmentweaponsdisplayf238.html",
 		"sources": [
@@ -6544,7 +6573,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Heavy"
 		]
 	},
-	"Guisarme": {
+	"guisarme": {
 		"equipmentname": "Guisarme",
 		"file": "equipmentweaponsdisplay27d8.html",
 		"sources": [
@@ -6575,7 +6604,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Polearms"
 		]
 	},
-	"Halberd": {
+	"halberd": {
 		"equipmentname": "Halberd",
 		"file": "equipmentweaponsdisplay40be.html",
 		"sources": [
@@ -6607,7 +6636,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Polearms"
 		]
 	},
-	"Heavy flail": {
+	"heavy flail": {
 		"equipmentname": "Heavy flail",
 		"file": "equipmentweaponsdisplay8a02.html",
 		"sources": [
@@ -6639,7 +6668,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Flails"
 		]
 	},
-	"Hooked lance": {
+	"hooked lance": {
 		"equipmentname": "Hooked lance",
 		"file": "equipmentweaponsdisplay17e9.html",
 		"sources": [
@@ -6670,7 +6699,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Polearms"
 		]
 	},
-	"Horsechopper": {
+	"horsechopper": {
 		"equipmentname": "Horsechopper",
 		"file": "equipmentweaponsdisplayc1bd.html",
 		"sources": [
@@ -6705,7 +6734,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Polearms"
 		]
 	},
-	"Lance": {
+	"lance": {
 		"equipmentname": "Lance",
 		"file": "equipmentweaponsdisplayaf75.html",
 		"sources": [
@@ -6736,7 +6765,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Spears"
 		]
 	},
-	"Lucerne hammer": {
+	"lucerne hammer": {
 		"equipmentname": "Lucerne hammer",
 		"file": "equipmentweaponsdisplay2b9d.html",
 		"sources": [
@@ -6769,7 +6798,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Polearms"
 		]
 	},
-	"Mattock": {
+	"mattock": {
 		"equipmentname": "Mattock",
 		"file": "equipmentweaponsdisplayb396.html",
 		"sources": [ "Ultimate Equipment" ],
@@ -6797,7 +6826,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Axes"
 		]
 	},
-	"Monk's spade": {
+	"monk's spade": {
 		"equipmentname": "Monk's spade",
 		"file": "equipmentweaponsdisplay84cf.html",
 		"sources": [
@@ -6828,7 +6857,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Double; Monk; Polearms"
 		]
 	},
-	"Naginata": {
+	"naginata": {
 		"equipmentname": "Naginata",
 		"file": "equipmentweaponsdisplaycb3b.html",
 		"sources": [
@@ -6859,7 +6888,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Polearms"
 		]
 	},
-	"Nodachi": {
+	"nodachi": {
 		"equipmentname": "Nodachi",
 		"file": "equipmentweaponsdisplayb3ca.html",
 		"sources": [
@@ -6892,7 +6921,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Heavy; Polearms"
 		]
 	},
-	"Ogre hook": {
+	"ogre hook": {
 		"equipmentname": "Ogre hook",
 		"file": "equipmentweaponsdisplay994a.html",
 		"sources": [
@@ -6926,7 +6955,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Polearms"
 		]
 	},
-	"Planson": {
+	"planson": {
 		"equipmentname": "Planson",
 		"file": "equipmentweaponsdisplayeee1.html",
 		"sources": [ "Melee Tactics Toolbox" ],
@@ -6955,7 +6984,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Hammers; Spears"
 		]
 	},
-	"Ranseur": {
+	"ranseur": {
 		"equipmentname": "Ranseur",
 		"file": "equipmentweaponsdisplay70a5.html",
 		"sources": [
@@ -6986,7 +7015,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Polearms"
 		]
 	},
-	"Rhomphaia": {
+	"rhomphaia": {
 		"equipmentname": "Rhomphaia",
 		"file": "equipmentweaponsdisplayb537.html",
 		"sources": [ "Ultimate Equipment" ],
@@ -7014,7 +7043,7 @@
 			"**Category** Two-Handed; **Proficiency** Martial"
 		]
 	},
-	"Sansetsukon": {
+	"sansetsukon": {
 		"equipmentname": "Sansetsukon",
 		"file": "equipmentweaponsdisplayec2b.html",
 		"sources": [
@@ -7046,7 +7075,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Flails; Monk"
 		]
 	},
-	"Sarissa": {
+	"sarissa": {
 		"equipmentname": "Sarissa",
 		"file": "equipmentweaponsdisplayf014.html",
 		"sources": [ "Giant Hunter's Handbook" ],
@@ -7073,7 +7102,7 @@
 			"**Category** Two-Handed; **Proficiency** Martial"
 		]
 	},
-	"Scythe": {
+	"scythe": {
 		"equipmentname": "Scythe",
 		"file": "equipmentweaponsdisplayd380.html",
 		"sources": [
@@ -7105,7 +7134,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Heavy"
 		]
 	},
-	"Syringe spear": {
+	"syringe spear": {
 		"equipmentname": "Syringe spear",
 		"file": "equipmentweaponsdisplay001c.html",
 		"sources": [ "Adventurer's Armory" ],
@@ -7133,7 +7162,7 @@
 			"**Category** Two-Handed; **Proficiency** Martial"
 		]
 	},
-	"Tepoztopilli": {
+	"tepoztopilli": {
 		"equipmentname": "Tepoztopilli",
 		"file": "equipmentweaponsdisplayaa72.html",
 		"sources": [ "Ultimate Equipment" ],
@@ -7162,7 +7191,7 @@
 			"**Category** Two-Handed; **Proficiency** Martial"
 		]
 	},
-	"Tiger fork": {
+	"tiger fork": {
 		"equipmentname": "Tiger fork",
 		"file": "equipmentweaponsdisplayebca.html",
 		"sources": [
@@ -7193,7 +7222,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Monk; Polearms; Spears"
 		]
 	},
-	"Tri-point double-edged sword": {
+	"tri-point double-edged sword": {
 		"equipmentname": "Tri-point double-edged sword",
 		"file": "equipmentweaponsdisplayfa3f.html",
 		"sources": [
@@ -7224,7 +7253,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Monk"
 		]
 	},
-	"Amentum": {
+	"amentum": {
 		"equipmentname": "Amentum",
 		"file": "equipmentweaponsdisplay7bdf.html",
 		"sources": [
@@ -7257,7 +7286,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Spears; Thrown"
 		]
 	},
-	"Atlatl": {
+	"atlatl": {
 		"equipmentname": "Atlatl",
 		"file": "equipmentweaponsdisplay6191.html",
 		"sources": [
@@ -7288,7 +7317,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Thrown"
 		]
 	},
-	"Chakram": {
+	"chakram": {
 		"equipmentname": "Chakram",
 		"file": "equipmentweaponsdisplayc1e4.html",
 		"sources": [
@@ -7321,7 +7350,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Heavy; Blades, Light; Thrown"
 		]
 	},
-	"Composite longbow": {
+	"composite longbow": {
 		"equipmentname": "Composite longbow",
 		"file": "equipmentweaponsdisplay42ff.html",
 		"sources": [
@@ -7354,7 +7383,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Bows"
 		]
 	},
-	"Composite shortbow": {
+	"composite shortbow": {
 		"equipmentname": "Composite shortbow",
 		"file": "equipmentweaponsdisplay8e3d.html",
 		"sources": [
@@ -7387,7 +7416,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Bows"
 		]
 	},
-	"Gastraphetes": {
+	"gastraphetes": {
 		"equipmentname": "Gastraphetes",
 		"file": "equipmentweaponsdisplay9e69.html",
 		"sources": [ "Distant Shores" ],
@@ -7415,7 +7444,7 @@
 			"**Category** Ranged; **Proficiency** Martial"
 		]
 	},
-	"Hunga munga": {
+	"hunga munga": {
 		"equipmentname": "Hunga munga",
 		"file": "equipmentweaponsdisplay036b.html",
 		"sources": [
@@ -7447,7 +7476,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Light; Thrown"
 		]
 	},
-	"Hurlbat": {
+	"hurlbat": {
 		"equipmentname": "Hurlbat",
 		"file": "equipmentweaponsdisplay6e75.html",
 		"sources": [ "Ranged Tactics Toolbox" ],
@@ -7475,7 +7504,7 @@
 			"**Category** Ranged; **Proficiency** Martial"
 		]
 	},
-	"Jolting dart": {
+	"jolting dart": {
 		"equipmentname": "Jolting dart",
 		"file": "equipmentweaponsdisplayd999.html",
 		"sources": [ "Advanced Race Guide" ],
@@ -7503,7 +7532,7 @@
 			"**Category** Ranged; **Proficiency** Martial"
 		]
 	},
-	"Longbow": {
+	"longbow": {
 		"equipmentname": "Longbow",
 		"file": "equipmentweaponsdisplay09bb.html",
 		"sources": [
@@ -7535,7 +7564,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Bows"
 		]
 	},
-	"Phaleros": {
+	"phaleros": {
 		"equipmentname": "Phaleros",
 		"file": "equipmentweaponsdisplay2599.html",
 		"sources": [ "Distant Shores" ],
@@ -7562,7 +7591,7 @@
 			"**Category** Ranged; **Proficiency** Martial"
 		]
 	},
-	"Pilum": {
+	"pilum": {
 		"equipmentname": "Pilum",
 		"file": "equipmentweaponsdisplaycfad.html",
 		"sources": [
@@ -7596,7 +7625,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Spears; Thrown"
 		]
 	},
-	"Poisoned sand tube": {
+	"poisoned sand tube": {
 		"equipmentname": "Poisoned sand tube",
 		"file": "equipmentweaponsdisplayc914.html",
 		"sources": [
@@ -7626,7 +7655,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Thrown"
 		]
 	},
-	"Reflex bow": {
+	"reflex bow": {
 		"equipmentname": "Reflex bow",
 		"file": "equipmentweaponsdisplay4579.html",
 		"sources": [ "Merchant's Manifest" ],
@@ -7654,7 +7683,7 @@
 			"**Category** Ranged; **Proficiency** Martial"
 		]
 	},
-	"Shortbow": {
+	"shortbow": {
 		"equipmentname": "Shortbow",
 		"file": "equipmentweaponsdisplay07d2.html",
 		"sources": [
@@ -7686,7 +7715,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Bows"
 		]
 	},
-	"Spear-sling": {
+	"spear-sling": {
 		"equipmentname": "Spear-sling",
 		"file": "equipmentweaponsdisplay979b.html",
 		"sources": [ "Ranged Tactics Toolbox" ],
@@ -7715,7 +7744,7 @@
 			"**Category** Ranged; **Proficiency** Martial"
 		]
 	},
-	"Throwing arrow cord": {
+	"throwing arrow cord": {
 		"equipmentname": "Throwing arrow cord",
 		"file": "equipmentweaponsdisplay92ee.html",
 		"sources": [ "Ranged Tactics Toolbox" ],
@@ -7742,7 +7771,7 @@
 			"**Category** Ranged; **Proficiency** Martial"
 		]
 	},
-	"Tube arrow shooter": {
+	"tube arrow shooter": {
 		"equipmentname": "Tube arrow shooter",
 		"file": "equipmentweaponsdisplay2002.html",
 		"sources": [
@@ -7774,7 +7803,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Crossbows"
 		]
 	},
-	"Aklys": {
+	"aklys": {
 		"equipmentname": "Aklys",
 		"file": "equipmentweaponsdisplayd7c8.html",
 		"sources": [
@@ -7808,7 +7837,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Hammers; Thrown"
 		]
 	},
-	"Axe-gauntlet, dwarven light": {
+	"axe-gauntlet, dwarven light": {
 		"equipmentname": "Axe-gauntlet, dwarven light",
 		"file": "equipmentweaponsdisplayc38c.html",
 		"sources": [ "Heroes from the Fringe" ],
@@ -7836,7 +7865,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Axes; Close"
 		]
 	},
-	"Barbazu beard": {
+	"barbazu beard": {
 		"equipmentname": "Barbazu beard",
 		"file": "equipmentweaponsdisplayac50.html",
 		"sources": [ "Cheliax, Empire of Devils" ],
@@ -7863,7 +7892,7 @@
 			"**Category** Light; **Proficiency** Exotic"
 		]
 	},
-	"Battle poi": {
+	"battle poi": {
 		"equipmentname": "Battle poi",
 		"file": "equipmentweaponsdisplayf682.html",
 		"sources": [
@@ -7893,7 +7922,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Flails"
 		]
 	},
-	"Butterfly knife": {
+	"butterfly knife": {
 		"equipmentname": "Butterfly knife",
 		"file": "equipmentweaponsdisplay8350.html",
 		"sources": [ "Adventurer's Armory" ],
@@ -7922,7 +7951,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Light"
 		]
 	},
-	"Dan bong": {
+	"dan bong": {
 		"equipmentname": "Dan bong",
 		"file": "equipmentweaponsdisplay3462.html",
 		"sources": [
@@ -7955,7 +7984,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Close; Monk"
 		]
 	},
-	"Deer horn knife": {
+	"deer horn knife": {
 		"equipmentname": "Deer horn knife",
 		"file": "equipmentweaponsdisplay2023.html",
 		"sources": [ "Melee Tactics Toolbox" ],
@@ -7984,7 +8013,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Light; Monk; Thrown"
 		]
 	},
-	"Dwarven maulaxe": {
+	"dwarven maulaxe": {
 		"equipmentname": "Dwarven maulaxe",
 		"file": "equipmentweaponsdisplay18a9.html",
 		"sources": [
@@ -8015,7 +8044,7 @@
 			"**Category** Light; **Proficiency** Exotic"
 		]
 	},
-	"Elven leafblade": {
+	"elven leafblade": {
 		"equipmentname": "Elven leafblade",
 		"file": "equipmentweaponsdisplay5381.html",
 		"sources": [ "Adventurer's Guide" ],
@@ -8044,7 +8073,7 @@
 			"**Category** Light; **Proficiency** Exotic"
 		]
 	},
-	"Emei piercer": {
+	"emei piercer": {
 		"equipmentname": "Emei piercer",
 		"file": "equipmentweaponsdisplay7e33.html",
 		"sources": [
@@ -8076,7 +8105,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Close; Monk"
 		]
 	},
-	"Fighting fan": {
+	"fighting fan": {
 		"equipmentname": "Fighting fan",
 		"file": "equipmentweaponsdisplay22df.html",
 		"sources": [
@@ -8107,7 +8136,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Close; Monk"
 		]
 	},
-	"Flying talon": {
+	"flying talon": {
 		"equipmentname": "Flying talon",
 		"file": "equipmentweaponsdisplay1d69.html",
 		"sources": [ "Adventurer's Armory 2" ],
@@ -8136,7 +8165,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Flails"
 		]
 	},
-	"Gnome pincher": {
+	"gnome pincher": {
 		"equipmentname": "Gnome pincher",
 		"file": "equipmentweaponsdisplay200c.html",
 		"sources": [ "Melee Tactics Toolbox" ],
@@ -8164,7 +8193,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Flails"
 		]
 	},
-	"Halfling rope-shot": {
+	"halfling rope-shot": {
 		"equipmentname": "Halfling rope-shot",
 		"file": "equipmentweaponsdisplayeedf.html",
 		"sources": [ "Melee Tactics Toolbox" ],
@@ -8192,7 +8221,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Flails"
 		]
 	},
-	"Helmet, dwarven boulder": {
+	"helmet, dwarven boulder": {
 		"equipmentname": "Helmet, dwarven boulder",
 		"file": "equipmentweaponsdisplaybd32.html",
 		"sources": [ "Advanced Race Guide" ],
@@ -8219,7 +8248,7 @@
 			"**Category** Light; **Proficiency** Exotic"
 		]
 	},
-	"Kama": {
+	"kama": {
 		"equipmentname": "Kama",
 		"file": "equipmentweaponsdisplay8fa9.html",
 		"sources": [
@@ -8250,7 +8279,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Light; Monk"
 		]
 	},
-	"Kasatha spinal sword": {
+	"kasatha spinal sword": {
 		"equipmentname": "Kasatha spinal sword",
 		"file": "equipmentweaponsdisplay3094.html",
 		"sources": [ "People of the Stars" ],
@@ -8278,7 +8307,7 @@
 			"**Category** Light; **Proficiency** Exotic"
 		]
 	},
-	"Knuckle axe": {
+	"knuckle axe": {
 		"equipmentname": "Knuckle axe",
 		"file": "equipmentweaponsdisplay7b6b.html",
 		"sources": [
@@ -8309,7 +8338,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Axes"
 		]
 	},
-	"Madu (leather)": {
+	"madu (leather)": {
 		"equipmentname": "Madu (leather)",
 		"file": "equipmentweaponsdisplaye12d.html",
 		"sources": [
@@ -8342,7 +8371,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Light; Close"
 		]
 	},
-	"Madu (steel)": {
+	"madu (steel)": {
 		"equipmentname": "Madu (steel)",
 		"file": "equipmentweaponsdisplaye12d.html",
 		"sources": [
@@ -8373,7 +8402,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Light; Close"
 		]
 	},
-	"Nunchaku": {
+	"nunchaku": {
 		"equipmentname": "Nunchaku",
 		"file": "equipmentweaponsdisplay519e.html",
 		"sources": [
@@ -8404,7 +8433,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Flails; Monk"
 		]
 	},
-	"Pata": {
+	"pata": {
 		"equipmentname": "Pata",
 		"file": "equipmentweaponsdisplay274f.html",
 		"sources": [
@@ -8438,7 +8467,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Axes; Blades, Light"
 		]
 	},
-	"Quadrens": {
+	"quadrens": {
 		"equipmentname": "Quadrens",
 		"file": "equipmentweaponsdisplaye9f9.html",
 		"sources": [
@@ -8470,7 +8499,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Light"
 		]
 	},
-	"Razor, drow": {
+	"razor, drow": {
 		"equipmentname": "Razor, drow",
 		"file": "equipmentweaponsdisplaya023.html",
 		"sources": [ "Adventurer's Armory 2" ],
@@ -8499,7 +8528,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Light"
 		]
 	},
-	"Rope gauntlet": {
+	"rope gauntlet": {
 		"equipmentname": "Rope gauntlet",
 		"file": "equipmentweaponsdisplaybec3.html",
 		"sources": [
@@ -8529,7 +8558,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Close"
 		]
 	},
-	"Sai": {
+	"sai": {
 		"equipmentname": "Sai",
 		"file": "equipmentweaponsdisplayd4bb.html",
 		"sources": [
@@ -8560,7 +8589,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Monk"
 		]
 	},
-	"Sanpkhang": {
+	"sanpkhang": {
 		"equipmentname": "Sanpkhang",
 		"file": "equipmentweaponsdisplay9cc3.html",
 		"sources": [ "Adventurer's Armory 2" ],
@@ -8590,7 +8619,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Light; Monk"
 		]
 	},
-	"Scorpion whip": {
+	"scorpion whip": {
 		"equipmentname": "Scorpion whip",
 		"file": "equipmentweaponsdisplaydc61.html",
 		"sources": [
@@ -8623,7 +8652,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Flails"
 		]
 	},
-	"Siangham": {
+	"siangham": {
 		"equipmentname": "Siangham",
 		"file": "equipmentweaponsdisplay2540.html",
 		"sources": [
@@ -8654,7 +8683,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Monk"
 		]
 	},
-	"Sica": {
+	"sica": {
 		"equipmentname": "Sica",
 		"file": "equipmentweaponsdisplaye15e.html",
 		"sources": [
@@ -8686,7 +8715,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Light"
 		]
 	},
-	"Swordbreaker dagger": {
+	"swordbreaker dagger": {
 		"equipmentname": "Swordbreaker dagger",
 		"file": "equipmentweaponsdisplay257e.html",
 		"sources": [
@@ -8718,7 +8747,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Light"
 		]
 	},
-	"Tekko-kagi": {
+	"tekko-kagi": {
 		"equipmentname": "Tekko-kagi",
 		"file": "equipmentweaponsdisplay723e.html",
 		"sources": [
@@ -8749,7 +8778,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Close"
 		]
 	},
-	"Wakizashi": {
+	"wakizashi": {
 		"equipmentname": "Wakizashi",
 		"file": "equipmentweaponsdisplay798c.html",
 		"sources": [
@@ -8782,7 +8811,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Light"
 		]
 	},
-	"Waveblade": {
+	"waveblade": {
 		"equipmentname": "Waveblade",
 		"file": "equipmentweaponsdisplay0ca4.html",
 		"sources": [ "Adventurer's Armory 2" ],
@@ -8812,7 +8841,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Close"
 		]
 	},
-	"Aldori dueling sword": {
+	"aldori dueling sword": {
 		"equipmentname": "Aldori dueling sword",
 		"file": "equipmentweaponsdisplay84f1.html",
 		"sources": [
@@ -8845,7 +8874,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Heavy"
 		]
 	},
-	"Axe-gauntlet, dwarven heavy": {
+	"axe-gauntlet, dwarven heavy": {
 		"equipmentname": "Axe-gauntlet, dwarven heavy",
 		"file": "equipmentweaponsdisplay627e.html",
 		"sources": [ "Heroes from the Fringe" ],
@@ -8871,7 +8900,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Axes; Close"
 		]
 	},
-	"Bastard sword": {
+	"bastard sword": {
 		"equipmentname": "Bastard sword",
 		"file": "equipmentweaponsdisplayb3e4.html",
 		"sources": [
@@ -8902,7 +8931,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Heavy"
 		]
 	},
-	"Broken-back seax": {
+	"broken-back seax": {
 		"equipmentname": "Broken-back seax",
 		"file": "equipmentweaponsdisplay6e25.html",
 		"sources": [ "Martial Arts Handbook" ],
@@ -8931,7 +8960,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Light"
 		]
 	},
-	"Doru": {
+	"doru": {
 		"equipmentname": "Doru",
 		"file": "equipmentweaponsdisplay8857.html",
 		"sources": [ "Distant Shores" ],
@@ -8959,7 +8988,7 @@
 			"**Category** One-Handed; **Proficiency** Exotic"
 		]
 	},
-	"Dwarven double waraxe": {
+	"dwarven double waraxe": {
 		"equipmentname": "Dwarven double waraxe",
 		"file": "equipmentweaponsdisplay29c7.html",
 		"sources": [ "Advanced Race Guide" ],
@@ -8986,7 +9015,7 @@
 			"**Category** One-Handed; **Proficiency** Exotic"
 		]
 	},
-	"Dwarven waraxe": {
+	"dwarven waraxe": {
 		"equipmentname": "Dwarven waraxe",
 		"file": "equipmentweaponsdisplay54b7.html",
 		"sources": [
@@ -9016,7 +9045,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Axes"
 		]
 	},
-	"Elven thornblade": {
+	"elven thornblade": {
 		"equipmentname": "Elven thornblade",
 		"file": "equipmentweaponsdisplayd01c.html",
 		"sources": [ "Adventurer's Guide" ],
@@ -9045,7 +9074,7 @@
 			"**Category** One-Handed; **Proficiency** Exotic"
 		]
 	},
-	"Estoc": {
+	"estoc": {
 		"equipmentname": "Estoc",
 		"file": "equipmentweaponsdisplay4fa8.html",
 		"sources": [ "Melee Tactics Toolbox" ],
@@ -9073,7 +9102,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Heavy"
 		]
 	},
-	"Falcata": {
+	"falcata": {
 		"equipmentname": "Falcata",
 		"file": "equipmentweaponsdisplay8f8d.html",
 		"sources": [
@@ -9106,7 +9135,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Heavy"
 		]
 	},
-	"Flindbar": {
+	"flindbar": {
 		"equipmentname": "Flindbar",
 		"file": "equipmentweaponsdisplay86ce.html",
 		"sources": [
@@ -9137,7 +9166,7 @@
 			"**Category** One-Handed; **Proficiency** Exotic"
 		]
 	},
-	"Gnome flick-mace": {
+	"gnome flick-mace": {
 		"equipmentname": "Gnome flick-mace",
 		"file": "equipmentweaponsdisplay03a3.html",
 		"sources": [ "Gnomes of Golarion" ],
@@ -9164,7 +9193,7 @@
 			"**Category** One-Handed; **Proficiency** Exotic"
 		]
 	},
-	"Great terbutje": {
+	"great terbutje": {
 		"equipmentname": "Great terbutje",
 		"file": "equipmentweaponsdisplayc782.html",
 		"sources": [ "Ultimate Equipment" ],
@@ -9193,7 +9222,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Heavy"
 		]
 	},
-	"Hooked axe": {
+	"hooked axe": {
 		"equipmentname": "Hooked axe",
 		"file": "equipmentweaponsdisplay7640.html",
 		"sources": [
@@ -9224,7 +9253,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Axes"
 		]
 	},
-	"Katana": {
+	"katana": {
 		"equipmentname": "Katana",
 		"file": "equipmentweaponsdisplaybc99.html",
 		"sources": [
@@ -9256,7 +9285,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Heavy"
 		]
 	},
-	"Khopesh": {
+	"khopesh": {
 		"equipmentname": "Khopesh",
 		"file": "equipmentweaponsdisplay2ec4.html",
 		"sources": [
@@ -9290,7 +9319,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Heavy"
 		]
 	},
-	"Knobkerrie": {
+	"knobkerrie": {
 		"equipmentname": "Knobkerrie",
 		"file": "equipmentweaponsdisplaya3e2.html",
 		"sources": [ "Ranged Tactics Toolbox" ],
@@ -9318,7 +9347,7 @@
 			"**Category** One-Handed; **Proficiency** Exotic"
 		]
 	},
-	"Nine-section whip": {
+	"nine-section whip": {
 		"equipmentname": "Nine-section whip",
 		"file": "equipmentweaponsdisplay1195.html",
 		"sources": [
@@ -9350,7 +9379,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Flails; Monk"
 		]
 	},
-	"Ram hammer, dwarven": {
+	"ram hammer, dwarven": {
 		"equipmentname": "Ram hammer, dwarven",
 		"file": "equipmentweaponsdisplay25bd.html",
 		"sources": [ "Heroes from the Fringe" ],
@@ -9378,7 +9407,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Hammers; Thrown"
 		]
 	},
-	"Rhoka sword": {
+	"rhoka sword": {
 		"equipmentname": "Rhoka sword",
 		"file": "equipmentweaponsdisplay8a35.html",
 		"sources": [
@@ -9410,7 +9439,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Heavy"
 		]
 	},
-	"Sawtooth sabre": {
+	"sawtooth sabre": {
 		"equipmentname": "Sawtooth sabre",
 		"file": "equipmentweaponsdisplay8549.html",
 		"sources": [
@@ -9446,7 +9475,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Heavy; Blades, Light"
 		]
 	},
-	"Shotel": {
+	"shotel": {
 		"equipmentname": "Shotel",
 		"file": "equipmentweaponsdisplay058f.html",
 		"sources": [
@@ -9478,7 +9507,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Heavy"
 		]
 	},
-	"Sickle-sword": {
+	"sickle-sword": {
 		"equipmentname": "Sickle-sword",
 		"file": "equipmentweaponsdisplay5079.html",
 		"sources": [ "Adventurer's Armory 2" ],
@@ -9507,7 +9536,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Heavy"
 		]
 	},
-	"Spiral rapier": {
+	"spiral rapier": {
 		"equipmentname": "Spiral rapier",
 		"file": "equipmentweaponsdisplay9796.html",
 		"sources": [ "Adventurer's Armory 2" ],
@@ -9536,7 +9565,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Light"
 		]
 	},
-	"Split-blade sword": {
+	"split-blade sword": {
 		"equipmentname": "Split-blade sword",
 		"file": "equipmentweaponsdisplay03fb.html",
 		"sources": [ "Martial Arts Handbook" ],
@@ -9564,7 +9593,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Heavy"
 		]
 	},
-	"Taiaha": {
+	"taiaha": {
 		"equipmentname": "Taiaha",
 		"file": "equipmentweaponsdisplay8723.html",
 		"sources": [ "Ultimate Equipment" ],
@@ -9593,7 +9622,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Double; Hammers"
 		]
 	},
-	"Temple sword": {
+	"temple sword": {
 		"equipmentname": "Temple sword",
 		"file": "equipmentweaponsdisplayfb9a.html",
 		"sources": [
@@ -9628,7 +9657,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Heavy; Monk"
 		]
 	},
-	"Tongi": {
+	"tongi": {
 		"equipmentname": "Tongi",
 		"file": "equipmentweaponsdisplay876c.html",
 		"sources": [ "Melee Tactics Toolbox" ],
@@ -9656,7 +9685,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Axes"
 		]
 	},
-	"Urumi": {
+	"urumi": {
 		"equipmentname": "Urumi",
 		"file": "equipmentweaponsdisplayc93d.html",
 		"sources": [
@@ -9692,7 +9721,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Flails; Monk"
 		]
 	},
-	"Wahaika": {
+	"wahaika": {
 		"equipmentname": "Wahaika",
 		"file": "equipmentweaponsdisplay5ae3.html",
 		"sources": [ "Ultimate Equipment" ],
@@ -9721,7 +9750,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Hammers"
 		]
 	},
-	"Whip": {
+	"whip": {
 		"equipmentname": "Whip",
 		"file": "equipmentweaponsdisplay0f00.html",
 		"sources": [
@@ -9754,7 +9783,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Flails"
 		]
 	},
-	"Barbed spear": {
+	"barbed spear": {
 		"equipmentname": "Barbed spear",
 		"file": "equipmentweaponsdisplay8a4d.html",
 		"sources": [ "Giant Hunter's Handbook" ],
@@ -9781,7 +9810,7 @@
 			"**Category** Two-Handed; **Proficiency** Exotic"
 		]
 	},
-	"Battle ladder, gnome": {
+	"battle ladder, gnome": {
 		"equipmentname": "Battle ladder, gnome",
 		"file": "equipmentweaponsdisplaydb7d.html",
 		"sources": [
@@ -9812,7 +9841,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Double"
 		]
 	},
-	"Bladed scarf": {
+	"bladed scarf": {
 		"equipmentname": "Bladed scarf",
 		"file": "equipmentweaponsdisplay50b3.html",
 		"sources": [
@@ -9847,7 +9876,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Flails"
 		]
 	},
-	"Bo staff": {
+	"bo staff": {
 		"equipmentname": "Bo staff",
 		"file": "equipmentweaponsdisplay5e24.html",
 		"sources": [
@@ -9878,7 +9907,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Double; Monk"
 		]
 	},
-	"Boarding gaff": {
+	"boarding gaff": {
 		"equipmentname": "Boarding gaff",
 		"file": "equipmentweaponsdisplaydac7.html",
 		"sources": [
@@ -9910,7 +9939,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Double; Polearms"
 		]
 	},
-	"Butchering axe": {
+	"butchering axe": {
 		"equipmentname": "Butchering axe",
 		"file": "equipmentweaponsdisplay05e8.html",
 		"sources": [ "Adventurer's Armory 2" ],
@@ -9938,7 +9967,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Axes"
 		]
 	},
-	"Chain spear": {
+	"chain spear": {
 		"equipmentname": "Chain spear",
 		"file": "equipmentweaponsdisplay27d1.html",
 		"sources": [
@@ -9974,7 +10003,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Double; Flails; Spears"
 		]
 	},
-	"Chain-hammer": {
+	"chain-hammer": {
 		"equipmentname": "Chain-hammer",
 		"file": "equipmentweaponsdisplay9d91.html",
 		"sources": [ "Adventurer's Armory 2" ],
@@ -10003,7 +10032,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Double; Hammers; Thrown"
 		]
 	},
-	"Crook": {
+	"crook": {
 		"equipmentname": "Crook",
 		"file": "equipmentweaponsdisplay4b36.html",
 		"sources": [ "Melee Tactics Toolbox" ],
@@ -10031,7 +10060,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Polearms"
 		]
 	},
-	"Dire flail": {
+	"dire flail": {
 		"equipmentname": "Dire flail",
 		"file": "equipmentweaponsdisplayabc3.html",
 		"sources": [
@@ -10062,7 +10091,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Double; Flails"
 		]
 	},
-	"Dorn-dergar, dwarven": {
+	"dorn-dergar, dwarven": {
 		"equipmentname": "Dorn-dergar, dwarven",
 		"file": "equipmentweaponsdisplayd640.html",
 		"sources": [
@@ -10093,7 +10122,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Flails"
 		]
 	},
-	"Double spear": {
+	"double spear": {
 		"equipmentname": "Double spear",
 		"file": "equipmentweaponsdisplay1fc8.html",
 		"sources": [ "Martial Arts Handbook" ],
@@ -10121,7 +10150,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Spears"
 		]
 	},
-	"Double-chained kama": {
+	"double-chained kama": {
 		"equipmentname": "Double-chained kama",
 		"file": "equipmentweaponsdisplay7a3b.html",
 		"sources": [
@@ -10152,7 +10181,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Double"
 		]
 	},
-	"Dwarven urgrosh": {
+	"dwarven urgrosh": {
 		"equipmentname": "Dwarven urgrosh",
 		"file": "equipmentweaponsdisplaybbcb.html",
 		"sources": [
@@ -10184,7 +10213,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Double"
 		]
 	},
-	"Elven branched spear": {
+	"elven branched spear": {
 		"equipmentname": "Elven branched spear",
 		"file": "equipmentweaponsdisplaydfa6.html",
 		"sources": [ "Melee Tactics Toolbox" ],
@@ -10212,7 +10241,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Spears"
 		]
 	},
-	"Elven curve blade": {
+	"elven curve blade": {
 		"equipmentname": "Elven curve blade",
 		"file": "equipmentweaponsdisplaydfbf.html",
 		"sources": [
@@ -10245,7 +10274,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Heavy"
 		]
 	},
-	"Fauchard": {
+	"fauchard": {
 		"equipmentname": "Fauchard",
 		"file": "equipmentweaponsdisplaybdd8.html",
 		"sources": [
@@ -10277,7 +10306,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Polearms"
 		]
 	},
-	"Flailpole": {
+	"flailpole": {
 		"equipmentname": "Flailpole",
 		"file": "equipmentweaponsdisplay69a4.html",
 		"sources": [ "Gnomes of Golarion" ],
@@ -10304,7 +10333,7 @@
 			"**Category** Two-Handed; **Proficiency** Exotic"
 		]
 	},
-	"Flambard": {
+	"flambard": {
 		"equipmentname": "Flambard",
 		"file": "equipmentweaponsdisplay6deb.html",
 		"sources": [ "Adventurer's Armory" ],
@@ -10333,7 +10362,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Heavy"
 		]
 	},
-	"Flask pike": {
+	"flask pike": {
 		"equipmentname": "Flask pike",
 		"file": "equipmentweaponsdisplayc859.html",
 		"sources": [ "Giant Hunter's Handbook" ],
@@ -10360,7 +10389,7 @@
 			"**Category** Two-Handed; **Proficiency** Exotic"
 		]
 	},
-	"Flying blade": {
+	"flying blade": {
 		"equipmentname": "Flying blade",
 		"file": "equipmentweaponsdisplayedac.html",
 		"sources": [
@@ -10392,7 +10421,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Flails"
 		]
 	},
-	"Garrote": {
+	"garrote": {
 		"equipmentname": "Garrote",
 		"file": "equipmentweaponsdisplay5e47.html",
 		"sources": [ "Adventurer's Armory" ],
@@ -10420,7 +10449,7 @@
 			"**Category** Two-Handed; **Proficiency** Exotic"
 		]
 	},
-	"Giant-sticker, dwarven": {
+	"giant-sticker, dwarven": {
 		"equipmentname": "Giant-sticker, dwarven",
 		"file": "equipmentweaponsdisplayacfe.html",
 		"sources": [ "Heroes from the Fringe" ],
@@ -10449,7 +10478,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Polearms"
 		]
 	},
-	"Gnome hooked hammer": {
+	"gnome hooked hammer": {
 		"equipmentname": "Gnome hooked hammer",
 		"file": "equipmentweaponsdisplay0e13.html",
 		"sources": [
@@ -10481,7 +10510,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Double"
 		]
 	},
-	"Harpoon": {
+	"harpoon": {
 		"equipmentname": "Harpoon",
 		"file": "equipmentweaponsdisplayad7a.html",
 		"sources": [
@@ -10514,7 +10543,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Spears; Thrown"
 		]
 	},
-	"Injection spear": {
+	"injection spear": {
 		"equipmentname": "Injection spear",
 		"file": "equipmentweaponsdisplay1124.html",
 		"sources": [
@@ -10543,7 +10572,7 @@
 			"**Category** Two-Handed; **Proficiency** Exotic"
 		]
 	},
-	"Katana, double walking stick": {
+	"katana, double walking stick": {
 		"equipmentname": "Katana, double walking stick",
 		"file": "equipmentweaponsdisplay9613.html",
 		"sources": [
@@ -10574,7 +10603,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Double"
 		]
 	},
-	"Kusarigama": {
+	"kusarigama": {
 		"equipmentname": "Kusarigama",
 		"file": "equipmentweaponsdisplay748f.html",
 		"sources": [
@@ -10606,7 +10635,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Double; Flails; Monk"
 		]
 	},
-	"Kyoketsu shoge": {
+	"kyoketsu shoge": {
 		"equipmentname": "Kyoketsu shoge",
 		"file": "equipmentweaponsdisplaydc03.html",
 		"sources": [
@@ -10639,7 +10668,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Flails; Monk"
 		]
 	},
-	"Longaxe, dwarven": {
+	"longaxe, dwarven": {
 		"equipmentname": "Longaxe, dwarven",
 		"file": "equipmentweaponsdisplay07d8.html",
 		"sources": [ "Advanced Race Guide" ],
@@ -10666,7 +10695,7 @@
 			"**Category** Two-Handed; **Proficiency** Exotic"
 		]
 	},
-	"Longhammer, dwarven": {
+	"longhammer, dwarven": {
 		"equipmentname": "Longhammer, dwarven",
 		"file": "equipmentweaponsdisplayb4fa.html",
 		"sources": [ "Advanced Race Guide" ],
@@ -10693,7 +10722,7 @@
 			"**Category** Two-Handed; **Proficiency** Exotic"
 		]
 	},
-	"Mancatcher": {
+	"mancatcher": {
 		"equipmentname": "Mancatcher",
 		"file": "equipmentweaponsdisplayd8de.html",
 		"sources": [
@@ -10724,7 +10753,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Polearms"
 		]
 	},
-	"Meteor hammer": {
+	"meteor hammer": {
 		"equipmentname": "Meteor hammer",
 		"file": "equipmentweaponsdisplay9146.html",
 		"sources": [
@@ -10757,7 +10786,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Flails"
 		]
 	},
-	"Orc double axe": {
+	"orc double axe": {
 		"equipmentname": "Orc double axe",
 		"file": "equipmentweaponsdisplay10ad.html",
 		"sources": [
@@ -10788,7 +10817,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Axes; Double"
 		]
 	},
-	"Orc skull ram": {
+	"orc skull ram": {
 		"equipmentname": "Orc skull ram",
 		"file": "equipmentweaponsdisplay266c.html",
 		"sources": [ "Melee Tactics Toolbox" ],
@@ -10816,7 +10845,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Spears"
 		]
 	},
-	"Piston maul, gnome": {
+	"piston maul, gnome": {
 		"equipmentname": "Piston maul, gnome",
 		"file": "equipmentweaponsdisplaye013.html",
 		"sources": [
@@ -10847,7 +10876,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Hammers"
 		]
 	},
-	"Ripsaw glaive, gnome": {
+	"ripsaw glaive, gnome": {
 		"equipmentname": "Ripsaw glaive, gnome",
 		"file": "equipmentweaponsdisplay6eb3.html",
 		"sources": [
@@ -10878,7 +10907,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Polearms"
 		]
 	},
-	"Seven-branched sword": {
+	"seven-branched sword": {
 		"equipmentname": "Seven-branched sword",
 		"file": "equipmentweaponsdisplayba25.html",
 		"sources": [
@@ -10909,7 +10938,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Heavy; Monk"
 		]
 	},
-	"Sphinx hammer, dwarven": {
+	"sphinx hammer, dwarven": {
 		"equipmentname": "Sphinx hammer, dwarven",
 		"file": "equipmentweaponsdisplay5d7f.html",
 		"sources": [ "Heroes from the Fringe" ],
@@ -10937,7 +10966,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Hammers; Thrown"
 		]
 	},
-	"Spiked chain": {
+	"spiked chain": {
 		"equipmentname": "Spiked chain",
 		"file": "equipmentweaponsdisplaydd5a.html",
 		"sources": [
@@ -10968,7 +10997,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Flails"
 		]
 	},
-	"Switchscythe": {
+	"switchscythe": {
 		"equipmentname": "Switchscythe",
 		"file": "equipmentweaponsdisplayb8d0.html",
 		"sources": [ "Adventurer's Armory 2" ],
@@ -10997,7 +11026,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Heavy"
 		]
 	},
-	"Tetsubo": {
+	"tetsubo": {
 		"equipmentname": "Tetsubo",
 		"file": "equipmentweaponsdisplaya082.html",
 		"sources": [
@@ -11027,7 +11056,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Hammers"
 		]
 	},
-	"Totem spear": {
+	"totem spear": {
 		"equipmentname": "Totem spear",
 		"file": "equipmentweaponsdisplay28b9.html",
 		"sources": [
@@ -11058,7 +11087,7 @@
 			"**Category** Two-Handed; **Proficiency** Exotic"
 		]
 	},
-	"Two-bladed sword": {
+	"two-bladed sword": {
 		"equipmentname": "Two-bladed sword",
 		"file": "equipmentweaponsdisplayb547.html",
 		"sources": [
@@ -11090,7 +11119,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Blades, Heavy; Double"
 		]
 	},
-	"Bolas": {
+	"bolas": {
 		"equipmentname": "Bolas",
 		"file": "equipmentweaponsdisplay139a.html",
 		"sources": [
@@ -11123,7 +11152,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Thrown"
 		]
 	},
-	"Boomerang": {
+	"boomerang": {
 		"equipmentname": "Boomerang",
 		"file": "equipmentweaponsdisplay7aba.html",
 		"sources": [
@@ -11157,7 +11186,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Thrown"
 		]
 	},
-	"Crystal chakram": {
+	"crystal chakram": {
 		"equipmentname": "Crystal chakram",
 		"file": "equipmentweaponsdisplay1ef5.html",
 		"sources": [ "Classic Horrors Revisited" ],
@@ -11184,7 +11213,7 @@
 			"**Category** Ranged; **Proficiency** Exotic"
 		]
 	},
-	"Dire bolas": {
+	"dire bolas": {
 		"equipmentname": "Dire bolas",
 		"file": "equipmentweaponsdisplay3c66.html",
 		"sources": [ "Giant Hunter's Handbook" ],
@@ -11212,7 +11241,7 @@
 			"**Category** Ranged; **Proficiency** Exotic"
 		]
 	},
-	"Double crossbow": {
+	"double crossbow": {
 		"equipmentname": "Double crossbow",
 		"file": "equipmentweaponsdisplay1a08.html",
 		"sources": [
@@ -11249,7 +11278,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Crossbows"
 		]
 	},
-	"Flask thrower": {
+	"flask thrower": {
 		"equipmentname": "Flask thrower",
 		"file": "equipmentweaponsdisplay1293.html",
 		"sources": [
@@ -11277,7 +11306,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Thrown"
 		]
 	},
-	"Grappling hook": {
+	"grappling hook": {
 		"equipmentname": "Grappling hook",
 		"file": "equipmentweaponsdisplaye3f9.html",
 		"sources": [
@@ -11311,7 +11340,7 @@
 			"**Category** Ranged; **Proficiency** Exotic"
 		]
 	},
-	"Halfling double sling": {
+	"halfling double sling": {
 		"equipmentname": "Halfling double sling",
 		"file": "equipmentweaponsdisplayf080.html",
 		"sources": [ "Halflings of Golarion" ],
@@ -11340,7 +11369,7 @@
 			"**Category** Ranged; **Proficiency** Exotic"
 		]
 	},
-	"Halfling sling staff": {
+	"halfling sling staff": {
 		"equipmentname": "Halfling sling staff",
 		"file": "equipmentweaponsdisplay94b7.html",
 		"sources": [
@@ -11374,7 +11403,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Thrown"
 		]
 	},
-	"Halfling stitched sling": {
+	"halfling stitched sling": {
 		"equipmentname": "Halfling stitched sling",
 		"file": "equipmentweaponsdisplay4b9b.html",
 		"sources": [ "Halflings of Golarion" ],
@@ -11401,7 +11430,7 @@
 			"**Category** Ranged; **Proficiency** Exotic"
 		]
 	},
-	"Hand crossbow": {
+	"hand crossbow": {
 		"equipmentname": "Hand crossbow",
 		"file": "equipmentweaponsdisplay1a84.html",
 		"sources": [
@@ -11435,7 +11464,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Crossbows"
 		]
 	},
-	"Heavy crank crossbow": {
+	"heavy crank crossbow": {
 		"equipmentname": "Heavy crank crossbow",
 		"file": "equipmentweaponsdisplayccf6.html",
 		"sources": [ "Ranged Tactics Toolbox" ],
@@ -11463,7 +11492,7 @@
 			"**Category** Ranged; **Proficiency** Exotic"
 		]
 	},
-	"Heavy slaver's crossbow": {
+	"heavy slaver's crossbow": {
 		"equipmentname": "Heavy slaver's crossbow",
 		"file": "equipmentweaponsdisplay54de.html",
 		"sources": [ "Monster Codex" ],
@@ -11492,7 +11521,7 @@
 			"**Category** Ranged; **Proficiency** Exotic"
 		]
 	},
-	"Heavy wrist launcher": {
+	"heavy wrist launcher": {
 		"equipmentname": "Heavy wrist launcher",
 		"file": "equipmentweaponsdisplayf015.html",
 		"sources": [ "Ultimate Intrigue" ],
@@ -11520,7 +11549,7 @@
 			"**Category** Ranged; **Proficiency** Exotic"
 		]
 	},
-	"Hornbow, orc": {
+	"hornbow, orc": {
 		"equipmentname": "Hornbow, orc",
 		"file": "equipmentweaponsdisplayca8a.html",
 		"sources": [ "Adventurer's Armory 2" ],
@@ -11548,7 +11577,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Bows"
 		]
 	},
-	"Horse bow": {
+	"horse bow": {
 		"equipmentname": "Horse bow",
 		"file": "equipmentweaponsdisplaye37c.html",
 		"sources": [ "Merchant's Manifest" ],
@@ -11575,7 +11604,7 @@
 			"**Category** Ranged; **Proficiency** Exotic"
 		]
 	},
-	"Kestros": {
+	"kestros": {
 		"equipmentname": "Kestros",
 		"file": "equipmentweaponsdisplayfd55.html",
 		"sources": [
@@ -11606,7 +11635,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Thrown"
 		]
 	},
-	"Lasso": {
+	"lasso": {
 		"equipmentname": "Lasso",
 		"file": "equipmentweaponsdisplaye08d.html",
 		"sources": [
@@ -11635,7 +11664,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Thrown"
 		]
 	},
-	"Launching crossbow": {
+	"launching crossbow": {
 		"equipmentname": "Launching crossbow",
 		"file": "equipmentweaponsdisplay33a2.html",
 		"sources": [ "Adventurer's Armory" ],
@@ -11659,7 +11688,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Crossbows"
 		]
 	},
-	"Light crank crossbow": {
+	"light crank crossbow": {
 		"equipmentname": "Light crank crossbow",
 		"file": "equipmentweaponsdisplayf98b.html",
 		"sources": [ "Ranged Tactics Toolbox" ],
@@ -11687,7 +11716,7 @@
 			"**Category** Ranged; **Proficiency** Exotic"
 		]
 	},
-	"Light slaver's crossbow": {
+	"light slaver's crossbow": {
 		"equipmentname": "Light slaver's crossbow",
 		"file": "equipmentweaponsdisplaydd24.html",
 		"sources": [ "Monster Codex" ],
@@ -11714,7 +11743,7 @@
 			"**Category** Ranged; **Proficiency** Exotic"
 		]
 	},
-	"Net": {
+	"net": {
 		"equipmentname": "Net",
 		"file": "equipmentweaponsdisplayf1c8.html",
 		"sources": [
@@ -11745,7 +11774,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Thrown"
 		]
 	},
-	"Pelletbow, dwarven heavy": {
+	"pelletbow, dwarven heavy": {
 		"equipmentname": "Pelletbow, dwarven heavy",
 		"file": "equipmentweaponsdisplaybc99-2.html",
 		"sources": [ "Heroes from the Fringe" ],
@@ -11775,7 +11804,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Crossbows"
 		]
 	},
-	"Pelletbow, dwarven light": {
+	"pelletbow, dwarven light": {
 		"equipmentname": "Pelletbow, dwarven light",
 		"file": "equipmentweaponsdisplay45bf.html",
 		"sources": [ "Heroes from the Fringe" ],
@@ -11802,7 +11831,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Crossbows"
 		]
 	},
-	"Repeating hand crossbow": {
+	"repeating hand crossbow": {
 		"equipmentname": "Repeating hand crossbow",
 		"file": "equipmentweaponsdisplay563a.html",
 		"sources": [
@@ -11834,7 +11863,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Crossbows"
 		]
 	},
-	"Repeating heavy crossbow": {
+	"repeating heavy crossbow": {
 		"equipmentname": "Repeating heavy crossbow",
 		"file": "equipmentweaponsdisplay2fbd.html",
 		"sources": [
@@ -11868,7 +11897,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Crossbows"
 		]
 	},
-	"Repeating light crossbow": {
+	"repeating light crossbow": {
 		"equipmentname": "Repeating light crossbow",
 		"file": "equipmentweaponsdisplayec4f.html",
 		"sources": [
@@ -11901,7 +11930,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Crossbows"
 		]
 	},
-	"Rope dart": {
+	"rope dart": {
 		"equipmentname": "Rope dart",
 		"file": "equipmentweaponsdisplay656d.html",
 		"sources": [
@@ -11934,7 +11963,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Monk; Thrown"
 		]
 	},
-	"Shoanti bolas": {
+	"shoanti bolas": {
 		"equipmentname": "Shoanti bolas",
 		"file": "equipmentweaponsdisplay8afa.html",
 		"sources": [
@@ -11970,7 +11999,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Thrown"
 		]
 	},
-	"Shrillshaft javelin": {
+	"shrillshaft javelin": {
 		"equipmentname": "Shrillshaft javelin",
 		"file": "equipmentweaponsdisplay184e.html",
 		"sources": [ "Gnomes of Golarion" ],
@@ -11998,8 +12027,8 @@
 			"**Category** Ranged; **Proficiency** Exotic"
 		]
 	},
-	"Shuriken (5)": {
-		"equipmentname": "Shuriken (5)",
+	"shuriken": {
+		"equipmentname": "Shuriken",
 		"file": "equipmentweaponsdisplay2822.html",
 		"sources": [
 			"Ranged Tactics Toolbox",
@@ -12007,8 +12036,8 @@
 			"Ultimate Equipment"
 		],
 		"type": "weapon",
-		"cost": 1,
-		"weight": 0.5,
+		"cost": 0.2,
+		"weight": 0.1,
 		"category": "ranged",
 		"proficiency": "exotic",
 		"range": 10,
@@ -12018,7 +12047,7 @@
 		"critMultiplier": 2,
 		"special": "monk",
 		"heading": [
-			"**Shuriken (5)**",
+			"**Shuriken**",
 			"**Source** [Ranged Tactics Toolbox pg. 33](source:Ranged Tactics Toolbox), [PRPG Core Rulebook pg. 143](source:PRPG Core Rulebook), [Ultimate Equipment pg. 21](source:Ultimate Equipment)"
 		],
 		"description": [
@@ -12030,7 +12059,7 @@
 			"**Category** Ranged; **Proficiency** Exotic"
 		]
 	},
-	"Sling glove": {
+	"sling glove": {
 		"equipmentname": "Sling glove",
 		"file": "equipmentweaponsdisplay4794.html",
 		"sources": [
@@ -12061,7 +12090,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Thrown"
 		]
 	},
-	"Snag net": {
+	"snag net": {
 		"equipmentname": "Snag net",
 		"file": "equipmentweaponsdisplay684b.html",
 		"sources": [
@@ -12091,7 +12120,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Thrown"
 		]
 	},
-	"Stormshaft javelin": {
+	"stormshaft javelin": {
 		"equipmentname": "Stormshaft javelin",
 		"file": "equipmentweaponsdisplay29be.html",
 		"sources": [ "Adventurer's Armory 2" ],
@@ -12120,7 +12149,7 @@
 			"**[Weapon Group](unknown:Fighter Weapon Group)** Spears; Thrown"
 		]
 	},
-	"Thorn bow": {
+	"thorn bow": {
 		"equipmentname": "Thorn bow",
 		"file": "equipmentweaponsdisplay4edb.html",
 		"sources": [
@@ -12151,7 +12180,7 @@
 			"**Category** Ranged; **Proficiency** Exotic"
 		]
 	},
-	"Wrist launcher": {
+	"wrist launcher": {
 		"equipmentname": "Wrist launcher",
 		"file": "equipmentweaponsdisplay2072.html",
 		"sources": [ "Ultimate Intrigue" ],
@@ -12175,7 +12204,7 @@
 			"**Category** Ranged; **Proficiency** Exotic"
 		]
 	},
-	"Claw blades": {
+	"claw blades": {
 		"equipmentname": "Claw blades",
 		"file": "equipmentweaponsdisplay144b.html",
 		"sources": [ "Advanced Race Guide" ],
@@ -12199,7 +12228,7 @@
 			"**Category** Light; **Proficiency** Special"
 		]
 	},
-	"Kobold tail, long lash": {
+	"kobold tail, long lash": {
 		"equipmentname": "Kobold tail, long lash",
 		"file": "equipmentweaponsdisplayeb84.html",
 		"sources": [ "Advanced Race Guide" ],
@@ -12232,7 +12261,7 @@
 			"**Category** Light; **Proficiency** Special"
 		]
 	},
-	"Kobold tail, pounder": {
+	"kobold tail, pounder": {
 		"equipmentname": "Kobold tail, pounder",
 		"file": "equipmentweaponsdisplay08e9.html",
 		"sources": [ "Advanced Race Guide" ],
@@ -12256,7 +12285,7 @@
 			"**Category** Light; **Proficiency** Special"
 		]
 	},
-	"Kobold tail, razored": {
+	"kobold tail, razored": {
 		"equipmentname": "Kobold tail, razored",
 		"file": "equipmentweaponsdisplay2c21.html",
 		"sources": [ "Advanced Race Guide" ],
@@ -12281,7 +12310,7 @@
 			"**Category** Light; **Proficiency** Special"
 		]
 	},
-	"Kobold tail, spiked": {
+	"kobold tail, spiked": {
 		"equipmentname": "Kobold tail, spiked",
 		"file": "equipmentweaponsdisplayb6ee.html",
 		"sources": [ "Advanced Race Guide" ],
@@ -12305,7 +12334,7 @@
 			"**Category** Light; **Proficiency** Special"
 		]
 	},
-	"Kobold tail, sweeper": {
+	"kobold tail, sweeper": {
 		"equipmentname": "Kobold tail, sweeper",
 		"file": "equipmentweaponsdisplay7600.html",
 		"sources": [ "Advanced Race Guide" ],
@@ -12330,7 +12359,7 @@
 			"**Category** Light; **Proficiency** Special"
 		]
 	},
-	"Breech-loader": {
+	"breech-loader": {
 		"equipmentname": "Breech-loader",
 		"file": "equipmentweaponsdisplayba24.html",
 		"sources": [ "Heroes of Golarion" ],
@@ -12362,7 +12391,7 @@
 			"**Category** One-Handed; **Proficiency** Exotic"
 		]
 	},
-	"Buckler gun": {
+	"buckler gun": {
 		"equipmentname": "Buckler gun",
 		"file": "equipmentweaponsdisplay36fd.html",
 		"sources": [
@@ -12397,7 +12426,7 @@
 			"**Category** One-Handed; **Proficiency** Exotic"
 		]
 	},
-	"Coat pistol": {
+	"coat pistol": {
 		"equipmentname": "Coat pistol",
 		"file": "equipmentweaponsdisplay4fae.html",
 		"sources": [
@@ -12432,7 +12461,7 @@
 			"**Category** One-Handed; **Proficiency** Exotic"
 		]
 	},
-	"Dagger pistol": {
+	"dagger pistol": {
 		"equipmentname": "Dagger pistol",
 		"file": "equipmentweaponsdisplay931c.html",
 		"sources": [
@@ -12467,7 +12496,7 @@
 			"**Category** One-Handed; **Proficiency** Exotic"
 		]
 	},
-	"Double-barreled pistol": {
+	"double-barreled pistol": {
 		"equipmentname": "Double-barreled pistol",
 		"file": "equipmentweaponsdisplay01b8.html",
 		"sources": [
@@ -12503,7 +12532,7 @@
 			"**Category** One-Handed; **Proficiency** Exotic"
 		]
 	},
-	"Dragon pistol": {
+	"dragon pistol": {
 		"equipmentname": "Dragon pistol",
 		"file": "equipmentweaponsdisplay1521.html",
 		"sources": [
@@ -12540,7 +12569,7 @@
 			"**Category** One-Handed; **Proficiency** Exotic"
 		]
 	},
-	"Dragoon Pistol": {
+	"dragoon Pistol": {
 		"equipmentname": "Dragoon Pistol",
 		"file": "equipmentweaponsdisplay340c.html",
 		"sources": [ "Villain Codex" ],
@@ -12572,7 +12601,7 @@
 			"**Category** One-Handed; **Proficiency** Exotic"
 		]
 	},
-	"Paddle-foot pistol": {
+	"paddle-foot pistol": {
 		"equipmentname": "Paddle-foot pistol",
 		"file": "equipmentweaponsdisplay63d9.html",
 		"sources": [ "People of the Wastes" ],
@@ -12606,7 +12635,7 @@
 			"**Category** One-Handed; **Proficiency** Exotic"
 		]
 	},
-	"Pepperbox": {
+	"pepperbox": {
 		"equipmentname": "Pepperbox",
 		"file": "equipmentweaponsdisplay810e.html",
 		"sources": [
@@ -12642,7 +12671,7 @@
 			"**Category** One-Handed; **Proficiency** Exotic"
 		]
 	},
-	"Pistol": {
+	"pistol": {
 		"equipmentname": "Pistol",
 		"file": "equipmentweaponsdisplayc206.html",
 		"sources": [
@@ -12678,7 +12707,7 @@
 			"**Category** One-Handed; **Proficiency** Exotic"
 		]
 	},
-	"Sword cane pistol": {
+	"sword cane pistol": {
 		"equipmentname": "Sword cane pistol",
 		"file": "equipmentweaponsdisplay7167.html",
 		"sources": [
@@ -12713,7 +12742,7 @@
 			"**Category** One-Handed; **Proficiency** Exotic"
 		]
 	},
-	"Air repeater": {
+	"air repeater": {
 		"equipmentname": "Air repeater",
 		"file": "equipmentweaponsdisplaycf77.html",
 		"sources": [ "Heroes of Golarion" ],
@@ -12745,7 +12774,7 @@
 			"**Category** Two-Handed; **Proficiency** Exotic"
 		]
 	},
-	"Axe musket": {
+	"axe musket": {
 		"equipmentname": "Axe musket",
 		"file": "equipmentweaponsdisplayb81a.html",
 		"sources": [
@@ -12781,7 +12810,7 @@
 			"**Category** Two-Handed; **Proficiency** Exotic"
 		]
 	},
-	"Blunderbuss": {
+	"blunderbuss": {
 		"equipmentname": "Blunderbuss",
 		"file": "equipmentweaponsdisplayc4f1.html",
 		"sources": [
@@ -12818,7 +12847,7 @@
 			"**Category** Two-Handed; **Proficiency** Exotic"
 		]
 	},
-	"Culverin": {
+	"culverin": {
 		"equipmentname": "Culverin",
 		"file": "equipmentweaponsdisplay120f.html",
 		"sources": [
@@ -12854,7 +12883,7 @@
 			"**Category** Two-Handed; **Proficiency** Exotic"
 		]
 	},
-	"Cylinder rifle": {
+	"cylinder rifle": {
 		"equipmentname": "Cylinder rifle",
 		"file": "equipmentweaponsdisplay8d48.html",
 		"sources": [ "People of the Wastes" ],
@@ -12887,7 +12916,7 @@
 			"**Category** Two-Handed; **Proficiency** Exotic"
 		]
 	},
-	"Double hackbut": {
+	"double hackbut": {
 		"equipmentname": "Double hackbut",
 		"file": "equipmentweaponsdisplayaaf1.html",
 		"sources": [
@@ -12923,7 +12952,7 @@
 			"**Category** Two-Handed; **Proficiency** Exotic"
 		]
 	},
-	"Double-barreled musket": {
+	"double-barreled musket": {
 		"equipmentname": "Double-barreled musket",
 		"file": "equipmentweaponsdisplay9620.html",
 		"sources": [
@@ -12959,7 +12988,7 @@
 			"**Category** Two-Handed; **Proficiency** Exotic"
 		]
 	},
-	"Dragoon Musket": {
+	"dragoon Musket": {
 		"equipmentname": "Dragoon Musket",
 		"file": "equipmentweaponsdisplay8ea0.html",
 		"sources": [ "Villain Codex" ],
@@ -12992,7 +13021,7 @@
 			"**Category** Two-Handed; **Proficiency** Exotic"
 		]
 	},
-	"Fire lance": {
+	"fire lance": {
 		"equipmentname": "Fire lance",
 		"file": "equipmentweaponsdisplay4eb3.html",
 		"sources": [
@@ -13027,7 +13056,7 @@
 			"**Category** Two-Handed; **Proficiency** Exotic"
 		]
 	},
-	"Musket": {
+	"musket": {
 		"equipmentname": "Musket",
 		"file": "equipmentweaponsdisplayf78d.html",
 		"sources": [
@@ -13063,7 +13092,7 @@
 			"**Category** Two-Handed; **Proficiency** Exotic"
 		]
 	},
-	"Warhammer musket": {
+	"warhammer musket": {
 		"equipmentname": "Warhammer musket",
 		"file": "equipmentweaponsdisplaybe82.html",
 		"sources": [
@@ -13099,7 +13128,7 @@
 			"**Category** Two-Handed; **Proficiency** Exotic"
 		]
 	},
-	"Radium pistol": {
+	"radium pistol": {
 		"equipmentname": "Radium pistol",
 		"file": "equipmentweaponsdisplay7d78.html",
 		"sources": [ "Pathfinder: Worldscape #2" ],
@@ -13134,7 +13163,7 @@
 			"**Category** One-Handed; **Proficiency** Exotic"
 		]
 	},
-	"Revolver": {
+	"revolver": {
 		"equipmentname": "Revolver",
 		"file": "equipmentweaponsdisplay1331.html",
 		"sources": [
@@ -13168,7 +13197,7 @@
 			"**Category** One-Handed; **Proficiency** Exotic"
 		]
 	},
-	"Double-barreled shotgun": {
+	"double-barreled shotgun": {
 		"equipmentname": "Double-barreled shotgun",
 		"file": "equipmentweaponsdisplayf447.html",
 		"sources": [
@@ -13204,7 +13233,7 @@
 			"**Category** Two-Handed; **Proficiency** Exotic"
 		]
 	},
-	"Pepperbox rifle": {
+	"pepperbox rifle": {
 		"equipmentname": "Pepperbox rifle",
 		"file": "equipmentweaponsdisplayc35b.html",
 		"sources": [
@@ -13239,7 +13268,7 @@
 			"**Category** Two-Handed; **Proficiency** Exotic"
 		]
 	},
-	"Radium rifle": {
+	"radium rifle": {
 		"equipmentname": "Radium rifle",
 		"file": "equipmentweaponsdisplaya06b.html",
 		"sources": [ "Pathfinder: Worldscape #2" ],
@@ -13274,7 +13303,7 @@
 			"**Category** Two-Handed; **Proficiency** Exotic"
 		]
 	},
-	"Rifle": {
+	"rifle": {
 		"equipmentname": "Rifle",
 		"file": "equipmentweaponsdisplayf688.html",
 		"sources": [
@@ -13309,7 +13338,7 @@
 			"**Category** Two-Handed; **Proficiency** Exotic"
 		]
 	},
-	"Shotgun": {
+	"shotgun": {
 		"equipmentname": "Shotgun",
 		"file": "equipmentweaponsdisplayc077.html",
 		"sources": [
@@ -13346,7 +13375,7 @@
 			"**Category** Two-Handed; **Proficiency** Exotic"
 		]
 	},
-	"Thark rifle": {
+	"thark rifle": {
 		"equipmentname": "Thark rifle",
 		"file": "equipmentweaponsdisplayd9c9.html",
 		"sources": [ "Pathfinder: Worldscape #2" ],
@@ -13382,7 +13411,7 @@
 			"**Category** Two-Handed; **Proficiency** Exotic"
 		]
 	},
-	"Air reservoir": {
+	"air reservoir": {
 		"equipmentname": "Air reservoir",
 		"file": "equipmentweaponsdisplay752f.html",
 		"sources": [ "Heroes of Golarion" ],
@@ -13402,7 +13431,7 @@
 			"**Category** Ammunition; **Proficiency** Exotic"
 		]
 	},
-	"Alchemical cartridge (dragon's breath)": {
+	"alchemical cartridge (dragon's breath)": {
 		"equipmentname": "Alchemical cartridge (dragon's breath)",
 		"file": "equipmentweaponsdisplay0fdc.html",
 		"sources": [
@@ -13436,7 +13465,7 @@
 			"**Category** Ammunition; **Proficiency** Exotic"
 		]
 	},
-	"Alchemical cartridge (entangling shot)": {
+	"alchemical cartridge (entangling shot)": {
 		"equipmentname": "Alchemical cartridge (entangling shot)",
 		"file": "equipmentweaponsdisplayc345.html",
 		"sources": [
@@ -13457,7 +13486,7 @@
 			"**Category** Ammunition; **Proficiency** Exotic"
 		]
 	},
-	"Alchemical cartridge (flare)": {
+	"alchemical cartridge (flare)": {
 		"equipmentname": "Alchemical cartridge (flare)",
 		"file": "equipmentweaponsdisplaye187.html",
 		"sources": [
@@ -13478,7 +13507,7 @@
 			"**Category** Ammunition; **Proficiency** Exotic"
 		]
 	},
-	"Alchemical cartridge (gray dust shot)": {
+	"alchemical cartridge (gray dust shot)": {
 		"equipmentname": "Alchemical cartridge (gray dust shot)",
 		"file": "equipmentweaponsdisplay0752.html",
 		"sources": [ "Heroes of Golarion" ],
@@ -13496,7 +13525,7 @@
 			"**Category** Ammunition; **Proficiency** Exotic"
 		]
 	},
-	"Alchemical cartridge (gray dust)": {
+	"alchemical cartridge (gray dust)": {
 		"equipmentname": "Alchemical cartridge (gray dust)",
 		"file": "equipmentweaponsdisplaya614.html",
 		"sources": [ "Heroes of Golarion" ],
@@ -13514,7 +13543,7 @@
 			"**Category** Ammunition; **Proficiency** Exotic"
 		]
 	},
-	"Alchemical cartridge (molten shot)": {
+	"alchemical cartridge (molten shot)": {
 		"equipmentname": "Alchemical cartridge (molten shot)",
 		"file": "equipmentweaponsdisplay8f93.html",
 		"sources": [ "People of the Wastes" ],
@@ -13532,7 +13561,7 @@
 			"**Category** Ammunition; **Proficiency** Exotic"
 		]
 	},
-	"Alchemical cartridge (paper, bullet or pellet)": {
+	"alchemical cartridge (paper, bullet or pellet)": {
 		"equipmentname": "Alchemical cartridge (paper, bullet or pellet)",
 		"file": "equipmentweaponsdisplayb4e1.html",
 		"sources": [
@@ -13553,7 +13582,7 @@
 			"**Category** Ammunition; **Proficiency** Exotic"
 		]
 	},
-	"Alchemical cartridge (repellent)": {
+	"alchemical cartridge (repellent)": {
 		"equipmentname": "Alchemical cartridge (repellent)",
 		"file": "equipmentweaponsdisplay6f3a.html",
 		"sources": [ "People of the Wastes" ],
@@ -13571,7 +13600,7 @@
 			"**Category** Ammunition; **Proficiency** Exotic"
 		]
 	},
-	"Alchemical cartridge (salt shot)": {
+	"alchemical cartridge (salt shot)": {
 		"equipmentname": "Alchemical cartridge (salt shot)",
 		"file": "equipmentweaponsdisplay5bcc.html",
 		"sources": [
@@ -13592,7 +13621,7 @@
 			"**Category** Ammunition; **Proficiency** Exotic"
 		]
 	},
-	"Alchemical cartridge (smoke cartridge)": {
+	"alchemical cartridge (smoke cartridge)": {
 		"equipmentname": "Alchemical cartridge (smoke cartridge)",
 		"file": "equipmentweaponsdisplay62d8.html",
 		"sources": [ "Heroes of Golarion" ],
@@ -13610,7 +13639,7 @@
 			"**Category** Ammunition; **Proficiency** Exotic"
 		]
 	},
-	"Alchemical cartridge (toxin)": {
+	"alchemical cartridge (toxin)": {
 		"equipmentname": "Alchemical cartridge (toxin)",
 		"file": "equipmentweaponsdisplay25d5.html",
 		"sources": [ "People of the Wastes" ],
@@ -13628,7 +13657,7 @@
 			"**Category** Ammunition; **Proficiency** Exotic"
 		]
 	},
-	"Black powder (dose)": {
+	"black powder (dose)": {
 		"equipmentname": "Black powder (dose)",
 		"file": "equipmentweaponsdisplayad80.html",
 		"sources": [
@@ -13651,7 +13680,7 @@
 			"**Category** Ammunition; **Proficiency** Exotic"
 		]
 	},
-	"Black powder (keg)": {
+	"black powder (keg)": {
 		"equipmentname": "Black powder (keg)",
 		"file": "equipmentweaponsdisplayee34.html",
 		"sources": [
@@ -13672,7 +13701,7 @@
 			"**Category** Ammunition; **Proficiency** Exotic"
 		]
 	},
-	"Bullet, adamantine": {
+	"bullet, adamantine": {
 		"equipmentname": "Bullet, adamantine",
 		"file": "equipmentweaponsdisplayf433.html",
 		"sources": [ "Ultimate Combat" ],
@@ -13692,7 +13721,7 @@
 			"**Category** Ammunition; **Proficiency** Exotic"
 		]
 	},
-	"Bullet, screaming": {
+	"bullet, screaming": {
 		"equipmentname": "Bullet, screaming",
 		"file": "equipmentweaponsdisplaycf5b.html",
 		"sources": [ "Heroes of Golarion" ],
@@ -13712,7 +13741,7 @@
 			"**Category** Ammunition; **Proficiency** Exotic"
 		]
 	},
-	"Dragoon Cartridge": {
+	"dragoon Cartridge": {
 		"equipmentname": "Dragoon Cartridge",
 		"file": "equipmentweaponsdisplay94b5.html",
 		"sources": [ "Villain Codex" ],
@@ -13733,7 +13762,7 @@
 			"**Category** Ammunition; **Proficiency** Exotic"
 		]
 	},
-	"Firearm bullet (1)": {
+	"firearm bullet (1)": {
 		"equipmentname": "Firearm bullet (1)",
 		"file": "equipmentweaponsdisplay113d-2.html",
 		"sources": [
@@ -13757,7 +13786,7 @@
 			"**Category** Ammunition; **Proficiency** Exotic"
 		]
 	},
-	"Firearm bullet (30)": {
+	"firearm bullet (30)": {
 		"equipmentname": "Firearm bullet (30)",
 		"file": "equipmentweaponsdisplay6038.html",
 		"sources": [ "Ultimate Combat" ],
@@ -13775,7 +13804,7 @@
 			"**Category** Ammunition; **Proficiency** Exotic"
 		]
 	},
-	"Firearm bullet, silver": {
+	"firearm bullet, silver": {
 		"equipmentname": "Firearm bullet, silver",
 		"file": "equipmentweaponsdisplay38b2.html",
 		"sources": [ "Ultimate Combat" ],
@@ -13795,7 +13824,7 @@
 			"**Category** Ammunition; **Proficiency** Exotic"
 		]
 	},
-	"Gunsmith's kit": {
+	"gunsmith's kit": {
 		"equipmentname": "Gunsmith's kit",
 		"file": "equipmentweaponsdisplay3999.html",
 		"sources": [ "Ultimate Combat" ],
@@ -13815,7 +13844,7 @@
 			"**Category** Ammunition; **Proficiency** Exotic"
 		]
 	},
-	"Metal cartridge": {
+	"metal cartridge": {
 		"equipmentname": "Metal cartridge",
 		"file": "equipmentweaponsdisplay689f.html",
 		"sources": [
@@ -13838,7 +13867,7 @@
 			"**Category** Ammunition; **Proficiency** Exotic"
 		]
 	},
-	"Pellets (handful)": {
+	"pellets (handful)": {
 		"equipmentname": "Pellets (handful)",
 		"file": "equipmentweaponsdisplayb453.html",
 		"sources": [
@@ -13861,7 +13890,7 @@
 			"**Category** Ammunition; **Proficiency** Exotic"
 		]
 	},
-	"Pellets (30 handfuls)": {
+	"pellets (30 handfuls)": {
 		"equipmentname": "Pellets (30 handfuls)",
 		"file": "equipmentweaponsdisplaya147.html",
 		"sources": [ "Ultimate Combat" ],
@@ -13879,7 +13908,7 @@
 			"**Category** Ammunition; **Proficiency** Exotic"
 		]
 	},
-	"Pitted bullet": {
+	"pitted bullet": {
 		"equipmentname": "Pitted bullet",
 		"file": "equipmentweaponsdisplayb680.html",
 		"sources": [
@@ -13902,7 +13931,7 @@
 			"**Category** Ammunition; **Proficiency** Exotic"
 		]
 	},
-	"Powder horn": {
+	"powder horn": {
 		"equipmentname": "Powder horn",
 		"file": "equipmentweaponsdisplay2a4c.html",
 		"sources": [ "Ultimate Combat" ],
@@ -13922,7 +13951,7 @@
 			"**Category** Ammunition; **Proficiency** Exotic"
 		]
 	},
-	"Brutally weighted": {
+	"brutally weighted": {
 		"equipmentname": "Brutally weighted",
 		"file": "equipmentweaponsdisplay3ffc.html",
 		"sources": [ "Adventurer's Armory 2" ],
@@ -13943,7 +13972,7 @@
 			"**Category** Modification; **Proficiency** Modification"
 		]
 	},
-	"Dual-balanced": {
+	"dual-balanced": {
 		"equipmentname": "Dual-balanced",
 		"file": "equipmentweaponsdisplay3f30.html",
 		"sources": [ "Adventurer's Armory 2" ],
@@ -13963,7 +13992,7 @@
 			"**Category** Modification; **Proficiency** Modification"
 		]
 	},
-	"Jagged hooks": {
+	"jagged hooks": {
 		"equipmentname": "Jagged hooks",
 		"file": "equipmentweaponsdisplay8808.html",
 		"sources": [ "Adventurer's Armory 2" ],
@@ -13984,7 +14013,7 @@
 			"**Category** Modification; **Proficiency** Modification"
 		]
 	},
-	"Razor-sharp": {
+	"razor-sharp": {
 		"equipmentname": "Razor-sharp",
 		"file": "equipmentweaponsdisplay1a76.html",
 		"sources": [ "Adventurer's Armory 2" ],
@@ -14004,7 +14033,7 @@
 			"**Category** Modification; **Proficiency** Modification"
 		]
 	},
-	"Serrated edge": {
+	"serrated edge": {
 		"equipmentname": "Serrated edge",
 		"file": "equipmentweaponsdisplay2675.html",
 		"sources": [ "Adventurer's Armory 2" ],
@@ -14024,7 +14053,7 @@
 			"**Category** Modification; **Proficiency** Modification"
 		]
 	},
-	"Tactically adapted": {
+	"tactically adapted": {
 		"equipmentname": "Tactically adapted",
 		"file": "equipmentweaponsdisplay15a7.html",
 		"sources": [ "Adventurer's Armory 2" ],
@@ -14044,7 +14073,7 @@
 			"**Category** Modification; **Proficiency** Modification"
 		]
 	},
-	"Versatile design": {
+	"versatile design": {
 		"equipmentname": "Versatile design",
 		"file": "equipmentweaponsdisplay527a.html",
 		"sources": [ "Adventurer's Armory 2" ],
@@ -14064,7 +14093,7 @@
 			"**Category** Modification; **Proficiency** Modification"
 		]
 	},
-	"War-shield, dwarven": {
+	"war-shield, dwarven": {
 		"equipmentname": "War-shield, dwarven",
 		"file": "equipmentweaponsdisplay989f.html",
 		"sources": [ "Adventurer's Armory 2" ],
@@ -14091,7 +14120,7 @@
 			"This shield's sides are cut into jagged angles and honed to razor sharpness. Dwarven skirmishers often wield these shields in pairs, savagely hacking opponents to pieces, while some dwarven scoundrels enjoy the shields' imposing appearance and ease of use. If you have the Two-Weapon Fighting feat and are wielding two dwarven war-shields, increase the higher of the two shield bonuses by 1. You lose this benefit for 1 round when you make a shield bash with one or both dwarven war-shields (unless you have the Improved Shield Bash feat or a similar benefit). A hand holding a dwarven warshield can't be used for anything else. A dwarven war-shield gains no benefit from shield spikes."
 		]
 	},
-	"Throwing shield": {
+	"throwing shield": {
 		"equipmentname": "Throwing shield",
 		"file": "equipmentweaponsdisplay8862.html",
 		"sources": [
@@ -14123,7 +14152,7 @@
 			"This shield is designed for throwing and has specially designed straps that allow you to unclasp and throw it as a free action. Tower shields cannot be throwing shields. Neither a shield's enhancement bonus to AC nor its shield spikes apply on your attack or damage rolls. A throwing shield can't be disarmed."
 		]
 	},
-	"Light shield": {
+	"light shield": {
 		"equipmentname": "Light shield",
 		"file": "equipmentweaponsdisplay6968.html",
 		"sources": [
@@ -14151,7 +14180,7 @@
 			"You can bash with a light shield instead of using it for defense. The shield entries for light shields appear on page 12."
 		]
 	},
-	"Spiked armor": {
+	"spiked armor": {
 		"equipmentname": "Spiked armor",
 		"file": "equipmentweaponsdisplay3888.html",
 		"sources": [
@@ -14179,7 +14208,7 @@
 			"You can outfit your armor with spikes, which can deal damage in a grapple or as a separate attack. See the armor spikes entry on page 10 for details. Armor spikes can't be disarmed."
 		]
 	},
-	"Spiked light shield": {
+	"spiked light shield": {
 		"equipmentname": "Spiked light shield",
 		"file": "equipmentweaponsdisplay4a72.html",
 		"sources": [
@@ -14206,7 +14235,7 @@
 			"You can bash with a spiked light shield instead of using it for defense. A spiked light shield can't be disarmed. See the armor spikes entry on page 10 for details."
 		]
 	},
-	"Heavy shield": {
+	"heavy shield": {
 		"equipmentname": "Heavy shield",
 		"file": "equipmentweaponsdisplay00fb.html",
 		"sources": [
@@ -14234,7 +14263,7 @@
 			"You can bash with a heavy shield instead of using it for defense. The shield entries for heavy shields appear on page 11."
 		]
 	},
-	"Spiked heavy shield": {
+	"spiked heavy shield": {
 		"equipmentname": "Spiked heavy shield",
 		"file": "equipmentweaponsdisplayfcb5.html",
 		"sources": [

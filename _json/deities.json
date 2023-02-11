@@ -110,15 +110,15 @@
 			"**Feats**",
 			"[Crossbow Mastery](feat:Crossbow Mastery), [Divine Dignity](feat:Divine Dignity), [Measured Response](feat:Measured Response), [Perfect Casting](feat:Perfect Casting)",
 			"**Magic Items - Altars**",
-			"[Altar of Abadar](magicaltar:Altar of Abadar)",
+			"[Altar of Abadar](magic/altar:Altar of Abadar)",
 			"**Magic Items - Armor**",
-			"[Golden Judge's Breastplate](magicarmor:Golden Judge's Breastplate)",
+			"[Golden Judge's Breastplate](magic/armor:Golden Judge's Breastplate)",
 			"**Magic Items - Rods**",
-			"[Rod of Metal and Mineral Detection](magicrod:Rod of Metal and Mineral Detection)",
+			"[Rod of Metal and Mineral Detection](magic/rod:Rod of Metal and Mineral Detection)",
 			"**Magic Items - Weapons**",
-			"[Fugitive Finder](magicweapon:Fugitive Finder), [Mace of Keys](magicweapon:Mace of Keys), [Vaultbow](magicweapon:Vaultbow)",
+			"[Fugitive Finder](magic/weapon:Fugitive Finder), [Mace of Keys](magic/weapon:Mace of Keys), [Vaultbow](magic/weapon:Vaultbow)",
 			"**Magic Items - Wondrous Items**",
-			"[Elixir of Truth](magicwondrous:Elixir of Truth), [Key Cloak](magicwondrous:Key Cloak), [Key of the Second Vault](magicwondrous:Key of the Second Vault), [Lyre of Building](magicwondrous:Lyre of Building), [Meltdown Safe](magicwondrous:Meltdown Safe), [Safecamp Wagon](magicwondrous:Safecamp Wagon), [Secure Paypack](magicwondrous:Secure Paypack), [Universal Lock](magicwondrous:Universal Lock)",
+			"[Elixir of Truth](magic/wondrous:Elixir of Truth), [Key Cloak](magic/wondrous:Key Cloak), [Key of the Second Vault](magic/wondrous:Key of the Second Vault), [Lyre of Building](magic/wondrous:Lyre of Building), [Meltdown Safe](magic/wondrous:Meltdown Safe), [Safecamp Wagon](magic/wondrous:Safecamp Wagon), [Secure Paypack](magic/wondrous:Secure Paypack), [Universal Lock](magic/wondrous:Universal Lock)",
 			"**Monsters**",
 			"[Lawgiver (Herald)](monster:Lawgiver (Herald)), [Orsheval](monster:Orsheval)",
 			"**Prestige Classes**",
@@ -288,7 +288,7 @@
 			"**Feats**",
 			"[Channel Discord](feat:Channel Discord)",
 			"**Magic Items - Wondrous Items**",
-			"[Dagon's Eye](magicwondrous:Dagon's Eye)",
+			"[Dagon's Eye](magic/wondrous:Dagon's Eye)",
 			"**Traits**",
 			"[Demonic Persuasion](trait:Demonic Persuasion)"
 		]
@@ -416,11 +416,11 @@
 			"**Feats**",
 			"[Bloody Sabres](feat:Bloody Sabres)",
 			"**Magic Items - Armor**",
-			"[Red Stalker Armor](magicarmor:Red Stalker Armor)",
+			"[Red Stalker Armor](magic/armor:Red Stalker Armor)",
 			"**Magic Items - Weapons**",
-			"[Crimson Bluff](magicweapon:Crimson Bluff), [Fuming Blood Sabre](magicweapon:Fuming Blood Sabre)",
+			"[Crimson Bluff](magic/weapon:Crimson Bluff), [Fuming Blood Sabre](magic/weapon:Fuming Blood Sabre)",
 			"**Magic Items - Wondrous Items**",
-			"[Eye of the Mantis](magicwondrous:Eye of the Mantis), [Mantis Embrace](magicwondrous:Mantis Embrace), [Mask of the Mantis](magicwondrous:Mask of the Mantis)",
+			"[Eye of the Mantis](magic/wondrous:Eye of the Mantis), [Mantis Embrace](magic/wondrous:Mantis Embrace), [Mask of the Mantis](magic/wondrous:Mask of the Mantis)",
 			"**Monsters**",
 			"[Kaicharek](monster:Kaicharek)",
 			"**Prestige Classes**",
@@ -1067,7 +1067,7 @@
 			"**Feats**",
 			"[Channel Discord](feat:Channel Discord)",
 			"**Magic Items - Wondrous Items**",
-			"[Dagon's Eye](magicwondrous:Dagon's Eye)",
+			"[Dagon's Eye](magic/wondrous:Dagon's Eye)",
 			"**Traits**",
 			"[Demonic Persuasion](trait:Demonic Persuasion)"
 		]
@@ -1306,7 +1306,7 @@
 		"forFollowers": [
 			"**For Followers of Alseta**",
 			"**Magic Items - Wondrous Items**",
-			"[Steward's Iron Key](magicwondrous:Steward's Iron Key)",
+			"[Steward's Iron Key](magic/wondrous:Steward's Iron Key)",
 			"**Traits**",
 			"[Opener of Doors](trait:Opener of Doors)"
 		],
@@ -1565,7 +1565,7 @@
 			"**Feats**",
 			"[Channel Discord](feat:Channel Discord)",
 			"**Magic Items - Wondrous Items**",
-			"[Dagon's Eye](magicwondrous:Dagon's Eye)",
+			"[Dagon's Eye](magic/wondrous:Dagon's Eye)",
 			"**Traits**",
 			"[Demonic Persuasion](trait:Demonic Persuasion)"
 		]
@@ -1745,7 +1745,7 @@
 			"**Feats**",
 			"[Channel Discord](feat:Channel Discord)",
 			"**Magic Items - Wondrous Items**",
-			"[Dagon's Eye](magicwondrous:Dagon's Eye)",
+			"[Dagon's Eye](magic/wondrous:Dagon's Eye)",
 			"**Traits**",
 			"[Demonic Persuasion](trait:Demonic Persuasion)"
 		]
@@ -2078,7 +2078,7 @@
 			"**Feats**",
 			"[Aura of Succumbing](feat:Aura of Succumbing)",
 			"**Magic Items - Wondrous Items**",
-			"[Apollyon Clasp](magicwondrous:Apollyon Clasp)",
+			"[Apollyon Clasp](magic/wondrous:Apollyon Clasp)",
 			"**Traits**",
 			"[Covenant of Abaddon](trait:Covenant of Abaddon)"
 		]
@@ -2177,7 +2177,7 @@
 			"**Feats**",
 			"[Divine Barrier](feat:Divine Barrier)",
 			"**Magic Items - Wondrous Items**",
-			"[Orb of the Waybringer](magicwondrous:Orb of the Waybringer)",
+			"[Orb of the Waybringer](magic/wondrous:Orb of the Waybringer)",
 			"**Traits**",
 			"[Inspiring Leader](trait:Inspiring Leader), [Scaly Ally](trait:Scaly Ally)"
 		],
@@ -2277,7 +2277,7 @@
 		"forFollowers": [
 			"**For Followers of Arazni**",
 			"**Magic Items - Weapons**",
-			"[Red Crusader's Quill](magicweapon:Red Crusader's Quill)",
+			"[Red Crusader's Quill](magic/weapon:Red Crusader's Quill)",
 			"**Spells**",
 			"[Bloodstone Mirror](spell:Bloodstone Mirror), [Litany of the Red Crusader](spell:Litany of the Red Crusader), [Unspoken Name](spell:Unspoken Name)"
 		],
@@ -2476,7 +2476,7 @@
 			"**Feats**",
 			"[Channel Discord](feat:Channel Discord)",
 			"**Magic Items - Wondrous Items**",
-			"[Dagon's Eye](magicwondrous:Dagon's Eye)",
+			"[Dagon's Eye](magic/wondrous:Dagon's Eye)",
 			"**Traits**",
 			"[Demonic Persuasion](trait:Demonic Persuasion)"
 		]
@@ -2586,7 +2586,7 @@
 		"forFollowers": [
 			"**For Followers of Aroden**",
 			"**Magic Items - Sets**",
-			"[Aroden's Array](magicset:Aroden's Array)",
+			"[Aroden's Array](magic/set:Aroden's Array)",
 			"**Traits**",
 			"[Devotee of a Dead God](trait:Devotee of a Dead God), [Faithful Arodenite](trait:Faithful Arodenite)"
 		]
@@ -2892,7 +2892,7 @@
 			"**Feats**",
 			"[Ghost Whisperer](feat:Ghost Whisperer), [Heroic Interposition](feat:Heroic Interposition)",
 			"**Magic Items - Weapons**",
-			"[Channeler's Scarf](magicweapon:Channeler's Scarf)",
+			"[Channeler's Scarf](magic/weapon:Channeler's Scarf)",
 			"**Prestige Classes**",
 			"[Ashavic Dancer](unknown:Ashavic Dancer)",
 			"**Spells**",
@@ -3082,15 +3082,15 @@
 			"**Feats**",
 			"[Conversion Channel](feat:Conversion Channel), [Devilish Pride](feat:Devilish Pride), [Diabolical Negotiator](feat:Diabolical Negotiator), [Hamatulatsu](feat:Hamatulatsu)",
 			"**Magic Items - Altars**",
-			"[Altar of Asmodeus](magicaltar:Altar of Asmodeus)",
+			"[Altar of Asmodeus](magic/altar:Altar of Asmodeus)",
 			"**Magic Items - Armor**",
-			"[Half-Plate of the Dark Prince](magicarmor:Half-Plate of the Dark Prince)",
+			"[Half-Plate of the Dark Prince](magic/armor:Half-Plate of the Dark Prince)",
 			"**Magic Items - Rings**",
-			"[Profane Seal Signet](magicring:Profane Seal Signet)",
+			"[Profane Seal Signet](magic/ring:Profane Seal Signet)",
 			"**Magic Items - Weapons**",
-			"[Hell's Eye](magicweapon:Hell's Eye)",
+			"[Hell's Eye](magic/weapon:Hell's Eye)",
 			"**Magic Items - Wondrous Items**",
-			"[Barbed Pentacle of Asmodeus](magicwondrous:Barbed Pentacle of Asmodeus), [Circlet of Persuasion](magicwondrous:Circlet of Persuasion), [Diabolical Masquerade Mask](magicwondrous:Diabolical Masquerade Mask), [Infernal Cord (Greater)](magicwondrous:Infernal Cord (Greater)), [Hamatulatsu Robe](magicwondrous:Hamatulatsu Robe), [Infernal Cord (Normal)](magicwondrous:Infernal Cord (Normal)), [Pentacle Token](magicwondrous:Pentacle Token)",
+			"[Barbed Pentacle of Asmodeus](magic/wondrous:Barbed Pentacle of Asmodeus), [Circlet of Persuasion](magic/wondrous:Circlet of Persuasion), [Diabolical Masquerade Mask](magic/wondrous:Diabolical Masquerade Mask), [Infernal Cord (Greater)](magic/wondrous:Infernal Cord (Greater)), [Hamatulatsu Robe](magic/wondrous:Hamatulatsu Robe), [Infernal Cord (Normal)](magic/wondrous:Infernal Cord (Normal)), [Pentacle Token](magic/wondrous:Pentacle Token)",
 			"**Monsters**",
 			"[Accomplice Devil (Hesperian)](monster:Accomplice Devil (Hesperian)), [Basileus (Herald)](monster:Basileus (Herald))",
 			"**Spells**",
@@ -3152,7 +3152,7 @@
 			"**Feats**",
 			"[Dreamed Secrets](feat:Dreamed Secrets)",
 			"**Magic Items - Wondrous Items**",
-			"[Preklikin's Book of Cults](magicwondrous:Preklikin's Book of Cults)",
+			"[Preklikin's Book of Cults](magic/wondrous:Preklikin's Book of Cults)",
 			"**Traits**",
 			"[Unspeakable Bond](trait:Unspeakable Bond)"
 		]
@@ -3495,7 +3495,7 @@
 			"**Feats**",
 			"[Channel Discord](feat:Channel Discord)",
 			"**Magic Items - Wondrous Items**",
-			"[Dagon's Eye](magicwondrous:Dagon's Eye)",
+			"[Dagon's Eye](magic/wondrous:Dagon's Eye)",
 			"**Spells**",
 			"[Bleeding Strike](spell:Bleeding Strike)",
 			"**Traits**",
@@ -4194,11 +4194,11 @@
 			"**Archetypes**",
 			"[Deep Shaman (Shaman)](unknown:Deep Shaman (Shaman))",
 			"**Magic Items - Armor**",
-			"[Sea Banshee Coat](magicarmor:Sea Banshee Coat)",
+			"[Sea Banshee Coat](magic/armor:Sea Banshee Coat)",
 			"**Magic Items - Sets**",
-			"[Besmara's Bounty](magicset:Besmara's Bounty)",
+			"[Besmara's Bounty](magic/set:Besmara's Bounty)",
 			"**Magic Items - Wondrous Items**",
-			"[Besmara's Bicorne](magicwondrous:Besmara's Bicorne), [Besmara's Tricorne](magicwondrous:Besmara's Tricorne)",
+			"[Besmara's Bicorne](magic/wondrous:Besmara's Bicorne), [Besmara's Tricorne](magic/wondrous:Besmara's Tricorne)",
 			"**Spells**",
 			"[Advanced Scurvy](spell:Advanced Scurvy), [Cloud of Seasickness](spell:Cloud of Seasickness)",
 			"**Traits**",
@@ -4546,7 +4546,7 @@
 			"**Feats**",
 			"[Dreamed Secrets](feat:Dreamed Secrets)",
 			"**Magic Items - Wondrous Items**",
-			"[Preklikin's Book of Cults](magicwondrous:Preklikin's Book of Cults)",
+			"[Preklikin's Book of Cults](magic/wondrous:Preklikin's Book of Cults)",
 			"**Traits**",
 			"[Unspeakable Bond](trait:Unspeakable Bond)"
 		]
@@ -4758,7 +4758,7 @@
 			"**Archetypes**",
 			"[Voice of Brigh (Bard)](unknown:Voice of Brigh (Bard))",
 			"**Magic Items - Armor**",
-			"[Bronze Whisperer's Shield](magicarmor:Bronze Whisperer's Shield)",
+			"[Bronze Whisperer's Shield](magic/armor:Bronze Whisperer's Shield)",
 			"**Monsters**",
 			"[Latten Mechanism (Herald)](monster:Latten Mechanism (Herald))",
 			"**Spells**",
@@ -5143,15 +5143,15 @@
 			"**Feats**",
 			"[Antagonize](feat:Antagonize), [Bloody Vengeance](feat:Bloody Vengeance), [Curse of Vengeance](feat:Curse of Vengeance), [Seductive Channel](feat:Seductive Channel)",
 			"**Magic Items - Altars**",
-			"[Altar of Calistria](magicaltar:Altar of Calistria)",
+			"[Altar of Calistria](magic/altar:Altar of Calistria)",
 			"**Magic Items - Armor**",
-			"[Armor of the Unquenchable Fire](magicarmor:Armor of the Unquenchable Fire)",
+			"[Armor of the Unquenchable Fire](magic/armor:Armor of the Unquenchable Fire)",
 			"**Magic Items - Rings**",
-			"[Ring of Unquenchable Passions](magicring:Ring of Unquenchable Passions)",
+			"[Ring of Unquenchable Passions](magic/ring:Ring of Unquenchable Passions)",
 			"**Magic Items - Weapons**",
-			"[Calistrian Kiss](magicweapon:Calistrian Kiss), [Hateful Sting](magicweapon:Hateful Sting), [Vengeful Kiss](magicweapon:Vengeful Kiss)",
+			"[Calistrian Kiss](magic/weapon:Calistrian Kiss), [Hateful Sting](magic/weapon:Hateful Sting), [Vengeful Kiss](magic/weapon:Vengeful Kiss)",
 			"**Magic Items - Wondrous Items**",
-			"[Elixir of Emulation](magicwondrous:Elixir of Emulation), [Elixir of Love](magicwondrous:Elixir of Love), [Eyes of Charming](magicwondrous:Eyes of Charming), [Scarves of the Stinging Dancer](magicwondrous:Scarves of the Stinging Dancer), [Stinging Stiletto](magicwondrous:Stinging Stiletto), [Feather Token (Whip)](magicwondrous:Feather Token (Whip))",
+			"[Elixir of Emulation](magic/wondrous:Elixir of Emulation), [Elixir of Love](magic/wondrous:Elixir of Love), [Eyes of Charming](magic/wondrous:Eyes of Charming), [Scarves of the Stinging Dancer](magic/wondrous:Scarves of the Stinging Dancer), [Stinging Stiletto](magic/wondrous:Stinging Stiletto), [Feather Token (Whip)](magic/wondrous:Feather Token (Whip))",
 			"**Monsters**",
 			"[The Menotherian (Herald)](monster:The Menotherian (Herald)), [Vendenopterix](monster:Vendenopterix)",
 			"**Spells**",
@@ -5337,15 +5337,15 @@
 			"**Feats**",
 			"[Bravery in Action](feat:Bravery in Action), [Courage in a Bottle](feat:Courage in a Bottle), [Drunken Brawler](feat:Drunken Brawler), [Drunken God's Blessings](feat:Drunken God's Blessings), [Liberation Channel](feat:Liberation Channel), [Two-Weapon Drunkard](feat:Two-Weapon Drunkard), [Unbound Bravery](feat:Unbound Bravery), [Undaunted Bravery](feat:Undaunted Bravery)",
 			"**Magic Items - Altars**",
-			"[Altar of Cayden Cailean](magicaltar:Altar of Cayden Cailean)",
+			"[Altar of Cayden Cailean](magic/altar:Altar of Cayden Cailean)",
 			"**Magic Items - Armor**",
-			"[Lucky Drunk's Mail](magicarmor:Lucky Drunk's Mail)",
+			"[Lucky Drunk's Mail](magic/armor:Lucky Drunk's Mail)",
 			"**Magic Items - Rings**",
-			"[Red Hound Ring](magicring:Red Hound Ring)",
+			"[Red Hound Ring](magic/ring:Red Hound Ring)",
 			"**Magic Items - Weapons**",
-			"[Cailean Fighting Tankard](magicweapon:Cailean Fighting Tankard), [Carouser's Retort](magicweapon:Carouser's Retort), [Censuring Placard](magicweapon:Censuring Placard)",
+			"[Cailean Fighting Tankard](magic/weapon:Cailean Fighting Tankard), [Carouser's Retort](magic/weapon:Carouser's Retort), [Censuring Placard](magic/weapon:Censuring Placard)",
 			"**Magic Items - Wondrous Items**",
-			"[Amulet of Courage](magicwondrous:Amulet of Courage), [Drinking Horn of Bottomless Valor](magicwondrous:Drinking Horn of Bottomless Valor), [Neverspill Goblet](magicwondrous:Neverspill Goblet), [Parting Glass](magicwondrous:Parting Glass), [Stagger-Proof Boots](magicwondrous:Stagger-Proof Boots), [Tankard of the Drunken Hero](magicwondrous:Tankard of the Drunken Hero), [Thundering Collar](magicwondrous:Thundering Collar), [Watchful Tankard](magicwondrous:Watchful Tankard)",
+			"[Amulet of Courage](magic/wondrous:Amulet of Courage), [Drinking Horn of Bottomless Valor](magic/wondrous:Drinking Horn of Bottomless Valor), [Neverspill Goblet](magic/wondrous:Neverspill Goblet), [Parting Glass](magic/wondrous:Parting Glass), [Stagger-Proof Boots](magic/wondrous:Stagger-Proof Boots), [Tankard of the Drunken Hero](magic/wondrous:Tankard of the Drunken Hero), [Thundering Collar](magic/wondrous:Thundering Collar), [Watchful Tankard](magic/wondrous:Watchful Tankard)",
 			"**Monsters**",
 			"[Ataxian](monster:Ataxian), [Thais (Herald)](monster:Thais (Herald))",
 			"**Prestige Classes**",
@@ -5823,7 +5823,7 @@
 			"**Feats**",
 			"[Aura of Succumbing](feat:Aura of Succumbing)",
 			"**Magic Items - Wondrous Items**",
-			"[Bridle of Charon](magicwondrous:Bridle of Charon)",
+			"[Bridle of Charon](magic/wondrous:Bridle of Charon)",
 			"**Traits**",
 			"[Covenant of Abaddon](trait:Covenant of Abaddon)"
 		]
@@ -5869,7 +5869,7 @@
 			"**Feats**",
 			"[Dreamed Secrets](feat:Dreamed Secrets)",
 			"**Magic Items - Wondrous Items**",
-			"[Preklikin's Book of Cults](magicwondrous:Preklikin's Book of Cults)",
+			"[Preklikin's Book of Cults](magic/wondrous:Preklikin's Book of Cults)",
 			"**Traits**",
 			"[Unspeakable Bond](trait:Unspeakable Bond)"
 		]
@@ -6703,7 +6703,7 @@
 			"**Feats**",
 			"[Dreamed Secrets](feat:Dreamed Secrets)",
 			"**Magic Items - Wondrous Items**",
-			"[Preklikin's Book of Cults](magicwondrous:Preklikin's Book of Cults)",
+			"[Preklikin's Book of Cults](magic/wondrous:Preklikin's Book of Cults)",
 			"**Traits**",
 			"[Unspeakable Bond](trait:Unspeakable Bond)"
 		]
@@ -6800,7 +6800,7 @@
 			"**Feats**",
 			"[Channel Discord](feat:Channel Discord)",
 			"**Magic Items - Wondrous Items**",
-			"[Dagon's Eye](magicwondrous:Dagon's Eye)",
+			"[Dagon's Eye](magic/wondrous:Dagon's Eye)",
 			"**Spells**",
 			"[Fungal Blisters](spell:Fungal Blisters), [Sebaceous Twin](spell:Sebaceous Twin)",
 			"**Traits**",
@@ -7036,7 +7036,7 @@
 			"**Feats**",
 			"[Channel Discord](feat:Channel Discord)",
 			"**Magic Items - Wondrous Items**",
-			"[Dagon's Eye](magicwondrous:Dagon's Eye)",
+			"[Dagon's Eye](magic/wondrous:Dagon's Eye)",
 			"**Traits**",
 			"[Demonic Persuasion](trait:Demonic Persuasion)"
 		]
@@ -7132,7 +7132,7 @@
 			"**Feats**",
 			"[Hunter of Dahak](feat:Hunter of Dahak)",
 			"**Magic Items - Wondrous Items**",
-			"[Nightstone of Sorrow](magicwondrous:Nightstone of Sorrow)",
+			"[Nightstone of Sorrow](magic/wondrous:Nightstone of Sorrow)",
 			"**Traits**",
 			"[Dragon Tracker](trait:Dragon Tracker), [Dragonslayer](trait:Dragonslayer)"
 		],
@@ -7480,9 +7480,9 @@
 			"**Feats**",
 			"[Channel Discord](feat:Channel Discord)",
 			"**Magic Items - Sets**",
-			"[Dread Demonic Armor](magicset:Dread Demonic Armor)",
+			"[Dread Demonic Armor](magic/set:Dread Demonic Armor)",
 			"**Magic Items - Wondrous Items**",
-			"[Dagon's Eye](magicwondrous:Dagon's Eye)",
+			"[Dagon's Eye](magic/wondrous:Dagon's Eye)",
 			"**Spells**",
 			"[Abyssal Vermin](spell:Abyssal Vermin)",
 			"**Traits**",
@@ -7606,17 +7606,17 @@
 			"**Feats**",
 			"[Butterfly's Sting](feat:Butterfly's Sting), [Cosmic Gate](feat:Cosmic Gate), [Guided Star](feat:Guided Star), [Improved Stellar Wanderer](feat:Improved Stellar Wanderer), [Lady Luck's Guidance](feat:Lady Luck's Guidance), [Stellar Wanderer](feat:Stellar Wanderer), [Trailblazing Channel](feat:Trailblazing Channel)",
 			"**Magic Items - Altars**",
-			"[Altar of Desna](magicaltar:Altar of Desna)",
+			"[Altar of Desna](magic/altar:Altar of Desna)",
 			"**Magic Items - Armor**",
-			"[Starsong Mail](magicarmor:Starsong Mail)",
+			"[Starsong Mail](magic/armor:Starsong Mail)",
 			"**Magic Items - Rings**",
-			"[Ring of Stairs and Stars](magicring:Ring of Stairs and Stars)",
+			"[Ring of Stairs and Stars](magic/ring:Ring of Stairs and Stars)",
 			"**Magic Items - Staves**",
-			"[Staff of Slumber](magicstaff:Staff of Slumber)",
+			"[Staff of Slumber](magic/staff:Staff of Slumber)",
 			"**Magic Items - Weapons**",
-			"[Shooting Starknife](magicweapon:Shooting Starknife)",
+			"[Shooting Starknife](magic/weapon:Shooting Starknife)",
 			"**Magic Items - Wondrous Items**",
-			"[Cloak of the Night Sky](magicwondrous:Cloak of the Night Sky), [Desna's Coin](magicwondrous:Desna's Coin), [Dream Candle](magicwondrous:Dream Candle), [Dreamwing Cape](magicwondrous:Dreamwing Cape), [Necklace of Netted Stars](magicwondrous:Necklace of Netted Stars), [Robe of Stars](magicwondrous:Robe of Stars), [Starfaring Robes](magicwondrous:Starfaring Robes), [Stone of Good Luck (Luckstone)](magicwondrous:Stone of Good Luck (Luckstone))",
+			"[Cloak of the Night Sky](magic/wondrous:Cloak of the Night Sky), [Desna's Coin](magic/wondrous:Desna's Coin), [Dream Candle](magic/wondrous:Dream Candle), [Dreamwing Cape](magic/wondrous:Dreamwing Cape), [Necklace of Netted Stars](magic/wondrous:Necklace of Netted Stars), [Robe of Stars](magic/wondrous:Robe of Stars), [Starfaring Robes](magic/wondrous:Starfaring Robes), [Stone of Good Luck (Luckstone)](magic/wondrous:Stone of Good Luck (Luckstone))",
 			"**Monsters**",
 			"[Night Monarch (Herald)](monster:Night Monarch (Herald)), [Thyrlien](monster:Thyrlien)",
 			"**Prestige Classes**",
@@ -8294,11 +8294,11 @@
 		"forFollowers": [
 			"**For Followers of Droskar**",
 			"**Magic Items - Armor**",
-			"[Toiler's Armor](magicarmor:Toiler's Armor)",
+			"[Toiler's Armor](magic/armor:Toiler's Armor)",
 			"**Magic Items - Rings**",
-			"[Droskar's Guiding Ring](magicring:Droskar's Guiding Ring)",
+			"[Droskar's Guiding Ring](magic/ring:Droskar's Guiding Ring)",
 			"**Magic Items - Wondrous Items**",
-			"[Gray Gambler's Hat](magicwondrous:Gray Gambler's Hat)",
+			"[Gray Gambler's Hat](magic/wondrous:Gray Gambler's Hat)",
 			"**Traits**",
 			"[Extended Toil](trait:Extended Toil), [Resigned](trait:Resigned), [Toilcrafter](trait:Toilcrafter)"
 		]
@@ -8841,15 +8841,15 @@
 			"**Feats**",
 			"[Erastil's Blessing](feat:Erastil's Blessing), [Nimble Natural Summons](feat:Nimble Natural Summons), [Savior's Arrow](feat:Savior's Arrow), [Thicket Channel](feat:Thicket Channel)",
 			"**Magic Items - Altars**",
-			"[Altar of Erastil](magicaltar:Altar of Erastil)",
+			"[Altar of Erastil](magic/altar:Altar of Erastil)",
 			"**Magic Items - Armor**",
-			"[Deadeye Leather](magicarmor:Deadeye Leather)",
+			"[Deadeye Leather](magic/armor:Deadeye Leather)",
 			"**Magic Items - Rings**",
-			"[Deadeye's Spotter Ring](magicring:Deadeye's Spotter Ring)",
+			"[Deadeye's Spotter Ring](magic/ring:Deadeye's Spotter Ring)",
 			"**Magic Items - Weapons**",
-			"[Kinbonded Bow](magicweapon:Kinbonded Bow)",
+			"[Kinbonded Bow](magic/weapon:Kinbonded Bow)",
 			"**Magic Items - Wondrous Items**",
-			"[Bracers of Archery (Greater)](magicwondrous:Bracers of Archery (Greater)), [Bracers of Archery (Lesser)](magicwondrous:Bracers of Archery (Lesser)), [Bronze Skinning Knife](magicwondrous:Bronze Skinning Knife), [Cloak of Elvenkind](magicwondrous:Cloak of Elvenkind), [Efficient Quiver](magicwondrous:Efficient Quiver)",
+			"[Bracers of Archery (Greater)](magic/wondrous:Bracers of Archery (Greater)), [Bracers of Archery (Lesser)](magic/wondrous:Bracers of Archery (Lesser)), [Bronze Skinning Knife](magic/wondrous:Bronze Skinning Knife), [Cloak of Elvenkind](magic/wondrous:Cloak of Elvenkind), [Efficient Quiver](magic/wondrous:Efficient Quiver)",
 			"**Monsters**",
 			"[Stag Archon](monster:Stag Archon), [The Grim White Stag (Herald)](monster:The Grim White Stag (Herald))",
 			"**Prestige Classes**",
@@ -9126,7 +9126,7 @@
 		"forFollowers": [
 			"**For Followers of Fandarra**",
 			"**Magic Items - Wondrous Items**",
-			"[Sacrificial Dagger of the Blood Mother](magicwondrous:Sacrificial Dagger of the Blood Mother)"
+			"[Sacrificial Dagger of the Blood Mother](magic/wondrous:Sacrificial Dagger of the Blood Mother)"
 		]
 	},
 	"Farfarello": {
@@ -9446,7 +9446,7 @@
 			"**Feats**",
 			"[Channel Discord](feat:Channel Discord)",
 			"**Magic Items - Wondrous Items**",
-			"[Dagon's Eye](magicwondrous:Dagon's Eye), [Demonic Smith's Gloves](magicwondrous:Demonic Smith's Gloves)",
+			"[Dagon's Eye](magic/wondrous:Dagon's Eye), [Demonic Smith's Gloves](magic/wondrous:Demonic Smith's Gloves)",
 			"**Traits**",
 			"[Demonic Persuasion](trait:Demonic Persuasion)"
 		]
@@ -10112,7 +10112,7 @@
 			"**Feats**",
 			"[Dreamed Secrets](feat:Dreamed Secrets)",
 			"**Magic Items - Wondrous Items**",
-			"[Preklikin's Book of Cults](magicwondrous:Preklikin's Book of Cults)",
+			"[Preklikin's Book of Cults](magic/wondrous:Preklikin's Book of Cults)",
 			"**Traits**",
 			"[Unspeakable Bond](trait:Unspeakable Bond)"
 		]
@@ -10277,7 +10277,7 @@
 			"**Feats**",
 			"[Siphon Channel](feat:Siphon Channel)",
 			"**Magic Items - Wondrous Items**",
-			"[Gossamer Amberstone](magicwondrous:Gossamer Amberstone)",
+			"[Gossamer Amberstone](magic/wondrous:Gossamer Amberstone)",
 			"**Traits**",
 			"[Diseased Heart](trait:Diseased Heart), [Potent Concoctions](trait:Potent Concoctions)"
 		],
@@ -10385,7 +10385,7 @@
 			"**Feats**",
 			"[Channel Discord](feat:Channel Discord)",
 			"**Magic Items - Wondrous Items**",
-			"[Dagon's Eye](magicwondrous:Dagon's Eye)",
+			"[Dagon's Eye](magic/wondrous:Dagon's Eye)",
 			"**Traits**",
 			"[Demonic Persuasion](trait:Demonic Persuasion)"
 		]
@@ -10489,15 +10489,15 @@
 			"**Feats**",
 			"[Channel Viciousness](feat:Channel Viciousness), [Charge Through](feat:Charge Through), [Furious Focus](feat:Furious Focus), [Ironbound Master](feat:Ironbound Master), [To the Last](feat:To the Last)",
 			"**Magic Items - Altars**",
-			"[Altar of Gorum](magicaltar:Altar of Gorum)",
+			"[Altar of Gorum](magic/altar:Altar of Gorum)",
 			"**Magic Items - Armor**",
-			"[Eternal Iron Breastplate](magicarmor:Eternal Iron Breastplate)",
+			"[Eternal Iron Breastplate](magic/armor:Eternal Iron Breastplate)",
 			"**Magic Items - Rings**",
-			"[Ring of Sundering Metals](magicring:Ring of Sundering Metals)",
+			"[Ring of Sundering Metals](magic/ring:Ring of Sundering Metals)",
 			"**Magic Items - Weapons**",
-			"[Bloodlight](magicweapon:Bloodlight)",
+			"[Bloodlight](magic/weapon:Bloodlight)",
 			"**Magic Items - Wondrous Items**",
-			"[Iron Lord's Transforming Slivers](magicwondrous:Iron Lord's Transforming Slivers), [Maul of the Titans](magicwondrous:Maul of the Titans), [Shad'gorum Nugget](magicwondrous:Shad'gorum Nugget)",
+			"[Iron Lord's Transforming Slivers](magic/wondrous:Iron Lord's Transforming Slivers), [Maul of the Titans](magic/wondrous:Maul of the Titans), [Shad'gorum Nugget](magic/wondrous:Shad'gorum Nugget)",
 			"**Monsters**",
 			"[The First Blade (Herald)](monster:The First Blade (Herald)), [Zentragt](monster:Zentragt)",
 			"**Spells**",
@@ -10630,17 +10630,17 @@
 			"**Feats**",
 			"[Channel Endurance](feat:Channel Endurance), [Riptide Attack](feat:Riptide Attack), [Wave Master](feat:Wave Master)",
 			"**Magic Items - Altars**",
-			"[Altar of Gozreh](magicaltar:Altar of Gozreh)",
+			"[Altar of Gozreh](magic/altar:Altar of Gozreh)",
 			"**Magic Items - Armor**",
-			"[Driftwood Shield](magicarmor:Driftwood Shield), [Kiml?? Coat](magicarmor:Kiml?? Coat)",
+			"[Driftwood Shield](magic/armor:Driftwood Shield), [Kiml?? Coat](magic/armor:Kiml?? Coat)",
 			"**Magic Items - Rings**",
-			"[Ring of Animal Friendship](magicring:Ring of Animal Friendship)",
+			"[Ring of Animal Friendship](magic/ring:Ring of Animal Friendship)",
 			"**Magic Items - Rods**",
-			"[Rod of Thunder and Lightning](magicrod:Rod of Thunder and Lightning)",
+			"[Rod of Thunder and Lightning](magic/rod:Rod of Thunder and Lightning)",
 			"**Magic Items - Weapons**",
-			"[Stormstrike](magicweapon:Stormstrike)",
+			"[Stormstrike](magic/weapon:Stormstrike)",
 			"**Magic Items - Wondrous Items**",
-			"[Featherscale Cloak](magicwondrous:Featherscale Cloak), [Orb of Storms](magicwondrous:Orb of Storms), [Wayfinder of Zephyrs](magicwondrous:Wayfinder of Zephyrs), [Windwave Kilt](magicwondrous:Windwave Kilt)",
+			"[Featherscale Cloak](magic/wondrous:Featherscale Cloak), [Orb of Storms](magic/wondrous:Orb of Storms), [Wayfinder of Zephyrs](magic/wondrous:Wayfinder of Zephyrs), [Windwave Kilt](magic/wondrous:Windwave Kilt)",
 			"**Monsters**",
 			"[Personification of Fury (Herald)](monster:Personification of Fury (Herald)), [Xocothian](monster:Xocothian)",
 			"**Prestige Classes**",
@@ -10856,9 +10856,9 @@
 			"**Feats**",
 			"[Green Faith Acolyte](feat:Green Faith Acolyte)",
 			"**Magic Items - Weapons**",
-			"[Midsummer Sickle](magicweapon:Midsummer Sickle)",
+			"[Midsummer Sickle](magic/weapon:Midsummer Sickle)",
 			"**Magic Items - Wondrous Items**",
-			"[Evergreen Seed Pouch](magicwondrous:Evergreen Seed Pouch), [Warden's Cudgel](magicwondrous:Warden's Cudgel)",
+			"[Evergreen Seed Pouch](magic/wondrous:Evergreen Seed Pouch), [Warden's Cudgel](magic/wondrous:Warden's Cudgel)",
 			"**Prestige Classes**",
 			"[Green Faith Acolyte](unknown:Green Faith Acolyte)",
 			"**Spells**",
@@ -10971,9 +10971,9 @@
 		"forFollowers": [
 			"**For Followers of Groetus**",
 			"**Magic Items - Weapons**",
-			"[Obliviating Flail](magicweapon:Obliviating Flail)",
+			"[Obliviating Flail](magic/weapon:Obliviating Flail)",
 			"**Magic Items - Wondrous Items**",
-			"[Deathlurker's Cloak](magicwondrous:Deathlurker's Cloak)",
+			"[Deathlurker's Cloak](magic/wondrous:Deathlurker's Cloak)",
 			"**Monsters**",
 			"[End's Voice (Herald)](monster:End's Voice (Herald))",
 			"**Spells**",
@@ -11267,7 +11267,7 @@
 			"**Feats**",
 			"[Channel Hate](feat:Channel Hate)",
 			"**Magic Items - Wondrous Items**",
-			"[Hag's Shabble](magicwondrous:Hag's Shabble)",
+			"[Hag's Shabble](magic/wondrous:Hag's Shabble)",
 			"**Traits**",
 			"[Vindictive Strike](trait:Vindictive Strike), [Wronged](trait:Wronged)"
 		],
@@ -11372,7 +11372,7 @@
 			"**Feats**",
 			"[Channel Discord](feat:Channel Discord)",
 			"**Magic Items - Wondrous Items**",
-			"[Dagon's Eye](magicwondrous:Dagon's Eye)",
+			"[Dagon's Eye](magic/wondrous:Dagon's Eye)",
 			"**Traits**",
 			"[Demonic Persuasion](trait:Demonic Persuasion)"
 		]
@@ -11524,7 +11524,7 @@
 		"forFollowers": [
 			"**For Followers of Hadregash**",
 			"**Magic Items - Wondrous Items**",
-			"[Great Barghest Hero Cloak](magicwondrous:Great Barghest Hero Cloak)",
+			"[Great Barghest Hero Cloak](magic/wondrous:Great Barghest Hero Cloak)",
 			"**Spells**",
 			"[Barghest Feast](spell:Barghest Feast), [Hobbling Bomb Admixture](spell:Hobbling Bomb Admixture)",
 			"**Traits**",
@@ -11892,7 +11892,7 @@
 			"**Feats**",
 			"[Dreamed Secrets](feat:Dreamed Secrets)",
 			"**Magic Items - Wondrous Items**",
-			"[Preklikin's Book of Cults](magicwondrous:Preklikin's Book of Cults)",
+			"[Preklikin's Book of Cults](magic/wondrous:Preklikin's Book of Cults)",
 			"**Spells**",
 			"[Yellow Sign](spell:Yellow Sign)",
 			"**Traits**",
@@ -12091,7 +12091,7 @@
 		"forFollowers": [
 			"**For Followers of Hei Feng**",
 			"**Magic Items - Wondrous Items**",
-			"[Crackling Tassel](magicwondrous:Crackling Tassel)"
+			"[Crackling Tassel](magic/wondrous:Crackling Tassel)"
 		],
 		"uniqueSpellRules": [
 			"**Source** [Faiths of Golarion pg. 25](source:Faiths of Golarion)",
@@ -13023,15 +13023,15 @@
 			"****Feats****",
 			"[Disciple of the Sword](feat:Disciple of the Sword), [Hands of Valor](feat:Hands of Valor), [Protective Channel](feat:Protective Channel), [Strike True](feat:Strike True)",
 			"****Magic Items - Altars****",
-			"[Altar of Iomedae](magicaltar:Altar of Iomedae)",
+			"[Altar of Iomedae](magic/altar:Altar of Iomedae)",
 			"****Magic Items - Armor****",
-			"[Icon of Order](magicarmor:Icon of Order), [Inheritor's Breastplate](magicarmor:Inheritor's Breastplate), [War Commander's Field Plate](magicarmor:War Commander's Field Plate)",
+			"[Icon of Order](magic/armor:Icon of Order), [Inheritor's Breastplate](magic/armor:Inheritor's Breastplate), [War Commander's Field Plate](magic/armor:War Commander's Field Plate)",
 			"****Magic Items - Rings****",
-			"[Knight-Inheritor's Ring](magicring:Knight-Inheritor's Ring)",
+			"[Knight-Inheritor's Ring](magic/ring:Knight-Inheritor's Ring)",
 			"****Magic Items - Weapons****",
-			"[Crusader's Longsword](magicweapon:Crusader's Longsword), [Inheritor's Light](magicweapon:Inheritor's Light), [Iomedae's Needle](magicweapon:Iomedae's Needle)",
+			"[Crusader's Longsword](magic/weapon:Crusader's Longsword), [Inheritor's Light](magic/weapon:Inheritor's Light), [Iomedae's Needle](magic/weapon:Iomedae's Needle)",
 			"****Magic Items - Wondrous Items****",
-			"[Knight's Pennon (Battle)](magicwondrous:Knight's Pennon (Battle)), [Cloak of the Crusader](magicwondrous:Cloak of the Crusader), [Lord's Banner (Crusades)](magicwondrous:Lord's Banner (Crusades)), [Glorious Tabard (Greater)](magicwondrous:Glorious Tabard (Greater)), [Knight's Pennon (Honor)](magicwondrous:Knight's Pennon (Honor)), [Inheritor's Gauntlet](magicwondrous:Inheritor's Gauntlet), [Glorious Tabard (Lesser)](magicwondrous:Glorious Tabard (Lesser)), [Medal of the Hero's Heart](magicwondrous:Medal of the Hero's Heart), [Knight's Pennon (Parley)](magicwondrous:Knight's Pennon (Parley)), [Lord's Banner (Swiftness)](magicwondrous:Lord's Banner (Swiftness)), [Lord's Banner (Terror)](magicwondrous:Lord's Banner (Terror)), [Lord's Banner (Victory)](magicwondrous:Lord's Banner (Victory))",
+			"[Knight's Pennon (Battle)](magic/wondrous:Knight's Pennon (Battle)), [Cloak of the Crusader](magic/wondrous:Cloak of the Crusader), [Lord's Banner (Crusades)](magic/wondrous:Lord's Banner (Crusades)), [Glorious Tabard (Greater)](magic/wondrous:Glorious Tabard (Greater)), [Knight's Pennon (Honor)](magic/wondrous:Knight's Pennon (Honor)), [Inheritor's Gauntlet](magic/wondrous:Inheritor's Gauntlet), [Glorious Tabard (Lesser)](magic/wondrous:Glorious Tabard (Lesser)), [Medal of the Hero's Heart](magic/wondrous:Medal of the Hero's Heart), [Knight's Pennon (Parley)](magic/wondrous:Knight's Pennon (Parley)), [Lord's Banner (Swiftness)](magic/wondrous:Lord's Banner (Swiftness)), [Lord's Banner (Terror)](magic/wondrous:Lord's Banner (Terror)), [Lord's Banner (Victory)](magic/wondrous:Lord's Banner (Victory))",
 			"****Monsters****",
 			"[Hand of the Inheritor (Herald)](monster:Hand of the Inheritor (Herald)), [Iophanite](monster:Iophanite)",
 			"****Prestige Classes****",
@@ -13292,17 +13292,17 @@
 			"**Feats**",
 			"[Improved Unarmed Strike](feat:Improved Unarmed Strike), [Ki Channel](feat:Ki Channel), [Master of Knowledge](feat:Master of Knowledge), [Scholar](feat:Scholar), [Steady Engagement](feat:Steady Engagement)",
 			"**Magic Items - Altars**",
-			"[Altar of Irori](magicaltar:Altar of Irori)",
+			"[Altar of Irori](magic/altar:Altar of Irori)",
 			"**Magic Items - Armor**",
-			"[Perfection Leather](magicarmor:Perfection Leather)",
+			"[Perfection Leather](magic/armor:Perfection Leather)",
 			"**Magic Items - Rings**",
-			"[Ring of Serene Contortions](magicring:Ring of Serene Contortions)",
+			"[Ring of Serene Contortions](magic/ring:Ring of Serene Contortions)",
 			"**Magic Items - Sets**",
-			"[Irori's Meditation](magicset:Irori's Meditation)",
+			"[Irori's Meditation](magic/set:Irori's Meditation)",
 			"**Magic Items - Weapons**",
-			"[Perfectionist Shavtoosh](magicweapon:Perfectionist Shavtoosh), [Quarterstaff of Contemplation](magicweapon:Quarterstaff of Contemplation)",
+			"[Perfectionist Shavtoosh](magic/weapon:Perfectionist Shavtoosh), [Quarterstaff of Contemplation](magic/weapon:Quarterstaff of Contemplation)",
 			"**Magic Items - Wondrous Items**",
-			"[Amulet of Mighty Fists (+1)](magicwondrous:Amulet of Mighty Fists (+1)), [Amulet of Mighty Fists (+2)](magicwondrous:Amulet of Mighty Fists (+2)), [Amulet of Mighty Fists (+3)](magicwondrous:Amulet of Mighty Fists (+3)), [Amulet of Mighty Fists (+4)](magicwondrous:Amulet of Mighty Fists (+4)), [Amulet of Mighty Fists (+5)](magicwondrous:Amulet of Mighty Fists (+5)), [Incense of Meditation](magicwondrous:Incense of Meditation), [Monk's Robe](magicwondrous:Monk's Robe), [Purification Talisman](magicwondrous:Purification Talisman), [Robe of the Master of Masters](magicwondrous:Robe of the Master of Masters)",
+			"[Amulet of Mighty Fists (+1)](magic/wondrous:Amulet of Mighty Fists (+1)), [Amulet of Mighty Fists (+2)](magic/wondrous:Amulet of Mighty Fists (+2)), [Amulet of Mighty Fists (+3)](magic/wondrous:Amulet of Mighty Fists (+3)), [Amulet of Mighty Fists (+4)](magic/wondrous:Amulet of Mighty Fists (+4)), [Amulet of Mighty Fists (+5)](magic/wondrous:Amulet of Mighty Fists (+5)), [Incense of Meditation](magic/wondrous:Incense of Meditation), [Monk's Robe](magic/wondrous:Monk's Robe), [Purification Talisman](magic/wondrous:Purification Talisman), [Robe of the Master of Masters](magic/wondrous:Robe of the Master of Masters)",
 			"**Monsters**",
 			"[Pavbagha](monster:Pavbagha), [The Old Man (Herald)](monster:The Old Man (Herald))",
 			"**Prestige Classes**",
@@ -13484,7 +13484,7 @@
 			"**Feats**",
 			"[Dreamed Secrets](feat:Dreamed Secrets)",
 			"**Magic Items - Wondrous Items**",
-			"[Preklikin's Book of Cults](magicwondrous:Preklikin's Book of Cults)",
+			"[Preklikin's Book of Cults](magic/wondrous:Preklikin's Book of Cults)",
 			"**Traits**",
 			"[Unspeakable Bond](trait:Unspeakable Bond)"
 		]
@@ -13978,7 +13978,7 @@
 			"**Feats**",
 			"[Channel Discord](feat:Channel Discord)",
 			"**Magic Items - Wondrous Items**",
-			"[Dagon's Eye](magicwondrous:Dagon's Eye)",
+			"[Dagon's Eye](magic/wondrous:Dagon's Eye)",
 			"**Traits**",
 			"[Demonic Persuasion](trait:Demonic Persuasion)"
 		]
@@ -14147,7 +14147,7 @@
 			"**Feats**",
 			"[Channel Discord](feat:Channel Discord)",
 			"**Magic Items - Wondrous Items**",
-			"[Dagon's Eye](magicwondrous:Dagon's Eye)",
+			"[Dagon's Eye](magic/wondrous:Dagon's Eye)",
 			"**Traits**",
 			"[Demonic Persuasion](trait:Demonic Persuasion)"
 		]
@@ -14300,7 +14300,7 @@
 			"**Feats**",
 			"[Channel Discord](feat:Channel Discord)",
 			"**Magic Items - Wondrous Items**",
-			"[Dagon's Eye](magicwondrous:Dagon's Eye)",
+			"[Dagon's Eye](magic/wondrous:Dagon's Eye)",
 			"**Traits**",
 			"[Demonic Persuasion](trait:Demonic Persuasion)"
 		],
@@ -15247,7 +15247,7 @@
 			"**Feats**",
 			"[Channel Discord](feat:Channel Discord)",
 			"**Magic Items - Wondrous Items**",
-			"[Dagon's Eye](magicwondrous:Dagon's Eye)",
+			"[Dagon's Eye](magic/wondrous:Dagon's Eye)",
 			"**Spells**",
 			"[Frosthammer](spell:Frosthammer)",
 			"**Traits**",
@@ -15873,13 +15873,13 @@
 			"**Feats**",
 			"[Destroy Identity](feat:Destroy Identity), [Fearsome Finish](feat:Fearsome Finish), [Lamashtu's Mark](feat:Lamashtu's Mark), [Nightmare Scars](feat:Nightmare Scars)",
 			"**Magic Items - Altars**",
-			"[Altar of Lamashtu](magicaltar:Altar of Lamashtu)",
+			"[Altar of Lamashtu](magic/altar:Altar of Lamashtu)",
 			"**Magic Items - Armor**",
-			"[Pelt of the Demon Mother](magicarmor:Pelt of the Demon Mother)",
+			"[Pelt of the Demon Mother](magic/armor:Pelt of the Demon Mother)",
 			"**Magic Items - Weapons**",
-			"[Bonespur Dagger](magicweapon:Bonespur Dagger), [Fanged Falchion](magicweapon:Fanged Falchion), [Jackal's Blade](magicweapon:Jackal's Blade), [Redlust's Daughter](magicweapon:Redlust's Daughter)",
+			"[Bonespur Dagger](magic/weapon:Bonespur Dagger), [Fanged Falchion](magic/weapon:Fanged Falchion), [Jackal's Blade](magic/weapon:Jackal's Blade), [Redlust's Daughter](magic/weapon:Redlust's Daughter)",
 			"**Magic Items - Wondrous Items**",
-			"[Demon Mother's Mask](magicwondrous:Demon Mother's Mask), [Gutbite Belt](magicwondrous:Gutbite Belt), [Mortuary Mask](magicwondrous:Mortuary Mask)",
+			"[Demon Mother's Mask](magic/wondrous:Demon Mother's Mask), [Gutbite Belt](magic/wondrous:Gutbite Belt), [Mortuary Mask](magic/wondrous:Mortuary Mask)",
 			"**Monsters**",
 			"[Swaithe](monster:Swaithe), [Yethazmari (Herald)](monster:Yethazmari (Herald))",
 			"**Spells**",
@@ -16006,7 +16006,7 @@
 		"forFollowers": [
 			"**For Followers of Lao Shu Po**",
 			"**Magic Items - Weapons**",
-			"[Feast of Rats](magicweapon:Feast of Rats)"
+			"[Feast of Rats](magic/weapon:Feast of Rats)"
 		]
 	},
 	"Libicocco": {
@@ -16537,7 +16537,7 @@
 			"**Lymnieris**",
 			"**The Auroral Tower**",
 			"**Source** [Inner Sea Gods pg. 322](source:Inner Sea Gods)",
-			"**Pathfinder Wiki** [Lymnieris](../external.html?link=http://www.pathfinderwiki.com/wiki/Lymnieris)"
+			"**Pathfinder Wiki** [Lymnieris](http://www.pathfinderwiki.com/wiki/Lymnieris)"
 		],
 		"pantheon": "Empyreal Lords",
 		"alignment": "LG",
@@ -16817,9 +16817,9 @@
 			"**Feats**",
 			"[Fey Friend](feat:Fey Friend)",
 			"**Magic Items - Rods**",
-			"[Rod of the Thriceborn (normal)](magicrod:Rod of the Thriceborn (normal))",
+			"[Rod of the Thriceborn (normal)](magic/rod:Rod of the Thriceborn (normal))",
 			"**Magic Items - Wondrous Items**",
-			"[Charm of the Thriceborn](magicwondrous:Charm of the Thriceborn), [Ribbon of the Three](magicwondrous:Ribbon of the Three)",
+			"[Charm of the Thriceborn](magic/wondrous:Charm of the Thriceborn), [Ribbon of the Three](magic/wondrous:Ribbon of the Three)",
 			"**Spells**",
 			"[Threefold Face](spell:Threefold Face), [Threefold Form](spell:Threefold Form), [Threefold Sight](spell:Threefold Sight)",
 			"**Traits**",
@@ -17472,7 +17472,7 @@
 			"**Feats**",
 			"[Channel Discord](feat:Channel Discord)",
 			"**Magic Items - Wondrous Items**",
-			"[Dagon's Eye](magicwondrous:Dagon's Eye)",
+			"[Dagon's Eye](magic/wondrous:Dagon's Eye)",
 			"**Traits**",
 			"[Demonic Persuasion](trait:Demonic Persuasion)"
 		]
@@ -17767,7 +17767,7 @@
 			"**Feats**",
 			"[Channel Discord](feat:Channel Discord)",
 			"**Magic Items - Wondrous Items**",
-			"[Dagon's Eye](magicwondrous:Dagon's Eye)",
+			"[Dagon's Eye](magic/wondrous:Dagon's Eye)",
 			"**Traits**",
 			"[Demonic Persuasion](trait:Demonic Persuasion)"
 		]
@@ -17820,7 +17820,7 @@
 			"**Feats**",
 			"[Dreamed Secrets](feat:Dreamed Secrets)",
 			"**Magic Items - Wondrous Items**",
-			"[Preklikin's Book of Cults](magicwondrous:Preklikin's Book of Cults)",
+			"[Preklikin's Book of Cults](magic/wondrous:Preklikin's Book of Cults)",
 			"**Traits**",
 			"[Unspeakable Bond](trait:Unspeakable Bond)"
 		]
@@ -17915,9 +17915,9 @@
 			"**Feats**",
 			"[Beacon of Hope](feat:Beacon of Hope)",
 			"**Magic Items - Armor**",
-			"[Milanite Armor](magicarmor:Milanite Armor)",
+			"[Milanite Armor](magic/armor:Milanite Armor)",
 			"**Magic Items - Weapons**",
-			"[Enduring Bloom](magicweapon:Enduring Bloom), [Everbloom Thorn](magicweapon:Everbloom Thorn), [Everbloom's Rose](magicweapon:Everbloom's Rose)",
+			"[Enduring Bloom](magic/weapon:Enduring Bloom), [Everbloom Thorn](magic/weapon:Everbloom Thorn), [Everbloom's Rose](magic/weapon:Everbloom's Rose)",
 			"**Prestige Classes**",
 			"[Rose Warden](unknown:Rose Warden)",
 			"**Spells**",
@@ -18190,7 +18190,7 @@
 			"**Feats**",
 			"[Hellish Shackles](feat:Hellish Shackles)",
 			"**Magic Items - Wondrous Items**",
-			"[Molech](magicwondrous:Molech)",
+			"[Molech](magic/wondrous:Molech)",
 			"**Traits**",
 			"[Flames of Hell](trait:Flames of Hell)"
 		],
@@ -18303,7 +18303,7 @@
 			"**Feats**",
 			"[Dreamed Secrets](feat:Dreamed Secrets)",
 			"**Magic Items - Wondrous Items**",
-			"[Preklikin's Book of Cults](magicwondrous:Preklikin's Book of Cults)",
+			"[Preklikin's Book of Cults](magic/wondrous:Preklikin's Book of Cults)",
 			"**Traits**",
 			"[Unspeakable Bond](trait:Unspeakable Bond)"
 		]
@@ -18784,7 +18784,7 @@
 		"forFollowers": [
 			"**For Followers of Naderi**",
 			"**Magic Items - Wondrous Items**",
-			"[Hero's Release Pendant](magicwondrous:Hero's Release Pendant)",
+			"[Hero's Release Pendant](magic/wondrous:Hero's Release Pendant)",
 			"**Traits**",
 			"[Empty Heart, Full Heart](trait:Empty Heart, Full Heart)"
 		],
@@ -19448,17 +19448,17 @@
 			"**Feats**",
 			"[Arcane Insight](feat:Arcane Insight), [Forceful Channel](feat:Forceful Channel), [Magical Epiphany](feat:Magical Epiphany)",
 			"**Magic Items - Altars**",
-			"[Altar of Nethys](magicaltar:Altar of Nethys)",
+			"[Altar of Nethys](magic/altar:Altar of Nethys)",
 			"**Magic Items - Armor**",
-			"[All-Seeing Armor](magicarmor:All-Seeing Armor)",
+			"[All-Seeing Armor](magic/armor:All-Seeing Armor)",
 			"**Magic Items - Rings**",
-			"[Nethysian Ring of Minor Spell Storing](magicring:Nethysian Ring of Minor Spell Storing), [Ring of Wizardry (type I)](magicring:Ring of Wizardry (type I)), [Ring of Wizardry (type II)](magicring:Ring of Wizardry (type II)), [Ring of Wizardry (type III)](magicring:Ring of Wizardry (type III)), [Ring of Wizardry (type IV)](magicring:Ring of Wizardry (type IV))",
+			"[Nethysian Ring of Minor Spell Storing](magic/ring:Nethysian Ring of Minor Spell Storing), [Ring of Wizardry (type I)](magic/ring:Ring of Wizardry (type I)), [Ring of Wizardry (type II)](magic/ring:Ring of Wizardry (type II)), [Ring of Wizardry (type III)](magic/ring:Ring of Wizardry (type III)), [Ring of Wizardry (type IV)](magic/ring:Ring of Wizardry (type IV))",
 			"**Magic Items - Staves**",
-			"[Staff of Nethys](magicstaff:Staff of Nethys)",
+			"[Staff of Nethys](magic/staff:Staff of Nethys)",
 			"**Magic Items - Weapons**",
-			"[Quarterstaff of Entwined Serpents](magicweapon:Quarterstaff of Entwined Serpents)",
+			"[Quarterstaff of Entwined Serpents](magic/weapon:Quarterstaff of Entwined Serpents)",
 			"**Magic Items - Wondrous Items**",
-			"[Mask of Conflicting Energies](magicwondrous:Mask of Conflicting Energies), [Spellsight Bracer](magicwondrous:Spellsight Bracer)",
+			"[Mask of Conflicting Energies](magic/wondrous:Mask of Conflicting Energies), [Spellsight Bracer](magic/wondrous:Spellsight Bracer)",
 			"**Monsters**",
 			"[Arcanotheign (Herald)](monster:Arcanotheign (Herald)), [Burleev](monster:Burleev)",
 			"**Spells**",
@@ -19767,7 +19767,7 @@
 		"forFollowers": [
 			"**For Followers of Nivi Rhombodazzle**",
 			"**Magic Items - Wondrous Items**",
-			"[Rhombocrystal](magicwondrous:Rhombocrystal)",
+			"[Rhombocrystal](magic/wondrous:Rhombocrystal)",
 			"**Traits**",
 			"[Agent of Chance](trait:Agent of Chance)"
 		],
@@ -19949,7 +19949,7 @@
 			"**Feats**",
 			"[Channel Discord](feat:Channel Discord)",
 			"**Magic Items - Wondrous Items**",
-			"[Dagon's Eye](magicwondrous:Dagon's Eye)",
+			"[Dagon's Eye](magic/wondrous:Dagon's Eye)",
 			"**Traits**",
 			"[Demonic Persuasion](trait:Demonic Persuasion)"
 		]
@@ -20198,7 +20198,7 @@
 			"**Feats**",
 			"[Channel Discord](feat:Channel Discord)",
 			"**Magic Items - Wondrous Items**",
-			"[Dagon's Eye](magicwondrous:Dagon's Eye)",
+			"[Dagon's Eye](magic/wondrous:Dagon's Eye)",
 			"**Traits**",
 			"[Demonic Persuasion](trait:Demonic Persuasion)"
 		]
@@ -20404,7 +20404,7 @@
 			"**Olheon**",
 			"**The Just Arbiter**",
 			"**Source** [Inner Sea Gods pg. 322](source:Inner Sea Gods)",
-			"**Pathfinder Wiki** [Olheon](../external.html?link=http://www.pathfinderwiki.com/wiki/Olheon)"
+			"**Pathfinder Wiki** [Olheon](http://www.pathfinderwiki.com/wiki/Olheon)"
 		],
 		"pantheon": "Empyreal Lords",
 		"alignment": "LG",
@@ -20855,7 +20855,7 @@
 			"**Feats**",
 			"[Channel Discord](feat:Channel Discord)",
 			"**Magic Items - Wondrous Items**",
-			"[Dagon's Eye](magicwondrous:Dagon's Eye)",
+			"[Dagon's Eye](magic/wondrous:Dagon's Eye)",
 			"**Traits**",
 			"[Demonic Persuasion](trait:Demonic Persuasion)"
 		]
@@ -20912,7 +20912,7 @@
 			"**Feats**",
 			"[Dreamed Secrets](feat:Dreamed Secrets)",
 			"**Magic Items - Wondrous Items**",
-			"[Preklikin's Book of Cults](magicwondrous:Preklikin's Book of Cults)",
+			"[Preklikin's Book of Cults](magic/wondrous:Preklikin's Book of Cults)",
 			"**Traits**",
 			"[Unspeakable Bond](trait:Unspeakable Bond)"
 		]
@@ -21504,7 +21504,7 @@
 			"**Feats**",
 			"[Channel Discord](feat:Channel Discord)",
 			"**Magic Items - Wondrous Items**",
-			"[Dagon's Eye](magicwondrous:Dagon's Eye)",
+			"[Dagon's Eye](magic/wondrous:Dagon's Eye)",
 			"**Traits**",
 			"[Demonic Persuasion](trait:Demonic Persuasion)"
 		]
@@ -21607,17 +21607,17 @@
 			"**Feats**",
 			"[Eerie Sense](feat:Eerie Sense), [Fateful Channel](feat:Fateful Channel), [Messenger of Fate](feat:Messenger of Fate)",
 			"**Magic Items - Altars**",
-			"[Altar of Pharasma](magicaltar:Altar of Pharasma)",
+			"[Altar of Pharasma](magic/altar:Altar of Pharasma)",
 			"**Magic Items - Armor**",
-			"[Gravewatcher Chainmail](magicarmor:Gravewatcher Chainmail)",
+			"[Gravewatcher Chainmail](magic/armor:Gravewatcher Chainmail)",
 			"**Magic Items - Rings**",
-			"[Ghost Battling Ring](magicring:Ghost Battling Ring), [Ring of the Faithful Dead](magicring:Ring of the Faithful Dead)",
+			"[Ghost Battling Ring](magic/ring:Ghost Battling Ring), [Ring of the Faithful Dead](magic/ring:Ring of the Faithful Dead)",
 			"**Magic Items - Sets**",
-			"[Pharasma's Command](magicset:Pharasma's Command)",
+			"[Pharasma's Command](magic/set:Pharasma's Command)",
 			"**Magic Items - Weapons**",
-			"[Fate Blade](magicweapon:Fate Blade), [Lady's Spiral](magicweapon:Lady's Spiral), [Nightpiercer](magicweapon:Nightpiercer)",
+			"[Fate Blade](magic/weapon:Fate Blade), [Lady's Spiral](magic/weapon:Lady's Spiral), [Nightpiercer](magic/weapon:Nightpiercer)",
 			"**Magic Items - Wondrous Items**",
-			"[Crystal Ball (Detect Thoughts)](magicwondrous:Crystal Ball (Detect Thoughts)), [Fate's Shears](magicwondrous:Fate's Shears), [Icon of the Midwife](magicwondrous:Icon of the Midwife), [Lady's Mercy](magicwondrous:Lady's Mercy), [Crystal Ball (Normal)](magicwondrous:Crystal Ball (Normal)), [Crystal Ball (See Invisibility)](magicwondrous:Crystal Ball (See Invisibility)), [Stone of Tomb Warding](magicwondrous:Stone of Tomb Warding), [Crystal Ball (Telepathy)](magicwondrous:Crystal Ball (Telepathy)), [Crystal Ball (True Seeing)](magicwondrous:Crystal Ball (True Seeing))",
+			"[Crystal Ball (Detect Thoughts)](magic/wondrous:Crystal Ball (Detect Thoughts)), [Fate's Shears](magic/wondrous:Fate's Shears), [Icon of the Midwife](magic/wondrous:Icon of the Midwife), [Lady's Mercy](magic/wondrous:Lady's Mercy), [Crystal Ball (Normal)](magic/wondrous:Crystal Ball (Normal)), [Crystal Ball (See Invisibility)](magic/wondrous:Crystal Ball (See Invisibility)), [Stone of Tomb Warding](magic/wondrous:Stone of Tomb Warding), [Crystal Ball (Telepathy)](magic/wondrous:Crystal Ball (Telepathy)), [Crystal Ball (True Seeing)](magic/wondrous:Crystal Ball (True Seeing))",
 			"**Monsters**",
 			"[Ahmuuth](monster:Ahmuuth), [Steward of the Skein (Herald)](monster:Steward of the Skein (Herald))",
 			"**Prestige Classes**",
@@ -22792,7 +22792,7 @@
 			"**Feats**",
 			"[Dreamed Secrets](feat:Dreamed Secrets)",
 			"**Magic Items - Wondrous Items**",
-			"[Preklikin's Book of Cults](magicwondrous:Preklikin's Book of Cults)",
+			"[Preklikin's Book of Cults](magic/wondrous:Preklikin's Book of Cults)",
 			"**Traits**",
 			"[Unspeakable Bond](trait:Unspeakable Bond)"
 		]
@@ -22968,13 +22968,13 @@
 			"**Feats**",
 			"[Breaker of Barriers](feat:Breaker of Barriers), [Gory Finish](feat:Gory Finish), [Merciless Rush](feat:Merciless Rush), [Oath of the Unbound](feat:Oath of the Unbound), [Squash Flat](feat:Squash Flat), [Sundering Strike](feat:Sundering Strike), [Warrior Priest](feat:Warrior Priest)",
 			"**Magic Items - Altars**",
-			"[Altar of Rovagug](magicaltar:Altar of Rovagug)",
+			"[Altar of Rovagug](magic/altar:Altar of Rovagug)",
 			"**Magic Items - Armor**",
-			"[Fangtide Scale Mail](magicarmor:Fangtide Scale Mail)",
+			"[Fangtide Scale Mail](magic/armor:Fangtide Scale Mail)",
 			"**Magic Items - Weapons**",
-			"[Rusting Teeth of the Rough Beast](magicweapon:Rusting Teeth of the Rough Beast)",
+			"[Rusting Teeth of the Rough Beast](magic/weapon:Rusting Teeth of the Rough Beast)",
 			"**Magic Items - Wondrous Items**",
-			"[Broken Chain of the Beast](magicwondrous:Broken Chain of the Beast), [Choker of the Rough Beast](magicwondrous:Choker of the Rough Beast), [Gauntlet of Rust](magicwondrous:Gauntlet of Rust), [Maul of the Titans](magicwondrous:Maul of the Titans)",
+			"[Broken Chain of the Beast](magic/wondrous:Broken Chain of the Beast), [Choker of the Rough Beast](magic/wondrous:Choker of the Rough Beast), [Gauntlet of Rust](magic/wondrous:Gauntlet of Rust), [Maul of the Titans](magic/wondrous:Maul of the Titans)",
 			"**Monsters**",
 			"[Tarrasque (Herald)](monster:Tarrasque (Herald)), [Thognorok](monster:Thognorok)",
 			"**Spells**",
@@ -23627,15 +23627,15 @@
 			"**Feats**",
 			"[Bestow Hope](feat:Bestow Hope), [Dawn's Blessing](feat:Dawn's Blessing), [Dervish Dance](feat:Dervish Dance), [Flame Blade Dervish](feat:Flame Blade Dervish), [Glorious Blaze](feat:Glorious Blaze), [Glorious Heat](feat:Glorious Heat), [Sacred Pyromania](feat:Sacred Pyromania), [Sun Striker](feat:Sun Striker)",
 			"**Magic Items - Altars**",
-			"[Altar of Sarenrae](magicaltar:Altar of Sarenrae), [Altar of the Dawnflower](magicaltar:Altar of the Dawnflower)",
+			"[Altar of Sarenrae](magic/altar:Altar of Sarenrae), [Altar of the Dawnflower](magic/altar:Altar of the Dawnflower)",
 			"**Magic Items - Armor**",
-			"[Dawnflower Chain Vest](magicarmor:Dawnflower Chain Vest)",
+			"[Dawnflower Chain Vest](magic/armor:Dawnflower Chain Vest)",
 			"**Magic Items - Rings**",
-			"[Glorious Flame Ring](magicring:Glorious Flame Ring)",
+			"[Glorious Flame Ring](magic/ring:Glorious Flame Ring)",
 			"**Magic Items - Weapons**",
-			"[Dawnfire](magicweapon:Dawnfire)",
+			"[Dawnfire](magic/weapon:Dawnfire)",
 			"**Magic Items - Wondrous Items**",
-			"[Dawnflower Lantern](magicwondrous:Dawnflower Lantern), [Dawnflower Sash](magicwondrous:Dawnflower Sash), [Dervish Sikke](magicwondrous:Dervish Sikke), [Saliharion](magicwondrous:Saliharion), [Scabbard of the Lost Kiss](magicwondrous:Scabbard of the Lost Kiss), [Sunlord's Feather](magicwondrous:Sunlord's Feather)",
+			"[Dawnflower Lantern](magic/wondrous:Dawnflower Lantern), [Dawnflower Sash](magic/wondrous:Dawnflower Sash), [Dervish Sikke](magic/wondrous:Dervish Sikke), [Saliharion](magic/wondrous:Saliharion), [Scabbard of the Lost Kiss](magic/wondrous:Scabbard of the Lost Kiss), [Sunlord's Feather](magic/wondrous:Sunlord's Feather)",
 			"**Monsters**",
 			"[Sunlord Thalachos (Herald)](monster:Sunlord Thalachos (Herald)), [Yhohm](monster:Yhohm)",
 			"**Prestige Classes**",
@@ -24255,7 +24255,7 @@
 			"**Feats**",
 			"[Channel Discord](feat:Channel Discord)",
 			"**Magic Items - Wondrous Items**",
-			"[Dagon's Eye](magicwondrous:Dagon's Eye)",
+			"[Dagon's Eye](magic/wondrous:Dagon's Eye)",
 			"**Traits**",
 			"[Demonic Persuasion](trait:Demonic Persuasion)"
 		]
@@ -24478,15 +24478,15 @@
 			"**Feats**",
 			"[Bladed Brush](feat:Bladed Brush), [Clarifying Channel](feat:Clarifying Channel), [Divine Expression](feat:Divine Expression), [Persuasive Performer](feat:Persuasive Performer)",
 			"**Magic Items - Altars**",
-			"[Altar of Shelyn](magicaltar:Altar of Shelyn)",
+			"[Altar of Shelyn](magic/altar:Altar of Shelyn)",
 			"**Magic Items - Armor**",
-			"[Rosy Hauberk](magicarmor:Rosy Hauberk)",
+			"[Rosy Hauberk](magic/armor:Rosy Hauberk)",
 			"**Magic Items - Rings**",
-			"[Ring of Seven Lovely Colors](magicring:Ring of Seven Lovely Colors)",
+			"[Ring of Seven Lovely Colors](magic/ring:Ring of Seven Lovely Colors)",
 			"**Magic Items - Weapons**",
-			"[Blade of Three Fancies](magicweapon:Blade of Three Fancies)",
+			"[Blade of Three Fancies](magic/weapon:Blade of Three Fancies)",
 			"**Magic Items - Wondrous Items**",
-			"[Beautiful War Paint](magicwondrous:Beautiful War Paint), [Boots of the Eternal Rose](magicwondrous:Boots of the Eternal Rose), [Bracelet of Friends](magicwondrous:Bracelet of Friends), [Harp of Charming](magicwondrous:Harp of Charming), [Marvelous Pigments](magicwondrous:Marvelous Pigments), [Perfect Tuning Fork](magicwondrous:Perfect Tuning Fork), [Zonzon Doll of Forgiveness](magicwondrous:Zonzon Doll of Forgiveness)",
+			"[Beautiful War Paint](magic/wondrous:Beautiful War Paint), [Boots of the Eternal Rose](magic/wondrous:Boots of the Eternal Rose), [Bracelet of Friends](magic/wondrous:Bracelet of Friends), [Harp of Charming](magic/wondrous:Harp of Charming), [Marvelous Pigments](magic/wondrous:Marvelous Pigments), [Perfect Tuning Fork](magic/wondrous:Perfect Tuning Fork), [Zonzon Doll of Forgiveness](magic/wondrous:Zonzon Doll of Forgiveness)",
 			"**Monsters**",
 			"[Dapsara](monster:Dapsara), [The Spirit of Adoration (Herald)](monster:The Spirit of Adoration (Herald))",
 			"**Prestige Classes**",
@@ -24672,7 +24672,7 @@
 			"**Feats**",
 			"[Channel Discord](feat:Channel Discord)",
 			"**Magic Items - Wondrous Items**",
-			"[Dagon's Eye](magicwondrous:Dagon's Eye)",
+			"[Dagon's Eye](magic/wondrous:Dagon's Eye)",
 			"**Traits**",
 			"[Demonic Persuasion](trait:Demonic Persuasion)"
 		]
@@ -25063,7 +25063,7 @@
 			"**Feats**",
 			"[Channel Discord](feat:Channel Discord)",
 			"**Magic Items - Wondrous Items**",
-			"[Dagon's Eye](magicwondrous:Dagon's Eye)",
+			"[Dagon's Eye](magic/wondrous:Dagon's Eye)",
 			"**Traits**",
 			"[Demonic Persuasion](trait:Demonic Persuasion)"
 		]
@@ -25307,9 +25307,9 @@
 			"**Feats**",
 			"[Believable Veils](feat:Believable Veils)",
 			"**Magic Items - Armor**",
-			"[Veiled Chain](magicarmor:Veiled Chain)",
+			"[Veiled Chain](magic/armor:Veiled Chain)",
 			"**Magic Items - Wondrous Items**",
-			"[Veil of Veils](magicwondrous:Veil of Veils)",
+			"[Veil of Veils](magic/wondrous:Veil of Veils)",
 			"**Traits**",
 			"[Strip the Veils](trait:Strip the Veils), [Veils upon Veils](trait:Veils upon Veils)"
 		],
@@ -25664,7 +25664,7 @@
 			"**Feats**",
 			"[Channel Discord](feat:Channel Discord)",
 			"**Magic Items - Wondrous Items**",
-			"[Dagon's Eye](magicwondrous:Dagon's Eye)",
+			"[Dagon's Eye](magic/wondrous:Dagon's Eye)",
 			"**Traits**",
 			"[Demonic Persuasion](trait:Demonic Persuasion)"
 		]
@@ -26196,7 +26196,7 @@
 			"**Feats**",
 			"[Aura of Succumbing](feat:Aura of Succumbing)",
 			"**Magic Items - Wondrous Items**",
-			"[Szuriel's Scabbard](magicwondrous:Szuriel's Scabbard)",
+			"[Szuriel's Scabbard](magic/wondrous:Szuriel's Scabbard)",
 			"**Spells**",
 			"[Black Sword of War](spell:Black Sword of War), [Bloody Tears and Jagged Smile](spell:Bloody Tears and Jagged Smile)",
 			"**Traits**",
@@ -26536,7 +26536,7 @@
 		"forFollowers": [
 			"**For Followers of Thamir Gixx**",
 			"**Magic Items - Wondrous Items**",
-			"[Silent Blade Vest](magicwondrous:Silent Blade Vest)",
+			"[Silent Blade Vest](magic/wondrous:Silent Blade Vest)",
 			"**Monsters**",
 			"[Fantionette](monster:Fantionette)",
 			"**Spells**",
@@ -27325,13 +27325,13 @@
 			"**Feats**",
 			"[Blessed Hammer](feat:Blessed Hammer), [Rebuffing Reduction](feat:Rebuffing Reduction), [Shrewd Tactician](feat:Shrewd Tactician), [Stalwart](feat:Stalwart), [Steelskin Channel](feat:Steelskin Channel), [Stone Strider](feat:Stone Strider), [Uncanny Ally](feat:Uncanny Ally)",
 			"**Magic Items - Altars**",
-			"[Altar of Torag](magicaltar:Altar of Torag)",
+			"[Altar of Torag](magic/altar:Altar of Torag)",
 			"**Magic Items - Armor**",
-			"[Forgefather's Half-Plate](magicarmor:Forgefather's Half-Plate)",
+			"[Forgefather's Half-Plate](magic/armor:Forgefather's Half-Plate)",
 			"**Magic Items - Weapons**",
-			"[Dwarfbond Hammer](magicweapon:Dwarfbond Hammer), [Forgefather's Sledge](magicweapon:Forgefather's Sledge)",
+			"[Dwarfbond Hammer](magic/weapon:Dwarfbond Hammer), [Forgefather's Sledge](magic/weapon:Forgefather's Sledge)",
 			"**Magic Items - Wondrous Items**",
-			"[Belt of Dwarvenkind](magicwondrous:Belt of Dwarvenkind), [Belt of Stoneskin](magicwondrous:Belt of Stoneskin), [Boots of the Earth](magicwondrous:Boots of the Earth), [Father's Forgehammer](magicwondrous:Father's Forgehammer)",
+			"[Belt of Dwarvenkind](magic/wondrous:Belt of Dwarvenkind), [Belt of Stoneskin](magic/wondrous:Belt of Stoneskin), [Boots of the Earth](magic/wondrous:Boots of the Earth), [Father's Forgehammer](magic/wondrous:Father's Forgehammer)",
 			"**Monsters**",
 			"[Chalkost](monster:Chalkost), [The Grand Defender (Herald)](monster:The Grand Defender (Herald))",
 			"**Prestige Classes**",
@@ -27506,7 +27506,7 @@
 			"**Feats**",
 			"[Aura of Succumbing](feat:Aura of Succumbing)",
 			"**Magic Items - Wondrous Items**",
-			"[Belt of Trelmarixian](magicwondrous:Belt of Trelmarixian)",
+			"[Belt of Trelmarixian](magic/wondrous:Belt of Trelmarixian)",
 			"**Traits**",
 			"[Covenant of Abaddon](trait:Covenant of Abaddon)"
 		]
@@ -27679,7 +27679,7 @@
 			"**Feats**",
 			"[Dreamed Secrets](feat:Dreamed Secrets)",
 			"**Magic Items - Wondrous Items**",
-			"[Preklikin's Book of Cults](magicwondrous:Preklikin's Book of Cults)",
+			"[Preklikin's Book of Cults](magic/wondrous:Preklikin's Book of Cults)",
 			"**Traits**",
 			"[Unspeakable Bond](trait:Unspeakable Bond)"
 		]
@@ -27989,7 +27989,7 @@
 			"**Archetypes**",
 			"[Iron Tyrant (Antipaladin)](unknown:Iron Tyrant (Antipaladin))",
 			"**Magic Items - Wondrous Items**",
-			"[Bear Pelt of the Bonebreaker](magicwondrous:Bear Pelt of the Bonebreaker)"
+			"[Bear Pelt of the Bonebreaker](magic/wondrous:Bear Pelt of the Bonebreaker)"
 		]
 	},
 	"Urgathoa": {
@@ -28096,17 +28096,17 @@
 			"**Feats**",
 			"[Bolster Undead](feat:Bolster Undead), [Potion Glutton](feat:Potion Glutton), [Shatter Resolve](feat:Shatter Resolve), [Thanatopic Spell](feat:Thanatopic Spell), [Threnodic Spell](feat:Threnodic Spell), [Undead Master](feat:Undead Master)",
 			"**Magic Items - Altars**",
-			"[Altar of Urgathoa](magicaltar:Altar of Urgathoa)",
+			"[Altar of Urgathoa](magic/altar:Altar of Urgathoa)",
 			"**Magic Items - Armor**",
-			"[Pallid Chain](magicarmor:Pallid Chain)",
+			"[Pallid Chain](magic/armor:Pallid Chain)",
 			"**Magic Items - Rings**",
-			"[Gluttonous Feasting Ring](magicring:Gluttonous Feasting Ring)",
+			"[Gluttonous Feasting Ring](magic/ring:Gluttonous Feasting Ring)",
 			"**Magic Items - Sets**",
-			"[Urgathoa's Gluttony](magicset:Urgathoa's Gluttony)",
+			"[Urgathoa's Gluttony](magic/set:Urgathoa's Gluttony)",
 			"**Magic Items - Weapons**",
-			"[Nail of the Princess](magicweapon:Nail of the Princess), [Reaper's Lantern](magicweapon:Reaper's Lantern)",
+			"[Nail of the Princess](magic/weapon:Nail of the Princess), [Reaper's Lantern](magic/weapon:Reaper's Lantern)",
 			"**Magic Items - Wondrous Items**",
-			"[Darkskull](magicwondrous:Darkskull), [Gloves of Bony Power](magicwondrous:Gloves of Bony Power), [Mask of the Skull](magicwondrous:Mask of the Skull), [Pallid Crystal](magicwondrous:Pallid Crystal), [Plagueborn Mantle](magicwondrous:Plagueborn Mantle), [Robe of Bones](magicwondrous:Robe of Bones), [Urgathoa's Breath](magicwondrous:Urgathoa's Breath)",
+			"[Darkskull](magic/wondrous:Darkskull), [Gloves of Bony Power](magic/wondrous:Gloves of Bony Power), [Mask of the Skull](magic/wondrous:Mask of the Skull), [Pallid Crystal](magic/wondrous:Pallid Crystal), [Plagueborn Mantle](magic/wondrous:Plagueborn Mantle), [Robe of Bones](magic/wondrous:Robe of Bones), [Urgathoa's Breath](magic/wondrous:Urgathoa's Breath)",
 			"**Monsters**",
 			"[Mother's Maw (Herald)](monster:Mother's Maw (Herald)), [Pallid Angel](monster:Pallid Angel), [Sarcovalt](monster:Sarcovalt)",
 			"**Spells**",
@@ -28305,7 +28305,7 @@
 			"**Feats**",
 			"[Channel Discord](feat:Channel Discord)",
 			"**Magic Items - Wondrous Items**",
-			"[Dagon's Eye](magicwondrous:Dagon's Eye)",
+			"[Dagon's Eye](magic/wondrous:Dagon's Eye)",
 			"**Traits**",
 			"[Demonic Persuasion](trait:Demonic Persuasion)"
 		]
@@ -28929,7 +28929,7 @@
 		"forFollowers": [
 			"**For Followers of Venkelvore**",
 			"**Magic Items - Wondrous Items**",
-			"[Great Barghest Hero Cloak](magicwondrous:Great Barghest Hero Cloak)",
+			"[Great Barghest Hero Cloak](magic/wondrous:Great Barghest Hero Cloak)",
 			"**Traits**",
 			"[Restless Hunger](trait:Restless Hunger)"
 		]
@@ -29692,7 +29692,7 @@
 			"**Feats**",
 			"[Dreamed Secrets](feat:Dreamed Secrets)",
 			"**Magic Items - Wondrous Items**",
-			"[Preklikin's Book of Cults](magicwondrous:Preklikin's Book of Cults)",
+			"[Preklikin's Book of Cults](magic/wondrous:Preklikin's Book of Cults)",
 			"**Spells**",
 			"[What Grows Within](spell:What Grows Within)",
 			"**Traits**",
@@ -29931,7 +29931,7 @@
 			"**Feats**",
 			"[Channel Discord](feat:Channel Discord)",
 			"**Magic Items - Wondrous Items**",
-			"[Dagon's Eye](magicwondrous:Dagon's Eye)",
+			"[Dagon's Eye](magic/wondrous:Dagon's Eye)",
 			"**Traits**",
 			"[Demonic Persuasion](trait:Demonic Persuasion)"
 		]
@@ -30449,7 +30449,7 @@
 		"forFollowers": [
 			"**For Followers of Ydersius**",
 			"**Magic Items - Wondrous Items**",
-			"[Belt of the Snake King](magicwondrous:Belt of the Snake King)",
+			"[Belt of the Snake King](magic/wondrous:Belt of the Snake King)",
 			"**Spells**",
 			"[Constricting Coils](spell:Constricting Coils)",
 			"**Traits**",
@@ -30566,7 +30566,7 @@
 			"**Feats**",
 			"[Channel Discord](feat:Channel Discord)",
 			"**Magic Items - Wondrous Items**",
-			"[Dagon's Eye](magicwondrous:Dagon's Eye)",
+			"[Dagon's Eye](magic/wondrous:Dagon's Eye)",
 			"**Traits**",
 			"[Demonic Persuasion](trait:Demonic Persuasion)"
 		]
@@ -30612,7 +30612,7 @@
 			"**Feats**",
 			"[Dreamed Secrets](feat:Dreamed Secrets)",
 			"**Magic Items - Wondrous Items**",
-			"[Preklikin's Book of Cults](magicwondrous:Preklikin's Book of Cults)",
+			"[Preklikin's Book of Cults](magic/wondrous:Preklikin's Book of Cults)",
 			"**Traits**",
 			"[Unspeakable Bond](trait:Unspeakable Bond)"
 		]
@@ -30686,7 +30686,7 @@
 			"**Feats**",
 			"[Heroic Interposition](feat:Heroic Interposition)",
 			"**Magic Items - Wondrous Items**",
-			"[Harborwing Cloak](magicwondrous:Harborwing Cloak)",
+			"[Harborwing Cloak](magic/wondrous:Harborwing Cloak)",
 			"**Traits**",
 			"[Empyreal Focus](trait:Empyreal Focus)"
 		]
@@ -31139,7 +31139,7 @@
 		"forFollowers": [
 			"**For Followers of Zarongel**",
 			"**Magic Items - Wondrous Items**",
-			"[Great Barghest Hero Cloak](magicwondrous:Great Barghest Hero Cloak)",
+			"[Great Barghest Hero Cloak](magic/wondrous:Great Barghest Hero Cloak)",
 			"**Traits**",
 			"[Wolf Cub](trait:Wolf Cub)"
 		]
@@ -31374,7 +31374,7 @@
 			"**Feats**",
 			"[Channel Discord](feat:Channel Discord)",
 			"**Magic Items - Wondrous Items**",
-			"[Dagon's Eye](magicwondrous:Dagon's Eye)",
+			"[Dagon's Eye](magic/wondrous:Dagon's Eye)",
 			"**Traits**",
 			"[Demonic Persuasion](trait:Demonic Persuasion)"
 		]
@@ -31480,7 +31480,7 @@
 		"forFollowers": [
 			"**For Followers of Zogmugot**",
 			"**Magic Items - Wondrous Items**",
-			"[Great Barghest Hero Cloak](magicwondrous:Great Barghest Hero Cloak)",
+			"[Great Barghest Hero Cloak](magic/wondrous:Great Barghest Hero Cloak)",
 			"**Traits**",
 			"[Flounderer](trait:Flounderer)"
 		]
@@ -31659,17 +31659,17 @@
 			"**Feats**",
 			"[Bloodletting](feat:Bloodletting), [Cruelty](feat:Cruelty), [Flagellant](feat:Flagellant), [Shade of the Uskwood](feat:Shade of the Uskwood)",
 			"**Magic Items - Altars**",
-			"[Altar of Zon-Kuthon](magicaltar:Altar of Zon-Kuthon)",
+			"[Altar of Zon-Kuthon](magic/altar:Altar of Zon-Kuthon)",
 			"**Magic Items - Armor**",
-			"[Painspike Armor](magicarmor:Painspike Armor), [Raiment of Chains](magicarmor:Raiment of Chains)",
+			"[Painspike Armor](magic/armor:Painspike Armor), [Raiment of Chains](magic/armor:Raiment of Chains)",
 			"**Magic Items - Rods**",
-			"[Rod of Shadows](magicrod:Rod of Shadows)",
+			"[Rod of Shadows](magic/rod:Rod of Shadows)",
 			"**Magic Items - Staves**",
-			"[Staff of Hungry Shadows](magicstaff:Staff of Hungry Shadows)",
+			"[Staff of Hungry Shadows](magic/staff:Staff of Hungry Shadows)",
 			"**Magic Items - Weapons**",
-			"[Bloodthirst Dagger](magicweapon:Bloodthirst Dagger), [Fist of the Pit](magicweapon:Fist of the Pit), [Grasp of Torment](magicweapon:Grasp of Torment), [Shadowbound Chains](magicweapon:Shadowbound Chains), [Torment of the Midnight Lord](magicweapon:Torment of the Midnight Lord), [Umbral Chain](magicweapon:Umbral Chain)",
+			"[Bloodthirst Dagger](magic/weapon:Bloodthirst Dagger), [Fist of the Pit](magic/weapon:Fist of the Pit), [Grasp of Torment](magic/weapon:Grasp of Torment), [Shadowbound Chains](magic/weapon:Shadowbound Chains), [Torment of the Midnight Lord](magic/weapon:Torment of the Midnight Lord), [Umbral Chain](magic/weapon:Umbral Chain)",
 			"**Magic Items - Wondrous Items**",
-			"[Mask of Cutting Flesh](magicwondrous:Mask of Cutting Flesh), [Scabbard of Pain](magicwondrous:Scabbard of Pain)",
+			"[Mask of Cutting Flesh](magic/wondrous:Mask of Cutting Flesh), [Scabbard of Pain](magic/wondrous:Scabbard of Pain)",
 			"**Monsters**",
 			"[Joyful Thing](monster:Joyful Thing), [Lampadarius](monster:Lampadarius), [The Prince in Chains (Herald)](monster:The Prince in Chains (Herald))",
 			"**Prestige Classes**",
@@ -31787,7 +31787,7 @@
 			"**Feats**",
 			"[Channel Discord](feat:Channel Discord)",
 			"**Magic Items - Wondrous Items**",
-			"[Dagon's Eye](magicwondrous:Dagon's Eye)",
+			"[Dagon's Eye](magic/wondrous:Dagon's Eye)",
 			"**Traits**",
 			"[Blessing of the Feast](trait:Blessing of the Feast), [Demonic Persuasion](trait:Demonic Persuasion)"
 		]
@@ -31921,7 +31921,7 @@
 		"forFollowers": [
 			"**For Followers of Zursvaater**",
 			"**Magic Items - Altars**",
-			"[Altar of Zursvaater](magicaltar:Altar of Zursvaater)",
+			"[Altar of Zursvaater](magic/altar:Altar of Zursvaater)",
 			"**Spells**",
 			"[Stoke the Inner Fire](spell:Stoke the Inner Fire)"
 		],
@@ -32028,7 +32028,7 @@
 		"forFollowers": [
 			"**For Followers of Zyphus**",
 			"**Magic Items - Armor**",
-			"[Grim Gloom Mail](magicarmor:Grim Gloom Mail)",
+			"[Grim Gloom Mail](magic/armor:Grim Gloom Mail)",
 			"**Monsters**",
 			"[Gravedragger (Herald)](monster:Gravedragger (Herald))",
 			"**Spells**",
