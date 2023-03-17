@@ -3383,6 +3383,9 @@
 				"The Bard's class skills are Acrobatics (Dex), Appraise (Int), Bluff (Cha), Climb (Str), Craft (Int), Diplomacy (Cha), Disguise (Cha), Escape Artist (Dex), Intimidate (Cha), Knowledge (all) (Int), Linguistics (Int), Perception (Wis), Perform (Cha), Profession (Wis), Sense Motive (Wis), Sleight of Hand (Dex), Spellcraft (Int), Stealth (Dex), and Use Magic Device (Cha).",
 				"**Skill Points at each Level**: 6 + Int modifier."
 			],
+			"extraobjects": [
+				"bardicmasterpieces"
+			],
 			"alignmentAny": true,
 			"hitDie": 8,
 			"startingWealthFormula": "3d6 x 10 gp",
@@ -3647,6 +3650,22 @@
 				],
 				"wayang": [
 					"([Advanced Race Guide pg. 210](source:Advanced Race Guide)): Add one spell known from the wizard's illusion school spell list. This spell must be at least one level below the highest spell level the bard can cast. The spell is treated as being one level higher, unless it is also on the bard spell list."
+				]
+			},
+			"bardicmasterpieces": {
+				"_description": [
+					"Talented bards can learn or create masterpieces, unusual applications of the bardic performance ability requiring special training. Masterpiece descriptions adhere to the following guidelines.",
+					"**Masterpiece Name**: In addition to the name of the masterpiece, this line indicates which Perform skill or skills the masterpiece relies upon.",
+					"**Prerequisites**: Like feats, masterpieces have prerequisites that a bard must meet in order to learn them. Only bards may learn masterpieces.",
+					"**Cost**: Each masterpiece has an associated cost to learn it. Typically, a bard must spend one of his bard spells known of a specific spell level or select it in place of a feat. The bard can spend a bard spell known of a level higher than the listed level to learn a masterpiece (for example, spending a 4th-level spell known to learn a masterpiece that requires spending a 3rd-level spell known).",
+					"**Effect**: This brief description summarizes what occurs when a bard performs the masterpiece. Unless otherwise stated, a masterpiece's effects are supernatural. Unwilling creatures may attempt a Will save against the effect of a masterpiece; the save DC for masterpieces is equal to 10 + 1/2 the bard's level + the bard's Charisma bonus. Masterpieces that duplicate spells use the bard's caster level for the spell's caster level.",
+					"**Use**: This line specifies how many bardic performance rounds the bard must use to activate the masterpiece. In some cases, the bard can extend the duration of the masterpiece by expending additional rounds of bardic performance, just as if it were any other use of bardic performance. The bard expends the listed number of bardic performance rounds when he starts performing the masterpiece; if he is interrupted, the attempt fails and the spent performance rounds are lost.",
+					"**Action**: This line indicates the type of action performing the masterpiece requires. If it only requires a standard action to activate, being able to activate a bardic performance more quickly (at 7th level, activation is a move action, and at 13th, it becomes a swift action) applies to the masterpiece as well.",
+					"Unless otherwise stated, effects or feats that extend the duration of bardic performance (such as the Lingering Performance feat in the Advanced Player's Guide) do not apply to masterpieces.",
+					"GMs can use these masterpieces to inspire their own ideas for other masterpieces. Masterpieces should generally be no more powerful than a cleric or sorcerer/wizard spell available to a caster of the same level as the minimum level needed to select the masterpiece (a masterpiece requiring 7 ranks in Perform requires a 7th-level bard, and thus should not be more powerful than a 4th-level cleric or sorcerer/wizard spell)."
+				],
+				"masterpieces": [
+					
 				]
 			}
 		},
