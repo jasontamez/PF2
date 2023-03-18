@@ -1,0 +1,122 @@
+[
+	{
+		"linename": "Aberrant",
+		"file": "bloodragerbloodlinedisplay20be.html",
+		"shortdesc": "There is a taint in your blood that is both alien and bizarre. When you bloodrage, this manifests in peculiar and terrifying ways."
+	},
+	{
+		"linename": "Abyssal",
+		"file": "bloodragerbloodlinedisplay7aee.html",
+		"shortdesc": "Generations ago, a demon spread its filth into the essence of your bloodline. While it doesn't manifest in all of your kin, in those moments when you're bloodraging, you embody its terrifying presence."
+	},
+	{
+		"linename": "Aquatic",
+		"file": "bloodragerbloodlinedisplay92d2.html",
+		"shortdesc": "The anger in your blood rises from the ocean depths, seeded by descent from undersea empires, creeping ichthyic infiltrators into remote seaside villages, or something deeper still."
+	},
+	{
+		"linename": "Arcane",
+		"file": "bloodragerbloodlinedisplayaee0.html",
+		"shortdesc": "While others of your kin may be powerful wizards and sorcerers, the eldritch nature of the blood coursing through your veins transforms you into a spell-breaking terror."
+	},
+	{
+		"linename": "Black Blood",
+		"file": "bloodragerbloodlinedisplay4155.html",
+		"shortdesc": "Contact with the black blood of Orv-by you or one of your ancestors-transformed your bloodline."
+	},
+	{
+		"linename": "Celestial",
+		"file": "bloodragerbloodlinedisplay9813.html",
+		"shortdesc": "By way of a celestial ancestor or divine intervention, the blood of angels fills your body with a holy potency, granting you a majestic visage and angelic powers when you enter your bloodrage."
+	},
+	{
+		"linename": "Destined",
+		"file": "bloodragerbloodlinedisplay4903.html",
+		"shortdesc": "Your bloodline is destined for great things. When you bloodrage, you exude a greatness that makes all but the most legendary creatures seem lesser."
+	},
+	{
+		"linename": "Draconic",
+		"file": "bloodragerbloodlinedisplay3acf.html",
+		"shortdesc": "At some point in your family's history, a dragon interbred with your bloodline. Now, the sublime monster's ancient power fuels your bloodrage."
+	},
+	{
+		"linename": "Elemental",
+		"file": "bloodragerbloodlinedisplay04c4.html",
+		"shortdesc": "The power of the elements resides in you, and at times you can hardly control its fury. This influence comes either from an elemental outsider in your family history or from a moment when you or your ancestors were exposed to a powerful elemental force or cataclysm."
+	},
+	{
+		"linename": "Fey",
+		"file": "bloodragerbloodlinedisplaycdfa.html",
+		"shortdesc": "One of your ancestors was fey, or the fey realm somehow intermixed with your bloodline. It affects your bloodrage in tricky and surprising ways."
+	},
+	{
+		"linename": "Hag",
+		"file": "bloodragerbloodlinedisplay0733.html",
+		"shortdesc": "Hags interbreed with other races frequently, and those children who escape their grasp may pass their heritage on to later generations before it reemerges. "
+	},
+	{
+		"linename": "Infernal",
+		"file": "bloodragerbloodlinedisplay423f.html",
+		"shortdesc": "The Pit lives in your blood. Maybe one of your ancestors was seduced by the powers of Hell or made a deal with a devil. Either way, its corruption seethes within your lineage."
+	},
+	{
+		"linename": "Kyton",
+		"file": "bloodragerbloodlinedisplay2ecb.html",
+		"shortdesc": "In the shadowy land of Nidal, the influence of Zon-Kuthon and the Midnight Lord's favored servants-the kytons' taints the land and its inhabitants. Just as an eclipse drives animals wild, so too does the darkness unleash a madness from deep within you."
+	},
+	{
+		"linename": "Martyred",
+		"file": "bloodragerbloodlinedisplayc754.html",
+		"shortdesc": "One of your ancestors paid the ultimate price for her beliefs. This distant relative martyred herself out of a devout dedication to some specific cause, and that sacrifice has infused you with power that you can use for good-or for ill. When you bloodrage, an inspiring fury conjures echoes of your forebear's incredible determination and selfless dedication, both offering you protection and amplifying your ability to punish any who dare incur your wrath."
+	},
+	{
+		"linename": "Medusa",
+		"file": "bloodragerbloodlinedisplayb72d.html",
+		"shortdesc": "No magical creature is more iconic in Iblydan lore than the [medusa](monster:medusa). Perhaps your lineage traces back to a medusa, or an ancestor survived a medusa's petrifying gaze and was forever changed by the experience. However the medusa's influence entered your bloodline, when you bloodrage, you gain fearsome and ancient powers."
+	},
+	{
+		"linename": "Naga",
+		"file": "bloodragerbloodlinedisplaye818.html",
+		"shortdesc": "The blood of the powerful, serpentine aberrations known as nagas runs through your veins, fueling your bloodrage."
+	},
+	{
+		"linename": "Phoenix",
+		"file": "bloodragerbloodlinedisplayc56a.html",
+		"shortdesc": "The flames of the phoenix burn brightly within your soul, filling you with an inextinguishable vitality that can withstand the most harrowing of assaults"
+	},
+	{
+		"linename": "Salamander",
+		"file": "bloodragerbloodlinedisplayb6a2.html",
+		"shortdesc": "Salamanders are fierce warriors and master smiths, and you wield their might and mastery of metal by birthright."
+	},
+	{
+		"linename": "Shadow",
+		"file": "bloodragerbloodlinedisplay372c.html",
+		"shortdesc": "Because of your heritage, you can move and see through shadows as if you are part of them. Your fury absorbs light, warmth, and strength."
+	},
+	{
+		"linename": "Shapechanger",
+		"file": "bloodragerbloodlinedisplay8846.html",
+		"shortdesc": "The blood of doppelgangers, faceless stalkers, lycanthropes, or other shapechangers courses through your veins."
+	},
+	{
+		"linename": "Sphinx",
+		"file": "bloodragerbloodlinedisplay4bdb.html",
+		"shortdesc": "Those who successfully traded riddles with sphinxes sometimes find themselves or their descendants exhibiting both arcane power and violent fury. These bloodragers find being outwitted or outmaneuvered especially infuriating; though they are usually scholarly and erudite, their fits of frenzied rage are all the more terrifying in comparison."
+	},
+	{
+		"linename": "Undead",
+		"file": "bloodragerbloodlinedisplaya695.html",
+		"shortdesc": "The foul corruption of undeath is a part of you. Somewhere in the past, death became infused with your lineage. Your connection to the attributes of the undead bestows frightening power when your bloodrage."
+	},
+	{
+		"linename": "Verdant",
+		"file": "bloodragerbloodlinedisplay8c6b.html",
+		"shortdesc": "Your body is suffused with raw plant life. When you bloodrage, your plantlike characteristics bolster your durability and grant you some control over vegetation."
+	},
+	{
+		"linename": "Vestige",
+		"file": "bloodragerbloodlinedisplay14e4.html",
+		"shortdesc": "You are the descendant of great heroes from a lost civilization."
+	}
+]

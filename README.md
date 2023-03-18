@@ -6,7 +6,7 @@
   * arcanist exploits (?)
   * ~~barbarian and UC rage powers~~
   * ~~_bard masterpieces, advanced versatile performances~~
-  * bloodrager bloodlines
+  * ~~bloodrager bloodlines~~
   * cavalier orders, banners
   * cleric domains, variant channeling
   * druid companions, domains, herbalism
