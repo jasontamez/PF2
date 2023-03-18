@@ -7,7 +7,7 @@
   * ~~barbarian and UC rage powers~~
   * ~~_bard masterpieces, advanced versatile performances~~
   * ~~bloodrager bloodlines~~
-  * cavalier orders, banners
+  * ~~cavalier orders, banners~~
   * cleric domains, variant channeling
   * druid companions, domains, herbalism
   * _EIDOLON and UC base forms
@@ -28,6 +28,7 @@
   * psychic phrenic amps, disciplines
   * ranger combat styles
   * rogue and UC talents, skill unlocks
+  * ~~samurai~~
   * shaman hexes, spirits
   * shifter aspects
   * skald sagas, rage powers (barb), advanced versatile performances (bard)
