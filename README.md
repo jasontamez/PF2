@@ -4,8 +4,8 @@
 * class files needing parsing:
   * alchemist (?)
   * arcanist exploits (?)
-  * barbarian and UC rage powers
-  * _bard masterpieces
+  * ~~barbarian and UC rage powers~~
+  * ~~_bard masterpieces, advanced versatile performances~~
   * bloodrager bloodlines
   * cavalier orders, banners
   * cleric domains, variant channeling
@@ -30,7 +30,7 @@
   * rogue and UC talents, skill unlocks
   * shaman hexes, spirits
   * shifter aspects
-  * skald sagas
+  * skald sagas, rage powers (barb), advanced versatile performances (bard)
   * slayer talents
   * sorcerer bloodlines, wildbloods
   * summoner and UC evolutions
