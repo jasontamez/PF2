@@ -8,7 +8,7 @@
   * ~~_bard masterpieces, advanced versatile performances~~
   * ~~bloodrager bloodlines~~
   * ~~cavalier orders, banners~~
-  * cleric domains, ~~variant channeling~~
+  * ~~cleric domains, variant channeling~~
   * druid companions, domains, herbalism
   * _EIDOLON and UC base forms
   * fighter weapon groups (?)
