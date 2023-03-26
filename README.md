@@ -9,7 +9,7 @@
   * ~~bloodrager bloodlines~~
   * ~~cavalier orders, banners~~
   * ~~cleric domains, variant channeling~~
-  * druid companions, domains, herbalism
+  * ~~druid companions, domains, herbalism~~
   * _EIDOLON and UC base forms
   * fighter weapon groups (?)
   * gunslinger dares and deeds
