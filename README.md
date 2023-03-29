@@ -14,19 +14,19 @@
   * fighter weapon groups (?)
   * gunslinger dares and deeds
   * hunter animal focus
-  * inquisitions
+  * ~~inquisitions~~
   * investigator talents, annointments
   * kineticist talents, elements
   * magus acana (?)
   * mesmerist stares, tricks
-  * medium spririts
+  * ~~medium spririts~~
   * monk and UC ki powers, vows, style strikes
   * ninja tricks
   * occultist implements
   * oracle mysteries, curses
   * paladin oaths, divine bonds, mercies
   * psychic phrenic amps, disciplines
-  * ranger combat styles
+  * ~~ranger combat styles~~
   * rogue and UC talents, skill unlocks
   * ~~samurai~~
   * shaman hexes, spirits
