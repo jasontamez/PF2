@@ -11,12 +11,12 @@
   * ~~cleric domains, variant channeling~~
   * ~~druid companions, domains, herbalism~~
   * _EIDOLON and UC base forms
-  * fighter weapon groups (?)
+  * ~~fighter weapon groups (?)~~
   * gunslinger dares and deeds
   * hunter animal focus
   * ~~inquisitions~~
   * investigator talents, annointments
-  * kineticist talents, elements
+  * kineticist ~~talents~~, elements
   * magus acana (?)
   * mesmerist stares, tricks
   * ~~medium spririts~~
