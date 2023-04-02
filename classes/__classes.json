@@ -25686,6 +25686,10 @@
 				"Goblins of Golarion",
 				"Blood of the Beast"
 			],
+			"extraobjects": [
+				"dares",
+				"deeds"
+			],
 			"heading": [
 				"**Gunslinger**",
 				"**Source** [Ultimate Combat pg. 9](source:Ultimate Combat)",
