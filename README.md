@@ -12,34 +12,34 @@
   * ~~druid companions, domains, herbalism~~
   * _EIDOLON and UC base forms
   * ~~fighter weapon groups (?)~~
-  * gunslinger dares and deeds
-  * hunter animal focus
+  * ~~gunslinger dares and deeds~~
+  * ~~hunter animal focus~~
   * ~~inquisitions~~
-  * investigator talents, annointments
+  * investigator ~~talents,~~ annointments
   * kineticist ~~talents~~, elements
-  * magus acana (?)
+  * ~~magus acana (?)~~
   * mesmerist stares, tricks
   * ~~medium spririts~~
-  * monk and UC ki powers, vows, style strikes
-  * ninja tricks
+  * ~~monk and UC ki powers, vows, style strikes~~
+  * ~~ninja tricks~~
   * occultist implements
-  * oracle mysteries, curses
+  * oracle mysteries, ~~curses~~
   * paladin oaths, divine bonds, mercies
   * psychic phrenic amps, disciplines
   * ~~ranger combat styles~~
-  * rogue and UC talents, skill unlocks
+  * ~~rogue and UC talents, skill unlocks~~
   * ~~samurai~~
   * shaman hexes, spirits
   * shifter aspects
   * skald sagas, rage powers (barb), advanced versatile performances (bard)
-  * slayer talents
+  * ~~slayer talents~~
   * sorcerer bloodlines, wildbloods
   * summoner and UC evolutions
-  * swashbuckler deeds
-  * vigilante talents
+  * ~~swashbuckler deeds~~
+  * ~~vigilante talents~~
   * warpriest blessings
-  * witch unique patrons
-  * wizard arcane discoveries, familiars, schools
+  * witch hexes, patrons, unique patrons
+  * wizard ~~arcane discoveries, familiars,~~ schools
   * PHANTOM focuses
 * Archetypes (under classes)
 * Races
