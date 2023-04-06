@@ -19,7 +19,7 @@
   * kineticist ~~talents~~, elements
   * ~~magus acana (?)~~
   * mesmerist stares, tricks
-  * ~~medium spririts~~
+  * medium spririts - reformat
   * ~~monk and UC ki powers, vows, style strikes~~
   * ~~ninja tricks~~
   * occultist implements
