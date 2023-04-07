@@ -31,7 +31,7 @@
   * ~~samurai~~
   * shaman hexes, spirits
   * shifter aspects
-  * skald sagas, rage powers (barb), advanced versatile performances (bard)
+  * skald ~~sagas, rage powers (barb), masterpieces,~~ advanced versatile performances (bard)
   * ~~slayer talents~~
   * sorcerer bloodlines, wildbloods
   * summoner and UC evolutions
