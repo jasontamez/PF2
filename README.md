@@ -2,8 +2,8 @@
 
 * equipment/vehicles need to be parsed
 * class files needing parsing:
-  * alchemist (?)
-  * arcanist exploits (?)
+  * ~~alchemist (?)~~
+  * ~~arcanist exploits (?)~~
   * ~~barbarian and UC rage powers~~
   * ~~_bard masterpieces, advanced versatile performances~~
   * ~~bloodrager bloodlines~~
@@ -19,7 +19,7 @@
   * kineticist ~~talents~~, elements
   * ~~magus acana (?)~~
   * mesmerist stares, tricks
-  * medium spririts - reformat
+  * ~~medium spririts - reformat~~
   * ~~monk and UC ki powers, vows, style strikes~~
   * ~~ninja tricks~~
   * occultist implements
