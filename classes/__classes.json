@@ -26282,70 +26282,198 @@
 				]
 			},
 			"dares": {
-				"description": ["Dares are similar to deeds in that they grant a gunslinger or a swashbuckler extra abilities based on either grit or panache, but unlike deeds, dares become active when a member of these classes runs out of her respective pool, and become inactive when the character regains points of their respective pool. They grant the character a benefit and a new ability to regain or increase the ability to regain either grit or panache.",
-				"A dare can be taken in place of one of the bonus feats a gunslinger or a swashbuckler gains at 4th level and every 4 levels thereafter. A gunslinger or a swashbuckler can choose to have multiple dares, but can only pick one to be active each time she reaches 0 grit or panache points. Once chosen, the active dare cannot be changed until the gunslinger or swashbuckler reaches 0 grit or panache points again."],
-				"list": [{
-				"dare_name": "Desperate Evasion", "type_only": "Ex", "sources": [ "Advanced Class Guide" ], "description": "While this dare is active, you gain the evasion class feature. If you already have this class feature, while this dare is active you roll twice when making a Reflex saving throw and take the higher result. You regain 1 grit or panache point when you succeed at two Reflex saving throws while using this dare."
-				},{
-				"dare_name": "Frantically Nimble", "type_only": "Ex", "sources": [ "Advanced Class Guide" ], "description": "While this dare is active, you gain a +2 dodge bonus to AC. You regain 1 grit or panache point when any enemy making a ranged or melee attack against you misses you three consecutive times. The attacks need not come from the same enemy."
-				},{
-				"dare_name": "Out for Blood", "type_only": "Ex", "sources": [ "Advanced Class Guide" ], "description": "While this dare is active, your critical threat range with firearms (for gunslingers) or light or onehanded piercing melee weapons (for swashbucklers) increases by 1 (20/x4 becomes 19-20/x4, 19-20/x2 becomes 18-20/x2, and so on). This effect does not stack with similar effects that modify a weapon's critical threat range."
-				},{
-				"dare_name": "Run Like Hell", "type_only": "Ex", "sources": [ "Advanced Class Guide" ], "description": "While this dare is active, your speed increases by 10 feet, and you retain your Dexterity bonus to your AC while running. You regain 1 grit or panache point the first time you are more than 100 feet away from your closest enemy."}
+				"description": [
+					"Dares are similar to deeds in that they grant a gunslinger or a swashbuckler extra abilities based on either grit or panache, but unlike deeds, dares become active when a member of these classes runs out of her respective pool, and become inactive when the character regains points of their respective pool. They grant the character a benefit and a new ability to regain or increase the ability to regain either grit or panache.",
+					"A dare can be taken in place of one of the bonus feats a gunslinger or a swashbuckler gains at 4th level and every 4 levels thereafter. A gunslinger or a swashbuckler can choose to have multiple dares, but can only pick one to be active each time she reaches 0 grit or panache points. Once chosen, the active dare cannot be changed until the gunslinger or swashbuckler reaches 0 grit or panache points again."
+				],
+				"list": [
+					{
+						"dare_name": "Desperate Evasion",
+						"type_only": "Ex",
+						"sources": [ "Advanced Class Guide" ],
+						"description": "While this dare is active, you gain the evasion class feature. If you already have this class feature, while this dare is active you roll twice when making a Reflex saving throw and take the higher result. You regain 1 grit or panache point when you succeed at two Reflex saving throws while using this dare."
+					},
+					{
+						"dare_name": "Frantically Nimble",
+						"type_only": "Ex",
+						"sources": [ "Advanced Class Guide" ],
+						"description": "While this dare is active, you gain a +2 dodge bonus to AC. You regain 1 grit or panache point when any enemy making a ranged or melee attack against you misses you three consecutive times. The attacks need not come from the same enemy."
+					},
+					{
+						"dare_name": "Out for Blood",
+						"type_only": "Ex",
+						"sources": [ "Advanced Class Guide" ],
+						"description": "While this dare is active, your critical threat range with firearms (for gunslingers) or light or onehanded piercing melee weapons (for swashbucklers) increases by 1 (20/x4 becomes 19-20/x4, 19-20/x2 becomes 18-20/x2, and so on). This effect does not stack with similar effects that modify a weapon's critical threat range."
+					},
+					{
+						"dare_name": "Run Like Hell",
+						"type_only": "Ex",
+						"sources": [ "Advanced Class Guide" ],
+						"description": "While this dare is active, your speed increases by 10 feet, and you retain your Dexterity bonus to your AC while running. You regain 1 grit or panache point the first time you are more than 100 feet away from your closest enemy."
+					}
 				]
 			},
 			"deeds": {
 				"description": "Gunslingers spend grit points to accomplish deeds. Most deeds grant the gunslinger some momentary bonus or effect, but there are some that provide longer-lasting effects. Some deeds stay in effect as long as the gunslinger has at least 1 grit point. The following is the list of base gunslinger deeds. A gunslinger can only perform deeds of her level or lower. Unless otherwise noted, a deed can be performed multiple successive times, as long as the appropriate amount of grit is spent to perform the deed.",
 				"list": [{
-				"deed_name": "Deadeye", "type_only": "Ex", "sources": [ "Ultimate Combat" ], "level": 1, "description": "At 1st level, the gunslinger can resolve an attack against touch AC instead of normal AC when firing beyond her firearm's first range increment. Performing this deed costs 1 grit point per range increment beyond the first. The gunslinger still takes the -2 penalty on attack rolls for each range increment beyond the first when she performs this deed."
-				},{
-				"deed_name": "Gunslinger's Dodge", "type_only": "Ex", "sources": [ "Ultimate Combat" ], "level": 1, "description": "At 1st level, the gunslinger gains an uncanny knack for getting out of the way of ranged attacks. When a ranged attack is made against the gunslinger, she can spend 1 grit point to move 5 feet as an immediate action; doing so grants the gunslinger a +2 bonus to AC against the triggering attack. This movement is not a 5-foot step, and provokes attacks of opportunity. Alternatively, the gunslinger can drop prone to gain a +4 bonus to AC against the triggering attack. The gunslinger can only perform this deed while wearing medium or light armor, and while carrying no more than a light load."
-				},{
-				"deed_name": "Quick Clear", "type_only": "Ex", "sources": [ "Ultimate Combat" ], "level": 1, "description": "At 1st level, as a standard action, the gunslinger can remove the broken condition from a single firearm she is currently wielding, as long as that condition was gained by a firearm misfire. The gunslinger must have at least 1 grit point to perform this deed. Alternatively, if the gunslinger spends 1 grit point to perform this deed, she can perform quick clear as a move-equivalent action instead of a standard action."}
-				,
-				{
-				"deed_name": "Gunslinger Initiative", "type_only": "Ex", "sources": [ "Ultimate Combat" ], "level": 3, "description": "At 3rd level, as long as the gunslinger has at least 1 grit point, she gains the following benefits. First, she gains a +2 bonus on initiative checks. Furthermore, if she has the Quick Draw feat, her hands are free and unrestrained, and the firearm is not hidden, she can draw a single firearm as part of the initiative check."
-				},{
-				"deed_name": "Pistol-Whip", "type_only": "Ex", "sources": [ "Ultimate Combat" ], "level": 3, "description": "At 3rd level, the gunslinger can make a surprise melee attack with the butt or handle of her firearm as a standard action. When she does, she is considered to be proficient with the firearm as a melee weapon and gains a bonus on the attack and damage rolls equal to the enhancement bonus of the firearm. The damage dealt by the pistol-whip is of the bludgeoning type, and is determined by the size of the firearm. One-handed firearms deal 1d6 points of damage (1d4 if wielded by Small creatures) and two-handed firearms deal 1d10 points of damage (1d8 if wielded by Small creatures). Regardless of the gunslinger's size, the critical multiplier of this attack is 20/??2. If the attack hits, the gunslinger can make a combat maneuver check to knock the target prone as a free action. Performing this deed costs 1 grit point."
-				},{
-				"deed_name": "Utility Shot", "type_only": "Ex", "sources": [ "Ultimate Combat" ], "level": 3, "description": ["At 3rd level, if the gunslinger has at least 1 grit point, she can perform all of the following utility shots. Each utility shot can be applied to any single attack with a firearm, but the gunslinger must declare the utility shot she is using before firing the shot.", "*  Blast Lock: The gunslinger makes an attack roll against a lock within the first range increment of her firearm. A Diminutive lock usually has AC 7, and larger locks have a lower AC. The lock gains a bonus to its AC against this attack based on its quality. A simple lock has a +10 bonus to AC, an average lock has a +15 bonus to AC, a good lock has a +20 bonus to AC, and a superior lock has a +30 bonus to AC. Arcane lock grants a +10 bonus to the AC of a lock against this attack. On a hit, the lock is destroyed, and the object can be opened as if it were unlocked. On a miss, the lock is destroyed, but the object is jammed and still considered locked. It can still be unlocked by successfully performing this deed, by using the Disable Device skill, or with the break DC, though the DC for either break or Disable Device or the AC increases by 10. A key, combination, or similar mechanical method of unlocking the lock no longer works, though knock can still be employed to bypass the lock, and the creator of an arcane lock can still bypass the wards of that spell.", "* Scoot Unattended Object: The gunslinger makes an attack roll against a Tiny or smaller unattended object within the first range increment of her firearm. A Tiny unattended object has an AC of 5, a Diminutive unattended object has an AC of 7, and a Fine unattended object has an AC of 11. On a hit, the gunslinger does not damage the object with the shot, but can move it up to 15 feet farther away from the shot's origin. On a miss, she damages the object normally.", "* Stop Bleeding: The gunslinger makes a firearm attack and then presses the hot barrel against herself or an adjacent creature to staunch a bleeding wound. Instead of dealing damage, the shot ends a single bleed condition affecting the creature. The gunslinger does not have to make an attack roll when performing the deed in this way; she can instead shoot the firearm into the air, but that shot still uses up ammunition normally."]}
-				,
-				{
-				"deed_name": "Dead Shot", "type_only": "Ex", "sources": [ "Ultimate Combat" ], "level": 7, "description": "At 7th level, as a full-round action, the gunslinger can take careful aim and pool all of her attack potential into a single, deadly shot. When she does this, she shoots the firearm at a single target, but makes as many attack rolls as she can, based on her base attack bonus. She makes the attack rolls in order from highest bonus to lowest, as if she were making a full attack. If any of the attack rolls hit the target, the gunslinger's single attack is considered to have hit. For each additional successful attack roll beyond the first, the gunslinger increases the damage of the shot by the base damage dice of the firearm. For instance, if a 7th-level gunslinger firing a musket hits with both attacks, she does 2d12 points of damage with the shot, instead of 1d12 points of damage, before adding any damage modifiers. Precision damage and extra damage from weapon special abilities (such as flaming) are added with damage modifiers and are not increased by this deed. If one or more rolls are critical threats, she confirms the critical once using her highest base attack bonus -5. For each critical threat beyond the first, she reduces this penalty by 1 (to a maximum of 0). The gunslinger only misfires on a dead shot if all the attack rolls are misfires. She cannot perform this deed with a blunderbuss or other scatter weapon when attacking creatures in a cone. The gunslinger must spend 1 grit point to perform this deed."
-				},{
-				"deed_name": "Startling Shot", "type_only": "Ex", "sources": [ "Ultimate Combat" ], "level": 7, "description": "At 7th level, a gunslinger with least 1 grit point can spend a standard action to purposely miss a creature that she could normally hit with a firearm attack. When she does, that creature becomes flat-footed until the start of its next turn."
-				},{
-				"deed_name": "Targeting", "type_only": "Ex", "sources": [ "Ultimate Combat" ], "level": 7, "description": ["At 7th level, as a full-round action, the gunslinger can make a single firearm attack and choose part of the body to target. She gains the following effects depending on the part of the body targeted. If a creature does not have one of the listed body locations, that part cannot be targeted. This deed costs 1 grit point to perform no matter which part of the creature she targets. Creatures that are immune to sneak attacks are immune to these effects.", "*  Arms: On a hit, the target takes no damage from the hit but drops one carried item of the gunslinger's choice, even if the item is wielded with two hands. Items held in a locked gauntlet are not dropped on a hit.", "* Head: On a hit, the target is damaged normally, and is also confused for 1 round. This is a mind-affecting effect.", "* Legs: On a hit, the target is damaged normally and knocked prone. Creatures that have four or more legs or that are immune to trip attacks are immune to this effect.", "* Torso: Targeting the torso threatens a critical on a 19-20.", "* Wings: On a hit, the target is damaged normally, and must make a DC 20 Fly check or fall 20 ft."]}
-				,
-				{
-				"deed_name": "Bleeding Wound", "type_only": "Ex", "sources": [ "Ultimate Combat" ], "level": 11, "description": "At 11th level, when the gunslinger hits a living creature with a firearm attack, she can spend 1 grit point as a free action to have that attack deal extra bleed damage. The amount of bleed damage is equal to the gunslinger's Dexterity modifier. Alternatively, the gunslinger can spend 2 grit points to deal 1 point of Strength, Dexterity, or Constitution bleed damage (gunslinger's choice) instead. Creatures that are immune to sneak attacks are also immune to these types of bleed damage."
-				},{
-				"deed_name": "Expert Loading", "type_only": "Ex", "sources": [ "Ultimate Combat" ], "level": 11, "description": "At 11th level, whenever the gunslinger rolls a misfire with a gun that has the broken condition, she can spend 1 grit point to keep the gun from exploding, though it retains the broken condition."
-				},{
-				"deed_name": "Lightning Reload", "type_only": "Ex", "sources": [ "Ultimate Combat" ], "level": 11, "description": "At 11th level, as long as the gunslinger has at least 1 grit point, she can reload a single barrel of a one-handed or two-handed firearm as a swift action once per round. If she has the Rapid Reload feat or is using an alchemical cartridge (or both), she can reload a single barrel of the weapon as a free action each round instead. Furthermore, using this deed does not provoke attacks of opportunity."}
-				,
-				{
-				"deed_name": "Evasive", "type_only": "Ex", "sources": [ "Ultimate Combat" ], "level": 15, "description": "At 15th level, when the gunslinger has at least 1 grit point, she gains the benefit of the evasion, uncanny dodge, and improved uncanny dodge rogue class features. She uses her gunslinger level as her rogue level for improved uncanny dodge."
-				},{
-				"deed_name": "Menacing Shot", "type_only": "Ex", "sources": [ "Ultimate Combat" ], "level": 15, "description": "At 15th level, the gunslinger can spend 1 grit point, shoot a firearm into the air, and affect all living creatures within a 30-foot-radius burst as if they were subject to the fear spell. The DC of this effect is equal to 10 + 1/2 the gunslinger's level + the gunslinger's Wisdom modifier."
-				},{
-				"deed_name": "Slinger's Luck", "type_only": "Ex", "sources": [ "Ultimate Combat" ], "level": 15, "description": "At 15th level, the gunslinger can spend grit to reroll a saving throw or a skill check. It costs 2 grit points to reroll a saving throw, and 1 grit point to reroll a skill check. The gunslinger must take the result of the second roll, even if it is lower. The deed's cost cannot be reduced by the true grit class ability, the Signature Deed feat, or any other effect that reduces the amount of grit a deed costs."}
-				,
-				{
-				"deed_name": "Cheat Death", "type_only": "Ex", "sources": [ "Ultimate Combat" ], "level": 19, "description": "At 19th level, whenever the gunslinger is reduced to 0 or fewer hit points, she can spend all of her remaining grit points (minimum 1) to instead be reduced to 1 hit point."
-				},{
-				"deed_name": "Death's Shot", "type_only": "Ex", "sources": [ "Ultimate Combat" ], "level": 19, "description": "At 19th level, when the gunslinger scores a critical hit, she can spend 1 grit point to deal normal damage, and the target must succeed at a Fortitude saving throw with a DC equal to 10 + 1/2 the gunslinger's level + the gunslinger's Dexterity modifier. On a failed saving throw, the target dies. This is a death attack. Performing this deed does not allow the gunslinger to regain grit from confirming a critical hit or making a killing blow."
-				},{
-				"deed_name": "Stunning Shot", "type_only": "Ex", "sources": [ "Ultimate Combat" ], "level": 19, "description": "At 19th level, when a gunslinger hits a creature, she can spend 2 grit points to stun the creature for 1 round. The creature must make a Fortitude saving throw (the DC = 10 + 1/2 the gunslinger's level + the gunslinger's Wisdom modifier). If the creature fails, it is stunned for 1 round. Creatures that are immune to critical hits are also immune to this effect."}]
+						"deed_name": "Deadeye",
+						"type_only": "Ex",
+						"sources": [ "Ultimate Combat" ],
+						"level": 1,
+						"description": "At 1st level, the gunslinger can resolve an attack against touch AC instead of normal AC when firing beyond her firearm's first range increment. Performing this deed costs 1 grit point per range increment beyond the first. The gunslinger still takes the -2 penalty on attack rolls for each range increment beyond the first when she performs this deed."
+					},
+					{
+						"deed_name": "Gunslinger's Dodge",
+						"type_only": "Ex",
+						"sources": [ "Ultimate Combat" ],
+						"level": 1,
+						"description": "At 1st level, the gunslinger gains an uncanny knack for getting out of the way of ranged attacks. When a ranged attack is made against the gunslinger, she can spend 1 grit point to move 5 feet as an immediate action; doing so grants the gunslinger a +2 bonus to AC against the triggering attack. This movement is not a 5-foot step, and provokes attacks of opportunity. Alternatively, the gunslinger can drop prone to gain a +4 bonus to AC against the triggering attack. The gunslinger can only perform this deed while wearing medium or light armor, and while carrying no more than a light load."
+					},
+					{
+						"deed_name": "Quick Clear",
+						"type_only": "Ex",
+						"sources": [ "Ultimate Combat" ],
+						"level": 1,
+						"description": "At 1st level, as a standard action, the gunslinger can remove the broken condition from a single firearm she is currently wielding, as long as that condition was gained by a firearm misfire. The gunslinger must have at least 1 grit point to perform this deed. Alternatively, if the gunslinger spends 1 grit point to perform this deed, she can perform quick clear as a move-equivalent action instead of a standard action."
+					},
+					{
+						"deed_name": "Gunslinger Initiative",
+						"type_only": "Ex",
+						"sources": [ "Ultimate Combat" ],
+						"level": 3,
+						"description": "At 3rd level, as long as the gunslinger has at least 1 grit point, she gains the following benefits. First, she gains a +2 bonus on initiative checks. Furthermore, if she has the Quick Draw feat, her hands are free and unrestrained, and the firearm is not hidden, she can draw a single firearm as part of the initiative check."
+					},
+					{
+						"deed_name": "Pistol-Whip",
+						"type_only": "Ex",
+						"sources": [ "Ultimate Combat" ],
+						"level": 3,
+						"description": "At 3rd level, the gunslinger can make a surprise melee attack with the butt or handle of her firearm as a standard action. When she does, she is considered to be proficient with the firearm as a melee weapon and gains a bonus on the attack and damage rolls equal to the enhancement bonus of the firearm. The damage dealt by the pistol-whip is of the bludgeoning type, and is determined by the size of the firearm. One-handed firearms deal 1d6 points of damage (1d4 if wielded by Small creatures) and two-handed firearms deal 1d10 points of damage (1d8 if wielded by Small creatures). Regardless of the gunslinger's size, the critical multiplier of this attack is 20/??2. If the attack hits, the gunslinger can make a combat maneuver check to knock the target prone as a free action. Performing this deed costs 1 grit point."
+					},
+					{
+						"deed_name": "Utility Shot",
+						"type_only": "Ex",
+						"sources": [ "Ultimate Combat" ],
+						"level": 3,
+						"description": [
+							"At 3rd level, if the gunslinger has at least 1 grit point, she can perform all of the following utility shots. Each utility shot can be applied to any single attack with a firearm, but the gunslinger must declare the utility shot she is using before firing the shot.", "*  Blast Lock: The gunslinger makes an attack roll against a lock within the first range increment of her firearm. A Diminutive lock usually has AC 7, and larger locks have a lower AC. The lock gains a bonus to its AC against this attack based on its quality. A simple lock has a +10 bonus to AC, an average lock has a +15 bonus to AC, a good lock has a +20 bonus to AC, and a superior lock has a +30 bonus to AC. Arcane lock grants a +10 bonus to the AC of a lock against this attack. On a hit, the lock is destroyed, and the object can be opened as if it were unlocked. On a miss, the lock is destroyed, but the object is jammed and still considered locked. It can still be unlocked by successfully performing this deed, by using the Disable Device skill, or with the break DC, though the DC for either break or Disable Device or the AC increases by 10. A key, combination, or similar mechanical method of unlocking the lock no longer works, though knock can still be employed to bypass the lock, and the creator of an arcane lock can still bypass the wards of that spell.", "* Scoot Unattended Object: The gunslinger makes an attack roll against a Tiny or smaller unattended object within the first range increment of her firearm. A Tiny unattended object has an AC of 5, a Diminutive unattended object has an AC of 7, and a Fine unattended object has an AC of 11. On a hit, the gunslinger does not damage the object with the shot, but can move it up to 15 feet farther away from the shot's origin. On a miss, she damages the object normally.", "* Stop Bleeding: The gunslinger makes a firearm attack and then presses the hot barrel against herself or an adjacent creature to staunch a bleeding wound. Instead of dealing damage, the shot ends a single bleed condition affecting the creature. The gunslinger does not have to make an attack roll when performing the deed in this way; she can instead shoot the firearm into the air, but that shot still uses up ammunition normally."
+						]
+					
+					},
+					{
+						"deed_name": "Dead Shot",
+						"type_only": "Ex",
+						"sources": [ "Ultimate Combat" ],
+						"level": 7,
+						"description": "At 7th level, as a full-round action, the gunslinger can take careful aim and pool all of her attack potential into a single, deadly shot. When she does this, she shoots the firearm at a single target, but makes as many attack rolls as she can, based on her base attack bonus. She makes the attack rolls in order from highest bonus to lowest, as if she were making a full attack. If any of the attack rolls hit the target, the gunslinger's single attack is considered to have hit. For each additional successful attack roll beyond the first, the gunslinger increases the damage of the shot by the base damage dice of the firearm. For instance, if a 7th-level gunslinger firing a musket hits with both attacks, she does 2d12 points of damage with the shot, instead of 1d12 points of damage, before adding any damage modifiers. Precision damage and extra damage from weapon special abilities (such as flaming) are added with damage modifiers and are not increased by this deed. If one or more rolls are critical threats, she confirms the critical once using her highest base attack bonus -5. For each critical threat beyond the first, she reduces this penalty by 1 (to a maximum of 0). The gunslinger only misfires on a dead shot if all the attack rolls are misfires. She cannot perform this deed with a blunderbuss or other scatter weapon when attacking creatures in a cone. The gunslinger must spend 1 grit point to perform this deed."
+					},
+					{
+						"deed_name": "Startling Shot",
+						"type_only": "Ex",
+						"sources": [ "Ultimate Combat" ],
+						"level": 7,
+						"description": "At 7th level, a gunslinger with least 1 grit point can spend a standard action to purposely miss a creature that she could normally hit with a firearm attack. When she does, that creature becomes flat-footed until the start of its next turn."
+					},
+					{
+						"deed_name": "Targeting",
+						"type_only": "Ex",
+						"sources": [ "Ultimate Combat" ],
+						"level": 7,
+						"description": ["At 7th level, as a full-round action, the gunslinger can make a single firearm attack and choose part of the body to target. She gains the following effects depending on the part of the body targeted. If a creature does not have one of the listed body locations, that part cannot be targeted. This deed costs 1 grit point to perform no matter which part of the creature she targets. Creatures that are immune to sneak attacks are immune to these effects.", "*  Arms: On a hit, the target takes no damage from the hit but drops one carried item of the gunslinger's choice, even if the item is wielded with two hands. Items held in a locked gauntlet are not dropped on a hit.", "* Head: On a hit, the target is damaged normally, and is also confused for 1 round. This is a mind-affecting effect.", "* Legs: On a hit, the target is damaged normally and knocked prone. Creatures that have four or more legs or that are immune to trip attacks are immune to this effect.", "* Torso: Targeting the torso threatens a critical on a 19-20.", "* Wings: On a hit, the target is damaged normally, and must make a DC 20 Fly check or fall 20 ft."]
+					},
+					{
+						"deed_name": "Bleeding Wound",
+						"type_only": "Ex",
+						"sources": [ "Ultimate Combat" ],
+						"level": 11,
+						"description": "At 11th level, when the gunslinger hits a living creature with a firearm attack, she can spend 1 grit point as a free action to have that attack deal extra bleed damage. The amount of bleed damage is equal to the gunslinger's Dexterity modifier. Alternatively, the gunslinger can spend 2 grit points to deal 1 point of Strength, Dexterity, or Constitution bleed damage (gunslinger's choice) instead. Creatures that are immune to sneak attacks are also immune to these types of bleed damage."
+					},
+					{
+						"deed_name": "Expert Loading",
+						"type_only": "Ex",
+						"sources": [ "Ultimate Combat" ],
+						"level": 11,
+						"description": "At 11th level, whenever the gunslinger rolls a misfire with a gun that has the broken condition, she can spend 1 grit point to keep the gun from exploding, though it retains the broken condition."
+					},
+					{
+						"deed_name": "Lightning Reload",
+						"type_only": "Ex",
+						"sources": [ "Ultimate Combat" ],
+						"level": 11,
+						"description": "At 11th level, as long as the gunslinger has at least 1 grit point, she can reload a single barrel of a one-handed or two-handed firearm as a swift action once per round. If she has the Rapid Reload feat or is using an alchemical cartridge (or both), she can reload a single barrel of the weapon as a free action each round instead. Furthermore, using this deed does not provoke attacks of opportunity."
+					},
+					{
+						"deed_name": "Evasive",
+						"type_only": "Ex",
+						"sources": [ "Ultimate Combat" ],
+						"level": 15,
+						"description": "At 15th level, when the gunslinger has at least 1 grit point, she gains the benefit of the evasion, uncanny dodge, and improved uncanny dodge rogue class features. She uses her gunslinger level as her rogue level for improved uncanny dodge."
+					},
+					{
+						"deed_name": "Menacing Shot",
+						"type_only": "Ex",
+						"sources": [ "Ultimate Combat" ],
+						"level": 15,
+						"description": "At 15th level, the gunslinger can spend 1 grit point, shoot a firearm into the air, and affect all living creatures within a 30-foot-radius burst as if they were subject to the fear spell. The DC of this effect is equal to 10 + 1/2 the gunslinger's level + the gunslinger's Wisdom modifier."
+					},
+					{
+						"deed_name": "Slinger's Luck",
+						"type_only": "Ex",
+						"sources": [ "Ultimate Combat" ],
+						"level": 15,
+						"description": "At 15th level, the gunslinger can spend grit to reroll a saving throw or a skill check. It costs 2 grit points to reroll a saving throw, and 1 grit point to reroll a skill check. The gunslinger must take the result of the second roll, even if it is lower. The deed's cost cannot be reduced by the true grit class ability, the Signature Deed feat, or any other effect that reduces the amount of grit a deed costs."
+					},
+					{
+						"deed_name": "Cheat Death",
+						"type_only": "Ex",
+						"sources": [ "Ultimate Combat" ],
+						"level": 19,
+						"description": "At 19th level, whenever the gunslinger is reduced to 0 or fewer hit points, she can spend all of her remaining grit points (minimum 1) to instead be reduced to 1 hit point."
+					},
+					{
+						"deed_name": "Death's Shot",
+						"type_only": "Ex",
+						"sources": [ "Ultimate Combat" ],
+						"level": 19,
+						"description": "At 19th level, when the gunslinger scores a critical hit, she can spend 1 grit point to deal normal damage, and the target must succeed at a Fortitude saving throw with a DC equal to 10 + 1/2 the gunslinger's level + the gunslinger's Dexterity modifier. On a failed saving throw, the target dies. This is a death attack. Performing this deed does not allow the gunslinger to regain grit from confirming a critical hit or making a killing blow."
+					},
+					{
+						"deed_name": "Stunning Shot",
+						"type_only": "Ex",
+						"sources": [ "Ultimate Combat" ],
+						"level": 19,
+						"description": "At 19th level, when a gunslinger hits a creature, she can spend 2 grit points to stun the creature for 1 round. The creature must make a Fortitude saving throw (the DC = 10 + 1/2 the gunslinger's level + the gunslinger's Wisdom modifier). If the creature fails, it is stunned for 1 round. Creatures that are immune to critical hits are also immune to this effect."
+					}
+				]
 			},
 			"renowned_deeds": {
 				"description": "Swashbucklers and gunslingers perform impressive deeds through their grit and panache, but some are capable of truly spectacular acts known as renowned deeds. A swashbuckler or gunslinger (though not members of other classes) can select a renowned deed for her class upon reaching the class level listed in the deed's description. This replaces the specific listed deed or deeds; if the character would not gain the appropriate deeds, she cannot select the renowned deed, as if selecting an archetype.",
-				"list": [{
-				"deed_name": "Thundering Shot", "type_only": "Ex", "sources": [ "Chronicle of Legends" ], "level": 1, "description": "The gunslinger's shots explode with deafening reports. At 1st level, as a standard action the gunslinger can spend 1 point of grit and make a single ranged attack with a firearm. All creatures in a 15-foot cone, starting at the corner of the gunslinger's square closest to the target and extending directly toward the target, must succeed at a Fortitude save (DC = 10 + half the gunslinger's class level + the gunslinger's Wisdom modifier) or be deafened for 1 minute. This deed replaces the gunslinger's dodge deed and one other 1st-level deed.", "replaces": "dodge"
-				},{
-				"deed_name": "Gruesome Parry", "type_only": "Ex", "sources": [ "Chronicle of Legends" ], "level": 7, "description": "Some gunslingers wield guns and blades in concert, readying a shot to unbalance attackers and then eviscerating their assailants. At 7th level, the gunslinger can spend 1 grit point when she readies an action to make a ranged attack with a firearm against a creature that declares a melee attack against her. If she does, the readied ranged attack does not provoke attacks of opportunity. If this readied attack hits, she gains a +4 dodge bonus to AC against the triggering attack, and she can make a single melee attack with a slashing or piercing weapon against the creature that attacked her; if this melee attack hits, it is considered to be a critical threat. This deed replaces the dead shot deed and one other 7th-level deed.", "replaces": "dead shot"
-				},{
-				"deed_name": "Lethal Patience", "type_only": "Ex", "sources": [ "Chronicle of Legends" ], "level": 15, "description": "While wild flurries of bullets are certainly effective at felling foes, veteran gunslingers appreciate the value of lining up the perfect shot. At 15th level, the gunslinger can spend 1 grit point to line up a shot against a target as a full-round action. On her next turn, she can make an attack against the target as a standard action, and if the attack hits, the attack is treated as a critical threat. This deed replaces the slinger's luck deed and one other 15th-level deed.", "replaces": "luck"}]
+				"list": [
+					{
+						"deed_name": "Thundering Shot",
+						"type_only": "Ex",
+						"sources": [ "Chronicle of Legends" ],
+						"level": 1,
+						"description": "The gunslinger's shots explode with deafening reports. At 1st level, as a standard action the gunslinger can spend 1 point of grit and make a single ranged attack with a firearm. All creatures in a 15-foot cone, starting at the corner of the gunslinger's square closest to the target and extending directly toward the target, must succeed at a Fortitude save (DC = 10 + half the gunslinger's class level + the gunslinger's Wisdom modifier) or be deafened for 1 minute. This deed replaces the gunslinger's dodge deed and one other 1st-level deed.",
+						"replaces": "dodge"
+					},
+					{
+						"deed_name": "Gruesome Parry",
+						"type_only": "Ex",
+						"sources": [ "Chronicle of Legends" ],
+						"level": 7,
+						"description": "Some gunslingers wield guns and blades in concert, readying a shot to unbalance attackers and then eviscerating their assailants. At 7th level, the gunslinger can spend 1 grit point when she readies an action to make a ranged attack with a firearm against a creature that declares a melee attack against her. If she does, the readied ranged attack does not provoke attacks of opportunity. If this readied attack hits, she gains a +4 dodge bonus to AC against the triggering attack, and she can make a single melee attack with a slashing or piercing weapon against the creature that attacked her; if this melee attack hits, it is considered to be a critical threat. This deed replaces the dead shot deed and one other 7th-level deed.",
+						"replaces": "dead shot"
+					},
+					{
+						"deed_name": "Lethal Patience",
+						"type_only": "Ex",
+						"sources": [ "Chronicle of Legends" ],
+						"level": 15,
+						"description": "While wild flurries of bullets are certainly effective at felling foes, veteran gunslingers appreciate the value of lining up the perfect shot. At 15th level, the gunslinger can spend 1 grit point to line up a shot against a target as a full-round action. On her next turn, she can make an attack against the target as a standard action, and if the attack hits, the attack is treated as a critical threat. This deed replaces the slinger's luck deed and one other 15th-level deed.",
+						"replaces": "luck"
+					}
+				]
 			}
 		},
 		"hunter": {
@@ -26622,256 +26750,496 @@
 			},
 			"animal_foci": [
 				{
-					"focus_name": "Bat", "sources": [ "Advanced Class Guide" ], "description": "The creature gains darkvision to a range of 60 feet. At 8th level, the range increases by 30 feet. At 15th level, the creature also gains blindsense to a range of 10 feet."
+					"focus_name": "Bat",
+					"sources": [ "Advanced Class Guide" ],
+					"description": "The creature gains darkvision to a range of 60 feet. At 8th level, the range increases by 30 feet. At 15th level, the creature also gains blindsense to a range of 10 feet."
 				},
 				{
-					"focus_name": "Bear", "sources": [ "Advanced Class Guide" ], "description": "The creature gains a +2 enhancement bonus to Constitution. This bonus increases to +4 at 8th level and +6 at 15th level."
+					"focus_name": "Bear",
+					"sources": [ "Advanced Class Guide" ],
+					"description": "The creature gains a +2 enhancement bonus to Constitution. This bonus increases to +4 at 8th level and +6 at 15th level."
 				},
 				{
-					"focus_name": "Bull", "sources": [ "Advanced Class Guide" ], "description": "The creature gains a +2 enhancement bonus to Strength. This bonus increases to +4 at 8th level and +6 at 15th level."
+					"focus_name": "Bull",
+					"sources": [ "Advanced Class Guide" ],
+					"description": "The creature gains a +2 enhancement bonus to Strength. This bonus increases to +4 at 8th level and +6 at 15th level."
 				},
 				{
-					"focus_name": "Falcon", "sources": [ "Advanced Class Guide" ], "description": "The creature gains a +4 competence bonus on Perception checks. This bonus increases to +6 at 8th level and +8 at 15th level."
+					"focus_name": "Falcon",
+					"sources": [ "Advanced Class Guide" ],
+					"description": "The creature gains a +4 competence bonus on Perception checks. This bonus increases to +6 at 8th level and +8 at 15th level."
 				},
 				{
-					"focus_name": "Frog", "sources": [ "Advanced Class Guide" ], "description": "The creature gains a +4 competence bonus on Swim checks and on Acrobatics checks to jump. These bonuses increase to +6 at 8th level and +8 at 15th level."
+					"focus_name": "Frog",
+					"sources": [ "Advanced Class Guide" ],
+					"description": "The creature gains a +4 competence bonus on Swim checks and on Acrobatics checks to jump. These bonuses increase to +6 at 8th level and +8 at 15th level."
 				},
 				{
-					"focus_name": "Monkey", "sources": [ "Advanced Class Guide" ], "description": "The creature gains a +4 competence bonus on Climb checks. This bonus increases to +6 at 8th level and +8 at 15th level."
+					"focus_name": "Monkey",
+					"sources": [ "Advanced Class Guide" ],
+					"description": "The creature gains a +4 competence bonus on Climb checks. This bonus increases to +6 at 8th level and +8 at 15th level."
 				},
 				{
-					"focus_name": "Mouse", "sources": [ "Advanced Class Guide" ], "description": "The creature gains evasion, as the rogue class feature. At 12th level, this increases to improved evasion, as the rogue advanced talent."
+					"focus_name": "Mouse",
+					"sources": [ "Advanced Class Guide" ],
+					"description": "The creature gains evasion, as the rogue class feature. At 12th level, this increases to improved evasion, as the rogue advanced talent."
 				},
 				{
-					"focus_name": "Owl", "sources": [ "Advanced Class Guide" ], "description": "The creature gains a +4 competence bonus on Stealth checks. This bonus increases to +6 at 8th level and +8 at 15th level."
+					"focus_name": "Owl",
+					"sources": [ "Advanced Class Guide" ],
+					"description": "The creature gains a +4 competence bonus on Stealth checks. This bonus increases to +6 at 8th level and +8 at 15th level."
 				},
 				{
-					"focus_name": "Snake", "sources": [ "Advanced Class Guide" ], "description": "The creature gains a +2 bonus on attack rolls when making attacks of opportunity and a +2 dodge bonus to AC against attacks of opportunity. These bonuses increase to +4 at 8th level and +6 at 15th level."
+					"focus_name": "Snake",
+					"sources": [ "Advanced Class Guide" ],
+					"description": "The creature gains a +2 bonus on attack rolls when making attacks of opportunity and a +2 dodge bonus to AC against attacks of opportunity. These bonuses increase to +4 at 8th level and +6 at 15th level."
 				},
 				{
-					"focus_name": "Stag", "sources": [ "Advanced Class Guide" ], "description": "The creature gains a 5-foot enhancement bonus to its base land speed. This bonus increases to 10 feet at 8th level and 20 feet at 15th level."
+					"focus_name": "Stag",
+					"sources": [ "Advanced Class Guide" ],
+					"description": "The creature gains a 5-foot enhancement bonus to its base land speed. This bonus increases to 10 feet at 8th level and 20 feet at 15th level."
 				},
 				{
-					"focus_name": "Tiger", "sources": [ "Advanced Class Guide" ], "description": "The creature gains a +2 enhancement bonus to Dexterity. This bonus increases to +4 at 8th level and +6 at 15th level."
+					"focus_name": "Tiger",
+					"sources": [ "Advanced Class Guide" ],
+					"description": "The creature gains a +2 enhancement bonus to Dexterity. This bonus increases to +4 at 8th level and +6 at 15th level."
 				},
 				{
-					"focus_name": "Wolf", "sources": [ "Advanced Class Guide" ], "description": "The creature gains the scent ability with a range of 10 feet. The range of this sense increases to 20 feet at 8th level and 30 feet at 15th level. The range doubles if the opponent is upwind, and is halved if the opponent is downwind."
+					"focus_name": "Wolf",
+					"sources": [ "Advanced Class Guide" ],
+					"description": "The creature gains the scent ability with a range of 10 feet. The range of this sense increases to 20 feet at 8th level and 30 feet at 15th level. The range doubles if the opponent is upwind, and is halved if the opponent is downwind."
 				},
 				{
-					"focus_name": "Aboleth", "sources": [ "Aquatic Adventures" ], "archetype": "Pelagic Hunter", "description": "The creature gains a +1 morale bonus on saves against divine spells and spell-like abilities. This bonus increases to +2 at 8th level and +3 at 15th level."
+					"focus_name": "Aboleth",
+					"sources": [ "Aquatic Adventures" ],
+					"archetype": "Pelagic Hunter",
+					"description": "The creature gains a +1 morale bonus on saves against divine spells and spell-like abilities. This bonus increases to +2 at 8th level and +3 at 15th level."
 				},
 				{
-					"focus_name": "Ant", "sources": [ "Advanced Class Guide" ], "archetype": "Verminous Hunter", "description": "The creature gains a +2 enhancement bonus to Strength. This bonus increases to +4 at 8th level and +6 at 15th level."
+					"focus_name": "Ant",
+					"sources": [ "Advanced Class Guide" ],
+					"archetype": "Verminous Hunter",
+					"description": "The creature gains a +2 enhancement bonus to Strength. This bonus increases to +4 at 8th level and +6 at 15th level."
 				},
 				{
-					"focus_name": "Assassin Vine", "sources": [ "Ultimate Wilderness" ], "archetype": "Plant Master", "description": "The creature gains a +2 bonus on combat maneuver checks to grapple. This bonus increases to +3 at 8th level and +4 at 15th level."
+					"focus_name": "Assassin Vine",
+					"sources": [ "Ultimate Wilderness" ],
+					"archetype": "Plant Master",
+					"description": "The creature gains a +2 bonus on combat maneuver checks to grapple. This bonus increases to +3 at 8th level and +4 at 15th level."
 				},
 				{
-					"focus_name": "Beaver", "sources": [ "Ultimate Intrigue" ], "archetype": "Courtly Hunter", "description": "The creature gains a +4 competence bonus on Craft checks. This bonus increases to +6 at 8th level and +8 at 15th level."
+					"focus_name": "Beaver",
+					"sources": [ "Ultimate Intrigue" ],
+					"archetype": "Courtly Hunter",
+					"description": "The creature gains a +4 competence bonus on Craft checks. This bonus increases to +6 at 8th level and +8 at 15th level."
 				},
 				{
-					"focus_name": "Bee", "sources": [ "Ultimate Wilderness" ], "archetype": "Scarab Stalker", "description": "The creature gains a +4 competence bonus on Fly checks. This bonus increases to +6 at 8th level and +8 at 15th level."
+					"focus_name": "Bee",
+					"sources": [ "Ultimate Wilderness" ],
+					"archetype": "Scarab Stalker",
+					"description": "The creature gains a +4 competence bonus on Fly checks. This bonus increases to +6 at 8th level and +8 at 15th level."
 				},
 				{
-					"focus_name": "Beetle", "sources": [ "Advanced Class Guide" ], "archetype": "Verminous Hunter", "description": "The creature gains a +2 enhancement bonus to its natural armor bonus. This bonus increases to +4 at 8th level and +6 at 15th level. (A creature without natural armor has an effective natural armor bonus of +0.)"
+					"focus_name": "Beetle",
+					"sources": [ "Advanced Class Guide" ],
+					"archetype": "Verminous Hunter",
+					"description": "The creature gains a +2 enhancement bonus to its natural armor bonus. This bonus increases to +4 at 8th level and +6 at 15th level. (A creature without natural armor has an effective natural armor bonus of +0.)"
 				},
 				{
-					"focus_name": "Brambles", "sources": [ "Ultimate Wilderness" ], "archetype": "Plant Master", "description": "When the creature is hit by an unarmed strike or natural attack, the attacker takes 1 point of piercing damage. This increases to 2 points at 8th level and 3 points at 15th level."
+					"focus_name": "Brambles",
+					"sources": [ "Ultimate Wilderness" ],
+					"archetype": "Plant Master",
+					"description": "When the creature is hit by an unarmed strike or natural attack, the attacker takes 1 point of piercing damage. This increases to 2 points at 8th level and 3 points at 15th level."
 				},
 				{
-					"focus_name": "Cat", "sources": [ "Ultimate Wilderness" ], "archetype": "Scarab Stalker", "description": "The creature gains a +4 competence bonus on Acrobatics checks. This bonus increases to +6 at 8th level and +8 at 15th level."
+					"focus_name": "Cat",
+					"sources": [ "Ultimate Wilderness" ],
+					"archetype": "Scarab Stalker",
+					"description": "The creature gains a +4 competence bonus on Acrobatics checks. This bonus increases to +6 at 8th level and +8 at 15th level."
 				},
 				{
-					"focus_name": "Centipede", "sources": [ "Advanced Class Guide" ], "archetype": "Verminous Hunter", "description": "The creature gains a +2 competence bonus on Climb checks and a +2 bonus to CMD against pull, push, reposition, and trip combat maneuvers. These bonuses increase to +4 at 8th level and +6 at 15th level."
+					"focus_name": "Centipede",
+					"sources": [ "Advanced Class Guide" ],
+					"archetype": "Verminous Hunter",
+					"description": "The creature gains a +2 competence bonus on Climb checks and a +2 bonus to CMD against pull, push, reposition, and trip combat maneuvers. These bonuses increase to +4 at 8th level and +6 at 15th level."
 				},
 				{
-					"focus_name": "Cetus", "sources": [ "Aquatic Adventures" ], "archetype": "Pelagic Hunter", "description": "The creature gains Lunge as a bonus feat. At 12th level, instead of gaining Lunge, the creature increases its reach by 5 feet."
+					"focus_name": "Cetus",
+					"sources": [ "Aquatic Adventures" ],
+					"archetype": "Pelagic Hunter",
+					"description": "The creature gains Lunge as a bonus feat. At 12th level, instead of gaining Lunge, the creature increases its reach by 5 feet."
 				},
 				{
-					"focus_name": "Chameleon", "sources": [ "Ultimate Intrigue" ], "archetype": "Courtly Hunter", "description": "The creature gains a +4 competence bonus on Disguise checks. This bonus increases to +6 at 8th level and +8 at 15th level."
+					"focus_name": "Chameleon",
+					"sources": [ "Ultimate Intrigue" ],
+					"archetype": "Courtly Hunter",
+					"description": "The creature gains a +4 competence bonus on Disguise checks. This bonus increases to +6 at 8th level and +8 at 15th level."
 				},
 				{
-					"focus_name": "Charybdis", "sources": [ "Aquatic Adventures" ], "archetype": "Pelagic Hunter", "description": "The creature's attacks ignore the first 5 points of hardness. This improves to ignore the first 7 points of hardness at 8th level and the first 10 points of hardness at 15th level."
+					"focus_name": "Charybdis",
+					"sources": [ "Aquatic Adventures" ],
+					"archetype": "Pelagic Hunter",
+					"description": "The creature's attacks ignore the first 5 points of hardness. This improves to ignore the first 7 points of hardness at 8th level and the first 10 points of hardness at 15th level."
 				},
 				{
-					"focus_name": "Cockroach", "sources": [ "Advanced Class Guide" ], "archetype": "Verminous Hunter", "description": "The creature gains a +4 bonus on saves against cold dangers, disease, heat dangers, starvation, thirst, and on Constitution checks to avoid suffocation. These bonuses increase to +6 at 8th level and +8 at 15th level."
+					"focus_name": "Cockroach",
+					"sources": [ "Advanced Class Guide" ],
+					"archetype": "Verminous Hunter",
+					"description": "The creature gains a +4 bonus on saves against cold dangers, disease, heat dangers, starvation, thirst, and on Constitution checks to avoid suffocation. These bonuses increase to +6 at 8th level and +8 at 15th level."
 				},
 				{
-					"focus_name": "Cow", "sources": [ "Ultimate Wilderness" ], "archetype": "Scarab Stalker", "description": "The creature gains a +1 resistance bonus on Fortitude saving throws. This bonus increases to +2 at 8th level and +3 at 15th level."
+					"focus_name": "Cow",
+					"sources": [ "Ultimate Wilderness" ],
+					"archetype": "Scarab Stalker",
+					"description": "The creature gains a +1 resistance bonus on Fortitude saving throws. This bonus increases to +2 at 8th level and +3 at 15th level."
 				},
 				{
-					"focus_name": "Crab", "sources": [ "Advanced Class Guide" ], "archetype": "Verminous Hunter", "description": "The creature gains a +4 competence bonus on Swim checks and a +2 competence bonus on grapple combat maneuver checks. These bonuses increase to +6 and +4 respectively at 8th level, and +8 and +6 at 15th level."
+					"focus_name": "Crab",
+					"sources": [ "Advanced Class Guide" ],
+					"archetype": "Verminous Hunter",
+					"description": "The creature gains a +4 competence bonus on Swim checks and a +2 competence bonus on grapple combat maneuver checks. These bonuses increase to +6 and +4 respectively at 8th level, and +8 and +6 at 15th level."
 				},
 				{
-					"focus_name": "Crab", "sources": [ "Blood of the Sea" ], "archetype": "Aquatic Beastmaster", "description": "The creature gains a +4 competence bonus on Swim checks and a +2 competence bonus on grapple combat maneuver checks. These bonuses increase to +6 and +4, respectively, at 8th level and to +8 and +6 at 15th level."
+					"focus_name": "Crab",
+					"sources": [ "Blood of the Sea" ],
+					"archetype": "Aquatic Beastmaster",
+					"description": "The creature gains a +4 competence bonus on Swim checks and a +2 competence bonus on grapple combat maneuver checks. These bonuses increase to +6 and +4, respectively, at 8th level and to +8 and +6 at 15th level."
 				},
 				{
-					"focus_name": "Creeping Vine", "sources": [ "Ultimate Wilderness" ], "archetype": "Plant Master", "description": "The creature gains a +4 competence bonus on Climb checks. This bonus increases to +6 at 8th level and +8 at 15th level."
+					"focus_name": "Creeping Vine",
+					"sources": [ "Ultimate Wilderness" ],
+					"archetype": "Plant Master",
+					"description": "The creature gains a +4 competence bonus on Climb checks. This bonus increases to +6 at 8th level and +8 at 15th level."
 				},
 				{
-					"focus_name": "Crocodile", "sources": [ "Ultimate Wilderness" ], "archetype": "Scarab Stalker", "description": "The creature gains a +4 competence bonus on Swim checks. This bonus increases to +6 at 8th level and +3 at 15th level."
+					"focus_name": "Crocodile",
+					"sources": [ "Ultimate Wilderness" ],
+					"archetype": "Scarab Stalker",
+					"description": "The creature gains a +4 competence bonus on Swim checks. This bonus increases to +6 at 8th level and +3 at 15th level."
 				},
 				{
-					"focus_name": "Crow", "sources": [ "Legacy of the First World" ], "archetype": "Feykiller", "description": "The creature gains a +4 competence bonus on Knowledge checks to identify the abilities and weaknesses of creatures. This bonus increases to +6 at 8th level and +8 at 15th level."
+					"focus_name": "Crow",
+					"sources": [ "Legacy of the First World" ],
+					"archetype": "Feykiller",
+					"description": "The creature gains a +4 competence bonus on Knowledge checks to identify the abilities and weaknesses of creatures. This bonus increases to +6 at 8th level and +8 at 15th level."
 				},
 				{
-					"focus_name": "Deep One", "sources": [ "Aquatic Adventures" ], "archetype": "Pelagic Hunter", "description": "The creature reduces pressure damage it takes (see page 48) by 10. At 12th level, the creature is immune to damage from changing pressure."
+					"focus_name": "Deep One",
+					"sources": [ "Aquatic Adventures" ],
+					"archetype": "Pelagic Hunter",
+					"description": "The creature reduces pressure damage it takes (see page 48) by 10. At 12th level, the creature is immune to damage from changing pressure."
 				},
 				{
-					"focus_name": "Dolphin", "sources": [ "Blood of the Sea" ], "archetype": "Aquatic Beastmaster", "description": "The creature gains a +4 competence bonus on Knowledge checks to identify the abilities and weaknesses of creatures. This bonus increases to +6 at 8th level and to +8 at 15th level."
+					"focus_name": "Dolphin",
+					"sources": [ "Blood of the Sea" ],
+					"archetype": "Aquatic Beastmaster",
+					"description": "The creature gains a +4 competence bonus on Knowledge checks to identify the abilities and weaknesses of creatures. This bonus increases to +6 at 8th level and to +8 at 15th level."
 				},
 				{
-					"focus_name": "Eagle", "sources": [ "Ultimate Intrigue" ], "archetype": "Courtly Hunter", "description": "The creature gains a +2 enhancement bonus to Charisma. This bonus increases to +4 at 8th level and +6 at 15th level."
+					"focus_name": "Eagle",
+					"sources": [ "Ultimate Intrigue" ],
+					"archetype": "Courtly Hunter",
+					"description": "The creature gains a +2 enhancement bonus to Charisma. This bonus increases to +4 at 8th level and +6 at 15th level."
 				},
 				{
-					"focus_name": "Eel", "sources": [ "Blood of the Sea" ], "archetype": "Aquatic Beastmaster", "description": "The creature gains a +2 enhancement bonus to Dexterity. This bonus increases to +4 at 8th level and to +6 at 15th level."
+					"focus_name": "Eel",
+					"sources": [ "Blood of the Sea" ],
+					"archetype": "Aquatic Beastmaster",
+					"description": "The creature gains a +2 enhancement bonus to Dexterity. This bonus increases to +4 at 8th level and to +6 at 15th level."
 				},
 				{
-					"focus_name": "Flea", "sources": [ "Advanced Class Guide" ], "archetype": "Verminous Hunter", "description": "The creature gains a +4 competence bonus on saves against disease and Acrobatics checks to jump. These bonuses increase to +6 at 8th level and +8 at 15th level."
+					"focus_name": "Flea",
+					"sources": [ "Advanced Class Guide" ],
+					"archetype": "Verminous Hunter",
+					"description": "The creature gains a +4 competence bonus on saves against disease and Acrobatics checks to jump. These bonuses increase to +6 at 8th level and +8 at 15th level."
 				},
 				{
-					"focus_name": "Fly", "sources": [ "Advanced Class Guide" ], "archetype": "Verminous Hunter", "description": "The creature gains a +2 bonus on Perception checks and on Acrobatics checks to balance or fall safely. These bonuses increase to +4 at 8th level and +6 at 15th level."
+					"focus_name": "Fly",
+					"sources": [ "Advanced Class Guide" ],
+					"archetype": "Verminous Hunter",
+					"description": "The creature gains a +2 bonus on Perception checks and on Acrobatics checks to balance or fall safely. These bonuses increase to +4 at 8th level and +6 at 15th level."
 				},
 				{
-					"focus_name": "Fox", "sources": [ "Ultimate Intrigue" ], "archetype": "Courtly Hunter", "description": "The creature gains a +4 competence bonus on Bluff checks. This bonus increases to +6 at 8th level and +8 at 15th level."
+					"focus_name": "Fox",
+					"sources": [ "Ultimate Intrigue" ],
+					"archetype": "Courtly Hunter",
+					"description": "The creature gains a +4 competence bonus on Bluff checks. This bonus increases to +6 at 8th level and +8 at 15th level."
 				},
 				{
-					"focus_name": "Frilled Lizard", "sources": [ "Ultimate Intrigue" ], "archetype": "Courtly Hunter", "description": "The creature gains a +4 competence bonus on Intimidate checks. This bonus increases to +6 at 8th level and +8 at 15th level."
+					"focus_name": "Frilled Lizard",
+					"sources": [ "Ultimate Intrigue" ],
+					"archetype": "Courtly Hunter",
+					"description": "The creature gains a +4 competence bonus on Intimidate checks. This bonus increases to +6 at 8th level and +8 at 15th level."
 				},
 				{
-					"focus_name": "Giant Flytrap", "sources": [ "Ultimate Wilderness" ], "archetype": "Plant Master", "description": "The creature gains a +4 competence bonus on Stealth checks. This bonus increases to +6 at 8th level and +8 at 15th level."
+					"focus_name": "Giant Flytrap",
+					"sources": [ "Ultimate Wilderness" ],
+					"archetype": "Plant Master",
+					"description": "The creature gains a +4 competence bonus on Stealth checks. This bonus increases to +6 at 8th level and +8 at 15th level."
 				},
 				{
-					"focus_name": "Goat", "sources": [ "Legacy of the First World" ], "archetype": "Feykiller", "description": "The creature gains a +2 competence bonus on saving throws against enchantment spells and spell-like abilities. This bonus increases to +4 at 8th level and +6 at 15th level."
+					"focus_name": "Goat",
+					"sources": [ "Legacy of the First World" ],
+					"archetype": "Feykiller",
+					"description": "The creature gains a +2 competence bonus on saving throws against enchantment spells and spell-like abilities. This bonus increases to +4 at 8th level and +6 at 15th level."
 				},
 				{
-					"focus_name": "Hippocampus", "sources": [ "Aquatic Adventures" ], "archetype": "Pelagic Hunter", "description": "The creature gains a +4 competence bonus on Swim checks. This bonus increases to +6 at 8th level and +8 at 15th level."
+					"focus_name": "Hippocampus",
+					"sources": [ "Aquatic Adventures" ],
+					"archetype": "Pelagic Hunter",
+					"description": "The creature gains a +4 competence bonus on Swim checks. This bonus increases to +6 at 8th level and +8 at 15th level."
 				},
 				{
-					"focus_name": "Ibis", "sources": [ "Ultimate Wilderness" ], "archetype": "Scarab Stalker", "description": "The creature gains a +2 resistance bonus on saving throws against disease. This bonus increases to +4 at 8th level and +6 at 15th level."
+					"focus_name": "Ibis",
+					"sources": [ "Ultimate Wilderness" ],
+					"archetype": "Scarab Stalker",
+					"description": "The creature gains a +2 resistance bonus on saving throws against disease. This bonus increases to +4 at 8th level and +6 at 15th level."
 				},
 				{
-					"focus_name": "Jackal", "sources": [ "Ultimate Wilderness" ], "archetype": "Scarab Stalker", "description": "The creature gains a +4 competence bonus on Survival checks. This bonus increases to +6 at 8th level and +8 at 15th level."
+					"focus_name": "Jackal",
+					"sources": [ "Ultimate Wilderness" ],
+					"archetype": "Scarab Stalker",
+					"description": "The creature gains a +4 competence bonus on Survival checks. This bonus increases to +6 at 8th level and +8 at 15th level."
 				},
 				{
-					"focus_name": "Kite", "sources": [ "Ultimate Wilderness" ], "archetype": "Scarab Stalker", "description": "The creature recovers 1 additional hit point whenever it receives magical healing. This increases to 2 additional hit points at 8th level and 3 additional hit points at 15th level."
+					"focus_name": "Kite",
+					"sources": [ "Ultimate Wilderness" ],
+					"archetype": "Scarab Stalker",
+					"description": "The creature recovers 1 additional hit point whenever it receives magical healing. This increases to 2 additional hit points at 8th level and 3 additional hit points at 15th level."
 				},
 				{
-					"focus_name": "Kraken", "sources": [ "Aquatic Adventures" ], "archetype": "Pelagic Hunter", "description": "The creature gains the jet ability (Pathfinder RPG Bestiary 2 298) with a speed equal to its unmodified base land speed or four times its swim speed (if it has one), whichever is higher. If it has a swim speed, at 8th level, the jet ability's speed increases to five times its swim speed, and at 15th level, the speed increases to seven times its swim speed."
+					"focus_name": "Kraken",
+					"sources": [ "Aquatic Adventures" ],
+					"archetype": "Pelagic Hunter",
+					"description": "The creature gains the jet ability (Pathfinder RPG Bestiary 2 298) with a speed equal to its unmodified base land speed or four times its swim speed (if it has one), whichever is higher. If it has a swim speed, at 8th level, the jet ability's speed increases to five times its swim speed, and at 15th level, the speed increases to seven times its swim speed."
 				},
 				{
-					"focus_name": "Leech", "sources": [ "Advanced Class Guide" ], "archetype": "Verminous Hunter", "description": "The creature gains a +2 competence bonus on grapple combat maneuver checks, and deals 1 point of bleed damage every time it succeeds at a grapple combat maneuver check to damage an opponent. These benefits increase to a +4 bonus and 3 points of bleed at 8th level, and a +6 bonus and 5 points of bleed at 15th level. Bleed damage from this ability does not stack with itself."
+					"focus_name": "Leech",
+					"sources": [ "Advanced Class Guide" ],
+					"archetype": "Verminous Hunter",
+					"description": "The creature gains a +2 competence bonus on grapple combat maneuver checks, and deals 1 point of bleed damage every time it succeeds at a grapple combat maneuver check to damage an opponent. These benefits increase to a +4 bonus and 3 points of bleed at 8th level, and a +6 bonus and 5 points of bleed at 15th level. Bleed damage from this ability does not stack with itself."
 				},
 				{
-					"focus_name": "Leopard", "sources": [ "Ultimate Wilderness" ], "archetype": "Scarab Stalker", "description": "The creature gains a +4 competence bonus on Escape Artist checks. This bonus increases to +6 at 8th level and +8 at 15th level."
+					"focus_name": "Leopard",
+					"sources": [ "Ultimate Wilderness" ],
+					"archetype": "Scarab Stalker",
+					"description": "The creature gains a +4 competence bonus on Escape Artist checks. This bonus increases to +6 at 8th level and +8 at 15th level."
 				},
 				{
-					"focus_name": "Lion", "sources": [ "Ultimate Wilderness" ], "archetype": "Scarab Stalker", "description": "The creature gains a +4 competence bonus on Intimidate checks. This bonus increases to +6 at 8th level and +8 at 15th level."
+					"focus_name": "Lion",
+					"sources": [ "Ultimate Wilderness" ],
+					"archetype": "Scarab Stalker",
+					"description": "The creature gains a +4 competence bonus on Intimidate checks. This bonus increases to +6 at 8th level and +8 at 15th level."
 				},
 				{
-					"focus_name": "Manta Ray", "sources": [ "Blood of the Sea" ], "archetype": "Aquatic Beastmaster", "description": "The creature gains a +4 competence bonus on Stealth checks and a +2 bonus on saving throws against poison. These bonuses increase to +6 and +4, respectively, at 8th level and to +8 and +6 at 15th level."
+					"focus_name": "Manta Ray",
+					"sources": [ "Blood of the Sea" ],
+					"archetype": "Aquatic Beastmaster",
+					"description": "The creature gains a +4 competence bonus on Stealth checks and a +2 bonus on saving throws against poison. These bonuses increase to +6 and +4, respectively, at 8th level and to +8 and +6 at 15th level."
 				},
 				{
-					"focus_name": "Mantis", "sources": [ "Advanced Class Guide" ], "archetype": "Verminous Hunter", "description": "The creature gains a +2 bonus on attack of opportunity attack rolls and a +2 competence bonus on grapple combat maneuver checks. These bonuses increase to +4 at 8th level and +6 at 15th level."
+					"focus_name": "Mantis",
+					"sources": [ "Advanced Class Guide" ],
+					"archetype": "Verminous Hunter",
+					"description": "The creature gains a +2 bonus on attack of opportunity attack rolls and a +2 competence bonus on grapple combat maneuver checks. These bonuses increase to +4 at 8th level and +6 at 15th level."
 				},
 				{
-					"focus_name": "Mongoose", "sources": [ "Legacy of the First World" ], "archetype": "Feykiller", "description": "The creature gains a +2 competence bonus on grapple combat maneuver checks and on saving throws against poison. These bonuses increase to +4 at 8th level and +6 at 15th level."
+					"focus_name": "Mongoose",
+					"sources": [ "Legacy of the First World" ],
+					"archetype": "Feykiller",
+					"description": "The creature gains a +2 competence bonus on grapple combat maneuver checks and on saving throws against poison. These bonuses increase to +4 at 8th level and +6 at 15th level."
 				},
 				{
-					"focus_name": "Moth", "sources": [ "Advanced Class Guide" ], "archetype": "Verminous Hunter", "description": "The creature gains darkvision to a range of 60 feet. At 8th level, the range increases by 30 feet. At 15th level, the creature gains blindsense to a range of 10 feet."
+					"focus_name": "Moth",
+					"sources": [ "Advanced Class Guide" ],
+					"archetype": "Verminous Hunter",
+					"description": "The creature gains darkvision to a range of 60 feet. At 8th level, the range increases by 30 feet. At 15th level, the creature gains blindsense to a range of 10 feet."
 				},
 				{
-					"focus_name": "Mushroom", "sources": [ "Ultimate Wilderness" ], "archetype": "Plant Master", "description": "The creature gains a +4 enhancement bonus on saves against poison. This bonus increases to +6 at 8th level and +8 at 15th level."
+					"focus_name": "Mushroom",
+					"sources": [ "Ultimate Wilderness" ],
+					"archetype": "Plant Master",
+					"description": "The creature gains a +4 enhancement bonus on saves against poison. This bonus increases to +6 at 8th level and +8 at 15th level."
 				},
 				{
-					"focus_name": "Oak", "sources": [ "Ultimate Wilderness" ], "archetype": "Plant Master", "description": "The creature gains a +2 enhancement bonus to CMD. This bonus increases to +4 at 8th level and +6 at 15th level."
+					"focus_name": "Oak",
+					"sources": [ "Ultimate Wilderness" ],
+					"archetype": "Plant Master",
+					"description": "The creature gains a +2 enhancement bonus to CMD. This bonus increases to +4 at 8th level and +6 at 15th level."
 				},
 				{
-					"focus_name": "Octopus", "sources": [ "Blood of the Sea" ], "archetype": "Aquatic Beastmaster", "description": "The creature gains a +4 competence bonus on Swim checks and a +2 competence bonus on grapple combat maneuver checks. These bonuses increase to +6 and +4, respectively, at 8th level and to +8 and +6 at 15th level."
+					"focus_name": "Octopus",
+					"sources": [ "Blood of the Sea" ],
+					"archetype": "Aquatic Beastmaster",
+					"description": "The creature gains a +4 competence bonus on Swim checks and a +2 competence bonus on grapple combat maneuver checks. These bonuses increase to +6 and +4, respectively, at 8th level and to +8 and +6 at 15th level."
 				},
 				{
-					"focus_name": "Octopus", "sources": [ "Ultimate Intrigue" ], "archetype": "Courtly Hunter", "description": "The creature gains a +4 competence bonus on Escape Artist checks. This bonus increases to +6 at 8th level and +8 at 15th level."
+					"focus_name": "Octopus",
+					"sources": [ "Ultimate Intrigue" ],
+					"archetype": "Courtly Hunter",
+					"description": "The creature gains a +4 competence bonus on Escape Artist checks. This bonus increases to +6 at 8th level and +8 at 15th level."
 				},
 				{
-					"focus_name": "Orca", "sources": [ "Blood of the Sea" ], "archetype": "Aquatic Beastmaster", "description": "The creature gains a +2 enhancement bonus to Strength. This bonus increases to +4 at 8th level and to +6 at 15th level."
+					"focus_name": "Orca",
+					"sources": [ "Blood of the Sea" ],
+					"archetype": "Aquatic Beastmaster",
+					"description": "The creature gains a +2 enhancement bonus to Strength. This bonus increases to +4 at 8th level and to +6 at 15th level."
 				},
 				{
-					"focus_name": "Phasmid", "sources": [ "Advanced Class Guide" ], "archetype": "Verminous Hunter", "description": "The creature gains low-light vision and a +4 competence bonus on Stealth checks in forests or plains. This bonus increases to +6 at 8th level and +8 at 15th level."
+					"focus_name": "Phasmid",
+					"sources": [ "Advanced Class Guide" ],
+					"archetype": "Verminous Hunter",
+					"description": "The creature gains low-light vision and a +4 competence bonus on Stealth checks in forests or plains. This bonus increases to +6 at 8th level and +8 at 15th level."
 				},
 				{
-					"focus_name": "Raccoon", "sources": [ "Ultimate Intrigue" ], "archetype": "Courtly Hunter", "description": "The creature gains a +4 competence bonus on Sleight of Hand checks. This bonus increases to +6 at 8th level and +8 at 15th level."
+					"focus_name": "Raccoon",
+					"sources": [ "Ultimate Intrigue" ],
+					"archetype": "Courtly Hunter",
+					"description": "The creature gains a +4 competence bonus on Sleight of Hand checks. This bonus increases to +6 at 8th level and +8 at 15th level."
 				},
 				{
-					"focus_name": "Ram", "sources": [ "Ultimate Wilderness" ], "archetype": "Scarab Stalker", "description": "The creature gains a +1 bonus on damage rolls when making charge attacks. This bonus increases to +2 at 8th level and +3 at 15th level."
+					"focus_name": "Ram",
+					"sources": [ "Ultimate Wilderness" ],
+					"archetype": "Scarab Stalker",
+					"description": "The creature gains a +1 bonus on damage rolls when making charge attacks. This bonus increases to +2 at 8th level and +3 at 15th level."
 				},
 				{
-					"focus_name": "Reefclaw", "sources": [ "Aquatic Adventures" ], "archetype": "Pelagic Hunter", "description": "The creature gains Diehard as a bonus feat. At 12th level, instead of gaining Diehard, the creature gains the ferocity ability (Pathfinder RPG Bestiary 300."
+					"focus_name": "Reefclaw",
+					"sources": [ "Aquatic Adventures" ],
+					"archetype": "Pelagic Hunter",
+					"description": "The creature gains Diehard as a bonus feat. At 12th level, instead of gaining Diehard, the creature gains the ferocity ability (Pathfinder RPG Bestiary 300."
 				},
 				{
-					"focus_name": "Scarab Beetle", "sources": [ "Ultimate Wilderness" ], "archetype": "Scarab Stalker", "description": "The creature gains a +1 enhancement bonus to its natural armor bonus. This bonus increases to +2 at 8th level and +3 at 15th level."
+					"focus_name": "Scarab Beetle",
+					"sources": [ "Ultimate Wilderness" ],
+					"archetype": "Scarab Stalker",
+					"description": "The creature gains a +1 enhancement bonus to its natural armor bonus. This bonus increases to +2 at 8th level and +3 at 15th level."
 				},
 				{
-					"focus_name": "Scorpion", "sources": [ "Ultimate Wilderness" ], "archetype": "Scarab Stalker", "description": "The creature gains a +2 resistance bonus on saving throws against poison. This bonus increases to +4 at 8th level and +6 at 15th level."
+					"focus_name": "Scorpion",
+					"sources": [ "Ultimate Wilderness" ],
+					"archetype": "Scarab Stalker",
+					"description": "The creature gains a +2 resistance bonus on saving throws against poison. This bonus increases to +4 at 8th level and +6 at 15th level."
 				},
 				{
-					"focus_name": "Scorpion", "sources": [ "Advanced Class Guide" ], "archetype": "Verminous Hunter", "description": "The creature gains a +2 competence bonus on Stealth checks and grapple combat maneuver checks. These bonuses increase to +6 and +4 respectively at 8th level, and +8 and +6 at 15th level."
+					"focus_name": "Scorpion",
+					"sources": [ "Advanced Class Guide" ],
+					"archetype": "Verminous Hunter",
+					"description": "The creature gains a +2 competence bonus on Stealth checks and grapple combat maneuver checks. These bonuses increase to +6 and +4 respectively at 8th level, and +8 and +6 at 15th level."
 				},
 				{
-					"focus_name": "Scylla", "sources": [ "Aquatic Adventures" ], "archetype": "Pelagic Hunter", "description": "The creature's attacks deal 1 point of bleed damage in addition to their normal damage. At 8th level, the bleed damage increases to 1d3, and at 15th level, it increases to 1d6."
+					"focus_name": "Scylla",
+					"sources": [ "Aquatic Adventures" ],
+					"archetype": "Pelagic Hunter",
+					"description": "The creature's attacks deal 1 point of bleed damage in addition to their normal damage. At 8th level, the bleed damage increases to 1d3, and at 15th level, it increases to 1d6."
 				},
 				{
-					"focus_name": "Sea Serpent", "sources": [ "Aquatic Adventures" ], "archetype": "Pelagic Hunter", "description": "The creature is considered to be under a nondetection spell it cast on itself, with a caster level equal to the pelagic hunter's class level."
+					"focus_name": "Sea Serpent",
+					"sources": [ "Aquatic Adventures" ],
+					"archetype": "Pelagic Hunter",
+					"description": "The creature is considered to be under a nondetection spell it cast on itself, with a caster level equal to the pelagic hunter's class level."
 				},
 				{
-					"focus_name": "Selkie", "sources": [ "Aquatic Adventures" ], "archetype": "Pelagic Hunter", "description": "The creature gains a +4 competence bonus on Bluff checks. This bonus increases to +6 at 8th level and +8 at 15th level."
+					"focus_name": "Selkie",
+					"sources": [ "Aquatic Adventures" ],
+					"archetype": "Pelagic Hunter",
+					"description": "The creature gains a +4 competence bonus on Bluff checks. This bonus increases to +6 at 8th level and +8 at 15th level."
 				},
 				{
-					"focus_name": "Sha", "sources": [ "Ultimate Wilderness" ], "archetype": "Scarab Stalker", "description": "The creature ignores the Perception penalty from sandstorms and can see twice as far in sandstorms. This increases to three times as far at 8th level and four times as far at 15th level."
+					"focus_name": "Sha",
+					"sources": [ "Ultimate Wilderness" ],
+					"archetype": "Scarab Stalker",
+					"description": "The creature ignores the Perception penalty from sandstorms and can see twice as far in sandstorms. This increases to three times as far at 8th level and four times as far at 15th level."
 				},
 				{
-					"focus_name": "Shark", "sources": [ "Legacy of the First World" ], "archetype": "Feykiller", "description": "The creature gains a +4 competence bonus on Survival checks to track a creature that has taken damage from the hunter or her animal companion in the past 24 hours. This bonus increases to +6 at 8th level and +8 at 15th level."
+					"focus_name": "Shark",
+					"sources": [ "Legacy of the First World" ],
+					"archetype": "Feykiller",
+					"description": "The creature gains a +4 competence bonus on Survival checks to track a creature that has taken damage from the hunter or her animal companion in the past 24 hours. This bonus increases to +6 at 8th level and +8 at 15th level."
 				},
 				{
-					"focus_name": "Shark", "sources": [ "Blood of the Sea" ], "archetype": "Aquatic Beastmaster", "description": "The creature gains a +4 competence bonus on Survival checks to track a creature to which the hunter or her animal companion has dealt damage in the past 24 hours. This bonus increases to +6 at 8th level and to +8 at 15th level."
+					"focus_name": "Shark",
+					"sources": [ "Blood of the Sea" ],
+					"archetype": "Aquatic Beastmaster",
+					"description": "The creature gains a +4 competence bonus on Survival checks to track a creature to which the hunter or her animal companion has dealt damage in the past 24 hours. This bonus increases to +6 at 8th level and to +8 at 15th level."
 				},
 				{
-					"focus_name": "Shoggoth", "sources": [ "Aquatic Adventures" ], "archetype": "Pelagic Hunter", "description": "The creature gains a +2 competence bonus on Perception checks and reduces the flanking bonuses of creatures flanking it by 1. This Perception bonus increases to +3 at 8th level and +4 at 15th level. At 12th level, the creature can't be flanked."
+					"focus_name": "Shoggoth",
+					"sources": [ "Aquatic Adventures" ],
+					"archetype": "Pelagic Hunter",
+					"description": "The creature gains a +2 competence bonus on Perception checks and reduces the flanking bonuses of creatures flanking it by 1. This Perception bonus increases to +3 at 8th level and +4 at 15th level. At 12th level, the creature can't be flanked."
 				},
 				{
-					"focus_name": "Shrieker", "sources": [ "Ultimate Wilderness" ], "archetype": "Plant Master", "description": "The creature gains darkvision with a range of 60 feet. At 8th level, the range increases by 30 feet. At 15th level, the creature also gains blindsense with a range of 10 feet."
+					"focus_name": "Shrieker",
+					"sources": [ "Ultimate Wilderness" ],
+					"archetype": "Plant Master",
+					"description": "The creature gains darkvision with a range of 60 feet. At 8th level, the range increases by 30 feet. At 15th level, the creature also gains blindsense with a range of 10 feet."
 				},
 				{
-					"focus_name": "Siyokoy", "sources": [ "Aquatic Adventures" ], "archetype": "Pelagic Hunter", "description": "The creature's attacks deal 1 additional point of electricity damage. At 8th level, the electricity damage increases to 1d3, and at 15th level, it increases to 1d6."
+					"focus_name": "Siyokoy",
+					"sources": [ "Aquatic Adventures" ],
+					"archetype": "Pelagic Hunter",
+					"description": "The creature's attacks deal 1 additional point of electricity damage. At 8th level, the electricity damage increases to 1d3, and at 15th level, it increases to 1d6."
 				},
 				{
-					"focus_name": "Snake", "sources": [ "Blood of the Sea" ], "archetype": "Aquatic Beastmaster", "description": "The creature gains a +2 bonus on attack rolls when making attacks of opportunity and a +2 dodge bonus to AC against attacks of opportunity. These bonuses increase to +4 at 8th level and to +6 at 15th level."
+					"focus_name": "Snake",
+					"sources": [ "Blood of the Sea" ],
+					"archetype": "Aquatic Beastmaster",
+					"description": "The creature gains a +2 bonus on attack rolls when making attacks of opportunity and a +2 dodge bonus to AC against attacks of opportunity. These bonuses increase to +4 at 8th level and to +6 at 15th level."
 				},
 				{
-					"focus_name": "Songbird", "souces": [ "Ultimate Intrigue" ], "archetype":  "Courtly Hunter", "description": "The creature gains a +4 competence bonus on Perform checks. This bonus increases to +6 at 8th level and +8 at 15th level."
+					"focus_name": "Songbird",
+					"souces": [ "Ultimate Intrigue" ],
+					"archetype":  "Courtly Hunter",
+					"description": "The creature gains a +4 competence bonus on Perform checks. This bonus increases to +6 at 8th level and +8 at 15th level."
 				},
 				{
-					"focus_name": "Spider", "sources": [ "Advanced Class Guide" ], "archetype": "Verminous Hunter", "description": "The creature gains a +2 competence bonus on Stealth checks, saving throws against web effects (magical or otherwise), and checks to break free of webs. This bonus increases to +4 at 8th level and +6 at 15th level."
+					"focus_name": "Spider",
+					"sources": [ "Advanced Class Guide" ],
+					"archetype": "Verminous Hunter",
+					"description": "The creature gains a +2 competence bonus on Stealth checks, saving throws against web effects (magical or otherwise), and checks to break free of webs. This bonus increases to +4 at 8th level and +6 at 15th level."
 				},
 				{
-					"focus_name": "Spore", "sources": [ "Ultimate Wilderness" ], "archetype": "Plant Master", "description": "The creature gains a +4 competence bonus on Fly checks. This bonus increases to +6 at 8th level and +8 at 15th level."
+					"focus_name": "Spore",
+					"sources": [ "Ultimate Wilderness" ],
+					"archetype": "Plant Master",
+					"description": "The creature gains a +4 competence bonus on Fly checks. This bonus increases to +6 at 8th level and +8 at 15th level."
 				},
 				{
-					"focus_name": "Turtle (BotS)", "sources": [ "Blood of the Sea" ], "archetype": "Aquatic Beastmaster", "description": "The creature gains a +2 enhancement bonus to its natural armor bonus. This bonus increases to +4 at 8th level and to +6 at 15th level. (A creature without natural armor has an effective natural armor bonus of +0.)"
+					"focus_name": "Turtle (BotS)",
+					"sources": [ "Blood of the Sea" ],
+					"archetype": "Aquatic Beastmaster",
+					"description": "The creature gains a +2 enhancement bonus to its natural armor bonus. This bonus increases to +4 at 8th level and to +6 at 15th level. (A creature without natural armor has an effective natural armor bonus of +0.)"
 				},
 				{
-					"focus_name": "Turtle (LotFW)", "sources": [ "Legacy of the First World" ], "archetype": "Feykiller", "description": "The creature gains a +2 enhancement bonus to its natural armor bonus. This bonus increases to +4 at 8th level and +6 at 15th level. (A creature without natural armor has an effective natural armor bonus of +0.)"
+					"focus_name": "Turtle (LotFW)",
+					"sources": [ "Legacy of the First World" ],
+					"archetype": "Feykiller",
+					"description": "The creature gains a +2 enhancement bonus to its natural armor bonus. This bonus increases to +4 at 8th level and +6 at 15th level. (A creature without natural armor has an effective natural armor bonus of +0.)"
 				},
 				{
-					"focus_name": "Uraeus", "sources": [ "Ultimate Wilderness" ], "archetype": "Scarab Stalker", "description": "The creature gains a +2 resistance bonus on saving throws against breath weapons. This bonus increases to +4 at 8th level and +6 at 15th level."
+					"focus_name": "Uraeus",
+					"sources": [ "Ultimate Wilderness" ],
+					"archetype": "Scarab Stalker",
+					"description": "The creature gains a +2 resistance bonus on saving throws against breath weapons. This bonus increases to +4 at 8th level and +6 at 15th level."
 				},
 				{
-					"focus_name": "Wasp", "sources": [ "Advanced Class Guide" ], "archetype": "Verminous Hunter", "description": "The creature gains a +4 competence bonus on Perception checks. This bonus increases to +6 at 8th level and +8 at 15th level."
+					"focus_name": "Wasp",
+					"sources": [ "Advanced Class Guide" ],
+					"archetype": "Verminous Hunter",
+					"description": "The creature gains a +4 competence bonus on Perception checks. This bonus increases to +6 at 8th level and +8 at 15th level."
 				},
 				{
-					"focus_name": "Water Lily", "sources": [ "Ultimate Wilderness" ], "archetype": "Plant Master", "description": "The creature gains a +4 competence bonus on Swim checks. This bonus increases to +6 at 8th level and +8 at 15th level."
+					"focus_name": "Water Lily",
+					"sources": [ "Ultimate Wilderness" ],
+					"archetype": "Plant Master",
+					"description": "The creature gains a +4 competence bonus on Swim checks. This bonus increases to +6 at 8th level and +8 at 15th level."
 				},
 				{
-					"focus_name": "Worm", "sources": [ "Advanced Class Guide" ], "archetype": "Verminous Hunter", "description": "The creature gains a 25% chance to treat any critical hit or sneak attack as a normal hit (as the fortification armor special ability). This increases to 50% at 8th level, and 75% at 15th level."
+					"focus_name": "Worm",
+					"sources": [ "Advanced Class Guide" ],
+					"archetype": "Verminous Hunter",
+					"description": "The creature gains a 25% chance to treat any critical hit or sneak attack as a normal hit (as the fortification armor special ability). This increases to 50% at 8th level, and 75% at 15th level."
 				}
 			]
 		},
@@ -27079,7 +27447,9 @@
 					"**True Judgment (Su)**: At 20th level, an inquisitor can call true judgment down upon a foe during combat. Whenever an inquisitor uses her judgment ability, the inquisitor can invoke true judgment on a foe as a swift action. Once declared, the inquisitor can make a single melee (or ranged attack, if the foe is within 30 feet) against the target. If the attack hits, it deals damage normally and the target must make a Fortitude save or die. The DC of this save is equal to 10 + 1/2 the inquisitor's level + the inquisitor's Wisdom modifier. Regardless of whether or not the save is made, the target creature is immune to the inquisitor's true judgment ability for 24 hours. Once this ability has been used, it cannot be used again for 1d4 rounds."
 				],
 				[
-					"**Chaotic, Evil, Good, and Lawful Spells**: An inquisitor can't cast spells of an alignment opposed to her own or her deity's (if she has one). Spells associated with particular alignments are indicated by the chaotic, evil, good and lawful descriptors in their spell descriptions.",
+					"**Chaotic, Evil, Good, and Lawful Spells**: An inquisitor can't cast spells of an alignment opposed to her own or her deity's (if she has one). Spells associated with particular alignments are indicated by the chaotic, evil, good and lawful descriptors in their spell descriptions."
+				],
+				[
 					"**Ex-Inquisitors**",
 					"An inquisitor who slips into corruption or changes to a prohibited alignment loses all spells and the judgment ability. She cannot thereafter gain levels as an inquisitor until she atones (see the *atonement* spell description)."
 				]
