@@ -15,7 +15,7 @@
   * ~~gunslinger dares and deeds~~
   * ~~hunter animal focus~~
   * ~~inquisitions~~
-  * investigator ~~talents,~~ annointments
+  * ~~investigator talents, annointments~~
   * kineticist ~~talents~~, elements
   * ~~magus acana (?)~~
   * mesmerist stares, tricks
