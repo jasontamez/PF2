@@ -37,7 +37,7 @@
   * summoner and UC evolutions
   * ~~swashbuckler deeds~~
   * ~~vigilante talents~~
-  * warpriest blessings
+  * ~~warpriest blessings~~
   * witch hexes, patrons, unique patrons
   * wizard ~~arcane discoveries, familiars,~~ schools
   * PHANTOM focuses
