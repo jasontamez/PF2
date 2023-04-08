@@ -1,384 +1,384 @@
-[
-	"Blessings - Warpriest",
-	"Warpriest Blessings",
-	"Description Source: [Advanced Class Guide](source:Advanced Class Guide)",
-	"A warpriest can select any two blessings granted by his deity. Deities grant blessings of the same name as the domains they grant. Unless otherwise noted, using a blessing is a standard action. A warpriest without a deity can select any two blessings (subject to GM approval). If a blessing's power duplicates a spell effect, the warpriest's caster level for that power is equal to his warpriest level.",
-	"Blessings that affect weapons and armor benefit anyone who wields or wears those items, not just the warpriest.",
-	"Focused Blessings",
-	"Description Source: [Healer's Handbook](source:Healer's Handbook)",
-	"Presented below are new rules for focused blessings-more specific blessings bestowed upon a warpriest by his deity that allow players greater flexibility for customization. Focused blessings are to blessings what subdomains (Pathfinder Roleplaying Game: Advanced Player's Guide 86) are to domains; each focused blessing corresponds to a specific subdomain, and a warpriest can select a focused blessing only if his deity could grant the corresponding subdomain (and associated domain) to a cleric. For instance, a warpriest can select the Resurrection focused blessing only if his deity's list of subdomains includes the Resurrection subdomain.",
-	"Each focused blessing grants either a minor blessing or a major blessing that replaces the associated blessing's respective minor blessing or major blessing. If a warpriest selects a focused blessing, he cannot select its associated blessing as his other blessing choice (in effect, the focused blessing replaces its associated blessing). A focused blessing is treated as equivalent to its associated blessing for any effect or prerequisite based on blessings. A focused blessing can be selected by a character of any class that grants the warpriest's blessing class feature, provided his deity allows the focused blessing (subject to the GM's discretion).",
-	"If a warpriest with a focused blessing or blessings also has levels in a class that grants cleric domains, the associated blessing or blessings must match the domain selected by that class. Subject to the GM's discretion, the warpriest can change his previously selected associated blessings or domains to make all of them conform.",
-	"If a focused blessing ability calls for a saving throw, the DC of the save is equal to 10 + 1/2 the character's warpriest level + his Wisdom modifier. Warpriest blessings can be found on pages 63-68 of Pathfinder RPG Advanced Class Guide.",
-	{
-		"blessingname": "Air",
-		"file": "warpriestblessingdisplaybfc6.html",
-		"deities": [
-			"Gozreh",
-			"Shelyn"
-		]
-	},
-	{
-		"blessingname": "Animal",
-		"file": "warpriestblessingdisplay59e5.html",
-		"deities": [
-			"Erastil",
-			"Gozreh"
-		]
-	},
-	{
-		"blessingname": "Artifice",
-		"file": "warpriestblessingdisplayc9f7.html",
-		"deities": [
-			"Torag"
-		]
-	},
-	{
-		"blessingname": "Chaos",
-		"file": "warpriestblessingdisplay62a5.html",
-		"deities": [
-			"Calistria",
-			"Cayden Cailean",
-			"Desna",
-			"Gorum",
-			"Lamashtu",
-			"Rovagug"
-		]
-	},
-	{
-		"blessingname": "Charm",
-		"file": "warpriestblessingdisplay7b1f.html",
-		"deities": [
-			"Calistria",
-			"Cayden Cailean",
-			"Norgorber",
-			"Shelyn"
-		]
-	},
-	{
-		"blessingname": "Community",
-		"file": "warpriestblessingdisplaye759.html",
-		"deities": [
-			"Erastil"
-		]
-	},
-	{
-		"blessingname": "Curse",
-		"file": "warpriestblessingdisplay00ce.html",
-		"deities": [
-			"Andirifkhu",
-			"Calistria",
-			"Desna",
-			"Graffiacane",
-			"Magdh"
-		]
-	},
-	{
-		"blessingname": "Darkness",
-		"file": "warpriestblessingdisplay95e4.html",
-		"deities": [
-			"Zon-Kuthon"
-		]
-	},
-	{
-		"blessingname": "Death",
-		"file": "warpriestblessingdisplay1db1.html",
-		"deities": [
-			"Norgorber",
-			"Pharasma",
-			"Urgathoa",
-			"Zon-Kuthon"
-		]
-	},
-	{
-		"blessingname": "Destruction",
-		"file": "warpriestblessingdisplay4d6f.html",
-		"deities": [
-			"Gorum",
-			"Nethys",
-			"Rovagug",
-			"Zon-Kuthon"
-		]
-	},
-	{
-		"blessingname": "Earth",
-		"file": "warpriestblessingdisplaydbe1.html",
-		"deities": [
-			"Abadar",
-			"Torag"
-		]
-	},
-	{
-		"focusedblessingname": "Earthquake",
-		"mainblessing": "Earth",
-		"file": "warpriestblessingdisplay1f03.html",
-		"deityText": "Evil deities that offer the Earth blessing or nonevil deities with disasters in their portfolios"
-	},
-	{
-		"blessingname": "Evil",
-		"file": "warpriestblessingdisplay4f4d.html",
-		"deities": [
-			"Asmodeus",
-			"Lamashtu",
-			"Norgorber",
-			"Rovagug",
-			"Urgathoa",
-			"Zon-Kuthon"
-		]
-	},
-	{
-		"blessingname": "Fire",
-		"file": "warpriestblessingdisplayb4ee.html",
-		"deities": [
-			"Asmodeus",
-			"Sarenrae"
-		]
-	},
-	{
-		"focusedblessingname": "Flood",
-		"mainblessing": "Water",
-		"file": "warpriestblessingdisplay4be3.html",
-		"deityText": "Evil deities that offer the Water blessing or nonevil deities with disasters in their portfolios"
-	},
-	{
-		"blessingname": "Glory",
-		"file": "warpriestblessingdisplay7908.html",
-		"deities": [
-			"Gorum",
-			"Iomedae",
-			"Sarenrae"
-		]
-	},
-	{
-		"blessingname": "Godclaw",
-		"file": "warpriestblessingdisplay7ee6.html",
-		"deities": [
-			"Abadar",
-			"Asmodeus",
-			"Iomedae",
-			"Irori",
-			"Torag"
-		]
-	},
-	{
-		"blessingname": "Good",
-		"file": "warpriestblessingdisplay8701.html",
-		"deities": [
-			"Cayden Cailean",
-			"Desna",
-			"Erastil",
-			"Iomedae",
-			"Sarenrae",
-			"Shelyn",
-			"Torag"
-		]
-	},
-	{
-		"blessingname": "Healing",
-		"file": "warpriestblessingdisplay20a8.html",
-		"deities": [
-			"Irori",
-			"Pharasma",
-			"Sarenrae"
-		]
-	},
-	{
-		"blessingname": "Knowledge",
-		"file": "warpriestblessingdisplayf339.html",
-		"deities": [
-			"Calistria",
-			"Irori",
-			"Nethys",
-			"Norgorber",
-			"Pharasma"
-		]
-	},
-	{
-		"blessingname": "Law",
-		"file": "warpriestblessingdisplay4ce9.html",
-		"deities": [
-			"Abadar",
-			"Asmodeus",
-			"Erastil",
-			"Iomedae",
-			"Irori",
-			"Torag",
-			"Zon-Kuthon"
-		]
-	},
-	{
-		"blessingname": "Liberation",
-		"file": "warpriestblessingdisplay774d.html",
-		"deities": [
-			"Desna"
-		]
-	},
-	{
-		"blessingname": "Luck",
-		"file": "warpriestblessingdisplaye325.html",
-		"deities": [
-			"Calistria",
-			"Desna",
-			"Shelyn"
-		]
-	},
-	{
-		"blessingname": "Madness",
-		"file": "warpriestblessingdisplay5f1e.html",
-		"deities": [
-			"Lamashtu"
-		]
-	},
-	{
-		"blessingname": "Magic",
-		"file": "warpriestblessingdisplay61f2.html",
-		"deities": [
-			"Asmodeus",
-			"Nethys",
-			"Urgathoa"
-		]
-	},
-	{
-		"blessingname": "Nobility",
-		"file": "warpriestblessingdisplay96ee.html",
-		"deities": [
-			"Abadar"
-		]
-	},
-	{
-		"blessingname": "Plant",
-		"file": "warpriestblessingdisplay918f.html",
-		"deities": [
-			"Erastil",
-			"Gozreh"
-		]
-	},
-	{
-		"blessingname": "Protection",
-		"file": "warpriestblessingdisplayee20.html",
-		"deities": [
-			"Abadar",
-			"Nethys",
-			"Shelyn",
-			"Torag"
-		]
-	},
-	{
-		"blessingname": "Repose",
-		"file": "warpriestblessingdisplay2df8.html",
-		"deities": [
-			"Pharasma"
-		]
-	},
-	{
-		"blessingname": "Rune",
-		"file": "warpriestblessingdisplay45fc.html",
-		"deities": [
-			"Irori",
-			"Nethys"
-		]
-	},
-	{
-		"blessingname": "Scalykind",
-		"file": "warpriestblessingdisplay5cf6.html",
-		"deities": [
-			"Apsu",
-			"Dahak",
-			"Ragadahn",
-			"Ydersius"
-		]
-	},
-	{
-		"blessingname": "Shadow",
-		"file": "warpriestblessingdisplay372c.html",
-		"deities": [
-			"Nocticula",
-			"Norgorber",
-			"Zon-Kuthon"
-		]
-	},
-	{
-		"blessingname": "Strength",
-		"file": "warpriestblessingdisplay4234.html",
-		"deities": [
-			"Cayden Cailean",
-			"Gorum",
-			"Irori",
-			"Lamashtu",
-			"Urgathoa"
-		]
-	},
-	{
-		"blessingname": "Sun",
-		"file": "warpriestblessingdisplay57b3.html",
-		"deities": [
-			"Iomedae",
-			"Sarenrae"
-		]
-	},
-	{
-		"focusedblessingname": "Tornado",
-		"mainblessing": "Air",
-		"file": "warpriestblessingdisplayff6a.html",
-		"deityText": "Evil deities that offer the Air blessing or nonevil deities with disasters in their portfolios"
-	},
-	{
-		"blessingname": "Travel",
-		"file": "warpriestblessingdisplayba15.html",
-		"deities": [
-			"Abadar",
-			"Cayden Cailean",
-			"Desna"
-		]
-	},
-	{
-		"blessingname": "Trickery",
-		"file": "warpriestblessingdisplay3da5.html",
-		"deities": [
-			"Asmodeus",
-			"Calistria",
-			"Lamashtu",
-			"Norgorber"
-		]
-	},
-	{
-		"blessingname": "Void",
-		"file": "warpriestblessingdisplay2c1e.html",
-		"deities": [
-			"Great Old Ones",
-			"Groetus"
-		]
-	},
-	{
-		"blessingname": "War",
-		"file": "warpriestblessingdisplayf936.html",
-		"deities": [
-			"Gorum",
-			"Iomedae",
-			"Rovagug",
-			"Urgathoa"
-		]
-	},
-	{
-		"blessingname": "Water",
-		"file": "warpriestblessingdisplayc28e.html",
-		"deities": [
-			"Gozreh",
-			"Pharasma"
-		]
-	},
-	{
-		"blessingname": "Weather",
-		"file": "warpriestblessingdisplay2941.html",
-		"deities": [
-			"Gozreh",
-			"Rovagug"
-		]
-	},
-	{
-		"focusedblessingname": "Wildfire",
-		"mainblessing": "Fire",
-		"file": "warpriestblessingdisplay463a.html",
-		"deityText": "Evil deities that offer the Fire blessing or nonevil deities with disasters in their portfolios"
-	}
-]
+{
+	"description": [
+		"Blessings - Warpriest",
+		"Warpriest Blessings",
+		"Description Source: [Advanced Class Guide](source:Advanced Class Guide)",
+		"A warpriest can select any two blessings granted by his deity. Deities grant blessings of the same name as the domains they grant. Unless otherwise noted, using a blessing is a standard action. A warpriest without a deity can select any two blessings (subject to GM approval). If a blessing's power duplicates a spell effect, the warpriest's caster level for that power is equal to his warpriest level.",
+		"Blessings that affect weapons and armor benefit anyone who wields or wears those items, not just the warpriest.",
+		"focused_ Blessings",
+		"Description Source: [Healer's Handbook](source:Healer's Handbook)",
+		"Presented below are new rules for focused blessings-more specific blessings bestowed upon a warpriest by his deity that allow players greater flexibility for customization. Focused blessings are to blessings what subdomains (Pathfinder Roleplaying Game: Advanced Player's Guide 86) are to domains; each focused blessing corresponds to a specific subdomain, and a warpriest can select a focused blessing only if his deity could grant the corresponding subdomain (and associated domain) to a cleric. For instance, a warpriest can select the Resurrection focused blessing only if his deity's list of subdomains includes the Resurrection subdomain.",
+		"Each focused blessing grants either a minor blessing or a major blessing that replaces the associated blessing's respective minor blessing or major blessing. If a warpriest selects a focused blessing, he cannot select its associated blessing as his other blessing choice (in effect, the focused blessing replaces its associated blessing). A focused blessing is treated as equivalent to its associated blessing for any effect or prerequisite based on blessings. A focused blessing can be selected by a character of any class that grants the warpriest's blessing class feature, provided his deity allows the focused blessing (subject to the GM's discretion).",
+		"If a warpriest with a focused blessing or blessings also has levels in a class that grants cleric domains, the associated blessing or blessings must match the domain selected by that class. Subject to the GM's discretion, the warpriest can change his previously selected associated blessings or domains to make all of them conform.",
+		"If a focused blessing ability calls for a saving throw, the DC of the save is equal to 10 + 1/2 the character's warpriest level + his Wisdom modifier. Warpriest blessings can be found on pages 63-68 of Pathfinder RPG Advanced Class Guide."
+	],
+	"list": [
+		{
+			"blessing_name": "Air",
+			"file": "warpriestblessingdisplaybfc6.html",
+			"deities": [
+				"Gozreh",
+				"Shelyn"
+			]
+		},
+		{
+			"blessing_name": "Animal",
+			"file": "warpriestblessingdisplay59e5.html",
+			"deities": [
+				"Erastil",
+				"Gozreh"
+			]
+		},
+		{
+			"blessing_name": "Artifice",
+			"file": "warpriestblessingdisplayc9f7.html",
+			"deities": [
+				"Torag"
+			]
+		},
+		{
+			"blessing_name": "Chaos",
+			"file": "warpriestblessingdisplay62a5.html",
+			"deities": [
+				"Calistria",
+				"Cayden Cailean",
+				"Desna",
+				"Gorum",
+				"Lamashtu",
+				"Rovagug"
+			]
+		},
+		{
+			"blessing_name": "Charm",
+			"file": "warpriestblessingdisplay7b1f.html",
+			"deities": [
+				"Calistria",
+				"Cayden Cailean",
+				"Norgorber",
+				"Shelyn"
+			]
+		},
+		{
+			"blessing_name": "Community",
+			"file": "warpriestblessingdisplaye759.html",
+			"deities": [
+				"Erastil"
+			]
+		},
+		{
+			"blessing_name": "Curse",
+			"file": "warpriestblessingdisplay00ce.html",
+			"deities": [
+				"Andirifkhu",
+				"Calistria",
+				"Desna",
+				"Graffiacane",
+				"Magdh"
+			]
+		},
+		{
+			"blessing_name": "Darkness",
+			"file": "warpriestblessingdisplay95e4.html",
+			"deities": [
+				"Zon-Kuthon"
+			]
+		},
+		{
+			"blessing_name": "Death",
+			"file": "warpriestblessingdisplay1db1.html",
+			"deities": [
+				"Norgorber",
+				"Pharasma",
+				"Urgathoa",
+				"Zon-Kuthon"
+			]
+		},
+		{
+			"blessing_name": "Destruction",
+			"file": "warpriestblessingdisplay4d6f.html",
+			"deities": [
+				"Gorum",
+				"Nethys",
+				"Rovagug",
+				"Zon-Kuthon"
+			]
+		},
+		{
+			"blessing_name": "Earth",
+			"file": "warpriestblessingdisplaydbe1.html",
+			"deities": [
+				"Abadar",
+				"Torag"
+			]
+		},
+		{
+			"blessing_name": "Earthquake",
+			"file": "warpriestblessingdisplay1f03.html",
+			"deity_text": "Evil deities that offer the Earth blessing or nonevil deities with disasters in their portfolios"
+		},
+		{
+			"blessing_name": "Evil",
+			"file": "warpriestblessingdisplay4f4d.html",
+			"deities": [
+				"Asmodeus",
+				"Lamashtu",
+				"Norgorber",
+				"Rovagug",
+				"Urgathoa",
+				"Zon-Kuthon"
+			]
+		},
+		{
+			"blessing_name": "Fire",
+			"file": "warpriestblessingdisplayb4ee.html",
+			"deities": [
+				"Asmodeus",
+				"Sarenrae"
+			]
+		},
+		{
+			"blessing_name": "Flood",
+			"file": "warpriestblessingdisplay4be3.html",
+			"deity_text": "Evil deities that offer the Water blessing or nonevil deities with disasters in their portfolios"
+		},
+		{
+			"blessing_name": "Glory",
+			"file": "warpriestblessingdisplay7908.html",
+			"deities": [
+				"Gorum",
+				"Iomedae",
+				"Sarenrae"
+			]
+		},
+		{
+			"blessing_name": "Godclaw",
+			"file": "warpriestblessingdisplay7ee6.html",
+			"deities": [
+				"Abadar",
+				"Asmodeus",
+				"Iomedae",
+				"Irori",
+				"Torag"
+			]
+		},
+		{
+			"blessing_name": "Good",
+			"file": "warpriestblessingdisplay8701.html",
+			"deities": [
+				"Cayden Cailean",
+				"Desna",
+				"Erastil",
+				"Iomedae",
+				"Sarenrae",
+				"Shelyn",
+				"Torag"
+			]
+		},
+		{
+			"blessing_name": "Healing",
+			"file": "warpriestblessingdisplay20a8.html",
+			"deities": [
+				"Irori",
+				"Pharasma",
+				"Sarenrae"
+			]
+		},
+		{
+			"blessing_name": "Knowledge",
+			"file": "warpriestblessingdisplayf339.html",
+			"deities": [
+				"Calistria",
+				"Irori",
+				"Nethys",
+				"Norgorber",
+				"Pharasma"
+			]
+		},
+		{
+			"blessing_name": "Law",
+			"file": "warpriestblessingdisplay4ce9.html",
+			"deities": [
+				"Abadar",
+				"Asmodeus",
+				"Erastil",
+				"Iomedae",
+				"Irori",
+				"Torag",
+				"Zon-Kuthon"
+			]
+		},
+		{
+			"blessing_name": "Liberation",
+			"file": "warpriestblessingdisplay774d.html",
+			"deities": [
+				"Desna"
+			]
+		},
+		{
+			"blessing_name": "Luck",
+			"file": "warpriestblessingdisplaye325.html",
+			"deities": [
+				"Calistria",
+				"Desna",
+				"Shelyn"
+			]
+		},
+		{
+			"blessing_name": "Madness",
+			"file": "warpriestblessingdisplay5f1e.html",
+			"deities": [
+				"Lamashtu"
+			]
+		},
+		{
+			"blessing_name": "Magic",
+			"file": "warpriestblessingdisplay61f2.html",
+			"deities": [
+				"Asmodeus",
+				"Nethys",
+				"Urgathoa"
+			]
+		},
+		{
+			"blessing_name": "Nobility",
+			"file": "warpriestblessingdisplay96ee.html",
+			"deities": [
+				"Abadar"
+			]
+		},
+		{
+			"blessing_name": "Plant",
+			"file": "warpriestblessingdisplay918f.html",
+			"deities": [
+				"Erastil",
+				"Gozreh"
+			]
+		},
+		{
+			"blessing_name": "Protection",
+			"file": "warpriestblessingdisplayee20.html",
+			"deities": [
+				"Abadar",
+				"Nethys",
+				"Shelyn",
+				"Torag"
+			]
+		},
+		{
+			"blessing_name": "Repose",
+			"file": "warpriestblessingdisplay2df8.html",
+			"deities": [
+				"Pharasma"
+			]
+		},
+		{
+			"blessing_name": "Rune",
+			"file": "warpriestblessingdisplay45fc.html",
+			"deities": [
+				"Irori",
+				"Nethys"
+			]
+		},
+		{
+			"blessing_name": "Scalykind",
+			"file": "warpriestblessingdisplay5cf6.html",
+			"deities": [
+				"Apsu",
+				"Dahak",
+				"Ragadahn",
+				"Ydersius"
+			]
+		},
+		{
+			"blessing_name": "Shadow",
+			"file": "warpriestblessingdisplay372c.html",
+			"deities": [
+				"Nocticula",
+				"Norgorber",
+				"Zon-Kuthon"
+			]
+		},
+		{
+			"blessing_name": "Strength",
+			"file": "warpriestblessingdisplay4234.html",
+			"deities": [
+				"Cayden Cailean",
+				"Gorum",
+				"Irori",
+				"Lamashtu",
+				"Urgathoa"
+			]
+		},
+		{
+			"blessing_name": "Sun",
+			"file": "warpriestblessingdisplay57b3.html",
+			"deities": [
+				"Iomedae",
+				"Sarenrae"
+			]
+		},
+		{
+			"blessing_name": "Tornado",
+			"file": "warpriestblessingdisplayff6a.html",
+			"deity_text": "Evil deities that offer the Air blessing or nonevil deities with disasters in their portfolios"
+		},
+		{
+			"blessing_name": "Travel",
+			"file": "warpriestblessingdisplayba15.html",
+			"deities": [
+				"Abadar",
+				"Cayden Cailean",
+				"Desna"
+			]
+		},
+		{
+			"blessing_name": "Trickery",
+			"file": "warpriestblessingdisplay3da5.html",
+			"deities": [
+				"Asmodeus",
+				"Calistria",
+				"Lamashtu",
+				"Norgorber"
+			]
+		},
+		{
+			"blessing_name": "Void",
+			"file": "warpriestblessingdisplay2c1e.html",
+			"deities": [
+				"Great Old Ones",
+				"Groetus"
+			]
+		},
+		{
+			"blessing_name": "War",
+			"file": "warpriestblessingdisplayf936.html",
+			"deities": [
+				"Gorum",
+				"Iomedae",
+				"Rovagug",
+				"Urgathoa"
+			]
+		},
+		{
+			"blessing_name": "Water",
+			"file": "warpriestblessingdisplayc28e.html",
+			"deities": [
+				"Gozreh",
+				"Pharasma"
+			]
+		},
+		{
+			"blessing_name": "Weather",
+			"file": "warpriestblessingdisplay2941.html",
+			"deities": [
+				"Gozreh",
+				"Rovagug"
+			]
+		},
+		{
+			"blessing_name": "Wildfire",
+			"file": "warpriestblessingdisplay463a.html",
+			"deity_text": "Evil deities that offer the Fire blessing or nonevil deities with disasters in their portfolios"
+		}
+	]
+}
