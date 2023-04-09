@@ -1,9 +1,9 @@
-{
-	"Accursed": {
-		"templatename": "Accursed",
+[
+	{
+		"template_name": "Accursed",
 		"file": "monstertemplates50a6.html",
 		"sources": [ "Horror Adventures" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"simple": true,
 		"summonable": false,
@@ -22,11 +22,11 @@
 			"**Rebuild Rules:** **Melee** two claw attacks that each deal 1d4 points of damage (for Medium creatures); **Special Attacks** natural attacks cause bestow curse (DC = 10 + 1/2 creature's HD + creature's Cha modifier, CL = creature's HD) on a successful hit (this can inflict any effect of bestow curse or spread the creature's personal curse); **Special Qualities** the creature is under a particular curse."
 		]
 	},
-	"Advanced": {
-		"templatename": "Advanced",
+	{
+		"template_name": "Advanced",
 		"file": "monstertemplates3b26.html",
 		"sources": [ "Pathfinder RPG Bestiary" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"simple": true,
 		"summonable": false,
@@ -45,11 +45,11 @@
 			"**Rebuild Rules:** **AC** increase natural armor by +2; **Ability Scores** +4 to all ability scores (except Int scores of 2 or less)."
 		]
 	},
-	"Aerial": {
-		"templatename": "Aerial",
+	{
+		"template_name": "Aerial",
 		"file": "monstertemplatesc3f5.html",
 		"sources": [ "Monster Summoner's Handbook" ],
-		"crAdjustmentRange": [ 0, 1 ],
+		"cr_adjustment_range": [ 0, 1 ],
 		"acquired": true,
 		"simple": true,
 		"summonable": true,
@@ -71,11 +71,11 @@
 			"| 11+ | 5/- | 20 | 2d6 |"
 		]
 	},
-	"Alchemically Invisible": {
-		"templatename": "Alchemically Invisible",
+	{
+		"template_name": "Alchemically Invisible",
 		"file": "monstertemplatesa8d1.html",
 		"sources": [ "Rival Guide" ],
-		"crAdjustment": 2,
+		"cr_adjustment": 2,
 		"acquired": true,
 		"simple": true,
 		"summonable": false,
@@ -92,11 +92,11 @@
 			"**Quick/Rebuild Rules:** The creature is naturally invisible, but must make a DC 15 Will save at the start of each round of combat to avoid being confused for 1 round."
 		]
 	},
-	"Alebrije": {
-		"templatename": "Alebrije",
+	{
+		"template_name": "Alebrije",
 		"file": "monstertemplatesb16c.html",
 		"sources": [ "Pathfinder #144: Midwives to Death" ],
-		"crAdjustment": 2,
+		"cr_adjustment": 2,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -141,11 +141,11 @@
 			"**Languages:** An alebrije gains telepathy (100 ft.) and can speak one language of its choice."
 		]
 	},
-	"Alter Ego": {
-		"templatename": "Alter Ego",
+	{
+		"template_name": "Alter Ego",
 		"file": "monstertemplatesf714.html",
 		"sources": [ "Bestiary 6" ],
-		"crAdjustment": 0,
+		"cr_adjustment": 0,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -204,11 +204,11 @@
 			"**Sense Progenitor (Su):** An alter ego creature knows the direction and distance to the original creature of which it is a copy. This sense can be blocked by any effect that blocks scrying. An alter ego has [detect thoughts](unknown:detect thoughts) and [true seeing](unknown:true seeing) against its progenitor in effect at all times (CL 20th); these abilities cannot be dispelled."
 		]
 	},
-	"Animal Lord": {
-		"templatename": "Animal Lord",
+	{
+		"template_name": "Animal Lord",
 		"file": "monstertemplatesaa9e.html",
 		"sources": [ "Bestiary 3" ],
-		"crAdjustment": null,
+		"cr_adjustment": null,
 		"inherited": true,
 		"simple": false,
 		"summonable": false,
@@ -275,11 +275,11 @@
 			"**Poison Immunity (Ex):** Serpent lords are immune to poison."
 		]
 	},
-	"Animus Shade": {
-		"templatename": "Animus Shade",
+	{
+		"template_name": "Animus Shade",
 		"file": "monstertemplatesd69c.html",
 		"sources": [ "Bestiary 6" ],
-		"crAdjustment": 2,
+		"cr_adjustment": 2,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -338,11 +338,11 @@
 			"**Skills:** An animus shade gains a +8 racial bonus on Intimidate and Perception checks (which stacks with other racial bonuses). An animus shade treats Climb, Disguise, Fly, Intimidate, Knowledge (arcana), Knowledge (religion), Perception, Sense Motive, Spellcraft, and Stealth as class skills. Otherwise, its skills are the same as those of the base creature."
 		]
 	},
-	"Apostle Kyton": {
-		"templatename": "Apostle Kyton",
+	{
+		"template_name": "Apostle Kyton",
 		"file": "monstertemplates07da.html",
 		"sources": [ "Horror Adventures" ],
-		"crAdjustment": 2,
+		"cr_adjustment": 2,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -399,11 +399,11 @@
 			"**Languages:** An apostle kyton learns Infernal as a bonus language."
 		]
 	},
-	"Aqueous": {
-		"templatename": "Aqueous",
+	{
+		"template_name": "Aqueous",
 		"file": "monstertemplates3fcd.html",
 		"sources": [ "Monster Summoner's Handbook" ],
-		"crAdjustmentRange": [ 0, 1 ],
+		"cr_adjustment_range": [ 0, 1 ],
 		"acquired": true,
 		"simple": true,
 		"summonable": true,
@@ -425,11 +425,11 @@
 			"| 11+ | 5/- | 20 | 2d6 |"
 		]
 	},
-	"Barbarian": {
-		"templatename": "Barbarian",
+	{
+		"template_name": "Barbarian",
 		"file": "monstertemplatese2cd.html",
 		"sources": [ "Monster Codex" ],
-		"crAdjustmentRange": [ 2, 3 ],
+		"cr_adjustment_range": [ 2, 3 ],
 		"acquired": true,
 		"simple": true,
 		"summonable": false,
@@ -448,11 +448,11 @@
 			"**Rebuild Rules:** **Defensive Abilities** uncanny dodge (improved uncanny dodge if the creature has 10 or more HD; DR 1/- (3/- if the creature has 10 or more HD); **Special Attacks** rage (can be used a number of rounds per day equal to 4 + its HD + its Con modifier, functions as the greater rage class feature if the creature has 10 or more HD); **Ability Scores** +4 Strength."
 		]
 	},
-	"Bard": {
-		"templatename": "Bard",
+	{
+		"template_name": "Bard",
 		"file": "monstertemplatesaec9.html",
 		"sources": [ "Monster Codex" ],
-		"crAdjustmentRange": [ 1, 2 ],
+		"cr_adjustment_range": [ 1, 2 ],
 		"acquired": true,
 		"simple": true,
 		"summonable": false,
@@ -480,11 +480,11 @@
 			"| 17-20 | - | - | - | 2 | 2 | 1 | - |"
 		]
 	},
-	"Blighted Fey": {
-		"templatename": "Blighted Fey",
+	{
+		"template_name": "Blighted Fey",
 		"file": "monstertemplates83d2.html",
 		"sources": [ "Bestiary 6" ],
-		"crAdjustment": 2,
+		"cr_adjustment": 2,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -543,11 +543,11 @@
 			"**Skills:** A blighted fey gains a +2 racial bonus on Knowledge (nature), Perception, and Stealth checks."
 		]
 	},
-	"Boreal Creature": {
-		"templatename": "Boreal Creature",
+	{
+		"template_name": "Boreal Creature",
 		"file": "monstertemplatesd967.html",
 		"sources": [ "Pathfinder #67: The Snows of Summer" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"inherited": true,
 		"simple": false,
 		"summonable": true,
@@ -575,11 +575,11 @@
 			"**Trackless Step (Ex):** A boreal creature does not leave a trail in snow and cannot be tracked. It can choose to leave a trail, if it so desires. This special quality does not apply to aquatic boreal creatures."
 		]
 	},
-	"Broken Soul": {
-		"templatename": "Broken Soul",
+	{
+		"template_name": "Broken Soul",
 		"file": "monstertemplatesc861.html",
 		"sources": [ "Bestiary 4" ],
-		"crAdjustment": 2,
+		"cr_adjustment": 2,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -614,11 +614,11 @@
 			"**Organization:** Solitary."
 		]
 	},
-	"Calcified": {
-		"templatename": "Calcified",
+	{
+		"template_name": "Calcified",
 		"file": "monstertemplatesfb61.html",
 		"sources": [ "Plunder and Peril" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -635,11 +635,11 @@
 			"**Rebuild Rules:** **Senses** darkvision 60 ft.; **AC** increase natural armor by 4; **Immune** mind-affecting effects; **Ability Scores** +4 Str and Con. A calcified creature has no Intelligence score, but can use its physical skills as directed by the incutilis lord that created it and does not lose any skill ranks. Skills: +8 racial bonus on Stealth checks in dim or no light."
 		]
 	},
-	"Celestial": {
-		"templatename": "Celestial",
+	{
+		"template_name": "Celestial",
 		"file": "monstertemplates9813.html",
 		"sources": [ "Pathfinder RPG Bestiary" ],
-		"crAdjustmentRange": [ 0, 1 ],
+		"cr_adjustment_range": [ 0, 1 ],
 		"acquired": true,
 		"simple": true,
 		"summonable": true,
@@ -663,11 +663,11 @@
 			"| 11+ | 15 | 10/evil |"
 		]
 	},
-	"Child of Yog-Sothoth": {
-		"templatename": "Child of Yog-Sothoth",
+	{
+		"template_name": "Child of Yog-Sothoth",
 		"file": "monstertemplatesc581.html",
 		"sources": [ "Pathfinder #113: What Grows Within" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"inherited": true,
 		"simple": false,
 		"summonable": false,
@@ -724,11 +724,11 @@
 			"**Skills:** A child of Yog-Sothoth gains a  racial bonus on Disguise checks to appear as a typical specimen of the base creature when it is using its conceal features ability. All Knowledge skills and Spellcraft are class skills for a child of Yog-Sothoth; a child of Yog-Sothoth gains a  racial bonus on Knowledge (arcana) and Spellcraft checks."
 		]
 	},
-	"Chthonic": {
-		"templatename": "Chthonic",
+	{
+		"template_name": "Chthonic",
 		"file": "monstertemplatesb116.html",
 		"sources": [ "Monster Summoner's Handbook" ],
-		"crAdjustmentRange": [ 0, 1 ],
+		"cr_adjustment_range": [ 0, 1 ],
 		"acquired": true,
 		"simple": true,
 		"summonable": true,
@@ -750,11 +750,11 @@
 			"| 11+ | 5/- | 20 | 2d6 |"
 		]
 	},
-	"Cleric": {
-		"templatename": "Cleric",
+	{
+		"template_name": "Cleric",
 		"file": "monstertemplates1daf.html",
 		"sources": [ "Monster Codex" ],
-		"crAdjustmentRange": [ 1, 3 ],
+		"cr_adjustment_range": [ 1, 3 ],
 		"acquired": true,
 		"simple": true,
 		"summonable": false,
@@ -784,11 +784,11 @@
 			"| 25+ | - | - | - | - | - | - | - | 2 | 2 | 1 |"
 		]
 	},
-	"Color-Blighted": {
-		"templatename": "Color-Blighted",
+	{
+		"template_name": "Color-Blighted",
 		"file": "monstertemplates0ac3.html",
 		"sources": [ "Bestiary 4" ],
-		"crAdjustment": 0,
+		"cr_adjustment": 0,
 		"acquired": true,
 		"simple": true,
 		"summonable": false,
@@ -805,11 +805,11 @@
 			"**Rebuild Rules:** A colour-blighted creature's ability scores are already drained as a result of being fed upon by a [colour out of space](unknown:colour out of space), but once a creature gains this template it becomes immune to further feed attacks from colours out of space until it loses the colour-blighted simple template. A Charisma score drained to 0 by a colour out of space's feed attack is raised to 1; otherwise, its ability scores are not altered by this template. In order to remove this simple template from a creature, one only has to restore all of its drained ability scores to normal. As long as a creature suffers the colour-blighted template, it becomes aggressive toward creatures that do not exude the colors of a colour out of space, and gains a +1 bonus on attack rolls and weapon damage rolls against such targets. Every 24 hours, a creature suffering from this simple template must succeed at a DC 12 Fortitude save or crumble into fine, white ash'such a doom means instant death and, for many color-blighted creatures, the only chance at escape from a life filled with pain."
 		]
 	},
-	"Colour-Blighted": {
-		"templatename": "Colour-Blighted",
+	{
+		"template_name": "Colour-Blighted",
 		"file": "monstertemplates0e6c.html",
 		"sources": [ "Pathfinder #46: Wake of the Watcher" ],
-		"crAdjustment": 0,
+		"cr_adjustment": 0,
 		"acquired": true,
 		"simple": true,
 		"summonable": true,
@@ -826,11 +826,11 @@
 			"**Rebuild Rules:** A colour-blighted creature's ability scores suffer drain as a result of being fed upon by a colour out of space, but once a creature gains this template, it becomes immune to further feed attacks from colours out of space until it loses the colour-blighted simple template. A Charisma score drained to 0 by a colour out of space's feed attack is raised to 1; other ability scores are not altered. In order to remove this simple template from a creature, one need only restore all of its drained ability scores to normal. As long as a creature suffers the colour-blighted template, it becomes strangely aggressive toward creatures that do not exude the colors of a colour out of space, and gains a +1 bonus on attack rolls and weapon damage rolls against such targets. Every 24 hours, a creature suffering from this simple template must make a DC 12 Fortitude save to resist crumbling into fine white ash'such a doom means instant death and, for many color-blighted creatures, their only chance at escape from a life filled with pain."
 		]
 	},
-	"Commando Construct": {
-		"templatename": "Commando Construct",
+	{
+		"template_name": "Commando Construct",
 		"file": "monstertemplatese4f2.html",
 		"sources": [ "Construct Handbook" ],
-		"crAdjustmentRange": [ 1, 2 ],
+		"cr_adjustment_range": [ 1, 2 ],
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -891,11 +891,11 @@
 			"A commando construct's materials cost an additional 10,000 gp above the base creature's cost. The Craft check required to make the body has a DC 4 higher than normal for the base construct's kind. The construct is animated using a special laboratory or workroom that costs 1,000 gp to establish. If the creator is personally constructing the creature's body, the crafting and the ritual can be performed simultaneously. The creator must have a minimum caster level 1 higher than the base creature's minimum required caster level. In addition, the following spells must be cast during the ritual: [bull's strength](unknown:bull's strength), [greater heroism](unknown:greater heroism), and [limited wish](unknown:limited wish)."
 		]
 	},
-	"Counterpoised": {
-		"templatename": "Counterpoised",
+	{
+		"template_name": "Counterpoised",
 		"file": "monstertemplatesf2e2.html",
 		"sources": [ "Champions of Balance" ],
-		"crAdjustmentRange": [ 0, 1 ],
+		"cr_adjustment_range": [ 0, 1 ],
 		"acquired": true,
 		"simple": true,
 		"summonable": true,
@@ -917,11 +917,11 @@
 			"| 11+ | 15 | 10/adamantine |"
 		]
 	},
-	"Cytillesh Zombie": {
-		"templatename": "Cytillesh Zombie",
+	{
+		"template_name": "Cytillesh Zombie",
 		"file": "monstertemplatesdef5.html",
 		"sources": [ "No Response from Deepmar" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"simple": false,
 		"summonable": true,
@@ -936,11 +936,11 @@
 			"The cytillesh zombies presented here use a hybrid monster template that is easy to duplicate. The base creature gains the fast zombie template presented on page 289 of the Pathfinder RPG Bestiary. It also gains +4 Turn Resistance and Cytillesh Symbiosis (see the Cytillesh Zombie stat block). The cytillesh zombie template increases a zombie's challenge rating by 1. In the context of this adventure, this template can only be added to a creature suffering the effects of exposure to cytillesh fungus that imbibes concentrated cytillesh with caphorite and lazurite granules (see area B12)."
 		]
 	},
-	"Dark": {
-		"templatename": "Dark",
+	{
+		"template_name": "Dark",
 		"file": "monstertemplates834b.html",
 		"sources": [ "Monster Summoner's Handbook" ],
-		"crAdjustmentRange": [ 0, 1 ],
+		"cr_adjustment_range": [ 0, 1 ],
 		"acquired": true,
 		"simple": true,
 		"summonable": true,
@@ -962,11 +962,11 @@
 			"| 11+ | 10/magic | 15 |"
 		]
 	},
-	"Deep Creature": {
-		"templatename": "Deep Creature",
+	{
+		"template_name": "Deep Creature",
 		"file": "monstertemplates2f9c.html",
 		"sources": [ "Horror Adventures" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"simple": true,
 		"summonable": false,
@@ -985,11 +985,11 @@
 			"**Rebuild Rules:** **Type** gain the aquatic and deep one subtypes; **AC** natural armor increases by 1; **Speed** swim speed equal to base land speed; **Melee** two claw attacks that each deal 1d4 points of damage (for Medium creatures); **Special Qualities** amphibious; **Ability Scores** +2 Str, +2 Con, +2 Wis."
 		]
 	},
-	"Degenerate": {
-		"templatename": "Degenerate",
+	{
+		"template_name": "Degenerate",
 		"file": "monstertemplates6cc7.html",
 		"sources": [ "Pathfinder #99: Dance of the Damned" ],
-		"crAdjustment": -1,
+		"cr_adjustment": -1,
 		"acquired": true,
 		"simple": true,
 		"summonable": false,
@@ -1008,11 +1008,11 @@
 			"**Rebuild Rules:** **Ability Scores** -4 to all ability scores (minimum 1)."
 		]
 	},
-	"Demonic Vermin": {
-		"templatename": "Demonic Vermin",
+	{
+		"template_name": "Demonic Vermin",
 		"file": "monstertemplates408a.html",
 		"sources": [ "The Worldwound" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"inherited": true,
 		"simple": false,
@@ -1059,11 +1059,11 @@
 			"**Languages:** A demonic vermin speaks Abyssal, Celestial, and Draconic. It also gains telepathy to a distance of 100 feet."
 		]
 	},
-	"Devilbound": {
-		"templatename": "Devilbound",
+	{
+		"template_name": "Devilbound",
 		"file": "monstertemplates97c9.html",
 		"sources": [ "Bestiary 4" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -1138,11 +1138,11 @@
 			"| Nemesis, pit fiend | +2 to any three different ability scores |"
 		]
 	},
-	"Divine Guardian": {
-		"templatename": "Divine Guardian",
+	{
+		"template_name": "Divine Guardian",
 		"file": "monstertemplates62c5.html",
 		"sources": [ "Bestiary 4" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -1200,11 +1200,11 @@
 			"**Organization:** Solitary."
 		]
 	},
-	"Dread Lord": {
-		"templatename": "Dread Lord",
+	{
+		"template_name": "Dread Lord",
 		"file": "monstertemplatesdab9.html",
 		"sources": [ "Horror Adventures" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"inherited": true,
 		"simple": false,
@@ -1274,11 +1274,11 @@
 			"**Ability Scores:** Wisdom -4."
 		]
 	},
-	"Dream Eater": {
-		"templatename": "Dream Eater",
+	{
+		"template_name": "Dream Eater",
 		"file": "monstertemplates0b9f.html",
 		"sources": [ "Dungeons of Golarion" ],
-		"crAdjustment": 2,
+		"cr_adjustment": 2,
 		"acquired": true,
 		"simple": false,
 		"summonable": true,
@@ -1306,11 +1306,11 @@
 			"**Skills:** A dream eater gains a +4 racial bonus on Perception and Stealth checks. He also gains a +8 racial bonus on Knowledge (religion) and Knowledge (planes) checks, and these two skills are now always considered class skills for the creature."
 		]
 	},
-	"Dreamspawn": {
-		"templatename": "Dreamspawn",
+	{
+		"template_name": "Dreamspawn",
 		"file": "monstertemplates4e63.html",
 		"sources": [ "The House on Hook Street" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -1346,11 +1346,11 @@
 			"**Abilities:** Dex +4, Cha +2."
 		]
 	},
-	"Druid": {
-		"templatename": "Druid",
+	{
+		"template_name": "Druid",
 		"file": "monstertemplates8c2d.html",
 		"sources": [ "Monster Codex" ],
-		"crAdjustmentRange": [ 1, 3 ],
+		"cr_adjustment_range": [ 1, 3 ],
 		"acquired": true,
 		"simple": true,
 		"summonable": false,
@@ -1383,11 +1383,11 @@
 			"| 25+ | - | - | - | - | - | - | - | 2 | 2 | 1 |"
 		]
 	},
-	"Echohusk": {
-		"templatename": "Echohusk",
+	{
+		"template_name": "Echohusk",
 		"file": "monstertemplates8395.html",
 		"sources": [ "Occult Bestiary" ],
-		"crAdjustment": null,
+		"cr_adjustment": null,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -1477,11 +1477,11 @@
 			"**Shattered Psyche (Ex):** Psychic attacks that are powerful enough to destroy minds leave behind a powerful but unstable force that lashes out at those nearby. When an echohusk takes damage from a melee attack, a ranged attack from within 30 feet, or a psychic spell or effect from any distance, the creature that initiated the attack must succeed at a Will saving throw (DC = 10 + 1/2 the echohusk's Hit Dice + the echohusk's Charisma modifier) or take 1 point of Charisma damage and be dazed for 1 round as the psychic energies in the echohusk shatter once more."
 		]
 	},
-	"Ectoplasmic": {
-		"templatename": "Ectoplasmic",
+	{
+		"template_name": "Ectoplasmic",
 		"file": "monstertemplates58a5.html",
 		"sources": [ "Bestiary 4" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -1541,11 +1541,11 @@
 			"**Phase Lurch (Su):** An ectoplasmic creature has the ability to pass through walls or material obstacles. In order to use this ability, the ectoplasmic creature must begin and end its turn outside of whatever wall or obstacle it's moving through. An ectoplasmic creature cannot move through corporeal creatures with this ability, and its movement speed is halved while moving through a wall or obstacle. Any surface it moves through is coated with a thin, silvery mucus that lingers for 1 minute."
 		]
 	},
-	"Elemental-Infused Creature": {
-		"templatename": "Elemental-Infused Creature",
+	{
+		"template_name": "Elemental-Infused Creature",
 		"file": "monstertemplates6485.html",
 		"sources": [ "Planes of Power" ],
-		"crAdjustmentRange": [ 1, 2 ],
+		"cr_adjustment_range": [ 1, 2 ],
 		"acquired": true,
 		"inherited": true,
 		"simple": false,
@@ -1633,11 +1633,11 @@
 			"**Languages:** The creature gains an elemental language or languages associated with its elemental type as long as it has an Intelligence score of 3 or higher: Aquan (water), Auran (air), Ignan (fire), or Terran (earth). If the base creature is unable to speak, it can instead understand the acquired languages."
 		]
 	},
-	"Energized": {
-		"templatename": "Energized",
+	{
+		"template_name": "Energized",
 		"file": "monstertemplates3c75.html",
 		"sources": [ "Construct Handbook" ],
-		"crAdjustment": 2,
+		"cr_adjustment": 2,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -1693,11 +1693,11 @@
 			"An energized golem's body must be magically reinforced to withstand the raw energy of the elemental to be sealed within it, costing an additional 25,000 gp above the base golem's cost. All Craft check DCs to create the golem are increased by 5, and the minimum caster level requirements are 2 higher than normal. In addition, the following spells are added to the base golem's requirements: any [magic circle](unknown:magic circle) spell and [planar binding](unknown:planar binding)."
 		]
 	},
-	"Enlightened Construct": {
-		"templatename": "Enlightened Construct",
+	{
+		"template_name": "Enlightened Construct",
 		"file": "monstertemplatesd218.html",
 		"sources": [ "Construct Handbook" ],
-		"crAdjustmentRange": [ 1, 3 ],
+		"cr_adjustment_range": [ 1, 3 ],
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -1772,11 +1772,11 @@
 			"An enlightened construct's phrenic stone and materials cost an additional 60,000 gp above the base creature's cost. The construct's master can assemble the body or hire someone else to do the job. The DC of the Craft check required to create the body is 10 higher than normal for the base creature. After the body is created, the enlightened construct is animated through a magical ritual that requires a specially prepared laboratory or workroom that costs 1,000 gp to establish. The ritual takes 8 hours to complete. If the creator is personally constructing the construct's body, the construction and the ritual can be performed simultaneously. The creator must have a minimum caster level 4 higher than the base construct's minimum required caster level. In addition, the following spells must be cast during the ritual: [awaken construct](unknown:awaken construct), [eagle's splendor](unknown:eagle's splendor), [greater possession](unknown:greater possession), and [wish](unknown:wish)."
 		]
 	},
-	"Entothrope": {
-		"templatename": "Entothrope",
+	{
+		"template_name": "Entothrope",
 		"file": "monstertemplates922e.html",
 		"sources": [ "Bestiary 6" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"inherited": true,
 		"simple": false,
@@ -1828,11 +1828,11 @@
 			"When a PC becomes an entothrope, you as the GM have a choice to make. In most cases, you should take control of the PC's actions whenever she is in hybrid or vermin form-entothropy shouldn't be a method to increase a PC's power, after all, and what an afflicted entothrope does while in hybrid or vermin form is often at odds with what the character would actually want."
 		]
 	},
-	"Entropic": {
-		"templatename": "Entropic",
+	{
+		"template_name": "Entropic",
 		"file": "monstertemplates3826.html",
 		"sources": [ "Bestiary 2" ],
-		"crAdjustmentRange": [ 0, 1 ],
+		"cr_adjustment_range": [ 0, 1 ],
 		"acquired": true,
 		"simple": true,
 		"summonable": true,
@@ -1856,11 +1856,11 @@
 			"| 11+ | 15 | 10/lawful |"
 		]
 	},
-	"Eruphyte": {
-		"templatename": "Eruphyte",
+	{
+		"template_name": "Eruphyte",
 		"file": "monstertemplates1e45.html",
 		"sources": [ "Pathfinder #142: Gardens of Gallowspire" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -1893,11 +1893,11 @@
 			"**Abilities:** Int +6. An eruphyte creature gains feats and skill points according to its new Intelligence score. Eruphyte creatures typically receive feats that enhance their preexisting behavior patterns or enable new means of achieving the same goals. Eruphyte creatures with Intelligence scores of 10 or higher may receive feats that enable more advanced behaviors, tactics, or even social patterns, as befits their situation. They typically gain skill ranks in Knowledge or other Intelligence-based skills."
 		]
 	},
-	"Exoskeleton": {
-		"templatename": "Exoskeleton",
+	{
+		"template_name": "Exoskeleton",
 		"file": "monstertemplatesd1d9.html",
 		"sources": [ "Bestiary 6" ],
-		"crAdjustment": null,
+		"cr_adjustment": null,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -1983,11 +1983,11 @@
 			"Rarely, an exoskeleton is haunted by the lost spirit of a stubborn soul. This wreaks havoc on the spirit, wiping away most of its memories but giving the exoskeleton an Intelligence score of 10, along with all of the feats and skill ranks its Hit Dice would afford. Climb, Fly, Perception, and Swim are class skills for haunted exoskeletons. A haunted exoskeleton typically understands one language (usually Common) but cannot speak."
 		]
 	},
-	"Failed Prophet": {
-		"templatename": "Failed Prophet",
+	{
+		"template_name": "Failed Prophet",
 		"file": "monstertemplates47e5.html",
 		"sources": [ "Druma, Profit and Prophecy" ],
-		"crAdjustment": 2,
+		"cr_adjustment": 2,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -2032,11 +2032,11 @@
 			"**Plutophage (Ex):** A failed prophet can siphon the value from the valuables in her personal vault equal to 100 gp x her Hit Dice to negate 1 point of burn whenever she would accept burn from her aurokinesis. Ability Scores: Str +6, Dex +2, Int +2, Wis +4, Cha +2. A failed prophet has no Constitution score. Skills: Failed prophets have a +4 racial bonus on Appraise, Knowledge (arcana), Knowledge (religion), Perception, Sense Motive, and Stealth checks. A failed prophet's skills are the same as those of the base creature, except she treats Knowledge (arcana) and Knowledge (religion) as class skills as well."
 		]
 	},
-	"Fey Animal": {
-		"templatename": "Fey Animal",
+	{
+		"template_name": "Fey Animal",
 		"file": "monstertemplatesd22f.html",
 		"sources": [ "Lands of the Linnorm Kings" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"inherited": true,
 		"simple": false,
@@ -2083,11 +2083,11 @@
 			"**Languages:** Fey animals speak Sylvan plus one other language common to the region."
 		]
 	},
-	"Fey Creature": {
-		"templatename": "Fey Creature",
+	{
+		"template_name": "Fey Creature",
 		"file": "monstertemplatesb99b.html",
 		"sources": [ "Bestiary 3" ],
-		"crAdjustmentRange": [ 1, 2 ],
+		"cr_adjustment_range": [ 1, 2 ],
 		"acquired": true,
 		"inherited": true,
 		"simple": false,
@@ -2145,11 +2145,11 @@
 			"**Languages:** Fey creatures speak Sylvan as well as any languages spoken by the base creature."
 		]
 	},
-	"Fey-Touched Creature": {
-		"templatename": "Fey-Touched Creature",
+	{
+		"template_name": "Fey-Touched Creature",
 		"file": "monstertemplatese159.html",
 		"sources": [ "Heroes from the Fringe" ],
-		"crAdjustmentRange": [ 0, 1 ],
+		"cr_adjustment_range": [ 0, 1 ],
 		"inherited": true,
 		"simple": false,
 		"summonable": true,
@@ -2175,11 +2175,11 @@
 			"| 11+ | 10/cold iron |"
 		]
 	},
-	"Fiend-Infused": {
-		"templatename": "Fiend-Infused",
+	{
+		"template_name": "Fiend-Infused",
 		"file": "monstertemplatesc3d4.html",
 		"sources": [ "Cheliax, the Infernal Empire" ],
-		"crAdjustment": 2,
+		"cr_adjustment": 2,
 		"inherited": true,
 		"simple": false,
 		"summonable": false,
@@ -2216,11 +2216,11 @@
 			"The DC of the Craft check required to make the fiend-infused golem's body is 4 higher than the base creature's construct skill DC, and the creator must have a minimum caster level 4 higher than the base creature's minimum required caster level. The increase to the DC of the Craft check and to the caster level are halved (to 2 higher) if the creator possesses at least 10 ranks in Knowledge (planes)."
 		]
 	},
-	"Fiendish": {
-		"templatename": "Fiendish",
+	{
+		"template_name": "Fiendish",
 		"file": "monstertemplates80d1.html",
 		"sources": [ "Pathfinder RPG Bestiary" ],
-		"crAdjustmentRange": [ 0, 1 ],
+		"cr_adjustment_range": [ 0, 1 ],
 		"acquired": true,
 		"simple": true,
 		"summonable": true,
@@ -2244,11 +2244,11 @@
 			"| 11+ | 15 | 10/good |"
 		]
 	},
-	"Fiery": {
-		"templatename": "Fiery",
+	{
+		"template_name": "Fiery",
 		"file": "monstertemplates7d55.html",
 		"sources": [ "Monster Summoner's Handbook" ],
-		"crAdjustmentRange": [ 0, 1 ],
+		"cr_adjustment_range": [ 0, 1 ],
 		"acquired": true,
 		"simple": true,
 		"summonable": true,
@@ -2270,11 +2270,11 @@
 			"| 11+ | 5/- | 3d6 |"
 		]
 	},
-	"Fighter": {
-		"templatename": "Fighter",
+	{
+		"template_name": "Fighter",
 		"file": "monstertemplates3651.html",
 		"sources": [ "Monster Codex" ],
-		"crAdjustmentRange": [ 1, 2 ],
+		"cr_adjustment_range": [ 1, 2 ],
 		"acquired": true,
 		"simple": true,
 		"summonable": false,
@@ -2293,11 +2293,11 @@
 			"**Rebuild Rules:** **Special Attacks** If the creature has 5 or more HD, it gains weapon training (the creature gains only one weapon group, and its bonuses increase by 1 every 4 HD thereafter, to a maximum of +4); **Special** Abilities If the creature has 3 or more HD, it gains armor training (the bonus increases and penalty decreases for every 4 HD it possesses thereafter, to the class feature's normal maximums); **Ability Scores** +4 Strength; **Feats** The creature gains a bonus combat feat and an additional combat feat for every 4 HD (to a maximum of 10 feats from this ability)."
 		]
 	},
-	"First World Creature": {
-		"templatename": "First World Creature",
+	{
+		"template_name": "First World Creature",
 		"file": "monstertemplatesd5b3.html",
 		"sources": [ "The First World, Realm of the Fey" ],
-		"crAdjustmentRange": [ 0, 1 ],
+		"cr_adjustment_range": [ 0, 1 ],
 		"inherited": true,
 		"simple": false,
 		"summonable": true,
@@ -2322,11 +2322,11 @@
 			"| 11+ | 15 | 10/cold iron |"
 		]
 	},
-	"Fleshwarped Creature": {
-		"templatename": "Fleshwarped Creature",
+	{
+		"template_name": "Fleshwarped Creature",
 		"file": "monstertemplatescba0.html",
 		"sources": [ "Horror Adventures" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"simple": true,
 		"summonable": false,
@@ -2345,11 +2345,11 @@
 			"**Rebuild Rules:** **AC** increase natural armor bonus by 2; **Movement** The creature gains a movement new movement mode (climb, burrow, fly [clumsy], or swim) with a speed of 30 ft.; **Ability Scores** +4 Str, +4 Con, -4 Int, -4 Cha."
 		]
 	},
-	"Floodslain": {
-		"templatename": "Floodslain",
+	{
+		"template_name": "Floodslain",
 		"file": "monstertemplates1718.html",
 		"sources": [ "Belkzen, Hold of the Orc Hordes" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -2392,11 +2392,11 @@
 			"**Feats:** Floodslain creatures gain Toughness as a bonus feat."
 		]
 	},
-	"Foo Creature": {
-		"templatename": "Foo Creature",
+	{
+		"template_name": "Foo Creature",
 		"file": "monstertemplates0bdd.html",
 		"sources": [ "Bestiary 3" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"inherited": true,
 		"simple": false,
 		"summonable": false,
@@ -2450,11 +2450,11 @@
 			"**Step Five-Determine CR:** Compare the foo creature's statistics to determine the creature's final CR. An imperial foo creature has a minimum CR score of 11. If your creation's statistics aren't good enough to qualify for this CR minimum, continue adding racial Hit Dice until the imperial's statistics reach this minimum."
 		]
 	},
-	"Frostfallen Creature": {
-		"templatename": "Frostfallen Creature",
+	{
+		"template_name": "Frostfallen Creature",
 		"file": "monstertemplatesff9d.html",
 		"sources": [ "Pathfinder #51: The Hungry Storm" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -2511,11 +2511,11 @@
 			"**Lifesense (Su):** The frostfallen creature notices and locates living creatures within 60 feet, just as if it possessed the blindsight ability."
 		]
 	},
-	"Fungal Creature": {
-		"templatename": "Fungal Creature",
+	{
+		"template_name": "Fungal Creature",
 		"file": "monstertemplates47c8.html",
 		"sources": [ "Bestiary 4" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"inherited": true,
 		"simple": false,
 		"summonable": false,
@@ -2571,11 +2571,11 @@
 			"**Languages:** If a fungal creature is able to speak, it gains the ability to speak Sylvan in addition to any other languages the base creature knows."
 		]
 	},
-	"Fungoid": {
-		"templatename": "Fungoid",
+	{
+		"template_name": "Fungoid",
 		"file": "monstertemplates2ec4.html",
 		"sources": [ "Bestiary 6" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"simple": true,
 		"summonable": false,
@@ -2594,14 +2594,14 @@
 			"**Fungal Creature Template:** Optionally, you can use the [fungal creature template](unknown:fungal creature template) to represent creatures transformed by a fungus queen. In this case, the fungal creature's alignment changes to chaotic evil."
 		]
 	},
-	"Ghost": {
-		"templatename": "Ghost",
+	{
+		"template_name": "Ghost",
 		"file": "monstertemplatesa37e.html",
 		"sources": [
 			"Pathfinder RPG Bestiary",
 			"Classic Horrors Revisited"
 		],
-		"crAdjustment": 2,
+		"cr_adjustment": 2,
 		"acquired": true,
 		"simple": false,
 		"summonable": true,
@@ -2671,11 +2671,11 @@
 			"**Vehemence (Su):** A ghost with a powerful connection to a specific location gains a measure of mastery over the objects in that place. Once per round, a ghost can possess an object of size Large or smaller, giving it life as an animated object. This animated object's CR can be no higher than the ghost's CR minus 2. If the target object is being held by a creature, the object can make a Will save using its bearer's saving throw to resist possession. If the animated object is destroyed, the ghost reappears in its square and cannot possess another object for 1d4 rounds. (CR +0)"
 		]
 	},
-	"Ghoulish Creature": {
-		"templatename": "Ghoulish Creature",
+	{
+		"template_name": "Ghoulish Creature",
 		"file": "monstertemplates8316.html",
 		"sources": [ "Horror Adventures" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"simple": true,
 		"summonable": false,
@@ -2694,11 +2694,11 @@
 			"**Rebuild Rules:** **Type** change to undead; **Senses** darkvision 60 ft.; **AC** natural armor bonus increases by 1; **Melee** two claw attacks that each deal 1d4 points of damage (for Medium creatures) plus paralysis and one bite attack that deals 1d6 points of damage (for Medium creatures) plus paralysis and disease; **Special Attacks** disease (Ghoul Fever: Bite-injury; save Fort DC = 10 + 1/2 HD + Cha modifier; onset 1 day; frequency 1/day; effect 1d3 points of Con damage and 1d3 points of Dex damage; cure 2 consecutive saves), paralysis (1d4+1 rounds, DC = 10 + 1/2 HD + Cha modifier, elves are immune); **Ability Scores** +2 Str, +2 Cha."
 		]
 	},
-	"Giant": {
-		"templatename": "Giant",
+	{
+		"template_name": "Giant",
 		"file": "monstertemplates1d95.html",
 		"sources": [ "Pathfinder RPG Bestiary" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"simple": true,
 		"summonable": false,
@@ -2717,11 +2717,11 @@
 			"**Rebuild Rules:** **Size** increase by one category; **AC** increase natural armor by +3; **Attacks** increase dice rolled by 1 step; **Ability Scores** +4 size bonus to Str and Con, -2 Dex."
 		]
 	},
-	"Giantkin Ogre": {
-		"templatename": "Giantkin Ogre",
+	{
+		"template_name": "Giantkin Ogre",
 		"file": "monstertemplatesfc40.html",
 		"sources": [ "Monster Codex" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"inherited": true,
 		"simple": false,
 		"summonable": false,
@@ -2747,11 +2747,11 @@
 			"| Stoneblood | Rock catching, rock throwing (1d8, 120 ft.) |"
 		]
 	},
-	"Gnarled Creature": {
-		"templatename": "Gnarled Creature",
+	{
+		"template_name": "Gnarled Creature",
 		"file": "monstertemplatesf361.html",
 		"sources": [ "The Witchwar Legacy" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"simple": true,
 		"summonable": true,
@@ -2770,11 +2770,11 @@
 			"**Rebuild Rules:** **AC** increase natural armor by +3; **Speed** reduce base speed by 10 ft. (cannot be lower than 10 ft.); **Defensive Abilities** gains the ferocity ability; **Ability Scores** +2 Str, +2 Con, -2 Dex, -4 Cha."
 		]
 	},
-	"Granule Construct Host": {
-		"templatename": "Granule Construct Host",
+	{
+		"template_name": "Granule Construct Host",
 		"file": "monstertemplatesd062.html",
 		"sources": [ "Seven Swords of Sin" ],
-		"crAdjustment": 0,
+		"cr_adjustment": 0,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -2829,14 +2829,14 @@
 			"**Challenge Rating:** As base creature."
 		]
 	},
-	"Graveknight": {
-		"templatename": "Graveknight",
+	{
+		"template_name": "Graveknight",
 		"file": "monstertemplatesf6ba.html",
 		"sources": [
 			"Bestiary 3",
 			"Undead Revisited"
 		],
-		"crAdjustment": 2,
+		"cr_adjustment": 2,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -2898,11 +2898,11 @@
 			"Once this final step is taken, the graveknight-to-be has a 75% chance of rising as a graveknight. This chance rises by 1% per point of Charisma possessed by the graveknight-to-be at the time of his death. Additional factors can increase this chance as well, at the GM's discretion"
 		]
 	},
-	"Guardian Spirit": {
-		"templatename": "Guardian Spirit",
+	{
+		"template_name": "Guardian Spirit",
 		"file": "monstertemplates8ad0.html",
 		"sources": [ "Monster Summoner's Handbook" ],
-		"crAdjustment": null,
+		"cr_adjustment": null,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -2960,11 +2960,11 @@
 			"**Co-Walker (Sp):** When conjured by an 8th-level or higher spell, a guardian spirit can assume the shape of its ward as if with alter self, except it can appear to be only the ward (even if the ward is not of a creature type or size that can normally be assumed with alter self) and it gains a +10 bonus on Disguise checks to appear to be the ward."
 		]
 	},
-	"Half-Celestial": {
-		"templatename": "Half-Celestial",
+	{
+		"template_name": "Half-Celestial",
 		"file": "monstertemplates6c5b.html",
 		"sources": [ "Pathfinder RPG Bestiary" ],
-		"crAdjustmentRange": [ 1, 3 ],
+		"cr_adjustment_range": [ 1, 3 ],
 		"acquired": true,
 		"inherited": true,
 		"simple": false,
@@ -3014,11 +3014,11 @@
 			"**Skills:** A half-celestial with racial Hit Dice has skill points per racial Hit Die equal to 6 + its Intelligence modifier. Racial class skills are unchanged from the base creature's. Skill ranks from class levels are unaffected."
 		]
 	},
-	"Half-Dragon": {
-		"templatename": "Half-Dragon",
+	{
+		"template_name": "Half-Dragon",
 		"file": "monstertemplatesf32d.html",
 		"sources": [ "Pathfinder RPG Bestiary" ],
-		"crAdjustment": 2,
+		"cr_adjustment": 2,
 		"acquired": true,
 		"inherited": true,
 		"simple": false,
@@ -3060,14 +3060,14 @@
 			"**Skills:** A half-dragon with racial Hit Dice has skill points per racial Hit Die equal to 6 + its Intelligence modifier. Racial class skills are unchanged from the base creature's."
 		]
 	},
-	"Half-Fiend": {
-		"templatename": "Half-Fiend",
+	{
+		"template_name": "Half-Fiend",
 		"file": "monstertemplates248d.html",
 		"sources": [
 			"Pathfinder RPG Bestiary",
 			"Demons Revisited"
 		],
-		"crAdjustmentRange": [ 1, 3 ],
+		"cr_adjustment_range": [ 1, 3 ],
 		"acquired": true,
 		"inherited": true,
 		"simple": false,
@@ -3272,11 +3272,11 @@
 			"Abilities:A half-vrock gains Str +4, Dex +2, Con +4, Int +2, Wis 4, and Cha +2."
 		]
 	},
-	"Half-Janni": {
-		"templatename": "Half-Janni",
+	{
+		"template_name": "Half-Janni",
 		"file": "monstertemplates1e5e.html",
 		"sources": [ "Qadira, Gateway to the East" ],
-		"crAdjustment": 2,
+		"cr_adjustment": 2,
 		"acquired": true,
 		"simple": false,
 		"summonable": true,
@@ -3325,11 +3325,11 @@
 			"**Challenge Rating:** Same as base creature +2"
 		]
 	},
-	"Haunted Construct": {
-		"templatename": "Haunted Construct",
+	{
+		"template_name": "Haunted Construct",
 		"file": "monstertemplates3a46.html",
 		"sources": [ "Construct Handbook" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -3380,11 +3380,11 @@
 			"**Ability Scores:** If the base creature's Charisma score is less than 10, then its Charisma score changes to 14; otherwise a haunted construct receives a +4 bonus to Charisma. A haunted construct receives a +4 bonus to its Intelligence score and generally has the same skills the soul had in life. If the base creature lacked an Intelligence score, it gains an Intelligence score of 4 and generally selects the same feats its soul had in life."
 		]
 	},
-	"Haunted One": {
-		"templatename": "Haunted One",
+	{
+		"template_name": "Haunted One",
 		"file": "monstertemplates1d2f.html",
 		"sources": [ "Rival Guide" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -3435,11 +3435,11 @@
 			"An [atonement](unknown:atonement) spell cast on a haunted one by a spellcaster of the same alignment that the host had before becoming a haunted one allows the host a new DC 15 Will save to expel the rider, if the haunted one so wishes. In this case, the host loses the template as if the rider had departed the host voluntarily, but does not suffer the ability drain effect."
 		]
 	},
-	"Hell Engine": {
-		"templatename": "Hell Engine",
+	{
+		"template_name": "Hell Engine",
 		"file": "monstertemplatesba6b.html",
 		"sources": [ "Construct Handbook" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -3497,11 +3497,11 @@
 			"Powerful hell engines require more soul energy to activate; the devil and the mortal signing the contract must each have at least 1 Hit Die per 2 Hit Dice of the hell engine they wish to animate. A devil can use multiple souls to fuel the same hell engine as long as the total number of Hit Dice between the mortal signatories equals at least half the Hit Dice of the construct. However, convincing numerous mortals to sign away their souls for shared custody of a construct can be difficult, even for an accomplished dealmaker."
 		]
 	},
-	"Hellbound Creature": {
-		"templatename": "Hellbound Creature",
+	{
+		"template_name": "Hellbound Creature",
 		"file": "monstertemplatesdc11.html",
 		"sources": [ "Horror Adventures" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"simple": true,
 		"summonable": false,
@@ -3527,11 +3527,11 @@
 			"| 17 or more | Ice devil | 9th |"
 		]
 	},
-	"Hive Creature": {
-		"templatename": "Hive Creature",
+	{
+		"template_name": "Hive Creature",
 		"file": "monstertemplates1247.html",
 		"sources": [ "Horror Adventures" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"simple": true,
 		"summonable": false,
@@ -3550,11 +3550,11 @@
 			"**Rebuild Rules:** **Type** gain the hive subtype and all the corresponding abilities; **AC** natural armor bonus increases by 2; **Melee** two claw attacks that each deal 1d4 points of damage (for Medium creatures) and one bite attack that deals 1d6 points of damage (for Medium creatures); **Ability Scores** +2 Str, +2 Dex, +2 Con, -6 Cha."
 		]
 	},
-	"Hivemind Swarm": {
-		"templatename": "Hivemind Swarm",
+	{
+		"template_name": "Hivemind Swarm",
 		"file": "monstertemplates9355.html",
 		"sources": [ "Bestiary 6" ],
-		"crAdjustment": null,
+		"cr_adjustment": null,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -3609,11 +3609,11 @@
 			"**Hivemind Nexus (Ex):** The collective intelligence of the hivemind comprises a complex series of connections and pathways among the members of the swarm. In order to focus the mental power of the swarm, the collective network of minds selects an individual member known as a \"nexus.\" It is through the nexus that all actions and decisions are routed to the entire hivemind. A hivemind nexus often acts in a slightly different manner than the other members of the swarm, and an observer can single out a hivemind swarm's nexus as a move action with a successful Perception check opposed by the hivemind's Bluff or Stealth check (whichever skill has a higher modifier for the hivemind). The hivemind gains a racial modifier of +10 on this Bluff or Stealth check, due to the hundreds of similar-looking creatures constantly moving around it. Once a nexus is spotted, it can be slain if the observer manages to deal at least 1 point of damage to the swarm, provided that damage is applied in the same round that the observer managed to identify the nexus. If a nexus is destroyed, the hivemind swarm is staggered and must succeed at a concentration check (DC = 15 + twice the spell level) in order to cast a spell. A hivemind swarm is able to create a new nexus by spending 1d6 rounds concentrating, during which time it can take no other action (including making any swarm attacks)."
 		]
 	},
-	"Id Mutant": {
-		"templatename": "Id Mutant",
+	{
+		"template_name": "Id Mutant",
 		"file": "monstertemplates5341.html",
 		"sources": [ "Doom Comes to Dustpawn" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"simple": false,
 		"summonable": true,
@@ -3657,11 +3657,11 @@
 			"**Thick Hide (Ex):** The id mutant's thick hide grants it DR 2/piercing. This mutation can be selected multiple times-each time it is selected, the DR increases by 2."
 		]
 	},
-	"Implacable Stalker": {
-		"templatename": "Implacable Stalker",
+	{
+		"template_name": "Implacable Stalker",
 		"file": "monstertemplatesb4c3.html",
 		"sources": [ "Horror Adventures" ],
-		"crAdjustment": 2,
+		"cr_adjustment": 2,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -3712,11 +3712,11 @@
 			"**Feats:** Implacable stalkers gain Diehard, Endurance, Intimidating Prowess, and Toughness as bonus feats."
 		]
 	},
-	"Jiang-Shi": {
-		"templatename": "Jiang-Shi",
+	{
+		"template_name": "Jiang-Shi",
 		"file": "monstertemplatesd01f.html",
 		"sources": [ "Bestiary 3" ],
-		"crAdjustment": 2,
+		"cr_adjustment": 2,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -3760,14 +3760,14 @@
 			"**Skills:** Jiang-shis gain a +8 racial bonus on Acrobatics, Perception, and Stealth checks."
 		]
 	},
-	"JuJu Zombie": {
-		"templatename": "JuJu Zombie",
+	{
+		"template_name": "JuJu Zombie",
 		"file": "monstertemplates0715.html",
 		"sources": [
 			"Bestiary 2",
 			"Pathfinder #71: Rasputin must Die!"
 		],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -3804,11 +3804,11 @@
 			"Symbiote (Ex) A unique relationship with trench mists grants trench zombies immunity to acid. In addition, when a trench zombie reaches 0 hit points and is destroyed, the mustard-colored mist that animates the creature bursts violently from its damaged form. All creatures adjacent to the trench zombie are exposed to the toxic gas and take 4d6 points of acid damage. If the trench zombie is enveloped within the fog of its parent trench mist when this death burst occurs, the mist's fast healing ability increases by 1 for a number of rounds equal to the Hit Dice of the destroyed trench zombie. The effects of the deaths of multiple symbiotic trench zombies stack."
 		]
 	},
-	"Kanabo": {
-		"templatename": "Kanabo",
+	{
+		"template_name": "Kanabo",
 		"file": "monstertemplates31ed.html",
 		"sources": [ "Distant Shores" ],
-		"crAdjustmentRange": [ 0, 1 ],
+		"cr_adjustment_range": [ 0, 1 ],
 		"inherited": true,
 		"simple": false,
 		"summonable": false,
@@ -3843,11 +3843,11 @@
 			"**Skills:** A kanabo with racial HD has skill ranks equal to 6 + its Intelligence modifier for each racial HD. Racial class skills are unchanged, and class level skill ranks are unaffected."
 		]
 	},
-	"Lich": {
-		"templatename": "Lich",
+	{
+		"template_name": "Lich",
 		"file": "monstertemplates37f3.html",
 		"sources": [ "Pathfinder RPG Bestiary" ],
-		"crAdjustment": 2,
+		"cr_adjustment": 2,
 		"acquired": true,
 		"simple": false,
 		"summonable": true,
@@ -3908,11 +3908,11 @@
 			"Only lineal ancestors or descendants of the familial lich, as well as siblings, are eligible targets for possession (aunts, uncles, nieces, nephews, cousins, and so forth are immune)."
 		]
 	},
-	"Lich Creature": {
-		"templatename": "Lich Creature",
+	{
+		"template_name": "Lich Creature",
 		"file": "monstertemplates69a0.html",
 		"sources": [ "Horror Adventures" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"simple": true,
 		"summonable": false,
@@ -3931,11 +3931,11 @@
 			"**Rebuild Rules:** **Type** change to undead; **Senses** darkvision 60 ft.; **Defensive Abilities** rejuvenation; **Immune** cold, electricity; **Melee** touch attack deals 1d8 + 1/2 HD points of damage plus paralyzing touch; **Special Attacks** fear aura, paralyzing touch; **Ability Scores** +2 Int, +2 Wis, +2 Cha."
 		]
 	},
-	"Lycanthrope": {
-		"templatename": "Lycanthrope",
+	{
+		"template_name": "Lycanthrope",
 		"file": "monstertemplatesc814.html",
 		"sources": [ "Pathfinder RPG Bestiary" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"inherited": true,
 		"simple": false,
@@ -4022,11 +4022,11 @@
 			"**Ability Scores:** When the moon is nearly full, the moonbound werewolf gains +2 Strength and +2 Constitution in human form, and the bonuses he gains in hybrid and animal forms increase to +4. When the moon is full, the moonbound werewolf gains +4 Strength and +4 Constitution in human form, and the bonuses he gains in hybrid and animal forms increase to +6. When the moon is new, the moonbound werewolf has -2 Strength and -2 Constitution in all forms, instead of the normal +2 bonuses."
 		]
 	},
-	"Lycanthropic Creature": {
-		"templatename": "Lycanthropic Creature",
+	{
+		"template_name": "Lycanthropic Creature",
 		"file": "monstertemplatesd824.html",
 		"sources": [ "Horror Adventures" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"simple": true,
 		"summonable": false,
@@ -4045,11 +4045,11 @@
 			"**Rebuild Rules:** **Type** gain the shapechanger subtype; DR 5/ silver; **Senses** low-light vision, scent; **AC** natural armor bonus increases by 1; **Melee** bite attack that deals 1d6 points of damage (for Medium creatures) plus curse of lycanthropy; **Special Attacks** curse of lycanthropy; **Special Qualities** change shape (normal or hybrid form; polymorph), lycanthropic empathy (as appropriate for the lycanthrope); **Ability Scores** +2 Str, +2 Dex, +2 Con."
 		]
 	},
-	"Mana Wastes Mutant": {
-		"templatename": "Mana Wastes Mutant",
+	{
+		"template_name": "Mana Wastes Mutant",
 		"file": "monstertemplatesab0c.html",
 		"sources": [ "Inner Sea Bestiary" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -4110,11 +4110,11 @@
 			"**Skills:** A Mana Wastes mutant gains Climb, Intimidate, Stealth, and Survival as class skills."
 		]
 	},
-	"Man-Eating Animal": {
-		"templatename": "Man-Eating Animal",
+	{
+		"template_name": "Man-Eating Animal",
 		"file": "monstertemplates897d.html",
 		"sources": [ "Pathfinder #74: Sword of Valor" ],
-		"crAdjustmentRange": [ 1, 3 ],
+		"cr_adjustment_range": [ 1, 3 ],
 		"acquired": true,
 		"inherited": true,
 		"simple": false,
@@ -4168,11 +4168,11 @@
 			"The Blood of Baphomet wondrous item can be found [here](unknown:here)."
 		]
 	},
-	"Mongrel Giant": {
-		"templatename": "Mongrel Giant",
+	{
+		"template_name": "Mongrel Giant",
 		"file": "monstertemplates0a33.html",
 		"sources": [ "Bestiary 6" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"inherited": true,
 		"simple": false,
 		"summonable": false,
@@ -4249,11 +4249,11 @@
 			"[Wood Giant](unknown:Wood Giant): Wood mongrels have pale pink skin and prominent brows. They can use the following spell-like abilities once per day: [charm animal](unknown:charm animal), [enlarge person (self only)](unknown:enlarge person (self only)), [pass without trace](unknown:pass without trace), [quench](unknown:quench), [speak with animals](unknown:speak with animals), [spike growth](unknown:spike growth), and [tree shape](unknown:tree shape). Dexterity +2."
 		]
 	},
-	"Monk": {
-		"templatename": "Monk",
+	{
+		"template_name": "Monk",
 		"file": "monstertemplates9dae.html",
 		"sources": [ "Monster Codex" ],
-		"crAdjustmentRange": [ 2, 3 ],
+		"cr_adjustment_range": [ 2, 3 ],
 		"acquired": true,
 		"simple": true,
 		"summonable": false,
@@ -4272,11 +4272,11 @@
 			"**Rebuild Rules:** **Defensive Abilities** evasion (improved evasion if the creature has 10 or more HD), and if the creature is wearing no armor, it gains a bonus to AC equal its Wis modifier. This bonus to AC increases by 1 for every 4 HD (to a maximum of +5 at 20 HD); **Special Attacks** when the creature makes a full attack with unarmed strikes or natural attacks, it can make an extra attack of the same type with a -5 penalty. If the creature uses unarmed strikes, it deals damage as if it were a monk with a level equal to its HD (maximum 20 HD). A creature with 10 or more HD that uses natural attacks increases the damage dealt by all of its natural attacks by one die step instead; **Ability Scores** +4 Dexterity and Wisdom; **Feats** Improved Unarmed Strike."
 		]
 	},
-	"Mummified Animal": {
-		"templatename": "Mummified Animal",
+	{
+		"template_name": "Mummified Animal",
 		"file": "monstertemplates438c.html",
 		"sources": [ "Pathfinder #81: Shifting Sands" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -4303,14 +4303,14 @@
 			"**Abilities:** A mummified animal loses its Constitution score, and its Charisma score becomes 14."
 		]
 	},
-	"Mummified Creature": {
-		"templatename": "Mummified Creature",
+	{
+		"template_name": "Mummified Creature",
 		"file": "monstertemplates68a8.html",
 		"sources": [
 			"Bestiary 4",
 			"Pathfinder #81: Shifting Sands"
 		],
-		"crAdjustmentRange": [ 1, 2 ],
+		"cr_adjustment_range": [ 1, 2 ],
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -4413,11 +4413,11 @@
 			"**Swamp Crumble:** This affliction causes 1d3 points of Dexterity, Constitution, and Charisma damage. The disease dissolves the bones, leaving behind a putrid mass of skin and organs after death. Bludgeoning weapons and effects deal 1 additional point of damage per die against those afflicted with swamp crumble. As the diseases progresses, the victim's hair turns the color of fresh-spilled blood."
 		]
 	},
-	"Mummy Lord": {
-		"templatename": "Mummy Lord",
+	{
+		"template_name": "Mummy Lord",
 		"file": "monstertemplatesc939.html",
 		"sources": [ "Bestiary 5" ],
-		"crAdjustment": 2,
+		"cr_adjustment": 2,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -4472,11 +4472,11 @@
 			"**Feats:** A mummy lord gains [Toughness](unknown:Toughness) as a bonus feat."
 		]
 	},
-	"Mutant": {
-		"templatename": "Mutant",
+	{
+		"template_name": "Mutant",
 		"file": "monstertemplatesbab5.html",
 		"sources": [ "Bestiary 5" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -4573,11 +4573,11 @@
 			"**Wings (Ex):** The mutant grows wings, gaining a fly speed of 40 feet with average maneuverability."
 		]
 	},
-	"Mutant Goblin": {
-		"templatename": "Mutant Goblin",
+	{
+		"template_name": "Mutant Goblin",
 		"file": "monstertemplates8a81.html",
 		"sources": [ "Monster Codex" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -4607,11 +4607,11 @@
 			"**Abilities:** Str +4, Int -2."
 		]
 	},
-	"Nightmare Creature": {
-		"templatename": "Nightmare Creature",
+	{
+		"template_name": "Nightmare Creature",
 		"file": "monstertemplates0aed.html",
 		"sources": [ "Bestiary 4" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"inherited": true,
 		"simple": false,
@@ -4672,11 +4672,11 @@
 			"**Ability Scores:** Dex +2, Int +2, Cha +2."
 		]
 	},
-	"Nosferatu": {
-		"templatename": "Nosferatu",
+	{
+		"template_name": "Nosferatu",
 		"file": "monstertemplatesab75.html",
 		"sources": [ "Bestiary 4" ],
-		"crAdjustment": 2,
+		"cr_adjustment": 2,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -4735,11 +4735,11 @@
 			"**Feats:** A nosferatu gains Alertness, Improved Initiative, Lightning Reflexes, and Skill Focus (in two different skills) as bonus feats."
 		]
 	},
-	"Osirion Mummy": {
-		"templatename": "Osirion Mummy",
+	{
+		"template_name": "Osirion Mummy",
 		"file": "monstertemplatesb046.html",
 		"sources": [ "Entombed with the Pharaohs" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -4812,11 +4812,11 @@
 			"**Level Adjustment:** +3."
 		]
 	},
-	"Paladin": {
-		"templatename": "Paladin",
+	{
+		"template_name": "Paladin",
 		"file": "monstertemplates3035.html",
 		"sources": [ "Monster Codex" ],
-		"crAdjustmentRange": [ 2, 3 ],
+		"cr_adjustment_range": [ 2, 3 ],
 		"acquired": true,
 		"simple": true,
 		"summonable": false,
@@ -4835,11 +4835,11 @@
 			"**Rebuild Rules:** **Defensive Abilities** divine grace (if the creature has 10 or more HD, it also gains aura of resolve-); **Special Attacks** smite evil ability once per day (treating its HD as its paladin level for the purposes of damage); **Special Qualities** detect evil as the paladin class feature, lay on hands' once per day (healing 1d6 hit points for every 2 HD the creature possesses instead of using its paladin level); **Ability Scores** +4 Strength and Charisma."
 		]
 	},
-	"Pallid Vector": {
-		"templatename": "Pallid Vector",
+	{
+		"template_name": "Pallid Vector",
 		"file": "monstertemplates12b4.html",
 		"sources": [ "Villain Codex" ],
-		"crAdjustment": 2,
+		"cr_adjustment": 2,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -4877,11 +4877,11 @@
 			"**Ability Scores:** Str +2, Con +4, Wis +2."
 		]
 	},
-	"Penanggalen": {
-		"templatename": "Penanggalen",
+	{
+		"template_name": "Penanggalen",
 		"file": "monstertemplatesd163.html",
 		"sources": [ "Bestiary 3" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -4929,8 +4929,8 @@
 			"**Separate (Su):** During the day, a penanggalen has the same appearance as she did in life, and does not detect as undead (though she is still an undead creature). At night, she can detach her head and entrails as a full-round action. Her physical but now hollow body exists as dead flesh, but can be destroyed if it suffers damage equal to the penanggalen's normal hit point total. Before a penanggalen can return to her body, she must soak her entrails in vinegar for 1 hour'she can then reattach to her body, at which point any damage done to the body immediately heals (although damage the penanggalen herself suffered remains). A penanggalen whose body is destroyed can never again walk the day in living form, but is otherwise unharmed (save for no longer having a safe way to travel in direct sunlight). When a penanggalen wears her body, she cannot use her natural attacks, her fly speed, or any of her special penanggalen attacks."
 		]
 	},
-	"Petitioner": {
-		"templatename": "Petitioner",
+	{
+		"template_name": "Petitioner",
 		"file": "monstertemplates5d4a.html",
 		"sources": [ "Bestiary 2" ],
 		"acquired": true,
@@ -4980,11 +4980,11 @@
 			"**Utopia (Lawful Neutral):** The \"remade\" retain the same body shape but have milky white skin covered in dense black script, as if some strange scribe had used them for parchment. Upon deciphering the riddles posed by these complex lines of script, one of the remade can enter an axiomite forge to be transformed into an inevitable. The remade are immune to hostile transmutation effects and gain a +2 bonus to Intelligence."
 		]
 	},
-	"Pickin Ogre": {
-		"templatename": "Pickin Ogre",
+	{
+		"template_name": "Pickin Ogre",
 		"file": "monstertemplates0fb1.html",
 		"sources": [ "Monster Codex" ],
-		"crAdjustment": 0,
+		"cr_adjustment": 0,
 		"inherited": true,
 		"simple": true,
 		"summonable": false,
@@ -5003,11 +5003,11 @@
 			"**Rebuild Rules:** **Ability Scores** -2 Dexterity; **Attacks** gains a bite attack (1d8) ."
 		]
 	},
-	"Plagued Beast": {
-		"templatename": "Plagued Beast",
+	{
+		"template_name": "Plagued Beast",
 		"file": "monstertemplatesa1ef.html",
 		"sources": [ "Bestiary 5" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -5044,11 +5044,11 @@
 			"**Feats:** A plagued beast gains [Toughness](unknown:Toughness) as a bonus feat."
 		]
 	},
-	"Pod-Spawned": {
-		"templatename": "Pod-Spawned",
+	{
+		"template_name": "Pod-Spawned",
 		"file": "monstertemplatescba4.html",
 		"sources": [ "Bestiary 4" ],
-		"crAdjustmentRange": [
+		"cr_adjustment_range": [
 			-2,
 			0
 		],
@@ -5080,11 +5080,11 @@
 			"**Special Abilities:** The creature loses any spellcasting ability and all spell-like and supernatural abilities."
 		]
 	},
-	"Possessed Creature": {
-		"templatename": "Possessed Creature",
+	{
+		"template_name": "Possessed Creature",
 		"file": "monstertemplatesa81e.html",
 		"sources": [ "Horror Adventures" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"simple": true,
 		"summonable": false,
@@ -5103,11 +5103,11 @@
 			"**Rebuild Rules:** **Defensive Abilities** +4 on Will saves; after failing a save against a mind-affecting effect, reroll the save, but the spirit takes control if the second save succeeds; **Special Qualities** always acts on the surprise round; **Ability Scores** +4 Cha."
 		]
 	},
-	"Prana Ghost": {
-		"templatename": "Prana Ghost",
+	{
+		"template_name": "Prana Ghost",
 		"file": "monstertemplatesb7ec.html",
 		"sources": [ "Occult Bestiary" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -5166,11 +5166,11 @@
 			"**Feats:** Prana ghosts gain Alertness, Improved Initiative, and Toughness as bonus feats."
 		]
 	},
-	"Primordial": {
-		"templatename": "Primordial",
+	{
+		"template_name": "Primordial",
 		"file": "monstertemplatesd0b6.html",
 		"sources": [ "Monster Summoner's Handbook" ],
-		"crAdjustmentRange": [ 0, 1 ],
+		"cr_adjustment_range": [ 0, 1 ],
 		"acquired": true,
 		"simple": true,
 		"summonable": true,
@@ -5192,11 +5192,11 @@
 			"| 11+ | 10/cold iron | Lesser confusion |"
 		]
 	},
-	"Promethean Creature": {
-		"templatename": "Promethean Creature",
+	{
+		"template_name": "Promethean Creature",
 		"file": "monstertemplatescde5.html",
 		"sources": [ "Horror Adventures" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"simple": true,
 		"summonable": false,
@@ -5215,11 +5215,11 @@
 			"**Rebuild Rules:** **AC** natural armor bonus increases by 4; **Defensive Abilities** +4 on saving throws vs. poison and disease, immune to emotion effects except those that produce rage, hatred, or anger; automatically stabilize when below 0 hp; **Melee** slam attack that deals 1d6 points of damage (for Medium creatures); **Special Qualities** doesn't need to eat, sleep, or drink; **Ability Scores** +4 Str."
 		]
 	},
-	"Prophecy-Addled Creature": {
-		"templatename": "Prophecy-Addled Creature",
+	{
+		"template_name": "Prophecy-Addled Creature",
 		"file": "monstertemplates7546.html",
 		"sources": [ "Pathfinder #125: Tower of the Drowned Dead" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -5236,11 +5236,11 @@
 			"**Rebuild Rules:** **AC** increase insight bonus by +2; Saves +2 insight bonus on Fortitude and Reflex saves, -4 penalty on saves against confusion effects; **Special Qualities** If the creature has flash of brutality, flash of insight, or another special quality that allows it to reroll a d20 roll a certain number of times each day, it can use that ability two additional times each day. If not, the creature gains the following special quality. **Prophetic Insight (Su):** Three times per day as an immediate action, the prophecy-addled creature can reroll any one d20 roll that it has just made before the results of the roll are revealed. It must take the result of the reroll, even if it's worse than the original rol"
 		]
 	},
-	"Psychic Lich": {
-		"templatename": "Psychic Lich",
+	{
+		"template_name": "Psychic Lich",
 		"file": "monstertemplates5798.html",
 		"sources": [ "Occult Bestiary" ],
-		"crAdjustment": 2,
+		"cr_adjustment": 2,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -5301,11 +5301,11 @@
 			"**Feats:** A psychic lich gains Psychic Combatant, and Psychic Defender as bonus feats, even if it does not meet the prerequisites."
 		]
 	},
-	"Psychic Vampire": {
-		"templatename": "Psychic Vampire",
+	{
+		"template_name": "Psychic Vampire",
 		"file": "monstertemplates4efc.html",
 		"sources": [ "Occult Bestiary" ],
-		"crAdjustment": 2,
+		"cr_adjustment": 2,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -5374,11 +5374,11 @@
 			"**Skills:** Psychic vampires gain a +8 racial bonus on Bluff, Perception, Sense Motive, and Stealth checks."
 		]
 	},
-	"Psychoplasmic": {
-		"templatename": "Psychoplasmic",
+	{
+		"template_name": "Psychoplasmic",
 		"file": "monstertemplates93ab.html",
 		"sources": [ "Occult Bestiary" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -5440,11 +5440,11 @@
 			"**Special Abilities:** The flexible body of a psychoplasmic creature grants it the compression ability."
 		]
 	},
-	"Radiant Creature": {
-		"templatename": "Radiant Creature",
+	{
+		"template_name": "Radiant Creature",
 		"file": "monstertemplatese700.html",
 		"sources": [ "Planar Adventures" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"inherited": true,
 		"simple": true,
@@ -5466,11 +5466,11 @@
 			"Radiant creatures cannot exist long outside of the Positive Energy Plane and treat all other planes as if they had the major negative-dominant essence trait."
 		]
 	},
-	"Rampant": {
-		"templatename": "Rampant",
+	{
+		"template_name": "Rampant",
 		"file": "monstertemplatesd9d5.html",
 		"sources": [ "Pathfinder #142: Gardens of Gallowspire" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -5503,11 +5503,11 @@
 			"**Verdant Genesis (Su):** Every week, a group of living plants within 1 mile of the rampant creature grows into new plant creatures with total combined Hit Dice no higher than the rampant creature's total Hit Dice. For instance, a rampant [quickwood](unknown:quickwood) with 10 HD could create two 4 HD [assassin vines](unknown:assassin vines) and two 1 HD [vegepygmies](unknown:vegepygmies). These new creatures are not under the rampant creature's command. These new creatures each take 1 permanent negative level for each full day they spend more than 1 mile from the rampant creature that spawned them. A rampant creature cannot suppress its verdant genesis ability."
 		]
 	},
-	"Ranger": {
-		"templatename": "Ranger",
+	{
+		"template_name": "Ranger",
 		"file": "monstertemplates3a9e.html",
 		"sources": [ "Monster Codex" ],
-		"crAdjustmentRange": [ 1, 2 ],
+		"cr_adjustment_range": [ 1, 2 ],
 		"acquired": true,
 		"simple": true,
 		"summonable": false,
@@ -5526,14 +5526,14 @@
 			"**Rebuild Rules:** **Defensive Abilities** evasion (if the creature has 10 or more HD); **Special Attacks** favored enemy (choosing only one favored enemy; the favored enemy bonus increases by 2 at 5 HD and every 5 HD thereafter, to a maximum of +10 at 20 HD); **Special Qualities** track; **Ability Scores** +4 Strength or Dexterity; **Feats** either Point-Blank Shot or Two-Weapon Fighting as a bonus feat (if the creature has 10 or more HD, choose two more bonus feats from the lists in the combat style ranger class feature-either from archery if the creature took Point-Blank Shot, or from two-weapon combat if the creature took Two-Weapon Fighting)."
 		]
 	},
-	"Ravener": {
-		"templatename": "Ravener",
+	{
+		"template_name": "Ravener",
 		"file": "monstertemplates5263.html",
 		"sources": [
 			"Bestiary 2",
 			"Undead Revisited"
 		],
-		"crAdjustment": 2,
+		"cr_adjustment": 2,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -5584,11 +5584,11 @@
 			"A Thassilonian ravener's bones are etched with numerous runes of power. These runes alter the link between the ravener's magic and her soul ward. A Thassilonian ravener lacks the soul magic ability of most raveners'she casts her spells as normal for a dragon, using spell slots. Each time a Thassilonian ravener casts a spell, she heals damage equal to twice the level of the spell cast. If her soul ward is damaged, any \"healing\" the ravener gains from casting spells applies first to restoring hit points to her soul ward. If a ravener casts a spell while both her soul ward and her body are at full hit points, she becomes hasted for 1 round."
 		]
 	},
-	"Recycled Construct": {
-		"templatename": "Recycled Construct",
+	{
+		"template_name": "Recycled Construct",
 		"file": "monstertemplates1c9e.html",
 		"sources": [ "Construct Handbook" ],
-		"crAdjustment": -1,
+		"cr_adjustment": -1,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -5647,11 +5647,11 @@
 			"| 6 | The recycled robot has a 5% chance each round of acting erratically, as if confused. |"
 		]
 	},
-	"Resolute": {
-		"templatename": "Resolute",
+	{
+		"template_name": "Resolute",
 		"file": "monstertemplatesc872.html",
 		"sources": [ "Bestiary 2" ],
-		"crAdjustmentRange": [ 0, 1 ],
+		"cr_adjustment_range": [ 0, 1 ],
 		"acquired": true,
 		"simple": true,
 		"summonable": true,
@@ -5675,11 +5675,11 @@
 			"| 11+ | 15 | 10/chaotic |"
 		]
 	},
-	"Rogue": {
-		"templatename": "Rogue",
+	{
+		"template_name": "Rogue",
 		"file": "monstertemplates8ec3.html",
 		"sources": [ "Monster Codex" ],
-		"crAdjustmentRange": [ 1, 2 ],
+		"cr_adjustment_range": [ 1, 2 ],
 		"acquired": true,
 		"simple": true,
 		"summonable": false,
@@ -5698,11 +5698,11 @@
 			"**Rebuild Rules:** Defensive abilities evasion, uncanny dodge (improved uncanny dodge if the creature has 10 or more HD); **Special Attacks** sneak attack (with a number of sneak attack dice equal to 1/2 the creature's HD, to a maximum of 10d6 at 20 HD); **Special Qualities** if the creature has 10 or more HD, it gains two rogue talents, one of which can be an advanced talent-; **Ability Scores** +4 Dexterity."
 		]
 	},
-	"Runeplated Construct": {
-		"templatename": "Runeplated Construct",
+	{
+		"template_name": "Runeplated Construct",
 		"file": "monstertemplatesa805.html",
 		"sources": [ "Construct Handbook" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"inherited": true,
 		"simple": false,
@@ -5780,11 +5780,11 @@
 			"**Opposition Schools:** Abjuration and conjuration."
 		]
 	},
-	"Runeslave": {
-		"templatename": "Runeslave",
+	{
+		"template_name": "Runeslave",
 		"file": "monstertemplatesdedc.html",
 		"sources": [ "Rise of the Runelords Anniversary Edition" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -5833,11 +5833,11 @@
 			"**Runeslave Cauldron:** Brought forth from Gastash, the domain of gluttony, these massive cauldrons were large enough to fit an adult stone giant and infused with necromantic energies. Any giant placed in a cauldron and then slain is immediately resurrected as a runeslave'see page 424 for further details on these sadistic magic items."
 		]
 	},
-	"Runewarped Creature": {
-		"templatename": "Runewarped Creature",
+	{
+		"template_name": "Runewarped Creature",
 		"file": "monstertemplatesb3d1.html",
 		"sources": [ "Return of the Runelords Players Guide" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -5884,11 +5884,11 @@
 			"Sinwarped creatures are runewarped creatures with the advanced creature simple template, magic-scent with a range of 120 feet, and spell-like abilities determined by the creature's affinity to a particular school of sin magic: envy ([resist energy](unknown:resist energy) and [shield](unknown:shield)), gluttony ([chill touch](unknown:chill touch) and [false life](unknown:false life)), greed ([barkskin](unknown:barkskin) and [expeditious retreat](unknown:expeditious retreat)), lust ([hold person](unknown:hold person) and [hypnotism](unknown:hypnotism)), pride ([blur](unknown:blur) and [color spray](unknown:color spray)), sloth ([cure moderate wounds](unknown:cure moderate wounds) and [grease](unknown:grease)), or wrath ([burning hands](unknown:burning hands) and [darkness](unknown:darkness)). Each spell-like ability is usable once per day. When a target loses a prepared spell, spell slot, or spell-like ability that is at least 3rd level to a sinwarped creature's consume magic ability, the sinwarped creature regains all of these spell-like abilities it has used."
 		]
 	},
-	"Sea-Sworn": {
-		"templatename": "Sea-Sworn",
+	{
+		"template_name": "Sea-Sworn",
 		"file": "monstertemplates0cb7.html",
 		"sources": [ "Treasure of Chimera Cove" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"simple": false,
 		"summonable": true,
@@ -5943,11 +5943,11 @@
 			"| Colossal | 4d6 |"
 		]
 	},
-	"Seeded": {
-		"templatename": "Seeded",
+	{
+		"template_name": "Seeded",
 		"file": "monstertemplates3119.html",
 		"sources": [ "Pathfinder #113: What Grows Within" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"inherited": true,
 		"simple": false,
 		"summonable": false,
@@ -6004,11 +6004,11 @@
 			"**Language:** A seeded creature gains telepathy with a range of 100 feet, but only with other seeded creatures. Seeded creatures benefit from the morale bonuses granted by other seeded creatures within range of their telepathy."
 		]
 	},
-	"Shadow": {
-		"templatename": "Shadow",
+	{
+		"template_name": "Shadow",
 		"file": "monstertemplates372c.html",
 		"sources": [ "Bestiary 4" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"inherited": true,
 		"simple": false,
 		"summonable": false,
@@ -6038,11 +6038,11 @@
 			"**Spell Resistance (Ex):** A shadow creature gains spell resistance equal to the base creature's CR + 6."
 		]
 	},
-	"Shadow Animal": {
-		"templatename": "Shadow Animal",
+	{
+		"template_name": "Shadow Animal",
 		"file": "monstertemplatesb29e.html",
 		"sources": [ "Nidal, Land of Shadows" ],
-		"crAdjustmentRange": [ 1, 2 ],
+		"cr_adjustment_range": [ 1, 2 ],
 		"acquired": true,
 		"inherited": true,
 		"simple": false,
@@ -6118,11 +6118,11 @@
 			"**Languages:** Shadow animals gain Common and Infernal, but if the base creature is unable to speak, it can only understand these languages."
 		]
 	},
-	"Shadow Creature": {
-		"templatename": "Shadow Creature",
+	{
+		"template_name": "Shadow Creature",
 		"file": "monstertemplates82a5.html",
 		"sources": [ "Advanced Race Guide" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"inherited": true,
 		"simple": false,
 		"summonable": true,
@@ -6142,11 +6142,11 @@
 			"| --- | --- |"
 		]
 	},
-	"Shadow Lord": {
-		"templatename": "Shadow Lord",
+	{
+		"template_name": "Shadow Lord",
 		"file": "monstertemplates8cd7.html",
 		"sources": [ "Bestiary 4" ],
-		"crAdjustment": 2,
+		"cr_adjustment": 2,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -6192,11 +6192,11 @@
 			"**Skills:** A shadow lord gains a +8 racial bonus on all Stealth checks."
 		]
 	},
-	"Shadowbound Creature": {
-		"templatename": "Shadowbound Creature",
+	{
+		"template_name": "Shadowbound Creature",
 		"file": "monstertemplatesb894.html",
 		"sources": [ "Horror Adventures" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"simple": true,
 		"summonable": false,
@@ -6213,11 +6213,11 @@
 			"**Rebuild Rules:** **Senses** darkvision 120 ft.; **AC** gain a deflection bonus to AC equal to 1/4 CR (minimum 1); **Weaknesses** light blindness, can't gain morale bonuses; **Special Attacks** regretful gaze (shaken 1 round, 30 ft., Will negates, DC = 10 + 1/2 HD + Cha modifier); after taking 3 points of damage per HD in a single attack, gain a +2 profane bonus on attack rolls, damage rolls, saving throws, and skill checks for 1 round; **Ability Scores** +4 Con."
 		]
 	},
-	"Shadowfire Creature": {
-		"templatename": "Shadowfire Creature",
+	{
+		"template_name": "Shadowfire Creature",
 		"file": "monstertemplates496d.html",
 		"sources": [ "The Emerald Spire Superdungeon" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"inherited": true,
 		"simple": false,
 		"summonable": false,
@@ -6252,11 +6252,11 @@
 			"**Ability Scores:** Str +2, Dex +2, Cha +4."
 		]
 	},
-	"Shaggra Ogre": {
-		"templatename": "Shaggra Ogre",
+	{
+		"template_name": "Shaggra Ogre",
 		"file": "monstertemplates9c80.html",
 		"sources": [ "Monster Codex" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"inherited": true,
 		"simple": true,
 		"summonable": false,
@@ -6275,11 +6275,11 @@
 			"**Rebuild Rules:** **Ability Scores** +4 Strength; **Attacks** gains 2 slam attacks (1d6, grab, constrict); **Special** Abilities grab, constrict."
 		]
 	},
-	"Siabrae": {
-		"templatename": "Siabrae",
+	{
+		"template_name": "Siabrae",
 		"file": "monstertemplatesa65b.html",
 		"sources": [ "Bestiary 6" ],
-		"crAdjustment": 2,
+		"cr_adjustment": 2,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -6324,11 +6324,11 @@
 			"**Ability Scores:** Str +2, Wis +2, Cha +2. Being undead, a siabrae has no Constitution score. Skills: A siabrae gains a +8 racial bonus on Perception, Sense Motive, and Stealth checks. A siabrae always treats Intimidate, Knowledge (planes), Knowledge (religion), Sense Motive, and Stealth as class skills. Otherwise, a siabrae's skills are the same as those of the base creature. Feats: A siabrae gains [Toughness](unknown:Toughness) as a bonus feat."
 		]
 	},
-	"Silverblood Lycanthrope": {
-		"templatename": "Silverblood Lycanthrope",
+	{
+		"template_name": "Silverblood Lycanthrope",
 		"file": "monstertemplates39ae.html",
 		"sources": [ "Andoran, Birthplace of Freedom" ],
-		"crAdjustment": 2,
+		"cr_adjustment": 2,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -6373,14 +6373,14 @@
 			"**Ability Scores:** +2 Wis, -2 Cha in all forms; +2 Str, +2 Con in hybrid and animal forms. Silverblood lycanthropes have enhanced senses but are not fully in control of their emotions and animalistic urges. In addition to these adjustments to the base creature's statistics, a silverblood lycanthrope's ability scores change when she assumes animal or hybrid form. In human form, the silverblood lycanthrope's ability scores are unchanged from the base creature's form. In animal and hybrid forms, the silverblood lycanthrope's ability scores are the same as the base creature's or the base animal's, whichever ability score is higher."
 		]
 	},
-	"Skeletal Champion": {
-		"templatename": "Skeletal Champion",
+	{
+		"template_name": "Skeletal Champion",
 		"file": "monstertemplates3c7b.html",
 		"sources": [
 			"Pathfinder RPG Bestiary",
 			"Dungeons of Golarion"
 		],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -6440,14 +6440,14 @@
 			"**Whispers (Ex):** A gallowdead constantly whispers vile secrets and blasphemous chants. Any creature within 30 feet of a whispering gallowdead must make a Will save or become sickened for 1d4 rounds. Shaken creatures that fail this saving throw become nauseated by the secrets revealed. Each round, an affected creature may make a new Will save to recover from the effect-once a creature recovers from a gallowdead's whispers, it is immune to this ability for 24 hours. Each additional overlapping whisper aura from additional gallowdead increases the save DC by +2."
 		]
 	},
-	"Skeleton": {
-		"templatename": "Skeleton",
+	{
+		"template_name": "Skeleton",
 		"file": "monstertemplatesca0a.html",
 		"sources": [
 			"Pathfinder RPG Bestiary",
 			"Classic Horrors Revisited"
 		],
-		"crAdjustment": null,
+		"cr_adjustment": null,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -6583,11 +6583,11 @@
 			"**Skeletal Archer:** While not as intelligent or skilled as skeletal champions, skeletal archers are nevertheless a welcome addition to any undead army. Skeletal archers gain [Point-Blank Shot](unknown:Point-Blank Shot) and [Precise Shot](unknown:Precise Shot) as bonus feats. (CR +0)"
 		]
 	},
-	"Sorcerer": {
-		"templatename": "Sorcerer",
+	{
+		"template_name": "Sorcerer",
 		"file": "monstertemplates54b6.html",
 		"sources": [ "Monster Codex" ],
-		"crAdjustmentRange": [ 1, 3 ],
+		"cr_adjustment_range": [ 1, 3 ],
 		"acquired": true,
 		"simple": true,
 		"summonable": false,
@@ -6618,11 +6618,11 @@
 			"| 26+ | - | - | - | - | - | - | - | 2 | 2 | 1 |"
 		]
 	},
-	"Soulbound Construct": {
-		"templatename": "Soulbound Construct",
+	{
+		"template_name": "Soulbound Construct",
 		"file": "monstertemplates6395.html",
 		"sources": [ "Construct Handbook" ],
-		"crAdjustmentRange": [ 1, 2 ],
+		"cr_adjustment_range": [ 1, 2 ],
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -6691,11 +6691,11 @@
 			"Requirements [Craft Construct](unknown:Craft Construct), [Craft Wondrous Item](unknown:Craft Wondrous Item), [geas/quest](unknown:geas/quest), [magic jar](unknown:magic jar), soul of a living creature who dies or is slain during the creation process; Skill Craft (gemcutting); Cost 5,000 gp + 1,000 gp per Hit Die of the base creature"
 		]
 	},
-	"Spore Zombie": {
-		"templatename": "Spore Zombie",
+	{
+		"template_name": "Spore Zombie",
 		"file": "monstertemplatesd85f.html",
 		"sources": [ "Bestiary 6" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -6742,11 +6742,11 @@
 			"**Languages:** A spore zombie can understand Abyssal but can't speak."
 		]
 	},
-	"Steam-Powered Construct": {
-		"templatename": "Steam-Powered Construct",
+	{
+		"template_name": "Steam-Powered Construct",
 		"file": "monstertemplates1f68.html",
 		"sources": [ "Construct Handbook" ],
-		"crAdjustment": 2,
+		"cr_adjustment": 2,
 		"inherited": true,
 		"simple": false,
 		"summonable": false,
@@ -6800,11 +6800,11 @@
 			"**Ability Scores:** Str +4, Dex +4."
 		]
 	},
-	"Sunbaked Zombie": {
-		"templatename": "Sunbaked Zombie",
+	{
+		"template_name": "Sunbaked Zombie",
 		"file": "monstertemplates69fd.html",
 		"sources": [ "Pathfinder #80: Empty Graves" ],
-		"crAdjustment": null,
+		"cr_adjustment": null,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -6887,11 +6887,11 @@
 			"**Special Qualities:** A sunbaked zombie loses most special qualities of the base creature. It retains any extraordinary special qualities that improve its melee or ranged attacks."
 		]
 	},
-	"Taxidermic Creature": {
-		"templatename": "Taxidermic Creature",
+	{
+		"template_name": "Taxidermic Creature",
 		"file": "monstertemplatesa241.html",
 		"sources": [ "Bestiary 5" ],
-		"crAdjustment": null,
+		"cr_adjustment": null,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -6987,11 +6987,11 @@
 			"**Special Qualities:** A taxidermic creature loses most special qualities of the base creature. It retains any extraordinary special qualities that improve its melee or ranged attacks."
 		]
 	},
-	"Terror Creature": {
-		"templatename": "Terror Creature",
+	{
+		"template_name": "Terror Creature",
 		"file": "monstertemplates1d0e.html",
 		"sources": [ "City of Golden Death" ],
-		"crAdjustment": 0,
+		"cr_adjustment": 0,
 		"acquired": true,
 		"simple": true,
 		"summonable": true,
@@ -7008,11 +7008,11 @@
 			"**Rebuild Rules:** **Alignment** changes to NE; **Senses** gains darkvision 60 ft.; Aura fear (as fear spell, 20 ft., Will save DC 10 + 1/2 terror creature's racial HD + creature's Charisma modifier); **Defensive Abilities** negative energy absorption (Su; heals 1 hit point for every 3 points of damage that negative energy attacks would otherwise deal; a terror creature gets no saving throw against negative energy effects); **Immune** fear effects"
 		]
 	},
-	"Thicken Ogre": {
-		"templatename": "Thicken Ogre",
+	{
+		"template_name": "Thicken Ogre",
 		"file": "monstertemplates383d.html",
 		"sources": [ "Monster Codex" ],
-		"crAdjustment": 0,
+		"cr_adjustment": 0,
 		"inherited": true,
 		"simple": true,
 		"summonable": false,
@@ -7031,11 +7031,11 @@
 			"**Rebuild Rules:** **Ability Scores** -2 Constitution, +2 natural armor bonus; **Attacks** gains 2 claw attacks (1d6); **Special** +4 racial bonus on Stealth checks in forests."
 		]
 	},
-	"Trompe l'Oeil": {
-		"templatename": "Trompe l'Oeil",
+	{
+		"template_name": "Trompe l'Oeil",
 		"file": "monstertemplates0b6f.html",
 		"sources": [ "Horror Adventures" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"inherited": true,
 		"simple": false,
 		"summonable": false,
@@ -7080,11 +7080,11 @@
 			"Requirements Craft Construct, animate objects, enter image; Skill Craft (painting); Cost 500 gp per HD plus cost of painting"
 		]
 	},
-	"Tsukumogami": {
-		"templatename": "Tsukumogami",
+	{
+		"template_name": "Tsukumogami",
 		"file": "monstertemplates4d07.html",
 		"sources": [ "Bestiary 5" ],
-		"crAdjustment": 2,
+		"cr_adjustment": 2,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -7129,11 +7129,11 @@
 			"**Skills:** A tsukumogami has a number of skill points per racial Hit Die equal to 6 + its Intelligence modifier. Its racial class skills are the base outsider class skills plus Disguise, Knowledge (history), Perform (any one), and Sleight of Hand."
 		]
 	},
-	"Tulpa": {
-		"templatename": "Tulpa",
+	{
+		"template_name": "Tulpa",
 		"file": "monstertemplates1ed0.html",
 		"sources": [ "Bestiary 5" ],
-		"crAdjustment": 2,
+		"cr_adjustment": 2,
 		"inherited": true,
 		"simple": false,
 		"summonable": false,
@@ -7180,11 +7180,11 @@
 			"**Ability Scores:** When a tulpa comes into being intentionally, its creator chooses two of the tulpa's ability scores to increase by 4, and two of its ability scores to increase by 2. Otherwise, the ability scores increase randomly. Either way, the tulpa's Intelligence score cannot exceed the Intelligence score of its creator, so if its Intelligence score would be higher than its creator's, reduce its Intelligence to be the same as its creator's instead (an unintentionally created tulpa already at maximum Intelligence never randomly gains an ability score increase to its Intelligence score)."
 		]
 	},
-	"Unknown": {
-		"templatename": "Unknown",
+	{
+		"template_name": "Unknown",
 		"file": "monstertemplatesb904.html",
 		"sources": [ "Horror Adventures" ],
-		"crAdjustment": 2,
+		"cr_adjustment": 2,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -7241,11 +7241,11 @@
 			"**Ability Scores:** +2 Dexterity, +2 Constitution, +2 Intelligence, +4 Charisma."
 		]
 	},
-	"Vahana": {
-		"templatename": "Vahana",
+	{
+		"template_name": "Vahana",
 		"file": "monstertemplates9926.html",
 		"sources": [ "Bestiary 5" ],
-		"crAdjustment": 2,
+		"cr_adjustment": 2,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -7282,15 +7282,15 @@
 			"**Abilities:** Increase from the base creature as follows: Str +4, Dex +4, Con +4, Int +10, Wis +2, Cha +2."
 		]
 	},
-	"Vampire": {
-		"templatename": "Vampire",
+	{
+		"template_name": "Vampire",
 		"file": "monstertemplates8a4a.html",
 		"sources": [
 			"Pathfinder RPG Bestiary",
 			"Classic Horrors Revisited",
 			"Monster Codex"
 		],
-		"crAdjustment": 2,
+		"cr_adjustment": 2,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -7418,11 +7418,11 @@
 			"**Swarm Form (Su):** As a standard action, a vampire with this ability can change into a bat swarm, centipede swarm, rat swarm, or spider swarm. The swarm has a number of hit points equal to the vampire, and any damage done to the swarm affects the vampire's hit point total. While in swarm form, a vampire cannot use any of its natural or special attacks, although it gains the movement, natural weapons, and extraordinary special abilities of the swarm into which it has transformed. The vampire also retains all of its usual special qualities. While in swarm form the vampire is still considered to be an undead creature with its total number of Hit Dice. A vampire can remain in swarm form until it assumes another form or retakes it original form (a standard action), or until the next sunrise. (CR +0)"
 		]
 	},
-	"Vampire Spawn": {
-		"templatename": "Vampire Spawn",
+	{
+		"template_name": "Vampire Spawn",
 		"file": "monstertemplatese3c5.html",
 		"sources": [ "Monster Codex" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -7460,11 +7460,11 @@
 			"**Feats:** Spawn gain Skill Focus (Perception) as a bonus feat."
 		]
 	},
-	"Vampiric Creature": {
-		"templatename": "Vampiric Creature",
+	{
+		"template_name": "Vampiric Creature",
 		"file": "monstertemplates6d7b.html",
 		"sources": [ "Horror Adventures" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"simple": true,
 		"summonable": false,
@@ -7483,11 +7483,11 @@
 			"**Rebuild Rules:** **Type** change to undead; **Senses** darkvision 60 ft.; **AC** natural armor bonus increases by 1; **Defensive Abilities** fast healing 1 (this includes the ability to escape to its coffin in gaseous form at 0 hp); **Weaknesses** vampire weaknesses; **Melee** slam attack that deals 1d6 points of damage (for Medium creatures) plus energy drain; **Special Attacks** blood drain, energy drain (1 level, DC = 10 + 1/2 HD + Charisma modifier); **Special Qualities** gaseous form, shadowless, spider climb; **Ability Scores** +2 Str, +2 Dex, +2 Cha."
 		]
 	},
-	"Vetala": {
-		"templatename": "Vetala",
+	{
+		"template_name": "Vetala",
 		"file": "monstertemplates008f.html",
 		"sources": [ "Inner Sea Bestiary" ],
-		"crAdjustment": 2,
+		"cr_adjustment": 2,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -7544,11 +7544,11 @@
 			"**Skills:** Vetalas gain a +8 racial bonus on Disguise, Perception, Sense Motive, and Stealth checks."
 		]
 	},
-	"Waxwork": {
-		"templatename": "Waxwork",
+	{
+		"template_name": "Waxwork",
 		"file": "monstertemplates31b1.html",
 		"sources": [ "Horror Adventures" ],
-		"crAdjustment": null,
+		"cr_adjustment": null,
 		"inherited": true,
 		"simple": false,
 		"summonable": false,
@@ -7662,11 +7662,11 @@
 			"Requirements Craft Construct, animate objects, make whole; Skill Craft (sculpture); Cost 500 gp per HD plus cost of wax"
 		]
 	},
-	"Winter Fey": {
-		"templatename": "Winter Fey",
+	{
+		"template_name": "Winter Fey",
 		"file": "monstertemplatesaeaf.html",
 		"sources": [ "Pathfinder #68: The Shackled Hut" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"inherited": true,
 		"simple": false,
 		"summonable": true,
@@ -7696,11 +7696,11 @@
 			"**Skills:** A winter fey gains a +4 racial bonus on Survival checks when in cold environments."
 		]
 	},
-	"Winter-Touched Fey": {
-		"templatename": "Winter-Touched Fey",
+	{
+		"template_name": "Winter-Touched Fey",
 		"file": "monstertemplates0287.html",
 		"sources": [ "Pathfinder #67: The Snows of Summer" ],
-		"crAdjustment": 0,
+		"cr_adjustment": 0,
 		"acquired": true,
 		"simple": true,
 		"summonable": true,
@@ -7721,11 +7721,11 @@
 			"**Rebuild Rules:** The creature's alignment changes to evil and it gains the cold subtype; **Special Attacks: Numbing Cold (Su)** Any creature hit by a winter-touched creature's attacks (natural or weapon) must succeed at a Fortitude save or be staggered for 1 round. The save DC is Constitution-based."
 		]
 	},
-	"Wizard": {
-		"templatename": "Wizard",
+	{
+		"template_name": "Wizard",
 		"file": "monstertemplates3fa3.html",
 		"sources": [ "Monster Codex" ],
-		"crAdjustmentRange": [ 1, 3 ],
+		"cr_adjustment_range": [ 1, 3 ],
 		"acquired": true,
 		"simple": true,
 		"summonable": false,
@@ -7756,11 +7756,11 @@
 			"| 25+ | - | - | - | - | - | - | - | 2 | 2 | 1 |"
 		]
 	},
-	"Worm that Walks": {
-		"templatename": "Worm that Walks",
+	{
+		"template_name": "Worm that Walks",
 		"file": "monstertemplatesf490.html",
 		"sources": [ "Bestiary 2" ],
-		"crAdjustment": 2,
+		"cr_adjustment": 2,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -7807,11 +7807,11 @@
 			"**Feats:** Worms that walk gain Diehard as a bonus feat."
 		]
 	},
-	"Young": {
-		"templatename": "Young",
+	{
+		"template_name": "Young",
 		"file": "monstertemplates6f0a.html",
 		"sources": [ "Pathfinder RPG Bestiary" ],
-		"crAdjustment": -1,
+		"cr_adjustment": -1,
 		"acquired": true,
 		"simple": true,
 		"summonable": false,
@@ -7830,14 +7830,14 @@
 			"**Rebuild Rules:** **Size** decrease by one category; **AC** reduce natural armor by -2 (minimum +0); **Attacks** decrease damage dice by 1 step; **Ability Scores** -4 Strength, -4 Con, +4 size bonus to Dex."
 		]
 	},
-	"Zombie": {
-		"templatename": "Zombie",
+	{
+		"template_name": "Zombie",
 		"file": "monstertemplates36fa.html",
 		"sources": [
 			"Pathfinder RPG Bestiary",
 			"Classic Horrors Revisited"
 		],
-		"crAdjustment": null,
+		"cr_adjustment": null,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -8002,11 +8002,11 @@
 			"**Zombie Lord:** Zombie lords are the fleshy counterparts to skeletal champions, rare zombies who have somehow managed to retain their intelligence. Use the normal zombie template for the zombie lord's Armor Class, base save bonuses, speed, melee attacks, base attack bonus, and damage reduction. Use the [skeletal champion](unknown:skeletal champion) template for the zombie lord's Hit Dice, skills, and ability scores. Zombie lords gain channel resistance +4 and [Toughness](unknown:Toughness) as a bonus feat. A zombie lord does not gain the staggered special quality. (CR as a zombie of the same Hit Dice +1.)"
 		]
 	},
-	"Zombie Lord": {
-		"templatename": "Zombie Lord",
+	{
+		"template_name": "Zombie Lord",
 		"file": "monstertemplates2089.html",
 		"sources": [ "Bestiary 4" ],
-		"crAdjustment": 1,
+		"cr_adjustment": 1,
 		"acquired": true,
 		"simple": false,
 		"summonable": false,
@@ -8038,4 +8038,4 @@
 			"**Special Qualities:** Unlike a common zombie, a zombie lord does not gain the staggered special quality."
 		]
 	}
-}
+]

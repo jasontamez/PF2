@@ -1,6 +1,6 @@
-{
-	"Agmazar the Star Titan": {
-		"monstername": "Agmazar the Star Titan",
+[
+	{
+		"monster_name": "Agmazar the Star Titan",
 		"file": "monsterdisplaye180.html",
 		"sources": [ "Mythic Realms" ],
 		"cr": 26,
@@ -9,12 +9,12 @@
 		"size": "colossal",
 		"type": "undead",
 		"subtypes": [ "cold", "kaiju" ],
-		"init": 5,
+		"initiative": 5,
 		"senses": [
 			"creaturesense",
 			"see in darkness"
 		],
-		"pcp": 49,
+		"perception": 49,
 		"aura": [
 			"frightful presence (300 ft., DC 39)",
 			"suffocation (60 ft.)"
@@ -30,24 +30,24 @@
 		"ac": {
 			"ac": 40,
 			"touch": 22,
-			"ff": 35,
+			"flatfooted": 35,
 			"bonuses": {
 				"deflection": 15,
-				"Dex": 5,
+				"dex": 5,
 				"natural": 18,
 				"size": -8
 			}
 		},
 		"hp": {
 			"hp": 615,
-			"fastHealing": 30
+			"fast_healing": 30
 		},
 		"saves": {
 			"fort": 25,
 			"ref": 15,
 			"will": 27
 		},
-		"defAbs": [
+		"defensive_abilities": [
 			"channel resistance +4",
 			"force field",
 			"freedom of movement"
@@ -102,7 +102,7 @@
 		"int": 6,
 		"wis": 31,
 		"cha": 40,
-		"baseAtk": 22,
+		"base_attack_bonus": 22,
 		"cmb": 48,
 		"cmd": 86,
 		"feats": [
@@ -137,7 +137,7 @@
 			"**Languages** Draconic (can't speak)",
 			"**SQ** kaiju traits, massive, powerful blows, recovery"
 		],
-		"specialAbilities": [
+		"special_abilities": [
 			"**Aura of Suffocation (Su)** Agmazar's alien presence breaks down the atmosphere around it, causing the air to become thin and nearly unbreathable. Within 1 mile of Agmazar, breathing creatures are subject to fatigue and altitude sickness as if at high peak altitude (Pathfinder RPG Core Rulebook 430). Creatures within 60 feet of Agmazar must hold their breath or begin to suffocate (Core Rulebook 445).",
 			"**Channel Negative Energy (Su)** Agmazar can channel negative energy as a 20th-level evil cleric. This ability requires no divine focus.",
 			"**Creaturesense (Ex)** Agmazar has lifesense up to 120 feet. In addition, it can sense the presence and position of undead creatures within 1,200 feet as if it had blindsense.",
@@ -152,10 +152,10 @@
 			"**Serpent Arms (Su)** As a full-round action, Agmazar can detach and release one or two of the lower arms from its body, revealing that the joints buried into its torso are alien serpent heads. The arms move and fight independently as hollow serpents (Pathfinder RPG Bestiary 3 149), beginning on the round they're detached. For each arm it detaches, Agmazar takes 25 points of damage that can't be reduced.",
 			"When a hollow serpent uses channel negative energy or a spell-like ability, it counts against Agmazar's uses of that ability. While its arms are detached, Agmazar's fast healing is reduced by 10 for each missing arm, and it can make slam attacks only with the arms still attached. If a hollow serpent is destroyed while separated, Agmazar can regrow its missing arm in 1 hour. Reattaching one or both lower arms is a full-round action and restores Agmazar's fast healing to the normal rate (though does not regain the hit points lost from detaching)."
 		],
-		"shortDescription": "Stony segments cover this towering colossus like armor plates. Though it looks lifeless, its four arms move with supple grace."
+		"short_description": "Stony segments cover this towering colossus like armor plates. Though it looks lifeless, its four arms move with supple grace."
 	},
-	"Ahriman, Lord of All Divs": {
-		"monstername": "Ahriman, Lord of All Divs",
+	{
+		"monster_name": "Ahriman, Lord of All Divs",
 		"file": "monsterdisplay5553.html",
 		"sources": [
 			"Mythic Realms",
@@ -167,13 +167,13 @@
 		"size": "huge",
 		"type": "outsider",
 		"subtypes": [ "div", "evil", "extraplanar" ],
-		"init": 20,
+		"initiative": 20,
 		"senses": [
 			"darkvision 60 ft.",
 			"see in darkness",
 			"true seeing"
 		],
-		"pcp": 43,
+		"perception": 43,
 		"aura": [
 			"hopelessness (30 ft., DC 38)",
 			"frightful presence (60 ft., DC 38)"
@@ -189,9 +189,9 @@
 		"ac": {
 			"ac": 46,
 			"touch": 21,
-			"ff": 37,
+			"flatfooted": 37,
 			"bonuses": {
-				"Dex": 8,
+				"dex": 8,
 				"dodge": 1,
 				"natural": 15,
 				"profane": 14,
@@ -201,14 +201,14 @@
 		"hp": {
 			"hp": 610,
 			"regen": 20,
-			"regenOvercome": "mythic and epic or good"
+			"regen_overcome_by": "mythic and epic or good"
 		},
 		"saves": {
 			"fort": 24,
 			"ref": 26,
 			"will": 25
 		},
-		"defAbs": [
+		"defensive_abilities": [
 			"freeing chains",
 			"skin of serpents"
 		],
@@ -260,7 +260,7 @@
 		"int": 19,
 		"wis": 24,
 		"cha": 35,
-		"baseAtk": 33,
+		"base_attack_bonus": 33,
 		"cmb": 51,
 		"cmd": 74,
 		"feats": [
@@ -304,7 +304,7 @@
 			"**Languages** Abyssal, Aquan, Auran, Celestial, Common, Draconic, Ignan, Infernal, Terran; telepathy 300 ft.",
 			"**SQ** Ahriman's scourge, Lord of All Divs, slaughtered slave"
 		],
-		"specialAbilities": [
+		"special_abilities": [
 			"**Ahriman's Scourge (Su)** Ahriman's Huge scourge is made from the spines of genies. It deals 3d6 points of damage, and gains the bane weapon special ability when used it to attack a genie. The scourge only functions for Ahriman. If his scourge is lost or destroyed, Ahriman can magically create a new one from the skeletons of four genies.",
 			"**Aura of Hopelessness (Su)** Any creature that comes within 30 feet of Ahriman must succeed at a DC 38 Will save or take a -4 penalty on attack rolls, saving throws, skill checks, and ability checks. The save DC is Charisma-based.",
 			"**Bottomless Maw (Su)** When Ahriman bites a creature and successfully grabs it, he magically banishes the creature to an extraplanar bottomless pit. Ahriman can't swallow a creature that has the good subtype or is affected by holy aura. ",
@@ -328,10 +328,10 @@
 			"**Slaughtered Slave (Su)** Any humanoid slain by Ahriman becomes a cairn wight (or brute wight if it was a giant) in 1d4 rounds. A genie killed by Ahriman instead rises as a ghul in 1d4 rounds. The creature is enslaved to Ahriman's will and loses all abilities and memories it had in life.",
 			"**Symbolic Prison (Su)** When Ahriman entraps a creature in his bottomless maw or in a maze spell, he can use one of his symbol spell-like abilities as a swift action. The symbol affects all creatures within the prison, and ends when all creatures have escaped the maw or maze."
 		],
-		"shortDescription": "This humanoid creature has the head of a ravening, horned lion. A chorus of anguished screams echoes from his gaping maw."
+		"short_description": "This humanoid creature has the head of a ravening, horned lion. A chorus of anguished screams echoes from his gaping maw."
 	},
-	"Akilep, Lady of Stone": {
-		"monstername": "Akilep, Lady of Stone",
+	{
+		"monster_name": "Akilep, Lady of Stone",
 		"file": "monsterdisplay41d0.html",
 		"sources": [ "Mythical Monsters Revisited" ],
 		"cr": 13,
@@ -340,12 +340,12 @@
 		"alignment": "N",
 		"size": "gargantuan",
 		"type": "magical beast",
-		"init": 3,
+		"initiative": 3,
 		"senses": [
 			"darkvision 60 ft.",
 			"low-light vision"
 		],
-		"pcp": 30,
+		"perception": 30,
 		"heading": [
 			"Akilep, Lady of Stone CR 13",
 			"**Source** [Mythical Monsters Revisited pg. 57](source:Mythical Monsters Revisited)",
@@ -357,9 +357,9 @@
 		"ac": {
 			"ac": 28,
 			"touch": 5,
-			"ff": 28,
+			"flatfooted": 28,
 			"bonuses": {
-				"Dex": -1,
+				"dex": -1,
 				"natural": 23,
 				"size": -4
 			}
@@ -406,7 +406,7 @@
 		"int": 27,
 		"wis": 21,
 		"cha": 21,
-		"baseAtk": 18,
+		"base_attack_bonus": 18,
 		"cmb": 34,
 		"cmd": 43,
 		"feats": [
@@ -443,10 +443,10 @@
 			"**Languages** Aklo, Ancient Osiriani, Celestial, Common, Cyclops, Draconic, Elven, Infernal, Osiriani, Kelish, Polyglot, Sphinx",
 			"**Gear** chime of opening (7 uses left), goggles of minute seeing, marvelous pigments, 2,000 gp in assorted gems."
 		],
-		"shortDescription": "This beautiful female sphinx appears both wise and thoughtful."
+		"short_description": "This beautiful female sphinx appears both wise and thoughtful."
 	},
-	"Amalya": {
-		"monstername": "Amalya",
+	{
+		"monster_name": "Amalya",
 		"file": "monsterdisplay21f5.html",
 		"sources": [ "Fey Revisited" ],
 		"cr": 6,
@@ -455,9 +455,9 @@
 		"alignment": "CG",
 		"size": "medium",
 		"type": "fey",
-		"init": 5,
+		"initiative": 5,
 		"senses": [ "low-light vision" ],
-		"pcp": 13,
+		"perception": 13,
 		"heading": [
 			"Amalya CR 6",
 			"**Source** [Fey Revisited pg. 8](source:Fey Revisited)",
@@ -469,10 +469,10 @@
 		"ac": {
 			"ac": 19,
 			"touch": 16,
-			"ff": 14,
+			"flatfooted": 14,
 			"bonuses": {
 				"deflection": 1,
-				"Dex": 5,
+				"dex": 5,
 				"natural": 3
 			}
 		},
@@ -521,7 +521,7 @@
 		"int": 12,
 		"wis": 19,
 		"cha": 20,
-		"baseAtk": 5,
+		"base_attack_bonus": 5,
 		"cmb": 5,
 		"cmd": 21,
 		"feats": [
@@ -551,10 +551,10 @@
 			"**SQ** enlarge (7/day), nature bond (Plant domain [Growth subdomain]), nature sense, trackless step, tree meld, wild empathy +14, woodcraft, woodland stride",
 			"**Combat Gear** potions of cure moderate wounds (2), potion of remove curse, scrolls of resist energy (2), wand of calm animals (24 charges); **Other Gear** club, dagger, mwk longbow with 20 arrows, ring of protection +1, pinecone amulet (divine focus), wooden art objects worth 600 gp, 35 gp"
 		],
-		"shortDescription": "This lithe, otherworldly woman has with deep brown eyes and dark green hair that cascades past her waist. She's adorned in trinkets made from a great white pine's needles and cones."
+		"short_description": "This lithe, otherworldly woman has with deep brown eyes and dark green hair that cascades past her waist. She's adorned in trinkets made from a great white pine's needles and cones."
 	},
-	"Aridus, the Desert's Howl": {
-		"monstername": "Aridus, the Desert's Howl",
+	{
+		"monster_name": "Aridus, the Desert's Howl",
 		"file": "monsterdisplay893f.html",
 		"sources": [ "Mythical Monsters Revisited" ],
 		"cr": 19,
@@ -564,13 +564,13 @@
 		"size": "huge",
 		"type": "outsider",
 		"subtypes": [ "air", "fire", "native" ],
-		"init": 12,
+		"initiative": 12,
 		"senses": [
 			"blindsight 60 ft.",
 			"darkvision 60 ft.",
 			"low-light vision"
 		],
-		"pcp": 29,
+		"perception": 29,
 		"heading": [
 			"Aridus, the Desert's Howl CR 19",
 			"**Source** [Mythical Monsters Revisited pg. 62](source:Mythical Monsters Revisited)",
@@ -582,9 +582,9 @@
 		"ac": {
 			"ac": 34,
 			"touch": 17,
-			"ff": 25,
+			"flatfooted": 25,
 			"bonuses": {
-				"Dex": 8,
+				"dex": 8,
 				"dodge": 1,
 				"natural": 17,
 				"size": -2
@@ -593,7 +593,7 @@
 		"hp": {
 			"hp": 350,
 			"regen": 15,
-			"regenOvercome": "cold"
+			"regen_overcome_by": "cold"
 		},
 		"saves": {
 			"fort": 18,
@@ -640,7 +640,7 @@
 		"int": 24,
 		"wis": 22,
 		"cha": 26,
-		"baseAtk": 20,
+		"base_attack_bonus": 20,
 		"cmb": 33,
 		"cmd": 52,
 		"feats": [
@@ -678,10 +678,10 @@
 			"**Languages** Aklo, Common, Giant; telepathy 1 mile",
 			"**SQ** no breath"
 		],
-		"shortDescription": "This hunched-over, vaguely humanoid creature has gauntly muscled biceps beneath a sandy hide and coarse fur. Its head is that of a jagged-toothed antelope, the face spotted with rot and sand slowly sifting out from between the fibers of its hair, and its legs end at the shin in stumps of charred flesh."
+		"short_description": "This hunched-over, vaguely humanoid creature has gauntly muscled biceps beneath a sandy hide and coarse fur. Its head is that of a jagged-toothed antelope, the face spotted with rot and sand slowly sifting out from between the fibers of its hair, and its legs end at the shin in stumps of charred flesh."
 	},
-	"Ayandamahla, the Crimson Lotus": {
-		"monstername": "Ayandamahla, the Crimson Lotus",
+	{
+		"monster_name": "Ayandamahla, the Crimson Lotus",
 		"file": "monsterdisplaye9bf.html",
 		"sources": [ "Demons Revisited" ],
 		"cr": 24,
@@ -691,12 +691,12 @@
 		"size": "medium",
 		"type": "outsider",
 		"subtypes": [ "chaotic", "demon", "evil", "extraplanar" ],
-		"init": 5,
+		"initiative": 5,
 		"senses": [
 			"darkvision 60 ft.",
 			"detect good"
 		],
-		"pcp": 40,
+		"perception": 40,
 		"heading": [
 			"Ayandamahla, the Crimson Lotus CR 24",
 			"**Source** [Demons Revisited pg. 56](source:Demons Revisited)",
@@ -708,11 +708,11 @@
 		"ac": {
 			"ac": 41,
 			"touch": 21,
-			"ff": 35,
+			"flatfooted": 35,
 			"bonuses": {
 				"armor": 9,
 				"deflection": 5,
-				"Dex": 5,
+				"dex": 5,
 				"dodge": 1,
 				"natural": 10,
 				"shield": 1
@@ -776,7 +776,7 @@
 		"int": 20,
 		"wis": 12,
 		"cha": 38,
-		"baseAtk": 23,
+		"base_attack_bonus": 23,
 		"cmb": 28,
 		"cmd": 49,
 		"feats": [
@@ -826,10 +826,10 @@
 			"**SQ** bardic knowledge +10, change shape (alter self, Small or Medium humanoid), jack-of-all-trades (use any skill, all skills are class skills, take 10 on any skill), lore master 3/day, versatile performance (act, dance, oratory, sing, string)",
 			"**Gear** +5 mithral chain shirt, +5 speed wounding rapier, +5 wounding unholy whip, amulet of natural armor +3, belt of physical might +6 (Str, Con), cloak of resistance +5, headband of alluring charisma +6, ring of protection +5, strand of prayer beads (standard), statuette of herself worth 3,400 gp (for project image), 3,479 gp"
 		],
-		"shortDescription": "This pale woman is as beautiful as she is menacing-her smile promises endless bliss, yet her weapons and fangs drip with blood."
+		"short_description": "This pale woman is as beautiful as she is menacing-her smile promises endless bliss, yet her weapons and fangs drip with blood."
 	},
-	"Balravnus, Lord of the Deep Pools": {
-		"monstername": "Balravnus, Lord of the Deep Pools",
+	{
+		"monster_name": "Balravnus, Lord of the Deep Pools",
 		"file": "monsterdisplay298e.html",
 		"sources": [ "Demons Revisited" ],
 		"cr": 18,
@@ -839,9 +839,9 @@
 		"size": "large",
 		"type": "outsider",
 		"subtypes": [ "aquatic", "chaotic", "demon", "evil", "extraplanar" ],
-		"init": 6,
+		"initiative": 6,
 		"senses": [ "darkvision 60 ft." ],
-		"pcp": 31,
+		"perception": 31,
 		"aura": [ "stench (DC 24, 10 rounds)" ],
 		"heading": [
 			"Balravnus, Lord of the Deep Pools CR 18",
@@ -855,10 +855,10 @@
 		"ac": {
 			"ac": 33,
 			"touch": 9,
-			"ff": 31,
+			"flatfooted": 31,
 			"bonuses": {
 				"armor": 8,
-				"Dex": 2,
+				"dex": 2,
 				"natural": 16,
 				"rage": -2,
 				"size": -1
@@ -872,7 +872,7 @@
 			"ref": 9,
 			"will": 14
 		},
-		"defAbs": [
+		"defensive_abilities": [
 			"improved uncanny dodge",
 			"trap sense +2"
 		],
@@ -918,7 +918,7 @@
 		"int": 14,
 		"wis": 16,
 		"cha": 22,
-		"baseAtk": 17,
+		"base_attack_bonus": 17,
 		"cmb": 29,
 		"cmd": 39,
 		"feats": [
@@ -951,10 +951,10 @@
 			"**SQ** amphibious, fast movement",
 			"**Gear** +5 studded leather, +2 wounding halberd, gauntlet of rust, helm of telepathy"
 		],
-		"shortDescription": "This lumbering toadlike demon wields a blood-soaked halberd in its powerful hands-one of those hands is clad in a rusting jagged gauntlet, while on the beast's misshapen head perches a leering helm made of greasy green metal."
+		"short_description": "This lumbering toadlike demon wields a blood-soaked halberd in its powerful hands-one of those hands is clad in a rusting jagged gauntlet, while on the beast's misshapen head perches a leering helm made of greasy green metal."
 	},
-	"Bee-Man of Bellis": {
-		"monstername": "Bee-Man of Bellis",
+	{
+		"monster_name": "Bee-Man of Bellis",
 		"file": "monsterdisplay9120.html",
 		"sources": [ "Andoran, Birthplace of Freedom" ],
 		"cr": 9,
@@ -962,12 +962,12 @@
 		"alignment": "NE",
 		"size": "medium",
 		"type": "aberration",
-		"init": 6,
+		"initiative": 6,
 		"senses": [
 			"darkvision 60 ft.",
 			"scent"
 		],
-		"pcp": 18,
+		"perception": 18,
 		"heading": [
 			"Bee-Man of Bellis CR 9",
 			"**Source** [Andoran, Birthplace of Freedom pg. 51](source:Andoran, Birthplace of Freedom)",
@@ -978,23 +978,23 @@
 		"ac": {
 			"ac": 23,
 			"touch": 17,
-			"ff": 16,
+			"flatfooted": 16,
 			"bonuses": {
-				"Dex": 6,
+				"dex": 6,
 				"dodge": 1,
 				"natural": 6
 			}
 		},
 		"hp": {
 			"hp": 110,
-			"fastHealing": 10
+			"fast_healing": 10
 		},
 		"saves": {
 			"fort": 8,
 			"ref": 10,
 			"will": 10
 		},
-		"defAbs": [ "amorphous" ],
+		"defensive_abilities": [ "amorphous" ],
 		"dr": [
 			15,
 			"-"
@@ -1034,7 +1034,7 @@
 		"int": 13,
 		"wis": 15,
 		"cha": 17,
-		"baseAtk": 9,
+		"base_attack_bonus": 9,
 		"cmb": 9,
 		"cmd": 26,
 		"feats": [
@@ -1070,16 +1070,16 @@
 			"**Organization** solitary",
 			"**Treasure** double"
 		],
-		"specialAbilities": [
+		"special_abilities": [
 			"**Apian Emissaries (Sp)** The Bee-Man can use bees to duplicate the effect of pryings eye or whispering wind at will (caster level 13th). A successful DC 15 Perception check identifies the presence of the bees that act as the sensors for these spells, but a DC 20 Knowledge (nature) check is required to realize they are behaving under outside influence.",
 			"**Poison (Ex)** Type injury (slam); save Fort DC 23; frequency 1/round for 6 rounds; effect 1d4 Str; cure 2 consecutive saves.",
 			"**Swarmlike (Ex)** The Bee-Man exists as a hive mind controlling a body of swarming bees. He is immune to any physical spell or effect that targets a specific number of creatures (including single-target spells). This immunity doesn't apply to spells and effects generated by the Bee-Man himself, nor to mind-affecting effects that target single creatures. The Bee-Man takes half again as much damage (+50%) from damaging area effects. He is also susceptible to high winds and is treated as a Diminutive creature for the purposes of determining wind effects. The Bee-Man can be targeted by spells as if he were a creature of the vermin type.",
 			"**Taboo Name (Su)** Whenever the Bee-Man's full name (Vernon Vestha) is spoken within 13 miles, he hears it as if using clairaudience/clairvoyance. He also learns the speaker's direction and distance."
 		],
-		"shortDescription": "This shabby-cloaked figure is surrounded by hundreds of bees."
+		"short_description": "This shabby-cloaked figure is surrounded by hundreds of bees."
 	},
-	"Bezilak, the Silken Fang": {
-		"monstername": "Bezilak, the Silken Fang",
+	{
+		"monster_name": "Bezilak, the Silken Fang",
 		"file": "monsterdisplay9449.html",
 		"sources": [ "Demons Revisited" ],
 		"cr": 17,
@@ -1089,12 +1089,12 @@
 		"size": "huge",
 		"type": "outsider",
 		"subtypes": [ "chaotic", "demon", "evil", "extraplanar" ],
-		"init": 7,
+		"initiative": 7,
 		"senses": [
 			"darkvision 60 ft.",
 			"true seeing"
 		],
-		"pcp": 34,
+		"perception": 34,
 		"heading": [
 			"Bezilak, the Silken Fang CR 17",
 			"**Source** [Demons Revisited pg. 20](source:Demons Revisited)",
@@ -1106,9 +1106,9 @@
 		"ac": {
 			"ac": 32,
 			"touch": 12,
-			"ff": 28,
+			"flatfooted": 28,
 			"bonuses": {
-				"Dex": 3,
+				"dex": 3,
 				"dodge": 1,
 				"natural": 20,
 				"size": -2
@@ -1122,7 +1122,7 @@
 			"ref": 13,
 			"will": 13
 		},
-		"defAbs": [
+		"defensive_abilities": [
 			"evasion",
 			"freedom of movement",
 			"improved uncanny dodge",
@@ -1170,7 +1170,7 @@
 		"int": 18,
 		"wis": 16,
 		"cha": 24,
-		"baseAtk": 18,
+		"base_attack_bonus": 18,
 		"cmb": 31,
 		"cmd": 45,
 		"feats": [
@@ -1211,10 +1211,10 @@
 			"**SQ** rogue talents (bleeding attack +4, combat trick, honeyed words, surprise attack), trapfinding +4",
 			"**Combat Gear** rod of withering; **Other Gear** ring of chameleon power, ring of freedom of movement"
 		],
-		"shortDescription": "This towering four-armed demon carries an evil-looking scepter in one of its two human hands-the other arms end in pincers."
+		"short_description": "This towering four-armed demon carries an evil-looking scepter in one of its two human hands-the other arms end in pincers."
 	},
-	"Black Magga": {
-		"monstername": "Black Magga",
+	{
+		"monster_name": "Black Magga",
 		"file": "monsterdisplayf7e1.html",
 		"sources": [
 			"Rise of the Runelords Anniversary Edition",
@@ -1226,12 +1226,12 @@
 		"size": "gargantuan",
 		"type": "outsider",
 		"subtypes": [ "aquatic", "native" ],
-		"init": 4,
+		"initiative": 4,
 		"senses": [
 			"all-around vision",
 			"darkvision 60 ft."
 		],
-		"pcp": 22,
+		"perception": 22,
 		"heading": [
 			"Black Magga CR 15",
 			"**Source** [Rise of the Runelords Anniversary Edition pg. 406](source:Rise of the Runelords Anniversary Edition), [Pathfinder #3: The Hook Mountain Massacre pg. 88](source:Pathfinder #3: The Hook Mountain Massacre)",
@@ -1242,7 +1242,7 @@
 		"ac": {
 			"ac": 30,
 			"touch": 6,
-			"ff": 30,
+			"flatfooted": 30,
 			"bonuses": {
 				"natural": 24,
 				"size": -4
@@ -1300,7 +1300,7 @@
 		"int": 25,
 		"wis": 18,
 		"cha": 20,
-		"baseAtk": 15,
+		"base_attack_bonus": 15,
 		"cmb": 32,
 		"cmd": 42,
 		"feats": [
@@ -1344,15 +1344,15 @@
 			"**Organization** solitary",
 			"**Treasure** triple"
 		],
-		"specialAbilities": [
+		"special_abilities": [
 			"**Breath of Madness (Su)** Black Magga can exhale a cloud of foul-smelling, poisonous breath as a standard action once every minute. This cloud of black smoke fills a 60-foot cone. All creatures in the area take 1d6 points of Wisdom damage and become confused for 1d6 rounds (a DC 27 Will save halves the Wisdom damage and negates the confusion effect). This is a mind-affecting poison effect. The save DC is Constitution-based. This breath weapon cannot be used while underwater.",
 			"**Transdimensional Tentacles (Su)** Black Magga's tentacles allow her to see into and infiltrate the Ethereal Plane and the Plane of Shadow while she is on the Material Plane. This allows her not only to be aware of these planes and the creatures there, but also to shift her tentacles through these planes to attack their inhabitants. She can even phase her tentacles in and out of existence, effectively reaching through walls and other solid barriers to attack foes on the other side, provided that area is not warded by a dimensional lock or similar effect. She can grapple foes with her tentacles normally, but cannot pull grappled foes or objects through planes as her tentacles shift between them.",
 			"**Warp Dimensions (Su)** Black Magga's presence distorts the dimensions. Any creature that attempts to utilize a teleportation effect while within 300 feet of Black Magga must succeed at a DC 21 caster level check or the teleport effect fails. If the effect fails, the creature that attempted to create that effect must succeed at a DC 27 Fortitude save or be nauseated for 1d6 rounds. The save DC is Constitution-based."
 		],
-		"shortDescription": "This enormous creature's serpentine neck supports a leering reptilian head-its body is a wriggling mass of tentacles."
+		"short_description": "This enormous creature's serpentine neck supports a leering reptilian head-its body is a wriggling mass of tentacles."
 	},
-	"Captain Ignisco": {
-		"monstername": "Captain Ignisco",
+	{
+		"monster_name": "Captain Ignisco",
 		"file": "monsterdisplayedaa.html",
 		"sources": [ "Darklands Revisited" ],
 		"cr": 6,
@@ -1362,9 +1362,9 @@
 		"size": "medium",
 		"type": "humanoid",
 		"subtypes": [ "munavri" ],
-		"init": 5,
+		"initiative": 5,
 		"senses": [ "darkvision 120 ft." ],
-		"pcp": 7,
+		"perception": 7,
 		"heading": [
 			"Captain Ignisco CR 6",
 			"**Source** [Darklands Revisited pg. 39](source:Darklands Revisited)",
@@ -1376,10 +1376,10 @@
 		"ac": {
 			"ac": 19,
 			"touch": 15,
-			"ff": 14,
+			"flatfooted": 14,
 			"bonuses": {
 				"armor": 4,
-				"Dex": 3,
+				"dex": 3,
 				"dodge": 2
 			}
 		},
@@ -1391,7 +1391,7 @@
 			"ref": 7,
 			"will": 4
 		},
-		"defAbs": [
+		"defensive_abilities": [
 			"charmed life 3/day",
 			"emotional push (+3, 1/day)",
 			"nimble +1"
@@ -1428,7 +1428,7 @@
 		"int": 12,
 		"wis": 10,
 		"cha": 16,
-		"baseAtk": 5,
+		"base_attack_bonus": 5,
 		"cmb": 6,
 		"cmd": 21,
 		"feats": [
@@ -1457,10 +1457,10 @@
 			"**SQ** advanced object reading, detect thoughts, emotional bond, swashbuckler finesse",
 			"**Combat Gear** feather token (swan boat), scroll of blur, scroll of gaseous form, wand of chill touch (10 charges), wand of cure light wounds (20 charges); **Other Gear** +1 studded leather, +1 rapier, silver daggers (4), prismatic crystal"
 		],
-		"shortDescription": "This alabaster-skinned man holds a rapier made of intricately carved crystal and wears armor made of the same material."
+		"short_description": "This alabaster-skinned man holds a rapier made of intricately carved crystal and wears armor made of the same material."
 	},
-	"Courage Heart": {
-		"monstername": "Courage Heart",
+	{
+		"monster_name": "Courage Heart",
 		"file": "monsterdisplay0bf4.html",
 		"sources": [ "Pathfinder #68: The Shackled Hut" ],
 		"cr": 15,
@@ -1469,12 +1469,12 @@
 		"size": "medium",
 		"type": "outsider",
 		"subtypes": [ "chaotic", "extraplanar", "good" ],
-		"init": 10,
+		"initiative": 10,
 		"senses": [
 			"darkvision 60 ft.",
 			"low-light vision"
 		],
-		"pcp": 27,
+		"perception": 27,
 		"aura": [ "rebellious aura (60 ft.)" ],
 		"heading": [
 			"Courage Heart CR 15",
@@ -1487,16 +1487,16 @@
 		"ac": {
 			"ac": 30,
 			"touch": 13,
-			"ff": 27,
+			"flatfooted": 27,
 			"bonuses": {
 				"armor": 10,
-				"Dex": 3,
+				"dex": 3,
 				"natural": 7
 			}
 		},
 		"hp": {
 			"hp": 195,
-			"fastHealing": 10
+			"fast_healing": 10
 		},
 		"saves": {
 			"fort": 18,
@@ -1543,7 +1543,7 @@
 		"int": 22,
 		"wis": 21,
 		"cha": 24,
-		"baseAtk": 17,
+		"base_attack_bonus": 17,
 		"cmb": 23,
 		"cmd": 39,
 		"feats": [
@@ -1593,7 +1593,7 @@
 			"**Organization** solitary",
 			"**Treasure** standard (+4 darkwood breastplate, other treasure)"
 		],
-		"specialAbilities": [
+		"special_abilities": [
 			"**Bloody Rose (Su)** At will as a free action, the herald can create a thorny red rose. She may use this rose as a +1 anarchic dart as if she had the Quick Draw feat. The rose loses all its powers 1 round after it leaves the herald's hand.",
 			"**Darkwood Breastplate (Su, Ex)** The herald's +4 darkwood breastplate has all the normal properties of darkwood but is as hard and strong as steel (similar to wood created with an ironwood spell).",
 			"**Favored Enemy (Ex)** The herald has the favored enemy ability of a 17th-level ranger.",
@@ -1607,10 +1607,10 @@
 			"Having died for her beliefs holding no expectation of ever returning, Courage Heart considers it an honor to die again and again in her goddess' service, especially if doing so advances the cause or saves mortal lives. The only thing she fears is torture, but she knows her immortal flesh is resistant to punishment and she has magic at her disposal to help her escape almost any confinement.",
 			"Though she does not need to eat or drink, she still feels the urge to do so, and favors traditional Galtan food. A priest who calls her and has a Galtan meal ready for her is much more likely to get help than one who offers no such courtesy and expects immediate compliance."
 		],
-		"shortDescription": "This woman with vaguely half-elven features wears a wooden breastplate and wields a wooden morningstar in one hand. In her other hand she holds a thorny red rose; blood from that hand trickles down her arm."
+		"short_description": "This woman with vaguely half-elven features wears a wooden breastplate and wields a wooden morningstar in one hand. In her other hand she holds a thorny red rose; blood from that hand trickles down her arm."
 	},
-	"Emperor of Scales": {
-		"monstername": "Emperor of Scales",
+	{
+		"monster_name": "Emperor of Scales",
 		"file": "monsterdisplaye1f0.html",
 		"sources": [ "Pathfinder #42: Sanctum of the Serpent God" ],
 		"cr": 15,
@@ -1619,13 +1619,13 @@
 		"size": "huge",
 		"type": "outsider",
 		"subtypes": [ "chaotic", "evil", "native" ],
-		"init": 11,
+		"initiative": 11,
 		"senses": [
 			"all-around vision",
 			"darkvision 60 ft.",
 			"scent"
 		],
-		"pcp": 26,
+		"perception": 26,
 		"aura": [
 			"frightful presence (60 ft., DC 25)",
 			"maddening hiss (100 ft., DC 25)"
@@ -1641,9 +1641,9 @@
 		"ac": {
 			"ac": 30,
 			"touch": 15,
-			"ff": 23,
+			"flatfooted": 23,
 			"bonuses": {
-				"Dex": 7,
+				"dex": 7,
 				"natural": 15,
 				"size": -2
 			}
@@ -1651,7 +1651,7 @@
 		"hp": {
 			"hp": 225,
 			"regen": 5,
-			"regenOvercome": "electricity"
+			"regen_overcome_by": "electricity"
 		},
 		"saves": {
 			"fort": 19,
@@ -1699,7 +1699,7 @@
 		"int": 13,
 		"wis": 19,
 		"cha": 22,
-		"baseAtk": 18,
+		"base_attack_bonus": 18,
 		"cmb": 28,
 		"cmd": 45,
 		"feats": [
@@ -1743,17 +1743,17 @@
 			"**Organization** solitary",
 			"**Treasure** standard"
 		],
-		"specialAbilities": [
+		"special_abilities": [
 			"**Acidic Gore (Su)** The Emperor of Scales' giant severed head continually drips blood and gore that burn like acid. Any creature within 10 feet of the Emperor of Scales must make a DC 25 Reflex save or be sprayed by droplets of acidic blood, taking 2d6 points of acid damage. The save DC is Constitution-based.",
 			"**Command Snakes (Ex)** As a free action, the Emperor of Scales can command any snake or serpent with the animal or magical beast type, as the dominate animal spell. The target can resist the command with a DC 25 Will save.",
 			"**Immunity to Vorpal Weapons (Ex)** The Emperor of Scales is essentially a giant head with no body. As a result, its head cannot be severed, and vorpal weapons have no additional effect on it.",
 			"**Maddening Hiss (Su)** The Emperor of Scales' numerous snake heads constantly hiss in a maddening cacophony as a free action. Any creature within 100 feet of the Emperor of Scales must make a DC 25 Will save or be confused for 1 round. This is a mind-affecting compulsion insanity effect. A creature that saves cannot be affected by the Emperor of Scales' maddening hiss for 24 hours. The save DC is Charisma-based.",
 			"**Poison (Ex)** Bite or swallow-injury; save Fort DC 25; frequency 1/round for 10 rounds; effect 2d6 acid and 1d4 Str; cure 2 consecutive saves; snakebite-injury; save Fort DC 20; frequency 1/round for 6 rounds; effect 1d2 Con; cure 2 consecutive saves."
 		],
-		"shortDescription": "The air fills with the sound of hissing snakes as a giant, severed snake's head floats into view, with a gaping mouth and twin fangs dripping virulent poison. Its eyes are milky and blind, but its forked tongue constantly tests the air for fresh scents. Below the head, where a body should be, numerous hissing serpents thrash like tendrils of torn flesh. Blood drips from the severed head, sizzling as it burns like acid through anything it touches."
+		"short_description": "The air fills with the sound of hissing snakes as a giant, severed snake's head floats into view, with a gaping mouth and twin fangs dripping virulent poison. Its eyes are milky and blind, but its forked tongue constantly tests the air for fresh scents. Below the head, where a body should be, numerous hissing serpents thrash like tendrils of torn flesh. Blood drips from the severed head, sizzling as it burns like acid through anything it touches."
 	},
-	"Erotundee, Keeper of the Risen Light": {
-		"monstername": "Erotundee, Keeper of the Risen Light",
+	{
+		"monster_name": "Erotundee, Keeper of the Risen Light",
 		"file": "monsterdisplay8593.html",
 		"sources": [ "Demons Revisited" ],
 		"cr": 22,
@@ -1763,12 +1763,12 @@
 		"size": "huge",
 		"type": "outsider",
 		"subtypes": [ "chaotic", "demon", "evil", "extraplanar" ],
-		"init": 6,
+		"initiative": 6,
 		"senses": [
 			"darkvision 60 ft.",
 			"true seeing"
 		],
-		"pcp": 46,
+		"perception": 46,
 		"aura": [ "unholy aura (DC 28)" ],
 		"heading": [
 			"Erotundee, Keeper of the Risen Light CR 22",
@@ -1782,11 +1782,11 @@
 		"ac": {
 			"ac": 41,
 			"touch": 17,
-			"ff": 38,
+			"flatfooted": 38,
 			"bonuses": {
 				"armor": 8,
 				"deflection": 4,
-				"Dex": 2,
+				"dex": 2,
 				"dodge": 1,
 				"luck": 2,
 				"natural": 16,
@@ -1854,7 +1854,7 @@
 		"int": 36,
 		"wis": 22,
 		"cha": 30,
-		"baseAtk": 21,
+		"base_attack_bonus": 21,
 		"cmb": 33,
 		"cmd": 50,
 		"feats": [
@@ -1906,10 +1906,10 @@
 			"**SQ** arcane bond (ring of wizardry IV)",
 			"**Combat Gear** staff of power; **Other Gear** bracers of armor +8, headband of mental prowess +6 (Int, Cha"
 		],
-		"shortDescription": "This wretched demon combines the worst features of a deformed boar and a repellent hag, then somehow manages to make things worse by decorating the whole with an ugly patchwork of scars and a rancidly obese body."
+		"short_description": "This wretched demon combines the worst features of a deformed boar and a repellent hag, then somehow manages to make things worse by decorating the whole with an ugly patchwork of scars and a rancidly obese body."
 	},
-	"Eudranis": {
-		"monstername": "Eudranis",
+	{
+		"monster_name": "Eudranis",
 		"file": "monsterdisplay100c.html",
 		"sources": [ "Darklands Revisited" ],
 		"cr": 5,
@@ -1918,12 +1918,12 @@
 		"alignment": "CE",
 		"size": "medium",
 		"type": "monstrous humanoid",
-		"init": 3,
+		"initiative": 3,
 		"senses": [
 			"darkvision 120 ft.",
 			"scent"
 		],
-		"pcp": 8,
+		"perception": 8,
 		"heading": [
 			"Eudranis CR 5",
 			"**Source** [Darklands Revisited pg. 33](source:Darklands Revisited)",
@@ -1935,10 +1935,10 @@
 		"ac": {
 			"ac": 20,
 			"touch": 12,
-			"ff": 18,
+			"flatfooted": 18,
 			"bonuses": {
 				"armor": 7,
-				"Dex": 2,
+				"dex": 2,
 				"natural": 1
 			}
 		},
@@ -1986,7 +1986,7 @@
 		"int": 7,
 		"wis": 18,
 		"cha": 10,
-		"baseAtk": 6,
+		"base_attack_bonus": 6,
 		"cmb": 8,
 		"cmd": 21,
 		"feats": [
@@ -2013,10 +2013,10 @@
 			"**SQ** +4 stealth in caverns, expert climber, leap attack, swarming",
 			"**Combat Gear** potion of bestow curse, scroll of daze monster, wand of cure light wounds (30 charges); **Other Gear** +1 chainmail, mwk falchion, cloak of resistance +1, silver holy symbol of Lamashtu"
 		],
-		"shortDescription": "Garbed in tattered robes, this emaciated humanoid creature stares out with unblinking white eyes. In one hand, he clutches a great blade, while his other hand holds an idol of some fell power."
+		"short_description": "Garbed in tattered robes, this emaciated humanoid creature stares out with unblinking white eyes. In one hand, he clutches a great blade, while his other hand holds an idol of some fell power."
 	},
-	"Fyndylsnitch the Shadowking": {
-		"monstername": "Fyndylsnitch the Shadowking",
+	{
+		"monster_name": "Fyndylsnitch the Shadowking",
 		"file": "monsterdisplayd3f5.html",
 		"sources": [ "Fey Revisited" ],
 		"cr": 7,
@@ -2025,12 +2025,12 @@
 		"alignment": "CN",
 		"size": "small",
 		"type": "fey",
-		"init": 8,
+		"initiative": 8,
 		"senses": [
 			"darkvision 60 ft.",
 			"low-light vision"
 		],
-		"pcp": 20,
+		"perception": 20,
 		"heading": [
 			"Fyndylsnitch the Shadowking CR 7",
 			"**Source** [Fey Revisited pg. 20](source:Fey Revisited)",
@@ -2042,9 +2042,9 @@
 		"ac": {
 			"ac": 16,
 			"touch": 15,
-			"ff": 12,
+			"flatfooted": 12,
 			"bonuses": {
-				"Dex": 4,
+				"dex": 4,
 				"natural": 1,
 				"size": 1
 			}
@@ -2090,7 +2090,7 @@
 		"int": 14,
 		"wis": 17,
 		"cha": 20,
-		"baseAtk": 4,
+		"base_attack_bonus": 4,
 		"cmb": 3,
 		"cmd": 17,
 		"feats": [
@@ -2122,10 +2122,10 @@
 			"**SQ** bloodline arcana, leprechaun magic, nighteye",
 			"**Combat Gear** wand of memory lapse (30 charges), thunderstones (5); **Other Gear** club, amulet of natural armor +1, gray bag of tricks"
 		],
-		"shortDescription": "Dressed entirely in gray worn robes, a tiny, otherworldly man stands cloaked in mysterious shadows, his head crowned by a mane of wild, fiery-orange hair and his green eyes gleaming with madness and delight."
+		"short_description": "Dressed entirely in gray worn robes, a tiny, otherworldly man stands cloaked in mysterious shadows, his head crowned by a mane of wild, fiery-orange hair and his green eyes gleaming with madness and delight."
 	},
-	"Galundari, the Scourge of Heaven": {
-		"monstername": "Galundari, the Scourge of Heaven",
+	{
+		"monster_name": "Galundari, the Scourge of Heaven",
 		"file": "monsterdisplay0c68.html",
 		"sources": [ "Demons Revisited" ],
 		"cr": 25,
@@ -2135,12 +2135,12 @@
 		"size": "large",
 		"type": "outsider",
 		"subtypes": [ "chaotic", "demon", "evil", "extraplanar" ],
-		"init": 6,
+		"initiative": 6,
 		"senses": [
 			"darkvision 60 ft.",
 			"true seeing"
 		],
-		"pcp": 43,
+		"perception": 43,
 		"aura": [
 			"flaming body",
 			"unholy aura (DC 27)"
@@ -2157,11 +2157,11 @@
 		"ac": {
 			"ac": 44,
 			"touch": 17,
-			"ff": 40,
+			"flatfooted": 40,
 			"bonuses": {
 				"armor": 11,
 				"deflection": 4,
-				"Dex": 4,
+				"dex": 4,
 				"natural": 16,
 				"size": -1
 			}
@@ -2174,7 +2174,7 @@
 			"ref": 19,
 			"will": 24
 		},
-		"defAbs": [ "bravery +1" ],
+		"defensive_abilities": [ "bravery +1" ],
 		"dr": [
 			15,
 			"epic, cold iron, and good"
@@ -2220,7 +2220,7 @@
 		"int": 26,
 		"wis": 24,
 		"cha": 29,
-		"baseAtk": 25,
+		"base_attack_bonus": 25,
 		"cmb": 41,
 		"cmd": 61,
 		"feats": [
@@ -2266,11 +2266,11 @@
 			"**SQ** armor training 1, death throes, vorpal strike, whip mastery",
 			"**Gear** +5 adamantine spiked heavy fortification breastplate, +3 good outsider-bane flaming burst unholy longsword, +4 good outsider-bane flaming burst unholy whip, +5 good outsider-bane flaming burst unholy composite longbow (20 greater good outsider slaying arrows, 10 greater human slaying arrows, and 30 cold iron arrows), efficient quiver, ring of freedom of movement, ring of spell turning"
 		],
-		"specialAbilities": [ "**Abyssal Rift (Su)** The first time Galundari slays a creature in a round (but no more than once per round), a rift tears open between the plane he currently occupies and the Abyss. The slain creature must immediately make a DC 29 Will save or his body and gear are drawn through the rift, transported to Galundari's trophy room in his palace on the Abyss. Regardless of whether the creature's body is drawn through the rift, the rift immediately slams shut a moment after it forms, creating a 20-foot-radius burst of chaotic energy that staggers all non-demons in the area of effect for 1d10 rounds-a DC 29 Fortitude save reduces the staggering effect to 1 round. If Galundari slays multiple creatures simultaneously, the body targeted by the rift is determined randomly. If the body targeted by the rift was a good outsider, all creatures (including the dead creature in danger of being pulled through the rift) take a -2 penalty on all saving throws against that specific Abyssal rift. This is a teleportation effect. The save DC is Charisma-based." ],
-		"shortDescription": "This towering, burning demon wears black, spiky armor and carries two weapons-a jagged sword and a whip of flames."
+		"special_abilities": [ "**Abyssal Rift (Su)** The first time Galundari slays a creature in a round (but no more than once per round), a rift tears open between the plane he currently occupies and the Abyss. The slain creature must immediately make a DC 29 Will save or his body and gear are drawn through the rift, transported to Galundari's trophy room in his palace on the Abyss. Regardless of whether the creature's body is drawn through the rift, the rift immediately slams shut a moment after it forms, creating a 20-foot-radius burst of chaotic energy that staggers all non-demons in the area of effect for 1d10 rounds-a DC 29 Fortitude save reduces the staggering effect to 1 round. If Galundari slays multiple creatures simultaneously, the body targeted by the rift is determined randomly. If the body targeted by the rift was a good outsider, all creatures (including the dead creature in danger of being pulled through the rift) take a -2 penalty on all saving throws against that specific Abyssal rift. This is a teleportation effect. The save DC is Charisma-based." ],
+		"short_description": "This towering, burning demon wears black, spiky armor and carries two weapons-a jagged sword and a whip of flames."
 	},
-	"Ghristah": {
-		"monstername": "Ghristah",
+	{
+		"monster_name": "Ghristah",
 		"file": "monsterdisplayf6b8.html",
 		"sources": [ "Darklands Revisited" ],
 		"cr": 8,
@@ -2280,9 +2280,9 @@
 		"size": "medium",
 		"type": "humanoid",
 		"subtypes": [ "reptilian" ],
-		"init": 2,
+		"initiative": 2,
 		"senses": [ "darkvision 90 ft." ],
-		"pcp": 12,
+		"perception": 12,
 		"aura": [ "stench (30 ft., DC 15, 10 rounds)" ],
 		"heading": [
 			"Ghristah CR 8",
@@ -2296,10 +2296,10 @@
 		"ac": {
 			"ac": 23,
 			"touch": 12,
-			"ff": 21,
+			"flatfooted": 21,
 			"bonuses": {
 				"armor": 5,
-				"Dex": 2,
+				"dex": 2,
 				"natural": 6
 			}
 		},
@@ -2338,7 +2338,7 @@
 		"int": 6,
 		"wis": 13,
 		"cha": 11,
-		"baseAtk": 6,
+		"base_attack_bonus": 6,
 		"cmb": 8,
 		"cmd": 20,
 		"feats": [
@@ -2366,10 +2366,10 @@
 			"**SQ** animal focus (7 minutes/day), feral focus, nature training, summon pack, track +3, wild empathy +7, woodland stride",
 			"**Combat Gear** potion of cure moderate wounds (2), scroll of neutralize poison; **Other Gear** +1 bone scale mail, mwk javelins (5), mwk net, aspect mask (snake)"
 		],
-		"shortDescription": "Wielding a net of woven moss and a stone javelin, this humanoid reptile wears armor of swamp reeds and bone and the skull of a larger reptile as a menacing mask."
+		"short_description": "Wielding a net of woven moss and a stone javelin, this humanoid reptile wears armor of swamp reeds and bone and the skull of a larger reptile as a menacing mask."
 	},
-	"Grendler Red-Chains": {
-		"monstername": "Grendler Red-Chains",
+	{
+		"monster_name": "Grendler Red-Chains",
 		"file": "monsterdisplay0868.html",
 		"sources": [ "Fey Revisited" ],
 		"cr": 11,
@@ -2378,9 +2378,9 @@
 		"alignment": "NE",
 		"size": "medium",
 		"type": "fey",
-		"init": 8,
+		"initiative": 8,
 		"senses": [ "low-light vision" ],
-		"pcp": 17,
+		"perception": 17,
 		"heading": [
 			"Grendler Red-Chains CR 11",
 			"**Source** [Fey Revisited pg. 44](source:Fey Revisited)",
@@ -2392,16 +2392,16 @@
 		"ac": {
 			"ac": 26,
 			"touch": 14,
-			"ff": 22,
+			"flatfooted": 22,
 			"bonuses": {
 				"armor": 2,
-				"Dex": 4,
+				"dex": 4,
 				"natural": 10
 			}
 		},
 		"hp": {
 			"hp": 147,
-			"fastHealing": 5
+			"fast_healing": 5
 		},
 		"saves": {
 			"fort": 10,
@@ -2435,7 +2435,7 @@
 		"int": 16,
 		"wis": 11,
 		"cha": 13,
-		"baseAtk": 7,
+		"base_attack_bonus": 7,
 		"cmb": 13,
 		"cmd": 27,
 		"feats": [
@@ -2467,10 +2467,10 @@
 			"**SQ** boot stomp, heavy weapons, red cap",
 			"**Gear** mwk leather armor, mwk scythe"
 		],
-		"shortDescription": "Shards of broken manacles, links of chain, and iron flails are imbedded in this hideous, human-sized man's ruddy flesh. Rivulets of congealing blood run from its soaked cap down its mangled face and neck, soaking its tangled white beard; in its arms looms a rusty but clearly sharp scythe."
+		"short_description": "Shards of broken manacles, links of chain, and iron flails are imbedded in this hideous, human-sized man's ruddy flesh. Rivulets of congealing blood run from its soaked cap down its mangled face and neck, soaking its tangled white beard; in its arms looms a rusty but clearly sharp scythe."
 	},
-	"Ilzunae, the Gloom Widow": {
-		"monstername": "Ilzunae, the Gloom Widow",
+	{
+		"monster_name": "Ilzunae, the Gloom Widow",
 		"file": "monsterdisplayca32.html",
 		"sources": [ "Demons Revisited" ],
 		"cr": 19,
@@ -2480,9 +2480,9 @@
 		"size": "medium",
 		"type": "outsider",
 		"subtypes": [ "chaotic", "demon", "evil", "extraplanar", "incorporeal" ],
-		"init": 6,
+		"initiative": 6,
 		"senses": [ "darkvision 60 ft." ],
-		"pcp": 31,
+		"perception": 31,
 		"heading": [
 			"Ilzunae, the Gloom Widow CR 19",
 			"**Source** [Demons Revisited pg. 32](source:Demons Revisited)",
@@ -2494,11 +2494,11 @@
 		"ac": {
 			"ac": 33,
 			"touch": 25,
-			"ff": 27,
+			"flatfooted": 27,
 			"bonuses": {
 				"armor": 8,
 				"deflection": 8,
-				"Dex": 5,
+				"dex": 5,
 				"dodge": 1,
 				"insight": 1
 			}
@@ -2511,7 +2511,7 @@
 			"ref": 16,
 			"will": 19
 		},
-		"defAbs": [ "incorporeal" ],
+		"defensive_abilities": [ "incorporeal" ],
 		"dr": [
 			10,
 			"cold iron or good"
@@ -2565,7 +2565,7 @@
 		"int": 14,
 		"wis": 20,
 		"cha": 26,
-		"baseAtk": 18,
+		"base_attack_bonus": 18,
 		"cmb": 24,
 		"cmd": 44,
 		"feats": [
@@ -2600,11 +2600,11 @@
 			"**SQ** eyes of darkness (7 rounds/day)",
 			"**Gear** +5 glamered ghost touch studded leather, deep red sphere ioun stone, dusty rose prism ioun stone, pink and green sphere ioun stone, pink rhomboid ioun stone, manual of bodily health +1 (used)"
 		],
-		"specialAbilities": [ "**Dominate Thrall (Sp)** Once per day, Ilzunae may cast dominate monster. She may only have one creature dominated at a time via this effect, but the effects are permanent until she dominates a new target, at which point the previous target is released from domination but is stunned for 1d4 rounds." ],
-		"shortDescription": "This lithe, shadowy creature is obviously feminine, yet the talons and horns leave no doubt as to her fiendish nature."
+		"special_abilities": [ "**Dominate Thrall (Sp)** Once per day, Ilzunae may cast dominate monster. She may only have one creature dominated at a time via this effect, but the effects are permanent until she dominates a new target, at which point the previous target is released from domination but is stunned for 1d4 rounds." ],
+		"short_description": "This lithe, shadowy creature is obviously feminine, yet the talons and horns leave no doubt as to her fiendish nature."
 	},
-	"Kallas Devil": {
-		"monstername": "Kallas Devil",
+	{
+		"monster_name": "Kallas Devil",
 		"file": "monsterdisplay4d71.html",
 		"sources": [ "Fey Revisited" ],
 		"cr": 9,
@@ -2614,9 +2614,9 @@
 		"size": "large",
 		"type": "fey",
 		"subtypes": [ "aquatic" ],
-		"init": 5,
+		"initiative": 5,
 		"senses": [ "darkvision 60 ft." ],
-		"pcp": 17,
+		"perception": 17,
 		"aura": [ "frightful presence (30 ft., DC 20)" ],
 		"heading": [
 			"Kallas Devil CR 9",
@@ -2630,9 +2630,9 @@
 		"ac": {
 			"ac": 22,
 			"touch": 16,
-			"ff": 15,
+			"flatfooted": 15,
 			"bonuses": {
-				"Dex": 5,
+				"dex": 5,
 				"dodge": 2,
 				"natural": 6,
 				"size": -1
@@ -2680,7 +2680,7 @@
 		"int": 13,
 		"wis": 15,
 		"cha": 18,
-		"baseAtk": 6,
+		"base_attack_bonus": 6,
 		"cmb": 12,
 		"cmd": 29,
 		"feats": [
@@ -2709,14 +2709,14 @@
 			"**SQ** amphibious, undersized weapons",
 			"**Gear** masterwork trident"
 		],
-		"specialAbilities": [
+		"special_abilities": [
 			"**Evil Eye (Su)** Three times per day, the Kallas Devil can cast its dire gaze upon any single creature within 30 feet. The target must succeed at a DC 20 Will save or be staggered as a strange nebulous distress and a gnawing sense of impending doom plague the victim. If the Kallas Devil uses its evil eye on someone already afflicted by this curse, the victim must succeed at a DC 20 Fortitude save or be overwhelmed with fright and collapse into a comatose state for 3 days. Each day that passes, the comatose victim must succeed at a DC 20 Fortitude save or perish. The evil eye is a mind-affecting fear effect. The save DCs are Charisma-based. ",
 			"Evil Eye Curse: Gaze-failed save; save Will DC 20; frequency 1/day; effect staggered (or fall comatose if already under the effects of the evil eye)."
 		],
-		"shortDescription": "Growing from the back of a horselike beast is the torso of a sea hag with grossly elongated arms and large, clawed hands. Its tangled web of stringy hair does not hide the disturbing fact that the hideous creature has no skin, and is built of gore and viscera."
+		"short_description": "Growing from the back of a horselike beast is the torso of a sea hag with grossly elongated arms and large, clawed hands. Its tangled web of stringy hair does not hide the disturbing fact that the hideous creature has no skin, and is built of gore and viscera."
 	},
-	"Kaltestrua, Governess of Casnoriva": {
-		"monstername": "Kaltestrua, Governess of Casnoriva",
+	{
+		"monster_name": "Kaltestrua, Governess of Casnoriva",
 		"file": "monsterdisplay5813.html",
 		"sources": [ "Demons Revisited" ],
 		"cr": 21,
@@ -2726,12 +2726,12 @@
 		"size": "large",
 		"type": "outsider",
 		"subtypes": [ "chaotic", "demon", "evil", "extraplanar" ],
-		"init": 6,
+		"initiative": 6,
 		"senses": [
 			"darkvision 60 ft.",
 			"true seeing"
 		],
-		"pcp": 39,
+		"perception": 39,
 		"aura": [ "unholy aura (DC 28)" ],
 		"heading": [
 			"Kaltestrua, Governess of Casnoriva CR 21",
@@ -2745,11 +2745,11 @@
 		"ac": {
 			"ac": 38,
 			"touch": 19,
-			"ff": 32,
+			"flatfooted": 32,
 			"bonuses": {
 				"armor": 4,
 				"deflection": 4,
-				"Dex": 6,
+				"dex": 6,
 				"natural": 15,
 				"size": -1
 			}
@@ -2762,7 +2762,7 @@
 			"ref": 22,
 			"will": 19
 		},
-		"defAbs": [ "evasion" ],
+		"defensive_abilities": [ "evasion" ],
 		"dr": [
 			10,
 			"cold iron and good"
@@ -2813,7 +2813,7 @@
 		"int": 20,
 		"wis": 20,
 		"cha": 30,
-		"baseAtk": 19,
+		"base_attack_bonus": 19,
 		"cmb": 27,
 		"cmd": 49,
 		"feats": [
@@ -2853,10 +2853,10 @@
 			"**SQ** bloodline arcana (corporeal undead affected by humanoid-affecting spells)",
 			"**Gear** +4 ghost touch unholy heavy flail, +3 ghost touch flails (4), ring of evasion"
 		],
-		"shortDescription": "This serpent-bodied, six-armed woman is painfully thin, haggard, and gaunt. Bloody sores dot her flesh, and the skulladorned flails she wields drip black liquid."
+		"short_description": "This serpent-bodied, six-armed woman is painfully thin, haggard, and gaunt. Bloody sores dot her flesh, and the skulladorned flails she wields drip black liquid."
 	},
-	"Khalirai, the Ivory Queen": {
-		"monstername": "Khalirai, the Ivory Queen",
+	{
+		"monster_name": "Khalirai, the Ivory Queen",
 		"file": "monsterdisplay999a.html",
 		"sources": [ "Fey Revisited" ],
 		"cr": 15,
@@ -2865,12 +2865,12 @@
 		"alignment": "CG",
 		"size": "medium",
 		"type": "fey",
-		"init": 7,
+		"initiative": 7,
 		"senses": [
 			"darkvision 60 ft.",
 			"low-light vision"
 		],
-		"pcp": 24,
+		"perception": 24,
 		"aura": [ "blinding beauty (30 ft., DC 24)" ],
 		"heading": [
 			"Khalirai, the Ivory Queen CR 15",
@@ -2884,10 +2884,10 @@
 		"ac": {
 			"ac": 29,
 			"touch": 28,
-			"ff": 21,
+			"flatfooted": 21,
 			"bonuses": {
 				"deflection": 10,
-				"Dex": 7,
+				"dex": 7,
 				"dodge": 1,
 				"natural": 1
 			}
@@ -2942,7 +2942,7 @@
 		"int": 18,
 		"wis": 20,
 		"cha": 30,
-		"baseAtk": 10,
+		"base_attack_bonus": 10,
 		"cmb": 17,
 		"cmd": 37,
 		"feats": [
@@ -2977,10 +2977,10 @@
 			"**SQ** inspiration, oracle's curse (clouded vision), revelations (armor of bones, near death, undead servitude, voice of the grave), unearthly grace, wild empathy +24",
 			"**Gear** +2 disruption light mace, amulet of natural armor +1, 495 gp"
 		],
-		"shortDescription": "This slender, seductive woman has bone-white skin and an otherworldly beauty."
+		"short_description": "This slender, seductive woman has bone-white skin and an otherworldly beauty."
 	},
-	"Kurshu the Undying": {
-		"monstername": "Kurshu the Undying",
+	{
+		"monster_name": "Kurshu the Undying",
 		"file": "monsterdisplay0381.html",
 		"sources": [ "Pathfinder #65: Into the Nightmare Rift" ],
 		"cr": 15,
@@ -2989,14 +2989,14 @@
 		"size": "large",
 		"type": "outsider",
 		"subtypes": [ "evil", "extraplanar", "lawful" ],
-		"init": 10,
+		"initiative": 10,
 		"senses": [
 			"blindsense 60 ft.",
 			"darkvision 120 ft.",
 			"low-light vision",
 			"scent"
 		],
-		"pcp": 25,
+		"perception": 25,
 		"heading": [
 			"Kurshu the Undying CR 15",
 			"**Source** [Pathfinder #65: Into the Nightmare Rift pg. 88](source:Pathfinder #65: Into the Nightmare Rift)",
@@ -3007,10 +3007,10 @@
 		"ac": {
 			"ac": 30,
 			"touch": 17,
-			"ff": 24,
+			"flatfooted": 24,
 			"bonuses": {
 				"deflection": 2,
-				"Dex": 6,
+				"dex": 6,
 				"natural": 13,
 				"size": -1
 			}
@@ -3018,7 +3018,7 @@
 		"hp": {
 			"hp": 229,
 			"regen": 5,
-			"regenOvercome": "acid"
+			"regen_overcome_by": "acid"
 		},
 		"saves": {
 			"fort": 20,
@@ -3064,7 +3064,7 @@
 		"int": 31,
 		"wis": 20,
 		"cha": 25,
-		"baseAtk": 17,
+		"base_attack_bonus": 17,
 		"cmb": 23,
 		"cmd": 41,
 		"feats": [
@@ -3112,7 +3112,7 @@
 			"**Organization** solitary or cabal (herald and 1d4 charmed outsiders of CR 5 to CR 10)",
 			"**Treasure** standard"
 		],
-		"specialAbilities": [
+		"special_abilities": [
 			"**Divine Separation (Su)** The herald has been separated from Lissala for thousands of years and does not know where her master is. The loss of her connection to the goddess severely weakens the herald, and she gains 1 negative level per day, up to a maximum of 16 negative levels. These negative levels cannot be suppressed or removed in any way (including restoration spells), except by using her feed ability. If Lissala returns and the herald regains her connection to her master, she permanently loses this weakness and its associated negative levels.",
 			"**Feed (Su)** Once per day, the herald can devour an outsider's corpse as a full-round action. For each Hit Die of the devoured outsider, the herald automatically removes 1 negative level gained from her divine separation ability. The consumed outsider must have at least 8 Hit Dice.",
 			"**Intelligence Drain (Su)** The herald drains 1d4 points of Intelligence each time she hits with her slam attack. (The herald does not heal any damage when she uses her Intelligence drain.)",
@@ -3124,10 +3124,10 @@
 			"As there are few creatures in Lissala's service who have the power to conjure her, Kurshu is mainly left to her own devices, but (unlike heralds of active deities) may choose to respond to a summons from any spellcaster. In exchange for her services, she demands that she be given outsiders she can enslave for later feeding, Thassilonian magic items, or items that bear some lingering piece of Lissala's power. She is knowledgeable about Thassilonian magic, rune magic, and Azlanti practices, though she is hesitant to speak of the latter when on Golarion lest it attract unwanted attention from slaves of the aboleths; having witnessed Earthfall at a distance, she has no desire to subject herself to a direct attack by entities who control that kind of magic.",
 			"Kurshu has no compunction about killing something that defies her or appears to be withholding information or objects she wants (if she has to, she can compel answers from its corpse using limited wish to duplicate speak with dead). She feels her pseudo-mortality at all times and fears death, and is likely to flee any encounter in which she feels outmatched."
 		],
-		"shortDescription": "This large creature has the upper body of a winged woman and the lower body of a snake. She looks withered, like a preserved corpse."
+		"short_description": "This large creature has the upper body of a winged woman and the lower body of a snake. She looks withered, like a preserved corpse."
 	},
-	"Lorthact": {
-		"monstername": "Lorthact",
+	{
+		"monster_name": "Lorthact",
 		"file": "monsterdisplayff9d.html",
 		"sources": [ "Inner Sea Bestiary" ],
 		"cr": 25,
@@ -3136,12 +3136,12 @@
 		"size": "medium",
 		"type": "outsider",
 		"subtypes": [ "devil", "evil", "extraplanar", "lawful" ],
-		"init": 11,
+		"initiative": 11,
 		"senses": [
 			"darkvision 60 ft.",
 			"true seeing"
 		],
-		"pcp": 43,
+		"perception": 43,
 		"aura": [ "unholy aura" ],
 		"heading": [
 			"Lorthact CR 25",
@@ -3154,11 +3154,11 @@
 		"ac": {
 			"ac": 45,
 			"touch": 29,
-			"ff": 33,
+			"flatfooted": 33,
 			"bonuses": {
 				"armor": 6,
 				"deflection": 5,
-				"Dex": 11,
+				"dex": 11,
 				"dodge": 1,
 				"luck": 2,
 				"natural": 10
@@ -3167,14 +3167,14 @@
 		"hp": {
 			"hp": 560,
 			"regen": 5,
-			"regenOvercome": "good weapons or spells"
+			"regen_overcome_by": "good weapons or spells"
 		},
 		"saves": {
 			"fort": 26,
 			"ref": 31,
 			"will": 30
 		},
-		"defAbs": [ "evasion" ],
+		"defensive_abilities": [ "evasion" ],
 		"dr": [
 			20,
 			"good and silver"
@@ -3215,7 +3215,7 @@
 		"int": 30,
 		"wis": 26,
 		"cha": 37,
-		"baseAtk": 32,
+		"base_attack_bonus": 32,
 		"cmb": 38,
 		"cmd": 65,
 		"feats": [
@@ -3278,7 +3278,7 @@
 			"**Organization** solitary",
 			"**Treasure** triple"
 		],
-		"specialAbilities": [
+		"special_abilities": [
 			"**Infernal Duke Traits An infernal duke is a powerful devil that has not yet made the full transition from unique devil to full archdevil. It possesses several traits, as summarized here.",
 			"- Immunity to charm and compulsion effects, death effects, fire, and poison.",
 			"- Resistance to acid 30 and cold 30.",
@@ -3290,10 +3290,10 @@
 			"**Spell Reservoir (Su)** Lorthact can drain prepared arcane spells from the mind of a creature he has dominated and store them for later use, similarly to a ring of spell storing. Draining a spell requires 1 full-round action if he is able to touch the target, or 1 minute to perform through the mental link provided by the dominate effect; in either case, no saving throw is allowed. He can hold no more than one stolen spell from each dominated caster in his spell reservoir, and the total level of stolen spells cannot exceed 25. These stolen spells take effect at the original caster's level.",
 			"**Temporal Anomaly (Su)** Lorthact exists slightly outside of the normal timestream. Spells that predict the future-such as augury, divination, foresight, and moment of prescience- cannot perceive him and provide no benefit against him or information about him. In addition, whenever a creature within 60 feet of him uses time stop, Lorthact can act normally within the duration of the time stop, as if he had cast it himself. As neither Lorthact nor the caster are frozen in time with respect to each other, each can target and affect the other with attacks, spells, or other effects they create, though they cannot affect other creatures within the duration of the time stop. This ability functions even if Lorthact is flat-footed or unaware of his opponent."
 		],
-		"shortDescription": "This devilish humanoid has five horns growing out of his forehead that resemble a crown. He stands on stout cloven hooves."
+		"short_description": "This devilish humanoid has five horns growing out of his forehead that resemble a crown. He stands on stout cloven hooves."
 	},
-	"Malsandra": {
-		"monstername": "Malsandra",
+	{
+		"monster_name": "Malsandra",
 		"file": "monsterdisplayf444.html",
 		"sources": [ "Fey Revisited" ],
 		"cr": 16,
@@ -3303,9 +3303,9 @@
 		"size": "medium",
 		"type": "fey",
 		"subtypes": [ "aquatic" ],
-		"init": 13,
+		"initiative": 13,
 		"senses": [ "low-light vision" ],
-		"pcp": 33,
+		"perception": 33,
 		"heading": [
 			"Malsandra CR 16",
 			"**Source** [Fey Revisited pg. 50](source:Fey Revisited)",
@@ -3317,10 +3317,10 @@
 		"ac": {
 			"ac": 31,
 			"touch": 23,
-			"ff": 21,
+			"flatfooted": 21,
 			"bonuses": {
 				"deflection": 3,
-				"Dex": 9,
+				"dex": 9,
 				"dodge": 1,
 				"natural": 8
 			}
@@ -3333,7 +3333,7 @@
 			"ref": 25,
 			"will": 15
 		},
-		"defAbs": [
+		"defensive_abilities": [
 			"evasion",
 			"trap sense +1",
 			"uncanny dodge"
@@ -3374,7 +3374,7 @@
 		"int": 12,
 		"wis": 11,
 		"cha": 26,
-		"baseAtk": 13,
+		"base_attack_bonus": 13,
 		"cmb": 22,
 		"cmd": 43,
 		"feats": [
@@ -3416,10 +3416,10 @@
 			"**SQ** amphibious, rogue talents (combat trick, finesse rogue), trapfinding +2",
 			"**Combat Gear** potion of barkskin, potions of cure serious wounds (3); **Other Gear** +1 hand crossbow with 20 bolts, +2 vicious frost rapier, ring of protection +3, gems and art objects worth 3,000 gp, 230 gp"
 		],
-		"shortDescription": "Standing amid a roiling fog, this nude, humanoid woman's pale, wet skin glistens. Her long, dark hair moves about her head as though she were submerged underwater, and rapier in her hand crackles with arcane energy."
+		"short_description": "Standing amid a roiling fog, this nude, humanoid woman's pale, wet skin glistens. Her long, dark hair moves about her head as though she were submerged underwater, and rapier in her hand crackles with arcane energy."
 	},
-	"Malziarax, Rune Giant Overlord": {
-		"monstername": "Malziarax, Rune Giant Overlord",
+	{
+		"monster_name": "Malziarax, Rune Giant Overlord",
 		"file": "monsterdisplay9cdb.html",
 		"sources": [ "Giants Revisited" ],
 		"cr": 21,
@@ -3429,9 +3429,9 @@
 		"size": "gargantuan",
 		"type": "humanoid",
 		"subtypes": [ "giant" ],
-		"init": 6,
+		"initiative": 6,
 		"senses": [ "low-light vision" ],
-		"pcp": 32,
+		"perception": 32,
 		"heading": [
 			"Malziarax, Rune Giant Overlord CR 21",
 			"**Source** [Giants Revisited pg. 44](source:Giants Revisited)",
@@ -3443,11 +3443,11 @@
 		"ac": {
 			"ac": 38,
 			"touch": 10,
-			"ff": 36,
+			"flatfooted": 36,
 			"bonuses": {
 				"armor": 11,
 				"deflection": 2,
-				"Dex": 2,
+				"dex": 2,
 				"natural": 17,
 				"size": -4
 			}
@@ -3460,7 +3460,7 @@
 			"ref": 9,
 			"will": 20
 		},
-		"defAbs": [ "bravery +1" ],
+		"defensive_abilities": [ "bravery +1" ],
 		"immune": [
 			"cold",
 			"electricity",
@@ -3495,7 +3495,7 @@
 		"int": 18,
 		"wis": 21,
 		"cha": 26,
-		"baseAtk": 19,
+		"base_attack_bonus": 19,
 		"cmb": 39,
 		"cmd": 53,
 		"feats": [
@@ -3531,10 +3531,10 @@
 			"**Languages** Common, Giant, Tien",
 			"**SQ** armor training 1"
 		],
-		"shortDescription": "This enormous, ebon-skinned giant is covered in glowing red runes and exotic plate armor."
+		"short_description": "This enormous, ebon-skinned giant is covered in glowing red runes and exotic plate armor."
 	},
-	"Mangvhune, the Temple Hill Slasher": {
-		"monstername": "Mangvhune, the Temple Hill Slasher",
+	{
+		"monster_name": "Mangvhune, the Temple Hill Slasher",
 		"file": "monsterdisplayf813.html",
 		"sources": [ "Demons Revisited" ],
 		"cr": 16,
@@ -3544,12 +3544,12 @@
 		"size": "medium",
 		"type": "outsider",
 		"subtypes": [ "chaotic", "demon", "evil", "extraplanar" ],
-		"init": 8,
+		"initiative": 8,
 		"senses": [
 			"darkvision 60 ft.",
 			"see invisibility"
 		],
-		"pcp": 21,
+		"perception": 21,
 		"heading": [
 			"Mangvhune, the Temple Hill Slasher CR 16",
 			"**Source** [Demons Revisited pg. 8](source:Demons Revisited)",
@@ -3561,10 +3561,10 @@
 		"ac": {
 			"ac": 31,
 			"touch": 15,
-			"ff": 27,
+			"flatfooted": 27,
 			"bonuses": {
 				"armor": 8,
-				"Dex": 3,
+				"dex": 3,
 				"dodge": 1,
 				"insight": 1,
 				"natural": 8
@@ -3578,7 +3578,7 @@
 			"ref": 14,
 			"will": 8
 		},
-		"defAbs": [ "protective slime" ],
+		"defensive_abilities": [ "protective slime" ],
 		"dr": [
 			10,
 			"cold iron or good"
@@ -3619,7 +3619,7 @@
 		"int": 16,
 		"wis": 13,
 		"cha": 14,
-		"baseAtk": 14,
+		"base_attack_bonus": 14,
 		"cmb": 22,
 		"cmd": 39,
 		"feats": [
@@ -3652,10 +3652,10 @@
 			"**Languages** Abyssal, Celestial, Draconic; telepathy 100 ft.",
 			"**SQ** hidden weapons, hide in plain sight, improved uncanny dodge, poison use"
 		],
-		"shortDescription": "This leering, single-horned demon seems emaciated even clad in black dragonhide armor. A viscous layer of crimson slime glistens on its flesh, dripping over its armor in red rivulets."
+		"short_description": "This leering, single-horned demon seems emaciated even clad in black dragonhide armor. A viscous layer of crimson slime glistens on its flesh, dripping over its armor in red rivulets."
 	},
-	"Mardahamman, Cyclops Tyrant": {
-		"monstername": "Mardahamman, Cyclops Tyrant",
+	{
+		"monster_name": "Mardahamman, Cyclops Tyrant",
 		"file": "monsterdisplay765c.html",
 		"sources": [ "Giants Revisited" ],
 		"cr": 15,
@@ -3665,9 +3665,9 @@
 		"size": "large",
 		"type": "humanoid",
 		"subtypes": [ "giant" ],
-		"init": 7,
+		"initiative": 7,
 		"senses": [ "low-light vision" ],
-		"pcp": 15,
+		"perception": 15,
 		"heading": [
 			"Mardahamman, Cyclops Tyrant CR 15",
 			"**Source** [Giants Revisited pg. 14](source:Giants Revisited)",
@@ -3679,11 +3679,11 @@
 		"ac": {
 			"ac": 29,
 			"touch": 14,
-			"ff": 25,
+			"flatfooted": 25,
 			"bonuses": {
 				"armor": 6,
 				"deflection": 1,
-				"Dex": 3,
+				"dex": 3,
 				"dodge": 1,
 				"natural": 9,
 				"size": -1
@@ -3697,7 +3697,7 @@
 			"ref": 11,
 			"will": 8
 		},
-		"defAbs": [
+		"defensive_abilities": [
 			"bravery +3",
 			"ferocity"
 		],
@@ -3725,7 +3725,7 @@
 		"int": 10,
 		"wis": 11,
 		"cha": 10,
-		"baseAtk": 17,
+		"base_attack_bonus": 17,
 		"cmb": 24,
 		"cmd": 39,
 		"feats": [
@@ -3763,10 +3763,10 @@
 			"**SQ** armor training 2, flash of insight",
 			"**Combat Gear** potions of cure serious wounds (2), potions of bull's strength (2); **Other Gear** mammoth hide (+2 hide, as rhino hide), +1 heavy crossbow with 10 bolts, +1 defending greatclub, amulet of natural armor +2, belt of physical might +2 (Dex, Con), boots of springing and striding, feather tokens (tree, whip), ring of protection +1"
 		],
-		"shortDescription": "Attired in various hides and with pauldrons made from the tusks of a mammoth, this towering, one-eyed humanoid wields an equally massive flat club."
+		"short_description": "Attired in various hides and with pauldrons made from the tusks of a mammoth, this towering, one-eyed humanoid wields an equally massive flat club."
 	},
-	"Moxix": {
-		"monstername": "Moxix",
+	{
+		"monster_name": "Moxix",
 		"file": "monsterdisplay174a.html",
 		"sources": [ "Inner Sea Bestiary" ],
 		"cr": 20,
@@ -3775,13 +3775,13 @@
 		"size": "gargantuan",
 		"type": "outsider",
 		"subtypes": [ "chaotic", "demon", "evil", "extraplanar" ],
-		"init": 3,
+		"initiative": 3,
 		"senses": [
 			"blindsense 60 ft.",
 			"darkvision 60 ft.",
 			"see invisibility"
 		],
-		"pcp": 33,
+		"perception": 33,
 		"aura": [ "hopedrinker (60 ft.)" ],
 		"heading": [
 			"Moxix CR 20",
@@ -3794,9 +3794,9 @@
 		"ac": {
 			"ac": 34,
 			"touch": 9,
-			"ff": 31,
+			"flatfooted": 31,
 			"bonuses": {
-				"Dex": 3,
+				"dex": 3,
 				"natural": 25,
 				"size": -4
 			}
@@ -3809,7 +3809,7 @@
 			"ref": 10,
 			"will": 22
 		},
-		"defAbs": [ "gush" ],
+		"defensive_abilities": [ "gush" ],
 		"dr": [
 			15,
 			"adamantine and good"
@@ -3851,7 +3851,7 @@
 		"int": 15,
 		"wis": 24,
 		"cha": 25,
-		"baseAtk": 23,
+		"base_attack_bonus": 23,
 		"cmb": 37,
 		"cmd": 50,
 		"feats": [
@@ -3894,17 +3894,17 @@
 			"**Organization** solitary",
 			"**Treasure** double"
 		],
-		"specialAbilities": [
+		"special_abilities": [
 			"**Breath Weapon (Su)** Moxix can exhale a cone of acidic fog laced with a terrible disease. Any creature damaged by the acid of his breath weapon must succeed at a DC 28 Fortitude save or contract this disease. A humanoid afflicted with this disease must attempt a new Will save each day. If the humanoid fails, it attacks and attempts to eat the weakest humanoid nearby. If the save is successful, it resists this impulse. A humanoid who dies or is killed while afflicted rises as a ghast at the next midnight. The save DC is Charisma-based. ",
 			"Moxix's Delectation: Inhaled; save Fortitude DC 28; onset 1 day; frequency 1/day; effect 1d4 Con and 1d4 Wis damage; cure 2 consecutive saves.",
 			"**Gush (Ex)** Anytime Moxix takes more than 50 points of weapon damage in a round, blood and pus spews forth from the wound. The blood is extremely slippery and sprays out in a 20-foot radius, coating all creatures and surfaces in the area. Any creatures in the area must succeed at a DC 28 Reflex save or drop any items they are holding. A saving throw must be made each round that the creature attempts to use or pick up an item it previously dropped. In addition, the area coated in the gushing blood is difficult to move about in, and creatures moving through the area must succeed at a DC 15 Acrobatics check or fall prone.",
 			"**Hopedrinker (Su)** Moxix emits an aura that drains hope from all within 60 feet. All morale bonuses are suppressed within this aura, regardless of their source. In addition, spells and spell-like abilities granting a morale bonus are affected as dispel magic used to counterspell (caster level 23rd) every round at the beginning of Moxix's turn. A successful dispel check negates the entire effect (not just the morale bonus) and grants Moxix temporary hit points equal to the spell's level (to a maximum of 100). These temporary hit points last 1 hour.",
 			"**Mindshatter (Su)** If a creature fails its save against Moxix's eyebite spell-like ability, as a standard action before the end of his turn he may unravel the target's mind and spirit. This acts as greater dispel magic (caster level 23rd) against effects that protect against mind-affecting or necromantic effects and automatically affects the target as enervation and touch of idiocy (duration 24 hours)."
 		],
-		"shortDescription": "This strange, four-armed fiend appears to be constructed completely out of stone. Dried blood stains its body."
+		"short_description": "This strange, four-armed fiend appears to be constructed completely out of stone. Dried blood stains its body."
 	},
-	"Nightripper": {
-		"monstername": "Nightripper",
+	{
+		"monster_name": "Nightripper",
 		"file": "monsterdisplayd9f2.html",
 		"sources": [ "Inner Sea Bestiary" ],
 		"cr": 24,
@@ -3913,14 +3913,14 @@
 		"size": "medium",
 		"type": "outsider",
 		"subtypes": [ "chaotic", "demon", "evil", "extraplanar" ],
-		"init": 11,
+		"initiative": 11,
 		"senses": [
 			"darkvision 60 ft.",
 			"detect good",
 			"detect law",
 			"true seeing"
 		],
-		"pcp": 36,
+		"perception": 36,
 		"aura": [ "unholy aura (DC 25)" ],
 		"heading": [
 			"Nightripper CR 24",
@@ -3933,17 +3933,17 @@
 		"ac": {
 			"ac": 42,
 			"touch": 25,
-			"ff": 31,
+			"flatfooted": 31,
 			"bonuses": {
 				"deflection": 4,
-				"Dex": 11,
+				"dex": 11,
 				"natural": 17
 			}
 		},
 		"hp": {
 			"hp": 526,
 			"regen": 15,
-			"regenOvercome": "good weapons or spells"
+			"regen_overcome_by": "good weapons or spells"
 		},
 		"saves": {
 			"fort": 27,
@@ -3994,7 +3994,7 @@
 		"int": 18,
 		"wis": 23,
 		"cha": 24,
-		"baseAtk": 27,
+		"base_attack_bonus": 27,
 		"cmb": 36,
 		"cmd": 61,
 		"feats": [
@@ -4042,7 +4042,7 @@
 			"**Organization** solitary",
 			"**Treasure** triple (+5 keen vorpal bastard sword, other treasure)"
 		],
-		"specialAbilities": [
+		"special_abilities": [
 			"**Curse of Living Death (Su)** Once per round, as a free action as he kills a living creature, Nightripper can choose to afflict that target with the curse of living death. The target can resist this curse with a successful DC 30 Will save right before it dies, allowing the victim to die normally. If the victim fails its save, it enters a sort of half-living state; it becomes completely helpless, unable to take any actions whatsoever, but remains conscious and aware of the world, and of the pain in its body. It cannot be resurrected or otherwise restored to life until the curse is lifted. While the curse remains in effect, the victim takes 1d4 points of Intelligence, Wisdom, and Charisma drain every day as any lingering shreds of sanity are blasted away. When each ability score is drained to zero, the DC of the curse increases by +4. A character suffering the curse of living death can remain in this state forever, but as long as any one of her mental ability scores is at zero, she is capable only of enduring pain and cannot observe the world around her. Even if the character's body is destroyed, the cursed victim's consciousness remains as a disembodied and invisible presence at the site of this destruction, and cannot be resurrected or released to the afterlife. The save DC is Charisma-based.",
 			"**Nascent Demon Lord Traits A nascent demon lord is a powerful demon that has not yet made the full transition from unique demon to full demon lord of an Abyssal realm. They have several traits, as summarized here.",
 			"- Immunity to charm and compulsion effects, death effects, electricity, and poison.",
@@ -4055,10 +4055,10 @@
 			"**Swift Cuts (Ex)** As long as he is attacking with a sword, Nightripper treats foes who are staggered, nauseated, or under the effects of a slow spell (or similar effects, such as his gaze) as if they were flat-footed.",
 			"**Sword Mastery (Ex)** Nightripper possesses several sword-related bonus feats normally restricted to fighters."
 		],
-		"shortDescription": "Twin talons attached to grotesque back-appendages drip blood from this hideously emaciated, jackal-legged albino demon."
+		"short_description": "Twin talons attached to grotesque back-appendages drip blood from this hideously emaciated, jackal-legged albino demon."
 	},
-	"Old Wulunga": {
-		"monstername": "Old Wulunga",
+	{
+		"monster_name": "Old Wulunga",
 		"file": "monsterdisplayed76.html",
 		"sources": [ "Mystery Monsters Revisited" ],
 		"cr": 6,
@@ -4068,13 +4068,13 @@
 		"size": "large",
 		"type": "magical beast",
 		"subtypes": [ "aquatic" ],
-		"init": 5,
+		"initiative": 5,
 		"senses": [
 			"darkvision 60 ft.",
 			"keen scent 180 ft.",
 			"low-light vision"
 		],
-		"pcp": 11,
+		"perception": 11,
 		"heading": [
 			"Old Wulunga CR 6",
 			"**Source** [Mystery Monsters Revisited pg. 9](source:Mystery Monsters Revisited)",
@@ -4086,9 +4086,9 @@
 		"ac": {
 			"ac": 20,
 			"touch": 14,
-			"ff": 15,
+			"flatfooted": 15,
 			"bonuses": {
-				"Dex": 5,
+				"dex": 5,
 				"natural": 6,
 				"size": -1
 			}
@@ -4124,7 +4124,7 @@
 		"int": 2,
 		"wis": 15,
 		"cha": 11,
-		"baseAtk": 8,
+		"base_attack_bonus": 8,
 		"cmb": 12,
 		"cmd": 27,
 		"feats": [
@@ -4146,15 +4146,15 @@
 			"**Feats** [Improved Critical (gore)](feat:Improved Critical), [Improved Roar](feat:Improved Roar), [Skill Focus (Perception)](feat:Skill Focus), [Skill Focus (Stealth)](feat:Skill Focus), [Weapon Focus (gore)](feat:Weapon Focus)",
 			"**Skills** Escape Artist +7, Perception +11, Stealth +10, Swim +11"
 		],
-		"specialAbilities": [
+		"special_abilities": [
 			"**Blood Rage (Ex)** See page 50 of Bestiary 2.",
 			"**Disease (Su)** Gore-injury; save Fort DC 17; onset 1 day; frequency 1/day; effect 1d4 Con and 1d4 Str damage; cure 2 consecutive saves.",
 			"**Roar (Su)** Old Wulunga can emit a roar at will as a standard action. This ability is modified by his Improved Roar feat (see the Bunyip Feats sidebar). All hearing creatures with 8 or fewer HD within a 200-foot spread must succeed at a DC 17 Will save or become panicked for 2d4 rounds. This ability is otherwise identical to the bunyip's roar ability (Bestiary 2 50)."
 		],
-		"shortDescription": "This bloated, pinniped-like mammal is covered in salty grime, and its sturdy, blunt tusks promise an agonizing death."
+		"short_description": "This bloated, pinniped-like mammal is covered in salty grime, and its sturdy, blunt tusks promise an agonizing death."
 	},
-	"Oliphaunt of Jandelay": {
-		"monstername": "Oliphaunt of Jandelay",
+	{
+		"monster_name": "Oliphaunt of Jandelay",
 		"file": "monsterdisplay171f.html",
 		"sources": [ "Mythic Realms" ],
 		"cr": 30,
@@ -4163,12 +4163,12 @@
 		"size": "colossal",
 		"type": "outsider",
 		"subtypes": [ "chaotic", "extraplanar" ],
-		"init": 8,
+		"initiative": 8,
 		"senses": [
 			"darkvision 60 ft.",
 			"true seeing"
 		],
-		"pcp": 52,
+		"perception": 52,
 		"aura": [ "dimensional lock (500 ft., DC 41)" ],
 		"heading": [
 			"Oliphaunt of Jandelay CR 30",
@@ -4181,10 +4181,10 @@
 		"ac": {
 			"ac": 50,
 			"touch": 30,
-			"ff": 42,
+			"flatfooted": 42,
 			"bonuses": {
 				"deflection": 20,
-				"Dex": 8,
+				"dex": 8,
 				"natural": 20,
 				"size": -8
 			}
@@ -4192,14 +4192,14 @@
 		"hp": {
 			"hp": 740,
 			"regen": 35,
-			"regenOvercome": "acid from a mythic spell or item"
+			"regen_overcome_by": "acid from a mythic spell or item"
 		},
 		"saves": {
 			"fort": 37,
 			"ref": 21,
 			"will": 27
 		},
-		"defAbs": [
+		"defensive_abilities": [
 			"guardian of Jandelay",
 			"ward against command",
 			"wards of Jandelay"
@@ -4245,7 +4245,7 @@
 		"int": 14,
 		"wis": 17,
 		"cha": 32,
-		"baseAtk": 40,
+		"base_attack_bonus": 40,
 		"cmb": 65,
 		"cmd": 103,
 		"feats": [
@@ -4289,7 +4289,7 @@
 			"**Languages** Celestial, Jandelayan",
 			"**SQ** massive"
 		],
-		"specialAbilities": [
+		"special_abilities": [
 			"**Guardian of Jandelay (Su)** The Oliphaunt was created to live in Jandelay, and attempting to remove it from the place is almost impossible. The Oliphaunt can prevent a gate or similar effect from opening inside Jandelay's borders unless the effect was created by an artifact or cast by a mythic character. If brought outside Jandelay, the Oliphaunt attempts a Will saving throw each day to return. The DC is equal to the DC of the spell that transported it, or the DC that spell would have if it allowed a saving throw. The return of the Oliphaunt triggers a magical punishment on those that stole it, laying waste to people and land. Centered on the point from which the Oliphaunt just departed, the ward triggers a mass hold monster spell targeting all creatures in a 5-mile radius. Then, that area is affected by an earthquake and storm of vengeance that last 1d12 months. While in Jandelay, the Oliphaunt's dimensional lock aura extends to protect the entire realm.",
 			"**Massive (Ex)** The Oliphaunt is so enormous in scale that it gains the benefits of a kaiju's massive ability (see Pathfinder RPG Bestiary 4).",
 			"**Ruinous Tusks (Ex)** The Oliphaunt's gore attacks are treated as adamantine, and any creature hit by one is affected by a targeted greater dispel magic spell.",
@@ -4297,10 +4297,10 @@
 			"**Wards of Jandelay (Su)** Ancient protective magic was bound into the essence of the Oliphaunt. The wards give it a +20 deflection bonus to AC, spell resistance 41, and a constant freedom effect.",
 			"**Weather Sphere (Su)** The Oliphaunt can continuously change the environment around it, as control weather with a 5-mile radius. The Oliphaunt can change the weather to that of any season, and the effects manifest 1 round thereafter. If the Oliphaunt creates stormy weather, it can call down one lightning bolt per round as a free action, as if using call lightning storm."
 		],
-		"shortDescription": "The elephantine creature is titanic in scale. Curving tusks frame its flexing, muscular trunk and its canyon of a mouth."
+		"short_description": "The elephantine creature is titanic in scale. Curving tusks frame its flexing, muscular trunk and its canyon of a mouth."
 	},
-	"Oozlosh, Marsh Giant High Priest": {
-		"monstername": "Oozlosh, Marsh Giant High Priest",
+	{
+		"monster_name": "Oozlosh, Marsh Giant High Priest",
 		"file": "monsterdisplay9526.html",
 		"sources": [ "Giants Revisited" ],
 		"cr": 14,
@@ -4310,9 +4310,9 @@
 		"size": "large",
 		"type": "humanoid",
 		"subtypes": [ "giant" ],
-		"init": 8,
+		"initiative": 8,
 		"senses": [ "low-light vision" ],
-		"pcp": 24,
+		"perception": 24,
 		"heading": [
 			"Oozlosh, Marsh Giant High Priest CR 14",
 			"**Source** [Giants Revisited pg. 38](source:Giants Revisited)",
@@ -4324,11 +4324,11 @@
 		"ac": {
 			"ac": 28,
 			"touch": 15,
-			"ff": 24,
+			"flatfooted": 24,
 			"bonuses": {
 				"armor": 3,
 				"deflection": 2,
-				"Dex": 4,
+				"dex": 4,
 				"natural": 10,
 				"size": -1
 			}
@@ -4341,7 +4341,7 @@
 			"ref": 12,
 			"will": 18
 		},
-		"defAbs": [ "rock catching" ],
+		"defensive_abilities": [ "rock catching" ],
 		"resist": {
 			"cold": 10
 		},
@@ -4382,7 +4382,7 @@
 		"int": 12,
 		"wis": 23,
 		"cha": 14,
-		"baseAtk": 16,
+		"base_attack_bonus": 16,
 		"cmb": 24,
 		"cmd": 40,
 		"feats": [
@@ -4413,10 +4413,10 @@
 			"**Languages** Boggard, Common, Giant",
 			"**Combat Gear** necklace of fireballs (type II), potions of cure serious wounds (2); **Other Gear** +1 trident, amulet of natural armor +1, bracers of armor +3, belt of incredible dexterity +2, cloak of resistance +1, headband of inspired wisdom +2, ring of protection +2, wooden unholy symbol of Dagon"
 		],
-		"shortDescription": "This creature has the bulbous eyes of a fish, and his mottled green skin glistens with slime where it isn't bedecked in gaudy jewelry."
+		"short_description": "This creature has the bulbous eyes of a fish, and his mottled green skin glistens with slime where it isn't bedecked in gaudy jewelry."
 	},
-	"Orania, Cloud Giant Oligarch": {
-		"monstername": "Orania, Cloud Giant Oligarch",
+	{
+		"monster_name": "Orania, Cloud Giant Oligarch",
 		"file": "monsterdisplay9e7b.html",
 		"sources": [ "Giants Revisited" ],
 		"cr": 18,
@@ -4426,12 +4426,12 @@
 		"size": "huge",
 		"type": "humanoid",
 		"subtypes": [ "giant" ],
-		"init": 3,
+		"initiative": 3,
 		"senses": [
 			"low-light vision",
 			"scent"
 		],
-		"pcp": 31,
+		"perception": 31,
 		"heading": [
 			"Orania, Cloud Giant Oligarch CR 18",
 			"**Source** [Giants Revisited pg. 8](source:Giants Revisited)",
@@ -4443,11 +4443,11 @@
 		"ac": {
 			"ac": 33,
 			"touch": 13,
-			"ff": 29,
+			"flatfooted": 29,
 			"bonuses": {
 				"armor": 7,
 				"deflection": 1,
-				"Dex": 3,
+				"dex": 3,
 				"dodge": 1,
 				"natural": 13,
 				"size": -2
@@ -4461,7 +4461,7 @@
 			"ref": 17,
 			"will": 22
 		},
-		"defAbs": [ "rock catching" ],
+		"defensive_abilities": [ "rock catching" ],
 		"defense": [
 			"**AC** 33, touch 13, flat-footed 29 (+7 armor, +1 deflection, +3 Dex, +1 dodge, +13 natural, -2 size)",
 			"**hp** 294 (28 HD; 16d8+12d8+168)",
@@ -4498,7 +4498,7 @@
 		"int": 14,
 		"wis": 18,
 		"cha": 22,
-		"baseAtk": 21,
+		"base_attack_bonus": 21,
 		"cmb": 35,
 		"cmd": 50,
 		"feats": [
@@ -4538,10 +4538,10 @@
 			"**SQ** oracle's curse (tongues), oversized weapon, revelations (air barrier, thunderburst, wind sight, wings of air)",
 			"**Combat Gear** potion of bear's endurance, potions of cure serious wounds (2); **Other Gear** +1 moderate fortification breastplate, +1 shocking burst longspear, amulet of natural armor +1, cloak of resistance +3, headband of alluring charisma +4, necklace of adaptation, ring of protection +1"
 		],
-		"shortDescription": "This blue-skinned giant is outfitted in elegant jewelry and white robes, and wields a lightning-infused spear."
+		"short_description": "This blue-skinned giant is outfitted in elegant jewelry and white robes, and wields a lightning-infused spear."
 	},
-	"Orynox Marchelin, Fire Giant King": {
-		"monstername": "Orynox Marchelin, Fire Giant King",
+	{
+		"monster_name": "Orynox Marchelin, Fire Giant King",
 		"file": "monsterdisplay2614.html",
 		"sources": [ "Giants Revisited" ],
 		"cr": 19,
@@ -4551,9 +4551,9 @@
 		"size": "large",
 		"type": "humanoid",
 		"subtypes": [ "fire", "giant" ],
-		"init": 3,
+		"initiative": 3,
 		"senses": [ "low-light vision" ],
-		"pcp": 29,
+		"perception": 29,
 		"heading": [
 			"Orynox Marchelin, Fire Giant King CR 19",
 			"**Source** [Giants Revisited pg. 21](source:Giants Revisited)",
@@ -4565,11 +4565,11 @@
 		"ac": {
 			"ac": 35,
 			"touch": 14,
-			"ff": 32,
+			"flatfooted": 32,
 			"bonuses": {
 				"armor": 11,
 				"deflection": 2,
-				"Dex": 2,
+				"dex": 2,
 				"dodge": 1,
 				"natural": 10,
 				"size": -1
@@ -4583,7 +4583,7 @@
 			"ref": 14,
 			"will": 13
 		},
-		"defAbs": [ "rock catching" ],
+		"defensive_abilities": [ "rock catching" ],
 		"immune": [ "fire" ],
 		"weaknesses": [ "vulnerable to cold" ],
 		"defense": [
@@ -4611,7 +4611,7 @@
 		"int": 13,
 		"wis": 14,
 		"cha": 16,
-		"baseAtk": 20,
+		"base_attack_bonus": 20,
 		"cmb": 31,
 		"cmd": 47,
 		"feats": [
@@ -4646,10 +4646,10 @@
 			"**Skills** Climb +25, Craft (weapons) +17, Intimidate +30, Perception +29",
 			"**Languages** Common, Dwarven, Giant"
 		],
-		"shortDescription": "This stocky giant has a flaming mane and facial hair, his massive armor and fiery glaive indicating his prowess as a warrior."
+		"short_description": "This stocky giant has a flaming mane and facial hair, his massive armor and fiery glaive indicating his prowess as a warrior."
 	},
-	"Paakis-Si": {
-		"monstername": "Paakis-Si",
+	{
+		"monster_name": "Paakis-Si",
 		"file": "monsterdisplay01b8.html",
 		"sources": [ "Mystery Monsters Revisited" ],
 		"cr": 5,
@@ -4659,13 +4659,13 @@
 		"size": "medium",
 		"type": "humanoid",
 		"subtypes": [ "sasquatch" ],
-		"init": 4,
+		"initiative": 4,
 		"senses": [
 			"darkvision 60 ft.",
 			"low-light vision",
 			"scent"
 		],
-		"pcp": 15,
+		"perception": 15,
 		"heading": [
 			"Paakis-Si CR 5",
 			"**Source** [Mystery Monsters Revisited pg. 45](source:Mystery Monsters Revisited)",
@@ -4677,9 +4677,9 @@
 		"ac": {
 			"ac": 16,
 			"touch": 14,
-			"ff": 12,
+			"flatfooted": 12,
 			"bonuses": {
-				"Dex": 4,
+				"dex": 4,
 				"natural": 2
 			}
 		},
@@ -4713,7 +4713,7 @@
 		"int": 11,
 		"wis": 14,
 		"cha": 9,
-		"baseAtk": 5,
+		"base_attack_bonus": 5,
 		"cmb": 11,
 		"cmd": 25,
 		"feats": [
@@ -4738,14 +4738,14 @@
 			"**SQ** favored terrain (forest +4, mountain +2), live in comfort, pungency, track +1, wild empathy +2, woodland stride",
 			"**Gear** +1 greatclub"
 		],
-		"specialAbilities": [
+		"special_abilities": [
 			"**Pungency (Ex)** See page 236 of Pathfinder RPG Bestiary 3.",
 			"**Woodland Stride (Ex)** See page 236 of Pathfinder RPG Bestiary 3."
 		],
-		"shortDescription": "A wicked scar runs the length of this blue-eyed, apish humanoid's face, and he wields a dislodged tree trunk as a club."
+		"short_description": "A wicked scar runs the length of this blue-eyed, apish humanoid's face, and he wields a dislodged tree trunk as a club."
 	},
-	"Papa Chupar": {
-		"monstername": "Papa Chupar",
+	{
+		"monster_name": "Papa Chupar",
 		"file": "monsterdisplaye2fc.html",
 		"sources": [ "Mystery Monsters Revisited" ],
 		"cr": 7,
@@ -4754,12 +4754,12 @@
 		"alignment": "N",
 		"size": "medium",
 		"type": "magical beast",
-		"init": 6,
+		"initiative": 6,
 		"senses": [
 			"darkvision 60 ft.",
 			"low-light vision"
 		],
-		"pcp": 9,
+		"perception": 9,
 		"heading": [
 			"Papa Chupar CR 7",
 			"**Source** [Mystery Monsters Revisited pg. 14](source:Mystery Monsters Revisited)",
@@ -4771,9 +4771,9 @@
 		"ac": {
 			"ac": 19,
 			"touch": 13,
-			"ff": 16,
+			"flatfooted": 16,
 			"bonuses": {
-				"Dex": 2,
+				"dex": 2,
 				"dodge": 1,
 				"natural": 6
 			}
@@ -4809,7 +4809,7 @@
 		"int": 3,
 		"wis": 16,
 		"cha": 6,
-		"baseAtk": 11,
+		"base_attack_bonus": 11,
 		"cmb": 14,
 		"cmd": 27,
 		"feats": [
@@ -4833,10 +4833,10 @@
 			"**Skills** Acrobatics +7, Fly +7, Perception +9, Stealth +13 (+17 in undergrowth or rocky areas); **Racial Modifiers** +4 Stealth (+8 in undergrowth or rocky areas)",
 			"**Languages** Aklo"
 		],
-		"shortDescription": "Black spines run down the length of this lanky, reptilian creature's back, and short wings protrude from its hunched shoulders."
+		"short_description": "Black spines run down the length of this lanky, reptilian creature's back, and short wings protrude from its hunched shoulders."
 	},
-	"Prismatic Orrery": {
-		"monstername": "Prismatic Orrery",
+	{
+		"monster_name": "Prismatic Orrery",
 		"file": "monsterdisplay59a4.html",
 		"sources": [ "Tombs of Golarion" ],
 		"cr": 13,
@@ -4844,13 +4844,13 @@
 		"alignment": "N",
 		"size": "gargantuan",
 		"type": "construct",
-		"init": 2,
+		"initiative": 2,
 		"senses": [
 			"darkvision 60 ft.",
 			"low-light vision",
 			"true seeing"
 		],
-		"pcp": 12,
+		"perception": 12,
 		"heading": [
 			"Prismatic Orrery CR 13",
 			"**Source** [Tombs of Golarion pg. 53](source:Tombs of Golarion)",
@@ -4861,9 +4861,9 @@
 		"ac": {
 			"ac": 24,
 			"touch": 8,
-			"ff": 22,
+			"flatfooted": 22,
 			"bonuses": {
-				"Dex": 2,
+				"dex": 2,
 				"natural": 16,
 				"size": -4
 			}
@@ -4876,7 +4876,7 @@
 			"ref": 8,
 			"will": 6
 		},
-		"defAbs": [
+		"defensive_abilities": [
 			"all-around vision",
 			"dispel resistance",
 			"hardness 10"
@@ -4907,7 +4907,7 @@
 		"int": null,
 		"wis": 10,
 		"cha": 1,
-		"baseAtk": 18,
+		"base_attack_bonus": 18,
 		"cmb": 29,
 		"cmd": 41,
 		"skills": [ "Perception +12" ],
@@ -4916,15 +4916,15 @@
 			"**Base Atk** +18; **CMB** +29 (+33 grapple); **CMD** 41",
 			"**Skills** Perception +12; **Racial Modifiers** +12 Perception"
 		],
-		"specialAbilities": [
+		"special_abilities": [
 			"**Blinding Pulse (Ex)** As a move action, the prismatic orrery can set its lenses to refract the light of the prismatic sphere at its center, granting it a gaze attack that causes blindness in all targets that fail a DC 19 Fortitude saving throw. This gaze attack can be disabled as a move action, and is automatically disabled if the orrery uses its prismatic refraction ability or if the prismatic sphere is temporarily dispelled. The save DC is Constitution-based.",
 			"**Dispel Resistance (Su)** The prismatic sphere at the center of the orrery (CL 20th) can be dispelled with a targeted dispel magic spell, but only temporarily. As the sphere is fueled by the elemental energies within the Prismatic Lantern's demiplane, it reappears after 1d3 rounds. While the prismatic sphere is inactive, the prismatic orrery cannot use its blinding pulse and prismatic refraction abilities.",
 			"**Prismatic Refraction (Ex)** As a standard action, the prismatic orrery can position its many rings and lenses such that the magical energy of the prismatic sphere at its center is aimed in a series of beams at all targets within 60 feet. These beams take the form of a prismatic spray spell (CL 13th); determine the color of each ray randomly with a roll of 1d8 as indicated in the spell. A prismatic refraction ray is a ranged touch attack with a +17 bonus to hit and a save DC of 21. It takes the prismatic orrery 1d4 rounds to recalibrate its lenses to recharge this ability. The save DC is Dexterity-based."
 		],
-		"shortDescription": "A series of metal rings rotates around a giant prismatic sphere."
+		"short_description": "A series of metal rings rotates around a giant prismatic sphere."
 	},
-	"Qaishan Yeti": {
-		"monstername": "Qaishan Yeti",
+	{
+		"monster_name": "Qaishan Yeti",
 		"file": "monsterdisplay4cba.html",
 		"sources": [ "Mystery Monsters Revisited" ],
 		"cr": 7,
@@ -4934,12 +4934,12 @@
 		"size": "large",
 		"type": "monstrous humanoid",
 		"subtypes": [ "cold" ],
-		"init": 2,
+		"initiative": 2,
 		"senses": [
 			"darkvision 60 ft.",
 			"scent"
 		],
-		"pcp": 12,
+		"perception": 12,
 		"heading": [
 			"Qaishan Yeti CR 7",
 			"**Source** [Mystery Monsters Revisited pg. 63](source:Mystery Monsters Revisited)",
@@ -4951,11 +4951,11 @@
 		"ac": {
 			"ac": 22,
 			"touch": 15,
-			"ff": 20,
+			"flatfooted": 20,
 			"bonuses": {
-				"Dex": 2,
+				"dex": 2,
 				"monk": 1,
-				"Wis": 3,
+				"wis": 3,
 				"natural": 7,
 				"size": -1
 			}
@@ -4968,7 +4968,7 @@
 			"ref": 11,
 			"will": 12
 		},
-		"defAbs": [ "evasion" ],
+		"defensive_abilities": [ "evasion" ],
 		"immune": [
 			"cold",
 			"disease"
@@ -4999,7 +4999,7 @@
 		"int": 9,
 		"wis": 16,
 		"cha": 8,
-		"baseAtk": 9,
+		"base_attack_bonus": 9,
 		"cmb": 19,
 		"cmd": 33,
 		"feats": [
@@ -5031,14 +5031,14 @@
 			"**SQ** fast movement, high jump, ki pool (5 points, magic), maneuver training, purity of body, slow fall 20 ft.",
 			"**Gear** amulet of mighty fists +1"
 		],
-		"specialAbilities": [
+		"special_abilities": [
 			"**Cold (Su)** See page 287 of the Bestiary.",
 			"**Frightful Gaze (Su)** See page 287 of the Bestiary."
 		],
-		"shortDescription": "This furry hominid's orange eyes blaze not with fury but with wisdom, and the white hair around its face is streaked with gray."
+		"short_description": "This furry hominid's orange eyes blaze not with fury but with wisdom, and the white hair around its face is streaked with gray."
 	},
-	"Quetzutrhul": {
-		"monstername": "Quetzutrhul",
+	{
+		"monster_name": "Quetzutrhul",
 		"file": "monsterdisplay7987.html",
 		"sources": [ "Darklands Revisited" ],
 		"cr": 11,
@@ -5047,12 +5047,12 @@
 		"alignment": "CE",
 		"size": "small",
 		"type": "aberration",
-		"init": 17,
+		"initiative": 17,
 		"senses": [
 			"blindsight 60 ft.",
 			"detect magic"
 		],
-		"pcp": 19,
+		"perception": 19,
 		"heading": [
 			"Quetzutrhul CR 11",
 			"**Source** [Darklands Revisited pg. 27](source:Darklands Revisited)",
@@ -5064,9 +5064,9 @@
 		"ac": {
 			"ac": 28,
 			"touch": 23,
-			"ff": 16,
+			"flatfooted": 16,
 			"bonuses": {
-				"Dex": 11,
+				"dex": 11,
 				"dodge": 1,
 				"natural": 5,
 				"size": 1
@@ -5074,14 +5074,14 @@
 		},
 		"hp": {
 			"hp": 107,
-			"fastHealing": 5
+			"fast_healing": 5
 		},
 		"saves": {
 			"fort": 9,
 			"ref": 14,
 			"will": 8
 		},
-		"defAbs": [
+		"defensive_abilities": [
 			"evasion",
 			"uncanny dodge"
 		],
@@ -5128,7 +5128,7 @@
 		"int": 20,
 		"wis": 10,
 		"cha": 12,
-		"baseAtk": 6,
+		"base_attack_bonus": 6,
 		"cmb": 5,
 		"cmd": 27,
 		"feats": [
@@ -5160,11 +5160,11 @@
 			"**SQ** deformities (poor ability [Charisma]), mutations (celerity, extra arm, fast healing), prehensile proboscis",
 			"**Gear** +1 dagger"
 		],
-		"specialAbilities": [ "**Prehensile Proboscis (Ex)** Quetzutrhul's extra arm mutation manifests as a prehensile proboscis. It receives Multiattack as a bonus feat instead of Multiweapon Attack." ],
-		"shortDescription": "This brainlike creature has two clawed legs emerging from its fore and rear and a serpentine proboscis clutching a dagger."
+		"special_abilities": [ "**Prehensile Proboscis (Ex)** Quetzutrhul's extra arm mutation manifests as a prehensile proboscis. It receives Multiattack as a bonus feat instead of Multiweapon Attack." ],
+		"short_description": "This brainlike creature has two clawed legs emerging from its fore and rear and a serpentine proboscis clutching a dagger."
 	},
-	"Rahstalshan, Stone Giant Elder": {
-		"monstername": "Rahstalshan, Stone Giant Elder",
+	{
+		"monster_name": "Rahstalshan, Stone Giant Elder",
 		"file": "monsterdisplay99a7.html",
 		"sources": [ "Giants Revisited" ],
 		"cr": 14,
@@ -5174,13 +5174,13 @@
 		"size": "large",
 		"type": "humanoid",
 		"subtypes": [ "giant" ],
-		"init": 4,
+		"initiative": 4,
 		"senses": [
 			"darkvision 60 ft.",
 			"low-light vision",
 			"tremorsense 30 ft."
 		],
-		"pcp": 8,
+		"perception": 8,
 		"heading": [
 			"Rahstalshan, Stone Giant Elder CR 14",
 			"**Source** [Giants Revisited pg. 50](source:Giants Revisited)",
@@ -5192,11 +5192,11 @@
 		"ac": {
 			"ac": 29,
 			"touch": 15,
-			"ff": 24,
+			"flatfooted": 24,
 			"bonuses": {
 				"armor": 2,
 				"deflection": 1,
-				"Dex": 4,
+				"dex": 4,
 				"dodge": 1,
 				"natural": 12,
 				"size": -1
@@ -5210,7 +5210,7 @@
 			"ref": 13,
 			"will": 17
 		},
-		"defAbs": [ "improved rock catching" ],
+		"defensive_abilities": [ "improved rock catching" ],
 		"defense": [
 			"**AC** 29, touch 15, flat-footed 24 (+2 armor, +1 deflection, +4 Dex, +1 dodge, +12 natural, -1 size)",
 			"**hp** 226 (22 HD; 12d8+10d6+137)",
@@ -5248,7 +5248,7 @@
 		"int": 10,
 		"wis": 14,
 		"cha": 22,
-		"baseAtk": 14,
+		"base_attack_bonus": 14,
 		"cmb": 22,
 		"cmd": 38,
 		"feats": [
@@ -5284,10 +5284,10 @@
 			"**SQ** bloodline arcana, rockseer",
 			"**Combat Gear** potions of cure serious wounds (2), potion of invisibility, scroll of invisibility sphere, scroll of dimension door, wand of blur (13 charges); **Other Gear** masterwork greatclub, 6 rocks, amulet of natural armor +1, bracers of armor +2, cloak of resistance +2, headband of alluring charisma +2, lesser rod of maximize, ring of protection +1"
 		],
-		"shortDescription": "This sagely stone giant wears loose furs and a long cloak, and wields a large stone club covered with crystals."
+		"short_description": "This sagely stone giant wears loose furs and a long cloak, and wields a large stone club covered with crystals."
 	},
-	"Sandpoint Devil": {
-		"monstername": "Sandpoint Devil",
+	{
+		"monster_name": "Sandpoint Devil",
 		"file": "monsterdisplay1c45.html",
 		"sources": [
 			"Inner Sea World Guide",
@@ -5299,13 +5299,13 @@
 		"size": "large",
 		"type": "outsider",
 		"subtypes": [ "native" ],
-		"init": 3,
+		"initiative": 3,
 		"senses": [
 			"darkvision 60 ft.",
 			"low-light vision",
 			"scent"
 		],
-		"pcp": 18,
+		"perception": 18,
 		"heading": [
 			"Sandpoint Devil CR 8",
 			"**Source** [Inner Sea World Guide pg. 311](source:Inner Sea World Guide), [Mystery Monsters Revisited pg. 39](source:Mystery Monsters Revisited)",
@@ -5316,9 +5316,9 @@
 		"ac": {
 			"ac": 22,
 			"touch": 13,
-			"ff": 18,
+			"flatfooted": 18,
 			"bonuses": {
-				"Dex": 3,
+				"dex": 3,
 				"dodge": 1,
 				"natural": 9,
 				"size": -1
@@ -5368,7 +5368,7 @@
 		"int": 8,
 		"wis": 17,
 		"cha": 16,
-		"baseAtk": 12,
+		"base_attack_bonus": 12,
 		"cmb": 19,
 		"cmd": 33,
 		"feats": [
@@ -5402,15 +5402,15 @@
 			"**Organization** solitary",
 			"**Treasure** incidental"
 		],
-		"specialAbilities": [
+		"special_abilities": [
 			"**Bay (Su)** When the Sandpoint Devil screams as a standard action, all creatures within a 300-foot-radius spread must succeed on a DC 19 Will save or become panicked for 2d4 rounds. This is a sonic, mind-affecting fear effect. Whether or not the save is successful, creatures within the effect are immune to the Sandpoint Devil's bay for 24 hours thereafter. The save DC is Charisma-based.",
 			"**Hellfire Breath (Su)** Once every 1d4 rounds, the Sandpoint Devil can unleash a blast of infernal flame from its mouth as a standard action. This hellfire fills a 30-foot cone and causes 10d6 points of fire damage (Reflex DC 20 half). Anyone who takes damage from this breath weapon must also make a DC 20 Will save to avoid becoming cursed by the infernal flames-those who become cursed take a -4 penalty on all attack rolls, saving throws, and skill checks for a number of days equal to the damage taken-during this time, the victim's skin appears to be horribly burned in places regardless of any healing applied. This curse effect functions at caster level 12th. The save DC for both saves is Constitution-based.",
 			"**Kick (Ex)** The Sandpoint Devil's hoof attacks are primary attacks that deal bludgeoning and slashing damage."
 		],
-		"shortDescription": "This mangy horselike beast walks perversely upright. Wings, a dragon's tail, and a fanged mouth complete its vile appearance."
+		"short_description": "This mangy horselike beast walks perversely upright. Wings, a dragon's tail, and a fanged mouth complete its vile appearance."
 	},
-	"Scyld Hranni, Storm Giant Matriarch": {
-		"monstername": "Scyld Hranni, Storm Giant Matriarch",
+	{
+		"monster_name": "Scyld Hranni, Storm Giant Matriarch",
 		"file": "monsterdisplay106c.html",
 		"sources": [ "Giants Revisited" ],
 		"cr": 20,
@@ -5420,9 +5420,9 @@
 		"size": "huge",
 		"type": "humanoid",
 		"subtypes": [ "giant" ],
-		"init": 4,
+		"initiative": 4,
 		"senses": [ "low-light vision" ],
-		"pcp": 33,
+		"perception": 33,
 		"heading": [
 			"Scyld Hranni, Storm Giant Matriarch CR 20",
 			"**Source** [Giants Revisited pg. 56](source:Giants Revisited)",
@@ -5434,10 +5434,10 @@
 		"ac": {
 			"ac": 37,
 			"touch": 12,
-			"ff": 33,
+			"flatfooted": 33,
 			"bonuses": {
 				"armor": 8,
-				"Dex": 4,
+				"dex": 4,
 				"natural": 12,
 				"shield": 5,
 				"size": -2
@@ -5451,7 +5451,7 @@
 			"ref": 14,
 			"will": 24
 		},
-		"defAbs": [ "rock catching" ],
+		"defensive_abilities": [ "rock catching" ],
 		"immune": [ "electricity" ],
 		"defense": [
 			"**AC** 37, touch 12, flat-footed 33 (+8 armor, +4 Dex, +12 natural, +5 shield, -2 size)",
@@ -5492,7 +5492,7 @@
 		"int": 16,
 		"wis": 30,
 		"cha": 17,
-		"baseAtk": 23,
+		"base_attack_bonus": 23,
 		"cmb": 40,
 		"cmd": 54,
 		"feats": [
@@ -5534,10 +5534,10 @@
 			"**SQ** militant, water breathing",
 			"**Combat Gear** potion of cure serious wounds, potion of haste, scroll of commune, scroll of invisibility purge; **Other Gear** +2 mithral moderate fortification chainmail, +3 spiked bashing heavy wooden shield, +1 seeking composite longbow with 40 arrows, +3 shocking burst trident, belt of giant strength +2, boots of striding and springing, headband of inspired wisdom +4, minor cloak of displacement, wooden holy symbol of Aegirran"
 		],
-		"shortDescription": "This purple-haired giant has dark bronze skin and piercing eyes; she wields an electrified trident and a coral-encrusted shield."
+		"short_description": "This purple-haired giant has dark bronze skin and piercing eyes; she wields an electrified trident and a coral-encrusted shield."
 	},
-	"Shamira": {
-		"monstername": "Shamira",
+	{
+		"monster_name": "Shamira",
 		"file": "monsterdisplaye618.html",
 		"sources": [ "Pathfinder #76: The Midnight Isles" ],
 		"cr": 25,
@@ -5546,14 +5546,14 @@
 		"size": "medium",
 		"type": "outsider",
 		"subtypes": [ "chaotic", "demon", "evil", "extraplanar", "fire" ],
-		"init": 11,
+		"initiative": 11,
 		"senses": [
 			"darkvision 60 ft.",
 			"detect good",
 			"detect law",
 			"true seeing"
 		],
-		"pcp": 45,
+		"perception": 45,
 		"aura": [ "unholy aura (DC 31)" ],
 		"heading": [
 			"Shamira CR 25",
@@ -5566,10 +5566,10 @@
 		"ac": {
 			"ac": 42,
 			"touch": 35,
-			"ff": 31,
+			"flatfooted": 31,
 			"bonuses": {
 				"deflection": 4,
-				"Dex": 11,
+				"dex": 11,
 				"natural": 7,
 				"profane": 10
 			}
@@ -5577,14 +5577,14 @@
 		"hp": {
 			"hp": 553,
 			"regen": 15,
-			"regenOvercome": "good"
+			"regen_overcome_by": "good"
 		},
 		"saves": {
 			"fort": 28,
 			"ref": 30,
 			"will": 26
 		},
-		"defAbs": [
+		"defensive_abilities": [
 			"fire shield",
 			"freedom of movement"
 		],
@@ -5637,7 +5637,7 @@
 		"int": 28,
 		"wis": 25,
 		"cha": 37,
-		"baseAtk": 27,
+		"base_attack_bonus": 27,
 		"cmb": 36,
 		"cmd": 71,
 		"feats": [
@@ -5688,7 +5688,7 @@
 			"**Organization** solitary (unique)",
 			"**Treasure** triple"
 		],
-		"specialAbilities": [
+		"special_abilities": [
 			"**Divine Deception (Su)** Once per day while Shamira uses her change shape ability, she can choose to emulate a different alignment for the purpose of divination spells that reveal auras (such as detect evil). This effect persists as long as she carries a holy symbol of a deity of the same alignment she wishes to emulate. This holy symbol must have been given to her within the previous hour by a worshiper of that deity; Shamira typically secures these symbols via mind control. This effect last for 2d6 hours, after which point the holy symbol crumbles to ashes. While it lasts, spells and other magical effects treat her alignment as if it were the feigned alignment, not her true alignment of chaotic evil. If she uses a symbol of Sarenrae to appear neutral good, this effect lasts for 24 hours before the symbol crumbles to dust.",
 			"**Dream Haunting (Su)** Shamira can use her energy drain attack, mind-affecting spell-like abilities, and profane benediction abilities on any creature she successfully affects with her nightmare spell-like ability while that ability is in effect. Once she uses one of these abilities against her target, the nightmare spell ends-she can only use one of these abilities per use of nightmare.",
 			"**Energy Drain (Su)** Shamira's energy drain ability functions like that of a succubus, except that it drains 2 levels per use. As a free action as part of this attack, she may choose use her burn special attack with her energy drain. With a successful DC 36 Will save, a character resists the suggestion implanted by this attack, and a successful DC 36 Fortitude save negates the negative level after 24 hours. The save DCs are Charisma-based.",
@@ -5698,10 +5698,10 @@
 			"**Profane Benediction (Su)** This ability functions as the succubus's profane gift ability, except it grants a +4 profane bonus to an ability score of the target's choice rather than a +2 bonus. If the target is a worshiper of Sarenrae, the target also gains immunity to fire as long as the profane benediction persists, even if the worshiper at some point later abandons her faith in Sarenrae (as is often the case with those who are eager to keep their profane benedictions).",
 			"**Summon Demons (Sp)** As a nascent demon lord, Shamira can summon any demon or combination of demons whose total combined CR is 20 or lower. This ability always works, and is equivalent to a 9th-level spell."
 		],
-		"shortDescription": "This crimson-haired demonic woman has wings of fire. She carries a slender bow made of flames."
+		"short_description": "This crimson-haired demonic woman has wings of fire. She carries a slender bow made of flames."
 	},
-	"Shaorhaz, Glutton of the Green": {
-		"monstername": "Shaorhaz, Glutton of the Green",
+	{
+		"monster_name": "Shaorhaz, Glutton of the Green",
 		"file": "monsterdisplay0cde.html",
 		"sources": [ "Demons Revisited" ],
 		"cr": 23,
@@ -5711,13 +5711,13 @@
 		"size": "large",
 		"type": "outsider",
 		"subtypes": [ "chaotic", "demon", "evil", "extraplanar" ],
-		"init": 21,
+		"initiative": 21,
 		"senses": [
 			"darkvision 120 ft.",
 			"low-light vision",
 			"true seeing"
 		],
-		"pcp": 44,
+		"perception": 44,
 		"heading": [
 			"Shaorhaz, Glutton of the Green CR 23",
 			"**Source** [Demons Revisited pg. 44](source:Demons Revisited)",
@@ -5729,10 +5729,10 @@
 		"ac": {
 			"ac": 42,
 			"touch": 13,
-			"ff": 38,
+			"flatfooted": 38,
 			"bonuses": {
 				"armor": 10,
-				"Dex": 3,
+				"dex": 3,
 				"dodge": 1,
 				"natural": 19,
 				"size": -1
@@ -5746,7 +5746,7 @@
 			"ref": 22,
 			"will": 26
 		},
-		"defAbs": [ "freedom of movement" ],
+		"defensive_abilities": [ "freedom of movement" ],
 		"dr": [
 			15,
 			"cold iron and good"
@@ -5800,7 +5800,7 @@
 		"int": 22,
 		"wis": 28,
 		"cha": 28,
-		"baseAtk": 25,
+		"base_attack_bonus": 25,
 		"cmb": 40,
 		"cmd": 59,
 		"feats": [
@@ -5846,10 +5846,10 @@
 			"**SQ** cunning initiative, judgment (2, 3/day), monster lore +9, solo tactics, stern gaze, track +4",
 			"**Gear** +4 ghost touch shadow undead-controlling breastplate, belt of giant strength +6, ring of earth elemental command, ring of freedom of movement"
 		],
-		"shortDescription": "This four-armed nightmare stands with an elegance that seems out of place, given its demonic visage. Huge black wings fan behind its back, and flickering black blades burn in its hands."
+		"short_description": "This four-armed nightmare stands with an elegance that seems out of place, given its demonic visage. Huge black wings fan behind its back, and flickering black blades burn in its hands."
 	},
-	"Talmandor": {
-		"monstername": "Talmandor",
+	{
+		"monster_name": "Talmandor",
 		"file": "monsterdisplay60cd.html",
 		"sources": [ "Andoran, Birthplace of Freedom" ],
 		"cr": 23,
@@ -5858,13 +5858,13 @@
 		"size": "large",
 		"type": "outsider",
 		"subtypes": [ "agathion", "extraplanar", "good" ],
-		"init": 13,
+		"initiative": 13,
 		"senses": [
 			"darkvision 60 ft.",
 			"see invisibility",
 			"true seeing"
 		],
-		"pcp": 44,
+		"perception": 44,
 		"aura": [
 			" frightful presence (60 ft., DC 30)",
 			"protective aura (30 ft., DC 30, 10 rounds)",
@@ -5881,9 +5881,9 @@
 		"ac": {
 			"ac": 40,
 			"touch": 22,
-			"ff": 27,
+			"flatfooted": 27,
 			"bonuses": {
-				"Dex": 13,
+				"dex": 13,
 				"natural": 18,
 				"size": -1
 			}
@@ -5896,7 +5896,7 @@
 			"ref": 22,
 			"will": 21
 		},
-		"defAbs": [ "evasion" ],
+		"defensive_abilities": [ "evasion" ],
 		"dr": [
 			15,
 			"silver and evil"
@@ -5940,7 +5940,7 @@
 		"int": 19,
 		"wis": 23,
 		"cha": 24,
-		"baseAtk": 27,
+		"base_attack_bonus": 27,
 		"cmb": 36,
 		"cmd": 59,
 		"feats": [
@@ -5990,7 +5990,7 @@
 			"**Organization** solitary or flight (Talmandor and 3-6 advanced avorals)",
 			"**Treasure** triple"
 		],
-		"specialAbilities": [
+		"special_abilities": [
 			"**Benevolent Mercy (Su)** When Talmandor uses his lay on hands ability, he also removes all of the following conditions from the target: dazed, nauseated, paralyzed, poisoned, sickened, and stunned.",
 			"**Channel Positive Energy (Su)** Talmandor can expend two uses of his lay on hands ability to channel energy as a 20th-level cleric.",
 			"**Coruscating Charge (Su)** When Talmandor charges, he can transform his body into golden light. He becomes incorporeal until he arrives at the end of his charge and makes his physical attacks. In this form, he radiates light as a daylight spell. Any evil creature whose space he passes through is affected as by sunbeam (Reflex DC 35 negates and Reflex half), while good-aligned creatures whose space he passes through gain the benefit of good hope for 1d4 rounds. The save DC is Constitution-based.",
@@ -5999,10 +5999,10 @@
 			"**Sacred Slasher (Ex)** When attacking with his claws, Talmandor adds 1-1/2 times his Strength bonus on damage rolls. He also threatens a critical hit on a roll of 18-20 and multiplies critical hit damage by 3. His claws overcome all damage reduction of evil creatures.",
 			"**Twin Talons (Ex)** When using the attack action, Talmandor can attack a single target with both claws."
 		],
-		"shortDescription": "This gloriously plumed anthropomorphic eagle has feathers tipped with shimmering gold, and claws with sharp black talons."
+		"short_description": "This gloriously plumed anthropomorphic eagle has feathers tipped with shimmering gold, and claws with sharp black talons."
 	},
-	"Tanaq Mammoth-Eater, Taiga Giant Shaman": {
-		"monstername": "Tanaq Mammoth-Eater, Taiga Giant Shaman",
+	{
+		"monster_name": "Tanaq Mammoth-Eater, Taiga Giant Shaman",
 		"file": "monsterdisplaya205.html",
 		"sources": [ "Giants Revisited" ],
 		"cr": 17,
@@ -6012,9 +6012,9 @@
 		"size": "huge",
 		"type": "humanoid",
 		"subtypes": [ "giant" ],
-		"init": 8,
+		"initiative": 8,
 		"senses": [ "low-light vision" ],
-		"pcp": 23,
+		"perception": 23,
 		"heading": [
 			"Tanaq Mammoth-Eater, Taiga Giant Shaman CR 17",
 			"**Source** [Giants Revisited pg. 62](source:Giants Revisited)",
@@ -6026,11 +6026,11 @@
 		"ac": {
 			"ac": 32,
 			"touch": 17,
-			"ff": 27,
+			"flatfooted": 27,
 			"bonuses": {
 				"armor": 5,
 				"deflection": 4,
-				"Dex": 4,
+				"dex": 4,
 				"dodge": 1,
 				"natural": 10,
 				"size": -2
@@ -6044,7 +6044,7 @@
 			"ref": 16,
 			"will": 19
 		},
-		"defAbs": [ "rock catching" ],
+		"defensive_abilities": [ "rock catching" ],
 		"immune": [
 			"enchantment and illusion spells",
 			"petrification"
@@ -6081,7 +6081,7 @@
 		"int": 12,
 		"wis": 21,
 		"cha": 17,
-		"baseAtk": 18,
+		"base_attack_bonus": 18,
 		"cmb": 32,
 		"cmd": 51,
 		"feats": [
@@ -6119,10 +6119,10 @@
 			"**SQ** mountaineer, nature bond (Arctic domain), nature sense, spire walker, spirit summoning, sure-footed, wild empathy +13",
 			"**Combat Gear** scroll of hide campsite, wand of neutralize poison (5 charges), wand of speak with animals (13 charges); **Other Gear** +1 wild hide armor, bloodstone impaler, amulet of natural armor +2, belt of incredible dexterity +2, cloak of resistance +2, druid's vestments, headband of mental prowess +2 (Wis, Cha), pearl of power (2nd level)"
 		],
-		"shortDescription": "This towering, gray-skinned giant holds a massive spear, its crimson haft sporting a head of barbed and blackened stone."
+		"short_description": "This towering, gray-skinned giant holds a massive spear, its crimson haft sporting a head of barbed and blackened stone."
 	},
-	"Thath-Malal, the Eyeless Prince": {
-		"monstername": "Thath-Malal, the Eyeless Prince",
+	{
+		"monster_name": "Thath-Malal, the Eyeless Prince",
 		"file": "monsterdisplay1816.html",
 		"sources": [ "Darklands Revisited" ],
 		"cr": 13,
@@ -6131,12 +6131,12 @@
 		"alignment": "CE",
 		"size": "huge",
 		"type": "aberration",
-		"init": 4,
+		"initiative": 4,
 		"senses": [
 			"blindsight 100 ft.",
 			"trace teleport 60 ft."
 		],
-		"pcp": 22,
+		"perception": 22,
 		"heading": [
 			"Thath-Malal, the Eyeless Prince CR 13",
 			"**Source** [Darklands Revisited pg. 45](source:Darklands Revisited)",
@@ -6148,7 +6148,7 @@
 		"ac": {
 			"ac": 28,
 			"touch": 8,
-			"ff": 28,
+			"flatfooted": 28,
 			"bonuses": {
 				"natural": 20,
 				"size": -2
@@ -6196,7 +6196,7 @@
 		"int": 16,
 		"wis": 15,
 		"cha": 21,
-		"baseAtk": 12,
+		"base_attack_bonus": 12,
 		"cmb": 22,
 		"cmd": 32,
 		"feats": [
@@ -6226,10 +6226,10 @@
 			"**Skills** Bluff +22, Climb +28, Diplomacy +22, Intimidate +25, Knowledge (arcana) +23, Perception +22, Spellcraft +23",
 			"**Languages** Aklo, Orvian, Undercommon; telepathy 100 ft."
 		],
-		"shortDescription": "This immense, eyeless worm is covered in a midnight blue hide. Four barbed tongues wriggle out from its open, lily-shaped maw."
+		"short_description": "This immense, eyeless worm is covered in a midnight blue hide. Four barbed tongues wriggle out from its open, lily-shaped maw."
 	},
-	"The Mistress of the Fen": {
-		"monstername": "The Mistress of the Fen",
+	{
+		"monster_name": "The Mistress of the Fen",
 		"file": "monsterdisplay5195.html",
 		"sources": [ "Mystery Monsters Revisited" ],
 		"cr": 12,
@@ -6239,12 +6239,12 @@
 		"size": "huge",
 		"type": "magical beast",
 		"subtypes": [ "aquatic" ],
-		"init": 4,
+		"initiative": 4,
 		"senses": [
 			"darkvision 120 ft.",
 			"low-light vision"
 		],
-		"pcp": 13,
+		"perception": 13,
 		"heading": [
 			"The Mistress of the Fen CR 12",
 			"**Source** [Mystery Monsters Revisited pg. 56](source:Mystery Monsters Revisited)",
@@ -6256,9 +6256,9 @@
 		"ac": {
 			"ac": 26,
 			"touch": 12,
-			"ff": 22,
+			"flatfooted": 22,
 			"bonuses": {
-				"Dex": 4,
+				"dex": 4,
 				"natural": 14,
 				"size": -2
 			}
@@ -6271,7 +6271,7 @@
 			"ref": 13,
 			"will": 8
 		},
-		"defAbs": [ "elusive" ],
+		"defensive_abilities": [ "elusive" ],
 		"immune": [
 			"cold",
 			"poison"
@@ -6309,7 +6309,7 @@
 		"int": 4,
 		"wis": 13,
 		"cha": 11,
-		"baseAtk": 15,
+		"base_attack_bonus": 15,
 		"cmb": 25,
 		"cmd": 39,
 		"feats": [
@@ -6335,16 +6335,16 @@
 			"**Languages** Aquan (can't speak)",
 			"**SQ** amphibious, water travel"
 		],
-		"specialAbilities": [
+		"special_abilities": [
 			"**Elusive (Su)** See page 280 of Pathfinder RPG Bestiary 2.",
 			"**Poison (Ex)** Bite-injury; save Fort DC 22; frequency 1/round for 6 rounds; effect 1d3 Con and 1d3 Dex; cure 2 consecutive saves.",
 			"**Swamp Healing (Su)** As long as she is in a swamp, bog, or other wetland, the Mistress of the Fen gains fast healing 5.",
 			"**Water Travel (Su)** See page 280 of Pathfinder RPG Bestiary 2."
 		],
-		"shortDescription": "This arching, reptilian creature has an elongated neck and short fins. Its jagged teeth hint at its primordial nature, and the abundant plant growth covering its body suggests both fertility and rot."
+		"short_description": "This arching, reptilian creature has an elongated neck and short fins. Its jagged teeth hint at its primordial nature, and the abundant plant growth covering its body suggests both fertility and rot."
 	},
-	"The Mourning One": {
-		"monstername": "The Mourning One",
+	{
+		"monster_name": "The Mourning One",
 		"file": "monsterdisplay1920.html",
 		"sources": [ "Mystery Monsters Revisited" ],
 		"cr": 19,
@@ -6354,9 +6354,9 @@
 		"size": "colossal",
 		"type": "aberration",
 		"subtypes": [ "aquatic" ],
-		"init": 7,
+		"initiative": 7,
 		"senses": [ "darkvision 120 ft." ],
-		"pcp": 8,
+		"perception": 8,
 		"aura": [ "blood rain (30 ft., 9 cold damage)" ],
 		"heading": [
 			"The Mourning One CR 19",
@@ -6370,9 +6370,9 @@
 		"ac": {
 			"ac": 29,
 			"touch": 5,
-			"ff": 26,
+			"flatfooted": 26,
 			"bonuses": {
-				"Dex": 3,
+				"dex": 3,
 				"natural": 24,
 				"size": -8
 			}
@@ -6385,7 +6385,7 @@
 			"ref": 19,
 			"will": 10
 		},
-		"defAbs": [ "elusive" ],
+		"defensive_abilities": [ "elusive" ],
 		"immune": [
 			"ability drain",
 			"cold",
@@ -6419,7 +6419,7 @@
 		"int": 2,
 		"wis": 11,
 		"cha": 13,
-		"baseAtk": 25,
+		"base_attack_bonus": 25,
 		"cmb": 46,
 		"cmd": 59,
 		"feats": [
@@ -6450,15 +6450,15 @@
 			"**Skills** Escape Artist +5, Perception +9, Stealth +19, Swim +25",
 			"**SQ** amphibious"
 		],
-		"specialAbilities": [
+		"special_abilities": [
 			"**Blood Rain (Su)** Black-blooded creatures constantly leak and spray bursts of freezing black blood. Any creature within 15 feet of a black-blooded creature takes an amount of cold damage equal to the black-blooded creature's Constitution modifier.",
 			"**Elusive (Su)** See page 244 of the Pathfinder RPG Bestiary.",
 			"**Tainted Life (Ex)** The blood of a black-blooded creature is antithetical to all life and consumes all but the heartiest hosts. Any creature with the black-blooded template must succeed at a DC 15 Fortitude save every day or take 1d4 points of Constitution damage."
 		],
-		"shortDescription": "This colossal serpent's skin is like that of decayed, bruised corpses. Cancers rupture from its flesh, and a terrible sickening flow of black blood oozes from each break and sores."
+		"short_description": "This colossal serpent's skin is like that of decayed, bruised corpses. Cancers rupture from its flesh, and a terrible sickening flow of black blood oozes from each break and sores."
 	},
-	"The Surface Caller": {
-		"monstername": "The Surface Caller",
+	{
+		"monster_name": "The Surface Caller",
 		"file": "monsterdisplaye280.html",
 		"sources": [ "Darklands Revisited" ],
 		"cr": 7,
@@ -6468,9 +6468,9 @@
 		"size": "medium",
 		"type": "humanoid",
 		"subtypes": [ "elf" ],
-		"init": 9,
+		"initiative": 9,
 		"senses": [ "darkvision 120 ft." ],
-		"pcp": 7,
+		"perception": 7,
 		"heading": [
 			"The Surface Caller CR 7",
 			"**Source** [Darklands Revisited pg. 9](source:Darklands Revisited)",
@@ -6482,10 +6482,10 @@
 		"ac": {
 			"ac": 20,
 			"touch": 14,
-			"ff": 16,
+			"flatfooted": 16,
 			"bonuses": {
 				"armor": 5,
-				"Dex": 3,
+				"dex": 3,
 				"dodge": 1,
 				"shield": 1
 			}
@@ -6498,7 +6498,7 @@
 			"ref": 9,
 			"will": 6
 		},
-		"defAbs": [
+		"defensive_abilities": [
 			"charmed life 3/day",
 			"nimble +1"
 		],
@@ -6536,7 +6536,7 @@
 		"int": 8,
 		"wis": 10,
 		"cha": 16,
-		"baseAtk": 6,
+		"base_attack_bonus": 6,
 		"cmb": 6,
 		"cmd": 20,
 		"feats": [
@@ -6567,10 +6567,10 @@
 			"**SQ** dare (out for blood), horrific visage, poison use, swashbuckler finesse, wretched endurance",
 			"**Combat Gear** potions of cure moderate wounds (2), scroll of fly, wand of animate rope (50 charges), drow poison (5 doses); **Other Gear** +1 mithral chain shirt, mwk buckler, +1 punching dagger, daggers (6), cloak of resistance +1, 13 pp"
 		],
-		"shortDescription": "This blue-skinned elf has milk-white eyes, a glowing punching dagger, and a shield embossed with a demonic face."
+		"short_description": "This blue-skinned elf has milk-white eyes, a glowing punching dagger, and a shield embossed with a demonic face."
 	},
-	"The Would-Be Queen, Almara Kazaar": {
-		"monstername": "The Would-Be Queen, Almara Kazaar",
+	{
+		"monster_name": "The Would-Be Queen, Almara Kazaar",
 		"file": "monsterdisplay92de.html",
 		"sources": [ "Darklands Revisited" ],
 		"cr": 10,
@@ -6580,9 +6580,9 @@
 		"size": "medium",
 		"type": "humanoid",
 		"subtypes": [ "dwarf" ],
-		"init": 1,
+		"initiative": 1,
 		"senses": [ "darkvision 120 ft." ],
-		"pcp": 3,
+		"perception": 3,
 		"heading": [
 			"The Would-Be Queen, Almara Kazaar CR 10",
 			"**Source** [Darklands Revisited pg. 15](source:Darklands Revisited)",
@@ -6594,7 +6594,7 @@
 		"ac": {
 			"ac": 21,
 			"touch": 10,
-			"ff": 21,
+			"flatfooted": 21,
 			"bonuses": {
 				"armor": 10,
 				"natural": 1
@@ -6608,7 +6608,7 @@
 			"ref": 5,
 			"will": 13
 		},
-		"defAbs": [ "sacred armor (+2, 11 minutes/day)" ],
+		"defensive_abilities": [ "sacred armor (+2, 11 minutes/day)" ],
 		"immune": [
 			"duergar immunities",
 			"paralysis",
@@ -6647,7 +6647,7 @@
 		"int": 8,
 		"wis": 16,
 		"cha": 6,
-		"baseAtk": 8,
+		"base_attack_bonus": 8,
 		"cmb": 12,
 		"cmd": 23,
 		"feats": [
@@ -6678,10 +6678,10 @@
 			"**SQ** blessings 8/day (Charm: charming presence, dominance aura; Evil: battle companion, unholy strike)",
 			"**Combat Gear** feather token (whip), scroll of air walk, scroll of dispel magic (2), scroll of heal, wand of death knell (50 charges); **Other Gear** +2 half-plate, +1 warhammer, amulet of natural armor +1, belt of giant strength +2, cloak of resistance +1, iron unholy symbol of Droskar, 11 pp, 23 gp"
 		],
-		"shortDescription": "This gray-skinned dwarf wears iron plates over a set of purple and magenta robes and carries a warhammer."
+		"short_description": "This gray-skinned dwarf wears iron plates over a set of purple and magenta robes and carries a warhammer."
 	},
-	"Treerazer": {
-		"monstername": "Treerazer",
+	{
+		"monster_name": "Treerazer",
 		"file": "monsterdisplay1b33.html",
 		"sources": [
 			"Inner Sea World Guide",
@@ -6693,14 +6693,14 @@
 		"size": "huge",
 		"type": "outsider",
 		"subtypes": [ "demon", "native" ],
-		"init": 14,
+		"initiative": 14,
 		"senses": [
 			"darkvision 60 ft.",
 			"detect good",
 			"detect law",
 			"true seeing"
 		],
-		"pcp": 38,
+		"perception": 38,
 		"aura": [
 			"corruption (120 ft.)",
 			"unholy aura (DC 25)"
@@ -6716,10 +6716,10 @@
 		"ac": {
 			"ac": 42,
 			"touch": 22,
-			"ff": 32,
+			"flatfooted": 32,
 			"bonuses": {
 				"deflection": 4,
-				"Dex": 10,
+				"dex": 10,
 				"natural": 20,
 				"size": -2
 			}
@@ -6727,14 +6727,14 @@
 		"hp": {
 			"hp": 574,
 			"regen": 15,
-			"regenOvercome": "good"
+			"regen_overcome_by": "good"
 		},
 		"saves": {
 			"fort": 34,
 			"ref": 23,
 			"will": 27
 		},
-		"defAbs": [ "freedom of movement" ],
+		"defensive_abilities": [ "freedom of movement" ],
 		"dr": [
 			15,
 			"cold iron and good"
@@ -6780,7 +6780,7 @@
 		"int": 21,
 		"wis": 24,
 		"cha": 25,
-		"baseAtk": 28,
+		"base_attack_bonus": 28,
 		"cmb": 43,
 		"cmd": 67,
 		"feats": [
@@ -6829,7 +6829,7 @@
 			"**Organization** solitary or group (Treerazor plus 1d4 nalfeshnees and 2d4 hezrous)",
 			"**Treasure** triple (plus [Blackaxe](unknown:Blackaxe))"
 		],
-		"specialAbilities": [
+		"special_abilities": [
 			"**Aura of Corruption (Su)** Treerazer exudes an aura of corruption to a radius of 120 feet. This aura causes plants to grow hideous, sprouting thorns, twisting, and becoming fungoid in nature. Creatures with woodland stride or freedom of movement can move through this fungal bloom with ease. Living creatures within Treerazer's aura of corruption must make a DC 39 Fortitude save each round or their flesh grows pasty and clammy as tendrils of diseased plant matter and fungal growth sprout from it. This condition persists as long as the creature remains within Treerazer's aura of corruption and for 1 minute thereafter. While suffering the effects of this aura, the living creature is treated as a plant for the purposes of spells and effects that harm or otherwise inconvenience plant creatures more than other creatures. The victim would thus be subject to antiplant shell, blight, and additional damage from horrid wilting or a plant bane weapon, and could be affected by control plants. The corruption does not otherwise impart plant traits to creatures. The save DC is Constitution-based.",
 			"**Defoliation (Su)** As a standard action once every 1d4 rounds, Treerazer can exude a pulse of defoliating energy in a 30-foot-radius spread. This pulse appears as a wave of sickly green energy, and causes all plants and plant creatures in the area to blacken and wither. Such creatures take 20d10 points of damage and 1d8 points of Strength drain, or half with a successful DC 39 Fortitude save. A plant that isn't a creature (such as a tree or a shrub) doesn't receive a save and immediately withers and dies. Treerazer can choose to exclude any number of plants in the area from this effect, and generally does so to preserve twisted and corrupted plants and fungus. The save DC is Constitution-based.",
 			"**Nascent Demon Lord Traits A nascent demon lord is a powerful demon that has not yet made the full transition from unique demon to full demon lord of an Abyssal realm. Treerazer's current exile to the Material Plane prevents him from achieving full demon lord status. Yet he still possesses the typical nascent demon lord traits, which are similar to those possessed by a typical demon, only more potent, as summarized here.",
@@ -6840,10 +6840,10 @@
 			"- A nascent demon lord's natural weapons, as well as any weapon it wields, are treated as chaotic, epic, and evil for the purpose of resolving damage reduction.",
 			"- Nascent demon lords can grant spells to their worshipers. Granting spells does not require any specific action on the nascent demon lord's behalf. All nascent demon lords grant access to the domains of Chaos and Evil-in addition, they grant access to two other domains and a favored weapon that vary according to the nascent demon lord's themes and interests."
 		],
-		"shortDescription": "The twenty-foot-tall winged saurian demon wields an acid-dripping axe. Two red eyes glow above a tooth-filled beak."
+		"short_description": "The twenty-foot-tall winged saurian demon wields an acid-dripping axe. Two red eyes glow above a tooth-filled beak."
 	},
-	"Triaza": {
-		"monstername": "Triaza",
+	{
+		"monster_name": "Triaza",
 		"file": "monsterdisplayef1c.html",
 		"sources": [ "Darklands Revisited" ],
 		"cr": 10,
@@ -6853,9 +6853,9 @@
 		"size": "medium",
 		"type": "outsider",
 		"subtypes": [ "native" ],
-		"init": 7,
+		"initiative": 7,
 		"senses": [ "darkvision 120 ft." ],
-		"pcp": 14,
+		"perception": 14,
 		"heading": [
 			"Triaza CR 10",
 			"**Source** [Darklands Revisited pg. 56](source:Darklands Revisited)",
@@ -6867,10 +6867,10 @@
 		"ac": {
 			"ac": 22,
 			"touch": 13,
-			"ff": 19,
+			"flatfooted": 19,
 			"bonuses": {
 				"armor": 7,
-				"Dex": 2,
+				"dex": 2,
 				"dodge": 1,
 				"natural": 2
 			}
@@ -6928,7 +6928,7 @@
 		"int": 18,
 		"wis": 13,
 		"cha": 12,
-		"baseAtk": 8,
+		"base_attack_bonus": 8,
 		"cmb": 14,
 		"cmd": 28,
 		"feats": [
@@ -6958,10 +6958,10 @@
 			"**SQ** daemonic pact, knowledge pool, medium armor",
 			"**Combat Gear** scroll of animate dead, scroll of inflict critical wounds; **Other Gear** +1 chainmail, +1 vicious rhoka sword, daggers (5), belt of mighty constitution +2"
 		],
-		"shortDescription": "This humanoid figure is garbed only in leather straps wrapped around her translucent skin, as well as scattered pieces of armor. She wields a wicked two-pronged blade."
+		"short_description": "This humanoid figure is garbed only in leather straps wrapped around her translucent skin, as well as scattered pieces of armor. She wields a wicked two-pronged blade."
 	},
-	"Tychilarius": {
-		"monstername": "Tychilarius",
+	{
+		"monster_name": "Tychilarius",
 		"file": "monsterdisplay67b2.html",
 		"sources": [ "Occult Bestiary" ],
 		"cr": 23,
@@ -6970,12 +6970,12 @@
 		"size": "colossal",
 		"type": "aberration",
 		"subtypes": [ "aquatic", "chaotic", "evil" ],
-		"init": 16,
+		"initiative": 16,
 		"senses": [
 			"darkvision 60 ft.",
 			"true seeing"
 		],
-		"pcp": 37,
+		"perception": 37,
 		"heading": [
 			"Tychilarius CR 23",
 			"**Source** [Occult Bestiary pg. 56](source:Occult Bestiary)",
@@ -6986,9 +6986,9 @@
 		"ac": {
 			"ac": 41,
 			"touch": 25,
-			"ff": 29,
+			"flatfooted": 29,
 			"bonuses": {
-				"Dex": 12,
+				"dex": 12,
 				"insight": 11,
 				"natural": 16,
 				"size": -8
@@ -7002,7 +7002,7 @@
 			"ref": 19,
 			"will": 25
 		},
-		"defAbs": [
+		"defensive_abilities": [
 			"all-around vision",
 			"psychic resilience"
 		],
@@ -7050,7 +7050,7 @@
 		"int": 31,
 		"wis": 35,
 		"cha": 32,
-		"baseAtk": 16,
+		"base_attack_bonus": 16,
 		"cmb": 43,
 		"cmd": 76,
 		"feats": [
@@ -7095,7 +7095,7 @@
 			"**Organization** unique",
 			"**Treasure** standard"
 		],
-		"specialAbilities": [
+		"special_abilities": [
 			"**Overcharge Synapses (Su)** As a standard action, Tychilarius can overstimulate the nervous system of any creature that has taken Intelligence damage from Tychilarius's shatter mind ability. The target takes 15d6 points of electricity damage as every nerve in its body misfires. This damage can be reduced to half with a successful DC 32 Fortitude saving throw. The save DC is Charisma-based.",
 			"**Plasma Bolt (Su)** As a standard action, Tychilarius can fire a bolt of plasma from one of its tentacles at a target within 300 feet (no range increment) as a ranged touch attack. On a successful hit, a plasma bolt deals 15d6 points of damage, half of which is electricity damage and half of which is fire damage.",
 			"**Reform Flesh (Su)** Tychilarius can use the flesh and energy from a creature killed by its void maw ability to give birth to other creatures associated with the Dominion of the Black. It can create a number of such creatures whose total Hit Dice equal that of the creature killed by void maw. For example, if Tychilarius killed a 20th-level human wizard in its void maw, it could give birth to two nehthalggus (Pathfinder RPG Bestiary 2 197). This process takes 24 hours.",
@@ -7104,10 +7104,10 @@
 			"**Void Maw (Su)** When Tychilarius bites and successfully grabs a creature, it can attempt a combat maneuver check as a free action to draw the creature into its massive, chaotic form (as though attempting to pin the target). A creature drawn into Tychilarius's void maw must succeed at a DC 39 Will saving throw each round or be confused for 1 round. This is a mind-affecting confusion effect, and the save DC is Constitution-based.",
 			"Though this ability is similar to swallow whole, a creature in the maw can't cut its way out. Any creature in the area of a magic circle against evil or magic circle against chaos spell is unaffected by the confusion effect. A swallowed creature can escape by using plane shift or similar magic. Every day a creature remains in this void, it gains 1 negative level. A creature that dies from this effect is incorporated into Tychilarius's form; it can be reshaped into another creature via reform flesh, and is difficult to resurrect. Anyone attempting to resurrect a creature killed in the maw must succeed at a DC 32 caster level check to return the creature to life. The caster level check DC is Charisma-based."
 		],
-		"shortDescription": "A host of tentacles-some tipped with eyes and others ending in mouths-flail around a massive spiraling maw ringed with thousands of teeth."
+		"short_description": "A host of tentacles-some tipped with eyes and others ending in mouths-flail around a massive spiraling maw ringed with thousands of teeth."
 	},
-	"Uchurah": {
-		"monstername": "Uchurah",
+	{
+		"monster_name": "Uchurah",
 		"file": "monsterdisplay3360.html",
 		"sources": [ "Darklands Revisited" ],
 		"cr": 12,
@@ -7116,9 +7116,9 @@
 		"alignment": "CE",
 		"size": "large",
 		"type": "aberration",
-		"init": 3,
+		"initiative": 3,
 		"senses": [ "darkvision 60 ft." ],
-		"pcp": 31,
+		"perception": 31,
 		"heading": [
 			"Uchurah CR 12",
 			"**Source** [Darklands Revisited pg. 21](source:Darklands Revisited)",
@@ -7130,9 +7130,9 @@
 		"ac": {
 			"ac": 26,
 			"touch": 12,
-			"ff": 23,
+			"flatfooted": 23,
 			"bonuses": {
-				"Dex": 3,
+				"dex": 3,
 				"natural": 14,
 				"size": -1
 			}
@@ -7145,7 +7145,7 @@
 			"ref": 8,
 			"will": 14
 		},
-		"defAbs": [ "uncanny dodge" ],
+		"defensive_abilities": [ "uncanny dodge" ],
 		"immune": [
 			"disease",
 			"poison"
@@ -7174,7 +7174,7 @@
 		"int": 13,
 		"wis": 20,
 		"cha": 9,
-		"baseAtk": 13,
+		"base_attack_bonus": 13,
 		"cmb": 22,
 		"cmd": 35,
 		"feats": [
@@ -7207,10 +7207,10 @@
 			"**Languages** Aklo, Undercommon",
 			"**SQ** compression, fast movement"
 		],
-		"shortDescription": "Though mostly covered in grime-encrusted black fur, the muscles of this creature are still plainly visible along the four forearms that emerge from its split elbows. It wears a crude bone necklace that dangles under its vertically oriented mouth."
+		"short_description": "Though mostly covered in grime-encrusted black fur, the muscles of this creature are still plainly visible along the four forearms that emerge from its split elbows. It wears a crude bone necklace that dangles under its vertically oriented mouth."
 	},
-	"Undrella": {
-		"monstername": "Undrella",
+	{
+		"monster_name": "Undrella",
 		"file": "monsterdisplayd494.html",
 		"sources": [ "Mythical Monsters Revisited" ],
 		"cr": 11,
@@ -7219,9 +7219,9 @@
 		"alignment": "CE",
 		"size": "medium",
 		"type": "monstrous humanoid",
-		"init": 5,
+		"initiative": 5,
 		"senses": [ "darkvision 60 ft." ],
-		"pcp": 19,
+		"perception": 19,
 		"heading": [
 			"Undrella CR 11",
 			"**Source** [Mythical Monsters Revisited pg. 27](source:Mythical Monsters Revisited)",
@@ -7233,11 +7233,11 @@
 		"ac": {
 			"ac": 24,
 			"touch": 17,
-			"ff": 18,
+			"flatfooted": 18,
 			"bonuses": {
 				"armor": 6,
 				"deflection": 1,
-				"Dex": 5,
+				"dex": 5,
 				"dodge": 1,
 				"natural": 1
 			}
@@ -7277,7 +7277,7 @@
 		"int": 7,
 		"wis": 14,
 		"cha": 19,
-		"baseAtk": 14,
+		"base_attack_bonus": 14,
 		"cmb": 14,
 		"cmd": 31,
 		"feats": [
@@ -7310,11 +7310,11 @@
 			"**SQ** favored terrain (desert +2), hunter's bond (companions), track +3, wild empathy +11, woodland stride",
 			"**Gear** +3 studded leather armor, +1 frost longbow, masterwork morningstar, amulet of natural armor +1, belt of incredible dexterity +2, ring of protection +1, 7 gp"
 		],
-		"specialAbilities": [ "**Captivating Song (Su)** A harpy's song has the power to infect the minds of those that hear it, calling them to the harpy's side. When a harpy sings, all creatures aside from other harpies within a 300-foot spread must succeed at a DC 17 Will saving throw or become captivated. A creature that successfully saves is not subject to the same harpy's song for 24 hours. A victim under the effects of the captivating song moves toward the harpy using the most direct means available. If the path leads it into a dangerous area such as through fire or off a cliff, the victim receives a second saving throw to end the effect before moving into peril. Captivated creatures can take no actions other than to defend themselves. A victim within 5 feet of the harpy simply stands and offers no resistance to the harpy's attacks. This effect continues for as long as the harpy sings and for 1 round thereafter. This is a sonic mind-affecting charm effect. The save DC is Charisma-based." ],
-		"shortDescription": "This fierce and feral-looking woman has huge wings and clawed hands and feet, and carries a wicked-looking longbow."
+		"special_abilities": [ "**Captivating Song (Su)** A harpy's song has the power to infect the minds of those that hear it, calling them to the harpy's side. When a harpy sings, all creatures aside from other harpies within a 300-foot spread must succeed at a DC 17 Will saving throw or become captivated. A creature that successfully saves is not subject to the same harpy's song for 24 hours. A victim under the effects of the captivating song moves toward the harpy using the most direct means available. If the path leads it into a dangerous area such as through fire or off a cliff, the victim receives a second saving throw to end the effect before moving into peril. Captivated creatures can take no actions other than to defend themselves. A victim within 5 feet of the harpy simply stands and offers no resistance to the harpy's attacks. This effect continues for as long as the harpy sings and for 1 round thereafter. This is a sonic mind-affecting charm effect. The save DC is Charisma-based." ],
+		"short_description": "This fierce and feral-looking woman has huge wings and clawed hands and feet, and carries a wicked-looking longbow."
 	},
-	"Urburg Armbreaker, Hill Giant Chieftain": {
-		"monstername": "Urburg Armbreaker, Hill Giant Chieftain",
+	{
+		"monster_name": "Urburg Armbreaker, Hill Giant Chieftain",
 		"file": "monsterdisplay7e3a.html",
 		"sources": [ "Giants Revisited" ],
 		"cr": 13,
@@ -7324,9 +7324,9 @@
 		"size": "large",
 		"type": "humanoid",
 		"subtypes": [ "giant" ],
-		"init": 1,
+		"initiative": 1,
 		"senses": [ "low-light vision" ],
-		"pcp": 10,
+		"perception": 10,
 		"heading": [
 			"Urburg Armbreaker, Hill Giant Chieftain CR 13",
 			"**Source** [Giants Revisited pg. 33](source:Giants Revisited)",
@@ -7338,10 +7338,10 @@
 		"ac": {
 			"ac": 27,
 			"touch": 8,
-			"ff": 26,
+			"flatfooted": 26,
 			"bonuses": {
 				"armor": 9,
-				"Dex": 1,
+				"dex": 1,
 				"natural": 10,
 				"rage": -2,
 				"size": -1
@@ -7355,7 +7355,7 @@
 			"ref": 7,
 			"will": 11
 		},
-		"defAbs": [
+		"defensive_abilities": [
 			"improved tolerance",
 			"rock catching",
 			"scarification",
@@ -7386,7 +7386,7 @@
 		"int": 6,
 		"wis": 12,
 		"cha": 10,
-		"baseAtk": 13,
+		"base_attack_bonus": 13,
 		"cmb": 23,
 		"cmd": 32,
 		"feats": [
@@ -7413,10 +7413,10 @@
 			"**SQ** terrifying visage",
 			"**Combat Gear** potions of cure serious wounds (2); **Other Gear** +3 dragonhide breastplate, +2 greatclub, amulet of natural armor +1, belt of giant strength +2, cloak of resistance +1, salve of slipperiness"
 		],
-		"shortDescription": "This heavily scarred, towering giant wears the hide of a black dragon, and wields a massive club studded with dragon's teeth."
+		"short_description": "This heavily scarred, towering giant wears the hide of a black dragon, and wields a massive club studded with dragon's teeth."
 	},
-	"Uvaglor, the Misbegotten Prince": {
-		"monstername": "Uvaglor, the Misbegotten Prince",
+	{
+		"monster_name": "Uvaglor, the Misbegotten Prince",
 		"file": "monsterdisplayb508.html",
 		"sources": [ "Demons Revisited" ],
 		"cr": 20,
@@ -7426,12 +7426,12 @@
 		"size": "large",
 		"type": "outsider",
 		"subtypes": [ "chaotic", "demon", "evil", "extraplanar" ],
-		"init": 13,
+		"initiative": 13,
 		"senses": [
 			"darkvision 60 ft.",
 			"true seeing"
 		],
-		"pcp": 41,
+		"perception": 41,
 		"heading": [
 			"Uvaglor, the Misbegotten Prince CR 20",
 			"**Source** [Demons Revisited pg. 62](source:Demons Revisited)",
@@ -7443,10 +7443,10 @@
 		"ac": {
 			"ac": 34,
 			"touch": 11,
-			"ff": 32,
+			"flatfooted": 32,
 			"bonuses": {
 				"armor": 10,
-				"Dex": 2,
+				"dex": 2,
 				"natural": 13,
 				"size": -1
 			}
@@ -7512,7 +7512,7 @@
 		"int": 18,
 		"wis": 22,
 		"cha": 24,
-		"baseAtk": 20,
+		"base_attack_bonus": 20,
 		"cmb": 32,
 		"cmd": 47,
 		"feats": [
@@ -7549,14 +7549,14 @@
 			"**SQ** oracle's curse (haunted), revelations (balefire [2/day], dread resilience, planar haze [3/day], rift weapon [4/day], unearthly terrain [10/day]), third eye",
 			"**Gear** +4 chainmail, +4 unholy longsword, crystal ball with telepathy, strand of prayer beads"
 		],
-		"specialAbilities": [
+		"special_abilities": [
 			"**Command Avian (Su)** Uvaglor gains a +4 racial bonus on the save DC of charm or compulsion effects used against winged creatures.",
 			"**Third Eye (Su)** Uvaglor's third eye sees a few seconds into the future. This grants him a +4 racial bonus on initiative checks and Reflex saves."
 		],
-		"shortDescription": "This vulture-headed demon has crimson wings and a baleful third eye in his forehead. He is clad in lengths of chain and metal plates, and carries a cruel-looking sword in one hand and a glowing sphere of violet crystal in the other."
+		"short_description": "This vulture-headed demon has crimson wings and a baleful third eye in his forehead. He is clad in lengths of chain and metal plates, and carries a cruel-looking sword in one hand and a glowing sphere of violet crystal in the other."
 	},
-	"Valonesse Hergrut, Frost Giant Jarl": {
-		"monstername": "Valonesse Hergrut, Frost Giant Jarl",
+	{
+		"monster_name": "Valonesse Hergrut, Frost Giant Jarl",
 		"file": "monsterdisplay5783.html",
 		"sources": [ "Giants Revisited" ],
 		"cr": 18,
@@ -7566,9 +7566,9 @@
 		"size": "large",
 		"type": "humanoid",
 		"subtypes": [ "cold", "giant" ],
-		"init": 6,
+		"initiative": 6,
 		"senses": [ "low-light vision" ],
-		"pcp": 29,
+		"perception": 29,
 		"heading": [
 			"Valonesse Hergrut, Frost Giant Jarl CR 18",
 			"**Source** [Giants Revisited pg. 26](source:Giants Revisited)",
@@ -7580,11 +7580,11 @@
 		"ac": {
 			"ac": 33,
 			"touch": 11,
-			"ff": 31,
+			"flatfooted": 31,
 			"bonuses": {
 				"armor": 11,
 				"deflection": 2,
-				"Dex": 2,
+				"dex": 2,
 				"natural": 11,
 				"rage": -2,
 				"size": -1
@@ -7598,7 +7598,7 @@
 			"ref": 9,
 			"will": 11
 		},
-		"defAbs": [
+		"defensive_abilities": [
 			"improved uncanny dodge",
 			"trap sense +3",
 			"rock catching"
@@ -7635,7 +7635,7 @@
 		"int": 10,
 		"wis": 14,
 		"cha": 13,
-		"baseAtk": 19,
+		"base_attack_bonus": 19,
 		"cmb": 34,
 		"cmd": 46,
 		"feats": [
@@ -7668,10 +7668,10 @@
 			"**SQ** fast movement",
 			"**Combat Gear** potions of cure serious wounds (2); **Other Gear** +5 breastplate, +2 icy burst greataxe, amulet of natural armor +2, belt of physical might +2 (Str, Dex), cape of the mountebank, ring of protection +2"
 		],
-		"shortDescription": "Thick of limb and torso, this towering female frost giant possesses powerful blue muscles and wields a massive, ice-encrusted battleaxe."
+		"short_description": "Thick of limb and torso, this towering female frost giant possesses powerful blue muscles and wields a massive, ice-encrusted battleaxe."
 	},
-	"Voice of the Damned": {
-		"monstername": "Voice of the Damned",
+	{
+		"monster_name": "Voice of the Damned",
 		"file": "monsterdisplay5fb5.html",
 		"sources": [ "Book of the Damned" ],
 		"cr": 25,
@@ -7680,14 +7680,14 @@
 		"size": "large",
 		"type": "outsider",
 		"subtypes": [ "evil", "native" ],
-		"init": 16,
+		"initiative": 16,
 		"senses": [
 			"darkvision 60 ft.",
 			"detect good",
 			"see in darkness",
 			"true seeing"
 		],
-		"pcp": 44,
+		"perception": 44,
 		"aura": [
 			"frightful presence (100 ft., DC 32)",
 			"unholy aura (DC 26)"
@@ -7703,9 +7703,9 @@
 		"ac": {
 			"ac": 43,
 			"touch": 35,
-			"ff": 31,
+			"flatfooted": 31,
 			"bonuses": {
-				"Dex": 12,
+				"dex": 12,
 				"natural": 8,
 				"profane": 14,
 				"size": -1
@@ -7714,14 +7714,14 @@
 		"hp": {
 			"hp": 565,
 			"regen": 25,
-			"regenOvercome": "deific or mythic"
+			"regen_overcome_by": "deific or mythic"
 		},
 		"saves": {
 			"fort": 23,
 			"ref": 28,
 			"will": 28
 		},
-		"defAbs": [ "freedom of movement" ],
+		"defensive_abilities": [ "freedom of movement" ],
 		"dr": [
 			20,
 			"epic, good, and silver"
@@ -7776,7 +7776,7 @@
 		"int": 35,
 		"wis": 34,
 		"cha": 27,
-		"baseAtk": 29,
+		"base_attack_bonus": 29,
 		"cmb": 44,
 		"cmd": 84,
 		"feats": [
@@ -7819,7 +7819,7 @@
 			"**Languages** Abyssal, Aklo, Celestial, Draconic, Infernal; telepathy 300 ft.; tongues",
 			"**SQ** discorporate, master of symbols, tenacious"
 		],
-		"specialAbilities": [
+		"special_abilities": [
 			"**Blasphemous Embrace (Ex)** If the Voice of the Damned grapples a foe, it can, as a swift action, cause its pages to flense the grappled creature. The pages deal the Voice of the Damned's swarm damage. If a creature takes any of this damage, it is subject to the swarm's distraction ability and must succeed at a DC 38 Fortitude saving throw or be nauseated for 1 round. The Voice can have only one embraced target at a time, but it doesn't have to continue grappling in order to maintain the embrace. If the Voice moves more than 5 feet from the pages or dismisses them (a free action), the pages are rendered inanimate. Any severe or stronger wind effect or any area attack that would damage a swarm ends the embrace.",
 			"**Consume (Su)** If the Voice of the Damned begins its turn with an opponent in its blasphemous embrace, it can attempt a new combat maneuver check as though attempting to pin the opponent. If it succeeds, its foe takes swarm damage and vanishes into a nightmare realm within the Voice of the Damned. The target must be of Large size or smaller. The Voice of the Damned can't consume a creature that has the good subtype or that is affected by holy aura. A consumed creature takes 8d6 points of damage each round as it drifts within the Voice of the Damned's accumulated heresies. Nonevil creatures must also succeed at a DC 32 Will saving throw each round or be affected as per the spell insanity, though any creature that is deafened or affected by silence or a similar effect is immune to the insanity effect. The save DC is Charisma-based. Each round on its turn, a consumed creature can attempt a DC 20 Wisdom check as a full-round action. If the subject succeeds at this check on two consecutive turns, it escapes, emerging into a space adjacent to the Voice of the Damned. The Voice of the Damned cannot attempt to consume an escaped creature again until 24 hours have passed. A consumed creature can also escape by using plane shift or similar magic. The Voice of the Damned is stunned for 1 round and forced to expel all consumed creatures if a creature inside casts holy aura or summons a creature with the good subtype, or if a creature (either inside or out) targets the Voice of the Damned with atonement, freedom, or holy word. The Voice of the Damned can expel any consumed creature as a move action, causing the victim to appear in any square adjacent to it.",
 			"**Discorporate (Su)** The Voice of the Damned can collapse into a cyclone of pages as a free action. All its carried, held, and worn items fall to the ground, and its Strength score drops to 1. The Voice functions as a swarm of Diminutive creatures while discorporated, with a reach of 0 feet (though its space remains unchanged). While discorporated, the Voice maintains its defensive abilities. It loses its claw, slam, and wing natural attacks, but it can make a swarm attack and use its spell-like abilities. The Voice of the Damned can reform into its true form as a full-round action as long as it has at least 1 hit point.",
@@ -7828,10 +7828,10 @@
 			"**Tenacious (Ex)** The Voice gains a +8 racial bonus on combat maneuver checks to grapple and a +4 racial bonus to its CMD.",
 			"**Wracking Gaze (Su)** The Voice of the Damned has a gaze attack with a range of 50 feet that deals 8d10 points of damage and 1d4 points of Strength damage. A creature that succeeds at a DC 32 Fortitude saving throw negates the Strength damage but not the physical damage. The save DC is Constitution-based."
 		],
-		"shortDescription": "Blasphemous pages cloak this creature's gaunt, winged form. Within its depthless hood burns a vortex of otherworldly flame."
+		"short_description": "Blasphemous pages cloak this creature's gaunt, winged form. Within its depthless hood burns a vortex of otherworldly flame."
 	},
-	"Yrldak": {
-		"monstername": "Yrldak",
+	{
+		"monster_name": "Yrldak",
 		"file": "monsterdisplay30e5.html",
 		"sources": [ "Fey Revisited" ],
 		"cr": 10,
@@ -7840,12 +7840,12 @@
 		"alignment": "LN",
 		"size": "large",
 		"type": "fey",
-		"init": 10,
+		"initiative": 10,
 		"senses": [
 			"low-light vision",
 			"true seeing"
 		],
-		"pcp": 19,
+		"perception": 19,
 		"heading": [
 			"Yrldak CR 10",
 			"**Source** [Fey Revisited pg. 26](source:Fey Revisited)",
@@ -7857,10 +7857,10 @@
 		"ac": {
 			"ac": 24,
 			"touch": 15,
-			"ff": 23,
+			"flatfooted": 23,
 			"bonuses": {
 				"armor": 6,
-				"Dex": 1,
+				"dex": 1,
 				"insight": 5,
 				"natural": 3,
 				"size": -1
@@ -7869,14 +7869,14 @@
 		"hp": {
 			"hp": 138,
 			"regen": 5,
-			"regenOvercome": "cold iron"
+			"regen_overcome_by": "cold iron"
 		},
 		"saves": {
 			"fort": 14,
 			"ref": 11,
 			"will": 14
 		},
-		"defAbs": [
+		"defensive_abilities": [
 			"death ward",
 			"fated"
 		],
@@ -7918,7 +7918,7 @@
 		"int": 17,
 		"wis": 18,
 		"cha": 21,
-		"baseAtk": 6,
+		"base_attack_bonus": 6,
 		"cmb": 14,
 		"cmd": 30,
 		"feats": [
@@ -7950,14 +7950,14 @@
 			"**SQ** change shape (humanoid; alter self or giant form II), sister seeking",
 			"**Gear** +2 hide armor, shears"
 		],
-		"specialAbilities": [
+		"special_abilities": [
 			"**Shears (Su)** Yrldak's shears function as a +5 keen scimitar when she wields them, instead of as a +5 mithral keen speed scimitar like the shears wielded by fully grown norns.",
 			"**Sister Seeking (Su)** An immature norn separated from her sisters has an innate ability to locate them across any distance on the same plane. The norn can sense when she is facing in the direction of one or both of her sisters, as well as in which direction they are moving. This sense does not grant a norn the ability to assess distance to her sisters. Once the norn rejoins one or both of her sisters, she loses this ability."
 		],
-		"shortDescription": "This breathtaking, giant-sized woman's raven hair falls to her ankles. Her skin is as pale as the glowing moon, and her ebon eyes deeply pensive."
+		"short_description": "This breathtaking, giant-sized woman's raven hair falls to her ankles. Her skin is as pale as the glowing moon, and her ebon eyes deeply pensive."
 	},
-	"Zelishkar of the Bitter Flame": {
-		"monstername": "Zelishkar of the Bitter Flame",
+	{
+		"monster_name": "Zelishkar of the Bitter Flame",
 		"file": "monsterdisplay9106.html",
 		"sources": [ "Inner Sea Bestiary" ],
 		"cr": 21,
@@ -7966,13 +7966,13 @@
 		"size": "large",
 		"type": "outsider",
 		"subtypes": [ "daemon", "evil", "extraplanar", "fire" ],
-		"init": 5,
+		"initiative": 5,
 		"senses": [
 			"darkvision 60 ft.",
 			"scent",
 			"true seeing"
 		],
-		"pcp": 33,
+		"perception": 33,
 		"aura": [ "unholy aura" ],
 		"heading": [
 			"Zelishkar of the Bitter Flame CR 21",
@@ -7985,10 +7985,10 @@
 		"ac": {
 			"ac": 39,
 			"touch": 13,
-			"ff": 35,
+			"flatfooted": 35,
 			"bonuses": {
 				"armor": 11,
-				"Dex": 3,
+				"dex": 3,
 				"dodge": 1,
 				"natural": 15,
 				"size": -1
@@ -8002,7 +8002,7 @@
 			"ref": 19,
 			"will": 20
 		},
-		"defAbs": [ "blur (20% miss chance)" ],
+		"defensive_abilities": [ "blur (20% miss chance)" ],
 		"immune": [
 			"ability damage",
 			"acid",
@@ -8049,7 +8049,7 @@
 		"int": 17,
 		"wis": 22,
 		"cha": 23,
-		"baseAtk": 24,
+		"base_attack_bonus": 24,
 		"cmb": 36,
 		"cmd": 52,
 		"feats": [
@@ -8095,7 +8095,7 @@
 			"**Organization** solitary",
 			"**Treasure** triple (+5 breastplate, other treasure)"
 		],
-		"specialAbilities": [
+		"special_abilities": [
 			"**Bitter Flames (Su)** Whenever Zelishkar deals fire damage with any attack or effect, half of the damage is fire damage and the other half is untyped damage, similar to a flame strike spell. In addition, creatures that fail a save against any fire effect Zelishkar creates are sickened for 1 minute. Those damaged by his melee attacks or by fire effects that allow no save are instead sickened for 1 round per attack. This duration stacks.",
 			"**Corpse Cremation (Su)** Whenever Zelishkar reduces a living creature to negative hit points, as a swift action he can turn its body to ashes and feed upon the target's life force, as death knell (Will DC 28 negates). Whenever Zelishkar slays a creature with any attack or ability, the creature's corpse is reduced to ashes (treat as disintegrate).",
 			"**Daemonic Harbinger Traits A daemonic harbinger is a powerful daemon that has not yet made the full transition from unique daemon to a horseman. It possesses several traits, as summarized here.",
@@ -8107,6 +8107,6 @@
 			"Incandescent Body (Su)** As a free action, Zelishkar can cause his body to erupt into white-hot flame. He sheds light as bright as a daylight spell, and dazzles any creature that does not avert its gaze. Creatures with the fire subtype are immune to this dazzling effect. Zelishkar can dim his flames to burning black shadows as a free action, suppressing the dazzling effect and allowing him to use Stealth without penalty.",
 			"**Incendiary Grasp (Su)** If Zelishkar hits a target with more than one natural weapon in the same round, the fire damage from each hit is combined as if from a single attack for the purpose of overcoming effects that provide resistance to fire. In addition, if Zelishkar succeeds at a grapple combat maneuver, as a swift action he can suppress any fire resistance or immunity the target possesses until the beginning of Zelishkar's next turn. Creatures with the fire subtype are immune to this effect, unless that subtype is granted by a temporary magical effect or magic item."
 		],
-		"shortDescription": "This fiendish figure appears to be shaped from pure flame with a feline face. Three wicked tongues dart from the creature's mouth."
+		"short_description": "This fiendish figure appears to be shaped from pure flame with a feline face. Three wicked tongues dart from the creature's mouth."
 	}
-}
+]

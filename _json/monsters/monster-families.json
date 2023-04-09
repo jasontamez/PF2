@@ -1,6 +1,6 @@
-{
-	"Aeon": {
-		"familyname": "Aeon",
+[
+	{
+		"family_name": "Aeon",
 		"file": "monsterfamiliesc452.html",
 		"sources": [ "Bestiary 2" ],
 		"members": [
@@ -40,8 +40,8 @@
 			"- **Void Form (Su)** Though aeons aren't incorporeal, their forms are only a semi-tangible manifestation of something greater. An aeon's void form grants it a deflection bonus equal to 1/4 its Hit Dice (rounded down)."
 		]
 	},
-	"Agathion": {
-		"familyname": "Agathion",
+	{
+		"family_name": "Agathion",
 		"file": "monsterfamiliesb5c3.html",
 		"sources": [ "Bestiary 2" ],
 		"members": [
@@ -86,8 +86,8 @@
 			"Walks with Golden Stars (draconal)"
 		]
 	},
-	"Alghollthu": {
-		"familyname": "Alghollthu",
+	{
+		"family_name": "Alghollthu",
 		"file": "monsterfamiliesf34c.html",
 		"sources": [ "Pathfinder RPG Bestiary" ],
 		"members": [
@@ -103,8 +103,8 @@
 			"**Note:** This family represents a group of similar monsters. No official description was provided."
 		]
 	},
-	"Angel": {
-		"familyname": "Angel",
+	{
+		"family_name": "Angel",
 		"file": "monsterfamilies1c35.html",
 		"sources": [ "Pathfinder RPG Bestiary" ],
 		"members": [
@@ -160,8 +160,8 @@
 			"- **Truespeech (Su)** All angels can speak with any creature that has a language, as though using a tongues spell (caster level equal to angel's Hit Dice). This ability is always active."
 		]
 	},
-	"Archdevil": {
-		"familyname": "Archdevil",
+	{
+		"family_name": "Archdevil",
 		"file": "monsterfamilies8675.html",
 		"sources": [ "Bestiary 6" ],
 		"members": [
@@ -183,8 +183,8 @@
 			"An archdevil can be contacted via [commune](unknown:commune) or [contact other plane](unknown:contact other plane), and can be conjured via a [gate](unknown:gate) spell, but when so called, an archdevil is under no compulsion to come through the gate. Typically, an archdevil requires an enormous and significant offering or sacrifice before it deigns to answer a gate spell."
 		]
 	},
-	"Archon": {
-		"familyname": "Archon",
+	{
+		"family_name": "Archon",
 		"file": "monsterfamilies2393.html",
 		"sources": [ "Pathfinder RPG Bestiary" ],
 		"members": [
@@ -227,8 +227,8 @@
 			"- **Truespeech (Su)** All archons can speak with any creature that has a language, as though using a tongues spell (caster level 14th). This ability is always active."
 		]
 	},
-	"Asura": {
-		"familyname": "Asura",
+	{
+		"family_name": "Asura",
 		"file": "monsterfamilies97c2.html",
 		"sources": [ "Bestiary 3" ],
 		"members": [
@@ -278,8 +278,8 @@
 			"- Zurapadyn, the Beast Who Waits in Smoke"
 		]
 	},
-	"Automaton": {
-		"familyname": "Automaton",
+	{
+		"family_name": "Automaton",
 		"file": "monsterfamilies334b.html",
 		"sources": [ "Construct Handbook" ],
 		"members": [
@@ -312,8 +312,8 @@
 			"Removing an automaton core from a destroyed or willing automaton is a laborious and risky process that requires a number of hours equal to half the automaton's CR. After this time, the remover must attempt a Spellcraft check with a DC equal to 20 + the automaton's CR. On a success, the automaton core is removed and can be used normally. On a failed check, the removal attempt is unsuccessful and cannot be attempted again for 24 hours. Failing this check by more than 5 causes damage to the core and reduces its total number of spell points by 1. Returning a core to an inactive automaton's body to restore the creature requires another Spellcraft check with the same DC. If the consciousness in the body and the core are incompatible or unwilling to meld, the two attempt an opposed Charisma check. The winner of the opposed roll takes over as the dominant consciousness, but it may find itself opposed again later."
 		]
 	},
-	"Azata": {
-		"familyname": "Azata",
+	{
+		"family_name": "Azata",
 		"file": "monsterfamilies54da.html",
 		"sources": [ "Pathfinder RPG Bestiary" ],
 		"members": [
@@ -354,8 +354,8 @@
 			"- **Truespeech (Su)** All azatas can speak with any creature that has a language, as though using a tongues spell (caster level 14th). This ability is always active."
 		]
 	},
-	"Azi": {
-		"familyname": "Azi",
+	{
+		"family_name": "Azi",
 		"file": "monsterfamilies4a0b.html",
 		"sources": [ "Pathfinder #24: The Final Wish" ],
 		"members": [
@@ -368,8 +368,8 @@
 			"**Note:** This family represents a group of similar monsters. No official description was provided."
 		]
 	},
-	"Baba Yaga's Rider": {
-		"familyname": "Baba Yaga's Rider",
+	{
+		"family_name": "Baba Yaga's Rider",
 		"file": "monsterfamilies1788.html",
 		"sources": [ "Irrisen - Land of Eternal Winter" ],
 		"members": [
@@ -400,8 +400,8 @@
 			"**Weal or Woe (Su)** A Rider can bring harm or fortune to those judged. As a standard action, a Rider can bestow a curse (-2 penalty on attack rolls, saves, ability checks, and skill checks until the curse is removed) or a boon (+2 bonus on attack rolls, saves, ability checks, and skill checks for 24 hours). A targeted creature can resist the curse with a successful Will save. The save DC is Charisma-based."
 		]
 	},
-	"Beheaded": {
-		"familyname": "Beheaded",
+	{
+		"family_name": "Beheaded",
 		"file": "monsterfamiliese925.html",
 		"sources": [ "Bestiary 4" ],
 		"members": [
@@ -417,8 +417,8 @@
 			"**Note:** This family represents a group of similar monsters. No official description was provided."
 		]
 	},
-	"Behemoth": {
-		"familyname": "Behemoth",
+	{
+		"family_name": "Behemoth",
 		"file": "monsterfamilies9ba4.html",
 		"sources": [ "Bestiary 3" ],
 		"members": [
@@ -448,8 +448,8 @@
 			"Even societies that refrain from insulting the gods are not immune to the behemoth's wrath, for the gods rarely remove these beasts when their work is done. An ancient civilization destroyed by a behemoth may still harbor in its ruined heart a slumbering monster, waiting only for the right moment or a tragic accident to waken and ravage once again."
 		]
 	},
-	"Blight": {
-		"familyname": "Blight",
+	{
+		"family_name": "Blight",
 		"file": "monsterfamilies0c82.html",
 		"sources": [ "Bestiary 6" ],
 		"members": [
@@ -478,8 +478,8 @@
 			"Although the individual powers of the various categories of blight vary, all blights share certain features in common, including a thick layer of malleable protoplasm that provides significant natural armor, a host of glaring red eyes, and a shared suite of blight abilities (see the [Blight Subtype](unknown:Blight Subtype) section). The blights presented on the following pages represent the most well-known of the species, but other, stranger variants may exist in remote regions."
 		]
 	},
-	"Bore Worm": {
-		"familyname": "Bore Worm",
+	{
+		"family_name": "Bore Worm",
 		"file": "monsterfamilies0805.html",
 		"sources": [ "Pathfinder #117: Assault on Longshadow" ],
 		"members": [
@@ -492,8 +492,8 @@
 			"Bore worms are a vile breed of subterranean burrowing worm, attacking prey both in their Darklands home and, more rarely, on the planet's surface. Three major variants of the worms exist, each representing a different stage in the creature's long life cycle-the swarm, monarch, and empress stages."
 		]
 	},
-	"Boreal Creature": {
-		"familyname": "Boreal Creature",
+	{
+		"family_name": "Boreal Creature",
 		"file": "monsterfamiliesd967.html",
 		"sources": [ "Irrisen - Land of Eternal Winter" ],
 		"members": [
@@ -519,8 +519,8 @@
 			"**Trackless Step (Ex):** A boreal creature does not leave a trail in snow and cannot be tracked. It can choose to leave a trail, if it so desires. This special quality does not apply to aquatic boreal creatures."
 		]
 	},
-	"Clockwork": {
-		"familyname": "Clockwork",
+	{
+		"family_name": "Clockwork",
 		"file": "monsterfamilies5175.html",
 		"sources": [ "Bestiary 3" ],
 		"members": [
@@ -569,11 +569,11 @@
 			"In the earlier days of clockwork technology, many practical hindrances prevented rapid maturation of the devices. Clockwork machines were powered by inefficient, costly resources; however, the advent of arcane enchantment not only has allowed for greater precision in the crafting of gears and other key components, but has also opened up a wide new range of possibilities for defensive systems and offensive weaponry. Early attempts to combine clockwork with steam power or other nonmagical forms of energy tended to overcomplicate the already delicate machinery, and have long since been abandoned as a result. Whispers abound of an even more unusual category of clockwork that has solved this problem and has merged the complexities of steam power with the adaptability of magical energies, yet such exotic and unusual clockworks remain nothing more than rumors in most worlds at this time."
 		]
 	},
-	"Colossus": {
-		"familyname": "Colossus",
+	{
+		"family_name": "Colossus",
 		"file": "monsterfamilies6bdf.html",
 		"sources": [ "Bestiary 4" ],
-		"mythicMembers": [
+		"mythic_members": [
 			"[Flesh Colossus](monster:Flesh Colossus)",
 			"[Iron Colossus](monster:Iron Colossus)",
 			"[Sphinx Colossus](monster:Sphinx Colossus)",
@@ -601,8 +601,8 @@
 			"Colossi can take many forms depending upon the materials used in their construction and the will of their individual creators. Creating a colossus is an ambitious undertaking, leading most creators to base their designs on lessons learned crafting lesser constructs. As a result, the best-known kinds of colossi are the flesh, stone, and iron varieties, corresponding to the most common and best-understood varieties of golem. Other varieties are possible, such as the clay colossus given life by divine secrets, the glacial colossus wrought of unmelting ice and frost, and the timber colossus built from still-living wood, which bears eerie powers over plants and creatures of the natural world."
 		]
 	},
-	"Daemon": {
-		"familyname": "Daemon",
+	{
+		"family_name": "Daemon",
 		"file": "monsterfamilies2e84.html",
 		"sources": [ "Bestiary 2" ],
 		"members": [
@@ -653,8 +653,8 @@
 			"Upon the poisonous expanses of Abaddon, lesser daemonic peers carve petty fiefdoms and posture as lords, but despite their world-spanning intrigues, all bow before the Horsemen-though most do so only grudgingly. Ancient myths also tell of a mysterious fifth Horseman, the Oinodaemon, though nearly all mention of such a creature has been scoured from the multiverse."
 		]
 	},
-	"Dark Folk": {
-		"familyname": "Dark Folk",
+	{
+		"family_name": "Dark Folk",
 		"file": "monsterfamilies5610.html",
 		"sources": [ "Pathfinder RPG Bestiary" ],
 		"members": [
@@ -672,8 +672,8 @@
 			"**Note:** This family represents a group of similar monsters. No official description was provided."
 		]
 	},
-	"Demodand": {
-		"familyname": "Demodand",
+	{
+		"family_name": "Demodand",
 		"file": "monsterfamilies89e7.html",
 		"sources": [ "Bestiary 3" ],
 		"members": [
@@ -703,8 +703,8 @@
 			"The only hatred that eclipses the demodands' loathing of demons and the religiously faithful is their fury at the celestial races. Within these vessels of divine power-angels above all others-the demodands see the incarnate form of all they were crafted to despise and destroy. Indeed, powerful individuals and evil cults alike who seek to destroy a good-aligned outsider often find that the payments they need to offer to enlist the services of even the mightiest of demodands are greatly reduced."
 		]
 	},
-	"Demon": {
-		"familyname": "Demon",
+	{
+		"family_name": "Demon",
 		"file": "monsterfamilies4381.html",
 		"sources": [ "Pathfinder RPG Bestiary" ],
 		"members": [
@@ -752,7 +752,7 @@
 			"[Vrolikai](monster:Vrolikai)",
 			"[Yaenit](monster:Yaenit)"
 		],
-		"mythicMembers": [
+		"mythic_members": [
 			"[Marilith](monster:Marilith)",
 			"[Nalfeshnee](monster:Nalfeshnee)",
 			"[Vrock](monster:Vrock)"
@@ -782,8 +782,8 @@
 			"- A demon's natural weapons, as well as any weapon it wields, is treated as chaotic and evil for the purpose of resolving damage reduction"
 		]
 	},
-	"Demon Lord": {
-		"familyname": "Demon Lord",
+	{
+		"family_name": "Demon Lord",
 		"file": "monsterfamilies79a6.html",
 		"sources": [ "Bestiary 4" ],
 		"members": [
@@ -824,8 +824,8 @@
 			"Yet even if demon lords are far outside the abilities of most heroes to combat directly, they can still be used as foes in campaigns of all levels, inspiring or directing monsters, mortals, and entire cults. Opposing and defeating a cult is a time-honored plotline for a campaign, and a climactic encounter where the PCs must close a portal before the cult's demon lord manifests in the flesh can make an exciting capstone to a longrunning campaign, especially if the demon lord in question appears for a round or 2 to fight the PCs before the closing of the portal forces it back to the Abyss. Alternatively, rather than having the PCs face the demon lord at full power, you can build a campaign where the PCs systematically undermine and destroy a demon lord's resources, imposing increasing penalties on it and gathering potent weapons so that when the time comes for the final confrontation, the PCs are powerful and the demon lord is weakened to a state below its normal CR. An easy way to model weakening a demon in this manner is to assign negative levels to the demon-normally, a demon lord is immune to level drain, but in this case, the reduction of its resources and sources of power can bypass that immunity for a time... at least, until the demon lord can rebuild and recover."
 		]
 	},
-	"Devil": {
-		"familyname": "Devil",
+	{
+		"family_name": "Devil",
 		"file": "monsterfamiliesd73f.html",
 		"sources": [ "Pathfinder RPG Bestiary" ],
 		"members": [
@@ -866,7 +866,7 @@
 			"[Tinder Devil (Ukobach)](monster:Tinder Devil (Ukobach))",
 			"[Warmonger Devil (Levaloch)](monster:Warmonger Devil (Levaloch))"
 		],
-		"mythicMembers": [
+		"mythic_members": [
 			"[Bone Devil](monster:Bone Devil)",
 			"[Ice Devil](monster:Ice Devil)"
 		],
@@ -908,8 +908,8 @@
 			"- A devil's natural weapons, as well as any weapons it wields, are treated as lawful and evil for the purpose of resolving damage reduction."
 		]
 	},
-	"Dinosaur": {
-		"familyname": "Dinosaur",
+	{
+		"family_name": "Dinosaur",
 		"file": "monsterfamilies5326.html",
 		"sources": [ "Pathfinder RPG Bestiary" ],
 		"members": [
@@ -947,8 +947,8 @@
 			"**Note:** This family represents a group of similar monsters. No official description was provided."
 		]
 	},
-	"Div": {
-		"familyname": "Div",
+	{
+		"family_name": "Div",
 		"file": "monsterfamilies3fe4.html",
 		"sources": [ "Bestiary 3" ],
 		"members": [
@@ -985,8 +985,8 @@
 			"A conniving demigod, Ahriman accepts the worship of evil mortals despite his and his minions' loathing of such beings. Clerics of Ahriman are either nihilists or deluded cultists who work to corrupt others, sow misfortune, and tear down the works of geniekind. Ahriman grants access to the domains of Darkness, Death, Destruction, and Evil. Ahriman's symbol is a black circle with a thin sliver of light overtaken by darkness, and his favored weapon is the whip."
 		]
 	},
-	"Dragon (Black)": {
-		"familyname": "Dragon (Black)",
+	{
+		"family_name": "Dragon (Black)",
 		"file": "monsterfamiliesf0da.html",
 		"sources": [ "Pathfinder RPG Bestiary" ],
 		"members": [
@@ -994,7 +994,7 @@
 			"[Ancient Black Dragon](monster:Ancient Black Dragon)",
 			"[Young Black Dragon](monster:Young Black Dragon)"
 		],
-		"mythicMembers": [ "[Mature Adult Black Dragon](monster:Mature Adult Black Dragon)" ],
+		"mythic_members": [ "[Mature Adult Black Dragon](monster:Mature Adult Black Dragon)" ],
 		"text": [
 			"Source [Pathfinder RPG Bestiary](source:Pathfinder RPG Bestiary)",
 			"True dragons are divided into two broad categories: chromatic and metallic. Chromatic dragons are almost universally evil, seeking only to slake their endless lust for food, treasure, and bloodshed. Metallic dragons are generally good and often protect the lands under their care.",
@@ -1117,8 +1117,8 @@
 			"| Great wyrm | Charm reptiles | 15th |"
 		]
 	},
-	"Dragon (Blue)": {
-		"familyname": "Dragon (Blue)",
+	{
+		"family_name": "Dragon (Blue)",
 		"file": "monsterfamilies8688.html",
 		"sources": [ "Pathfinder RPG Bestiary" ],
 		"members": [
@@ -1126,7 +1126,7 @@
 			"[Ancient Blue Dragon](monster:Ancient Blue Dragon)",
 			"[Young Blue Dragon](monster:Young Blue Dragon)"
 		],
-		"mythicMembers": [ "[Mature Adult Blue Dragon](monster:Mature Adult Blue Dragon)" ],
+		"mythic_members": [ "[Mature Adult Blue Dragon](monster:Mature Adult Blue Dragon)" ],
 		"text": [
 			"Source [Pathfinder RPG Bestiary](source:Pathfinder RPG Bestiary)",
 			"True dragons are divided into two broad categories: chromatic and metallic. Chromatic dragons are almost universally evil, seeking only to slake their endless lust for food, treasure, and bloodshed. Metallic dragons are generally good and often protect the lands under their care.",
@@ -1248,8 +1248,8 @@
 			"| Great wyrm | Sandstorm, mirage arcana | 17th |"
 		]
 	},
-	"Dragon (Brass)": {
-		"familyname": "Dragon (Brass)",
+	{
+		"family_name": "Dragon (Brass)",
 		"file": "monsterfamilies97db.html",
 		"sources": [ "Pathfinder RPG Bestiary" ],
 		"members": [
@@ -1363,8 +1363,8 @@
 			"**Summon Djinni (Sp)** This ability, usable by a great wyrm brass dragon once per day, works like a summon monster spell, except that it summons one noble djinni. This ability is the equivalent of a 9th-level spell."
 		]
 	},
-	"Dragon (Bronze)": {
-		"familyname": "Dragon (Bronze)",
+	{
+		"family_name": "Dragon (Bronze)",
 		"file": "monsterfamilies9593.html",
 		"sources": [ "Pathfinder RPG Bestiary" ],
 		"members": [
@@ -1479,8 +1479,8 @@
 			"**Wave Mastery (Su)** For up to 10 minutes per age category per day, a juvenile bronze dragon, along with creatures or vessels within 50 feet, can move at twice its normal speed in water."
 		]
 	},
-	"Dragon (Copper)": {
-		"familyname": "Dragon (Copper)",
+	{
+		"family_name": "Dragon (Copper)",
 		"file": "monsterfamiliesd013.html",
 		"sources": [ "Pathfinder RPG Bestiary" ],
 		"members": [
@@ -1595,8 +1595,8 @@
 			"**Uncanny Dodge (Ex)** A young or older copper dragon is always looking out for an ambush. He can never be caught flat-footed. This ability functions like the rogue ability of the same name."
 		]
 	},
-	"Dragon (Esoteric, Astral)": {
-		"familyname": "Dragon (Esoteric, Astral)",
+	{
+		"family_name": "Dragon (Esoteric, Astral)",
 		"file": "monsterfamiliesd900.html",
 		"sources": [ "Bestiary 5" ],
 		"members": [
@@ -1703,8 +1703,8 @@
 			"| Colossal | 250 ft. (clumsy) | 4d8 | 4d6 | 2d8 | 4d6 | 4d8 | 2d8 | 140 ft. | 70 ft. |"
 		]
 	},
-	"Dragon (Esoteric, Dream)": {
-		"familyname": "Dragon (Esoteric, Dream)",
+	{
+		"family_name": "Dragon (Esoteric, Dream)",
 		"file": "monsterfamilies3e50.html",
 		"sources": [ "Bestiary 5" ],
 		"members": [
@@ -1811,8 +1811,8 @@
 			"| Colossal | 250 ft. (clumsy) | 4d8 | 4d6 | 2d8 | 4d6 | 4d8 | 2d8 | 140 ft. | 70 ft. |"
 		]
 	},
-	"Dragon (Esoteric, Etheric)": {
-		"familyname": "Dragon (Esoteric, Etheric)",
+	{
+		"family_name": "Dragon (Esoteric, Etheric)",
 		"file": "monsterfamilies3ffe.html",
 		"sources": [ "Bestiary 5" ],
 		"members": [
@@ -1919,8 +1919,8 @@
 			"| Colossal | 250 ft. (clumsy) | 4d8 | 4d6 | 2d8 | 4d6 | 4d8 | 2d8 | 140 ft. | 70 ft. |"
 		]
 	},
-	"Dragon (Esoteric, Nightmare)": {
-		"familyname": "Dragon (Esoteric, Nightmare)",
+	{
+		"family_name": "Dragon (Esoteric, Nightmare)",
 		"file": "monsterfamilies07d2.html",
 		"sources": [ "Bestiary 5" ],
 		"members": [
@@ -2027,8 +2027,8 @@
 			"| Colossal | 250 ft. (clumsy) | 4d8 | 4d6 | 2d8 | 4d6 | 4d8 | 2d8 | 140 ft. | 70 ft. |"
 		]
 	},
-	"Dragon (Esoteric, Occult)": {
-		"familyname": "Dragon (Esoteric, Occult)",
+	{
+		"family_name": "Dragon (Esoteric, Occult)",
 		"file": "monsterfamiliesb88e.html",
 		"sources": [ "Bestiary 5" ],
 		"members": [
@@ -2135,8 +2135,8 @@
 			"| Colossal | 250 ft. (clumsy) | 4d8 | 4d6 | 2d8 | 4d6 | 4d8 | 2d8 | 140 ft. | 70 ft. |"
 		]
 	},
-	"Dragon (Gold)": {
-		"familyname": "Dragon (Gold)",
+	{
+		"family_name": "Dragon (Gold)",
 		"file": "monsterfamiliesbe2a.html",
 		"sources": [ "Pathfinder RPG Bestiary" ],
 		"members": [
@@ -2251,8 +2251,8 @@
 			"**Weakening Breath (Su)** Instead of a cone of fire, a gold dragon can breathe a cone of weakening gas. Creatures within the cone must succeed on a Fortitude save or take 1 point of Strength damage per age category (Will save half)."
 		]
 	},
-	"Dragon (Green)": {
-		"familyname": "Dragon (Green)",
+	{
+		"family_name": "Dragon (Green)",
 		"file": "monsterfamiliese5b7.html",
 		"sources": [ "Pathfinder RPG Bestiary" ],
 		"members": [
@@ -2260,7 +2260,7 @@
 			"[Ancient Green Dragon](monster:Ancient Green Dragon)",
 			"[Young Green Dragon](monster:Young Green Dragon)"
 		],
-		"mythicMembers": [ "[Very Old Green Dragon](monster:Very Old Green Dragon)" ],
+		"mythic_members": [ "[Very Old Green Dragon](monster:Very Old Green Dragon)" ],
 		"text": [
 			"Source [Pathfinder RPG Bestiary](source:Pathfinder RPG Bestiary)",
 			"True dragons are divided into two broad categories: chromatic and metallic. Chromatic dragons are almost universally evil, seeking only to slake their endless lust for food, treasure, and bloodshed. Metallic dragons are generally good and often protect the lands under their care.",
@@ -2367,8 +2367,8 @@
 			"**Woodland Stride (Ex)** A very young or older green dragon can move through any sort of foliage at full speed without taking damage or suffering impairment. Areas of foliage that have been magically manipulated affect it normally."
 		]
 	},
-	"Dragon (Imperial, Forest)": {
-		"familyname": "Dragon (Imperial, Forest)",
+	{
+		"family_name": "Dragon (Imperial, Forest)",
 		"file": "monsterfamiliese30e.html",
 		"sources": [ "Bestiary 3" ],
 		"members": [
@@ -2503,8 +2503,8 @@
 			"| Great wyrm | Stony death, earthquake | 19th |"
 		]
 	},
-	"Dragon (Imperial, Sea)": {
-		"familyname": "Dragon (Imperial, Sea)",
+	{
+		"family_name": "Dragon (Imperial, Sea)",
 		"file": "monsterfamilies917f.html",
 		"sources": [ "Bestiary 3" ],
 		"members": [
@@ -2638,8 +2638,8 @@
 			"| Great wyrm | Tidal wave, vortex | 19th |"
 		]
 	},
-	"Dragon (Imperial, Sky)": {
-		"familyname": "Dragon (Imperial, Sky)",
+	{
+		"family_name": "Dragon (Imperial, Sky)",
 		"file": "monsterfamiliese432.html",
 		"sources": [ "Bestiary 3" ],
 		"members": [
@@ -2774,8 +2774,8 @@
 			"| Great wyrm | Celestial emissary, stormbolts | 19th |"
 		]
 	},
-	"Dragon (Imperial, Sovereign)": {
-		"familyname": "Dragon (Imperial, Sovereign)",
+	{
+		"family_name": "Dragon (Imperial, Sovereign)",
 		"file": "monsterfamiliesa09c.html",
 		"sources": [ "Bestiary 3" ],
 		"members": [
@@ -2909,8 +2909,8 @@
 			"| Great wyrm | Master counterspelling, moment of prescience | 19th |"
 		]
 	},
-	"Dragon (Imperial, Underworld)": {
-		"familyname": "Dragon (Imperial, Underworld)",
+	{
+		"family_name": "Dragon (Imperial, Underworld)",
 		"file": "monsterfamiliesd84c.html",
 		"sources": [ "Bestiary 3" ],
 		"members": [
@@ -3043,8 +3043,8 @@
 			"| Great wyrm | Clashing rocks, lava eruption | 17th |"
 		]
 	},
-	"Dragon (Outer, Lunar)": {
-		"familyname": "Dragon (Outer, Lunar)",
+	{
+		"family_name": "Dragon (Outer, Lunar)",
 		"file": "monsterfamilies46f7.html",
 		"sources": [ "Bestiary 4" ],
 		"members": [
@@ -3177,8 +3177,8 @@
 			"| Great wyrm | Greater scrying, polar midnight | 19th |"
 		]
 	},
-	"Dragon (Outer, Solar)": {
-		"familyname": "Dragon (Outer, Solar)",
+	{
+		"family_name": "Dragon (Outer, Solar)",
 		"file": "monsterfamiliesde49.html",
 		"sources": [ "Bestiary 4" ],
 		"members": [
@@ -3309,8 +3309,8 @@
 			"| Great wyrm | Beam of light, control plants | 19th |"
 		]
 	},
-	"Dragon (Outer, Time)": {
-		"familyname": "Dragon (Outer, Time)",
+	{
+		"family_name": "Dragon (Outer, Time)",
 		"file": "monsterfamiliesc0d1.html",
 		"sources": [ "Bestiary 4" ],
 		"members": [
@@ -3443,8 +3443,8 @@
 			"| Great wyrm | Time stop (3/day), time travel | 19th |"
 		]
 	},
-	"Dragon (Outer, Void)": {
-		"familyname": "Dragon (Outer, Void)",
+	{
+		"family_name": "Dragon (Outer, Void)",
 		"file": "monsterfamilies8eaf.html",
 		"sources": [ "Bestiary 4" ],
 		"members": [
@@ -3575,8 +3575,8 @@
 			"| Great wyrm | Gate (1/day), insanity | 19th |"
 		]
 	},
-	"Dragon (Outer, Vortex)": {
-		"familyname": "Dragon (Outer, Vortex)",
+	{
+		"family_name": "Dragon (Outer, Vortex)",
 		"file": "monsterfamilies36e2.html",
 		"sources": [ "Bestiary 4" ],
 		"members": [
@@ -3707,8 +3707,8 @@
 			"| Great wyrm | Interplanetary teleport | 19th |"
 		]
 	},
-	"Dragon (Planar, Apocalypse)": {
-		"familyname": "Dragon (Planar, Apocalypse)",
+	{
+		"family_name": "Dragon (Planar, Apocalypse)",
 		"file": "monsterfamilies4c2a.html",
 		"sources": [ "Pathfinder #137: The City Outside of Time" ],
 		"members": [
@@ -3795,8 +3795,8 @@
 			"**Spells:** A planar dragon knows and casts spells as per an [oracle](unknown:oracle) of the level indicated in its specific description. Its caster level depends on its age, as given for each type."
 		]
 	},
-	"Dragon (Planar, Bliss)": {
-		"familyname": "Dragon (Planar, Bliss)",
+	{
+		"family_name": "Dragon (Planar, Bliss)",
 		"file": "monsterfamilies5a8e.html",
 		"sources": [ "Pathfinder #137: The City Outside of Time" ],
 		"members": [
@@ -3883,8 +3883,8 @@
 			"**Spells:** A planar dragon knows and casts spells as per an [oracle](unknown:oracle) of the level indicated in its specific description. Its caster level depends on its age, as given for each type."
 		]
 	},
-	"Dragon (Planar, Crypt)": {
-		"familyname": "Dragon (Planar, Crypt)",
+	{
+		"family_name": "Dragon (Planar, Crypt)",
 		"file": "monsterfamiliesa113.html",
 		"sources": [ "Bestiary 6" ],
 		"members": [
@@ -3971,8 +3971,8 @@
 			"**Spells:** A planar dragon knows and casts spells as per an [oracle](unknown:oracle) of the level indicated in its specific description. Its caster level depends on its age, as given for each type."
 		]
 	},
-	"Dragon (Planar, Edict)": {
-		"familyname": "Dragon (Planar, Edict)",
+	{
+		"family_name": "Dragon (Planar, Edict)",
 		"file": "monsterfamilies7d4e.html",
 		"sources": [ "Pathfinder #131: The Reaper's Right Hand" ],
 		"members": [
@@ -4059,8 +4059,8 @@
 			"**Spells:** A planar dragon knows and casts spells as per an [oracle](unknown:oracle) of the level indicated in its specific description. Its caster level depends on its age, as given for each type."
 		]
 	},
-	"Dragon (Planar, Havoc)": {
-		"familyname": "Dragon (Planar, Havoc)",
+	{
+		"family_name": "Dragon (Planar, Havoc)",
 		"file": "monsterfamiliesae01.html",
 		"sources": [ "Bestiary 6" ],
 		"members": [
@@ -4147,8 +4147,8 @@
 			"**Spells:** A planar dragon knows and casts spells as per an [oracle](unknown:oracle) of the level indicated in its specific description. Its caster level depends on its age, as given for each type."
 		]
 	},
-	"Dragon (Planar, Infernal)": {
-		"familyname": "Dragon (Planar, Infernal)",
+	{
+		"family_name": "Dragon (Planar, Infernal)",
 		"file": "monsterfamilies0448.html",
 		"sources": [ "Bestiary 6" ],
 		"members": [
@@ -4235,8 +4235,8 @@
 			"**Spells:** A planar dragon knows and casts spells as per an [oracle](unknown:oracle) of the level indicated in its specific description. Its caster level depends on its age, as given for each type."
 		]
 	},
-	"Dragon (Planar, Paradise)": {
-		"familyname": "Dragon (Planar, Paradise)",
+	{
+		"family_name": "Dragon (Planar, Paradise)",
 		"file": "monsterfamilies34c0.html",
 		"sources": [ "Bestiary 6" ],
 		"members": [
@@ -4323,8 +4323,8 @@
 			"**Spells:** A planar dragon knows and casts spells as per an [oracle](unknown:oracle) of the level indicated in its specific description. Its caster level depends on its age, as given for each type."
 		]
 	},
-	"Dragon (Planar, Rift)": {
-		"familyname": "Dragon (Planar, Rift)",
+	{
+		"family_name": "Dragon (Planar, Rift)",
 		"file": "monsterfamilies2d89.html",
 		"sources": [ "Bestiary 6" ],
 		"members": [
@@ -4411,8 +4411,8 @@
 			"**Spells:** A planar dragon knows and casts spells as per an [oracle](unknown:oracle) of the level indicated in its specific description. Its caster level depends on its age, as given for each type."
 		]
 	},
-	"Dragon (Planar, Tumult)": {
-		"familyname": "Dragon (Planar, Tumult)",
+	{
+		"family_name": "Dragon (Planar, Tumult)",
 		"file": "monsterfamilies0afb.html",
 		"sources": [ "Pathfinder #138: Rise of New Thassilon" ],
 		"members": [
@@ -4499,8 +4499,8 @@
 			"**Spells:** A planar dragon knows and casts spells as per an [oracle](unknown:oracle) of the level indicated in its specific description. Its caster level depends on its age, as given for each type."
 		]
 	},
-	"Dragon (Primal, Brine)": {
-		"familyname": "Dragon (Primal, Brine)",
+	{
+		"family_name": "Dragon (Primal, Brine)",
 		"file": "monsterfamilies0d0f.html",
 		"sources": [ "Bestiary 2" ],
 		"members": [
@@ -4626,8 +4626,8 @@
 			"| Great wyrm | Painful strikes, tsunami | 19th |"
 		]
 	},
-	"Dragon (Primal, Cloud)": {
-		"familyname": "Dragon (Primal, Cloud)",
+	{
+		"family_name": "Dragon (Primal, Cloud)",
 		"file": "monsterfamilies6b1d.html",
 		"sources": [ "Bestiary 2" ],
 		"members": [
@@ -4754,8 +4754,8 @@
 			"| Great wyrm | Cloud breath, storm of vengeance | 17th |"
 		]
 	},
-	"Dragon (Primal, Crystal)": {
-		"familyname": "Dragon (Primal, Crystal)",
+	{
+		"family_name": "Dragon (Primal, Crystal)",
 		"file": "monsterfamiliesd66f.html",
 		"sources": [ "Bestiary 2" ],
 		"members": [
@@ -4882,8 +4882,8 @@
 			"| Great wyrm | Imprisonment, scintillating aura | 13th |"
 		]
 	},
-	"Dragon (Primal, Magma)": {
-		"familyname": "Dragon (Primal, Magma)",
+	{
+		"family_name": "Dragon (Primal, Magma)",
 		"file": "monsterfamilies8ab0.html",
 		"sources": [ "Bestiary 2" ],
 		"members": [
@@ -5009,8 +5009,8 @@
 			"| Great wyrm | Magma tomb, wall of lava | 19th |"
 		]
 	},
-	"Dragon (Primal, Umbral)": {
-		"familyname": "Dragon (Primal, Umbral)",
+	{
+		"family_name": "Dragon (Primal, Umbral)",
 		"file": "monsterfamilies6fa5.html",
 		"sources": [ "Bestiary 2" ],
 		"members": [
@@ -5139,8 +5139,8 @@
 			"| Great wyrm | Energy drain, shades | 19th |"
 		]
 	},
-	"Dragon (Red)": {
-		"familyname": "Dragon (Red)",
+	{
+		"family_name": "Dragon (Red)",
 		"file": "monsterfamilies01e7.html",
 		"sources": [ "Pathfinder RPG Bestiary" ],
 		"members": [
@@ -5148,7 +5148,7 @@
 			"[Ancient Red Dragon](monster:Ancient Red Dragon)",
 			"[Young Red Dragon](monster:Young Red Dragon)"
 		],
-		"mythicMembers": [
+		"mythic_members": [
 			"[Wyrm Red Dragon](monster:Wyrm Red Dragon)",
 			"[Young Red Dragon](monster:Young Red Dragon)"
 		],
@@ -5257,8 +5257,8 @@
 			"**Spell-Like Abilities (Sp)** A red dragon gains the following spell-like abilities, usable at will upon reaching the listed age category. Young-detect magic; Juvenile-pyrotechnics; Adult'suggestion; Old-wall of fire; Ancient-find the path; Great wyrm-discern location."
 		]
 	},
-	"Dragon (Silver)": {
-		"familyname": "Dragon (Silver)",
+	{
+		"family_name": "Dragon (Silver)",
 		"file": "monsterfamilies43c0.html",
 		"sources": [ "Pathfinder RPG Bestiary" ],
 		"members": [
@@ -5374,8 +5374,8 @@
 			"**True Courage (Ex)** A great wyrm silver dragon can fight on through pain and death. When reduced to below 0 hit points, it remains conscious, automatically stabilizes, and can continue to act (although it is staggered). If it takes damage or is the target of a spell that causes its death, it remains alive for 1 round and can act normally (it is not staggered for this final round)."
 		]
 	},
-	"Dragon (White)": {
-		"familyname": "Dragon (White)",
+	{
+		"family_name": "Dragon (White)",
 		"file": "monsterfamiliesf99a.html",
 		"sources": [ "Pathfinder RPG Bestiary" ],
 		"members": [
@@ -5383,7 +5383,7 @@
 			"[Ancient White Dragon](monster:Ancient White Dragon)",
 			"[Young White Dragon](monster:Young White Dragon)"
 		],
-		"mythicMembers": [ "[Juvenile White Dragon](monster:Juvenile White Dragon)" ],
+		"mythic_members": [ "[Juvenile White Dragon](monster:Juvenile White Dragon)" ],
 		"text": [
 			"Source [Pathfinder RPG Bestiary](source:Pathfinder RPG Bestiary)",
 			"True dragons are divided into two broad categories: chromatic and metallic. Chromatic dragons are almost universally evil, seeking only to slake their endless lust for food, treasure, and bloodshed. Metallic dragons are generally good and often protect the lands under their care.",
@@ -5491,8 +5491,8 @@
 			"**Spell-Like Abilities (Sp)** A white dragon gains the following spell-like abilities usable at will upon reaching the listed age category. Juvenile-fog cloud; Young adult-gust of wind; Ancient-wall of ice; Great wyrm-control weather."
 		]
 	},
-	"Drake": {
-		"familyname": "Drake",
+	{
+		"family_name": "Drake",
 		"file": "monsterfamiliesaddd.html",
 		"sources": [ "Bestiary 2" ],
 		"members": [
@@ -5515,8 +5515,8 @@
 			"**Note:** This family represents a group of similar monsters. No official description was provided."
 		]
 	},
-	"Elemental (Aether)": {
-		"familyname": "Elemental (Aether)",
+	{
+		"family_name": "Elemental (Aether)",
 		"file": "monsterfamilies5748.html",
 		"sources": [ "Bestiary 5" ],
 		"members": [
@@ -5548,8 +5548,8 @@
 			"**Telekinetic Maneuver (Su)** An aether elemental can attempt a ranged combat maneuver check, as per [telekinesis](unknown:telekinesis), with a CMB equal to its Hit Dice + its Dexterity modifier."
 		]
 	},
-	"Elemental (Air)": {
-		"familyname": "Elemental (Air)",
+	{
+		"family_name": "Elemental (Air)",
 		"file": "monsterfamilies14cf.html",
 		"sources": [ "Pathfinder RPG Bestiary" ],
 		"members": [
@@ -5560,7 +5560,7 @@
 			"[Medium Air Elemental](monster:Medium Air Elemental)",
 			"[Small Air Elemental](monster:Small Air Elemental)"
 		],
-		"mythicMembers": [ "[Elder Air Elemental](monster:Elder Air Elemental)" ],
+		"mythic_members": [ "[Elder Air Elemental](monster:Elder Air Elemental)" ],
 		"text": [
 			"Source [Pathfinder RPG Bestiary](source:Pathfinder RPG Bestiary)",
 			"An elemental is a being composed entirely from one of the four classical elements: air, earth, fire, or water. An elemental has the following features.",
@@ -5582,8 +5582,8 @@
 			"**Air Mastery (Ex)** Airborne creatures take a -1 penalty on attack and damage rolls against an air elemental."
 		]
 	},
-	"Elemental (Earth)": {
-		"familyname": "Elemental (Earth)",
+	{
+		"family_name": "Elemental (Earth)",
 		"file": "monsterfamilies6fa6.html",
 		"sources": [ "Pathfinder RPG Bestiary" ],
 		"members": [
@@ -5594,7 +5594,7 @@
 			"[Medium Earth Elemental](monster:Medium Earth Elemental)",
 			"[Small Earth Elemental](monster:Small Earth Elemental)"
 		],
-		"mythicMembers": [ "[Elder Earth Elemental](monster:Elder Earth Elemental)" ],
+		"mythic_members": [ "[Elder Earth Elemental](monster:Elder Earth Elemental)" ],
 		"text": [
 			"Source [Pathfinder RPG Bestiary](source:Pathfinder RPG Bestiary)",
 			"An elemental is a being composed entirely from one of the four classical elements: air, earth, fire, or water. An elemental has the following features.",
@@ -5617,8 +5617,8 @@
 			"**Earth Mastery (Ex)** An earth elemental gains a +1 bonus on attack and damage rolls if both it and its foe are touching the ground. If an opponent is airborne or waterborne, the elemental takes a -4 penalty on attack and damage rolls. These modifiers apply to bull rush and overrun maneuvers, whether the elemental is initiating or resisting these kinds of attacks. (These modifiers are not included in the statistics block.)"
 		]
 	},
-	"Elemental (Fire)": {
-		"familyname": "Elemental (Fire)",
+	{
+		"family_name": "Elemental (Fire)",
 		"file": "monsterfamilies9195.html",
 		"sources": [ "Pathfinder RPG Bestiary" ],
 		"members": [
@@ -5629,7 +5629,7 @@
 			"[Medium Fire Elemental](monster:Medium Fire Elemental)",
 			"[Small Fire Elemental](monster:Small Fire Elemental)"
 		],
-		"mythicMembers": [ "[Elder Fire Elemental](monster:Elder Fire Elemental)" ],
+		"mythic_members": [ "[Elder Fire Elemental](monster:Elder Fire Elemental)" ],
 		"text": [
 			"Source [Pathfinder RPG Bestiary](source:Pathfinder RPG Bestiary)",
 			"An elemental is a being composed entirely from one of the four classical elements: air, earth, fire, or water. An elemental has the following features.",
@@ -5647,8 +5647,8 @@
 			"**Treasure** none"
 		]
 	},
-	"Elemental (Ice)": {
-		"familyname": "Elemental (Ice)",
+	{
+		"family_name": "Elemental (Ice)",
 		"file": "monsterfamilies6992.html",
 		"sources": [ "Bestiary 2" ],
 		"members": [
@@ -5683,8 +5683,8 @@
 			"**Snow Vision (Ex)** An ice elemental can see perfectly well in snowy conditions and does not take any penalties on Perception checks while in snow."
 		]
 	},
-	"Elemental (Lightning)": {
-		"familyname": "Elemental (Lightning)",
+	{
+		"family_name": "Elemental (Lightning)",
 		"file": "monsterfamilies7450.html",
 		"sources": [ "Bestiary 2" ],
 		"members": [
@@ -5717,8 +5717,8 @@
 			"**Spark Leap (Ex)** A lightning elemental gains a +10 bonus on bull rush, disarm, overrun, and trip attacks when it charges a creature against whom its metal mastery ability applies."
 		]
 	},
-	"Elemental (Magma)": {
-		"familyname": "Elemental (Magma)",
+	{
+		"family_name": "Elemental (Magma)",
 		"file": "monsterfamiliesaff8.html",
 		"sources": [ "Bestiary 2" ],
 		"members": [
@@ -5752,8 +5752,8 @@
 			"**Lava Puddle (Su)** Once per day as a full-round action, a magma elemental can vomit forth a puddle of lava that fills its space to a depth of 2-3 inches and counts as difficult terrain. Any creature that moves through this puddle of lava takes 2d6 points of fire damage. This damage continues for 1d3 rounds after the creature leaves the lava pool, although then it only inflicts 1d6 points of fire damage per round. The lava puddle solidifies and is safe to touch after a number of rounds equal to the elemental's Hit Dice. At the GM's discretion, this puddle of lava could start secondary fires."
 		]
 	},
-	"Elemental (Mud)": {
-		"familyname": "Elemental (Mud)",
+	{
+		"family_name": "Elemental (Mud)",
 		"file": "monsterfamilies4fed.html",
 		"sources": [ "Bestiary 2" ],
 		"members": [
@@ -5786,8 +5786,8 @@
 			"**Entrap (Ex)** The mud from an elemental's entrap ability can be washed away in 1d3 rounds of immersion in water."
 		]
 	},
-	"Elemental (Water)": {
-		"familyname": "Elemental (Water)",
+	{
+		"family_name": "Elemental (Water)",
 		"file": "monsterfamiliesb275.html",
 		"sources": [ "Pathfinder RPG Bestiary" ],
 		"members": [
@@ -5798,7 +5798,7 @@
 			"[Medium Water Elemental](monster:Medium Water Elemental)",
 			"[Small Water Elemental](monster:Small Water Elemental)"
 		],
-		"mythicMembers": [ "[Elder Water Elemental](monster:Elder Water Elemental)" ],
+		"mythic_members": [ "[Elder Water Elemental](monster:Elder Water Elemental)" ],
 		"text": [
 			"Source [Pathfinder RPG Bestiary](source:Pathfinder RPG Bestiary)",
 			"An elemental is a being composed entirely from one of the four classical elements: air, earth, fire, or water. An elemental has the following features.",
@@ -5822,8 +5822,8 @@
 			"**Water Mastery (Ex)** A water elemental gains a +1 bonus on attack and damage rolls if both it and its opponent are touching water. If the opponent or the elemental is touching the ground, the elemental takes a -4 penalty on attack and damage rolls. These modifiers apply to bull rush and overrun maneuvers, whether the elemental is initiating or resisting these kinds of attacks."
 		]
 	},
-	"Elemental Lord": {
-		"familyname": "Elemental Lord",
+	{
+		"family_name": "Elemental Lord",
 		"file": "monsterfamiliesc7ce.html",
 		"sources": [ "Planes of Power" ],
 		"members": [ "[Ymeri](monster:Ymeri)" ],
@@ -5832,8 +5832,8 @@
 			"**Note:** This family represents a group of similar monsters. No official description was provided."
 		]
 	},
-	"Empyreal Lord": {
-		"familyname": "Empyreal Lord",
+	{
+		"family_name": "Empyreal Lord",
 		"file": "monsterfamiliescd5b.html",
 		"sources": [ "Bestiary 4" ],
 		"members": [
@@ -5889,8 +5889,8 @@
 			"[Ylimancha, Harborwing (agathion)](deity:Ylimancha)"
 		]
 	},
-	"Entothrope": {
-		"familyname": "Entothrope",
+	{
+		"family_name": "Entothrope",
 		"file": "monsterfamilies922e.html",
 		"sources": [ "Bestiary 6" ],
 		"members": [
@@ -5906,8 +5906,8 @@
 			"Entothropes are humanoids with the ability to turn into large insects and insect-humanoid hybrids."
 		]
 	},
-	"Exoskeleton": {
-		"familyname": "Exoskeleton",
+	{
+		"family_name": "Exoskeleton",
 		"file": "monsterfamiliesd1d9.html",
 		"sources": [
 			"Pathfinder #91: Battle of Bloodmarch Hills",
@@ -5981,8 +5981,8 @@
 			"A spellcaster can create an exoskeleton using [animate dead](unknown:animate dead). An exoskeleton can be created from a mostly intact dead vermin that has an exoskeleton. This includes arachnids, crustaceans, insects, and even some mollusks, but not soft-bodied vermin such as jellyfish and leeches."
 		]
 	},
-	"Familiar": {
-		"familyname": "Familiar",
+	{
+		"family_name": "Familiar",
 		"file": "monsterfamilies477d.html",
 		"sources": [ "Pathfinder RPG Bestiary" ],
 		"members": [
@@ -6070,8 +6070,8 @@
 			"Presented here are the base animal statistics for all of the most commonly used familiars-of course, these statistics can also be used for normal animals as well. Small animals like these use Dexterity to modify Climb and Swim checks."
 		]
 	},
-	"Fiend-Bred Animal": {
-		"familyname": "Fiend-Bred Animal",
+	{
+		"family_name": "Fiend-Bred Animal",
 		"file": "monsterfamilies9d10.html",
 		"sources": [ "Pathfinder #103: The Hellfire Compact" ],
 		"members": [
@@ -6086,8 +6086,8 @@
 			"Fiend-bred animals are rare and incredibly expensive, and therefore most owners of the breed are nobles or other wealthy individuals. Cheliax has a long-standing tradition of producing fiend-bred animals, and most hell-bred dogs are from meticulously tracked bloodlines with records in official registers. Keleshites, on the other hand, typically record their stygian hot-blooded horses' ancestries through oral traditions passed down through ensuing generations."
 		]
 	},
-	"Fleshwarp": {
-		"familyname": "Fleshwarp",
+	{
+		"family_name": "Fleshwarp",
 		"file": "monsterfamiliesfd89.html",
 		"sources": [ "Bestiary 4" ],
 		"members": [
@@ -6115,8 +6115,8 @@
 			"There are other cultures that also understand and use fleshwarping, but they tend to be either ancient or very secretive and xenophobic. [Sinspawn](unknown:Sinspawn), [fleshdregs](unknown:fleshdregs), and the lamia-based [hungerer](unknown:hungerer) are just some examples of non-drow fleshwarps."
 		]
 	},
-	"Formian": {
-		"familyname": "Formian",
+	{
+		"family_name": "Formian",
 		"file": "monsterfamilies6b67.html",
 		"sources": [ "Bestiary 4" ],
 		"members": [
@@ -6153,8 +6153,8 @@
 			"The safe arrival of a seedpod often creates a period of destruction and chaos for the natives of the formians' new home. When the seedpod's protections relax, the eggs hatch, and the formians move forward with ruthless efficiency toward creating their new hive."
 		]
 	},
-	"Gargoyle": {
-		"familyname": "Gargoyle",
+	{
+		"family_name": "Gargoyle",
 		"file": "monsterfamilies8e0b.html",
 		"sources": [ "Classic Horrors Revisited" ],
 		"members": [
@@ -6169,8 +6169,8 @@
 			"Sinister hunters of living stone, gargoyles perch high on the rooftops of towns and cities, appearing for all the world like harmless stone sculptures, carved in the likeness of demons, devils, or other hideous humanoid creatures. As still as statues, they patiently wait through the daylight hours, watching the city come to life and hungrily eyeing the unwitting passersby below. When dusk falls, the statues come alive and fly into the night sky, silently soaring above the darkened streets on stony wings looking for prey, snatching up unsuspecting walkers, never to be seen again."
 		]
 	},
-	"Genie": {
-		"familyname": "Genie",
+	{
+		"family_name": "Genie",
 		"file": "monsterfamilies493f.html",
 		"sources": [ "Pathfinder RPG Bestiary" ],
 		"members": [
@@ -6185,8 +6185,8 @@
 			"**Note:** This family represents a group of similar monsters. No official description was provided."
 		]
 	},
-	"Gigas": {
-		"familyname": "Gigas",
+	{
+		"family_name": "Gigas",
 		"file": "monsterfamiliesdae2.html",
 		"sources": [ "Pathfinder #30: The Twice-Damned Prince" ],
 		"members": [
@@ -6199,8 +6199,8 @@
 			"**Note:** This family represents a group of similar monsters. No official description was provided."
 		]
 	},
-	"Golem": {
-		"familyname": "Golem",
+	{
+		"family_name": "Golem",
 		"file": "monsterfamilies51b3.html",
 		"sources": [ "Pathfinder RPG Bestiary" ],
 		"members": [
@@ -6247,7 +6247,7 @@
 			"[Wax Golem](monster:Wax Golem)",
 			"[Wood Golem](monster:Wood Golem)"
 		],
-		"mythicMembers": [ "[Flesh Golem](monster:Flesh Golem)" ],
+		"mythic_members": [ "[Flesh Golem](monster:Flesh Golem)" ],
 		"text": [
 			"Source [Pathfinder RPG Bestiary](source:Pathfinder RPG Bestiary)",
 			"Golems are magically created automatons of great power. They stand apart from other constructs in the nature of their animating force-golems are granted their magical life via an elemental spirit, typically that of an earth elemental. The process of creating a golem binds the spirit to the artificial body, merging it with this specially prepared vessel and subjecting it to the will of the golem's creator.",
@@ -6285,8 +6285,8 @@
 			"**Construction** A shield guardian's base materials cost an additional 25,000 gp above the base golem's cost. The creature's master may assemble the body or hire someone else to do the job. The Craft check required to make the body is 4 higher than normal for the base golem's kind. The keyed amulet is fashioned at the same time-it costs 20,000 gp above and beyond the shield guardian's total cost. After the body is sculpted, the shield guardian is animated through an extended magical ritual that requires a specially prepared laboratory or workroom, similar to an alchemist's laboratory and costing 500 gp to establish. If the creator is personally constructing the creature's body, the building and the ritual can be performed together. The creator must have a minimum caster level of 2 higher than the base golem's minimum required caster level. In addition, the following spells are added to the base golem's requirements: discern location and either shield or shield other."
 		]
 	},
-	"Great Old One": {
-		"familyname": "Great Old One",
+	{
+		"family_name": "Great Old One",
 		"file": "monsterfamilies287c.html",
 		"sources": [ "Bestiary 4" ],
 		"members": [
@@ -6317,8 +6317,8 @@
 			"Bokrug, Cthulhu, and Hastur are but three of the Great Old Ones-countless others exist on distant worlds or other dimensions, yet are still able to influence the world through their dreams and cults. The central concept of the Great Old Ones was created by H. P. Lovecraft, one of the most influential writers of weird fiction-and horror fiction in general-of the 20th century. Lovecraft actively encouraged his writer friends to add to his mythos of creatures, and today we have Great Old Ones created not only by Lovecraft's contemporaries like Clark Ashton Smith, Robert E. Howard, Henry Kuttner, and August Derleth, but also by modern writers like Ramsey Campbell, Brian Lumley, and Stephen King. Chaosium's excellent Call of Cthulhu roleplaying game is a perfect place to start delving into the realm of Great Old Ones evoked in RPG form. By creating new Great Old Ones for your game, you can become part of a tradition of shared mythology nearly a century old!"
 		]
 	},
-	"Gremlin": {
-		"familyname": "Gremlin",
+	{
+		"family_name": "Gremlin",
 		"file": "monsterfamilies622c.html",
 		"sources": [ "Bestiary 2" ],
 		"members": [
@@ -6350,8 +6350,8 @@
 			"Other communities take a much more active path in ridding themselves of gremlins, training small animals like cats, dogs, falcons, or even weasels to seek out and attack gremlins on sight. Tiny trained animals can pursue gremlins into their cramped warrens with ease and, when their claws are fitted with cleverly constructed cold iron spikes, can inflict significant damage on a tribe of these creatures. Many gremlin tribes have learned from such tactics, however, and utilize trained (or not) animals in their own lairs for protection."
 		]
 	},
-	"Hag": {
-		"familyname": "Hag",
+	{
+		"family_name": "Hag",
 		"file": "monsterfamilies0733.html",
 		"sources": [ "Classic Horrors Revisited" ],
 		"members": [
@@ -6372,8 +6372,8 @@
 			"If dryads, nymphs, and sprites represent the grace and beauty of unspoiled nature, then surely the annis hag, green hag, and sea hag embody its savage, destructive side. Though not fey themselves, hags appear to be somehow tied to nature, even if no more than as a distorted reflection of it. Hags are foul, wicked creatures, warped with cruelty and evil. Uniformly female and invariably repulsive, these misshapen crones plot dark deeds over bubbling cauldrons, either singly or in sinister triads known as covens."
 		]
 	},
-	"Herald": {
-		"familyname": "Herald",
+	{
+		"family_name": "Herald",
 		"file": "monsterfamiliesc514.html",
 		"sources": [ "Inner Sea Gods" ],
 		"members": [
@@ -6413,8 +6413,8 @@
 			"- **Emissary (Ex)** Heralds can always be summoned by the faithful using greater planar ally or gate, regardless of limitations of that spell, even if it's not an outsider."
 		]
 	},
-	"Herd Animal": {
-		"familyname": "Herd Animal",
+	{
+		"family_name": "Herd Animal",
 		"file": "monsterfamilies94f1.html",
 		"sources": [ "Pathfinder RPG Bestiary" ],
 		"members": [
@@ -6433,8 +6433,8 @@
 			"**Note:** This family represents a group of similar monsters. No official description was provided."
 		]
 	},
-	"Hive": {
-		"familyname": "Hive",
+	{
+		"family_name": "Hive",
 		"file": "monsterfamilies2d16.html",
 		"sources": [ "Horror Adventures" ],
 		"members": [
@@ -6465,8 +6465,8 @@
 			"| Colossal | 2d8 |"
 		]
 	},
-	"Horsemen of the Apocalypse": {
-		"familyname": "Horsemen of the Apocalypse",
+	{
+		"family_name": "Horsemen of the Apocalypse",
 		"file": "monsterfamilies72f1.html",
 		"sources": [ "Bestiary 6" ],
 		"members": [
@@ -6486,8 +6486,8 @@
 			"Any Horseman can be contacted through [commune](unknown:commune) and can be called by a [gate](unknown:gate) spell, though they are under no compulsion to come through the latter. Typically the Horsemen require an enormously valuable offering or a tremendous amount of bloodshed in their name before accepting such an invitation."
 		]
 	},
-	"House Spirit": {
-		"familyname": "House Spirit",
+	{
+		"family_name": "House Spirit",
 		"file": "monsterfamiliesa688.html",
 		"sources": [
 			"Pathfinder #67: The Snows of Summer",
@@ -6508,8 +6508,8 @@
 			"These sometimes-helpful fey creatures known as house spirits bind themselves to rural families and live among them. Some bear a resemblance to the family's ancestors, a similarity that grows more obvious the longer they remain in the family's service. House spirits use their compression ability and invisibility to stay out of the sight of those among whom they live."
 		]
 	},
-	"Idol": {
-		"familyname": "Idol",
+	{
+		"family_name": "Idol",
 		"file": "monsterfamilies4441.html",
 		"sources": [ "Pathfinder #27: What Lies in Dust" ],
 		"members": [
@@ -6531,8 +6531,8 @@
 			"**Skills** In addition to the challenge of detecting a stationary idol, these constructs gain a +4 racial bonus on Stealth checks made to hide amid the materials that comprise their bodies."
 		]
 	},
-	"Inevitable": {
-		"familyname": "Inevitable",
+	{
+		"family_name": "Inevitable",
 		"file": "monsterfamilies3992.html",
 		"sources": [ "Bestiary 2" ],
 		"members": [
@@ -6576,8 +6576,8 @@
 			"While the lhaksharuts are generally thought of as the most powerful caste of inevitable, there exist others of even greater skill and strength-these are known as the primal inevitables. These goliaths were among the first weapons of war forged by the axiomites to fight the protean menace-the methods to create more have long been lost to the axiomites, and those few primals who remain alive to this day have become legendary. None have been encountered in living memory, but the possibility of a primal's emergence is enough to give the proteans second thoughts when ideas of invading the inevitables' home plane arise."
 		]
 	},
-	"Kaiju": {
-		"familyname": "Kaiju",
+	{
+		"family_name": "Kaiju",
 		"file": "monsterfamiliesec22.html",
 		"sources": [ "Bestiary 4" ],
 		"members": [
@@ -6623,8 +6623,8 @@
 			"Zimivra, the Endless Coils of the trackless desert"
 		]
 	},
-	"Kami": {
-		"familyname": "Kami",
+	{
+		"family_name": "Kami",
 		"file": "monsterfamilies9402.html",
 		"sources": [ "Bestiary 3" ],
 		"members": [
@@ -6660,8 +6660,8 @@
 			"The most powerful kami are known as kami lords. These mysterious and unique creatures are fantastically powerful, often on par with demigods or greater entities."
 		]
 	},
-	"Kyton": {
-		"familyname": "Kyton",
+	{
+		"family_name": "Kyton",
 		"file": "monsterfamilies2ecb.html",
 		"sources": [ "Bestiary 3" ],
 		"members": [
@@ -6708,8 +6708,8 @@
 			"- Vevelor of the Broken Dream"
 		]
 	},
-	"Kyton Demagogue": {
-		"familyname": "Kyton Demagogue",
+	{
+		"family_name": "Kyton Demagogue",
 		"file": "monsterfamiliesb671.html",
 		"sources": [ "Pathfinder #137: The City Outside of Time" ],
 		"members": [ "[Inkariax](monster:Inkariax)" ],
@@ -6718,8 +6718,8 @@
 			"**Note:** This family represents a group of similar monsters. No official description was provided."
 		]
 	},
-	"Leshy": {
-		"familyname": "Leshy",
+	{
+		"family_name": "Leshy",
 		"file": "monsterfamilies0db4.html",
 		"sources": [ "Bestiary 3" ],
 		"members": [
@@ -6761,8 +6761,8 @@
 			"Leshys with more Hit Dice than normal can be created. Each additional Hit Die adds 2,250 gp to the cost of creating the leshy (and thus 4,500 gp to the overall price), increases the DC of the Knowledge check by +2, and requires an additional 2 weeks of growth. Attempts to create leshys larger than Small always fail-the strange spiritual energies that animate these creatures are only capable of doing so to a body no larger than that of a human child."
 		]
 	},
-	"Linnorm": {
-		"familyname": "Linnorm",
+	{
+		"family_name": "Linnorm",
 		"file": "monsterfamilies1955.html",
 		"sources": [ "Bestiary 3" ],
 		"members": [
@@ -6803,8 +6803,8 @@
 			"**True Seeing (Ex)** A linnorm has continuous true seeing, as per the spell of the same name. This ability cannot be dispelled."
 		]
 	},
-	"Lurking Ray": {
-		"familyname": "Lurking Ray",
+	{
+		"family_name": "Lurking Ray",
 		"file": "monsterfamiliescfc8.html",
 		"sources": [ "Bestiary 4" ],
 		"members": [
@@ -6819,8 +6819,8 @@
 			"Though somewhat similar in appearance to stingrays or manta rays, lurking rays in fact represent their own unique branch of subterranean evolution- or arcane experimentation. Executioner's hoods are roughly a foot long and weigh 5 pounds, whereas adult lurkers above and trappers can grow to be 15 feet wide, with males weighing 500 pounds and females up to four times that."
 		]
 	},
-	"Lycanthrope": {
-		"familyname": "Lycanthrope",
+	{
+		"family_name": "Lycanthrope",
 		"file": "monsterfamiliesc814.html",
 		"sources": [ "Pathfinder RPG Bestiary" ],
 		"members": [
@@ -6882,8 +6882,8 @@
 			"A remove disease or heal spell cast by a cleric of 12th level or higher cures the affliction, provided the character receives the spell within 3 days of the infecting lycanthrope's attack. Alternatively, consuming a dose of wolfsbane (Pathfinder RPG Core Rulebook 560) gives an afflicted lycanthrope a new Fortitude save to recover from lycanthropy."
 		]
 	},
-	"Manasaputra": {
-		"familyname": "Manasaputra",
+	{
+		"family_name": "Manasaputra",
 		"file": "monsterfamiliesd444.html",
 		"sources": [ "Bestiary 5" ],
 		"members": [
@@ -6892,7 +6892,7 @@
 			"[Rishi Manu](monster:Rishi Manu)",
 			"[Twilight Pitri (Barhisad)](monster:Twilight Pitri (Barhisad))"
 		],
-		"mythicMembers": [ "[Solar Pitri (Agnishvatta)](monster:Solar Pitri (Agnishvatta))" ],
+		"mythic_members": [ "[Solar Pitri (Agnishvatta)](monster:Solar Pitri (Agnishvatta))" ],
 		"text": [
 			"Source [Bestiary 5](source:Bestiary 5)",
 			"For most creatures, the path to self-perfection ends as all mortal pursuits do: in death. For a few, however, the path to self-perfection ends with fiery rebirth in the heart of the Positive Energy Plane, where the souls of those not yet born fuse with the potential of those who-ve learned from lifetimes of reincarnation to form wholly new entities-the manasaputras. These outsiders continue their path to perfection by striving to achieve oneness with the universe, further evolving and discovering new cosmic truths, as well as guiding mortals on their paths to similar ends.",
@@ -6912,8 +6912,8 @@
 			"The Seven Kumaras, the most powerful of all manasaputras, exist at the heart of all creation, each exemplifying a facet of the multiverse. These enigmatic entities rarely leave the Cosmic Fire of the Positive Energy Plane, communing with this source of all life in the multiverse and witnessing events across all creation through psychic rapport with a consciousness they (and the like-minded aeons) refer to as the Logos."
 		]
 	},
-	"Megafauna": {
-		"familyname": "Megafauna",
+	{
+		"family_name": "Megafauna",
 		"file": "monsterfamiliesa308.html",
 		"sources": [ "Pathfinder RPG Bestiary" ],
 		"members": [
@@ -6940,8 +6940,8 @@
 			"**Note:** This family represents a group of similar monsters. No official description was provided."
 		]
 	},
-	"Mortic": {
-		"familyname": "Mortic",
+	{
+		"family_name": "Mortic",
 		"file": "monsterfamiliesbf7d.html",
 		"sources": [ "Pathfinder #139: The Dead Road" ],
 		"members": [
@@ -6957,8 +6957,8 @@
 			"<a href=\"monstersubtypesbf7d.html?ItemName=Mortic\"></a> Mortics are humanoids afflicted with the physiology and appetites of undead. All mortics are pulled between two worlds: as living humanoids, they crave community and friendship, but their necromantic nature forces them to indulge in inhuman hungers and commit violence against the living. As a result, most mortics lurk at the edge of civilization or isolate themselves with others of their own kind. Although living creatures, mortics can suspend their living processes temporarily, becoming more like undead."
 		]
 	},
-	"Naga": {
-		"familyname": "Naga",
+	{
+		"family_name": "Naga",
 		"file": "monsterfamiliese818.html",
 		"sources": [ "Pathfinder RPG Bestiary" ],
 		"members": [
@@ -6977,8 +6977,8 @@
 			"**Note:** This family represents a group of similar monsters. No official description was provided."
 		]
 	},
-	"Nightshade": {
-		"familyname": "Nightshade",
+	{
+		"family_name": "Nightshade",
 		"file": "monsterfamilies1bc5.html",
 		"sources": [ "Bestiary 2" ],
 		"members": [
@@ -7009,8 +7009,8 @@
 			"Yet even the dreaded nightwaves are not enough to fill the nightmares of great heroes. Rumors of more powerful nightshades are whispered fearfully in certain circles-creatures of such immense power that their mere existence can drain entire planets of life in a matter of weeks. If such monstrosities truly exist, then all life may be but a fleeting spark in the dark folds of a forever-doomed future."
 		]
 	},
-	"Ogrekin": {
-		"familyname": "Ogrekin",
+	{
+		"family_name": "Ogrekin",
 		"file": "monsterfamilies77b1.html",
 		"sources": [ "Bestiary 2" ],
 		"members": [
@@ -7025,8 +7025,8 @@
 			"The result of an unfortunate union between an ogre and a humanoid, the ogrekin (or half-ogre) is cursed with horrific malformations due to its tragic ancestry. Shunned by both parents, ogrekin tend to form unstable clans of their own, often resorting to inbreeding to sustain the collective. While good-natured ogrekin are not entirely unheard of, they are far and few between."
 		]
 	},
-	"Oni": {
-		"familyname": "Oni",
+	{
+		"family_name": "Oni",
 		"file": "monsterfamilies4db8.html",
 		"sources": [ "Bestiary 3" ],
 		"members": [
@@ -7075,8 +7075,8 @@
 			"- Yabu, Lord of the Kazan Caldera (fire oni)"
 		]
 	},
-	"Ossumental": {
-		"familyname": "Ossumental",
+	{
+		"family_name": "Ossumental",
 		"file": "monsterfamilies21d1.html",
 		"sources": [ "Pathfinder #83: The Slave Trenches of Hakotep" ],
 		"members": [
@@ -7090,8 +7090,8 @@
 			"**Note:** This family represents a group of similar monsters. No official description was provided."
 		]
 	},
-	"Phantom Armor": {
-		"familyname": "Phantom Armor",
+	{
+		"family_name": "Phantom Armor",
 		"file": "monsterfamiliesf9bf.html",
 		"sources": [ "Pathfinder #47: Ashes at Dawn" ],
 		"members": [
@@ -7107,11 +7107,11 @@
 			"Phantom armors come in many shapes and sizes; some appear to be nothing more than animate helms while others resemble armored giants."
 		]
 	},
-	"Plague Swarm": {
-		"familyname": "Plague Swarm",
+	{
+		"family_name": "Plague Swarm",
 		"file": "monsterfamilies6217.html",
 		"sources": [ "Bestiary 5" ],
-		"mythicMembers": [
+		"mythic_members": [
 			"[Bat Plague Swarm](monster:Bat Plague Swarm)",
 			"[Locust Plague Swarm](monster:Locust Plague Swarm)",
 			"[Rat Plague Swarm](monster:Rat Plague Swarm)"
@@ -7137,8 +7137,8 @@
 			"**Reform (Su)** When a plague swarm is dispersed by damage, it is not destroyed. A dispersed plague swarm reforms in 24 hours. Each plague swarm has a unique destruction condition. In addition, because plague swarms are manifestations of divine retribution, placating the deity's rage destroys the swarm instantly."
 		]
 	},
-	"Poppet": {
-		"familyname": "Poppet",
+	{
+		"family_name": "Poppet",
 		"file": "monsterfamilies727b.html",
 		"sources": [ "Adventurer's Armory 2" ],
 		"members": [
@@ -7150,8 +7150,8 @@
 			"Humanoid in shape and constructed of base materials, poppets are designed to accompany explorers into dangerous places and help with simple tasks."
 		]
 	},
-	"Primeval Sea Creature": {
-		"familyname": "Primeval Sea Creature",
+	{
+		"family_name": "Primeval Sea Creature",
 		"file": "monsterfamiliese918.html",
 		"sources": [ "Pathfinder #60: From Hell's Heart" ],
 		"members": [
@@ -7164,8 +7164,8 @@
 			"**Note:** This family represents a group of similar monsters. No official description was provided."
 		]
 	},
-	"Protean": {
-		"familyname": "Protean",
+	{
+		"family_name": "Protean",
 		"file": "monsterfamilies681d.html",
 		"sources": [ "Bestiary 2" ],
 		"members": [
@@ -7231,8 +7231,8 @@
 			"| 20 | Portions of target's body burst with energy of a random type  (choose between acid, cold, electricity, or fire), dealing 4d6 points of damage of the appropriate type to the target. |"
 		]
 	},
-	"Psychopomp": {
-		"familyname": "Psychopomp",
+	{
+		"family_name": "Psychopomp",
 		"file": "monsterfamilies01d9.html",
 		"sources": [ "Bestiary 4" ],
 		"members": [
@@ -7287,8 +7287,8 @@
 			"[Vale the Court of Ancestors](deity:Vale)"
 		]
 	},
-	"Qlippoth": {
-		"familyname": "Qlippoth",
+	{
+		"family_name": "Qlippoth",
 		"file": "monsterfamilies3d0f.html",
 		"sources": [ "Bestiary 2" ],
 		"members": [
@@ -7330,8 +7330,8 @@
 			"Yet the power granted by mortal worship can have a curious effect on a qlippoth-it can, in a way, infect it with the sins of its worshipers. Qlippoth who become so infected are either murdered by their kin or forced to flee to the upper realms of the Abyss, where they complete their transformation and, instead of remaining qlippoth lords, become demon lords. One can know the nature of a demon lord that began life as a qlippoth most easily by its shape-those demon lords, such as ichthyic Dagon or foul and festering Jubilex, bear little or no sign of a humanoid frame."
 		]
 	},
-	"Qlippoth Lord": {
-		"familyname": "Qlippoth Lord",
+	{
+		"family_name": "Qlippoth Lord",
 		"file": "monsterfamiliesbae8.html",
 		"sources": [ "Bestiary 6" ],
 		"members": [
@@ -7354,8 +7354,8 @@
 			"The four qlippoth lords presented on the following pages have interests in multiple Material Plane worlds. Others, such as the Polymorph Plague Yamasoth, the Warmonger Queen Shiggarreb, and the Enigma Clot Aonaurious, have focused their wrath on specific worlds or have yet to fully emerge from the deepest recesses of the Abyss to turn their attentions to the worlds beyond, and are not detailed in this book."
 		]
 	},
-	"Rakshasa": {
-		"familyname": "Rakshasa",
+	{
+		"family_name": "Rakshasa",
 		"file": "monsterfamilies5da9.html",
 		"sources": [ "Bestiary 3" ],
 		"members": [
@@ -7405,8 +7405,8 @@
 			"- Zabha the Desecrator"
 		]
 	},
-	"Robot": {
-		"familyname": "Robot",
+	{
+		"family_name": "Robot",
 		"file": "monsterfamilies338d.html",
 		"sources": [
 			"Inner Sea Bestiary",
@@ -7479,8 +7479,8 @@
 			"Constructing a robot requires no magic, but does involve advanced and extraordinarily rare materials and technological expertise. Because almost no one possesses the skills and materials to complete the process of constructing a robot, these entries omit the construction sections provided for most constructs. A GM can add the robot subtype to a different type of construct, such as an animated object or homunculus, to create new types of robots. Typically, this doesn't alter the construct's CR. A character can't create a robot from or add the robot subtype to a construct that has already been created; adding the [robot subtype](unknown:robot subtype) to an existing creature is purely a means for the GM to simulate additional robots beyond those provided here."
 		]
 	},
-	"Rot Grub": {
-		"familyname": "Rot Grub",
+	{
+		"family_name": "Rot Grub",
 		"file": "monsterfamiliesfa5c.html",
 		"sources": [ "Pathfinder #25: The Bastards of Erebus" ],
 		"members": [
@@ -7503,8 +7503,8 @@
 			"Since rot grubs only feed on living flesh and use dead flesh as an incubator, undead are not harmed by infestations of the parasites. A corporeal, non-skeletal undead infested with rot grubs transfers one rot grub to any creature that touches it or to any creature it strikes with a touch attack or with any natural attack. The target may make a DC 15 Reflex save to avoid being infested, but otherwise is immediately subjected to a single grub burrowing through his flesh. A rot-grub-infested undead's CR increases by +1."
 		]
 	},
-	"Sahkil": {
-		"familyname": "Sahkil",
+	{
+		"family_name": "Sahkil",
 		"file": "monsterfamilies3898.html",
 		"sources": [ "Bestiary 5" ],
 		"members": [
@@ -7535,8 +7535,8 @@
 			"The sahkil are not without allies, though. [Divs](unknown:Divs), in their campaigns to spread misfortune and ruin among mortals, respect the motivations of sahkils and sometimes work with them to spread fear. Equally nihilistic, the end-seeking [daemons](unknown:daemons) delight in sahkil destruction of mortal souls and their hastening of the end times. [Kytons](unknown:Kytons), too, have a distant admiration for the avant-garde masterpieces of insanity and terror that sahkils work upon mortal minds."
 		]
 	},
-	"Siktempora": {
-		"familyname": "Siktempora",
+	{
+		"family_name": "Siktempora",
 		"file": "monsterfamilies3049.html",
 		"sources": [ "Pathfinder #135: Runeplague" ],
 		"members": [ "[Misery Siktempora](monster:Misery Siktempora)" ],
@@ -7551,8 +7551,8 @@
 			"- Temporal sense ability"
 		]
 	},
-	"Skeleton": {
-		"familyname": "Skeleton",
+	{
+		"family_name": "Skeleton",
 		"file": "monsterfamiliesca0a.html",
 		"sources": [ "Pathfinder RPG Bestiary" ],
 		"members": [
@@ -7669,8 +7669,8 @@
 			"**Fiery Death (Su):** A burning skeleton explodes into a burst of flame when it dies. Anyone adjacent to the skeleton when it is destroyed takes 1d6 points of fire damage per 2 Hit Dice the skeleton possessed (minimum 1d6). A Reflex save (DC = 10 + 1/2 the skeleton's Hit Dice + the skeleton's Cha bonus) halves this damage."
 		]
 	},
-	"Spawn of Rovagug": {
-		"familyname": "Spawn of Rovagug",
+	{
+		"family_name": "Spawn of Rovagug",
 		"file": "monsterfamiliescc76.html",
 		"sources": [ "Inner Sea Bestiary" ],
 		"members": [
@@ -7701,8 +7701,8 @@
 			"**Unstoppable Force (Ex)** A spawn of Rovagug can always charge, even if its movement is impeded or its path is blocked by another creature. It receives a +20 racial bonus on combat maneuver checks to overrun and Strength checks to break or destroy objects, and can make one such check as a free action as part of a charge. In addition, the natural weapons of a spawn of Rovagug ignore all forms of damage reduction and hardness."
 		]
 	},
-	"Sphinx": {
-		"familyname": "Sphinx",
+	{
+		"family_name": "Sphinx",
 		"file": "monsterfamilies4bdb.html",
 		"sources": [ "Bestiary 3" ],
 		"members": [
@@ -7736,8 +7736,8 @@
 			"These elder sphinxes may be androsphinxes or gynosphinxes, or very rarely criosphinxes. They have at minimum the advanced template, many additional Hit Dice, and a size of at least Huge (and more often Gargantuan or Colossal). They can use commune, contact other plane, and legend lore as spell-like abilities once each per day (CL equals the sphinx's CR), and frequently possess other powers and special attacks. Many such sphinxes can enter a state of stony suspended animation that resembles the freeze special ability, though they cannot easily rouse themselves from such slumber. Other sphinxes, even the bestial hieracosphinxes, defer to elder sphinxes in all matters, treating them almost as gods."
 		]
 	},
-	"Thassilonian Sentinel": {
-		"familyname": "Thassilonian Sentinel",
+	{
+		"family_name": "Thassilonian Sentinel",
 		"file": "monsterfamilies0057.html",
 		"sources": [ "Pathfinder #134: It Came from Hollow Mountain" ],
 		"members": [
@@ -7753,8 +7753,8 @@
 			"At least a dozen varieties of sentinel pervaded long-vanished Thassilon. All of these varieties were crafted from materials that wouldn't be out of place as a medium for sculpting or casting. Though the practice of creating these constructs largely died out along with the empire at Earthfall, explorers delving into forgotten ruins sometimes encounter sentinels that still function."
 		]
 	},
-	"Thriae": {
-		"familyname": "Thriae",
+	{
+		"family_name": "Thriae",
 		"file": "monsterfamilies9821.html",
 		"sources": [ "Bestiary 3" ],
 		"members": [
@@ -7781,8 +7781,8 @@
 			"To non-thriae, merope generally has similar effects to strong alcohol. The substance can be addicting to the weak-willed, and those who begin to rely on merope quickly become addicted thralls and servants bound to servitude within a hive. Some thriae claim to have developed merope with the ability to affect non-thriae with more potent effects, but such claims are regarded as something between blasphemy and treason by most thriae hives."
 		]
 	},
-	"Titan": {
-		"familyname": "Titan",
+	{
+		"family_name": "Titan",
 		"file": "monsterfamiliesd8fa.html",
 		"sources": [ "Bestiary 2" ],
 		"members": [
@@ -7790,7 +7790,7 @@
 			"[Hekatonkheires](monster:Hekatonkheires)",
 			"[Thanatotic](monster:Thanatotic)"
 		],
-		"mythicMembers": [
+		"mythic_members": [
 			"[Danava](monster:Danava)",
 			"[Fomorian Titan](monster:Fomorian Titan)"
 		],
@@ -7799,8 +7799,8 @@
 			"**Note:** This family represents a group of similar monsters. No official description was provided."
 		]
 	},
-	"Troll": {
-		"familyname": "Troll",
+	{
+		"family_name": "Troll",
 		"file": "monsterfamilies358f.html",
 		"sources": [ "Pathfinder RPG Bestiary" ],
 		"members": [
@@ -7829,8 +7829,8 @@
 			"**Note:** This family represents a group of similar monsters. No official description was provided."
 		]
 	},
-	"Troop": {
-		"familyname": "Troop",
+	{
+		"family_name": "Troop",
 		"file": "monsterfamiliesc9d6.html",
 		"sources": [ "Bestiary 6" ],
 		"members": [
@@ -7849,8 +7849,8 @@
 			"Troops can be created in innumerable variations, and you should feel free to use the three examples on the following pages as inspiration for the creation of troops of your own design. Troops are not as meant as exact simulations of tactical warfare, and when creating them you should not be overly concerned with trying to emulate the compounded abilities of the troop's component individuals. Troops are created just like other creatures of their creature type, with basic elements such as Hit Dice and statistics assigned so the completed troop conforms to the approximate hit points, Armor Class, and other values for its desired Challenge Rating as found Appendix 9: Monsters by CR, which begins on page 313. Once that foundation is established, apply the subtype rules and use the examples and variations provided here to finetune it with flavorful abilities and feats that approximate how a homogenous group of creatures of this sort might fight. With troops at your command, PCs may think twice next time they encounter a seemingly outmatched group of opponents."
 		]
 	},
-	"Troops": {
-		"familyname": "Troops",
+	{
+		"family_name": "Troops",
 		"file": "monsterfamilies4b5d.html",
 		"sources": [ "Pathfinder #100: A Song of Silver" ],
 		"members": [
@@ -7895,8 +7895,8 @@
 			"**Looting Troops:** Although troops are composed of a number of individual creatures, the chaos and destruction of battle means that not all of these creatures' equipment survives the rigors of combat. As a result, parties who wish to claim usable gear or treasure from slain foes treat a troop as a single creature for the purposes of looting, and should be able to recover gear worth a total value equal to the troop's expected treasure value (as determined by the troop's CR)."
 		]
 	},
-	"Tsukumogami": {
-		"familyname": "Tsukumogami",
+	{
+		"family_name": "Tsukumogami",
 		"file": "monsterfamilies4d07.html",
 		"sources": [ "Bestiary 5" ],
 		"members": [
@@ -7909,8 +7909,8 @@
 			"When an object reaches the 100-year anniversary of its crafting, sometimes it forms an amalgam with a [kami](unknown:kami), creating a creature known as a tsukumogami. Tsukumogami run the gamut in personality, outlook, and function. Objects that are well kept and cared for often form curious and helpful tsukumogami. Most commonly, tsukumogami are mischievous and frightening but not actually malign. Tsukumogami formed from objects that have been abandoned, neglected, or misused are dangerous both to the humans around and to themselves, as their uncontrolled rage might eventually transform them into [oni](unknown:oni)."
 		]
 	},
-	"Vampire Servant": {
-		"familyname": "Vampire Servant",
+	{
+		"family_name": "Vampire Servant",
 		"file": "monsterfamiliesdcdd.html",
 		"sources": [ "Monster Codex" ],
 		"members": [
@@ -7922,8 +7922,8 @@
 			"A vampire often needs mortal minions-especially during the day, when it must retreat to its coffin for safety."
 		]
 	},
-	"Veela": {
-		"familyname": "Veela",
+	{
+		"family_name": "Veela",
 		"file": "monsterfamilies892c.html",
 		"sources": [ "Bestiary 5" ],
 		"members": [
@@ -7939,8 +7939,8 @@
 			"A veela typically stands just under 6 feet tall and weighs approximately 140 pounds."
 		]
 	},
-	"Wild Hunt": {
-		"familyname": "Wild Hunt",
+	{
+		"family_name": "Wild Hunt",
 		"file": "monsterfamilies4e9b.html",
 		"sources": [ "Bestiary 6" ],
 		"members": [
@@ -7971,8 +7971,8 @@
 			"Traditionally, the fey of the wild hunt consist of five distinct races. While these five types of fey can be encountered alone or in small groups, they are at their most dangerous when banded together into a true wild hunt. This gathering of fey consists of a specific number and combination: one wild hunt monarch, one wild hunt scout, three wild hunt archers, three wild hunt horses, and four wild hunt hounds. As a whole, this dangerous group constitutes a CR 21 encounter, and thus could make an excellent capstone encounter for a campaign."
 		]
 	},
-	"Wysp": {
-		"familyname": "Wysp",
+	{
+		"family_name": "Wysp",
 		"file": "monsterfamilies087b.html",
 		"sources": [ "Bestiary 5" ],
 		"members": [
@@ -8007,4 +8007,4 @@
 			"**Servitor (Ex)** A wysp is a natural servitor. When it uses the aid another action to assist a creature benefiting from its resonance, the wisp can grant that creature a +4 bonus instead of +2. No other effect can increase this bonus beyond +4."
 		]
 	}
-}
+]
