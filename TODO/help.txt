@@ -1,15 +1,16 @@
-foreach ($file in get-childitem ../cur*.html) { git mv ../$file ./curses }; foreach ($file in get-childitem ../mad*.html) { git mv ../$file ./madness }
+foreach ($file in get-childitem ./cur*.html) { git mv $file ./TODO/curses/ }; foreach ($file in get-childitem ./mad*.html) { git mv $file ./TODO/madness/ }
+foreach ($file in get-childitem ./mad*.html) { git mv $file ./TODO/madness/ ; echo "mv $file ./TODO/madness/" }
 
 
-foreach ($file in get-childitem ../con*.html) { git mv ../$file ./constructmods }; foreach ($file in get-childitem ../corr*.html) { git mv ../$file ./corruptions }; foreach ($file in get-childitem ../disea*.html) { git mv ../$file ./diseases }; foreach ($file in get-childitem ../drug*.html) { git mv ../$file ./drugs }; foreach ($file in get-childitem ../haunt*.html) { git mv ../$file ./haunts }; foreach ($file in get-childitem ../hell*.html) { git mv ../$file ./hellknightorders }
+foreach ($file in get-childitem ./con*.html) { git mv $file ./TODO/constructmods/ }; foreach ($file in get-childitem ./corr*.html) { git mv $file ./TODO/corruptions/ }; foreach ($file in get-childitem ./disea*.html) { git mv $file ./TODO/diseases/ }; foreach ($file in get-childitem ./drug*.html) { git mv $file ./TODO/drugs/ }; foreach ($file in get-childitem ./haunt*.html) { git mv $file ./TODO/haunts/ }; foreach ($file in get-childitem ./hell*.html) { git mv $file ./TODO/hellknightorders/ }
 
-foreach ($file in get-childitem ../myth*.html) { git mv ../$file ./mythicpaths }; foreach ($file in get-childitem ../path*.html) { git mv ../$file ./mythicpaths }; foreach ($file in get-childitem ../occ*.html) { git mv ../$file ./occultrituals }; foreach ($file in get-childitem ../poi*.html) { git mv ../$file ./poisons }; foreach ($file in get-childitem ../pres*.html) { git mv ../$file ./prestigeclasses }
+foreach ($file in get-childitem ./myth*.html) { git mv $file ./TODO/mythicpaths/ }; foreach ($file in get-childitem ./path*.html) { git mv $file ./TODO/mythicpaths/ }; foreach ($file in get-childitem ./occ*.html) { git mv $file ./TODO/occultrituals/ }; foreach ($file in get-childitem ./poi*.html) { git mv $file ./TODO/poisons/ }; foreach ($file in get-childitem ./pres*.html) { git mv $file ./TODO/prestigeclasses/ }
 
-foreach ($file in get-childitem ../psi*.html) { git mv ../$file ./psitech }; foreach ($file in get-childitem ../races*.html) { git mv ../$file ./races }; foreach ($file in get-childitem ../reli*.html) { git mv ../$file ./relics }; foreach ($file in get-childitem ../shadow*.html) { git mv ../$file ./shadowpiercings }; foreach ($file in get-childitem ../skil*.html) { git mv ../$file ./skills }; foreach ($file in get-childitem ../spellb*.html) { git mv ../$file ./spellbooks }; foreach ($file in get-childitem ../spelldef*.html) { git mv ../$file ./spelldefinitions }; foreach ($file in get-childitem ../traps*.html) { git mv ../$file ./traps }; foreach ($file in get-childitem ../umr*.html) { git mv ../$file ./umr }
+foreach ($file in get-childitem ./psi*.html) { git mv $file ./TODO/psitech/ }; foreach ($file in get-childitem ./races*.html) { git mv $file ./TODO/races/ }; foreach ($file in get-childitem ./reli*.html) { git mv $file ./TODO/relics/ }; foreach ($file in get-childitem ./shadow*.html) { git mv $file ./TODO/shadowpiercings/ }; foreach ($file in get-childitem ./skil*.html) { git mv $file ./TODO/skills/ }; foreach ($file in get-childitem ./spellb*.html) { git mv $file ./TODO/spellbooks/ }; foreach ($file in get-childitem ./spelldef*.html) { git mv $file ./TODO/spelldefinitions/ }; foreach ($file in get-childitem ./traps*.html) { git mv $file ./TODO/traps/ }; foreach ($file in get-childitem ./umr*.html) { git mv $file ./TODO/umr/ }
 
-foreach ($file in get-childitem ../npc*.html) { git mv ../$file ./npcs }
+foreach ($file in get-childitem ./npc*.html) { git mv $file ./TODO/npcs/ }
 
-foreach ($file in get-childitem ../rules*.html) { git mv ../$file ./rules }
+foreach ($file in get-childitem ./rules*.html) { git mv $file ./TODO/rules/ }
 
 
 
@@ -19,46 +20,46 @@ md constructmods; md corruptions; md diseases; md drugs; md haunts; md hellknigh
 
 
 
-foreach ($file in get-childitem ../con*.html) { git mv ../$file ./constructmods }
+foreach ($file in get-childitem ./con*.html) { git mv $file ./TODO/constructmods/ }
 
-foreach ($file in get-childitem ../corr*.html) { git mv ../$file ./corruptions }
+foreach ($file in get-childitem ./corr*.html) { git mv $file ./TODO/corruptions/ }
 
-foreach ($file in get-childitem ../disea*.html) { git mv ../$file ./diseases }
+foreach ($file in get-childitem ./disea*.html) { git mv $file ./TODO/diseases/ }
 
-foreach ($file in get-childitem ../drug*.html) { git mv ../$file ./drugs }
+foreach ($file in get-childitem ./drug*.html) { git mv $file ./TODO/drugs/ }
 
-foreach ($file in get-childitem ../haunt*.html) { git mv ../$file ./haunts }
+foreach ($file in get-childitem ./haunt*.html) { git mv $file ./TODO/haunts/ }
 
-foreach ($file in get-childitem ../hell*.html) { git mv ../$file ./hellknightorders }
+foreach ($file in get-childitem ./hell*.html) { git mv $file ./TODO/hellknightorders/ }
 
-foreach ($file in get-childitem ../myth*.html) { git mv ../$file ./mythicpaths }
+foreach ($file in get-childitem ./myth*.html) { git mv $file ./TODO/mythicpaths/ }
 
-foreach ($file in get-childitem ../path*.html) { git mv ../$file ./mythicpaths }
+foreach ($file in get-childitem ./path*.html) { git mv $file ./TODO/mythicpaths/ }
 
-foreach ($file in get-childitem ../occ*.html) { git mv ../$file ./occultrituals }
+foreach ($file in get-childitem ./occ*.html) { git mv $file ./TODO/occultrituals/ }
 
-foreach ($file in get-childitem ../poi*.html) { git mv ../$file ./poisons }
+foreach ($file in get-childitem ./poi*.html) { git mv $file ./TODO/poisons/ }
 
-foreach ($file in get-childitem ../pres*.html) { git mv ../$file ./prestigeclasses }
+foreach ($file in get-childitem ./pres*.html) { git mv $file ./TODO/prestigeclasses/ }
 
-foreach ($file in get-childitem ../psi*.html) { git mv ../$file ./psitech }
+foreach ($file in get-childitem ./psi*.html) { git mv $file ./TODO/psitech/ }
 
-foreach ($file in get-childitem ../races*.html) { git mv ../$file ./races }
+foreach ($file in get-childitem ./races*.html) { git mv $file ./TODO/races/ }
 
-foreach ($file in get-childitem ../reli*.html) { git mv ../$file ./relics }
+foreach ($file in get-childitem ./reli*.html) { git mv $file ./TODO/relics/ }
 
-foreach ($file in get-childitem ../shadow*.html) { git mv ../$file ./shadowpiercings }
+foreach ($file in get-childitem ./shadow*.html) { git mv $file ./TODO/shadowpiercings/ }
 
-foreach ($file in get-childitem ../skil*.html) { git mv ../$file ./skills }
+foreach ($file in get-childitem ./skil*.html) { git mv $file ./TODO/skills/ }
 
-foreach ($file in get-childitem ../spellb*.html) { git mv ../$file ./spellbooks }
+foreach ($file in get-childitem ./spellb*.html) { git mv $file ./TODO/spellbooks/ }
 
-foreach ($file in get-childitem ../spelldef*.html) { git mv ../$file ./spelldefinitions }
+foreach ($file in get-childitem ./spelldef*.html) { git mv $file ./TODO/spelldefinitions/ }
 
-foreach ($file in get-childitem ../traps*.html) { git mv ../$file ./traps }
+foreach ($file in get-childitem ./traps*.html) { git mv $file ./TODO/traps/ }
 
-foreach ($file in get-childitem ../umr*.html) { git mv ../$file ./umr }
+foreach ($file in get-childitem ./umr*.html) { git mv $file ./TODO/umr/ }
 
-foreach ($file in get-childitem ../npc*.html) { git mv ../$file ./npcs }
+foreach ($file in get-childitem ./npc*.html) { git mv $file ./TODO/npcs/ }
 
-foreach ($file in get-childitem ../rules*.html) { git mv ../$file ./rules }
+foreach ($file in get-childitem ./rules*.html) { git mv $file ./TODO/rules/ }
