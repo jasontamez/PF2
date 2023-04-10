@@ -1,7 +1,7 @@
 # TO-DO
 
 * equipment/vehicles need to be parsed
-* DIVINE FIGHTING TECHNIQUES
+* ~~DIVINE FIGHTING TECHNIQUES~~
 * class files needing parsing:
   * ~~alchemist (?)~~
   * ~~arcanist exploits (?)~~

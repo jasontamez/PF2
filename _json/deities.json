@@ -102,7 +102,19 @@
 			"- I am an aid to the markets. I ensure equitable trade between merchants and citizens. Theft and deceit on either side are intolerable.",
 			"- I make opportunities, and teach others to recognize them. When I aid others, I open the way for them, but will not carry them-they must take responsibility."
 		],
-		"divine_fightning_technique": [],
+		"divine_fightning_technique": {
+			"technique_name": "Abadar's Crossbow",
+			"sources": [ "Weapon Master's Handbook" ],
+			"description": "Abadar teaches complex crossbow techniques.",
+			"initial_benefit": "You can attempt a ranged steal combat maneuver check with a crossbow, using your Dexterity modifier in place of your Strength modifier to calculate your Combat Maneuver Bonus. If you succeed, the stolen item is knocked away by the bolt; if the bolt can pierce any part of the item and the item weighs 2 pounds or less, the bolt continues past the creature and carries the item up to one range increment away, pinning it to whatever surface it lands on.",
+			"advanced_prerequisites": [
+				{
+					"feat": "Rapid Reload",
+					"base_attack_bonus": 10
+				}
+			],
+			"advanced_benefit": "When fighting a foe adjacent to a firm surface, you can attempt a ranged dirty trick combat maneuver check with a crossbow, using your Dexterity modifier in place of your Strength modifier to calculate your Combat Maneuver Bonus. If you succeed, your bolt pins the target's clothing (or feathers, hide, or the like) to the surface, preventing the target from leaving that space until it breaks free by destroying the bolt or removing it with a successful Strength check (DC = the result of your combat maneuver check to pin it)."
+		},
 		"for_followers": [
 			"**For Followers of Abadar**",
 			"**Archetypes**",
@@ -3074,7 +3086,32 @@
 				"**3: Diabolical Resistances (Su)** Your dark patron rewards your faith with a few drops of devilish blood in your veins, granting you a measure of the resilience enjoyed by devilkind. Your skin takes on a ruddy cast, and your teeth grow slightly sharper. To a casual observer you may look no different, but anyone who studies you closely notices these traits. You gain fire resistance 10 and a +4 profane bonus on saving throws against poison."
 			]
 		},
-		"divine_fightning_technique": [],
+		"divine_fightning_technique": {
+			"technique_name": "Asmodeus's Mandate",
+			"sources": [ "Divine Anthology" ],
+			"description": "Although soldiers and mercenaries alike in Cheliax claim that the martial techniques detailed within Wrath and Punishment, the most well-known fighting manual of the Church of Asmodeus, are as old as time itself, martial experts across the Inner Sea region note that Wrath and Punishment is less than 3 decades old. Of course, few in Cheliax dare to publicly make such claims. Outside of Cheliax, copies of Wrath and Punishment tend to be found in Hellknight enclaves.",
+			"initial_benefit": "Whenever you threaten a critical hit with a light mace or heavy mace on a foe, that foe becomes sickened for 1 round. If you confirm the critical hit, the sickened effect lasts for 2 rounds. The duration of the sickened effect doesn't stack with multiple critical threats.",
+			"advanced_prerequisites": [
+				{
+					"intelligence_score": 13,
+					"feat_all": [
+						"Combat Expertise",
+						"Divine Fighting Technique",
+						"Improved Feint"
+					],
+					"either": [
+						{
+							"base_attack_bonus": 10
+						},
+						{
+							"skill": "Bluff",
+							"ranks": 10
+						}
+					]
+				}
+			],
+			"advanced_benefit": "An opponent that you hit with a light mace or heavy mace who is denied his Dexterity bonus to AC is also hindered by the attack. You can attempt a dirty trick combat maneuver check as a swift action that doesn't provoke an attack of opportunity immediately after damage from the attack is resolved."
+		},
 		"for_followers": [
 			"**For Followers of Asmodeus**",
 			"**Archetypes**",
@@ -3385,7 +3422,7 @@
 				"**Exalted**",
 				"**Source** [Book of the Damned pg. 28](source:Book of the Damned)",
 				"**1: Flies of the Seventh (Sp)** decompose corpse 3/day, haunting mists 2/day, distracting cacophony 1/day",
-				"**2: Master of the Multitudes (Sp)** The Lord of Flies happily lends you his hellish servants to further your unholy cause and, of course, his own glory. Once per day, you can summon a swarm of blood-sucking flies to consume your enemies. This functions as per >summon monster VII, except you can summon only a single swarm of blood-draining flies. Treat this swarm as a tick swarm with the fiendish template and a fly speed of 50 feet (perfect maneuverability).",
+				"**2: Master of the Multitudes (Sp)** The Lord of Flies happily lends you his hellish servants to further your unholy cause and, of course, his own glory. Once per day, you can summon a swarm of blood-sucking flies to consume your enemies. This functions as per [summon monster VII](spell:summon monster VII), except you can summon only a single swarm of blood-draining flies. Treat this swarm as a tick swarm with the fiendish template and a fly speed of 50 feet (perfect maneuverability).",
 				"**3: Consume Divine Flesh (Su)** You relish the thought of the dying Azhia hanging in Baalzebul's home, hellish flies feasting on the forgotten god's flesh for eternity. Your obsession with this macabre act has imbued you with mind-warping abilities to make Baalzebul proud. Three times per day as a standard action, you can target a single living creature within 60 feet. If this creature fails a Will saving throw (DC = 10 + half your Hit Dice + your Wisdom modifier), it believes that flies and maggots are infesting its flesh, and it can take no actions for a full round as it claws at its flesh in terror. The imagined pain deals an amount of damage equal to 1d6 per Hit Die you have (maximum 20d6). The target can negate this effect with a successful Will saving throw. This is a mind-affecting effect. This ability has no effect on creatures that don't have flesh.",
 				"**Sentinel**",
 				"**Source** [Book of the Damned pg. 28](source:Book of the Damned)",
@@ -4186,7 +4223,14 @@
 				"**2: Doom of Sailors (Sp)** You can immobilize ships or scatter a fleet with a wave of your hand. Once per day, you can cast either control water or control winds.",
 				"**3: Pirate Queen's Curse (Su)** You know that the Pirate Queen's enemies are destined to suffer, and you can deliver her wrath personally. Three times per day, you can channel a curse through your weapon. You must declare your use of this ability before you make the attack roll. On a hit, the target is cursed unless it succeeds at a Will saving throw to negate the effect (DC = 10 + 1/2 your Hit Dice + your Charisma modifier). The curse causes the target to be sickened for a number of days equal to your Hit Dice; furthermore, during this period, any creatures flanking the target or against which it is denied its Dexterity bonus to AC deal an additional 1d6 points of damage with every successful hit. This extra damage applies to the attack that delivers the curse. In addition, all creatures with a swim speed have a starting attitude of hostile toward the target. This is a 7th-level curse effect. The curse cannot be dispelled, but it can be removed through break enchantment, limited wish, miracle, remove curse, or wish.",
 				"**Antipaladin Code**",
-				"Antipaladins of Besmara are cutthroat pirates, freely roaming where they will and seizing whatever interests them. They primarily emulate their goddess's violent aspects, but different antipaladins focus on varied aspects of Besmara's code. The code of Besmara's antipaladins includes the following adages. <ul><li>I pursue what I desire. One who cannot keep it from me does not deserve to possess it.</li><li>Treasure demonstrates my might. I won't waste my time on schemes with no profit to be had.</li><li>No trick is beneath me. I will never forgo an advantage in the name of fairness.</li><li>Pride does not shackle me. I retreat if I must to survive for another day.</li><li>The weak serve the strong. I will never let my crew forget or doubt my strength.</li><li>Revenge can be delayed to keep the ship sailing. Crew members who cross me shall die onshore; foes can be useful allies under changed circumstances.</li><li>I will suffer no restraint. Those who seek to pacify me will fall broken in my wake.</li></ul>"
+				"Antipaladins of Besmara are cutthroat pirates, freely roaming where they will and seizing whatever interests them. They primarily emulate their goddess's violent aspects, but different antipaladins focus on varied aspects of Besmara's code. The code of Besmara's antipaladins includes the following adages.",
+				"* I pursue what I desire. One who cannot keep it from me does not deserve to possess it.",
+				"* Treasure demonstrates my might. I won't waste my time on schemes with no profit to be had.",
+				"* No trick is beneath me. I will never forgo an advantage in the name of fairness.",
+				"* Pride does not shackle me. I retreat if I must to survive for another day.",
+				"* The weak serve the strong. I will never let my crew forget or doubt my strength.",
+				"* Revenge can be delayed to keep the ship sailing. Crew members who cross me shall die onshore; foes can be useful allies under changed circumstances.",
+				"* I will suffer no restraint. Those who seek to pacify me will fall broken in my wake."
 			]
 		},
 		"for_followers": [
@@ -5132,10 +5176,29 @@
 				"**2: Winsome Lash (Su)** You can lash out with your melee weapon as if it were a whip, no matter what the weapon's type truly is. Your melee weapon elongates and grows flexible, gaining an extra 5 feet of reach while still maintaining its ability to strike targets adjacent to you (provided the weapon could normally do so). Using this ability does not provoke attacks of opportunity, and you can apply this ability only to melee weapons. You can use this ability a number of rounds per day equal to 1 + 1 for every 4 Hit Dice you possess (maximum 6 rounds). The rounds don't need to be consecutive, and activating and deactivating the ability is a free action.",
 				"**3: Sting Like a Wasp (Ex)** For a number of rounds per day equal to your Charisma bonus, you can ignore attacks of opportunity you would otherwise provoke due to your movement. Using this ability is a free action, and the rounds in which you use it don't need to be consecutive. You still provoke attacks of opportunity normally for actions other than moving.",
 				"**Antipaladin Code**",
-				"Antipaladins of Calistria do not demand great things of others, but rather seek to emulate the Savored Sting in their manner. Most are women; their ranks are filled with those devoted to bloody vengeance and the shining lusts that spark it. Their tenets include the following adages. <ul><li>My life is my path, and none will sway me from it.</li><li>I devote myself to the pursuit of my passions.</li><li>I take what I desire, by trick or by force. If others resent my actions, they may attempt to take vengeance against me.</li><li>All slights against me will be repaid tenfold.</li><li>I am the instrument of my own justice. If I am wronged, I will take vengeance with my own hands.</li></ul>"
+				"Antipaladins of Calistria do not demand great things of others, but rather seek to emulate the Savored Sting in their manner. Most are women; their ranks are filled with those devoted to bloody vengeance and the shining lusts that spark it. Their tenets include the following adages.",
+				"* My life is my path, and none will sway me from it.",
+				"* I devote myself to the pursuit of my passions.",
+				"* I take what I desire, by trick or by force. If others resent my actions, they may attempt to take vengeance against me.",
+				"* All slights against me will be repaid tenfold.",
+				"* I am the instrument of my own justice. If I am wronged, I will take vengeance with my own hands."
 			]
 		},
-		"divine_fightning_technique": [],
+		"divine_fightning_technique": {
+			"technique_name": "Calistria's Poisoned Lash",
+			"sources": [ "Weapon Master's Handbook" ],
+			"description": "Calistria inspires creative ways to poison foes.",
+			"optional_replacement": "A chaotic neutral rogue or slayer who worships Calistria can replace one talent with the following initial benefit.",
+			"initial_benefit": "You can apply poison (your choice) to a whip as a move action. You do not risk poisoning yourself when applying poison to a whip. A whip you wield can deliver contact poison upon a successful combat maneuver check as well as upon a successful attack roll, regardless of whether you deal damage.",
+			"advanced_prerequisites": [
+				{
+					"feat": "Whip Mastery",
+					"base_attack_bonus": 10
+				}
+			],
+			"optional_advanced_replacement": "A chaotic neutral rogue or slayer who worships Calistria can replace one advanced talent with the following advanced benefit even if she doesn't meet the prerequisites.",
+			"advanced_benefit": "You can apply poison to a whip as a swift action. You can apply up to 3 doses of the same poison to a whip at a time. Foes are exposed to only 1 dose of poison from any one attack."
+		},
 		"for_followers": [
 			"**For Followers of Calistria**",
 			"**Archetypes**",
@@ -5329,7 +5392,24 @@
 				"**3: Critical Luck (Ex)** Keep a record of every time you roll a natural 1 on an attack roll, to a maximum number equal to your Charisma bonus. Anytime you roll a critical threat on an attack roll, you can trade in one of your tallied natural 1s to automatically confirm the critical hit. This tally resets to 0 every day, and any tallied natural 1s from the day before are lost."
 			]
 		},
-		"divine_fightning_technique": [],
+		"divine_fightning_technique": {
+			"technique_name": "Cayden Cailean's Blade and Tankard",
+			"sources": [ "Weapon Master's Handbook" ],
+			"description": "Cayden Cailean is famous for wading into battle with a tankard in his off hand.",
+			"optional_replacement": "A chaotic good fighter or swashbuckler who worships Cayden Cailean can replace proficiency with shields or bucklers with the following initial benefit.",
+			"initial_benefit": "You can wield a tankard (or mug) as a weapon, treating it in all ways as a light mace appropriate for your size. If you engage in two-weapon fighting with a rapier or light weapon in one hand and a tankard in the other, you can drink a potion or other liquid from the tankard or attempt to toss liquid from the tankard as a dirty trick combat maneuver (such as to blind a foe) in place of attacking with it. You do not provoke attacks of opportunity for attempting a dirty trick maneuver with a tankard.",
+			"advanced_prerequisites": [
+				{
+					"feat_all": [
+						"Two-Weapon Fighting",
+						"Improved Two-Weapon Fighting"
+					],
+					"base_attack_bonus": 10
+				}
+			],
+			"optional_advanced_replacement": "A chaotic good fighter or swashbuckler of at least 10th level who worships Cayden Cailean can replace a bonus feat or deed with the following advanced benefit, even if he doesn't meet the prerequisites.",
+			"advanced_benefit": "You can refill your tankard with a beverage, potion, or other liquid from a bottle or vial as a swift action. You gain a +2 bonus on combat maneuver checks to perform dirty tricks with tankards. The effects of such a dirty trick lasts for 1d4 rounds + 1 round for every 5 points by which the result of your combat maneuver check exceeds the target's CMD; a standard action is required for the target to remove this penalty."
+		},
 		"for_followers": [
 			"**For Followers of Cayden Cailean**",
 			"**Archetypes**",
@@ -7124,7 +7204,11 @@
 				"**2: Teeth of the Dragon (Ex)** Your teeth grow into vicious fangs, akin to those of a chromatic dragon, and elemental power issues forth from your mouth in a divine gift from Dahak himself. You gain a bite attack. This is a primary natural attack that deals 1d6 points of piercing damage for Medium creatures or 1d4 points of piercing damage for Small creatures, with a critical multiplier of ??3. Every time you hit with your bite attack, you deal an additional 1d6 points of energy damage (choose from acid, cold, electricity, or fire).",
 				"**3: Elemental Outrage (Ex)** You can channel the power of the Endless Destruction through your vicious bites-when you hit a creature with your bite attack, you can force impressive elemental power into the attack. Up to three times per day, when you succeed at a critical hit with your bite attack, you deal 5d6 points of energy damage (choose from acid, cold, electricity, or fire) instead of 1d6 points. This extra damage is not multiplied as part of the critical hit.",
 				"**Antipaladin Code**",
-				"Antipaladins of Dahak are grim servants of the Endless Destruction, their demeanor calm up until the moment their control slips. They hunt metallic dragons as a means of repaying Dahak for his blessing. Dahak lays down several tenets for his divine warriors to follow. <ul><li>I am an instrument of destruction, but the power I wield is mine to control, gifted to me by Dahak.</li><li>My wrath is ceaseless. It is by my judgment alone to decide when I shall unleash it. Once I strike an enemy, I will not stop until they are dead.</li><li>None are safe from the rage that boils within me. While some may be spared immediate death, I offer no such lenience to the metallic dragons, greatest of enemies to the power that gives me strength.</li><li>Forgiveness is for the weak. If I am slighted, I will go to any lengths to enact my vengeance.</li></ul>"
+				"Antipaladins of Dahak are grim servants of the Endless Destruction, their demeanor calm up until the moment their control slips. They hunt metallic dragons as a means of repaying Dahak for his blessing. Dahak lays down several tenets for his divine warriors to follow",
+				"* I am an instrument of destruction, but the power I wield is mine to control, gifted to me by Dahak.",
+				"* My wrath is ceaseless. It is by my judgment alone to decide when I shall unleash it. Once I strike an enemy, I will not stop until they are dead.",
+				"* None are safe from the rage that boils within me. While some may be spared immediate death, I offer no such lenience to the metallic dragons, greatest of enemies to the power that gives me strength.",
+				"* Forgiveness is for the weak. If I am slighted, I will go to any lengths to enact my vengeance."
 			]
 		},
 		"for_followers": [
@@ -7598,7 +7682,34 @@
 				"**3: Shooting Star (Ex)** You can throw your deity's star-shaped favored weapon with great speed and ease. Three times per day, you can make a single ranged attack with a starknife as a swift action. To throw a starknife as a swift action, you must have it in hand, have sufficient actions available to draw the starknife, or have the Quick Draw feat or a similar ability."
 			]
 		},
-		"divine_fightning_technique": [],
+		"divine_fightning_technique": {
+			"technique_name": "Desna's Shooting Star",
+			"sources": [ "Divine Anthology" ],
+			"description": "Among the divine fighting manuals of the Inner Sea, few are as ancient as Clamor of the Spheres, a collection of fighting techniques favored by Desna's faithful. True to its name, the manual focuses on interpreting the chaos and sounds of combat, but nevertheless provides insightful and downright brilliant methods of defense with Desna's favored weapon, using techniques that treat a fight with a starknife more as a beautiful dance than a battle.",
+			"optional_replacement": "A chaotic good bard of at least 2nd level who worships Desna can replace a versatile performance with the following initial benefit.",
+			"initial_benefit": "You can add your Charisma bonus to attack rolls and damage rolls when wielding a starknife. If you do so, you don't modify attack rolls and damage rolls with your starknife with your Strength modifier, your Dexterity modifier (if you have Weapon Finesse), or any other ability score (if you have an ability that allows you to modify attack rolls and damage rolls with that ability score).",
+			"advanced_prerequisites": [
+				{
+					"dexterity_score": 17,
+					"feat_all": [
+						"Divine Fighting Technique",
+						"Point-Blank Shot",
+						"Rapid Shot"
+					],
+					"either": [
+						{
+							"base_attack_bonus": 11
+						},
+						{
+							"skill": "Sleight of Hand",
+							"ranks": 11
+						}
+					]
+				}
+			],
+			"optional_advanced_replacement": "A chaotic good bard of at least 10th level who worships Desna can replace a versatile performance with the following advanced benefit without meeting its prerequisites.",
+			"advanced_benefit": "You can impart a powerful spin to a thrown starknife so that multiple blades strike the target rather than just a single blade of the four, dealing extra damage with the other blades. As a full-round action, you can make a single attack with a thrown starknife, rolling 1d4 to determine how many effective strikes you gain with the attack (if you roll a 1, then only one blade strikes). If the attack hits, all of the effective strikes damage the target. Apply precision-based damage (such as sneak attack damage) and critical hit damage only once for this attack. The damage bonus from your appropriate ability score modifier applies to each strike, as do other damage bonuses, such as a bard's inspire competence bonus. Damage reduction and resistances apply separately to each strike."
+		},
 		"for_followers": [
 			"**For Followers of Desna**",
 			"**Archetypes**",
@@ -8833,7 +8944,26 @@
 			"- I show respect to my elders, for they have done much. I show respect to the young, for they have much left to do. I show respect to my peers, for they carry the load. And I shall carry it with them.",
 			"- I am honest, trustworthy, and stable. If I must leave my lands and community, before I go, I ensure that they will be tended in my absence. Even when duty calls, my duties to my home come first-letting them lapse makes me a burden on my people."
 		],
-		"divine_fightning_technique": [],
+		"divine_fightning_technique": {
+			"technique_name": "Erastil's Distracting Shot",
+			"sources": [ "Divine Anthology" ],
+			"description": "Sometimes used as a companion piece to the Parables of Erastil, the lesser-known Horns of the Elk is a manual completely dedicated to archery. Lacking the folktales that the Parables are celebrated for, the Horns of the Elk instead focuses on covering a wide array of beginner and advanced archery tactics. A copy of the manual can be found virtually anywhere a shrine to Erastil exists.",			
+			"optional_replacement": "A lawful good ranger who worships Erastil can choose Divine Fighting Technique as the bonus feat granted by his combat style if he chooses archery as his combat style.",
+			"initial_benefit": "As a standard action, you can fire a distracting shot from your longbow or shortbow; when you do, select one ally who is adjacent to the creature you are targeting with the distracting shot. If you hit the creature, the chosen ally gains a +2 bonus to her Armor Class against that creature. This bonus to her Armor Class lasts until the start of your next turn.",
+			"advanced_prerequisites": [
+				{
+					"dexterity_score": 17,
+					"feat_all": [
+						"Divine Fighting Technique",
+						"Point-Blank Shot",
+						"Precise Shot"
+					],
+					"base_attack_bonus": 10
+				}
+			],
+			"optional_advanced_replacement": "A lawful good ranger who worships Erastil and has the Divine Fighting Technique feat can replace the bonus feat granted by his combat style at 10th level with the following advanced benefit without meeting its prerequisites.",			
+			"advanced_benefit": "When you fire a distracting shot at a creature and hit the creature, you grant a +4 Armor Class bonus to the selected adjacent ally and a +2 Armor Class bonus to all other allies within 30 feet of the selected adjacent ally against attacks by the targeted creature."
+		},
 		"for_followers": [
 			"**For Followers of Erastil**",
 			"**Archetypes**",
@@ -10481,7 +10611,25 @@
 				"**3: Devout Rage (Ex)** You enter a holy or unholy frenzy whenever you rage, depending on your alignment. You gain a +2 bonus on your attack and damage rolls while raging. If you don't have the rage class feature, you can fly into a rage once per day as the rage spell, though you don't need to concentrate. Instead, the rage lasts for a number of rounds equal to your Hit Dice or until you choose to end it, whichever comes first."
 			]
 		},
-		"divine_fightning_technique": [],
+		"divine_fightning_technique": {
+			"technique_name": "Gorum's Swordmanship",
+			"sources": [ "Weapon Master's Handbook" ],
+			"optional_replacement": "A chaotic neutral barbarian or fighter who worships Gorum can replace a bonus feat or rage power with the following initial benefit.",
+			"initial_benefit": "If you have the Vital Strike feat, you can apply its effect to an attack you make with a greatsword at the end of a charge. If you don't have the Vital Strike feat, that attack deals 1 additional point of damage instead. The first time you make an attack of opportunity with a greatsword after using Vital Strike with a greatsword on your turn, you can apply Vital Strike to that attack of opportunity.",
+			"advanced_prerequisites": [
+				{
+					"strength_score": 13,
+					"feat_all": [
+						"Cleave",
+						"Power Attack",
+						"Vital Strike"
+					],
+					"base_attack_bonus": 10
+				}
+			],
+			"optional_advanced_replacement": "A chaotic neutral barbarian or fighter of at least 10th level who worships Gorum can replace a bonus feat or rage power with the following advanced benefit, even if she doesn't meet the prerequisites.",
+			"advanced_benefit": "When you use Vital Strike, Improved Vital Strike, or Greater Vital Strike with a greatsword, the damage counts as continuous damage from an injury for the purpose of determining whether a target must attempt a concentration check to cast spells."
+		},
 		"for_followers": [
 			"**For Followers of Gorum**",
 			"**Archetypes**",
@@ -11737,7 +11885,11 @@
 				"**2: River Champion (Su)** The river is your weapon. Three times per day as a standard action, you can sculpt water into the form of a melee weapon with which you are proficient (typically a trident, but it could also take the form of a dagger or another light weapon). You must have enough water to form the weapon, an amount equal to the weapon's normal weight. Once formed, the weapon behaves as a weapon of its type with an enhancement bonus of +1. This bonus increases by 1 for every 5 additional Hit Dice you have beyond 5 (up to a maximum of +4 at 20 Hit Dice). This weapon deals double the normal amount of damage to creatures with the fire subtype. The weapon dissolves into ordinary water after a number of rounds equal to your Hit Dice or as soon as it leaves your hand, whichever happens first.",
 				"**3: River's Renewal (Su)** As Hanspur was reborn in the water, so too are you healed by it. When completely submerged in water, you gain fast healing 2. You can recover a total number of hit points equal to twice your Hit Dice in this manner each day. At 20th level, if you fall below 0 hit points and your body is fully submerged in a river, you automatically stabilize.",
 				"**Antipaladin Code**",
-				"While antipaladins of Hanspur are exceedingly rare, a handful have emerged over the centuries to cause untold damage across the River Kingdoms. These cruel and vengeful followers focus their violence against adherents and suspected allies of the harbinger Corosbel, leading to violent and bloody inquisitions that, on the surface, are done in Hanspur's name. More likely, however, these vendettas serve only to consolidate the antipaladins' personal power or serve their own agendas. Their code is one of persecution under the guise of protection. Its tenets include the following adages. <ul><li>Make them suffer as he did-drown your enemies alive so they may understand.</li><li>The river is free, but the land is our reward.</li><li>To kill death is to master it. We shall crush the daemons under our heel.</li><li>Respect is blood or gold; let none ply our rivers without giving respect.</li></ul>"
+				"While antipaladins of Hanspur are exceedingly rare, a handful have emerged over the centuries to cause untold damage across the River Kingdoms. These cruel and vengeful followers focus their violence against adherents and suspected allies of the harbinger Corosbel, leading to violent and bloody inquisitions that, on the surface, are done in Hanspur's name. More likely, however, these vendettas serve only to consolidate the antipaladins' personal power or serve their own agendas. Their code is one of persecution under the guise of protection. Its tenets include the following adages.",
+				"* Make them suffer as he did-drown your enemies alive so they may understand.",
+				"* The river is free, but the land is our reward.",
+				"* To kill death is to master it. We shall crush the daemons under our heel.",
+				"* Respect is blood or gold; let none ply our rivers without giving respect."
 			]
 		},
 		"for_followers": [
@@ -12085,7 +12237,11 @@
 				"**2: Thunder's Vengeance (Su)** As a move action, you can surround yourself with crackling electricity that deals 2d6 points of electricity damage plus 1 point for every 2 Hit Dice you have (maximum 2d6+10) to each creature that attempts to strike you with a melee weapon or natural attack. You can maintain the aura for a number of rounds equal to your Hit Dice (maximum 20 rounds), but the rounds need not be consecutive. You can dismiss the aura as a free action.",
 				"**3: Unstoppable Storm (Su)** As a free action, you can empower your lightning to overcome resistances. For the next round, whenever you deal electricity damage to a creature that has resistance to electricity, ignore an amount of resistance equal to half your Hit Dice (up to a maximum reduction of 10). You can use this ability for a number of rounds per day equal to your Hit Dice (maximum 20 rounds), but the rounds need not be consecutive.",
 				"**Antipaladin Code**",
-				"Antipaladins of Hei Feng are self-sufficient wanderers who roam the land, offering great aid or-more commonly-great destruction at their own whims. They are rarely deceptive about their intentions, and desperate people can ask them for help, knowing that these antipaladins will keep their word if they agree to offer assistance. Any slight, however, will be met with overwhelming retribution. The code of Hei Feng's antipaladins contains the following adages. <ul><li>The blessing of the storm comes in lightning. I am permitted to offer sincerely altruistic aid, so long as that aid comes in the form of violence visited upon others. </li><li>The clouds warn of coming rain. My wrath may be sudden, but it is honest. I may trick a foe with boasts or cunning, but I do not pretend to be a friend to those I intend to harm. Such sycophancy is cowardice. </li><li>The wind cannot be chained. I stay nowhere for long, and I do not abide oaths that try to restrain me for longer than a month. If I make such promises, they have no weight, and those who trust them are fools. </li><li>My last word is a thunderclap. None shall insult me, or my god, without paying a terrible price. My revenge will be unstoppable and absolute.</li></ul>"
+				"Antipaladins of Hei Feng are self-sufficient wanderers who roam the land, offering great aid or-more commonly-great destruction at their own whims. They are rarely deceptive about their intentions, and desperate people can ask them for help, knowing that these antipaladins will keep their word if they agree to offer assistance. Any slight, however, will be met with overwhelming retribution. The code of Hei Feng's antipaladins contains the following adages.",
+				"* The blessing of the storm comes in lightning. I am permitted to offer sincerely altruistic aid, so long as that aid comes in the form of violence visited upon others. ",
+				"* The clouds warn of coming rain. My wrath may be sudden, but it is honest. I may trick a foe with boasts or cunning, but I do not pretend to be a friend to those I intend to harm. Such sycophancy is cowardice. ",
+				"* The wind cannot be chained. I stay nowhere for long, and I do not abide oaths that try to restrain me for longer than a month. If I make such promises, they have no weight, and those who trust them are fools. ",
+				"* My last word is a thunderclap. None shall insult me, or my god, without paying a terrible price. My revenge will be unstoppable and absolute."
 			]
 		},
 		"for_followers": [
@@ -13015,7 +13171,25 @@
 			"- I will suffer death before dishonor.",
 			"- I will be temperate in my actions and moderate in my behavior. I will strive to emulate Iomedae's perfection."
 		],
-		"divine_fightning_technique": [],
+		"divine_fightning_technique": {
+			"technique_name": "Iomedae's Inspiring Sword",
+			"sources": [ "Weapon Master's Handbook" ],
+			"description": "Iomedae demonstrates how to turn a longsword into a shining beacon of hope.",
+			"optional_replacement": "A paladin who worships Iomedae can replace a mercy with this initial benefit, even if she doesn't meets its prerequisites.",
+			"initial_benefit": "While wielding a longsword, you can perform an impressive display of prowess as a full-round action. All allies within 30 feet who can see your display gain a +2 sacred bonus on attack rolls, saving throws, and skill checks for 1 round + 1 round per 5 points of base attack bonus you have.",
+			"advanced_prerequisites": [
+				{
+					"feat": "Dazzling Display",
+					"base_attack_bonus": 10
+				},
+				{
+					"feat": "Weapon Focus",
+					"focus": "longsword"
+				}
+			],
+			"optional_advanced_replacement": "A paladin of at least 9th level who worships Iomedae can replace a mercy with the following advanced benefit, even if she doesn't meet the benefit's prerequisites.",
+			"advanced_benefit": "As a standard action or at the end of a charge, you can make an attack against a foe with a longsword. If you succeed, you grant all allies who can see your attack a +2 sacred bonus on attack rolls, saving throws, and skill checks for 1 minute."
+		},
 		"for_followers": [
 			"**For Followers of Iomedae**",
 			"****Archetypes****",
@@ -13284,7 +13458,36 @@
 				"**3: Perfection of Form (Ex)** You develop your body to such a degree of physical perfection that you become almost untouchable by the ravages of toxins and disease. You gain a +4 sacred or profane bonus on saving throws against poison, magical and supernatural diseases, and spells and effects that cause ability damage, ability drain, or negative levels. You also become immune to nonmagical diseases."
 			]
 		},
-		"divine_fightning_technique": [],
+		"divine_fightning_technique": {
+			"technique_name": "Irori's Perfected Fist",
+			"sources": [ "Divine Anthology" ],
+			"description": "Practically synonymous with Irori and his faith, The Woven Fist is among the best known of all diving fighting manuals. Many learned monks were taught their first martial techniques using drills and regiments from this manual, which some claim was written by Irori's own hand before his ascension to divinity. Although most commonly found in temples to Irori and secluded monasteries, copies of The Woven Fist often make their way into less scrupulous hands because of their effectiveness.",
+			"optional_replacement": "A lawful neutral brawler or monk can replace a bonus feat with the following initial benefit.",
+			"initial_benefit":" You can take a -2 penalty on all attack rolls made with your unarmed strikes in order to deal the average amount of damage with each successful attack instead of rolling your weapon damage. For instance, if your unarmed strike would normally deal 1d4 points of weapon damage, you instead deal 2 points of weapon damage. Apply bonuses and modifiers to this result as if you had rolled your damage normally. You must choose to use this benefit before making an attack roll, and its effects last until your next turn. You do not average additional damage dice (such as those granted by a sneak attack) when using this ability.",
+			"advanced_prerequisites": [
+				{
+					"feat_all": [
+						"Critical Focus",
+						"Divine Fighting Technique"
+					],
+					"either": [
+						{
+							"base_attack_bonus": 10
+						},
+						{
+							"class": "monk",
+							"level": 10
+						}
+					]
+				},
+				{
+					"feat": "Weapon Focus",
+					"focus": "unarmed strike"
+				}
+			],
+			"optional_advanced_replacement": "A lawful neutral brawler or monk of at least 10th level who worships Irori and has the Divine Fighting Technique feat can replace a bonus feat with the following advanced benefit without meeting its prerequisites.",
+			"advanced_benefit": "You no longer take a -2 penalty on attack rolls with your unarmed strikes when you choose to deal the average amount of damage. If you critically hit a creature when using this ability, you automatically inflict maximum weapon damage for that critical hit (although you must still roll sneak attack dice or any other dicebased additional damage)."
+		},
 		"for_followers": [
 			"**For Followers of Irori**",
 			"**Archetypes**",
@@ -15862,10 +16065,31 @@
 				"**2: Bestial Jaws (Ex)** Your body has reacted to your faith in the Demon Queen, and as a result, your jaw distends slightly and you grow prominent canines. You gain a bite attack that deals 1d4 points of damage if you're Medium or 1d3 points of damage if you're Small, plus half your Strength bonus. When part of a full attack, the bite attack is made at your full base attack bonus - 5. You can also make a bite attack as part of the action to maintain or break free from a grapple. This attack is resolved before the grapple check is attempted. If the bite attack hits, you gain a +2 bonus on your grapple check and any subsequent grapple checks against the same creature this round.",
 				"**3: Scarred Form (Su)** An armor-like epidermis of thick scars covers you. You take a -2 penalty on Charisma checks and Charisma-based skill checks. You gain damage reduction 5/-. If you already had damage reduction with no method of bypass (such as from the barbarian's damage reduction class feature), you instead increase that damage reduction by 5.",
 				"**Antipaladin Code**",
-				"The leaders of Lamashtu's children are proud of their deformities and rage against civilization. They seek to tear the blinders from the eyes of the world and show them the nightmare of nature, the writhing and endlessly fecund truth. Their code is one of bloodshed and howling madness. Its tenets include the following adages. <ul><li>All things are monstrous, and only the weak hide their marks. I show the world as it is.</li><li>I will bring the outcasts in from the cold and teach them the taste of victory.</li><li>I fill the wombs. I birth the children. I teach our enemies why they fear the night.</li><li>I bring madness to the cities, that in their blood and fear they may understand the chaos of the world.</li><li>I will spread the Mother's seed. If the blind cannot be taught to see, their children can.</li></ul>"
+				"The leaders of Lamashtu's children are proud of their deformities and rage against civilization. They seek to tear the blinders from the eyes of the world and show them the nightmare of nature, the writhing and endlessly fecund truth. Their code is one of bloodshed and howling madness. Its tenets include the following adages.",
+				"* All things are monstrous, and only the weak hide their marks. I show the world as it is.",
+				"* I will bring the outcasts in from the cold and teach them the taste of victory.",
+				"* I fill the wombs. I birth the children. I teach our enemies why they fear the night.",
+				"* I bring madness to the cities, that in their blood and fear they may understand the chaos of the world.",
+				"* I will spread the Mother's seed. If the blind cannot be taught to see, their children can."
 			]
 		},
-		"divine_fightning_technique": [],
+		"divine_fightning_technique": {
+			"technique_name": "Lamashtu's Carving",
+			"sources": [ "Divine Anthology" ],
+			"description": "One of the grisliest divine fighting manuals is Fecundity of Corpses, a harrowing tome that depicts the fighting styles favored by the followers of Lamashtu, the Mother of Monsters. In addition to detailing many of the more gruesome rites favored by the Demon Queen, Fecundity of Corpses includes hundreds of techniques recorded in blood by cultists of Lamashtu from across the Inner Sea region. Though no standardized edition of this manual exists because of the cult's discordant hierarchy, each tome manages to perfectly capture similar techniques for sowing fear and blood in Lamashtu's name.",
+			"initial_benefit": "As a standard action, you can make a single attack with a falchion or a kukri in order to deal bleed damage to the target. When you make this attack, you do not apply your ability modifier (normally Strength, but potentially other modifiers) to the hit point damage dealt by your attack-instead, add an amount of bleed damage equal to this modifier. The bleeding can be stopped by a successful DC 15 Heal check or any amount of magical healing. Bleed damage from this benefit doesn't stack with itself.",
+			"advanced_prerequisites": [
+				{
+					"strength_score": 13,
+					"feat_all": [
+						"Dazing Assault",
+						"Divine Fighting Technique",
+						"Power Attack"
+					]
+				}
+			],
+			"advanced_benefit": "Whenever you hit a bleeding creature with a melee attack using a falchion or a kukri, that creature must succeed at a Fortitude save (DC = 10 + your base attack bonus) or become staggered for 1 round. Multiple attacks do not cause this condition to stack, and a creature that successfully saves against this staggering effect is immune to this effect for 1 round."
+		},
 		"for_followers": [
 			"**For Followers of Lamashtu**",
 			"**Archetypes**",
@@ -19960,7 +20184,8 @@
 		"sources": [
 			"Inner Sea Gods",
 			"Planar Adventures",
-			"Pathfinder #59: The Price of Infamy"
+			"Pathfinder #59: The Price of Infamy",
+			"Divine Anthology"
 		],
 		"heading": [
 			"**Norgorber**",
@@ -20048,10 +20273,33 @@
 				"**2: Poison Expertise (Ex)** Long practice has taught you how to deftly apply poison during combat. You can apply poison to a weapon or a single piece of ammunition as a move action. You never risk exposing yourself to the effects of the poison when applying it to the weapon, nor do you run the risk of poisoning yourself if you roll a natural 1 on an attack roll with a poisoned weapon.",
 				"**3: Death Strike (Ex)** Once per day, you can make a death strike with a melee weapon. You must declare your use of this ability before you roll your attack. You gain a +4 bonus on your attack roll and deal an extra 1d6 points of damage for every 4 Hit Dice you possess (maximum 5d6). If your death strike reduces the target to negative hit points but doesn't kill it outright, the target immediately drops to a negative hit point total equal to its Constitution score - 1 (one point away from death).",
 				"**Antipaladin Code**",
-				"Antipaladins who serve Norgorber are secretive and cunning. They prefer to strike from the shadows, even when the odds are already in their favor. They rely on traps, tricks, ambushes, and poison to weaken their foes. Their code reflects a cold and honest assessment of the human condition, and its tenets include the following adages. <ul><li>Innocence is ignorance, and ignorance is weakness. I will seek to shed my own ignorance, and encourage ignorance in my enemies.</li><li>I do not take credit, nor do I accept blame. I work always in the shadows.</li><li>A fair fight is not worth fighting. I will take every advantage I can. No tool is beneath me.</li><li>Cold eyes, cold heart. My enemies can expect no mercy from me.</li><li>Everyone is expendable, and I will sacrifice them all as necessary.</li><li>Each life I take shapes the future to my lord's desires.</li></ul>"
+				"Antipaladins who serve Norgorber are secretive and cunning. They prefer to strike from the shadows, even when the odds are already in their favor. They rely on traps, tricks, ambushes, and poison to weaken their foes. Their code reflects a cold and honest assessment of the human condition, and its tenets include the following adages.",
+				"* Innocence is ignorance, and ignorance is weakness. I will seek to shed my own ignorance, and encourage ignorance in my enemies.",
+				"* I do not take credit, nor do I accept blame. I work always in the shadows.",
+				"* A fair fight is not worth fighting. I will take every advantage I can. No tool is beneath me.",
+				"* Cold eyes, cold heart. My enemies can expect no mercy from me.",
+				"* Everyone is expendable, and I will sacrifice them all as necessary.",
+				"* Each life I take shapes the future to my lord's desires."
 			]
 		},
-		"divine_fightning_technique": [],
+		"divine_fightning_technique": {
+			"technique_name": "Norgorber's Silent Shiv",
+			"sources": [ "Divine Anthology" ],
+			"description": "Entombed within a volume known as The Reaper's Hand, the divine fighting techniques of Norgorber are among the most elusive in the Inner Sea region, but are theorized to cover the techniques that acolytes of Father Skinsaw use to move and strike unseen. Copies of this manual are rare, and those who spill its secrets to anyone unworthy often meet a swift and bloody end at the hands of the faith's inquisitors.",
+			"optional_replacement": "A neutral evil rogue of at least 2nd level who worships Norgorber can replace a rogue talent with the following initial benefit.",
+			"initial_benefit": "Whenever you attack an opponent that is completely unaware of your presence (such as when you are using the Stealth skill or invisible), your attack deals damage as if you were one size category larger. This benefit applies only to the first attack that you make against the target, and only with attacks made with light or one-handed weapons intended for creatures of your size (including thrown attacks).",
+			"advanced_prerequisites": [
+				{
+					"feat": "Divine Fighting Technique"
+		 		},
+				{
+					"skill": "Stealth",
+					"ranks": 10
+				}
+			],
+			"optional_advanced_replacement": "A neutral evil rogue of at least 10th level who worships Norgorber can replace an advanced rogue talent with the following advanced benefit without meeting its prerequisites.",
+			"advanced_benefit": "At the start of each round, choose one opponent that you can see and attempt a Stealth check as a swift action. If the result of your check exceeds the target's CMD, treat the target as if it were completely unaware of your presence for the purpose of the initial benefit of this divine fighting technique. If you beat the target's CMD by 5 or more, you also treat it as being completely unaware of your presence for the purposes of all class features and feats you have."
+		},
 		"unique_summon_rules": [
 			"**Source** [Pathfinder #59: The Price of Infamy pg. 75](source:Pathfinder #59: The Price of Infamy)",
 			"**[Summon Monster III](spell:Summon Monster III):** [Human Natural Wererat Rogue 2](monster:Human Natural Wererat Rogue 2) (extraplanar)",
@@ -22957,10 +23205,32 @@
 				"**2: Wicked Claws (Ex)** Your fingernails grow into thick, jagged talons, unevenly matched and vaguely resembling the spurs of a giant insect or the fangs of some unspeakable beast. You gain a pair of claw attacks. These are primary natural attacks that deal 1d8 points of slashing damage if you're Medium or 1d6 points of damage if you're Small.",
 				"**3: Disintegrating Blow (Sp)** Once per day, you can channel a glimpse of Rovagug's hatred through your weapon, recreating the effects of disintegrate. You must declare your use of this ability before you roll your attack. On a hit, the target is affected as if targeted by disintegrate cast by a wizard of a level equal to your Hit Dice (maximum CL 20th). If your attack misses, the disintegrate effect is wasted.",
 				"**Antipaladin Code**",
-				"The antipaladins of Rovagug seek their master's Great Awakening, and bend all their efforts toward the eventual decay of the prison that holds their god. Their code is simple, brutal, and direct, and its tenets include the following adages. <ul><li>All things must be destroyed, but the tools of destruction will be destroyed last.</li><li>The beautiful die first. Their loss wreaks havoc in the hearts of those who love.</li><li>All is vanity before the tide of destruction.</li><li>The world is a lie. The only truth is oblivion, born of storm and horror.</li><li>Torture is needless delay. I give the gift of a quick death.</li><li>I will die standing.</li></ul>"
+				"The antipaladins of Rovagug seek their master's Great Awakening, and bend all their efforts toward the eventual decay of the prison that holds their god. Their code is simple, brutal, and direct, and its tenets include the following adages.",
+				"* All things must be destroyed, but the tools of destruction will be destroyed last.",
+				"* The beautiful die first. Their loss wreaks havoc in the hearts of those who love.",
+				"* All is vanity before the tide of destruction.",
+				"* The world is a lie. The only truth is oblivion, born of storm and horror.",
+				"* Torture is needless delay. I give the gift of a quick death.",
+				"* I will die standing."
 			]
 		},
-		"divine_fightning_technique": [],
+		"divine_fightning_technique": {
+			"technique_name": "Rovagug's Thunder",
+			"sources": [ "Divine Anthology" ],
+			"description": "Most copies of Ravage and Ruin, the divine fighting manual of the Rough Beast Rovagug, are scrawled in blood upon flensed skins by orc priests-and indeed the vile techniques described within originated from the Hold of Belkzen not long after the orcs first seized that land as their own. Reviled across the Inner Sea, Ravage and Ruin sees additional use among savage Ulfen clans who have fallen to the Rough Beast's urges to become corrupt, lunatic cannibals who relish despoiling beauty in Rovagug's name.",
+			"initial_benefit": "Whenever you succeed at a dirty trick combat maneuver check against an opponent, you deal an amount of nonlethal damage equal to 1d6 + your Charisma modifier. In addition, whenever your dirty trick combat maneuver check beats an opponent's CMD by 5 or more, you can forgo increasing the duration of your condition by 1 or more rounds to instead impose a -2 penalty on all of that opponent's Charisma-based checks. This penalty doesn't stack with itself, and it lasts for a number of minutes equal to your Charisma modifier (minimum of 1 minute) or until the target receives any form of magical healing.",
+			"advanced_prerequisites": [
+				{
+					"feat_all": [
+						"Power Attack",
+						"Divine Fighting Technique"
+					],
+					"base_attack_bonus": 10
+				}
+			],
+			"optional_advanced_replacement": "A chaotic evil barbarian of at least 10th level who worships Rovagug can replace a rage power with the following advanced benefit without meeting its prerequisites.",
+			"advanced_benefit": "Anytime you use Power Attack with a great axe or a natural attack, you ignore an amount of the target's hardness or damage reduction equal to the penalty Power Attack imparts to your attack roll. This benefit stacks with Penetrating Strike and Greater Penetrating Strike."
+		},
 		"for_followers": [
 			"**For Followers of Rovagug**",
 			"**Archetypes**",
@@ -23619,7 +23889,26 @@
 			"- I will show the less fortunate the light of the Dawnflower. I will live my life as her mortal blade, shining with the light of truth.",
 			"- Each day is another step toward perfection. I will not turn back into the dark."
 		],
-		"divine_fightning_technique": [],
+		"divine_fightning_technique": {
+			"technique_name": "Sarenrae's Mercy",
+			"sources": [ "Divine Anthology" ],
+			"description": "Although the Dawnflower is the goddess of healing and redemption, she is not a goddess of peace, and her followers are taught that combat may be the only way to ensure the safety of those who look to the faith for protection. In such situations, the faithful of Sarenrae are expected to end combat swiftly and efficiently, to avoid drawing out the pain and agony of battle. When one can end a battle without resorting to killing, the opportunity for redemption of the defeated foe still remains. The pages of Dawnflower's Mercies teach methods by which those who serve Sarenrae as soldiers can vanquish enemies in combat without killing them, and encourage those who follow the teachings held within to offer those they take prisoner the chance to be welcomed into Sarenrae's arms.",
+			"initial_benefit": "You take no penalty on attack rolls for using a scimitar to deal nonlethal damage. If your attack with the scimitar would normally deal additional damage (such as via sneak attack, the flaming weapon special ability, or the like), this additional damage can be nonlethal damage. You can also alter spells with the fire, good, or light descriptor and inflict spells so that the damage they deal is nonlethal damage instead. You can choose to apply this effect as the spell is cast.",
+			"advanced_prerequisites": [
+				{
+					"feat": "Great Fortitude"
+				},
+				{
+					"feat": "Weapon Focus",
+					"focus": "scimitar"
+				},
+				{
+					"skill": "Heal",
+					"ranks": 10
+				}
+			],
+			"advanced_benefit": "Once per round as you strike a foe with a weapon and deal nonlethal damage with that attack, you regain 1d6 hit points as the warmth of Sarenrae's approval and the conviction that you are doing the right thing to minimize suffering infuses your body and soul. If the attack that dealt nonlethal damage was from a scimitar, you instead regain 2d6 hit points. You can gain the benefit of this healing only once per round, regardless of how many successful attacks you make with the weapon."
+		},
 		"for_followers": [
 			"**For Followers of Sarenrae**",
 			"**Archetypes**",
@@ -27317,7 +27606,26 @@
 			"- I respect the forge, and never sully it with half-hearted work. My creations reflect the depth of my faith, and I will not allow flaws save in direst need.",
 			"- Against my people's enemies, I will show no mercy. I will not allow their surrender, except when strategy warrants. I will defeat them, yet even in the direst struggle, I will act in a way that brings honor to Torag."
 		],
-		"divine_fightning_technique": [],
+		"divine_fightning_technique": {
+			"technique_name": "Torag's Patient Strikes",
+			"sources": [ "Divine Anthology" ],
+			"description": "Copies of Lessons of the Father, the divine fighting manual of Torag, are somewhat rare outside of the Five Kings Mountains, as tradition mandates that all copies of Lessons of the Father must be scribed by hand in Dwarven on iron sheets and bound between slabs of stone hand-carved by a cleric of Torag. As a result, these tomes are somewhat cumbersome to transport (even the smallest copy of the book weighs 50 pounds, and most exceed 100 pounds in weight). Those who have mastered the Lessons of the Father are highly respected within the faith.",
+			"initial_benefit": "Whenever you wield a warhammer, add your Wisdom bonus to the total number of attacks of opportunity that you can make per round. These additional attacks of opportunity don't stack with those granted by Combat Reflexes, but this benefit counts as Combat Reflexes for the purpose of satisfying feat prerequisites and prestige class requirements. In addition, you can make attacks of opportunity while you're flat-footed.",
+			"advanced_prerequisites": [
+				{
+					"feat_all": [
+						"Vital Strike",
+						"Divine Fighting Technique"
+					],
+					"base_attack_bonus": 10
+				},
+				{
+					"feat": "Weapon Focus",
+					"focus": "warhammer"
+				}
+			],
+			"advanced_benefit": "Once per round, before you make an attack of opportunity with a warhammer, you can declare an opportunistic strike. If the attack hits, you can apply the effects of your Vital Strike feat. You can apply the Improved Vital Strike or Greater Vital Strike feat instead if you have either of those feats. If you confirm a critical hit with an opportunistic strike, you can attempt a disarm or trip combat maneuver check against the target as a free action-this combat maneuver does not provoke an attack of opportunity."
+		},
 		"for_followers": [
 			"**For Followers of Torag**",
 			"**Archetypes**",
@@ -28085,10 +28393,30 @@
 				"**2: Scythe Wielder (Ex)** You have trained extensively with Urgathoa's deadly favored weapon and with many related weapons, and you wield them with the skill of the Pallid Princess's most favored undead champions. If you selected the heavy blades group for your weapon training class feature, increase your attack and damage bonuses with heavy blades by 1. If you don't have the weapon training class feature, you instead gain a +1 bonus on attack and damage rolls with the scythe only.",
 				"**3: Fearless in the Face of Undeath (Ex)** You have spent too much time among the unliving to be taken in by their tricks and abilities, and you are proof against many of their powers. Increase your bravery saving throw bonus by 1. This bonus now applies to saving throws against any spells and effects generated by undead creatures, as well as against fear effects. The bonus also applies to nonmagical effects generated by undead creatures, such as a deathweb's poison. If you don't have the bravery class feature, you instead gain a +2 profane bonus on saving throws against spells and effects generated by undead.",
 				"**Antipaladin Code**",
-				"The antipaladins of Urgathoa are creatures of the night, plague-bearers and bringers of death. They seek to spread Urgathoa's gifts by the sword and by emulating their goddess. Their tenets include the following affirmations. <ul><li>The grave opens to us all. We hasten the living on their inevitable path.</li><li>The deathless are the true expression of existence, for they are beyond life and death. I will emulate their ways and destroy those who would defile their timeless perfection.</li><li>I have no duty but to my hunger and my goddess.</li><li>Existence is hunger. Both life and death feed on life. I am an instrument of transition.</li></ul>"
+				"The antipaladins of Urgathoa are creatures of the night, plague-bearers and bringers of death. They seek to spread Urgathoa's gifts by the sword and by emulating their goddess. Their tenets include the following affirmations.",
+				"* The grave opens to us all. We hasten the living on their inevitable path.",
+				"* The deathless are the true expression of existence, for they are beyond life and death. I will emulate their ways and destroy those who would defile their timeless perfection.",
+				"* I have no duty but to my hunger and my goddess.",
+				"* Existence is hunger. Both life and death feed on life. I am an instrument of transition."
 			]
 		},
-		"divine_fightning_technique": [],
+		"divine_fightning_technique": {
+			"technique_name": "Urgathoa's Hunger",
+			"sources": [ "Divine Anthology" ],
+			"description": "The grisly content of Pallid Cravings can be found in many places where the Pallid Princess maintains a significant presence, especially within the undead nation of Geb. The pages of this manuscript are said to be tattooed onto a humanoid and flensed off while the victim is still alive; the swaths of skin are then carefully preserved for presentation in the book. Pallid Cravings details hundreds of ways for a member of Urgathoa's faithful to satisfy her depraved urges for an opponent's flesh and blood while in battle.",
+			"initial_benefit": "A number of times per day equal to your Wisdom bonus, you can feast upon the life essence of a creature that you hit with a scythe. Activating this ability is a swift action. When you do so, you gain a number of temporary hit points equal to the damage you dealt with the scythe attack. These temporary hit points last for 1 minute and don't stack.",
+			"advanced_prerequisites": [
+				{
+					"feat": "Divine Fighting Technique",
+					"base_attack_bonus": 7
+				},
+				{
+					"skill": "Heal",
+					"ranks": 10
+				}
+			],
+			"advanced_benefit": "A number of times per day equal to your Wisdom bonus, you can exacerbate any lingering contagions within a target's body upon making a successful melee attack with a scythe. Activating this ability is a swift action, and causes the target to immediately attempt additional saving throws against all diseases with which it is currently afflicted. Any failed saves cause the target to immediately take the effects of that disease, while a successful save does not count toward the number of consecutive saves that the target must succeed at in order to cure the disease."
+		},
 		"for_followers": [
 			"**For Followers of Urgathoa**",
 			"**Archetypes**",
@@ -31651,7 +31979,18 @@
 				"**3: Sight of Perfect Night (Ex)** All the training you have done in perfect darkness has left you with the uncanny ability to sense your surroundings even in the blackest night. You gain blindsense with a range of 20 feet. If you already have blindsense with a range of 20 feet or greater, instead increase the range of your blindsense by 10 feet."
 			]
 		},
-		"divine_fightning_technique": [],
+		"divine_fightning_technique": {
+			"technique_name": "Zon-Kuthon's Flensing",
+			"sources": [ "Weapon Master's Handbook" ],
+			"description": "Zon-Kuthon invites all mortals to join in inflicting and suffering pain.",
+			"initial_benefit": "Once per round, when you hit a foe with a spiked chain, you can twist the chain so it painfully flenses both of you. You and your target are both sickened for 1 round, and the target must succeed at a Fortitude save (DC = 10 + 1/2 your character level + your Wisdom bonus) or be sickened for an additional 1d4+1 rounds.",
+			"advanced_prerequisites": [
+				{
+					"base_attack_bonus": 10
+				}
+			],
+			"advanced_benefit": "Whenever you sicken a foe with pain using a spiked chain (whether by flensing, as a dirty trick combat maneuver, or otherwise), the victim must succeed at a Fortitude save (DC = 10 + 1/2 your character level + your Wisdom bonus) or be nauseated for the first round of the duration."
+		},
 		"for_followers": [
 			"**For Followers of Zon-Kuthon**",
 			"**Archetypes**",
@@ -32022,7 +32361,12 @@
 				"**2: Tragic Accident (Su)** You have a deep understanding of the Grim Harvestman's lordship over accidental death, and can unleash these accidents on your enemies. Once per day as part of a successful attack, you can target your opponent with either inflict critical wounds or poison as a free action. The DC for this ability is equal to 10 + 1/2 your Hit Dice + your Charisma modifier. You don't have to declare the use of this ability until you know the attack is successful.",
 				"**3: Unfairness of the World (Su)** Once per day, you can channel all of your outrage through your weapon, afflicting your opponent with deadly negative energy. You must declare your use of this ability before you roll an attack. On a hit, the target gains a number of negative levels equal to 3 + 1/2 your Hit Dice unless it succeeds at a Fortitude saving throw (the DC for this ability is the same as your tragic accident DC). If you openly wear an unholy symbol of Zyphus, the saving throw DC to resist this effect increases by 2.",
 				"**Antipaladin Code**",
-				"The antipaladins of Zyphus are stealthy, and in emulation of their cruel patron deity, they're obsessed with sowing death at the most unexpected and shocking moments. Few appear openly on the field of battle except when they impersonate followers of Gorum to incite maximum collateral damage in a skirmish or war. Although all adhere to Zyphus's tenets, they vary in which parts of the code they emphasize. These tenets include the following adages. <ul><li>Happiness is ignorance. I will never hide the truth of anguish.</li><li>I am an agent of unpredictable death. I will announce my murderous intentions only to Zyphens and those I will immediately kill.</li><li>Mercy is pointless. I will not stay my hand when I can slay my enemies.</li><li>Prophecies are empty promises. I will pay no heed to fortune-telling.</li><li>Tragedy must spread. I will first hurt those whose pain will also hurt many others, whether because they are beloved or because they will wreak reckless vengeance.</li></ul>"
+				"The antipaladins of Zyphus are stealthy, and in emulation of their cruel patron deity, they're obsessed with sowing death at the most unexpected and shocking moments. Few appear openly on the field of battle except when they impersonate followers of Gorum to incite maximum collateral damage in a skirmish or war. Although all adhere to Zyphus's tenets, they vary in which parts of the code they emphasize. These tenets include the following adages.",
+				"* Happiness is ignorance. I will never hide the truth of anguish.",
+				"* I am an agent of unpredictable death. I will announce my murderous intentions only to Zyphens and those I will immediately kill.",
+				"* Mercy is pointless. I will not stay my hand when I can slay my enemies.",
+				"* Prophecies are empty promises. I will pay no heed to fortune-telling.",
+				"* Tragedy must spread. I will first hurt those whose pain will also hurt many others, whether because they are beloved or because they will wreak reckless vengeance."
 			]
 		},
 		"for_followers": [
