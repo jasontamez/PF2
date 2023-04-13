@@ -1,9 +1,5 @@
 # TO-DO
 
-"specialized arcane school"
-"wizard school"
-"bravery +3"
-
 * equipment/vehicles need to be parsed
 * ~~DIVINE FIGHTING TECHNIQUES~~
 * Feat formatting (from 3993)
