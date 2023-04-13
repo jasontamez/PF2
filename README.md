@@ -1,8 +1,10 @@
 # TO-DO
 
+* Augmented Summoning feat?!?
+* "variant channeling"?
 * equipment/vehicles need to be parsed
 * ~~DIVINE FIGHTING TECHNIQUES~~
-* Feat formatting (from 3993)
+* Feat formatting (from 27909)
 * class files needing parsing:
   * ~~alchemist (?)~~
   * ~~arcanist exploits (?)~~
