@@ -1,10 +1,13 @@
 # TO-DO
 
-* Augmented Summoning feat?!?
+* Missing Feats?
+  * Deceitful Greater Feint
+  * Augmented Summoning
+  * Surprise Follow Through
 * "variant channeling"?
 * equipment/vehicles need to be parsed
 * ~~DIVINE FIGHTING TECHNIQUES~~
-* Feat formatting (from 32728)
+* Feat formatting (from 46701)
 * class files needing parsing:
   * ~~alchemist (?)~~
   * ~~arcanist exploits (?)~~
