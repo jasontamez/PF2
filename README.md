@@ -1,10 +1,5 @@
 # TO-DO
 
-* Missing Feats?
-  * Deceitful Greater Feint
-  * Augmented Summoning
-  * Surprise Follow Through
-  * Siege Weapon Engineer
 * "variant channeling"?
 * equipment/vehicles need to be parsed
 * ~~DIVINE FIGHTING TECHNIQUES~~
