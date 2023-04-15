@@ -4,10 +4,11 @@
   * Deceitful Greater Feint
   * Augmented Summoning
   * Surprise Follow Through
+  * Siege Weapon Engineer
 * "variant channeling"?
 * equipment/vehicles need to be parsed
 * ~~DIVINE FIGHTING TECHNIQUES~~
-* Feat formatting (from 46701)
+* Feat formatting (from 59184)
 * class files needing parsing:
   * ~~alchemist (?)~~
   * ~~arcanist exploits (?)~~
