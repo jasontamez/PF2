@@ -15,8 +15,14 @@
 			"**Source** [Inner Sea Gods pg. 12](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Abadar](http://www.pathfinderwiki.com/wiki/Abadar)"
 		],
-		"pantheon": "Core Deities",
-		"other_pantheons": "Deities of Tian Xia, Halfling Deities, Order of the God Claw Pantheon, Sandpoint Pantheon, Taldan Pantheon",
+		"pantheons": [
+			"Core Deities",
+			"Deities of Tian Xia",
+			"Halfling Deities",
+			"Order of the God Claw Pantheon",
+			"Sandpoint Pantheon",
+			"Taldan Pantheon"
+		],
 		"alignment": "LN",
 		"areas_of_concern": "Cities, laws, merchants, wealth",
 		"domains": [
@@ -168,7 +174,7 @@
 			"**Source** [Pathfinder #109: In Search of Sanity pg. 64](source:Pathfinder #109: In Search of Sanity)",
 			"**Pathfinder Wiki** [Abhoth](http://www.pathfinderwiki.com/wiki/Abhoth)"
 		],
-		"pantheon": "Outer Gods",
+		"pantheons": [ "Outer Gods" ],
 		"alignment": "CN",
 		"areas_of_concern": "Disease, fercundity, oozes",
 		"domains": [
@@ -219,7 +225,7 @@
 			"**Source** [Inner Sea Gods pg. 318](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Abraxas](http://www.pathfinderwiki.com/wiki/Abraxas)"
 		],
-		"pantheon": "Demon Lords",
+		"pantheons": [ "Demon Lords" ],
 		"alignment": "CE",
 		"areas_of_concern": "Forbidden lore, magic, snakes",
 		"domains": [
@@ -315,7 +321,7 @@
 			"**Source** [Pathfinder #123: The Flooded Cathedral pg. 66](source:Pathfinder #123: The Flooded Cathedral)",
 			"**Pathfinder Wiki** [Acavna](http://www.pathfinderwiki.com/wiki/Acavna)"
 		],
-		"pantheon": "Azlanti Pantheon",
+		"pantheons": [ "Azlanti Pantheon" ],
 		"alignment": "CN",
 		"areas_of_concern": "Companionship, defensive battle, and the moon",
 		"domains": [
@@ -358,7 +364,7 @@
 			"**Source** [Inner Sea Faiths pg. 5](source:Inner Sea Faiths)",
 			"**Pathfinder Wiki** [Achaekek](http://www.pathfinderwiki.com/wiki/Achaekek)"
 		],
-		"pantheon": "Other Deities",
+		"pantheons": [ "Other Deities" ],
 		"alignment": "LE",
 		"areas_of_concern": "Assassinations, divine punishment, the red mantis",
 		"domains": [
@@ -461,7 +467,7 @@
 			"**Source** [Inner Sea Gods pg. 324](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Aegirran](http://www.pathfinderwiki.com/wiki/Aegirran)"
 		],
-		"pantheon": "Giant Deities",
+		"pantheons": [ "Giant Deities" ],
 		"alignment": "NG",
 		"areas_of_concern": "Dreams, sailing, voyages",
 		"domains": [
@@ -504,7 +510,7 @@
 			"**Source** [Pathfinder #144: Midwives to Death pg. 74](source:Pathfinder #144: Midwives to Death)",
 			"**Pathfinder Wiki** [Aerekostes](http://www.pathfinderwiki.com/wiki/Aerekostes)"
 		],
-		"pantheon": "Iblydan Hero-Gods",
+		"pantheons": [ "Iblydan Hero-Gods" ],
 		"alignment": "N",
 		"areas_of_concern": "Contingencies, intelligent items",
 		"domains": [
@@ -547,7 +553,7 @@
 			"**Source** [Inner Sea Gods pg. 318](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Aesdurath](http://www.pathfinderwiki.com/wiki/Aesdurath)"
 		],
-		"pantheon": "Daemon Harbingers",
+		"pantheons": [ "Daemon Harbingers" ],
 		"alignment": "NE",
 		"areas_of_concern": "Immortality, liches, magical catastrophes",
 		"domains": [
@@ -610,7 +616,7 @@
 			"**Source** [Pathfinder #123: The Flooded Cathedral pg. 67](source:Pathfinder #123: The Flooded Cathedral)",
 			"**Pathfinder Wiki** [Aesocar](http://www.pathfinderwiki.com/wiki/Aesocar)"
 		],
-		"pantheon": "Azlanti Pantheon",
+		"pantheons": [ "Azlanti Pantheon" ],
 		"alignment": "LG",
 		"areas_of_concern": "Creation of life, health, and medicine",
 		"domains": [
@@ -656,7 +662,7 @@
 			"**Source** [Pathfinder #143: Borne by the Sun's Grace pg. 72](source:Pathfinder #143: Borne by the Sun's Grace)",
 			"**Pathfinder Wiki** [Ah Pook](http://www.pathfinderwiki.com/wiki/Ah Pook)"
 		],
-		"pantheon": "Other Deities",
+		"pantheons": [ "Other Deities" ],
 		"alignment": "NE",
 		"areas_of_concern": "Death, destruction, and the moon",
 		"domains": [
@@ -701,7 +707,7 @@
 			"**Source** [Inner Sea Gods pg. 316](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Ahriman](http://www.pathfinderwiki.com/wiki/Ahriman)"
 		],
-		"pantheon": "Other Deities",
+		"pantheons": [ "Other Deities" ],
 		"alignment": "NE",
 		"areas_of_concern": "Destruction, div, nihilism",
 		"domains": [
@@ -776,7 +782,7 @@
 			"**Source** [Inner Sea Gods pg. 318](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Ajids](http://www.pathfinderwiki.com/wiki/Ajids)"
 		],
-		"pantheon": "Daemon Harbingers",
+		"pantheons": [ "Daemon Harbingers" ],
 		"alignment": "NE",
 		"areas_of_concern": "Mutilation, skinning, trophy taking",
 		"domains": [
@@ -839,7 +845,7 @@
 			"**Source** [Book of the Damned pg. 130](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Aksha](http://www.pathfinderwiki.com/wiki/Aksha)"
 		],
-		"pantheon": "Rakshasa Immortals",
+		"pantheons": [ "Rakshasa Immortals" ],
 		"alignment": "LE",
 		"areas_of_concern": "N/a",
 		"domains": [
@@ -894,7 +900,7 @@
 			"**Source** [Book of the Damned pg. 126](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Akuma](http://www.pathfinderwiki.com/wiki/Akuma)"
 		],
-		"pantheon": "Oni Daimyo",
+		"pantheons": [ "Oni Daimyo" ],
 		"alignment": "LE",
 		"areas_of_concern": "Battle, honor, martial arts",
 		"domains": [
@@ -948,7 +954,7 @@
 			"**Source** [Inner Sea Gods pg. 316](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Alazhra](http://www.pathfinderwiki.com/wiki/Alazhra)"
 		],
-		"pantheon": "Other Deities",
+		"pantheons": [ "Other Deities" ],
 		"alignment": "NE",
 		"areas_of_concern": "Dreams, night hags, planar travel",
 		"domains": [
@@ -996,7 +1002,7 @@
 			"**Source** [Inner Sea Gods pg. 318](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Aldinach](http://www.pathfinderwiki.com/wiki/Aldinach)"
 		],
-		"pantheon": "Demon Lords",
+		"pantheons": [ "Demon Lords" ],
 		"alignment": "CE",
 		"areas_of_concern": "Sand, scorpions, thirst",
 		"domains": [
@@ -1097,7 +1103,7 @@
 			"**Source** [Inner Sea Gods pg. 326](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Alichino](http://www.pathfinderwiki.com/wiki/Alichino)"
 		],
-		"pantheon": "Malebranche",
+		"pantheons": [ "Malebranche" ],
 		"alignment": "LE",
 		"areas_of_concern": "Deception, madness, royalty",
 		"domains": [
@@ -1169,7 +1175,7 @@
 			"**Source** [Inner Sea Gods pg. 326](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Alocer](http://www.pathfinderwiki.com/wiki/Alocer)"
 		],
-		"pantheon": "Infernal Dukes",
+		"pantheons": [ "Infernal Dukes" ],
 		"alignment": "LE",
 		"areas_of_concern": "Beasts, hunters, tradition",
 		"domains": [
@@ -1241,7 +1247,7 @@
 			"**Source** [Inner Sea Faiths pg. 11](source:Inner Sea Faiths)",
 			"**Pathfinder Wiki** [Alseta](http://www.pathfinderwiki.com/wiki/Alseta)"
 		],
-		"pantheon": "Other Deities",
+		"pantheons": [ "Other Deities" ],
 		"alignment": "LN",
 		"areas_of_concern": "Doors, transitions, years",
 		"domains": [
@@ -1345,7 +1351,7 @@
 			"**Source** [Pathfinder #123: The Flooded Cathedral pg. 68](source:Pathfinder #123: The Flooded Cathedral)",
 			"**Pathfinder Wiki** [Amaznen](http://www.pathfinderwiki.com/wiki/Amaznen)"
 		],
-		"pantheon": "Azlanti Pantheon",
+		"pantheons": [ "Azlanti Pantheon" ],
 		"alignment": "LN",
 		"areas_of_concern": "Invention, magic, and secret knowledge",
 		"domains": [
@@ -1385,7 +1391,7 @@
 			"**Source** [Book of the Damned pg. 132](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Ananshea](http://www.pathfinderwiki.com/wiki/Ananshea)"
 		],
-		"pantheon": "Sahkil Tormentors",
+		"pantheons": [ "Sahkil Tormentors" ],
 		"alignment": "CE",
 		"areas_of_concern": "Brutality, torture, wild animals",
 		"domains": [
@@ -1439,7 +1445,7 @@
 			"**Source** [Book of the Damned pg. 110](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Andak](http://www.pathfinderwiki.com/wiki/Andak)"
 		],
-		"pantheon": "Asura Ranas",
+		"pantheons": [ "Asura Ranas" ],
 		"alignment": "LE",
 		"areas_of_concern": "Axes, dismemberment, torture",
 		"domains": [
@@ -1497,8 +1503,10 @@
 			"**Source** [Inner Sea Gods pg. 320](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Andirifkhu](http://www.pathfinderwiki.com/wiki/Andirifkhu)"
 		],
-		"pantheon": "Demon Lords",
-		"other_pantheons": "Kobold Deities",
+		"pantheons": [
+			"Demon Lords",
+			"Kobold Deities"
+		],
 		"alignment": "CE",
 		"areas_of_concern": "Knives, illusions, traps",
 		"domains": [
@@ -1595,7 +1603,7 @@
 			"**Source** [Inner Sea Gods pg. 322](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Andoletta](http://www.pathfinderwiki.com/wiki/Andoletta)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "LG",
 		"areas_of_concern": "Consolation, respect, security",
 		"domains": [
@@ -1677,7 +1685,7 @@
 			"**Source** [Inner Sea Gods pg. 320](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Angazhan](http://www.pathfinderwiki.com/wiki/Angazhan)"
 		],
-		"pantheon": "Demon Lords",
+		"pantheons": [ "Demon Lords" ],
 		"alignment": "CE",
 		"areas_of_concern": "Apes, jungles, tyrants",
 		"domains": [
@@ -1775,7 +1783,7 @@
 			"**Source** [Inner Sea Gods pg. 320](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Angradd](http://www.pathfinderwiki.com/wiki/Angradd)"
 		],
-		"pantheon": "Dwarven Deities",
+		"pantheons": [ "Dwarven Deities" ],
 		"alignment": "LG",
 		"areas_of_concern": "Fire, tradition, war",
 		"domains": [
@@ -1865,7 +1873,7 @@
 			"**Source** [Inner Sea Gods pg. 318](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Anogetz](http://www.pathfinderwiki.com/wiki/Anogetz)"
 		],
-		"pantheon": "Daemon Harbingers",
+		"pantheons": [ "Daemon Harbingers" ],
 		"alignment": "NE",
 		"areas_of_concern": "Animal attacks, coups, revolution",
 		"domains": [
@@ -1928,7 +1936,7 @@
 			"**Source** [Pathfinder #80: Empty Graves pg. 65](source:Pathfinder #80: Empty Graves)",
 			"**Pathfinder Wiki** [Anubis](http://www.pathfinderwiki.com/wiki/Anubis)"
 		],
-		"pantheon": "Deities of Ancient Osirion",
+		"pantheons": [ "Deities of Ancient Osirion" ],
 		"alignment": "LN",
 		"areas_of_concern": "Burial, the dead, funeral rites, mummification, tombs",
 		"domains": [
@@ -1970,7 +1978,7 @@
 			"**Source** [Pathfinder #80: Empty Graves pg. 65](source:Pathfinder #80: Empty Graves)",
 			"**Pathfinder Wiki** [Apep](http://www.pathfinderwiki.com/wiki/Apep)"
 		],
-		"pantheon": "Deities of Ancient Osirion",
+		"pantheons": [ "Deities of Ancient Osirion" ],
 		"alignment": "CE",
 		"areas_of_concern": "Chaos, darkness, destruction, snakes",
 		"domains": [
@@ -2021,7 +2029,7 @@
 			"**Source** [Inner Sea Gods pg. 326](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Apollyon](http://www.pathfinderwiki.com/wiki/Apollyon)"
 		],
-		"pantheon": "Horsemen",
+		"pantheons": [ "Horsemen" ],
 		"alignment": "NE",
 		"areas_of_concern": "Pestilence",
 		"domains": [
@@ -2108,8 +2116,10 @@
 			"**Source** [Inner Sea Faiths pg. 17](source:Inner Sea Faiths)",
 			"**Pathfinder Wiki** [Apsu](http://www.pathfinderwiki.com/wiki/Apsu)"
 		],
-		"pantheon": "Other Deities",
-		"other_pantheons": "Scalefolk Deities",
+		"pantheons": [
+			"Other Deities",
+			"Scalefolk Deities"
+		],
 		"alignment": "LG",
 		"areas_of_concern": "Good dragons, leadership, peace",
 		"domains": [
@@ -2228,7 +2238,7 @@
 			"**Source** [Inner Sea Gods pg. 316](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Arazni](http://www.pathfinderwiki.com/wiki/Arazni)"
 		],
-		"pantheon": "Other Deities",
+		"pantheons": [ "Other Deities" ],
 		"alignment": "NE",
 		"areas_of_concern": "Command of undeath, lichdom",
 		"domains": [
@@ -2324,7 +2334,7 @@
 			"**Source** [Inner Sea Gods pg. 328](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Ardad Lili](http://www.pathfinderwiki.com/wiki/Ardad Lili)"
 		],
-		"pantheon": "Queens of the Night",
+		"pantheons": [ "Queens of the Night" ],
 		"alignment": "LE",
 		"areas_of_concern": "Seduction, snakes, women",
 		"domains": [
@@ -2410,7 +2420,7 @@
 			"**Source** [Inner Sea Gods pg. 320](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Areshkagal](http://www.pathfinderwiki.com/wiki/Areshkagal)"
 		],
-		"pantheon": "Demon Lords",
+		"pantheons": [ "Demon Lords" ],
 		"alignment": "CE",
 		"areas_of_concern": "Greed, portals, riddles",
 		"domains": [
@@ -2506,7 +2516,7 @@
 			"**Source** [Inner Sea Gods pg. 318](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Arlachramas](http://www.pathfinderwiki.com/wiki/Arlachramas)"
 		],
-		"pantheon": "Daemon Harbingers",
+		"pantheons": [ "Daemon Harbingers" ],
 		"alignment": "NE",
 		"areas_of_concern": "Dehumanization, disposal, euthanasia",
 		"domains": [
@@ -2569,7 +2579,7 @@
 			"**Source** [Pathfinder #100: A Song of Silver pg. 70](source:Pathfinder #100: A Song of Silver)",
 			"**Pathfinder Wiki** [Aroden](http://www.pathfinderwiki.com/wiki/Aroden)"
 		],
-		"pantheon": "Dead Deities",
+		"pantheons": [ "Dead Deities" ],
 		"alignment": "LN",
 		"areas_of_concern": "Humanity, innovation, history, culture, and fulfillment of destiny",
 		"domains": [
@@ -2613,7 +2623,7 @@
 			"**Source** [Book of the Damned pg. 120](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Aroggus](http://www.pathfinderwiki.com/wiki/Aroggus)"
 		],
-		"pantheon": "Kyton Demagogues",
+		"pantheons": [ "Kyton Demagogues" ],
 		"alignment": "LE",
 		"areas_of_concern": "Possibility, revenge, sanctuary",
 		"domains": [
@@ -2670,7 +2680,7 @@
 			"**Source** [Inner Sea Gods pg. 322](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Arqueros](http://www.pathfinderwiki.com/wiki/Arqueros)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "LG",
 		"areas_of_concern": "Bodyguards, protection, watchfulness",
 		"domains": [
@@ -2750,7 +2760,7 @@
 			"**Source** [Inner Sea Gods pg. 322](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Arshea](http://www.pathfinderwiki.com/wiki/Arshea)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "NG",
 		"areas_of_concern": "Freedom, physical beauty, sexuality",
 		"domains": [
@@ -2826,7 +2836,7 @@
 			"**Source** [Inner Sea Gods pg. 322](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Ashava](http://www.pathfinderwiki.com/wiki/Ashava)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "CG",
 		"areas_of_concern": "Dancers, lonely spirits, moonlight",
 		"domains": [
@@ -2935,7 +2945,7 @@
 			"**Source** [Distant Shores pg. 42](source:Distant Shores)",
 			"**Pathfinder Wiki** [Ashukharma](http://www.pathfinderwiki.com/wiki/Ashukharma)"
 		],
-		"pantheon": "Other Deities",
+		"pantheons": [ "Other Deities" ],
 		"alignment": "CN",
 		"areas_of_concern": "Canyons, cliffs, gorges, and ravines",
 		"domains": [
@@ -2984,8 +2994,12 @@
 			"**Source** [Inner Sea Gods pg. 20](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Asmodeus](http://www.pathfinderwiki.com/wiki/Asmodeus)"
 		],
-		"pantheon": "Core Deities",
-		"other_pantheons": "Archdevils, Kobold Deities, Order of the God Claw Pantheon",
+		"pantheons": [
+			"Core Deities",
+			"Archdevils",
+			"Kobold Deities",
+			"Order of the God Claw Pantheon"
+		],
 		"alignment": "LE",
 		"areas_of_concern": "Contracts, pride, slavery, tyranny",
 		"domains": [
@@ -3158,7 +3172,7 @@
 			"**Source** [Pathfinder #109: In Search of Sanity pg. 64](source:Pathfinder #109: In Search of Sanity)",
 			"**Pathfinder Wiki** [Atlach-Nacha](http://www.pathfinderwiki.com/wiki/Atlach-Nacha)"
 		],
-		"pantheon": "Great Old Ones",
+		"pantheons": [ "Great Old Ones" ],
 		"alignment": "NE",
 		"areas_of_concern": "Construction, futility, spiders",
 		"domains": [
@@ -3204,7 +3218,7 @@
 			"**Source** [Concordance of Rivals pg. 6](source:Concordance of Rivals)",
 			"**Pathfinder Wiki** [Atropos](http://www.pathfinderwiki.com/wiki/Atropos)"
 		],
-		"pantheon": "Psychopomp Usher",
+		"pantheons": [ "Psychopomp Usher" ],
 		"alignment": "N",
 		"areas_of_concern": "Fate, sleep, and youth",
 		"domains": [
@@ -3259,7 +3273,7 @@
 			"**Source** [Inner Sea Gods pg. 322](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Ayrzul](http://www.pathfinderwiki.com/wiki/Ayrzul)"
 		],
-		"pantheon": "Elemental Lords",
+		"pantheons": [ "Elemental Lords" ],
 		"alignment": "NE",
 		"areas_of_concern": "Buried secrets, earth, metal",
 		"domains": [
@@ -3312,7 +3326,7 @@
 			"**Source** [Pathfinder #109: In Search of Sanity pg. 65](source:Pathfinder #109: In Search of Sanity)",
 			"**Pathfinder Wiki** [Azathoth](http://www.pathfinderwiki.com/wiki/Azathoth)"
 		],
-		"pantheon": "Outer Gods",
+		"pantheons": [ "Outer Gods" ],
 		"alignment": "CN",
 		"areas_of_concern": "Entropy, madness, mindless destruction",
 		"domains": [
@@ -3369,7 +3383,7 @@
 			"**Source** [Inner Sea Gods pg. 318](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Baalzebul](http://www.pathfinderwiki.com/wiki/Baalzebul)"
 		],
-		"pantheon": "Archdevils",
+		"pantheons": [ "Archdevils" ],
 		"alignment": "LE",
 		"areas_of_concern": "Arrogance, flies, lies",
 		"domains": [
@@ -3454,7 +3468,7 @@
 			"**Source** [Inner Sea Gods pg. 320](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Baphomet](http://www.pathfinderwiki.com/wiki/Baphomet)"
 		],
-		"pantheon": "Demon Lords",
+		"pantheons": [ "Demon Lords" ],
 		"alignment": "CE",
 		"areas_of_concern": "Beasts, labyrinths, minotaurs",
 		"domains": [
@@ -3583,7 +3597,7 @@
 			"**Source** [Inner Sea Gods pg. 326](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Barbariccia](http://www.pathfinderwiki.com/wiki/Barbariccia)"
 		],
-		"pantheon": "Malebranche",
+		"pantheons": [ "Malebranche" ],
 		"alignment": "LE",
 		"areas_of_concern": "Fecundity, predators, slaughter",
 		"domains": [
@@ -3655,7 +3669,7 @@
 			"**Source** [Inner Sea Gods pg. 318](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Barbatos](http://www.pathfinderwiki.com/wiki/Barbatos)"
 		],
-		"pantheon": "Archdevils",
+		"pantheons": [ "Archdevils" ],
 		"alignment": "LE",
 		"areas_of_concern": "Animals, corruption, gateways",
 		"domains": [
@@ -3737,7 +3751,7 @@
 			"**Source** [Book of the Damned pg. 120](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Barravoclair](http://www.pathfinderwiki.com/wiki/Barravoclair)"
 		],
-		"pantheon": "Kyton Demagogues",
+		"pantheons": [ "Kyton Demagogues" ],
 		"alignment": "LE",
 		"areas_of_concern": "The elderly, fatalistic insights, resurrection",
 		"domains": [
@@ -3794,7 +3808,7 @@
 			"**Source** [Concordance of Rivals pg. 6](source:Concordance of Rivals)",
 			"**Pathfinder Wiki** [Barzahk](http://www.pathfinderwiki.com/wiki/Barzahk)"
 		],
-		"pantheon": "Psychopomp Usher",
+		"pantheons": [ "Psychopomp Usher" ],
 		"alignment": "N",
 		"areas_of_concern": "Compasses, travelers, and vigils",
 		"domains": [
@@ -3886,7 +3900,7 @@
 			"**Source** [Pathfinder #80: Empty Graves pg. 65](source:Pathfinder #80: Empty Graves)",
 			"**Pathfinder Wiki** [Bastet](http://www.pathfinderwiki.com/wiki/Bastet)"
 		],
-		"pantheon": "Deities of Ancient Osirion",
+		"pantheons": [ "Deities of Ancient Osirion" ],
 		"alignment": "CN",
 		"areas_of_concern": "Cats, pleasure, secrets",
 		"domains": [
@@ -3931,7 +3945,7 @@
 			"**Source** [Inner Sea Gods pg. 318](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Belial](http://www.pathfinderwiki.com/wiki/Belial)"
 		],
-		"pantheon": "Archdevils",
+		"pantheons": [ "Archdevils" ],
 		"alignment": "LE",
 		"areas_of_concern": "Adultery, deception, desire",
 		"domains": [
@@ -4011,7 +4025,7 @@
 			"**Source** [Inner Sea Gods pg. 322](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Benorus](http://www.pathfinderwiki.com/wiki/Benorus)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "NG",
 		"areas_of_concern": "Hidden wonders, mines, subterranean creatures",
 		"domains": [
@@ -4062,7 +4076,7 @@
 			"**Source** [Inner Sea Gods pg. 324](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Bergelmir](http://www.pathfinderwiki.com/wiki/Bergelmir)"
 		],
-		"pantheon": "Giant Deities",
+		"pantheons": [ "Giant Deities" ],
 		"alignment": "CG",
 		"areas_of_concern": "Elders, family, genealogy",
 		"domains": [
@@ -4108,7 +4122,7 @@
 			"**Source** [Pathfinder #80: Empty Graves pg. 65](source:Pathfinder #80: Empty Graves)",
 			"**Pathfinder Wiki** [Bes](http://www.pathfinderwiki.com/wiki/Bes)"
 		],
-		"pantheon": "Deities of Ancient Osirion",
+		"pantheons": [ "Deities of Ancient Osirion" ],
 		"alignment": "NG",
 		"areas_of_concern": "Households, luck, marriage, protection",
 		"domains": [
@@ -4154,7 +4168,7 @@
 			"**Source** [Inner Sea Faiths pg. 23](source:Inner Sea Faiths)",
 			"**Pathfinder Wiki** [Besmara](http://www.pathfinderwiki.com/wiki/Besmara)"
 		],
-		"pantheon": "Other Deities",
+		"pantheons": [ "Other Deities" ],
 		"alignment": "CN",
 		"areas_of_concern": "Piracy, sea monsters, strife",
 		"domains": [
@@ -4282,7 +4296,7 @@
 			"**Source** [Inner Sea Gods pg. 322](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Bharnarol](http://www.pathfinderwiki.com/wiki/Bharnarol)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "NG",
 		"areas_of_concern": "Creativity, invention, persistence",
 		"domains": [
@@ -4356,7 +4370,7 @@
 			"**Source** [Inner Sea Gods pg. 326](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Bifrons](http://www.pathfinderwiki.com/wiki/Bifrons)"
 		],
-		"pantheon": "Infernal Dukes",
+		"pantheons": [ "Infernal Dukes" ],
 		"alignment": "LE",
 		"areas_of_concern": "Fate, luck, patterns",
 		"domains": [
@@ -4428,7 +4442,7 @@
 			"**Source** [Inner Sea Gods pg. 322](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Black Butterfly](http://www.pathfinderwiki.com/wiki/Black Butterfly)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "CG",
 		"areas_of_concern": "Distance, silence, space",
 		"domains": [
@@ -4498,7 +4512,7 @@
 			"**Source** [Book of the Damned pg. 110](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Bohga](http://www.pathfinderwiki.com/wiki/Bohga)"
 		],
-		"pantheon": "Asura Ranas",
+		"pantheons": [ "Asura Ranas" ],
 		"alignment": "LE",
 		"areas_of_concern": "Avarice, meditation, vigilance",
 		"domains": [
@@ -4552,7 +4566,7 @@
 			"**Source** [Pathfinder #109: In Search of Sanity pg. 65](source:Pathfinder #109: In Search of Sanity)",
 			"**Pathfinder Wiki** [Bokrug](http://www.pathfinderwiki.com/wiki/Bokrug)"
 		],
-		"pantheon": "Great Old Ones",
+		"pantheons": [ "Great Old Ones" ],
 		"alignment": "CN",
 		"areas_of_concern": "Revenge, storms, water",
 		"domains": [
@@ -4605,7 +4619,7 @@
 			"**Source** [Inner Sea Gods pg. 320](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Bolka](http://www.pathfinderwiki.com/wiki/Bolka)"
 		],
-		"pantheon": "Dwarven Deities",
+		"pantheons": [ "Dwarven Deities" ],
 		"alignment": "NG",
 		"areas_of_concern": "Beauty, desire, love",
 		"domains": [
@@ -4661,7 +4675,7 @@
 			"**Source** [Inner Sea Gods pg. 318](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Braismois](http://www.pathfinderwiki.com/wiki/Braismois)"
 		],
-		"pantheon": "Daemon Harbingers",
+		"pantheons": [ "Daemon Harbingers" ],
 		"alignment": "NE",
 		"areas_of_concern": "Broken deals, fine print, unfair bargains",
 		"domains": [
@@ -4727,8 +4741,10 @@
 			"**Source** [Inner Sea Faiths pg. 29](source:Inner Sea Faiths)",
 			"**Pathfinder Wiki** [Brigh](http://www.pathfinderwiki.com/wiki/Brigh)"
 		],
-		"pantheon": "Other Deities",
-		"other_pantheons": "Gnomish Deities",
+		"pantheons": [
+			"Other Deities",
+			"Gnomish Deities"
+		],
 		"alignment": "N",
 		"areas_of_concern": "Clockwork, invention, time",
 		"domains": [
@@ -4840,7 +4856,7 @@
 			"**Source** [Book of the Damned pg. 130](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Bundha](http://www.pathfinderwiki.com/wiki/Bundha)"
 		],
-		"pantheon": "Rakshasa Immortals",
+		"pantheons": [ "Rakshasa Immortals" ],
 		"alignment": "LE",
 		"areas_of_concern": "N/a",
 		"domains": [
@@ -4895,7 +4911,7 @@
 			"**Source** [Book of the Damned pg. 130](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Caera](http://www.pathfinderwiki.com/wiki/Caera)"
 		],
-		"pantheon": "Rakshasa Immortals",
+		"pantheons": [ "Rakshasa Immortals" ],
 		"alignment": "LE",
 		"areas_of_concern": "N/a",
 		"domains": [
@@ -4953,7 +4969,7 @@
 			"**Source** [Inner Sea Gods pg. 326](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Cagnazzo](http://www.pathfinderwiki.com/wiki/Cagnazzo)"
 		],
-		"pantheon": "Malebranche",
+		"pantheons": [ "Malebranche" ],
 		"alignment": "LE",
 		"areas_of_concern": "Elusiveness, fear, murder",
 		"domains": [
@@ -5025,7 +5041,7 @@
 			"**Source** [Inner Sea Gods pg. 326](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Calcabrina](http://www.pathfinderwiki.com/wiki/Calcabrina)"
 		],
-		"pantheon": "Malebranche",
+		"pantheons": [ "Malebranche" ],
 		"alignment": "LE",
 		"areas_of_concern": "Dreams, insanity, mystery",
 		"domains": [
@@ -5100,8 +5116,10 @@
 			"**Source** [Inner Sea Gods pg. 28](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Calistria](http://www.pathfinderwiki.com/wiki/Calistria)"
 		],
-		"pantheon": "Core Deities",
-		"other_pantheons": "Elven Deities",
+		"pantheons": [
+			"Core Deities",
+			"Elven Deities"
+		],
 		"alignment": "CN",
 		"areas_of_concern": "Lust, revenge, trickery",
 		"domains": [
@@ -5263,7 +5281,7 @@
 			"**Source** [Inner Sea Gods pg. 316](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Camazotz](http://www.pathfinderwiki.com/wiki/Camazotz)"
 		],
-		"pantheon": "Other Deities",
+		"pantheons": [ "Other Deities" ],
 		"alignment": "CE",
 		"areas_of_concern": "Bats, blood, caverns, nocturnal predators",
 		"domains": [
@@ -5316,8 +5334,13 @@
 			"**Source** [Inner Sea Gods pg. 36](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Cayden Cailean](http://www.pathfinderwiki.com/wiki/Cayden Cailean)"
 		],
-		"pantheon": "Core Deities",
-		"other_pantheons": "Ascended Pantheon, Gnomish Deities, Halfling Deities, Taldan Pantheon",
+		"pantheons": [
+			"Core Deities",
+			"Ascended Pantheon",
+			"Gnomish Deities",
+			"Halfling Deities",
+			"Taldan Pantheon"
+		],
 		"alignment": "CG",
 		"areas_of_concern": "Ale, bravery, freedom, wine",
 		"domains": [
@@ -5466,7 +5489,7 @@
 			"**Source** [Inner Sea Gods pg. 322](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Cernunnos](http://www.pathfinderwiki.com/wiki/Cernunnos)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "CG",
 		"areas_of_concern": "Fertility, seasons, wild animals",
 		"domains": [
@@ -5518,7 +5541,7 @@
 			"**Source** [Concordance of Rivals pg. 7](source:Concordance of Rivals)",
 			"**Pathfinder Wiki** [Ceyannan](http://www.pathfinderwiki.com/wiki/Ceyannan)"
 		],
-		"pantheon": "Psychopomp Usher",
+		"pantheons": [ "Psychopomp Usher" ],
 		"alignment": "N",
 		"areas_of_concern": "Final words, lost souls, and searches",
 		"domains": [
@@ -5576,7 +5599,7 @@
 			"**Source** [Inner Sea Gods pg. 322](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Chadali](http://www.pathfinderwiki.com/wiki/Chadali)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "CG",
 		"areas_of_concern": "Fate, safety, serendipity",
 		"domains": [
@@ -5649,7 +5672,7 @@
 			"**Source** [Inner Sea Gods pg. 324](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Chaldira](http://www.pathfinderwiki.com/wiki/Chaldira)"
 		],
-		"pantheon": "Halfling Deities",
+		"pantheons": [ "Halfling Deities" ],
 		"alignment": "NG",
 		"areas_of_concern": "Battle, luck, mischief",
 		"domains": [
@@ -5719,7 +5742,7 @@
 			"**Source** [Book of the Damned pg. 132](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Chamiaholom](http://www.pathfinderwiki.com/wiki/Chamiaholom)"
 		],
-		"pantheon": "Sahkil Tormentors",
+		"pantheons": [ "Sahkil Tormentors" ],
 		"alignment": "CE",
 		"areas_of_concern": "Domination, hopelessness, mortality",
 		"domains": [
@@ -5773,7 +5796,7 @@
 			"**Source** [Book of the Damned pg. 132](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Charg](http://www.pathfinderwiki.com/wiki/Charg)"
 		],
-		"pantheon": "Sahkil Tormentors",
+		"pantheons": [ "Sahkil Tormentors" ],
 		"alignment": "CE",
 		"areas_of_concern": "Catastrophic decline, detrimental complacency, monsters",
 		"domains": [
@@ -5835,7 +5858,7 @@
 			"**Source** [Inner Sea Gods pg. 326](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Charon](http://www.pathfinderwiki.com/wiki/Charon)"
 		],
-		"pantheon": "Horsemen",
+		"pantheons": [ "Horsemen" ],
 		"alignment": "NE",
 		"areas_of_concern": "Death",
 		"domains": [
@@ -5918,7 +5941,7 @@
 			"**Source** [Pathfinder #109: In Search of Sanity pg. 66](source:Pathfinder #109: In Search of Sanity)",
 			"**Pathfinder Wiki** [Chaugnar Faugn](http://www.pathfinderwiki.com/wiki/Chaugnar Faugn)"
 		],
-		"pantheon": "Great Old Ones",
+		"pantheons": [ "Great Old Ones" ],
 		"alignment": "CE",
 		"areas_of_concern": "Blood, patience, remote hill country",
 		"domains": [
@@ -5967,7 +5990,7 @@
 			"**Source** [Inner Sea Gods pg. 328](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Chavazvug](http://www.pathfinderwiki.com/wiki/Chavazvug)"
 		],
-		"pantheon": "Qlippoth Lords",
+		"pantheons": [ "Qlippoth Lords" ],
 		"alignment": "CE",
 		"areas_of_concern": "Fiery consumption, monstrous recursion",
 		"domains": [
@@ -6026,7 +6049,7 @@
 			"**Source** [Book of the Damned pg. 126](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Chimon](http://www.pathfinderwiki.com/wiki/Chimon)"
 		],
-		"pantheon": "Oni Daimyo",
+		"pantheons": [ "Oni Daimyo" ],
 		"alignment": "NE",
 		"areas_of_concern": "Ambushes, hunting, traps",
 		"domains": [
@@ -6079,7 +6102,7 @@
 			"**Source** [Pathfinder #144: Midwives to Death pg. 74](source:Pathfinder #144: Midwives to Death)",
 			"**Pathfinder Wiki** [Chinostes (Evil Aspect)](http://www.pathfinderwiki.com/wiki/Chinostes (Evil Aspect))"
 		],
-		"pantheon": "Iblydan Hero-Gods",
+		"pantheons": [ "Iblydan Hero-Gods" ],
 		"alignment": "NE",
 		"areas_of_concern": "Tragedy, sacrifice",
 		"domains": [
@@ -6126,7 +6149,7 @@
 			"**Source** [Pathfinder #144: Midwives to Death pg. 74](source:Pathfinder #144: Midwives to Death)",
 			"**Pathfinder Wiki** [Chinostes (Good Aspect)](http://www.pathfinderwiki.com/wiki/Chinostes (Good Aspect))"
 		],
-		"pantheon": "Iblydan Hero-Gods",
+		"pantheons": [ "Iblydan Hero-Gods" ],
 		"alignment": "NG",
 		"areas_of_concern": "Tragedy, sacrifice",
 		"domains": [
@@ -6176,7 +6199,7 @@
 			"**Source** [Inner Sea Gods pg. 322](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Chucaro](http://www.pathfinderwiki.com/wiki/Chucaro)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "CG",
 		"areas_of_concern": "Dreams, hallucinations, mists",
 		"domains": [
@@ -6243,7 +6266,7 @@
 			"**Source** [Book of the Damned pg. 110](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Chugarra](http://www.pathfinderwiki.com/wiki/Chugarra)"
 		],
-		"pantheon": "Asura Ranas",
+		"pantheons": [ "Asura Ranas" ],
 		"alignment": "LE",
 		"areas_of_concern": "Blood, butchers, leather",
 		"domains": [
@@ -6297,7 +6320,7 @@
 			"**Source** [Book of the Damned pg. 110](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Chupurvagasti](http://www.pathfinderwiki.com/wiki/Chupurvagasti)"
 		],
-		"pantheon": "Asura Ranas",
+		"pantheons": [ "Asura Ranas" ],
 		"alignment": "LE",
 		"areas_of_concern": "Mist, poison, veils",
 		"domains": [
@@ -6351,7 +6374,7 @@
 			"**Source** [Pathfinder #143: Borne by the Sun's Grace pg. 66](source:Pathfinder #143: Borne by the Sun's Grace)",
 			"**Pathfinder Wiki** [Cihua Couatl](http://www.pathfinderwiki.com/wiki/Cihua Couatl)"
 		],
-		"pantheon": "Other Deities",
+		"pantheons": [ "Other Deities" ],
 		"alignment": "NG",
 		"areas_of_concern": "Childbirth, protection, and warfare",
 		"domains": [
@@ -6396,7 +6419,7 @@
 			"**Source** [Inner Sea Gods pg. 326](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Circiatto](http://www.pathfinderwiki.com/wiki/Circiatto)"
 		],
-		"pantheon": "Malebranche",
+		"pantheons": [ "Malebranche" ],
 		"alignment": "LE",
 		"areas_of_concern": "Gluttony, greed, undead",
 		"domains": [
@@ -6468,7 +6491,7 @@
 			"**Source** [Inner Sea Gods pg. 318](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Cixyron](http://www.pathfinderwiki.com/wiki/Cixyron)"
 		],
-		"pantheon": "Daemon Harbingers",
+		"pantheons": [ "Daemon Harbingers" ],
 		"alignment": "NE",
 		"areas_of_concern": "Electricity, gunpowder, poisonous metals",
 		"domains": [
@@ -6539,7 +6562,7 @@
 			"**Source** [Inner Sea Gods pg. 318](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Corosbel](http://www.pathfinderwiki.com/wiki/Corosbel)"
 		],
-		"pantheon": "Daemon Harbingers",
+		"pantheons": [ "Daemon Harbingers" ],
 		"alignment": "NE",
 		"areas_of_concern": "Failed martyrdom, false worship, ritual death",
 		"domains": [
@@ -6602,7 +6625,7 @@
 			"**Source** [The First World, Realm of the Fey pg. 18](source:The First World, Realm of the Fey)",
 			"**Pathfinder Wiki** [Count Ranalc](http://www.pathfinderwiki.com/wiki/Count Ranalc)"
 		],
-		"pantheon": "Eldest",
+		"pantheons": [ "Eldest" ],
 		"alignment": "CN",
 		"areas_of_concern": "Betrayal, exiles, shadows",
 		"domains": [
@@ -6676,7 +6699,7 @@
 			"**Source** [Inner Sea Gods pg. 326](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Crocell](http://www.pathfinderwiki.com/wiki/Crocell)"
 		],
-		"pantheon": "Infernal Dukes",
+		"pantheons": [ "Infernal Dukes" ],
 		"alignment": "LE",
 		"areas_of_concern": "Hidden waters, illusion, language",
 		"domains": [
@@ -6745,7 +6768,7 @@
 			"**Source** [Pathfinder #109: In Search of Sanity pg. 66](source:Pathfinder #109: In Search of Sanity)",
 			"**Pathfinder Wiki** [Cthulhu](http://www.pathfinderwiki.com/wiki/Cthulhu)"
 		],
-		"pantheon": "Great Old Ones",
+		"pantheons": [ "Great Old Ones" ],
 		"alignment": "CE",
 		"areas_of_concern": "Cataclysms, dreams, the stars",
 		"domains": [
@@ -6802,7 +6825,7 @@
 			"**Source** [Pathfinder #119: Prisoners of the Blight pg. 71](source:Pathfinder #119: Prisoners of the Blight)",
 			"**Pathfinder Wiki** [Cyth-V'sug](http://www.pathfinderwiki.com/wiki/Cyth-V'sug)"
 		],
-		"pantheon": "Demon Lords",
+		"pantheons": [ "Demon Lords" ],
 		"alignment": "CE",
 		"areas_of_concern": "Disease, fungus, parasites",
 		"domains": [
@@ -6902,7 +6925,7 @@
 			"**Source** [Book of the Damned pg. 132](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Dachzerul](http://www.pathfinderwiki.com/wiki/Dachzerul)"
 		],
-		"pantheon": "Sahkil Tormentors",
+		"pantheons": [ "Sahkil Tormentors" ],
 		"alignment": "CE",
 		"areas_of_concern": "Deadly pranks, stalkers, sudden death",
 		"domains": [
@@ -6959,7 +6982,7 @@
 			"**Source** [Inner Sea Gods pg. 328](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Daclau-Sar](http://www.pathfinderwiki.com/wiki/Daclau-Sar)"
 		],
-		"pantheon": "Nascent Demon Lords",
+		"pantheons": [ "Nascent Demon Lords" ],
 		"alignment": "CE",
 		"areas_of_concern": "Carrion, scavengers",
 		"domains": [
@@ -7038,7 +7061,7 @@
 			"**Source** [Inner Sea Gods pg. 320](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Dagon](http://www.pathfinderwiki.com/wiki/Dagon)"
 		],
-		"pantheon": "Demon Lords",
+		"pantheons": [ "Demon Lords" ],
 		"alignment": "CE",
 		"areas_of_concern": "Deformity, sea monsters, the sea",
 		"domains": [
@@ -7134,8 +7157,11 @@
 			"**Source** [Inner Sea Faiths pg. 35](source:Inner Sea Faiths)",
 			"**Pathfinder Wiki** [Dahak](http://www.pathfinderwiki.com/wiki/Dahak)"
 		],
-		"pantheon": "Other Deities",
-		"other_pantheons": "Kobold Deities, Scalefolk Deities",
+		"pantheons": [
+			"Other Deities",
+			"Kobold Deities",
+			"Scalefolk Deities"
+		],
 		"alignment": "CE",
 		"areas_of_concern": "Destruction, evil dragons, greed",
 		"domains": [
@@ -7249,7 +7275,7 @@
 			"**Source** [Dragon Empires Gazetteer pg. 58](source:Dragon Empires Gazetteer)",
 			"**Pathfinder Wiki** [Daikitsu](http://www.pathfinderwiki.com/wiki/Daikitsu)"
 		],
-		"pantheon": "Deities of Tian Xia",
+		"pantheons": [ "Deities of Tian Xia" ],
 		"alignment": "N",
 		"areas_of_concern": "Agriculture, craftsmanship, kitsune, rice",
 		"domains": [
@@ -7298,7 +7324,7 @@
 			"**Source** [Inner Sea Gods pg. 322](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Dalenydra](http://www.pathfinderwiki.com/wiki/Dalenydra)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "NG",
 		"areas_of_concern": "Battlefield healing, caregiving, sanctuaries",
 		"domains": [
@@ -7354,7 +7380,7 @@
 			"**Source** [Inner Sea Gods pg. 322](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Damerrich](http://www.pathfinderwiki.com/wiki/Damerrich)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "LG",
 		"areas_of_concern": "Executions, judiciousness, responsibility",
 		"domains": [
@@ -7424,7 +7450,7 @@
 			"**Source** [Concordance of Rivals pg. 8](source:Concordance of Rivals)",
 			"**Pathfinder Wiki** [Dammar](http://www.pathfinderwiki.com/wiki/Dammar)"
 		],
-		"pantheon": "Psychopomp Usher",
+		"pantheons": [ "Psychopomp Usher" ],
 		"alignment": "N",
 		"areas_of_concern": "Liquor, luck, and medicine",
 		"domains": [
@@ -7484,7 +7510,7 @@
 			"**Source** [Inner Sea Gods pg. 320](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Deskari](http://www.pathfinderwiki.com/wiki/Deskari)"
 		],
-		"pantheon": "Demon Lords",
+		"pantheons": [ "Demon Lords" ],
 		"alignment": "CE",
 		"areas_of_concern": "Chasms, infestations, locusts",
 		"domains": [
@@ -7607,8 +7633,14 @@
 			"**Source** [Inner Sea Gods pg. 44](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Desna](http://www.pathfinderwiki.com/wiki/Desna)"
 		],
-		"pantheon": "Core Deities",
-		"other_pantheons": "Deities of Tian Xia, Elven Deities, Gnomish Deities, Halfling Deities, Sandpoint Pantheon",
+		"pantheons": [
+			"Core Deities",
+			"Deities of Tian Xia",
+			"Elven Deities",
+			"Gnomish Deities",
+			"Halfling Deities",
+			"Sandpoint Pantheon"
+		],
 		"alignment": "CG",
 		"areas_of_concern": "Dreams, luck, stars, travelers",
 		"domains": [
@@ -7768,7 +7800,7 @@
 			"**Source** [Inner Sea Gods pg. 326](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Deumus](http://www.pathfinderwiki.com/wiki/Deumus)"
 		],
-		"pantheon": "Infernal Dukes",
+		"pantheons": [ "Infernal Dukes" ],
 		"alignment": "LE",
 		"areas_of_concern": "Apprehension, promises, terror",
 		"domains": [
@@ -7837,7 +7869,7 @@
 			"**Source** [Cult of the Ebon Destroyers pg. 6](source:Cult of the Ebon Destroyers)",
 			"**Pathfinder Wiki** [Dhalavei](http://www.pathfinderwiki.com/wiki/Dhalavei)"
 		],
-		"pantheon": "Other Deities",
+		"pantheons": [ "Other Deities" ],
 		"alignment": "LE",
 		"areas_of_concern": "Secrets, discord, eclipses",
 		"domains": [
@@ -7874,7 +7906,7 @@
 			"**Source** [Inner Sea Gods pg. 318](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Diceid](http://www.pathfinderwiki.com/wiki/Diceid)"
 		],
-		"pantheon": "Daemon Harbingers",
+		"pantheons": [ "Daemon Harbingers" ],
 		"alignment": "NE",
 		"areas_of_concern": "Invasive species, extinction, natural disaster",
 		"domains": [
@@ -7940,7 +7972,7 @@
 			"**Source** [Inner Sea Gods pg. 318](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Dispater](http://www.pathfinderwiki.com/wiki/Dispater)"
 		],
-		"pantheon": "Archdevils",
+		"pantheons": [ "Archdevils" ],
 		"alignment": "LE",
 		"areas_of_concern": "Cities, prisons, rulership",
 		"domains": [
@@ -8027,7 +8059,7 @@
 			"**Source** [Inner Sea Gods pg. 328](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Doloras](http://www.pathfinderwiki.com/wiki/Doloras)"
 		],
-		"pantheon": "Queens of the Night",
+		"pantheons": [ "Queens of the Night" ],
 		"alignment": "LE",
 		"areas_of_concern": "Detachment, dispassion, pain",
 		"domains": [
@@ -8100,7 +8132,7 @@
 			"**Source** [Book of the Damned pg. 130](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Dradjit](http://www.pathfinderwiki.com/wiki/Dradjit)"
 		],
-		"pantheon": "Rakshasa Immortals",
+		"pantheons": [ "Rakshasa Immortals" ],
 		"alignment": "LE",
 		"areas_of_concern": "N/a",
 		"domains": [
@@ -8159,7 +8191,7 @@
 			"**Source** [Inner Sea Gods pg. 326](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Draghignazzo](http://www.pathfinderwiki.com/wiki/Draghignazzo)"
 		],
-		"pantheon": "Malebranche",
+		"pantheons": [ "Malebranche" ],
 		"alignment": "LE",
 		"areas_of_concern": "Devastation, monsters, patience",
 		"domains": [
@@ -8237,7 +8269,7 @@
 			"**Source** [Inner Sea Gods pg. 320](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Dranngvit](http://www.pathfinderwiki.com/wiki/Dranngvit)"
 		],
-		"pantheon": "Dwarven Deities",
+		"pantheons": [ "Dwarven Deities" ],
 		"alignment": "LN",
 		"areas_of_concern": "Debt, pursuit, vengeance",
 		"domains": [
@@ -8288,7 +8320,7 @@
 			"**Source** [Inner Sea Gods pg. 328](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Dretha](http://www.pathfinderwiki.com/wiki/Dretha)"
 		],
-		"pantheon": "Orc Deities",
+		"pantheons": [ "Orc Deities" ],
 		"alignment": "CE",
 		"areas_of_concern": "Birth, fertility, tribes",
 		"domains": [
@@ -8332,7 +8364,7 @@
 			"**Source** [Pathfinder #144: Midwives to Death pg. 74](source:Pathfinder #144: Midwives to Death)",
 			"**Pathfinder Wiki** [Drokalion](http://www.pathfinderwiki.com/wiki/Drokalion)"
 		],
-		"pantheon": "Iblydan Hero-Gods",
+		"pantheons": [ "Iblydan Hero-Gods" ],
 		"alignment": "N",
 		"areas_of_concern": "none",
 		"domains": [
@@ -8365,7 +8397,7 @@
 			"**Source** [Inner Sea Gods pg. 320](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Droskar](http://www.pathfinderwiki.com/wiki/Droskar)"
 		],
-		"pantheon": "Dwarven Deities",
+		"pantheons": [ "Dwarven Deities" ],
 		"alignment": "NE",
 		"areas_of_concern": "Cheating, slavery, toil",
 		"domains": [
@@ -8427,7 +8459,7 @@
 			"**Source** [Inner Sea Gods pg. 318](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Ealdeez](http://www.pathfinderwiki.com/wiki/Ealdeez)"
 		],
-		"pantheon": "Daemon Harbingers",
+		"pantheons": [ "Daemon Harbingers" ],
 		"alignment": "NE",
 		"areas_of_concern": "Regression, reversion, savage revenge",
 		"domains": [
@@ -8493,7 +8525,7 @@
 			"**Source** [Inner Sea Gods pg. 326](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Eaqueo](http://www.pathfinderwiki.com/wiki/Eaqueo)"
 		],
-		"pantheon": "Infernal Dukes",
+		"pantheons": [ "Infernal Dukes" ],
 		"alignment": "LE",
 		"areas_of_concern": "Depression, nooses, sad stories",
 		"domains": [
@@ -8562,7 +8594,7 @@
 			"**Source** [Inner Sea Gods pg. 316](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Easivra](http://www.pathfinderwiki.com/wiki/Easivra)"
 		],
-		"pantheon": "Other Deities",
+		"pantheons": [ "Other Deities" ],
 		"alignment": "LG",
 		"areas_of_concern": "Avians, gold, the sun",
 		"domains": [
@@ -8610,7 +8642,7 @@
 			"**Source** [Inner Sea Gods pg. 328](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Eiseth](http://www.pathfinderwiki.com/wiki/Eiseth)"
 		],
-		"pantheon": "Queens of the Night",
+		"pantheons": [ "Queens of the Night" ],
 		"alignment": "LE",
 		"areas_of_concern": "Battle, revenge, wrath",
 		"domains": [
@@ -8683,7 +8715,7 @@
 			"**Source** [Inner Sea Gods pg. 322](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Eldas](http://www.pathfinderwiki.com/wiki/Eldas)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "LG",
 		"areas_of_concern": "Architecture, masonry, planning",
 		"domains": [
@@ -8738,7 +8770,7 @@
 			"**Source** [Inner Sea Gods pg. 326](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Eligos](http://www.pathfinderwiki.com/wiki/Eligos)"
 		],
-		"pantheon": "Infernal Dukes",
+		"pantheons": [ "Infernal Dukes" ],
 		"alignment": "LE",
 		"areas_of_concern": "Flight, soldiers, watchfulness",
 		"domains": [
@@ -8807,7 +8839,7 @@
 			"**Source** [Pathfinder #123: The Flooded Cathedral pg. 69](source:Pathfinder #123: The Flooded Cathedral)",
 			"**Pathfinder Wiki** [Elion](http://www.pathfinderwiki.com/wiki/Elion)"
 		],
-		"pantheon": "Azlanti Pantheon",
+		"pantheons": [ "Azlanti Pantheon" ],
 		"alignment": "CG",
 		"areas_of_concern": "Colonization, discovery, and exploration",
 		"domains": [
@@ -8858,8 +8890,12 @@
 			"**Source** [Inner Sea Gods pg. 52](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Erastil](http://www.pathfinderwiki.com/wiki/Erastil)"
 		],
-		"pantheon": "Core Deities",
-		"other_pantheons": "Gnomish Deities, Halfling Deities, Sandpoint Pantheon",
+		"pantheons": [
+			"Core Deities",
+			"Gnomish Deities",
+			"Halfling Deities",
+			"Sandpoint Pantheon"
+		],
 		"alignment": "LG",
 		"areas_of_concern": "Family, farming, hunting, trade",
 		"domains": [
@@ -9022,7 +9058,7 @@
 			"**Source** [Inner Sea Gods pg. 316](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Erecura](http://www.pathfinderwiki.com/wiki/Erecura)"
 		],
-		"pantheon": "Other Deities",
+		"pantheons": [ "Other Deities" ],
 		"alignment": "LN",
 		"areas_of_concern": "Deduction, mind reading, subtlety",
 		"domains": [
@@ -9071,7 +9107,7 @@
 			"**Source** [Inner Sea Gods pg. 322](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Eritrice](http://www.pathfinderwiki.com/wiki/Eritrice)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "NG",
 		"areas_of_concern": "Debate, opinions, truth",
 		"domains": [
@@ -9144,7 +9180,7 @@
 			"**Source** [Inner Sea Gods pg. 322](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Falayna](http://www.pathfinderwiki.com/wiki/Falayna)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "LG",
 		"areas_of_concern": "Femininity, martial training, rings",
 		"domains": [
@@ -9217,7 +9253,7 @@
 			"**Source** [Inner Sea Gods pg. 324](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Fandarra](http://www.pathfinderwiki.com/wiki/Fandarra)"
 		],
-		"pantheon": "Giant Deities",
+		"pantheons": [ "Giant Deities" ],
 		"alignment": "N",
 		"areas_of_concern": "Cycle of life, earth, knowledge",
 		"domains": [
@@ -9272,7 +9308,7 @@
 			"**Source** [Inner Sea Gods pg. 326](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Farfarello](http://www.pathfinderwiki.com/wiki/Farfarello)"
 		],
-		"pantheon": "Malebranche",
+		"pantheons": [ "Malebranche" ],
 		"alignment": "LE",
 		"areas_of_concern": "Antiquity, death, mists",
 		"domains": [
@@ -9341,7 +9377,7 @@
 			"**Source** [Inner Sea Gods pg. 316](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Feronia](http://www.pathfinderwiki.com/wiki/Feronia)"
 		],
-		"pantheon": "Other Deities",
+		"pantheons": [ "Other Deities" ],
 		"alignment": "N",
 		"areas_of_concern": "Fertility, sacred fires, wildlife",
 		"domains": [
@@ -9385,7 +9421,7 @@
 			"**Source** [Book of the Damned pg. 120](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Fharaas](http://www.pathfinderwiki.com/wiki/Fharaas)"
 		],
-		"pantheon": "Kyton Demagogues",
+		"pantheons": [ "Kyton Demagogues" ],
 		"alignment": "LE",
 		"areas_of_concern": "Experience, murder, patterns",
 		"domains": [
@@ -9439,7 +9475,7 @@
 			"**Source** [Inner Sea Gods pg. 322](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Findeladlara](http://www.pathfinderwiki.com/wiki/Findeladlara)"
 		],
-		"pantheon": "Elven Deities",
+		"pantheons": [ "Elven Deities" ],
 		"alignment": "CG",
 		"areas_of_concern": "Architecture, art, twilight",
 		"domains": [
@@ -9498,7 +9534,7 @@
 			"**Source** [Inner Sea Gods pg. 320](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Flauros](http://www.pathfinderwiki.com/wiki/Flauros)"
 		],
-		"pantheon": "Demon Lords",
+		"pantheons": [ "Demon Lords" ],
 		"alignment": "CE",
 		"areas_of_concern": "Fire, salamanders, volcanoes",
 		"domains": [
@@ -9594,7 +9630,7 @@
 			"**Source** [Inner Sea Gods pg. 318](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Folca](http://www.pathfinderwiki.com/wiki/Folca)"
 		],
-		"pantheon": "Daemon Harbingers",
+		"pantheons": [ "Daemon Harbingers" ],
 		"alignment": "NE",
 		"areas_of_concern": "Abduction, strangers, sweets",
 		"domains": [
@@ -9657,7 +9693,7 @@
 			"**Source** [Inner Sea Gods pg. 320](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Folgrit](http://www.pathfinderwiki.com/wiki/Folgrit)"
 		],
-		"pantheon": "Dwarven Deities",
+		"pantheons": [ "Dwarven Deities" ],
 		"alignment": "LG",
 		"areas_of_concern": "Children, hearths, mothers",
 		"domains": [
@@ -9717,7 +9753,7 @@
 			"**Source** [Dragon Empires Gazetteer pg. 58](source:Dragon Empires Gazetteer)",
 			"**Pathfinder Wiki** [Fumeiyoshi](http://www.pathfinderwiki.com/wiki/Fumeiyoshi)"
 		],
-		"pantheon": "Deities of Tian Xia",
+		"pantheons": [ "Deities of Tian Xia" ],
 		"alignment": "NE",
 		"areas_of_concern": "Dishonor, envy, graves, undead",
 		"domains": [
@@ -9767,7 +9803,7 @@
 			"**Source** [Inner Sea Gods pg. 326](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Furcas](http://www.pathfinderwiki.com/wiki/Furcas)"
 		],
-		"pantheon": "Infernal Dukes",
+		"pantheons": [ "Infernal Dukes" ],
 		"alignment": "LE",
 		"areas_of_concern": "Duty, flames, herbalism",
 		"domains": [
@@ -9839,7 +9875,7 @@
 			"**Source** [Inner Sea Gods pg. 326](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Gaap](http://www.pathfinderwiki.com/wiki/Gaap)"
 		],
-		"pantheon": "Infernal Dukes",
+		"pantheons": [ "Infernal Dukes" ],
 		"alignment": "LE",
 		"areas_of_concern": "Divination, illusion, water",
 		"domains": [
@@ -9908,7 +9944,7 @@
 			"**Source** [Book of the Damned pg. 110](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Gavidya](http://www.pathfinderwiki.com/wiki/Gavidya)"
 		],
-		"pantheon": "Asura Ranas",
+		"pantheons": [ "Asura Ranas" ],
 		"alignment": "LE",
 		"areas_of_concern": "Corruption, indoctrination, lies",
 		"domains": [
@@ -9965,7 +10001,7 @@
 			"**Source** [Dragon Empires Gazetteer pg. 58](source:Dragon Empires Gazetteer)",
 			"**Pathfinder Wiki** [General Susumu](http://www.pathfinderwiki.com/wiki/General Susumu)"
 		],
-		"pantheon": "Deities of Tian Xia",
+		"pantheons": [ "Deities of Tian Xia" ],
 		"alignment": "LE",
 		"areas_of_concern": "Archery, horses, personal glory, war",
 		"domains": [
@@ -10029,7 +10065,7 @@
 			"**Source** [Inner Sea Gods pg. 318](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Geon](http://www.pathfinderwiki.com/wiki/Geon)"
 		],
-		"pantheon": "Daemon Harbingers",
+		"pantheons": [ "Daemon Harbingers" ],
 		"alignment": "NE",
 		"areas_of_concern": "Nightmares, quartering, trampling",
 		"domains": [
@@ -10095,7 +10131,7 @@
 			"**Source** [Pathfinder #107: Scourge of the Godclaw pg. 73](source:Pathfinder #107: Scourge of the Godclaw)",
 			"**Pathfinder Wiki** [Geryon](http://www.pathfinderwiki.com/wiki/Geryon)"
 		],
-		"pantheon": "Archdevils",
+		"pantheons": [ "Archdevils" ],
 		"alignment": "LE",
 		"areas_of_concern": "Forbidden knowledge, heresy, snakes",
 		"domains": [
@@ -10211,7 +10247,7 @@
 			"**Source** [Pathfinder #109: In Search of Sanity pg. 67](source:Pathfinder #109: In Search of Sanity)",
 			"**Pathfinder Wiki** [Ghatanothoa](http://www.pathfinderwiki.com/wiki/Ghatanothoa)"
 		],
-		"pantheon": "Great Old Ones",
+		"pantheons": [ "Great Old Ones" ],
 		"alignment": "NE",
 		"areas_of_concern": "Disasters, lost islands, sacrifice",
 		"domains": [
@@ -10260,7 +10296,7 @@
 			"**Source** [Inner Sea Gods pg. 322](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Ghenshau](http://www.pathfinderwiki.com/wiki/Ghenshau)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "LG",
 		"areas_of_concern": "Ignorance, placidity, simplicity",
 		"domains": [
@@ -10330,7 +10366,7 @@
 			"**Source** [Inner Sea Faiths pg. 41](source:Inner Sea Faiths)",
 			"**Pathfinder Wiki** [Ghlaunder](http://www.pathfinderwiki.com/wiki/Ghlaunder)"
 		],
-		"pantheon": "Other Deities",
+		"pantheons": [ "Other Deities" ],
 		"alignment": "CE",
 		"areas_of_concern": "Infection, parasites, stagnation",
 		"domains": [
@@ -10437,7 +10473,7 @@
 			"**Source** [Inner Sea Gods pg. 320](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Gogunta](http://www.pathfinderwiki.com/wiki/Gogunta)"
 		],
-		"pantheon": "Demon Lords",
+		"pantheons": [ "Demon Lords" ],
 		"alignment": "CE",
 		"areas_of_concern": "Amphibians, boggards, swamps",
 		"domains": [
@@ -10535,7 +10571,7 @@
 			"**Source** [Inner Sea Gods pg. 60](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Gorum](http://www.pathfinderwiki.com/wiki/Gorum)"
 		],
-		"pantheon": "Core Deities",
+		"pantheons": [ "Core Deities" ],
 		"alignment": "CN",
 		"areas_of_concern": "Battle, strength, weapons",
 		"domains": [
@@ -10692,8 +10728,11 @@
 			"**Source** [Inner Sea Gods pg. 68](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Gozreh](http://www.pathfinderwiki.com/wiki/Gozreh)"
 		],
-		"pantheon": "Core Deities",
-		"other_pantheons": "Gnomish Deities, Sandpoint Pantheon",
+		"pantheons": [
+			"Core Deities",
+			"Gnomish Deities",
+			"Sandpoint Pantheon"
+		],
 		"alignment": "N",
 		"areas_of_concern": "Nature, the sea, weather",
 		"domains": [
@@ -10835,7 +10874,7 @@
 			"**Source** [Inner Sea Gods pg. 326](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Graffiacane](http://www.pathfinderwiki.com/wiki/Graffiacane)"
 		],
-		"pantheon": "Malebranche",
+		"pantheons": [ "Malebranche" ],
 		"alignment": "LE",
 		"areas_of_concern": "Corruption, elusiveness, vermin",
 		"domains": [
@@ -10904,7 +10943,7 @@
 			"**Source** [Faiths of Golarion pg. 11](source:Faiths of Golarion)",
 			"**Pathfinder Wiki** [Grandmother Spider](http://www.pathfinderwiki.com/wiki/Grandmother Spider)"
 		],
-		"pantheon": "Other Deities",
+		"pantheons": [ "Other Deities" ],
 		"alignment": "N",
 		"areas_of_concern": "Twilight, weaving, illusion, and family",
 		"domains": [
@@ -10927,7 +10966,7 @@
 			"**Symbol** Diamond made of eight interwoven threads"
 		],
 		"obedience": [
-			"Spend an hour weaving something clever and useful that you will use to better your community, incorporating the stories or symbolism of Grandmother Spider. Kindhearted souls often interpret this to mean weaving blankets, clothing, or tapestries for those in need, while duplicitous worshippers take it to mean weaving a tall tale or confidence game that exploits someone who's taking advantage of the community or teaches someone a valuable lesson. Gain a +2 sacred or profane bonus on Bluff and Perform (oratory) checks and on saving throws against illusions. The type of bonus depends on your alignment-if you're neither good nor evil, you must choose either sacred or profane the first time you perform your obedience, and this choice can't be changed."
+			"Spend an hour weaving something clever and useful that you will use to better your community, incorporating the stories or symbolism of Grandmother Spider. Kindhearted souls often interpret this to mean weaving blankets, clothing, or tapestries for those in need, while duplicitous worshipers take it to mean weaving a tall tale or confidence game that exploits someone who's taking advantage of the community or teaches someone a valuable lesson. Gain a +2 sacred or profane bonus on Bluff and Perform (oratory) checks and on saving throws against illusions. The type of bonus depends on your alignment-if you're neither good nor evil, you must choose either sacred or profane the first time you perform your obedience, and this choice can't be changed."
 		],
 		"on_golarion": [
 			"**Centers of Worship** Droon, Nurvatchta, the Shackles, The Sodden Lands",
@@ -10977,7 +11016,7 @@
 			"**Source** [Pathfinder #75: Demon's Heresy pg. 64](source:Pathfinder #75: Demon's Heresy)",
 			"**Pathfinder Wiki** [Green Faith](http://www.pathfinderwiki.com/wiki/Green Faith)"
 		],
-		"pantheon": "Core Deities",
+		"pantheons": [ "Core Deities" ],
 		"alignment": "N",
 		"areas_of_concern": "Air, beast, earth, fire, water",
 		"domains": [
@@ -11049,7 +11088,7 @@
 			"**Source** [Inner Sea Faiths pg. 47](source:Inner Sea Faiths)",
 			"**Pathfinder Wiki** [Groetus](http://www.pathfinderwiki.com/wiki/Groetus)"
 		],
-		"pantheon": "Other Deities",
+		"pantheons": [ "Other Deities" ],
 		"alignment": "CN",
 		"areas_of_concern": "Empty places, oblivion, ruins",
 		"domains": [
@@ -11153,7 +11192,7 @@
 			"**Source** [Faiths of Golarion pg. 17](source:Faiths of Golarion)",
 			"**Pathfinder Wiki** [Gruhastha](http://www.pathfinderwiki.com/wiki/Gruhastha)"
 		],
-		"pantheon": "Other Deities",
+		"pantheons": [ "Other Deities" ],
 		"alignment": "LG",
 		"areas_of_concern": "The Vudrani holy book",
 		"domains": [
@@ -11236,7 +11275,7 @@
 			"**Source** [Inner Sea Gods pg. 320](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Grundinnar](http://www.pathfinderwiki.com/wiki/Grundinnar)"
 		],
-		"pantheon": "Dwarven Deities",
+		"pantheons": [ "Dwarven Deities" ],
 		"alignment": "LG",
 		"areas_of_concern": "Friendship, loyalty, peace",
 		"domains": [
@@ -11288,7 +11327,7 @@
 			"**Source** [Book of the Damned pg. 126](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Guyuku](http://www.pathfinderwiki.com/wiki/Guyuku)"
 		],
-		"pantheon": "Oni Daimyo",
+		"pantheons": [ "Oni Daimyo" ],
 		"alignment": "CE",
 		"areas_of_concern": "Piracy, tea, tsunamis",
 		"domains": [
@@ -11342,7 +11381,7 @@
 			"**Source** [Inner Sea Faiths pg. 53](source:Inner Sea Faiths)",
 			"**Pathfinder Wiki** [Gyronna](http://www.pathfinderwiki.com/wiki/Gyronna)"
 		],
-		"pantheon": "Other Deities",
+		"pantheons": [ "Other Deities" ],
 		"alignment": "CE",
 		"areas_of_concern": "Extortion, hatred, spite",
 		"domains": [
@@ -11439,7 +11478,7 @@
 			"**Source** [Inner Sea Gods pg. 320](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Haagenti](http://www.pathfinderwiki.com/wiki/Haagenti)"
 		],
-		"pantheon": "Demon Lords",
+		"pantheons": [ "Demon Lords" ],
 		"alignment": "CE",
 		"areas_of_concern": "Alchemy, invention, transformation",
 		"domains": [
@@ -11538,7 +11577,7 @@
 			"**Source** [Inner Sea Gods pg. 326](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Haborym](http://www.pathfinderwiki.com/wiki/Haborym)"
 		],
-		"pantheon": "Infernal Dukes",
+		"pantheons": [ "Infernal Dukes" ],
 		"alignment": "LE",
 		"areas_of_concern": "Immolation, renewal, shackles",
 		"domains": [
@@ -11607,7 +11646,7 @@
 			"**Source** [Pathfinder #117: Assault on Longshadow pg. 77](source:Pathfinder #117: Assault on Longshadow)",
 			"**Pathfinder Wiki** [Hadregash](http://www.pathfinderwiki.com/wiki/Hadregash)"
 		],
-		"pantheon": "Goblin Hero-Gods",
+		"pantheons": [ "Goblin Hero-Gods" ],
 		"alignment": "LE",
 		"areas_of_concern": "Goblin supremacy, slavery, territory",
 		"domains": [
@@ -11704,7 +11743,7 @@
 			"**Source** [Inner Sea Gods pg. 324](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Haggakal](http://www.pathfinderwiki.com/wiki/Haggakal)"
 		],
-		"pantheon": "Giant Deities",
+		"pantheons": [ "Giant Deities" ],
 		"alignment": "CE",
 		"areas_of_concern": "Darkness, inbreeding, ogres",
 		"domains": [
@@ -11752,7 +11791,7 @@
 			"**Source** [Inner Sea Gods pg. 322](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Halcamora](http://www.pathfinderwiki.com/wiki/Halcamora)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "NG",
 		"areas_of_concern": "Gardens, orchards, wine",
 		"domains": [
@@ -11821,7 +11860,7 @@
 			"**Source** [Inner Sea Faiths pg. 59](source:Inner Sea Faiths)",
 			"**Pathfinder Wiki** [Hanspur](http://www.pathfinderwiki.com/wiki/Hanspur)"
 		],
-		"pantheon": "Other Deities",
+		"pantheons": [ "Other Deities" ],
 		"alignment": "CN",
 		"areas_of_concern": "River travel, rivers, smugglers",
 		"domains": [
@@ -11918,7 +11957,7 @@
 			"**Source** [Inner Sea Gods pg. 318](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Hastrikhal](http://www.pathfinderwiki.com/wiki/Hastrikhal)"
 		],
-		"pantheon": "Daemon Harbingers",
+		"pantheons": [ "Daemon Harbingers" ],
 		"alignment": "NE",
 		"areas_of_concern": "Explosions, immolation, pyromaniacs",
 		"domains": [
@@ -11981,7 +12020,7 @@
 			"**Source** [Pathfinder #110: The Thrushmoor Terror pg. 73](source:Pathfinder #110: The Thrushmoor Terror)",
 			"**Pathfinder Wiki** [Hastur](http://www.pathfinderwiki.com/wiki/Hastur)"
 		],
-		"pantheon": "Great Old Ones",
+		"pantheons": [ "Great Old Ones" ],
 		"alignment": "CE",
 		"areas_of_concern": "Decadence, disorder, nihilism",
 		"domains": [
@@ -12072,7 +12111,7 @@
 			"**Source** [Book of the Damned pg. 132](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Hataam](http://www.pathfinderwiki.com/wiki/Hataam)"
 		],
-		"pantheon": "Sahkil Tormentors",
+		"pantheons": [ "Sahkil Tormentors" ],
 		"alignment": "CE",
 		"areas_of_concern": "Drought, drowning, stagnation",
 		"domains": [
@@ -12126,7 +12165,7 @@
 			"**Source** [Pathfinder #80: Empty Graves pg. 65](source:Pathfinder #80: Empty Graves)",
 			"**Pathfinder Wiki** [Hathor](http://www.pathfinderwiki.com/wiki/Hathor)"
 		],
-		"pantheon": "Deities of Ancient Osirion",
+		"pantheons": [ "Deities of Ancient Osirion" ],
 		"alignment": "CG",
 		"areas_of_concern": "Dance, joy, love, music, the sky",
 		"domains": [
@@ -12172,7 +12211,7 @@
 			"**Source** [Dragon Empires Gazetteer pg. 58](source:Dragon Empires Gazetteer)",
 			"**Pathfinder Wiki** [Hei Feng](http://www.pathfinderwiki.com/wiki/Hei Feng)"
 		],
-		"pantheon": "Deities of Tian Xia",
+		"pantheons": [ "Deities of Tian Xia" ],
 		"alignment": "CN",
 		"areas_of_concern": "Sea, storms, thunder, wind",
 		"domains": [
@@ -12271,7 +12310,7 @@
 			"**Source** [Inner Sea Gods pg. 322](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Hembad](http://www.pathfinderwiki.com/wiki/Hembad)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "CG",
 		"areas_of_concern": "Connections, matchmaking, synergy",
 		"domains": [
@@ -12323,7 +12362,7 @@
 			"**Source** [Pathfinder #80: Empty Graves pg. 65](source:Pathfinder #80: Empty Graves)",
 			"**Pathfinder Wiki** [Horus](http://www.pathfinderwiki.com/wiki/Horus)"
 		],
-		"pantheon": "Deities of Ancient Osirion",
+		"pantheons": [ "Deities of Ancient Osirion" ],
 		"alignment": "LN",
 		"areas_of_concern": "Rulership, the sky, the sun",
 		"domains": [
@@ -12365,7 +12404,7 @@
 			"**Source** [Inner Sea Gods pg. 322](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Hshurha](http://www.pathfinderwiki.com/wiki/Hshurha)"
 		],
-		"pantheon": "Elemental Lords",
+		"pantheons": [ "Elemental Lords" ],
 		"alignment": "NE",
 		"areas_of_concern": "Air, last breaths, windstorms",
 		"domains": [
@@ -12415,7 +12454,7 @@
 			"**Source** [Book of the Damned pg. 130](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Hudima](http://www.pathfinderwiki.com/wiki/Hudima)"
 		],
-		"pantheon": "Rakshasa Immortals",
+		"pantheons": [ "Rakshasa Immortals" ],
 		"alignment": "LE",
 		"areas_of_concern": "N/a",
 		"domains": [
@@ -12470,7 +12509,7 @@
 			"**Source** [Book of the Damned pg. 110](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Hydim](http://www.pathfinderwiki.com/wiki/Hydim)"
 		],
-		"pantheon": "Asura Ranas",
+		"pantheons": [ "Asura Ranas" ],
 		"alignment": "LE",
 		"areas_of_concern": "Eternity, hunger, madness",
 		"domains": [
@@ -12527,7 +12566,7 @@
 			"**Source** [Inner Sea Gods pg. 326](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Iaozrael](http://www.pathfinderwiki.com/wiki/Iaozrael)"
 		],
-		"pantheon": "Infernal Dukes",
+		"pantheons": [ "Infernal Dukes" ],
 		"alignment": "LE",
 		"areas_of_concern": "Authority, hubris, liars",
 		"domains": [
@@ -12596,7 +12635,7 @@
 			"**Source** [Pathfinder #144: Midwives to Death pg. 75](source:Pathfinder #144: Midwives to Death)",
 			"**Pathfinder Wiki** [Iapholi](http://www.pathfinderwiki.com/wiki/Iapholi)"
 		],
-		"pantheon": "Iblydan Hero-Gods",
+		"pantheons": [ "Iblydan Hero-Gods" ],
 		"alignment": "N",
 		"areas_of_concern": "Monstrous heritage, acceptance",
 		"domains": [
@@ -12647,7 +12686,7 @@
 			"**Source** [Book of the Damned pg. 132](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Iggeret](http://www.pathfinderwiki.com/wiki/Iggeret)"
 		],
-		"pantheon": "Sahkil Tormentors",
+		"pantheons": [ "Sahkil Tormentors" ],
 		"alignment": "CE",
 		"areas_of_concern": "Darkness, empty places, pits",
 		"domains": [
@@ -12701,7 +12740,7 @@
 			"**Source** [Concordance of Rivals pg. 8](source:Concordance of Rivals)",
 			"**Pathfinder Wiki** [Il'surrish](http://www.pathfinderwiki.com/wiki/Il'surrish)"
 		],
-		"pantheon": "Protean Lord",
+		"pantheons": [ "Protean Lord" ],
 		"alignment": "CN",
 		"areas_of_concern": "Formlessness, loss of control, and potential",
 		"domains": [
@@ -12756,7 +12795,7 @@
 			"**Source** [The First World, Realm of the Fey pg. 22](source:The First World, Realm of the Fey)",
 			"**Pathfinder Wiki** [Imbrex](http://www.pathfinderwiki.com/wiki/Imbrex)"
 		],
-		"pantheon": "Eldest",
+		"pantheons": [ "Eldest" ],
 		"alignment": "LN",
 		"areas_of_concern": "Endings, statues, twins",
 		"domains": [
@@ -12830,7 +12869,7 @@
 			"**Source** [Inner Sea Gods pg. 322](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Immonhiel](http://www.pathfinderwiki.com/wiki/Immonhiel)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "CG",
 		"areas_of_concern": "Herbs, medicine, toads",
 		"domains": [
@@ -12902,7 +12941,7 @@
 			"**Source** [Concordance of Rivals pg. 9](source:Concordance of Rivals)",
 			"**Pathfinder Wiki** [Imot](http://www.pathfinderwiki.com/wiki/Imot)"
 		],
-		"pantheon": "Psychopomp Usher",
+		"pantheons": [ "Psychopomp Usher" ],
 		"alignment": "N",
 		"areas_of_concern": "Inevitably, mathematics, and portents",
 		"domains": [
@@ -12957,7 +12996,7 @@
 			"**Source** [Book of the Damned pg. 120](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Inkariax](http://www.pathfinderwiki.com/wiki/Inkariax)"
 		],
-		"pantheon": "Kyton Demagogues",
+		"pantheons": [ "Kyton Demagogues" ],
 		"alignment": "LE",
 		"areas_of_concern": "Absolute cold, preservation, solitude",
 		"domains": [
@@ -13016,7 +13055,7 @@
 			"**Source** [Book of the Damned pg. 126](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Inma](http://www.pathfinderwiki.com/wiki/Inma)"
 		],
-		"pantheon": "Oni Daimyo",
+		"pantheons": [ "Oni Daimyo" ],
 		"alignment": "LE",
 		"areas_of_concern": "Lavish wealth, origami, servitude",
 		"domains": [
@@ -13075,8 +13114,12 @@
 			"**Source** [Inner Sea Gods pg. 76](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Iomedae](http://www.pathfinderwiki.com/wiki/Iomedae)"
 		],
-		"pantheon": "Core Deities",
-		"other_pantheons": "Ascended Pantheon, Halfling Deities, Order of the God Claw Pantheon",
+		"pantheons": [
+			"Core Deities",
+			"Ascended Pantheon",
+			"Halfling Deities",
+			"Order of the God Claw Pantheon"
+		],
 		"alignment": "LG",
 		"areas_of_concern": "Honor, justice, rulership, valor",
 		"domains": [
@@ -13244,7 +13287,7 @@
 			"**Source** [Book of the Damned pg. 110](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Ioramvol](http://www.pathfinderwiki.com/wiki/Ioramvol)"
 		],
-		"pantheon": "Asura Ranas",
+		"pantheons": [ "Asura Ranas" ],
 		"alignment": "LE",
 		"areas_of_concern": "Caverns, Cliffs, Premature Burials",
 		"domains": [
@@ -13301,7 +13344,7 @@
 			"**Source** [Inner Sea Gods pg. 322](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Irez](http://www.pathfinderwiki.com/wiki/Irez)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "NG",
 		"areas_of_concern": "Cards, scribes, spells",
 		"domains": [
@@ -13375,8 +13418,13 @@
 			"**Source** [Inner Sea Gods pg. 84](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Irori](http://www.pathfinderwiki.com/wiki/Irori)"
 		],
-		"pantheon": "Core Deities",
-		"other_pantheons": "Ascended Pantheon, Deities of Tian Xia, Order of the God Claw Pantheon, Vudrani Pantheon",
+		"pantheons": [
+			"Core Deities",
+			"Ascended Pantheon",
+			"Deities of Tian Xia",
+			"Order of the God Claw Pantheon",
+			"Vudrani Pantheon"
+		],
 		"alignment": "LN",
 		"areas_of_concern": "History, knowledge, self-perfection",
 		"domains": [
@@ -13552,7 +13600,7 @@
 			"**Source** [Pathfinder #80: Empty Graves pg. 65](source:Pathfinder #80: Empty Graves)",
 			"**Pathfinder Wiki** [Isis](http://www.pathfinderwiki.com/wiki/Isis)"
 		],
-		"pantheon": "Deities of Ancient Osirion",
+		"pantheons": [ "Deities of Ancient Osirion" ],
 		"alignment": "NG",
 		"areas_of_concern": "Fertility, magic, motherhood, rebirth",
 		"domains": [
@@ -13597,7 +13645,7 @@
 			"**Source** [Inner Sea Gods pg. 328](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Isph-Aun-Vuln](http://www.pathfinderwiki.com/wiki/Isph-Aun-Vuln)"
 		],
-		"pantheon": "Qlippoth Lords",
+		"pantheons": [ "Qlippoth Lords" ],
 		"alignment": "CE",
 		"areas_of_concern": "Infestation of the flesh, poisonous wind",
 		"domains": [
@@ -13656,7 +13704,7 @@
 			"**Source** [Pathfinder #109: In Search of Sanity pg. 68](source:Pathfinder #109: In Search of Sanity)",
 			"**Pathfinder Wiki** [Ithaqua](http://www.pathfinderwiki.com/wiki/Ithaqua)"
 		],
-		"pantheon": "Great Old Ones",
+		"pantheons": [ "Great Old Ones" ],
 		"alignment": "CE",
 		"areas_of_concern": "Cannibalism, cold, the wind",
 		"domains": [
@@ -13706,7 +13754,7 @@
 			"**Source** [Inner Sea Gods pg. 328](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Izyagna](http://www.pathfinderwiki.com/wiki/Izyagna)"
 		],
-		"pantheon": "Nascent Demon Lords",
+		"pantheons": [ "Nascent Demon Lords" ],
 		"alignment": "CE",
 		"areas_of_concern": "Angry mobs, ants",
 		"domains": [
@@ -13789,7 +13837,7 @@
 			"**Source** [Inner Sea Gods pg. 318](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Jacarkas](http://www.pathfinderwiki.com/wiki/Jacarkas)"
 		],
-		"pantheon": "Daemon Harbingers",
+		"pantheons": [ "Daemon Harbingers" ],
 		"alignment": "NE",
 		"areas_of_concern": "Hobbling, lobotomizing, slavery",
 		"domains": [
@@ -13852,7 +13900,7 @@
 			"**Source** [Pathfinder #123: The Flooded Cathedral pg. 70](source:Pathfinder #123: The Flooded Cathedral)",
 			"**Pathfinder Wiki** [Jaidi](http://www.pathfinderwiki.com/wiki/Jaidi)"
 		],
-		"pantheon": "Azlanti Pantheon",
+		"pantheons": [ "Azlanti Pantheon" ],
 		"alignment": "NG",
 		"areas_of_concern": "Agriculture, hard work, and self-sufficiency",
 		"domains": [
@@ -13900,7 +13948,7 @@
 			"**Source** [Inner Sea Gods pg. 322](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Jaidz](http://www.pathfinderwiki.com/wiki/Jaidz)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "NG",
 		"areas_of_concern": "Cowards, the untested, youths",
 		"domains": [
@@ -13974,7 +14022,7 @@
 			"**Source** [Inner Sea Gods pg. 322](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Jalaijatali](http://www.pathfinderwiki.com/wiki/Jalaijatali)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "CG",
 		"areas_of_concern": "Natural music, rapids, waterfalls",
 		"domains": [
@@ -14044,7 +14092,7 @@
 			"**Source** [Concordance of Rivals pg. 10](source:Concordance of Rivals)",
 			"**Pathfinder Wiki** [Jerishall](http://www.pathfinderwiki.com/wiki/Jerishall)"
 		],
-		"pantheon": "Primal Inevitable",
+		"pantheons": [ "Primal Inevitable" ],
 		"alignment": "LN",
 		"areas_of_concern": "Planes, planetary orbits, and separation",
 		"domains": [
@@ -14103,7 +14151,7 @@
 			"**Source** [Inner Sea Gods pg. 320](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Jezelda](http://www.pathfinderwiki.com/wiki/Jezelda)"
 		],
-		"pantheon": "Demon Lords",
+		"pantheons": [ "Demon Lords" ],
 		"alignment": "CE",
 		"areas_of_concern": "Desolation, the moon, werewolves",
 		"domains": [
@@ -14199,7 +14247,7 @@
 			"**Source** [Inner Sea Gods pg. 326](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Jiraviddain](http://www.pathfinderwiki.com/wiki/Jiraviddain)"
 		],
-		"pantheon": "Infernal Dukes",
+		"pantheons": [ "Infernal Dukes" ],
 		"alignment": "LE",
 		"areas_of_concern": "Debility, dependence, frailty",
 		"domains": [
@@ -14272,7 +14320,7 @@
 			"**Source** [Inner Sea Gods pg. 320](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Jubilex](http://www.pathfinderwiki.com/wiki/Jubilex)"
 		],
-		"pantheon": "Demon Lords",
+		"pantheons": [ "Demon Lords" ],
 		"alignment": "CE",
 		"areas_of_concern": "Ooze, poison, sloth",
 		"domains": [
@@ -14365,7 +14413,7 @@
 			"**Source** [Book of the Damned pg. 130](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Jyotah](http://www.pathfinderwiki.com/wiki/Jyotah)"
 		],
-		"pantheon": "Rakshasa Immortals",
+		"pantheons": [ "Rakshasa Immortals" ],
 		"alignment": "LE",
 		"areas_of_concern": "N/a",
 		"domains": [
@@ -14425,7 +14473,7 @@
 			"**Source** [Inner Sea Gods pg. 320](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Kabriri](http://www.pathfinderwiki.com/wiki/Kabriri)"
 		],
-		"pantheon": "Demon Lords",
+		"pantheons": [ "Demon Lords" ],
 		"alignment": "CE",
 		"areas_of_concern": "Ghouls, graves, secrets kept by the dead",
 		"domains": [
@@ -14537,7 +14585,7 @@
 			"**Source** [Book of the Damned pg. 120](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Kaikyton](http://www.pathfinderwiki.com/wiki/Kaikyton)"
 		],
-		"pantheon": "Kyton Demagogues",
+		"pantheons": [ "Kyton Demagogues" ],
 		"alignment": "LE",
 		"areas_of_concern": "Experimentation, physical merger, stiches",
 		"domains": [
@@ -14594,7 +14642,7 @@
 			"**Source** [Inner Sea Gods pg. 326](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Kalma](http://www.pathfinderwiki.com/wiki/Kalma)"
 		],
-		"pantheon": "Infernal Dukes",
+		"pantheons": [ "Infernal Dukes" ],
 		"alignment": "LE",
 		"areas_of_concern": "Burial rites, death, insects",
 		"domains": [
@@ -14663,7 +14711,7 @@
 			"**Source** [Faiths of Golarion pg. 29](source:Faiths of Golarion)",
 			"**Pathfinder Wiki** [Kazutal](http://www.pathfinderwiki.com/wiki/Kazutal)"
 		],
-		"pantheon": "Other Deities",
+		"pantheons": [ "Other Deities" ],
 		"alignment": "NG",
 		"areas_of_concern": "Community, liberty, and  safety",
 		"domains": [
@@ -14747,7 +14795,7 @@
 			"**Source** [Inner Sea Gods pg. 322](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Kelinahat](http://www.pathfinderwiki.com/wiki/Kelinahat)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "LG",
 		"areas_of_concern": "Intelligence, spies, stealth",
 		"domains": [
@@ -14800,7 +14848,7 @@
 			"**Source** [Inner Sea Gods pg. 322](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Kelizandri](http://www.pathfinderwiki.com/wiki/Kelizandri)"
 		],
-		"pantheon": "Elemental Lords",
+		"pantheons": [ "Elemental Lords" ],
 		"alignment": "NE",
 		"areas_of_concern": "Drowning, water, waves",
 		"domains": [
@@ -14851,7 +14899,7 @@
 			"**Source** [Distant Shores pg. 13](source:Distant Shores)",
 			"**Pathfinder Wiki** [Kelksiomides](http://www.pathfinderwiki.com/wiki/Kelksiomides)"
 		],
-		"pantheon": "Iblydan Hero-Gods",
+		"pantheons": [ "Iblydan Hero-Gods" ],
 		"alignment": "NG",
 		"areas_of_concern": "Hero-god of gardens, orchards, and terraces",
 		"domains": [
@@ -14894,7 +14942,7 @@
 			"**Source** [Inner Sea Gods pg. 322](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Keltheald](http://www.pathfinderwiki.com/wiki/Keltheald)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "CG",
 		"areas_of_concern": "Natural formations, sunsets, vistas",
 		"domains": [
@@ -14946,7 +14994,7 @@
 			"**Source** [Concordance of Rivals pg. 10](source:Concordance of Rivals)",
 			"**Pathfinder Wiki** [Kerkamoth](http://www.pathfinderwiki.com/wiki/Kerkamoth)"
 		],
-		"pantheon": "Primal Inevitable",
+		"pantheons": [ "Primal Inevitable" ],
 		"alignment": "LN",
 		"areas_of_concern": "Emptiness, entropy, and stillness",
 		"domains": [
@@ -15004,7 +15052,7 @@
 			"**Source** [Inner Sea Gods pg. 322](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Ketephys](http://www.pathfinderwiki.com/wiki/Ketephys)"
 		],
-		"pantheon": "Elven Deities",
+		"pantheons": [ "Elven Deities" ],
 		"alignment": "CG",
 		"areas_of_concern": "Forestry, hunting, the moon",
 		"domains": [
@@ -15098,7 +15146,7 @@
 			"**Source** [Pathfinder #80: Empty Graves pg. 65](source:Pathfinder #80: Empty Graves)",
 			"**Pathfinder Wiki** [Khepri](http://www.pathfinderwiki.com/wiki/Khepri)"
 		],
-		"pantheon": "Deities of Ancient Osirion",
+		"pantheons": [ "Deities of Ancient Osirion" ],
 		"alignment": "NG",
 		"areas_of_concern": "Freedom, the rising sun, work",
 		"domains": [
@@ -15140,7 +15188,7 @@
 			"**Source** [Inner Sea Gods pg. 316](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Kitumu](http://www.pathfinderwiki.com/wiki/Kitumu)"
 		],
-		"pantheon": "Other Deities",
+		"pantheons": [ "Other Deities" ],
 		"alignment": "CE",
 		"areas_of_concern": "Fireflies, hibernation, swarms",
 		"domains": [
@@ -15187,7 +15235,7 @@
 			"**Source** [Dragon Empires Gazetteer pg. 58](source:Dragon Empires Gazetteer)",
 			"**Pathfinder Wiki** [Kofusachi](http://www.pathfinderwiki.com/wiki/Kofusachi)"
 		],
-		"pantheon": "Deities of Tian Xia",
+		"pantheons": [ "Deities of Tian Xia" ],
 		"alignment": "CG",
 		"areas_of_concern": "Abundance, discovery, happiness, prosperity",
 		"domains": [
@@ -15236,7 +15284,7 @@
 			"**Source** [Inner Sea Gods pg. 320](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Kols](http://www.pathfinderwiki.com/wiki/Kols)"
 		],
-		"pantheon": "Dwarven Deities",
+		"pantheons": [ "Dwarven Deities" ],
 		"alignment": "LN",
 		"areas_of_concern": "Duty, honor, promises",
 		"domains": [
@@ -15296,7 +15344,7 @@
 			"**Source** [Inner Sea Gods pg. 322](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Korada](http://www.pathfinderwiki.com/wiki/Korada)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "NG",
 		"areas_of_concern": "Foresight, forgiveness, peace",
 		"domains": [
@@ -15372,7 +15420,7 @@
 			"**Source** [Inner Sea Gods pg. 320](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Kostchtchie](http://www.pathfinderwiki.com/wiki/Kostchtchie)"
 		],
-		"pantheon": "Demon Lords",
+		"pantheons": [ "Demon Lords" ],
 		"alignment": "CE",
 		"areas_of_concern": "Cold, giants, revenge",
 		"domains": [
@@ -15491,7 +15539,7 @@
 			"**Source** [The Emerald Spire Superdungeon pg. 74](source:The Emerald Spire Superdungeon)",
 			"**Pathfinder Wiki** [Kro'akoth](http://www.pathfinderwiki.com/wiki/Kro'akoth)"
 		],
-		"pantheon": "Nascent Demon Lords",
+		"pantheons": [ "Nascent Demon Lords" ],
 		"alignment": "CE",
 		"areas_of_concern": "The forgotten, hidden agendas",
 		"domains": [
@@ -15547,7 +15595,7 @@
 			"**Source** [Inner Sea Gods pg. 322](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Kroina](http://www.pathfinderwiki.com/wiki/Kroina)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "LG",
 		"areas_of_concern": "Divination, eyes, instincts",
 		"domains": [
@@ -15599,7 +15647,7 @@
 			"**Source** [Book of the Damned pg. 130](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Kunkarna](http://www.pathfinderwiki.com/wiki/Kunkarna)"
 		],
-		"pantheon": "Rakshasa Immortals",
+		"pantheons": [ "Rakshasa Immortals" ],
 		"alignment": "LE",
 		"areas_of_concern": "N/a",
 		"domains": [
@@ -15654,7 +15702,7 @@
 			"**Source** [Inner Sea Faiths pg. 65](source:Inner Sea Faiths)",
 			"**Pathfinder Wiki** [Kurgess](http://www.pathfinderwiki.com/wiki/Kurgess)"
 		],
-		"pantheon": "Other Deities",
+		"pantheons": [ "Other Deities" ],
 		"alignment": "NG",
 		"areas_of_concern": "Bravery, competition, sport",
 		"domains": [
@@ -15760,7 +15808,7 @@
 			"**Source** [Dragon Empires Gazetteer pg. 58](source:Dragon Empires Gazetteer)",
 			"**Pathfinder Wiki** [Lady Nanbyo](http://www.pathfinderwiki.com/wiki/Lady Nanbyo)"
 		],
-		"pantheon": "Deities of Tian Xia",
+		"pantheons": [ "Deities of Tian Xia" ],
 		"alignment": "CE",
 		"areas_of_concern": "Earthquakes, fire, plague, suffering",
 		"domains": [
@@ -15811,7 +15859,7 @@
 			"**Source** [Inner Sea Gods pg. 318](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Laivatiniel](http://www.pathfinderwiki.com/wiki/Laivatiniel)"
 		],
-		"pantheon": "Daemon Harbingers",
+		"pantheons": [ "Daemon Harbingers" ],
 		"alignment": "NE",
 		"areas_of_concern": "Anxiety, coddling, unhealthy parental love",
 		"domains": [
@@ -15877,7 +15925,7 @@
 			"**Source** [Inner Sea Gods pg. 322](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Lalaci](http://www.pathfinderwiki.com/wiki/Lalaci)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "CG",
 		"areas_of_concern": "Rainbows, relaxation, shade",
 		"domains": [
@@ -15953,8 +16001,11 @@
 			"**Source** [Inner Sea Gods pg. 92](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Lamashtu](http://www.pathfinderwiki.com/wiki/Lamashtu)"
 		],
-		"pantheon": "Core Deities",
-		"other_pantheons": "Deities of Tian Xia, Demon Lords",
+		"pantheons": [
+			"Core Deities",
+			"Deities of Tian Xia",
+			"Demon Lords"
+		],
 		"alignment": "CE",
 		"areas_of_concern": "Madness, monsters, nightmares",
 		"domains": [
@@ -16141,7 +16192,7 @@
 			"**Source** [Inner Sea Gods pg. 328](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Lanishra](http://www.pathfinderwiki.com/wiki/Lanishra)"
 		],
-		"pantheon": "Orc Deities",
+		"pantheons": [ "Orc Deities" ],
 		"alignment": "CE",
 		"areas_of_concern": "Slavery, subjugation, tyranny",
 		"domains": [
@@ -16191,7 +16242,7 @@
 			"**Source** [Dragon Empires Gazetteer pg. 58](source:Dragon Empires Gazetteer)",
 			"**Pathfinder Wiki** [Lao Shu Po](http://www.pathfinderwiki.com/wiki/Lao Shu Po)"
 		],
-		"pantheon": "Deities of Tian Xia",
+		"pantheons": [ "Deities of Tian Xia" ],
 		"alignment": "NE",
 		"areas_of_concern": "Night, rats, thieves",
 		"domains": [
@@ -16246,7 +16297,7 @@
 			"**Source** [Inner Sea Gods pg. 328](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Libicocco](http://www.pathfinderwiki.com/wiki/Libicocco)"
 		],
-		"pantheon": "Malebranche",
+		"pantheons": [ "Malebranche" ],
 		"alignment": "LE",
 		"areas_of_concern": "Rage, violence, wind",
 		"domains": [
@@ -16315,7 +16366,7 @@
 			"**Source** [Pathfinder #123: The Flooded Cathedral pg. 71](source:Pathfinder #123: The Flooded Cathedral)",
 			"**Pathfinder Wiki** [Lissala (pre-Earthfall)](http://www.pathfinderwiki.com/wiki/Lissala (pre-Earthfall))"
 		],
-		"pantheon": "Azlanti Pantheon",
+		"pantheons": [ "Azlanti Pantheon" ],
 		"alignment": "LN",
 		"areas_of_concern": "Duty, fate, reward for service, and runes",
 		"domains": [
@@ -16356,7 +16407,7 @@
 			"**Source** [Inner Sea Gods pg. 316](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Lissala](http://www.pathfinderwiki.com/wiki/Lissala)"
 		],
-		"pantheon": "Other Deities",
+		"pantheons": [ "Other Deities" ],
 		"alignment": "LE",
 		"areas_of_concern": "Obedience, reward of service, runes",
 		"domains": [
@@ -16430,7 +16481,7 @@
 			"**Source** [Inner Sea Gods pg. 318](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Llamolaek](http://www.pathfinderwiki.com/wiki/Llamolaek)"
 		],
-		"pantheon": "Daemon Harbingers",
+		"pantheons": [ "Daemon Harbingers" ],
 		"alignment": "NE",
 		"areas_of_concern": "Rebirth, rites of passage, transformation",
 		"domains": [
@@ -16496,7 +16547,7 @@
 			"**Source** [Inner Sea Gods pg. 326](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Lorcan](http://www.pathfinderwiki.com/wiki/Lorcan)"
 		],
-		"pantheon": "Infernal Dukes",
+		"pantheons": [ "Infernal Dukes" ],
 		"alignment": "LE",
 		"areas_of_concern": "Blood, rebirth, undeath",
 		"domains": [
@@ -16565,7 +16616,7 @@
 			"**Source** [Inner Sea Gods pg. 322](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Lorris](http://www.pathfinderwiki.com/wiki/Lorris)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "NG",
 		"areas_of_concern": "Charity, the disadvantaged, volunteering",
 		"domains": [
@@ -16619,7 +16670,7 @@
 			"**Source** [Inner Sea Gods pg. 326](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Lorthact](http://www.pathfinderwiki.com/wiki/Lorthact)"
 		],
-		"pantheon": "Infernal Dukes",
+		"pantheons": [ "Infernal Dukes" ],
 		"alignment": "LE",
 		"areas_of_concern": "Exiles, scholars, theories",
 		"domains": [
@@ -16691,7 +16742,7 @@
 			"**Source** [Inner Sea Gods pg. 326](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Losarkur](http://www.pathfinderwiki.com/wiki/Losarkur)"
 		],
-		"pantheon": "Infernal Dukes",
+		"pantheons": [ "Infernal Dukes" ],
 		"alignment": "LE",
 		"areas_of_concern": "Dominance, hounds, punishment",
 		"domains": [
@@ -16763,7 +16814,7 @@
 			"**Source** [Inner Sea Gods pg. 322](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Lymnieris](http://www.pathfinderwiki.com/wiki/Lymnieris)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "LG",
 		"areas_of_concern": "Prostitution, rites of passage, virginity",
 		"domains": [
@@ -16833,7 +16884,7 @@
 			"**Source** [Inner Sea Gods pg. 322](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Lythertida](http://www.pathfinderwiki.com/wiki/Lythertida)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "NG",
 		"areas_of_concern": "Idealism, potential, young death",
 		"domains": [
@@ -16884,7 +16935,7 @@
 			"**Source** [Pathfinder #80: Empty Graves pg. 65](source:Pathfinder #80: Empty Graves)",
 			"**Pathfinder Wiki** [Maat](http://www.pathfinderwiki.com/wiki/Maat)"
 		],
-		"pantheon": "Deities of Ancient Osirion",
+		"pantheons": [ "Deities of Ancient Osirion" ],
 		"alignment": "LN",
 		"areas_of_concern": "Justice, law, order, truth",
 		"domains": [
@@ -16926,7 +16977,7 @@
 			"**Source** [Book of the Damned pg. 110](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Maeha](http://www.pathfinderwiki.com/wiki/Maeha)"
 		],
-		"pantheon": "Asura Ranas",
+		"pantheons": [ "Asura Ranas" ],
 		"alignment": "LE",
 		"areas_of_concern": "Abduction, isolation, propaganda",
 		"domains": [
@@ -16983,7 +17034,7 @@
 			"**Source** [The First World, Realm of the Fey pg. 28](source:The First World, Realm of the Fey)",
 			"**Pathfinder Wiki** [Magdh](http://www.pathfinderwiki.com/wiki/Magdh)"
 		],
-		"pantheon": "Eldest",
+		"pantheons": [ "Eldest" ],
 		"alignment": "LN",
 		"areas_of_concern": "Complexity, fate, triplets",
 		"domains": [
@@ -17079,7 +17130,7 @@
 			"**2: Endbringer (Su) Three times per day as a standard action, you can drive back undead creatures. This functions as if you had used the [Turn Undead](feat:Turn Undead) feat (though you do not need to have the channel energy ability or expend uses of channel energy to do this), and the save DC is 10 + half your character level + your Intelligence, Wisdom, or Charisma modifier (whichever is highest).**",
 			"**3: Soulforger (Sp) Once per day, you can show a creature within 60 feet a flash of what work remains in order for them to be ready for the afterlife. The target must attempt a Will saving throw (DC = 10 + half your character level + your Intelligence, Wisdom, or Charisma modifier [whichever is highest]). If it fails its save, you show it a mental image of its destined plane in the afterlife, depending on the creature's alignment and its adherence to its ethos, if it succeeds at finishing its mortal business. If the target is good-aligned, it is fascinated for 1d4 rounds on a failed save. If the target is neutral-aligned, it is confused for 1d4 rounds on a failed save. If the target is evil-aligned, it is staggered for 1d4 rounds on a failed save.**"
 		],
-		"pantheon": "Dwarven Deities",
+		"pantheons": [ "Dwarven Deities" ],
 		"alignment": "LN",
 		"areas_of_concern": "Death, fate, underworld",
 		"domains": [
@@ -17133,7 +17184,7 @@
 			"**Source** [Pathfinder #99: Dance of the Damned pg. 74](source:Pathfinder #99: Dance of the Damned)",
 			"**Pathfinder Wiki** [Mahathallah](http://www.pathfinderwiki.com/wiki/Mahathallah)"
 		],
-		"pantheon": "Queens of the Night",
+		"pantheons": [ "Queens of the Night" ],
 		"alignment": "LE",
 		"areas_of_concern": "Death, fate, vanity",
 		"domains": [
@@ -17250,7 +17301,7 @@
 			"**Source** [Inner Sea Gods pg. 328](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Malacoda](http://www.pathfinderwiki.com/wiki/Malacoda)"
 		],
-		"pantheon": "Malebranche",
+		"pantheons": [ "Malebranche" ],
 		"alignment": "LE",
 		"areas_of_concern": "Conquest, cruelty, martial skill",
 		"domains": [
@@ -17322,7 +17373,7 @@
 			"**Source** [Inner Sea Gods pg. 326](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Malthus](http://www.pathfinderwiki.com/wiki/Malthus)"
 		],
-		"pantheon": "Infernal Dukes",
+		"pantheons": [ "Infernal Dukes" ],
 		"alignment": "LE",
 		"areas_of_concern": "Architecture, expansion, waste",
 		"domains": [
@@ -17394,8 +17445,10 @@
 			"**Source** [Inner Sea Gods pg. 318](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Mammon](http://www.pathfinderwiki.com/wiki/Mammon)"
 		],
-		"pantheon": "Archdevils",
-		"other_pantheons": "Kobold Deities",
+		"pantheons": [
+			"Archdevils",
+			"Kobold Deities"
+		],
 		"alignment": "LE",
 		"areas_of_concern": "Avarice, watchfulness, wealth",
 		"domains": [
@@ -17476,7 +17529,7 @@
 			"**Source** [Inner Sea Gods pg. 322](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Marishi](http://www.pathfinderwiki.com/wiki/Marishi)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "CG",
 		"areas_of_concern": "Athletics, contests, sports",
 		"domains": [
@@ -17529,7 +17582,7 @@
 			"**Source** [Distant Shores pg. 43](source:Distant Shores)",
 			"**Pathfinder Wiki** [Matravash](http://www.pathfinderwiki.com/wiki/Matravash)"
 		],
-		"pantheon": "Other Deities",
+		"pantheons": [ "Other Deities" ],
 		"alignment": "LN",
 		"areas_of_concern": "The Matra River",
 		"domains": [
@@ -17571,7 +17624,7 @@
 			"**Source** [Distant Shores pg. 23](source:Distant Shores)",
 			"**Pathfinder Wiki** [Mazludeh](http://www.pathfinderwiki.com/wiki/Mazludeh)"
 		],
-		"pantheon": "Other Deities",
+		"pantheons": [ "Other Deities" ],
 		"alignment": "NG",
 		"areas_of_concern": "Balance, community, negotiation, and twilight",
 		"domains": [
@@ -17616,7 +17669,7 @@
 			"**Source** [Inner Sea Gods pg. 320](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Mazmezz](http://www.pathfinderwiki.com/wiki/Mazmezz)"
 		],
-		"pantheon": "Demon Lords",
+		"pantheons": [ "Demon Lords" ],
 		"alignment": "CE",
 		"areas_of_concern": "Bindings, driders, vermin",
 		"domains": [
@@ -17715,7 +17768,7 @@
 			"**Source** [Inner Sea Gods pg. 328](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Menxyr](http://www.pathfinderwiki.com/wiki/Menxyr)"
 		],
-		"pantheon": "Nascent Demon Lords",
+		"pantheons": [ "Nascent Demon Lords" ],
 		"alignment": "CE",
 		"areas_of_concern": "Grave robbing, necrophilia",
 		"domains": [
@@ -17793,7 +17846,7 @@
 			"**Source** [Pathfinder #102: Breaking the Bones of Hell pg. 70](source:Pathfinder #102: Breaking the Bones of Hell)",
 			"**Pathfinder Wiki** [Mephistopheles](http://www.pathfinderwiki.com/wiki/Mephistopheles)"
 		],
-		"pantheon": "Archdevils",
+		"pantheons": [ "Archdevils" ],
 		"alignment": "LE",
 		"areas_of_concern": "Contracts, devils, secrets",
 		"domains": [
@@ -17913,7 +17966,7 @@
 			"**Source** [Inner Sea Gods pg. 320](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Mestama](http://www.pathfinderwiki.com/wiki/Mestama)"
 		],
-		"pantheon": "Demon Lords",
+		"pantheons": [ "Demon Lords" ],
 		"alignment": "CE",
 		"areas_of_concern": "Cruelty, deception, hags",
 		"domains": [
@@ -18006,7 +18059,7 @@
 			"**Source** [Pathfinder #109: In Search of Sanity pg. 68](source:Pathfinder #109: In Search of Sanity)",
 			"**Pathfinder Wiki** [Mhar](http://www.pathfinderwiki.com/wiki/Mhar)"
 		],
-		"pantheon": "Great Old Ones",
+		"pantheons": [ "Great Old Ones" ],
 		"alignment": "CN",
 		"areas_of_concern": "Caverns, mountains, volcanoes",
 		"domains": [
@@ -18062,7 +18115,7 @@
 			"**Source** [Inner Sea Faiths pg. 71](source:Inner Sea Faiths)",
 			"**Pathfinder Wiki** [Milani](http://www.pathfinderwiki.com/wiki/Milani)"
 		],
-		"pantheon": "Other Deities",
+		"pantheons": [ "Other Deities" ],
 		"alignment": "CG",
 		"areas_of_concern": "Devotion, hope, uprisings",
 		"domains": [
@@ -18183,7 +18236,7 @@
 			"**Source** [Pathfinder #93: Forge of the Giant God pg. 70](source:Pathfinder #93: Forge of the Giant God)",
 			"**Pathfinder Wiki** [Minderhal](http://www.pathfinderwiki.com/wiki/Minderhal)"
 		],
-		"pantheon": "Giant Deities",
+		"pantheons": [ "Giant Deities" ],
 		"alignment": "LE",
 		"areas_of_concern": "Creation, justice, giants, strength",
 		"domains": [
@@ -18260,7 +18313,7 @@
 			"**Source** [Inner Sea Gods pg. 318](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Mneoc](http://www.pathfinderwiki.com/wiki/Mneoc)"
 		],
-		"pantheon": "Daemon Harbingers",
+		"pantheons": [ "Daemon Harbingers" ],
 		"alignment": "NE",
 		"areas_of_concern": "Aging pains, organ failure, senility",
 		"domains": [
@@ -18326,7 +18379,7 @@
 			"**Source** [Pathfinder #105: The Inferno Gate pg. 68](source:Pathfinder #105: The Inferno Gate)",
 			"**Pathfinder Wiki** [Moloch](http://www.pathfinderwiki.com/wiki/Moloch)"
 		],
-		"pantheon": "Archdevils",
+		"pantheons": [ "Archdevils" ],
 		"alignment": "LE",
 		"areas_of_concern": "Fire, obedience, war",
 		"domains": [
@@ -18441,7 +18494,7 @@
 			"**Source** [Concordance of Rivals pg. 11](source:Concordance of Rivals)",
 			"**Pathfinder Wiki** [Monad](http://www.pathfinderwiki.com/wiki/Monad)"
 		],
-		"pantheon": "Aeon",
+		"pantheons": [ "Aeon" ],
 		"alignment": "N",
 		"areas_of_concern": "Creation, the infinite, and truth",
 		"domains": [
@@ -18496,7 +18549,7 @@
 			"**Source** [Pathfinder #109: In Search of Sanity pg. 69](source:Pathfinder #109: In Search of Sanity)",
 			"**Pathfinder Wiki** [Mordiggian](http://www.pathfinderwiki.com/wiki/Mordiggian)"
 		],
-		"pantheon": "Great Old Ones",
+		"pantheons": [ "Great Old Ones" ],
 		"alignment": "CE",
 		"areas_of_concern": "Darkness, ghouls, voices of the dead",
 		"domains": [
@@ -18542,7 +18595,7 @@
 			"**Source** [Book of the Damned pg. 120](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Morrobahn](http://www.pathfinderwiki.com/wiki/Morrobahn)"
 		],
-		"pantheon": "Kyton Demagogues",
+		"pantheons": [ "Kyton Demagogues" ],
 		"alignment": "LE",
 		"areas_of_concern": "Invasiveness, proliferation, redundancy",
 		"domains": [
@@ -18596,7 +18649,7 @@
 			"**Source** [Concordance of Rivals pg. 12](source:Concordance of Rivals)",
 			"**Pathfinder Wiki** [Mother Vulture](http://www.pathfinderwiki.com/wiki/Mother Vulture)"
 		],
-		"pantheon": "Psychopomp Usher",
+		"pantheons": [ "Psychopomp Usher" ],
 		"alignment": "N",
 		"areas_of_concern": "Consumption, renewal, and transformation",
 		"domains": [
@@ -18651,7 +18704,7 @@
 			"**Source** [Concordance of Rivals pg. 12](source:Concordance of Rivals)",
 			"**Pathfinder Wiki** [Mrtyu](http://www.pathfinderwiki.com/wiki/Mrtyu)"
 		],
-		"pantheon": "Psychopomp Usher",
+		"pantheons": [ "Psychopomp Usher" ],
 		"alignment": "N",
 		"areas_of_concern": "Poetry, trauma, and war",
 		"domains": [
@@ -18710,7 +18763,7 @@
 			"**Source** [Inner Sea Gods pg. 328](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Murnath](http://www.pathfinderwiki.com/wiki/Murnath)"
 		],
-		"pantheon": "Nascent Demon Lords",
+		"pantheons": [ "Nascent Demon Lords" ],
 		"alignment": "CE",
 		"areas_of_concern": "Rats, sewers",
 		"domains": [
@@ -18785,7 +18838,7 @@
 			"**Source** [Book of the Damned pg. 126](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Muronna](http://www.pathfinderwiki.com/wiki/Muronna)"
 		],
-		"pantheon": "Oni Daimyo",
+		"pantheons": [ "Oni Daimyo" ],
 		"alignment": "NE",
 		"areas_of_concern": "Eclipses, sunsets, unseen things",
 		"domains": [
@@ -18839,7 +18892,7 @@
 			"**Source** [Book of the Damned pg. 130](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Mursha](http://www.pathfinderwiki.com/wiki/Mursha)"
 		],
-		"pantheon": "Rakshasa Immortals",
+		"pantheons": [ "Rakshasa Immortals" ],
 		"alignment": "LE",
 		"areas_of_concern": "N/a",
 		"domains": [
@@ -18894,7 +18947,7 @@
 			"**Source** [Pathfinder #123: The Flooded Cathedral pg. 71](source:Pathfinder #123: The Flooded Cathedral)",
 			"**Pathfinder Wiki** [Myr](http://www.pathfinderwiki.com/wiki/Myr)"
 		],
-		"pantheon": "Azlanti Pantheon",
+		"pantheons": [ "Azlanti Pantheon" ],
 		"alignment": "LG",
 		"areas_of_concern": "Charity, lineage, and physical perfection",
 		"domains": [
@@ -18940,7 +18993,7 @@
 			"**Source** [Inner Sea Faiths pg. 77](source:Inner Sea Faiths)",
 			"**Pathfinder Wiki** [Naderi](http://www.pathfinderwiki.com/wiki/Naderi)"
 		],
-		"pantheon": "Other Deities",
+		"pantheons": [ "Other Deities" ],
 		"alignment": "N",
 		"areas_of_concern": "Drowning, romantic tragedy, suicide",
 		"domains": [
@@ -19037,7 +19090,7 @@
 			"**Source** [Dragon Empires Gazetteer pg. 58](source:Dragon Empires Gazetteer)",
 			"**Pathfinder Wiki** [Nalinivati](http://www.pathfinderwiki.com/wiki/Nalinivati)"
 		],
-		"pantheon": "Deities of Tian Xia",
+		"pantheons": [ "Deities of Tian Xia" ],
 		"alignment": "N",
 		"areas_of_concern": "Fertility, nagaji, snakes, sorcery",
 		"domains": [
@@ -19099,7 +19152,7 @@
 			"**Source** [Inner Sea Gods pg. 318](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Nalmungder](http://www.pathfinderwiki.com/wiki/Nalmungder)"
 		],
-		"pantheon": "Daemon Harbingers",
+		"pantheons": [ "Daemon Harbingers" ],
 		"alignment": "NE",
 		"areas_of_concern": "Basements, closets, delusions of safety",
 		"domains": [
@@ -19162,7 +19215,7 @@
 			"**Source** [Book of the Damned pg. 132](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Nameless](http://www.pathfinderwiki.com/wiki/Nameless)"
 		],
-		"pantheon": "Sahkil Tormentors",
+		"pantheons": [ "Sahkil Tormentors" ],
 		"alignment": "CE",
 		"areas_of_concern": "Deslusions of authority, doubt, torment",
 		"domains": [
@@ -19210,7 +19263,7 @@
 			"**Source** [Concordance of Rivals pg. 13](source:Concordance of Rivals)",
 			"**Pathfinder Wiki** [Narakaas](http://www.pathfinderwiki.com/wiki/Narakaas)"
 		],
-		"pantheon": "Psychopomp Usher",
+		"pantheons": [ "Psychopomp Usher" ],
 		"alignment": "N",
 		"areas_of_concern": "Atonement, difficult choices, and pain",
 		"domains": [
@@ -19265,7 +19318,7 @@
 			"**Source** [Concordance of Rivals pg. 14](source:Concordance of Rivals)",
 			"**Pathfinder Wiki** [Narriseminek](http://www.pathfinderwiki.com/wiki/Narriseminek)"
 		],
-		"pantheon": "Protean Lord",
+		"pantheons": [ "Protean Lord" ],
 		"alignment": "CN",
 		"areas_of_concern": "Ascendance, keketars, and revelations",
 		"domains": [
@@ -19320,7 +19373,7 @@
 			"**Source** [Book of the Damned pg. 126](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Nataka](http://www.pathfinderwiki.com/wiki/Nataka)"
 		],
-		"pantheon": "Oni Daimyo",
+		"pantheons": [ "Oni Daimyo" ],
 		"alignment": "NE",
 		"areas_of_concern": "Drought, forest fires, perfume",
 		"domains": [
@@ -19374,7 +19427,7 @@
 			"**Source** [Pathfinder #80: Empty Graves pg. 65](source:Pathfinder #80: Empty Graves)",
 			"**Pathfinder Wiki** [Neith](http://www.pathfinderwiki.com/wiki/Neith)"
 		],
-		"pantheon": "Deities of Ancient Osirion",
+		"pantheons": [ "Deities of Ancient Osirion" ],
 		"alignment": "NG",
 		"areas_of_concern": "Hunting, war, weaving",
 		"domains": [
@@ -19416,7 +19469,7 @@
 			"**Source** [Pathfinder #80: Empty Graves pg. 65](source:Pathfinder #80: Empty Graves)",
 			"**Pathfinder Wiki** [Nephthys](http://www.pathfinderwiki.com/wiki/Nephthys)"
 		],
-		"pantheon": "Deities of Ancient Osirion",
+		"pantheons": [ "Deities of Ancient Osirion" ],
 		"alignment": "CN",
 		"areas_of_concern": "Mourning, night, protection of the dead",
 		"domains": [
@@ -19461,7 +19514,7 @@
 			"**Source** [Inner Sea Gods pg. 326](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Nergal](http://www.pathfinderwiki.com/wiki/Nergal)"
 		],
-		"pantheon": "Infernal Dukes",
+		"pantheons": [ "Infernal Dukes" ],
 		"alignment": "LE",
 		"areas_of_concern": "Atrocity, pestilence, war",
 		"domains": [
@@ -19530,7 +19583,7 @@
 			"**Source** [Inner Sea Gods pg. 322](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Neshen](http://www.pathfinderwiki.com/wiki/Neshen)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "LG",
 		"areas_of_concern": "Penitence, repentance, suffering",
 		"domains": [
@@ -19586,8 +19639,13 @@
 			"**Source** [Inner Sea Gods pg. 100](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Nethys](http://www.pathfinderwiki.com/wiki/Nethys)"
 		],
-		"pantheon": "Core Deities",
-		"other_pantheons": "Ascended Pantheon, Elven Deities, Gnomish Deities, Kobold Deities",
+		"pantheons": [
+			"Core Deities",
+			"Ascended Pantheon",
+			"Elven Deities",
+			"Gnomish Deities",
+			"Kobold Deities"
+		],
 		"alignment": "N",
 		"areas_of_concern": "Magic",
 		"domains": [
@@ -19726,7 +19784,7 @@
 			"**Source** [The First World, Realm of the Fey pg. 30](source:The First World, Realm of the Fey)",
 			"**Pathfinder Wiki** [Ng](http://www.pathfinderwiki.com/wiki/Ng)"
 		],
-		"pantheon": "Eldest",
+		"pantheons": [ "Eldest" ],
 		"alignment": "N",
 		"areas_of_concern": "Seasons, secrets, wanderers",
 		"domains": [
@@ -19792,7 +19850,7 @@
 			"**Source** [Pathfinder #109: In Search of Sanity pg. 69](source:Pathfinder #109: In Search of Sanity)",
 			"**Pathfinder Wiki** [Nhimbaloth](http://www.pathfinderwiki.com/wiki/Nhimbaloth)"
 		],
-		"pantheon": "Outer Gods",
+		"pantheons": [ "Outer Gods" ],
 		"alignment": "CE",
 		"areas_of_concern": "Despair, ghosts, swamps",
 		"domains": [
@@ -19843,7 +19901,7 @@
 			"**Source** [Inner Sea Gods pg. 328](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Nightripper](http://www.pathfinderwiki.com/wiki/Nightripper)"
 		],
-		"pantheon": "Nascent Demon Lords",
+		"pantheons": [ "Nascent Demon Lords" ],
 		"alignment": "CE",
 		"areas_of_concern": "Botched executions, pits",
 		"domains": [
@@ -19921,8 +19979,11 @@
 			"**Source** [Inner Sea Gods pg. 184](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Nivi Rhombodazzle](http://www.pathfinderwiki.com/wiki/Nivi Rhombodazzle)"
 		],
-		"pantheon": "Other Deities",
-		"other_pantheons": "Gnomish Deities, Gnomish Deities",
+		"pantheons": [
+			"Other Deities",
+			"Gnomish Deities",
+			"Gnomish Deities"
+		],
 		"alignment": "N",
 		"areas_of_concern": "Gems, stealth, gambling",
 		"domains": [
@@ -19974,7 +20035,7 @@
 				"**Evangelist**",
 				"**Source** [Faiths of Golarion pg. 47](source:Faiths of Golarion)",
 				"**1: Gambler's Essentials (Sp)** [true strike](spell:true strike) 3/day, [augury](spell:augury) 2/day, or [haste](spell:haste) 1/day",
-				"**2: Gambler's Egress (Sp)** Nivi Rhombodazzle fled from angry creditors long ago, and her worshippers are encouraged to learn from her wisdom. Three times per day as a swift action, you can cast [litany of escape](spell:litany of escape) as a spell-like ability, targeting yourself or an ally.",
+				"**2: Gambler's Egress (Sp)** Nivi Rhombodazzle fled from angry creditors long ago, and her worshipers are encouraged to learn from her wisdom. Three times per day as a swift action, you can cast [litany of escape](spell:litany of escape) as a spell-like ability, targeting yourself or an ally.",
 				"**3: Gambler's Prayer (Su)** Three times per day as a standard action, you can offer up a quick prayer to Nivi Rhombodazzle that also serves as a wager with the demigoddess. Using this ability is similar to activating a [rod of wonder](unknown:rod of wonder); choose a single target within 60 feet and then roll on the rod of wonder's Wondrous Effect table to learn the result of this ability. If you roll a result of 88-90, the gemstones that erupt are blessed by Nivi, dealing an additional amount of bludgeoning and piercing damage equal to your Charisma bonus on each successful strike.",
 				"**Exalted**",
 				"**Source** [Faiths of Golarion pg. 47](source:Faiths of Golarion)",
@@ -20012,7 +20073,7 @@
 			"**Source** [Pathfinder #144: Midwives to Death pg. 78](source:Pathfinder #144: Midwives to Death)",
 			"**Pathfinder Wiki** [Nocticula (Redeemed)](http://www.pathfinderwiki.com/wiki/Nocticula (Redeemed))"
 		],
-		"pantheon": "Other Deities",
+		"pantheons": [ "Other Deities" ],
 		"alignment": "CN",
 		"areas_of_concern": "Artists, exiles, midnight",
 		"domains": [
@@ -20094,7 +20155,7 @@
 			"**Source** [Inner Sea Gods pg. 320](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Nocticula](http://www.pathfinderwiki.com/wiki/Nocticula)"
 		],
-		"pantheon": "Demon Lords",
+		"pantheons": [ "Demon Lords" ],
 		"alignment": "CE",
 		"areas_of_concern": "Assassins, darkness, lust",
 		"domains": [
@@ -20193,8 +20254,12 @@
 			"**Source** [Inner Sea Gods pg. 108](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Norgorber](http://www.pathfinderwiki.com/wiki/Norgorber)"
 		],
-		"pantheon": "Core Deities",
-		"other_pantheons": "Ascended Pantheon, Halfling Deities, Taldan Pantheon",
+		"pantheons": [
+			"Core Deities",
+			"Ascended Pantheon",
+			"Halfling Deities",
+			"Taldan Pantheon"
+		],
 		"alignment": "NE",
 		"areas_of_concern": "Greed, murder, poison, secrets",
 		"domains": [
@@ -20317,7 +20382,7 @@
 			"**Source** [Inner Sea Gods pg. 328](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Nulgreth](http://www.pathfinderwiki.com/wiki/Nulgreth)"
 		],
-		"pantheon": "Orc Deities",
+		"pantheons": [ "Orc Deities" ],
 		"alignment": "CE",
 		"areas_of_concern": "Anger, rage, strength",
 		"domains": [
@@ -20366,7 +20431,7 @@
 			"**Source** [Inner Sea Gods pg. 320](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Nurgal](http://www.pathfinderwiki.com/wiki/Nurgal)"
 		],
-		"pantheon": "Demon Lords",
+		"pantheons": [ "Demon Lords" ],
 		"alignment": "CE",
 		"areas_of_concern": "Deserts, senseless warfare, the sun",
 		"domains": [
@@ -20461,7 +20526,7 @@
 			"**Source** [Pathfinder #109: In Search of Sanity pg. 70](source:Pathfinder #109: In Search of Sanity)",
 			"**Pathfinder Wiki** [Nyarlathotep](http://www.pathfinderwiki.com/wiki/Nyarlathotep)"
 		],
-		"pantheon": "Outer Gods",
+		"pantheons": [ "Outer Gods" ],
 		"alignment": "CE",
 		"areas_of_concern": "Conspiracies, dangerous secrets, forbidden magic",
 		"domains": [
@@ -20506,7 +20571,7 @@
 			"**Source** [Pathfinder #65: Into the Nightmare Rift pg. 41](source:Pathfinder #65: Into the Nightmare Rift)",
 			"**Pathfinder Wiki** [Nyarlathotep](http://www.pathfinderwiki.com/wiki/Nyarlathotep)"
 		],
-		"pantheon": "Outer Gods",
+		"pantheons": [ "Outer Gods" ],
 		"alignment": "CE",
 		"areas_of_concern": "Conspiracies, dangerous secrets, forbidden magic",
 		"domains": [
@@ -20544,7 +20609,7 @@
 			"**Source** [Pathfinder #109: In Search of Sanity pg. 70](source:Pathfinder #109: In Search of Sanity)",
 			"**Pathfinder Wiki** [Nyarlathotep](http://www.pathfinderwiki.com/wiki/Nyarlathotep)"
 		],
-		"pantheon": "Outer Gods",
+		"pantheons": [ "Outer Gods" ],
 		"alignment": "CE",
 		"areas_of_concern": "Conspiracies, dangerous secrets, forbidden magic",
 		"domains": [
@@ -20592,7 +20657,7 @@
 			"**Source** [Inner Sea Gods pg. 328](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Oaur-Ooung](http://www.pathfinderwiki.com/wiki/Oaur-Ooung)"
 		],
-		"pantheon": "Qlippoth Lords",
+		"pantheons": [ "Qlippoth Lords" ],
 		"alignment": "CE",
 		"areas_of_concern": "Tainted oceans, vile fecundity",
 		"domains": [
@@ -20654,7 +20719,7 @@
 			"**Source** [Inner Sea Gods pg. 322](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Olheon](http://www.pathfinderwiki.com/wiki/Olheon)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "LG",
 		"areas_of_concern": "Deservedness, nobility, rulership",
 		"domains": [
@@ -20726,7 +20791,7 @@
 			"**Source** [Distant Shores pg. 43](source:Distant Shores)",
 			"**Pathfinder Wiki** [Omrataji](http://www.pathfinderwiki.com/wiki/Omrataji)"
 		],
-		"pantheon": "Other Deities",
+		"pantheons": [ "Other Deities" ],
 		"alignment": "NG",
 		"areas_of_concern": "Silver, silverwork, and silver mining",
 		"domains": [
@@ -20769,7 +20834,7 @@
 			"**Source** [Book of the Damned pg. 110](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Onamahli](http://www.pathfinderwiki.com/wiki/Onamahli)"
 		],
-		"pantheon": "Asura Ranas",
+		"pantheons": [ "Asura Ranas" ],
 		"alignment": "LE",
 		"areas_of_concern": "Beauty, double standards, self-mutalation",
 		"domains": [
@@ -20823,7 +20888,7 @@
 			"**Source** [Inner Sea Gods pg. 322](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Ondisso](http://www.pathfinderwiki.com/wiki/Ondisso)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "NG",
 		"areas_of_concern": "Elevation, incorruptibility, resisting temptation",
 		"domains": [
@@ -20874,7 +20939,7 @@
 			"**Source** [Pathfinder #144: Midwives to Death pg. 75](source:Pathfinder #144: Midwives to Death)",
 			"**Pathfinder Wiki** [Ongalte](http://www.pathfinderwiki.com/wiki/Ongalte)"
 		],
-		"pantheon": "Iblydan Hero-Gods",
+		"pantheons": [ "Iblydan Hero-Gods" ],
 		"alignment": "CE",
 		"areas_of_concern": "Deicide",
 		"domains": [
@@ -20921,7 +20986,7 @@
 			"**Source** [Book of the Damned pg. 126](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Onmyuza](http://www.pathfinderwiki.com/wiki/Onmyuza)"
 		],
-		"pantheon": "Oni Daimyo",
+		"pantheons": [ "Oni Daimyo" ],
 		"alignment": "CE",
 		"areas_of_concern": "Orgies, sake, tattoos",
 		"domains": [
@@ -20975,7 +21040,7 @@
 			"**Source** [Pathfinder #123: The Flooded Cathedral pg. 72](source:Pathfinder #123: The Flooded Cathedral)",
 			"**Pathfinder Wiki** [Onos](http://www.pathfinderwiki.com/wiki/Onos)"
 		],
-		"pantheon": "Azlanti Pantheon",
+		"pantheons": [ "Azlanti Pantheon" ],
 		"alignment": "N",
 		"areas_of_concern": "Elements, embassies, and extraplanar travel",
 		"domains": [
@@ -21025,7 +21090,7 @@
 			"**Source** [Inner Sea Gods pg. 320](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Orcus](http://www.pathfinderwiki.com/wiki/Orcus)"
 		],
-		"pantheon": "Demon Lords",
+		"pantheons": [ "Demon Lords" ],
 		"alignment": "CE",
 		"areas_of_concern": "Death, necromancy, wrath",
 		"domains": [
@@ -21118,7 +21183,7 @@
 			"**Source** [Pathfinder #109: In Search of Sanity pg. 70](source:Pathfinder #109: In Search of Sanity)",
 			"**Pathfinder Wiki** [Orgesh](http://www.pathfinderwiki.com/wiki/Orgesh)"
 		],
-		"pantheon": "Great Old Ones",
+		"pantheons": [ "Great Old Ones" ],
 		"alignment": "CE",
 		"areas_of_concern": "Alchemy, hunger, subterranean waterways",
 		"domains": [
@@ -21178,7 +21243,7 @@
 			"**Source** [Inner Sea Gods pg. 326](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Ose](http://www.pathfinderwiki.com/wiki/Ose)"
 		],
-		"pantheon": "Infernal Dukes",
+		"pantheons": [ "Infernal Dukes" ],
 		"alignment": "LE",
 		"areas_of_concern": "Betrayal, doom, obsession",
 		"domains": [
@@ -21247,7 +21312,7 @@
 			"**Source** [Pathfinder #80: Empty Graves pg. 65](source:Pathfinder #80: Empty Graves)",
 			"**Pathfinder Wiki** [Osiris](http://www.pathfinderwiki.com/wiki/Osiris)"
 		],
-		"pantheon": "Deities of Ancient Osirion",
+		"pantheons": [ "Deities of Ancient Osirion" ],
 		"alignment": "LG",
 		"areas_of_concern": "Afterlife, fertility, rebirth, resurrection",
 		"domains": [
@@ -21301,7 +21366,7 @@
 			"**Source** [Inner Sea Gods pg. 318](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Osolmyr](http://www.pathfinderwiki.com/wiki/Osolmyr)"
 		],
-		"pantheon": "Daemon Harbingers",
+		"pantheons": [ "Daemon Harbingers" ],
 		"alignment": "NE",
 		"areas_of_concern": "Flagellation, repression, self denial",
 		"domains": [
@@ -21364,7 +21429,7 @@
 			"**Source** [Book of the Damned pg. 130](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Otikaya](http://www.pathfinderwiki.com/wiki/Otikaya)"
 		],
-		"pantheon": "Rakshasa Immortals",
+		"pantheons": [ "Rakshasa Immortals" ],
 		"alignment": "LE",
 		"areas_of_concern": "N/a",
 		"domains": [
@@ -21419,7 +21484,7 @@
 			"**Source** [Concordance of Rivals pg. 14](source:Concordance of Rivals)",
 			"**Pathfinder Wiki** [Otolmens](http://www.pathfinderwiki.com/wiki/Otolmens)"
 		],
-		"pantheon": "Primal Inevitable",
+		"pantheons": [ "Primal Inevitable" ],
 		"alignment": "LN",
 		"areas_of_concern": "Machinery, math, and physics",
 		"domains": [
@@ -21478,7 +21543,7 @@
 			"**Source** [Inner Sea Gods pg. 328](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Ovonovo](http://www.pathfinderwiki.com/wiki/Ovonovo)"
 		],
-		"pantheon": "Nascent Demon Lords",
+		"pantheons": [ "Nascent Demon Lords" ],
 		"alignment": "CE",
 		"areas_of_concern": "Sharks, shipwrecks",
 		"domains": [
@@ -21553,7 +21618,7 @@
 			"**Source** [Book of the Damned pg. 132](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Ozranvial](http://www.pathfinderwiki.com/wiki/Ozranvial)"
 		],
-		"pantheon": "Sahkil Tormentors",
+		"pantheons": [ "Sahkil Tormentors" ],
 		"alignment": "CE",
 		"areas_of_concern": "Despair, restless spirits, sadism",
 		"domains": [
@@ -21610,7 +21675,7 @@
 			"**Source** [Inner Sea Gods pg. 318](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Pavnuri](http://www.pathfinderwiki.com/wiki/Pavnuri)"
 		],
-		"pantheon": "Daemon Harbingers",
+		"pantheons": [ "Daemon Harbingers" ],
 		"alignment": "NE",
 		"areas_of_concern": "Cacodaemons, cannibalism, secret messages",
 		"domains": [
@@ -21674,7 +21739,7 @@
 			"**Source** [Inner Sea Gods pg. 320](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Pazuzu](http://www.pathfinderwiki.com/wiki/Pazuzu)"
 		],
-		"pantheon": "Demon Lords",
+		"pantheons": [ "Demon Lords" ],
 		"alignment": "CE",
 		"areas_of_concern": "The sky, temptation, winged creatures",
 		"domains": [
@@ -21771,8 +21836,10 @@
 			"**Source** [Inner Sea Gods pg. 116](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Pharasma](http://www.pathfinderwiki.com/wiki/Pharasma)"
 		],
-		"pantheon": "Core Deities",
-		"other_pantheons": "Deities of Tian Xia",
+		"pantheons": [
+			"Core Deities",
+			"Deities of Tian Xia"
+		],
 		"alignment": "N",
 		"areas_of_concern": "Birth, death, fate, prophecy",
 		"domains": [
@@ -21932,7 +21999,7 @@
 			"**Source** [Pathfinder #144: Midwives to Death pg. 74](source:Pathfinder #144: Midwives to Death)",
 			"**Pathfinder Wiki** [Pharimia](http://www.pathfinderwiki.com/wiki/Pharimia)"
 		],
-		"pantheon": "Iblydan Hero-Gods",
+		"pantheons": [ "Iblydan Hero-Gods" ],
 		"alignment": "Unaligned",
 		"areas_of_concern": "Ports, lighthouses",
 		"domains": [
@@ -21973,7 +22040,7 @@
 			"**Source** [Concordance of Rivals pg. 16](source:Concordance of Rivals)",
 			"**Pathfinder Wiki** [Phlegyas](http://www.pathfinderwiki.com/wiki/Phlegyas)"
 		],
-		"pantheon": "Psychopomp Usher",
+		"pantheons": [ "Psychopomp Usher" ],
 		"alignment": "N",
 		"areas_of_concern": "Atheists, legacies, and reincarnation",
 		"domains": [
@@ -21995,7 +22062,7 @@
 			"**Symbol** Two circles overlapping vertically"
 		],
 		"obedience": [
-			"Spend an hour creating something from the dead. Most worshippers weave jewelry from the hair of the departed, but more macabre faithful may instead use bones, teeth, or flesh. Others may embalm or mummify the corpse. Gain a +2 insight bonus on saving throws against divine magic."
+			"Spend an hour creating something from the dead. Most worshipers weave jewelry from the hair of the departed, but more macabre faithful may instead use bones, teeth, or flesh. Others may embalm or mummify the corpse. Gain a +2 insight bonus on saving throws against divine magic."
 		],
 		"boons": {
 			"_titles": [
@@ -22031,7 +22098,7 @@
 			"**Source** [Inner Sea Gods pg. 322](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Picoperi](http://www.pathfinderwiki.com/wiki/Picoperi)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "CG",
 		"areas_of_concern": "Jokes, pranks, surprises",
 		"domains": [
@@ -22104,7 +22171,7 @@
 			"**Source** [Inner Sea Gods pg. 326](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Pirias](http://www.pathfinderwiki.com/wiki/Pirias)"
 		],
-		"pantheon": "Infernal Dukes",
+		"pantheons": [ "Infernal Dukes" ],
 		"alignment": "LE",
 		"areas_of_concern": "Denial, drugs, wonder",
 		"domains": [
@@ -22173,7 +22240,7 @@
 			"**Source** [Book of the Damned pg. 130](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Prihasta](http://www.pathfinderwiki.com/wiki/Prihasta)"
 		],
-		"pantheon": "Rakshasa Immortals",
+		"pantheons": [ "Rakshasa Immortals" ],
 		"alignment": "LE",
 		"areas_of_concern": "N/a",
 		"domains": [
@@ -22228,7 +22295,7 @@
 			"**Source** [Distant Shores pg. 13](source:Distant Shores)",
 			"**Pathfinder Wiki** [Psomeira](http://www.pathfinderwiki.com/wiki/Psomeira)"
 		],
-		"pantheon": "Iblydan Hero-Gods",
+		"pantheons": [ "Iblydan Hero-Gods" ],
 		"alignment": "LN",
 		"areas_of_concern": "Hero-god of seasons and spears",
 		"domains": [
@@ -22273,7 +22340,7 @@
 			"**Source** [Pathfinder #80: Empty Graves pg. 65](source:Pathfinder #80: Empty Graves)",
 			"**Pathfinder Wiki** [Ptah](http://www.pathfinderwiki.com/wiki/Ptah)"
 		],
-		"pantheon": "Deities of Ancient Osirion",
+		"pantheons": [ "Deities of Ancient Osirion" ],
 		"alignment": "N",
 		"areas_of_concern": "Architecture, craftsmanship, creation, metalworking",
 		"domains": [
@@ -22318,7 +22385,7 @@
 			"**Source** [Inner Sea Gods pg. 322](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Pulura](http://www.pathfinderwiki.com/wiki/Pulura)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "CG",
 		"areas_of_concern": "Constellations, homesickness, northern lights",
 		"domains": [
@@ -22387,7 +22454,7 @@
 			"**Source** [Dragon Empires Gazetteer pg. 58](source:Dragon Empires Gazetteer)",
 			"**Pathfinder Wiki** [Qi Zhong](http://www.pathfinderwiki.com/wiki/Qi Zhong)"
 		],
-		"pantheon": "Deities of Tian Xia",
+		"pantheons": [ "Deities of Tian Xia" ],
 		"alignment": "NG",
 		"areas_of_concern": "Healing, magic, medicine",
 		"domains": [
@@ -22444,7 +22511,7 @@
 			"**Source** [Inner Sea Gods pg. 326](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Quindiovatos](http://www.pathfinderwiki.com/wiki/Quindiovatos)"
 		],
-		"pantheon": "Infernal Dukes",
+		"pantheons": [ "Infernal Dukes" ],
 		"alignment": "LE",
 		"areas_of_concern": "Exploration, gems, legends",
 		"domains": [
@@ -22513,7 +22580,7 @@
 			"**Source** [Pathfinder #80: Empty Graves pg. 65](source:Pathfinder #80: Empty Graves)",
 			"**Pathfinder Wiki** [Ra](http://www.pathfinderwiki.com/wiki/Ra)"
 		],
-		"pantheon": "Deities of Ancient Osirion",
+		"pantheons": [ "Deities of Ancient Osirion" ],
 		"alignment": "LN",
 		"areas_of_concern": "Creation, rulership, the sun",
 		"domains": [
@@ -22555,7 +22622,7 @@
 			"**Source** [Book of the Damned pg. 120](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Raetorgash](http://www.pathfinderwiki.com/wiki/Raetorgash)"
 		],
-		"pantheon": "Kyton Demagogues",
+		"pantheons": [ "Kyton Demagogues" ],
 		"alignment": "LE",
 		"areas_of_concern": "Evolution, mutation, skulls",
 		"domains": [
@@ -22612,7 +22679,7 @@
 			"**Source** [The First World, Realm of the Fey pg. 32](source:The First World, Realm of the Fey)",
 			"**Pathfinder Wiki** [Ragadahn](http://www.pathfinderwiki.com/wiki/Ragadahn)"
 		],
-		"pantheon": "Eldest",
+		"pantheons": [ "Eldest" ],
 		"alignment": "CE",
 		"areas_of_concern": "Linnorms, oceans, spirals",
 		"domains": [
@@ -22692,7 +22759,7 @@
 			"**Source** [Inner Sea Gods pg. 322](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Ragathiel](http://www.pathfinderwiki.com/wiki/Ragathiel)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "LG",
 		"areas_of_concern": "Chivalry, duty, vengeance",
 		"domains": [
@@ -22776,7 +22843,7 @@
 			"**Source** [Book of the Damned pg. 110](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Rahu](http://www.pathfinderwiki.com/wiki/Rahu)"
 		],
-		"pantheon": "Asura Ranas",
+		"pantheons": [ "Asura Ranas" ],
 		"alignment": "LE",
 		"areas_of_concern": "Eclipses, Executions, Gluttony",
 		"domains": [
@@ -22833,7 +22900,7 @@
 			"**Source** [Inner Sea Gods pg. 326](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Rasvocel](http://www.pathfinderwiki.com/wiki/Rasvocel)"
 		],
-		"pantheon": "Infernal Dukes",
+		"pantheons": [ "Infernal Dukes" ],
 		"alignment": "LE",
 		"areas_of_concern": "Carrion, patience, storms",
 		"domains": [
@@ -22902,7 +22969,7 @@
 			"**Source** [Book of the Damned pg. 130](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Ravana](http://www.pathfinderwiki.com/wiki/Ravana)"
 		],
-		"pantheon": "Rakshasa Immortals",
+		"pantheons": [ "Rakshasa Immortals" ],
 		"alignment": "LE",
 		"areas_of_concern": "N/a",
 		"domains": [
@@ -22957,7 +23024,7 @@
 			"**Source** [Inner Sea Gods pg. 322](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Reymenda](http://www.pathfinderwiki.com/wiki/Reymenda)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "CG",
 		"areas_of_concern": "Childlessness, endings, responsibility",
 		"domains": [
@@ -23009,7 +23076,7 @@
 			"**Source** [Pathfinder #109: In Search of Sanity pg. 71](source:Pathfinder #109: In Search of Sanity)",
 			"**Pathfinder Wiki** [Rhan-Tegoth](http://www.pathfinderwiki.com/wiki/Rhan-Tegoth)"
 		],
-		"pantheon": "Great Old Ones",
+		"pantheons": [ "Great Old Ones" ],
 		"alignment": "CE",
 		"areas_of_concern": "Hibernation, immortality, ruin",
 		"domains": [
@@ -23058,7 +23125,7 @@
 			"**Source** [Inner Sea Gods pg. 318](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Roqorolos](http://www.pathfinderwiki.com/wiki/Roqorolos)"
 		],
-		"pantheon": "Daemon Harbingers",
+		"pantheons": [ "Daemon Harbingers" ],
 		"alignment": "NE",
 		"areas_of_concern": "Castaways, fouled water, oceans",
 		"domains": [
@@ -23126,7 +23193,7 @@
 			"**Source** [Inner Sea Gods pg. 124](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Rovagug](http://www.pathfinderwiki.com/wiki/Rovagug)"
 		],
-		"pantheon": "Core Deities",
+		"pantheons": [ "Core Deities" ],
 		"alignment": "CE",
 		"areas_of_concern": "Destruction, disaster, wrath",
 		"domains": [
@@ -23286,7 +23353,7 @@
 			"**Source** [Inner Sea Gods pg. 324](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Rowdrosh](http://www.pathfinderwiki.com/wiki/Rowdrosh)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "NG",
 		"areas_of_concern": "Herd animals, husbandry, shepherds",
 		"domains": [
@@ -23358,7 +23425,7 @@
 			"**Source** [Inner Sea Gods pg. 318](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Ruapceras](http://www.pathfinderwiki.com/wiki/Ruapceras)"
 		],
-		"pantheon": "Daemon Harbingers",
+		"pantheons": [ "Daemon Harbingers" ],
 		"alignment": "NE",
 		"areas_of_concern": "Cyclical revenge, crusades, intolerance",
 		"domains": [
@@ -23424,7 +23491,7 @@
 			"**Source** [Inner Sea Gods pg. 328](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Rubicante](http://www.pathfinderwiki.com/wiki/Rubicante)"
 		],
-		"pantheon": "Malebranche",
+		"pantheons": [ "Malebranche" ],
 		"alignment": "LE",
 		"areas_of_concern": "Fire, honor, nobility",
 		"domains": [
@@ -23493,7 +23560,7 @@
 			"**Source** [Inner Sea Gods pg. 328](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Rull](http://www.pathfinderwiki.com/wiki/Rull)"
 		],
-		"pantheon": "Orc Deities",
+		"pantheons": [ "Orc Deities" ],
 		"alignment": "CE",
 		"areas_of_concern": "Lightning, storms, thunder",
 		"domains": [
@@ -23544,7 +23611,7 @@
 			"**Source** [Inner Sea Gods pg. 326](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Ruzel](http://www.pathfinderwiki.com/wiki/Ruzel)"
 		],
-		"pantheon": "Infernal Dukes",
+		"pantheons": [ "Infernal Dukes" ],
 		"alignment": "LE",
 		"areas_of_concern": "Blasphemy, humor, undeath",
 		"domains": [
@@ -23613,7 +23680,7 @@
 			"**Source** [Book of the Damned pg. 110](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Rytara](http://www.pathfinderwiki.com/wiki/Rytara)"
 		],
-		"pantheon": "Asura Ranas",
+		"pantheons": [ "Asura Ranas" ],
 		"alignment": "LE",
 		"areas_of_concern": "Fearful memories, serpents, vision",
 		"domains": [
@@ -23670,7 +23737,7 @@
 			"**Source** [Inner Sea Gods pg. 326](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Sabnach](http://www.pathfinderwiki.com/wiki/Sabnach)"
 		],
-		"pantheon": "Infernal Dukes",
+		"pantheons": [ "Infernal Dukes" ],
 		"alignment": "LE",
 		"areas_of_concern": "Construction, parasites, toil",
 		"domains": [
@@ -23739,7 +23806,7 @@
 			"**Source** [Concordance of Rivals pg. 16](source:Concordance of Rivals)",
 			"**Pathfinder Wiki** [Saloc](http://www.pathfinderwiki.com/wiki/Saloc)"
 		],
-		"pantheon": "Psychopomp Usher",
+		"pantheons": [ "Psychopomp Usher" ],
 		"alignment": "N",
 		"areas_of_concern": "Agency, bronze, and education",
 		"domains": [
@@ -23799,8 +23866,11 @@
 			"**Source** [Inner Sea Gods pg. 132](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Sarenrae](http://www.pathfinderwiki.com/wiki/Sarenrae)"
 		],
-		"pantheon": "Core Deities",
-		"other_pantheons": "Halfling Deities, Sandpoint Pantheon",
+		"pantheons": [
+			"Core Deities",
+			"Halfling Deities",
+			"Sandpoint Pantheon"
+		],
 		"alignment": "NG",
 		"areas_of_concern": "Healing, honesty, redemption, the sun",
 		"domains": [
@@ -23972,7 +24042,7 @@
 			"**Source** [Pathfinder #123: The Flooded Cathedral pg. 73](source:Pathfinder #123: The Flooded Cathedral)",
 			"**Pathfinder Wiki** [Scal](http://www.pathfinderwiki.com/wiki/Scal)"
 		],
-		"pantheon": "Azlanti Pantheon",
+		"pantheons": [ "Azlanti Pantheon" ],
 		"alignment": "NE",
 		"areas_of_concern": "Annihilation, catharsis, and purity",
 		"domains": [
@@ -24016,7 +24086,7 @@
 			"**Source** [Inner Sea Gods pg. 328](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Scarmiglione](http://www.pathfinderwiki.com/wiki/Scarmiglione)"
 		],
-		"pantheon": "Malebranche",
+		"pantheons": [ "Malebranche" ],
 		"alignment": "LE",
 		"areas_of_concern": "Deceit, poison, temptation",
 		"domains": [
@@ -24085,7 +24155,7 @@
 			"**Source** [Pathfinder #80: Empty Graves pg. 65](source:Pathfinder #80: Empty Graves)",
 			"**Pathfinder Wiki** [Sekhmet](http://www.pathfinderwiki.com/wiki/Sekhmet)"
 		],
-		"pantheon": "Deities of Ancient Osirion",
+		"pantheons": [ "Deities of Ancient Osirion" ],
 		"alignment": "CN",
 		"areas_of_concern": "Fire, healing, vengeance, war",
 		"domains": [
@@ -24127,7 +24197,7 @@
 			"**Source** [Pathfinder #80: Empty Graves pg. 65](source:Pathfinder #80: Empty Graves)",
 			"**Pathfinder Wiki** [Selket](http://www.pathfinderwiki.com/wiki/Selket)"
 		],
-		"pantheon": "Deities of Ancient Osirion",
+		"pantheons": [ "Deities of Ancient Osirion" ],
 		"alignment": "CG",
 		"areas_of_concern": "Embalming, healing, scorpions",
 		"domains": [
@@ -24173,7 +24243,7 @@
 			"**Source** [Inner Sea Gods pg. 324](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Seramaydiel](http://www.pathfinderwiki.com/wiki/Seramaydiel)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "NG",
 		"areas_of_concern": "Communication, inspiration, music",
 		"domains": [
@@ -24242,7 +24312,7 @@
 			"**Source** [Pathfinder #80: Empty Graves pg. 65](source:Pathfinder #80: Empty Graves)",
 			"**Pathfinder Wiki** [Set](http://www.pathfinderwiki.com/wiki/Set)"
 		],
-		"pantheon": "Deities of Ancient Osirion",
+		"pantheons": [ "Deities of Ancient Osirion" ],
 		"alignment": "NE",
 		"areas_of_concern": "Darkness, deserts, murder, storms",
 		"domains": [
@@ -24284,7 +24354,7 @@
 			"**Source** [Inner Sea Gods pg. 328](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Sezelrian](http://www.pathfinderwiki.com/wiki/Sezelrian)"
 		],
-		"pantheon": "Orc Deities",
+		"pantheons": [ "Orc Deities" ],
 		"alignment": "CE",
 		"areas_of_concern": "Fire, magic, revenge",
 		"domains": [
@@ -24333,7 +24403,7 @@
 			"**Source** [Inner Sea Gods pg. 328](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Shamira](http://www.pathfinderwiki.com/wiki/Shamira)"
 		],
-		"pantheon": "Nascent Demon Lords",
+		"pantheons": [ "Nascent Demon Lords" ],
 		"alignment": "CE",
 		"areas_of_concern": "Lost dreams, seduction of the pure",
 		"domains": [
@@ -24408,7 +24478,7 @@
 			"**Source** [Book of the Damned pg. 132](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Shawnari](http://www.pathfinderwiki.com/wiki/Shawnari)"
 		],
-		"pantheon": "Sahkil Tormentors",
+		"pantheons": [ "Sahkil Tormentors" ],
 		"alignment": "CE",
 		"areas_of_concern": "Isolation, loneliness, lost time",
 		"domains": [
@@ -24466,7 +24536,7 @@
 			"**Source** [Inner Sea Gods pg. 320](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Shax](http://www.pathfinderwiki.com/wiki/Shax)"
 		],
-		"pantheon": "Demon Lords",
+		"pantheons": [ "Demon Lords" ],
 		"alignment": "CE",
 		"areas_of_concern": "Envy, lies, murder",
 		"domains": [
@@ -24562,7 +24632,7 @@
 			"**Source** [Inner Sea Gods pg. 324](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Shei](http://www.pathfinderwiki.com/wiki/Shei)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "NG",
 		"areas_of_concern": "Age, life, self-actualization",
 		"domains": [
@@ -24634,7 +24704,7 @@
 			"**Source** [Pathfinder #123: The Flooded Cathedral pg. 74](source:Pathfinder #123: The Flooded Cathedral)",
 			"**Pathfinder Wiki** [Shelyn (pre-Earthfall)](http://www.pathfinderwiki.com/wiki/Shelyn (pre-Earthfall))"
 		],
-		"pantheon": "Azlanti Pantheon",
+		"pantheons": [ "Azlanti Pantheon" ],
 		"alignment": "NG",
 		"areas_of_concern": "Art, beauty, love, and music",
 		"domains": [
@@ -24678,8 +24748,14 @@
 			"**Source** [Inner Sea Gods pg. 140](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Shelyn](http://www.pathfinderwiki.com/wiki/Shelyn)"
 		],
-		"pantheon": "Core Deities",
-		"other_pantheons": "Deities of Tian Xia, Gnomish Deities, Halfling Deities, Sandpoint Pantheon, Taldan Pantheon",
+		"pantheons": [
+			"Core Deities",
+			"Deities of Tian Xia",
+			"Gnomish Deities",
+			"Halfling Deities",
+			"Sandpoint Pantheon",
+			"Taldan Pantheon"
+		],
 		"alignment": "NG",
 		"areas_of_concern": "Art, beauty, love, music",
 		"domains": [
@@ -24820,7 +24896,7 @@
 			"**Source** [Inner Sea Gods pg. 328](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Shiggarreb](http://www.pathfinderwiki.com/wiki/Shiggarreb)"
 		],
-		"pantheon": "Qlippoth Lords",
+		"pantheons": [ "Qlippoth Lords" ],
 		"alignment": "CE",
 		"areas_of_concern": "Forbidden magic, wartime atrocities",
 		"domains": [
@@ -24883,7 +24959,7 @@
 			"**Source** [Inner Sea Gods pg. 320](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Shivaska](http://www.pathfinderwiki.com/wiki/Shivaska)"
 		],
-		"pantheon": "Demon Lords",
+		"pantheons": [ "Demon Lords" ],
 		"alignment": "CE",
 		"areas_of_concern": "Aberrations, clocks, prisons",
 		"domains": [
@@ -24980,7 +25056,7 @@
 			"**Source** [Dragon Empires Gazetteer pg. 58](source:Dragon Empires Gazetteer)",
 			"**Pathfinder Wiki** [Shizuru](http://www.pathfinderwiki.com/wiki/Shizuru)"
 		],
-		"pantheon": "Deities of Tian Xia",
+		"pantheons": [ "Deities of Tian Xia" ],
 		"alignment": "LG",
 		"areas_of_concern": "Ancestors, honor, the sun, swordplay",
 		"domains": [
@@ -25092,7 +25168,7 @@
 			"**Source** [Pathfinder #109: In Search of Sanity pg. 71](source:Pathfinder #109: In Search of Sanity)",
 			"**Pathfinder Wiki** [Shub-Niggurath](http://www.pathfinderwiki.com/wiki/Shub-Niggurath)"
 		],
-		"pantheon": "Outer Gods",
+		"pantheons": [ "Outer Gods" ],
 		"alignment": "CE",
 		"areas_of_concern": "Fertility, forests, monsters",
 		"domains": [
@@ -25151,7 +25227,7 @@
 			"**Source** [The First World, Realm of the Fey pg. 34](source:The First World, Realm of the Fey)",
 			"**Pathfinder Wiki** [Shyka](http://www.pathfinderwiki.com/wiki/Shyka)"
 		],
-		"pantheon": "Eldest",
+		"pantheons": [ "Eldest" ],
 		"alignment": "N",
 		"areas_of_concern": "Entropy, reincarnation, time",
 		"domains": [
@@ -25228,7 +25304,7 @@
 			"**Source** [Pathfinder #123: The Flooded Cathedral pg. 74](source:Pathfinder #123: The Flooded Cathedral)",
 			"**Pathfinder Wiki** [Sicva](http://www.pathfinderwiki.com/wiki/Sicva)"
 		],
-		"pantheon": "Azlanti Pantheon",
+		"pantheons": [ "Azlanti Pantheon" ],
 		"alignment": "LE",
 		"areas_of_concern": "Domination, invasive species, and oppression",
 		"domains": [
@@ -25272,7 +25348,7 @@
 			"**Source** [Inner Sea Gods pg. 320](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Sifkesh](http://www.pathfinderwiki.com/wiki/Sifkesh)"
 		],
-		"pantheon": "Demon Lords",
+		"pantheons": [ "Demon Lords" ],
 		"alignment": "CE",
 		"areas_of_concern": "Despair, heresy, suicide",
 		"domains": [
@@ -25370,7 +25446,7 @@
 			"**Source** [Inner Sea Gods pg. 324](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Sinashakti](http://www.pathfinderwiki.com/wiki/Sinashakti)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "CG",
 		"areas_of_concern": "Journeys, joy, messengers",
 		"domains": [
@@ -25444,7 +25520,7 @@
 			"**Source** [Inner Sea Gods pg. 328](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Sithhud](http://www.pathfinderwiki.com/wiki/Sithhud)"
 		],
-		"pantheon": "Nascent Demon Lords",
+		"pantheons": [ "Nascent Demon Lords" ],
 		"alignment": "CE",
 		"areas_of_concern": "Blizzards, the frozen dead",
 		"domains": [
@@ -25519,8 +25595,10 @@
 			"**Source** [Inner Sea Faiths pg. 83](source:Inner Sea Faiths)",
 			"**Pathfinder Wiki** [Sivanah](http://www.pathfinderwiki.com/wiki/Sivanah)"
 		],
-		"pantheon": "Other Deities",
-		"other_pantheons": "Gnomish Deities",
+		"pantheons": [
+			"Other Deities",
+			"Gnomish Deities"
+		],
 		"alignment": "N",
 		"areas_of_concern": "Illusions, mystery, reflections",
 		"domains": [
@@ -25621,7 +25699,7 @@
 			"**Source** [Inner Sea Gods pg. 324](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Skode](http://www.pathfinderwiki.com/wiki/Skode)"
 		],
-		"pantheon": "Giant Deities",
+		"pantheons": [ "Giant Deities" ],
 		"alignment": "CG",
 		"areas_of_concern": "Diurnal beasts, hunting evil, trophies",
 		"domains": [
@@ -25666,7 +25744,7 @@
 			"**Source** [Inner Sea Gods pg. 324](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Skrymir](http://www.pathfinderwiki.com/wiki/Skrymir)"
 		],
-		"pantheon": "Giant Deities",
+		"pantheons": [ "Giant Deities" ],
 		"alignment": "CG",
 		"areas_of_concern": "Riddles, wanderlust, wit",
 		"domains": [
@@ -25714,7 +25792,7 @@
 			"**Source** [Inner Sea Gods pg. 318](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Slandrais](http://www.pathfinderwiki.com/wiki/Slandrais)"
 		],
-		"pantheon": "Daemon Harbingers",
+		"pantheons": [ "Daemon Harbingers" ],
 		"alignment": "NE",
 		"areas_of_concern": "Lechery, love potions, obsession",
 		"domains": [
@@ -25777,7 +25855,7 @@
 			"**Source** [Inner Sea Gods pg. 324](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Smiad](http://www.pathfinderwiki.com/wiki/Smiad)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "LG",
 		"areas_of_concern": "Dragon-hunting, honor, renown",
 		"domains": [
@@ -25829,7 +25907,7 @@
 			"**Source** [Pathfinder #80: Empty Graves pg. 65](source:Pathfinder #80: Empty Graves)",
 			"**Pathfinder Wiki** [Sobek](http://www.pathfinderwiki.com/wiki/Sobek)"
 		],
-		"pantheon": "Deities of Ancient Osirion",
+		"pantheons": [ "Deities of Ancient Osirion" ],
 		"alignment": "CN",
 		"areas_of_concern": "Crocodiles, fertility, military prowess, rivers",
 		"domains": [
@@ -25875,7 +25953,7 @@
 			"**Source** [Inner Sea Gods pg. 320](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Socothbenoth](http://www.pathfinderwiki.com/wiki/Socothbenoth)"
 		],
-		"pantheon": "Demon Lords",
+		"pantheons": [ "Demon Lords" ],
 		"alignment": "CE",
 		"areas_of_concern": "Perversion, pride, taboos",
 		"domains": [
@@ -25971,7 +26049,7 @@
 			"**Source** [Inner Sea Gods pg. 324](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Soralyon](http://www.pathfinderwiki.com/wiki/Soralyon)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "NG",
 		"areas_of_concern": "Guardians, magic, monuments",
 		"domains": [
@@ -26043,7 +26121,7 @@
 			"**Source** [Planar Adventures pg. 188](source:Planar Adventures)",
 			"**Pathfinder Wiki** [Speakers of the Depths](http://www.pathfinderwiki.com/wiki/Speakers of the Depths)"
 		],
-		"pantheon": "Other Deities",
+		"pantheons": [ "Other Deities" ],
 		"alignment": "CN",
 		"areas_of_concern": "Chaos, creation, and destruction",
 		"domains": [
@@ -26083,7 +26161,7 @@
 			"**Source** [Concordance of Rivals pg. 17](source:Concordance of Rivals)",
 			"**Pathfinder Wiki** [Ssila'meshnik](http://www.pathfinderwiki.com/wiki/Ssila'meshnik)"
 		],
-		"pantheon": "Protean Lord",
+		"pantheons": [ "Protean Lord" ],
 		"alignment": "CN",
 		"areas_of_concern": "Fate, freedom, and paradox",
 		"domains": [
@@ -26141,7 +26219,7 @@
 			"**Source** [Inner Sea Gods pg. 318](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Stygidvod](http://www.pathfinderwiki.com/wiki/Stygidvod)"
 		],
-		"pantheon": "Daemon Harbingers",
+		"pantheons": [ "Daemon Harbingers" ],
 		"alignment": "NE",
 		"areas_of_concern": "Fear of aging, radical routes to immortality, wills",
 		"domains": [
@@ -26204,7 +26282,7 @@
 			"**Source** [Book of the Damned pg. 120](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Sugroz](http://www.pathfinderwiki.com/wiki/Sugroz)"
 		],
-		"pantheon": "Kyton Demagogues",
+		"pantheons": [ "Kyton Demagogues" ],
 		"alignment": "LE",
 		"areas_of_concern": "Ecstasy, fleetingness, incorporeality",
 		"domains": [
@@ -26258,7 +26336,7 @@
 			"**Source** [Dragon Empires Gazetteer pg. 58](source:Dragon Empires Gazetteer)",
 			"**Pathfinder Wiki** [Sun Wukong](http://www.pathfinderwiki.com/wiki/Sun Wukong)"
 		],
-		"pantheon": "Deities of Tian Xia",
+		"pantheons": [ "Deities of Tian Xia" ],
 		"alignment": "CN",
 		"areas_of_concern": "Drunkenness, nature, trickery",
 		"domains": [
@@ -26305,7 +26383,7 @@
 			"**Source** [Book of the Damned pg. 130](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Surpa](http://www.pathfinderwiki.com/wiki/Surpa)"
 		],
-		"pantheon": "Rakshasa Immortals",
+		"pantheons": [ "Rakshasa Immortals" ],
 		"alignment": "LE",
 		"areas_of_concern": "N/a",
 		"domains": [
@@ -26360,7 +26438,7 @@
 			"**Source** [Inner Sea Gods pg. 324](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Svarozic](http://www.pathfinderwiki.com/wiki/Svarozic)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "LG",
 		"areas_of_concern": "Ingenuity, parenthood, refinement",
 		"domains": [
@@ -26417,7 +26495,7 @@
 			"**Source** [Inner Sea Gods pg. 326](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Szuriel](http://www.pathfinderwiki.com/wiki/Szuriel)"
 		],
-		"pantheon": "Horsemen",
+		"pantheons": [ "Horsemen" ],
 		"alignment": "NE",
 		"areas_of_concern": "War",
 		"domains": [
@@ -26512,7 +26590,7 @@
 			"**Source** [Inner Sea Gods pg. 318](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Tamede](http://www.pathfinderwiki.com/wiki/Tamede)"
 		],
-		"pantheon": "Daemon Harbingers",
+		"pantheons": [ "Daemon Harbingers" ],
 		"alignment": "NE",
 		"areas_of_concern": "Fungi, infected wounds, rot",
 		"domains": [
@@ -26578,7 +26656,7 @@
 			"**Source** [Inner Sea Gods pg. 324](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Tanagaar](http://www.pathfinderwiki.com/wiki/Tanagaar)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "LG",
 		"areas_of_concern": "Night, owls, watchfulness",
 		"domains": [
@@ -26648,7 +26726,7 @@
 			"**Source** [Book of the Damned pg. 110](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Taraksun](http://www.pathfinderwiki.com/wiki/Taraksun)"
 		],
-		"pantheon": "Asura Ranas",
+		"pantheons": [ "Asura Ranas" ],
 		"alignment": "LE",
 		"areas_of_concern": "Anger, dreams, shattering of bonds",
 		"domains": [
@@ -26702,7 +26780,7 @@
 			"**Source** [Concordance of Rivals pg. 18](source:Concordance of Rivals)",
 			"**Pathfinder Wiki** [Teshallas](http://www.pathfinderwiki.com/wiki/Teshallas)"
 		],
-		"pantheon": "Psychopomp Usher",
+		"pantheons": [ "Psychopomp Usher" ],
 		"alignment": "N",
 		"areas_of_concern": "Aging, poison, and venomous creatures",
 		"domains": [
@@ -26760,7 +26838,7 @@
 			"**Source** [Inner Sea Gods pg. 324](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Thamir Gixx](http://www.pathfinderwiki.com/wiki/Thamir Gixx)"
 		],
-		"pantheon": "Halfling Deities",
+		"pantheons": [ "Halfling Deities" ],
 		"alignment": "CE",
 		"areas_of_concern": "Greed, opportunity, thievery",
 		"domains": [
@@ -26855,7 +26933,7 @@
 			"**Source** [The First World, Realm of the Fey pg. 20](source:The First World, Realm of the Fey)",
 			"**Pathfinder Wiki** [The Green Mother](http://www.pathfinderwiki.com/wiki/The Green Mother)"
 		],
-		"pantheon": "Eldest",
+		"pantheons": [ "Eldest" ],
 		"alignment": "NE",
 		"areas_of_concern": "Carnivorous plants, intrigue, seduction",
 		"domains": [
@@ -26930,7 +27008,7 @@
 			"**Source** [The First World, Realm of the Fey pg. 24](source:The First World, Realm of the Fey)",
 			"**Pathfinder Wiki** [The Lantern King](http://www.pathfinderwiki.com/wiki/The Lantern King)"
 		],
-		"pantheon": "Eldest",
+		"pantheons": [ "Eldest" ],
 		"alignment": "CN",
 		"areas_of_concern": "Laughter, mischief, transformation",
 		"domains": [
@@ -27001,7 +27079,7 @@
 			"**Source** [The First World, Realm of the Fey pg. 26](source:The First World, Realm of the Fey)",
 			"**Pathfinder Wiki** [The Lost Prince](http://www.pathfinderwiki.com/wiki/The Lost Prince)"
 		],
-		"pantheon": "Eldest",
+		"pantheons": [ "Eldest" ],
 		"alignment": "N",
 		"areas_of_concern": "Forgotten things, sadness, solitude",
 		"domains": [
@@ -27072,7 +27150,7 @@
 			"**Source** [Concordance of Rivals pg. 15](source:Concordance of Rivals)",
 			"**Pathfinder Wiki** [The Pale Horse](http://www.pathfinderwiki.com/wiki/The Pale Horse)"
 		],
-		"pantheon": "Psychopomp Usher",
+		"pantheons": [ "Psychopomp Usher" ],
 		"alignment": "N",
 		"areas_of_concern": "Duty, revenge, and beasts of burden",
 		"domains": [
@@ -27127,7 +27205,7 @@
 			"**Source** [Inner Sea Gods pg. 324](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Thisamet](http://www.pathfinderwiki.com/wiki/Thisamet)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "CG",
 		"areas_of_concern": "Celebrations, feasts, holidays",
 		"domains": [
@@ -27179,7 +27257,7 @@
 			"**Source** [Pathfinder #80: Empty Graves pg. 65](source:Pathfinder #80: Empty Graves)",
 			"**Pathfinder Wiki** [Thoth](http://www.pathfinderwiki.com/wiki/Thoth)"
 		],
-		"pantheon": "Deities of Ancient Osirion",
+		"pantheons": [ "Deities of Ancient Osirion" ],
 		"alignment": "LN",
 		"areas_of_concern": "Magic, the moon, wisdom, writing",
 		"domains": [
@@ -27221,7 +27299,7 @@
 			"**Source** [Inner Sea Gods pg. 324](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Thremyr](http://www.pathfinderwiki.com/wiki/Thremyr)"
 		],
-		"pantheon": "Giant Deities",
+		"pantheons": [ "Giant Deities" ],
 		"alignment": "CE",
 		"areas_of_concern": "Ice, salt, tribute",
 		"domains": [
@@ -27269,7 +27347,7 @@
 			"**Source** [Inner Sea Gods pg. 328](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Thuskchoon](http://www.pathfinderwiki.com/wiki/Thuskchoon)"
 		],
-		"pantheon": "Qlippoth Lords",
+		"pantheons": [ "Qlippoth Lords" ],
 		"alignment": "CE",
 		"areas_of_concern": "Blinding hunger, revealed secrets",
 		"domains": [
@@ -27331,7 +27409,7 @@
 			"**Source** [Inner Sea Gods pg. 326](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Titivilus](http://www.pathfinderwiki.com/wiki/Titivilus)"
 		],
-		"pantheon": "Infernal Dukes",
+		"pantheons": [ "Infernal Dukes" ],
 		"alignment": "LE",
 		"areas_of_concern": "Lies, propaganda, rhetoric",
 		"domains": [
@@ -27400,7 +27478,7 @@
 			"**Source** [Inner Sea Gods pg. 324](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Tjasse](http://www.pathfinderwiki.com/wiki/Tjasse)"
 		],
-		"pantheon": "Giant Deities",
+		"pantheons": [ "Giant Deities" ],
 		"alignment": "CN",
 		"areas_of_concern": "Giant birds, mountain peaks, pride",
 		"domains": [
@@ -27447,7 +27525,7 @@
 			"**Source** [Inner Sea Gods pg. 324](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Tolc](http://www.pathfinderwiki.com/wiki/Tolc)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "CG",
 		"areas_of_concern": "Cold, frozen wilds, survival",
 		"domains": [
@@ -27522,8 +27600,13 @@
 			"**Source** [Inner Sea Gods pg. 148](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Torag](http://www.pathfinderwiki.com/wiki/Torag)"
 		],
-		"pantheon": "Core Deities",
-		"other_pantheons": "Dwarven Deities, Dwarven Deities, Gnomish Deities, Order of the God Claw Pantheon",
+		"pantheons": [
+			"Core Deities",
+			"Dwarven Deities",
+			"Dwarven Deities",
+			"Gnomish Deities",
+			"Order of the God Claw Pantheon"
+		],
 		"alignment": "LG",
 		"areas_of_concern": "Forges, protection, strategy",
 		"domains": [
@@ -27683,7 +27766,7 @@
 			"**Source** [Inner Sea Gods pg. 328](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Treerazer](http://www.pathfinderwiki.com/wiki/Treerazer)"
 		],
-		"pantheon": "Nascent Demon Lords",
+		"pantheons": [ "Nascent Demon Lords" ],
 		"alignment": "CE",
 		"areas_of_concern": "Corruption of nature, pollution",
 		"domains": [
@@ -27744,8 +27827,10 @@
 			"**Source** [Inner Sea Gods pg. 326](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Trelmarixian](http://www.pathfinderwiki.com/wiki/Trelmarixian)"
 		],
-		"pantheon": "Horsemen",
-		"other_pantheons": "Kobold Deities",
+		"pantheons": [
+			"Horsemen",
+			"Kobold Deities"
+		],
 		"alignment": "NE",
 		"areas_of_concern": "Famine",
 		"domains": [
@@ -27832,7 +27917,7 @@
 			"**Source** [Inner Sea Gods pg. 318](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Tresmalvos](http://www.pathfinderwiki.com/wiki/Tresmalvos)"
 		],
-		"pantheon": "Daemon Harbingers",
+		"pantheons": [ "Daemon Harbingers" ],
 		"alignment": "NE",
 		"areas_of_concern": "Cesspools, rat catchers, sewers",
 		"domains": [
@@ -27895,7 +27980,7 @@
 			"**Source** [Inner Sea Gods pg. 320](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Trudd](http://www.pathfinderwiki.com/wiki/Trudd)"
 		],
-		"pantheon": "Dwarven Deities",
+		"pantheons": [ "Dwarven Deities" ],
 		"alignment": "NG",
 		"areas_of_concern": "Bravery, defense, strength",
 		"domains": [
@@ -27956,7 +28041,7 @@
 			"**Source** [Pathfinder #109: In Search of Sanity pg. 72](source:Pathfinder #109: In Search of Sanity)",
 			"**Pathfinder Wiki** [Tsathoggua](http://www.pathfinderwiki.com/wiki/Tsathoggua)"
 		],
-		"pantheon": "Great Old Ones",
+		"pantheons": [ "Great Old Ones" ],
 		"alignment": "CE",
 		"areas_of_concern": "Magic, outcasts, the underworld",
 		"domains": [
@@ -28005,7 +28090,7 @@
 			"**Source** [Dragon Empires Gazetteer pg. 58](source:Dragon Empires Gazetteer)",
 			"**Pathfinder Wiki** [Tsukiyo](http://www.pathfinderwiki.com/wiki/Tsukiyo)"
 		],
-		"pantheon": "Deities of Tian Xia",
+		"pantheons": [ "Deities of Tian Xia" ],
 		"alignment": "LG",
 		"areas_of_concern": "Jade, the moon, spirits",
 		"domains": [
@@ -28116,7 +28201,7 @@
 			"**Source** [Inner Sea Gods pg. 318](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Uaransaph](http://www.pathfinderwiki.com/wiki/Uaransaph)"
 		],
-		"pantheon": "Daemon Harbingers",
+		"pantheons": [ "Daemon Harbingers" ],
 		"alignment": "NE",
 		"areas_of_concern": "Falling, nonmagical flight, projectiles",
 		"domains": [
@@ -28179,7 +28264,7 @@
 			"**Source** [Pathfinder #123: The Flooded Cathedral pg. 75](source:Pathfinder #123: The Flooded Cathedral)",
 			"**Pathfinder Wiki** [Ulon](http://www.pathfinderwiki.com/wiki/Ulon)"
 		],
-		"pantheon": "Azlanti Pantheon",
+		"pantheons": [ "Azlanti Pantheon" ],
 		"alignment": "NE",
 		"areas_of_concern": "Conspiracy, isolation, and manipulation",
 		"domains": [
@@ -28218,7 +28303,7 @@
 			"**Source** [Pathfinder #144: Midwives to Death pg. 74](source:Pathfinder #144: Midwives to Death)",
 			"**Pathfinder Wiki** [Upion and Warrik](http://www.pathfinderwiki.com/wiki/Upion and Warrik)"
 		],
-		"pantheon": "Iblydan Hero-Gods",
+		"pantheons": [ "Iblydan Hero-Gods" ],
 		"alignment": "NG",
 		"areas_of_concern": "Promises, shield-bearers",
 		"domains": [
@@ -28255,7 +28340,7 @@
 			"**Source** [Inner Sea Gods pg. 324](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Urazra](http://www.pathfinderwiki.com/wiki/Urazra)"
 		],
-		"pantheon": "Giant Deities",
+		"pantheons": [ "Giant Deities" ],
 		"alignment": "CE",
 		"areas_of_concern": "Battle, brutality, strength",
 		"domains": [
@@ -28315,7 +28400,7 @@
 			"**Source** [Inner Sea Gods pg. 156](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Urgathoa](http://www.pathfinderwiki.com/wiki/Urgathoa)"
 		],
-		"pantheon": "Core Deities",
+		"pantheons": [ "Core Deities" ],
 		"alignment": "NE",
 		"areas_of_concern": "Disease, gluttony, undeath",
 		"domains": [
@@ -28482,7 +28567,7 @@
 			"**Source** [Inner Sea Gods pg. 326](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Uruskreil](http://www.pathfinderwiki.com/wiki/Uruskreil)"
 		],
-		"pantheon": "Infernal Dukes",
+		"pantheons": [ "Infernal Dukes" ],
 		"alignment": "LE",
 		"areas_of_concern": "Armor, mercilessness, revelation",
 		"domains": [
@@ -28555,7 +28640,7 @@
 			"**Source** [Inner Sea Gods pg. 320](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Urxehl](http://www.pathfinderwiki.com/wiki/Urxehl)"
 		],
-		"pantheon": "Demon Lords",
+		"pantheons": [ "Demon Lords" ],
 		"alignment": "CE",
 		"areas_of_concern": "Natural disasters, storms, trolls",
 		"domains": [
@@ -28648,7 +28733,7 @@
 			"**Source** [Book of the Damned pg. 126](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Ushitora](http://www.pathfinderwiki.com/wiki/Ushitora)"
 		],
-		"pantheon": "Oni Daimyo",
+		"pantheons": [ "Oni Daimyo" ],
 		"alignment": "CE",
 		"areas_of_concern": "Earthquakes, Keys, Sabotage",
 		"domains": [
@@ -28702,7 +28787,7 @@
 			"**Source** [Inner Sea Gods pg. 324](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Uskyeria](http://www.pathfinderwiki.com/wiki/Uskyeria)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "NG",
 		"areas_of_concern": "Hunting, prudence, slumber",
 		"domains": [
@@ -28753,7 +28838,7 @@
 			"**Source** [Book of the Damned pg. 126](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Uzumae](http://www.pathfinderwiki.com/wiki/Uzumae)"
 		],
-		"pantheon": "Oni Daimyo",
+		"pantheons": [ "Oni Daimyo" ],
 		"alignment": "LE",
 		"areas_of_concern": "Blizzards, frozen ghosts, starvation",
 		"domains": [
@@ -28810,7 +28895,7 @@
 			"**Source** [Inner Sea Gods pg. 324](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Valani](http://www.pathfinderwiki.com/wiki/Valani)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "CG",
 		"areas_of_concern": "Change, growth, primal forces",
 		"domains": [
@@ -28880,7 +28965,7 @@
 			"**Source** [Concordance of Rivals pg. 18](source:Concordance of Rivals)",
 			"**Pathfinder Wiki** [Vale](http://www.pathfinderwiki.com/wiki/Vale)"
 		],
-		"pantheon": "Psychopomp Usher",
+		"pantheons": [ "Psychopomp Usher" ],
 		"alignment": "N",
 		"areas_of_concern": "Consequence, superstition, and tradition",
 		"domains": [
@@ -28935,7 +29020,7 @@
 			"**Source** [Concordance of Rivals pg. 19](source:Concordance of Rivals)",
 			"**Pathfinder Wiki** [Valmallos](http://www.pathfinderwiki.com/wiki/Valmallos)"
 		],
-		"pantheon": "Primal Inevitable",
+		"pantheons": [ "Primal Inevitable" ],
 		"alignment": "LN",
 		"areas_of_concern": "Ceremonies, magic, and preparation",
 		"domains": [
@@ -28993,7 +29078,7 @@
 			"**Source** [Inner Sea Gods pg. 326](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Vapula](http://www.pathfinderwiki.com/wiki/Vapula)"
 		],
-		"pantheon": "Infernal Dukes",
+		"pantheons": [ "Infernal Dukes" ],
 		"alignment": "LE",
 		"areas_of_concern": "Discovery, hubris, scholarship",
 		"domains": [
@@ -29062,7 +29147,7 @@
 			"**Source** [Inner Sea Gods pg. 328](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Varg](http://www.pathfinderwiki.com/wiki/Varg)"
 		],
-		"pantheon": "Orc Deities",
+		"pantheons": [ "Orc Deities" ],
 		"alignment": "CE",
 		"areas_of_concern": "Iron, siege engines, war",
 		"domains": [
@@ -29112,7 +29197,7 @@
 			"**Source** [Concordance of Rivals pg. 20](source:Concordance of Rivals)",
 			"**Pathfinder Wiki** [Vavaalrav](http://www.pathfinderwiki.com/wiki/Vavaalrav)"
 		],
-		"pantheon": "Psychopomp Usher",
+		"pantheons": [ "Psychopomp Usher" ],
 		"alignment": "N",
 		"areas_of_concern": "Gargoyles, holy ground, and rest",
 		"domains": [
@@ -29167,7 +29252,7 @@
 			"**Source** [Book of the Damned pg. 132](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Velgaas](http://www.pathfinderwiki.com/wiki/Velgaas)"
 		],
-		"pantheon": "Sahkil Tormentors",
+		"pantheons": [ "Sahkil Tormentors" ],
 		"alignment": "CE",
 		"areas_of_concern": "Emotional manipulation, emptiness, ignorance",
 		"domains": [
@@ -29221,7 +29306,7 @@
 			"**Source** [Inner Sea Gods pg. 324](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Venkelvore](http://www.pathfinderwiki.com/wiki/Venkelvore)"
 		],
-		"pantheon": "Goblin Hero-Gods",
+		"pantheons": [ "Goblin Hero-Gods" ],
 		"alignment": "NE",
 		"areas_of_concern": "Famine, graves, torture",
 		"domains": [
@@ -29272,7 +29357,7 @@
 			"**Source** [Inner Sea Gods pg. 328](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Verex](http://www.pathfinderwiki.com/wiki/Verex)"
 		],
-		"pantheon": "Orc Deities",
+		"pantheons": [ "Orc Deities" ],
 		"alignment": "CE",
 		"areas_of_concern": "Lust, pillage, plunder",
 		"domains": [
@@ -29314,7 +29399,7 @@
 			"**Source** [Book of the Damned pg. 132](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Vermilion Mother](http://www.pathfinderwiki.com/wiki/Vermilion Mother)"
 		],
-		"pantheon": "Sahkil Tormentors",
+		"pantheons": [ "Sahkil Tormentors" ],
 		"alignment": "CE",
 		"areas_of_concern": "Fecundity, overgrown places, psychoactive plants",
 		"domains": [
@@ -29368,7 +29453,7 @@
 			"**Source** [Book of the Damned pg. 120](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Vevelor](http://www.pathfinderwiki.com/wiki/Vevelor)"
 		],
-		"pantheon": "Kyton Demagogues",
+		"pantheons": [ "Kyton Demagogues" ],
 		"alignment": "LE",
 		"areas_of_concern": "Illusion of freedom, potential, transcendence",
 		"domains": [
@@ -29422,7 +29507,7 @@
 			"**Source** [Book of the Damned pg. 130](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Vibhishah](http://www.pathfinderwiki.com/wiki/Vibhishah)"
 		],
-		"pantheon": "Rakshasa Immortals",
+		"pantheons": [ "Rakshasa Immortals" ],
 		"alignment": "LE",
 		"areas_of_concern": "N/a",
 		"domains": [
@@ -29480,7 +29565,7 @@
 			"**Source** [Inner Sea Gods pg. 324](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Vildeis](http://www.pathfinderwiki.com/wiki/Vildeis)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "LG",
 		"areas_of_concern": "Devotion, sacrifice, scars",
 		"domains": [
@@ -29561,7 +29646,7 @@
 			"**Source** [Inner Sea Gods pg. 326](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Vois](http://www.pathfinderwiki.com/wiki/Vois)"
 		],
-		"pantheon": "Infernal Dukes",
+		"pantheons": [ "Infernal Dukes" ],
 		"alignment": "LE",
 		"areas_of_concern": "Pollution, swamps, toads",
 		"domains": [
@@ -29630,7 +29715,7 @@
 			"**Source** [Concordance of Rivals pg. 20](source:Concordance of Rivals)",
 			"**Pathfinder Wiki** [Vonymos](http://www.pathfinderwiki.com/wiki/Vonymos)"
 		],
-		"pantheon": "Psychopomp Usher",
+		"pantheons": [ "Psychopomp Usher" ],
 		"alignment": "N",
 		"areas_of_concern": "Catastrophes, last stands, and suicides",
 		"domains": [
@@ -29688,7 +29773,7 @@
 			"**Source** [Inner Sea Gods pg. 318](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Vorasha](http://www.pathfinderwiki.com/wiki/Vorasha)"
 		],
-		"pantheon": "Daemon Harbingers",
+		"pantheons": [ "Daemon Harbingers" ],
 		"alignment": "NE",
 		"areas_of_concern": "Incurable afflictions, poison, toxicity",
 		"domains": [
@@ -29751,7 +29836,7 @@
 			"**Source** [Pathfinder #80: Empty Graves pg. 65](source:Pathfinder #80: Empty Graves)",
 			"**Pathfinder Wiki** [Wadjet](http://www.pathfinderwiki.com/wiki/Wadjet)"
 		],
-		"pantheon": "Deities of Ancient Osirion",
+		"pantheons": [ "Deities of Ancient Osirion" ],
 		"alignment": "LG",
 		"areas_of_concern": "Good serpents, the River Sphinx, wisdom",
 		"domains": [
@@ -29811,7 +29896,7 @@
 			"**Source** [Inner Sea Gods pg. 324](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Winlas](http://www.pathfinderwiki.com/wiki/Winlas)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "LG",
 		"areas_of_concern": "Ceremonies, religiousness, service",
 		"domains": [
@@ -29885,7 +29970,7 @@
 			"**Source** [Inner Sea Gods pg. 326](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Wylgart](http://www.pathfinderwiki.com/wiki/Wylgart)"
 		],
-		"pantheon": "Infernal Dukes",
+		"pantheons": [ "Infernal Dukes" ],
 		"alignment": "LE",
 		"areas_of_concern": "Condemnation, judges, revision",
 		"domains": [
@@ -29954,7 +30039,7 @@
 			"**Source** [Pathfinder #113: What Grows Within pg. 65](source:Pathfinder #113: What Grows Within)",
 			"**Pathfinder Wiki** [Xhamen-Dor](http://www.pathfinderwiki.com/wiki/Xhamen-Dor)"
 		],
-		"pantheon": "Great Old Ones",
+		"pantheons": [ "Great Old Ones" ],
 		"alignment": "NE",
 		"areas_of_concern": "Decay, parasites, transformation",
 		"domains": [
@@ -30052,7 +30137,7 @@
 			"**Source** [Inner Sea Gods pg. 326](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Xhasnaphar](http://www.pathfinderwiki.com/wiki/Xhasnaphar)"
 		],
-		"pantheon": "Infernal Dukes",
+		"pantheons": [ "Infernal Dukes" ],
 		"alignment": "LE",
 		"areas_of_concern": "Masks, ugliness, volition",
 		"domains": [
@@ -30121,7 +30206,7 @@
 			"**Source** [Book of the Damned pg. 132](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Xiquiripat](http://www.pathfinderwiki.com/wiki/Xiquiripat)"
 		],
-		"pantheon": "Sahkil Tormentors",
+		"pantheons": [ "Sahkil Tormentors" ],
 		"alignment": "CE",
 		"areas_of_concern": "Evisceration, fatal falls, genocide",
 		"domains": [
@@ -30179,7 +30264,7 @@
 			"**Source** [Inner Sea Gods pg. 320](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Xoveron](http://www.pathfinderwiki.com/wiki/Xoveron)"
 		],
-		"pantheon": "Demon Lords",
+		"pantheons": [ "Demon Lords" ],
 		"alignment": "CE",
 		"areas_of_concern": "Gargoyles, gluttony, ruins",
 		"domains": [
@@ -30277,7 +30362,7 @@
 			"**Source** [Inner Sea Gods pg. 318](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Xsistaid](http://www.pathfinderwiki.com/wiki/Xsistaid)"
 		],
-		"pantheon": "Daemon Harbingers",
+		"pantheons": [ "Daemon Harbingers" ],
 		"alignment": "NE",
 		"areas_of_concern": "Maggots, myiasis, parasites",
 		"domains": [
@@ -30340,7 +30425,7 @@
 			"**Source** [Book of the Damned pg. 126](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Yabu](http://www.pathfinderwiki.com/wiki/Yabu)"
 		],
-		"pantheon": "Oni Daimyo",
+		"pantheons": [ "Oni Daimyo" ],
 		"alignment": "NE",
 		"areas_of_concern": "Curses, promises, volcanoes",
 		"domains": [
@@ -30394,7 +30479,7 @@
 			"**Source** [Dragon Empires Gazetteer pg. 58](source:Dragon Empires Gazetteer)",
 			"**Pathfinder Wiki** [Yaezhing](http://www.pathfinderwiki.com/wiki/Yaezhing)"
 		],
-		"pantheon": "Deities of Tian Xia",
+		"pantheons": [ "Deities of Tian Xia" ],
 		"alignment": "LE",
 		"areas_of_concern": "Harsh justice, murder, punishment",
 		"domains": [
@@ -30447,7 +30532,7 @@
 			"**Source** [Inner Sea Gods pg. 328](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Yamasoth](http://www.pathfinderwiki.com/wiki/Yamasoth)"
 		],
-		"pantheon": "Qlippoth Lords",
+		"pantheons": [ "Qlippoth Lords" ],
 		"alignment": "CE",
 		"areas_of_concern": "Cursed kingdoms, vile experiments",
 		"domains": [
@@ -30555,7 +30640,7 @@
 			"**Source** [Dragon Empires Gazetteer pg. 58](source:Dragon Empires Gazetteer)",
 			"**Pathfinder Wiki** [Yamatsumi](http://www.pathfinderwiki.com/wiki/Yamatsumi)"
 		],
-		"pantheon": "Deities of Tian Xia",
+		"pantheons": [ "Deities of Tian Xia" ],
 		"alignment": "N",
 		"areas_of_concern": "Mountains, volcanoes, winter",
 		"domains": [
@@ -30607,7 +30692,7 @@
 			"**Source** [Inner Sea Gods pg. 326](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Yan-gant-y-tan](http://www.pathfinderwiki.com/wiki/Yan-gant-y-tan)"
 		],
-		"pantheon": "Infernal Dukes",
+		"pantheons": [ "Infernal Dukes" ],
 		"alignment": "LE",
 		"areas_of_concern": "Hellspawn, misdirection, night",
 		"domains": [
@@ -30676,7 +30761,7 @@
 			"**Source** [Concordance of Rivals pg. 21](source:Concordance of Rivals)",
 			"**Pathfinder Wiki** [Ydajisk](http://www.pathfinderwiki.com/wiki/Ydajisk)"
 		],
-		"pantheon": "Protean Lord",
+		"pantheons": [ "Protean Lord" ],
 		"alignment": "CN",
 		"areas_of_concern": "Language evolution, lost words, and slang",
 		"domains": [
@@ -30734,8 +30819,10 @@
 			"**Source** [Inner Sea Gods pg. 192](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Ydersius](http://www.pathfinderwiki.com/wiki/Ydersius)"
 		],
-		"pantheon": "Other Deities",
-		"other_pantheons": "Scalefolk Deities",
+		"pantheons": [
+			"Other Deities",
+			"Scalefolk Deities"
+		],
 		"alignment": "CE",
 		"areas_of_concern": "Serpentfolk, immortality, poison",
 		"domains": [
@@ -30816,7 +30903,7 @@
 			"**Source** [Inner Sea Gods pg. 320](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Yhidothrus](http://www.pathfinderwiki.com/wiki/Yhidothrus)"
 		],
-		"pantheon": "Demon Lords",
+		"pantheons": [ "Demon Lords" ],
 		"alignment": "CE",
 		"areas_of_concern": "Age, time, worms",
 		"domains": [
@@ -30909,7 +30996,7 @@
 			"**Source** [Pathfinder #109: In Search of Sanity pg. 73](source:Pathfinder #109: In Search of Sanity)",
 			"**Pathfinder Wiki** [Yig](http://www.pathfinderwiki.com/wiki/Yig)"
 		],
-		"pantheon": "Great Old Ones",
+		"pantheons": [ "Great Old Ones" ],
 		"alignment": "CN",
 		"areas_of_concern": "Cycles, procreation, serpents",
 		"domains": [
@@ -30958,7 +31045,7 @@
 			"**Source** [Inner Sea Gods pg. 324](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Ylimancha](http://www.pathfinderwiki.com/wiki/Ylimancha)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "NG",
 		"areas_of_concern": "Coastal waters, fisherfolk, flying creatures",
 		"domains": [
@@ -31029,7 +31116,7 @@
 			"**Source** [Inner Sea Gods pg. 322](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Ymeri](http://www.pathfinderwiki.com/wiki/Ymeri)"
 		],
-		"pantheon": "Elemental Lords",
+		"pantheons": [ "Elemental Lords" ],
 		"alignment": "NE",
 		"areas_of_concern": "Deserts, fire, volcanoes",
 		"domains": [
@@ -31080,7 +31167,7 @@
 			"**Source** [Pathfinder #109: In Search of Sanity pg. 73](source:Pathfinder #109: In Search of Sanity)",
 			"**Pathfinder Wiki** [Yog-Sothoth](http://www.pathfinderwiki.com/wiki/Yog-Sothoth)"
 		],
-		"pantheon": "Outer Gods",
+		"pantheons": [ "Outer Gods" ],
 		"alignment": "CN",
 		"areas_of_concern": "Gates, space, time",
 		"domains": [
@@ -31133,7 +31220,7 @@
 			"**Source** [Inner Sea Gods pg. 322](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Yuelral](http://www.pathfinderwiki.com/wiki/Yuelral)"
 		],
-		"pantheon": "Elven Deities",
+		"pantheons": [ "Elven Deities" ],
 		"alignment": "NG",
 		"areas_of_concern": "Crystals, jewelers, magic",
 		"domains": [
@@ -31193,7 +31280,7 @@
 			"**Source** [Book of the Damned pg. 130](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Zabha](http://www.pathfinderwiki.com/wiki/Zabha)"
 		],
-		"pantheon": "Rakshasa Immortals",
+		"pantheons": [ "Rakshasa Immortals" ],
 		"alignment": "LE",
 		"areas_of_concern": "N/a",
 		"domains": [
@@ -31251,7 +31338,7 @@
 			"**Source** [Inner Sea Gods pg. 326](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Zaebos](http://www.pathfinderwiki.com/wiki/Zaebos)"
 		],
-		"pantheon": "Infernal Dukes",
+		"pantheons": [ "Infernal Dukes" ],
 		"alignment": "LE",
 		"areas_of_concern": "Arrogance, nobility, sexual perversion",
 		"domains": [
@@ -31320,7 +31407,7 @@
 			"**Source** [Inner Sea Gods pg. 328](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Zagresh](http://www.pathfinderwiki.com/wiki/Zagresh)"
 		],
-		"pantheon": "Orc Deities",
+		"pantheons": [ "Orc Deities" ],
 		"alignment": "CE",
 		"areas_of_concern": "Death, destruction, disaster",
 		"domains": [
@@ -31368,7 +31455,7 @@
 			"**Source** [Inner Sea Gods pg. 318](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Zaigasnar](http://www.pathfinderwiki.com/wiki/Zaigasnar)"
 		],
-		"pantheon": "Daemon Harbingers",
+		"pantheons": [ "Daemon Harbingers" ],
 		"alignment": "NE",
 		"areas_of_concern": "Body modification, destructive vanity, pins",
 		"domains": [
@@ -31431,7 +31518,7 @@
 			"**Source** [Inner Sea Gods pg. 324](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Zarongel](http://www.pathfinderwiki.com/wiki/Zarongel)"
 		],
-		"pantheon": "Goblin Hero-Gods",
+		"pantheons": [ "Goblin Hero-Gods" ],
 		"alignment": "NE",
 		"areas_of_concern": "Dog killing, fire, mounted combat",
 		"domains": [
@@ -31485,7 +31572,7 @@
 			"**Source** [Inner Sea Gods pg. 318](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Zelishkar](http://www.pathfinderwiki.com/wiki/Zelishkar)"
 		],
-		"pantheon": "Daemon Harbingers",
+		"pantheons": [ "Daemon Harbingers" ],
 		"alignment": "NE",
 		"areas_of_concern": "Arson, burning alive, cremation",
 		"domains": [
@@ -31551,7 +31638,7 @@
 			"**Source** [Inner Sea Gods pg. 326](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Zepar](http://www.pathfinderwiki.com/wiki/Zepar)"
 		],
-		"pantheon": "Infernal Dukes",
+		"pantheons": [ "Infernal Dukes" ],
 		"alignment": "LE",
 		"areas_of_concern": "Abduction, rape, transformation",
 		"domains": [
@@ -31624,7 +31711,7 @@
 			"**Source** [Inner Sea Gods pg. 320](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Zevgavizeb](http://www.pathfinderwiki.com/wiki/Zevgavizeb)"
 		],
-		"pantheon": "Demon Lords",
+		"pantheons": [ "Demon Lords" ],
 		"alignment": "CE",
 		"areas_of_concern": "Caverns, reptiles, troglodytes",
 		"domains": [
@@ -31717,7 +31804,7 @@
 			"**Source** [Book of the Damned pg. 132](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Zipacna](http://www.pathfinderwiki.com/wiki/Zipacna)"
 		],
-		"pantheon": "Sahkil Tormentors",
+		"pantheons": [ "Sahkil Tormentors" ],
 		"alignment": "CE",
 		"areas_of_concern": "Avoiding responsibility, shifting earth, violence",
 		"domains": [
@@ -31771,7 +31858,7 @@
 			"**Source** [Inner Sea Gods pg. 324](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Zogmugot](http://www.pathfinderwiki.com/wiki/Zogmugot)"
 		],
-		"pantheon": "Goblin Hero-Gods",
+		"pantheons": [ "Goblin Hero-Gods" ],
 		"alignment": "CE",
 		"areas_of_concern": "Drowning, flotsam, scavenging",
 		"domains": [
@@ -31826,7 +31913,7 @@
 			"**Source** [Inner Sea Gods pg. 324](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Zohls](http://www.pathfinderwiki.com/wiki/Zohls)"
 		],
-		"pantheon": "Empyreal Lords",
+		"pantheons": [ "Empyreal Lords" ],
 		"alignment": "LG",
 		"areas_of_concern": "Determination, investigation, truth",
 		"domains": [
@@ -31901,7 +31988,7 @@
 			"**Source** [Inner Sea Gods pg. 164](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Zon-Kuthon](http://www.pathfinderwiki.com/wiki/Zon-Kuthon)"
 		],
-		"pantheon": "Core Deities",
+		"pantheons": [ "Core Deities" ],
 		"alignment": "LE",
 		"areas_of_concern": "Darkness, envy, loss, pain",
 		"domains": [
@@ -32051,7 +32138,7 @@
 			"**Source** [Inner Sea Gods pg. 320](source:Inner Sea Gods)",
 			"**Pathfinder Wiki** [Zura](http://www.pathfinderwiki.com/wiki/Zura)"
 		],
-		"pantheon": "Demon Lords",
+		"pantheons": [ "Demon Lords" ],
 		"alignment": "CE",
 		"areas_of_concern": "Blood, cannibalism, vampires",
 		"domains": [
@@ -32141,7 +32228,7 @@
 			"**Source** [Book of the Damned pg. 110](source:Book of the Damned)",
 			"**Pathfinder Wiki** [Zurapadyn](http://www.pathfinderwiki.com/wiki/Zurapadyn)"
 		],
-		"pantheon": "Asura Ranas",
+		"pantheons": [ "Asura Ranas" ],
 		"alignment": "LE",
 		"areas_of_concern": "Fire, injustice, vendetts",
 		"domains": [
@@ -32195,7 +32282,7 @@
 			"**Source** [Pathfinder #95: Anvil of Fire pg. 66](source:Pathfinder #95: Anvil of Fire)",
 			"**Pathfinder Wiki** [Zursvaater](http://www.pathfinderwiki.com/wiki/Zursvaater)"
 		],
-		"pantheon": "Giant Deities",
+		"pantheons": [ "Giant Deities" ],
 		"alignment": "LE",
 		"areas_of_concern": "Conquest, slavery, weapons",
 		"domains": [
@@ -32292,7 +32379,7 @@
 			"**Source** [Inner Sea Faiths pg. 89](source:Inner Sea Faiths)",
 			"**Pathfinder Wiki** [Zyphus](http://www.pathfinderwiki.com/wiki/Zyphus)"
 		],
-		"pantheon": "Other Deities",
+		"pantheons": [ "Other Deities" ],
 		"alignment": "NE",
 		"areas_of_concern": "Accidental death, graveyards, tragedy",
 		"domains": [

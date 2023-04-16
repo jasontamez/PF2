@@ -5,7 +5,7 @@
 * ~~DIVINE FIGHTING TECHNIQUES~~
 * Feat formatting pass two: UNKNOWN, SPELL, GODS, etc
   * SPELL
-  * GODS
+  * ~~GODS~~
   * SELECTED
   * UNKN?OWN
   * ~~FAMILIAR~~
