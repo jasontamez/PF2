@@ -3,7 +3,8 @@
 * "variant channeling"?
 * equipment/vehicles need to be parsed
 * ~~DIVINE FIGHTING TECHNIQUES~~
-* Feat formatting (from 76555)
+* Feat formatting pass two: UNKNOWN, SPELL, GODS, FACTION, etc
+* Feat formatting pass three: adding the things the feats GIVE, somehow
 * class files needing parsing:
   * ~~alchemist (?)~~
   * ~~arcanist exploits (?)~~
