@@ -3,7 +3,7 @@
 * "variant channeling"?
 * equipment/vehicles need to be parsed
 * ~~DIVINE FIGHTING TECHNIQUES~~
-* Feat formatting (from 59184)
+* Feat formatting (from 76555)
 * class files needing parsing:
   * ~~alchemist (?)~~
   * ~~arcanist exploits (?)~~
