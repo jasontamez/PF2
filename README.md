@@ -3,7 +3,13 @@
 * "variant channeling"?
 * equipment/vehicles need to be parsed
 * ~~DIVINE FIGHTING TECHNIQUES~~
-* Feat formatting pass two: UNKNOWN, SPELL, GODS, FACTION, etc
+* Feat formatting pass two: UNKNOWN, SPELL, GODS, etc
+  * SPELL
+  * GODS
+  * SELECTED
+  * UNKN?OWN
+  * ~~FAMILIAR~~
+  * ~~AFFINITY~~ (this is a weird one, need to check PCGen files)
 * Feat formatting pass three: adding the things the feats GIVE, somehow
 * class files needing parsing:
   * ~~alchemist (?)~~
