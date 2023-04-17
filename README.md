@@ -3,7 +3,7 @@
 * "variant channeling"?
 * equipment/vehicles need to be parsed
 * ~~DIVINE FIGHTING TECHNIQUES~~
-* Feat formatting pass two: UNKNOWN, SPELL, GODS, etc
+* Feat formatting pass two: (10803)
   * ~~SPELL~~
   * ~~GODS~~
   * SELECTED
