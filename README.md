@@ -4,7 +4,7 @@
 * equipment/vehicles need to be parsed
 * ~~DIVINE FIGHTING TECHNIQUES~~
 * Feat formatting pass two: UNKNOWN, SPELL, GODS, etc
-  * SPELL
+  * ~~SPELL~~
   * ~~GODS~~
   * SELECTED
   * UNKN?OWN
