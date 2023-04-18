@@ -11247,7 +11247,7 @@
 	},
 	{
 		"trait_name": "Seasoned Climber",
-		"requirements": { "region": "Wall of Heavens" },
+		"requirements": { "region": "Wall of Heaven" },
 		"description": "Your time on the slopes of the Wall of Heaven has improved your ability to surmount great peaks. You gain a +1 trait bonus on Climb checks, and Climb becomes a class skill for you.",
 		"type": "Regional",
 		"sources": [ "Dragon Empires Primer" ]
