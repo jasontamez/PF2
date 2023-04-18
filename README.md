@@ -3,14 +3,15 @@
 * "variant channeling"?
 * equipment/vehicles need to be parsed
 * ~~DIVINE FIGHTING TECHNIQUES~~
-* Feat formatting pass two: (84111)
+* Feat formatting pass three
   * ~~SPELL~~
   * ~~GODS~~
   * SELECTED
   * UNKN?OWN
   * ~~FAMILIAR~~
-  * ~~AFFINITY~~ (this is a weird one, need to check PCGen files)
-* Feat formatting pass three: adding the things the feats GIVE, somehow
+  * ~~AFFINITY~~
+* Note places where we can clean up duplicates, like `class_feature` and `special_ability`, maybe
+* Feat formatting pass four: adding the things the feats GIVE, somehow
 * class files needing parsing:
   * ~~alchemist (?)~~
   * ~~arcanist exploits (?)~~
