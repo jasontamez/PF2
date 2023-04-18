@@ -1,4 +1,14 @@
-# TO-DO
+# Plan?
+
+* Convert all JSONs to a specific format
+
+      {
+        "_prefix": "feat"
+        "_defaults": {},
+        "list": []
+      }
+
+## TO-DO
 
 * "variant channeling"?
 * equipment/vehicles need to be parsed
