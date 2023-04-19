@@ -8,6 +8,63 @@
         "list": []
       }
 
+## Types
+
+`KEYS` - array of unique plain text values, no duplicates
+
+`ARRAY_` - prefix, turns any of the below into an array
+
+`STRING` - plain text
+
+`MARKDOWN` - Markdown text string
+
+`BOOLEAN` - true or false
+
+`NUMBER` - any number
+
+`INTEGER` - any whole number
+
+---
+## Terms
+
+### Basic Values
+
+"ability" - An Object that describes some sort of interaction
+
+"tag" - A static value a character could possess, usually string
+
+"score" - A static value that can be mutated by other factors, usually integer
+
+---
+### Basic properties of `Values`
+
+"category" - A label for an entire class of `Value`
+
+---
+### Lookups
+
+* **Main properties**
+  * `"ability": true` - Looking for an ability
+  * `"score": true` - Looking for a score
+  * `"tag": true` - Looking for a tag
+
+* **Global properties**
+  * `"name": STRING` - Looking for something with the specific name
+  * `"name_any": ARRAY_STRING` - Looking for any of the listed names
+  * `"name_all": ARRAY_STRING` - Looking for **all** of the listed names
+  * `"name_match": STRING` - Looking for something that matches the given regular expression
+
+* **Ability properties**
+  * `"category": STRING` - Looking for an ability with the listed category
+  * `"categories_any": ARRAY_STRING` - Looking for an ability with any of the the listed categories
+
+* **Score properties**
+  * `"minimum": NUMBER` - Looking for a value equal to or greater than the given number
+  * `"maximum": NUMBER` - Looking for a value equal to or less than the given number
+  * `"exact": NUMBER` - Looking for a value equal to the given number
+  * `"exact_any": ARRAY_NUMBER` - Looking for a value equal to any of the given numbers
+
+---
 ## TO-DO
 
 * "variant channeling"?

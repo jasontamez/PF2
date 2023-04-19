@@ -1,5 +1,5 @@
 {
-	"category_name": "mythic_feat",
+	"category_name": "mythic feat",
 	"data": {
 		"searchable": [
 			"type",
@@ -11,20 +11,37 @@
 			"description": "ARRAY_MARKDOWN",
 			"short_description": "STRING"
 		},
-		"has_defaults": [
+		"has_default_properties": [
 			"sources",
 			"prerequisites"
-		]
+		],
+		"shorthands": {
+			"feat": {
+				"_value": "name",
+				"category": "feat",
+				"ability": true
+			},
+			"mythic_feat": {
+				"_value": "name",
+				"category": "mythic feat",
+				"ability": true
+			},
+			"mythic_tier": {
+				"score": true,
+				"name": "mythic tier",
+				"_value": "minimum"
+			}
+		}
 	},
 	"list": [
 		{
-			"feat_name": "Accursed Hex",
+			"name": "Accursed Hex",
 			"file": "featdisplay5c9e.html",
 			"sources": [ "Ultimate Magic" ],
 			"type": [ "General" ],
 			"prerequisites": [
 				{
-					"class_feature": "hex"
+					"feat": "Accursed Hex"
 				}
 			],
 			"description": [
@@ -44,11 +61,15 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Acrobatic",
+			"name": "Acrobatic",
 			"file": "featdisplay7828.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"type": [ "General" ],
-			"prerequisites": null,
+			"prerequisites": [
+				{
+					"feat": "Acrobatic"
+				}
+			],
 			"description": [
 				"Acrobatic",
 				"Source [PRPG Core Rulebook pg. 113](source:PRPG Core Rulebook)",
@@ -64,11 +85,15 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Alertness",
+			"name": "Alertness",
 			"file": "featdisplayb423.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"type": [ "General" ],
-			"prerequisites": null,
+			"prerequisites": [
+				{
+					"feat": "Alertness"
+				}
+			],
 			"description": [
 				"Alertness",
 				"Source [PRPG Core Rulebook pg. 117](source:PRPG Core Rulebook)",
@@ -84,13 +109,13 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Alignment Channel",
+			"name": "Alignment Channel",
 			"file": "featdisplay4fca.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"type": [ "General" ],
 			"prerequisites": [
 				{
-					"channel_energy_d6": 1
+					"feat": "Alignment Channel"
 				}
 			],
 			"description": [
@@ -110,11 +135,15 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Animal Affinity",
+			"name": "Animal Affinity",
 			"file": "featdisplay6cd8.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"type": [ "General" ],
-			"prerequisites": null,
+			"prerequisites": [
+				{
+					"feat": "Animal Affinity"
+				}
+			],
 			"description": [
 				"Animal Affinity",
 				"Source [PRPG Core Rulebook pg. 118](source:PRPG Core Rulebook)",
@@ -130,7 +159,7 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Arcane Armor Training",
+			"name": "Arcane Armor Training",
 			"file": "featdisplayf9fe.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -139,8 +168,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"caster_level": 3,
-					"armor_proficiency_category": "light"
+					"feat": "Arcane Armor Training"
 				}
 			],
 			"description": [
@@ -164,14 +192,13 @@
 			"combat_trick_description": "When casting a spell while wearing armor, you can spend 1 stamina point to activate Arcane Armor Training as a free action."
 		},
 		{
-			"feat_name": "Arcane Blast",
+			"name": "Arcane Blast",
 			"file": "featdisplay28ce.html",
 			"sources": [ "Advanced Player's Guide" ],
 			"type": [ "General" ],
 			"prerequisites": [
-				"Arcane spellcaster",
 				{
-					"caster_level": 10
+					"feat": "Arcane Blast"
 				}
 			],
 			"description": [
@@ -191,14 +218,13 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Arcane Shield",
+			"name": "Arcane Shield",
 			"file": "featdisplay1878.html",
 			"sources": [ "Advanced Player's Guide" ],
 			"type": [ "General" ],
 			"prerequisites": [
 				{
-					"caster_level": 10,
-					"magic_type": "arcane"
+					"feat": "Arcane Shield"
 				}
 			],
 			"description": [
@@ -217,7 +243,7 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Arcane Strike",
+			"name": "Arcane Strike",
 			"file": "featdisplay7c1b.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -226,8 +252,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"caster_level": 1,
-					"magic_type": "arcane"
+					"feat": "Arcane Strike"
 				}
 			],
 			"description": [
@@ -251,24 +276,13 @@
 			"combat_trick_description": "You can spend any number of stamina points to increase the duration of this feat's effects by 1 round for each stamina point spent."
 		},
 		{
-			"feat_name": "Aspect of the Beast",
+			"name": "Aspect of the Beast",
 			"file": "featdisplay4110.html",
 			"sources": [ "Advanced Player's Guide" ],
 			"type": [ "General" ],
 			"prerequisites": [
 				{
-					"either": [
-						{
-							"class_feature": "wild shape"
-						},
-						{
-							"quality": "lycanthropy"
-						},
-						{
-							"class": "ranger",
-							"combat_style": "natural weapon"
-						}
-					]
+					"feat": "Aspect of the Beast"
 				}
 			],
 			"description": [
@@ -296,11 +310,15 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Athletic",
+			"name": "Athletic",
 			"file": "featdisplay2684.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"type": [ "General" ],
-			"prerequisites": null,
+			"prerequisites": [
+				{
+					"feat": "Athletic"
+				}
+			],
 			"description": [
 				"Athletic",
 				"Source [PRPG Core Rulebook pg. 118](source:PRPG Core Rulebook)",
@@ -316,14 +334,13 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Augment Summoning",
+			"name": "Augment Summoning",
 			"file": "featdisplayc78d.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"type": [ "General" ],
 			"prerequisites": [
 				{
-					"feat": "Spell Focus",
-					"focus": "conjuration"
+					"feat": "Augment Summoning"
 				}
 			],
 			"description": [
@@ -342,7 +359,7 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Bleeding Critical",
+			"name": "Bleeding Critical",
 			"file": "featdisplayd26d.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -354,8 +371,7 @@
 			],
 			"prerequisites": [
 				{
-					"base_attack_bonus": 11,
-					"feat": "Critical Focus"
+					"feat": "Bleeding Critical"
 				}
 			],
 			"description": [
@@ -381,14 +397,18 @@
 			"combat_trick_description": "When you deal bleed damage with this feat, you can spend up to 3 stamina points to increase the amount of bleed damage dealt by double the number of stamina points you spent."
 		},
 		{
-			"feat_name": "Blind-Fight",
+			"name": "Blind-Fight",
 			"file": "featdisplay45f6.html",
 			"sources": [
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
 			"type": [ "Combat" ],
-			"prerequisites": null,
+			"prerequisites": [
+				{
+					"feat": "Blind-Fight"
+				}
+			],
 			"description": [
 				"Blind-Fight (Combat)",
 				"Source [PRPG Core Rulebook pg. 118](source:PRPG Core Rulebook)",
@@ -413,14 +433,18 @@
 			"combat_trick_description": "Once per round, when you hit a creature that benefits from concealment, you can spend 2 stamina points to ignore the miss chance from that creature's concealment until the end of your next turn."
 		},
 		{
-			"feat_name": "Catch Off-Guard",
+			"name": "Catch Off-Guard",
 			"file": "featdisplayf03d.html",
 			"sources": [
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
 			"type": [ "Combat" ],
-			"prerequisites": null,
+			"prerequisites": [
+				{
+					"feat": "Catch Off-Guard"
+				}
+			],
 			"description": [
 				"Catch Off-Guard (Combat)",
 				"Source [PRPG Core Rulebook pg. 119](source:PRPG Core Rulebook)",
@@ -442,7 +466,7 @@
 			"combat_trick_description": "When making an attack with an improvised weapon against an armed opponent, you can spend 5 stamina points. If you do, the target is considered flat-footed during that attack. An opponent who recognizes you and has seen you use Catch Off-Guard in this way is immune to this effect."
 		},
 		{
-			"feat_name": "Channel Smite",
+			"name": "Channel Smite",
 			"file": "featdisplayc91e.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -451,7 +475,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"channel_energy_d6": 1
+					"feat": "Channel Smite"
 				}
 			],
 			"description": [
@@ -475,7 +499,7 @@
 			"combat_trick_description": "When making an attack using this feat, you can spend a number of stamina points up to the number of dice in your channel energy. For each stamina point you spend in this way, add an additional 1d6 points of positive or negative energy damage to your Channel Smite attack. This damage is also halved if the target succeeds at its Will save against the Channel Smite attack."
 		},
 		{
-			"feat_name": "Charge Through",
+			"name": "Charge Through",
 			"file": "featdisplaye51b.html",
 			"sources": [
 				"Advanced Player's Guide",
@@ -484,14 +508,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"strength_score": 13,
-					"base_attack_bonus": 1,
-					"feat_all": [
-						{
-							"class": "fighter",
-							"level": 6
-						}
-					]
+					"feat": "Charge Through"
 				}
 			],
 			"description": [
@@ -516,7 +533,7 @@
 			"combat_trick_description": "When you attempt and fail to overrun a creature in the path of your charge, you can spend 5 stamina points to finish your charge against that creature instead of losing your charge."
 		},
 		{
-			"feat_name": "Cleave",
+			"name": "Cleave",
 			"file": "featdisplay2107.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -525,7 +542,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"feat": "Power Attack"
+					"feat": "Cleave"
 				}
 			],
 			"description": [
@@ -549,7 +566,7 @@
 			"combat_trick_description": "When using the Cleave or Great Cleave feat, you can spend 4 stamina points to negate the -2 penalty to Armor Class until your next turn."
 		},
 		{
-			"feat_name": "Combat Expertise",
+			"name": "Combat Expertise",
 			"file": "featdisplay465d.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -558,7 +575,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"intelligence_score": 13
+					"feat": "Combat Expertise"
 				}
 			],
 			"description": [
@@ -582,14 +599,18 @@
 			"combat_trick_description": "You can select this feat even if you don't meet the ability score prerequisite (Intelligence 13). You gain the benefit of this feat only as long as you have at least 1 stamina point in your stamina pool. If you spend stamina points to raise an attack roll using the Combat Stamina feat's benefits, ignore an amount of your Combat Expertise penalty equal to the number of stamina points you spent."
 		},
 		{
-			"feat_name": "Combat Reflexes",
+			"name": "Combat Reflexes",
 			"file": "featdisplay8b18.html",
 			"sources": [
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
 			"type": [ "Combat" ],
-			"prerequisites": null,
+			"prerequisites": [
+				{
+					"feat": "Combat Reflexes"
+				}
+			],
 			"description": [
 				"Combat Reflexes (Combat)",
 				"Source [PRPG Core Rulebook pg. 119](source:PRPG Core Rulebook)",
@@ -612,13 +633,13 @@
 			"combat_trick_description": "When you miss with an attack of opportunity, you can spend 5 stamina points to make a second attack for the same provoking action. That second attack of opportunity takes a -5 penalty on the attack roll and costs one of your attacks of opportunity for the round."
 		},
 		{
-			"feat_name": "Command Undead",
+			"name": "Command Undead",
 			"file": "featdisplay7844.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"type": [ "General" ],
 			"prerequisites": [
 				{
-					"channel_energy_type": "negative"
+					"feat": "Command Undead"
 				}
 			],
 			"description": [
@@ -637,7 +658,7 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Critical Focus",
+			"name": "Critical Focus",
 			"file": "featdisplayf1a1.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -649,7 +670,7 @@
 			],
 			"prerequisites": [
 				{
-					"base_attack_bonus": 9
+					"feat": "Critical Focus"
 				}
 			],
 			"description": [
@@ -673,7 +694,7 @@
 			"combat_trick_description": "If your successful critical confirmation roll is a natural 19 or 20, you can spend 2 stamina points to roll another confirmation roll. If this confirmation roll also succeeds, increase your critical multiplier by 1 for this attack, and you can roll again. If you continue to roll 19 or 20, you can continue to spend stamina points for additional rolls, and the increases to the critical multiplier stack."
 		},
 		{
-			"feat_name": "Critical Mastery",
+			"name": "Critical Mastery",
 			"file": "featdisplayc985.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -685,12 +706,8 @@
 			],
 			"prerequisites": [
 				{
-					"class": "fighter",
-					"level": 14
-				},
-				{
-					"feat_type": "Critical",
-					"feat_amount": 2
+					"mythic_feat": "Critical Focus",
+					"feat": "Critical Mastery"
 				}
 			],
 			"description": [
@@ -715,7 +732,7 @@
 			"combat_trick_description": "When you confirm a critical hit, instead of applying the effects of two critical feats you possess, you can spend 2 stamina points to apply the effect of any one critical feat you don't possess (but for which you qualify)."
 		},
 		{
-			"feat_name": "Dastardly Finish",
+			"name": "Dastardly Finish",
 			"file": "featdisplay810b.html",
 			"sources": [
 				"Advanced Player's Guide",
@@ -724,7 +741,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"sneak_attack_d6": 5
+					"feat": "Dastardly Finish"
 				}
 			],
 			"description": [
@@ -749,7 +766,7 @@
 			"combat_trick_description": "You can spend 10 stamina points to deliver a coup de grace against two helpless, cowering, or stunned targets within your reach as a fullround action. This provokes attacks of opportunity twice-one for each coup de grace."
 		},
 		{
-			"feat_name": "Dazzling Display",
+			"name": "Dazzling Display",
 			"file": "featdisplay7726.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -758,9 +775,8 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"feat": "Weapon Focus"
-				},
-				"SELECTED"
+					"feat": "Dazzling Display"
+				}
 			],
 			"description": [
 				"Dazzling Display (Combat)",
@@ -783,7 +799,7 @@
 			"combat_trick_description": "When wielding a melee weapon with which you have Weapon Focus, you can make a single melee attack as a standard action against a foe. If the attack hits, you can select any number of foes within 30 feet who saw the attack, including that foe. Spend 2 stamina points per foe you have selected, then attempt an Intimidate check to demoralize those foes."
 		},
 		{
-			"feat_name": "Deadly Aim",
+			"name": "Deadly Aim",
 			"file": "featdisplay7ebb.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -792,8 +808,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"dexterity_score": 13,
-					"base_attack_bonus": 1
+					"feat": "Deadly Aim"
 				}
 			],
 			"description": [
@@ -817,7 +832,7 @@
 			"combat_trick_description": "When using this feat, you can spend 4 stamina points to reduce the penalty to attack rolls imposed by the feat by 1 until the beginning of your next turn. You can't reduce the penalty below 0."
 		},
 		{
-			"feat_name": "Deadly Stroke",
+			"name": "Deadly Stroke",
 			"file": "featdisplayc67d.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -826,13 +841,8 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"base_attack_bonus": 11,
-					"feat_all": [
-						"Greater Weapon Focus",
-						"Shatter Defenses"
-					]
-				},
-				"SELECTED"
+					"feat": "Deadly Stroke"
+				}
 			],
 			"description": [
 				"Deadly Stroke (Combat)",
@@ -855,14 +865,18 @@
 			"combat_trick_description": "You can spend 5 stamina points to make a Deadly Stroke attack against a dazed opponent, or 10 stamina points to make a Deadly Stroke against an opponent you are flanking."
 		},
 		{
-			"feat_name": "Death from Above",
+			"name": "Death from Above",
 			"file": "featdisplayf5be.html",
 			"sources": [
 				"Ultimate Combat",
 				"Pathfinder Unchained"
 			],
 			"type": [ "Combat" ],
-			"prerequisites": null,
+			"prerequisites": [
+				{
+					"feat": "Death from Above"
+				}
+			],
 			"description": [
 				"Death from Above (Combat)",
 				"Source [Ultimate Combat pg. 94](source:Ultimate Combat)",
@@ -883,11 +897,15 @@
 			"combat_trick_description": "When charging an opponent from higher ground or from above while flying, you can spend 4 stamina points to gain a +5 bonus on the damage roll, and also retain the bonuses from charging and being on higher ground."
 		},
 		{
-			"feat_name": "Deceitful",
+			"name": "Deceitful",
 			"file": "featdisplayc704.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"type": [ "General" ],
-			"prerequisites": null,
+			"prerequisites": [
+				{
+					"feat": "Deceitful"
+				}
+			],
 			"description": [
 				"Deceitful",
 				"Source [PRPG Core Rulebook pg. 121](source:PRPG Core Rulebook)",
@@ -903,13 +921,13 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Deepsight",
+			"name": "Deepsight",
 			"file": "featdisplay2d84.html",
 			"sources": [ "Advanced Player's Guide" ],
 			"type": [ "General" ],
 			"prerequisites": [
 				{
-					"darkvision": 60
+					"feat": "Deepsight"
 				}
 			],
 			"description": [
@@ -929,14 +947,18 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Defensive Combat Training",
+			"name": "Defensive Combat Training",
 			"file": "featdisplay7e31.html",
 			"sources": [
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
 			"type": [ "Combat" ],
-			"prerequisites": null,
+			"prerequisites": [
+				{
+					"feat": "Defensive Combat Training"
+				}
+			],
 			"description": [
 				"Defensive Combat Training (Combat)",
 				"Source [PRPG Core Rulebook pg. 121](source:PRPG Core Rulebook)",
@@ -957,7 +979,7 @@
 			"combat_trick_description": "When targeted with a combat maneuver, you can spend any number of stamina points to gain a bonus to your CMD equal to the number of stamina points you spent."
 		},
 		{
-			"feat_name": "Deflect Arrows",
+			"name": "Deflect Arrows",
 			"file": "featdisplayf9c9.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -966,8 +988,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"dexterity_score": 13,
-					"feat": "Improved Unarmed Strike"
+					"feat": "Deflect Arrows"
 				}
 			],
 			"description": [
@@ -991,11 +1012,15 @@
 			"combat_trick_description": "You can spend 5 stamina points to deflect an arrow while you're flat-footed. You must still be aware of the attack."
 		},
 		{
-			"feat_name": "Deft Hands",
+			"name": "Deft Hands",
 			"file": "featdisplay113a.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"type": [ "General" ],
-			"prerequisites": null,
+			"prerequisites": [
+				{
+					"feat": "Deft Hands"
+				}
+			],
 			"description": [
 				"Deft Hands",
 				"Source [PRPG Core Rulebook pg. 121](source:PRPG Core Rulebook)",
@@ -1011,20 +1036,13 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Detect Expertise",
+			"name": "Detect Expertise",
 			"file": "featdisplay913e.html",
 			"sources": [ "Ultimate Magic" ],
 			"type": [ "General" ],
 			"prerequisites": [
 				{
-					"intelligence_score": 13,
-					"spell": [
-						"detect chaos",
-						"detect evil",
-						"detect good",
-						"detect law",
-						"detect magic"
-					]
+					"feat": "Detect Expertise"
 				}
 			],
 			"description": [
@@ -1043,7 +1061,7 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Disruptive",
+			"name": "Disruptive",
 			"file": "featdisplay26bb.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -1052,8 +1070,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"class": "fighter",
-					"level": 6
+					"feat": "Disruptive"
 				}
 			],
 			"description": [
@@ -1077,7 +1094,7 @@
 			"combat_trick_description": "When you use your last attack of opportunity available to you in a round, you can spend 2 stamina points to extend the duration of this feat's increase to DCs for enemies casting defensively within your threatened area until the start of your next turn."
 		},
 		{
-			"feat_name": "Distance Thrower",
+			"name": "Distance Thrower",
 			"file": "featdisplay99a7.html",
 			"sources": [
 				"Ultimate Combat",
@@ -1086,7 +1103,12 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"strength_score": 13
+					"feat": "Distance Thrower"
+				},
+				{
+					"score": true,
+					"name": "strength",
+					"minimum": 17
 				}
 			],
 			"description": [
@@ -1110,14 +1132,13 @@
 			"combat_trick_description": "When making an attack with a thrown weapon, you can spend 2 stamina points to reduce your penalty on ranged attack rolls due to range by an additional 4."
 		},
 		{
-			"feat_name": "Divine Interference",
+			"name": "Divine Interference",
 			"file": "featdisplayd862.html",
 			"sources": [ "Ultimate Magic" ],
 			"type": [ "General" ],
 			"prerequisites": [
 				{
-					"caster_level": 10,
-					"magic_type": "divine"
+					"feat": "Divine Interference"
 				}
 			],
 			"description": [
@@ -1136,7 +1157,7 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Dodge",
+			"name": "Dodge",
 			"file": "featdisplayfa6f.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -1145,7 +1166,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"dexterity_score": 13
+					"feat": "Dodge"
 				}
 			],
 			"description": [
@@ -1169,7 +1190,7 @@
 			"combat_trick_description": "When you move your speed or farther, you can spend a number of stamina points up to double your Dexterity bonus. If you do, until the start of your next turn, you gain an increase to the dodge bonus granted by the Dodge feat equal to half the number of stamina points you spent."
 		},
 		{
-			"feat_name": "Dreadful Carnage",
+			"name": "Dreadful Carnage",
 			"file": "featdisplayda9b.html",
 			"sources": [
 				"Advanced Player's Guide",
@@ -1178,12 +1199,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"strength_score": 15,
-					"feat_all": [
-						"Power Attack",
-						"Furious Focus"
-					],
-					"base_attack_bonus": 11
+					"feat": "Dreadful Carnage"
 				}
 			],
 			"description": [
@@ -1207,14 +1223,18 @@
 			"combat_trick_description": "When you reduce an enemy to 0 or fewer hit points, you can spend up to 6 stamina points to increase the radius of this feat's effect by 5 feet for each stamina point you spent (to a maximum of 60 feet)."
 		},
 		{
-			"feat_name": "Drink Is Life",
+			"name": "Drink Is Life",
 			"file": "featdisplay67d9.html",
 			"sources": [ "Mythic Adventures" ],
 			"type": [ "General" ],
 			"prerequisites": [
 				{
-					"constitution_score": 19,
 					"mythic_tier": 3
+				},
+				{
+					"score": true,
+					"name": "constitution",
+					"minimum": 19
 				}
 			],
 			"description": [
@@ -1228,7 +1248,7 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Dual Path",
+			"name": "Dual Path",
 			"file": "featdisplay1678.html",
 			"sources": [ "Mythic Adventures" ],
 			"type": [ "General" ],
@@ -1248,14 +1268,13 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Eagle Eyes",
+			"name": "Eagle Eyes",
 			"file": "featdisplayd1f1.html",
 			"sources": [ "Advanced Player's Guide" ],
 			"type": [ "General" ],
 			"prerequisites": [
 				{
-					"wisdom_score": 13,
-					"racial_trait": "keen senses"
+					"feat": "Eagle Eyes"
 				}
 			],
 			"description": [
@@ -1274,18 +1293,13 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Eldritch Heritage",
+			"name": "Eldritch Heritage",
 			"file": "featdisplayad7c.html",
 			"sources": [ "Ultimate Magic" ],
 			"type": [ "General" ],
 			"prerequisites": [
 				{
-					"charisma_score": 13,
-					"character_level": 3
-				},
-				"CHOICE Skill Focus with the class skill of bloodline selected for this feat (see below)",
-				{
-					"feat": "Skill Focus"
+					"feat": "Eldritch Heritage"
 				}
 			],
 			"description": [
@@ -1304,13 +1318,13 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Elemental Channel",
+			"name": "Elemental Channel",
 			"file": "featdisplayd617.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"type": [ "General" ],
 			"prerequisites": [
 				{
-					"channel_energy_d6": 1
+					"feat": "Elemental Channel"
 				}
 			],
 			"description": [
@@ -1330,7 +1344,7 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Elemental Fist",
+			"name": "Elemental Fist",
 			"file": "featdisplay1029.html",
 			"sources": [
 				"Advanced Player's Guide",
@@ -1339,10 +1353,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"constitution_score": 13,
-					"wisdom_score": 13,
-					"feat": "Improved Unarmed Strike",
-					"base_attack_bonus": 8
+					"feat": "Elemental Fist"
 				}
 			],
 			"description": [
@@ -1367,11 +1378,15 @@
 			"combat_trick_description": "You can spend 5 stamina points to declare the use of Elemental Fist after making a successful attack roll."
 		},
 		{
-			"feat_name": "Elemental Focus",
+			"name": "Elemental Focus",
 			"file": "featdisplay4709.html",
 			"sources": [ "Advanced Player's Guide" ],
 			"type": [ "General" ],
-			"prerequisites": null,
+			"prerequisites": [
+				{
+					"feat": "Elemental Focus"
+				}
+			],
 			"description": [
 				"Elemental Focus",
 				"Source [Advanced Player's Guide pg. 158](source:Advanced Player's Guide)",
@@ -1388,7 +1403,7 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Elven Accuracy",
+			"name": "Elven Accuracy",
 			"file": "featdisplay5083.html",
 			"sources": [
 				"Advanced Player's Guide",
@@ -1397,7 +1412,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"creature": "elf"
+					"feat": "Elven Accuracy"
 				}
 			],
 			"description": [
@@ -1421,11 +1436,15 @@
 			"combat_trick_description": "If you miss an attack with a longbow or shortbow due to concealment, you can spend 5 stamina points to automatically succeed at the miss chance reroll from this feat."
 		},
 		{
-			"feat_name": "Endurance",
+			"name": "Endurance",
 			"file": "featdisplayb418.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"type": [ "General" ],
-			"prerequisites": null,
+			"prerequisites": [
+				{
+					"feat": "Endurance"
+				}
+			],
 			"description": [
 				"Endurance",
 				"Source [PRPG Core Rulebook pg. 122](source:PRPG Core Rulebook)",
@@ -1444,11 +1463,15 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Eschew Materials",
+			"name": "Eschew Materials",
 			"file": "featdisplay39f8.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"type": [ "General" ],
-			"prerequisites": null,
+			"prerequisites": [
+				{
+					"feat": "Eschew Materials"
+				}
+			],
 			"description": [
 				"Eschew Materials",
 				"Source [PRPG Core Rulebook pg. 123](source:PRPG Core Rulebook)",
@@ -1464,7 +1487,7 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Extra Mythic Power",
+			"name": "Extra Mythic Power",
 			"file": "featdisplay7a2d.html",
 			"sources": [ "Mythic Adventures" ],
 			"type": [ "General" ],
@@ -1479,7 +1502,7 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Extra Path Ability",
+			"name": "Extra Path Ability",
 			"file": "featdisplay8f15.html",
 			"sources": [ "Mythic Adventures" ],
 			"type": [ "General" ],
@@ -1499,7 +1522,7 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Fabulous Figments",
+			"name": "Fabulous Figments",
 			"file": "featdisplay2c48.html",
 			"sources": [ "Mythic Adventures" ],
 			"type": [ "General" ],
@@ -1514,7 +1537,7 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Far Shot",
+			"name": "Far Shot",
 			"file": "featdisplayb19b.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -1523,7 +1546,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"feat": "Point-Blank Shot"
+					"feat": "Far Shot"
 				}
 			],
 			"description": [
@@ -1548,17 +1571,13 @@
 			"combat_trick_description": "When making a single ranged attack as a standard action, you can spend 5 stamina points to ignore all range penalties on that attack."
 		},
 		{
-			"feat_name": "Fast Empathy",
+			"name": "Fast Empathy",
 			"file": "featdisplayda09-2.html",
 			"sources": [ "Ultimate Magic" ],
 			"type": [ "General" ],
 			"prerequisites": [
 				{
-					"skill": "Handle Animal",
-					"ranks": 5
-				},
-				{
-					"class_feature": "wild empathy"
+					"feat": "Fast Empathy"
 				}
 			],
 			"description": [
@@ -1578,17 +1597,14 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Fire Music",
+			"name": "Fire Music",
 			"file": "featdisplaya776.html",
 			"sources": [ "Ultimate Magic" ],
 			"type": [ "General" ],
 			"prerequisites": [
 				{
-					"skill": "Spellcraft",
-					"ranks": 5
-				},
-				"ability to cast bard spells",
-				"ability to cast an arcane fire spell from some other spellcasting class"
+					"feat": "Fire Music"
+				}
 			],
 			"description": [
 				"Fire Music",
@@ -1609,11 +1625,15 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Fleet",
+			"name": "Fleet",
 			"file": "featdisplaydce7.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"type": [ "General" ],
-			"prerequisites": null,
+			"prerequisites": [
+				{
+					"feat": "Fleet"
+				}
+			],
 			"description": [
 				"Fleet",
 				"Source [PRPG Core Rulebook pg. 124](source:PRPG Core Rulebook)",
@@ -1631,7 +1651,7 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Furious Focus",
+			"name": "Furious Focus",
 			"file": "featdisplay8fa9.html",
 			"sources": [
 				"Advanced Player's Guide",
@@ -1640,9 +1660,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"strength_score": 13,
-					"feat": "Power Attack",
-					"base_attack_bonus": 1
+					"feat": "Furious Focus"
 				}
 			],
 			"description": [
@@ -1666,15 +1684,13 @@
 			"combat_trick_description": "When using the Power Attack feat and wielding a two-handed melee weapon or a onehanded melee weapon with two hands, you can spend 5 stamina points. If you do, each successful attack you make against a target reduces your Power Attack penalty against that target by 1 (to a minimum of 0) until the beginning of your next turn."
 		},
 		{
-			"feat_name": "Gnome Trickster",
+			"name": "Gnome Trickster",
 			"file": "featdisplay8bff.html",
 			"sources": [ "Advanced Player's Guide" ],
 			"type": [ "General" ],
 			"prerequisites": [
 				{
-					"charisma_score": 13,
-					"creature": "gnome",
-					"racial_trait": "gnome magic"
+					"feat": "Gnome Trickster"
 				}
 			],
 			"description": [
@@ -1694,7 +1710,7 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Gorgon's Fist",
+			"name": "Gorgon's Fist",
 			"file": "featdisplay4c66.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -1728,11 +1744,15 @@
 			"combat_trick_description": "You can spend 5 stamina points to make a Gorgon's Fist attack as one of the individual attacks made during a full attack."
 		},
 		{
-			"feat_name": "Great Fortitude",
+			"name": "Great Fortitude",
 			"file": "featdisplay51bc.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"type": [ "General" ],
-			"prerequisites": null,
+			"prerequisites": [
+				{
+					"feat": "Great Fortitude"
+				}
+			],
 			"description": [
 				"Great Fortitude",
 				"Source [PRPG Core Rulebook pg. 124](source:PRPG Core Rulebook)",
@@ -1748,15 +1768,13 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Guided Hand",
+			"name": "Guided Hand",
 			"file": "featdisplayab90.html",
 			"sources": [ "Ultimate Combat" ],
 			"type": [ "General" ],
 			"prerequisites": [
 				{
-					"channel_energy_d6": 1,
-					"feat": "Channel Smite",
-					"weapon_proficiency_type": "favored weapon"
+					"feat": "Guided Hand"
 				}
 			],
 			"description": [
@@ -1775,17 +1793,13 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Heroic Defiance",
+			"name": "Heroic Defiance",
 			"file": "featdisplay7923.html",
 			"sources": [ "Advanced Player's Guide" ],
 			"type": [ "General" ],
 			"prerequisites": [
 				{
-					"feat_all": [
-						"Diehard",
-						"Endurance"
-					],
-					"base_fortitude_save_bonus": 8
+					"feat": "Heroic Defiance"
 				}
 			],
 			"description": [
@@ -1805,17 +1819,13 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Heroic Recovery",
+			"name": "Heroic Recovery",
 			"file": "featdisplayf6af.html",
 			"sources": [ "Advanced Player's Guide" ],
 			"type": [ "General" ],
 			"prerequisites": [
 				{
-					"feat_all": [
-						"Diehard",
-						"Endurance"
-					],
-					"base_fortitude_save_bonus": 4
+					"feat": "Heroic Recovery"
 				}
 			],
 			"description": [
@@ -1834,7 +1844,7 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Improved Bull Rush",
+			"name": "Improved Bull Rush",
 			"file": "featdisplay34d3.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -1843,7 +1853,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"feat": "Power Attack"
+					"feat": "Improved Bull Rush"
 				}
 			],
 			"description": [
@@ -1869,13 +1879,13 @@
 			"combat_trick_description": "When you are the target of a bull rush combat maneuver, you can spend a number of stamina points up to your Strength or Dexterity bonus, whichever is greater. Your CMD increases by that number for that bull rush attempt."
 		},
 		{
-			"feat_name": "Improved Channel",
+			"name": "Improved Channel",
 			"file": "featdisplaya91d.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"type": [ "General" ],
 			"prerequisites": [
 				{
-					"channel_energy_d6": 1
+					"feat": "Improved Channel"
 				}
 			],
 			"description": [
@@ -1894,11 +1904,15 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Improved Counterspell",
+			"name": "Improved Counterspell",
 			"file": "featdisplay9a47.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"type": [ "General" ],
-			"prerequisites": null,
+			"prerequisites": [
+				{
+					"feat": "Improved Counterspell"
+				}
+			],
 			"description": [
 				"Improved Counterspell",
 				"Source [PRPG Core Rulebook pg. 126](source:PRPG Core Rulebook)",
@@ -1915,7 +1929,7 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Improved Critical",
+			"name": "Improved Critical",
 			"file": "featdisplay11f4.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -1924,8 +1938,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"base_attack_bonus": 8,
-					"weapon_proficiency_any": true
+					"feat": "Improved Critical"
 				}
 			],
 			"description": [
@@ -1951,7 +1964,7 @@
 			"combat_trick_description": "When you hit with an attack and the roll fails to threaten a critical hit by 3 or less, you can spend 5 stamina points to attempt to deal double damage anyway. Roll as if confirming a critical hit. If this confirmation roll succeeds, your attack is still not a critical hit, but it deals double damage."
 		},
 		{
-			"feat_name": "Improved Dirty Trick",
+			"name": "Improved Dirty Trick",
 			"file": "featdisplay9292.html",
 			"sources": [
 				"Advanced Player's Guide",
@@ -1960,8 +1973,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"intelligence_score": 13,
-					"feat": "Combat Expertise"
+					"feat": "Improved Dirty Trick"
 				}
 			],
 			"description": [
@@ -1987,7 +1999,7 @@
 			"combat_trick_description": "You can select this feat even if you don't meet the ability score prerequisite (Intelligence 13). You gain the benefits of this feat only as long as you have at least 1 stamina point in your stamina pool. When you are the target of a dirty trick combat maneuver, you can spend a number of stamina points up to your Strength or Dexterity bonus, whichever is greater. Your CMD against that dirty trick attempt increases by that number."
 		},
 		{
-			"feat_name": "Improved Disarm",
+			"name": "Improved Disarm",
 			"file": "featdisplay566d.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -1996,7 +2008,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"feat": "Combat Expertise"
+					"feat": "Improved Disarm"
 				}
 			],
 			"description": [
@@ -2022,7 +2034,7 @@
 			"combat_trick_description": "You can select this feat even if you don't meet the ability score prerequisite (Intelligence 13). You gain the benefit of this feat only as long as you have at least 1 stamina point in your stamina pool. When you are the target of a disarm combat maneuver, you can spend a number of stamina points up to your Strength or Dexterity bonus, whichever is greater. Your CMD against that disarm attempt increases by that number."
 		},
 		{
-			"feat_name": "Improved Drag",
+			"name": "Improved Drag",
 			"file": "featdisplay3380.html",
 			"sources": [
 				"Advanced Player's Guide",
@@ -2031,9 +2043,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"strength_score": 13,
-					"feat": "Power Attack",
-					"base_attack_bonus": 1
+					"feat": "Improved Drag"
 				}
 			],
 			"description": [
@@ -2059,13 +2069,13 @@
 			"combat_trick_description": "When you are the target of a drag combat maneuver, you can spend a number of stamina points up to your Strength or Dexterity bonus, whichever is greater. Your CMD against that drag attempt increases by that number."
 		},
 		{
-			"feat_name": "Improved Familiar",
+			"name": "Improved Familiar",
 			"file": "featdisplay1793.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"type": [ "General" ],
 			"prerequisites": [
 				{
-					"class_feature": "familiar"
+					"feat": "Improved Familiar"
 				}
 			],
 			"description": [
@@ -2086,7 +2096,7 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Improved Grapple",
+			"name": "Improved Grapple",
 			"file": "featdisplay36c8.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -2095,8 +2105,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"dexterity_score": 13,
-					"feat": "Improved Unarmed Strike"
+					"feat": "Improved Grapple"
 				}
 			],
 			"description": [
@@ -2122,14 +2131,18 @@
 			"combat_trick_description": "When you are the target of a grapple combat maneuver to initiate or maintain a grapple, you can spend a number of stamina points up to your Strength or Dexterity bonus, whichever is greater. Your CMD against that grapple attempt increases by that number."
 		},
 		{
-			"feat_name": "Improved Initiative",
+			"name": "Improved Initiative",
 			"file": "featdisplay9c1d.html",
 			"sources": [
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
 			"type": [ "Combat" ],
-			"prerequisites": null,
+			"prerequisites": [
+				{
+					"feat": "Improved Initiative"
+				}
+			],
 			"description": [
 				"Improved Initiative (Combat)",
 				"Source [PRPG Core Rulebook pg. 127](source:PRPG Core Rulebook)",
@@ -2150,7 +2163,7 @@
 			"combat_trick_description": "Before rolling initiative, you can spend 10 stamina points to use 20 as the number rolled."
 		},
 		{
-			"feat_name": "Improved Overrun",
+			"name": "Improved Overrun",
 			"file": "featdisplay6051.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -2159,7 +2172,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"feat": "Power Attack"
+					"feat": "Improved Overrun"
 				}
 			],
 			"description": [
@@ -2185,7 +2198,7 @@
 			"combat_trick_description": "When you are the target of an overrun combat maneuver, you can spend a number of stamina points up to your Strength or Dexterity bonus, whichever is greater. Your CMD against that overrun attempt increases by that number."
 		},
 		{
-			"feat_name": "Improved Reposition",
+			"name": "Improved Reposition",
 			"file": "featdisplay8a1d.html",
 			"sources": [
 				"Advanced Player's Guide",
@@ -2194,8 +2207,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"intelligence_score": 13,
-					"feat": "Combat Expertise"
+					"feat": "Improved Reposition"
 				}
 			],
 			"description": [
@@ -2221,7 +2233,7 @@
 			"combat_trick_description": "You can select this feat even if you don't meet the ability score prerequisite (Intelligence 13). You gain the benefits of this feat only as long as you have at least 1 stamina point in your stamina pool. When you are the target of a reposition combat maneuver, you can spend a number of stamina points up to your Strength or Dexterity bonus, whichever is greater. Your CMD against that reposition attempt increases by that number."
 		},
 		{
-			"feat_name": "Improved Steal",
+			"name": "Improved Steal",
 			"file": "featdisplayf149.html",
 			"sources": [
 				"Advanced Player's Guide",
@@ -2230,8 +2242,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"intelligence_score": 13,
-					"feat": "Combat Expertise"
+					"feat": "Improved Steal"
 				}
 			],
 			"description": [
@@ -2257,15 +2268,13 @@
 			"combat_trick_description": "You can select this feat even if you don't meet the ability score prerequisite (Intelligence 13). You gain the benefits of this feat only as long as you have at least 1 stamina point in your stamina pool. When you are the target of a steal combat maneuver, you can spend a number of stamina points up to your Strength or Dexterity bonus, whichever is greater. Your CMD against that steal attempt increases by that number."
 		},
 		{
-			"feat_name": "Improved Stonecunning",
+			"name": "Improved Stonecunning",
 			"file": "featdisplay2e9a.html",
 			"sources": [ "Advanced Player's Guide" ],
 			"type": [ "General" ],
 			"prerequisites": [
 				{
-					"wisdom_score": 13,
-					"creature": "dwarf",
-					"racial_trait": "stonecunning"
+					"feat": "Improved Stonecunning"
 				}
 			],
 			"description": [
@@ -2284,7 +2293,7 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Improved Sunder",
+			"name": "Improved Sunder",
 			"file": "featdisplay2c99.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -2293,7 +2302,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"feat": "Power Attack"
+					"feat": "Improved Sunder"
 				}
 			],
 			"description": [
@@ -2319,7 +2328,7 @@
 			"combat_trick_description": "When you are the target of a sunder combat maneuver, you can spend a number of stamina points up to your Strength or Dexterity bonus, whichever is greater. Your CMD increases by that number for that sunder attempt."
 		},
 		{
-			"feat_name": "Improved Trip",
+			"name": "Improved Trip",
 			"file": "featdisplay195e.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -2328,7 +2337,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"feat": "Combat Expertise"
+					"feat": "Improved Trip"
 				}
 			],
 			"description": [
@@ -2354,14 +2363,18 @@
 			"combat_trick_description": "You can select this feat even if you don't meet the ability score prerequisite (Intelligence 13). You gain the benefits of this feat only as long as you have at least 1 stamina point in your stamina pool. When you are the target of a trip combat maneuver, you can spend a number of stamina points up to your Strength or Dexterity bonus, whichever is greater. Your CMD against that trip attempt increases by that number."
 		},
 		{
-			"feat_name": "Improved Unarmed Strike",
+			"name": "Improved Unarmed Strike",
 			"file": "featdisplayb315.html",
 			"sources": [
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
 			"type": [ "Combat" ],
-			"prerequisites": null,
+			"prerequisites": [
+				{
+					"feat": "Improved Unarmed Strike"
+				}
+			],
 			"description": [
 				"Improved Unarmed Strike (Combat)",
 				"Source [PRPG Core Rulebook pg. 128](source:PRPG Core Rulebook)",
@@ -2383,14 +2396,18 @@
 			"combat_trick_description": "When you deal nonlethal damage with an unarmed strike, you can spend up to 5 stamina points to deal an amount of additional nonlethal damage equal to double the amount of stamina points you spent."
 		},
 		{
-			"feat_name": "Intimidating Prowess",
+			"name": "Intimidating Prowess",
 			"file": "featdisplay5136.html",
 			"sources": [
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
 			"type": [ "Combat" ],
-			"prerequisites": null,
+			"prerequisites": [
+				{
+					"feat": "Intimidating Prowess"
+				}
+			],
 			"description": [
 				"Intimidating Prowess (Combat)",
 				"Source [PRPG Core Rulebook pg. 128](source:PRPG Core Rulebook)",
@@ -2411,11 +2428,15 @@
 			"combat_trick_description": "When attempting an Intimidate check, you can spend 2 stamina points for each size category smaller you are than a given target to ignore the size difference penalty against that target."
 		},
 		{
-			"feat_name": "Iron Will",
+			"name": "Iron Will",
 			"file": "featdisplayc786.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"type": [ "General" ],
-			"prerequisites": null,
+			"prerequisites": [
+				{
+					"feat": "Iron Will"
+				}
+			],
 			"description": [
 				"Iron Will",
 				"Source [PRPG Core Rulebook pg. 129](source:PRPG Core Rulebook)",
@@ -2431,14 +2452,13 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Knockout Artist",
+			"name": "Knockout Artist",
 			"file": "featdisplay484e.html",
 			"sources": [ "Ultimate Combat" ],
 			"type": [ "General" ],
 			"prerequisites": [
 				{
-					"class_feature": "sneak attack",
-					"feat": "Improved Unarmed Strike"
+					"feat": "Knockout Artist"
 				}
 			],
 			"description": [
@@ -2457,7 +2477,7 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Legendary Teamwork",
+			"name": "Legendary Teamwork",
 			"file": "featdisplay5682.html",
 			"sources": [ "Mythic Adventures" ],
 			"type": [ "General" ],
@@ -2478,11 +2498,15 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Lightning Reflexes",
+			"name": "Lightning Reflexes",
 			"file": "featdisplay7b12.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"type": [ "General" ],
-			"prerequisites": null,
+			"prerequisites": [
+				{
+					"feat": "Lightning Reflexes"
+				}
+			],
 			"description": [
 				"Lightning Reflexes",
 				"Source [PRPG Core Rulebook pg. 130](source:PRPG Core Rulebook)",
@@ -2498,7 +2522,7 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Lucky Halfling",
+			"name": "Lucky Halfling",
 			"file": "featdisplayc063.html",
 			"sources": [
 				"Advanced Player's Guide",
@@ -2507,7 +2531,7 @@
 			"type": [ "General" ],
 			"prerequisites": [
 				{
-					"creature": "halfling"
+					"feat": "Lucky Halfling"
 				}
 			],
 			"description": [
@@ -2526,13 +2550,13 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Lucky Surge",
+			"name": "Lucky Surge",
 			"file": "featdisplaybef8.html",
 			"sources": [ "Mythic Adventures" ],
 			"type": [ "General" ],
 			"prerequisites": [
 				{
-					"feat": "Potent Surge",
+					"mythic_feat": "Potent Surge",
 					"mythic_tier": 3
 				}
 			],
@@ -2547,7 +2571,7 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Lunge",
+			"name": "Lunge",
 			"file": "featdisplayd4fd.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -2556,7 +2580,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"base_attack_bonus": 6
+					"feat": "Lunge"
 				}
 			],
 			"description": [
@@ -2580,11 +2604,15 @@
 			"combat_trick_description": "When you use this feat, you can spend 2 stamina points to avoid taking the -2 penalty to AC for that use."
 		},
 		{
-			"feat_name": "Magical Aptitude",
+			"name": "Magical Aptitude",
 			"file": "featdisplay05b0.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"type": [ "General" ],
-			"prerequisites": null,
+			"prerequisites": [
+				{
+					"feat": "Magical Aptitude"
+				}
+			],
 			"description": [
 				"Magical Aptitude",
 				"Source [PRPG Core Rulebook pg. 130](source:PRPG Core Rulebook)",
@@ -2600,7 +2628,7 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Manyshot",
+			"name": "Manyshot",
 			"file": "featdisplayf76c.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -2609,9 +2637,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"dexterity_score": 17,
-					"feat": "Rapid Shot",
-					"base_attack_bonus": 6
+					"feat": "Manyshot"
 				}
 			],
 			"description": [
@@ -2635,7 +2661,7 @@
 			"combat_trick_description": "When using this feat, you can spend 5 stamina points to fire two arrows with your final iterative attack during the full attack."
 		},
 		{
-			"feat_name": "Maximize Surge",
+			"name": "Maximize Surge",
 			"file": "featdisplay7c3b.html",
 			"sources": [ "Mythic Adventures" ],
 			"type": [ "General" ],
@@ -2656,7 +2682,7 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Medusa's Wrath",
+			"name": "Medusa's Wrath",
 			"file": "featdisplay3457.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -2690,7 +2716,7 @@
 			"combat_trick_description": "While using this feat, you can spend 10 stamina points to make the bonus attacks against a foe that you are flanking, instead of only a dazed, flat-footed, paralyzed, staggered, stunned, or unconscious foe."
 		},
 		{
-			"feat_name": "Missile Shield",
+			"name": "Missile Shield",
 			"file": "featdisplayacc1.html",
 			"sources": [
 				"Advanced Player's Guide",
@@ -2699,8 +2725,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"dexterity_score": 13,
-					"feat": "Shield Focus"
+					"feat": "Missile Shield"
 				}
 			],
 			"description": [
@@ -2724,7 +2749,7 @@
 			"combat_trick_description": "As long as you have at least 1 stamina point in your stamina pool, you can use this feat with a buckler. You can spend 5 stamina points to deflect an arrow even while you're flat-footed. You must still be aware of the attack."
 		},
 		{
-			"feat_name": "Mobility",
+			"name": "Mobility",
 			"file": "featdisplaya042.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -2733,7 +2758,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"feat": "Dodge"
+					"feat": "Mobility"
 				}
 			],
 			"description": [
@@ -2758,7 +2783,7 @@
 			"combat_trick_description": "Your dodge bonus to AC from the Dodge feat combat trick is doubled against attacks of opportunity provoked by movement. If you don't have the Dodge feat, you can still use its combat trick."
 		},
 		{
-			"feat_name": "Monastic Legacy",
+			"name": "Monastic Legacy",
 			"file": "featdisplay3b17.html",
 			"sources": [
 				"Ultimate Combat",
@@ -2767,8 +2792,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"class_feature": "still mind",
-					"feat": "Improved Unarmed Strike"
+					"feat": "Monastic Legacy"
 				}
 			],
 			"description": [
@@ -2792,7 +2816,7 @@
 			"combat_trick_description": "At the start of your turn, you can spend 5 stamina points to use your full character level to determine your effective monk level for your unarmed strike damage. This increase lasts until the start of your next turn."
 		},
 		{
-			"feat_name": "Mounted Archery",
+			"name": "Mounted Archery",
 			"file": "featdisplaya64f.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -2801,7 +2825,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"feat": "Mounted Combat"
+					"feat": "Mounted Archery"
 				}
 			],
 			"description": [
@@ -2825,7 +2849,7 @@
 			"combat_trick_description": "When making an attack using a ranged weapon while mounted, you can spend 1 or 2 stamina points to reduce the penalties on the attack roll by double the number of stamina points you spent."
 		},
 		{
-			"feat_name": "Mounted Combat",
+			"name": "Mounted Combat",
 			"file": "featdisplay970f.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -2834,8 +2858,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"skill": "Ride",
-					"ranks": 1
+					"feat": "Mounted Combat"
 				}
 			],
 			"description": [
@@ -2859,7 +2882,7 @@
 			"combat_trick_description": "Once you have already used this feat, you can spend 5 stamina points to use it an additional time during the same round. You can use this trick as many times in a round as you like, as long as you spend 5 stamina points per use."
 		},
 		{
-			"feat_name": "Mythic Paragon",
+			"name": "Mythic Paragon",
 			"file": "featdisplay4f78.html",
 			"sources": [ "Mythic Adventures" ],
 			"type": [ "General" ],
@@ -2874,14 +2897,13 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Natural Spell",
+			"name": "Natural Spell",
 			"file": "featdisplaybba2.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"type": [ "General" ],
 			"prerequisites": [
 				{
-					"wisdom_score": 13,
-					"class_feature": "wild shape"
+					"feat": "Natural Spell"
 				}
 			],
 			"description": [
@@ -2901,13 +2923,13 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Nimble Moves",
+			"name": "Nimble Moves",
 			"file": "featdisplayc15b.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"type": [ "General" ],
 			"prerequisites": [
 				{
-					"dexterity_score": 13
+					"feat": "Nimble Moves"
 				}
 			],
 			"description": [
@@ -2926,7 +2948,7 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Penetrating Strike",
+			"name": "Penetrating Strike",
 			"file": "featdisplayf80c.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -2935,11 +2957,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"feat": "Weapon Focus"
-				},
-				{
-					"class": "fighter",
-					"level": 12
+					"feat": "Penetrating Strike"
 				}
 			],
 			"description": [
@@ -2963,11 +2981,15 @@
 			"combat_trick_description": "Whenever you deal damage to a creature with damage reduction using the selected weapons, you can spend 5 stamina points to allow all your allies (other than yourself ) within 30 feet of the creature to ignore 5 points of the creature's damage reduction for 1 round. This has no effect on creatures with damage reduction without a type (such as DR 10/-). This effect does not stack with Penetrating Strike's normal effect, but it does allow you to apply the effect to all your other weapons for the duration."
 		},
 		{
-			"feat_name": "Persuasive",
+			"name": "Persuasive",
 			"file": "featdisplaye71e.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"type": [ "General" ],
-			"prerequisites": null,
+			"prerequisites": [
+				{
+					"feat": "Persuasive"
+				}
+			],
 			"description": [
 				"Persuasive",
 				"Source [PRPG Core Rulebook pg. 131](source:PRPG Core Rulebook)",
@@ -2983,7 +3005,7 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Pinpoint Targeting",
+			"name": "Pinpoint Targeting",
 			"file": "featdisplay1503.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -2992,8 +3014,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"feat": "Improved Precise Shot",
-					"base_attack_bonus": 16
+					"feat": "Pinpoint Targeting"
 				}
 			],
 			"description": [
@@ -3017,14 +3038,18 @@
 			"combat_trick_description": "When you use this feat, you can spend stamina points to retain the ability to move. If you spend 2 stamina points, you can take a 5-foot step after you make the attack. If you instead spend 5 stamina points, you can move up to half your speed as a move action."
 		},
 		{
-			"feat_name": "Point-Blank Shot",
+			"name": "Point-Blank Shot",
 			"file": "featdisplay999c.html",
 			"sources": [
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
 			"type": [ "Combat" ],
-			"prerequisites": null,
+			"prerequisites": [
+				{
+					"feat": "Point-Blank Shot"
+				}
+			],
 			"description": [
 				"Point-Blank Shot (Combat)",
 				"Source [PRPG Core Rulebook pg. 131](source:PRPG Core Rulebook)",
@@ -3045,15 +3070,11 @@
 			"combat_trick_description": "You can spend up to 6 stamina points to increase this feat's range by 5 feet for each stamina point you spent."
 		},
 		{
-			"feat_name": "Potent Surge",
+			"name": "Potent Surge",
 			"file": "featdisplayf752.html",
 			"sources": [ "Mythic Adventures" ],
 			"type": [ "General" ],
-			"prerequisites": [
-				{
-					"mythic_tier": 1
-				}
-			],
+			"prerequisites": null,
 			"description": [
 				"Potent Surge",
 				"Source [Mythic Adventures pg. 71](source:Mythic Adventures)",
@@ -3064,7 +3085,7 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Power Attack",
+			"name": "Power Attack",
 			"file": "featdisplaycb33.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -3073,8 +3094,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"strength_score": 13,
-					"base_attack_bonus": 1
+					"feat": "Power Attack"
 				}
 			],
 			"description": [
@@ -3099,17 +3119,13 @@
 			"combat_trick_description": "When using this feat, you can spend 2 stamina points to gain the benefits and the hindrances of that feat until the end of your turn, instead of until your next turn."
 		},
 		{
-			"feat_name": "Powerful Shape",
+			"name": "Powerful Shape",
 			"file": "featdisplaya7ca.html",
 			"sources": [ "Ultimate Magic" ],
 			"type": [ "General" ],
 			"prerequisites": [
 				{
-					"class_feature": "wild shape"
-				},
-				{
-					"class": "druid",
-					"level": 8
+					"feat": "Powerful Shape"
 				}
 			],
 			"description": [
@@ -3129,13 +3145,13 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Prophetic Visionary",
+			"name": "Prophetic Visionary",
 			"file": "featdisplay6d03.html",
 			"sources": [ "Ultimate Magic" ],
 			"type": [ "General" ],
 			"prerequisites": [
 				{
-					"class_feature": "mystery"
+					"feat": "Prophetic Visionary"
 				}
 			],
 			"description": [
@@ -3154,7 +3170,7 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Quick Draw",
+			"name": "Quick Draw",
 			"file": "featdisplay87ec.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -3163,7 +3179,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"base_attack_bonus": 1
+					"feat": "Quick Draw"
 				}
 			],
 			"description": [
@@ -3188,20 +3204,14 @@
 			"combat_trick_description": "As long as you have at least 1 stamina point in your stamina pool, you can sheathe a weapon as a swift action."
 		},
 		{
-			"feat_name": "Racial Heritage",
+			"name": "Racial Heritage",
 			"file": "featdisplay04bd-2.html",
 			"sources": [ "Advanced Player's Guide" ],
 			"type": [ "General" ],
 			"prerequisites": [
 				{
-					"creature": "human",
-					"not": [
-						{
-							"feat": "Planar Heritage"
-						}
-					]
-				},
-				"UNKNOWN You cannot select Planar Heritage if you already have an ability or feat (like Racial Heritage) that adjusts your heritage in this way."
+					"feat": "Racial Heritage"
+				}
 			],
 			"description": [
 				"Racial Heritage",
@@ -3219,7 +3229,7 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Rapid Reload",
+			"name": "Rapid Reload",
 			"file": "featdisplay40f9.html",
 			"sources": [
 				"Ultimate Combat",
@@ -3230,15 +3240,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"either": [
-						{
-							"feat": "Exotic Weapon Proficiency",
-							"focus": "firearms"
-						},
-						{
-							"weapon_proficiency_type": "crossbow"
-						}
-					]
+					"feat": "Rapid Reload"
 				}
 			],
 			"description": [
@@ -3265,7 +3267,7 @@
 			"combat_trick_description": "When reloading a crossbow or firearm, you can spend 5 stamina points to reduce the reload time by one step; a standard action becomes a move action, a move action becomes a swift action, and a swift action becomes a free action. The weapon you are reloading doesn't need to be the one you chose when you took this feat. If the weapon already has a reload time of one free action, when you make a full attack with the weapon, you can spend 2 stamina points to gain a +1 bonus on all damage rolls with the weapon during that full attack."
 		},
 		{
-			"feat_name": "Rapid Shot",
+			"name": "Rapid Shot",
 			"file": "featdisplay632c.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -3274,8 +3276,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"dexterity_score": 13,
-					"feat": "Point-Blank Shot"
+					"feat": "Rapid Shot"
 				}
 			],
 			"description": [
@@ -3299,14 +3300,13 @@
 			"combat_trick_description": "When using this feat, you can spend a number of stamina points up to the number of shots taken using this feat. If you do, you decrease the penalty of a single Rapid Shot ranged attack by 2 for each stamina point you spent."
 		},
 		{
-			"feat_name": "Rhetorical Flourish",
+			"name": "Rhetorical Flourish",
 			"file": "featdisplayacdb.html",
 			"sources": [ "Ultimate Combat" ],
 			"type": [ "General" ],
 			"prerequisites": [
 				{
-					"charisma_score": 13,
-					"feat": "Persuasive"
+					"feat": "Rhetorical Flourish"
 				}
 			],
 			"description": [
@@ -3327,7 +3327,7 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Ride-By Attack",
+			"name": "Ride-By Attack",
 			"file": "featdisplaycbce.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -3336,7 +3336,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"feat": "Mounted Combat"
+					"feat": "Ride-By Attack"
 				}
 			],
 			"description": [
@@ -3360,11 +3360,15 @@
 			"combat_trick_description": "After making a mounted charge attack using this feat, you can spend 5 stamina points to change the direction of your movement instead of continuing to move in a straight line."
 		},
 		{
-			"feat_name": "Run",
+			"name": "Run",
 			"file": "featdisplay1c6f.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"type": [ "General" ],
-			"prerequisites": null,
+			"prerequisites": [
+				{
+					"feat": "Run"
+				}
+			],
 			"description": [
 				"Run",
 				"Source [PRPG Core Rulebook pg. 132](source:PRPG Core Rulebook)",
@@ -3382,7 +3386,7 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Saving Shield",
+			"name": "Saving Shield",
 			"file": "featdisplay78db.html",
 			"sources": [
 				"Advanced Player's Guide",
@@ -3391,7 +3395,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"feat": "Shield Proficiency"
+					"feat": "Saving Shield"
 				}
 			],
 			"description": [
@@ -3415,7 +3419,7 @@
 			"combat_trick_description": "When you use this feat, you can spend 2 stamina points to increase the shield bonus granted to your ally by an amount equal to the enhancement bonus of the shield you are using."
 		},
 		{
-			"feat_name": "Scorpion Style",
+			"name": "Scorpion Style",
 			"file": "featdisplay3693.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -3424,7 +3428,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"feat": "Improved Unarmed Strike"
+					"feat": "Scorpion Style"
 				}
 			],
 			"description": [
@@ -3448,14 +3452,13 @@
 			"combat_trick_description": "When you hit with an unarmed attack using this feat and the target successfully saves against the effect, you can spend 2 stamina points to reduce the target's movement speed by half for 1 round."
 		},
 		{
-			"feat_name": "Selective Channeling",
+			"name": "Selective Channeling",
 			"file": "featdisplay29d7.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"type": [ "General" ],
 			"prerequisites": [
 				{
-					"charisma_score": 13,
-					"channel_energy_d6": 1
+					"feat": "Selective Channeling"
 				}
 			],
 			"description": [
@@ -3475,11 +3478,15 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Self-Sufficient",
+			"name": "Self-Sufficient",
 			"file": "featdisplay63ea.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"type": [ "General" ],
-			"prerequisites": null,
+			"prerequisites": [
+				{
+					"feat": "Self-Sufficient"
+				}
+			],
 			"description": [
 				"Self-Sufficient",
 				"Source [PRPG Core Rulebook pg. 133](source:PRPG Core Rulebook)",
@@ -3495,7 +3502,7 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Shatter Defenses",
+			"name": "Shatter Defenses",
 			"file": "featdisplaybc83.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -3504,8 +3511,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"feat": "Dazzling Display",
-					"base_attack_bonus": 6
+					"feat": "Shatter Defenses"
 				}
 			],
 			"description": [
@@ -3529,7 +3535,7 @@
 			"combat_trick_description": "When you hit an opponent that has been made flat-footed to your attacks by this feat, you can spend 5 stamina points to make that opponent flat-footed to the attacks of one ally who is within 30 feet of that creature until the start of your next turn."
 		},
 		{
-			"feat_name": "Shield Focus",
+			"name": "Shield Focus",
 			"file": "featdisplay846e.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -3538,8 +3544,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"feat": "Shield Proficiency",
-					"base_attack_bonus": 1
+					"feat": "Shield Focus"
 				}
 			],
 			"description": [
@@ -3563,7 +3568,7 @@
 			"combat_trick_description": "When an attack is made against you while you are using a shield, you can spend up to 2 stamina points. If you do, the shield's bonus to AC against that attack increases by an amount equal to the number of stamina points you spent."
 		},
 		{
-			"feat_name": "Shield Slam",
+			"name": "Shield Slam",
 			"file": "featdisplay5226.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -3572,11 +3577,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"feat_all": [
-						"Improved Shield Bash",
-						"Two-Weapon Fighting"
-					],
-					"base_attack_bonus": 6
+					"feat": "Shield Slam"
 				}
 			],
 			"description": [
@@ -3600,7 +3601,7 @@
 			"combat_trick_description": "Instead of attempting a free bull rush when using the Shield Slam feat, you can spend 2 stamina points to attempt a disarm, reposition, trip, or sunder combat maneuver. This combat maneuver attempt does not provoke an attack of opportunity from the target."
 		},
 		{
-			"feat_name": "Shot on the Run",
+			"name": "Shot on the Run",
 			"file": "featdisplay025f.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -3609,12 +3610,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"dexterity_score": 13,
-					"feat_all": [
-						"Mobility",
-						"Point-Blank Shot"
-					],
-					"base_attack_bonus": 4
+					"feat": "Shot on the Run"
 				}
 			],
 			"description": [
@@ -3639,11 +3635,15 @@
 			"combat_trick_description": "You can spend 5 stamina points to use this feat as a standard action instead of a full-round action."
 		},
 		{
-			"feat_name": "Skill Focus",
+			"name": "Skill Focus",
 			"file": "featdisplay6233.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"type": [ "General" ],
-			"prerequisites": null,
+			"prerequisites": [
+				{
+					"feat": "Skill Focus"
+				}
+			],
 			"description": [
 				"Skill Focus",
 				"Source [PRPG Core Rulebook pg. 134](source:PRPG Core Rulebook)",
@@ -3661,7 +3661,7 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Snatch Arrows",
+			"name": "Snatch Arrows",
 			"file": "featdisplay6b40.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -3670,8 +3670,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"dexterity_score": 15,
-					"feat": "Deflect Arrows"
+					"feat": "Snatch Arrows"
 				}
 			],
 			"description": [
@@ -3696,14 +3695,13 @@
 			"combat_trick_description": "When you snatch a thrown weapon, as long as you have at least 1 stamina point in your stamina pool, you can make a thrown ranged attack with it against any target, not just the original attacker."
 		},
 		{
-			"feat_name": "Sociable",
+			"name": "Sociable",
 			"file": "featdisplay993f-2.html",
 			"sources": [ "Advanced Player's Guide" ],
 			"type": [ "General" ],
 			"prerequisites": [
 				{
-					"charisma_score": 13,
-					"creature": "half-elf"
+					"feat": "Sociable"
 				}
 			],
 			"description": [
@@ -3722,11 +3720,15 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Spell Focus",
+			"name": "Spell Focus",
 			"file": "featdisplay08ea.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"type": [ "General" ],
-			"prerequisites": null,
+			"prerequisites": [
+				{
+					"feat": "Spell Focus"
+				}
+			],
 			"description": [
 				"Spell Focus",
 				"Source [PRPG Core Rulebook pg. 134](source:PRPG Core Rulebook)",
@@ -3744,14 +3746,13 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Spell Mastery",
+			"name": "Spell Mastery",
 			"file": "featdisplaybc72.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"type": [ "General" ],
 			"prerequisites": [
 				{
-					"class": "Wizard",
-					"level": 1
+					"feat": "Spell Mastery"
 				}
 			],
 			"description": [
@@ -3771,11 +3772,15 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Spell Penetration",
+			"name": "Spell Penetration",
 			"file": "featdisplayd0d6.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"type": [ "General" ],
-			"prerequisites": null,
+			"prerequisites": [
+				{
+					"feat": "Spell Penetration"
+				}
+			],
 			"description": [
 				"Spell Penetration",
 				"Source [PRPG Core Rulebook pg. 134](source:PRPG Core Rulebook)",
@@ -3791,7 +3796,7 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Spellbreaker",
+			"name": "Spellbreaker",
 			"file": "featdisplay7d96.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -3800,11 +3805,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"feat": "Disruptive"
-				},
-				{
-					"class": "fighter",
-					"level": 10
+					"feat": "Spellbreaker"
 				}
 			],
 			"description": [
@@ -3830,7 +3831,7 @@
 			"combat_trick_description": "When you hit a caster with an attack of opportunity it provoked by failing to cast defensively, you can spend 5 stamina points to daze the caster until the end of its next turn. If the caster succeeds at a Fortitude save with a DC equal to 10 + your base attack bonus, it is staggered instead."
 		},
 		{
-			"feat_name": "Spirited Charge",
+			"name": "Spirited Charge",
 			"file": "featdisplaya239.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -3839,7 +3840,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"feat": "Ride-By Attack"
+					"feat": "Spirited Charge"
 				}
 			],
 			"description": [
@@ -3863,21 +3864,13 @@
 			"combat_trick_description": "When making a mounted charge, you can spend a number of stamina points up to your Strength bonus. If your charge attack hits, you deal an amount of extra damage equal to the number of stamina points you spent. This additional damage is doubled by this feat (or tripled if you're using a lance)."
 		},
 		{
-			"feat_name": "Spontaneous Metafocus",
+			"name": "Spontaneous Metafocus",
 			"file": "featdisplay75b7.html",
 			"sources": [ "Ultimate Magic" ],
 			"type": [ "General" ],
 			"prerequisites": [
 				{
-					"charisma_score": 13,
-					"combination": {
-						"spontaneous": true,
-						"spell_any": true
-					}
-				},
-				{
-					"feat_type": "Metamagic",
-					"feat_amount": 1
+					"feat": "Spontaneous Metafocus"
 				}
 			],
 			"description": [
@@ -3898,7 +3891,7 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Spring Attack",
+			"name": "Spring Attack",
 			"file": "featdisplay6916.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -3907,8 +3900,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"feat": "Mobility",
-					"base_attack_bonus": 4
+					"feat": "Spring Attack"
 				}
 			],
 			"description": [
@@ -3933,11 +3925,15 @@
 			"combat_trick_description": "You can spend 5 stamina points to use this feat as a standard action instead of a full-round action."
 		},
 		{
-			"feat_name": "Stealthy",
+			"name": "Stealthy",
 			"file": "featdisplay01e0.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"type": [ "General" ],
-			"prerequisites": null,
+			"prerequisites": [
+				{
+					"feat": "Stealthy"
+				}
+			],
 			"description": [
 				"Stealthy",
 				"Source [PRPG Core Rulebook pg. 135](source:PRPG Core Rulebook)",
@@ -3953,7 +3949,7 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Strike Back",
+			"name": "Strike Back",
 			"file": "featdisplay7346.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -3962,7 +3958,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"base_attack_bonus": 11
+					"feat": "Strike Back"
 				}
 			],
 			"description": [
@@ -3986,11 +3982,15 @@
 			"combat_trick_description": "When you ready an action to attack someone outside of your melee reach, you can spend 5 stamina points to take a 5-foot step, but you must move closer to the attacking creature. You can take this 5-foot step even if your readied action includes a 5-foot step."
 		},
 		{
-			"feat_name": "Strong Comeback",
+			"name": "Strong Comeback",
 			"file": "featdisplayc22f.html",
 			"sources": [ "Ultimate Combat" ],
 			"type": [ "General" ],
-			"prerequisites": null,
+			"prerequisites": [
+				{
+					"feat": "Strong Comeback"
+				}
+			],
 			"description": [
 				"Strong Comeback",
 				"Source [Ultimate Combat pg. 121](source:Ultimate Combat)",
@@ -4006,7 +4006,7 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Stunning Fist",
+			"name": "Stunning Fist",
 			"file": "featdisplay7b82.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -4015,10 +4015,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"dexterity_score": 13,
-					"wisdom_score": 13,
-					"feat": "Improved Unarmed Strike",
-					"base_attack_bonus": 8
+					"feat": "Stunning Fist"
 				}
 			],
 			"description": [
@@ -4043,14 +4040,18 @@
 			"combat_trick_description": "You can spend 5 stamina points to declare that you are using Stunning Fist after you've hit with an unarmed strike."
 		},
 		{
-			"feat_name": "Throw Anything",
+			"name": "Throw Anything",
 			"file": "featdisplay8204.html",
 			"sources": [
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
 			"type": [ "Combat" ],
-			"prerequisites": null,
+			"prerequisites": [
+				{
+					"feat": "Throw Anything"
+				}
+			],
 			"description": [
 				"Throw Anything (Combat)",
 				"Source [PRPG Core Rulebook pg. 135](source:PRPG Core Rulebook)",
@@ -4072,7 +4073,7 @@
 			"combat_trick_description": "As long as you have at least 1 stamina point in your stamina pool, when you use a melee weapon that is not a thrown weapon for a ranged improvised weapon attack, you use the weapon's melee critical threat range and multiplier instead of the normal 20/??2 for improvised weapons. You can spend 2 stamina points to increase your range increment for thrown weapon attacks (including ranged improvised weapons) by 10 feet until the beginning of your next turn."
 		},
 		{
-			"feat_name": "Titan Strike",
+			"name": "Titan Strike",
 			"file": "featdisplayf975.html",
 			"sources": [ "Mythic Adventures" ],
 			"type": [ "General" ],
@@ -4092,11 +4093,15 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Toughness",
+			"name": "Toughness",
 			"file": "featdisplay1698.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"type": [ "General" ],
-			"prerequisites": null,
+			"prerequisites": [
+				{
+					"feat": "Toughness"
+				}
+			],
 			"description": [
 				"Toughness",
 				"Source [PRPG Core Rulebook pg. 135](source:PRPG Core Rulebook)",
@@ -4112,7 +4117,7 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Trample",
+			"name": "Trample",
 			"file": "featdisplaycb84.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -4121,7 +4126,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"feat": "Mounted Combat"
+					"feat": "Trample"
 				}
 			],
 			"description": [
@@ -4145,7 +4150,7 @@
 			"combat_trick_description": "When you attempt to overrun an opponent while mounted and you don't succeed at the overrun combat maneuver check, you can spend 2 stamina points and continue to move as if the target of the overrun had moved out of the way."
 		},
 		{
-			"feat_name": "Tripping Staff",
+			"name": "Tripping Staff",
 			"file": "featdisplaye75a.html",
 			"sources": [
 				"Ultimate Magic",
@@ -4154,16 +4159,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"intelligence_score": 13,
-					"feat_all": [
-						"Combat Expertise",
-						"Improved Trip"
-					],
-					"base_attack_bonus": 6
-				},
-				{
-					"feat": "Weapon Focus",
-					"focus": "quarterstaff"
+					"feat": "Tripping Staff"
 				}
 			],
 			"description": [
@@ -4188,13 +4184,13 @@
 			"combat_trick_description": "You can select this feat even if you don't meet the ability score prerequisite (Intelligence 13). You gain the benefits of this feat only as long as you have at least 1 stamina point in your stamina pool."
 		},
 		{
-			"feat_name": "Turn Undead",
+			"name": "Turn Undead",
 			"file": "featdisplay3841.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"type": [ "General" ],
 			"prerequisites": [
 				{
-					"channel_energy_type": "positive"
+					"feat": "Turn Undead"
 				}
 			],
 			"description": [
@@ -4214,7 +4210,7 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Two-Fisted Drinker",
+			"name": "Two-Fisted Drinker",
 			"file": "featdisplay29d6.html",
 			"sources": [ "Mythic Adventures" ],
 			"type": [ "General" ],
@@ -4234,7 +4230,7 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Two-Weapon Defense",
+			"name": "Two-Weapon Defense",
 			"file": "featdisplaybe56.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -4243,7 +4239,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"feat": "Two-Weapon Fighting"
+					"feat": "Two-Weapon Defense"
 				}
 			],
 			"description": [
@@ -4267,7 +4263,7 @@
 			"combat_trick_description": "Once per round, you can spend 2 stamina points to double the bonuses granted by this feat until the start of your next turn."
 		},
 		{
-			"feat_name": "Two-Weapon Fighting",
+			"name": "Two-Weapon Fighting",
 			"file": "featdisplay3992.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -4276,7 +4272,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"dexterity_score": 15
+					"feat": "Two-Weapon Fighting"
 				}
 			],
 			"description": [
@@ -4301,7 +4297,7 @@
 			"combat_trick_description": "You can spend any number of stamina points to reduce the penalty from Two-Weapon Fighting on attacks made with a weapon in your primary hand by 1 for every 2 stamina points you spent. This benefit lasts until the start of your next turn. You can't reduce the penalty below 0."
 		},
 		{
-			"feat_name": "Two-Weapon Rend",
+			"name": "Two-Weapon Rend",
 			"file": "featdisplay5bbe.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -4310,11 +4306,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"feat_all": [
-						"Double Slice",
-						"Improved Two-Weapon Fighting"
-					],
-					"base_attack_bonus": 11
+					"feat": "Two-Weapon Rend"
 				}
 			],
 			"description": [
@@ -4338,20 +4330,13 @@
 			"combat_trick_description": "You can spend 5 stamina points to use this feat's benefit a second time in a single round."
 		},
 		{
-			"feat_name": "Undead Master",
+			"name": "Undead Master",
 			"file": "featdisplay5378.html",
 			"sources": [ "Ultimate Magic" ],
 			"type": [ "General" ],
 			"prerequisites": [
 				{
-					"feat": "Spell focus",
-					"focus": "necromancy"
-				},
-				{
-					"spell": [
-						"animate dead",
-						"command undead"
-					]
+					"feat": "Undead Master"
 				}
 			],
 			"description": [
@@ -4370,7 +4355,7 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Unseat",
+			"name": "Unseat",
 			"file": "featdisplay08f8.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -4379,10 +4364,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"feat_all": [
-						"Improved Bull Rush",
-						"Mounted Combat"
-					]
+					"feat": "Unseat"
 				}
 			],
 			"description": [
@@ -4406,7 +4388,7 @@
 			"combat_trick_description": "When you use this feat to successfully unseat a foe, you can spend 5 stamina points to make the rider fall prone in an unoccupied space of your choice adjacent to the mount instead of a space directly away from you."
 		},
 		{
-			"feat_name": "Valiant Vault",
+			"name": "Valiant Vault",
 			"file": "featdisplayfc18.html",
 			"sources": [ "Mythic Adventures" ],
 			"type": [ "General" ],
@@ -4434,7 +4416,7 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Vital Strike",
+			"name": "Vital Strike",
 			"file": "featdisplay7e12.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -4443,7 +4425,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"base_attack_bonus": 6
+					"feat": "Vital Strike"
 				}
 			],
 			"description": [
@@ -4468,13 +4450,13 @@
 			"combat_trick_description": "After rolling the damage of a Vital Strike attack, you can spend 2 stamina points to reroll up to two of the weapon's damage dice. (For weapons with more than one damage die, count all the weapon's base damage dice together as one.) You must take the second result, even if it's lower."
 		},
 		{
-			"feat_name": "Voice of the Sibyl",
+			"name": "Voice of the Sibyl",
 			"file": "featdisplay6176.html",
 			"sources": [ "Ultimate Magic" ],
 			"type": [ "General" ],
 			"prerequisites": [
 				{
-					"charisma_score": 15
+					"feat": "Voice of the Sibyl"
 				}
 			],
 			"description": [
@@ -4493,18 +4475,13 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Warrior Priest",
+			"name": "Warrior Priest",
 			"file": "featdisplay9331.html",
 			"sources": [ "Ultimate Magic" ],
 			"type": [ "General" ],
 			"prerequisites": [
 				{
-					"caster_level": 1,
-					"magic_type": "divine",
-					"class_feature": [
-						"domain",
-						"mystery"
-					]
+					"feat": "Warrior Priest"
 				}
 			],
 			"description": [
@@ -4523,14 +4500,18 @@
 			"has_mythic_version": true
 		},
 		{
-			"feat_name": "Weapon Finesse",
+			"name": "Weapon Finesse",
 			"file": "featdisplay0fde.html",
 			"sources": [
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
 			"type": [ "Combat" ],
-			"prerequisites": null,
+			"prerequisites": [
+				{
+					"feat": "Weapon Finesse"
+				}
+			],
 			"description": [
 				"Weapon Finesse (Combat)",
 				"Source [PRPG Core Rulebook pg. 136](source:PRPG Core Rulebook)",
@@ -4552,7 +4533,7 @@
 			"combat_trick_description": "You can spend 2 stamina points to negate the penalty on attack rolls from your shield's armor check penalty until the start of your next turn."
 		},
 		{
-			"feat_name": "Weapon Focus",
+			"name": "Weapon Focus",
 			"file": "featdisplay2340.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -4561,10 +4542,8 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"base_attack_bonus": 1,
-					"weapon_proficiency_any": true
-				},
-				"SELECTED"
+					"feat": "Weapon Focus"
+				}
 			],
 			"description": [
 				"Weapon Focus (Combat)",
@@ -4589,7 +4568,7 @@
 			"combat_trick_description": "Once per round, you can spend 2 stamina points to gain your Weapon Focus bonus on attack rolls with a weapon with which you don't have Weapon Focus. This bonus lasts until the start of your next turn."
 		},
 		{
-			"feat_name": "Weapon Specialization",
+			"name": "Weapon Specialization",
 			"file": "featdisplay3469.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -4598,12 +4577,7 @@
 			"type": [ "Combat" ],
 			"prerequisites": [
 				{
-					"feat": "Weapon Focus"
-				},
-				"SELECTED",
-				{
-					"class": "fighter",
-					"level": 4
+					"feat": "Weapon Specialization"
 				}
 			],
 			"description": [
@@ -4629,13 +4603,13 @@
 			"combat_trick_description": "Once per round, you can spend 2 stamina points to gain your Weapon Specialization bonus on damage rolls with a weapon with which you don't have Weapon Specialization. This bonus lasts until the start of your next turn."
 		},
 		{
-			"feat_name": "Witch Knife",
+			"name": "Witch Knife",
 			"file": "featdisplay6b87.html",
 			"sources": [ "Ultimate Magic" ],
 			"type": [ "General" ],
 			"prerequisites": [
 				{
-					"class": "witch"
+					"feat": "Witch Knife"
 				}
 			],
 			"description": [
