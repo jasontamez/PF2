@@ -1,12 +1,8 @@
 # Plan?
 
-* Convert all JSONs to a specific format
+## TO-DO
 
-      {
-        "_prefix": "feat"
-        "_defaults": {},
-        "list": []
-      }
+* Trait CREATURES, UNFINISHED, etc
 
 ## Types
 
@@ -25,34 +21,50 @@
 `INTEGER` - any whole number
 
 ---
+
 ## Terms
 
 ### Basic Values
 
 "ability" - An Object that describes some sort of interaction
 
-"tag" - A static value a character could possess, usually string
-
 "score" - A static value that can be mutated by other factors, usually integer
 
 ---
-### Basic properties of `Values`
 
-"category" - A label for an entire class of `Value`
+### Basic properties of `JSON`
+
+"category_name" - A label for an entire class of `Value`
 
 ---
+
+### Basic properties of `Values`
+
+`"name": STRING` - The label of the `Value`
+
+`"tags": KEYS` - A list of "tags" associated with this `Value`, hidden from end-user
+
+`"types": KEYS` - A list of "types" associated with this `Value`, most likely visible to end-user
+
+---
+
 ### Lookups
 
 * **Main properties**
   * `"ability": true` - Looking for an ability
   * `"score": true` - Looking for a score
-  * `"tag": true` - Looking for a tag
 
 * **Global properties**
   * `"name": STRING` - Looking for something with the specific name
   * `"name_any": ARRAY_STRING` - Looking for any of the listed names
   * `"name_all": ARRAY_STRING` - Looking for **all** of the listed names
   * `"name_match": STRING` - Looking for something that matches the given regular expression
+  * `"has_type": STRING` - Looking for something that has the listed type
+  * `"has_type_any": ARRAY_STRING` - Looking for something that has any of the listed types
+  * `"has_type_all": ARRAY_STRING` - Looking for something that has **all** of the listed types
+  * `"has_tag": STRING` - Looking for something that has the listed tag
+  * `"has_tag_any": ARRAY_STRING` - Looking for something that has any of the listed tags
+  * `"has_tag_all": ARRAY_STRING` - Looking for something that has **all** of the listed tags
 
 * **Ability properties**
   * `"category": STRING` - Looking for an ability with the listed category
@@ -65,7 +77,8 @@
   * `"exact_any": ARRAY_NUMBER` - Looking for a value equal to any of the given numbers
 
 ---
-## TO-DO
+
+## More To-Do
 
 * "variant channeling"?
 * equipment/vehicles need to be parsed
