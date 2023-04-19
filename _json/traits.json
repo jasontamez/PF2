@@ -4,93 +4,83 @@
 		"Some 'ethnic' options feel like subraces or racial traits, too"
 	],
 	"category_name": "trait",
-	"data": {
-		"searchable": [
-			"description"
-		],
-		"formats": {
-			"description": [
-				"ARRAY_MARKDOWN",
-				"MARKDOWN"
-			]
+	"standard_properties": [
+		"types",
+		"sources",
+		"prerequisites",
+		"tags",
+		"description"
+	],
+	"lookup_shorthands": {
+		"god": {
+			"_value": "name",
+			"category": "deity",
+			"ability": true
 		},
-		"has_default_properties": [
-			"types",
-			"sources",
-			"prerequisites",
-			"tags"
-		],
-		"shorthands": {
-			"god": {
-				"_value": "name",
-				"category": "deity",
-				"ability": true
-			},
-			"god_any": {
-				"_value": "name_any",
-				"category": "deity",
-				"ability": true
-			},
-			"creature": {
-				"_value": "name",
-				"category": "species",
-				"ability": true
-			},
-			"creature_any": {
-				"_value": "name_any",
-				"category": "species",
-				"ability": true
-			},
-			"region": {
-				"_value": "name",
-				"category": "region",
-				"ability": true
-			},
-			"region_any": {
-				"_value": "name_any",
-				"category": "region",
-				"ability": true
-			},
-			"mount": {
-				"_value": "name",
-				"category": "mount -- TYPE OF MOUNT?",
-				"ability": true
-			},
-			"mount_any": {
-				"_value": "name_any",
-				"category": "mount -- TYPE OF MOUNT?",
-				"ability": true
-			},
-			"ethnic": {
-				"_value": "name",
-				"category": "ethnicity",
-				"ability": true
-			},
-			"ethnic_any": {
-				"_value": "name_any",
-				"category": "ethnicity",
-				"ability": true
-			},
-			"group": {
-				"_value": "name",
-				"category": "affiliation",
-				"ability": true
-			},
-			"group_any": {
-				"_value": "name_any",
-				"category": "affiliation",
-				"ability": true
-			},
-			"faction": {
-				"_value": "name",
-				"name": "faction",
-				"ability": true
-			},
-			"campaign": {
-				"_value": "name",
-				"name": "faction",
-				"ability": true
-			}
+		"god_any": {
+			"_value": "name_any",
+			"category": "deity",
+			"ability": true
+		},
+		"creature": {
+			"_value": "name",
+			"category": "species",
+			"ability": true
+		},
+		"creature_any": {
+			"_value": "name_any",
+			"category": "species",
+			"ability": true
+		},
+		"region": {
+			"_value": "name",
+			"category": "region",
+			"ability": true
+		},
+		"region_any": {
+			"_value": "name_any",
+			"category": "region",
+			"ability": true
+		},
+		"mount": {
+			"_value": "name",
+			"category": "mount -- TYPE OF MOUNT?",
+			"ability": true
+		},
+		"mount_any": {
+			"_value": "name_any",
+			"category": "mount -- TYPE OF MOUNT?",
+			"ability": true
+		},
+		"ethnic": {
+			"_value": "name",
+			"category": "ethnicity",
+			"ability": true
+		},
+		"ethnic_any": {
+			"_value": "name_any",
+			"category": "ethnicity",
+			"ability": true
+		},
+		"group": {
+			"_value": "name",
+			"category": "affiliation",
+			"ability": true
+		},
+		"group_any": {
+			"_value": "name_any",
+			"category": "affiliation",
+			"ability": true
+		},
+		"faction": {
+			"_value": "name",
+			"name": "faction",
+			"ability": true
+		},
+		"campaign": {
+			"_value": "name",
+			"name": "faction",
+			"ability": true
 		}
 	},
 	"list": [

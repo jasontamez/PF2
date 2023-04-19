@@ -20,21 +20,86 @@
 
 `INTEGER` - any whole number
 
+`FormatObject` - An object with properties describing how certain properties are formatted
+
+```json
+{
+  "prop1": "ARRAY_STRING", // array of strings, only
+  "prop2": "BOOLEAN",      // boolean only
+  "prop3": "STRING",       // string only
+  "prop4": [
+    "STRING",              // may be a string, or an array of strings
+    "ARRAY_STRING"
+  ]
+}
+```
+
+`LookupObject` - An object with properties describing certain non-standard lookups that may be used
+
+```json
+{
+  "lookup1": {
+    "_value": STRING // The lookup property this shorthand's value will map to
+    // (other lookup properties should be included; they will be included in the lookup whenever this shorthand is used)
+  }
+}
+```
+
+Example:
+
+```json
+{
+  "feat": {
+    "_value": "name",
+    "ability": true,
+    "has_category": "feat"
+  }
+}
+```
+
+So this:
+
+```json
+{
+  "feat": "Fancy!"
+}
+```
+
+Becomes equal to this:
+
+```json
+{
+  "ability": true,
+  "has_category": "feat",
+  "name": "Fancy!"
+}
+```
+
 ---
 
 ## Terms
 
 ### Basic Values
 
-"ability" - An Object that describes some sort of interaction
+`"ability"` - An Object that describes some sort of interaction
 
-"score" - A static value that can be mutated by other factors, usually integer
+`"score"` - A static value that can be mutated by other factors, usually `INTEGER`
+
+`"tag"` - A static, unique value that can be assigned to multiple things, usually `STRING`
 
 ---
 
 ### Basic properties of `JSON`
 
-"category_name" - A label for an entire class of `Value`
+`"category_name": STRING` - A label for an entire class of `Value`
+
+`"list": ARRAY_Values` - The `Values` this JSON provides
+
+`"standard_properties": ARRAY_STRING` - An array of optional, standard properties the `Values` have
+
+`"searchable_properties": FormatObject` - An object declaring any non-standard properties the `Values` have that may be searched for by an end-user
+
+`"lookup_shorthands": LookupObject` - An object declaring all shorthand lookup properties the `Values` may use
 
 ---
 
