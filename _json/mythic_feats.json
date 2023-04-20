@@ -1,36 +1,37 @@
 {
 	"category_name": "mythic feat",
-	"data": {
-		"searchable": [
-			"type",
-			"description",
-			"short_description"
-		],
-		"formats": {
-			"type": "KEYS",
-			"description": "ARRAY_MARKDOWN",
-			"short_description": "STRING"
+	"searchable": [
+		"short_description"
+	],
+	"formats": {
+		"short_description": "STRING"
+	},
+	"standard_properties": [
+		"types",
+		"sources",
+		"prerequisites",
+		"description"
+	],
+	"lookup_shorthands": {
+		"feat": {
+			"_value": "name",
+			"category": "feat",
+			"ability": true
 		},
-		"has_default_properties": [
-			"sources",
-			"prerequisites"
-		],
-		"shorthands": {
-			"feat": {
-				"_value": "name",
-				"category": "feat",
-				"ability": true
-			},
-			"mythic_feat": {
-				"_value": "name",
-				"category": "mythic feat",
-				"ability": true
-			},
-			"mythic_tier": {
-				"score": true,
-				"name": "mythic tier",
-				"_value": "minimum"
-			}
+		"mythic_feat": {
+			"_value": "name",
+			"category": "mythic feat",
+			"ability": true
+		},
+		"mythic_tier": {
+			"score": true,
+			"name": "mythic tier",
+			"_value": "minimum"
+		},
+		"base_attack_bonus": {
+			"score": true,
+			"name": "base attack bonus",
+			"_value": "minimum"
 		}
 	},
 	"list": [
@@ -38,7 +39,7 @@
 			"name": "Accursed Hex",
 			"file": "featdisplay5c9e.html",
 			"sources": [ "Ultimate Magic" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Accursed Hex"
@@ -64,7 +65,7 @@
 			"name": "Acrobatic",
 			"file": "featdisplay7828.html",
 			"sources": [ "PRPG Core Rulebook" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Acrobatic"
@@ -88,7 +89,7 @@
 			"name": "Alertness",
 			"file": "featdisplayb423.html",
 			"sources": [ "PRPG Core Rulebook" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Alertness"
@@ -112,7 +113,7 @@
 			"name": "Alignment Channel",
 			"file": "featdisplay4fca.html",
 			"sources": [ "PRPG Core Rulebook" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Alignment Channel"
@@ -138,7 +139,7 @@
 			"name": "Animal Affinity",
 			"file": "featdisplay6cd8.html",
 			"sources": [ "PRPG Core Rulebook" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Animal Affinity"
@@ -165,7 +166,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Arcane Armor Training"
@@ -195,7 +196,7 @@
 			"name": "Arcane Blast",
 			"file": "featdisplay28ce.html",
 			"sources": [ "Advanced Player's Guide" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Arcane Blast"
@@ -221,7 +222,7 @@
 			"name": "Arcane Shield",
 			"file": "featdisplay1878.html",
 			"sources": [ "Advanced Player's Guide" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Arcane Shield"
@@ -249,7 +250,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Arcane Strike"
@@ -279,7 +280,7 @@
 			"name": "Aspect of the Beast",
 			"file": "featdisplay4110.html",
 			"sources": [ "Advanced Player's Guide" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Aspect of the Beast"
@@ -313,7 +314,7 @@
 			"name": "Athletic",
 			"file": "featdisplay2684.html",
 			"sources": [ "PRPG Core Rulebook" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Athletic"
@@ -337,7 +338,7 @@
 			"name": "Augment Summoning",
 			"file": "featdisplayc78d.html",
 			"sources": [ "PRPG Core Rulebook" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Augment Summoning"
@@ -365,7 +366,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [
+			"types": [
 				"Combat",
 				"Critical"
 			],
@@ -403,7 +404,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Blind-Fight"
@@ -439,7 +440,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Catch Off-Guard"
@@ -472,7 +473,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Channel Smite"
@@ -505,7 +506,7 @@
 				"Advanced Player's Guide",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Charge Through"
@@ -539,7 +540,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Cleave"
@@ -572,7 +573,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Combat Expertise"
@@ -605,7 +606,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Combat Reflexes"
@@ -636,7 +637,7 @@
 			"name": "Command Undead",
 			"file": "featdisplay7844.html",
 			"sources": [ "PRPG Core Rulebook" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Command Undead"
@@ -664,7 +665,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [
+			"types": [
 				"Combat",
 				"Critical"
 			],
@@ -700,7 +701,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [
+			"types": [
 				"Combat",
 				"Critical"
 			],
@@ -738,7 +739,7 @@
 				"Advanced Player's Guide",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Dastardly Finish"
@@ -772,7 +773,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Dazzling Display"
@@ -805,7 +806,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Deadly Aim"
@@ -838,7 +839,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Deadly Stroke"
@@ -871,7 +872,7 @@
 				"Ultimate Combat",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Death from Above"
@@ -900,7 +901,7 @@
 			"name": "Deceitful",
 			"file": "featdisplayc704.html",
 			"sources": [ "PRPG Core Rulebook" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Deceitful"
@@ -924,7 +925,7 @@
 			"name": "Deepsight",
 			"file": "featdisplay2d84.html",
 			"sources": [ "Advanced Player's Guide" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Deepsight"
@@ -953,7 +954,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Defensive Combat Training"
@@ -985,7 +986,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Deflect Arrows"
@@ -1015,7 +1016,7 @@
 			"name": "Deft Hands",
 			"file": "featdisplay113a.html",
 			"sources": [ "PRPG Core Rulebook" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Deft Hands"
@@ -1039,7 +1040,7 @@
 			"name": "Detect Expertise",
 			"file": "featdisplay913e.html",
 			"sources": [ "Ultimate Magic" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Detect Expertise"
@@ -1067,7 +1068,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Disruptive"
@@ -1100,7 +1101,7 @@
 				"Ultimate Combat",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Distance Thrower"
@@ -1135,7 +1136,7 @@
 			"name": "Divine Interference",
 			"file": "featdisplayd862.html",
 			"sources": [ "Ultimate Magic" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Divine Interference"
@@ -1163,7 +1164,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Dodge"
@@ -1196,7 +1197,7 @@
 				"Advanced Player's Guide",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Dreadful Carnage"
@@ -1226,7 +1227,7 @@
 			"name": "Drink Is Life",
 			"file": "featdisplay67d9.html",
 			"sources": [ "Mythic Adventures" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"mythic_tier": 3
@@ -1251,7 +1252,7 @@
 			"name": "Dual Path",
 			"file": "featdisplay1678.html",
 			"sources": [ "Mythic Adventures" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"mythic_tier": 1
@@ -1271,7 +1272,7 @@
 			"name": "Eagle Eyes",
 			"file": "featdisplayd1f1.html",
 			"sources": [ "Advanced Player's Guide" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Eagle Eyes"
@@ -1296,7 +1297,7 @@
 			"name": "Eldritch Heritage",
 			"file": "featdisplayad7c.html",
 			"sources": [ "Ultimate Magic" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Eldritch Heritage"
@@ -1321,7 +1322,7 @@
 			"name": "Elemental Channel",
 			"file": "featdisplayd617.html",
 			"sources": [ "PRPG Core Rulebook" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Elemental Channel"
@@ -1350,7 +1351,7 @@
 				"Advanced Player's Guide",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Elemental Fist"
@@ -1381,7 +1382,7 @@
 			"name": "Elemental Focus",
 			"file": "featdisplay4709.html",
 			"sources": [ "Advanced Player's Guide" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Elemental Focus"
@@ -1409,7 +1410,7 @@
 				"Advanced Player's Guide",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Elven Accuracy"
@@ -1439,7 +1440,7 @@
 			"name": "Endurance",
 			"file": "featdisplayb418.html",
 			"sources": [ "PRPG Core Rulebook" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Endurance"
@@ -1466,7 +1467,7 @@
 			"name": "Eschew Materials",
 			"file": "featdisplay39f8.html",
 			"sources": [ "PRPG Core Rulebook" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Eschew Materials"
@@ -1490,7 +1491,7 @@
 			"name": "Extra Mythic Power",
 			"file": "featdisplay7a2d.html",
 			"sources": [ "Mythic Adventures" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": null,
 			"description": [
 				"Extra Mythic Power",
@@ -1505,7 +1506,7 @@
 			"name": "Extra Path Ability",
 			"file": "featdisplay8f15.html",
 			"sources": [ "Mythic Adventures" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"mythic_tier": 3
@@ -1525,7 +1526,7 @@
 			"name": "Fabulous Figments",
 			"file": "featdisplay2c48.html",
 			"sources": [ "Mythic Adventures" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"description": [
 				"Fabulous Figments",
 				"Source [Mythic Adventures pg. 65](source:Mythic Adventures)",
@@ -1543,7 +1544,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Far Shot"
@@ -1574,7 +1575,7 @@
 			"name": "Fast Empathy",
 			"file": "featdisplayda09-2.html",
 			"sources": [ "Ultimate Magic" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Fast Empathy"
@@ -1600,7 +1601,7 @@
 			"name": "Fire Music",
 			"file": "featdisplaya776.html",
 			"sources": [ "Ultimate Magic" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Fire Music"
@@ -1628,7 +1629,7 @@
 			"name": "Fleet",
 			"file": "featdisplaydce7.html",
 			"sources": [ "PRPG Core Rulebook" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Fleet"
@@ -1657,7 +1658,7 @@
 				"Advanced Player's Guide",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Furious Focus"
@@ -1687,7 +1688,7 @@
 			"name": "Gnome Trickster",
 			"file": "featdisplay8bff.html",
 			"sources": [ "Advanced Player's Guide" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Gnome Trickster"
@@ -1716,7 +1717,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Scorpion Style",
@@ -1747,7 +1748,7 @@
 			"name": "Great Fortitude",
 			"file": "featdisplay51bc.html",
 			"sources": [ "PRPG Core Rulebook" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Great Fortitude"
@@ -1771,7 +1772,7 @@
 			"name": "Guided Hand",
 			"file": "featdisplayab90.html",
 			"sources": [ "Ultimate Combat" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Guided Hand"
@@ -1796,7 +1797,7 @@
 			"name": "Heroic Defiance",
 			"file": "featdisplay7923.html",
 			"sources": [ "Advanced Player's Guide" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Heroic Defiance"
@@ -1822,7 +1823,7 @@
 			"name": "Heroic Recovery",
 			"file": "featdisplayf6af.html",
 			"sources": [ "Advanced Player's Guide" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Heroic Recovery"
@@ -1850,7 +1851,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Improved Bull Rush"
@@ -1882,7 +1883,7 @@
 			"name": "Improved Channel",
 			"file": "featdisplaya91d.html",
 			"sources": [ "PRPG Core Rulebook" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Improved Channel"
@@ -1907,7 +1908,7 @@
 			"name": "Improved Counterspell",
 			"file": "featdisplay9a47.html",
 			"sources": [ "PRPG Core Rulebook" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Improved Counterspell"
@@ -1935,7 +1936,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Improved Critical"
@@ -1970,7 +1971,7 @@
 				"Advanced Player's Guide",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Improved Dirty Trick"
@@ -2005,7 +2006,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Improved Disarm"
@@ -2040,7 +2041,7 @@
 				"Advanced Player's Guide",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Improved Drag"
@@ -2072,7 +2073,7 @@
 			"name": "Improved Familiar",
 			"file": "featdisplay1793.html",
 			"sources": [ "PRPG Core Rulebook" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Improved Familiar"
@@ -2102,7 +2103,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Improved Grapple"
@@ -2137,7 +2138,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Improved Initiative"
@@ -2169,7 +2170,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Improved Overrun"
@@ -2204,7 +2205,7 @@
 				"Advanced Player's Guide",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Improved Reposition"
@@ -2239,7 +2240,7 @@
 				"Advanced Player's Guide",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Improved Steal"
@@ -2271,7 +2272,7 @@
 			"name": "Improved Stonecunning",
 			"file": "featdisplay2e9a.html",
 			"sources": [ "Advanced Player's Guide" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Improved Stonecunning"
@@ -2299,7 +2300,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Improved Sunder"
@@ -2334,7 +2335,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Improved Trip"
@@ -2369,7 +2370,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Improved Unarmed Strike"
@@ -2402,7 +2403,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Intimidating Prowess"
@@ -2431,7 +2432,7 @@
 			"name": "Iron Will",
 			"file": "featdisplayc786.html",
 			"sources": [ "PRPG Core Rulebook" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Iron Will"
@@ -2455,7 +2456,7 @@
 			"name": "Knockout Artist",
 			"file": "featdisplay484e.html",
 			"sources": [ "Ultimate Combat" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Knockout Artist"
@@ -2480,11 +2481,13 @@
 			"name": "Legendary Teamwork",
 			"file": "featdisplay5682.html",
 			"sources": [ "Mythic Adventures" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
-					"feat_type": "Teamwork",
-					"feat_amount": 2
+					"ability": true,
+					"category": "feat",
+					"has_type": "Teamwork",
+					"quantity": 2
 				}
 			],
 			"description": [
@@ -2501,7 +2504,7 @@
 			"name": "Lightning Reflexes",
 			"file": "featdisplay7b12.html",
 			"sources": [ "PRPG Core Rulebook" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Lightning Reflexes"
@@ -2528,7 +2531,7 @@
 				"Advanced Player's Guide",
 				"Dark Markets - A Guide to Katapesh"
 			],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Lucky Halfling"
@@ -2553,7 +2556,7 @@
 			"name": "Lucky Surge",
 			"file": "featdisplaybef8.html",
 			"sources": [ "Mythic Adventures" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"mythic_feat": "Potent Surge",
@@ -2577,7 +2580,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Lunge"
@@ -2607,7 +2610,7 @@
 			"name": "Magical Aptitude",
 			"file": "featdisplay05b0.html",
 			"sources": [ "PRPG Core Rulebook" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Magical Aptitude"
@@ -2634,7 +2637,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Manyshot"
@@ -2664,7 +2667,7 @@
 			"name": "Maximize Surge",
 			"file": "featdisplay7c3b.html",
 			"sources": [ "Mythic Adventures" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"mythic_tier": 6
@@ -2688,7 +2691,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Gorgon's Fist",
@@ -2722,7 +2725,7 @@
 				"Advanced Player's Guide",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Missile Shield"
@@ -2755,7 +2758,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Mobility"
@@ -2789,7 +2792,7 @@
 				"Ultimate Combat",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Monastic Legacy"
@@ -2822,7 +2825,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Mounted Archery"
@@ -2855,7 +2858,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Mounted Combat"
@@ -2885,7 +2888,7 @@
 			"name": "Mythic Paragon",
 			"file": "featdisplay4f78.html",
 			"sources": [ "Mythic Adventures" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": null,
 			"description": [
 				"Mythic Paragon",
@@ -2900,7 +2903,7 @@
 			"name": "Natural Spell",
 			"file": "featdisplaybba2.html",
 			"sources": [ "PRPG Core Rulebook" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Natural Spell"
@@ -2926,7 +2929,7 @@
 			"name": "Nimble Moves",
 			"file": "featdisplayc15b.html",
 			"sources": [ "PRPG Core Rulebook" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Nimble Moves"
@@ -2954,7 +2957,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Penetrating Strike"
@@ -2984,7 +2987,7 @@
 			"name": "Persuasive",
 			"file": "featdisplaye71e.html",
 			"sources": [ "PRPG Core Rulebook" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Persuasive"
@@ -3011,7 +3014,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Pinpoint Targeting"
@@ -3044,7 +3047,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Point-Blank Shot"
@@ -3073,7 +3076,7 @@
 			"name": "Potent Surge",
 			"file": "featdisplayf752.html",
 			"sources": [ "Mythic Adventures" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": null,
 			"description": [
 				"Potent Surge",
@@ -3091,7 +3094,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Power Attack"
@@ -3122,7 +3125,7 @@
 			"name": "Powerful Shape",
 			"file": "featdisplaya7ca.html",
 			"sources": [ "Ultimate Magic" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Powerful Shape"
@@ -3148,7 +3151,7 @@
 			"name": "Prophetic Visionary",
 			"file": "featdisplay6d03.html",
 			"sources": [ "Ultimate Magic" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Prophetic Visionary"
@@ -3176,7 +3179,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Quick Draw"
@@ -3207,7 +3210,7 @@
 			"name": "Racial Heritage",
 			"file": "featdisplay04bd-2.html",
 			"sources": [ "Advanced Player's Guide" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Racial Heritage"
@@ -3237,7 +3240,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Rapid Reload"
@@ -3273,7 +3276,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Rapid Shot"
@@ -3303,7 +3306,7 @@
 			"name": "Rhetorical Flourish",
 			"file": "featdisplayacdb.html",
 			"sources": [ "Ultimate Combat" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Rhetorical Flourish"
@@ -3333,7 +3336,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Ride-By Attack"
@@ -3363,7 +3366,7 @@
 			"name": "Run",
 			"file": "featdisplay1c6f.html",
 			"sources": [ "PRPG Core Rulebook" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Run"
@@ -3392,7 +3395,7 @@
 				"Advanced Player's Guide",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Saving Shield"
@@ -3425,7 +3428,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Scorpion Style"
@@ -3455,7 +3458,7 @@
 			"name": "Selective Channeling",
 			"file": "featdisplay29d7.html",
 			"sources": [ "PRPG Core Rulebook" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Selective Channeling"
@@ -3481,7 +3484,7 @@
 			"name": "Self-Sufficient",
 			"file": "featdisplay63ea.html",
 			"sources": [ "PRPG Core Rulebook" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Self-Sufficient"
@@ -3508,7 +3511,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Shatter Defenses"
@@ -3541,7 +3544,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Shield Focus"
@@ -3574,7 +3577,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Shield Slam"
@@ -3607,7 +3610,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Shot on the Run"
@@ -3638,7 +3641,7 @@
 			"name": "Skill Focus",
 			"file": "featdisplay6233.html",
 			"sources": [ "PRPG Core Rulebook" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Skill Focus"
@@ -3667,7 +3670,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Snatch Arrows"
@@ -3698,7 +3701,7 @@
 			"name": "Sociable",
 			"file": "featdisplay993f-2.html",
 			"sources": [ "Advanced Player's Guide" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Sociable"
@@ -3723,7 +3726,7 @@
 			"name": "Spell Focus",
 			"file": "featdisplay08ea.html",
 			"sources": [ "PRPG Core Rulebook" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Spell Focus"
@@ -3749,7 +3752,7 @@
 			"name": "Spell Mastery",
 			"file": "featdisplaybc72.html",
 			"sources": [ "PRPG Core Rulebook" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Spell Mastery"
@@ -3775,7 +3778,7 @@
 			"name": "Spell Penetration",
 			"file": "featdisplayd0d6.html",
 			"sources": [ "PRPG Core Rulebook" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Spell Penetration"
@@ -3802,7 +3805,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Spellbreaker"
@@ -3837,7 +3840,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Spirited Charge"
@@ -3867,7 +3870,7 @@
 			"name": "Spontaneous Metafocus",
 			"file": "featdisplay75b7.html",
 			"sources": [ "Ultimate Magic" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Spontaneous Metafocus"
@@ -3897,7 +3900,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Spring Attack"
@@ -3928,7 +3931,7 @@
 			"name": "Stealthy",
 			"file": "featdisplay01e0.html",
 			"sources": [ "PRPG Core Rulebook" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Stealthy"
@@ -3955,7 +3958,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Strike Back"
@@ -3985,7 +3988,7 @@
 			"name": "Strong Comeback",
 			"file": "featdisplayc22f.html",
 			"sources": [ "Ultimate Combat" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Strong Comeback"
@@ -4012,7 +4015,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Stunning Fist"
@@ -4046,7 +4049,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Throw Anything"
@@ -4076,7 +4079,7 @@
 			"name": "Titan Strike",
 			"file": "featdisplayf975.html",
 			"sources": [ "Mythic Adventures" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"mythic_feat": "Improved Unarmed Strike"
@@ -4096,7 +4099,7 @@
 			"name": "Toughness",
 			"file": "featdisplay1698.html",
 			"sources": [ "PRPG Core Rulebook" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Toughness"
@@ -4123,7 +4126,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Trample"
@@ -4156,7 +4159,7 @@
 				"Ultimate Magic",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Tripping Staff"
@@ -4187,7 +4190,7 @@
 			"name": "Turn Undead",
 			"file": "featdisplay3841.html",
 			"sources": [ "PRPG Core Rulebook" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Turn Undead"
@@ -4213,7 +4216,7 @@
 			"name": "Two-Fisted Drinker",
 			"file": "featdisplay29d6.html",
 			"sources": [ "Mythic Adventures" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Quick Draw"
@@ -4236,7 +4239,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Two-Weapon Defense"
@@ -4269,7 +4272,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Two-Weapon Fighting"
@@ -4303,7 +4306,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Two-Weapon Rend"
@@ -4333,7 +4336,7 @@
 			"name": "Undead Master",
 			"file": "featdisplay5378.html",
 			"sources": [ "Ultimate Magic" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Undead Master"
@@ -4361,7 +4364,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Unseat"
@@ -4391,17 +4394,22 @@
 			"name": "Valiant Vault",
 			"file": "featdisplayfc18.html",
 			"sources": [ "Mythic Adventures" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
-					"feat_all": [
+					"score": true,
+					"category": "skill",
+					"name":  "Ride",
+					"has_tag": "skill:ranks",
+					"minimum": 5
+				},
+				{
+					"ability": true,
+					"category": "feat",
+					"name_all": [
 						"Mounted Combat",
 						"Ride-By Attack"
 					]
-				},
-				{
-					"skill": "Ride",
-					"ranks": 5
 				}
 			],
 			"description": [
@@ -4422,7 +4430,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Vital Strike"
@@ -4453,7 +4461,7 @@
 			"name": "Voice of the Sibyl",
 			"file": "featdisplay6176.html",
 			"sources": [ "Ultimate Magic" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Voice of the Sibyl"
@@ -4478,7 +4486,7 @@
 			"name": "Warrior Priest",
 			"file": "featdisplay9331.html",
 			"sources": [ "Ultimate Magic" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Warrior Priest"
@@ -4506,7 +4514,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Weapon Finesse"
@@ -4539,7 +4547,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Weapon Focus"
@@ -4574,7 +4582,7 @@
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
-			"type": [ "Combat" ],
+			"types": [ "Combat" ],
 			"prerequisites": [
 				{
 					"feat": "Weapon Specialization"
@@ -4606,7 +4614,7 @@
 			"name": "Witch Knife",
 			"file": "featdisplay6b87.html",
 			"sources": [ "Ultimate Magic" ],
-			"type": [ "General" ],
+			"types": [ "General" ],
 			"prerequisites": [
 				{
 					"feat": "Witch Knife"

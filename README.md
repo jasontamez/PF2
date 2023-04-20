@@ -34,12 +34,13 @@
 }
 ```
 
-`LookupObject` - An object with properties describing certain non-standard lookups that may be used
+`ShorthandLookupObject` - An object with properties describing certain non-standard lookups that may be used; a `"_value"` or `"_value_map"` property is required
 
 ```json
 {
   "lookup1": {
-    "_value": STRING // The lookup property this shorthand's value will map to
+    "_value": STRING, // A lookup property; when the shorthand is called, it's value will be mapped to that property
+    "_value_map": ARRAY_STRING // An Array of lookup properties; when the shorthand is called, it will map the incoming array to the listed properties in order
     // (other lookup properties should be included; they will be included in the lookup whenever this shorthand is used)
   }
 }
@@ -99,7 +100,7 @@ Becomes equal to this:
 
 `"searchable_properties": FormatObject` - An object declaring any non-standard properties the `Values` have that may be searched for by an end-user
 
-`"lookup_shorthands": LookupObject` - An object declaring all shorthand lookup properties the `Values` may use
+`"lookup_shorthands": ARRAY_ShorthandLookupObject` - An object declaring all shorthand lookup properties the `Values` may use
 
 ---
 
@@ -120,6 +121,9 @@ Becomes equal to this:
   * `"score": true` - Looking for a score
 
 * **Global properties**
+  * `"find": LookupObject` - A generic "wrapper", to combine a Lookup with other operations (e.g. `"quantity"` below)
+  * `"find_any": ARRAY_LookupObject` - As above, but only one included `LookupObject` needs to match
+  * `"find_all": ARRAY_LookupObject` - As above, but **all** included `LookupObjects` need to match
   * `"name": STRING` - Looking for something with the specific name
   * `"name_any": ARRAY_STRING` - Looking for any of the listed names
   * `"name_all": ARRAY_STRING` - Looking for **all** of the listed names
@@ -130,6 +134,7 @@ Becomes equal to this:
   * `"has_tag": STRING` - Looking for something that has the listed tag
   * `"has_tag_any": ARRAY_STRING` - Looking for something that has any of the listed tags
   * `"has_tag_all": ARRAY_STRING` - Looking for something that has **all** of the listed tags
+  * `"quantity": INTEGER` - Looking for at least the indicated number of separate things
 
 * **Ability properties**
   * `"category": STRING` - Looking for an ability with the listed category
@@ -140,6 +145,15 @@ Becomes equal to this:
   * `"maximum": NUMBER` - Looking for a value equal to or less than the given number
   * `"exact": NUMBER` - Looking for a value equal to the given number
   * `"exact_any": ARRAY_NUMBER` - Looking for a value equal to any of the given numbers
+
+---
+
+## Bestow tags?
+
+* `"bestow_tag": STRING`
+* `"bestow_tags": ARRAY_STRING`
+* `"bestow_type": STRING`
+* `"bestow_types": ARRAY_STRING`
 
 ---
 
