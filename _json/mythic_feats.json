@@ -1,11 +1,5 @@
 {
 	"category_name": "mythic feat",
-	"searchable": [
-		"short_description"
-	],
-	"formats": {
-		"short_description": "STRING"
-	},
 	"standard_properties": [
 		"types",
 		"sources",
@@ -57,9 +51,7 @@
 				"Your hexes flare with persistent potency.",
 				"**Prerequisites:** [Accursed Hex.](unknown:Accursed Hex.)",
 				"**Benefit:** When you use Accursed Hex to target a creature with one of your hexes a second time, that creature must roll its saving throw twice and take the lower result."
-			],
-			"short_description": "Target a creature with a hex a second time that day if it made its save the first time",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Acrobatic",
@@ -81,9 +73,7 @@
 				"Your grace and fluidity are beyond compare.",
 				"**Prerequisites:** [Acrobatic.](unknown:Acrobatic.)",
 				"**Benefit:** The bonus on Acrobatics and Fly skill checks from Acrobatic increases by 2. In addition, you can expend one use of mythic power to treat an Acrobatics or Fly check as if you had rolled a natural 20. You must decide to use this ability before making the roll."
-			],
-			"short_description": "+2 bonus on Acrobatics and Fly checks",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Alertness",
@@ -105,9 +95,7 @@
 				"Your powers of perception surpass everyone's, whether used to observe your surroundings or the intentions of others.",
 				"**Prerequisites:** [Alertness.](unknown:Alertness.)",
 				"**Benefit:** The bonus on Perception and Sense Motive skill checks from Alertness increases by 2. In addition, you can expend one use of mythic power to treat a Perception or Sense Motive check as if you had rolled a natural 20. You must decide to use this ability before making the roll."
-			],
-			"short_description": "+2 bonus on Perception and Sense Motive checks",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Alignment Channel",
@@ -131,9 +119,7 @@
 				"The power of your faith harms all creatures that follow the alignment you abhor.",
 				"**Prerequisites:** [Alignment Channel.](unknown:Alignment Channel.)",
 				"**Benefit:** Your channeled energy affects any creatures with the alignment chosen when you took Alignment Channel (not just outsiders, and not just those with the alignment subtype), but grants only half healing or deals only half damage to these targets. Alternatively, you can expend two uses of mythic power when using Alignment Channel to affect all targets of the chosen alignment as if they had that alignment subtype."
-			],
-			"short_description": "Channel energy can heal or harm outsiders",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Animal Affinity",
@@ -155,9 +141,7 @@
 				"You have a greater affinity with wild animals, and can speak with them.",
 				"**Prerequisites:** [Animal Affinity.](unknown:Animal Affinity.)",
 				"**Benefit:** The bonus on Handle Animal and Ride skill checks from Animal Affinity increases by 2. In addition, you can expend one use of mythic power to speak with animals as the spell. Your caster level for this effect is equal to twice your tier."
-			],
-			"short_description": "+2 bonus on Handle Animal and Ride checks",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Arcane Armor Training",
@@ -186,11 +170,7 @@
 				"You've adapted your spellcasting to overcome limitations of wearing armor.",
 				"**Prerequisites:** [Arcane Armor Training.](unknown:Arcane Armor Training.)",
 				"**Benefit:** You don't have to spend a swift action to gain the reduction to arcane spell failure chance from Arcane Armor Training. Furthermore, if you're wearing light armor, reduce your arcane spell failure chance by 20%."
-			],
-			"short_description": "Reduce your arcane spell failure chance by 10%",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstaminafc86.html",
-			"combat_trick_description": "When casting a spell while wearing armor, you can spend 1 stamina point to activate Arcane Armor Training as a free action."
+			]
 		},
 		{
 			"name": "Arcane Blast",
@@ -214,9 +194,7 @@
 				"**Prerequisites:** [Arcane Blast.](unknown:Arcane Blast.)",
 				"**Benefit:** When you use Arcane Blast, you may halve the damage dice to also perform your choice of either a trip or bull rush combat maneuver against the target of the blast. You can't move with an opponent you bull rush with this feat. You gain a bonus on your combat maneuver check for this attempt equal to half the spell level of the spell you sacrificed when using Arcane Blast, and you can substitute your Intelligence or Charisma modifier in place of your Strength modifier when determining your combat maneuver bonus.",
 				"In addition, you can expend one use of mythic power to change the damage dice of your Arcane Blast to d8s instead of d6s."
-			],
-			"short_description": "Sacrifice a spell to make a ray attack",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Arcane Shield",
@@ -239,9 +217,7 @@
 				"You sculpt spells into a powerful, enduring arcane barriers.",
 				"**Prerequisites:** [Arcane Shield.](unknown:Arcane Shield.)",
 				"**Benefit:** You add half your tier to the def lection bonus granted to your AC when you use your Arcane Shield. You can expend one use of mythic power when using this feat to extend the duration to a number of rounds equal to your tier."
-			],
-			"short_description": "Sacrifice a spell to gain deflection bonus to AC",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Arcane Strike",
@@ -270,11 +246,7 @@
 				"Using your amazing arcane talents, you can deliver devastating blows infused with magical energy.",
 				"**Prerequisites:** [Arcane Strike.](unknown:Arcane Strike.)",
 				"**Benefit:** Whenever you use Arcane Strike to enhance your weapons, the effect lasts for 1 minute instead of 1 round. If you expend one use of mythic power when using Arcane Strike, you can also add any one magic weapon special ability with a base price modifier of +1 to your weapons. This base price modifier increases to +2 at 4th tier, +3 at 7th tier, and +4 at 10th tier."
-			],
-			"short_description": "+1 damage and weapons are considered magic",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstamina5a25.html",
-			"combat_trick_description": "You can spend any number of stamina points to increase the duration of this feat's effects by 1 round for each stamina point spent."
+			]
 		},
 		{
 			"name": "Aspect of the Beast",
@@ -306,9 +278,7 @@
 				"Mythic Claws (Ex): You grow a pair of powerful claws. These claws are primary attacks that deal 1d4 points of damage (1d3 if you're Small). If you already have claws, the damage they deal increases by one die type (d4s become d6s, d3s become d4s, and so on). You can expend one use of mythic power when you hit with both claws during the same round to rend with those claws, dealing extra damage equal to one claw's damage plus 1-1/2 times your Strength bonus.",
 				"Mythic Leap (Ex): You can make a running jump without needing to run 10 feet beforehand. In addition, you gain a +5 bonus on your Acrobatics checks to determine the success of that jump and the distance covered. If you already have the predator's leap manifestation of Aspect of the Beast, the bonus on your Acrobatics checks increases to +10.",
 				"Mythic Instinct (Ex): You gain a +2 bonus on initiative checks and a +2 bonus on Survival checks. These bonuses stack with those gained from the wild instinct manifestation of Aspect of the Beast."
-			],
-			"short_description": "Gain one of four bestial advantages",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Athletic",
@@ -330,9 +300,7 @@
 				"You excel far beyond others at acts of physical prowess.",
 				"**Prerequisites:** [Athletic.](unknown:Athletic.)",
 				"**Benefit:** The bonus on Climb and Swim skill checks from Athletic increases by 2. In addition, you can expend one use of mythic power to treat a Climb or Swim check as if you had rolled a natural 20. You must decide to use this ability before making the roll."
-			],
-			"short_description": "+2 bonus on Climb and Swim checks",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Augment Summoning",
@@ -355,9 +323,7 @@
 				"Your summoning spells bring not mere ordinary beasts, but instead mythic creatures.",
 				"**Prerequisites:** [Augment Summoning.](unknown:Augment Summoning.)",
 				"**Benefit:** Any creature you summon using a summon spell is considered mythic for the purpose of interacting with other mythic creatures. It doesn't gain any mythic abilities or power, but is affected by mythic spells and abilities as if it were a 1st-tier mythic creature. Additionally, if the creature summoned has damage reduction, its damage reduction becomes DR/epic."
-			],
-			"short_description": "Summoned creatures gain +4 Str and Con",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Bleeding Critical",
@@ -391,11 +357,7 @@
 				"**Prerequisites:** [Bleeding Critical](unknown:Bleeding Critical), [Critical Focus (mythic).](unknown:Critical Focus (mythic).)",
 				"**Benefit:** The bleed damage dealt with Bleeding Critical increases by your tier. Stopping this bleed damage requires a Heal check with a DC equal to 15 + 1/2 your tier. Any magical healing ends the bleed damage normally.",
 				"You can expend one use of mythic power to deal 1 Con bleed, in addition to the hit point bleed damage you deal with this feat. This effect increases by 1 for each additional use of mythic power you expend."
-			],
-			"short_description": "Whenever you score a critical hit, the target takes 2d6 bleed",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstamina2b2f.html",
-			"combat_trick_description": "When you deal bleed damage with this feat, you can spend up to 3 stamina points to increase the amount of bleed damage dealt by double the number of stamina points you spent."
+			]
 		},
 		{
 			"name": "Blind-Fight",
@@ -427,11 +389,7 @@
 				"No creature can avoid your preternatural senses.",
 				"**Prerequisites:** [Blind-Fight.](unknown:Blind-Fight.)",
 				"**Benefit:** As a swift action, you can expend one use of mythic power to ignore all miss chances due to concealment or total concealment for a number of rounds equal to your tier."
-			],
-			"short_description": "Reroll miss chances for concealment",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstamina1707.html",
-			"combat_trick_description": "Once per round, when you hit a creature that benefits from concealment, you can spend 2 stamina points to ignore the miss chance from that creature's concealment until the end of your next turn."
+			]
 		},
 		{
 			"name": "Catch Off-Guard",
@@ -460,11 +418,7 @@
 				"In your hands, anything is a deadly weapon.",
 				"**Prerequisites:** [Catch Off-Guard.](unknown:Catch Off-Guard.)",
 				"**Benefit:** The damage dealt when you use improvised weapons increases by your tier. You also gain a bonus to CMD equal to your tier when an opponent attempts to sunder or disarm an improvised weapon you're wielding."
-			],
-			"short_description": "No penalties for improvised melee weapons",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstaminabeb7.html",
-			"combat_trick_description": "When making an attack with an improvised weapon against an armed opponent, you can spend 5 stamina points. If you do, the target is considered flat-footed during that attack. An opponent who recognizes you and has seen you use Catch Off-Guard in this way is immune to this effect."
+			]
 		},
 		{
 			"name": "Channel Smite",
@@ -493,11 +447,7 @@
 				"Your weapon a conduit of divine energy.",
 				"**Prerequisites:** [Channel Smite.](unknown:Channel Smite.)",
 				"**Benefit:** When using Channel Smite, you gain a bonus on your attack roll equal to the number of d6s granted by your channel energy class feature. This is either a sacred bonus (if channeling positive energy) or a profane bonus (if channeling negative energy). If your attack misses the target, you can expend one use of mythic power as a free action to release the channeled energy, producing the normal effects of your channel energy class feature centered on the creature you were attempting to smite."
-			],
-			"short_description": "Channel energy through your attack",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstamina1d44.html",
-			"combat_trick_description": "When making an attack using this feat, you can spend a number of stamina points up to the number of dice in your channel energy. For each stamina point you spend in this way, add an additional 1d6 points of positive or negative energy damage to your Channel Smite attack. This damage is also halved if the target succeeds at its Will save against the Channel Smite attack."
+			]
 		},
 		{
 			"name": "Charge Through",
@@ -527,11 +477,7 @@
 				"You can plow through those who stand between you and the target of your charge.",
 				"**Prerequisites:** [Charge Through.](unknown:Charge Through.)",
 				"**Benefit:** When charging, you can ignore allies in your path when determining whether or not you can charge your target. Furthermore, after you have attempted at least one overrun with Charge Through, you can expend one use of mythic power as a free action to attempt another overrun against a different opponent in the path of the same charge."
-			],
-			"short_description": "Make overrun as free action while charging",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstamina8bdb.html",
-			"combat_trick_description": "When you attempt and fail to overrun a creature in the path of your charge, you can spend 5 stamina points to finish your charge against that creature instead of losing your charge."
+			]
 		},
 		{
 			"name": "Cleave",
@@ -560,11 +506,7 @@
 				"You can cleave any foe within your reach.",
 				"**Prerequisites:** [Cleave.](unknown:Cleave.)",
 				"**Benefit:** Whenever you use Cleave or Great Cleave, one of your attacks can be made against a foe that is within your reach, but not adjacent to the foe you attacked. You can expend one use of mythic power when you use Cleave or Great Cleave to continue making attacks against foes within your reach, regardless of their position, as long as you continue to hit each foe. You can't use this ability to attack a foe more than once per round."
-			],
-			"short_description": "Make an additional attack if the first one hits",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstamina9b9b.html",
-			"combat_trick_description": "When using the Cleave or Great Cleave feat, you can spend 4 stamina points to negate the -2 penalty to Armor Class until your next turn."
+			]
 		},
 		{
 			"name": "Combat Expertise",
@@ -593,11 +535,7 @@
 				"You can dart out of the way of attacks with skill and defiance.",
 				"**Prerequisites:** [Combat Expertise.](unknown:Combat Expertise.)",
 				"**Benefit:** Whenever you use Combat Expertise, you gain an additional +2 dodge bonus to your Armor Class. You can expend one use of mythic power to negate the penalties on melee attack rolls and combat maneuver checks caused by using Combat Expertise for 1 minute."
-			],
-			"short_description": "Trade attack bonus for AC bonus",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstamina898f.html",
-			"combat_trick_description": "You can select this feat even if you don't meet the ability score prerequisite (Intelligence 13). You gain the benefit of this feat only as long as you have at least 1 stamina point in your stamina pool. If you spend stamina points to raise an attack roll using the Combat Stamina feat's benefits, ignore an amount of your Combat Expertise penalty equal to the number of stamina points you spent."
+			]
 		},
 		{
 			"name": "Combat Reflexes",
@@ -627,11 +565,7 @@
 				"You strike viciously whenever your foe gives you an opening.",
 				"**Prerequisites:** [Combat Reflexes.](unknown:Combat Reflexes.)",
 				"**Benefit:** You can make any number of additional attacks of opportunity per round. As a swift action, you can expend one use of mythic power to, until the start of your next turn, make attacks of opportunity against foes you've already made attacks of opportunity against this round if they provoke attacks of opportunity from you by moving."
-			],
-			"short_description": "Make additional attacks of opportunity",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstamina450c.html",
-			"combat_trick_description": "When you miss with an attack of opportunity, you can spend 5 stamina points to make a second attack for the same provoking action. That second attack of opportunity takes a -5 penalty on the attack roll and costs one of your attacks of opportunity for the round."
+			]
 		},
 		{
 			"name": "Command Undead",
@@ -654,9 +588,7 @@
 				"Your control of the undead is nearly absolute.",
 				"**Prerequisites:** [Command Undead.](unknown:Command Undead.)",
 				"**Benefit:** When you command undead, the DC of the Will save increases by half your tier, and intelligent undead get no additional saves beyond their first to resist your commands. Any attempts by non-mythic creatures to control undead you command automatically fail, and you gain a +4 bonus on Charisma checks to prevent mythic creatures from stealing control of your undead."
-			],
-			"short_description": "Channel energy can be used to control undead",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Critical Focus",
@@ -688,11 +620,7 @@
 				"Your blows unerringly find your target's vital spots.",
 				"**Prerequisites:** [Critical Focus.](unknown:Critical Focus.)",
 				"**Benefit:** You automatically confirm critical threats against non-mythic opponents. In addition, when you threaten a critical hit against a creature wearing armor with the fortification special ability or similar effect, that creature must roll twice and take the worse result when determining critical hit negation."
-			],
-			"short_description": "+4 bonus on attack rolls made to confirm critical hits",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstamina373e.html",
-			"combat_trick_description": "If your successful critical confirmation roll is a natural 19 or 20, you can spend 2 stamina points to roll another confirmation roll. If this confirmation roll also succeeds, increase your critical multiplier by 1 for this attack, and you can roll again. If you continue to roll 19 or 20, you can continue to spend stamina points for additional rolls, and the increases to the critical multiplier stack."
+			]
 		},
 		{
 			"name": "Critical Mastery",
@@ -726,11 +654,7 @@
 				"Your critical hits are versatile and devastating.",
 				"**Prerequisites:** [Critical Focus (mythic)](unknown:Critical Focus (mythic)), [Critical Mastery.](unknown:Critical Mastery.)",
 				"**Benefit:** When using Critical Mastery, increase the number of critical feats you may apply by every 3 tiers that you possess."
-			],
-			"short_description": "Apply two effects to your critical hits",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstamina00ce.html",
-			"combat_trick_description": "When you confirm a critical hit, instead of applying the effects of two critical feats you possess, you can spend 2 stamina points to apply the effect of any one critical feat you don't possess (but for which you qualify)."
+			]
 		},
 		{
 			"name": "Dastardly Finish",
@@ -760,11 +684,7 @@
 				"You strike downed, dazed, and staggered opponents with deadly efficiency.",
 				"**Prerequisites:** [Dastardly Finish.](unknown:Dastardly Finish.)",
 				"**Benefit:** You can deliver a coup de grace to dazed and staggered non-mythic opponents. In addition, when any creature makes a Fortitude saving throw to survive one of your coup de grace attempts, it takes a penalty to that saving throw equal to your tier."
-			],
-			"short_description": "Deliver coup de grace to cowering or stunned target",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstamina6e58.html",
-			"combat_trick_description": "You can spend 10 stamina points to deliver a coup de grace against two helpless, cowering, or stunned targets within your reach as a fullround action. This provokes attacks of opportunity twice-one for each coup de grace."
+			]
 		},
 		{
 			"name": "Dazzling Display",
@@ -793,11 +713,7 @@
 				"You can quickly deter others with your martial mastery.",
 				"**Prerequisites:** [Dazzling Display.](unknown:Dazzling Display.)",
 				"**Benefit:** While wielding the weapon with which you have Weapon Focus, you can use Dazzling Display as a standard action with a -5 penalty on your Intimidate check, as a move action with a -10 penalty, or as a swift action with a -20 penalty. You can expend one use of mythic power when you make a Dazzling Display to make those affected by the display frightened rather than shaken."
-			],
-			"short_description": "Intimidate all foes within 30 feet",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstaminab049.html",
-			"combat_trick_description": "When wielding a melee weapon with which you have Weapon Focus, you can make a single melee attack as a standard action against a foe. If the attack hits, you can select any number of foes within 30 feet who saw the attack, including that foe. Spend 2 stamina points per foe you have selected, then attempt an Intimidate check to demoralize those foes."
+			]
 		},
 		{
 			"name": "Deadly Aim",
@@ -826,11 +742,7 @@
 				"Your aim is truly devastating.",
 				"**Prerequisites:** [Deadly Aim.](unknown:Deadly Aim.)",
 				"**Benefit:** When you use Deadly Aim, you gain a +3 bonus on ranged damage rolls instead of +2. When your base attack bonus reaches +4, and every +4 thereafter, the bonus on ranged damage rolls increases by +3 rather than +2."
-			],
-			"short_description": "Trade ranged attack bonus for damage",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstaminad074.html",
-			"combat_trick_description": "When using this feat, you can spend 4 stamina points to reduce the penalty to attack rolls imposed by the feat by 1 until the beginning of your next turn. You can't reduce the penalty below 0."
+			]
 		},
 		{
 			"name": "Deadly Stroke",
@@ -859,11 +771,7 @@
 				"You can kill with a single stroke.",
 				"**Prerequisites:** [Deadly Stroke.](unknown:Deadly Stroke.)",
 				"**Benefit:** When making a Deadly Stroke attack, you can expend one use of mythic power to instantly kill a nonmythic living creature. A Fortitude save (DC 10 + your base attack bonus + your tier) negates this effect, though the attack still deals double damage and Con bleed as Deadly Stroke. Constructs, oozes, and creatures immune to critical hits or precision-based damage can't be killed with this feat."
-			],
-			"short_description": "Deal double damage plus 1 Con bleed",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstaminae227.html",
-			"combat_trick_description": "You can spend 5 stamina points to make a Deadly Stroke attack against a dazed opponent, or 10 stamina points to make a Deadly Stroke against an opponent you are flanking."
+			]
 		},
 		{
 			"name": "Death from Above",
@@ -891,11 +799,7 @@
 				"When attacking from the air or higher ground, you bear down on your enemy to deadly effect.",
 				"**Prerequisites:** [Death from Above.](unknown:Death from Above.)",
 				"**Benefit:** Whenever you charge an opponent from higher ground, or from above while flying, the critical multiplier of your weapon increases by 2 (to a maximum of x6). This doesn't stack with other abilities that increase a weapon's critical multiplier. If your charge attack hits, you can perform a trip combat maneuver against the attack's target as a free action without provoking attacks of opportunity."
-			],
-			"short_description": "Gain +5 bonus on attack rolls when charging from higher ground or flying",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstamina4d14.html",
-			"combat_trick_description": "When charging an opponent from higher ground or from above while flying, you can spend 4 stamina points to gain a +5 bonus on the damage roll, and also retain the bonuses from charging and being on higher ground."
+			]
 		},
 		{
 			"name": "Deceitful",
@@ -917,9 +821,7 @@
 				"Your power to mislead is beyond compare.",
 				"**Prerequisites:** [Deceitful.](unknown:Deceitful.)",
 				"**Benefit:** The bonus on Bluff and Disguise skill checks from Deceitful increases by 2. In addition, you can expend one use of mythic power to treat a Bluff or Disguise check as if you had rolled a natural 20. You must decide to use this ability before making the roll."
-			],
-			"short_description": "+2 bonus on Bluff and Disguise checks",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Deepsight",
@@ -943,9 +845,7 @@
 				"Your sharp eyes can penetrate deeper into the darkness, revealing more to you.",
 				"**Prerequisites:** [Deepsight.](unknown:Deepsight.)",
 				"**Benefit:** The range of your darkvision increases by 10 feet per tier."
-			],
-			"short_description": "Your darkvision has a range of 120 feet",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Defensive Combat Training",
@@ -973,11 +873,7 @@
 				"Your defensive capabilities in combat are unmatched.",
 				"**Prerequisites:** [Defensive Combat Training](unknown:Defensive Combat Training), 4th mythic tier.",
 				"**Benefit:** Add half your tier to your CMD."
-			],
-			"short_description": "Use your total Hit Dice as your base attack bonus for CMD",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstamina05b1.html",
-			"combat_trick_description": "When targeted with a combat maneuver, you can spend any number of stamina points to gain a bonus to your CMD equal to the number of stamina points you spent."
+			]
 		},
 		{
 			"name": "Deflect Arrows",
@@ -1006,11 +902,7 @@
 				"You deflect projectiles and ray spells with uncanny skill.",
 				"**Prerequisites:** [Deflect Arrows.](unknown:Deflect Arrows.)",
 				"**Benefit:** When using Deflect Arrows, you can def lect an additional number of ranged attacks per round equal to half your tier. You can expend one use of mythic power as an immediate action to def lect a single ray from a ray spell or effect targeting you."
-			],
-			"short_description": "Avoid one ranged attack per round",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstamina21ab.html",
-			"combat_trick_description": "You can spend 5 stamina points to deflect an arrow while you're flat-footed. You must still be aware of the attack."
+			]
 		},
 		{
 			"name": "Deft Hands",
@@ -1032,9 +924,7 @@
 				"Your hands are astonishingly nimble.",
 				"**Prerequisites:** [Deft Hands.](unknown:Deft Hands.)",
 				"**Benefit:** The bonus on Disable Device and Sleight of Hand skill checks from Deft Hands increases by 2. In addition, you can expend one use of mythic power to treat a Disable Device or Sleight of Hand check as if you had rolled a natural 20. You must decide to use this ability before making the roll."
-			],
-			"short_description": "+2 bonus on Disable Device and Sleight of Hand checks",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Detect Expertise",
@@ -1057,9 +947,7 @@
 				"You can sense a creature's magical abilities with just a mere glance.",
 				"**Prerequisites:** [Detect Expertise.](unknown:Detect Expertise.)",
 				"**Benefit:** You gain the benefit of Detect Expertise immediately (without needing to observe a creature for 3 rounds) when using the divinations listed in Detect Expertise. Non-mythic creatures cannot attempt a Will save to resist this effect."
-			],
-			"short_description": "Detect a creature's magical abilities",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Disruptive",
@@ -1088,11 +976,7 @@
 				"You're a master at disrupting nearby spellcasters.",
 				"**Prerequisites:** [Disruptive.](unknown:Disruptive.)",
 				"**Benefit:** The DC to cast spells defensively within your threatened area increases by half your tier. This stacks with the increase granted by Disruptive. In addition, even if you can't make attacks of opportunity, non-mythic spellcasters are still wary of you and continue to suffer from the effects of Disruptive."
-			],
-			"short_description": "Increases the DC to cast spells adjacent to you",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstaminaa5f9.html",
-			"combat_trick_description": "When you use your last attack of opportunity available to you in a round, you can spend 2 stamina points to extend the duration of this feat's increase to DCs for enemies casting defensively within your threatened area until the start of your next turn."
+			]
 		},
 		{
 			"name": "Distance Thrower",
@@ -1126,11 +1010,7 @@
 				"There's virtually no limit to your powerful throwing arm.",
 				"**Prerequisites:** Str 17, [Distance Thrower.](unknown:Distance Thrower.)",
 				"**Benefit:** Thrown weapons wielded by you have twice their normal range."
-			],
-			"short_description": "Reduce ranged penalties for thrown weapons by 2",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstaminabda4.html",
-			"combat_trick_description": "When making an attack with a thrown weapon, you can spend 2 stamina points to reduce your penalty on ranged attack rolls due to range by an additional 4."
+			]
 		},
 		{
 			"name": "Divine Interference",
@@ -1153,9 +1033,7 @@
 				"Your divine power thwarts enemies of your faith.",
 				"**Prerequisites:** [Divine Interference.](unknown:Divine Interference.)",
 				"**Benefit:** When you use Divine Interference, the penalty on your opponent's attack roll is equal to twice the level of the spell sacrificed. You can expend one use of mythic power when you sacrifice the spell to increase the penalty to triple the level of the spell sacrificed."
-			],
-			"short_description": "Sacrifice a spell to force an enemy to reroll a successful attack against your ally",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Dodge",
@@ -1184,11 +1062,7 @@
 				"When focused, you become nearly impossible to strike.",
 				"**Prerequisites:** [Dodge.](unknown:Dodge.)",
 				"**Benefit:** The bonus to AC from Dodge increases by 1. As an immediate action, you can expend one use of mythic power to grant yourself an additional +10 dodge bonus to AC against one attack."
-			],
-			"short_description": "+1 dodge bonus to AC",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstamina9756.html",
-			"combat_trick_description": "When you move your speed or farther, you can spend a number of stamina points up to double your Dexterity bonus. If you do, until the start of your next turn, you gain an increase to the dodge bonus granted by the Dodge feat equal to half the number of stamina points you spent."
+			]
 		},
 		{
 			"name": "Dreadful Carnage",
@@ -1217,11 +1091,7 @@
 				"Your kills are truly frightening to behold.",
 				"**Prerequisites:** [Dreadful Carnage.](unknown:Dreadful Carnage.)",
 				"**Benefit:** When you use Dreadful Carnage, you affect non-mythic enemies within 60 feet in addition to all enemies within 30 feet. You can expend one use of mythic power before making the Intimidate check to cause enemies demoralized by Dreadful Carnage to become frightened instead of shaken, for the same duration as the normal shaken effect. While frightened by this ability, an enemy takes a penalty equal to your tier on attack rolls, saving throws, skill checks, and ability checks."
-			],
-			"short_description": "Make a free Intimidate check when you knock down a foe",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstamina625e.html",
-			"combat_trick_description": "When you reduce an enemy to 0 or fewer hit points, you can spend up to 6 stamina points to increase the radius of this feat's effect by 5 feet for each stamina point you spent (to a maximum of 60 feet)."
+			]
 		},
 		{
 			"name": "Drink Is Life",
@@ -1244,9 +1114,7 @@
 				"Strong drink fuels the mythic fires within you.",
 				"**Prerequisites:** Con 19, 3rd mythic tier.",
 				"**Benefit:** You never take penalties for consuming nonmagical alcohol, and you can consume an alcoholic beverage as a swift action instead of a move action. Each time you consume an alcoholic beverage, you may gain one of the benefits of polypurpose panacea (Pathfinder RPG Ultimate Magic 232). You can have only one of these benefits active at a time. If you expend one use of mythic power while drinking an alcoholic beverage, you can heal 2 points of ability damage, negate a temporary penalty to one ability score, or remove one of the following conditions: confused, diseased, exhausted, fatigued, frightened, nauseated, poisoned, shaken, sickened, or staggered."
-			],
-			"short_description": "Gain benefits from alcohol consumption",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Dual Path",
@@ -1264,9 +1132,7 @@
 				"You follow two mythic paths.",
 				"**Prerequisites:** 1st mythic tier.",
 				"**Benefit:** Select a mythic path other than the path you selected at your moment of ascension. You gain that path's 1st-tier ability (either archmage arcana, champion's strike, divine surge, guardian's call, marshal's order, or trickster attack). Each time you gain a path ability, you can select that path ability from either path's list or the list of universal path abilities."
-			],
-			"short_description": "Gain abilities from a second mythic path",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Eagle Eyes",
@@ -1289,9 +1155,7 @@
 				"You eyesight rivals that of the most far-seeing raptors.",
 				"**Prerequisites:** [Eagle Eyes.](unknown:Eagle Eyes.)",
 				"**Benefit:** You ignore up to -10 in penalties due to distance on visual Perception checks, instead of the normal -5. As a swift action, you can expend one use of mythic power to ignore all penalties due to distance on visual Perception checks for 1 round."
-			],
-			"short_description": "Ignore up to -5 due to distance on visual Perception checks",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Eldritch Heritage",
@@ -1314,9 +1178,7 @@
 				"The blood of your sorcerous ancestor mingles with your mythic power to great effect.",
 				"**Prerequisites:** [Eldritch Heritage.](unknown:Eldritch Heritage.)",
 				"**Benefit:** You gain sorcerer bloodline powers of the bloodline tied to Eldritch Heritage as if your sorcerer level were your character level - 2. For that bloodline's 1st-level bloodline power, use your full character level to determine its effect; for all other bloodline powers, treat your sorcerer level as your character level - 2."
-			],
-			"short_description": "Gain a bloodline power",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Elemental Channel",
@@ -1340,9 +1202,7 @@
 				"Your power over elemental beings is nearly absolute.",
 				"**Prerequisites:** [Elemental Channel.](unknown:Elemental Channel.)",
 				"**Benefit:** Your Elemental Channel can affect any elemental subtype, not just the one you chose when you took Elemental Channel. Each time you use Elemental Channel, you must pick one elemental subtype before using the feat. You can expend one use of mythic power when you use Elemental Channel to choose a second elemental subtype to affect."
-			],
-			"short_description": "Channel energy can harm or heal elementals",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Elemental Fist",
@@ -1372,11 +1232,7 @@
 				"Your ability to channel elemental power through your unarmed attacks is ferociously potent.",
 				"**Prerequisites:** [Elemental Fist.](unknown:Elemental Fist.)",
 				"**Benefit:** The extra energy damage dealt by Elemental Fist increases to 1d8 points, and you gain additional uses of Elemental Fist per day equal to your tier. You can expend one use of mythic power as an immediate action to add the extra damage from your Elemental Fist to all of the unarmed strikes you make until the beginning of your next turn. This counts as only one use of Elemental Fist, regardless of the number of attacks that you make in this fashion."
-			],
-			"short_description": "Deal 1d6 energy damage with an unarmed strike",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstaminadd03.html",
-			"combat_trick_description": "You can spend 5 stamina points to declare the use of Elemental Fist after making a successful attack roll."
+			]
 		},
 		{
 			"name": "Elemental Focus",
@@ -1399,9 +1255,7 @@
 				"Your elemental spells are potent and effective.",
 				"**Prerequisites:** [Elemental Focus.](unknown:Elemental Focus.)",
 				"**Benefit:** Choose an energy type in which you already have Elemental Focus. The increase to save DC provided by Elemental Focus and Greater Elemental Focus for spells of the selected energy type is 1 higher. When casting a spell with this energy type's descriptor, you can expend one use of mythic power as part of the casting to force the spell's targets to roll their saving throws twice, taking the lower result."
-			],
-			"short_description": "+1 bonus on save DCs for one energy type",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Elven Accuracy",
@@ -1430,11 +1284,7 @@
 				"Your elven eyesight cuts though concealment.",
 				"**Prerequisites:** [Elven Accuracy.](unknown:Elven Accuracy.)",
 				"**Benefit:** When you make an attack with a longbow or short bow (including composite bows), you can ignore concealment, but not total concealment. You still suffer a miss chance for total concealment, but if you miss due to total concealment, you may reroll your miss chance as per Elven Accuracy."
-			],
-			"short_description": "Reroll miss chance due to concealment when using a bow",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstaminac6c1.html",
-			"combat_trick_description": "If you miss an attack with a longbow or shortbow due to concealment, you can spend 5 stamina points to automatically succeed at the miss chance reroll from this feat."
+			]
 		},
 		{
 			"name": "Endurance",
@@ -1459,9 +1309,7 @@
 				"**Prerequisites:** [Endurance.](unknown:Endurance.)",
 				"**Benefit:** The bonus on checks and saves from Endurance increases by half your tier. You take half the damage when you fail a check to avoid nonlethal damage from a forced march, starvation and thirst, hot or cold environments, or slow suffocation.",
 				"You can sleep in heavy armor without becoming fatigued."
-			],
-			"short_description": "+4 bonus on checks to avoid nonlethal damage",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Eschew Materials",
@@ -1483,9 +1331,7 @@
 				"You can cast even the most powerful spells without using material components.",
 				"**Prerequisites:** [Eschew Materials.](unknown:Eschew Materials.)",
 				"**Benefit:** You can cast any spell with a material component costing 10 gp per tier or less without providing that component. If you expend one use of mythic power while casting a spell that requires a material component costing 50 gp per tier or less, you can cast it without providing that component. Expending two uses of mythic power instead allows you to cast a spell that requires a material component costing 100 gp per tier or less without providing that component."
-			],
-			"short_description": "Cast spells without material components",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Extra Mythic Power",
@@ -1498,9 +1344,7 @@
 				"Source [Mythic Adventures pg. 65](source:Mythic Adventures)",
 				"You can store more mythic power than your tier would normally allow.",
 				"**Benefit:** You gain two extra uses of mythic power each day."
-			],
-			"short_description": "Gain two extra uses of mythic power",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Extra Path Ability",
@@ -1518,9 +1362,7 @@
 				"You can call upon mythic powers beyond those already invested in you.",
 				"**Prerequisites:** 3rd mythic tier.",
 				"**Benefit:** Choose one mythic ability from your path or from the universal path abilities that you meet the prerequisites for. You gain that path ability."
-			],
-			"short_description": "Gain an extra path ability",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Fabulous Figments",
@@ -1533,9 +1375,7 @@
 				"Your illusions are astonishingly realistic.",
 				"**Prerequisites:** [Spell Focus (illusion).](unknown:Spell Focus (illusion).)",
 				"**Benefit:** Non-mythic creatures can't identify your illusion spells with Spellcraft, including checks attempted as part of arcane sight, detect magic, or similar effects. When mythic creatures attempt to identify your illusions, add your tier to the DC of those Spellcraft checks. Mythic creatures informed by their allies that one of your illusions isn't real gain only a +2 bonus on their Will saves to disbelieve. Non-mythic creatures gain no bonus to disbelieve."
-			],
-			"short_description": "Non-mythic creatures can't identify your illusions",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Far Shot",
@@ -1565,11 +1405,7 @@
 				"You make long-ranged attacks with remarkable accuracy.",
 				"**Prerequisites:** [Far Shot.](unknown:Far Shot.)",
 				"**Benefit:** As a swift action, you can expend one use of mythic power to ignore all range increment penalties for your ranged attacks until the end of your turn."
-			],
-			"short_description": "Decrease ranged penalties by half",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstamina0591.html",
-			"combat_trick_description": "When making a single ranged attack as a standard action, you can spend 5 stamina points to ignore all range penalties on that attack."
+			]
 		},
 		{
 			"name": "Fast Empathy",
@@ -1593,9 +1429,7 @@
 				"You can soothe the emotions of wild beasts with nearly supernatural quickness.",
 				"**Prerequisites:** [Fast Empathy.](unknown:Fast Empathy.)",
 				"**Benefit:** You can use wild empathy as a swift action."
-			],
-			"short_description": "Use wild empathy as a standard action",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Fire Music",
@@ -1621,9 +1455,7 @@
 				"**Prerequisites:** [Fire Music.](unknown:Fire Music.)",
 				"**Benefit:** When you use Fire Music to change any of the damage dealt by a bard spell to fire damage, that damage ignores fire resistance up to your tier.",
 				"If you cast summon monster as a bard spell and choose to give the summoned creature a fiery appearance, increase its fire resistance by 5 (adding to the resistance already granted by Fire Music) and add 1d4 points of fire damage to all of its natural attacks instead of the +1 fire damage normally granted by Fire Music. Creatures with the fire subtype also gain these benefits."
-			],
-			"short_description": "Replace bard spell damage with fire damage, summoned monsters gain fire attacks",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Fleet",
@@ -1647,9 +1479,7 @@
 				"**Prerequisites:** [Fleet.](unknown:Fleet.)",
 				"**Benefit:** Your base land speed increases by 5 feet, regardless of what armor you wear or whether you're encumbered. This bonus stacks with the bonus gained from Fleet.",
 				"**Special:** You can take this feat multiple times, but no more than the number of times you've taken non-mythic Fleet. The effects stack."
-			],
-			"short_description": "Your base speed increases by 5 feet",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Furious Focus",
@@ -1678,11 +1508,7 @@
 				"Your attacks create a rhythmic barrage that doesn't sacrifice precision for force.",
 				"**Prerequisites:** [Furious Focus.](unknown:Furious Focus.)",
 				"**Benefit:** When you are using Furious Focus, you don't take Power Attack's penalty on attack rolls that are made as attacks of opportunity. As a free action, you can expend one use of mythic power to negate Power Attack's penalty on all melee attacks you make for 1 round while using this feat."
-			],
-			"short_description": "Do not take the Power Attack penalty on the first attack each round",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstamina2259.html",
-			"combat_trick_description": "When using the Power Attack feat and wielding a two-handed melee weapon or a onehanded melee weapon with two hands, you can spend 5 stamina points. If you do, each successful attack you make against a target reduces your Power Attack penalty against that target by 1 (to a minimum of 0) until the beginning of your next turn."
+			]
 		},
 		{
 			"name": "Gnome Trickster",
@@ -1706,9 +1532,7 @@
 				"**Prerequisites:** [Gnome Trickster.](unknown:Gnome Trickster.)",
 				"**Benefit:** You gain the following spell-like abilities: 1/day-blur and vanish.",
 				"You can use your gnome spell-like abilities an additional number of times per day equal to half your tier. You can spend these additional uses to use any of your gnome spell-like abilities you wish. Your caster level for your gnome spell-like abilities becomes your character level plus your tier."
-			],
-			"short_description": "Use mage hand and prestidigitation once per day",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Gorgon's Fist",
@@ -1738,11 +1562,7 @@
 				"Your strikes debilitate and disorient your foes.",
 				"**Prerequisites:** Gorgon's Fist.",
 				"**Benefit:** When you hit a creature while using Gorgon's Fist, if the target fails its Fortitude saving throw, it is dazed for 1 round instead of staggered. You can expend one use of mythic power when you hit with a Gorgon's Fist attack, but before the saving throw is attempted, to increase its DC by half your tier."
-			],
-			"short_description": "Stagger a foe whose speed is reduced",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstaminae0f1.html",
-			"combat_trick_description": "You can spend 5 stamina points to make a Gorgon's Fist attack as one of the individual attacks made during a full attack."
+			]
 		},
 		{
 			"name": "Great Fortitude",
@@ -1764,9 +1584,7 @@
 				"Your fortitude is unmatched.",
 				"**Prerequisites:** [Great Fortitude.](unknown:Great Fortitude.)",
 				"**Benefit:** Whenever you roll a Fortitude saving throw against a spell, spell-like ability, or supernatural ability from a non-mythic source, roll twice and take the higher result."
-			],
-			"short_description": "+2 on Fortitude saves",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Guided Hand",
@@ -1789,9 +1607,7 @@
 				"Attacks made with your deity's favored weapon are divinely inspired.",
 				"**Prerequisites:** [Guided Hand.](unknown:Guided Hand.)",
 				"**Benefit:** When making attacks with your deity's favored weapon, you can add your Wisdom modifier instead of your Strength or Dexterity modifier on damage rolls."
-			],
-			"short_description": "May use Wisdom modifier for attack rolls with favored weapon",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Heroic Defiance",
@@ -1815,9 +1631,7 @@
 				"**Prerequisites:** [Heroic Defiance.](unknown:Heroic Defiance.)",
 				"**Benefit:** Once per day as an immediate action, you can attempt to negate the onset of one harmful condition or affliction (such as panicked, paralyzed, stunned, and so on) that allowed a saving throw for its onset, not including permanent and instantaneous conditions. When you do so, attempt a Will saving throw with a bonus equal to your tier against the original DC of the effect. If you succeed, the condition is negated. If you fail, the onset is delayed until the end of your next turn, after which it takes its normal effect. This feat has no effect on hit point damage or ability damage.",
 				"This effect is separate from the use of non-mythic Heroic Defiance."
-			],
-			"short_description": "Once per day, delay onset of harmful condition for 1 round",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Heroic Recovery",
@@ -1840,9 +1654,7 @@
 				"You can shrug off the effects of harmful conditions after they've taken effect.",
 				"**Prerequisites:** [Heroic Recovery.](unknown:Heroic Recovery.)",
 				"**Benefit:** As a swift action, you can expend one use of mythic power to use Heroic Recovery additional times. Whenever you do, add your tier to the result of the Fortitude save."
-			],
-			"short_description": "Once per day, gain new saving throw against harmful condition requiring Fort save",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Improved Bull Rush",
@@ -1873,11 +1685,7 @@
 				"**Prerequisites:** [Improved Bull Rush.](unknown:Improved Bull Rush.)",
 				"**Benefit:** You gain a bonus equal to half your tier on checks to bull rush, and to your CMD when an opponent bull rushes you. These bonuses stack with those granted by non-mythic Improved Bull Rush.",
 				"Furthermore, you can make an attack of opportunity against any creature that attempts to bull rush you, unless it also has this feat."
-			],
-			"short_description": "+2 bonus on bull rush attempts, no attack of opportunity",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstaminab4aa.html",
-			"combat_trick_description": "When you are the target of a bull rush combat maneuver, you can spend a number of stamina points up to your Strength or Dexterity bonus, whichever is greater. Your CMD increases by that number for that bull rush attempt."
+			]
 		},
 		{
 			"name": "Improved Channel",
@@ -1900,9 +1708,7 @@
 				"As a divine conduit for energy, you're unmatched.",
 				"**Prerequisites:** [Improved Channel.](unknown:Improved Channel.)",
 				"**Benefit:** Non-mythic creatures that take damage from your channel energy must roll their saving throws twice and take the lower result."
-			],
-			"short_description": "+2 bonus on channel energy DC",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Improved Counterspell",
@@ -1925,9 +1731,7 @@
 				"Your innate understanding of magical mechanics allows you to unravel spells with pure magical energy.",
 				"**Prerequisites:** [Improved Counterspell.](unknown:Improved Counterspell.)",
 				"**Benefit:** When counterspelling, you can use a spell of the same school that is the same or higher spell level as the target spell."
-			],
-			"short_description": "Counterspell with spell of the same school",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Improved Critical",
@@ -1958,11 +1762,7 @@
 				"**Prerequisites:** [Improved Critical](unknown:Improved Critical), base attack bonus +8.",
 				"**Benefit:** Your critical multiplier with your chosen weapon is increased by 1 (to a maximum of x6).",
 				"**Special:** You can gain this feat multiple times. The effects do not stack. Each time you take this feat, it applies to a different non-mythic Improved Critical feat."
-			],
-			"short_description": "Double the threat range of one weapon",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstaminae172.html",
-			"combat_trick_description": "When you hit with an attack and the roll fails to threaten a critical hit by 3 or less, you can spend 5 stamina points to attempt to deal double damage anyway. Roll as if confirming a critical hit. If this confirmation roll succeeds, your attack is still not a critical hit, but it deals double damage."
+			]
 		},
 		{
 			"name": "Improved Dirty Trick",
@@ -1993,11 +1793,7 @@
 				"**Prerequisites:** [Improved Dirty Trick.](unknown:Improved Dirty Trick.)",
 				"**Benefit:** You gain a bonus equal to half your tier on checks to attempt a dirty trick, and to your CMD when an opponent attempts to perform a dirty trick on you. These bonuses stack with those granted by Improved Dirty Trick.",
 				"Furthermore, you can make an attack of opportunity against any creature that attempts a dirty trick maneuver against you, unless it also has this feat."
-			],
-			"short_description": "+2 bonus on dirty trick attempts, no attack of opportunity",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstaminaf9b9.html",
-			"combat_trick_description": "You can select this feat even if you don't meet the ability score prerequisite (Intelligence 13). You gain the benefits of this feat only as long as you have at least 1 stamina point in your stamina pool. When you are the target of a dirty trick combat maneuver, you can spend a number of stamina points up to your Strength or Dexterity bonus, whichever is greater. Your CMD against that dirty trick attempt increases by that number."
+			]
 		},
 		{
 			"name": "Improved Disarm",
@@ -2028,11 +1824,7 @@
 				"**Prerequisites:** [Improved Disarm.](unknown:Improved Disarm.)",
 				"**Benefit:** You gain a bonus equal to half your tier on checks to disarm, and to your CMD when an opponent tries to disarm you. These bonuses stack with those granted by Improved Disarm.",
 				"Furthermore, you can make an attack of opportunity against any creature that attempts to disarm you, unless it also has this feat."
-			],
-			"short_description": "+2 bonus on disarm attempts, no attack of opportunity",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstamina6627.html",
-			"combat_trick_description": "You can select this feat even if you don't meet the ability score prerequisite (Intelligence 13). You gain the benefit of this feat only as long as you have at least 1 stamina point in your stamina pool. When you are the target of a disarm combat maneuver, you can spend a number of stamina points up to your Strength or Dexterity bonus, whichever is greater. Your CMD against that disarm attempt increases by that number."
+			]
 		},
 		{
 			"name": "Improved Drag",
@@ -2063,11 +1855,7 @@
 				"**Prerequisites:** [Improved Drag.](unknown:Improved Drag.)",
 				"**Benefit:** You gain a bonus equal to half your tier on checks to attempt a drag combat maneuver, and to your CMD when an opponent attempts a drag combat maneuver against you. These bonuses stack with those granted by Improved Drag.",
 				"Furthermore, you can make an attack of opportunity against any creature that attempts a drag maneuver against you, unless it also has this feat."
-			],
-			"short_description": "+2 bonus on drag attempts, no attack of opportunity",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstamina3c84.html",
-			"combat_trick_description": "When you are the target of a drag combat maneuver, you can spend a number of stamina points up to your Strength or Dexterity bonus, whichever is greater. Your CMD against that drag attempt increases by that number."
+			]
 		},
 		{
 			"name": "Improved Familiar",
@@ -2092,9 +1880,7 @@
 				"Your familiar gains some of your incredible resiliency and insight.",
 				"**Prerequisites:** [Improved Familiar.](unknown:Improved Familiar.)",
 				"**Benefit:** For every 3 tiers you possess, your familiar gains a +2 bonus to an ability score of your choice. These bonuses stack. Your familiar adds your tier to its natural armor bonus and to its spell resistance (if it has spell resistance)."
-			],
-			"short_description": "Gain a more powerful familiar",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Improved Grapple",
@@ -2125,11 +1911,7 @@
 				"**Prerequisites:** [Improved Grapple.](unknown:Improved Grapple.)",
 				"**Benefit:** You gain a bonus equal to half your tier on checks to grapple, and to your CMD when an opponent tries to grapple you. These bonuses stack with those granted by Improved Grapple.",
 				"Furthermore, you can make an attack of opportunity against any creature that attempts to grapple you, unless it also has this feat."
-			],
-			"short_description": "+2 bonus on grapple attempts, no attack of opportunity",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstaminadab2.html",
-			"combat_trick_description": "When you are the target of a grapple combat maneuver to initiate or maintain a grapple, you can spend a number of stamina points up to your Strength or Dexterity bonus, whichever is greater. Your CMD against that grapple attempt increases by that number."
+			]
 		},
 		{
 			"name": "Improved Initiative",
@@ -2157,11 +1939,7 @@
 				"You leap into the fray with speed and confidence.",
 				"**Prerequisites:** [Improved Initiative.](unknown:Improved Initiative.)",
 				"**Benefit:** The bonus on initiative checks granted by Improved Initiative increases by an amount equal to your tier. This bonus stacks with the bonus from Improved Initiative. In addition, instead of rolling initiative, you can expend one use of mythic power to treat your roll as a natural 20."
-			],
-			"short_description": "+4 bonus on initiative checks",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstaminad531.html",
-			"combat_trick_description": "Before rolling initiative, you can spend 10 stamina points to use 20 as the number rolled."
+			]
 		},
 		{
 			"name": "Improved Overrun",
@@ -2192,11 +1970,7 @@
 				"**Prerequisites:** [Improved Overrun.](unknown:Improved Overrun.)",
 				"**Benefit:** You gain a bonus equal to half your tier on checks to overrun, and to your CMD when an opponent tries to overrun you. These bonuses stack with those granted by Improved Overrun.",
 				"Furthermore, you can make an attack of opportunity against any creature that attempts to overrun you, unless it also has this feat."
-			],
-			"short_description": "+2 bonus on overrun attempts, no attack of opportunity",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstaminaa2d3.html",
-			"combat_trick_description": "When you are the target of an overrun combat maneuver, you can spend a number of stamina points up to your Strength or Dexterity bonus, whichever is greater. Your CMD against that overrun attempt increases by that number."
+			]
 		},
 		{
 			"name": "Improved Reposition",
@@ -2227,11 +2001,7 @@
 				"**Prerequisites:** [Improved Reposition.](unknown:Improved Reposition.)",
 				"**Benefit:** You gain a bonus equal to half your tier on checks to attempt a reposition combat maneuver, and to your CMD when an opponent attempts to perform a reposition combat maneuver against you. These bonuses stack with those granted by Improved Reposition.",
 				"Furthermore, you can make an attack of opportunity against any creature that attempts to reposition you, unless it also has this feat."
-			],
-			"short_description": "+2 bonus on reposition attempts, no attack of opportunity",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstamina064c.html",
-			"combat_trick_description": "You can select this feat even if you don't meet the ability score prerequisite (Intelligence 13). You gain the benefits of this feat only as long as you have at least 1 stamina point in your stamina pool. When you are the target of a reposition combat maneuver, you can spend a number of stamina points up to your Strength or Dexterity bonus, whichever is greater. Your CMD against that reposition attempt increases by that number."
+			]
 		},
 		{
 			"name": "Improved Steal",
@@ -2262,11 +2032,7 @@
 				"**Prerequisites:** [Improved Steal.](unknown:Improved Steal.)",
 				"**Benefit:** You gain a bonus equal to half your tier on checks to attempt a steal combat maneuver, and to your CMD when an opponent attempts a steal combat maneuver on you. These bonuses stack with those granted by Improved Steal.",
 				"Furthermore, you can make an attack of opportunity against any creature that attempts a steal maneuver against, you unless it also has this feat."
-			],
-			"short_description": "+2 bonus on steal attempts, no attack of opportunity",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstamina1f99.html",
-			"combat_trick_description": "You can select this feat even if you don't meet the ability score prerequisite (Intelligence 13). You gain the benefits of this feat only as long as you have at least 1 stamina point in your stamina pool. When you are the target of a steal combat maneuver, you can spend a number of stamina points up to your Strength or Dexterity bonus, whichever is greater. Your CMD against that steal attempt increases by that number."
+			]
 		},
 		{
 			"name": "Improved Stonecunning",
@@ -2289,9 +2055,7 @@
 				"If you listen close, you can hear the secrets of stone.",
 				"**Prerequisites:** [Improved Stonecunning.](unknown:Improved Stonecunning.)",
 				"**Benefit:** You gain stone tell as a spell-like ability usable once per day with a caster level equal to twice your tier."
-			],
-			"short_description": "+4 bonus on Perception checks to notice unusual stonework",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Improved Sunder",
@@ -2322,11 +2086,7 @@
 				"**Prerequisites:** [Improved Sunder.](unknown:Improved Sunder.)",
 				"**Benefit:** You gain a bonus equal to half your tier on checks to sunder, and to your CMD when an opponent tries to sunder an object used by you. These bonuses stack with those granted by Improved Sunder.",
 				"Furthermore, you can make an attack of opportunity against any creature that attempts to sunder an object used by you, unless it also has this feat."
-			],
-			"short_description": "+2 bonus on sunder attempts, no attack of opportunity",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstamina5d34.html",
-			"combat_trick_description": "When you are the target of a sunder combat maneuver, you can spend a number of stamina points up to your Strength or Dexterity bonus, whichever is greater. Your CMD increases by that number for that sunder attempt."
+			]
 		},
 		{
 			"name": "Improved Trip",
@@ -2357,11 +2117,7 @@
 				"**Prerequisites:** [Improved Trip.](unknown:Improved Trip.)",
 				"**Benefit:** You gain a bonus equal to half your tier on checks to trip, and to your CMD when an opponent tries to trip you. These bonuses stack with those granted by Improved Trip.",
 				"Furthermore, you can make an attack of opportunity against any creature that attempts to trip you, unless it also has this feat."
-			],
-			"short_description": "+2 bonus on trip attempts, no attack of opportunity",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstamina97d4.html",
-			"combat_trick_description": "You can select this feat even if you don't meet the ability score prerequisite (Intelligence 13). You gain the benefits of this feat only as long as you have at least 1 stamina point in your stamina pool. When you are the target of a trip combat maneuver, you can spend a number of stamina points up to your Strength or Dexterity bonus, whichever is greater. Your CMD against that trip attempt increases by that number."
+			]
 		},
 		{
 			"name": "Improved Unarmed Strike",
@@ -2390,11 +2146,7 @@
 				"Your unarmed strikes are more powerful than others.",
 				"**Prerequisites:** [Improved Unarmed Strike.](unknown:Improved Unarmed Strike.)",
 				"**Benefit:** You can add half your tier to your damage with unarmed strikes. As a swift action, you can expend one use of mythic power to overcome the hardness of objects with your unarmed strikes. This effect last for a number of rounds equal to your tier. If an object's hardness is greater than 15, you don't ignore any of its hardness."
-			],
-			"short_description": "Always considered armed",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstamina2e8f.html",
-			"combat_trick_description": "When you deal nonlethal damage with an unarmed strike, you can spend up to 5 stamina points to deal an amount of additional nonlethal damage equal to double the amount of stamina points you spent."
+			]
 		},
 		{
 			"name": "Intimidating Prowess",
@@ -2422,11 +2174,7 @@
 				"Your mythic stature makes others uneasy.",
 				"**Prerequisites:** [Intimidating Prowess.](unknown:Intimidating Prowess.)",
 				"**Benefit:** You gain a bonus on Intimidate checks equal to your tier against non-mythic creatures, or half your tier against mythic creatures. If you also have the Persuasive (mythic) feat, you can expend one use of mythic power to treat the Intimidate check as if you had rolled a natural 20. You must decide to use this ability before the roll is made."
-			],
-			"short_description": "Add Str to Intimidate in addition to Cha",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstamina970e.html",
-			"combat_trick_description": "When attempting an Intimidate check, you can spend 2 stamina points for each size category smaller you are than a given target to ignore the size difference penalty against that target."
+			]
 		},
 		{
 			"name": "Iron Will",
@@ -2448,9 +2196,7 @@
 				"Your will is incorruptible.",
 				"**Prerequisites:** [Iron Will.](unknown:Iron Will.)",
 				"**Benefit:** Whenever you roll a Will saving throw against a spell, spell-like ability, or supernatural ability from a non-mythic source, roll twice and take the higher result."
-			],
-			"short_description": "+2 bonus on Will saves",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Knockout Artist",
@@ -2473,9 +2219,7 @@
 				"Your knockout punches are truly mighty.",
 				"**Prerequisites:** [Knockout Artist.](unknown:Knockout Artist.)",
 				"**Benefit:** When you use your unarmed strike to deal nonlethal damage and sneak attack damage to an opponent, roll d8s for each sneak attack die instead of d6s."
-			],
-			"short_description": "Gain +2 damage per sneak attack when dealing nonlethal sneak damage",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Legendary Teamwork",
@@ -2496,9 +2240,7 @@
 				"You and your allies fight with great coordination.",
 				"**Prerequisites:** Any two teamwork feats.",
 				"**Benefit:** Any fixed numeric bonuses you gain from teamwork feats are increased by 1. This doesn't apply to variable numeric bonuses or to effects that are not numeric bonuses, such as additional attacks of opportunity, movement, or other extra actions."
-			],
-			"short_description": "Increase any fixed numeric bonuses to teamwork feats by 1",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Lightning Reflexes",
@@ -2520,9 +2262,7 @@
 				"Your reflexes are superhuman.",
 				"**Prerequisites:** [Lightning Reflexes.](unknown:Lightning Reflexes.)",
 				"**Benefit:** Whenever you roll a Reflex saving throw against a spell, spell-like ability, or supernatural ability from a non-mythic source, roll twice and take the higher result."
-			],
-			"short_description": "+2 bonus on Reflex saves",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Lucky Halfling",
@@ -2548,9 +2288,7 @@
 				"You share your mythic luck with those around you.",
 				"**Prerequisites:** [Lucky Halfling.](unknown:Lucky Halfling.)",
 				"**Benefit:** When you use Lucky Halfling, add your tier as a bonus on the saving throw. You can expend one use of mythic power when an ally uses your save but still suffers an effect on a successful saving throw. If you do, that ally suffers no effect on the successful saving throw."
-			],
-			"short_description": "You may roll saving throw for an ally once per day",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Lucky Surge",
@@ -2569,9 +2307,7 @@
 				"Your surges defy the odds.",
 				"**Prerequisites:** [Potent Surge](unknown:Potent Surge), 3rd mythic tier.",
 				"**Benefit:** Whenever you use your surge ability, you can roll your surge dice twice and take the higher result. If you can already roll your surge dice twice and take the higher result, you roll your surge dice three times and take the highest result."
-			],
-			"short_description": "Roll surge twice and take the highest result",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Lunge",
@@ -2600,11 +2336,7 @@
 				"Your reaching strikes aid your defenses against those you hit.",
 				"**Prerequisites:** [Lunge.](unknown:Lunge.)",
 				"**Benefit:** Whenever you use Lunge and hit a creature with the melee attack, you no longer take a -2 penalty to AC against that creature. You can expend one use of mythic power when you use Lunge to negate the -2 penalty to AC whether you hit or miss, and gain a +2 bonus on attacks of opportunity you make while Lunge is in effect."
-			],
-			"short_description": "Take a -2 penalty to your AC to attack with reach",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstaminab54c.html",
-			"combat_trick_description": "When you use this feat, you can spend 2 stamina points to avoid taking the -2 penalty to AC for that use."
+			]
 		},
 		{
 			"name": "Magical Aptitude",
@@ -2626,9 +2358,7 @@
 				"Your understanding of the principles and intricacies of magic goes far beyond your training.",
 				"**Prerequisites:** [Magical Aptitude.](unknown:Magical Aptitude.)",
 				"**Benefit:** The bonus on Spellcraft and Use Magic Device skill checks from Magical Aptitude increases by 2. In addition, you can expend one use of mythic power to treat a Spellcraft or Use Magic Device check as if you had rolled a natural 20. You must decide to use this ability before making the roll."
-			],
-			"short_description": "+2 bonus on Spellcraft and Use Magic Device checks",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Manyshot",
@@ -2657,11 +2387,7 @@
 				"You can fire a barrage of arrows at your target with very little effort.",
 				"**Prerequisites:** [Manyshot.](unknown:Manyshot.)",
 				"**Benefit:** When making a full-attack action with a bow and using Manyshot, you fire two arrows with both your first and second attacks, instead of just your first attack."
-			],
-			"short_description": "Shoot two arrows simultaneously",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstamina80f9.html",
-			"combat_trick_description": "When using this feat, you can spend 5 stamina points to fire two arrows with your final iterative attack during the full attack."
+			]
 		},
 		{
 			"name": "Maximize Surge",
@@ -2680,9 +2406,7 @@
 				"**Prerequisites:** 6th mythic tier.",
 				"**Benefit:** Once per day when you surge, you can expend two uses of mythic power to treat your surge die as though it rolled the maximum result.",
 				"**Special:** You can take this feat multiple times. Each time you do, you gain an extra use of this feat per day."
-			],
-			"short_description": "Expend use of mythic power to maximize surge",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Medusa's Wrath",
@@ -2712,11 +2436,7 @@
 				"Your barrage of unarmed attacks builds to a single, staggering strike.",
 				"**Prerequisites:** Medusa's Wrath.",
 				"**Benefit:** You may forgo the two additional unarmed strikes of Medusa's Wrath to instead make a single unarmed strike at your highest base attack bonus. If you successfully hit your opponent, it must succeed at a Fortitude saving throw (DC 10 + 1/2 your character level + your Wisdom modifier) or be staggered for 1 round. You can expend one use of mythic power when you stagger a target with Medusa's Wrath to extend the duration of the staggered condition by a number of rounds equal to half your tier."
-			],
-			"short_description": "Make 2 extra attacks against a hindered foe",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstamina3eae.html",
-			"combat_trick_description": "While using this feat, you can spend 10 stamina points to make the bonus attacks against a foe that you are flanking, instead of only a dazed, flat-footed, paralyzed, staggered, stunned, or unconscious foe."
+			]
 		},
 		{
 			"name": "Missile Shield",
@@ -2745,11 +2465,7 @@
 				"Your remarkable awareness allows you to deflect multiple ranged attacks and even ray spells.",
 				"**Prerequisites:** [Missile Shield.](unknown:Missile Shield.)",
 				"**Benefit:** When using Missile Shield, you can deflect an additional number of ranged attacks per round equal to half your tier. You can expend one use of mythic power as an immediate action to deflect a single ray from a ray spell or effect targeting you."
-			],
-			"short_description": "Deflect one ranged attack per round with shield",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstaminadde9.html",
-			"combat_trick_description": "As long as you have at least 1 stamina point in your stamina pool, you can use this feat with a buckler. You can spend 5 stamina points to deflect an arrow even while you're flat-footed. You must still be aware of the attack."
+			]
 		},
 		{
 			"name": "Mobility",
@@ -2779,11 +2495,7 @@
 				"You have perfected your ability to weave through the battlefield, using your momentum to propel yourself far.",
 				"**Prerequisites:** [Mobility.](unknown:Mobility.)",
 				"**Benefit:** Whenever you use Mobility, you gain a +6 dodge bonus to AC instead of the normal +4. In addition, once per round when an attack of opportunity provoked by your movement misses you, you may move 5 feet as a free action. This movement doesn't count against your total overall movement for the round, but it does provoke attacks of opportunity."
-			],
-			"short_description": "+4 AC against attacks of opportunity from movement",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstamina2a26.html",
-			"combat_trick_description": "Your dodge bonus to AC from the Dodge feat combat trick is doubled against attacks of opportunity provoked by movement. If you don't have the Dodge feat, you can still use its combat trick."
+			]
 		},
 		{
 			"name": "Monastic Legacy",
@@ -2812,11 +2524,7 @@
 				"Every new experience carries you another step further along your path to enlightenment.",
 				"**Prerequisites:** [Monastic Legacy.](unknown:Monastic Legacy.)",
 				"**Benefit:** Add half the levels you have in classes other than monk to your monk level to determine your effective monk level for your AC bonus. As a free action, you can expend one use of mythic power to add half your tier to your effective monk level to determine your base unarmed strike damage and AC bonus until the start of your next turn."
-			],
-			"short_description": "Count half your non-monk levels as monk levels for unarmed strike damage",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstamina8202.html",
-			"combat_trick_description": "At the start of your turn, you can spend 5 stamina points to use your full character level to determine your effective monk level for your unarmed strike damage. This increase lasts until the start of your next turn."
+			]
 		},
 		{
 			"name": "Mounted Archery",
@@ -2845,11 +2553,7 @@
 				"Your skill as a rider allows you to take cover and shoot with amazing accuracy.",
 				"**Prerequisites:** [Mounted Archery.](unknown:Mounted Archery.)",
 				"**Benefit:** When using the Ride skill to use your mount as cover, you can still make a single ranged weapon attack as a standard action. While your mount is moving, you can expend one use of mythic power to negate the penalties for making ranged weapon attacks while mounted until the beginning of your next turn."
-			],
-			"short_description": "Halve the penalty for ranged attacks while mounted",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstaminac7d8.html",
-			"combat_trick_description": "When making an attack using a ranged weapon while mounted, you can spend 1 or 2 stamina points to reduce the penalties on the attack roll by double the number of stamina points you spent."
+			]
 		},
 		{
 			"name": "Mounted Combat",
@@ -2878,11 +2582,7 @@
 				"Your ability to maneuver a mount through the rigors of combat is nearly unparalleled.",
 				"**Prerequisites:** [Mounted Combat.](unknown:Mounted Combat.)",
 				"**Benefit:** You can negate an additional number of hits against your mount per round equal to your tier. Once per round as an immediate action, you can expend one use of mythic power to substitute a Ride check for a single Reflex saving throw your mount must make."
-			],
-			"short_description": "Avoid attacks on mount with Ride check",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstamina8cc2.html",
-			"combat_trick_description": "Once you have already used this feat, you can spend 5 stamina points to use it an additional time during the same round. You can use this trick as many times in a round as you like, as long as you spend 5 stamina points per use."
+			]
 		},
 		{
 			"name": "Mythic Paragon",
@@ -2895,9 +2595,7 @@
 				"Source [Mythic Adventures pg. 70](source:Mythic Adventures)",
 				"Your mythic power is even more potent than that of most other mythic beings.",
 				"**Benefit:** Your tier is considered 2 higher for determining the potency of mythic abilities, feats, and spells. This doesn't grant you access to mythic abilities or greater versions of mythic spells at a lower tier than you would normally need to be to get them, nor does it grant you additional uses of mythic power or adjust the dice you roll for your surge."
-			],
-			"short_description": "Your mythic tier is considered 2 higher when determining the potency of your mythic abilities",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Natural Spell",
@@ -2921,9 +2619,7 @@
 				"You can speak and use some magic items when you use wild shape.",
 				"**Prerequisites:** [Natural Spell.](unknown:Natural Spell.)",
 				"**Benefit:** When you're using wild shape, you can use spell completion and spell trigger magic items that were on your person when you changed form. You don't need to physically manipulate the items when you use them while using wild shape. Furthermore, you can speak normally when using wild shape."
-			],
-			"short_description": "Cast spells while using wild shape",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Nimble Moves",
@@ -2946,9 +2642,7 @@
 				"You dance across obstacles with ease, as though they weren't even there.",
 				"**Prerequisites:** [Nimble Moves.](unknown:Nimble Moves.)",
 				"**Benefit:** For every 2 tiers you possess, you can move through up to 5 feet of difficult terrain each round as if it were normal terrain (minimum 5 feet). This effect stacks with those provided by Nimble Moves and Acrobatic Steps."
-			],
-			"short_description": "Ignore 5 feet of difficult terrain when you move",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Penetrating Strike",
@@ -2977,11 +2671,7 @@
 				"You know just how to strike to bypass even the most heavily armored foe's defenses.",
 				"**Prerequisites:** [Penetrating Strike.](unknown:Penetrating Strike.)",
 				"**Benefit:** When using Penetrating Strike or Greater Penetrating Strike, you can ignore an additional point of damage reduction for every 3 tiers you posses. Additionally, the effects apply to damage reduction without a type (such as DR 10/-)."
-			],
-			"short_description": "Your attacks ignore 5 points of damage reduction",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstamina9f64.html",
-			"combat_trick_description": "Whenever you deal damage to a creature with damage reduction using the selected weapons, you can spend 5 stamina points to allow all your allies (other than yourself ) within 30 feet of the creature to ignore 5 points of the creature's damage reduction for 1 round. This has no effect on creatures with damage reduction without a type (such as DR 10/-). This effect does not stack with Penetrating Strike's normal effect, but it does allow you to apply the effect to all your other weapons for the duration."
+			]
 		},
 		{
 			"name": "Persuasive",
@@ -3003,9 +2693,7 @@
 				"You're a master of persuasion, be it with soothing words or harsh barking commands.",
 				"**Prerequisites:** [Persuasive.](unknown:Persuasive.)",
 				"**Benefit:** The bonus on Diplomacy and Intimidate skill checks granted by Persuasive increases by 2. In addition, you can expend one use of mythic power to treat a Diplomacy or Intimidate check as if you had rolled a natural 20. You must decide to use this ability before making the roll."
-			],
-			"short_description": "+2 bonus on Diplomacy and Intimidate checks",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Pinpoint Targeting",
@@ -3034,11 +2722,7 @@
 				"Your attacks can home in on your opponent's weak spot and ignore many defenses.",
 				"**Prerequisites:** [Pinpoint Targeting.](unknown:Pinpoint Targeting.)",
 				"**Benefit:** You can use this feat even if you move this round, but only if the distance you move is equal to or less than 5 feet per tier."
-			],
-			"short_description": "No armor or shield bonus on one ranged attack",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstamina7b87.html",
-			"combat_trick_description": "When you use this feat, you can spend stamina points to retain the ability to move. If you spend 2 stamina points, you can take a 5-foot step after you make the attack. If you instead spend 5 stamina points, you can move up to half your speed as a move action."
+			]
 		},
 		{
 			"name": "Point-Blank Shot",
@@ -3066,11 +2750,7 @@
 				"Your accuracy with ranged attacks is unmatched at pointblank range.",
 				"**Prerequisites:** [Point-Blank Shot.](unknown:Point-Blank Shot.)",
 				"**Benefit:** The bonus on attack and damage rolls granted by Point-Blank Shot increases to +2. As a swift action, you can expend one use of mythic power to gain an additional bonus on these rolls equal to half your tier."
-			],
-			"short_description": "+1 attack and damage on targets within 30 feet",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstamina8bda.html",
-			"combat_trick_description": "You can spend up to 6 stamina points to increase this feat's range by 5 feet for each stamina point you spent."
+			]
 		},
 		{
 			"name": "Potent Surge",
@@ -3083,9 +2763,7 @@
 				"Source [Mythic Adventures pg. 71](source:Mythic Adventures)",
 				"Your surge is more potent.",
 				"**Benefit:** Whenever you use your surge ability, add 1 to your surge result."
-			],
-			"short_description": "Add 1 to surge result",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Power Attack",
@@ -3115,11 +2793,7 @@
 				"**Prerequisites:** [Power Attack.](unknown:Power Attack.)",
 				"**Benefit:** When you use Power Attack, you gain a +3 bonus on melee damage rolls instead of +2. When your base attack bonus reaches +4 and every 4 points thereafter, the amount of bonus damage increases by +3 instead of +2. In addition, the bonus damage from this feat is doubled on a critical hit, before it's multiplied by the weapon's critical multiplier.",
 				"You can expend one use of mythic power when you activate Power Attack to ignore the penalties on melee attack rolls and combat maneuver checks for 1 minute."
-			],
-			"short_description": "Trade melee attack bonus for damage",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstamina3c1f.html",
-			"combat_trick_description": "When using this feat, you can spend 2 stamina points to gain the benefits and the hindrances of that feat until the end of your turn, instead of until your next turn."
+			]
 		},
 		{
 			"name": "Powerful Shape",
@@ -3143,9 +2817,7 @@
 				"**Prerequisites:** [Powerful Shape.](unknown:Powerful Shape.)",
 				"**Benefit:** You can apply the giant simple template (quick rules version, from Pathfinder RPG Bestiary 295) to any form you take with wild shape. This replaces the benefit from Powerful Shape.",
 				"As a free action, you can expend one use of mythic power to combine the benefit from this feat with the benefit from non-mythic Powerful Shape for a number of rounds equal to your tier."
-			],
-			"short_description": "While in wild shape, you are treated as one size category larger",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Prophetic Visionary",
@@ -3168,9 +2840,7 @@
 				"Your precognitive powers aid you further.",
 				"**Prerequisites:** [Prophetic Visionary.](unknown:Prophetic Visionary.)",
 				"**Benefit:** You can use Prophetic Visionary's augury ability at will, spending 10 minutes in a deep trance each time. Your chance of a successful augury increases by 1% per tier. A successful augury made by using this feat also grants you the benefits of guidance, but the bonus is equal to your tier and is an insight bonus instead of a competence bonus."
-			],
-			"short_description": "Once per day, enter a deep trance and gain a prophetic vision",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Quick Draw",
@@ -3200,11 +2870,7 @@
 				"You can retrieve any item quickly, not just weapons.",
 				"**Prerequisites:** [Quick Draw.](unknown:Quick Draw.)",
 				"**Benefit:** You can use Quick Draw to draw items of any kind, not just weapons, provided they are stored or concealed on your person. As a move action, you can expend one use of mythic power to retrieve up to two hidden items. You must have two hands free to do so."
-			],
-			"short_description": "Draw weapon as a free action",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstamina060e.html",
-			"combat_trick_description": "As long as you have at least 1 stamina point in your stamina pool, you can sheathe a weapon as a swift action."
+			]
 		},
 		{
 			"name": "Racial Heritage",
@@ -3227,9 +2893,7 @@
 				"Your racial heritage mingles with your mythic power to become more pronounced.",
 				"**Prerequisites:** [Racial Heritage.](unknown:Racial Heritage.)",
 				"**Benefit:** You gain a single racial trait of your choice from the race you picked when you took non-mythic Racial Heritage. That racial trait can't modify your size or ability scores. You also gain the racial language of the race (if any) if you don't already know it. For races with multiple racial languages, you gain all of them."
-			],
-			"short_description": "Affected as though both human and another race",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Rapid Reload",
@@ -3263,11 +2927,7 @@
 				"You can reload any type of weapon with astounding speed.",
 				"**Prerequisites:** [Rapid Reload.](unknown:Rapid Reload.)",
 				"**Benefit:** You gain the benefits of Rapid Reload with all crossbows and firearms, not just the one you originally chose when you gained that feat. As a swift action, you can expend one use of mythic power to gain the ability to reload crossbows and firearms without provoking attacks of opportunity for 1 minute."
-			],
-			"short_description": "Reload your weapon quickly",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstaminae337.html",
-			"combat_trick_description": "When reloading a crossbow or firearm, you can spend 5 stamina points to reduce the reload time by one step; a standard action becomes a move action, a move action becomes a swift action, and a swift action becomes a free action. The weapon you are reloading doesn't need to be the one you chose when you took this feat. If the weapon already has a reload time of one free action, when you make a full attack with the weapon, you can spend 2 stamina points to gain a +1 bonus on all damage rolls with the weapon during that full attack."
+			]
 		},
 		{
 			"name": "Rapid Shot",
@@ -3296,11 +2956,7 @@
 				"You can fire many times each round with amazing precision.",
 				"**Prerequisites:** [Rapid Shot.](unknown:Rapid Shot.)",
 				"**Benefit:** When using Rapid Shot, you can either ignore the feat's -2 penalty on attack rolls or make two additional attacks instead of one."
-			],
-			"short_description": "Make one extra ranged attack",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstamina9dc4.html",
-			"combat_trick_description": "When using this feat, you can spend a number of stamina points up to the number of shots taken using this feat. If you do, you decrease the penalty of a single Rapid Shot ranged attack by 2 for each stamina point you spent."
+			]
 		},
 		{
 			"name": "Rhetorical Flourish",
@@ -3325,9 +2981,7 @@
 				"**Prerequisites:** [Rhetorical Flourish.](unknown:Rhetorical Flourish.)",
 				"**Benefit:** When you successfully use Rhetorical Flourish against a non-mythic creature, the bonus on your Diplomacy check increases by your tier. If the target is a mythic creature, you instead increase the bonus by half your tier.",
 				"You can expend one use of mythic power to reroll a single failed Bluff check. You must take the new result even if it is lower."
-			],
-			"short_description": "Use verbal misdirection while making Diplomacy check",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Ride-By Attack",
@@ -3356,11 +3010,7 @@
 				"You can make multiple attacks as you ride past your enemies.",
 				"**Prerequisites:** [Ride-By Attack.](unknown:Ride-By Attack.)",
 				"**Benefit:** When you successfully strike an opponent as part of a Ride-By Attack, you can continue to make attacks against successive targets. You can make one additional attack per 3 tiers you possess, but you can't make more attacks than you could if you were making a full attack. Successive attacks use the lower bonus for multiple attacks, as when making a full attack. You must move at least 10 feet between each attack."
-			],
-			"short_description": "Move before and after a charge attack while mounted",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstamina103a.html",
-			"combat_trick_description": "After making a mounted charge attack using this feat, you can spend 5 stamina points to change the direction of your movement instead of continuing to move in a straight line."
+			]
 		},
 		{
 			"name": "Run",
@@ -3384,9 +3034,7 @@
 				"**Prerequisites:** [Run.](unknown:Run.)",
 				"**Benefit:** When running, you move seven times your normal speed if wearing medium, light, or no armor and carrying no more than a medium load, or six times your speed if wearing heavy armor or carrying a heavy load. When making a jump after a running start, you gain an additional bonus equal to your tier + 4 on your Acrobatics check.",
 				"You can run normally for a number of rounds equal to your Constitution score plus your tier, but after that you must succeed at Constitution checks to continue running."
-			],
-			"short_description": "Run at 5 times your normal speed",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Saving Shield",
@@ -3415,11 +3063,7 @@
 				"Shielding a comrade from harm gives you a chance to strike back.",
 				"**Prerequisites:** [Saving Shield.](unknown:Saving Shield.)",
 				"**Benefit:** The shield bonus you grant an ally with Saving Shield increases to +3. If you use Saving Shield to successfully negate an attack against an adjacent ally, you can immediately make an attack of opportunity against the attacker so long as it is within your melee reach."
-			],
-			"short_description": "Grant shield bonus to an adjacent ally",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstaminad158.html",
-			"combat_trick_description": "When you use this feat, you can spend 2 stamina points to increase the shield bonus granted to your ally by an amount equal to the enhancement bonus of the shield you are using."
+			]
 		},
 		{
 			"name": "Scorpion Style",
@@ -3448,11 +3092,7 @@
 				"Your unarmed strikes can induce a near-crippling lethargy in your enemies.",
 				"**Prerequisites:** [Scorpion Style.](unknown:Scorpion Style.)",
 				"**Benefit:** Whenever you are using Scorpion Style, you add your tier to the number of rounds the target's base land speed is reduced. You can expend one use of mythic power when making your attack to slow your target, as the spell slow, unless it succeeds at a Fortitude save (DC 10 + 1/2 your character level + your Wisdom modif ier). The slowing effect supersedes the normal speed penalty of your Scorpion Strike, but lasts for an equal number of rounds."
-			],
-			"short_description": "Reduce target's speed to 5 ft.",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstamina283d.html",
-			"combat_trick_description": "When you hit with an unarmed attack using this feat and the target successfully saves against the effect, you can spend 2 stamina points to reduce the target's movement speed by half for 1 round."
+			]
 		},
 		{
 			"name": "Selective Channeling",
@@ -3476,9 +3116,7 @@
 				"When you exclude creatures from your channel, you empower those you do affect.",
 				"**Prerequisites:** [Selective Channeling.](unknown:Selective Channeling.)",
 				"**Benefit:** When you channel energy, the damage you heal or deal increases by a number of points equal to twice the number of targets you excluded from your channeled energy. You can expend one use of mythic power to increase the number of targets you exclude from your channeled energy by half your tier."
-			],
-			"short_description": "Choose whom to affect with channel energy",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Self-Sufficient",
@@ -3500,9 +3138,7 @@
 				"Independence comes naturally to you, and you have mastered taking care of yourself.",
 				"**Prerequisites:** [Self-Sufficient.](unknown:Self-Sufficient.)",
 				"**Benefit:** The bonus on Heal and Survival skill checks from Self-Sufficient increases by 2. In addition, you can expend one use of mythic power to treat a Heal or Survival check as if you had rolled a natural 20. You must decide to use this ability before making the roll."
-			],
-			"short_description": "+2 bonus on Heal and Survival checks",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Shatter Defenses",
@@ -3531,11 +3167,7 @@
 				"Your dazzling attacks leave your opponents flummoxed and bewildered, unable to attack you or to defend themselves effectively.",
 				"**Prerequisites:** [Shatter Defenses.](unknown:Shatter Defenses.)",
 				"**Benefit:** An opponent you affect with Shatter Defenses is flat-footed to all attacks, not just yours."
-			],
-			"short_description": "Hindered foes are flat-footed",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstamina71e8.html",
-			"combat_trick_description": "When you hit an opponent that has been made flat-footed to your attacks by this feat, you can spend 5 stamina points to make that opponent flat-footed to the attacks of one ally who is within 30 feet of that creature until the start of your next turn."
+			]
 		},
 		{
 			"name": "Shield Focus",
@@ -3564,11 +3196,7 @@
 				"You're a master of using your shield for protection.",
 				"**Prerequisites:** [Shield Focus.](unknown:Shield Focus.)",
 				"**Benefit:** Add your shield bonus and your shield's enhancement bonus to your touch AC. As an immediate action, you can expend one use of mythic power to add your shield bonus and your shield's enhancement bonus on a Fortitude or Ref lex save just before you roll it."
-			],
-			"short_description": "Gain a +1 bonus to your AC when using a shield",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstaminaad1a.html",
-			"combat_trick_description": "When an attack is made against you while you are using a shield, you can spend up to 2 stamina points. If you do, the shield's bonus to AC against that attack increases by an amount equal to the number of stamina points you spent."
+			]
 		},
 		{
 			"name": "Shield Slam",
@@ -3597,11 +3225,7 @@
 				"Your shield bash produces a powerful kick.",
 				"**Prerequisites:** [Shield Slam.](unknown:Shield Slam.)",
 				"**Benefit:** When using Shield Slam to bull rush, an opponent knocked prone because of an intervening wall or other surface also takes damage from the collision. The damage dealt is equal to 1d6 points per 2 tiers you possess. As an immediate action, you can expend one use of mythic power to add your tier to your combat maneuver checks when resolving a bull rush made due to Shield Slam."
-			],
-			"short_description": "Free bull rush with a bash attack",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstamina8444.html",
-			"combat_trick_description": "Instead of attempting a free bull rush when using the Shield Slam feat, you can spend 2 stamina points to attempt a disarm, reposition, trip, or sunder combat maneuver. This combat maneuver attempt does not provoke an attack of opportunity from the target."
+			]
 		},
 		{
 			"name": "Shot on the Run",
@@ -3631,11 +3255,7 @@
 				"With ease, you can snap off two shots while dashing across the battlefield.",
 				"**Prerequisites:** [Shot on the Run](unknown:Shot on the Run), base attack bonus +6.",
 				"**Benefit:** Whenever you use Shot on the Run, you can make two ranged attacks at your highest base attack bonus at any point during your movement, instead of just one."
-			],
-			"short_description": "Make ranged attack at any point during movement",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstaminaa494.html",
-			"combat_trick_description": "You can spend 5 stamina points to use this feat as a standard action instead of a full-round action."
+			]
 		},
 		{
 			"name": "Skill Focus",
@@ -3659,9 +3279,7 @@
 				"**Prerequisites:** [Skill Focus.](unknown:Skill Focus.)",
 				"**Benefit:** You can always take 10 or 20 on checks with your choice of skill for Skill Focus, even when you are rushed or threatened.",
 				"**Special:** You can gain this feat multiple times. The effects do not stack. Each time you take this feat, it applies to a different non-mythic Skill Focus feat."
-			],
-			"short_description": "+3 bonus on one skill (+6 at 10 ranks)",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Snatch Arrows",
@@ -3691,11 +3309,7 @@
 				"You can use the weapons you pluck from the air to immediately make melee attacks.",
 				"**Prerequisites:** [Snatch Arrows.](unknown:Snatch Arrows.)",
 				"**Benefit:** When you use Snatch Arrows to catch a thrown weapon that can also be used as a melee weapon, you can make a melee attack with it as an immediate action against a foe within the weapon's melee reach. You can expend one use of mythic power to make this attack without spending an immediate action."
-			],
-			"short_description": "Catch one ranged attack per round",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstamina3fd7.html",
-			"combat_trick_description": "When you snatch a thrown weapon, as long as you have at least 1 stamina point in your stamina pool, you can make a thrown ranged attack with it against any target, not just the original attacker."
+			]
 		},
 		{
 			"name": "Sociable",
@@ -3718,9 +3332,7 @@
 				"Your easy nature flows from you without effort, putting others at ease.",
 				"**Prerequisites:** [Sociable.](unknown:Sociable.)",
 				"**Benefit:** You grant and benefit from the +2 bonus on Diplomacy checks from Sociable constantly without having to spend a move action. You can spend a move action to increase the bonus to +4 for a number of rounds equal to your tier."
-			],
-			"short_description": "Grant friendly creatures a +2 bonus on Diplomacy checks",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Spell Focus",
@@ -3744,9 +3356,7 @@
 				"**Prerequisites:** [Spell Focus.](unknown:Spell Focus.)",
 				"**Benefit:** Choose a school of magic you already have Spell Focus in. The bonus to save DCs provided by Spell Focus and Greater Spell Focus for that school increases by 1. You can expend one use of mythic power as part of casting a spell from your chosen school to force any of the spell's targets to roll their saving throws twice, taking the lower result.",
 				"**Special:** You can gain this feat multiple times. The effects do not stack. Each time you take this feat, it applies to a different non-mythic Spell Focus feat."
-			],
-			"short_description": "+1 bonus on save DCs for one school",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Spell Mastery",
@@ -3770,9 +3380,7 @@
 				"You're so familiar with certain spells you can prepare them with the greatest of ease.",
 				"**Prerequisites:** [Spell Mastery.](unknown:Spell Mastery.)",
 				"**Benefit:** You can prepare spells you have selected with Spell Mastery as a full-round action. You must spend the appropriate amount of time preparing other spells you have not mastered. As a full-round action, you can expend one use of mythic power to prepare all your spells that you have selected with Spell Mastery."
-			],
-			"short_description": "Prepare some spells without a spellbook",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Spell Penetration",
@@ -3794,9 +3402,7 @@
 				"Your mythic power breaches your enemies' defenses.",
 				"**Prerequisites:** [Spell Penetration.](unknown:Spell Penetration.)",
 				"**Benefit:** Add half your tier to caster level checks to overcome spell resistance. If you have Greater Spell Penetration, add your full tier instead."
-			],
-			"short_description": "+2 bonus on level checks to beat spell resistance",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Spellbreaker",
@@ -3827,11 +3433,7 @@
 				"**Prerequisites:** [Spellbreaker.](unknown:Spellbreaker.)",
 				"**Benefit:** Any non-mythic creature you threaten provokes an attack of opportunity from you whenever it uses a spell or spell-like ability, even when casting defensively or casting a quickened spell.",
 				"If a non-mythic creature within 30 feet of you uses a spell or spell-like ability, you can expend one use of mythic power to make a ranged attack against that creature as an attack of opportunity (even if the creature wouldn't normally provoke attacks of opportunity). You must have a ranged weapon in hand or have a free hand and the nonmythic Quick Draw feat to use this ability. You can use this ability against a mythic creature by expending two uses of mythic power."
-			],
-			"short_description": "Enemies provoke attacks if their spells fail",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstamina0352.html",
-			"combat_trick_description": "When you hit a caster with an attack of opportunity it provoked by failing to cast defensively, you can spend 5 stamina points to daze the caster until the end of its next turn. If the caster succeeds at a Fortitude save with a DC equal to 10 + your base attack bonus, it is staggered instead."
+			]
 		},
 		{
 			"name": "Spirited Charge",
@@ -3860,11 +3462,7 @@
 				"Your mounted charge knocks the wind and wits from those foolish enough to stand against you.",
 				"**Prerequisites:** [Spirited Charge.](unknown:Spirited Charge.)",
 				"**Benefit:** When you hit an opponent with a mounted charge, that opponent must succeed at a Fortitude saving throw (DC 10 + 1/2 your character level + your Str modifier) or be staggered for a number of rounds equal to your tier. If you use a lance with this attack, increase the saving throw DC by 2. As a free action before you make the attack, you can expend one use of mythic power to daze your opponent on a failed saving throw instead of staggering it."
-			],
-			"short_description": "Double damage on a mounted charge",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstaminad24d.html",
-			"combat_trick_description": "When making a mounted charge, you can spend a number of stamina points up to your Strength bonus. If your charge attack hits, you deal an amount of extra damage equal to the number of stamina points you spent. This additional damage is doubled by this feat (or tripled if you're using a lance)."
+			]
 		},
 		{
 			"name": "Spontaneous Metafocus",
@@ -3889,9 +3487,7 @@
 				"**Prerequisites:** [Spontaneous Metafocus.](unknown:Spontaneous Metafocus.)",
 				"**Benefit:** You can change which spell your Spontaneous Metafocus feat applies to each morning when you restore your expended spell slots. The spell it applies to can be of any level, but it must be a legal selection for the Spontaneous Metafocus feat.",
 				"**Special:** You can gain this feat multiple times. The effects do not stack. Each time you take this feat, it applies to a different non-mythic Spontaneous Metafocus feat."
-			],
-			"short_description": "Apply metamagic to one spell and keep the standard casting time",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Spring Attack",
@@ -3921,11 +3517,7 @@
 				"You move across the battlefield in a blur of whirling blades.",
 				"**Prerequisites:** [Spring Attack](unknown:Spring Attack), base attack bonus +6.",
 				"**Benefit:** When you use Spring Attack, you don't need to move at least 10 feet before making the first attack. If you expend one use of mythic power when you start a Spring Attack, the movement you make during the Spring Attack doesn't provoke attacks of opportunity."
-			],
-			"short_description": "Move before and after melee attack",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstaminacca6.html",
-			"combat_trick_description": "You can spend 5 stamina points to use this feat as a standard action instead of a full-round action."
+			]
 		},
 		{
 			"name": "Stealthy",
@@ -3947,9 +3539,7 @@
 				"Your grace and fluidity are beyond compare.",
 				"**Prerequisites:** [Stealthy.](unknown:Stealthy.)",
 				"**Benefit:** The bonus on Escape Artist and Stealth skill checks from Stealthy increases by 2. In addition, you can expend one use of mythic power to treat an Escape Artist or Stealth check as if you had rolled a natural 20. You must decide to use this ability before making the roll."
-			],
-			"short_description": "+2 bonus on Escape Artist and Stealth checks",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Strike Back",
@@ -3978,11 +3568,7 @@
 				"Your precise counterattacks degrade your foes' advantages in combat.",
 				"**Prerequisites:** [Strike Back.](unknown:Strike Back.)",
 				"**Benefit:** When you make a melee attack as a readied action against a foe outside your melee reach, you can take a 5-foot step toward that foe. If you expend one use of mythic power, you can move your speed toward the foe instead. Neither of these counts toward the movement made during your turn."
-			],
-			"short_description": "Attack foes that strike you while using reach",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstaminafcfe.html",
-			"combat_trick_description": "When you ready an action to attack someone outside of your melee reach, you can spend 5 stamina points to take a 5-foot step, but you must move closer to the attacking creature. You can take this 5-foot step even if your readied action includes a 5-foot step."
+			]
 		},
 		{
 			"name": "Strong Comeback",
@@ -4004,9 +3590,7 @@
 				"You never make the same mistake twice.",
 				"**Prerequisites:** [Strong Comeback.](unknown:Strong Comeback.)",
 				"**Benefit:** Whenever you're allowed to reroll an ability check, a skill check, or a saving throw, roll two dice and take the higher result, before adding the bonus from Strong Comeback."
-			],
-			"short_description": "Add a +2 bonus on all rerolls",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Stunning Fist",
@@ -4036,11 +3620,7 @@
 				"With greater potency and frequency, your fists stun those who stand against you.",
 				"**Prerequisites:** [Stunning Fist.](unknown:Stunning Fist.)",
 				"**Benefit:** The DC of your Stunning Fist increases by half your tier, and you can use Stunning Fist multiple times during the same round. As a free action, you can expend one use of your mythic power to use Stunning Fist without spending one of your daily uses of the feat."
-			],
-			"short_description": "Stun opponent with an unarmed strike",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstaminaaf8a.html",
-			"combat_trick_description": "You can spend 5 stamina points to declare that you are using Stunning Fist after you've hit with an unarmed strike."
+			]
 		},
 		{
 			"name": "Throw Anything",
@@ -4069,11 +3649,7 @@
 				"You're so skilled at throwing weapons that it hardly matters what you throw.",
 				"**Prerequisites:** [Throw Anything.](unknown:Throw Anything.)",
 				"**Benefit:** You gain a +2 bonus on attack rolls and damage rolls made using an improvised thrown weapon or splash weapon. This bonus stacks with the bonus from the non-mythic Throw Anything feat. If you miss with a thrown splash weapon, it always lands adjacent to its target regardless of how many range increments it was thrown."
-			],
-			"short_description": "No penalties for improvised ranged weapons",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstamina093c.html",
-			"combat_trick_description": "As long as you have at least 1 stamina point in your stamina pool, when you use a melee weapon that is not a thrown weapon for a ranged improvised weapon attack, you use the weapon's melee critical threat range and multiplier instead of the normal 20/??2 for improvised weapons. You can spend 2 stamina points to increase your range increment for thrown weapon attacks (including ranged improvised weapons) by 10 feet until the beginning of your next turn."
+			]
 		},
 		{
 			"name": "Titan Strike",
@@ -4091,9 +3667,7 @@
 				"Your fists can fell titanic foes.",
 				"**Prerequisites:** [Improved Unarmed Strike (mythic).](unknown:Improved Unarmed Strike (mythic).)",
 				"**Benefit:** Your unarmed strike deals damage as if you were one size category larger. You also gain a +1 bonus for each size category that your target is larger than you on the following: bull rush, drag, grapple, overrun, sunder, and trip combat maneuver checks and the DC of your Stunning Fist."
-			],
-			"short_description": "Your unarmed strike deals damage as if you were one size category larger",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Toughness",
@@ -4115,9 +3689,7 @@
 				"You have legendary resilience and durability.",
 				"**Prerequisites:** [Toughness.](unknown:Toughness.)",
 				"**Benefit:** Toughness provides you twice as many hit points. In addition, when you're below 0 hit points, you gain DR 10/epic. This DR stacks with any other DR/epic you might possess."
-			],
-			"short_description": "+3 hit points, +1 per Hit Die beyond 3",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Trample",
@@ -4146,11 +3718,7 @@
 				"Your rearing mount can stomp foes into the ground, barely",
 				"**Prerequisites:** [Trample.](unknown:Trample.)",
 				"**Benefit:** Your mount can make two hoof attacks against an opponent you knock down with an overrun, instead of one. You can expend one use of mythic power when you score a critical hit with one or more of those hoof attacks. When you do, the critical is automatically confirmed. If both scored critical hits, expending one use of mythic power automatically confirms both."
-			],
-			"short_description": "Overrun targets while mounted",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstamina7615.html",
-			"combat_trick_description": "When you attempt to overrun an opponent while mounted and you don't succeed at the overrun combat maneuver check, you can spend 2 stamina points and continue to move as if the target of the overrun had moved out of the way."
+			]
 		},
 		{
 			"name": "Tripping Staff",
@@ -4180,11 +3748,7 @@
 				"Your staff is valuable for attack and defensive balance.",
 				"**Prerequisites:** [Tripping Staff.](unknown:Tripping Staff.)",
 				"**Benefit:** You add half your tier to CMD against trip maneuvers and on combat maneuver checks to trip with a quarterstaff. When you're wielding a quarterstaff and an opponent you threaten attempts to trip you and fails, it provokes an attack of opportunity from you. You must use your staff for this attack of opportunity."
-			],
-			"short_description": "Treat a quarterstaff as if it had the trip weapon special feature",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstamina20cc.html",
-			"combat_trick_description": "You can select this feat even if you don't meet the ability score prerequisite (Intelligence 13). You gain the benefits of this feat only as long as you have at least 1 stamina point in your stamina pool."
+			]
 		},
 		{
 			"name": "Turn Undead",
@@ -4208,9 +3772,7 @@
 				"**Prerequisites:** [Turn Undead.](unknown:Turn Undead.)",
 				"**Benefit:** When you use Turn Undead, the range increases by 10 feet per tier, and non-mythic undead take a penalty on their saving throws equal to your tier.",
 				"You can expend one use of mythic power when using Turn Undead to destroy undead. Instead of fleeing, undead that fail their saves might be destroyed. You destroy 2d4 Hit Dice worth of undead per tier. Undead with the fewest HD are affected first; among undead with equal HD, those that are closest to the burst's point of origin are affected first. No undead of 9 or more HD can be affected, and HD that aren't sufficient to affect an undead are wasted."
-			],
-			"short_description": "Channel energy can be used to make undead flee",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Two-Fisted Drinker",
@@ -4228,9 +3790,7 @@
 				"You can pound down drinks with amazing verve.",
 				"**Prerequisites:** [Quick Draw.](unknown:Quick Draw.)",
 				"**Benefit:** You can draw two potions or other beverages-mundane or magical-from a pouch, bandolier, or similar holder (but not from a backpack) as a move action. As a standard action, you can drink two potions or other beverages. You must have two free hands to use this feat."
-			],
-			"short_description": "Draw two potions or drinks as a move action and drink both as a standard action",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Two-Weapon Defense",
@@ -4259,11 +3819,7 @@
 				"Your graceful flow between attack and defense makes you difficult to hit.",
 				"**Prerequisites:** [Two-Weapon Defense.](unknown:Two-Weapon Defense.)",
 				"**Benefit:** When using Two-Weapon Defense, you apply the highest enhancement bonus from your two weapons to the shield bonus granted by that feat."
-			],
-			"short_description": "Gain +1 shield bonus when fighting with two weapons",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstamina7652.html",
-			"combat_trick_description": "Once per round, you can spend 2 stamina points to double the bonuses granted by this feat until the start of your next turn."
+			]
 		},
 		{
 			"name": "Two-Weapon Fighting",
@@ -4293,11 +3849,7 @@
 				"With deft strikes, you gain an advantage over your foes beyond mere damage.",
 				"**Prerequisites:** [Two-Weapon Fighting.](unknown:Two-Weapon Fighting.)",
 				"**Benefit:** As an immediate action, you can expend one use of mythic power to negate the penalties on attack rolls for two-weapon fighting for a number of rounds equal to your tier."
-			],
-			"short_description": "Reduce two-weapon fighting penalties",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstaminae6a6-2.html",
-			"combat_trick_description": "You can spend any number of stamina points to reduce the penalty from Two-Weapon Fighting on attacks made with a weapon in your primary hand by 1 for every 2 stamina points you spent. This benefit lasts until the start of your next turn. You can't reduce the penalty below 0."
+			]
 		},
 		{
 			"name": "Two-Weapon Rend",
@@ -4326,11 +3878,7 @@
 				"Your synchronized dual attacks are even more dangerous, and can leave lasting wounds.",
 				"**Prerequisites:** [Two-Weapon Rend.](unknown:Two-Weapon Rend.)",
 				"**Benefit:** The damage of your Two-Weapon Rend increases to 2d8 points plus twice your Strength modifier. You can expend one use of mythic power to gain a bonus on this damage equal to twice your tier."
-			],
-			"short_description": "Rend a foe hit by both your weapons",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstamina83f6.html",
-			"combat_trick_description": "You can spend 5 stamina points to use this feat's benefit a second time in a single round."
+			]
 		},
 		{
 			"name": "Undead Master",
@@ -4353,9 +3901,7 @@
 				"Through your fearsome mythic nature, you have matchless power over the undead.",
 				"**Prerequisites:** [Undead Master.](unknown:Undead Master.)",
 				"**Benefit:** When you cast animate dead or use the Command Undead feat, add your tier to your caster level when determining the number of Hit Dice of undead you animate. This stacks with the increased caster level of Undead Master. When you cast command undead, your duration is tripled rather than doubled."
-			],
-			"short_description": "Animate and command more undead",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Unseat",
@@ -4384,11 +3930,7 @@
 				"You knock your opponents down from their mounts with frightening concussive force.",
 				"**Prerequisites:** [Unseat.](unknown:Unseat.)",
 				"**Benefit:** When you successfully bull rush an opponent off his mount with Unseat, your opponent takes 1d6 points of falling damage per 2 tiers you possess. Items or abilities that reduce falling damage, such as a successful Acrobatics check, can reduce the damage dealt by the impact."
-			],
-			"short_description": "Knock opponents from their mounts",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstaminaf408.html",
-			"combat_trick_description": "When you use this feat to successfully unseat a foe, you can spend 5 stamina points to make the rider fall prone in an unoccupied space of your choice adjacent to the mount instead of a space directly away from you."
+			]
 		},
 		{
 			"name": "Valiant Vault",
@@ -4419,9 +3961,7 @@
 				"**Prerequisites:** [Mounted Combat](unknown:Mounted Combat), [Ride-By Attack](unknown:Ride-By Attack), Ride 5 ranks.",
 				"**Benefit:** Your mount is always considered to have a running start when using Acrobatics to jump. You can expend one use of mythic power to grant your mount a +10 bonus on an Acrobatics check, or a +20 bonus if the check is made to jump.",
 				"When making a mounted charge, you can guide your mount to leap over a foe between your starting position and the target of your charge. You make a Ride check or your mount makes an Acrobatics check (whichever is lower) during the charge, using the rules for the leap task under the Ride skill. If the height you clear with that check exceeds the creature's height, you jump over it and continue your charge on the opposite side. This movement provokes attacks of opportunity. Alternatively, you can vault over your target while making a Ride-By Attack, allowing you to move over or through its space and continue moving on the opposite side of it. If your jump exceeds the target's height, you gain a +1 bonus on the attack roll for higher ground, and if any of your allies threatens the target, you treat the target as flanked for purposes of your Ride-By Attack."
-			],
-			"short_description": "When mount leaps over foes attack as you pass",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Vital Strike",
@@ -4451,11 +3991,7 @@
 				"**Prerequisites:** [Vital Strike.](unknown:Vital Strike.)",
 				"**Benefit:** Whenever you use Vital Strike, Improved Vital Strike, or Greater Vital Strike, multiply the Strength bonus, magic bonus, and other bonuses that would normally be multiplied on a critical hit by the number of weapon damage dice you roll for that feat.",
 				"Extra damage from sources that wouldn't normally be multiplied on a critical hit isn't multiplied by this feat."
-			],
-			"short_description": "Deal twice the normal damage on a single attack",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstamina6b96.html",
-			"combat_trick_description": "After rolling the damage of a Vital Strike attack, you can spend 2 stamina points to reroll up to two of the weapon's damage dice. (For weapons with more than one damage die, count all the weapon's base damage dice together as one.) You must take the second result, even if it's lower."
+			]
 		},
 		{
 			"name": "Voice of the Sibyl",
@@ -4478,9 +4014,7 @@
 				"You overpower weaker and more vulnerable minds with your voice alone.",
 				"**Prerequisites:** [Voice of the Sibyl.](unknown:Voice of the Sibyl.)",
 				"**Benefit:** You gain a +1 bonus on all Bluff, Diplomacy, and Perform (oratory) skill checks for every 3 tiers you possess. This bonus stacks with the bonus from Voice of the Sibyl. If you have 10 or more ranks in at least two of these skills, gain a +2 bonus to the DC of any language-dependent spell you cast."
-			],
-			"short_description": "Gain bonus to Bluff, Diplomacy, and Perform (oratory) checks",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Warrior Priest",
@@ -4503,9 +4037,7 @@
 				"Your faith speeds you in battle and further strengthens your mind and confidence.",
 				"**Prerequisites:** [Warrior Priest.](unknown:Warrior Priest.)",
 				"**Benefit:** You gain a bonus equal to half your tier both on initiative checks and on concentration checks to cast a spell or use a spell-like ability when casting defensively or while grappled. These bonuses stack with the bonuses from Warrior Priest."
-			],
-			"short_description": "+1 bonus to initiative and +2 on concentration checks when casting defensively",
-			"has_mythic_version": true
+			]
 		},
 		{
 			"name": "Weapon Finesse",
@@ -4534,11 +4066,7 @@
 				"You're an expert with weapons that rely on your agility.",
 				"**Prerequisites:** [Weapon Finesse.](unknown:Weapon Finesse.)",
 				"**Benefit:** When using Weapon Finesse, you may also use your Dexterity modifier instead of your Strength modifier on your damage rolls. If you carry a shield, its armor check penalty doesn't apply to either the attack rolls or the damage rolls."
-			],
-			"short_description": "Use Dex instead of Str on attack rolls with light weapons",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstaminafc0d.html",
-			"combat_trick_description": "You can spend 2 stamina points to negate the penalty on attack rolls from your shield's armor check penalty until the start of your next turn."
+			]
 		},
 		{
 			"name": "Weapon Focus",
@@ -4569,11 +4097,7 @@
 				"**Prerequisites:** [Weapon Focus.](unknown:Weapon Focus.)",
 				"**Benefit:** Double the bonuses on your attack rolls from Weapon Focus and Greater Weapon Focus. As a swift action, you can expend one use of mythic power to gain a bonus on attack rolls with your selected weapon equal to half your tier until the end of your turn.",
 				"**Special:** If you have taken non-mythic Weapon Focus multiple times, you must choose which of those feats this enhances. You can take this feat multiple times. The effects do not stack. Each time you take this feat, it applies to a different non-mythic Weapon Focus feat you have."
-			],
-			"short_description": "+1 bonus on attack rolls with one weapon",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstamina4b69.html",
-			"combat_trick_description": "Once per round, you can spend 2 stamina points to gain your Weapon Focus bonus on attack rolls with a weapon with which you don't have Weapon Focus. This bonus lasts until the start of your next turn."
+			]
 		},
 		{
 			"name": "Weapon Specialization",
@@ -4604,11 +4128,7 @@
 				"**Prerequisites:** [Weapon Specialization.](unknown:Weapon Specialization.)",
 				"**Benefit:** When using your chosen weapon, you gain a bonus equal to half your tier on damage rolls. This stacks with the bonus from Weapon Specialization and Greater Weapon Specialization.",
 				"**Special:** If you have taken non-mythic Weapon Specialization multiple times, you must choose which of those feats this enhances. You can take this feat multiple times. The effects do not stack. Each time you take this feat, it applies to a different non-mythic Weapon Specialization feat you have."
-			],
-			"short_description": "+2 bonus on damage rolls with one weapon",
-			"has_mythic_version": true,
-			"combat_stamina_file": "combatstaminaf4de.html",
-			"combat_trick_description": "Once per round, you can spend 2 stamina points to gain your Weapon Specialization bonus on damage rolls with a weapon with which you don't have Weapon Specialization. This bonus lasts until the start of your next turn."
+			]
 		},
 		{
 			"name": "Witch Knife",
@@ -4631,9 +4151,7 @@
 				"Your witch knife is as much an extension of your body as it is an extension of your power.",
 				"**Prerequisites:** [Witch Knife.](unknown:Witch Knife.)",
 				"**Benefit:** You can use your witch knife as an additional focus component for all your witch spells, not just your patron spells, adding 1 to their DC. This bonus stacks with the bonus to patron spells granted by Witch Knife, granting your patron spells a total +2 bonus to their DC. Additionally, the hand holding the witch knife is still considered free for the purpose of casting spells and delivering touch attacks."
-			],
-			"short_description": "Use dagger as focus for witch patron spells",
-			"has_mythic_version": true
+			]
 		}
 	]
 }
