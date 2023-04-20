@@ -3,7 +3,8 @@
 		"Are region and ethnicity the same? Faction and affiliation/group?",
 		"Some 'ethnic' options feel like subraces or racial traits, too"
 	],
-	"category_name": "trait",
+	"category": "trait",
+	"value_type": "ability",
 	"standard_properties": [
 		"types",
 		"sources",

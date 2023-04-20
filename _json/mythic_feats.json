@@ -1,5 +1,6 @@
 {
-	"category_name": "mythic feat",
+	"category": "mythic feat",
+	"value_type": "ability",
 	"standard_properties": [
 		"types",
 		"sources",

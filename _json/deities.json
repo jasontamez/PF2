@@ -3,7 +3,8 @@
 		"favored_weapon, boons, divine_fightning_technique",
 		"Pharmimia has no alignment, probably needs to interface w/alignment"
 	],
-	"category_name": "deity",
+	"category": "deity",
+	"value_type": "ability",
 	"standard_properties": [
 		"sources"
 	],

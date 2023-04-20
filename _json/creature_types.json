@@ -1,5 +1,6 @@
 {
-    "category_name": "creature types",
+    "category": "creature types",
+	"value_type": "ability",
 	"standard_properties": [
 	],
 	"searchable_properties": {

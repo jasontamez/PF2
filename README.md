@@ -6,35 +6,60 @@
 
 ## Types
 
-`KEYS` - array of unique plain text values, no duplicates
+### `KEYS`
 
-`ARRAY_` - prefix, turns any of the below into an array
+Array of unique plain text values, no duplicates
 
-`STRING` - plain text
+### `ARRAY_`
 
-`MARKDOWN` - Markdown text string
+prefix, turns any of the below into an Array
 
-`BOOLEAN` - true or false
+### `STRING`
 
-`NUMBER` - any number
+plain text
 
-`INTEGER` - any whole number
+### `MARKDOWN`
 
-`FormatObject` - An object with properties describing how certain properties are formatted
+Markdown text string
+
+### `BOOLEAN`
+
+true or false
+
+### `NUMBER`
+
+any number
+
+### `INTEGER`
+
+any whole number
+
+### `FormatObject`
+
+An object with properties describing how certain properties are formatted:
 
 ```json
 {
-  "prop1": "ARRAY_STRING", // array of strings, only
-  "prop2": "BOOLEAN",      // boolean only
-  "prop3": "STRING",       // string only
-  "prop4": [
-    "STRING",              // may be a string, or an array of strings
-    "ARRAY_STRING"
+  "STRING": [         // these properties will be strings
+    "prop1",
+    "prop3"
+  ],
+  "BOOLEAN": [        // these properties will be booleans
+    "prop4"
+  ],
+  "ARRAY_STRING": [   // these properties will be arrays of strings
+    "prop2"
+    "prop3"           // A property may have multiple possible types!
   ]
 }
 ```
+### `LookupObject`
 
-`ShorthandLookupObject` - An object with properties describing certain non-standard lookups that may be used; a `"_value"` or `"_value_map"` property is required
+An object designed to be used as a query; see the **Lookups** section below
+
+### `ShorthandLookupObject`
+
+An object with properties describing certain non-standard lookups that may be used; a `"_value"` or `"_value_map"` property is required:
 
 ```json
 {
@@ -52,8 +77,8 @@ Example:
 {
   "feat": {
     "_value": "name",
-    "ability": true,
-    "has_category": "feat"
+    "query": "ability",
+    "category": "feat"
   }
 }
 ```
@@ -70,8 +95,8 @@ Becomes equal to this:
 
 ```json
 {
-  "ability": true,
-  "has_category": "feat",
+  "query": "ability",
+  "category": "feat",
   "name": "Fancy!"
 }
 ```
@@ -82,25 +107,41 @@ Becomes equal to this:
 
 ### Basic Values
 
-`"ability"` - An Object that describes some sort of interaction
+#### `"ability"`
 
-`"score"` - A static value that can be mutated by other factors, usually `INTEGER`
+An Object that describes some sort of interaction
 
-`"tag"` - A static, unique value that can be assigned to multiple things, usually `STRING`
+#### `"score"`
+
+A mutable value that can be altered by other factors, usually `INTEGER`
+
+#### `"flag"`
+
+A static value that can be assigned to multiple things, usually `BOOLEAN`
 
 ---
 
 ### Basic properties of `JSON`
 
-`"category_name": STRING` - A label for an entire class of `Value`
+#### `"category": STRING`
 
-`"list": ARRAY_Values` - The `Values` this JSON provides
+A label for the entire class of `Value` this `JSON` provides
 
-`"standard_properties": ARRAY_STRING` - An array of optional, standard properties the `Values` have
+#### `"list": ARRAY_Values`
 
-`"searchable_properties": FormatObject` - An object declaring any non-standard properties the `Values` have that may be searched for by an end-user
+The `Values` this JSON provides
 
-`"lookup_shorthands": ARRAY_ShorthandLookupObject` - An object declaring all shorthand lookup properties the `Values` may use
+#### `"standard_properties": ARRAY_STRING`
+
+An array of optional, standard properties the `Values` have
+
+#### `"searchable_properties": FormatObject`
+
+An object declaring any searchable, non-standard properties the `Values` may have
+
+#### `"lookup_shorthands": ARRAY_ShorthandLookupObject`
+
+An object declaring all shorthand lookup properties the `Values` may use
 
 ---
 
@@ -116,11 +157,8 @@ Becomes equal to this:
 
 ### Lookups
 
-* **Main properties**
-  * `"ability": true` - Looking for an ability
-  * `"score": true` - Looking for a score
-
 * **Global properties**
+  * `"query": ENUM "ability", "score", "flag"` - The type of `Value` we're looking for
   * `"find": LookupObject` - A generic "wrapper", to combine a Lookup with other operations (e.g. `"quantity"` below)
   * `"find_any": ARRAY_LookupObject` - As above, but only one included `LookupObject` needs to match
   * `"find_all": ARRAY_LookupObject` - As above, but **all** included `LookupObjects` need to match
