@@ -59,13 +59,15 @@ An object designed to be used as a query; see the **Lookups** section below
 
 ### `ShorthandLookupObject`
 
-An object with properties describing certain non-standard lookups that may be used; a `"_value"` or `"_value_map"` property is required:
+An object with properties describing certain non-standard lookups that may be used; one of the properties below is generally required:
 
 ```json
 {
   "lookup1": {
-    "_value": STRING, // A lookup property; when the shorthand is called, it's value will be mapped to that property
-    "_value_map": ARRAY_STRING // An Array of lookup properties; when the shorthand is called, it will map the incoming array to the listed properties in order
+    "_value": ANY, // A lookup property; when the shorthand is called, it's value will be mapped to that property
+    "_value_suffix": STRING, // As above, but the shorthand's value is appended to the end of the given property; if an Array is given, the value is appended to every element of that Array
+    "_value_prefix": STRING, // Aa above, but the shorthand's value is prepended instead of appended
+    "_value_map": ARRAY_ANY // An Array of lookup properties; when the shorthand is called, it will map the incoming array to the listed properties in order
     // (other lookup properties should be included; they will be included in the lookup whenever this shorthand is used)
   }
 }
@@ -79,6 +81,16 @@ Example:
     "_value": "name",
     "query": "ability",
     "category": "feat"
+  },
+  "creature": {
+    "_value_suffix": "has_tag",
+    "query": "flag",
+    "has_tag": "species:"
+  },
+  "creature_any": {
+    "_value_prefix": "has_tag_any",
+    "query": "flag",
+    "has_tag_any": ":PC"
   }
 }
 ```
@@ -87,17 +99,33 @@ So this:
 
 ```json
 {
-  "feat": "Fancy!"
+  "feat": "Fancy!",
+  "creature": "borg",
+  "creature_any": [
+    "human",
+    "ferengi"
+  ]
 }
 ```
 
-Becomes equal to this:
+Becomes equal to these `LookupObjects`:
 
 ```json
 {
   "query": "ability",
   "category": "feat",
   "name": "Fancy!"
+},
+{
+  "query": "flag",
+  "has_tag": "species:borg"
+},
+{
+  "query": "flag",
+  "has_tag_any": [
+    "human:PC",
+    "ferengi:PC"
+  ]
 }
 ```
 
