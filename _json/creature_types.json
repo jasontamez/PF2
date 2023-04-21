@@ -59,17 +59,6 @@
 		{
 			"name": "construct",
 			"description": [
-				"| Construct Size | Bonus Hit Points |",
-				"| --- | --- |",
-				"| Fine | - |",
-				"| Diminutive | - |",
-				"| Tiny | - |",
-				"| Small | 10 |",
-				"| Medium | 20 |",
-				"| Large | 30 |",
-				"| Huge | 40 |",
-				"| Gargantuan | 60 |",
-				"| Colossal | 80 |",
 				"A construct is an animated object or artificially created creature.",
 				"A construct has the following features.",
 				"* d10 Hit Die.",
@@ -90,7 +79,18 @@
 				"* A construct is hard to destroy, and gains bonus hit points based on size, as shown on the following table.",
 				"* Proficient with its natural weapons only, unless generally humanoid in form, in which case proficient with any weapon mentioned in its entry.",
 				"* Proficient with no armor.",
-				"* Constructs do not breathe, eat, or sleep."
+				"* Constructs do not breathe, eat, or sleep.",
+				"| Construct Size | Bonus Hit Points |",
+				"| --- | --- |",
+				"| Fine | - |",
+				"| Diminutive | - |",
+				"| Tiny | - |",
+				"| Small | 10 |",
+				"| Medium | 20 |",
+				"| Large | 30 |",
+				"| Huge | 40 |",
+				"| Gargantuan | 60 |",
+				"| Colossal | 80 |"
 			],
 			"bestows_tags": [
 				"creature-type:construct",
@@ -263,7 +263,10 @@
 				"immune:disease",
 				"immune:paralysis",
 				"immune:sleep",
-				"immune:stun"
+				"immune:stun",
+				"immune:critical-hits",
+				"immune:flanking",
+				"immune:precision-damage"
 			]
 		},
 		{

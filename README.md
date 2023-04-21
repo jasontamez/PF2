@@ -53,6 +53,7 @@ An object with properties describing how certain properties are formatted:
   ]
 }
 ```
+
 ### `LookupObject`
 
 An object designed to be used as a query; see the **Lookups** section below
@@ -322,11 +323,13 @@ An object declaring all shorthand lookup properties the `Values` may use
 
 ## Code
 
-    return input
-        .replace(/<a href="spelldisplay.+?>(.+?)<\/a>/g, `[$1](spell:$1)`)
-        .replace(/<a href="deitydisplay.+?>(.+?)<\/a>/g, `[$1](deity:$1)`)
-        .replace(/<a href="featdisplay.+?>(.+?)<\/a>/g, `[$1](feat:$1)`)
-        .replace(/<a href="traitdisplay.+?>(.+?)<\/a>/g, `[$1](trait:$1)`)
-        .replace(/<a href="monsterdisplay.+?>(.+?)<\/a>/g, `[$1](monster:$1)`)
-        .replace(/<a href="classdisplay.+?>(.+?)<\/a>/g, `[$1](class:$1)`)
-        .replace(/<a .+?>(.+?)<\/a>/g, `[$1](unknown:$1)`);
+```javascript
+return input
+  .replace(/<a href="spelldisplay.+?>(.+?)<\/a>/g, `[$1](spell:$1)`)
+  .replace(/<a href="deitydisplay.+?>(.+?)<\/a>/g, `[$1](deity:$1)`)
+  .replace(/<a href="featdisplay.+?>(.+?)<\/a>/g, `[$1](feat:$1)`)
+  .replace(/<a href="traitdisplay.+?>(.+?)<\/a>/g, `[$1](trait:$1)`)
+  .replace(/<a href="monsterdisplay.+?>(.+?)<\/a>/g, `[$1](monster:$1)`)
+  .replace(/<a href="classdisplay.+?>(.+?)<\/a>/g, `[$1](class:$1)`)
+  .replace(/<a .+?>(.+?)<\/a>/g, `[$1](unknown:$1)`);
+```
