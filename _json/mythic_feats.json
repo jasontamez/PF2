@@ -11,20 +11,20 @@
 		"feat": {
 			"_value": "name",
 			"category": "feat",
-			"ability": true
+			"query": "ability"
 		},
 		"mythic_feat": {
 			"_value": "name",
 			"category": "mythic feat",
-			"ability": true
+			"query": "ability"
 		},
 		"mythic_tier": {
-			"score": true,
+			"query": "score",
 			"name": "mythic tier",
 			"_value": "minimum"
 		},
 		"base_attack_bonus": {
-			"score": true,
+			"query": "score",
 			"name": "base attack bonus",
 			"_value": "minimum"
 		}
@@ -992,7 +992,7 @@
 					"feat": "Distance Thrower"
 				},
 				{
-					"score": true,
+					"query": "score",
 					"name": "strength",
 					"minimum": 17
 				}
@@ -1104,7 +1104,7 @@
 					"mythic_tier": 3
 				},
 				{
-					"score": true,
+					"query": "score",
 					"name": "constitution",
 					"minimum": 19
 				}
@@ -2229,7 +2229,7 @@
 			"types": [ "General" ],
 			"prerequisites": [
 				{
-					"ability": true,
+					"query": "ability",
 					"category": "feat",
 					"has_type": "Teamwork",
 					"quantity": 2
@@ -3940,14 +3940,14 @@
 			"types": [ "General" ],
 			"prerequisites": [
 				{
-					"score": true,
+					"query": "score",
 					"category": "skill",
 					"name":  "Ride",
 					"has_tag": "skill:ranks",
 					"minimum": 5
 				},
 				{
-					"ability": true,
+					"query": "ability",
 					"category": "feat",
 					"name_all": [
 						"Mounted Combat",

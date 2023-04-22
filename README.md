@@ -134,19 +134,23 @@ Becomes equal to these `LookupObjects`:
 
 ## Terms
 
-### Basic Values
+### Basic `Values`
 
 #### `"ability"`
 
 An Object that describes some sort of interaction
 
-#### `"score"`
+#### `"bonus"`
 
-A mutable value that can be altered by other factors, usually `INTEGER`
+A `NUMBER` or `INTEGER` that can be assigned to multiple things
 
 #### `"flag"`
 
-A static value that can be assigned to multiple things, usually `BOOLEAN`
+A static value that can be assigned to multiple things
+
+#### `"score"`
+
+An object that collects `bonuses` and/or `flags` and returns a value, usually an `INTEGER` or `NUMBER`
 
 ---
 
