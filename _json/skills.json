@@ -1,0 +1,127 @@
+{
+	"category": "skills",
+	"value_type": "score",
+	"standard_properties": [],
+	"searchable_properties": [],
+	"lookup_shorthands": {
+		"skill": {
+			"_value_suffix": "has_tag",
+			"has_tag": "skill:",
+			"query": "bonus"
+		}
+	},
+	"formulae": {},
+	"list": [
+		{
+			"name": "Acrobatics"
+		},
+		{
+			"name": "Appraise"
+		},
+		{
+			"name": "Artistry"
+		},
+		{
+			"name": "Bluff"
+		},
+		{
+			"name": "Climb"
+		},
+		{
+			"name": "Craft"
+		},
+		{
+			"name": "Diplomacy"
+		},
+		{
+			"name": "Disable Device"
+		},
+		{
+			"name": "Disguise"
+		},
+		{
+			"name": "Escape Artist"
+		},
+		{
+			"name": "Fly"
+		},
+		{
+			"name": "Handle Animal"
+		},
+		{
+			"name": "Heal"
+		},
+		{
+			"name": "Intimidate"
+		},
+		{
+			"name": "Knowledge (arcana)"
+		},
+		{
+			"name": "Knowledge (dungeoneering)"
+		},
+		{
+			"name": "Knowledge (engineering)"
+		},
+		{
+			"name": "Knowledge (geography)"
+		},
+		{
+			"name": "Knowledge (history)"
+		},
+		{
+			"name": "Knowledge (local)"
+		},
+		{
+			"name": "Knowledge (nature)"
+		},
+		{
+			"name": "Knowledge (nobility)"
+		},
+		{
+			"name": "Knowledge (planes)"
+		},
+		{
+			"name": "Knowledge (religion)"
+		},
+		{
+			"name": "Linguistics"
+		},
+		{
+			"name": "Lore"
+		},
+		{
+			"name": "Perception"
+		},
+		{
+			"name": "Perform"
+		},
+		{
+			"name": "Profession"
+		},
+		{
+			"name": "Ride"
+		},
+		{
+			"name": "Sense Motive"
+		},
+		{
+			"name": "Sleight of Hand"
+		},
+		{
+			"name": "Spellcraft"
+		},
+		{
+			"name": "Stealth"
+		},
+		{
+			"name": "Survival"
+		},
+		{
+			"name": "Swim"
+		},
+		{
+			"name": "Use Magic Device"
+		}
+	]
+}
