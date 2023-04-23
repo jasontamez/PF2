@@ -183,6 +183,7 @@ An object declaring all shorthand lookup properties the `Values` may use
 `"name": STRING` - The label of the `Value`
 
 `"tags": KEYS` - A list of "tags" associated with this `Value`, hidden from end-user
+* `tags` should be in the format `"prefix:specific"`, e.g. "skill:craft" or "creature-type:half-orc"
 
 `"types": KEYS` - A list of "types" associated with this `Value`, most likely visible to end-user
 
@@ -191,7 +192,7 @@ An object declaring all shorthand lookup properties the `Values` may use
 ### Lookups
 
 * **Global properties**
-  * `"query": ENUM "ability", "score", "flag"` - The type of `Value` we're looking for
+  * `"query": ENUM "ability", "score", "flag", "bonus"` - The type of `Value` we're looking for
   * `"find": LookupObject` - A generic "wrapper", to combine a Lookup with other operations (e.g. `"quantity"` below)
   * `"find_any": ARRAY_LookupObject` - As above, but only one included `LookupObject` needs to match
   * `"find_all": ARRAY_LookupObject` - As above, but **all** included `LookupObjects` need to match
@@ -205,6 +206,7 @@ An object declaring all shorthand lookup properties the `Values` may use
   * `"has_tag": STRING` - Looking for something that has the listed tag
   * `"has_tag_any": ARRAY_STRING` - Looking for something that has any of the listed tags
   * `"has_tag_all": ARRAY_STRING` - Looking for something that has **all** of the listed tags
+  * `"has_tag_type": STRING` - Looking for something that has a tag with the listed prefix
   * `"quantity": INTEGER` - Looking for at least the indicated number of separate things
 
 * **Ability properties**
