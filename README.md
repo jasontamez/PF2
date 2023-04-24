@@ -176,16 +176,47 @@ An object declaring any searchable, non-standard properties the `Values` may hav
 
 An object declaring all shorthand lookup properties the `Values` may use
 
+#### `"shared_properties": ARRAY_variable`
+
+An object containing properties, all of which should be considered to be part of every `Value` in the `"list"` Array.
+
 ---
 
 ### Basic properties of `Values`
 
-`"name": STRING` - The label of the `Value`
+#### `"name": STRING`
 
-`"tags": KEYS` - A list of "tags" associated with this `Value`, hidden from end-user
+The label of the `Value`
+
+#### `"tags": KEYS`
+
+A list of "tags" associated with this `Value`, hidden from end-user
+
 * `tags` should be in the format `"prefix:specific"`, e.g. "skill:craft" or "creature-type:half-orc"
 
-`"types": KEYS` - A list of "types" associated with this `Value`, most likely visible to end-user
+#### `"types": KEYS`
+
+A list of "types" associated with this `Value`, most likely visible to end-user
+
+#### `"order": Object`
+
+The properties of this object correspond to `bestow_` and `remove_` properties of the `Value`; each property resolves to an `INTEGER` that describes when they should be executed, starting with the lowest number
+
+    *Example:*
+    ```json
+    "order": {
+			"removes_tags": 100,
+			"bestows_tags": 101
+		}
+    ```
+
+There should be a general list of numbers where certain `features` should be placed.
+
+* 0-1000 - Ancestry
+* 1001-2000 - Class
+* 2001-3000 - Foundational Feats
+* 3001-4000 - Midrange Feats
+* 4001-5000 - Highest-level Feats
 
 ---
 
@@ -227,6 +258,8 @@ An object declaring all shorthand lookup properties the `Values` may use
 * `"bestow_tags": ARRAY_STRING`
 * `"bestow_type": STRING`
 * `"bestow_types": ARRAY_STRING`
+
+Each `bestow_` property has a corresponding `remove_` property
 
 ---
 

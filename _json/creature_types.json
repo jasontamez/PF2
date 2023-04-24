@@ -8,8 +8,8 @@
 	},
 	"shared_properties":{
 		"order": {
-			"removes_tags": 100,
-			"bestows_tags": 101
+			"removes_tags": 200,
+			"bestows_tags": 201
 		}
 	},
 	"list": [

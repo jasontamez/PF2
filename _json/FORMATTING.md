@@ -68,20 +68,20 @@ Other tags can indicate special properties.
 * `alignment:` - "LG", "N", "CE", etc
 * `language:` - "draconic", "celestial", "dwarven", etc
 * `vulnerable:` - "fire", "cold", "critical-hits", etc
+* `class-skill:` - "acrobatics", "perception", "stealth", etc
 
 ---
 
 ## Scores
 
-### Format
-
-Purpose: category / sample name properties / tags, ...
+**Format**: Purpose: category / sample name properties / base tag / subtags
 
 ### Simple
 
 * `INTEGER`
-  * Resistances: resist / electricity|fire|etc / resistance,resistance-electricity|-fire|etc
-  * Speeds: speed / base|fly|swim|burrow|etc / speed,speed-base|-fly|-swim|etc
+  * Resistances: resistance / electricity|fire|etc / resistance,:electricity|:fire|etc
+  * Speeds: speed / base|fly|swim|burrow|etc / speed,:base|:fly|:swim|etc
+  * Senses: sense / darkvision|tremorsense|etc / 
 
 ## Features
 

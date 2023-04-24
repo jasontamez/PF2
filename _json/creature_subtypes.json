@@ -10,6 +10,14 @@
 			"query": "flag"
 		}
 	},
+	"shared_properties":{
+		"order": {
+			"removes_tags": 100,
+			"bestows_tags": 101,
+			"bestows_scores": 102,
+			"bestows_bonuses": 103
+		}
+	},
 	"list": [
 		{
 			"name": "adlet",
@@ -51,17 +59,13 @@
 			"bestows_scores": [
 				{
 					"name": "electricity",
-					"value": "10",
-					"tags": [
-						"resistance"
-					]
+					"value": 10,
+					"category": "resistance"
 				},
 				{
 					"name": "fire",
-					"value": "10",
-					"tags": [
-						"resistance"
-					]
+					"value": 10,
+					"category": "resistance"
 				}
 			],
 			"prerequisites": [
@@ -110,6 +114,18 @@
 				"language:infernal",
 				"language:draconnic"
 			],
+			"bestows_scores": [
+				{
+					"name": "cold",
+					"value": 10,
+					"category": "resistance"
+				},
+				{
+					"name": "sonic",
+					"value": 10,
+					"category": "resistance"
+				}
+			],
 			"prerequisites": [
 				{
 					"type": "outsider"
@@ -131,7 +147,8 @@
 				"This subtype is usually used for outsiders that have a connection to the Elemental Plane of Air. Air creatures always have fly speeds and usually have perfect maneuverability. Air creatures treat Fly as a class skill."
 			],
 			"bestows_tags": [
-				"creature-subtype:air"
+				"creature-subtype:air",
+				"class-skill:fly"
 			],
 			"TODO-ABILITIES": true,
 			"TODO-SCORES": true
@@ -177,6 +194,30 @@
 				"immune:cold",
 				"immune:petrification"
 			],
+			"bestows_scores": [
+				{
+					"name": "darkvision",
+					"category": "sense",
+					"value": 60
+				},
+				{
+					"name": "electricity",
+					"value": 10,
+					"category": "resistance"
+				},
+				{
+					"name": "fire",
+					"value": 10,
+					"category": "resistance"
+				}
+			],
+			"bestows_bonuses": [
+				{
+					"name": "vs poison",
+					"amount": 4,
+					"type": "racial"
+				}
+			],
 			"prerequisites": [
 				{
 					"type": "outsider"
@@ -199,7 +240,8 @@
 				"These creatures always have swim speeds and can move in water without making Swim checks. An aquatic creature can breathe water. It cannot breathe air unless it has the amphibious special quality. Aquatic creatures always treat Swim as a class skill."
 			],
 			"bestows_tags": [
-				"creature-subtype:aquatic"
+				"creature-subtype:aquatic",
+				"class-skill:swim"
 			],
 			"TODO-ABILITIES": true,
 			"TODO-SCORES": true,
@@ -881,7 +923,9 @@
 			],
 			"bestows_tags": [
 				"creature-subtype:giant",
-				"basic:low-light-vision"
+				"basic:low-light-vision",
+				"class-skill:intimidate",
+				"class-skill:perception"
 			],
 			"prerequisites": [
 				{
@@ -923,7 +967,8 @@
 			],
 			"bestows_tags": [
 				"creature-subtype:goblinoid",
-				"language:goblin"
+				"language:goblin",
+				"class-skill:stealth"
 			],
 			"prerequisites": [
 				{
@@ -1151,7 +1196,11 @@
 				"immune:ability-drain",
 				"immune:fatigue",
 				"immune:exhaustion",
-				"immune:energy-drain"
+				"immune:energy-drain",
+				"class-skill:acrobatics",
+				"class-skill:diplomacy",
+				"class-skill:intimidate",
+				"class-skill:survival"
 			],
 			"prerequisites": [
 				{
@@ -1380,7 +1429,10 @@
 				"Vulnerable to Consecration (Ex): A mortic is staggered within the area of a consecrate effect."
 			],
 			"bestows_tags": [
-				"creature-subtype:mortic"
+				"creature-subtype:mortic",
+				"class-skill:intimidate",
+				"class-skill:perception",
+				"class-skill:stealth"
 			],
 			"prerequisites": [
 				{
@@ -1733,7 +1785,23 @@
 			"bestows_tags": [
 				"creature-subtype:robot",
 				"vulnerable:electricity",
-				"vulnerable:critical-hits"
+				"vulnerable:critical-hits",
+				"class-skill:climb",
+				"class-skill:disable-device",
+				"class-skill:fly",
+				"class-skill:knowledge-arcana",
+				"class-skill:knowledge-dungeoneering",
+				"class-skill:knowledge-engineering",
+				"class-skill:knowledge-geography",
+				"class-skill:knowledge-history",
+				"class-skill:knowledge-local",
+				"class-skill:knowledge-nature",
+				"class-skill:knowledge-nobility",
+				"class-skill:knowledge-planes",
+				"class-skill:knowledge-religion",
+				"class-skill:linguistics",
+				"class-skill:perception",
+				"class-skill:sense-motive"
 			],
 			"prerequisites": [
 				{
@@ -1989,7 +2057,8 @@
 				"This subtype is usually used for outsiders with a connection to the Elemental Plane of Water. Creatures with the water subtype always have swim speeds and can move in water without making Swim checks. A water creature can breathe underwater and can usually breathe air as well. Water creatures treat the Swim skill as a class skill."
 			],
 			"bestows_tags": [
-				"creature-subtype:water"
+				"creature-subtype:water",
+				"class-skill:swim"
 			],
 			"TODO-ABILITIES": true,
 			"TODO-SCORES": true
