@@ -242,7 +242,7 @@ There should be a general list of numbers where certain `features` should be pla
 
 * **Feature properties**
   * `"category": STRING` - Looking for an ability with the listed category
-  * `"categories_any": ARRAY_STRING` - Looking for an ability with any of the the listed categories
+  * `"category_any": ARRAY_STRING` - Looking for an ability with any of the the listed categories
 
 * **Score properties**
   * `"minimum": NUMBER` - Looking for a value equal to or greater than the given number

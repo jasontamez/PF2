@@ -69,6 +69,7 @@ Other tags can indicate special properties.
 * `language:` - "draconic", "celestial", "dwarven", etc
 * `vulnerable:` - "fire", "cold", "critical-hits", etc
 * `class-skill:` - "acrobatics", "perception", "stealth", etc
+* `group:` - Ethnicity, subspecies, affiliations, and other groupings
 
 ---
 
