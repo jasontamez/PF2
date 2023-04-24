@@ -103,7 +103,7 @@
 			],
 			"bestows_tags": [
 				"creature-subtype:agathion",
-				"sense:low-light-vision",
+				"basic:low-light-vision",
 				"immune:electricity",
 				"immune:petrification",
 				"language:celestial",
@@ -172,7 +172,10 @@
 				"Truespeech (Su): All angels can speak with any creature that has a language, as though using a tongues spell (caster level equal to the angel's Hit Dice). This ability is always active."
 			],
 			"bestows_tags": [
-				"creature-subtype:angel"
+				"creature-subtype:angel",
+				"immune:acid",
+				"immune:cold",
+				"immune:petrification"
 			],
 			"prerequisites": [
 				{
@@ -220,7 +223,9 @@
 				"Truespeech (Su): All archons can speak with any creature that has a language, as though using a tongues spell (caster level 14th). This ability is always active."
 			],
 			"bestows_tags": [
-				"creature-subtype:archon"
+				"creature-subtype:archon",
+				"immune:electricity",
+				"immune:petrification"
 			],
 			"prerequisites": [
 				{
@@ -261,7 +266,10 @@
 				"+6 racial bonus on Escape Artist checks and a +4 racial bonus on Perception checks."
 			],
 			"bestows_tags": [
-				"creature-subtype:asura"
+				"creature-subtype:asura",
+				"immune:curses",
+				"immune:disease",
+				"immune:poison"
 			],
 			"TODO-ABILITIES": true,
 			"TODO-SCORES": true
@@ -300,7 +308,9 @@
 				"Truespeech (Su): All azatas can speak with any creature that has a language, as though using a tongues spell (caster level 14th). This ability is always active."
 			],
 			"bestows_tags": [
-				"creature-subtype:azata"
+				"creature-subtype:azata",
+				"immune:electricity",
+				"immune:petrification"
 			],
 			"prerequisites": [
 				{
@@ -329,7 +339,20 @@
 				"Vulnerable to Miracles and Wishes (Su) A spell effect created by a miracle or wish spell is particularly effective against a behemoth. A spellcaster gains a +6 bonus on its caster level check to penetrate a behemoth's SR with a miracle or wish spell, and the behemoth suffers a -6 penalty on saves against these spells. A miracle or a wish spell can negate a behemoth's regeneration, but only for 1d4 rounds per casting."
 			],
 			"bestows_tags": [
-				"creature-subtype:behemoth"
+				"creature-subtype:behemoth",
+				"immune:ability-damage",
+				"immune:aging",
+				"immune:bleed",
+				"immune:disease",
+				"immune:energy-drain",
+				"immune:fire",
+				"immune:mind-affecting",
+				"immune:negative-levels",
+				"immune:paralysis",
+				"immune:permanent-wounds",
+				"immune:petrification",
+				"immune:poison",
+				"immune:polymorph"
 			],
 			"prerequisites": [
 				{
@@ -355,7 +378,8 @@
 				"Vision (Ex): Unlike most oozes, blights have eyes and can see normally. In addition, all blights have blindsight to a range of 120 feet."
 			],
 			"bestows_tags": [
-				"creature-subtype:blight"
+				"creature-subtype:blight",
+				"immune:acid"
 			],
 			"prerequisites": [
 				{
@@ -455,7 +479,9 @@
 				"A creature with the cold subtype has immunity to cold and vulnerability to fire."
 			],
 			"bestows_tags": [
-				"creature-subtype:cold"
+				"creature-subtype:cold",
+				"immune:cold",
+				"vulnerable:fire"
 			],
 			"TODO-ABILITIES": true,
 			"TODO-SCORES": true
@@ -502,7 +528,11 @@
 				"Except where otherwise noted, daemons speak Abyssal, Draconic, and Infernal."
 			],
 			"bestows_tags": [
-				"creature-subtype:daemon"
+				"creature-subtype:daemon",
+				"immune:acid",
+				"immune:death-effects",
+				"immune:disease",
+				"immune:poison"
 			],
 			"prerequisites": [
 				{
@@ -541,7 +571,7 @@
 			],
 			"bestows_tags": [
 				"creature-subtype:deep-one",
-				"sense:low-light-vision"
+				"basic:low-light-vision"
 			],
 			"TODO-SCORES": true
 		},
@@ -562,7 +592,9 @@
 				"Summon (Sp): Demodands share the ability to summon others of their kind, typically another of their type or a small number of less powerful demodands."
 			],
 			"bestows_tags": [
-				"creature-subtype:demodand"
+				"creature-subtype:demodand",
+				"immune:acid",
+				"immune:poison"
 			],
 			"prerequisites": [
 				{
@@ -592,7 +624,9 @@
 				"Summon (Sp): Demons share the ability to summon others of their kind, typically another of their type or a small number of less powerful demons."
 			],
 			"bestows_tags": [
-				"creature-subtype:demon"
+				"creature-subtype:demon",
+				"immune:electricity",
+				"immune:poison"
 			],
 			"prerequisites": [
 				{
@@ -640,7 +674,9 @@
 				"Summon (Sp): Devils share the ability to summon others of their kind, typically another of their type or a small number of less powerful devils."
 			],
 			"bestows_tags": [
-				"creature-subtype:devil"
+				"creature-subtype:devil",
+				"immune:fire",
+				"immune:poison"
 			],
 			"prerequisites": [
 				{
@@ -665,7 +701,9 @@
 				"Except where otherwise noted, divs speak Abyssal, Celestial, and Infernal."
 			],
 			"bestows_tags": [
-				"creature-subtype:div"
+				"creature-subtype:div",
+				"immune:fire",
+				"immune:poison"
 			],
 			"prerequisites": [
 				{
@@ -733,7 +771,12 @@
 				"Elementals do not breathe, eat, or sleep."
 			],
 			"bestows_tags": [
-				"creature-subtype:elemental"
+				"creature-subtype:elemental",
+				"immune:bleed",
+				"immune:paralysis",
+				"immune:poison",
+				"immune:sleep",
+				"immune:stun"
 			],
 			"removes-tags": [
 				"basic:breathes",
@@ -816,7 +859,9 @@
 				"A creature with the fire subtype has immunity to fire and vulnerability to cold."
 			],
 			"bestows_tags": [
-				"creature-subtype:fire"
+				"creature-subtype:fire",
+				"immune:fire",
+				"vulnerable:cold"
 			],
 			"TODO-ABILITIES": true,
 			"TODO-SCORES": true
@@ -835,7 +880,8 @@
 				"A giant is a humanoid creature of great strength, usually of at least Large size. Giants have a number of racial Hit Dice and never substitute such Hit Dice for class levels like some humanoids. Giants have low-light vision, and treat Intimidate and Perception as class skills."
 			],
 			"bestows_tags": [
-				"creature-subtype:giant"
+				"creature-subtype:giant",
+				"basic:low-light-vision"
 			],
 			"prerequisites": [
 				{
@@ -876,7 +922,8 @@
 				"Goblinoids are stealthy humanoids who live by hunting and raiding. All goblinoids speak Goblin and treat Stealth as a class skill."
 			],
 			"bestows_tags": [
-				"creature-subtype:goblinoid"
+				"creature-subtype:goblinoid",
+				"language:goblin"
 			],
 			"prerequisites": [
 				{
@@ -937,8 +984,23 @@
 				"Otherworldly Insight (Ex): All Great Old Ones gain a +10 insight bonus on initiative checks and to AC.",
 				"Unspeakable Presence (Su): A Great Old One's aura inflicts intense mental anguish and torment upon all creatures within 300 feet who can see and hear the Great Old One. The exact effects caused by a Great Old One's unspeakable presence vary by type. The effect can be reduced or negated with a successful Will save (DC = 10 + 1/2 the Great Old One's Hit Dice + the Great Old One's Charisma modifier). This is a mind-affecting effect."
 			],
+			"removes_tags": [
+				"basic:eats",
+				"basic:ages",
+				"basic:breathes"
+			],
 			"bestows_tags": [
-				"creature-subtype:great-old-one"
+				"creature-subtype:great-old-one",
+				"immune:ability-damage",
+				"immune:ability-drain",
+				"immune:aging",
+				"immune:cold",
+				"immune:death-effects",
+				"immune:disease",
+				"immune:energy-drain",
+				"immune:mind-affecting",
+				"immune:paralysis",
+				"immune:petrification"
 			],
 			"TODO-ABILITIES": true,
 			"TODO-SCORES": true
@@ -1003,8 +1065,14 @@
 				"Hive Mind (Ex): Hive creatures have no language of their own, instead communicating simple concepts via pheromone discharge and body language that other creatures with the hive subtype understand. This ability functions within line of sight. If one hive creature is able to act in the surprise round of combat, all other hive creatures in line of sight can also act, and a hive creature isn't flanked unless all hive creatures within line of sight are flanked.",
 				"A hive creature doesn't need to eat, drink, or sleep."
 			],
+			"removes_tags": [
+				"basic:eats",
+				"basic:sleeps"
+			],
 			"bestows_tags": [
-				"creature-subtype:hive"
+				"creature-subtype:hive",
+				"immune:acid",
+				"basic:blind"
 			],
 			"prerequisites": [
 				{
@@ -1067,7 +1135,23 @@
 				"Truespeech (Su) An inevitable can speak with any creature that has a language, as if using a tongues spell (caster level 14th). This ability is always active."
 			],
 			"bestows_tags": [
-				"creature-subtype:inevitable"
+				"creature-subtype:inevitable",
+				"basic:low-light-vision",
+				"immune:death-effects",
+				"immune:disease",
+				"immune:mind-affecting",
+				"immune:necromancy",
+				"immune:paralysis",
+				"immune:poison",
+				"immune:sleep",
+				"immune:stun",
+				"immune:fortitude",
+				"immune:nonlethal",
+				"immune:ability-damage",
+				"immune:ability-drain",
+				"immune:fatigue",
+				"immune:exhaustion",
+				"immune:energy-drain"
 			],
 			"prerequisites": [
 				{
@@ -1097,7 +1181,13 @@
 				"Resistance 30 to acid, cold, electricity, fire, negative energy, and sonic."
 			],
 			"bestows_tags": [
-				"creature-subtype:kaiju"
+				"creature-subtype:kaiju",
+				"immune:ability-damage",
+				"immune:ability-drain",
+				"immune:death-effects",
+				"immune:disease",
+				"immune:energy-drain",
+				"immune:fear"
 			],
 			"TODO-ABILITIES": true,
 			"TODO-SCORES": true
@@ -1119,7 +1209,11 @@
 				"Ward (Su): A kami has a specific ward-a creature with an Intelligence score of 2 or lower (usually an animal or vermin), a plant (not a plant creature), an object, or a location. The type of ward is listed in parentheses in the kami's stat block. Several of a kami's abilities function only when it is either merged with its ward or within 120 feet of it. If a kami's ward is portable and travels with the kami to another plane, the kami does not gain the extraplanar subtype on that other plane as long as its ward remains within 120 feet. If a ward is destroyed while a kami is merged with it, the kami dies (no save). If a ward is destroyed while a kami is not merged with it, the kami loses its merge with ward ability and its fast healing, and becomes permanently sickened."
 			],
 			"bestows_tags": [
-				"creature-subtype:kami"
+				"creature-subtype:kami",
+				"immune:bleed",
+				"immune:mind-affecting",
+				"immune:petrification",
+				"immune:polymorph"
 			],
 			"prerequisites": [
 				{
@@ -1177,7 +1271,8 @@
 				"Unnerving Gaze (Su) All kytons have a gaze attack that manipulates the perceptions of those who look upon them. An unnerving gaze has a range of 30 feet, and can be negated by a Will save-the exact effects caused by a particular kyton's unnerving gaze depend on the type of kyton. All kytons are immune to the unnerving gazes of other kytons. Unnerving gaze is always a mind-affecting fear effect. The save DC is Charisma-based."
 			],
 			"bestows_tags": [
-				"creature-subtype:kyton"
+				"creature-subtype:kyton",
+				"immune:cold"
 			],
 			"prerequisites": [
 				{
@@ -1221,7 +1316,10 @@
 				"Verdant Burst (Su): When slain, a leshy explodes in a burst of fertile energies. All plant creatures within 30 feet of a slain leshy heal 1d8 points of damage plus 1 point per HD of the slain leshy, and plant life of the same type as the leshy itself quickly infests the area. If the terrain can support this type of plant, the undergrowth is dense enough to make the region into difficult terrain for 24 hours, after which the plant life diminishes to a normal level; otherwise, the plant life has no significant effect on movement and withers and dies within an hour."
 			],
 			"bestows_tags": [
-				"creature-subtype:leshy"
+				"creature-subtype:leshy",
+				"basic:low-light-vision",
+				"immune:electricity",
+				"immune:sonic"
 			],
 			"prerequisites": [
 				{
@@ -1250,8 +1348,13 @@
 				"Soul Armor (Ex): Manasaputras add their Wisdom bonus to their AC and CMD. In addition, manasaputras gain a +1 bonus to their AC and CMD for every 4 racial HD they possess. These bonuses work as per the AC bonus monk class ability, and monk levels stack with racial HD to determine the additional benefits.",
 				"Subjective Appearance (Su): When in corporeal form, a manasaputra projects a psychic illusion over its body, masking its true appearance. Any creature with an Intelligence score of 3 or higher that views a manasaputra sees it as an idealized human form, though often with unusual features. Creatures physically interacting with a manasaputra can attempt a Will save (DC = 10 + 1/2 the manasaputra's HD + the manasaputra's Charisma modifier) to disbelieve the illusion. If successful, the character sees the corporeal veil as a translucent outline, with the fiery body of the manasaputra contained within. This is a mind-affecting illusion (glamer) effect."
 			],
+			"removes_tags": [
+				"basic:breathes"
+			],
 			"bestows_tags": [
-				"creature-subtype:manasaputra"
+				"creature-subtype:manasaputra",
+				"immune:disease",
+				"immune:poison"
 			],
 			"prerequisites": [
 				{
@@ -1367,7 +1470,8 @@
 				"Summon (Sp) Nightshades can summon undead creatures. They can be summoned only within areas of darkness, and summoned undead cannot create spawn. The exact type and number of undead they can summon vary according to the nightshade in question, as detailed in each nightshade's entry."
 			],
 			"bestows_tags": [
-				"creature-subtype:nightshade"
+				"creature-subtype:nightshade",
+				"basic:low-light-vision"
 			],
 			"prerequisites": [
 				{
@@ -1390,7 +1494,8 @@
 				"Regeneration (Ex) The rate of regeneration and damage type that suspends it depends on the type of oni, but is typically acid or fire."
 			],
 			"bestows_tags": [
-				"creature-subtype:oni"
+				"creature-subtype:oni",
+				"basic:low-light-vision"
 			],
 			"prerequisites": [
 				{
@@ -1475,7 +1580,9 @@
 				"| 20 | Portions of target's body burst with energy of a random type (choose between acid, cold, electricity, or fire), dealing 4d6 points of damage of the appropriate type to the target. |"
 			],
 			"bestows_tags": [
-				"creature-subtype:protean"
+				"creature-subtype:protean",
+				"immune:acid",
+				"immune:polymorph"
 			],
 			"prerequisites": [
 				{
@@ -1502,7 +1609,10 @@
 				"Spiritsense (Su): A psychopomp notices, locates, and can distinguish between living and undead creatures within 60 feet, just as if it had the blindsight ability. This sense does not allow it to detect objects, but it does allow it to notice living things that are not creatures."
 			],
 			"bestows_tags": [
-				"creature-subtype:psychopomp"
+				"creature-subtype:psychopomp",
+				"immune:death-effects",
+				"immune:disease",
+				"immune:poison"
 			],
 			"prerequisites": [
 				{
@@ -1527,7 +1637,10 @@
 				"Except where otherwise noted, qlippoth speak Abyssal."
 			],
 			"bestows_tags": [
-				"creature-subtype:qlippoth"
+				"creature-subtype:qlippoth",
+				"immune:cold",
+				"immune:mind-affecting",
+				"immune:poison"
 			],
 			"prerequisites": [
 				{
@@ -1618,7 +1731,9 @@
 				"Laser Weapons (Ex): A laser weapon emits beams of intensely focused light waves. Laser attacks resolve as touch attacks and deal fire damage. A laser can pass through force fields and force effects like a wall of force without damaging that field to strike a foe beyond. Objects like glass or other transparent barriers don't provide cover from lasers (but unlike force barriers, glass still takes damage from a laser strike passing through it). Invisible creatures are immune to damage caused by a laser weapon. Fog, smoke, and other clouds provide cover in addition to concealment from laser attacks."
 			],
 			"bestows_tags": [
-				"creature-subtype:robot"
+				"creature-subtype:robot",
+				"vulnerable:electricity",
+				"vulnerable:critical-hits"
 			],
 			"prerequisites": [
 				{
@@ -1649,7 +1764,12 @@
 				"Spirit Touch (Ex): A sahkil's natural weapons, as well as any weapon it wields, are treated as though they had the ghost touch weapon special ability."
 			],
 			"bestows_tags": [
-				"creature-subtype:sahkil"
+				"creature-subtype:sahkil",
+				"basic:low-light-vision",
+				"immune:death-effects",
+				"immune:disease",
+				"immune:fear",
+				"immune:poison"
 			],
 			"prerequisites": [
 				{
@@ -1740,7 +1860,8 @@
 				"Unstoppable Force (Ex) A spawn of Rovagug can always charge, even if its movement is impeded or its path is blocked by another creature. It receives a +20 racial bonus on combat maneuver checks to overrun and Strength checks to break or destroy objects, and can make one such check as a free action as part of a charge. In addition, the natural weapons of a spawn of Rovagug ignore all forms of damage reduction and hardness."
 			],
 			"bestows_tags": [
-				"creature-subtype:spawn-of-rovagug"
+				"creature-subtype:spawn-of-rovagug",
+				"immune:divination"
 			],
 			"prerequisites": [
 				{
@@ -1778,7 +1899,13 @@
 				"Swarms possess the distraction universal monster rule. Spellcasting or concentrating on spells within the area of a swarm requires a caster level check (DC 20 + spell level). Using skills that involve patience and concentration requires a DC 20 Will save."
 			],
 			"bestows_tags": [
-				"creature-subtype:swarm"
+				"creature-subtype:swarm",
+				"basic:no-unconscious",
+				"immune:critical-hits",
+				"immune:flanking",
+				"immune:trip",
+				"immune:grapple",
+				"immune:bull-rush"
 			],
 			"TODO-ABILITIES": true,
 			"TODO-SCORES": true
@@ -1807,7 +1934,9 @@
 				"Looting Troops: Although troops are composed of a number of individual creatures, the chaos and destruction of battle means that not all of these creatures' equipment survives the rigors of combat. As a result, parties who wish to claim usable gear or treasure from slain foes treat a troop as a single creature for the purposes of looting, and should be able to recover gear worth a total value equal to the troop's expected treasure value (as determined by the troop's CR)."
 			],
 			"bestows_tags": [
-				"creature-subtype:troop"
+				"creature-subtype:troop",
+				"immune:flanking",
+				"basic:no-unconscious"
 			],
 			"TODO-ABILITIES": true,
 			"TODO-SCORES": true
@@ -1900,7 +2029,10 @@
 				"Wild Hunt Link (Su): Members of the wild hunt can communicate telepathically across great distances and share abilities with each other. As long as a member of the hunt is not more than 500 feet away from the nearest other member of its hunt, it can participate in the wild hunt link. Each wild hunt creature shares a different set of abilities with other creatures in the link. A lone member of the wild hunt does not gain the benefit of any abilities it grants via its wild hunt link, and identical abilities granted by multiple wild hunt fey do not stack."
 			],
 			"bestows_tags": [
-				"creature-subtype:wild-hunt"
+				"creature-subtype:wild-hunt",
+				"immune:cold",
+				"basic:scent",
+				"basic:see-in-darkness"
 			],
 			"prerequisites": [
 				{

@@ -1,12 +1,18 @@
 {
-    "category": "creature types",
+	"category": "creature types",
 	"value_type": "ability",
 	"standard_properties": [
 		"description"
 	],
 	"searchable_properties": {
 	},
-    "list": [
+	"shared_properties":{
+		"order": {
+			"removes_tags": 100,
+			"bestows_tags": 101
+		}
+	},
+	"list": [
 		{
 			"name": "aberration",
 			"description": [
@@ -47,13 +53,23 @@
 				"* Proficient with no armor unless trained for war. (See FAQs and Handle Animal Skill.)",
 				"* Animals breathe, eat, and sleep."
 			],
+			"removes_tags": [
+				"alignment:LG",
+				"alignment:LN",
+				"alignment:LE",
+				"alignment:NG",
+				"alignment:NE",
+				"alignment:CG",
+				"alignment:CN",
+				"alignment:CE"
+			],
 			"bestows_tags": [
 				"creature-type:animal",
 				"basic:breathes",
 				"basic:eats",
 				"basic:sleeps",
 				"alignment:N",
-				"sense:low-light-vision"
+				"basic:low-light-vision"
 			]
 		},
 		{
@@ -94,7 +110,7 @@
 			],
 			"bestows_tags": [
 				"creature-type:construct",
-				"sense:low-light-vision",
+				"basic:low-light-vision",
 				"immune:mind-affecting",
 				"immune:bleed",
 				"immune:death-effects",
@@ -140,11 +156,11 @@
 				"immune:paralysis"
 			]
 		},
-        {
-            "name": "fey",
-            "description": [
+		{
+			"name": "fey",
+			"description": [
 				"A fey is a creature with supernatural abilities and connections to nature or to some other force or place. Fey are usually human-shaped.",
-				"A fey has the following features.",                
+				"A fey has the following features.",				
 				"* d6 Hit Die.",
 				"* Base attack bonus equal to 1/2 total Hit Dice (slow progression).",
 				"* Good Reflex and Will Saves.",
@@ -154,18 +170,18 @@
 				"* Proficient with all simple weapons and any weapons mentioned in its entry.",
 				"* Proficient with whatever type of armor (light, medium, or heavy) it is described as wearing, as well as all lighter types. Fey not indicated as wearing armor are not proficient with armor. Fey are proficient with shields if they are proficient with any form of armor.",
 				"* Fey breathe, eat, and sleep."
-            ],
+			],
 			"bestows_tags": [
 				"creature-type:aberration",
-				"sense:low-light-vision",
+				"basic:low-light-vision",
 				"basic:breathes",
 				"basic:eats",
 				"basic:sleeps"
 			]
-        },
-        {
-            "name": "humanoid",
-            "description": [
+		},
+		{
+			"name": "humanoid",
+			"description": [
 				"A humanoid usually has two arms, two legs, and one head, or a human-like torso, arms, and a head. humanoids have few or no supernatural or extraordinary abilities, but most can speak and usually have well-developed societies. They are usually Small or Medium (with the exception of giants). Every humanoid creature also has a specific subtype to match its race, such as human, dark folk, or goblinoid.",
 				"Humanoids with 1 Hit Die exchange the features of their humanoid Hit Die for the class features of a PC or NPC class. Humanoids of this sort are typically presented as 1st-level warriors, which means they have average combat ability and poor saving throws. Humanoids with more than 1 Hit Die (such as giants) are the only humanoids who make use of the features of the humanoid type.",
 				"A humanoid has the following features (unless otherwise noted in a creature's entry).",
@@ -177,14 +193,14 @@
 				"* Proficient with all simple weapons, or by character class.",
 				"* Proficient with whatever type of armor (light, medium, or heavy) it is described as wearing, or by character class. If a humanoid does not have a class and wears armor, it is proficient with that type of armor and all lighter types. Humanoids not indicated as wearing armor are not proficient with armor. Humanoids are proficient with shields if they are proficient with any form of armor.",
 				"* Humanoids breathe, eat, and sleep."
-            ],
+			],
 			"bestows_tags": [
 				"creature-type:humanoid",
 				"basic:breathes",
 				"basic:eats",
 				"basic:sleeps"
 			]
-        },
+		},
 		{
 			"name": "magical beast",
 			"description": [
@@ -203,7 +219,7 @@
 			],
 			"bestows_tags": [
 				"creature-type:magical-beast",
-				"sense:low-light-vision",
+				"basic:low-light-vision",
 				"basic:breathes",
 				"basic:eats",
 				"basic:sleeps"
@@ -252,7 +268,7 @@
 			],
 			"bestows_tags": [
 				"creature-type:ooze",
-				"sense:low-light-vision",
+				"basic:low-light-vision",
 				"basic:breathes",
 				"basic:eats",
 				"basic:blind",
@@ -309,7 +325,7 @@
 			],
 			"bestows_tags": [
 				"creature-type:plant",
-				"sense:low-light-vision",
+				"basic:low-light-vision",
 				"basic:breathes",
 				"basic:eats",
 				"immune:mind-affecting",
@@ -397,5 +413,5 @@
 				"immune:mind-affecting"
 			]
 		}
-    ]
+	]
 }

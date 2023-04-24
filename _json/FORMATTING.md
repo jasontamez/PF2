@@ -2,35 +2,72 @@
 
 ## Flags
 
-### These should be obvious
-
-* creature-type:outsider
-* creature-subtype:native
-* immune:poison
-  * petrification, critical-hits, precision-damage, flanking, stun, sleep, stun, paralysis, bleed, mind-affecting, disease, death-effects, death-massive-damage, fortitude-saves (immune to anything requiring a Fortitude save, unless it can affect objects and/or is harmless), nonlethal, ability-drain, ability-damage (you can also specify only certain types of damage, like constitution-damage or strength-damage), energy-drain, exhaustion, fatigue, polymorph
-* language:draconic
-
-### Basics
+### `basic:`
 
 A creature without one of these tags does not perform that basic function.
 
-* basic:eats
-* basic:sleeps
-* basic:breathes
+* `eats`
+* `sleeps`
+* `breathes`
+* `ages`
 
 Other tags can indicate special properties.
 
-* basic:no-unconscious
+* `low-light-vision`
+* `scent`
+* `see-in-darkness`
+* `no-unconscious`
   * The creature can't go unconscious and is destroyed at 0 hit points
-* basic:no-constitution
-* basic:blind
+* `no-constitution`
+* `blind`
   * The creature is immune to gaze attacks and the like
 
 ---
 
-### Senses
+### `immune:`
 
-* sense:low-light-vision
+* `ability-damage` - immune to all ability damage; specific stats can be immune, too
+  * `constitution-damage`
+  * `dexterity-damage`
+  * `strength-damage`
+* `ability-drain`
+* `aging`
+* `bleed`
+* `critical-hits`
+* `curses`
+* `death-effects`
+* `death-massive-damage` - immune to death from massive damage
+* `disease`
+* `divination`
+* `energy-drain`
+* `exhaustion`
+* `fatigue`
+* `fear` - fear effects
+* `flanking`
+* `fortitude-saves` - immune to anything requiring a Fortitude save, unless it can affect objects and/or is harmless
+* `mind-affecting`
+* `necromancy` - school of magic, necromancy effects
+* `immune:negative-levels`
+* `nonlethal`
+* `paralysis`
+* `permanent-wounds`
+* `poison`
+* `polymorph`
+* `precision-damage` - immune to sneak attack, etc
+* `sleep` - immune to magic sleep effects
+* `stun`
+* specific combat maneuvers:
+  * `bull-rush`
+  * `grapple`
+  * `trip`
+
+### Others
+
+* `creature-type:` - "undead", "humanoid", etc
+* `creature-subtype:` - "fire", "good", "orc", "human", etc
+* `alignment:` - "LG", "N", "CE", etc
+* `language:` - "draconic", "celestial", "dwarven", etc
+* `vulnerable:` - "fire", "cold", "critical-hits", etc
 
 ---
 
@@ -38,10 +75,17 @@ Other tags can indicate special properties.
 
 ### Format
 
-* Purpose: name property / value property type / tags, ...
+Purpose: category / sample name properties / tags, ...
 
 ### Simple
 
-* Resistances: electricity / `INTEGER` / resistance
+* `INTEGER`
+  * Resistances: resist / electricity|fire|etc / resistance,resistance-electricity|-fire|etc
+  * Speeds: speed / base|fly|swim|burrow|etc / speed,speed-base|-fly|-swim|etc
 
 ## Abilities
+
+* By Category
+  * `feat`
+  * `trait`
+  * `species` - replaces "race" and "monster"
