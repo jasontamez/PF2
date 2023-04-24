@@ -80,7 +80,7 @@ Example:
 {
   "feat": {
     "_value": "name",
-    "query": "ability",
+    "query": "feature",
     "category": "feat"
   },
   "creature": {
@@ -113,7 +113,7 @@ Becomes equal to these `LookupObjects`:
 
 ```json
 {
-  "query": "ability",
+  "query": "feature",
   "category": "feat",
   "name": "Fancy!"
 },
@@ -136,7 +136,7 @@ Becomes equal to these `LookupObjects`:
 
 ### Basic `Values`
 
-#### `"ability"`
+#### `"feature"`
 
 An Object that describes some sort of interaction
 
@@ -192,7 +192,7 @@ An object declaring all shorthand lookup properties the `Values` may use
 ### Lookups
 
 * **Global properties**
-  * `"query": ENUM "ability", "score", "flag", "bonus"` - The type of `Value` we're looking for
+  * `"query": ENUM "feature", "score", "flag", "bonus"` - The type of `Value` we're looking for
   * `"find": LookupObject` - A generic "wrapper", to combine a Lookup with other operations (e.g. `"quantity"` below)
   * `"find_any": ARRAY_LookupObject` - As above, but only one included `LookupObject` needs to match
   * `"find_all": ARRAY_LookupObject` - As above, but **all** included `LookupObjects` need to match
@@ -209,7 +209,7 @@ An object declaring all shorthand lookup properties the `Values` may use
   * `"has_tag_type": STRING` - Looking for something that has a tag with the listed prefix
   * `"quantity": INTEGER` - Looking for at least the indicated number of separate things
 
-* **Ability properties**
+* **Feature properties**
   * `"category": STRING` - Looking for an ability with the listed category
   * `"categories_any": ARRAY_STRING` - Looking for an ability with any of the the listed categories
 

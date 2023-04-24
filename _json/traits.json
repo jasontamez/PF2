@@ -4,7 +4,7 @@
 		"Some 'ethnic' options feel like subraces or racial traits, too"
 	],
 	"category": "trait",
-	"value_type": "ability",
+	"value_type": "feature",
 	"standard_properties": [
 		"types",
 		"sources",
@@ -16,72 +16,72 @@
 		"god": {
 			"_value": "name",
 			"category": "deity",
-			"ability": true
+			"feature": true
 		},
 		"god_any": {
 			"_value": "name_any",
 			"category": "deity",
-			"ability": true
+			"feature": true
 		},
 		"creature": {
 			"_value": "name",
 			"category": "species",
-			"ability": true
+			"feature": true
 		},
 		"creature_any": {
 			"_value": "name_any",
 			"category": "species",
-			"ability": true
+			"feature": true
 		},
 		"region": {
 			"_value": "name",
 			"category": "region",
-			"ability": true
+			"feature": true
 		},
 		"region_any": {
 			"_value": "name_any",
 			"category": "region",
-			"ability": true
+			"feature": true
 		},
 		"mount": {
 			"_value": "name",
 			"category": "mount -- TYPE OF MOUNT?",
-			"ability": true
+			"feature": true
 		},
 		"mount_any": {
 			"_value": "name_any",
 			"category": "mount -- TYPE OF MOUNT?",
-			"ability": true
+			"feature": true
 		},
 		"ethnic": {
 			"_value": "name",
 			"category": "ethnicity",
-			"ability": true
+			"feature": true
 		},
 		"ethnic_any": {
 			"_value": "name_any",
 			"category": "ethnicity",
-			"ability": true
+			"feature": true
 		},
 		"group": {
 			"_value": "name",
 			"category": "affiliation",
-			"ability": true
+			"feature": true
 		},
 		"group_any": {
 			"_value": "name_any",
 			"category": "affiliation",
-			"ability": true
+			"feature": true
 		},
 		"faction": {
 			"_value": "name",
 			"name": "faction",
-			"ability": true
+			"feature": true
 		},
 		"campaign": {
 			"_value": "name",
 			"name": "faction",
-			"ability": true
+			"feature": true
 		}
 	},
 	"list": [

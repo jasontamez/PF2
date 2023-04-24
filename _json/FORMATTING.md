@@ -83,7 +83,7 @@ Purpose: category / sample name properties / tags, ...
   * Resistances: resist / electricity|fire|etc / resistance,resistance-electricity|-fire|etc
   * Speeds: speed / base|fly|swim|burrow|etc / speed,speed-base|-fly|-swim|etc
 
-## Abilities
+## Features
 
 * By Category
   * `feat`
