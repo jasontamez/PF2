@@ -1,5 +1,7 @@
 # Plan?
 
+System should specify sheets and all relevant JSON files. The sheet should describe what it needs and at least two output formats, one for printing, one for generating and updating. The latter one should only show what is currently fillable (?) and have some help text for what is needed.
+
 ## TO-DO
 
 * Trait CREATURES, UNFINISHED, etc

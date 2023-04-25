@@ -1,0 +1,179 @@
+{
+	"_information": [
+		"notes"
+	],
+	"direct_user_input": {
+		"INTEGER": [
+			{
+				"name": "base strength score",
+				"value": 10
+			},
+			{
+				"name": "base dexterity score",
+				"value": 10
+			},
+			{
+				"name": "base constitution score",
+				"value": 10
+			},
+			{
+				"name": "base intelligence score",
+				"value": 10
+			},
+			{
+				"name": "base wisdom score",
+				"value": 10
+			},
+			{
+				"name": "base charisma score",
+				"value": 10
+			}
+		]
+	},
+	"automations": [
+		{
+			"name": "Random Ability Scores",
+			"operations": {
+				"ROLL": {
+					"random_int": [1, 6]
+				}
+			},
+			"methods": [
+				{
+					"name": "Classic (3d6)",
+					"formula": [
+						[
+							"set score",
+							"base strength score",
+							[
+								"add",
+								"ROLL",
+								"ROLL",
+								"ROLL"
+							]
+						],
+						[
+							"set score",
+							"base dexterity score",
+							[
+								"add",
+								"ROLL",
+								"ROLL",
+								"ROLL"
+							]
+						],
+						[
+							"set score",
+							"base constitution score",
+							[
+								"add",
+								"ROLL",
+								"ROLL",
+								"ROLL"
+							]
+						],
+						[
+							"set score",
+							"base intelligence score",
+							[
+								"add",
+								"ROLL",
+								"ROLL",
+								"ROLL"
+							]
+						],
+						[
+							"set score",
+							"base wisdom score",
+							[
+								"add",
+								"ROLL",
+								"ROLL",
+								"ROLL"
+							]
+						],
+						[
+							"set score",
+							"base charisma score",
+							[
+								"add",
+								"ROLL",
+								"ROLL",
+								"ROLL"
+							]
+						]
+					]
+				},
+				{
+					"name": "Standard (4d6, drop lowest)",
+					"formula": []
+				},
+				{
+					"name": "Heroic (2d6 + 6)",
+					"formula": [
+						[
+							"set score",
+							"base strength score",
+							[
+								"add",
+								"ROLL",
+								"ROLL",
+								6
+							]
+						],
+						[
+							"set score",
+							"base dexterity score",
+							[
+								"add",
+								"ROLL",
+								"ROLL",
+								6
+							]
+						],
+						[
+							"set score",
+							"base constitution score",
+							[
+								"add",
+								"ROLL",
+								"ROLL",
+								6
+							]
+						],
+						[
+							"set score",
+							"base intelligence score",
+							[
+								"add",
+								"ROLL",
+								"ROLL",
+								6
+							]
+						],
+						[
+							"set score",
+							"base wisdom score",
+							[
+								"add",
+								"ROLL",
+								"ROLL",
+								6
+							]
+						],
+						[
+							"set score",
+							"base charisma score",
+							[
+								"add",
+								"ROLL",
+								"ROLL",
+								6
+							]
+						]
+					]
+				}
+			]
+		}
+	]
+}
