@@ -34,11 +34,264 @@
 		{
 			"name": "Random Ability Scores",
 			"operations": {
-				"ROLL": {
-					"random_int": [1, 6]
-				}
+				"ROLL": [
+					"random_int",
+					1,
+					6
+				]
 			},
 			"methods": [
+				{
+					"name": "Standard (4d6, drop lowest)",
+					"formula": [
+						[
+							"store",
+							"A",
+							"ROLL"
+						],
+						[
+							"store",
+							"B",
+							"ROLL"
+						],
+						[
+							"store",
+							"C",
+							"ROLL"
+						],
+						[
+							"store",
+							"D",
+							"ROLL"
+						],
+						[
+							"set score",
+							"basic strength score",
+							[
+								"subtract",
+								[
+									"add",
+									"A",
+									"B",
+									"C",
+									"D"
+								],
+								[
+									"min",
+									"A",
+									"B",
+									"C",
+									"D"
+								]
+							]
+						],
+						[
+							"store",
+							"A",
+							"ROLL"
+						],
+						[
+							"store",
+							"B",
+							"ROLL"
+						],
+						[
+							"store",
+							"C",
+							"ROLL"
+						],
+						[
+							"store",
+							"D",
+							"ROLL"
+						],
+						[
+							"set score",
+							"basic dexterity score",
+							[
+								"subtract",
+								[
+									"add",
+									"A",
+									"B",
+									"C",
+									"D"
+								],
+								[
+									"min",
+									"A",
+									"B",
+									"C",
+									"D"
+								]
+							]
+						],
+						[
+							"store",
+							"A",
+							"ROLL"
+						],
+						[
+							"store",
+							"B",
+							"ROLL"
+						],
+						[
+							"store",
+							"C",
+							"ROLL"
+						],
+						[
+							"store",
+							"D",
+							"ROLL"
+						],
+						[
+							"set score",
+							"basic constitution score",
+							[
+								"subtract",
+								[
+									"add",
+									"A",
+									"B",
+									"C",
+									"D"
+								],
+								[
+									"min",
+									"A",
+									"B",
+									"C",
+									"D"
+								]
+							]
+						],
+						[
+							"store",
+							"A",
+							"ROLL"
+						],
+						[
+							"store",
+							"B",
+							"ROLL"
+						],
+						[
+							"store",
+							"C",
+							"ROLL"
+						],
+						[
+							"store",
+							"D",
+							"ROLL"
+						],
+						[
+							"set score",
+							"basic intelligence score",
+							[
+								"subtract",
+								[
+									"add",
+									"A",
+									"B",
+									"C",
+									"D"
+								],
+								[
+									"min",
+									"A",
+									"B",
+									"C",
+									"D"
+								]
+							]
+						],
+						[
+							"store",
+							"A",
+							"ROLL"
+						],
+						[
+							"store",
+							"B",
+							"ROLL"
+						],
+						[
+							"store",
+							"C",
+							"ROLL"
+						],
+						[
+							"store",
+							"D",
+							"ROLL"
+						],
+						[
+							"set score",
+							"basic wisdom score",
+							[
+								"subtract",
+								[
+									"add",
+									"A",
+									"B",
+									"C",
+									"D"
+								],
+								[
+									"min",
+									"A",
+									"B",
+									"C",
+									"D"
+								]
+							]
+						],
+						[
+							"store",
+							"A",
+							"ROLL"
+						],
+						[
+							"store",
+							"B",
+							"ROLL"
+						],
+						[
+							"store",
+							"C",
+							"ROLL"
+						],
+						[
+							"store",
+							"D",
+							"ROLL"
+						],
+						[
+							"set score",
+							"basic charisma score",
+							[
+								"subtract",
+								[
+									"add",
+									"A",
+									"B",
+									"C",
+									"D"
+								],
+								[
+									"min",
+									"A",
+									"B",
+									"C",
+									"D"
+								]
+							]
+						]
+					]
+				},
 				{
 					"name": "Classic (3d6)",
 					"formula": [
@@ -103,10 +356,6 @@
 							]
 						]
 					]
-				},
-				{
-					"name": "Standard (4d6, drop lowest)",
-					"formula": []
 				},
 				{
 					"name": "Heroic (2d6 + 6)",
@@ -174,6 +423,12 @@
 					]
 				}
 			]
+		}
+	],
+	"bestow_scores": [
+		{
+			"name": "strength score",
+			"formula": []
 		}
 	]
 }

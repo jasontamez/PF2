@@ -38,9 +38,9 @@ any whole number
 
 ### `FormatObject`
 
-An object with properties describing how certain properties are formatted:
+An object with properties declaring how certain properties are formatted:
 
-```json
+```javascript
 {
   "STRING": [         // these properties will be strings
     "prop1",
@@ -58,13 +58,13 @@ An object with properties describing how certain properties are formatted:
 
 ### `LookupObject`
 
-An object designed to be used as a query; see the **Lookups** section below
+An object designed to be used as a query that returns either true or false; see the **Lookups** section below
 
 ### `ShorthandLookupObject`
 
 An object with properties describing certain non-standard lookups that may be used; one of the properties below is generally required:
 
-```json
+```javascript
 {
   "lookup1": {
     "_value": ANY, // A lookup property; when the shorthand is called, it's value will be mapped to that property
