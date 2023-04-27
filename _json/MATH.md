@@ -41,7 +41,8 @@ Formulae should be in Array form, as the order of Arrays is kept consistent when
 
 ## General Operations
 
-* `"store", STR, ANY` - saves any value under the title of the given string so it can be used later
+* `"store", STR, ANY`
+  * saves any value under the title of the given string so it can be used later
 ```javascript
 [
   ["store", "X", 5], // makes a variable X equal to 5
@@ -50,11 +51,17 @@ Formulae should be in Array form, as the order of Arrays is kept consistent when
   ["add", "X", 3]    // adds the variable X to 3, yielding 9
 ]
 ```
-* `"get score", STR` - gets the current value of the given score (string)
-* `"set score", STR, NUM` - sets the given score (string) to the given number
-* `"get bonuses", STR`
+* `"filter", LookupObject, ANY...`
+  * looks through the given `Values` and keeps only the ones who match the `LookupObject`?
+
+## Getters and Setters
+
+* `"get [score|input|bonus|flag]", STR` - gets the current value of the given score, input, bonus or flag (string)
+* `"set input", STR, Value` - sets the given input to the given `Value`
 
 ## Numeric Operations
+
+### Returns single result
 
 * `"add", NUM, NUM...` - adds all elements together
 * `"subtract", NUM, NUM...` - starts with the first element, then subtracts the next elements one at a time
@@ -87,7 +94,25 @@ Formulae should be in Array form, as the order of Arrays is kept consistent when
                      //    to the nearest higher integer!)
 ```
 
+### Return multiple results
+
+* `"limit >", NUM, NUM...` - takes the first number and returns all subsequent numbers that are greater than that first number
+  * >, >=, <, <=, and = are all valid limits
+* `"query", LookupObject...` - returns the values of any/all scores/bonuses/whatever that match all `LookupObjects` supplied
+
 ## Query Objects
 
 * `QueryObjects` are basically `LookupObjects` with an additional `"render"` property?
 
+```javascript
+{
+    "query": [
+        // One or more LookupObjects
+    ],
+    "formula": []
+}
+```
+
+## Conditionals and Loops
+
+* `"repeat by type", LookupObject...`

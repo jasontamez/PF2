@@ -2,7 +2,7 @@
 	"_information": [
 		"notes"
 	],
-	"direct_user_input": {
+	"user_input": {
 		"INTEGER": [
 			{
 				"name": "base strength score",
@@ -65,7 +65,7 @@
 							"ROLL"
 						],
 						[
-							"set score",
+							"set input",
 							"basic strength score",
 							[
 								"subtract",
@@ -106,7 +106,7 @@
 							"ROLL"
 						],
 						[
-							"set score",
+							"set input",
 							"basic dexterity score",
 							[
 								"subtract",
@@ -147,7 +147,7 @@
 							"ROLL"
 						],
 						[
-							"set score",
+							"set input",
 							"basic constitution score",
 							[
 								"subtract",
@@ -188,7 +188,7 @@
 							"ROLL"
 						],
 						[
-							"set score",
+							"set input",
 							"basic intelligence score",
 							[
 								"subtract",
@@ -229,7 +229,7 @@
 							"ROLL"
 						],
 						[
-							"set score",
+							"set input",
 							"basic wisdom score",
 							[
 								"subtract",
@@ -270,7 +270,7 @@
 							"ROLL"
 						],
 						[
-							"set score",
+							"set input",
 							"basic charisma score",
 							[
 								"subtract",
@@ -296,7 +296,7 @@
 					"name": "Classic (3d6)",
 					"formula": [
 						[
-							"set score",
+							"set input",
 							"base strength score",
 							[
 								"add",
@@ -306,7 +306,7 @@
 							]
 						],
 						[
-							"set score",
+							"set input",
 							"base dexterity score",
 							[
 								"add",
@@ -316,7 +316,7 @@
 							]
 						],
 						[
-							"set score",
+							"set input",
 							"base constitution score",
 							[
 								"add",
@@ -326,7 +326,7 @@
 							]
 						],
 						[
-							"set score",
+							"set input",
 							"base intelligence score",
 							[
 								"add",
@@ -336,7 +336,7 @@
 							]
 						],
 						[
-							"set score",
+							"set input",
 							"base wisdom score",
 							[
 								"add",
@@ -346,7 +346,7 @@
 							]
 						],
 						[
-							"set score",
+							"set input",
 							"base charisma score",
 							[
 								"add",
@@ -361,7 +361,7 @@
 					"name": "Heroic (2d6 + 6)",
 					"formula": [
 						[
-							"set score",
+							"set input",
 							"base strength score",
 							[
 								"add",
@@ -371,7 +371,7 @@
 							]
 						],
 						[
-							"set score",
+							"set input",
 							"base dexterity score",
 							[
 								"add",
@@ -381,7 +381,7 @@
 							]
 						],
 						[
-							"set score",
+							"set input",
 							"base constitution score",
 							[
 								"add",
@@ -391,7 +391,7 @@
 							]
 						],
 						[
-							"set score",
+							"set input",
 							"base intelligence score",
 							[
 								"add",
@@ -401,7 +401,7 @@
 							]
 						],
 						[
-							"set score",
+							"set input",
 							"base wisdom score",
 							[
 								"add",
@@ -411,7 +411,7 @@
 							]
 						],
 						[
-							"set score",
+							"set input",
 							"base charisma score",
 							[
 								"add",
@@ -425,10 +425,26 @@
 			]
 		}
 	],
+	"filters": {
+		
+	},
 	"bestow_scores": [
 		{
 			"name": "strength score",
-			"formula": []
+			"formula": [
+				"add",
+				[
+					"get input",
+					"base strength score"
+				],
+				[
+					"query",
+					{
+						"query": "bonus",
+						"has_tag": "stat:strength"
+					}
+				]
+			]
 		}
 	]
 }

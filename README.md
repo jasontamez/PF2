@@ -138,6 +138,10 @@ Becomes equal to these `LookupObjects`:
 
 ### Basic `Values`
 
+### `"input"`
+
+A `STRING`, `NUMBER` or `INTEGER` submitted by the end user
+
 #### `"feature"`
 
 An Object that describes some sort of interaction
@@ -152,7 +156,7 @@ A static value that can be assigned to multiple things
 
 #### `"score"`
 
-An object that collects `bonuses` and/or `flags` and returns a value, usually an `INTEGER` or `NUMBER`
+An object that collects `inputs`, `bonuses` and/or `flags` and returns a value, usually an `INTEGER` or `NUMBER`
 
 ---
 
