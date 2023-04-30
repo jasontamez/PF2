@@ -425,25 +425,75 @@
 			]
 		}
 	],
-	"filters": {
-		
+	"formula_shorthands": {
+		"standard score": {
+			"arguments": [
+				"BASE",
+				"TAG"
+			],
+			"formula": [
+				"add",
+				[
+					"get input",
+					"BASE"
+				],
+				[
+					"calculate bonuses by type",
+					{
+						"query": "bonus",
+						"has_tag": "TAG"
+					}
+				]
+			]
+		}
 	},
 	"bestow_scores": [
 		{
 			"name": "strength score",
 			"formula": [
-				"add",
-				[
-					"get input",
-					"base strength score"
-				],
-				[
-					"query",
-					{
-						"query": "bonus",
-						"has_tag": "stat:strength"
-					}
-				]
+				"standard score",
+				"base strength score",
+				"stat:strength"
+			]
+		},
+		{
+			"name": "dexterity score",
+			"formula": [
+				"standard score",
+				"base dexterity score",
+				"stat:dexterity"
+			]
+		},
+		{
+			"name": "constitution score",
+			"formula": [
+				"standard score",
+				"base constitution score",
+				"stat:constitution"
+			]
+		},
+		{
+			"name": "intelligence score",
+			"formula": [
+				"standard score",
+				"base intelligence score",
+				"stat:intelligence"
+			]
+		},
+		{
+			"name": "wisdom score",
+			"formula": [
+				"standard score",
+				"base wisdom score",
+				"stat:wisdom"
+			]
+		},
+		{
+			"name": "charisma score",
+			"formula": [
+				"standard score",
+				"base charisma score",
+				"stat:charisma"
 			]
 		}
 	]
