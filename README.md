@@ -208,13 +208,14 @@ A list of "types" associated with this `Value`, most likely visible to end-user
 
 The properties of this object correspond to `bestow_` and `remove_` properties of the `Value`; each property resolves to an `INTEGER` that describes when they should be executed, starting with the lowest number
 
-    *Example:*
-    ```json
-    "order": {
-			"removes_tags": 100,
-			"bestows_tags": 101
-		}
-    ```
+*Example:*
+
+```json
+"order": {
+  "removes_tags": 100,
+  "bestows_tags": 101
+}
+```
 
 There should be a general list of numbers where certain `features` should be placed.
 

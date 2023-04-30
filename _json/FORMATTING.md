@@ -80,9 +80,9 @@ Other tags can indicate special properties.
 ### Simple
 
 * `INTEGER`
-  * Resistances: resistance / electricity|fire|etc / resistance,:electricity|:fire|etc
-  * Speeds: speed / base|fly|swim|burrow|etc / speed,:base|:fly|:swim|etc
-  * Senses: sense / darkvision|tremorsense|etc / 
+  * Resistances: resistance / electricity|fire|etc / resistance / electricity|:fire|etc
+  * Speeds: speed / base|fly|swim|burrow|etc / speed / base|:fly|:swim|etc
+  * Senses: sense / darkvision|tremorsense|etc / sense /
 
 ## Features
 
