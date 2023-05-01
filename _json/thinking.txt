@@ -1,0 +1,55 @@
+const escapeRegExp = (string) => string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+let list = [], ALL = {}, names = [], TREE = {}, SUBTOPICS = [], ROOT = [];
+
+list.forEach(item => {
+    let n = item.name;
+    names.push(n);
+    ALL[n] = item;
+});
+names.sort();
+list.forEach(item => {
+    const n = item.name;
+    const {description, subtopics} = item;
+    const d = (description || []).join("@");
+    const subs = [];
+    (subtopics || []).forEach(sub => {
+        let re = new RegExp("@\\[.+?\\]\\(unknown:" + escapeRegExp(sub) + "\\)@Source \\[");
+        let m = d.match(re);
+        if(m) {
+            subs.push(sub);
+            if(!TREE[sub]) {
+                TREE[sub] = {
+                    parents: [],
+                    kids: []
+                };
+            }
+            TREE.sub.parents.push(n);
+        }
+    });
+    if(subs.length) {
+        ALL[n].subtopics = subs;
+        if(!TREE[n]) {
+            TREE[n] = {
+                parents: [],
+                kids: []
+            }
+        }
+        TREE[n].kids.push(...subs);
+    } else if (subtopics) {
+        delete ALL[n].subtopics;
+    }
+});
+names.forEach(n => {
+    if(!TREE[n] || TREE[n].parents.length === 0) {
+        ROOT.push(ALL[n]);
+    } else {
+        SUBTOPICS.push(ALL[n]);
+    }
+});
+
+list.forEach(item => { let n = item.name; names.push(n); ALL[n] = item; }); names.sort(); list.forEach(item => { const n = item.name; const {description, subtopics} = item; const d = (description || []).join("@"); const subs = []; (subtopics || []).forEach(sub => { let re = new RegExp("@\\[.+?\\]\\(unknown:" + escapeRegExp(sub) + "\\)@Source \\["); let m = d.match(re); if(m) { subs.push(sub); if(!TREE[sub]) { TREE[sub] = { parents: [], kids: [] }; } TREE.sub.parents.push(n); } }); if(subs.length) { ALL[n].subtopics = subs; if(!TREE[n]) { TREE[n] = { parents: [], kids: [] } } TREE[n].kids.push(...subs); } else if (subtopics) { delete ALL[n].subtopics; } }); names.forEach(n => { if(!TREE[n] || TREE[n].parents.length === 0) { ROOT.push(ALL[n]); } else { SUBTOPICS.push(ALL[n]); } }); 
+
+
+
+
+
