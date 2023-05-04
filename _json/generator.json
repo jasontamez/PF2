@@ -31,7 +31,12 @@
 		]
 	},
 	"modules": [
-		"generator.js"
+		{
+			"file": "generator.js",
+			"functions": [
+				"calculateBonusesByType"
+			]
+		}
 	],
 	"automations": [
 		{

@@ -20,16 +20,18 @@ Quotation marks are an exception, they surround a string which should not be mut
 
 ### Order of operations
 
-- These should respect the standard "PEDMAS" order of operations, with one exception.
+- These should respect the standard "PEDMAS" order of operations, with one addition.
     1. Lookup Objects
         - Evaluate `LookupObjects` from left to right
     2. Parentheses and Functions
         - Innermost parentheses and functions are evaluated before outer, from left to right
     3. Exponents
         - Evaluated left to right
-    4. Division and Multiplication
+    4. Division
         - Evaluated left to right
-    5. Addition and Subtraction
+    5. Multiplication
+        - Evaluated left to right
+    6. Addition and Subtraction
         - Evaluated left to right
 
 ### General Functions
@@ -44,7 +46,7 @@ Quotation marks are an exception, they surround a string which should not be mut
 - `getScore(STRING)` - gets the current value of the given `score`
 - `getBonus(STRING)` - gets the current value of the given `bonus`
 - `getInput(STRING)` - gets the current value of the given `input`
-- `setInput(STRING, Value)` - sets the given input to the given `Value`
+- `setInput(STRING, Value)` - sets the given `input` to the given `Value`
 
 ### Numeric Operations
 
@@ -110,7 +112,7 @@ Quotation marks are an exception, they surround a string which should not be mut
 
 Formulae should be in Array form, as the order of Arrays is kept consistent when JSONs are parsed. Sub-arrays can be used like parentheses.
 
-`(-b + sqrt(b^2 - 4ac)) / 2a`
+`(-b + squareRoot(b^2 - 4*a*c)) / (2*a)`
 
 ```javascript
 [
