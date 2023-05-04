@@ -30,470 +30,120 @@
 			}
 		]
 	},
+	"modules": [
+		"generator.js"
+	],
 	"automations": [
 		{
 			"name": "Random Ability Scores",
-			"operations": {
-				"ROLL": [
-					"random_int",
-					1,
-					6
-				]
-			},
 			"methods": [
 				{
 					"name": "Standard (4d6, drop lowest)",
 					"formula": [
-						[
-							"store",
-							"A",
-							"ROLL"
-						],
-						[
-							"store",
-							"B",
-							"ROLL"
-						],
-						[
-							"store",
-							"C",
-							"ROLL"
-						],
-						[
-							"store",
-							"D",
-							"ROLL"
-						],
-						[
-							"set input",
-							"basic strength score",
-							[
-								"subtract",
-								[
-									"add",
-									"A",
-									"B",
-									"C",
-									"D"
-								],
-								[
-									"min",
-									"A",
-									"B",
-									"C",
-									"D"
-								]
-							]
-						],
-						[
-							"store",
-							"A",
-							"ROLL"
-						],
-						[
-							"store",
-							"B",
-							"ROLL"
-						],
-						[
-							"store",
-							"C",
-							"ROLL"
-						],
-						[
-							"store",
-							"D",
-							"ROLL"
-						],
-						[
-							"set input",
-							"basic dexterity score",
-							[
-								"subtract",
-								[
-									"add",
-									"A",
-									"B",
-									"C",
-									"D"
-								],
-								[
-									"min",
-									"A",
-									"B",
-									"C",
-									"D"
-								]
-							]
-						],
-						[
-							"store",
-							"A",
-							"ROLL"
-						],
-						[
-							"store",
-							"B",
-							"ROLL"
-						],
-						[
-							"store",
-							"C",
-							"ROLL"
-						],
-						[
-							"store",
-							"D",
-							"ROLL"
-						],
-						[
-							"set input",
-							"basic constitution score",
-							[
-								"subtract",
-								[
-									"add",
-									"A",
-									"B",
-									"C",
-									"D"
-								],
-								[
-									"min",
-									"A",
-									"B",
-									"C",
-									"D"
-								]
-							]
-						],
-						[
-							"store",
-							"A",
-							"ROLL"
-						],
-						[
-							"store",
-							"B",
-							"ROLL"
-						],
-						[
-							"store",
-							"C",
-							"ROLL"
-						],
-						[
-							"store",
-							"D",
-							"ROLL"
-						],
-						[
-							"set input",
-							"basic intelligence score",
-							[
-								"subtract",
-								[
-									"add",
-									"A",
-									"B",
-									"C",
-									"D"
-								],
-								[
-									"min",
-									"A",
-									"B",
-									"C",
-									"D"
-								]
-							]
-						],
-						[
-							"store",
-							"A",
-							"ROLL"
-						],
-						[
-							"store",
-							"B",
-							"ROLL"
-						],
-						[
-							"store",
-							"C",
-							"ROLL"
-						],
-						[
-							"store",
-							"D",
-							"ROLL"
-						],
-						[
-							"set input",
-							"basic wisdom score",
-							[
-								"subtract",
-								[
-									"add",
-									"A",
-									"B",
-									"C",
-									"D"
-								],
-								[
-									"min",
-									"A",
-									"B",
-									"C",
-									"D"
-								]
-							]
-						],
-						[
-							"store",
-							"A",
-							"ROLL"
-						],
-						[
-							"store",
-							"B",
-							"ROLL"
-						],
-						[
-							"store",
-							"C",
-							"ROLL"
-						],
-						[
-							"store",
-							"D",
-							"ROLL"
-						],
-						[
-							"set input",
-							"basic charisma score",
-							[
-								"subtract",
-								[
-									"add",
-									"A",
-									"B",
-									"C",
-									"D"
-								],
-								[
-									"min",
-									"A",
-									"B",
-									"C",
-									"D"
-								]
-							]
-						]
+						"setInput(basic strength score,save(A,randomInt(1,6)+save(B,randomInt(1,6)+save(C,randomInt(1,6)+save(D,randomInt(1,6)-min(load(A),load(B),load(C),load(D))",
+						"setInput(basic dexterity score,save(A,randomInt(1,6)+save(B,randomInt(1,6)+save(C,randomInt(1,6)+save(D,randomInt(1,6)-min(load(A),load(B),load(C),load(D))",
+						"setInput(basic constitution score,save(A,randomInt(1,6)+save(B,randomInt(1,6)+save(C,randomInt(1,6)+save(D,randomInt(1,6)-min(load(A),load(B),load(C),load(D))",
+						"setInput(basic intelligence score,save(A,randomInt(1,6)+save(B,randomInt(1,6)+save(C,randomInt(1,6)+save(D,randomInt(1,6)-min(load(A),load(B),load(C),load(D))",
+						"setInput(basic wisdom score,save(A,randomInt(1,6)+save(B,randomInt(1,6)+save(C,randomInt(1,6)+save(D,randomInt(1,6)-min(load(A),load(B),load(C),load(D))",
+						"setInput(basic charisma score,save(A,randomInt(1,6)+save(B,randomInt(1,6)+save(C,randomInt(1,6)+save(D,randomInt(1,6)-min(load(A),load(B),load(C),load(D))"
 					]
 				},
 				{
 					"name": "Classic (3d6)",
 					"formula": [
-						[
-							"set input",
-							"base strength score",
-							[
-								"add",
-								"ROLL",
-								"ROLL",
-								"ROLL"
-							]
-						],
-						[
-							"set input",
-							"base dexterity score",
-							[
-								"add",
-								"ROLL",
-								"ROLL",
-								"ROLL"
-							]
-						],
-						[
-							"set input",
-							"base constitution score",
-							[
-								"add",
-								"ROLL",
-								"ROLL",
-								"ROLL"
-							]
-						],
-						[
-							"set input",
-							"base intelligence score",
-							[
-								"add",
-								"ROLL",
-								"ROLL",
-								"ROLL"
-							]
-						],
-						[
-							"set input",
-							"base wisdom score",
-							[
-								"add",
-								"ROLL",
-								"ROLL",
-								"ROLL"
-							]
-						],
-						[
-							"set input",
-							"base charisma score",
-							[
-								"add",
-								"ROLL",
-								"ROLL",
-								"ROLL"
-							]
-						]
+						"setInput(basic strength score,randomInt(1,6)+randomInt(1,6)+randomInt(1,6))",
+						"setInput(basic dexterity score,randomInt(1,6)+randomInt(1,6)+randomInt(1,6))",
+						"setInput(basic constitution score,randomInt(1,6)+randomInt(1,6)+randomInt(1,6))",
+						"setInput(basic intelligence score,randomInt(1,6)+randomInt(1,6)+randomInt(1,6))",
+						"setInput(basic wisdom score,randomInt(1,6)+randomInt(1,6)+randomInt(1,6))",
+						"setInput(basic charisma score,randomInt(1,6)+randomInt(1,6)+randomInt(1,6))"
 					]
 				},
 				{
 					"name": "Heroic (2d6 + 6)",
 					"formula": [
-						[
-							"set input",
-							"base strength score",
-							[
-								"add",
-								"ROLL",
-								"ROLL",
-								6
-							]
-						],
-						[
-							"set input",
-							"base dexterity score",
-							[
-								"add",
-								"ROLL",
-								"ROLL",
-								6
-							]
-						],
-						[
-							"set input",
-							"base constitution score",
-							[
-								"add",
-								"ROLL",
-								"ROLL",
-								6
-							]
-						],
-						[
-							"set input",
-							"base intelligence score",
-							[
-								"add",
-								"ROLL",
-								"ROLL",
-								6
-							]
-						],
-						[
-							"set input",
-							"base wisdom score",
-							[
-								"add",
-								"ROLL",
-								"ROLL",
-								6
-							]
-						],
-						[
-							"set input",
-							"base charisma score",
-							[
-								"add",
-								"ROLL",
-								"ROLL",
-								6
-							]
-						]
+						"setInput(basic strength score,6+randomInt(1,6)+randomInt(1,6))",
+						"setInput(basic dexterity score,6+randomInt(1,6)+randomInt(1,6))",
+						"setInput(basic constitution score,6+randomInt(1,6)+randomInt(1,6))",
+						"setInput(basic intelligence score,6+randomInt(1,6)+randomInt(1,6))",
+						"setInput(basic wisdom score,6+randomInt(1,6)+randomInt(1,6))",
+						"setInput(basic charisma score,6+randomInt(1,6)+randomInt(1,6))"
 					]
 				}
 			]
 		}
 	],
-	"formula_shorthands": {
-		"standard score": {
-			"arguments": [
-				"BASE",
-				"TAG"
-			],
-			"formula": [
-				"add",
-				[
-					"get input",
-					"BASE"
-				],
-				[
-					"calculate bonuses by type",
-					{
-						"query": "bonus",
-						"has_tag": "TAG"
-					}
-				]
-			]
-		}
-	},
 	"bestow_scores": [
 		{
 			"name": "strength score",
 			"formula": [
-				"standard score",
-				"base strength score",
-				"stat:strength"
+				"getScore(base strength score)+calculateBonusesByType(getBonusObjectsByTag(stat:strength))"
+			]
+		},
+		{
+			"name": "STR mod",
+			"formula": [
+				"floor((getScore(strength score)-10)/2)"
 			]
 		},
 		{
 			"name": "dexterity score",
 			"formula": [
-				"standard score",
-				"base dexterity score",
-				"stat:dexterity"
+				"getScore(base dexterity score)+calculateBonusesByType(getBonusObjectsByTag(stat:dexterity))"
+			]
+		},
+		{
+			"name": "DEX mod",
+			"formula": [
+				"floor((getScore(dexterity score)-10)/2)"
 			]
 		},
 		{
 			"name": "constitution score",
 			"formula": [
-				"standard score",
-				"base constitution score",
-				"stat:constitution"
+				"getScore(base constitution score)+calculateBonusesByType(getBonusObjectsByTag(stat:constitution))"
+			]
+		},
+		{
+			"name": "CON mod",
+			"formula": [
+				"floor((getScore(constitution score)-10)/2)"
 			]
 		},
 		{
 			"name": "intelligence score",
 			"formula": [
-				"standard score",
-				"base intelligence score",
-				"stat:intelligence"
+				"getScore(base intelligence score)+calculateBonusesByType(getBonusObjectsByTag(stat:intelligence))"
+			]
+		},
+		{
+			"name": "INT mod",
+			"formula": [
+				"floor((getScore(intelligence score)-10)/2)"
 			]
 		},
 		{
 			"name": "wisdom score",
 			"formula": [
-				"standard score",
-				"base wisdom score",
-				"stat:wisdom"
+				"getScore(base wisdom score)+calculateBonusesByType(getBonusObjectsByTag(stat:wisdom))"
+			]
+		},
+		{
+			"name": "WIS mod",
+			"formula": [
+				"floor((getScore(wisdom score)-10)/2)"
 			]
 		},
 		{
 			"name": "charisma score",
 			"formula": [
-				"standard score",
-				"base charisma score",
-				"stat:charisma"
+				"getScore(base charisma score)+calculateBonusesByType(getBonusObjectsByTag(stat:charisma))"
+			]
+		},
+		{
+			"name": "CHA mod",
+			"formula": [
+				"floor((getScore(charisma score)-10)/2)"
 			]
 		}
 	]
