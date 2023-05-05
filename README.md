@@ -367,6 +367,10 @@ Each `bestow_` property has a corresponding `remove_` property
 - NPCs (so many!)
 - occult rituals
 
+## NOTES
+
+Focus feats should bestow themselves with tags such as focus:name-of-weapon and focus-type:favored-weapon, focus-type:bludgeoning, focus-type:natural, etc
+
 ## Code
 
 ```javascript

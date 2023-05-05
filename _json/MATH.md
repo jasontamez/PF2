@@ -16,6 +16,15 @@ Quotation marks are an exception, they surround a string which should not be mut
 "save(\"  Y\",\" and, a day\")" // saves " and, a day" under the name "  Y"
 ```
 
+## Quotation Marks
+
+`STRINGS` need not be enclosed in quotes in functions, unless
+1. the `STRING` includes brackets, commas, parentheses, or other quotation marks, or
+2. they are in a function that could accept arguments other than `STRINGS`
+
+- `function(hello)` is equal to `function("hello")`
+- `function([one,two,three,four])` is equal to `function(["one","two","three","four"])`
+
 ## String Format
 
 ### Order of operations
@@ -77,6 +86,38 @@ Quotation marks are an exception, they surround a string which should not be mut
             - `min(1)` = 1
             - `max(56,30)` = 56
             - `max(45,20,10^2,17,500/10)` = 100 (10^2)
+
+### Boolean Operations
+
+- Most logical operators work as expected
+    - `6 > 4` true
+    - `7 >= 4 + 3` true
+    - `5 < 8` true
+    - `squareRoot(16) <= 4` true
+    - `78 == 56 + 22` true
+    - `45 != 32` true
+- Plain values are considered true if they are not equal to zero, the empty string, "false", "null", or other typical 'falsy' values
+    - `45` true
+    - `57 * 0` false
+    - `""` false
+    - `false` false
+    - `FalSe` true (case sensitivity)
+- Putting an exclamation point before something inverts its boolean value
+    - `!0` true
+    - `!false` true
+    - `!FalSe` false
+
+#### Lookups
+
+- `hasFeature(STRING...)` - returns true only if a `feature` with the given `"name"` exists; if multiple arguments are given, returns true if *any* of the `features` exist
+    - `hasFeatureAll(STRING, STRING...)` - returns true if *all* `features` exist
+- `hasFeatureInCategory(ARRAY_STRING, STRING...)` - as above, but looks for `feature(s)` with *any* of the `ARRAY_STRING` as `"category"`
+    - `hasFeatureAllInCategory(ARRAY_STRING, STRING...)` - as above, but returns true if *all* of the listed `features` are found within *any* of the categories
+- `hasFeatureTagged(ARRAY_STRING, STRING...)` - as above, but looks for `feature(s)` with *any* of the `tag(s)` listed in the `ARRAY_STRING`
+    - `hasFeatureAllTagged(ANY, STRING...)` - as above, if *all* of the `features` have *any* of the listed `tags`
+    - `hasFeatureTaggedAll(ARRAY_STRING, STRING...)` - returns true if *any* of the `features` listed have *all* of the given `tags`
+    - `hasFeatureAllTaggedAll(ARRAY_STRING, STRING...)` - returns true if *all* of the `features` listed have *all* of the given `tags`
+- `hasFeatureInCategoryTagged(ARRAY_STRING, ARRAY_STRING, STRING...)` - returns true if a `feature` is found with *any* of the given `STRINGS`, in *any* of the categories listed in the first `ARRAY_STRING`, and with *any* of the tags listed in the second `ARRAY_STRING`
 
 #### Return multiple results
 
