@@ -106,6 +106,10 @@ Quotation marks are an exception, they surround a string which should not be mut
     - `!0` true
     - `!false` true
     - `!FalSe` false
+- Functions can be used to find portions of other `STRINGS`
+    - `find(what,whatever you say)` true
+    - `findWord(what,whatever you say)` false
+    - `findWord(say,whatever you say)` true
 
 #### Lookups
 
