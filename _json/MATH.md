@@ -87,6 +87,7 @@ Quotation marks are an exception, they surround a string which should not be mut
     - `floor(-5.2)` = -6 *negative numbers may give non-intuitive results!*
   - `randomInt(x,y)` gives a random integer between x and y, inclusive of both
   - `randomInt(x)` gives a random integer between 0 and x, inclusive of both
+  - `random(x)` gives a random number between 0 and x, inclusive of 0 and excluding x
   - `min(x,y,z)` returns the smallest number among x, y, and z
   - `max(x,y,z)` returns the highest number among x, y, and z
     - Both `min` and `max` can take any number of arguments
@@ -126,27 +127,72 @@ Quotation marks are an exception, they surround a string which should not be mut
 #### Lookups
 
 - `hasFeature(STRING...)` - returns true only if a `feature` with the given `"name"` exists; if multiple arguments are given, returns true if *any* of the `features` exist
-  - `hasFeatureAll(STRING, STRING...)` - returns true if *all* `features` exist
+
+This function can be extended in multiple ways; the extensions make the `STRING` name arguments optional
+
 - `hasFeatureInCategory(ARRAY_STRING, STRING...)` - as above, but looks for `feature(s)` with *any* of the `ARRAY_STRING` as `"category"`
-  - `hasFeatureAllInCategory(ARRAY_STRING, STRING...)` - as above, but returns true if *all* of the listed `features` are found within *any* of the categories
 - `hasFeatureTagged(ARRAY_STRING, STRING...)` - as above, but looks for `feature(s)` with *any* of the `tag(s)` listed in the `ARRAY_STRING`
-  - `hasFeatureAllTagged(ANY, STRING...)` - as above, if *all* of the `features` have *any* of the listed `tags`
-  - `hasFeatureTaggedAll(ARRAY_STRING, STRING...)` - returns true if *any* of the `features` listed have *all* of the given `tags`
-  - `hasFeatureAllTaggedAll(ARRAY_STRING, STRING...)` - returns true if *all* of the `features` listed have *all* of the given `tags`
-- `hasFeatureInCategoryTagged(ARRAY_STRING, ARRAY_STRING, STRING...)` - returns true if a `feature` is found with *any* of the given `STRINGS`, in *any* of the categories listed in the first `ARRAY_STRING`, and with *any* of the tags listed in the second `ARRAY_STRING`
+- `hasFeatureWithType(ARRAY_STRING, STRING...)` - as above, but looks for `feature(s)` with *any* of the `types` listed in the `ARRAY_STRING`
 
-#### Return multiple results
+The `All` suffix can be added after `hasFeature` or after an extension.
 
-- `"limit >", NUM, NUM...` - takes the first number and returns all subsequent numbers that are greater than that first number
-  - >, >=, <, <=, and = are all valid limits
-- `limit(x>y,z)` - returns y and/or z, if they are smaller than x
-  - You can use `>`, `>=`, `<`, `<=`, and `=` in a `limit()`
-    - `limit(5>6,1,0,14)` = 1 and 0
-    - `limit(60<=6*10,85,-3)` = 60 (6*10) and -3
+- `hasFeatureAll(STRING, STRING...)` - returns true if *all* `features` exist
+- `hasFeatureAllInCategory(ARRAY_STRING, STRING...)` - as above, but returns true if *all* of the listed `features` are found within *any* of the categories
+- `hasFeatureAllTagged(ANY, STRING...)` - as above, if *all* of the `features` have *any* of the listed `tags`
+- `hasFeatureTaggedAll(ARRAY_STRING, STRING...)` - returns true if *any* of the `features` listed have *all* of the given `tags`
+- `hasFeatureAllTaggedAll(ARRAY_STRING, STRING...)` - as above, if *all* of the `features` listed have *all* of the given `tags`
+- `hasFeatureAllWithType(ANY, STRING...)` - returns true if *all* of the `features` have *any* of the listed `types`
+- `hasFeatureWithTypeAll(ARRAY_STRING, STRING...)` - returns true if *any* of the `features` listed have *all* of the given `types`
+- `hasFeatureAllWithTypeAll(ARRAY_STRING, STRING...)` - as above, if *all* of the `features` listed have *all* of the given `types`
 
-- `filter(x,y,z)` ?
+The extensions can be applied together, but only in the order above
 
-- `getBonusesByTag(some:tag)` - returns the values of all bonuses with the given tag
+- `hasFeatureInCategoryTaggedWithType(ARRAY_STRING, ARRAY_STRING, ARRAY_STRING, STRING...)` - returns true if a `feature` is found with *any* of the given `STRINGS`, in *any* of the categories listed in the first `ARRAY_STRING`, and with *any* of the `tags` listed in the second `ARRAY_STRING`, and with *any* of the `types` listed in the third `ARRAY_STRING`
+
+All of the below are valid
+
+- `hasFeatureAllTaggedAllWithType` (all tags, any types)
+- `hasFeatureInCategoryAllWithTypeAll` (in all categories, with all types)
+- `hasFeatureAllInCategoryAllTaggedAllWithTypeAll` (all features must have all categories, all tags and all types)
+
+These are invalid
+
+- `hasFeatureAllWithTypeTagged` should be `...AllTaggedWithType`
+- `hasFeatureTaggedAllInCategoryAll` should be `...InCategoryAllTaggedAll`
+- `hasFeatureInCategoryWithTypeAllTagged` should be `...InCategoryTaggedWithTypeAll`
+
+### Getting multiple results
+
+These functions should only be used inside other functions that accept multiple arguments (see next section)
+
+- `getInputsTagged(some:tag)` - returns the values of all `inputs` with the given tag
+- `getScoresTagged(some:tag)` - returns the values of all `scores` with the given tag
+- `getBonusesTagged(some:tag)` - returns the values of all `bonuses` with the given tag
+  - All of the above can accept multiple tags, and will return values with *any* of the given tags
+- `getInputsTaggedAll`, `getScoresTaggedAll` and `getBonusesTaggedAll` work like the functions above, but will return values that have *all* of the given tags
+
+### Using multiple results
+
+These functions should extract the results from a function and treat them as arguments
+
+- `min()` and `max()` work as expected
+- `sum()` adds all arguments together and returns the result
+- `test(BooleanStringFunction, STRING, ANY...)` - this returns true if at least one of arguments passes the `BooleanStringFunction` test; the `STRING` represents the part of the test function that is to be replaced by the other arguments
+- `testAll(BooleanStringFunction, STRING, ANY...)` - this returns true if *all* of the arguments pass the `BooleanStringFunction` test; the `STRING` represents the part of the test function that is to be replaced by the other arguments
+- `multiple(NUMBER, BooleanStringFunction, STRING, ANY...)` - this returns true if at least `NUMBER` of arguments passes the `BooleanStringFunction` test; the `STRING` represents the part of the test function that is to be replaced by the other arguments
+
+```javascript
+// EXAMPLE
+"multiple(3, X >= 5, X, getScoresByTag(skill:craft))" // returns true if at
+            // least three scores with the skill:craft tag have values greater
+            // than or equal to 5
+"multiple(4, INPUT == 1, INPUT, getInputsByTag(spell:cleric))" // returns true
+            // if at least four inputs with the spell:cleric tag have values
+            // exactly equal to 1
+"multiple(2, ? < 10, ?, getInputsByTag(is:kosher), getScoresByTag(non:fat))"
+            // returns true if, among inputs with the is:kosher tag and scores
+            // with the non:fat tag, at least two have values less than 10
+```
 
 ### `LookupObjects`
 
