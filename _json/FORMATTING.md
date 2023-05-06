@@ -17,19 +17,19 @@ Other tags can indicate special properties.
 - `scent`
 - `see-in-darkness`
 - `no-unconscious`
-    - The creature can't go unconscious and is destroyed at 0 hit points
+  - The creature can't go unconscious and is destroyed at 0 hit points
 - `no-constitution`
 - `blind`
-    - The creature is immune to gaze attacks and the like
+  - The creature is immune to gaze attacks and the like
 
 ---
 
 ### `immune:`
 
 - `ability-damage` - immune to all ability damage; specific stats can be immune, too
-    - `constitution-damage`
-    - `dexterity-damage`
-    - `strength-damage`
+  - `constitution-damage`
+  - `dexterity-damage`
+  - `strength-damage`
 - `ability-drain`
 - `aging`
 - `bleed`
@@ -57,9 +57,9 @@ Other tags can indicate special properties.
 - `sleep` - immune to magic sleep effects
 - `stun`
 - specific combat maneuvers:
-    - `bull-rush`
-    - `grapple`
-    - `trip`
+  - `bull-rush`
+  - `grapple`
+  - `trip`
 
 ### Others
 
@@ -80,13 +80,13 @@ Other tags can indicate special properties.
 ### Simple
 
 - `INTEGER`
-    - Resistances: resistance / electricity|fire|etc / resistance / electricity|:fire|etc
-    - Speeds: speed / base|fly|swim|burrow|etc / speed / base|:fly|:swim|etc
-    - Senses: sense / darkvision|tremorsense|etc / sense /
+  - Resistances: resistance / electricity|fire|etc / resistance / electricity|:fire|etc
+  - Speeds: speed / base|fly|swim|burrow|etc / speed / base|:fly|:swim|etc
+  - Senses: sense / darkvision|tremorsense|etc / sense /
 
 ## Features
 
 - By Category
-    - `feat`
-    - `trait`
-    - `species` - replaces "race" and "monster"
+  - `feat`
+  - `trait`
+  - `species` - replaces "race" and "monster"

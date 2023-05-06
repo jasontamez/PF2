@@ -230,32 +230,32 @@ There should be a general list of numbers where certain `features` should be pla
 ### Lookups
 
 - **Global properties**
-    - `"query": ENUM "feature", "score", "flag", "bonus"` - The type of `Value` we're looking for
-    - `"find": LookupObject` - A generic "wrapper", to combine a Lookup with other operations (e.g. `"quantity"` below)
-    - `"find_any": ARRAY_LookupObject` - As above, but only one included `LookupObject` needs to match
-    - `"find_all": ARRAY_LookupObject` - As above, but **all** included `LookupObjects` need to match
-    - `"name": STRING` - Looking for something with the specific name
-    - `"name_any": ARRAY_STRING` - Looking for any of the listed names
-    - `"name_all": ARRAY_STRING` - Looking for **all** of the listed names
-    - `"name_match": STRING` - Looking for something that matches the given regular expression
-    - `"has_type": STRING` - Looking for something that has the listed type
-    - `"has_type_any": ARRAY_STRING` - Looking for something that has any of the listed types
-    - `"has_type_all": ARRAY_STRING` - Looking for something that has **all** of the listed types
-    - `"has_tag": STRING` - Looking for something that has the listed tag
-    - `"has_tag_any": ARRAY_STRING` - Looking for something that has any of the listed tags
-    - `"has_tag_all": ARRAY_STRING` - Looking for something that has **all** of the listed tags
-    - `"has_tag_type": STRING` - Looking for something that has a tag with the listed prefix
-    - `"quantity": INTEGER` - Looking for at least the indicated number of separate things
+  - `"query": ENUM "feature", "score", "flag", "bonus"` - The type of `Value` we're looking for
+  - `"find": LookupObject` - A generic "wrapper", to combine a Lookup with other operations (e.g. `"quantity"` below)
+  - `"find_any": ARRAY_LookupObject` - As above, but only one included `LookupObject` needs to match
+  - `"find_all": ARRAY_LookupObject` - As above, but **all** included `LookupObjects` need to match
+  - `"name": STRING` - Looking for something with the specific name
+  - `"name_any": ARRAY_STRING` - Looking for any of the listed names
+  - `"name_all": ARRAY_STRING` - Looking for **all** of the listed names
+  - `"name_match": STRING` - Looking for something that matches the given regular expression
+  - `"has_type": STRING` - Looking for something that has the listed type
+  - `"has_type_any": ARRAY_STRING` - Looking for something that has any of the listed types
+  - `"has_type_all": ARRAY_STRING` - Looking for something that has **all** of the listed types
+  - `"has_tag": STRING` - Looking for something that has the listed tag
+  - `"has_tag_any": ARRAY_STRING` - Looking for something that has any of the listed tags
+  - `"has_tag_all": ARRAY_STRING` - Looking for something that has **all** of the listed tags
+  - `"has_tag_type": STRING` - Looking for something that has a tag with the listed prefix
+  - `"quantity": INTEGER` - Looking for at least the indicated number of separate things
 
 - **Feature properties**
-    - `"category": STRING` - Looking for an ability with the listed category
-    - `"category_any": ARRAY_STRING` - Looking for an ability with any of the the listed categories
+  - `"category": STRING` - Looking for an ability with the listed category
+  - `"category_any": ARRAY_STRING` - Looking for an ability with any of the the listed categories
 
 - **Score properties**
-    - `"minimum": NUMBER` - Looking for a value equal to or greater than the given number
-    - `"maximum": NUMBER` - Looking for a value equal to or less than the given number
-    - `"exact": NUMBER` - Looking for a value equal to the given number
-    - `"exact_any": ARRAY_NUMBER` - Looking for a value equal to any of the given numbers
+  - `"minimum": NUMBER` - Looking for a value equal to or greater than the given number
+  - `"maximum": NUMBER` - Looking for a value equal to or less than the given number
+  - `"exact": NUMBER` - Looking for a value equal to the given number
+  - `"exact_any": ARRAY_NUMBER` - Looking for a value equal to any of the given numbers
 
 ---
 
@@ -276,54 +276,54 @@ Each `bestow_` property has a corresponding `remove_` property
 - equipment/vehicles need to be parsed
 - ~~DIVINE FIGHTING TECHNIQUES~~
 - Feat formatting pass three
-    - ~~SPELL~~
-    - ~~GODS~~
-    - SELECTED
-    - UNKN?OWN
-    - ~~FAMILIAR~~
-    - ~~AFFINITY~~
+  - ~~SPELL~~
+  - ~~GODS~~
+  - SELECTED
+  - UNKN?OWN
+  - ~~FAMILIAR~~
+  - ~~AFFINITY~~
 - Note places where we can clean up duplicates, like `class_feature` and `special_ability`, maybe
 - Feat formatting pass four: adding the things the feats GIVE, somehow
 - class files needing parsing:
-    - ~~alchemist (?)~~
-    - ~~arcanist exploits (?)~~
-    - ~~barbarian and UC rage powers~~
-    - ~~_bard masterpieces, advanced versatile performances~~
-    - ~~bloodrager bloodlines~~
-    - ~~cavalier orders, banners~~
-    - ~~cleric domains, variant channeling~~
-    - ~~druid companions, domains, herbalism~~
-    - _EIDOLON and UC base forms
-    - ~~fighter weapon groups (?)~~
-    - ~~gunslinger dares and deeds~~
-    - ~~hunter animal focus~~
-    - ~~inquisitions~~
-    - ~~investigator talents, annointments~~
-    - kineticist ~~talents~~, elements
-    - ~~magus acana (?)~~
-    - mesmerist stares, tricks
-    - ~~medium spririts - reformat~~
-    - ~~monk and UC ki powers, vows, style strikes~~
-    - ~~ninja tricks~~
-    - occultist implements
-    - oracle mysteries, ~~curses~~
-    - paladin oaths, divine bonds, mercies
-    - psychic phrenic amps, disciplines
-    - ~~ranger combat styles~~
-    - ~~rogue and UC talents, skill unlocks~~
-    - ~~samurai~~
-    - shaman hexes, spirits
-    - shifter aspects
-    - skald ~~sagas, rage powers (barb), masterpieces,~~ advanced versatile performances (bard)
-    - ~~slayer talents~~
-    - sorcerer bloodlines, wildbloods
-    - summoner and UC evolutions
-    - ~~swashbuckler deeds~~
-    - ~~vigilante talents~~
-    - ~~warpriest blessings~~
-    - witch hexes, patrons, unique patrons
-    - wizard ~~arcane discoveries, familiars,~~ schools
-    - PHANTOM focuses
+  - ~~alchemist (?)~~
+  - ~~arcanist exploits (?)~~
+  - ~~barbarian and UC rage powers~~
+  - ~~_bard masterpieces, advanced versatile performances~~
+  - ~~bloodrager bloodlines~~
+  - ~~cavalier orders, banners~~
+  - ~~cleric domains, variant channeling~~
+  - ~~druid companions, domains, herbalism~~
+  - _EIDOLON and UC base forms
+  - ~~fighter weapon groups (?)~~
+  - ~~gunslinger dares and deeds~~
+  - ~~hunter animal focus~~
+  - ~~inquisitions~~
+  - ~~investigator talents, annointments~~
+  - kineticist ~~talents~~, elements
+  - ~~magus acana (?)~~
+  - mesmerist stares, tricks
+  - ~~medium spririts - reformat~~
+  - ~~monk and UC ki powers, vows, style strikes~~
+  - ~~ninja tricks~~
+  - occultist implements
+  - oracle mysteries, ~~curses~~
+  - paladin oaths, divine bonds, mercies
+  - psychic phrenic amps, disciplines
+  - ~~ranger combat styles~~
+  - ~~rogue and UC talents, skill unlocks~~
+  - ~~samurai~~
+  - shaman hexes, spirits
+  - shifter aspects
+  - skald ~~sagas, rage powers (barb), masterpieces,~~ advanced versatile performances (bard)
+  - ~~slayer talents~~
+  - sorcerer bloodlines, wildbloods
+  - summoner and UC evolutions
+  - ~~swashbuckler deeds~~
+  - ~~vigilante talents~~
+  - ~~warpriest blessings~~
+  - witch hexes, patrons, unique patrons
+  - wizard ~~arcane discoveries, familiars,~~ schools
+  - PHANTOM focuses
 - Archetypes (under classes)
 - Races
 - Rules

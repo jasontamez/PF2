@@ -1,3 +1,4 @@
+<!-- markdownlint-disable MD038 -->
 # A record for myself
 
 Replace feats with single focus
@@ -45,7 +46,6 @@ Condense feats with multiple possibilities
 `^(\t+)"(feat)_any": \[\n\1\t(".+?")\n\1\]`
 `$1"$2": $3`
 
-
 Replace feats without foci
 `^(\t+)\{\n\1\t"(feat)": "(.+?)"\n\1\}`
 `$1"hasFeatureInCategory([$2],$3)"`
@@ -71,3 +71,76 @@ Replace att/char level scores
 
 `,(\n\t+\})`
 `$1`
+
+Replace other integer scores
+`^(\t+)\{\n\1\t"(base_attack_bonus|base_[^_"]+_save_bonus|legs|[^"]+_d[0-9]+|darkvision|dr|age|fighter_bravery_bonus|trap_sense_bonus|arms|hit_dice)": ([0-9]+)\n\1\}`
+`$1"getScore($2) >= $3"`
+
+`^(\t+)\{\n\1\t"(base_attack_bonus|base_[^_"]+_save_bonus|legs|[^"]+_d[0-9]+|darkvision|dr|age|fighter_bravery_bonus|trap_sense_bonus|arms|hit_dice)_exact": ([0-9]+)\n\1\}`
+`$1"getScore($2) == $3"`
+
+`^(\t+)(\{\n(?:\1\t.+\n)*?)\1\t"(base_attack_bonus|base_[^_"]+_save_bonus|legs|[^"]+_d[0-9]+|darkvision|dr|age|fighter_bravery_bonus|trap_sense_bonus|arms|hit_dice)": ([0-9]+),?\n((?:\1\t.+\n)*\1\})`
+`$1"getScore($3) >= $4",\n$1$2$5`
+
+`^(\t+)(\{\n(?:\1\t.+\n)*?)\1\t"(base_attack_bonus|base_[^_"]+_save_bonus|legs|[^"]+_d[0-9]+|darkvision|dr|age|fighter_bravery_bonus|trap_sense_bonus|arms|hit_dice)_exact": ([0-9]+),?\n((?:\1\t.+\n)*\1\})`
+`$1"getScore($3) == $4",\n$1$2$5`
+
+`(getScore\([^)]+)_`
+`$1 `
+
+`,(\n\t+\})`
+`$1`
+
+Replace class/level combos
+
+`^(\t+)\{\n\1\t"class": "(.+?)",\n\1\t"level": ([0-9]+)\n\1\}`
+`$1"getScore($2 class level) >= $3"`
+
+Replace skill-rank checks
+
+`(\t+)\{\n\1\t"skill": \[\n\1\t\t"(.+?)",\n\1\t\t([0-9]+)\n\1\t\]\n\1\}`
+`$1"getInput(\L$2 ranks) >= $3"`
+
+`^(\t+)(\{\n(?:\1\t.+\n)*?)\1\t"skill": \[\n\1\t\t"(.+?)",\n\1\t\t([0-9]+)\n\1\t\],?\n((?:\1\t.+\n)*\1\})`
+`$1"getInput(\L$3 ranks) >= $4",\n$1$2$5`
+
+`,(\n\t+\})`
+`$1`
+
+`(getInput\([^)]+\([^) ]+) (\) ranks\))`
+`$1-$2`
+
+`(getInput\([^)]+) \(([^)]+)\)( ranks\))`
+`$1-$2$3`
+
+Condense class features with multiple possibilities
+
+`^(\t+)("alignment_any": \[\n(?:\1\t".+?",\n)*\1\t".+?)",\n\1\t"(.+?)"\n`
+`$1$2,$3"\n`
+
+`^(\t+)"(alignment)_any": \[\n\1\t(".+?")\n\1\]`
+`$1"$2_": $3`
+
+Replace class features
+`^(\t+)\{\n\1\t"alignment": "(.+?)"\n\1\}`
+`$1"hasFeatureInCategory([background],$2)"`
+
+`^(\t+)\{\n\1\t"class_feature_all": "(.+?)"\n\1\}`
+`$1"hasFeatureAllInCategory([class feature],$2)"`
+
+`^(\t+)(\{\n(?:\1\t.+\n)*?)\1\t"alignment": "(.+?)",?\n((?:\1\t.+\n)*\1\})`
+`$1"hasFeatureInCategory([background],$3)",\n$1$2$4`
+
+`^(\t+)(\{\n(?:\1\t.+\n)*?)\1\t"class_feature_all": "(.+?)",?\n((?:\1\t.+\n)*\1\})`
+`$1"hasFeatureAllInCategory([class feature],$3)",\n$1$2$4`
+
+`,(\n\t+\})`
+`$1`
+
+Alignment
+
+`^(\t+)\{\n\1\t"alignment_": "(.+?)"\n\1\}`
+`$1"getInput(alignment_)==$2"`
+
+`^(\t+)(\{\n(?:\1\t.+\n)*?)\1\t"alignment_": "(.+?)",?\n((?:\1\t.+\n)*\1\})`
+`$1"getInput(alignment_)==$3",\n$1$2$4`
