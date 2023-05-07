@@ -1,16 +1,8 @@
 {
 	"_information": [
-		"notes"
+		"TO-DO: skill points pool, skill ranks controlled inputs, skill scores, this file's description"
 	],
 	"hidden_inputs": [
-		{
-			"name": "max skill ranks",
-			"value": 1
-		},
-		{
-			"name": "skill points pool",
-			"value": 0
-		}
 	],
 	"user_inputs": {
 		"INTEGER": [
@@ -39,7 +31,7 @@
 				"value": 10
 			}
 		],
-		"KEYS": [
+		"STRING": [
 			{
 				"name": "alignment",
 				"value": "N",
@@ -61,8 +53,8 @@
 	"controlled_inputs": {
 		"INTEGER": [
 			{
-				"add_from": "skill points pool",
-				"control_test": "(X >= 0) && (X <= getInput(max skill ranks)",
+				"add_from_score": "skill points pool",
+				"control_test": "(X >= 0) && (X <= getScore(max skill ranks)",
 				"test_string": "X",
 				"list": [
 					{
@@ -87,18 +79,18 @@
 			"methods": [
 				{
 					"name": "Standard (4d6, drop lowest)",
-					"formula": [
-						"setInput(basic strength score,save(A,randomInt(1,6)+save(B,randomInt(1,6)+save(C,randomInt(1,6)+save(D,randomInt(1,6)-min(load(A),load(B),load(C),load(D))",
-						"setInput(basic dexterity score,save(A,randomInt(1,6)+save(B,randomInt(1,6)+save(C,randomInt(1,6)+save(D,randomInt(1,6)-min(load(A),load(B),load(C),load(D))",
-						"setInput(basic constitution score,save(A,randomInt(1,6)+save(B,randomInt(1,6)+save(C,randomInt(1,6)+save(D,randomInt(1,6)-min(load(A),load(B),load(C),load(D))",
-						"setInput(basic intelligence score,save(A,randomInt(1,6)+save(B,randomInt(1,6)+save(C,randomInt(1,6)+save(D,randomInt(1,6)-min(load(A),load(B),load(C),load(D))",
-						"setInput(basic wisdom score,save(A,randomInt(1,6)+save(B,randomInt(1,6)+save(C,randomInt(1,6)+save(D,randomInt(1,6)-min(load(A),load(B),load(C),load(D))",
-						"setInput(basic charisma score,save(A,randomInt(1,6)+save(B,randomInt(1,6)+save(C,randomInt(1,6)+save(D,randomInt(1,6)-min(load(A),load(B),load(C),load(D))"
+					"steps": [
+						"setInput(basic strength score,save(A,randomInt(1,6))+save(B,randomInt(1,6))+save(C,randomInt(1,6))+save(D,randomInt(1,6))-min(load(A),load(B),load(C),load(D))",
+						"setInput(basic dexterity score,save(A,randomInt(1,6))+save(B,randomInt(1,6))+save(C,randomInt(1,6))+save(D,randomInt(1,6))-min(load(A),load(B),load(C),load(D))",
+						"setInput(basic constitution score,save(A,randomInt(1,6))+save(B,randomInt(1,6))+save(C,randomInt(1,6))+save(D,randomInt(1,6))-min(load(A),load(B),load(C),load(D))",
+						"setInput(basic intelligence score,save(A,randomInt(1,6))+save(B,randomInt(1,6))+save(C,randomInt(1,6))+save(D,randomInt(1,6))-min(load(A),load(B),load(C),load(D))",
+						"setInput(basic wisdom score,save(A,randomInt(1,6))+save(B,randomInt(1,6))+save(C,randomInt(1,6))+save(D,randomInt(1,6))-min(load(A),load(B),load(C),load(D))",
+						"setInput(basic charisma score,save(A,randomInt(1,6))+save(B,randomInt(1,6))+save(C,randomInt(1,6))+save(D,randomInt(1,6))-min(load(A),load(B),load(C),load(D))"
 					]
 				},
 				{
 					"name": "Classic (3d6)",
-					"formula": [
+					"steps": [
 						"setInput(basic strength score,randomInt(1,6)+randomInt(1,6)+randomInt(1,6))",
 						"setInput(basic dexterity score,randomInt(1,6)+randomInt(1,6)+randomInt(1,6))",
 						"setInput(basic constitution score,randomInt(1,6)+randomInt(1,6)+randomInt(1,6))",
@@ -109,7 +101,7 @@
 				},
 				{
 					"name": "Heroic (2d6 + 6)",
-					"formula": [
+					"steps": [
 						"setInput(basic strength score,6+randomInt(1,6)+randomInt(1,6))",
 						"setInput(basic dexterity score,6+randomInt(1,6)+randomInt(1,6))",
 						"setInput(basic constitution score,6+randomInt(1,6)+randomInt(1,6))",
@@ -121,78 +113,62 @@
 			]
 		}
 	],
-	"bestow_scores": [
+	"scores": [
 		{
 			"name": "strength score",
-			"formula": [
-				"getInput(base strength score)+calculateBonusesByType(getObjectsBonusesTagged([stat:strength]))"
-			]
+			"formula": "getInput(base strength score)+calculateBonusesByType(getObjectsBonusesTagged([stat:strength]))"
 		},
 		{
 			"name": "STR mod",
-			"formula": [
-				"floor((getScore(strength score)-10)/2)"
-			]
+			"formula": "floor((getScore(strength score)-10)/2)"
 		},
 		{
 			"name": "dexterity score",
-			"formula": [
-				"getInput(base dexterity score)+calculateBonusesByType(getObjectsBonusesTagged([stat:dexterity]))"
-			]
+			"formula": "getInput(base dexterity score)+calculateBonusesByType(getObjectsBonusesTagged([stat:dexterity]))"
 		},
 		{
 			"name": "DEX mod",
-			"formula": [
-				"floor((getScore(dexterity score)-10)/2)"
-			]
+			"formula": "floor((getScore(dexterity score)-10)/2)"
 		},
 		{
 			"name": "constitution score",
-			"formula": [
-				"getInput(base constitution score)+calculateBonusesByType(getObjectsBonusesTagged([stat:constitution]))"
-			]
+			"formula": "getInput(base constitution score)+calculateBonusesByType(getObjectsBonusesTagged([stat:constitution]))"
 		},
 		{
 			"name": "CON mod",
-			"formula": [
-				"floor((getScore(constitution score)-10)/2)"
-			]
+			"formula": "floor((getScore(constitution score)-10)/2)"
 		},
 		{
 			"name": "intelligence score",
-			"formula": [
-				"getInput(base intelligence score)+calculateBonusesByType(getObjectsBonusesTagged([stat:intelligence]))"
-			]
+			"formula": "getInput(base intelligence score)+calculateBonusesByType(getObjectsBonusesTagged([stat:intelligence]))"
 		},
 		{
 			"name": "INT mod",
-			"formula": [
-				"floor((getScore(intelligence score)-10)/2)"
-			]
+			"formula": "floor((getScore(intelligence score)-10)/2)"
 		},
 		{
 			"name": "wisdom score",
-			"formula": [
-				"getInput(base wisdom score)+calculateBonusesByType(getObjectsBonusesTagged([stat:wisdom]))"
-			]
+			"formula": "getInput(base wisdom score)+calculateBonusesByType(getObjectsBonusesTagged([stat:wisdom]))"
 		},
 		{
 			"name": "WIS mod",
-			"formula": [
-				"floor((getScore(wisdom score)-10)/2)"
-			]
+			"formula": "floor((getScore(wisdom score)-10)/2)"
 		},
 		{
 			"name": "charisma score",
-			"formula": [
-				"getInput(base charisma score)+calculateBonusesByType(getObjectsBonusesTagged([stat:charisma]))"
-			]
+			"formula": "getInput(base charisma score)+calculateBonusesByType(getObjectsBonusesTagged([stat:charisma]))"
 		},
 		{
 			"name": "CHA mod",
-			"formula": [
-				"floor((getScore(charisma score)-10)/2)"
-			]
+			"formula": "floor((getScore(charisma score)-10)/2)"
+		},
+		{
+			"name": "max skill ranks",
+			"formula": "getScore(character level)"
+		},
+		{
+			"name": "skill points pool",
+			"formula": "TO-DO"
 		}
 	]
 }
