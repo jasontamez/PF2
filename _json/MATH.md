@@ -56,10 +56,11 @@ Quotation marks are an exception, they surround a string which should not be mut
 
 ### Getters and Setters
 
-- `getScore(STRING)` - gets the current value of the given `score`
-- `getBonus(STRING)` - gets the current value of the given `bonus`
-- `getInput(STRING)` - gets the current value of the given `input`
-- `setInput(STRING, Value)` - sets the given `input` to the given `Value`
+- `getScore(STRING)` - gets the current value of the `score` with the given name
+- `getBonus(STRING)` - gets the current value of the `bonus` with the given name
+- `getInput(STRING)` - gets the current value of the `input` with the given name
+- `setInput(STRING, Value)` - sets the `input` with the given name to the given `Value`
+  - If more than one `score`, `bonus` or `input` shares the same name, any of them might be get or set
 
 ### Numeric Operations
 
@@ -71,10 +72,11 @@ Quotation marks are an exception, they surround a string which should not be mut
   - `x % y` divides "x" by "y" and only returns the "remainder"
     - `10 % 7` = 3
     - `10 % 5` = 0
+    - `10 % 35` = 10
   - `x ** y` raises "x" to the power of "y"
   - Parentheses work as expected
-    - `5 + 2 * 5` = 15
-    - `(5 + 2) * 5` = 35
+    - `1 + 2 * 5` = 11
+    - `(1 + 2) * 5` = 15
 
 - Some special functions exist
   - `squareRoot(x)` gives the square root of x
@@ -106,8 +108,9 @@ Quotation marks are an exception, they surround a string which should not be mut
   - `45 != 32` true
 - Plain values are considered true if they are not equal to zero, the empty string, "false", "null", or other typical 'falsy' values
   - `45` true
+  - `-4` true
   - `57 * 0` false
-  - `""` false
+  - `""` false (empty string)
   - `false` false
   - `FalSe` true (case sensitivity)
 - Logical comparisons include *and* and *or*
@@ -134,7 +137,7 @@ This function can be extended in multiple ways; the extensions make the `STRING`
 - `hasFeatureTagged(ARRAY_STRING, STRING...)` - as above, but looks for `feature(s)` with *any* of the `tag(s)` listed in the `ARRAY_STRING`
 - `hasFeatureWithType(ARRAY_STRING, STRING...)` - as above, but looks for `feature(s)` with *any* of the `types` listed in the `ARRAY_STRING`
 
-The `All` suffix can be added after `hasFeature` or after an extension.
+The `All` suffix can be added after `hasFeature` or after the `Tagged` or `WithType` extension *(note: features can only have one category, so `InCategoryAll` would never match anything)*
 
 - `hasFeatureAll(STRING, STRING...)` - returns true if *all* `features` exist
 - `hasFeatureAllInCategory(ARRAY_STRING, STRING...)` - as above, but returns true if *all* of the listed `features` are found within *any* of the categories
@@ -152,24 +155,37 @@ The extensions can be applied together, but only in the order above
 All of the below are valid
 
 - `hasFeatureAllTaggedAllWithType` (all tags, any types)
-- `hasFeatureInCategoryAllWithTypeAll` (in all categories, with all types)
-- `hasFeatureAllInCategoryAllTaggedAllWithTypeAll` (all features must have all categories, all tags and all types)
+- `hasFeatureInCategoryWithTypeAll` (in any category, with all types)
+- `hasFeatureAllInCategoryTaggedAllWithTypeAll` (all features must have any category, all tags, and all types)
 
 These are invalid
 
 - `hasFeatureAllWithTypeTagged` should be `...AllTaggedWithType`
-- `hasFeatureTaggedAllInCategoryAll` should be `...InCategoryAllTaggedAll`
+- `hasFeatureTaggedAllInCategory` should be `...InCategoryTaggedAll`
 - `hasFeatureInCategoryWithTypeAllTagged` should be `...InCategoryTaggedWithTypeAll`
 
 ### Getting multiple results
 
 These functions should only be used inside other functions that accept multiple arguments (see next section)
 
-- `getInputsTagged(some:tag)` - returns the values of all `inputs` with the given tag
-- `getScoresTagged(some:tag)` - returns the values of all `scores` with the given tag
-- `getBonusesTagged(some:tag)` - returns the values of all `bonuses` with the given tag
-  - All of the above can accept multiple tags, and will return values with *any* of the given tags
-- `getInputsTaggedAll`, `getScoresTaggedAll` and `getBonusesTaggedAll` work like the functions above, but will return values that have *all* of the given tags
+- `getInputs(STRING...)` - returns the values of any inputs with the given name(s)
+- `getScores(STRING...)` - returns the values of any scores with the given name(s)
+- `getBonuses(STRING...)` - returns the values of any bonuses with the given name(s)
+
+The functions above accept the same extensions as `hasFeature`, in the same order
+
+- `getInputsWithType(one,two,three)` - gets all inputs with any of the types "one", "two", or "three"
+- `getScoresWithTypeAll([att,basic],strength)` - gets all scores named "strength" with both "att" and "basic" types
+- `getBonusesTagged([tag:one,tag:two])` - gets all bonuses with either the "tag:one" or "tag:two" tags
+- `getInputsInCategoryTaggedAllWithTypeAll([att],[tag:one,tag:two],[secret,penalty])` - gets all inputs with with the "att" category, both the "tag:one" and "tag:two" tags, and both "secret" and "penalty" types
+- `getScoresAll(name)` - works exactly the same as `getScores(name)`, no point in using it
+- `getInputsTaggedInCategory` - is invalid, should be `getInputsInCategoryTagged`
+
+Custom functions may require access to the `input`, `score`, etc. `Object` itself; you can get them by adding "Objects" after "get":
+
+- `getObjectsInputs(name1,name2)` (all inputs named "name1" or "name2")
+- `getObjectsBonusesTagged([stat:strength])` (all bonuses tagged "stat:strength")
+- `getObjectsScoresInCategoryWithTypeAll([attribute],[basic,physical])` (all scores in category "attribute" with both types "basic" and "physical")
 
 ### Using multiple results
 
@@ -310,9 +326,8 @@ Formulae should be in Array form, as the order of Arrays is kept consistent when
     ["ceil", 4],     // 4
     ["floor", 4.8],  // 4
     ["floor", 5],    // 5
-    ["ceil", -3.2],  // -3 (negative numbers may produce results
-]                    //    that seem strange, but this IS rounding
-                     //    to the nearest higher integer!)
+    ["ceil", -3.2],  // -3 (negative numbers may produce nonintuitive results,
+]                    //    but this IS rounding to the nearest higher integer!)
 ```
 
 #### Return multiple results (2)

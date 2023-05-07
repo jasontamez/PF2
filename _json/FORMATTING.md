@@ -1,5 +1,60 @@
 # Formatting so far
 
+## Known Features
+
+### Categories
+
+#### Capitalized names
+
+- feat
+  - focus:skill
+  - focus:skill-specific
+  - focus:weapon-name
+  - focus:school-name
+- background
+- trait
+- sense
+
+#### Lowercase names
+
+- class feature
+- immunity
+- species
+
+### Scores
+
+- (attribute) score
+- (class) class level
+- trap sense bonus
+- fighter bravery bonus
+- base (type) save bonus
+- base attack bonus
+- character level
+- DR
+- age
+- hit dice
+- darkvision
+- legs
+- arms
+
+### Bonuses
+
+- stat:strength/dexterity/etc
+
+### Tags
+
+### Inputs
+
+- (skill) ranks
+- (skill) (specific) ranks
+- base (attribute) score
+- alignment (ENUM)
+
+- skill:perform/knowledge/craft/profession
+- skill:ranks
+
+---
+
 ## Flags
 
 ### `basic:`
@@ -73,7 +128,7 @@ Other tags can indicate special properties.
 
 ---
 
-## Scores
+## Scores.x
 
 -*Format**: Purpose: category / sample name properties / base tag / subtags
 

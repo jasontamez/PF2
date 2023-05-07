@@ -81,7 +81,8 @@
 				"**20 Ranks**: You double the result of any Acrobatics check when jumping and never fall prone at the end of a fall as long as you remain conscious."
 			],
 			"tags": [
-				"skill:acrobatics"
+				"skill:acrobatics",
+				"optional:adventuring-skill"
 			]
 		},
 		{
@@ -210,7 +211,7 @@
 				"optional:skill",
 				"optional:skill-artistry",
 				"optional:background-skill",
-				"skill:artistry-musical composition"
+				"skill:artistry-musical-composition"
 			]
 		},
 		{
@@ -282,7 +283,8 @@
 				"**20 Ranks**: As a full-round action, you can make a *suggestion* (as the spell, maximum duration 1 hour) to a creature within 30 feet (Will negates, DC = 15 + your Charisma modifier). A creature that saves against your *suggestion* is immune to further uses of this effect for 24 hours, and whenever the suggested creature is specifically confronted with proof of your manipulation, it receives another saving throw. This is an extraordinary mindaffecting compulsion."
 			],
 			"tags": [
-				"skill:bluff"
+				"skill:bluff",
+				"optional:adventuring-skill"
 			]
 		},
 		{
@@ -335,7 +337,8 @@
 				"**20 Ranks**: You gain a natural climb speed equal to your base speed on all surfaces. If you have both hands free, you gain a +8 racial bonus on Climb checks."
 			],
 			"tags": [
-				"skill:climb"
+				"skill:climb",
+				"optional:adventuring-skill"
 			]
 		},
 		{
@@ -697,7 +700,8 @@
 				"**20 Ranks**: You can attempt to adjust a creature's attitude in 1 round with no penalty. If you take 1 minute to adjust a creature's attitude, the duration of the resulting change is measured in weeks, not hours. You can gather information in 1d4 minutes with no penalty."
 			],
 			"tags": [
-				"skill:diplomacy"
+				"skill:diplomacy",
+				"optional:adventuring-skill"
 			]
 		},
 		{
@@ -754,7 +758,8 @@
 				"**20 Ranks**: You halve the penalties for performing a quick disarm as described in the 5 Ranks entry. If you possess the trapfinding ability and accept a -20 penalty while using the ability unlocked at 15 ranks, all nearby allies gain the benef it, and you disable the trap as an immediate action before it can trigger if you exceed the DC by at least 10."
 			],
 			"tags": [
-				"skill:disable device"
+				"skill:disable-device",
+				"optional:adventuring-skill"
 			]
 		},
 		{
@@ -804,7 +809,8 @@
 				"**20 Ranks**: You can create a disguise as a standard action, or as a full-round action combined with a Bluff check to create a diversion to hide."
 			],
 			"tags": [
-				"skill:disguise"
+				"skill:disguise",
+				"optional:adventuring-skill"
 			]
 		},
 		{
@@ -846,7 +852,8 @@
 				"**20 Ranks**: You can escape being entangled, grappled, or pinned as an immediate action with an Escape Artist check (DC = the effect's DC + 10 or the attacker's CMB + 10). You can attempt to suppress a slow or paralysis effect as a standard action (increasing the DC by 10), a move action (increasing the DC by 15), or an immediate action (increasing the DC by 20)."
 			],
 			"tags": [
-				"skill:escape artist"
+				"skill:escape-artist",
+				"optional:adventuring-skill"
 			]
 		},
 		{
@@ -899,7 +906,8 @@
 				"**20 Ranks**: A successful DC 35 Fly check allows you to fly straight up at full speed. You are considered two size categories larger when determining wind effects on Fly checks."
 			],
 			"tags": [
-				"skill:fly"
+				"skill:fly",
+				"optional:adventuring-skill"
 			]
 		},
 		{
@@ -1044,7 +1052,7 @@
 				"**20 Ranks**: You can make your speech understandable to any animal for 24 hours with a successful DC 30 Handle Animal check (DC 40 for magical beasts or vermin). You can teach a trick in 1 day, 1 hour (increasing the DC by 10), or 1 minute (increasing the DC by 20)."
 			],
 			"tags": [
-				"skill:handle animal",
+				"skill:handle-animal",
 				"optional:background-skill"
 			]
 		},
@@ -1125,7 +1133,8 @@
 				"**20 Ranks**: When you treat deadly wounds, the target recovers hit point and ability damage as if it had rested for 3 days with long-term care."
 			],
 			"tags": [
-				"skill:heal"
+				"skill:heal",
+				"optional:adventuring-skill"
 			]
 		},
 		{
@@ -1166,7 +1175,8 @@
 				"**20 Ranks**: If you exceed the DC to demoralize a target by at least 20, it is cowering for 1d4 rounds and panicked thereafter.&ast; A Will save (DC = 10 + your number of ranks in Intimidate) negates the cowering and panicked conditions, but the target is still shaken, even if it has the stalwart ability."
 			],
 			"tags": [
-				"skill:intimidate"
+				"skill:intimidate",
+				"optional:adventuring-skill"
 			]
 		},
 		{
@@ -1287,6 +1297,7 @@
 			],
 			"tags": [
 				"skill:knowledge",
+				"optional:background-skill",
 				"skill:allows-subskills"
 			]
 		},
@@ -1295,6 +1306,7 @@
 			"inherits_from": "Knowledge",
 			"tags": [
 				"skill:knowledge",
+				"optional:adventuring-skill",
 				"skill:knowledge-arcana"
 			]
 		},
@@ -1303,6 +1315,7 @@
 			"inherits_from": "Knowledge",
 			"tags": [
 				"skill:knowledge",
+				"optional:adventuring-skill",
 				"skill:knowledge-dungeoneering"
 			]
 		},
@@ -1338,6 +1351,7 @@
 			"inherits_from": "Knowledge",
 			"tags": [
 				"skill:knowledge",
+				"optional:adventuring-skill",
 				"skill:knowledge-local"
 			]
 		},
@@ -1346,6 +1360,7 @@
 			"inherits_from": "Knowledge",
 			"tags": [
 				"skill:knowledge",
+				"optional:adventuring-skill",
 				"skill:knowledge-nature"
 			]
 		},
@@ -1363,6 +1378,7 @@
 			"inherits_from": "Knowledge",
 			"tags": [
 				"skill:knowledge",
+				"optional:adventuring-skill",
 				"skill:knowledge-planes"
 			]
 		},
@@ -1371,6 +1387,7 @@
 			"inherits_from": "Knowledge",
 			"tags": [
 				"skill:knowledge",
+				"optional:adventuring-skill",
 				"skill:knowledge-religion"
 			]
 		},
@@ -1584,7 +1601,8 @@
 				"**20 Ranks**: You gain a +10 bonus on Perception checks to notice invisible creatures or objects. The distance modifier on the DC of Perception checks you attempt is reduced to +1 per 60 feet."
 			],
 			"tags": [
-				"skill:perception"
+				"skill:perception",
+				"optional:adventuring-skill"
 			]
 		},
 		{
@@ -2002,7 +2020,7 @@
 			"tags": [
 				"skill:profession",
 				"optional:background-skill",
-				"skill:profession-stable master"
+				"skill:profession-stable-master"
 			]
 		},
 		{
@@ -2080,7 +2098,8 @@
 				"**20 Ranks**: When you spur your mount, its speed is increased by 30 feet, and it gains a +4 bonus on Reflex saves and a +4 dodge bonus to AC."
 			],
 			"tags": [
-				"skill:ride"
+				"skill:ride",
+				"optional:adventuring-skill"
 			]
 		},
 		{
@@ -2134,7 +2153,8 @@
 				"**20 Ranks**: You can read surface thoughts as above as a standard action. A successful check to gain an insight bonus to your AC also negates the attack that triggered it."
 			],
 			"tags": [
-				"skill:sense motive"
+				"skill:sense-motive",
+				"optional:adventuring-skill"
 			]
 		},
 		{
@@ -2178,7 +2198,7 @@
 				"**20 Ranks**: You take no penalty for using Sleight of Hand as a move action, and take only a -10 penalty when using it as a swift action."
 			],
 			"tags": [
-				"skill:sleight of hand",
+				"skill:sleight-of-hand",
 				"optional:background-skill"
 			]
 		},
@@ -2227,7 +2247,8 @@
 				"**20 Ranks**: Whenever you attempt a caster level check, attempt a Spellcraft check at a -20 penalty at the same DC. If the spellcraft check succeeds, you gain a +2 circumstance bonus on your caster level check."
 			],
 			"tags": [
-				"skill:spellcraft"
+				"skill:spellcraft",
+				"optional:adventuring-skill"
 			]
 		},
 		{
@@ -2261,7 +2282,8 @@
 				"**20 Ranks**: If you attack after successfully using Stealth, your target is denied its Dexterity bonus against all attacks that you make before the beginning of your next turn."
 			],
 			"tags": [
-				"skill:stealth"
+				"skill:stealth",
+				"optional:adventuring-skill"
 			]
 		},
 		{
@@ -2403,7 +2425,8 @@
 				"**20 Ranks**: You take only a -10 penalty when tracking creatures that leave no tracks."
 			],
 			"tags": [
-				"skill:survival"
+				"skill:survival",
+				"optional:adventuring-skill"
 			]
 		},
 		{
@@ -2440,7 +2463,8 @@
 				"**20 Ranks**: You gain a swim speed equal to your base speed in all water. If you have both hands free, you gain a +8 racial bonus on Swim checks."
 			],
 			"tags": [
-				"skill:swim"
+				"skill:swim",
+				"optional:adventuring-skill"
 			]
 		},
 		{
@@ -2497,7 +2521,8 @@
 				"**20 Ranks**: If you roll a natural 1 when activating an item, you can reroll the check at a -10 penalty to activate the item. You must take the result of the second check, even if it is worse, and you can't reroll it again."
 			],
 			"tags": [
-				"skill:use magic device"
+				"skill:use-magic-device",
+				"optional:adventuring-skill"
 			]
 		}
 	]

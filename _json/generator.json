@@ -2,7 +2,17 @@
 	"_information": [
 		"notes"
 	],
-	"user_input": {
+	"hidden_inputs": [
+		{
+			"name": "max skill ranks",
+			"value": 1
+		},
+		{
+			"name": "skill points pool",
+			"value": 0
+		}
+	],
+	"user_inputs": {
 		"INTEGER": [
 			{
 				"name": "base strength score",
@@ -27,6 +37,39 @@
 			{
 				"name": "base charisma score",
 				"value": 10
+			}
+		],
+		"KEYS": [
+			{
+				"name": "alignment",
+				"value": "N",
+				"keys": [
+					"LG",
+					"LN",
+					"LE",
+					"NG",
+					"N",
+					"NE",
+					"CG",
+					"CN",
+					"CE",
+					"Unaligned"
+				]
+			}
+		]
+	},
+	"controlled_inputs": {
+		"INTEGER": [
+			{
+				"add_from": "skill points pool",
+				"control_test": "(X >= 0) && (X <= getInput(max skill ranks)",
+				"test_string": "X",
+				"list": [
+					{
+						"name": "acrobatics ranks",
+						"value": 0
+					}
+				]
 			}
 		]
 	},
@@ -82,7 +125,7 @@
 		{
 			"name": "strength score",
 			"formula": [
-				"getScore(base strength score)+calculateBonusesByType(getBonusObjectsByTag(stat:strength))"
+				"getInput(base strength score)+calculateBonusesByType(getObjectsBonusesTagged([stat:strength]))"
 			]
 		},
 		{
@@ -94,7 +137,7 @@
 		{
 			"name": "dexterity score",
 			"formula": [
-				"getScore(base dexterity score)+calculateBonusesByType(getBonusObjectsByTag(stat:dexterity))"
+				"getInput(base dexterity score)+calculateBonusesByType(getObjectsBonusesTagged([stat:dexterity]))"
 			]
 		},
 		{
@@ -106,7 +149,7 @@
 		{
 			"name": "constitution score",
 			"formula": [
-				"getScore(base constitution score)+calculateBonusesByType(getBonusObjectsByTag(stat:constitution))"
+				"getInput(base constitution score)+calculateBonusesByType(getObjectsBonusesTagged([stat:constitution]))"
 			]
 		},
 		{
@@ -118,7 +161,7 @@
 		{
 			"name": "intelligence score",
 			"formula": [
-				"getScore(base intelligence score)+calculateBonusesByType(getBonusObjectsByTag(stat:intelligence))"
+				"getInput(base intelligence score)+calculateBonusesByType(getObjectsBonusesTagged([stat:intelligence]))"
 			]
 		},
 		{
@@ -130,7 +173,7 @@
 		{
 			"name": "wisdom score",
 			"formula": [
-				"getScore(base wisdom score)+calculateBonusesByType(getBonusObjectsByTag(stat:wisdom))"
+				"getInput(base wisdom score)+calculateBonusesByType(getObjectsBonusesTagged([stat:wisdom]))"
 			]
 		},
 		{
@@ -142,7 +185,7 @@
 		{
 			"name": "charisma score",
 			"formula": [
-				"getScore(base charisma score)+calculateBonusesByType(getBonusObjectsByTag(stat:charisma))"
+				"getInput(base charisma score)+calculateBonusesByType(getObjectsBonusesTagged([stat:charisma]))"
 			]
 		},
 		{
