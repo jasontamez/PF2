@@ -23,7 +23,7 @@ Quotation marks are an exception, they surround a string which should not be mut
 
 1. the `STRING` is in a function that could accept arguments other than `STRINGS`
 2. the `STRING` includes brackets, commas, parentheses, quotation marks, math and logical operators, or other reserved characters
-    - `[],"()|&!><=>%+-/*`
+    - `[],"()|&!><=>%+-/*$@`
 
 - `function(hello)` is equal to `function("hello")`
 - `function([one,two,three,four])` is equal to `function(["one","two","three","four"])`
@@ -36,9 +36,9 @@ Quotation marks are an exception, they surround a string which should not be mut
 
 1. Strings surrounded by quotation marks `" "` are noted
 2. Parentheses `()`
-  1. Innermost parentheses are evaluated before outer, from left to right
+    1. Innermost parentheses are evaluated before outer, from left to right
 3. Functions `function()`
-  1. Innermost functions are evaluated before outer, from left to right
+    1. Innermost functions are evaluated before outer, from left to right
 4. Negation `!`
 5. Exponents `**`
 6. Division, Multiplication, and Remainders `/ * %`
