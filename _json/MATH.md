@@ -36,20 +36,17 @@ Quotation marks are an exception, they surround a string which should not be mut
 
 1. Strings surrounded by quotation marks `" "` are noted
 2. Parentheses `()`
-  1. Whitespace around parentheses is discarded
-  2. Innermost parentheses are evaluated before outer, from left to right
+  1. Innermost parentheses are evaluated before outer, from left to right
 3. Functions `function()`
-  1. Whitespace in functions is discarded
-  2. Innermost functions are evaluated before outer, from left to right
-4. All remaining whitespace is discarded
-5. Negation `!`
-6. Exponents `**`
-7. Division, Multiplication, and Remainders `/ * %`
-8. Addition and Subtraction `+ -`
-9. Comparisons `< <= > >=`
-10. Equalities `== !=`
-11. Logical AND `&&`
-12. Logical OR `||`
+  1. Innermost functions are evaluated before outer, from left to right
+4. Negation `!`
+5. Exponents `**`
+6. Division, Multiplication, and Remainders `/ * %`
+7. Addition and Subtraction `+ -`
+8. Comparisons `< <= > >=`
+9. Equalities `== !=`
+10. Logical AND `&&`
+11. Logical OR `||`
 
 ### General Functions
 
