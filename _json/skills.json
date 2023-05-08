@@ -127,6 +127,7 @@
 		},
 		{
 			"name": "Artistry (any)",
+			"is_generic": true,
 			"file": "skillArtistry.html",
 			"sources": [
 				"Pathfinder Unchained"
@@ -166,13 +167,12 @@
 				"skill:artistry",
 				"optional:skill",
 				"optional:skill-artistry",
-				"optional:background-skill",
-				"skill:allows-subskills"
+				"optional:background-skill"
 			]
 		},
 		{
 			"name": "Artistry (choreography)",
-			"inherits_from": "Artistry",
+			"inherits_from": "Artistry (any)",
 			"tags": [
 				"skill:artistry",
 				"optional:skill",
@@ -183,7 +183,7 @@
 		},
 		{
 			"name": "Artistry (criticism)",
-			"inherits_from": "Artistry",
+			"inherits_from": "Artistry (any)",
 			"tags": [
 				"skill:artistry",
 				"optional:skill",
@@ -194,7 +194,7 @@
 		},
 		{
 			"name": "Artistry (literature)",
-			"inherits_from": "Artistry",
+			"inherits_from": "Artistry (any)",
 			"tags": [
 				"skill:artistry",
 				"optional:skill",
@@ -205,7 +205,7 @@
 		},
 		{
 			"name": "Artistry (musical composition)",
-			"inherits_from": "Artistry",
+			"inherits_from": "Artistry (any)",
 			"tags": [
 				"skill:artistry",
 				"optional:skill",
@@ -216,7 +216,7 @@
 		},
 		{
 			"name": "Artistry (philosophy)",
-			"inherits_from": "Artistry",
+			"inherits_from": "Artistry (any)",
 			"tags": [
 				"skill:artistry",
 				"optional:skill",
@@ -227,7 +227,7 @@
 		},
 		{
 			"name": "Artistry (playwriting)",
-			"inherits_from": "Artistry",
+			"inherits_from": "Artistry (any)",
 			"tags": [
 				"skill:artistry",
 				"optional:skill",
@@ -342,16 +342,8 @@
 			]
 		},
 		{
-			"name": "Craft (alchemy)",
-			"inherits_from": "Craft",
-			"tags": [
-				"skill:craft",
-				"optional:background-skill",
-				"skill:craft-alchemy"
-			]
-		},
-		{
 			"name": "Craft (any)",
+			"is_generic": true,
 			"file": "skills097e.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -451,13 +443,21 @@
 			],
 			"tags": [
 				"skill:craft",
+				"optional:background-skill"
+			]
+		},
+		{
+			"name": "Craft (alchemy)",
+			"inherits_from": "Craft (any)",
+			"tags": [
+				"skill:craft",
 				"optional:background-skill",
-				"skill:allows-subskills"
+				"skill:craft-alchemy"
 			]
 		},
 		{
 			"name": "Craft (armor)",
-			"inherits_from": "Craft",
+			"inherits_from": "Craft (any)",
 			"tags": [
 				"skill:craft",
 				"optional:background-skill",
@@ -466,7 +466,7 @@
 		},
 		{
 			"name": "Craft (baskets)",
-			"inherits_from": "Craft",
+			"inherits_from": "Craft (any)",
 			"tags": [
 				"skill:craft",
 				"optional:background-skill",
@@ -475,7 +475,7 @@
 		},
 		{
 			"name": "Craft (books)",
-			"inherits_from": "Craft",
+			"inherits_from": "Craft (any)",
 			"tags": [
 				"skill:craft",
 				"optional:background-skill",
@@ -484,7 +484,7 @@
 		},
 		{
 			"name": "Craft (bows)",
-			"inherits_from": "Craft",
+			"inherits_from": "Craft (any)",
 			"tags": [
 				"skill:craft",
 				"optional:background-skill",
@@ -493,7 +493,7 @@
 		},
 		{
 			"name": "Craft (calligraphy)",
-			"inherits_from": "Craft",
+			"inherits_from": "Craft (any)",
 			"tags": [
 				"skill:craft",
 				"optional:background-skill",
@@ -502,7 +502,7 @@
 		},
 		{
 			"name": "Craft (carpentry)",
-			"inherits_from": "Craft",
+			"inherits_from": "Craft (any)",
 			"tags": [
 				"skill:craft",
 				"optional:background-skill",
@@ -511,7 +511,7 @@
 		},
 		{
 			"name": "Craft (cloth)",
-			"inherits_from": "Craft",
+			"inherits_from": "Craft (any)",
 			"tags": [
 				"skill:craft",
 				"optional:background-skill",
@@ -520,7 +520,7 @@
 		},
 		{
 			"name": "Craft (clothing)",
-			"inherits_from": "Craft",
+			"inherits_from": "Craft (any)",
 			"tags": [
 				"skill:craft",
 				"optional:background-skill",
@@ -529,7 +529,7 @@
 		},
 		{
 			"name": "Craft (glass)",
-			"inherits_from": "Craft",
+			"inherits_from": "Craft (any)",
 			"tags": [
 				"skill:craft",
 				"optional:background-skill",
@@ -538,7 +538,7 @@
 		},
 		{
 			"name": "Craft (jewelry)",
-			"inherits_from": "Craft",
+			"inherits_from": "Craft (any)",
 			"tags": [
 				"skill:craft",
 				"optional:background-skill",
@@ -547,7 +547,7 @@
 		},
 		{
 			"name": "Craft (leather)",
-			"inherits_from": "Craft",
+			"inherits_from": "Craft (any)",
 			"tags": [
 				"skill:craft",
 				"optional:background-skill",
@@ -556,7 +556,7 @@
 		},
 		{
 			"name": "Craft (locks)",
-			"inherits_from": "Craft",
+			"inherits_from": "Craft (any)",
 			"tags": [
 				"skill:craft",
 				"optional:background-skill",
@@ -565,7 +565,7 @@
 		},
 		{
 			"name": "Craft (paintings)",
-			"inherits_from": "Craft",
+			"inherits_from": "Craft (any)",
 			"tags": [
 				"skill:craft",
 				"optional:background-skill",
@@ -574,7 +574,7 @@
 		},
 		{
 			"name": "Craft (pottery)",
-			"inherits_from": "Craft",
+			"inherits_from": "Craft (any)",
 			"tags": [
 				"skill:craft",
 				"optional:background-skill",
@@ -583,7 +583,7 @@
 		},
 		{
 			"name": "Craft (sculptures)",
-			"inherits_from": "Craft",
+			"inherits_from": "Craft (any)",
 			"tags": [
 				"skill:craft",
 				"optional:background-skill",
@@ -592,7 +592,7 @@
 		},
 		{
 			"name": "Craft (ships)",
-			"inherits_from": "Craft",
+			"inherits_from": "Craft (any)",
 			"tags": [
 				"skill:craft",
 				"optional:background-skill",
@@ -601,7 +601,7 @@
 		},
 		{
 			"name": "Craft (shoes)",
-			"inherits_from": "Craft",
+			"inherits_from": "Craft (any)",
 			"tags": [
 				"skill:craft",
 				"optional:background-skill",
@@ -610,7 +610,7 @@
 		},
 		{
 			"name": "Craft (stonemasonry)",
-			"inherits_from": "Craft",
+			"inherits_from": "Craft (any)",
 			"tags": [
 				"skill:craft",
 				"optional:background-skill",
@@ -619,7 +619,7 @@
 		},
 		{
 			"name": "Craft (traps)",
-			"inherits_from": "Craft",
+			"inherits_from": "Craft (any)",
 			"tags": [
 				"skill:craft",
 				"optional:background-skill",
@@ -628,7 +628,7 @@
 		},
 		{
 			"name": "Craft (weapons)",
-			"inherits_from": "Craft",
+			"inherits_from": "Craft (any)",
 			"tags": [
 				"skill:craft",
 				"optional:background-skill",
@@ -1181,6 +1181,7 @@
 		},
 		{
 			"name": "Knowledge (any)",
+			"is_generic": true,
 			"file": "skillsf339.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -1297,13 +1298,12 @@
 			],
 			"tags": [
 				"skill:knowledge",
-				"optional:background-skill",
-				"skill:allows-subskills"
+				"optional:background-skill"
 			]
 		},
 		{
 			"name": "Knowledge (arcana)",
-			"inherits_from": "Knowledge",
+			"inherits_from": "Knowledge (any)",
 			"tags": [
 				"skill:knowledge",
 				"optional:adventuring-skill",
@@ -1312,7 +1312,7 @@
 		},
 		{
 			"name": "Knowledge (dungeoneering)",
-			"inherits_from": "Knowledge",
+			"inherits_from": "Knowledge (any)",
 			"tags": [
 				"skill:knowledge",
 				"optional:adventuring-skill",
@@ -1321,7 +1321,7 @@
 		},
 		{
 			"name": "Knowledge (engineering)",
-			"inherits_from": "Knowledge",
+			"inherits_from": "Knowledge (any)",
 			"tags": [
 				"skill:knowledge",
 				"optional:background-skill",
@@ -1330,7 +1330,7 @@
 		},
 		{
 			"name": "Knowledge (geography)",
-			"inherits_from": "Knowledge",
+			"inherits_from": "Knowledge (any)",
 			"tags": [
 				"skill:knowledge",
 				"optional:background-skill",
@@ -1339,7 +1339,7 @@
 		},
 		{
 			"name": "Knowledge (history)",
-			"inherits_from": "Knowledge",
+			"inherits_from": "Knowledge (any)",
 			"tags": [
 				"skill:knowledge",
 				"optional:background-skill",
@@ -1348,7 +1348,7 @@
 		},
 		{
 			"name": "Knowledge (local)",
-			"inherits_from": "Knowledge",
+			"inherits_from": "Knowledge (any)",
 			"tags": [
 				"skill:knowledge",
 				"optional:adventuring-skill",
@@ -1357,7 +1357,7 @@
 		},
 		{
 			"name": "Knowledge (nature)",
-			"inherits_from": "Knowledge",
+			"inherits_from": "Knowledge (any)",
 			"tags": [
 				"skill:knowledge",
 				"optional:adventuring-skill",
@@ -1366,7 +1366,7 @@
 		},
 		{
 			"name": "Knowledge (nobility)",
-			"inherits_from": "Knowledge",
+			"inherits_from": "Knowledge (any)",
 			"tags": [
 				"skill:knowledge",
 				"optional:background-skill",
@@ -1375,7 +1375,7 @@
 		},
 		{
 			"name": "Knowledge (planes)",
-			"inherits_from": "Knowledge",
+			"inherits_from": "Knowledge (any)",
 			"tags": [
 				"skill:knowledge",
 				"optional:adventuring-skill",
@@ -1384,7 +1384,7 @@
 		},
 		{
 			"name": "Knowledge (religion)",
-			"inherits_from": "Knowledge",
+			"inherits_from": "Knowledge (any)",
 			"tags": [
 				"skill:knowledge",
 				"optional:adventuring-skill",
@@ -1476,6 +1476,7 @@
 		},
 		{
 			"name": "Lore (any)",
+			"is_generic": true,
 			"file": "skillLore.html",
 			"sources": [
 				"Pathfinder Unchained"
@@ -1518,8 +1519,7 @@
 				"skill:lore",
 				"optional:skill",
 				"optional:skill-lore",
-				"optional:background-skill",
-				"skill:allows-subskills"
+				"optional:background-skill"
 			]
 		},
 		{
@@ -1606,16 +1606,8 @@
 			]
 		},
 		{
-			"name": "Perform (act)",
-			"inherits_from": "Perform",
-			"tags": [
-				"skill:perform",
-				"optional:background-skill",
-				"skill:perform-act"
-			]
-		},
-		{
 			"name": "Perform (any)",
+			"is_generic": true,
 			"file": "skillsb7b0.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -1660,13 +1652,21 @@
 			],
 			"tags": [
 				"skill:perform",
+				"optional:background-skill"
+			]
+		},
+		{
+			"name": "Perform (act)",
+			"inherits_from": "Perform (any)",
+			"tags": [
+				"skill:perform",
 				"optional:background-skill",
-				"skill:allows-subskills"
+				"skill:perform-act"
 			]
 		},
 		{
 			"name": "Perform (comedy)",
-			"inherits_from": "Perform",
+			"inherits_from": "Perform (any)",
 			"tags": [
 				"skill:perform",
 				"optional:background-skill",
@@ -1675,7 +1675,7 @@
 		},
 		{
 			"name": "Perform (dance)",
-			"inherits_from": "Perform",
+			"inherits_from": "Perform (any)",
 			"tags": [
 				"skill:perform",
 				"optional:background-skill",
@@ -1684,7 +1684,7 @@
 		},
 		{
 			"name": "Perform (keyboard)",
-			"inherits_from": "Perform",
+			"inherits_from": "Perform (any)",
 			"tags": [
 				"skill:perform",
 				"optional:background-skill",
@@ -1693,7 +1693,7 @@
 		},
 		{
 			"name": "Perform (oratory)",
-			"inherits_from": "Perform",
+			"inherits_from": "Perform (any)",
 			"tags": [
 				"skill:perform",
 				"optional:background-skill",
@@ -1702,7 +1702,7 @@
 		},
 		{
 			"name": "Perform (percussion)",
-			"inherits_from": "Perform",
+			"inherits_from": "Perform (any)",
 			"tags": [
 				"skill:perform",
 				"optional:background-skill",
@@ -1711,7 +1711,7 @@
 		},
 		{
 			"name": "Perform (sing)",
-			"inherits_from": "Perform",
+			"inherits_from": "Perform (any)",
 			"tags": [
 				"skill:perform",
 				"optional:background-skill",
@@ -1720,7 +1720,7 @@
 		},
 		{
 			"name": "Perform (string)",
-			"inherits_from": "Perform",
+			"inherits_from": "Perform (any)",
 			"tags": [
 				"skill:perform",
 				"optional:background-skill",
@@ -1729,7 +1729,7 @@
 		},
 		{
 			"name": "Perform (wind)",
-			"inherits_from": "Perform",
+			"inherits_from": "Perform (any)",
 			"tags": [
 				"skill:perform",
 				"optional:background-skill",
@@ -1738,6 +1738,7 @@
 		},
 		{
 			"name": "Profession (any)",
+			"is_generic": true,
 			"file": "skills7267.html",
 			"sources": [
 				"PRPG Core Rulebook",
@@ -1776,13 +1777,12 @@
 			],
 			"tags": [
 				"skill:profession",
-				"optional:background-skill",
-				"skill:allows-subskills"
+				"optional:background-skill"
 			]
 		},
 		{
 			"name": "Profession (architect)",
-			"inherits_from": "Profession",
+			"inherits_from": "Profession (any)",
 			"tags": [
 				"skill:profession",
 				"optional:background-skill",
@@ -1791,7 +1791,7 @@
 		},
 		{
 			"name": "Profession (baker)",
-			"inherits_from": "Profession",
+			"inherits_from": "Profession (any)",
 			"tags": [
 				"skill:profession",
 				"optional:background-skill",
@@ -1800,7 +1800,7 @@
 		},
 		{
 			"name": "Profession (barrister)",
-			"inherits_from": "Profession",
+			"inherits_from": "Profession (any)",
 			"tags": [
 				"skill:profession",
 				"optional:background-skill",
@@ -1809,7 +1809,7 @@
 		},
 		{
 			"name": "Profession (brewer)",
-			"inherits_from": "Profession",
+			"inherits_from": "Profession (any)",
 			"tags": [
 				"skill:profession",
 				"optional:background-skill",
@@ -1818,7 +1818,7 @@
 		},
 		{
 			"name": "Profession (butcher)",
-			"inherits_from": "Profession",
+			"inherits_from": "Profession (any)",
 			"tags": [
 				"skill:profession",
 				"optional:background-skill",
@@ -1827,7 +1827,7 @@
 		},
 		{
 			"name": "Profession (clerk)",
-			"inherits_from": "Profession",
+			"inherits_from": "Profession (any)",
 			"tags": [
 				"skill:profession",
 				"optional:background-skill",
@@ -1836,7 +1836,7 @@
 		},
 		{
 			"name": "Profession (cook)",
-			"inherits_from": "Profession",
+			"inherits_from": "Profession (any)",
 			"tags": [
 				"skill:profession",
 				"optional:background-skill",
@@ -1845,7 +1845,7 @@
 		},
 		{
 			"name": "Profession (courtesan)",
-			"inherits_from": "Profession",
+			"inherits_from": "Profession (any)",
 			"tags": [
 				"skill:profession",
 				"optional:background-skill",
@@ -1854,7 +1854,7 @@
 		},
 		{
 			"name": "Profession (driver)",
-			"inherits_from": "Profession",
+			"inherits_from": "Profession (any)",
 			"tags": [
 				"skill:profession",
 				"optional:background-skill",
@@ -1863,7 +1863,7 @@
 		},
 		{
 			"name": "Profession (engineer)",
-			"inherits_from": "Profession",
+			"inherits_from": "Profession (any)",
 			"tags": [
 				"skill:profession",
 				"optional:background-skill",
@@ -1872,7 +1872,7 @@
 		},
 		{
 			"name": "Profession (farmer)",
-			"inherits_from": "Profession",
+			"inherits_from": "Profession (any)",
 			"tags": [
 				"skill:profession",
 				"optional:background-skill",
@@ -1881,7 +1881,7 @@
 		},
 		{
 			"name": "Profession (fisherman)",
-			"inherits_from": "Profession",
+			"inherits_from": "Profession (any)",
 			"tags": [
 				"skill:profession",
 				"optional:background-skill",
@@ -1890,7 +1890,7 @@
 		},
 		{
 			"name": "Profession (gambler)",
-			"inherits_from": "Profession",
+			"inherits_from": "Profession (any)",
 			"tags": [
 				"skill:profession",
 				"optional:background-skill",
@@ -1899,7 +1899,7 @@
 		},
 		{
 			"name": "Profession (gardener)",
-			"inherits_from": "Profession",
+			"inherits_from": "Profession (any)",
 			"tags": [
 				"skill:profession",
 				"optional:background-skill",
@@ -1908,7 +1908,7 @@
 		},
 		{
 			"name": "Profession (herbalist)",
-			"inherits_from": "Profession",
+			"inherits_from": "Profession (any)",
 			"tags": [
 				"skill:profession",
 				"optional:background-skill",
@@ -1917,7 +1917,7 @@
 		},
 		{
 			"name": "Profession (innkeeper)",
-			"inherits_from": "Profession",
+			"inherits_from": "Profession (any)",
 			"tags": [
 				"skill:profession",
 				"optional:background-skill",
@@ -1926,7 +1926,7 @@
 		},
 		{
 			"name": "Profession (librarian)",
-			"inherits_from": "Profession",
+			"inherits_from": "Profession (any)",
 			"tags": [
 				"skill:profession",
 				"optional:background-skill",
@@ -1935,7 +1935,7 @@
 		},
 		{
 			"name": "Profession (merchant)",
-			"inherits_from": "Profession",
+			"inherits_from": "Profession (any)",
 			"tags": [
 				"skill:profession",
 				"optional:background-skill",
@@ -1944,7 +1944,7 @@
 		},
 		{
 			"name": "Profession (midwife)",
-			"inherits_from": "Profession",
+			"inherits_from": "Profession (any)",
 			"tags": [
 				"skill:profession",
 				"optional:background-skill",
@@ -1953,7 +1953,7 @@
 		},
 		{
 			"name": "Profession (miller)",
-			"inherits_from": "Profession",
+			"inherits_from": "Profession (any)",
 			"tags": [
 				"skill:profession",
 				"optional:background-skill",
@@ -1962,7 +1962,7 @@
 		},
 		{
 			"name": "Profession (miner)",
-			"inherits_from": "Profession",
+			"inherits_from": "Profession (any)",
 			"tags": [
 				"skill:profession",
 				"optional:background-skill",
@@ -1971,7 +1971,7 @@
 		},
 		{
 			"name": "Profession (porter)",
-			"inherits_from": "Profession",
+			"inherits_from": "Profession (any)",
 			"tags": [
 				"skill:profession",
 				"optional:background-skill",
@@ -1980,7 +1980,7 @@
 		},
 		{
 			"name": "Profession (sailor)",
-			"inherits_from": "Profession",
+			"inherits_from": "Profession (any)",
 			"tags": [
 				"skill:profession",
 				"optional:background-skill",
@@ -1989,7 +1989,7 @@
 		},
 		{
 			"name": "Profession (scribe)",
-			"inherits_from": "Profession",
+			"inherits_from": "Profession (any)",
 			"tags": [
 				"skill:profession",
 				"optional:background-skill",
@@ -1998,7 +1998,7 @@
 		},
 		{
 			"name": "Profession (shepherd)",
-			"inherits_from": "Profession",
+			"inherits_from": "Profession (any)",
 			"tags": [
 				"skill:profession",
 				"optional:background-skill",
@@ -2007,7 +2007,7 @@
 		},
 		{
 			"name": "Profession (soldier)",
-			"inherits_from": "Profession",
+			"inherits_from": "Profession (any)",
 			"tags": [
 				"skill:profession",
 				"optional:background-skill",
@@ -2016,7 +2016,7 @@
 		},
 		{
 			"name": "Profession (stable master)",
-			"inherits_from": "Profession",
+			"inherits_from": "Profession (any)",
 			"tags": [
 				"skill:profession",
 				"optional:background-skill",
@@ -2025,7 +2025,7 @@
 		},
 		{
 			"name": "Profession (tanner)",
-			"inherits_from": "Profession",
+			"inherits_from": "Profession (any)",
 			"tags": [
 				"skill:profession",
 				"optional:background-skill",
@@ -2034,7 +2034,7 @@
 		},
 		{
 			"name": "Profession (trapper)",
-			"inherits_from": "Profession",
+			"inherits_from": "Profession (any)",
 			"tags": [
 				"skill:profession",
 				"optional:background-skill",
@@ -2043,7 +2043,7 @@
 		},
 		{
 			"name": "Profession (woodcutter)",
-			"inherits_from": "Profession",
+			"inherits_from": "Profession (any)",
 			"tags": [
 				"skill:profession",
 				"optional:background-skill",

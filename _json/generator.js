@@ -13,10 +13,12 @@ export function calculateBonusesByType (arrayOfBonuses) {
             final += value;
             return;
         }
+        // Create an array for this specific 'type' if needed
         if(!bonuses[type]) {
             types.push(type);
             bonuses[type] = [];
         }
+        // Add bonus to type's array
         bonuses[type].push(value);
     });
     // Only keep the largest bonus of each type

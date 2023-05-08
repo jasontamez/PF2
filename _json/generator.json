@@ -1,8 +1,15 @@
 {
 	"_information": [
-		"TO-DO: skill points pool, skill ranks controlled inputs, skill scores, this file's description"
+		"TO-DO: skill points pool, skill ranks controlled inputs, skill scores, this file's description",
+		"hidden_inputs are values that can be set and modified freely by the system",
+		"user_inputs are values that can be set directly by the user",
+		"controlled_inputs are values that can be set by the user, but are limited and/or managed by the system in a way that may affect other inputs or scores"
 	],
 	"hidden_inputs": [
+		{
+			"name": "skill points pool",
+			"value": 0
+		}
 	],
 	"user_inputs": {
 		"INTEGER": [
@@ -53,12 +60,385 @@
 	"controlled_inputs": {
 		"INTEGER": [
 			{
-				"add_from_score": "skill points pool",
-				"control_test": "(X >= 0) && (X <= getScore(max skill ranks)",
-				"test_string": "X",
+				"test_value": "X",
+				"test_name": "THIS",
+				"can_increment": "(getInput(skill points pool) > 0) && (X < getScore(max skill ranks))",
+				"do_increment": [
+					"setInput(skill points pool,getInput(skill points pool) - 1)",
+					"setInput(THIS, X + 1)"
+				],
+				"can_decrement": "X > 0",
+				"do_decrement": [
+					"setInput(skill points pool,getInput(skill points pool) + 1)",
+					"setInput(THIS, X - 1)"
+				],
 				"list": [
 					{
 						"name": "acrobatics ranks",
+						"value": 0
+					},
+					{
+						"name": "appraise ranks",
+						"value": 0
+					},
+					{
+						"name": "bluff ranks",
+						"value": 0
+					},
+					{
+						"name": "climb ranks",
+						"value": 0
+					},
+					{
+						"name": "craft alchemy ranks",
+						"value": 0
+					},
+					{
+						"name": "craft armor ranks",
+						"value": 0
+					},
+					{
+						"name": "craft baskets ranks",
+						"value": 0
+					},
+					{
+						"name": "craft books ranks",
+						"value": 0
+					},
+					{
+						"name": "craft bows ranks",
+						"value": 0
+					},
+					{
+						"name": "craft calligraphy ranks",
+						"value": 0
+					},
+					{
+						"name": "craft carpentry ranks",
+						"value": 0
+					},
+					{
+						"name": "craft cloth ranks",
+						"value": 0
+					},
+					{
+						"name": "craft clothing ranks",
+						"value": 0
+					},
+					{
+						"name": "craft glass ranks",
+						"value": 0
+					},
+					{
+						"name": "craft jewelry ranks",
+						"value": 0
+					},
+					{
+						"name": "craft leather ranks",
+						"value": 0
+					},
+					{
+						"name": "craft locks ranks",
+						"value": 0
+					},
+					{
+						"name": "craft paintings ranks",
+						"value": 0
+					},
+					{
+						"name": "craft pottery ranks",
+						"value": 0
+					},
+					{
+						"name": "craft sculptures ranks",
+						"value": 0
+					},
+					{
+						"name": "craft ships ranks",
+						"value": 0
+					},
+					{
+						"name": "craft shoes ranks",
+						"value": 0
+					},
+					{
+						"name": "craft stonemasonry ranks",
+						"value": 0
+					},
+					{
+						"name": "craft traps ranks",
+						"value": 0
+					},
+					{
+						"name": "craft weapons ranks",
+						"value": 0
+					},
+					{
+						"name": "diplomacy ranks",
+						"value": 0
+					},
+					{
+						"name": "disable device ranks",
+						"value": 0
+					},
+					{
+						"name": "disguise ranks",
+						"value": 0
+					},
+					{
+						"name": "escape artist ranks",
+						"value": 0
+					},
+					{
+						"name": "fly ranks",
+						"value": 0
+					},
+					{
+						"name": "handle animal ranks",
+						"value": 0
+					},
+					{
+						"name": "heal ranks",
+						"value": 0
+					},
+					{
+						"name": "intimidate ranks",
+						"value": 0
+					},
+					{
+						"name": "knowledge arcana ranks",
+						"value": 0
+					},
+					{
+						"name": "knowledge dungeoneering ranks",
+						"value": 0
+					},
+					{
+						"name": "knowledge engineering ranks",
+						"value": 0
+					},
+					{
+						"name": "knowledge geography ranks",
+						"value": 0
+					},
+					{
+						"name": "knowledge history ranks",
+						"value": 0
+					},
+					{
+						"name": "knowledge local ranks",
+						"value": 0
+					},
+					{
+						"name": "knowledge nature ranks",
+						"value": 0
+					},
+					{
+						"name": "knowledge nobility ranks",
+						"value": 0
+					},
+					{
+						"name": "knowledge planes ranks",
+						"value": 0
+					},
+					{
+						"name": "knowledge religion ranks",
+						"value": 0
+					},
+					{
+						"name": "linguistics ranks",
+						"value": 0
+					},
+					{
+						"name": "perception ranks",
+						"value": 0
+					},
+					{
+						"name": "perform act ranks",
+						"value": 0
+					},
+					{
+						"name": "perform comedy ranks",
+						"value": 0
+					},
+					{
+						"name": "perform dance ranks",
+						"value": 0
+					},
+					{
+						"name": "perform keyboard ranks",
+						"value": 0
+					},
+					{
+						"name": "perform oratory ranks",
+						"value": 0
+					},
+					{
+						"name": "perform percussion ranks",
+						"value": 0
+					},
+					{
+						"name": "perform sing ranks",
+						"value": 0
+					},
+					{
+						"name": "perform string ranks",
+						"value": 0
+					},
+					{
+						"name": "perform wind ranks",
+						"value": 0
+					},
+					{
+						"name": "profession ranks",
+						"value": 0
+					},
+					{
+						"name": "profession baker ranks",
+						"value": 0
+					},
+					{
+						"name": "profession barrister ranks",
+						"value": 0
+					},
+					{
+						"name": "profession brewer ranks",
+						"value": 0
+					},
+					{
+						"name": "profession butcher ranks",
+						"value": 0
+					},
+					{
+						"name": "profession clerk ranks",
+						"value": 0
+					},
+					{
+						"name": "profession cook ranks",
+						"value": 0
+					},
+					{
+						"name": "profession courtesan ranks",
+						"value": 0
+					},
+					{
+						"name": "profession driver ranks",
+						"value": 0
+					},
+					{
+						"name": "profession engineer ranks",
+						"value": 0
+					},
+					{
+						"name": "profession farmer ranks",
+						"value": 0
+					},
+					{
+						"name": "profession fisherman ranks",
+						"value": 0
+					},
+					{
+						"name": "profession gambler ranks",
+						"value": 0
+					},
+					{
+						"name": "profession gardener ranks",
+						"value": 0
+					},
+					{
+						"name": "profession herbalist ranks",
+						"value": 0
+					},
+					{
+						"name": "profession innkeeper ranks",
+						"value": 0
+					},
+					{
+						"name": "profession librarian ranks",
+						"value": 0
+					},
+					{
+						"name": "profession merchant ranks",
+						"value": 0
+					},
+					{
+						"name": "profession midwife ranks",
+						"value": 0
+					},
+					{
+						"name": "profession miller ranks",
+						"value": 0
+					},
+					{
+						"name": "profession miner ranks",
+						"value": 0
+					},
+					{
+						"name": "profession porter ranks",
+						"value": 0
+					},
+					{
+						"name": "profession sailor ranks",
+						"value": 0
+					},
+					{
+						"name": "profession scribe ranks",
+						"value": 0
+					},
+					{
+						"name": "profession shepherd ranks",
+						"value": 0
+					},
+					{
+						"name": "profession soldier ranks",
+						"value": 0
+					},
+					{
+						"name": "profession stable master ranks",
+						"value": 0
+					},
+					{
+						"name": "profession tanner ranks",
+						"value": 0
+					},
+					{
+						"name": "profession trapper ranks",
+						"value": 0
+					},
+					{
+						"name": "profession woodcutter ranks",
+						"value": 0
+					},
+					{
+						"name": "ride ranks",
+						"value": 0
+					},
+					{
+						"name": "sense motive ranks",
+						"value": 0
+					},
+					{
+						"name": "sleight of hand ranks",
+						"value": 0
+					},
+					{
+						"name": "spellcraft ranks",
+						"value": 0
+					},
+					{
+						"name": "stealth ranks",
+						"value": 0
+					},
+					{
+						"name": "survival ranks",
+						"value": 0
+					},
+					{
+						"name": "swim ranks",
+						"value": 0
+					},
+					{
+						"name": "use magic device ranks",
 						"value": 0
 					}
 				]
@@ -167,8 +547,372 @@
 			"formula": "getScore(character level)"
 		},
 		{
-			"name": "skill points pool",
-			"formula": "TO-DO"
+			"name": "acrobatics bonus",
+			"formula": "getScore(DEX mod) + getInput(acrobatics ranks) + if((getInput(acrobatics ranks) > 0) && hasTag(class-skill:acrobatics), 3, 0)"
+		},
+		{
+			"name": "appraise bonus",
+			"formula": "getScore(INT mod) + getInput(appraise ranks) + if((getInput(appraise ranks) > 0) && hasTag(class-skill:appraise), 3, 0)"
+		},
+		{
+			"name": "bluff bonus",
+			"formula": "getScore(CHA mod) + getInput(bluff ranks) + if((getInput(bluff ranks) > 0) && hasTag(class-skill:bluff), 3, 0)"
+		},
+		{
+			"name": "climb bonus",
+			"formula": "getScore(STR mod) + getInput(climb ranks) + if((getInput(climb ranks) > 0) && hasTag(class-skill:climb), 3, 0)"
+		},
+		{
+			"name": "craft alchemy bonus",
+			"formula": "getScore(INT mod) + getInput(craft alchemy ranks) + if((getInput(craft alchemy ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-alchemy), 3, 0)"
+		},
+		{
+			"name": "craft armor bonus",
+			"formula": "getScore(INT mod) + getInput(craft armor ranks) + if((getInput(craft armor ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-armor), 3, 0)"
+		},
+		{
+			"name": "craft baskets bonus",
+			"formula": "getScore(INT mod) + getInput(craft baskets ranks) + if((getInput(craft baskets ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-baskets), 3, 0)"
+		},
+		{
+			"name": "craft books bonus",
+			"formula": "getScore(INT mod) + getInput(craft books ranks) + if((getInput(craft books ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-books), 3, 0)"
+		},
+		{
+			"name": "craft bows bonus",
+			"formula": "getScore(INT mod) + getInput(craft bows ranks) + if((getInput(craft bows ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-bows), 3, 0)"
+		},
+		{
+			"name": "craft calligraphy bonus",
+			"formula": "getScore(INT mod) + getInput(craft calligraphy ranks) + if((getInput(craft calligraphy ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-calligraphy), 3, 0)"
+		},
+		{
+			"name": "craft carpentry bonus",
+			"formula": "getScore(INT mod) + getInput(craft carpentry ranks) + if((getInput(craft carpentry ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-carpentry), 3, 0)"
+		},
+		{
+			"name": "craft cloth bonus",
+			"formula": "getScore(INT mod) + getInput(craft cloth ranks) + if((getInput(craft cloth ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-cloth), 3, 0)"
+		},
+		{
+			"name": "craft clothing bonus",
+			"formula": "getScore(INT mod) + getInput(craft clothing ranks) + if((getInput(craft clothing ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-clothing), 3, 0)"
+		},
+		{
+			"name": "craft glass bonus",
+			"formula": "getScore(INT mod) + getInput(craft glass ranks) + if((getInput(craft glass ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-glass), 3, 0)"
+		},
+		{
+			"name": "craft jewelry bonus",
+			"formula": "getScore(INT mod) + getInput(craft jewelry ranks) + if((getInput(craft jewelry ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-jewelry), 3, 0)"
+		},
+		{
+			"name": "craft leather bonus",
+			"formula": "getScore(INT mod) + getInput(craft leather ranks) + if((getInput(craft leather ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-leather), 3, 0)"
+		},
+		{
+			"name": "craft locks bonus",
+			"formula": "getScore(INT mod) + getInput(craft locks ranks) + if((getInput(craft locks ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-locks), 3, 0)"
+		},
+		{
+			"name": "craft paintings bonus",
+			"formula": "getScore(INT mod) + getInput(craft paintings ranks) + if((getInput(craft paintings ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-paintings), 3, 0)"
+		},
+		{
+			"name": "craft pottery bonus",
+			"formula": "getScore(INT mod) + getInput(craft pottery ranks) + if((getInput(craft pottery ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-pottery), 3, 0)"
+		},
+		{
+			"name": "craft sculptures bonus",
+			"formula": "getScore(INT mod) + getInput(craft sculptures ranks) + if((getInput(craft sculptures ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-sculptures), 3, 0)"
+		},
+		{
+			"name": "craft ships bonus",
+			"formula": "getScore(INT mod) + getInput(craft ships ranks) + if((getInput(craft ships ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-ships), 3, 0)"
+		},
+		{
+			"name": "craft shoes bonus",
+			"formula": "getScore(INT mod) + getInput(craft shoes ranks) + if((getInput(craft shoes ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-shoes), 3, 0)"
+		},
+		{
+			"name": "craft stonemasonry bonus",
+			"formula": "getScore(INT mod) + getInput(craft stonemasonry ranks) + if((getInput(craft stonemasonry ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-stonemasonry), 3, 0)"
+		},
+		{
+			"name": "craft traps bonus",
+			"formula": "getScore(INT mod) + getInput(craft traps ranks) + if((getInput(craft traps ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-traps), 3, 0)"
+		},
+		{
+			"name": "craft weapons bonus",
+			"formula": "getScore(INT mod) + getInput(craft weapons ranks) + if((getInput(craft weapons ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-weapons), 3, 0)"
+		},
+		{
+			"name": "diplomacy bonus",
+			"formula": "getScore(CHA mod) + getInput(diplomacy ranks) + if((getInput(diplomacy ranks) > 0) && hasTag(class-skill:diplomacy), 3, 0)"
+		},
+		{
+			"name": "disable device bonus",
+			"formula": "getScore(DEX mod) + getInput(disable device ranks) + if((getInput(disable device ranks) > 0) && hasTag(class-skill:disable-device), 3, 0)"
+		},
+		{
+			"name": "disguise bonus",
+			"formula": "getScore(CHA mod) + getInput(disguise ranks) + if((getInput(disguise ranks) > 0) && hasTag(class-skill:disguise), 3, 0)"
+		},
+		{
+			"name": "escape artist bonus",
+			"formula": "getScore(DEX mod) + getInput(escape artist ranks) + if((getInput(escape artist ranks) > 0) && hasTag(class-skill:escape-artist), 3, 0)"
+		},
+		{
+			"name": "fly bonus",
+			"formula": "getScore(DEX mod) + getInput(fly ranks) + if((getInput(fly ranks) > 0) && hasTag(class-skill:fly), 3, 0)"
+		},
+		{
+			"name": "handle animal bonus",
+			"formula": "getScore(WIS mod) + getInput(handle animal ranks) + if((getInput(handle animal ranks) > 0) && hasTag(class-skill:handle-animal), 3, 0)"
+		},
+		{
+			"name": "heal bonus",
+			"formula": "getScore(WIS mod) + getInput(heal ranks) + if((getInput(heal ranks) > 0) && hasTag(class-skill:heal), 3, 0)"
+		},
+		{
+			"name": "intimidate bonus",
+			"formula": "getScore(CHA mod) + getInput(intimidate ranks) + if((getInput(intimidate ranks) > 0) && hasTag(class-skill:intimidate), 3, 0)"
+		},
+		{
+			"name": "knowledge arcana bonus",
+			"formula": "getScore(INT mod) + getInput(knowledge arcana ranks) + if((getInput(knowledge arcana ranks) > 0) && hasTag(class-skill:knowledge-arcana), 3, 0)"
+		},
+		{
+			"name": "knowledge dungeoneering bonus",
+			"formula": "getScore(INT mod) + getInput(knowledge dungeoneering ranks) + if((getInput(knowledge dungeoneering ranks) > 0) && hasTag(class-skill:knowledge-dungeoneering), 3, 0)"
+		},
+		{
+			"name": "knowledge engineering bonus",
+			"formula": "getScore(INT mod) + getInput(knowledge engineering ranks) + if((getInput(knowledge engineering ranks) > 0) && hasTag(class-skill:knowledge-engineering), 3, 0)"
+		},
+		{
+			"name": "knowledge geography bonus",
+			"formula": "getScore(INT mod) + getInput(knowledge geography ranks) + if((getInput(knowledge geography ranks) > 0) && hasTag(class-skill:knowledge-geography), 3, 0)"
+		},
+		{
+			"name": "knowledge history bonus",
+			"formula": "getScore(INT mod) + getInput(knowledge history ranks) + if((getInput(knowledge history ranks) > 0) && hasTag(class-skill:knowledge-history), 3, 0)"
+		},
+		{
+			"name": "knowledge local bonus",
+			"formula": "getScore(INT mod) + getInput(knowledge local ranks) + if((getInput(knowledge local ranks) > 0) && hasTag(class-skill:knowledge-local), 3, 0)"
+		},
+		{
+			"name": "knowledge nature bonus",
+			"formula": "getScore(INT mod) + getInput(knowledge nature ranks) + if((getInput(knowledge nature ranks) > 0) && hasTag(class-skill:knowledge-nature), 3, 0)"
+		},
+		{
+			"name": "knowledge nobility bonus",
+			"formula": "getScore(INT mod) + getInput(knowledge nobility ranks) + if((getInput(knowledge nobility ranks) > 0) && hasTag(class-skill:knowledge-nobility), 3, 0)"
+		},
+		{
+			"name": "knowledge planes bonus",
+			"formula": "getScore(INT mod) + getInput(knowledge planes ranks) + if((getInput(knowledge planes ranks) > 0) && hasTag(class-skill:knowledge-planes), 3, 0)"
+		},
+		{
+			"name": "knowledge religion bonus",
+			"formula": "getScore(INT mod) + getInput(knowledge religion ranks) + if((getInput(knowledge religion ranks) > 0) && hasTag(class-skill:knowledge-religion), 3, 0)"
+		},
+		{
+			"name": "linguistics bonus",
+			"formula": "getScore(INT mod) + getInput(linguistics ranks) + if((getInput(linguistics ranks) > 0) && hasTag(class-skill:linguistics), 3, 0)"
+		},
+		{
+			"name": "perception bonus",
+			"formula": "getScore(WIS mod) + getInput(perception ranks) + if((getInput(perception ranks) > 0) && hasTag(class-skill:perception), 3, 0)"
+		},
+		{
+			"name": "perform act bonus",
+			"formula": "getScore(CHA mod) + getInput(perform act ranks) + if((getInput(perform act ranks) > 0) && hasTag(class-skill:perform,class-skill:perform-act), 3, 0)"
+		},
+		{
+			"name": "perform comedy bonus",
+			"formula": "getScore(CHA mod) + getInput(perform comedy ranks) + if((getInput(perform comedy ranks) > 0) && hasTag(class-skill:perform,class-skill:perform-comedy), 3, 0)"
+		},
+		{
+			"name": "perform dance bonus",
+			"formula": "getScore(CHA mod) + getInput(perform dance ranks) + if((getInput(perform dance ranks) > 0) && hasTag(class-skill:perform,class-skill:perform-dance), 3, 0)"
+		},
+		{
+			"name": "perform keyboard bonus",
+			"formula": "getScore(CHA mod) + getInput(perform keyboard ranks) + if((getInput(perform keyboard ranks) > 0) && hasTag(class-skill:perform,class-skill:perform-keyboard), 3, 0)"
+		},
+		{
+			"name": "perform oratory bonus",
+			"formula": "getScore(CHA mod) + getInput(perform oratory ranks) + if((getInput(perform oratory ranks) > 0) && hasTag(class-skill:perform,class-skill:perform-oratory), 3, 0)"
+		},
+		{
+			"name": "perform percussion bonus",
+			"formula": "getScore(CHA mod) + getInput(perform percussion ranks) + if((getInput(perform percussion ranks) > 0) && hasTag(class-skill:perform,class-skill:perform-percussion), 3, 0)"
+		},
+		{
+			"name": "perform sing bonus",
+			"formula": "getScore(CHA mod) + getInput(perform sing ranks) + if((getInput(perform sing ranks) > 0) && hasTag(class-skill:perform,class-skill:perform-sing), 3, 0)"
+		},
+		{
+			"name": "perform string bonus",
+			"formula": "getScore(CHA mod) + getInput(perform string ranks) + if((getInput(perform string ranks) > 0) && hasTag(class-skill:perform,class-skill:perform-string), 3, 0)"
+		},
+		{
+			"name": "perform wind bonus",
+			"formula": "getScore(CHA mod) + getInput(perform wind ranks) + if((getInput(perform wind ranks) > 0) && hasTag(class-skill:perform,class-skill:perform-wind), 3, 0)"
+		},
+		{
+			"name": "profession architect bonus",
+			"formula": "getScore(WIS mod) + getInput(profession architect ranks) + if((getInput(profession architect ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-architect), 3, 0)"
+		},
+		{
+			"name": "profession baker bonus",
+			"formula": "getScore(WIS mod) + getInput(profession baker ranks) + if((getInput(profession baker ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-baker), 3, 0)"
+		},
+		{
+			"name": "profession barrister bonus",
+			"formula": "getScore(WIS mod) + getInput(profession barrister ranks) + if((getInput(profession barrister ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-barrister), 3, 0)"
+		},
+		{
+			"name": "profession brewer bonus",
+			"formula": "getScore(WIS mod) + getInput(profession brewer ranks) + if((getInput(profession brewer ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-brewer), 3, 0)"
+		},
+		{
+			"name": "profession butcher bonus",
+			"formula": "getScore(WIS mod) + getInput(profession butcher ranks) + if((getInput(profession butcher ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-butcher), 3, 0)"
+		},
+		{
+			"name": "profession clerk bonus",
+			"formula": "getScore(WIS mod) + getInput(profession clerk ranks) + if((getInput(profession clerk ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-clerk), 3, 0)"
+		},
+		{
+			"name": "profession cook bonus",
+			"formula": "getScore(WIS mod) + getInput(profession cook ranks) + if((getInput(profession cook ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-cook), 3, 0)"
+		},
+		{
+			"name": "profession courtesan bonus",
+			"formula": "getScore(WIS mod) + getInput(profession courtesan ranks) + if((getInput(profession courtesan ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-courtesan), 3, 0)"
+		},
+		{
+			"name": "profession driver bonus",
+			"formula": "getScore(WIS mod) + getInput(profession driver ranks) + if((getInput(profession driver ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-driver), 3, 0)"
+		},
+		{
+			"name": "profession engineer bonus",
+			"formula": "getScore(WIS mod) + getInput(profession engineer ranks) + if((getInput(profession engineer ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-engineer), 3, 0)"
+		},
+		{
+			"name": "profession farmer bonus",
+			"formula": "getScore(WIS mod) + getInput(profession farmer ranks) + if((getInput(profession farmer ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-farmer), 3, 0)"
+		},
+		{
+			"name": "profession fisherman bonus",
+			"formula": "getScore(WIS mod) + getInput(profession fisherman ranks) + if((getInput(profession fisherman ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-fisherman), 3, 0)"
+		},
+		{
+			"name": "profession gambler bonus",
+			"formula": "getScore(WIS mod) + getInput(profession gambler ranks) + if((getInput(profession gambler ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-gambler), 3, 0)"
+		},
+		{
+			"name": "profession gardener bonus",
+			"formula": "getScore(WIS mod) + getInput(profession gardener ranks) + if((getInput(profession gardener ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-gardener), 3, 0)"
+		},
+		{
+			"name": "profession herbalist bonus",
+			"formula": "getScore(WIS mod) + getInput(profession herbalist ranks) + if((getInput(profession herbalist ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-herbalist), 3, 0)"
+		},
+		{
+			"name": "profession innkeeper bonus",
+			"formula": "getScore(WIS mod) + getInput(profession innkeeper ranks) + if((getInput(profession innkeeper ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-innkeeper), 3, 0)"
+		},
+		{
+			"name": "profession librarian bonus",
+			"formula": "getScore(WIS mod) + getInput(profession librarian ranks) + if((getInput(profession librarian ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-librarian), 3, 0)"
+		},
+		{
+			"name": "profession merchant bonus",
+			"formula": "getScore(WIS mod) + getInput(profession merchant ranks) + if((getInput(profession merchant ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-merchant), 3, 0)"
+		},
+		{
+			"name": "profession midwife bonus",
+			"formula": "getScore(WIS mod) + getInput(profession midwife ranks) + if((getInput(profession midwife ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-midwife), 3, 0)"
+		},
+		{
+			"name": "profession miller bonus",
+			"formula": "getScore(WIS mod) + getInput(profession miller ranks) + if((getInput(profession miller ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-miller), 3, 0)"
+		},
+		{
+			"name": "profession miner bonus",
+			"formula": "getScore(WIS mod) + getInput(profession miner ranks) + if((getInput(profession miner ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-miner), 3, 0)"
+		},
+		{
+			"name": "profession porter bonus",
+			"formula": "getScore(WIS mod) + getInput(profession porter ranks) + if((getInput(profession porter ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-porter), 3, 0)"
+		},
+		{
+			"name": "profession sailor bonus",
+			"formula": "getScore(WIS mod) + getInput(profession sailor ranks) + if((getInput(profession sailor ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-sailor), 3, 0)"
+		},
+		{
+			"name": "profession scribe bonus",
+			"formula": "getScore(WIS mod) + getInput(profession scribe ranks) + if((getInput(profession scribe ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-scribe), 3, 0)"
+		},
+		{
+			"name": "profession shepherd bonus",
+			"formula": "getScore(WIS mod) + getInput(profession shepherd ranks) + if((getInput(profession shepherd ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-shepherd), 3, 0)"
+		},
+		{
+			"name": "profession soldier bonus",
+			"formula": "getScore(WIS mod) + getInput(profession soldier ranks) + if((getInput(profession soldier ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-soldier), 3, 0)"
+		},
+		{
+			"name": "profession stable master bonus",
+			"formula": "getScore(WIS mod) + getInput(profession stable master ranks) + if((getInput(profession stable master ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-stable-master), 3, 0)"
+		},
+		{
+			"name": "profession tanner bonus",
+			"formula": "getScore(WIS mod) + getInput(profession tanner ranks) + if((getInput(profession tanner ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-tanner), 3, 0)"
+		},
+		{
+			"name": "profession trapper bonus",
+			"formula": "getScore(WIS mod) + getInput(profession trapper ranks) + if((getInput(profession trapper ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-trapper), 3, 0)"
+		},
+		{
+			"name": "profession woodcutter bonus",
+			"formula": "getScore(WIS mod) + getInput(profession woodcutter ranks) + if((getInput(profession woodcutter ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-woodcutter), 3, 0)"
+		},
+		{
+			"name": "ride bonus",
+			"formula": "getScore(DEX mod) + getInput(ride ranks) + if((getInput(ride ranks) > 0) && hasTag(class-skill:ride), 3, 0)"
+		},
+		{
+			"name": "sense motive bonus",
+			"formula": "getScore(WIS mod) + getInput(sense motive ranks) + if((getInput(sense motive ranks) > 0) && hasTag(class-skill:sense-motive), 3, 0)"
+		},
+		{
+			"name": "sleight of hand bonus",
+			"formula": "getScore(DEX mod) + getInput(sleight of hand ranks) + if((getInput(sleight of hand ranks) > 0) && hasTag(class-skill:sleight-of-hand), 3, 0)"
+		},
+		{
+			"name": "spellcraft bonus",
+			"formula": "getScore(INT mod) + getInput(spellcraft ranks) + if((getInput(spellcraft ranks) > 0) && hasTag(class-skill:spellcraft), 3, 0)"
+		},
+		{
+			"name": "stealth bonus",
+			"formula": "getScore(DEX mod) + getInput(stealth ranks) + if((getInput(stealth ranks) > 0) && hasTag(class-skill:stealth), 3, 0)"
+		},
+		{
+			"name": "survival bonus",
+			"formula": "getScore(WIS mod) + getInput(survival ranks) + if((getInput(survival ranks) > 0) && hasTag(class-skill:survival), 3, 0)"
+		},
+		{
+			"name": "swim bonus",
+			"formula": "getScore(STR mod) + getInput(swim ranks) + if((getInput(swim ranks) > 0) && hasTag(class-skill:swim), 3, 0)"
+		},
+		{
+			"name": "use magic device bonus",
+			"formula": "getScore(CHA mod) + getInput(use magic device ranks) + if((getInput(use magic device ranks) > 0) && hasTag(class-skill:use-magic-device), 3, 0)"
 		}
 	]
 }

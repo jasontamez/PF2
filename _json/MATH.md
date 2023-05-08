@@ -34,18 +34,22 @@ Quotation marks are an exception, they surround a string which should not be mut
 
 - These should respect the standard "PEDMAS" order of operations, with some additions. (This is also basically the same order used in Javascript.)
 
-1. Parentheses `()`
-    - Innermost parentheses are evaluated before outer, from left to right
-2. Functions `function()`
-    - Innermost functions are evaluated before outer, from left to right
-3. Negation `!`
-4. Exponents `**`
-5. Division, Multiplication, and Remainders `/ * %`
-6. Addition and Subtraction `+ -`
-7. Comparisons `< <= > >=`
-8. Equalities `== !=`
-9. Logical AND `&&`
-10. Logical OR `||`
+1. Strings surrounded by quotation marks `" "` are noted
+2. Parentheses `()`
+  1. Whitespace around parentheses is discarded
+  2. Innermost parentheses are evaluated before outer, from left to right
+3. Functions `function()`
+  1. Whitespace in functions is discarded
+  2. Innermost functions are evaluated before outer, from left to right
+4. All remaining whitespace is discarded
+5. Negation `!`
+6. Exponents `**`
+7. Division, Multiplication, and Remainders `/ * %`
+8. Addition and Subtraction `+ -`
+9. Comparisons `< <= > >=`
+10. Equalities `== !=`
+11. Logical AND `&&`
+12. Logical OR `||`
 
 ### General Functions
 
@@ -127,19 +131,24 @@ Quotation marks are an exception, they surround a string which should not be mut
   - `findWord(what,whatever you say)` false
   - `findWord(say,whatever you say)` true
 
-#### Lookups
+#### Lookups - Tags
 
-- `hasFeature(STRING...)` - returns true only if a `feature` with the given `"name"` exists; if multiple arguments are given, returns true if *any* of the `features` exist
+- `hasTag(STRING...)` - returns true if a given `tag` has been bestowed; if multiple arguments are given, returns true if *any* of the `tags` have been bestowed
+- `hasTagAll(STRING, STRING...)` - returns true if *all* of the given `tags` have been bestowed
 
-This function can be extended in multiple ways; the extensions make the `STRING` name arguments optional
+#### Lookups - Features
+
+- `hasFeature(STRING...)` - returns true only if a `feature` with the given `"name"` has been bestowed; if multiple arguments are given, returns true if *any* of the `features` have been bestowed
+- `hasFeatureAll(STRING, STRING...)` - returns true if *all* given `features` exist
+
+These function can be extended in multiple ways; the extensions make the `STRING` name arguments optional
 
 - `hasFeatureInCategory(ARRAY_STRING, STRING...)` - as above, but looks for `feature(s)` with *any* of the `ARRAY_STRING` as `"category"`
 - `hasFeatureTagged(ARRAY_STRING, STRING...)` - as above, but looks for `feature(s)` with *any* of the `tag(s)` listed in the `ARRAY_STRING`
 - `hasFeatureWithType(ARRAY_STRING, STRING...)` - as above, but looks for `feature(s)` with *any* of the `types` listed in the `ARRAY_STRING`
 
-The `All` suffix can be added after `hasFeature` or after the `Tagged` or `WithType` extension *(note: features can only have one category, so `InCategoryAll` would never match anything)*
+The `All` suffix can be added after the `Tagged` or `WithType` extension *(note: features can only have one category, so `InCategoryAll` would never match anything)*
 
-- `hasFeatureAll(STRING, STRING...)` - returns true if *all* `features` exist
 - `hasFeatureAllInCategory(ARRAY_STRING, STRING...)` - as above, but returns true if *all* of the listed `features` are found within *any* of the categories
 - `hasFeatureAllTagged(ANY, STRING...)` - as above, if *all* of the `features` have *any* of the listed `tags`
 - `hasFeatureTaggedAll(ARRAY_STRING, STRING...)` - returns true if *any* of the `features` listed have *all* of the given `tags`
@@ -160,9 +169,9 @@ All of the below are valid
 
 These are invalid
 
-- `hasFeatureAllWithTypeTagged` should be `...AllTaggedWithType`
-- `hasFeatureTaggedAllInCategory` should be `...InCategoryTaggedAll`
-- `hasFeatureInCategoryWithTypeAllTagged` should be `...InCategoryTaggedWithTypeAll`
+- `hasFeatureAllWithTypeTagged` should be `hasFeatureAllTaggedWithType`
+- `hasFeatureTaggedAllInCategory` should be `hasFeatureInCategoryTaggedAll`
+- `hasFeatureInCategoryWithTypeAllTagged` should be `hasFeatureInCategoryTaggedWithTypeAll`
 
 ### Getting multiple results
 
@@ -210,6 +219,10 @@ These functions should extract the results from a function and treat them as arg
             // with the non:fat tag, at least two have values less than 10
 ```
 
+### Conditionals and Loops
+
+- `if(BooleanStringFunction,ReturnValueIfTrue,ReturnValueIfFalse)` - returns one of two values depending on if the `BooleanStringFunction` returns `true` or `false`
+
 ### `LookupObjects`
 
 - Lookup Objects are basically inline JSON objects
@@ -219,11 +232,6 @@ These functions should extract the results from a function and treat them as arg
 // If "strength score" is 20...
 "100 / {\"query\":\"score\",\"name\":\"strength score\"}" // = 5
 ```
-
-### Conditionals and Loops
-
-- `"repeat by type", LookupObject...`
-- `"if", LookupObject, ANY, ANY` - ?
 
 -------------------------------------------------
 
