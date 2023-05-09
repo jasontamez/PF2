@@ -22,8 +22,9 @@ Quotation marks are an exception, they surround a string which should not be mut
 `STRINGS` need not be enclosed in quotes in functions, unless
 
 1. the `STRING` is in a function that could accept arguments other than `STRINGS`
-2. the `STRING` includes brackets, commas, parentheses, quotation marks, math and logical operators, or other reserved characters
-    - `[],"()|&!><=>%+-/*$@`
+2. the `STRING` includes numbers or periods (which may be interpreted as decimals)
+3. the `STRING` includes brackets, commas, parentheses, quotation marks, math and logical operators, or other reserved characters
+    - `[],"()|&!><=>%+-/*$@?`
 
 - `function(hello)` is equal to `function("hello")`
 - `function([one,two,three,four])` is equal to `function(["one","two","three","four"])`
@@ -102,18 +103,17 @@ Quotation marks are an exception, they surround a string which should not be mut
 
 - Most logical operators work as expected
   - `6 > 4` true
-  - `7 >= 4 + 3` true
+  - `7 >= (4 + 3)` true
   - `5 < 8` true
   - `squareRoot(16) <= 4` true
-  - `78 == 56 + 22` true
+  - `78 == (56 + 22)` true
   - `45 != 32` true
-- Plain values are considered true if they are not equal to zero, the empty string, "false", "null", or other typical 'falsy' values
+- Plain values are considered true if they are not equal to zero, the empty string, or other typical 'falsy' values
   - `45` true
   - `-4` true
-  - `57 * 0` false
+  - `(57 * 0)` false
   - `""` false (empty string)
-  - `false` false
-  - `FalSe` true (case sensitivity)
+  - `"false"` true
 - Logical comparisons include *and* and *or*
   - `45 & 0` false
   - `65 & (2-3)` true
@@ -121,8 +121,8 @@ Quotation marks are an exception, they surround a string which should not be mut
   - `false ||` false (empty string is false)
 - Putting an exclamation point before something inverts its boolean value
   - `!0` true
-  - `!false` true
-  - `!FalSe` false
+  - `!("")` true
+  - `!(true)` false
 - Functions can be used to find portions of other `STRINGS`
   - `find(what,whatever you say)` true
   - `findWord(what,whatever you say)` false

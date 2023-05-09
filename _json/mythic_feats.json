@@ -3621,14 +3621,7 @@
 			"types": [ "General" ],
 			"prerequisites": [
 				"getScore(ride ranks) >= 5",
-				{
-					"query": "ability",
-					"category": "feat",
-					"name_all": [
-						"Mounted Combat",
-						"Ride-By Attack"
-					]
-				}
+				"hasFeatureAllInCategory([feat],Mounted Combat,Ride-By Attack)"
 			],
 			"description": [
 				"Valiant Vault",
