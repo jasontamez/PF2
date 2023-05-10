@@ -14,7 +14,7 @@
 			"sources": [ "Ultimate Magic" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Accursed Hex)"
+				"hasFeatureInCategory((feat),Accursed Hex)"
 			],
 			"description": [
 				"Accursed Hex",
@@ -36,7 +36,7 @@
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Acrobatic)"
+				"hasFeatureInCategory((feat),Acrobatic)"
 			],
 			"description": [
 				"Acrobatic",
@@ -56,7 +56,7 @@
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Alertness)"
+				"hasFeatureInCategory((feat),Alertness)"
 			],
 			"description": [
 				"Alertness",
@@ -76,7 +76,7 @@
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Alignment Channel)"
+				"hasFeatureInCategory((feat),Alignment Channel)"
 			],
 			"description": [
 				"Alignment Channel",
@@ -98,7 +98,7 @@
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Animal Affinity)"
+				"hasFeatureInCategory((feat),Animal Affinity)"
 			],
 			"description": [
 				"Animal Affinity",
@@ -121,7 +121,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Arcane Armor Training)"
+				"hasFeatureInCategory((feat),Arcane Armor Training)"
 			],
 			"description": [
 				"Arcane Armor Training (Combat)",
@@ -145,7 +145,7 @@
 			"sources": [ "Advanced Player's Guide" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Arcane Blast)"
+				"hasFeatureInCategory((feat),Arcane Blast)"
 			],
 			"description": [
 				"Arcane Blast",
@@ -167,7 +167,7 @@
 			"sources": [ "Advanced Player's Guide" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Arcane Shield)"
+				"hasFeatureInCategory((feat),Arcane Shield)"
 			],
 			"description": [
 				"Arcane Shield",
@@ -191,7 +191,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Arcane Strike)"
+				"hasFeatureInCategory((feat),Arcane Strike)"
 			],
 			"description": [
 				"Arcane Strike (Combat)",
@@ -215,7 +215,7 @@
 			"sources": [ "Advanced Player's Guide" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Aspect of the Beast)"
+				"hasFeatureInCategory((feat),Aspect of the Beast)"
 			],
 			"description": [
 				"Aspect of the Beast",
@@ -245,7 +245,7 @@
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Athletic)"
+				"hasFeatureInCategory((feat),Athletic)"
 			],
 			"description": [
 				"Athletic",
@@ -265,7 +265,7 @@
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Augment Summoning)"
+				"hasFeatureInCategory((feat),Augment Summoning)"
 			],
 			"description": [
 				"Augment Summoning",
@@ -292,7 +292,7 @@
 				"Critical"
 			],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Bleeding Critical)"
+				"hasFeatureInCategory((feat),Bleeding Critical)"
 			],
 			"description": [
 				"Bleeding Critical (Combat, Critical)",
@@ -321,7 +321,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Blind-Fight)"
+				"hasFeatureInCategory((feat),Blind-Fight)"
 			],
 			"description": [
 				"Blind-Fight (Combat)",
@@ -351,7 +351,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Catch Off-Guard)"
+				"hasFeatureInCategory((feat),Catch Off-Guard)"
 			],
 			"description": [
 				"Catch Off-Guard (Combat)",
@@ -378,7 +378,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Channel Smite)"
+				"hasFeatureInCategory((feat),Channel Smite)"
 			],
 			"description": [
 				"Channel Smite (Combat)",
@@ -405,7 +405,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Charge Through)"
+				"hasFeatureInCategory((feat),Charge Through)"
 			],
 			"description": [
 				"Charge Through (Combat)",
@@ -433,7 +433,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Cleave)"
+				"hasFeatureInCategory((feat),Cleave)"
 			],
 			"description": [
 				"Cleave (Combat)",
@@ -460,7 +460,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Combat Expertise)"
+				"hasFeatureInCategory((feat),Combat Expertise)"
 			],
 			"description": [
 				"Combat Expertise (Combat)",
@@ -487,7 +487,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Combat Reflexes)"
+				"hasFeatureInCategory((feat),Combat Reflexes)"
 			],
 			"description": [
 				"Combat Reflexes (Combat)",
@@ -512,7 +512,7 @@
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Command Undead)"
+				"hasFeatureInCategory((feat),Command Undead)"
 			],
 			"description": [
 				"Command Undead",
@@ -539,7 +539,7 @@
 				"Critical"
 			],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Critical Focus)"
+				"hasFeatureInCategory((feat),Critical Focus)"
 			],
 			"description": [
 				"Critical Focus (Combat, Critical)",
@@ -569,8 +569,8 @@
 				"Critical"
 			],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Critical Mastery)",
-				"hasFeatureInCategory([mythic feat],Critical Focus)"
+				"hasFeatureInCategory((feat),Critical Mastery)",
+				"hasFeatureInCategory((mythic feat),Critical Focus)"
 			],
 			"description": [
 				"Critical Mastery (Combat, Critical)",
@@ -598,7 +598,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Dastardly Finish)"
+				"hasFeatureInCategory((feat),Dastardly Finish)"
 			],
 			"description": [
 				"Dastardly Finish (Combat)",
@@ -626,7 +626,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Dazzling Display)"
+				"hasFeatureInCategory((feat),Dazzling Display)"
 			],
 			"description": [
 				"Dazzling Display (Combat)",
@@ -653,7 +653,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Deadly Aim)"
+				"hasFeatureInCategory((feat),Deadly Aim)"
 			],
 			"description": [
 				"Deadly Aim (Combat)",
@@ -680,7 +680,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Deadly Stroke)"
+				"hasFeatureInCategory((feat),Deadly Stroke)"
 			],
 			"description": [
 				"Deadly Stroke (Combat)",
@@ -707,7 +707,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Death from Above)"
+				"hasFeatureInCategory((feat),Death from Above)"
 			],
 			"description": [
 				"Death from Above (Combat)",
@@ -730,7 +730,7 @@
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Deceitful)"
+				"hasFeatureInCategory((feat),Deceitful)"
 			],
 			"description": [
 				"Deceitful",
@@ -750,7 +750,7 @@
 			"sources": [ "Advanced Player's Guide" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Deepsight)"
+				"hasFeatureInCategory((feat),Deepsight)"
 			],
 			"description": [
 				"Deepsight",
@@ -775,7 +775,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Defensive Combat Training)"
+				"hasFeatureInCategory((feat),Defensive Combat Training)"
 			],
 			"description": [
 				"Defensive Combat Training (Combat)",
@@ -801,7 +801,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Deflect Arrows)"
+				"hasFeatureInCategory((feat),Deflect Arrows)"
 			],
 			"description": [
 				"Deflect Arrows (Combat)",
@@ -825,7 +825,7 @@
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Deft Hands)"
+				"hasFeatureInCategory((feat),Deft Hands)"
 			],
 			"description": [
 				"Deft Hands",
@@ -845,7 +845,7 @@
 			"sources": [ "Ultimate Magic" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Detect Expertise)"
+				"hasFeatureInCategory((feat),Detect Expertise)"
 			],
 			"description": [
 				"Detect Expertise",
@@ -869,7 +869,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Disruptive)"
+				"hasFeatureInCategory((feat),Disruptive)"
 			],
 			"description": [
 				"Disruptive (Combat)",
@@ -896,7 +896,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Distance Thrower)",
+				"hasFeatureInCategory((feat),Distance Thrower)",
 				"getScore(strength score) >= 17"
 			],
 			"description": [
@@ -921,7 +921,7 @@
 			"sources": [ "Ultimate Magic" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Divine Interference)"
+				"hasFeatureInCategory((feat),Divine Interference)"
 			],
 			"description": [
 				"Divine Interference",
@@ -945,7 +945,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Dodge)"
+				"hasFeatureInCategory((feat),Dodge)"
 			],
 			"description": [
 				"Dodge (Combat)",
@@ -972,7 +972,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Dreadful Carnage)"
+				"hasFeatureInCategory((feat),Dreadful Carnage)"
 			],
 			"description": [
 				"Dreadful Carnage (Combat)",
@@ -1028,7 +1028,7 @@
 			"sources": [ "Advanced Player's Guide" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Eagle Eyes)"
+				"hasFeatureInCategory((feat),Eagle Eyes)"
 			],
 			"description": [
 				"Eagle Eyes",
@@ -1049,7 +1049,7 @@
 			"sources": [ "Ultimate Magic" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Eldritch Heritage)"
+				"hasFeatureInCategory((feat),Eldritch Heritage)"
 			],
 			"description": [
 				"Eldritch Heritage",
@@ -1070,7 +1070,7 @@
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Elemental Channel)"
+				"hasFeatureInCategory((feat),Elemental Channel)"
 			],
 			"description": [
 				"Elemental Channel",
@@ -1095,7 +1095,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Elemental Fist)"
+				"hasFeatureInCategory((feat),Elemental Fist)"
 			],
 			"description": [
 				"Elemental Fist (Combat)",
@@ -1120,7 +1120,7 @@
 			"sources": [ "Advanced Player's Guide" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Elemental Focus)"
+				"hasFeatureInCategory((feat),Elemental Focus)"
 			],
 			"description": [
 				"Elemental Focus",
@@ -1144,7 +1144,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Elven Accuracy)"
+				"hasFeatureInCategory((feat),Elven Accuracy)"
 			],
 			"description": [
 				"Elven Accuracy (Combat)",
@@ -1168,7 +1168,7 @@
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Endurance)"
+				"hasFeatureInCategory((feat),Endurance)"
 			],
 			"description": [
 				"Endurance",
@@ -1191,7 +1191,7 @@
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Eschew Materials)"
+				"hasFeatureInCategory((feat),Eschew Materials)"
 			],
 			"description": [
 				"Eschew Materials",
@@ -1256,7 +1256,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Far Shot)"
+				"hasFeatureInCategory((feat),Far Shot)"
 			],
 			"description": [
 				"Far Shot (Combat)",
@@ -1281,7 +1281,7 @@
 			"sources": [ "Ultimate Magic" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Fast Empathy)"
+				"hasFeatureInCategory((feat),Fast Empathy)"
 			],
 			"description": [
 				"Fast Empathy",
@@ -1303,7 +1303,7 @@
 			"sources": [ "Ultimate Magic" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Fire Music)"
+				"hasFeatureInCategory((feat),Fire Music)"
 			],
 			"description": [
 				"Fire Music",
@@ -1327,7 +1327,7 @@
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Fleet)"
+				"hasFeatureInCategory((feat),Fleet)"
 			],
 			"description": [
 				"Fleet",
@@ -1352,7 +1352,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Furious Focus)"
+				"hasFeatureInCategory((feat),Furious Focus)"
 			],
 			"description": [
 				"Furious Focus (Combat)",
@@ -1376,7 +1376,7 @@
 			"sources": [ "Advanced Player's Guide" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Gnome Trickster)"
+				"hasFeatureInCategory((feat),Gnome Trickster)"
 			],
 			"description": [
 				"Gnome Trickster",
@@ -1401,7 +1401,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Scorpion Style)",
+				"hasFeatureInCategory((feat),Scorpion Style)",
 				"getScore(base attack bonus) >= 6"
 			],
 			"description": [
@@ -1426,7 +1426,7 @@
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Great Fortitude)"
+				"hasFeatureInCategory((feat),Great Fortitude)"
 			],
 			"description": [
 				"Great Fortitude",
@@ -1446,7 +1446,7 @@
 			"sources": [ "Ultimate Combat" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Guided Hand)"
+				"hasFeatureInCategory((feat),Guided Hand)"
 			],
 			"description": [
 				"Guided Hand",
@@ -1467,7 +1467,7 @@
 			"sources": [ "Advanced Player's Guide" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Heroic Defiance)"
+				"hasFeatureInCategory((feat),Heroic Defiance)"
 			],
 			"description": [
 				"Heroic Defiance",
@@ -1489,7 +1489,7 @@
 			"sources": [ "Advanced Player's Guide" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Heroic Recovery)"
+				"hasFeatureInCategory((feat),Heroic Recovery)"
 			],
 			"description": [
 				"Heroic Recovery",
@@ -1513,7 +1513,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Improved Bull Rush)"
+				"hasFeatureInCategory((feat),Improved Bull Rush)"
 			],
 			"description": [
 				"Improved Bull Rush (Combat)",
@@ -1539,7 +1539,7 @@
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Improved Channel)"
+				"hasFeatureInCategory((feat),Improved Channel)"
 			],
 			"description": [
 				"Improved Channel",
@@ -1560,7 +1560,7 @@
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Improved Counterspell)"
+				"hasFeatureInCategory((feat),Improved Counterspell)"
 			],
 			"description": [
 				"Improved Counterspell",
@@ -1584,7 +1584,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Improved Critical)"
+				"hasFeatureInCategory((feat),Improved Critical)"
 			],
 			"description": [
 				"Improved Critical (Combat)",
@@ -1613,7 +1613,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Improved Dirty Trick)"
+				"hasFeatureInCategory((feat),Improved Dirty Trick)"
 			],
 			"description": [
 				"Improved Dirty Trick (Combat)",
@@ -1642,7 +1642,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Improved Disarm)"
+				"hasFeatureInCategory((feat),Improved Disarm)"
 			],
 			"description": [
 				"Improved Disarm (Combat)",
@@ -1671,7 +1671,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Improved Drag)"
+				"hasFeatureInCategory((feat),Improved Drag)"
 			],
 			"description": [
 				"Improved Drag (Combat)",
@@ -1697,7 +1697,7 @@
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Improved Familiar)"
+				"hasFeatureInCategory((feat),Improved Familiar)"
 			],
 			"description": [
 				"Improved Familiar",
@@ -1723,7 +1723,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Improved Grapple)"
+				"hasFeatureInCategory((feat),Improved Grapple)"
 			],
 			"description": [
 				"Improved Grapple (Combat)",
@@ -1752,7 +1752,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Improved Initiative)"
+				"hasFeatureInCategory((feat),Improved Initiative)"
 			],
 			"description": [
 				"Improved Initiative (Combat)",
@@ -1778,7 +1778,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Improved Overrun)"
+				"hasFeatureInCategory((feat),Improved Overrun)"
 			],
 			"description": [
 				"Improved Overrun (Combat)",
@@ -1807,7 +1807,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Improved Reposition)"
+				"hasFeatureInCategory((feat),Improved Reposition)"
 			],
 			"description": [
 				"Improved Reposition (Combat)",
@@ -1836,7 +1836,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Improved Steal)"
+				"hasFeatureInCategory((feat),Improved Steal)"
 			],
 			"description": [
 				"Improved Steal (Combat)",
@@ -1862,7 +1862,7 @@
 			"sources": [ "Advanced Player's Guide" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Improved Stonecunning)"
+				"hasFeatureInCategory((feat),Improved Stonecunning)"
 			],
 			"description": [
 				"Improved Stonecunning",
@@ -1886,7 +1886,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Improved Sunder)"
+				"hasFeatureInCategory((feat),Improved Sunder)"
 			],
 			"description": [
 				"Improved Sunder (Combat)",
@@ -1915,7 +1915,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Improved Trip)"
+				"hasFeatureInCategory((feat),Improved Trip)"
 			],
 			"description": [
 				"Improved Trip (Combat)",
@@ -1944,7 +1944,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Improved Unarmed Strike)"
+				"hasFeatureInCategory((feat),Improved Unarmed Strike)"
 			],
 			"description": [
 				"Improved Unarmed Strike (Combat)",
@@ -1971,7 +1971,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Intimidating Prowess)"
+				"hasFeatureInCategory((feat),Intimidating Prowess)"
 			],
 			"description": [
 				"Intimidating Prowess (Combat)",
@@ -1994,7 +1994,7 @@
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Iron Will)"
+				"hasFeatureInCategory((feat),Iron Will)"
 			],
 			"description": [
 				"Iron Will",
@@ -2014,7 +2014,7 @@
 			"sources": [ "Ultimate Combat" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Knockout Artist)"
+				"hasFeatureInCategory((feat),Knockout Artist)"
 			],
 			"description": [
 				"Knockout Artist",
@@ -2056,7 +2056,7 @@
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Lightning Reflexes)"
+				"hasFeatureInCategory((feat),Lightning Reflexes)"
 			],
 			"description": [
 				"Lightning Reflexes",
@@ -2079,7 +2079,7 @@
 			],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Lucky Halfling)"
+				"hasFeatureInCategory((feat),Lucky Halfling)"
 			],
 			"description": [
 				"Lucky Halfling",
@@ -2100,7 +2100,7 @@
 			"sources": [ "Mythic Adventures" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([mythic feat],Potent Surge)",
+				"hasFeatureInCategory((mythic feat),Potent Surge)",
 				"getScore(mythic tier) >= 3"
 			],
 			"description": [
@@ -2120,7 +2120,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Lunge)"
+				"hasFeatureInCategory((feat),Lunge)"
 			],
 			"description": [
 				"Lunge (Combat)",
@@ -2144,7 +2144,7 @@
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Magical Aptitude)"
+				"hasFeatureInCategory((feat),Magical Aptitude)"
 			],
 			"description": [
 				"Magical Aptitude",
@@ -2167,7 +2167,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Manyshot)"
+				"hasFeatureInCategory((feat),Manyshot)"
 			],
 			"description": [
 				"Manyshot (Combat)",
@@ -2211,7 +2211,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Gorgon's Fist)",
+				"hasFeatureInCategory((feat),Gorgon's Fist)",
 				"getScore(base attack bonus) >= 11"
 			],
 			"description": [
@@ -2239,7 +2239,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Missile Shield)"
+				"hasFeatureInCategory((feat),Missile Shield)"
 			],
 			"description": [
 				"Missile Shield (Combat)",
@@ -2266,7 +2266,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Mobility)"
+				"hasFeatureInCategory((feat),Mobility)"
 			],
 			"description": [
 				"Mobility (Combat)",
@@ -2294,7 +2294,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Monastic Legacy)"
+				"hasFeatureInCategory((feat),Monastic Legacy)"
 			],
 			"description": [
 				"Monastic Legacy (Combat)",
@@ -2321,7 +2321,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Mounted Archery)"
+				"hasFeatureInCategory((feat),Mounted Archery)"
 			],
 			"description": [
 				"Mounted Archery (Combat)",
@@ -2348,7 +2348,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Mounted Combat)"
+				"hasFeatureInCategory((feat),Mounted Combat)"
 			],
 			"description": [
 				"Mounted Combat (Combat)",
@@ -2385,7 +2385,7 @@
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Natural Spell)"
+				"hasFeatureInCategory((feat),Natural Spell)"
 			],
 			"description": [
 				"Natural Spell",
@@ -2407,7 +2407,7 @@
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Nimble Moves)"
+				"hasFeatureInCategory((feat),Nimble Moves)"
 			],
 			"description": [
 				"Nimble Moves",
@@ -2431,7 +2431,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Penetrating Strike)"
+				"hasFeatureInCategory((feat),Penetrating Strike)"
 			],
 			"description": [
 				"Penetrating Strike (Combat)",
@@ -2455,7 +2455,7 @@
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Persuasive)"
+				"hasFeatureInCategory((feat),Persuasive)"
 			],
 			"description": [
 				"Persuasive",
@@ -2478,7 +2478,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Pinpoint Targeting)"
+				"hasFeatureInCategory((feat),Pinpoint Targeting)"
 			],
 			"description": [
 				"Pinpoint Targeting (Combat)",
@@ -2505,7 +2505,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Point-Blank Shot)"
+				"hasFeatureInCategory((feat),Point-Blank Shot)"
 			],
 			"description": [
 				"Point-Blank Shot (Combat)",
@@ -2544,7 +2544,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Power Attack)"
+				"hasFeatureInCategory((feat),Power Attack)"
 			],
 			"description": [
 				"Power Attack (Combat)",
@@ -2569,7 +2569,7 @@
 			"sources": [ "Ultimate Magic" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Powerful Shape)"
+				"hasFeatureInCategory((feat),Powerful Shape)"
 			],
 			"description": [
 				"Powerful Shape",
@@ -2591,7 +2591,7 @@
 			"sources": [ "Ultimate Magic" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Prophetic Visionary)"
+				"hasFeatureInCategory((feat),Prophetic Visionary)"
 			],
 			"description": [
 				"Prophetic Visionary",
@@ -2615,7 +2615,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Quick Draw)"
+				"hasFeatureInCategory((feat),Quick Draw)"
 			],
 			"description": [
 				"Quick Draw (Combat)",
@@ -2640,7 +2640,7 @@
 			"sources": [ "Advanced Player's Guide" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Racial Heritage)"
+				"hasFeatureInCategory((feat),Racial Heritage)"
 			],
 			"description": [
 				"Racial Heritage",
@@ -2666,7 +2666,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Rapid Reload)"
+				"hasFeatureInCategory((feat),Rapid Reload)"
 			],
 			"description": [
 				"Rapid Reload (Combat)",
@@ -2696,7 +2696,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Rapid Shot)"
+				"hasFeatureInCategory((feat),Rapid Shot)"
 			],
 			"description": [
 				"Rapid Shot (Combat)",
@@ -2720,7 +2720,7 @@
 			"sources": [ "Ultimate Combat" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Rhetorical Flourish)"
+				"hasFeatureInCategory((feat),Rhetorical Flourish)"
 			],
 			"description": [
 				"Rhetorical Flourish",
@@ -2746,7 +2746,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Ride-By Attack)"
+				"hasFeatureInCategory((feat),Ride-By Attack)"
 			],
 			"description": [
 				"Ride-By Attack (Combat)",
@@ -2770,7 +2770,7 @@
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Run)"
+				"hasFeatureInCategory((feat),Run)"
 			],
 			"description": [
 				"Run",
@@ -2795,7 +2795,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Saving Shield)"
+				"hasFeatureInCategory((feat),Saving Shield)"
 			],
 			"description": [
 				"Saving Shield (Combat)",
@@ -2822,7 +2822,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Scorpion Style)"
+				"hasFeatureInCategory((feat),Scorpion Style)"
 			],
 			"description": [
 				"Scorpion Style (Combat)",
@@ -2846,7 +2846,7 @@
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Selective Channeling)"
+				"hasFeatureInCategory((feat),Selective Channeling)"
 			],
 			"description": [
 				"Selective Channeling",
@@ -2868,7 +2868,7 @@
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Self-Sufficient)"
+				"hasFeatureInCategory((feat),Self-Sufficient)"
 			],
 			"description": [
 				"Self-Sufficient",
@@ -2891,7 +2891,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Shatter Defenses)"
+				"hasFeatureInCategory((feat),Shatter Defenses)"
 			],
 			"description": [
 				"Shatter Defenses (Combat)",
@@ -2918,7 +2918,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Shield Focus)"
+				"hasFeatureInCategory((feat),Shield Focus)"
 			],
 			"description": [
 				"Shield Focus (Combat)",
@@ -2945,7 +2945,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Shield Slam)"
+				"hasFeatureInCategory((feat),Shield Slam)"
 			],
 			"description": [
 				"Shield Slam (Combat)",
@@ -2972,7 +2972,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Shot on the Run)"
+				"hasFeatureInCategory((feat),Shot on the Run)"
 			],
 			"description": [
 				"Shot on the Run (Combat)",
@@ -2997,7 +2997,7 @@
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Skill Focus)"
+				"hasFeatureInCategory((feat),Skill Focus)"
 			],
 			"description": [
 				"Skill Focus",
@@ -3022,7 +3022,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Snatch Arrows)"
+				"hasFeatureInCategory((feat),Snatch Arrows)"
 			],
 			"description": [
 				"Snatch Arrows (Combat)",
@@ -3047,7 +3047,7 @@
 			"sources": [ "Advanced Player's Guide" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Sociable)"
+				"hasFeatureInCategory((feat),Sociable)"
 			],
 			"description": [
 				"Sociable",
@@ -3068,7 +3068,7 @@
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Spell Focus)"
+				"hasFeatureInCategory((feat),Spell Focus)"
 			],
 			"description": [
 				"Spell Focus",
@@ -3090,7 +3090,7 @@
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Spell Mastery)"
+				"hasFeatureInCategory((feat),Spell Mastery)"
 			],
 			"description": [
 				"Spell Mastery",
@@ -3112,7 +3112,7 @@
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Spell Penetration)"
+				"hasFeatureInCategory((feat),Spell Penetration)"
 			],
 			"description": [
 				"Spell Penetration",
@@ -3135,7 +3135,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Spellbreaker)"
+				"hasFeatureInCategory((feat),Spellbreaker)"
 			],
 			"description": [
 				"Spellbreaker (Combat)",
@@ -3164,7 +3164,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Spirited Charge)"
+				"hasFeatureInCategory((feat),Spirited Charge)"
 			],
 			"description": [
 				"Spirited Charge (Combat)",
@@ -3188,7 +3188,7 @@
 			"sources": [ "Ultimate Magic" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Spontaneous Metafocus)"
+				"hasFeatureInCategory((feat),Spontaneous Metafocus)"
 			],
 			"description": [
 				"Spontaneous Metafocus",
@@ -3214,7 +3214,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Spring Attack)"
+				"hasFeatureInCategory((feat),Spring Attack)"
 			],
 			"description": [
 				"Spring Attack (Combat)",
@@ -3239,7 +3239,7 @@
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Stealthy)"
+				"hasFeatureInCategory((feat),Stealthy)"
 			],
 			"description": [
 				"Stealthy",
@@ -3262,7 +3262,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Strike Back)"
+				"hasFeatureInCategory((feat),Strike Back)"
 			],
 			"description": [
 				"Strike Back (Combat)",
@@ -3286,7 +3286,7 @@
 			"sources": [ "Ultimate Combat" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Strong Comeback)"
+				"hasFeatureInCategory((feat),Strong Comeback)"
 			],
 			"description": [
 				"Strong Comeback",
@@ -3309,7 +3309,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Stunning Fist)"
+				"hasFeatureInCategory((feat),Stunning Fist)"
 			],
 			"description": [
 				"Stunning Fist (Combat)",
@@ -3337,7 +3337,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Throw Anything)"
+				"hasFeatureInCategory((feat),Throw Anything)"
 			],
 			"description": [
 				"Throw Anything (Combat)",
@@ -3361,7 +3361,7 @@
 			"sources": [ "Mythic Adventures" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([mythic feat],Improved Unarmed Strike)"
+				"hasFeatureInCategory((mythic feat),Improved Unarmed Strike)"
 			],
 			"description": [
 				"Titan Strike",
@@ -3377,7 +3377,7 @@
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Toughness)"
+				"hasFeatureInCategory((feat),Toughness)"
 			],
 			"description": [
 				"Toughness",
@@ -3400,7 +3400,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Trample)"
+				"hasFeatureInCategory((feat),Trample)"
 			],
 			"description": [
 				"Trample (Combat)",
@@ -3427,7 +3427,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Tripping Staff)"
+				"hasFeatureInCategory((feat),Tripping Staff)"
 			],
 			"description": [
 				"Tripping Staff (Combat)",
@@ -3452,7 +3452,7 @@
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Turn Undead)"
+				"hasFeatureInCategory((feat),Turn Undead)"
 			],
 			"description": [
 				"Turn Undead",
@@ -3474,7 +3474,7 @@
 			"sources": [ "Mythic Adventures" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Quick Draw)"
+				"hasFeatureInCategory((feat),Quick Draw)"
 			],
 			"description": [
 				"Two-Fisted Drinker",
@@ -3493,7 +3493,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Two-Weapon Defense)"
+				"hasFeatureInCategory((feat),Two-Weapon Defense)"
 			],
 			"description": [
 				"Two-Weapon Defense (Combat)",
@@ -3520,7 +3520,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Two-Weapon Fighting)"
+				"hasFeatureInCategory((feat),Two-Weapon Fighting)"
 			],
 			"description": [
 				"Two-Weapon Fighting (Combat)",
@@ -3548,7 +3548,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Two-Weapon Rend)"
+				"hasFeatureInCategory((feat),Two-Weapon Rend)"
 			],
 			"description": [
 				"Two-Weapon Rend (Combat)",
@@ -3572,7 +3572,7 @@
 			"sources": [ "Ultimate Magic" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Undead Master)"
+				"hasFeatureInCategory((feat),Undead Master)"
 			],
 			"description": [
 				"Undead Master",
@@ -3596,7 +3596,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Unseat)"
+				"hasFeatureInCategory((feat),Unseat)"
 			],
 			"description": [
 				"Unseat (Combat)",
@@ -3621,7 +3621,7 @@
 			"types": [ "General" ],
 			"prerequisites": [
 				"getScore(ride ranks) >= 5",
-				"hasFeatureAllInCategory([feat],Mounted Combat,Ride-By Attack)"
+				"hasFeatureAllInCategory((feat),Mounted Combat,Ride-By Attack)"
 			],
 			"description": [
 				"Valiant Vault",
@@ -3641,7 +3641,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Vital Strike)"
+				"hasFeatureInCategory((feat),Vital Strike)"
 			],
 			"description": [
 				"Vital Strike (Combat)",
@@ -3666,7 +3666,7 @@
 			"sources": [ "Ultimate Magic" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Voice of the Sibyl)"
+				"hasFeatureInCategory((feat),Voice of the Sibyl)"
 			],
 			"description": [
 				"Voice of the Sibyl",
@@ -3687,7 +3687,7 @@
 			"sources": [ "Ultimate Magic" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Warrior Priest)"
+				"hasFeatureInCategory((feat),Warrior Priest)"
 			],
 			"description": [
 				"Warrior Priest",
@@ -3711,7 +3711,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Weapon Finesse)"
+				"hasFeatureInCategory((feat),Weapon Finesse)"
 			],
 			"description": [
 				"Weapon Finesse (Combat)",
@@ -3738,7 +3738,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Weapon Focus)"
+				"hasFeatureInCategory((feat),Weapon Focus)"
 			],
 			"description": [
 				"Weapon Focus (Combat)",
@@ -3767,7 +3767,7 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Weapon Specialization)"
+				"hasFeatureInCategory((feat),Weapon Specialization)"
 			],
 			"description": [
 				"Weapon Specialization (Combat)",
@@ -3793,7 +3793,7 @@
 			"sources": [ "Ultimate Magic" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory([feat],Witch Knife)"
+				"hasFeatureInCategory((feat),Witch Knife)"
 			],
 			"description": [
 				"Witch Knife",

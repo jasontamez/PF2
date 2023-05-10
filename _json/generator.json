@@ -496,7 +496,7 @@
 	"scores": [
 		{
 			"name": "strength score",
-			"formula": "getInput(base strength score)+calculateBonusesByType(getObjectsBonusesTagged([stat:strength]))"
+			"formula": "getInput(base strength score)+calculateBonusesByType(getObjectsBonusesTagged((stat:strength)))"
 		},
 		{
 			"name": "STR mod",
@@ -504,7 +504,7 @@
 		},
 		{
 			"name": "dexterity score",
-			"formula": "getInput(base dexterity score)+calculateBonusesByType(getObjectsBonusesTagged([stat:dexterity]))"
+			"formula": "getInput(base dexterity score)+calculateBonusesByType(getObjectsBonusesTagged((stat:dexterity)))"
 		},
 		{
 			"name": "DEX mod",
@@ -512,7 +512,7 @@
 		},
 		{
 			"name": "constitution score",
-			"formula": "getInput(base constitution score)+calculateBonusesByType(getObjectsBonusesTagged([stat:constitution]))"
+			"formula": "getInput(base constitution score)+calculateBonusesByType(getObjectsBonusesTagged((stat:constitution)))"
 		},
 		{
 			"name": "CON mod",
@@ -520,7 +520,7 @@
 		},
 		{
 			"name": "intelligence score",
-			"formula": "getInput(base intelligence score)+calculateBonusesByType(getObjectsBonusesTagged([stat:intelligence]))"
+			"formula": "getInput(base intelligence score)+calculateBonusesByType(getObjectsBonusesTagged((stat:intelligence)))"
 		},
 		{
 			"name": "INT mod",
@@ -528,7 +528,7 @@
 		},
 		{
 			"name": "wisdom score",
-			"formula": "getInput(base wisdom score)+calculateBonusesByType(getObjectsBonusesTagged([stat:wisdom]))"
+			"formula": "getInput(base wisdom score)+calculateBonusesByType(getObjectsBonusesTagged((stat:wisdom)))"
 		},
 		{
 			"name": "WIS mod",
@@ -536,7 +536,7 @@
 		},
 		{
 			"name": "charisma score",
-			"formula": "getInput(base charisma score)+calculateBonusesByType(getObjectsBonusesTagged([stat:charisma]))"
+			"formula": "getInput(base charisma score)+calculateBonusesByType(getObjectsBonusesTagged((stat:charisma)))"
 		},
 		{
 			"name": "CHA mod",

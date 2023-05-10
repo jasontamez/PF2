@@ -23,11 +23,11 @@ Quotation marks are an exception, they surround a string which should not be mut
 
 1. the `STRING` is in a function that could accept arguments other than `STRINGS`
 2. the `STRING` includes numbers or periods (which may be interpreted as decimals)
-3. the `STRING` includes brackets, commas, parentheses, quotation marks, math and logical operators, or other reserved characters
-    - `[],"()|&!><=>%+-/*$@?`
+3. the `STRING` includes parentheses, commas, quotation marks, math and logical operators, or other reserved characters
+    - `(),"|&!><=>%+-/*$@?`
 
 - `function(hello)` is equal to `function("hello")`
-- `function([one,two,three,four])` is equal to `function(["one","two","three","four"])`
+- `function(one,(two,three),four)` is equal to `function("one",("two","three"),"four")`
 
 ## String Format
 
@@ -181,17 +181,17 @@ These functions should only be used inside other functions that accept multiple 
 The functions above accept the same extensions as `hasFeature`, in the same order
 
 - `getInputsWithType(one,two,three)` - gets all inputs with any of the types "one", "two", or "three"
-- `getScoresWithTypeAll([att,basic],strength)` - gets all scores named "strength" with both "att" and "basic" types
-- `getBonusesTagged([tag:one,tag:two])` - gets all bonuses with either the "tag:one" or "tag:two" tags
-- `getInputsInCategoryTaggedAllWithTypeAll([att],[tag:one,tag:two],[secret,penalty])` - gets all inputs with with the "att" category, both the "tag:one" and "tag:two" tags, and both "secret" and "penalty" types
+- `getScoresWithTypeAll((att,basic),strength)` - gets all scores named "strength" with both "att" and "basic" types
+- `getBonusesTagged((tag:one,tag:two))` - gets all bonuses with either the "tag:one" or "tag:two" tags
+- `getInputsInCategoryTaggedAllWithTypeAll((att),(tag:one,tag:two),(secret,penalty))` - gets all inputs with with the "att" category, both the "tag:one" and "tag:two" tags, and both "secret" and "penalty" types
 - `getScoresAll(name)` - works exactly the same as `getScores(name)`, no point in using it
 - `getInputsTaggedInCategory` - is invalid, should be `getInputsInCategoryTagged`
 
 Custom functions may require access to the `input`, `score`, etc. `Object` itself; you can get them by adding "Objects" after "get":
 
 - `getObjectsInputs(name1,name2)` (all inputs named "name1" or "name2")
-- `getObjectsBonusesTagged([stat:strength])` (all bonuses tagged "stat:strength")
-- `getObjectsScoresInCategoryWithTypeAll([attribute],[basic,physical])` (all scores in category "attribute" with both types "basic" and "physical")
+- `getObjectsBonusesTagged((stat:strength))` (all bonuses tagged "stat:strength")
+- `getObjectsScoresInCategoryWithTypeAll((attribute),(basic,physical))` (all scores in category "attribute" with both types "basic" and "physical")
 
 ### Using multiple results
 
@@ -199,26 +199,28 @@ These functions should extract the results from a function and treat them as arg
 
 - `min()` and `max()` work as expected
 - `sum()` adds all arguments together and returns the result
-- `test(BooleanStringFunction, STRING, ANY...)` - this returns true if at least one of arguments passes the `BooleanStringFunction` test; the `STRING` represents the part of the test function that is to be replaced by the other arguments
-- `testAll(BooleanStringFunction, STRING, ANY...)` - this returns true if *all* of the arguments pass the `BooleanStringFunction` test; the `STRING` represents the part of the test function that is to be replaced by the other arguments
-- `multiple(NUMBER, BooleanStringFunction, STRING, ANY...)` - this returns true if at least `NUMBER` of arguments passes the `BooleanStringFunction` test; the `STRING` represents the part of the test function that is to be replaced by the other arguments
+- `test(Boolean Phrase, STRING, ANY...)` - this returns true if at least one of arguments passes a test
+  - the `Boolean Phrase` is a special `STRING` with some sort of comparison or equality test, e.g. "X > 5" or "? == 40"; *you **must** enclose this in quotation marks!*
+  - the second `STRING` represents the part of the test function that is to be replaced by the other arguments, e.g. "X" or "?"
+- `testAll(Boolean Phrase, STRING, ANY...)` - this returns true if *all* of the arguments pass the function in the `Boolean Phrase` test; the `STRING` represents the part of the test function that is to be replaced by the other arguments
+- `multiple(Boolean Phrase, STRING, STRING, ANY...)` - this returns true if at least `NUMBER` of arguments passes the `Boolean Phrase` function test; the `STRING` represents the part of the test function that is to be replaced by the other arguments
 
 ```javascript
 // EXAMPLE
-"multiple(3, X >= 5, X, getScoresByTag(skill:craft))" // returns true if at
+"multiple(3, \"X >= 5\", X, getScoresByTag(skill:craft))" // returns true if at
             // least three scores with the skill:craft tag have values greater
             // than or equal to 5
-"multiple(4, INPUT == 1, INPUT, getInputsByTag(spell:cleric))" // returns true
+"multiple(4, \"INPUT == 1\", INPUT, getInputsByTag(spell:cleric))" // returns true
             // if at least four inputs with the spell:cleric tag have values
             // exactly equal to 1
-"multiple(2, ? < 10, ?, getInputsByTag(is:kosher), getScoresByTag(non:fat))"
+"multiple(2, \"? < 10\", ?, getInputsByTag(is:kosher), getScoresByTag(non:fat))"
             // returns true if, among inputs with the is:kosher tag and scores
             // with the non:fat tag, at least two have values less than 10
 ```
 
 ### Conditionals and Loops
 
-- `if(BooleanStringFunction,ReturnValueIfTrue,ReturnValueIfFalse)` - returns one of two values depending on if the `BooleanStringFunction` returns `true` or `false`
+- `if(BOOLEAN,ReturnValueIfTrue,ReturnValueIfFalse)` - returns one of two values depending on if the `BOOLEAN` is `true` or `false`
 
 ### `LookupObjects`
 
