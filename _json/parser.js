@@ -3,8 +3,23 @@
 function getParser() {
 	// Globl-ish variable to hold various contexts across functions
 	let context = {};
+	// Global-ish variable to hold save/load variables
+	let MEMORY = {};
+
+	function escapeRegex(input) {
+		return input.replace(/[-[\]{}()*+?.,\\^$|#\s]/g, '\\$&');
+	}
 
 	// Standard fuctions
+
+	// save/load
+	function save(label, value) {
+		return MEMORY[evaluate(label)] = evaluate(value);
+	}
+	function load(label) {
+		return MEMORY[evaluate(label)];
+	}
+	// Math functions
 	function squareRoot(n) {
 		return Math.sqrt(evaluate(n));
 	}
@@ -44,22 +59,23 @@ function getParser() {
 		const range = y - x + 1;
 		return Math.floor(Math.random() * range) + x;
 	}
+	// Logical functions
 	function find (needle, haystack) {
 		return evaluate(haystack).indexOf(evaluate(needle)) >= 0;
 	}
 	function findWord (needle, haystack) {
-		let regex = new RegExp("\\b" + evaluate(needle).replace(/[-[\]{}()*+?.,\\^$|#\s]/g, '\\$&') + "\\b");
+		let regex = new RegExp("\\b" + escapeRegex(evaluate(needle)) + "\\b");
 		return evaluate(haystack).match(regex) !== null;
 	}
 	function test (test, standee, ...testing) {
-		let regex = new RegExp(standee.replace(/[-[\]{}()*+?.,\\^$|#\s]/g, '\\$&'), "g");
+		let regex = new RegExp(escapeRegex(standee), "g");
 		return testing.some(value => {
 			let subbed = test.replace(regex, `${value}`);
 			return evaluate(subbed);
 		});
 	}
 	function testAll (test, standee, ...testing) {
-		let regex = new RegExp(standee.replace(/[-[\]{}()*+?.,\\^$|#\s]/g, '\\$&'), "g");
+		let regex = new RegExp(escapeRegex(standee), "g");
 		return testing.every(value => {
 			let subbed = test.replace(regex, `${value}`);
 			return evaluate(subbed);
@@ -70,7 +86,7 @@ function getParser() {
 		if(count <= 0) {
 			return true;
 		}
-		let regex = new RegExp(standee.replace(/[-[\]{}()*+?.,\\^$|#\s]/g, '\\$&'), "g");
+		let regex = new RegExp(escapeRegex(standee), "g");
 		let counter = 0;
 		while(testing.length > 0) {
 			let value = testing.shift();
@@ -92,8 +108,8 @@ function getParser() {
 	}
 
 	const FUNCTIONS = {
-		//save
-		//load
+		save,
+		load,
 		//get(Score|Bonus|Input)
 		//setInput
 		//hasFeature[All][InCategory][Tagged[All]][WithType[All]]
@@ -238,19 +254,19 @@ function getParser() {
 		}
 	}
 
-	function parse(text, extras = {}) {
+	function parse(text) {
 		// Set aside quoted sections
-		let previous = extras.quotations || [];
+		let previous = context.quotations || [];
 		const separatedQuotes = separateQuotedSections(text, previous.length);
 		const quotations = previous.concat(separatedQuotes.enclosures);
 		//
 		// Set aside functions
-		previous = extras.functions || [];
+		previous = context.functions || [];
 		const isolatedFunctions = isolateFunctions(separatedQuotes.output, previous.length);
 		const functions = previous.concat(isolatedFunctions.functions);
 		//
 		// Set aside parentheticals
-		previous = extras.parentheticals || [];
+		previous = context.parentheticals || [];
 		const separatedParentheticals = separateParentheticals(isolatedFunctions.output, previous.length);
 		let parentheticals = previous.concat(separatedParentheticals.enclosures);
 		// Return everything
@@ -424,7 +440,7 @@ function getParser() {
 			functions,
 			parentheticals,
 			text
-		} = parse(input, context);
+		} = parse(input);
 		//
 		// Make copies of everything
 		let output = [];
@@ -461,6 +477,7 @@ function getParser() {
 				});
 			}
 			if (ranks[2]) {
+				// Functions
 				// Save old context
 				const oldContext = {...context};
 				// Establish current context
@@ -475,7 +492,7 @@ function getParser() {
 				context = {...oldContext};
 			}
 			if (ranks[3]) {
-				// Parentheses and Brackets
+				// Parentheses
 				ranks[3].forEach(p => {
 					// Parentheticals can only call on previous parentheticals, so these should already have been converted by the time we get to them.
 					let value = output[tokens[p].value];

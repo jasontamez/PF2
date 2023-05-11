@@ -200,7 +200,7 @@ These functions should extract the results from a function and treat them as arg
 - `min()` and `max()` work as expected
 - `sum()` adds all arguments together and returns the result
 - `test(Boolean Phrase, STRING, ANY...)` - this returns true if at least one of arguments passes a test
-  - the `Boolean Phrase` is a special `STRING` with some sort of comparison or equality test, e.g. "X > 5" or "? == 40"; *you **must** enclose this in quotation marks!*
+  - the `Boolean Phrase` is a special `STRING` with some sort of comparison or equality test, e.g. "X > 5" or "? == 40"
   - the second `STRING` represents the part of the test function that is to be replaced by the other arguments, e.g. "X" or "?"
 - `testAll(Boolean Phrase, STRING, ANY...)` - this returns true if *all* of the arguments pass the function in the `Boolean Phrase` test; the `STRING` represents the part of the test function that is to be replaced by the other arguments
 - `multiple(Boolean Phrase, STRING, STRING, ANY...)` - this returns true if at least `NUMBER` of arguments passes the `Boolean Phrase` function test; the `STRING` represents the part of the test function that is to be replaced by the other arguments
@@ -221,17 +221,6 @@ These functions should extract the results from a function and treat them as arg
 ### Conditionals and Loops
 
 - `if(BOOLEAN,ReturnValueIfTrue,ReturnValueIfFalse)` - returns one of two values depending on if the `BOOLEAN` is `true` or `false`
-  - **All three** arguments must be enclosed in quotes, or else the parser will run both the `true` *and* `false` values!
-
-### `LookupObjects`
-
-- Lookup Objects are basically inline JSON objects
-  - *Note*: If possible, you should use a simple `getScore()` or similar function instead
-
-```javascript
-// If "strength score" is 20...
-"100 / {\"query\":\"score\",\"name\":\"strength score\"}" // = 5
-```
 
 -------------------------------------------------
 
