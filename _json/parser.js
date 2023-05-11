@@ -1,6 +1,96 @@
 // ...
 
 function getParser() {
+	// Globl-ish variable to hold various contexts across functions
+	let context = {};
+
+	// Standard fuctions
+	function squareRoot(n) {
+		return Math.sqrt(evaluate(n));
+	}
+	function round(n) {
+		return Math.round(evaluate(n));
+	}
+	function ceil(n) {
+		return Math.ceil(evaluate(n));
+	}
+	function floor(n) {
+		return Math.floor(evaluate(n));
+	}
+	function min(...args) {
+		return Math.min(args.map(a => evaluate(a)));
+	}
+	function max(...args) {
+		return Math.max(args.map(a => evaluate(a)));
+	}
+	function random (x) {
+		const rando = Math.random();
+		if(x !== undefined) {
+			return rando * evaluate(x)
+		}
+	}
+	function randomInt (x, y) {
+		if(x === undefined) {
+			x = 1
+		} else {
+			x = evaluate(x);
+		}
+		if(y === undefined) {
+			y = x;
+			x = 0;
+		} else {
+			y = evaluate(y);
+		}
+		const range = y - x + 1;
+		return Math.floor(Math.random() * range) + x;
+	}
+	function find (needle, haystack) {
+		return evaluate(haystack).indexOf(evaluate(needle)) >= 0;
+	}
+	function findWord (needle, haystack) {
+		let regex = new RegExp("\\b" + evaluate(needle).replace(/[-[\]{}()*+?.,\\^$|#\s]/g, '\\$&') + "\\b");
+		return evaluate(haystack).match(regex) !== null;
+	}
+	function test (test, standee, ...testing) {
+		let regex = new RegExp(standee.replace(/[-[\]{}()*+?.,\\^$|#\s]/g, '\\$&'), "g");
+		return testing.some(value => {
+			let subbed = test.replace(regex, `${value}`);
+			return evaluate(subbed);
+		});
+	}
+	function testAll (test, standee, ...testing) {
+		let regex = new RegExp(standee.replace(/[-[\]{}()*+?.,\\^$|#\s]/g, '\\$&'), "g");
+		return testing.every(value => {
+			let subbed = test.replace(regex, `${value}`);
+			return evaluate(subbed);
+		});
+	}
+	function multiple (count, test, standee, ...testing) {
+		count = evaluate(count);
+		if(count <= 0) {
+			return true;
+		}
+		let regex = new RegExp(standee.replace(/[-[\]{}()*+?.,\\^$|#\s]/g, '\\$&'), "g");
+		let counter = 0;
+		while(testing.length > 0) {
+			let value = testing.shift();
+			let subbed = test.replace(regex, `${value}`);
+			if(evaluate(subbed)) {
+				counter++;
+				if(counter >= count) {
+					return true;
+				}
+			}
+		}
+		return false;
+	}
+	function _if (test, truth, falsity) {
+		if(typeof test === "string" ? evaluate(test) : test) {
+			return evaluate(truth);
+		}
+		return evaluate(falsity);
+	}
+
 	const FUNCTIONS = {
 		//save
 		//load
@@ -8,30 +98,20 @@ function getParser() {
 		//setInput
 		//hasFeature[All][InCategory][Tagged[All]][WithType[All]]
 		//get[Objects](Inputs|Bonuses|Scores)[InCategory][Tagged[All]][WithType[All]]
-		squareRoot: Math.sqrt,
-		round: Math.round,
-		ceil: Math.ceil,
-		floor: Math.floor,
-		min: Math.min,
-		max: Math.max,
-		random: (x = 1) => Math.floor(Math.random() * x),
-		randomInt: (x, y = undefined) => {
-			if(y === undefined) {
-				y = x;
-				x = 0;
-			}
-			const range = y - x + 1;
-			return Math.floor(Math.random() * range) + x;
-		},
-		find: (needle, haystack) => haystack.indexOf(needle) >= 0,
-		findWord: (needle, haystack) => {
-			let regex = new RegExp("\\b" + needle.replace(/[-[\]{}()*+?.,\\^$|#\s]/g, '\\$&') + "\\b");
-			return haystack.match(regex) !== null;
-		},
-		test: (test, standee, ...testing) => {},
-		testAll: (test, standee, ...testing) => {},
-		multiple: (count, test, standee, ...testing) => {},
-		if: (test, truth, falsity) => {},
+		squareRoot,
+		round,
+		ceil,
+		floor,
+		min,
+		max,
+		random,
+		randomInt,
+		find,
+		findWord,
+		test,
+		testAll,
+		multiple,
+		if: _if
 	};
 
 	function testForReservedCharacters(input, errorMsg, ...etc) {
@@ -71,24 +151,33 @@ function getParser() {
 		};
 	}
 
-	function separateQuotedSections(input) {
+	function separateQuotedSections(input, offset = 0) {
 		// `$1$` === quotations[1]
-		return separateEnclosedSections(
+		let temp = String(Math.floor(Math.random() * 100000) + 1)
+			+ "x" + String(Math.floor(Math.random() * 100000) + 1)
+			+ "x" + String(Math.floor(Math.random() * 100000) + 1);
+		let detox = new RegExp(temp, "g");
+		let testing = input.replace(/\\"/g, temp);
+		const {enclosures, output} = separateEnclosedSections(
 			input,
-			0,
+			offset,
 			/^(.*?)\s*"([^"]*)"\s*(.*)$/,
 			"$",
 			"Open quotation marks",
 			false,
 			"\""
 		);
+		return {
+			enclosures: enclosures.map(e => e.replace(detox, "\"")),
+			output: output.replace(detox, "\"")
+		};
 	}
 
-	function separateParentheticals(input) {
+	function separateParentheticals(input, offset = 0) {
 		// `@3@` === parentheticals[3]
 		return separateEnclosedSections(
 			input,
-			0,
+			offset,
 			/^(.*?)\s*\(\s*([^()]*?)\s*\)\s*(.*)$/,
 			"@",
 			"Unmatched \"(\" or \")\" found",
@@ -98,66 +187,78 @@ function getParser() {
 		);
 	}
 
-	function isolateFunctions(input, inputParentheticals, marker = "?") {
-		// [functionName, functionArgumentsAsString, markedBrackets]
+	function isolateFunctions(input, offset = 0, marker = "?") {
+		// [functionName, functionArguments]
 		// `?12?` === functions[12]
-		const regex = /^(.*?)([a-zA-Z_]+)@([0-9]+)@(.*)$/;
+		let m;
+		let scanned = '';
 		const functions = [];
-		const parentheticals = [];
-		// Add text to inputParentheticals
-		inputParentheticals.push([input]);
-		// Now check all inputParentheticals
-		while (inputParentheticals.length > 0) {
-			let parenthetical = inputParentheticals.shift().slice();
-			const checked = [];
-			while(parenthetical.length > 0) {
-				// Look for a function()...
-				let m;
-				let p = parenthetical.shift();
-				while (m = p.match(regex)) {
-					const [x, pre, funcName, parenNum, post] = m;
-					// Identify which parenthetical this is associated with
-					//   This should always be <= the index of the current parenthetical!
-					const associatedParenthetical = Number(parenNum);
-					// Save text with function marked
-					const n = functions.length;
-					p = `${pre}${marker}${n}${marker}${post}`;
-					// Save functions
-					functions.push([funcName, associatedParenthetical]);
+		const regex = /^(.*?)([a-zA-Z_][-a-zA-Z_0-9]*)\s*\((.*)$/;
+		// search for functions
+		while(m = input.match(regex)) {
+			const [x, pre, functionName, post] = m;
+			let chars = post.split('');
+			let count = 1;
+			let args = [];
+			// Look for end of function
+			while(count > 0 && chars.length > 0) {
+				const ch = chars.shift();
+				if(ch === "(") {
+					count++;
+				} else if(ch === ")") {
+					count--;
 				}
-				checked.push(p);
+				args.push(ch)
 			}
-			parentheticals.push(checked);
+			// Did we find a good end?
+			if(count > 0) {
+				throw new SyntaxError(`Function "${functionName}" missing end parenthesis: "(${post}"`);
+			}
+			// Save previous text
+			scanned = scanned + pre;
+			// Leftovers become new search string
+			input = chars.join('');
+			// Remove final ")" from arguments
+			args.pop();
+			// Compile arguments
+			let funcArgs = args.join('');
+			// Look for functions inside the arguments!
+			const recursed = isolateFunctions(funcArgs, offset, marker);
+			functions.push(...recursed.functions);
+			// Save function info
+			scanned = scanned + `${marker}${functions.length + offset}${marker}`;
+			functions.push([
+				functionName,
+				recursed.output.split(/\s*,\s*/)
+			]);
 		}
-		// Remove original text from parentheticals
-		const output = parentheticals.pop().pop();
 		return {
 			functions,
-			parentheticals,
-			output
-		};
+			output: scanned + input
+		}
 	}
 
-	function parse(text) {
-		//
+	function parse(text, extras = {}) {
 		// Set aside quoted sections
-		const separatedQuotes = separateQuotedSections(text);
-		const quotations = separatedQuotes.enclosures;
+		let previous = extras.quotations || [];
+		const separatedQuotes = separateQuotedSections(text, previous.length);
+		const quotations = previous.concat(separatedQuotes.enclosures);
+		//
+		// Set aside functions
+		previous = extras.functions || [];
+		const isolatedFunctions = isolateFunctions(separatedQuotes.output, previous.length);
+		const functions = previous.concat(isolatedFunctions.functions);
 		//
 		// Set aside parentheticals
-		const separatedParentheticals = separateParentheticals(separatedQuotes.output);
-		let parentheticals = separatedParentheticals.enclosures;
-		//
-		// Set aside functions(in leftover text AND in parentheticals)
-		const isolatedFunctions = isolateFunctions(separatedParentheticals.output, parentheticals.slice());
-		const functions = isolatedFunctions.functions;
-		parentheticals = isolatedFunctions.parentheticals;
+		previous = extras.parentheticals || [];
+		const separatedParentheticals = separateParentheticals(isolatedFunctions.output, previous.length);
+		let parentheticals = previous.concat(separatedParentheticals.enclosures);
 		// Return everything
 		return {
 			quotations,
-			parentheticals,
 			functions,
-			text: isolatedFunctions.output
+			parentheticals,
+			text: separatedParentheticals.output
 		};
 	}
 
@@ -184,7 +285,7 @@ function getParser() {
 				while ((next = chars.shift()) !== "?") {
 					f = f + next;
 				}
-				output.push(makeToken("function", Number(f), 3));
+				output.push(makeToken("function", Number(f), 2));
 			} else if (ch === "@") {
 				// Parenthetical
 				let p = '';
@@ -192,7 +293,7 @@ function getParser() {
 				while ((next = chars.shift()) !== "@") {
 					p = p + next;
 				}
-				output.push(makeToken("parenthetical", Number(p), 2));
+				output.push(makeToken("parenthetical", Number(p), 3));
 			} else if (ch === "$") {
 				// Quoted string
 				let q = '';
@@ -217,9 +318,10 @@ function getParser() {
 					rank = 5;
 				}
 				output.push(makeToken("operator", ch, rank));
-			} else if (ch.match(/[+-]/)) {
-				// Simple math operator
+			} else if (ch === "+") {
+				// Simple addition
 				output.push(makeToken("operator", ch, 7));
+				// Subtraction is handled later, with negative numbers
 			} else if (ch.match(/[<>]/)) {
 				// <=, <, >=, >
 				if (chars[0] === "=") {
@@ -234,23 +336,53 @@ function getParser() {
 					rank = 9
 				}
 				output.push(makeToken("logic", ch, rank));
-			} else if (ch >= "0" && ch <= "9" || ch === ".") {
-				// Numeric
-				let n = null;
-				do {
-					if (chars.length > 0) {
-						n = chars.shift();
-						if (n >= "0" && n <= "9" || n === ".") {
-							ch = ch + n;
+			} else if (ch === "-" || (ch >= "0" && ch <= "9" || ch === ".")) {
+				// Numeric or subtraction
+				//
+				// test for subtraction
+				let test = true;
+				if(ch === "-") {
+					test = output.length;
+					// Possibly subtraction
+					if((chars[0] < "0" || chars[0] > "9") && chars[0] !== ".") {
+						// Negative numbers MUST have the - next to the numeric
+						test = false;
+					} else if (test > 0) {
+						let prev = output[test - 1];
+						// See if this was an object
+						if(prev.rank && ((prev.type === "operator" || prev.type === "comparison" || prev.type === "logic"))) {
+							// Assume that we're numeric if the previous was *, +, >=, !, or the like
+							test = true;
 						} else {
-							chars.unshift(n);
-							n = null;
+							// Assume we're subtraction
+							test = false;
 						}
 					} else {
-						n = null;
+						// Nothing in output == must be numeric
+						test = true;
 					}
-				} while (n !== null);
-				output.push(Number(ch));
+				}
+				if(test) {
+					// Numeric
+					let n = null;
+					do {
+						if (chars.length > 0) {
+							n = chars.shift();
+							if (n >= "0" && n <= "9" || n === ".") {
+								ch = ch + n;
+							} else {
+								chars.unshift(n);
+								n = null;
+							}
+						} else {
+							n = null;
+						}
+					} while (n !== null);
+					output.push(Number(ch));
+				} else {
+					// Subtraction
+					output.push(makeToken("operator", ch, 7));
+				}
 			} else if (ch === " ") {
 				// Whitespace. Ignore.
 			} else {
@@ -289,10 +421,10 @@ function getParser() {
 	function evaluate(input) {
 		const {
 			quotations,
-			parentheticals,
 			functions,
+			parentheticals,
 			text
-		} = parse(input);
+		} = parse(input, context);
 		//
 		// Make copies of everything
 		let output = [];
@@ -329,20 +461,25 @@ function getParser() {
 				});
 			}
 			if (ranks[2]) {
+				// Save old context
+				const oldContext = {...context};
+				// Establish current context
+				context = { quotations, functions, parentheticals };
+				// Run functions
+				ranks[2].forEach(f => {
+					const [func, args] = functions[tokens[f].value];
+					let value = FUNCTIONS[func](...args);
+					tokens[f] = value;
+				});
+				// Restore old context
+				context = {...oldContext};
+			}
+			if (ranks[3]) {
 				// Parentheses and Brackets
-				ranks[2].forEach(p => {
+				ranks[3].forEach(p => {
 					// Parentheticals can only call on previous parentheticals, so these should already have been converted by the time we get to them.
 					let value = output[tokens[p].value];
 					tokens[p] = value;
-				});
-			}
-			if (ranks[3]) {
-				// Run functions
-				// ....
-				ranks[3].forEach(f => {
-					const [func, associatedParenthetical] = functions[tokens[f].value];
-					let value = FUNCTIONS[func](...output[associatedParenthetical]);
-					tokens[f] = value;
 				});
 			}
 			if (ranks[4]) {

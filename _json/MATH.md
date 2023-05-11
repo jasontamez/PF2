@@ -36,10 +36,10 @@ Quotation marks are an exception, they surround a string which should not be mut
 - These should respect the standard "PEDMAS" order of operations, with some additions. (This is also basically the same order used in Javascript.)
 
 1. Strings surrounded by quotation marks `" "` are noted
-2. Parentheses `()`
-    1. Innermost parentheses are evaluated before outer, from left to right
-3. Functions `function()`
+2. Functions `function()`
     1. Innermost functions are evaluated before outer, from left to right
+3. Parentheses `()`
+    1. Innermost parentheses are evaluated before outer, from left to right
 4. Negation `!`
 5. Exponents `**`
 6. Division, Multiplication, and Remainders `/ * %`
@@ -221,6 +221,7 @@ These functions should extract the results from a function and treat them as arg
 ### Conditionals and Loops
 
 - `if(BOOLEAN,ReturnValueIfTrue,ReturnValueIfFalse)` - returns one of two values depending on if the `BOOLEAN` is `true` or `false`
+  - **All three** arguments must be enclosed in quotes, or else the parser will run both the `true` *and* `false` values!
 
 ### `LookupObjects`
 
