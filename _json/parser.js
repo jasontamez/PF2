@@ -2,9 +2,7 @@
 
 function getParser() {
 	// Globl-ish variable to hold various contexts across functions
-	let context = {};
-	// Global-ish variable to hold save/load variables
-	let MEMORY = {};
+	let CONTEXT = {};
 
 	function escapeRegex(input) {
 		return input.replace(/[-[\]{}()*+?.,\\^$|#\s]/g, '\\$&');
@@ -14,84 +12,84 @@ function getParser() {
 
 	// save/load
 	function save(label, value) {
-		return MEMORY[evaluate(label)] = evaluate(value);
+		return this._MEMORY[this._evaluate(label)] = this._evaluate(value);
 	}
 	function load(label) {
-		return MEMORY[evaluate(label)];
+		return this._MEMORY[this._evaluate(label)];
 	}
 	// Math functions
 	function squareRoot(n) {
-		return Math.sqrt(evaluate(n));
+		return Math.sqrt(this._evaluate(n));
 	}
 	function round(n) {
-		return Math.round(evaluate(n));
+		return Math.round(this._evaluate(n));
 	}
 	function ceil(n) {
-		return Math.ceil(evaluate(n));
+		return Math.ceil(this._evaluate(n));
 	}
 	function floor(n) {
-		return Math.floor(evaluate(n));
+		return Math.floor(this._evaluate(n));
 	}
 	function min(...args) {
-		return Math.min(args.map(a => evaluate(a)));
+		return Math.min(args.map(a => this._evaluate(a)));
 	}
 	function max(...args) {
-		return Math.max(args.map(a => evaluate(a)));
+		return Math.max(args.map(a => this._evaluate(a)));
 	}
 	function random (x) {
 		const rando = Math.random();
 		if(x !== undefined) {
-			return rando * evaluate(x)
+			return rando * this._evaluate(x)
 		}
 	}
 	function randomInt (x, y) {
 		if(x === undefined) {
 			x = 1
 		} else {
-			x = evaluate(x);
+			x = this._evaluate(x);
 		}
 		if(y === undefined) {
 			y = x;
 			x = 0;
 		} else {
-			y = evaluate(y);
+			y = this._evaluate(y);
 		}
 		const range = y - x + 1;
 		return Math.floor(Math.random() * range) + x;
 	}
 	// Logical functions
 	function find (needle, haystack) {
-		return evaluate(haystack).indexOf(evaluate(needle)) >= 0;
+		return this._evaluate(haystack).indexOf(this._evaluate(needle)) >= 0;
 	}
 	function findWord (needle, haystack) {
-		let regex = new RegExp("\\b" + escapeRegex(evaluate(needle)) + "\\b");
-		return evaluate(haystack).match(regex) !== null;
+		let regex = new RegExp("\\b" + this._escapeRegex(this._evaluate(needle)) + "\\b");
+		return this._evaluate(haystack).match(regex) !== null;
 	}
 	function test (test, standee, ...testing) {
-		let regex = new RegExp(escapeRegex(standee), "g");
+		let regex = new RegExp(this._escapeRegex(standee), "g");
 		return testing.some(value => {
 			let subbed = test.replace(regex, `${value}`);
-			return evaluate(subbed);
+			return this._evaluate(subbed);
 		});
 	}
 	function testAll (test, standee, ...testing) {
-		let regex = new RegExp(escapeRegex(standee), "g");
+		let regex = new RegExp(this._escapeRegex(standee), "g");
 		return testing.every(value => {
 			let subbed = test.replace(regex, `${value}`);
-			return evaluate(subbed);
+			return this._evaluate(subbed);
 		});
 	}
 	function multiple (count, test, standee, ...testing) {
-		count = evaluate(count);
+		count = this._evaluate(count);
 		if(count <= 0) {
 			return true;
 		}
-		let regex = new RegExp(escapeRegex(standee), "g");
+		let regex = new RegExp(this._escapeRegex(standee), "g");
 		let counter = 0;
 		while(testing.length > 0) {
 			let value = testing.shift();
 			let subbed = test.replace(regex, `${value}`);
-			if(evaluate(subbed)) {
+			if(this._evaluate(subbed)) {
 				counter++;
 				if(counter >= count) {
 					return true;
@@ -101,19 +99,27 @@ function getParser() {
 		return false;
 	}
 	function _if (test, truth, falsity) {
-		if(typeof test === "string" ? evaluate(test) : test) {
-			return evaluate(truth);
+		if(this._evaluate(test)) {
+			return this._evaluate(truth);
 		}
-		return evaluate(falsity);
+		return this._evaluate(falsity);
 	}
 
-	const FUNCTIONS = {
+	let FUNCTIONS = {
+		// Global-ish variable to hold save/load variables
+		_MEMORY: {},
+		_escapeRegex: escapeRegex,
 		save,
 		load,
 		//get(Score|Bonus|Input)
 		//setInput
 		//hasFeature[All][InCategory][Tagged[All]][WithType[All]]
 		//get[Objects](Inputs|Bonuses|Scores)[InCategory][Tagged[All]][WithType[All]]
+		//countFeature[InCategory][Tagged[All]][WithType[All]]
+		//count(Inputs|Bonuses|Scores)[InCategory][Tagged[All]][WithType[All]]
+		//
+		//  the above must be ready in case they get an array as an argument!
+		//
 		squareRoot,
 		round,
 		ceil,
@@ -129,6 +135,16 @@ function getParser() {
 		multiple,
 		if: _if
 	};
+
+	function addFunction(...functions) {
+		// addFunction([function_name, function(){}], ...)
+		functions.forEach(([functionName, func]) => {
+			if(!functionName.match(/^[a-zA-Z][-_a-zA-Z0-9]*$/)) {
+				throw new SyntaxError(`Invalid function name "${functionName}" - Functions must begin with a letter, and can only contain letters, numbers, dashes, and the underscore`)
+			}
+			FUNCTIONS[functionName] = func;
+		});
+	}
 
 	function testForReservedCharacters(input, errorMsg, ...etc) {
 		// Test for reserved characters
@@ -209,7 +225,7 @@ function getParser() {
 		let m;
 		let scanned = '';
 		const functions = [];
-		const regex = /^(.*?)([a-zA-Z_][-a-zA-Z_0-9]*)\s*\((.*)$/;
+		const regex = /^(.*?)([a-zA-Z][-a-zA-Z_0-9]*)\s*\((.*)$/;
 		// search for functions
 		while(m = input.match(regex)) {
 			const [x, pre, functionName, post] = m;
@@ -256,17 +272,17 @@ function getParser() {
 
 	function parse(text) {
 		// Set aside quoted sections
-		let previous = context.quotations || [];
+		let previous = CONTEXT.quotations || [];
 		const separatedQuotes = separateQuotedSections(text, previous.length);
 		const quotations = previous.concat(separatedQuotes.enclosures);
 		//
 		// Set aside functions
-		previous = context.functions || [];
+		previous = CONTEXT.functions || [];
 		const isolatedFunctions = isolateFunctions(separatedQuotes.output, previous.length);
 		const functions = previous.concat(isolatedFunctions.functions);
 		//
 		// Set aside parentheticals
-		previous = context.parentheticals || [];
+		previous = CONTEXT.parentheticals || [];
 		const separatedParentheticals = separateParentheticals(isolatedFunctions.output, previous.length);
 		let parentheticals = previous.concat(separatedParentheticals.enclosures);
 		// Return everything
@@ -277,6 +293,8 @@ function getParser() {
 			text: separatedParentheticals.output
 		};
 	}
+	// Make available to FUNCTIONS
+	FUNCTIONS._parse = parse;
 
 	function makeToken(type, value, rank) {
 		return {
@@ -411,6 +429,8 @@ function getParser() {
 		}
 		return output;
 	}
+	// Make available to FUNCTIONS
+	FUNCTIONS._tokenize = tokenize;
 
 	function getVal(input) {
 		// Returns a single result if an array is given
@@ -479,9 +499,9 @@ function getParser() {
 			if (ranks[2]) {
 				// Functions
 				// Save old context
-				const oldContext = {...context};
+				const oldContext = {...CONTEXT};
 				// Establish current context
-				context = { quotations, functions, parentheticals };
+				CONTEXT = { quotations, functions, parentheticals };
 				// Run functions
 				ranks[2].forEach(f => {
 					const [func, args] = functions[tokens[f].value];
@@ -489,7 +509,7 @@ function getParser() {
 					tokens[f] = value;
 				});
 				// Restore old context
-				context = {...oldContext};
+				CONTEXT = {...oldContext};
 			}
 			if (ranks[3]) {
 				// Parentheses
@@ -611,10 +631,13 @@ function getParser() {
 		});
 		return output.pop().pop();
 	}
+	// Make available to FUNCTIONS
+	FUNCTIONS._evaluate = evaluate;
 
 	return {
 		parse,
 		tokenize,
-		evaluate
+		evaluate,
+		addFunction
 	};
 }

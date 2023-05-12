@@ -60,17 +60,21 @@
 	"controlled_inputs": {
 		"INTEGER": [
 			{
-				"test_value": "X",
-				"test_name": "THIS",
-				"can_increment": "(getInput(skill points pool) > 0) && (X < getScore(max skill ranks))",
+				"test_value": "CURRENT RANKS",
+				"test_name": "THIS SKILL",
+				"can_increment": "(getInput(skill points pool) > 0) && (CURRENT RANKS < getScore(max skill ranks))",
 				"do_increment": [
 					"setInput(skill points pool,getInput(skill points pool) - 1)",
-					"setInput(THIS, X + 1)"
+					"setInput(THIS SKILL, CURRENT RANKS + 1)"
 				],
-				"can_decrement": "X > 0",
+				"can_decrement": "CURRENT RANKS > 0",
 				"do_decrement": [
 					"setInput(skill points pool,getInput(skill points pool) + 1)",
-					"setInput(THIS, X - 1)"
+					"setInput(THIS SKILL, CURRENT RANKS - 1)"
+				],
+				"controls": [
+					"increment",
+					"decrement"
 				],
 				"list": [
 					{
@@ -496,51 +500,51 @@
 	"scores": [
 		{
 			"name": "strength score",
-			"formula": "getInput(base strength score)+calculateBonusesByType(getObjectsBonusesTagged((stat:strength)))"
+			"formula": "getInput(base strength score)+calculateBonusesByType(getObjectsBonusesTagged(stat:strength))"
 		},
 		{
 			"name": "STR mod",
-			"formula": "floor((getScore(strength score)-10)/2)"
+			"formula": "floor(getScore(strength score) / 2 - 5)"
 		},
 		{
 			"name": "dexterity score",
-			"formula": "getInput(base dexterity score)+calculateBonusesByType(getObjectsBonusesTagged((stat:dexterity)))"
+			"formula": "getInput(base dexterity score)+calculateBonusesByType(getObjectsBonusesTagged(stat:dexterity))"
 		},
 		{
 			"name": "DEX mod",
-			"formula": "floor((getScore(dexterity score)-10)/2)"
+			"formula": "floor(getScore(dexterity score) / 2 - 5)"
 		},
 		{
 			"name": "constitution score",
-			"formula": "getInput(base constitution score)+calculateBonusesByType(getObjectsBonusesTagged((stat:constitution)))"
+			"formula": "getInput(base constitution score)+calculateBonusesByType(getObjectsBonusesTagged(stat:constitution))"
 		},
 		{
 			"name": "CON mod",
-			"formula": "floor((getScore(constitution score)-10)/2)"
+			"formula": "floor(getScore(constitution score) / 2 - 5)"
 		},
 		{
 			"name": "intelligence score",
-			"formula": "getInput(base intelligence score)+calculateBonusesByType(getObjectsBonusesTagged((stat:intelligence)))"
+			"formula": "getInput(base intelligence score)+calculateBonusesByType(getObjectsBonusesTagged(stat:intelligence))"
 		},
 		{
 			"name": "INT mod",
-			"formula": "floor((getScore(intelligence score)-10)/2)"
+			"formula": "floor(getScore(intelligence score) / 2 - 5)"
 		},
 		{
 			"name": "wisdom score",
-			"formula": "getInput(base wisdom score)+calculateBonusesByType(getObjectsBonusesTagged((stat:wisdom)))"
+			"formula": "getInput(base wisdom score)+calculateBonusesByType(getObjectsBonusesTagged(stat:wisdom))"
 		},
 		{
 			"name": "WIS mod",
-			"formula": "floor((getScore(wisdom score)-10)/2)"
+			"formula": "floor(getScore(wisdom score) / 2 - 5)"
 		},
 		{
 			"name": "charisma score",
-			"formula": "getInput(base charisma score)+calculateBonusesByType(getObjectsBonusesTagged((stat:charisma)))"
+			"formula": "getInput(base charisma score)+calculateBonusesByType(getObjectsBonusesTagged(stat:charisma))"
 		},
 		{
 			"name": "CHA mod",
-			"formula": "floor((getScore(charisma score)-10)/2)"
+			"formula": "floor(getScore(charisma score) / 2 - 5)"
 		},
 		{
 			"name": "max skill ranks",

@@ -8,7 +8,7 @@ These should be ignored:
 
 - Any spaces around mathematical symbols
 - Spaces around parentheses, even in functions
-- Spaces *following* a comma in a function
+- Spaces around a comma in a function
 
 Quotation marks are an exception, they surround a string which should not be mutated in any way
 
@@ -170,6 +170,26 @@ These are invalid
 - `hasFeatureTaggedAllInCategory` should be `hasFeatureInCategoryTaggedAll`
 - `hasFeatureInCategoryWithTypeAllTagged` should be `hasFeatureInCategoryTaggedWithTypeAll`
 
+You can how many features match a condition by using `count` instead of `has`:
+
+- `countFeatureInCategory`
+- `countFeatureTagged`
+- `countFeatureTaggedAll`
+- `countFeatureWithType`
+- `countFeatureWithTypeAll`
+- `countFeatureInCategoryTagged`
+- `countFeatureInCategoryTaggedAll`
+- `countFeatureInCategoryWithType`
+- `countFeatureInCategoryWithTypeAll`
+- `countFeatureTaggedWithType`
+- `countFeatureTaggedAllWithType`
+- `countFeatureInCategoryTaggedWithType`
+- `countFeatureInCategoryTaggedAllWithType`
+- `countFeatureTaggedWithTypeAll`
+- `countFeatureTaggedAllWithTypeAll`
+- `countFeatureInCategoryTaggedWithTypeAll`
+- `countFeatureInCategoryTaggedAllWithTypeAll`
+
 ### Getting multiple results
 
 These functions should only be used inside other functions that accept multiple arguments (see next section)
@@ -192,6 +212,26 @@ Custom functions may require access to the `input`, `score`, etc. `Object` itsel
 - `getObjectsInputs(name1,name2)` (all inputs named "name1" or "name2")
 - `getObjectsBonusesTagged((stat:strength))` (all bonuses tagged "stat:strength")
 - `getObjectsScoresInCategoryWithTypeAll((attribute),(basic,physical))` (all scores in category "attribute" with both types "basic" and "physical")
+
+You can how many scores/inputs/bonuses match a condition by using `count` instead of `getObjects`:
+
+- `countInputsInCategory`
+- `countInputsTagged`
+- `countInputsTaggedAll`
+- `countInputsWithType`
+- `countInputsWithTypeAll`
+- `countInputsTaggedWithType`
+- `countInputsTaggedWithTypeAll`
+- `countInputsTaggedAllWithType`
+- `countInputsTaggedAllWithTypeAll`
+- `countInputsInCategoryTagged`
+- `countInputsInCategoryTaggedAll`
+- `countInputsInCategoryWithType`
+- `countInputsInCategoryWithTypeAll`
+- `countInputsInCategoryTaggedWithType`
+- `countInputsInCategoryTaggedWithTypeAll`
+- `countInputsInCategoryTaggedAllWithType`
+- `countInputsInCategoryTaggedAllWithTypeAll`
 
 ### Using multiple results
 

@@ -2035,12 +2035,7 @@
 			"sources": [ "Mythic Adventures" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				{
-					"query": "ability",
-					"category": "feat",
-					"has_type": "Teamwork",
-					"quantity": 2
-				}
+				"countFeatureInCategoryWithType((feat),(Teamwork)) >= 2"
 			],
 			"description": [
 				"Legendary Teamwork",

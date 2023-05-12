@@ -53,6 +53,9 @@
 - skill:perform/knowledge/craft/profession
 - skill:ranks
 
+- creature-type:humanoid/dragon/construct/etc
+- creature-subtype:orc/fire/goblinoid/etc
+
 ---
 
 ## Flags
@@ -120,7 +123,6 @@ Other tags can indicate special properties.
 
 - `creature-type:` - "undead", "humanoid", etc
 - `creature-subtype:` - "fire", "good", "orc", "human", etc
-- `alignment:` - "LG", "N", "CE", etc
 - `language:` - "draconic", "celestial", "dwarven", etc
 - `vulnerable:` - "fire", "cold", "critical-hits", etc
 - `class-skill:` - "acrobatics", "perception", "stealth", etc
