@@ -5,6 +5,10 @@ System should specify sheets and all relevant JSON files. The sheet should descr
 ## TO-DO
 
 - Trait CREATURES, UNFINISHED, etc
+- classes: Wizard: improved familiars: celestial, fiendish, entropic (protean?), resolute templates
+  - alignment_must_match_deity
+  - save/BAB formulas
+  - change alignment_test into prerequisites
 
 ## Types
 
@@ -178,10 +182,6 @@ An array of optional, standard properties the `Values` have
 
 An object declaring any searchable, non-standard properties the `Values` may have
 
-#### `"lookup_shorthands": ARRAY_ShorthandLookupObject`
-
-An object declaring all shorthand lookup properties the `Values` may use
-
 #### `"shared_properties": ARRAY_variable`
 
 An object containing properties, all of which should be considered to be part of every `Value` in the `"list"` Array.
@@ -224,38 +224,6 @@ There should be a general list of numbers where certain `features` should be pla
 - 2001-3000 - Foundational Feats
 - 3001-4000 - Midrange Feats
 - 4001-5000 - Highest-level Feats
-
----
-
-### Lookups
-
-- **Global properties**
-  - `"query": ENUM "feature", "score", "flag", "bonus"` - The type of `Value` we're looking for
-  - `"find": LookupObject` - A generic "wrapper", to combine a Lookup with other operations (e.g. `"quantity"` below)
-  - `"find_any": ARRAY_LookupObject` - As above, but only one included `LookupObject` needs to match
-  - `"find_all": ARRAY_LookupObject` - As above, but **all** included `LookupObjects` need to match
-  - `"name": STRING` - Looking for something with the specific name
-  - `"name_any": ARRAY_STRING` - Looking for any of the listed names
-  - `"name_all": ARRAY_STRING` - Looking for **all** of the listed names
-  - `"name_match": STRING` - Looking for something that matches the given regular expression
-  - `"has_type": STRING` - Looking for something that has the listed type
-  - `"has_type_any": ARRAY_STRING` - Looking for something that has any of the listed types
-  - `"has_type_all": ARRAY_STRING` - Looking for something that has **all** of the listed types
-  - `"has_tag": STRING` - Looking for something that has the listed tag
-  - `"has_tag_any": ARRAY_STRING` - Looking for something that has any of the listed tags
-  - `"has_tag_all": ARRAY_STRING` - Looking for something that has **all** of the listed tags
-  - `"has_tag_type": STRING` - Looking for something that has a tag with the listed prefix
-  - `"quantity": INTEGER` - Looking for at least the indicated number of separate things
-
-- **Feature properties**
-  - `"category": STRING` - Looking for an ability with the listed category
-  - `"category_any": ARRAY_STRING` - Looking for an ability with any of the the listed categories
-
-- **Score properties**
-  - `"minimum": NUMBER` - Looking for a value equal to or greater than the given number
-  - `"maximum": NUMBER` - Looking for a value equal to or less than the given number
-  - `"exact": NUMBER` - Looking for a value equal to the given number
-  - `"exact_any": ARRAY_NUMBER` - Looking for a value equal to any of the given numbers
 
 ---
 
@@ -326,7 +294,7 @@ Each `bestow_` property has a corresponding `remove_` property
   - PHANTOM focuses
 - Archetypes (under classes)
 - Races
-- Rules
+- ~~Rules~~
 - Universal Monster Rules (umr)
 
 ---
@@ -336,7 +304,6 @@ Each `bestow_` property has a corresponding `remove_` property
 - advanced armor training (dir)
 - advanced weapon training (dir)
 - spell definitions
-- SUMMON lists
 - bloodline mutations?
 - special materials
 - mythic paths
