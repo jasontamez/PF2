@@ -7,8 +7,8 @@ System should specify sheets and all relevant JSON files. The sheet should descr
 - Trait CREATURES, UNFINISHED, etc
 - classes: Wizard: improved familiars: celestial, fiendish, entropic (protean?), resolute templates
   - alignment_must_match_deity
-  - save/BAB formulas
   - change alignment_test into prerequisites
+- **Remove input/score/bonus distinction and just use typed scores**
 
 ## Types
 
