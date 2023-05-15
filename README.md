@@ -10,6 +10,8 @@ System should specify sheets and all relevant JSON files. The sheet should descr
   - change alignment_test into prerequisites
 - **Remove input/score/bonus distinction and just use typed scores**
 
+- ***Is "Adventurer's Guide" in sources? "Arcane Anthology"? "Black Markets"? "Alchemy Manual"? "Elemental Master's Handbook"?***
+
 ## Types
 
 ### `KEYS`
@@ -64,78 +66,6 @@ An object with properties declaring how certain properties are formatted:
 
 An object designed to be used as a query that returns either true or false; see the **Lookups** section below
 
-### `ShorthandLookupObject`
-
-An object with properties describing certain non-standard lookups that may be used; one of the properties below is generally required:
-
-```javascript
-{
-  "lookup1": {
-    "_value": ANY, // A lookup property; when the shorthand is called, it's value will be mapped to that property
-    "_value_suffix": STRING, // As above, but the shorthand's value is appended to the end of the given property; if an Array is given, the value is appended to every element of that Array
-    "_value_prefix": STRING, // Aa above, but the shorthand's value is prepended instead of appended
-    "_value_map": ARRAY_ANY // An Array of lookup properties; when the shorthand is called, it will map the incoming array to the listed properties in order
-    // (other lookup properties should be included; they will be included in the lookup whenever this shorthand is used)
-  }
-}
-```
-
-Example:
-
-```json
-{
-  "feat": {
-    "_value": "name",
-    "query": "feature",
-    "category": "feat"
-  },
-  "creature": {
-    "_value_suffix": "has_tag",
-    "query": "flag",
-    "has_tag": "species:"
-  },
-  "creature_any": {
-    "_value_prefix": "has_tag_any",
-    "query": "flag",
-    "has_tag_any": ":PC"
-  }
-}
-```
-
-So this:
-
-```json
-{
-  "feat": "Fancy!",
-  "creature": "borg",
-  "creature_any": [
-    "human",
-    "ferengi"
-  ]
-}
-```
-
-Becomes equal to these `LookupObjects`:
-
-```json
-{
-  "query": "feature",
-  "category": "feat",
-  "name": "Fancy!"
-},
-{
-  "query": "flag",
-  "has_tag": "species:borg"
-},
-{
-  "query": "flag",
-  "has_tag_any": [
-    "human:PC",
-    "ferengi:PC"
-  ]
-}
-```
-
 ---
 
 ## Terms
@@ -144,23 +74,19 @@ Becomes equal to these `LookupObjects`:
 
 ### `"input"`
 
-A `STRING`, `NUMBER` or `INTEGER` submitted by the end user
+An object that returns a `STRING`, `NUMBER` or `INTEGER`; usually, this value can be changed directly by the end user; its value is not necessarily dependant on other values
+
+#### `"info"`
+
+An Object that offers information to the end user
 
 #### `"feature"`
 
 An Object that describes some sort of interaction
 
-#### `"bonus"`
-
-A `NUMBER` or `INTEGER` that can be assigned to multiple things
-
-#### `"flag"`
-
-A static value that can be assigned to multiple things
-
 #### `"score"`
 
-An object that collects `inputs`, `bonuses` and/or `flags` and returns a value, usually an `INTEGER` or `NUMBER`
+An object that returns a value, usually an `INTEGER` or `NUMBER`; this differs from an `input` in that its value is entirely dependant on other `Values`
 
 ---
 

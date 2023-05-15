@@ -1,7 +1,6 @@
 {
 	"_TO-DO": [
 		"favored_weapon",
-		"Pharmimia has no alignment, probably needs to interface w/alignment",
 		"faiths.json"
 	],
 	"category": "deity",
@@ -81,6 +80,9 @@
 				"Taldan Pantheon"
 			],
 			"alignment": "LN",
+			"prerequisites": [
+				"find(L,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Cities, laws, merchants, wealth",
 			"domains": [
 				"Earth",
@@ -225,6 +227,9 @@
 			],
 			"pantheons": [ "Outer Gods" ],
 			"alignment": "CN",
+			"prerequisites": [
+				"find(C,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Disease, fercundity, oozes",
 			"domains": [
 				"Chaos",
@@ -276,6 +281,9 @@
 			],
 			"pantheons": [ "Demon Lords" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Forbidden lore, magic, snakes",
 			"domains": [
 				"Chaos",
@@ -360,6 +368,9 @@
 			],
 			"pantheons": [ "Azlanti Pantheon" ],
 			"alignment": "CN",
+			"prerequisites": [
+				"find(C,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Companionship, defensive battle, and the moon",
 			"domains": [
 				"Chaos",
@@ -403,6 +414,9 @@
 			],
 			"pantheons": [ "Other Deities" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Assassinations, divine punishment, the red mantis",
 			"domains": [
 				"Death",
@@ -498,6 +512,9 @@
 			],
 			"pantheons": [ "Giant Deities" ],
 			"alignment": "NG",
+			"prerequisites": [
+				"find(G,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Dreams, sailing, voyages",
 			"domains": [
 				"Good",
@@ -541,6 +558,9 @@
 			],
 			"pantheons": [ "Iblydan Hero-Gods" ],
 			"alignment": "N",
+			"prerequisites": [
+				"find(N,getInput(alignment))"
+			],
 			"areas_of_concern": "Contingencies, intelligent items",
 			"domains": [
 				"Artifice",
@@ -584,6 +604,9 @@
 			],
 			"pantheons": [ "Daemon Harbingers" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Immortality, liches, magical catastrophes",
 			"domains": [
 				"Death",
@@ -639,6 +662,9 @@
 			],
 			"pantheons": [ "Azlanti Pantheon" ],
 			"alignment": "LG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LG,NG,LN)"
+			],
 			"areas_of_concern": "Creation of life, health, and medicine",
 			"domains": [
 				"Artifice",
@@ -685,6 +711,9 @@
 			],
 			"pantheons": [ "Other Deities" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Death, destruction, and the moon",
 			"domains": [
 				"Darkness",
@@ -730,6 +759,9 @@
 			],
 			"pantheons": [ "Other Deities" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Destruction, div, nihilism",
 			"domains": [
 				"Darkness",
@@ -797,6 +829,9 @@
 			],
 			"pantheons": [ "Daemon Harbingers" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Mutilation, skinning, trophy taking",
 			"domains": [
 				"Death",
@@ -852,6 +887,9 @@
 			],
 			"pantheons": [ "Rakshasa Immortals" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "N/a",
 			"domains": [
 				"Animal",
@@ -899,6 +937,9 @@
 			],
 			"pantheons": [ "Oni Daimyo" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Battle, honor, martial arts",
 			"domains": [
 				"Evil",
@@ -945,6 +986,9 @@
 			],
 			"pantheons": [ "Other Deities" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Dreams, night hags, planar travel",
 			"domains": [
 				"Darkness",
@@ -993,6 +1037,9 @@
 			],
 			"pantheons": [ "Demon Lords" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Sand, scorpions, thirst",
 			"domains": [
 				"Animal",
@@ -1082,6 +1129,9 @@
 			],
 			"pantheons": [ "Malebranche" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Deception, madness, royalty",
 			"domains": [
 				"Evil",
@@ -1146,6 +1196,9 @@
 			],
 			"pantheons": [ "Infernal Dukes" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Beasts, hunters, tradition",
 			"domains": [
 				"Animal",
@@ -1210,6 +1263,9 @@
 			],
 			"pantheons": [ "Other Deities" ],
 			"alignment": "LN",
+			"prerequisites": [
+				"find(L,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Doors, transitions, years",
 			"domains": [
 				"Community",
@@ -1306,6 +1362,9 @@
 			],
 			"pantheons": [ "Azlanti Pantheon" ],
 			"alignment": "LN",
+			"prerequisites": [
+				"find(L,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Invention, magic, and secret knowledge",
 			"domains": [
 				"Artifice",
@@ -1346,6 +1405,9 @@
 			],
 			"pantheons": [ "Sahkil Tormentors" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Brutality, torture, wild animals",
 			"domains": [
 				"Animal",
@@ -1392,6 +1454,9 @@
 			],
 			"pantheons": [ "Asura Ranas" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Axes, dismemberment, torture",
 			"domains": [
 				"Death",
@@ -1445,6 +1510,9 @@
 				"Kobold Deities"
 			],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Knives, illusions, traps",
 			"domains": [
 				"Chaos",
@@ -1530,6 +1598,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "LG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LG,NG,LN)"
+			],
 			"areas_of_concern": "Consolation, respect, security",
 			"domains": [
 				"Good",
@@ -1604,6 +1675,9 @@
 			],
 			"pantheons": [ "Demon Lords" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Apes, jungles, tyrants",
 			"domains": [
 				"Animal",
@@ -1690,6 +1764,9 @@
 			],
 			"pantheons": [ "Dwarven Deities" ],
 			"alignment": "LG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LG,NG,LN)"
+			],
 			"areas_of_concern": "Fire, tradition, war",
 			"domains": [
 				"Fire",
@@ -1772,6 +1849,9 @@
 			],
 			"pantheons": [ "Daemon Harbingers" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Animal attacks, coups, revolution",
 			"domains": [
 				"Animal",
@@ -1827,6 +1907,9 @@
 			],
 			"pantheons": [ "Deities of Ancient Osirion" ],
 			"alignment": "LN",
+			"prerequisites": [
+				"find(L,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Burial, the dead, funeral rites, mummification, tombs",
 			"domains": [
 				"Death",
@@ -1869,6 +1952,9 @@
 			],
 			"pantheons": [ "Deities of Ancient Osirion" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Chaos, darkness, destruction, snakes",
 			"domains": [
 				"Chaos",
@@ -1920,6 +2006,9 @@
 			],
 			"pantheons": [ "Horsemen" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Pestilence",
 			"domains": [
 				"Air",
@@ -2002,6 +2091,9 @@
 				"Scalefolk Deities"
 			],
 			"alignment": "LG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LG,NG,LN)"
+			],
 			"areas_of_concern": "Good dragons, leadership, peace",
 			"domains": [
 				"Artifice",
@@ -2113,6 +2205,9 @@
 			],
 			"pantheons": [ "Other Deities" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Command of undeath, lichdom",
 			"domains": [
 				"Evil",
@@ -2201,6 +2296,9 @@
 			],
 			"pantheons": [ "Queens of the Night" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Seduction, snakes, women",
 			"domains": [
 				"Charm",
@@ -2279,6 +2377,9 @@
 			],
 			"pantheons": [ "Demon Lords" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Greed, portals, riddles",
 			"domains": [
 				"Air",
@@ -2363,6 +2464,9 @@
 			],
 			"pantheons": [ "Daemon Harbingers" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Dehumanization, disposal, euthanasia",
 			"domains": [
 				"Community",
@@ -2418,6 +2522,9 @@
 			],
 			"pantheons": [ "Dead Deities" ],
 			"alignment": "LN",
+			"prerequisites": [
+				"find(L,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Humanity, innovation, history, culture, and fulfillment of destiny",
 			"domains": [
 				"Community",
@@ -2462,6 +2569,9 @@
 			],
 			"pantheons": [ "Kyton Demagogues" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Possibility, revenge, sanctuary",
 			"domains": [
 				"Evil",
@@ -2511,6 +2621,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "LG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LG,NG,LN)"
+			],
 			"areas_of_concern": "Bodyguards, protection, watchfulness",
 			"domains": [
 				"Good",
@@ -2583,6 +2696,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "NG",
+			"prerequisites": [
+				"find(G,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Freedom, physical beauty, sexuality",
 			"domains": [
 				"Charm",
@@ -2651,6 +2767,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "CG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CG,NG,CN)"
+			],
 			"areas_of_concern": "Dancers, lonely spirits, moonlight",
 			"domains": [
 				"Chaos",
@@ -2748,6 +2867,9 @@
 			],
 			"pantheons": [ "Other Deities" ],
 			"alignment": "CN",
+			"prerequisites": [
+				"find(C,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Canyons, cliffs, gorges, and ravines",
 			"domains": [
 				"Chaos",
@@ -2802,6 +2924,9 @@
 				"Order of the God Claw Pantheon"
 			],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Contracts, pride, slavery, tyranny",
 			"domains": [
 				"Evil",
@@ -2963,6 +3088,9 @@
 			],
 			"pantheons": [ "Great Old Ones" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Construction, futility, spiders",
 			"domains": [
 				"Artifice",
@@ -3009,6 +3137,9 @@
 			],
 			"pantheons": [ "Psychopomp Usher" ],
 			"alignment": "N",
+			"prerequisites": [
+				"find(N,getInput(alignment))"
+			],
 			"areas_of_concern": "Fate, sleep, and youth",
 			"domains": [
 				"Darkness",
@@ -3056,6 +3187,9 @@
 			],
 			"pantheons": [ "Elemental Lords" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Buried secrets, earth, metal",
 			"domains": [
 				"Destruction",
@@ -3109,6 +3243,9 @@
 			],
 			"pantheons": [ "Outer Gods" ],
 			"alignment": "CN",
+			"prerequisites": [
+				"find(C,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Entropy, madness, mindless destruction",
 			"domains": [
 				"Chaos",
@@ -3166,6 +3303,9 @@
 			],
 			"pantheons": [ "Archdevils" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Arrogance, flies, lies",
 			"domains": [
 				"Air",
@@ -3243,6 +3383,9 @@
 			],
 			"pantheons": [ "Demon Lords" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Beasts, labyrinths, minotaurs",
 			"domains": [
 				"Animal",
@@ -3360,6 +3503,9 @@
 			],
 			"pantheons": [ "Malebranche" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Fecundity, predators, slaughter",
 			"domains": [
 				"Animal",
@@ -3424,6 +3570,9 @@
 			],
 			"pantheons": [ "Archdevils" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Animals, corruption, gateways",
 			"domains": [
 				"Evil",
@@ -3498,6 +3647,9 @@
 			],
 			"pantheons": [ "Kyton Demagogues" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "The elderly, fatalistic insights, resurrection",
 			"domains": [
 				"Death",
@@ -3547,6 +3699,9 @@
 			],
 			"pantheons": [ "Psychopomp Usher" ],
 			"alignment": "N",
+			"prerequisites": [
+				"find(N,getInput(alignment))"
+			],
 			"areas_of_concern": "Compasses, travelers, and vigils",
 			"domains": [
 				"Knowledge",
@@ -3627,6 +3782,9 @@
 			],
 			"pantheons": [ "Deities of Ancient Osirion" ],
 			"alignment": "CN",
+			"prerequisites": [
+				"find(C,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Cats, pleasure, secrets",
 			"domains": [
 				"Animal",
@@ -3672,6 +3830,9 @@
 			],
 			"pantheons": [ "Archdevils" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Adultery, deception, desire",
 			"domains": [
 				"Charm",
@@ -3744,6 +3905,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "NG",
+			"prerequisites": [
+				"find(G,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Hidden wonders, mines, subterranean creatures",
 			"domains": [
 				"Darkness",
@@ -3795,6 +3959,9 @@
 			],
 			"pantheons": [ "Giant Deities" ],
 			"alignment": "CG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CG,NG,CN)"
+			],
 			"areas_of_concern": "Elders, family, genealogy",
 			"domains": [
 				"Chaos",
@@ -3841,6 +4008,9 @@
 			],
 			"pantheons": [ "Deities of Ancient Osirion" ],
 			"alignment": "NG",
+			"prerequisites": [
+				"find(G,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Households, luck, marriage, protection",
 			"domains": [
 				"Community",
@@ -3887,6 +4057,9 @@
 			],
 			"pantheons": [ "Other Deities" ],
 			"alignment": "CN",
+			"prerequisites": [
+				"find(C,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Piracy, sea monsters, strife",
 			"domains": [
 				"Chaos",
@@ -4007,6 +4180,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "NG",
+			"prerequisites": [
+				"find(G,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Creativity, invention, persistence",
 			"domains": [
 				"Artifice",
@@ -4073,6 +4249,9 @@
 			],
 			"pantheons": [ "Infernal Dukes" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Fate, luck, patterns",
 			"domains": [
 				"Artifice",
@@ -4137,6 +4316,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "CG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CG,NG,CN)"
+			],
 			"areas_of_concern": "Distance, silence, space",
 			"domains": [
 				"Chaos",
@@ -4199,6 +4381,9 @@
 			],
 			"pantheons": [ "Asura Ranas" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Avarice, meditation, vigilance",
 			"domains": [
 				"Evil",
@@ -4245,6 +4430,9 @@
 			],
 			"pantheons": [ "Great Old Ones" ],
 			"alignment": "CN",
+			"prerequisites": [
+				"find(C,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Revenge, storms, water",
 			"domains": [
 				"Chaos",
@@ -4298,6 +4486,9 @@
 			],
 			"pantheons": [ "Dwarven Deities" ],
 			"alignment": "NG",
+			"prerequisites": [
+				"find(G,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Beauty, desire, love",
 			"domains": [
 				"Charm",
@@ -4354,6 +4545,9 @@
 			],
 			"pantheons": [ "Daemon Harbingers" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Broken deals, fine print, unfair bargains",
 			"domains": [
 				"Evil",
@@ -4415,6 +4609,9 @@
 				"Gnomish Deities"
 			],
 			"alignment": "N",
+			"prerequisites": [
+				"find(N,getInput(alignment))"
+			],
 			"areas_of_concern": "Clockwork, invention, time",
 			"domains": [
 				"Artifice",
@@ -4519,6 +4716,9 @@
 			],
 			"pantheons": [ "Rakshasa Immortals" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "N/a",
 			"domains": [
 				"Animal",
@@ -4566,6 +4766,9 @@
 			],
 			"pantheons": [ "Rakshasa Immortals" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "N/a",
 			"domains": [
 				"Animal",
@@ -4616,6 +4819,9 @@
 			],
 			"pantheons": [ "Malebranche" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Elusiveness, fear, murder",
 			"domains": [
 				"Death",
@@ -4680,6 +4886,9 @@
 			],
 			"pantheons": [ "Malebranche" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Dreams, insanity, mystery",
 			"domains": [
 				"Evil",
@@ -4750,6 +4959,9 @@
 				"Elven Deities"
 			],
 			"alignment": "CN",
+			"prerequisites": [
+				"find(C,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Lust, revenge, trickery",
 			"domains": [
 				"Chaos",
@@ -4904,6 +5116,9 @@
 			],
 			"pantheons": [ "Other Deities" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Bats, blood, caverns, nocturnal predators",
 			"domains": [
 				"Animal",
@@ -4963,6 +5178,9 @@
 				"Taldan Pantheon"
 			],
 			"alignment": "CG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CG,NG,CN)"
+			],
 			"areas_of_concern": "Ale, bravery, freedom, wine",
 			"domains": [
 				"Chaos",
@@ -5104,6 +5322,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "CG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CG,NG,CN)"
+			],
 			"areas_of_concern": "Fertility, seasons, wild animals",
 			"domains": [
 				"Animal",
@@ -5156,6 +5377,9 @@
 			],
 			"pantheons": [ "Psychopomp Usher" ],
 			"alignment": "N",
+			"prerequisites": [
+				"find(N,getInput(alignment))"
+			],
 			"areas_of_concern": "Final words, lost souls, and searches",
 			"domains": [
 				"Community",
@@ -5206,6 +5430,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "CG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CG,NG,CN)"
+			],
 			"areas_of_concern": "Fate, safety, serendipity",
 			"domains": [
 				"Chaos",
@@ -5271,6 +5498,9 @@
 			],
 			"pantheons": [ "Halfling Deities" ],
 			"alignment": "NG",
+			"prerequisites": [
+				"find(G,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Battle, luck, mischief",
 			"domains": [
 				"Good",
@@ -5333,6 +5563,9 @@
 			],
 			"pantheons": [ "Sahkil Tormentors" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Domination, hopelessness, mortality",
 			"domains": [
 				"Death",
@@ -5379,6 +5612,9 @@
 			],
 			"pantheons": [ "Sahkil Tormentors" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Catastrophic decline, detrimental complacency, monsters",
 			"domains": [
 				"Destruction",
@@ -5433,6 +5669,9 @@
 			],
 			"pantheons": [ "Horsemen" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Death",
 			"domains": [
 				"Death",
@@ -5508,6 +5747,9 @@
 			],
 			"pantheons": [ "Great Old Ones" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Blood, patience, remote hill country",
 			"domains": [
 				"Chaos",
@@ -5557,6 +5799,9 @@
 			],
 			"pantheons": [ "Qlippoth Lords" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Fiery consumption, monstrous recursion",
 			"domains": [
 				"Chaos",
@@ -5608,6 +5853,9 @@
 			],
 			"pantheons": [ "Oni Daimyo" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Ambushes, hunting, traps",
 			"domains": [
 				"Artifice",
@@ -5653,6 +5901,9 @@
 			],
 			"pantheons": [ "Iblydan Hero-Gods" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Tragedy, sacrifice",
 			"domains": [
 				"Evil",
@@ -5700,6 +5951,9 @@
 			],
 			"pantheons": [ "Iblydan Hero-Gods" ],
 			"alignment": "NG",
+			"prerequisites": [
+				"find(G,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Tragedy, sacrifice",
 			"domains": [
 				"Good",
@@ -5750,6 +6004,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "CG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CG,NG,CN)"
+			],
 			"areas_of_concern": "Dreams, hallucinations, mists",
 			"domains": [
 				"Chaos",
@@ -5809,6 +6066,9 @@
 			],
 			"pantheons": [ "Asura Ranas" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Blood, butchers, leather",
 			"domains": [
 				"Death",
@@ -5855,6 +6115,9 @@
 			],
 			"pantheons": [ "Asura Ranas" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Mist, poison, veils",
 			"domains": [
 				"Air",
@@ -5901,6 +6164,9 @@
 			],
 			"pantheons": [ "Other Deities" ],
 			"alignment": "NG",
+			"prerequisites": [
+				"find(G,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Childbirth, protection, and warfare",
 			"domains": [
 				"Good",
@@ -5946,6 +6212,9 @@
 			],
 			"pantheons": [ "Malebranche" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Gluttony, greed, undead",
 			"domains": [
 				"Death",
@@ -6010,6 +6279,9 @@
 			],
 			"pantheons": [ "Daemon Harbingers" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Electricity, gunpowder, poisonous metals",
 			"domains": [
 				"Artifice",
@@ -6073,6 +6345,9 @@
 			],
 			"pantheons": [ "Daemon Harbingers" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Failed martyrdom, false worship, ritual death",
 			"domains": [
 				"Death",
@@ -6128,6 +6403,9 @@
 			],
 			"pantheons": [ "Eldest" ],
 			"alignment": "CN",
+			"prerequisites": [
+				"find(C,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Betrayal, exiles, shadows",
 			"domains": [
 				"Chaos",
@@ -6194,6 +6472,9 @@
 			],
 			"pantheons": [ "Infernal Dukes" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Hidden waters, illusion, language",
 			"domains": [
 				"Evil",
@@ -6255,6 +6536,9 @@
 			],
 			"pantheons": [ "Great Old Ones" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Cataclysms, dreams, the stars",
 			"domains": [
 				"Chaos",
@@ -6312,6 +6596,9 @@
 			],
 			"pantheons": [ "Demon Lords" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Disease, fungus, parasites",
 			"domains": [
 				"Chaos",
@@ -6400,6 +6687,9 @@
 			],
 			"pantheons": [ "Sahkil Tormentors" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Deadly pranks, stalkers, sudden death",
 			"domains": [
 				"Charm",
@@ -6449,6 +6739,9 @@
 			],
 			"pantheons": [ "Nascent Demon Lords" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Carrion, scavengers",
 			"domains": [
 				"Animal",
@@ -6516,6 +6809,9 @@
 			],
 			"pantheons": [ "Demon Lords" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Deformity, sea monsters, the sea",
 			"domains": [
 				"Chaos",
@@ -6604,6 +6900,9 @@
 				"Scalefolk Deities"
 			],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Destruction, evil dragons, greed",
 			"domains": [
 				"Chaos",
@@ -6710,6 +7009,9 @@
 			],
 			"pantheons": [ "Deities of Tian Xia" ],
 			"alignment": "N",
+			"prerequisites": [
+				"find(N,getInput(alignment))"
+			],
 			"areas_of_concern": "Agriculture, craftsmanship, kitsune, rice",
 			"domains": [
 				"Animal",
@@ -6759,6 +7061,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "NG",
+			"prerequisites": [
+				"find(G,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Battlefield healing, caregiving, sanctuaries",
 			"domains": [
 				"Good",
@@ -6815,6 +7120,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "LG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LG,NG,LN)"
+			],
 			"areas_of_concern": "Executions, judiciousness, responsibility",
 			"domains": [
 				"Death",
@@ -6877,6 +7185,9 @@
 			],
 			"pantheons": [ "Psychopomp Usher" ],
 			"alignment": "N",
+			"prerequisites": [
+				"find(N,getInput(alignment))"
+			],
 			"areas_of_concern": "Liquor, luck, and medicine",
 			"domains": [
 				"Healing",
@@ -6929,6 +7240,9 @@
 			],
 			"pantheons": [ "Demon Lords" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Chasms, infestations, locusts",
 			"domains": [
 				"Chaos",
@@ -7047,6 +7361,9 @@
 				"Sandpoint Pantheon"
 			],
 			"alignment": "CG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CG,NG,CN)"
+			],
 			"areas_of_concern": "Dreams, luck, stars, travelers",
 			"domains": [
 				"Chaos",
@@ -7199,6 +7516,9 @@
 			],
 			"pantheons": [ "Infernal Dukes" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Apprehension, promises, terror",
 			"domains": [
 				"Darkness",
@@ -7260,6 +7580,9 @@
 			],
 			"pantheons": [ "Other Deities" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Secrets, discord, eclipses",
 			"domains": [
 				"Destruction",
@@ -7297,6 +7620,9 @@
 			],
 			"pantheons": [ "Daemon Harbingers" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Invasive species, extinction, natural disaster",
 			"domains": [
 				"Animal",
@@ -7355,6 +7681,9 @@
 			],
 			"pantheons": [ "Archdevils" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Cities, prisons, rulership",
 			"domains": [
 				"Evil",
@@ -7434,6 +7763,9 @@
 			],
 			"pantheons": [ "Queens of the Night" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Detachment, dispassion, pain",
 			"domains": [
 				"Destruction",
@@ -7499,6 +7831,9 @@
 			],
 			"pantheons": [ "Rakshasa Immortals" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "N/a",
 			"domains": [
 				"Animal",
@@ -7550,6 +7885,9 @@
 			],
 			"pantheons": [ "Malebranche" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Devastation, monsters, patience",
 			"domains": [
 				"Destruction",
@@ -7620,6 +7958,9 @@
 			],
 			"pantheons": [ "Dwarven Deities" ],
 			"alignment": "LN",
+			"prerequisites": [
+				"find(L,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Debt, pursuit, vengeance",
 			"domains": [
 				"Knowledge",
@@ -7671,6 +8012,9 @@
 			],
 			"pantheons": [ "Orc Deities" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Birth, fertility, tribes",
 			"domains": [
 				"Chaos",
@@ -7715,6 +8059,9 @@
 			],
 			"pantheons": [ "Iblydan Hero-Gods" ],
 			"alignment": "N",
+			"prerequisites": [
+				"find(N,getInput(alignment))"
+			],
 			"areas_of_concern": "none",
 			"domains": [
 				"Animal",
@@ -7748,6 +8095,9 @@
 			],
 			"pantheons": [ "Dwarven Deities" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Cheating, slavery, toil",
 			"domains": [
 				"Artifice",
@@ -7810,6 +8160,9 @@
 			],
 			"pantheons": [ "Daemon Harbingers" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Regression, reversion, savage revenge",
 			"domains": [
 				"Animal",
@@ -7868,6 +8221,9 @@
 			],
 			"pantheons": [ "Infernal Dukes" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Depression, nooses, sad stories",
 			"domains": [
 				"Evil",
@@ -7929,6 +8285,9 @@
 			],
 			"pantheons": [ "Other Deities" ],
 			"alignment": "LG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LG,NG,LN)"
+			],
 			"areas_of_concern": "Avians, gold, the sun",
 			"domains": [
 				"Animal",
@@ -7977,6 +8336,9 @@
 			],
 			"pantheons": [ "Queens of the Night" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Battle, revenge, wrath",
 			"domains": [
 				"Destruction",
@@ -8042,6 +8404,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "LG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LG,NG,LN)"
+			],
 			"areas_of_concern": "Architecture, masonry, planning",
 			"domains": [
 				"Artifice",
@@ -8097,6 +8462,9 @@
 			],
 			"pantheons": [ "Infernal Dukes" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Flight, soldiers, watchfulness",
 			"domains": [
 				"Air",
@@ -8158,6 +8526,9 @@
 			],
 			"pantheons": [ "Azlanti Pantheon" ],
 			"alignment": "CG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CG,NG,CN)"
+			],
 			"areas_of_concern": "Colonization, discovery, and exploration",
 			"domains": [
 				"Chaos",
@@ -8214,6 +8585,9 @@
 				"Sandpoint Pantheon"
 			],
 			"alignment": "LG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LG,NG,LN)"
+			],
 			"areas_of_concern": "Family, farming, hunting, trade",
 			"domains": [
 				"Animal",
@@ -8369,6 +8743,9 @@
 			],
 			"pantheons": [ "Other Deities" ],
 			"alignment": "LN",
+			"prerequisites": [
+				"find(L,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Deduction, mind reading, subtlety",
 			"domains": [
 				"Knowledge",
@@ -8418,6 +8795,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "NG",
+			"prerequisites": [
+				"find(G,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Debate, opinions, truth",
 			"domains": [
 				"Charm",
@@ -8483,6 +8863,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "LG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LG,NG,LN)"
+			],
 			"areas_of_concern": "Femininity, martial training, rings",
 			"domains": [
 				"Good",
@@ -8548,6 +8931,9 @@
 			],
 			"pantheons": [ "Giant Deities" ],
 			"alignment": "N",
+			"prerequisites": [
+				"find(N,getInput(alignment))"
+			],
 			"areas_of_concern": "Cycle of life, earth, knowledge",
 			"domains": [
 				"Community",
@@ -8603,6 +8989,9 @@
 			],
 			"pantheons": [ "Malebranche" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Antiquity, death, mists",
 			"domains": [
 				"Death",
@@ -8664,6 +9053,9 @@
 			],
 			"pantheons": [ "Other Deities" ],
 			"alignment": "N",
+			"prerequisites": [
+				"find(N,getInput(alignment))"
+			],
 			"areas_of_concern": "Fertility, sacred fires, wildlife",
 			"domains": [
 				"Destruction",
@@ -8708,6 +9100,9 @@
 			],
 			"pantheons": [ "Kyton Demagogues" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Experience, murder, patterns",
 			"domains": [
 				"Evil",
@@ -8754,6 +9149,9 @@
 			],
 			"pantheons": [ "Elven Deities" ],
 			"alignment": "CG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CG,NG,CN)"
+			],
 			"areas_of_concern": "Architecture, art, twilight",
 			"domains": [
 				"Air",
@@ -8813,6 +9211,9 @@
 			],
 			"pantheons": [ "Demon Lords" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Fire, salamanders, volcanoes",
 			"domains": [
 				"Chaos",
@@ -8897,6 +9298,9 @@
 			],
 			"pantheons": [ "Daemon Harbingers" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Abduction, strangers, sweets",
 			"domains": [
 				"Charm",
@@ -8952,6 +9356,9 @@
 			],
 			"pantheons": [ "Dwarven Deities" ],
 			"alignment": "LG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LG,NG,LN)"
+			],
 			"areas_of_concern": "Children, hearths, mothers",
 			"domains": [
 				"Community",
@@ -9012,6 +9419,9 @@
 			],
 			"pantheons": [ "Deities of Tian Xia" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Dishonor, envy, graves, undead",
 			"domains": [
 				"Death",
@@ -9062,6 +9472,9 @@
 			],
 			"pantheons": [ "Infernal Dukes" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Duty, flames, herbalism",
 			"domains": [
 				"Evil",
@@ -9126,6 +9539,9 @@
 			],
 			"pantheons": [ "Infernal Dukes" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Divination, illusion, water",
 			"domains": [
 				"Evil",
@@ -9187,6 +9603,9 @@
 			],
 			"pantheons": [ "Asura Ranas" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Corruption, indoctrination, lies",
 			"domains": [
 				"Community",
@@ -9236,6 +9655,9 @@
 			],
 			"pantheons": [ "Deities of Tian Xia" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Archery, horses, personal glory, war",
 			"domains": [
 				"Evil",
@@ -9300,6 +9722,9 @@
 			],
 			"pantheons": [ "Daemon Harbingers" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Nightmares, quartering, trampling",
 			"domains": [
 				"Air",
@@ -9358,6 +9783,9 @@
 			],
 			"pantheons": [ "Archdevils" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Forbidden knowledge, heresy, snakes",
 			"domains": [
 				"Evil",
@@ -9462,6 +9890,9 @@
 			],
 			"pantheons": [ "Great Old Ones" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Disasters, lost islands, sacrifice",
 			"domains": [
 				"Destruction",
@@ -9511,6 +9942,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "LG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LG,NG,LN)"
+			],
 			"areas_of_concern": "Ignorance, placidity, simplicity",
 			"domains": [
 				"Community",
@@ -9573,6 +10007,9 @@
 			],
 			"pantheons": [ "Other Deities" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Infection, parasites, stagnation",
 			"domains": [
 				"Air",
@@ -9672,6 +10109,9 @@
 			],
 			"pantheons": [ "Demon Lords" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Amphibians, boggards, swamps",
 			"domains": [
 				"Chaos",
@@ -9758,6 +10198,9 @@
 			],
 			"pantheons": [ "Core Deities" ],
 			"alignment": "CN",
+			"prerequisites": [
+				"find(C,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Battle, strength, weapons",
 			"domains": [
 				"Chaos",
@@ -9911,6 +10354,9 @@
 				"Sandpoint Pantheon"
 			],
 			"alignment": "N",
+			"prerequisites": [
+				"find(N,getInput(alignment))"
+			],
 			"areas_of_concern": "Nature, the sea, weather",
 			"domains": [
 				"Air",
@@ -10045,6 +10491,9 @@
 			],
 			"pantheons": [ "Malebranche" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Corruption, elusiveness, vermin",
 			"domains": [
 				"Animal",
@@ -10106,6 +10555,9 @@
 			],
 			"pantheons": [ "Other Deities" ],
 			"alignment": "N",
+			"prerequisites": [
+				"find(N,getInput(alignment))"
+			],
 			"areas_of_concern": "Twilight, weaving, illusion, and family",
 			"domains": [
 				"Charm",
@@ -10174,6 +10626,9 @@
 			],
 			"pantheons": [ "Other Deities" ],
 			"alignment": "CN",
+			"prerequisites": [
+				"find(C,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Empty places, oblivion, ruins",
 			"domains": [
 				"Chaos",
@@ -10270,6 +10725,9 @@
 			],
 			"pantheons": [ "Other Deities" ],
 			"alignment": "LG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LG,NG,LN)"
+			],
 			"areas_of_concern": "The Vudrani holy book",
 			"domains": [
 				"Animals",
@@ -10345,6 +10803,9 @@
 			],
 			"pantheons": [ "Dwarven Deities" ],
 			"alignment": "LG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LG,NG,LN)"
+			],
 			"areas_of_concern": "Friendship, loyalty, peace",
 			"domains": [
 				"Community",
@@ -10397,6 +10858,9 @@
 			],
 			"pantheons": [ "Oni Daimyo" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Piracy, tea, tsunamis",
 			"domains": [
 				"Chaos",
@@ -10443,6 +10907,9 @@
 			],
 			"pantheons": [ "Other Deities" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Extortion, hatred, spite",
 			"domains": [
 				"Chaos",
@@ -10532,6 +10999,9 @@
 			],
 			"pantheons": [ "Demon Lords" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Alchemy, invention, transformation",
 			"domains": [
 				"Artifice",
@@ -10619,6 +11089,9 @@
 			],
 			"pantheons": [ "Infernal Dukes" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Immolation, renewal, shackles",
 			"domains": [
 				"Evil",
@@ -10680,6 +11153,9 @@
 			],
 			"pantheons": [ "Goblin Hero-Gods" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Goblin supremacy, slavery, territory",
 			"domains": [
 				"Evil",
@@ -10769,6 +11245,9 @@
 			],
 			"pantheons": [ "Giant Deities" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Darkness, inbreeding, ogres",
 			"domains": [
 				"Chaos",
@@ -10817,6 +11296,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "NG",
+			"prerequisites": [
+				"find(G,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Gardens, orchards, wine",
 			"domains": [
 				"Good",
@@ -10878,6 +11360,9 @@
 			],
 			"pantheons": [ "Other Deities" ],
 			"alignment": "CN",
+			"prerequisites": [
+				"find(C,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "River travel, rivers, smugglers",
 			"domains": [
 				"Chaos",
@@ -10967,6 +11452,9 @@
 			],
 			"pantheons": [ "Daemon Harbingers" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Explosions, immolation, pyromaniacs",
 			"domains": [
 				"Destruction",
@@ -11022,6 +11510,9 @@
 			],
 			"pantheons": [ "Great Old Ones" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Decadence, disorder, nihilism",
 			"domains": [
 				"Chaos",
@@ -11105,6 +11596,9 @@
 			],
 			"pantheons": [ "Sahkil Tormentors" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Drought, drowning, stagnation",
 			"domains": [
 				"Evil",
@@ -11151,6 +11645,9 @@
 			],
 			"pantheons": [ "Deities of Ancient Osirion" ],
 			"alignment": "CG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CG,NG,CN)"
+			],
 			"areas_of_concern": "Dance, joy, love, music, the sky",
 			"domains": [
 				"Air",
@@ -11197,6 +11694,9 @@
 			],
 			"pantheons": [ "Deities of Tian Xia" ],
 			"alignment": "CN",
+			"prerequisites": [
+				"find(C,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Sea, storms, thunder, wind",
 			"domains": [
 				"Air",
@@ -11288,6 +11788,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "CG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CG,NG,CN)"
+			],
 			"areas_of_concern": "Connections, matchmaking, synergy",
 			"domains": [
 				"Chaos",
@@ -11340,6 +11843,9 @@
 			],
 			"pantheons": [ "Deities of Ancient Osirion" ],
 			"alignment": "LN",
+			"prerequisites": [
+				"find(L,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Rulership, the sky, the sun",
 			"domains": [
 				"Air",
@@ -11382,6 +11888,9 @@
 			],
 			"pantheons": [ "Elemental Lords" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Air, last breaths, windstorms",
 			"domains": [
 				"Air",
@@ -11432,6 +11941,9 @@
 			],
 			"pantheons": [ "Rakshasa Immortals" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "N/a",
 			"domains": [
 				"Animal",
@@ -11479,6 +11991,9 @@
 			],
 			"pantheons": [ "Asura Ranas" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Eternity, hunger, madness",
 			"domains": [
 				"Evil",
@@ -11528,6 +12043,9 @@
 			],
 			"pantheons": [ "Infernal Dukes" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Authority, hubris, liars",
 			"domains": [
 				"Destruction",
@@ -11589,6 +12107,9 @@
 			],
 			"pantheons": [ "Iblydan Hero-Gods" ],
 			"alignment": "N",
+			"prerequisites": [
+				"find(N,getInput(alignment))"
+			],
 			"areas_of_concern": "Monstrous heritage, acceptance",
 			"domains": [
 				"Community",
@@ -11640,6 +12161,9 @@
 			],
 			"pantheons": [ "Sahkil Tormentors" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Darkness, empty places, pits",
 			"domains": [
 				"Darkness",
@@ -11686,6 +12210,9 @@
 			],
 			"pantheons": [ "Protean Lord" ],
 			"alignment": "CN",
+			"prerequisites": [
+				"find(C,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Formlessness, loss of control, and potential",
 			"domains": [
 				"Animal",
@@ -11733,6 +12260,9 @@
 			],
 			"pantheons": [ "Eldest" ],
 			"alignment": "LN",
+			"prerequisites": [
+				"find(L,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Endings, statues, twins",
 			"domains": [
 				"Community",
@@ -11799,6 +12329,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "CG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CG,NG,CN)"
+			],
 			"areas_of_concern": "Herbs, medicine, toads",
 			"domains": [
 				"Chaos",
@@ -11863,6 +12396,9 @@
 			],
 			"pantheons": [ "Psychopomp Usher" ],
 			"alignment": "N",
+			"prerequisites": [
+				"find(N,getInput(alignment))"
+			],
 			"areas_of_concern": "Inevitably, mathematics, and portents",
 			"domains": [
 				"Luck",
@@ -11910,6 +12446,9 @@
 			],
 			"pantheons": [ "Kyton Demagogues" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Absolute cold, preservation, solitude",
 			"domains": [
 				"Evil",
@@ -11961,6 +12500,9 @@
 			],
 			"pantheons": [ "Oni Daimyo" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Lavish wealth, origami, servitude",
 			"domains": [
 				"Community",
@@ -12017,6 +12559,9 @@
 				"Order of the God Claw Pantheon"
 			],
 			"alignment": "LG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LG,NG,LN)"
+			],
 			"areas_of_concern": "Honor, justice, rulership, valor",
 			"domains": [
 				"Glory",
@@ -12177,6 +12722,9 @@
 			],
 			"pantheons": [ "Asura Ranas" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Caverns, Cliffs, Premature Burials",
 			"domains": [
 				"Death",
@@ -12226,6 +12774,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "NG",
+			"prerequisites": [
+				"find(G,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Cards, scribes, spells",
 			"domains": [
 				"Good",
@@ -12298,6 +12849,9 @@
 				"Vudrani Pantheon"
 			],
 			"alignment": "LN",
+			"prerequisites": [
+				"find(L,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "History, knowledge, self-perfection",
 			"domains": [
 				"Healing",
@@ -12466,6 +13020,9 @@
 			],
 			"pantheons": [ "Deities of Ancient Osirion" ],
 			"alignment": "NG",
+			"prerequisites": [
+				"find(G,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Fertility, magic, motherhood, rebirth",
 			"domains": [
 				"Charm",
@@ -12511,6 +13068,9 @@
 			],
 			"pantheons": [ "Qlippoth Lords" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Infestation of the flesh, poisonous wind",
 			"domains": [
 				"Air",
@@ -12562,6 +13122,9 @@
 			],
 			"pantheons": [ "Great Old Ones" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Cannibalism, cold, the wind",
 			"domains": [
 				"Air",
@@ -12612,6 +13175,9 @@
 			],
 			"pantheons": [ "Nascent Demon Lords" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Angry mobs, ants",
 			"domains": [
 				"Chaos",
@@ -12683,6 +13249,9 @@
 			],
 			"pantheons": [ "Daemon Harbingers" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Hobbling, lobotomizing, slavery",
 			"domains": [
 				"Death",
@@ -12738,6 +13307,9 @@
 			],
 			"pantheons": [ "Azlanti Pantheon" ],
 			"alignment": "NG",
+			"prerequisites": [
+				"find(G,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Agriculture, hard work, and self-sufficiency",
 			"domains": [
 				"Animal",
@@ -12786,6 +13358,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "NG",
+			"prerequisites": [
+				"find(G,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Cowards, the untested, youths",
 			"domains": [
 				"Glory",
@@ -12852,6 +13427,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "CG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CG,NG,CN)"
+			],
 			"areas_of_concern": "Natural music, rapids, waterfalls",
 			"domains": [
 				"Chaos",
@@ -12914,6 +13492,9 @@
 			],
 			"pantheons": [ "Primal Inevitable" ],
 			"alignment": "LN",
+			"prerequisites": [
+				"find(L,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Planes, planetary orbits, and separation",
 			"domains": [
 				"Earth",
@@ -12965,6 +13546,9 @@
 			],
 			"pantheons": [ "Demon Lords" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Desolation, the moon, werewolves",
 			"domains": [
 				"Animal",
@@ -13049,6 +13633,9 @@
 			],
 			"pantheons": [ "Infernal Dukes" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Debility, dependence, frailty",
 			"domains": [
 				"Community",
@@ -13114,6 +13701,9 @@
 			],
 			"pantheons": [ "Demon Lords" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Ooze, poison, sloth",
 			"domains": [
 				"Chaos",
@@ -13195,6 +13785,9 @@
 			],
 			"pantheons": [ "Rakshasa Immortals" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "N/a",
 			"domains": [
 				"Animal",
@@ -13247,6 +13840,9 @@
 			],
 			"pantheons": [ "Demon Lords" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Ghouls, graves, secrets kept by the dead",
 			"domains": [
 				"Chaos",
@@ -13347,6 +13943,9 @@
 			],
 			"pantheons": [ "Kyton Demagogues" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Experimentation, physical merger, stiches",
 			"domains": [
 				"Community",
@@ -13396,6 +13995,9 @@
 			],
 			"pantheons": [ "Infernal Dukes" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Burial rites, death, insects",
 			"domains": [
 				"Animal",
@@ -13457,6 +14059,9 @@
 			],
 			"pantheons": [ "Other Deities" ],
 			"alignment": "NG",
+			"prerequisites": [
+				"find(G,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Community, liberty, and  safety",
 			"domains": [
 				"Community",
@@ -13533,6 +14138,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "LG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LG,NG,LN)"
+			],
 			"areas_of_concern": "Intelligence, spies, stealth",
 			"domains": [
 				"Darkness",
@@ -13586,6 +14194,9 @@
 			],
 			"pantheons": [ "Elemental Lords" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Drowning, water, waves",
 			"domains": [
 				"Destruction",
@@ -13637,6 +14248,9 @@
 			],
 			"pantheons": [ "Iblydan Hero-Gods" ],
 			"alignment": "NG",
+			"prerequisites": [
+				"find(G,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Hero-god of gardens, orchards, and terraces",
 			"domains": [
 				"Good",
@@ -13680,6 +14294,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "CG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CG,NG,CN)"
+			],
 			"areas_of_concern": "Natural formations, sunsets, vistas",
 			"domains": [
 				"Chaos",
@@ -13732,6 +14349,9 @@
 			],
 			"pantheons": [ "Primal Inevitable" ],
 			"alignment": "LN",
+			"prerequisites": [
+				"find(L,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Emptiness, entropy, and stillness",
 			"domains": [
 				"Darkness",
@@ -13782,6 +14402,9 @@
 			],
 			"pantheons": [ "Elven Deities" ],
 			"alignment": "CG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CG,NG,CN)"
+			],
 			"areas_of_concern": "Forestry, hunting, the moon",
 			"domains": [
 				"Animal",
@@ -13868,6 +14491,9 @@
 			],
 			"pantheons": [ "Deities of Ancient Osirion" ],
 			"alignment": "NG",
+			"prerequisites": [
+				"find(G,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Freedom, the rising sun, work",
 			"domains": [
 				"Artifice",
@@ -13910,6 +14536,9 @@
 			],
 			"pantheons": [ "Other Deities" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Fireflies, hibernation, swarms",
 			"domains": [
 				"Animal",
@@ -13957,6 +14586,9 @@
 			],
 			"pantheons": [ "Deities of Tian Xia" ],
 			"alignment": "CG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CG,NG,CN)"
+			],
 			"areas_of_concern": "Abundance, discovery, happiness, prosperity",
 			"domains": [
 				"Chaos",
@@ -14006,6 +14638,9 @@
 			],
 			"pantheons": [ "Dwarven Deities" ],
 			"alignment": "LN",
+			"prerequisites": [
+				"find(L,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Duty, honor, promises",
 			"domains": [
 				"Glory",
@@ -14066,6 +14701,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "NG",
+			"prerequisites": [
+				"find(G,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Foresight, forgiveness, peace",
 			"domains": [
 				"Good",
@@ -14134,6 +14772,9 @@
 			],
 			"pantheons": [ "Demon Lords" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Cold, giants, revenge",
 			"domains": [
 				"Chaos",
@@ -14241,6 +14882,9 @@
 			],
 			"pantheons": [ "Nascent Demon Lords" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "The forgotten, hidden agendas",
 			"domains": [
 				"Chaos",
@@ -14289,6 +14933,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "LG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LG,NG,LN)"
+			],
 			"areas_of_concern": "Divination, eyes, instincts",
 			"domains": [
 				"Good",
@@ -14341,6 +14988,9 @@
 			],
 			"pantheons": [ "Rakshasa Immortals" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "N/a",
 			"domains": [
 				"Animal",
@@ -14388,6 +15038,9 @@
 			],
 			"pantheons": [ "Other Deities" ],
 			"alignment": "NG",
+			"prerequisites": [
+				"find(G,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Bravery, competition, sport",
 			"domains": [
 				"Community",
@@ -14486,6 +15139,9 @@
 			],
 			"pantheons": [ "Deities of Tian Xia" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Earthquakes, fire, plague, suffering",
 			"domains": [
 				"Chaos",
@@ -14537,6 +15193,9 @@
 			],
 			"pantheons": [ "Daemon Harbingers" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Anxiety, coddling, unhealthy parental love",
 			"domains": [
 				"Charm",
@@ -14595,6 +15254,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "CG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CG,NG,CN)"
+			],
 			"areas_of_concern": "Rainbows, relaxation, shade",
 			"domains": [
 				"Chaos",
@@ -14667,6 +15329,9 @@
 				"Demon Lords"
 			],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Madness, monsters, nightmares",
 			"domains": [
 				"Chaos",
@@ -14838,6 +15503,9 @@
 			],
 			"pantheons": [ "Orc Deities" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Slavery, subjugation, tyranny",
 			"domains": [
 				"Chaos",
@@ -14888,6 +15556,9 @@
 			],
 			"pantheons": [ "Deities of Tian Xia" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Night, rats, thieves",
 			"domains": [
 				"Animal",
@@ -14943,6 +15614,9 @@
 			],
 			"pantheons": [ "Malebranche" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Rage, violence, wind",
 			"domains": [
 				"Air",
@@ -15004,6 +15678,9 @@
 			],
 			"pantheons": [ "Azlanti Pantheon" ],
 			"alignment": "LN",
+			"prerequisites": [
+				"find(L,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Duty, fate, reward for service, and runes",
 			"domains": [
 				"Knowledge",
@@ -15045,6 +15722,9 @@
 			],
 			"pantheons": [ "Other Deities" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Obedience, reward of service, runes",
 			"domains": [
 				"Evil",
@@ -15119,6 +15799,9 @@
 			],
 			"pantheons": [ "Daemon Harbingers" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Rebirth, rites of passage, transformation",
 			"domains": [
 				"Air",
@@ -15177,6 +15860,9 @@
 			],
 			"pantheons": [ "Infernal Dukes" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Blood, rebirth, undeath",
 			"domains": [
 				"Evil",
@@ -15238,6 +15924,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "NG",
+			"prerequisites": [
+				"find(G,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Charity, the disadvantaged, volunteering",
 			"domains": [
 				"Community",
@@ -15292,6 +15981,9 @@
 			],
 			"pantheons": [ "Infernal Dukes" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Exiles, scholars, theories",
 			"domains": [
 				"Evil",
@@ -15356,6 +16048,9 @@
 			],
 			"pantheons": [ "Infernal Dukes" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Dominance, hounds, punishment",
 			"domains": [
 				"Animal",
@@ -15420,6 +16115,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "LG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LG,NG,LN)"
+			],
 			"areas_of_concern": "Prostitution, rites of passage, virginity",
 			"domains": [
 				"Community",
@@ -15482,6 +16180,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "NG",
+			"prerequisites": [
+				"find(G,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Idealism, potential, young death",
 			"domains": [
 				"Community",
@@ -15533,6 +16234,9 @@
 			],
 			"pantheons": [ "Deities of Ancient Osirion" ],
 			"alignment": "LN",
+			"prerequisites": [
+				"find(L,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Justice, law, order, truth",
 			"domains": [
 				"Knowledge",
@@ -15575,6 +16279,9 @@
 			],
 			"pantheons": [ "Asura Ranas" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Abduction, isolation, propaganda",
 			"domains": [
 				"Darkness",
@@ -15624,6 +16331,9 @@
 			],
 			"pantheons": [ "Eldest" ],
 			"alignment": "LN",
+			"prerequisites": [
+				"find(L,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Complexity, fate, triplets",
 			"domains": [
 				"Knowledge",
@@ -15712,6 +16422,9 @@
 			],
 			"pantheons": [ "Dwarven Deities" ],
 			"alignment": "LN",
+			"prerequisites": [
+				"find(L,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Death, fate, underworld",
 			"domains": [
 				"Earth",
@@ -15766,6 +16479,9 @@
 			],
 			"pantheons": [ "Queens of the Night" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Death, fate, vanity",
 			"domains": [
 				"Death",
@@ -15871,6 +16587,9 @@
 			],
 			"pantheons": [ "Malebranche" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Conquest, cruelty, martial skill",
 			"domains": [
 				"Evil",
@@ -15935,6 +16654,9 @@
 			],
 			"pantheons": [ "Infernal Dukes" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Architecture, expansion, waste",
 			"domains": [
 				"Artifice",
@@ -16002,6 +16724,9 @@
 				"Kobold Deities"
 			],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Avarice, watchfulness, wealth",
 			"domains": [
 				"Artifice",
@@ -16075,6 +16800,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "CG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CG,NG,CN)"
+			],
 			"areas_of_concern": "Athletics, contests, sports",
 			"domains": [
 				"Chaos",
@@ -16128,6 +16856,9 @@
 			],
 			"pantheons": [ "Other Deities" ],
 			"alignment": "LN",
+			"prerequisites": [
+				"find(L,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "The Matra River",
 			"domains": [
 				"Community",
@@ -16170,6 +16901,9 @@
 			],
 			"pantheons": [ "Other Deities" ],
 			"alignment": "NG",
+			"prerequisites": [
+				"find(G,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Balance, community, negotiation, and twilight",
 			"domains": [
 				"Artifice",
@@ -16215,6 +16949,9 @@
 			],
 			"pantheons": [ "Demon Lords" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Bindings, driders, vermin",
 			"domains": [
 				"Animal",
@@ -16302,6 +17039,9 @@
 			],
 			"pantheons": [ "Nascent Demon Lords" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Grave robbing, necrophilia",
 			"domains": [
 				"Chaos",
@@ -16368,6 +17108,9 @@
 			],
 			"pantheons": [ "Archdevils" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Contracts, devils, secrets",
 			"domains": [
 				"Evil",
@@ -16476,6 +17219,9 @@
 			],
 			"pantheons": [ "Demon Lords" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Cruelty, deception, hags",
 			"domains": [
 				"Chaos",
@@ -16557,6 +17303,9 @@
 			],
 			"pantheons": [ "Great Old Ones" ],
 			"alignment": "CN",
+			"prerequisites": [
+				"find(C,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Caverns, mountains, volcanoes",
 			"domains": [
 				"Chaos",
@@ -16613,6 +17362,9 @@
 			],
 			"pantheons": [ "Other Deities" ],
 			"alignment": "CG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CG,NG,CN)"
+			],
 			"areas_of_concern": "Devotion, hope, uprisings",
 			"domains": [
 				"Chaos",
@@ -16726,6 +17478,9 @@
 			],
 			"pantheons": [ "Giant Deities" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Creation, justice, giants, strength",
 			"domains": [
 				"Artifice",
@@ -16795,6 +17550,9 @@
 			],
 			"pantheons": [ "Daemon Harbingers" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Aging pains, organ failure, senility",
 			"domains": [
 				"Death",
@@ -16853,6 +17611,9 @@
 			],
 			"pantheons": [ "Archdevils" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Fire, obedience, war",
 			"domains": [
 				"Evil",
@@ -16956,6 +17717,9 @@
 			],
 			"pantheons": [ "Aeon" ],
 			"alignment": "N",
+			"prerequisites": [
+				"find(N,getInput(alignment))"
+			],
 			"areas_of_concern": "Creation, the infinite, and truth",
 			"domains": [
 				"Artifice",
@@ -17003,6 +17767,9 @@
 			],
 			"pantheons": [ "Great Old Ones" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Darkness, ghouls, voices of the dead",
 			"domains": [
 				"Chaos",
@@ -17049,6 +17816,9 @@
 			],
 			"pantheons": [ "Kyton Demagogues" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Invasiveness, proliferation, redundancy",
 			"domains": [
 				"Animal",
@@ -17095,6 +17865,9 @@
 			],
 			"pantheons": [ "Psychopomp Usher" ],
 			"alignment": "N",
+			"prerequisites": [
+				"find(N,getInput(alignment))"
+			],
 			"areas_of_concern": "Consumption, renewal, and transformation",
 			"domains": [
 				"Animal",
@@ -17142,6 +17915,9 @@
 			],
 			"pantheons": [ "Psychopomp Usher" ],
 			"alignment": "N",
+			"prerequisites": [
+				"find(N,getInput(alignment))"
+			],
 			"areas_of_concern": "Poetry, trauma, and war",
 			"domains": [
 				"Charm",
@@ -17193,6 +17969,9 @@
 			],
 			"pantheons": [ "Nascent Demon Lords" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Rats, sewers",
 			"domains": [
 				"Animal",
@@ -17256,6 +18035,9 @@
 			],
 			"pantheons": [ "Oni Daimyo" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Eclipses, sunsets, unseen things",
 			"domains": [
 				"Darkness",
@@ -17302,6 +18084,9 @@
 			],
 			"pantheons": [ "Rakshasa Immortals" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "N/a",
 			"domains": [
 				"Animal",
@@ -17349,6 +18134,9 @@
 			],
 			"pantheons": [ "Azlanti Pantheon" ],
 			"alignment": "LG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LG,NG,LN)"
+			],
 			"areas_of_concern": "Charity, lineage, and physical perfection",
 			"domains": [
 				"Glory",
@@ -17395,6 +18183,9 @@
 			],
 			"pantheons": [ "Other Deities" ],
 			"alignment": "N",
+			"prerequisites": [
+				"find(N,getInput(alignment))"
+			],
 			"areas_of_concern": "Drowning, romantic tragedy, suicide",
 			"domains": [
 				"Charm",
@@ -17484,6 +18275,9 @@
 			],
 			"pantheons": [ "Deities of Tian Xia" ],
 			"alignment": "N",
+			"prerequisites": [
+				"find(N,getInput(alignment))"
+			],
 			"areas_of_concern": "Fertility, nagaji, snakes, sorcery",
 			"domains": [
 				"Charm",
@@ -17546,6 +18340,9 @@
 			],
 			"pantheons": [ "Daemon Harbingers" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Basements, closets, delusions of safety",
 			"domains": [
 				"Darkness",
@@ -17601,6 +18398,9 @@
 			],
 			"pantheons": [ "Sahkil Tormentors" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Deslusions of authority, doubt, torment",
 			"domains": [
 				"Artifice",
@@ -17641,6 +18441,9 @@
 			],
 			"pantheons": [ "Psychopomp Usher" ],
 			"alignment": "N",
+			"prerequisites": [
+				"find(N,getInput(alignment))"
+			],
 			"areas_of_concern": "Atonement, difficult choices, and pain",
 			"domains": [
 				"Death",
@@ -17688,6 +18491,9 @@
 			],
 			"pantheons": [ "Protean Lord" ],
 			"alignment": "CN",
+			"prerequisites": [
+				"find(C,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Ascendance, keketars, and revelations",
 			"domains": [
 				"Chaos",
@@ -17735,6 +18541,9 @@
 			],
 			"pantheons": [ "Oni Daimyo" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Drought, forest fires, perfume",
 			"domains": [
 				"Destruction",
@@ -17781,6 +18590,9 @@
 			],
 			"pantheons": [ "Deities of Ancient Osirion" ],
 			"alignment": "NG",
+			"prerequisites": [
+				"find(G,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Hunting, war, weaving",
 			"domains": [
 				"Animal",
@@ -17823,6 +18635,9 @@
 			],
 			"pantheons": [ "Deities of Ancient Osirion" ],
 			"alignment": "CN",
+			"prerequisites": [
+				"find(C,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Mourning, night, protection of the dead",
 			"domains": [
 				"Chaos",
@@ -17868,6 +18683,9 @@
 			],
 			"pantheons": [ "Infernal Dukes" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Atrocity, pestilence, war",
 			"domains": [
 				"Death",
@@ -17929,6 +18747,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "LG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LG,NG,LN)"
+			],
 			"areas_of_concern": "Penitence, repentance, suffering",
 			"domains": [
 				"Good",
@@ -17991,6 +18812,9 @@
 				"Kobold Deities"
 			],
 			"alignment": "N",
+			"prerequisites": [
+				"find(N,getInput(alignment))"
+			],
 			"areas_of_concern": "Magic",
 			"domains": [
 				"Destruction",
@@ -18122,6 +18946,9 @@
 			],
 			"pantheons": [ "Eldest" ],
 			"alignment": "N",
+			"prerequisites": [
+				"find(N,getInput(alignment))"
+			],
 			"areas_of_concern": "Seasons, secrets, wanderers",
 			"domains": [
 				"Knowledge",
@@ -18180,6 +19007,9 @@
 			],
 			"pantheons": [ "Outer Gods" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Despair, ghosts, swamps",
 			"domains": [
 				"Chaos",
@@ -18231,6 +19061,9 @@
 			],
 			"pantheons": [ "Nascent Demon Lords" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Botched executions, pits",
 			"domains": [
 				"Chaos",
@@ -18301,6 +19134,9 @@
 				"Gnomish Deities"
 			],
 			"alignment": "N",
+			"prerequisites": [
+				"find(N,getInput(alignment))"
+			],
 			"areas_of_concern": "Gems, stealth, gambling",
 			"domains": [
 				"Community",
@@ -18383,6 +19219,9 @@
 			],
 			"pantheons": [ "Other Deities" ],
 			"alignment": "CN",
+			"prerequisites": [
+				"find(C,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Artists, exiles, midnight",
 			"domains": [
 				"Artifice",
@@ -18457,6 +19296,9 @@
 			],
 			"pantheons": [ "Demon Lords" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Assassins, darkness, lust",
 			"domains": [
 				"Chaos",
@@ -18549,6 +19391,9 @@
 				"Taldan Pantheon"
 			],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Greed, murder, poison, secrets",
 			"domains": [
 				"Charm",
@@ -18664,6 +19509,9 @@
 			],
 			"pantheons": [ "Orc Deities" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Anger, rage, strength",
 			"domains": [
 				"Chaos",
@@ -18713,6 +19561,9 @@
 			],
 			"pantheons": [ "Demon Lords" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Deserts, senseless warfare, the sun",
 			"domains": [
 				"Chaos",
@@ -18796,6 +19647,9 @@
 			],
 			"pantheons": [ "Outer Gods" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Conspiracies, dangerous secrets, forbidden magic",
 			"domains": [
 				"Chaos",
@@ -18841,6 +19695,9 @@
 			],
 			"pantheons": [ "Outer Gods" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Conspiracies, dangerous secrets, forbidden magic",
 			"domains": [
 				"Air",
@@ -18879,6 +19736,9 @@
 			],
 			"pantheons": [ "Outer Gods" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Conspiracies, dangerous secrets, forbidden magic",
 			"domains": [
 				"Chaos",
@@ -18927,6 +19787,9 @@
 			],
 			"pantheons": [ "Qlippoth Lords" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Tainted oceans, vile fecundity",
 			"domains": [
 				"Chaos",
@@ -18981,6 +19844,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "LG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LG,NG,LN)"
+			],
 			"areas_of_concern": "Deservedness, nobility, rulership",
 			"domains": [
 				"Good",
@@ -19045,6 +19911,9 @@
 			],
 			"pantheons": [ "Other Deities" ],
 			"alignment": "NG",
+			"prerequisites": [
+				"find(G,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Silver, silverwork, and silver mining",
 			"domains": [
 				"Artifice",
@@ -19088,6 +19957,9 @@
 			],
 			"pantheons": [ "Asura Ranas" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Beauty, double standards, self-mutalation",
 			"domains": [
 				"Charm",
@@ -19134,6 +20006,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "NG",
+			"prerequisites": [
+				"find(G,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Elevation, incorruptibility, resisting temptation",
 			"domains": [
 				"Good",
@@ -19185,6 +20060,9 @@
 			],
 			"pantheons": [ "Iblydan Hero-Gods" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Deicide",
 			"domains": [
 				"Chaos",
@@ -19232,6 +20110,9 @@
 			],
 			"pantheons": [ "Oni Daimyo" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Orgies, sake, tattoos",
 			"domains": [
 				"Chaos",
@@ -19278,6 +20159,9 @@
 			],
 			"pantheons": [ "Azlanti Pantheon" ],
 			"alignment": "N",
+			"prerequisites": [
+				"find(N,getInput(alignment))"
+			],
 			"areas_of_concern": "Elements, embassies, and extraplanar travel",
 			"domains": [
 				"Air",
@@ -19328,6 +20212,9 @@
 			],
 			"pantheons": [ "Demon Lords" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Death, necromancy, wrath",
 			"domains": [
 				"Chaos",
@@ -19409,6 +20296,9 @@
 			],
 			"pantheons": [ "Great Old Ones" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Alchemy, hunger, subterranean waterways",
 			"domains": [
 				"Chaos",
@@ -19469,6 +20359,9 @@
 			],
 			"pantheons": [ "Infernal Dukes" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Betrayal, doom, obsession",
 			"domains": [
 				"Artifice",
@@ -19530,6 +20423,9 @@
 			],
 			"pantheons": [ "Deities of Ancient Osirion" ],
 			"alignment": "LG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LG,NG,LN)"
+			],
 			"areas_of_concern": "Afterlife, fertility, rebirth, resurrection",
 			"domains": [
 				"Good",
@@ -19584,6 +20480,9 @@
 			],
 			"pantheons": [ "Daemon Harbingers" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Flagellation, repression, self denial",
 			"domains": [
 				"Evil",
@@ -19639,6 +20538,9 @@
 			],
 			"pantheons": [ "Rakshasa Immortals" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "N/a",
 			"domains": [
 				"Animal",
@@ -19686,6 +20588,9 @@
 			],
 			"pantheons": [ "Primal Inevitable" ],
 			"alignment": "LN",
+			"prerequisites": [
+				"find(L,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Machinery, math, and physics",
 			"domains": [
 				"Artifice",
@@ -19737,6 +20642,9 @@
 			],
 			"pantheons": [ "Nascent Demon Lords" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Sharks, shipwrecks",
 			"domains": [
 				"Animal",
@@ -19800,6 +20708,9 @@
 			],
 			"pantheons": [ "Sahkil Tormentors" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Despair, restless spirits, sadism",
 			"domains": [
 				"Destruction",
@@ -19849,6 +20760,9 @@
 			],
 			"pantheons": [ "Daemon Harbingers" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Cacodaemons, cannibalism, secret messages",
 			"domains": [
 				"Death",
@@ -19905,6 +20819,9 @@
 			],
 			"pantheons": [ "Demon Lords" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "The sky, temptation, winged creatures",
 			"domains": [
 				"Air",
@@ -19993,6 +20910,9 @@
 				"Deities of Tian Xia"
 			],
 			"alignment": "N",
+			"prerequisites": [
+				"find(N,getInput(alignment))"
+			],
 			"areas_of_concern": "Birth, death, fate, prophecy",
 			"domains": [
 				"Death",
@@ -20144,6 +21064,8 @@
 				"**Pathfinder Wiki** [Pharimia](http://www.pathfinderwiki.com/wiki/Pharimia)"
 			],
 			"pantheons": [ "Iblydan Hero-Gods" ],
+			"alignment": "Unaligned",
+			"prerequisites": [],
 			"areas_of_concern": "Ports, lighthouses",
 			"domains": [
 				"Fire",
@@ -20185,6 +21107,9 @@
 			],
 			"pantheons": [ "Psychopomp Usher" ],
 			"alignment": "N",
+			"prerequisites": [
+				"find(N,getInput(alignment))"
+			],
 			"areas_of_concern": "Atheists, legacies, and reincarnation",
 			"domains": [
 				"Artifice",
@@ -20235,6 +21160,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "CG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CG,NG,CN)"
+			],
 			"areas_of_concern": "Jokes, pranks, surprises",
 			"domains": [
 				"Chaos",
@@ -20300,6 +21228,9 @@
 			],
 			"pantheons": [ "Infernal Dukes" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Denial, drugs, wonder",
 			"domains": [
 				"Evil",
@@ -20361,6 +21292,9 @@
 			],
 			"pantheons": [ "Rakshasa Immortals" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "N/a",
 			"domains": [
 				"Animal",
@@ -20408,6 +21342,9 @@
 			],
 			"pantheons": [ "Iblydan Hero-Gods" ],
 			"alignment": "LN",
+			"prerequisites": [
+				"find(L,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Hero-god of seasons and spears",
 			"domains": [
 				"Law",
@@ -20453,6 +21390,9 @@
 			],
 			"pantheons": [ "Deities of Ancient Osirion" ],
 			"alignment": "N",
+			"prerequisites": [
+				"find(N,getInput(alignment))"
+			],
 			"areas_of_concern": "Architecture, craftsmanship, creation, metalworking",
 			"domains": [
 				"Artifice",
@@ -20498,6 +21438,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "CG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CG,NG,CN)"
+			],
 			"areas_of_concern": "Constellations, homesickness, northern lights",
 			"domains": [
 				"Air",
@@ -20559,6 +21502,9 @@
 			],
 			"pantheons": [ "Deities of Tian Xia" ],
 			"alignment": "NG",
+			"prerequisites": [
+				"find(G,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Healing, magic, medicine",
 			"domains": [
 				"Good",
@@ -20616,6 +21562,9 @@
 			],
 			"pantheons": [ "Infernal Dukes" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Exploration, gems, legends",
 			"domains": [
 				"Glory",
@@ -20677,6 +21626,9 @@
 			],
 			"pantheons": [ "Deities of Ancient Osirion" ],
 			"alignment": "LN",
+			"prerequisites": [
+				"find(L,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Creation, rulership, the sun",
 			"domains": [
 				"Fire",
@@ -20719,6 +21671,9 @@
 			],
 			"pantheons": [ "Kyton Demagogues" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Evolution, mutation, skulls",
 			"domains": [
 				"Evil",
@@ -20768,6 +21723,9 @@
 			],
 			"pantheons": [ "Eldest" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Linnorms, oceans, spirals",
 			"domains": [
 				"Chaos",
@@ -20840,6 +21798,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "LG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LG,NG,LN)"
+			],
 			"areas_of_concern": "Chivalry, duty, vengeance",
 			"domains": [
 				"Destruction",
@@ -20916,6 +21877,9 @@
 			],
 			"pantheons": [ "Asura Ranas" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Eclipses, Executions, Gluttony",
 			"domains": [
 				"Darkness",
@@ -20965,6 +21929,9 @@
 			],
 			"pantheons": [ "Infernal Dukes" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Carrion, patience, storms",
 			"domains": [
 				"Animal",
@@ -21026,6 +21993,9 @@
 			],
 			"pantheons": [ "Rakshasa Immortals" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "N/a",
 			"domains": [
 				"Animal",
@@ -21073,6 +22043,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "CG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CG,NG,CN)"
+			],
 			"areas_of_concern": "Childlessness, endings, responsibility",
 			"domains": [
 				"Chaos",
@@ -21125,6 +22098,9 @@
 			],
 			"pantheons": [ "Great Old Ones" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Hibernation, immortality, ruin",
 			"domains": [
 				"Chaos",
@@ -21174,6 +22150,9 @@
 			],
 			"pantheons": [ "Daemon Harbingers" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Castaways, fouled water, oceans",
 			"domains": [
 				"Evil",
@@ -21234,6 +22213,9 @@
 			],
 			"pantheons": [ "Core Deities" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Destruction, disaster, wrath",
 			"domains": [
 				"Chaos",
@@ -21386,6 +22368,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "NG",
+			"prerequisites": [
+				"find(G,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Herd animals, husbandry, shepherds",
 			"domains": [
 				"Animal",
@@ -21450,6 +22435,9 @@
 			],
 			"pantheons": [ "Daemon Harbingers" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Cyclical revenge, crusades, intolerance",
 			"domains": [
 				"Evil",
@@ -21508,6 +22496,9 @@
 			],
 			"pantheons": [ "Malebranche" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Fire, honor, nobility",
 			"domains": [
 				"Evil",
@@ -21569,6 +22560,9 @@
 			],
 			"pantheons": [ "Orc Deities" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Lightning, storms, thunder",
 			"domains": [
 				"Air",
@@ -21620,6 +22614,9 @@
 			],
 			"pantheons": [ "Infernal Dukes" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Blasphemy, humor, undeath",
 			"domains": [
 				"Death",
@@ -21681,6 +22678,9 @@
 			],
 			"pantheons": [ "Asura Ranas" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Fearful memories, serpents, vision",
 			"domains": [
 				"Evil",
@@ -21730,6 +22730,9 @@
 			],
 			"pantheons": [ "Infernal Dukes" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Construction, parasites, toil",
 			"domains": [
 				"Artifice",
@@ -21791,6 +22794,9 @@
 			],
 			"pantheons": [ "Psychopomp Usher" ],
 			"alignment": "N",
+			"prerequisites": [
+				"find(N,getInput(alignment))"
+			],
 			"areas_of_concern": "Agency, bronze, and education",
 			"domains": [
 				"Knowledge",
@@ -21847,6 +22853,9 @@
 				"Sandpoint Pantheon"
 			],
 			"alignment": "NG",
+			"prerequisites": [
+				"find(G,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Healing, honesty, redemption, the sun",
 			"domains": [
 				"Fire",
@@ -22011,6 +23020,9 @@
 			],
 			"pantheons": [ "Azlanti Pantheon" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Annihilation, catharsis, and purity",
 			"domains": [
 				"Destruction",
@@ -22055,6 +23067,9 @@
 			],
 			"pantheons": [ "Malebranche" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Deceit, poison, temptation",
 			"domains": [
 				"Charm",
@@ -22116,6 +23131,9 @@
 			],
 			"pantheons": [ "Deities of Ancient Osirion" ],
 			"alignment": "CN",
+			"prerequisites": [
+				"find(C,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Fire, healing, vengeance, war",
 			"domains": [
 				"Chaos",
@@ -22158,6 +23176,9 @@
 			],
 			"pantheons": [ "Deities of Ancient Osirion" ],
 			"alignment": "CG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CG,NG,CN)"
+			],
 			"areas_of_concern": "Embalming, healing, scorpions",
 			"domains": [
 				"Chaos",
@@ -22204,6 +23225,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "NG",
+			"prerequisites": [
+				"find(G,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Communication, inspiration, music",
 			"domains": [
 				"Air",
@@ -22265,6 +23289,9 @@
 			],
 			"pantheons": [ "Deities of Ancient Osirion" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Darkness, deserts, murder, storms",
 			"domains": [
 				"Darkness",
@@ -22307,6 +23334,9 @@
 			],
 			"pantheons": [ "Orc Deities" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Fire, magic, revenge",
 			"domains": [
 				"Chaos",
@@ -22356,6 +23386,9 @@
 			],
 			"pantheons": [ "Nascent Demon Lords" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Lost dreams, seduction of the pure",
 			"domains": [
 				"Chaos",
@@ -22419,6 +23452,9 @@
 			],
 			"pantheons": [ "Sahkil Tormentors" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Isolation, loneliness, lost time",
 			"domains": [
 				"Darkness",
@@ -22469,6 +23505,9 @@
 			],
 			"pantheons": [ "Demon Lords" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Envy, lies, murder",
 			"domains": [
 				"Chaos",
@@ -22553,6 +23592,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "NG",
+			"prerequisites": [
+				"find(G,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Age, life, self-actualization",
 			"domains": [
 				"Community",
@@ -22617,6 +23659,9 @@
 			],
 			"pantheons": [ "Azlanti Pantheon" ],
 			"alignment": "NG",
+			"prerequisites": [
+				"find(G,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Art, beauty, love, and music",
 			"domains": [
 				"Air",
@@ -22668,6 +23713,9 @@
 				"Taldan Pantheon"
 			],
 			"alignment": "NG",
+			"prerequisites": [
+				"find(G,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Art, beauty, love, music",
 			"domains": [
 				"Air",
@@ -22801,6 +23849,9 @@
 			],
 			"pantheons": [ "Qlippoth Lords" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Forbidden magic, wartime atrocities",
 			"domains": [
 				"Chaos",
@@ -22856,6 +23907,9 @@
 			],
 			"pantheons": [ "Demon Lords" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Aberrations, clocks, prisons",
 			"domains": [
 				"Chaos",
@@ -22941,6 +23995,9 @@
 			],
 			"pantheons": [ "Deities of Tian Xia" ],
 			"alignment": "LG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LG,NG,LN)"
+			],
 			"areas_of_concern": "Ancestors, honor, the sun, swordplay",
 			"domains": [
 				"Glory",
@@ -23045,6 +24102,9 @@
 			],
 			"pantheons": [ "Outer Gods" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Fertility, forests, monsters",
 			"domains": [
 				"Animal",
@@ -23104,6 +24164,9 @@
 			],
 			"pantheons": [ "Eldest" ],
 			"alignment": "N",
+			"prerequisites": [
+				"find(N,getInput(alignment))"
+			],
 			"areas_of_concern": "Entropy, reincarnation, time",
 			"domains": [
 				"Death",
@@ -23173,6 +24236,9 @@
 			],
 			"pantheons": [ "Azlanti Pantheon" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Domination, invasive species, and oppression",
 			"domains": [
 				"Animal",
@@ -23217,6 +24283,9 @@
 			],
 			"pantheons": [ "Demon Lords" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Despair, heresy, suicide",
 			"domains": [
 				"Chaos",
@@ -23303,6 +24372,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "CG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CG,NG,CN)"
+			],
 			"areas_of_concern": "Journeys, joy, messengers",
 			"domains": [
 				"Chaos",
@@ -23369,6 +24441,9 @@
 			],
 			"pantheons": [ "Nascent Demon Lords" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Blizzards, the frozen dead",
 			"domains": [
 				"Chaos",
@@ -23435,6 +24510,9 @@
 				"Gnomish Deities"
 			],
 			"alignment": "N",
+			"prerequisites": [
+				"find(N,getInput(alignment))"
+			],
 			"areas_of_concern": "Illusions, mystery, reflections",
 			"domains": [
 				"Knowledge",
@@ -23528,6 +24606,9 @@
 			],
 			"pantheons": [ "Giant Deities" ],
 			"alignment": "CG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CG,NG,CN)"
+			],
 			"areas_of_concern": "Diurnal beasts, hunting evil, trophies",
 			"domains": [
 				"Chaos",
@@ -23573,6 +24654,9 @@
 			],
 			"pantheons": [ "Giant Deities" ],
 			"alignment": "CG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CG,NG,CN)"
+			],
 			"areas_of_concern": "Riddles, wanderlust, wit",
 			"domains": [
 				"Chaos",
@@ -23621,6 +24705,9 @@
 			],
 			"pantheons": [ "Daemon Harbingers" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Lechery, love potions, obsession",
 			"domains": [
 				"Darkness",
@@ -23676,6 +24763,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "LG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LG,NG,LN)"
+			],
 			"areas_of_concern": "Dragon-hunting, honor, renown",
 			"domains": [
 				"Good",
@@ -23728,6 +24818,9 @@
 			],
 			"pantheons": [ "Deities of Ancient Osirion" ],
 			"alignment": "CN",
+			"prerequisites": [
+				"find(C,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Crocodiles, fertility, military prowess, rivers",
 			"domains": [
 				"Chaos",
@@ -23774,6 +24867,9 @@
 			],
 			"pantheons": [ "Demon Lords" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Perversion, pride, taboos",
 			"domains": [
 				"Chaos",
@@ -23858,6 +24954,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "NG",
+			"prerequisites": [
+				"find(G,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Guardians, magic, monuments",
 			"domains": [
 				"Artifice",
@@ -23922,6 +25021,9 @@
 			],
 			"pantheons": [ "Other Deities" ],
 			"alignment": "CN",
+			"prerequisites": [
+				"find(C,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Chaos, creation, and destruction",
 			"domains": [
 				"Artifice",
@@ -23962,6 +25064,9 @@
 			],
 			"pantheons": [ "Protean Lord" ],
 			"alignment": "CN",
+			"prerequisites": [
+				"find(C,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Fate, freedom, and paradox",
 			"domains": [
 				"Chaos",
@@ -24012,6 +25117,9 @@
 			],
 			"pantheons": [ "Daemon Harbingers" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Fear of aging, radical routes to immortality, wills",
 			"domains": [
 				"Artifice",
@@ -24067,6 +25175,9 @@
 			],
 			"pantheons": [ "Kyton Demagogues" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Ecstasy, fleetingness, incorporeality",
 			"domains": [
 				"Air",
@@ -24113,6 +25224,9 @@
 			],
 			"pantheons": [ "Deities of Tian Xia" ],
 			"alignment": "CN",
+			"prerequisites": [
+				"find(C,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Drunkenness, nature, trickery",
 			"domains": [
 				"Animal",
@@ -24160,6 +25274,9 @@
 			],
 			"pantheons": [ "Rakshasa Immortals" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "N/a",
 			"domains": [
 				"Animal",
@@ -24207,6 +25324,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "LG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LG,NG,LN)"
+			],
 			"areas_of_concern": "Ingenuity, parenthood, refinement",
 			"domains": [
 				"Community",
@@ -24264,6 +25384,9 @@
 			],
 			"pantheons": [ "Horsemen" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "War",
 			"domains": [
 				"Evil",
@@ -24351,6 +25474,9 @@
 			],
 			"pantheons": [ "Daemon Harbingers" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Fungi, infected wounds, rot",
 			"domains": [
 				"Destruction",
@@ -24409,6 +25535,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "LG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LG,NG,LN)"
+			],
 			"areas_of_concern": "Night, owls, watchfulness",
 			"domains": [
 				"Animal",
@@ -24471,6 +25600,9 @@
 			],
 			"pantheons": [ "Asura Ranas" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Anger, dreams, shattering of bonds",
 			"domains": [
 				"Evil",
@@ -24517,6 +25649,9 @@
 			],
 			"pantheons": [ "Psychopomp Usher" ],
 			"alignment": "N",
+			"prerequisites": [
+				"find(N,getInput(alignment))"
+			],
 			"areas_of_concern": "Aging, poison, and venomous creatures",
 			"domains": [
 				"Healing",
@@ -24567,6 +25702,9 @@
 			],
 			"pantheons": [ "Halfling Deities" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Greed, opportunity, thievery",
 			"domains": [
 				"Chaos",
@@ -24654,6 +25792,9 @@
 			],
 			"pantheons": [ "Eldest" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Carnivorous plants, intrigue, seduction",
 			"domains": [
 				"Charm",
@@ -24721,6 +25862,9 @@
 			],
 			"pantheons": [ "Eldest" ],
 			"alignment": "CN",
+			"prerequisites": [
+				"find(C,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Laughter, mischief, transformation",
 			"domains": [
 				"Charm",
@@ -24784,6 +25928,9 @@
 			],
 			"pantheons": [ "Eldest" ],
 			"alignment": "N",
+			"prerequisites": [
+				"find(N,getInput(alignment))"
+			],
 			"areas_of_concern": "Forgotten things, sadness, solitude",
 			"domains": [
 				"Knowledge",
@@ -24847,6 +25994,9 @@
 			],
 			"pantheons": [ "Psychopomp Usher" ],
 			"alignment": "N",
+			"prerequisites": [
+				"find(N,getInput(alignment))"
+			],
 			"areas_of_concern": "Duty, revenge, and beasts of burden",
 			"domains": [
 				"Death",
@@ -24894,6 +26044,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "CG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CG,NG,CN)"
+			],
 			"areas_of_concern": "Celebrations, feasts, holidays",
 			"domains": [
 				"Chaos",
@@ -24946,6 +26099,9 @@
 			],
 			"pantheons": [ "Deities of Ancient Osirion" ],
 			"alignment": "LN",
+			"prerequisites": [
+				"find(L,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Magic, the moon, wisdom, writing",
 			"domains": [
 				"Darkness",
@@ -24988,6 +26144,9 @@
 			],
 			"pantheons": [ "Giant Deities" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Ice, salt, tribute",
 			"domains": [
 				"Chaos",
@@ -25036,6 +26195,9 @@
 			],
 			"pantheons": [ "Qlippoth Lords" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Blinding hunger, revealed secrets",
 			"domains": [
 				"Chaos",
@@ -25090,6 +26252,9 @@
 			],
 			"pantheons": [ "Infernal Dukes" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Lies, propaganda, rhetoric",
 			"domains": [
 				"Evil",
@@ -25151,6 +26316,9 @@
 			],
 			"pantheons": [ "Giant Deities" ],
 			"alignment": "CN",
+			"prerequisites": [
+				"find(C,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Giant birds, mountain peaks, pride",
 			"domains": [
 				"Air",
@@ -25198,6 +26366,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "CG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CG,NG,CN)"
+			],
 			"areas_of_concern": "Cold, frozen wilds, survival",
 			"domains": [
 				"Chaos",
@@ -25271,6 +26442,9 @@
 				"Order of the God Claw Pantheon"
 			],
 			"alignment": "LG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LG,NG,LN)"
+			],
 			"areas_of_concern": "Forges, protection, strategy",
 			"domains": [
 				"Artifice",
@@ -25423,6 +26597,9 @@
 			],
 			"pantheons": [ "Nascent Demon Lords" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Corruption of nature, pollution",
 			"domains": [
 				"Chaos",
@@ -25479,6 +26656,9 @@
 				"Kobold Deities"
 			],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Famine",
 			"domains": [
 				"Earth",
@@ -25558,6 +26738,9 @@
 			],
 			"pantheons": [ "Daemon Harbingers" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Cesspools, rat catchers, sewers",
 			"domains": [
 				"Animal",
@@ -25613,6 +26796,9 @@
 			],
 			"pantheons": [ "Dwarven Deities" ],
 			"alignment": "NG",
+			"prerequisites": [
+				"find(G,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Bravery, defense, strength",
 			"domains": [
 				"Good",
@@ -25674,6 +26860,9 @@
 			],
 			"pantheons": [ "Great Old Ones" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Magic, outcasts, the underworld",
 			"domains": [
 				"Chaos",
@@ -25723,6 +26912,9 @@
 			],
 			"pantheons": [ "Deities of Tian Xia" ],
 			"alignment": "LG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LG,NG,LN)"
+			],
 			"areas_of_concern": "Jade, the moon, spirits",
 			"domains": [
 				"Darkness",
@@ -25826,6 +27018,9 @@
 			],
 			"pantheons": [ "Daemon Harbingers" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Falling, nonmagical flight, projectiles",
 			"domains": [
 				"Air",
@@ -25881,6 +27076,9 @@
 			],
 			"pantheons": [ "Azlanti Pantheon" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Conspiracy, isolation, and manipulation",
 			"domains": [
 				"Charm",
@@ -25920,6 +27118,9 @@
 			],
 			"pantheons": [ "Iblydan Hero-Gods" ],
 			"alignment": "NG",
+			"prerequisites": [
+				"find(G,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Promises, shield-bearers",
 			"domains": [
 				"Charm",
@@ -25957,6 +27158,9 @@
 			],
 			"pantheons": [ "Giant Deities" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Battle, brutality, strength",
 			"domains": [
 				"Animal",
@@ -26017,6 +27221,9 @@
 			],
 			"pantheons": [ "Core Deities" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Disease, gluttony, undeath",
 			"domains": [
 				"Death",
@@ -26176,6 +27383,9 @@
 			],
 			"pantheons": [ "Infernal Dukes" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Armor, mercilessness, revelation",
 			"domains": [
 				"Evil",
@@ -26241,6 +27451,9 @@
 			],
 			"pantheons": [ "Demon Lords" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Natural disasters, storms, trolls",
 			"domains": [
 				"Chaos",
@@ -26322,6 +27535,9 @@
 			],
 			"pantheons": [ "Oni Daimyo" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Earthquakes, Keys, Sabotage",
 			"domains": [
 				"Chaos",
@@ -26368,6 +27584,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "NG",
+			"prerequisites": [
+				"find(G,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Hunting, prudence, slumber",
 			"domains": [
 				"Animal",
@@ -26419,6 +27638,9 @@
 			],
 			"pantheons": [ "Oni Daimyo" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Blizzards, frozen ghosts, starvation",
 			"domains": [
 				"Death",
@@ -26468,6 +27690,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "CG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CG,NG,CN)"
+			],
 			"areas_of_concern": "Change, growth, primal forces",
 			"domains": [
 				"Chaos",
@@ -26530,6 +27755,9 @@
 			],
 			"pantheons": [ "Psychopomp Usher" ],
 			"alignment": "N",
+			"prerequisites": [
+				"find(N,getInput(alignment))"
+			],
 			"areas_of_concern": "Consequence, superstition, and tradition",
 			"domains": [
 				"Community",
@@ -26577,6 +27805,9 @@
 			],
 			"pantheons": [ "Primal Inevitable" ],
 			"alignment": "LN",
+			"prerequisites": [
+				"find(L,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Ceremonies, magic, and preparation",
 			"domains": [
 				"Law",
@@ -26627,6 +27858,9 @@
 			],
 			"pantheons": [ "Infernal Dukes" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Discovery, hubris, scholarship",
 			"domains": [
 				"Evil",
@@ -26688,6 +27922,9 @@
 			],
 			"pantheons": [ "Orc Deities" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Iron, siege engines, war",
 			"domains": [
 				"Chaos",
@@ -26738,6 +27975,9 @@
 			],
 			"pantheons": [ "Psychopomp Usher" ],
 			"alignment": "N",
+			"prerequisites": [
+				"find(N,getInput(alignment))"
+			],
 			"areas_of_concern": "Gargoyles, holy ground, and rest",
 			"domains": [
 				"Darkness",
@@ -26785,6 +28025,9 @@
 			],
 			"pantheons": [ "Sahkil Tormentors" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Emotional manipulation, emptiness, ignorance",
 			"domains": [
 				"Charm",
@@ -26831,6 +28074,9 @@
 			],
 			"pantheons": [ "Goblin Hero-Gods" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Famine, graves, torture",
 			"domains": [
 				"Death",
@@ -26882,6 +28128,9 @@
 			],
 			"pantheons": [ "Orc Deities" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Lust, pillage, plunder",
 			"domains": [
 				"Chaos",
@@ -26924,6 +28173,9 @@
 			],
 			"pantheons": [ "Sahkil Tormentors" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Fecundity, overgrown places, psychoactive plants",
 			"domains": [
 				"Charm",
@@ -26970,6 +28222,9 @@
 			],
 			"pantheons": [ "Kyton Demagogues" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Illusion of freedom, potential, transcendence",
 			"domains": [
 				"Destruction",
@@ -27016,6 +28271,9 @@
 			],
 			"pantheons": [ "Rakshasa Immortals" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "N/a",
 			"domains": [
 				"Animal",
@@ -27066,6 +28324,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "LG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LG,NG,LN)"
+			],
 			"areas_of_concern": "Devotion, sacrifice, scars",
 			"domains": [
 				"Destruction",
@@ -27139,6 +28400,9 @@
 			],
 			"pantheons": [ "Infernal Dukes" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Pollution, swamps, toads",
 			"domains": [
 				"Evil",
@@ -27200,6 +28464,9 @@
 			],
 			"pantheons": [ "Psychopomp Usher" ],
 			"alignment": "N",
+			"prerequisites": [
+				"find(N,getInput(alignment))"
+			],
 			"areas_of_concern": "Catastrophes, last stands, and suicides",
 			"domains": [
 				"Fire",
@@ -27250,6 +28517,9 @@
 			],
 			"pantheons": [ "Daemon Harbingers" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Incurable afflictions, poison, toxicity",
 			"domains": [
 				"Evil",
@@ -27305,6 +28575,9 @@
 			],
 			"pantheons": [ "Deities of Ancient Osirion" ],
 			"alignment": "LG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LG,NG,LN)"
+			],
 			"areas_of_concern": "Good serpents, the River Sphinx, wisdom",
 			"domains": [
 				"Good",
@@ -27365,6 +28638,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "LG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LG,NG,LN)"
+			],
 			"areas_of_concern": "Ceremonies, religiousness, service",
 			"domains": [
 				"Good",
@@ -27431,6 +28707,9 @@
 			],
 			"pantheons": [ "Infernal Dukes" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Condemnation, judges, revision",
 			"domains": [
 				"Earth",
@@ -27492,6 +28771,9 @@
 			],
 			"pantheons": [ "Great Old Ones" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Decay, parasites, transformation",
 			"domains": [
 				"Death",
@@ -27582,6 +28864,9 @@
 			],
 			"pantheons": [ "Infernal Dukes" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Masks, ugliness, volition",
 			"domains": [
 				"Evil",
@@ -27643,6 +28928,9 @@
 			],
 			"pantheons": [ "Sahkil Tormentors" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Evisceration, fatal falls, genocide",
 			"domains": [
 				"Air",
@@ -27693,6 +28981,9 @@
 			],
 			"pantheons": [ "Demon Lords" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Gargoyles, gluttony, ruins",
 			"domains": [
 				"Chaos",
@@ -27779,6 +29070,9 @@
 			],
 			"pantheons": [ "Daemon Harbingers" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Maggots, myiasis, parasites",
 			"domains": [
 				"Animal",
@@ -27834,6 +29128,9 @@
 			],
 			"pantheons": [ "Oni Daimyo" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Curses, promises, volcanoes",
 			"domains": [
 				"Destruction",
@@ -27880,6 +29177,9 @@
 			],
 			"pantheons": [ "Deities of Tian Xia" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Harsh justice, murder, punishment",
 			"domains": [
 				"Artifice",
@@ -27933,6 +29233,9 @@
 			],
 			"pantheons": [ "Qlippoth Lords" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Cursed kingdoms, vile experiments",
 			"domains": [
 				"Artifice",
@@ -28025,6 +29328,9 @@
 			],
 			"pantheons": [ "Deities of Tian Xia" ],
 			"alignment": "N",
+			"prerequisites": [
+				"find(N,getInput(alignment))"
+			],
 			"areas_of_concern": "Mountains, volcanoes, winter",
 			"domains": [
 				"Earth",
@@ -28077,6 +29383,9 @@
 			],
 			"pantheons": [ "Infernal Dukes" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Hellspawn, misdirection, night",
 			"domains": [
 				"Darkness",
@@ -28138,6 +29447,9 @@
 			],
 			"pantheons": [ "Protean Lord" ],
 			"alignment": "CN",
+			"prerequisites": [
+				"find(C,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Language evolution, lost words, and slang",
 			"domains": [
 				"Chaos",
@@ -28191,6 +29503,9 @@
 				"Scalefolk Deities"
 			],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Serpentfolk, immortality, poison",
 			"domains": [
 				"Chaos",
@@ -28272,6 +29587,9 @@
 			],
 			"pantheons": [ "Demon Lords" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Age, time, worms",
 			"domains": [
 				"Chaos",
@@ -28353,6 +29671,9 @@
 			],
 			"pantheons": [ "Great Old Ones" ],
 			"alignment": "CN",
+			"prerequisites": [
+				"find(C,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Cycles, procreation, serpents",
 			"domains": [
 				"Chaos",
@@ -28402,6 +29723,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "NG",
+			"prerequisites": [
+				"find(G,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Coastal waters, fisherfolk, flying creatures",
 			"domains": [
 				"Air",
@@ -28465,6 +29789,9 @@
 			],
 			"pantheons": [ "Elemental Lords" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Deserts, fire, volcanoes",
 			"domains": [
 				"Destruction",
@@ -28516,6 +29843,9 @@
 			],
 			"pantheons": [ "Outer Gods" ],
 			"alignment": "CN",
+			"prerequisites": [
+				"find(C,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Gates, space, time",
 			"domains": [
 				"Darkness",
@@ -28569,6 +29899,9 @@
 			],
 			"pantheons": [ "Elven Deities" ],
 			"alignment": "NG",
+			"prerequisites": [
+				"find(G,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Crystals, jewelers, magic",
 			"domains": [
 				"Artifice",
@@ -28629,6 +29962,9 @@
 			],
 			"pantheons": [ "Rakshasa Immortals" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "N/a",
 			"domains": [
 				"Animal",
@@ -28679,6 +30015,9 @@
 			],
 			"pantheons": [ "Infernal Dukes" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Arrogance, nobility, sexual perversion",
 			"domains": [
 				"Destruction",
@@ -28740,6 +30079,9 @@
 			],
 			"pantheons": [ "Orc Deities" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Death, destruction, disaster",
 			"domains": [
 				"Chaos",
@@ -28788,6 +30130,9 @@
 			],
 			"pantheons": [ "Daemon Harbingers" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Body modification, destructive vanity, pins",
 			"domains": [
 				"Charm",
@@ -28843,6 +30188,9 @@
 			],
 			"pantheons": [ "Goblin Hero-Gods" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Dog killing, fire, mounted combat",
 			"domains": [
 				"Animal",
@@ -28897,6 +30245,9 @@
 			],
 			"pantheons": [ "Daemon Harbingers" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Arson, burning alive, cremation",
 			"domains": [
 				"Animal",
@@ -28955,6 +30306,9 @@
 			],
 			"pantheons": [ "Infernal Dukes" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Abduction, rape, transformation",
 			"domains": [
 				"Charm",
@@ -29020,6 +30374,9 @@
 			],
 			"pantheons": [ "Demon Lords" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Caverns, reptiles, troglodytes",
 			"domains": [
 				"Animal",
@@ -29101,6 +30458,9 @@
 			],
 			"pantheons": [ "Sahkil Tormentors" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Avoiding responsibility, shifting earth, violence",
 			"domains": [
 				"Earth",
@@ -29147,6 +30507,9 @@
 			],
 			"pantheons": [ "Goblin Hero-Gods" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Drowning, flotsam, scavenging",
 			"domains": [
 				"Chaos",
@@ -29202,6 +30565,9 @@
 			],
 			"pantheons": [ "Empyreal Lords" ],
 			"alignment": "LG",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LG,NG,LN)"
+			],
 			"areas_of_concern": "Determination, investigation, truth",
 			"domains": [
 				"Good",
@@ -29269,6 +30635,9 @@
 			],
 			"pantheons": [ "Core Deities" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Darkness, envy, loss, pain",
 			"domains": [
 				"Darkness",
@@ -29411,6 +30780,9 @@
 			],
 			"pantheons": [ "Demon Lords" ],
 			"alignment": "CE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,CE,NE,CN)"
+			],
 			"areas_of_concern": "Blood, cannibalism, vampires",
 			"domains": [
 				"Chaos",
@@ -29489,6 +30861,9 @@
 			],
 			"pantheons": [ "Asura Ranas" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Fire, injustice, vendetts",
 			"domains": [
 				"Destruction",
@@ -29535,6 +30910,9 @@
 			],
 			"pantheons": [ "Giant Deities" ],
 			"alignment": "LE",
+			"prerequisites": [
+				"test(getInput(alignment)==ALIGN,ALIGN,LE,NE,LN)"
+			],
 			"areas_of_concern": "Conquest, slavery, weapons",
 			"domains": [
 				"Evil",
@@ -29624,6 +31002,9 @@
 			],
 			"pantheons": [ "Other Deities" ],
 			"alignment": "NE",
+			"prerequisites": [
+				"find(E,getInput(alignment)) || getInput(alignment)==N"
+			],
 			"areas_of_concern": "Accidental death, graveyards, tragedy",
 			"domains": [
 				"Death",

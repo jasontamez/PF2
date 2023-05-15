@@ -38,6 +38,9 @@
 				"**Pathfinder Wiki** [Green Faith](http://www.pathfinderwiki.com/wiki/Green Faith)"
 			],
 			"alignment": "N",
+			"prerequisites": [
+				"find(N,getInput(alignment))"
+			],
 			"areas_of_concern": "Air, beast, earth, fire, water",
 			"domains": [
 				"Air",
@@ -103,6 +106,9 @@
 				"**nature**"
 			],
 			"alignment": "N",
+			"prerequisites": [
+				"find(N,getInput(alignment))"
+			],
 			"areas_of_concern": "Air, beast, earth, fire, water",
 			"domains": [
 				"Air",

@@ -1,16 +1,8 @@
 {
 	"category": "skills",
-	"value_type": "score",
+	"value_type": "info",
 	"standard_properties": [],
 	"searchable_properties": [],
-	"lookup_shorthands": {
-		"skill": {
-			"_value_suffix": "has_tag",
-			"has_tag": "skill:",
-			"query": "bonus"
-		}
-	},
-	"formulae": {},
 	"list": [
 		{
 			"name": "Acrobatics",
