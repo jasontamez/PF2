@@ -1,0 +1,155 @@
+{
+	"description": [
+		"Description Source: [Adventurer's Guide](source:Adventurer's Guide)",
+		"At 3rd level, a Hellknight gains access to his first discipline, choosing one associated with his specific order. At 6th level, the Hellknight gains a second discipline, choosing from any listed as being available to \"any order.\" At 9th level, the Hellknight gains his third discipline, choosing this one from any of the disciplines listed below, even those from another order, with the exception of pentamic faith. When applicable, the save DC to resist a discipline's effect is equal to 10 + the Hellknight's level + his Charisma modifier. The Hellknight can use any one discipline a number of times per day equal to the total number of disciplines he has access to, so at 3rd level he can use his discipline once per day. At 6th level, he can use both disciplines twice per day each. At 9th level, he can use all three of his disciplines three times per day."
+	],
+	"list": [
+		{
+			"name": "Brand",
+			"types": [ "Sp" ],
+			"order": "Order of the Pyre",
+			"sources": [ "Inner Sea World Guide" ],
+			"description": "([Inner Sea World Guide pg. 278](source:Inner Sea World Guide)): The Hellknight can use mark of justice as a spell-like ability."
+		},
+		{
+			"name": "Call Armor",
+			"types": [ "Su" ],
+			"order": "any order",
+			"sources": [ "Path of the Hellknight" ],
+			"description": "([Path of the Hellknight pg. 59](source:Path of the Hellknight)): As a move action, the Hellknight can cause her armor to instantly appear on her body. Alternatively, she can dismiss it as a move action, causing it to vanish. (Doing either of these counts as one use of this discipline.) Where the armor appears from or vanishes to can be anywhere the Hellknight designates, but it must be a place the Hellknight has seen on the same plane of existence where she is, or be in an extradimensional space she controls, such as a bag of holding. This armor is a specific suit of Hellknight plate that the Hellknight designates when she selects this discipline. The Hellknight can attune this ability to a new set of armor, but doing so takes 1 week."
+		},
+		{
+			"name": "Censor",
+			"types": [ "Su" ],
+			"order": "Order of the Rack",
+			"sources": [ "Inner Sea World Guide" ],
+			"description": "([Inner Sea World Guide pg. 278](source:Inner Sea World Guide)): When the Hellknight uses smite chaos on a creature, he can strike the creature mute for 1d4 rounds unless it makes a successful Will save. A mute creature cannot speak, nor can it cast spells that have verbal components or use language-dependant effects."
+		},
+		{
+			"name": "Command",
+			"types": [ "Sp" ],
+			"order": "any order",
+			"sources": [ "Path of the Hellknight" ],
+			"description": "([Path of the Hellknight pg. 59](source:Path of the Hellknight)): The Hellknight can use greater command as a spell-like ability, using her character level as her caster level."
+		},
+		{
+			"name": "Dispel Chaos",
+			"types": [ "Sp" ],
+			"order": "any order",
+			"sources": [ "Path of the Hellknight" ],
+			"description": "([Path of the Hellknight pg. 59](source:Path of the Hellknight)): The Hellknight can use dispel chaos as a spell-like ability, using her character level as her caster level."
+		},
+		{
+			"name": "Favored Quarry",
+			"types": [ "Ex" ],
+			"order": "any order",
+			"sources": [ "Path of the Hellknight" ],
+			"description": "([Path of the Hellknight pg. 59](source:Path of the Hellknight)): The Hellknight chooses a creature type from the ranger favored enemy table (usually humanoid with a specific subtype, but this is not required). The Hellknight gains a +2 bonus on Bluff, Intimidate, Knowledge, Perception, Sense Motive, and Survival checks against creatures of her selected type. She can also attempt Knowledge skill checks untrained to identify those creatures. Each time the Hellknight chooses an additional discipline, this bonus increases by 2 (to a potential maximum of +6 at 9th level)."
+		},
+		{
+			"name": "Fearsomeness",
+			"types": [ "Ex" ],
+			"order": "any order",
+			"sources": [ "Inner Sea World Guide" ],
+			"description": "([Inner Sea World Guide pg. 279](source:Inner Sea World Guide)): A Hellknight who uses the Intimidate skill to cause a creature within 10 feet to become shaken can instead cause that creature to become frightened."
+		},
+		{
+			"name": "Invoke Glyph",
+			"types": [ "Sp", "Ex" ],
+			"order": "Order of the Glyph",
+			"sources": [ "Pathfinder #107: Scourge of the Godclaw" ],
+			"description": "([Pathfinder #107: Scourge of the Godclaw pg. 47](source:Pathfinder #107: Scourge of the Godclaw)): The Hellknight can use glyph of warding as a spell-like ability. While this ability does not require an expensive material component, a single Hellknight can maintain only one glyph of warding at a time; if he uses this spell-like ability a second time, the previously created glyph of warding vanishes. In addition, the Hellknight gains a +4 bonus on saving throws against glyph of warding or symbol spells."
+		},
+		{
+			"name": "Mental Intrusion",
+			"types": [ "Sp" ],
+			"order": "any order",
+			"sources": [ "Path of the Hellknight" ],
+			"description": "([Path of the Hellknight pg. 59](source:Path of the Hellknight)): The Hellknight can use telepathy (Pathfinder RPG Occult Adventures 189) as a spell-like ability, using her character level as her caster level."
+		},
+		{
+			"name": "Onslaught",
+			"types": [ "Su" ],
+			"order": "Order of the Nail",
+			"sources": [ "Inner Sea World Guide" ],
+			"description": "([Inner Sea World Guide pg. 279](source:Inner Sea World Guide)): Once per day as a free action, a Hellknight increases his base speed by +10 feet and gains a +4 bonus to his Strength for 1 round. If the Hellknight is mounted, these bonuses also apply to his mount."
+		},
+		{
+			"name": "Pentamic Faith",
+			"types": [ "Ex" ],
+			"order": "Order of the Godclaw only",
+			"sources": [ "Inner Sea World Guide" ],
+			"description": "([Inner Sea World Guide pg. 279](source:Inner Sea World Guide)): This ability allows the Hellknight to select one of the following domains: Artifice, Glory, Knowledge, Law, Magic, Nobility, Protection, Rune, Strength, Travel, and War. The Hellknight gains all of the granted powers (but not domain spells) of that domain, treating his Hellknight levels as cleric levels to determine what domain abilities he has access to."
+		},
+		{
+			"name": "Seek the Taken",
+			"types": [ "Sp" ],
+			"order": "any order",
+			"sources": [ "Pathfinder #98: Turn of the Torrent" ],
+			"description": "([Pathfinder #98: Turn of the Torrent pg. 67](source:Pathfinder #98: Turn of the Torrent)): When a member of the Order of the Torrent becomes a 3rd-level Hellknight, he gains his first discipline: seek the taken. This enables the Hellknight to use an enlarged locate creature as a spell-like ability with a caster level equal to his total character level. At 9th level, when a Order of the Torrent Hellknight gains his third discipline, he cannot choose the summon devil discipline."
+		},
+		{
+			"name": "Shackle",
+			"types": [ "Su" ],
+			"order": "Order of the Chain",
+			"sources": [ "Inner Sea World Guide" ],
+			"description": "([Inner Sea World Guide pg. 279](source:Inner Sea World Guide)): When the Hellknight uses smite chaos on a creature, he can impede its mobility. The creature can negate this effect with a Will save; otherwise, it is affected as if by a slow spell for 1d4 rounds."
+		},
+		{
+			"name": "Shadow Step",
+			"types": [ "Sp" ],
+			"order": "any order",
+			"sources": [ "Path of the Hellknight" ],
+			"description": "([Path of the Hellknight pg. 59](source:Path of the Hellknight)): The Hellknight can use enlarged shadow step as a spell-like ability, as if the Enlarge Spell metamagic feat were applied to the spell, using her character level as her caster level."
+		},
+		{
+			"name": "Summon Devil",
+			"types": [ "Sp" ],
+			"order": "Order of the Gate",
+			"sources": [ "Inner Sea World Guide" ],
+			"description": "([Inner Sea World Guide pg. 279](source:Inner Sea World Guide)): The Hellknight may use summon monster V as a spell-like ability to summon 1 bearded devil. At 6th level, this spell-like ability is replaced by summon monster VI, allowing him to summon 1d3 bearded devils, or 1 erinyes. And at 9th level, this spell-like ability is replaced by summon monster VII, allowing him to summon 1d4+1 bearded devils, 1d3 erinyes, or 1 bone devil."
+		},
+		{
+			"name": "Summon Servant of Law",
+			"types": [ "Sp" ],
+			"order": "any order",
+			"sources": [ "Path of the Hellknight" ],
+			"description": "([Path of the Hellknight pg. 59](source:Path of the Hellknight)): The Hellknight can summon a creature or creatures to help her, as if using a summon monster spell. At 3rd level, she can summon 1d3 hell hounds. At 6th level, she can summon 1d3 advanced hell hounds or one axiomite (Pathfinder RPG Bestiary 2 36). And at 9th level, she can summon 1d4+1 hell hounds, 1d3 axiomites, or one zelekhut inevitable (Pathfinder RPG Bestiary 2 167)."
+		},
+		{
+			"name": "Trace",
+			"types": [ "Su" ],
+			"order": "any order",
+			"sources": [ "Path of the Hellknight" ],
+			"description": "([Path of the Hellknight pg. 59](source:Path of the Hellknight)): The Hellknight can study a single personal belonging of a creature for 1 minute, after which she knows the general direction of the creature's current location as long as it is within 1 mile and on the same plane. She also learns the direction the creature is currently moving, if any. This effect lasts for 10 minutes per character level. An object can be used as the focus for this ability only once. For the purposes of this ability, a \"personal belonging\" is any object a creature owned or carried with it for more than a week. If the target is under the effects of nondetection or a similar spell or effect, or is on a different plane, this ability gives no result."
+		},
+		{
+			"name": "Tracker",
+			"types": [ "Sp" ],
+			"order": "any order",
+			"sources": [ "Inner Sea World Guide" ],
+			"description": "([Inner Sea World Guide pg. 279](source:Inner Sea World Guide)): The Hellknight can summon a creature to aid him, either in battle or to track an enemy, as if using a summon monster spell, save that the summoned creature lingers for 1 hour before vanishing. A 6th-level Hellknight can summon either an eagle, a riding dog, a wolf, or a leopard. A 9th-level Hellknight can instead opt to summon a dire wolf or a hell hound."
+		},
+		{
+			"name": "Versatile Intimidation",
+			"types": [ "Ex" ],
+			"order": "any order",
+			"sources": [ "Path of the Hellknight" ],
+			"description": "([Path of the Hellknight pg. 59](source:Path of the Hellknight)): The Hellknight can use Intimidate to reproduce the effects of another Charisma-based skill. Choose one of the following: Bluff, Diplomacy, Handle Animal, or Perform (oratory). Each time the Hellknight wishes to use that skill, she can attempt an Intimidate check and treat it as if it were a check of the desired type. At 9th level, the Hellknight can choose an additional skill from the list above and use Intimidate to reproduce its effects."
+		},
+		{
+			"name": "Vigilance",
+			"types": [ "Su" ],
+			"order": "Order of the Scourge",
+			"sources": [ "Inner Sea World Guide" ],
+			"description": "([Inner Sea World Guide pg. 279](source:Inner Sea World Guide)): The Hellknight gains low-light vision (this effect is constant). In addition, as a full-round action, the Hellknight can see through up to 5 feet of stone, wood, or similar barriers as if they didn't exist. Metal or denser barriers block this effect. Each use of this ability lasts as long as the Hellknight concentrates, up to a number of rounds equal to the Hellknight's level."
+		},
+		{
+			"name": "Wrack",
+			"types": [ "Su" ],
+			"order": "any order",
+			"sources": [ "Inner Sea World Guide" ],
+			"description": "([Inner Sea World Guide pg. 279](source:Inner Sea World Guide)): The Hellknight may make a touch attack as a standard action to cause a creature to suffer incredible pain. The creature touched takes 1d6 points of damage + the Hellknight's Charisma modifier, and must make a Will save to avoid being staggered for 1d4 rounds."
+		}
+	]
+}

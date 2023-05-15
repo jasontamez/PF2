@@ -1,0 +1,83 @@
+{
+	"description": [
+		"Description Source: [Champions of Corruption](source:Champions of Corruption)",
+		"True Nidalese savor pain, and they proudly wear this delight in the torturous piercing of their bodies. Shadow piercers are some of the most skilled pain artisans in Nidal's depraved culture. They create magical pieces of jewelry, formed partially of shadowstuff, and use them in all manner of surface piercings for their discerning clients. Some shadow piercings are more than just single pieces of jewelry-instead they are created in sets that form specific designs across an expanse of the wearer's skin."
+	],
+	"list": [
+		{
+			"name": "Body Piercings (Minor)",
+			"file": "shadowpiercingsdisplay3e55.html",
+			"cost": 1800
+		},
+		{
+			"name": "Chest Piercings (Minor)",
+			"file": "shadowpiercingsdisplay7475.html",
+			"cost": 2200
+		},
+		{
+			"name": "Body Piercings (Major)",
+			"file": "shadowpiercingsdisplaya3a3.html",
+			"cost": 2400
+		},
+		{
+			"name": "Body Piercings (Greater)",
+			"file": "shadowpiercingsdisplayce07.html",
+			"cost": 3200
+		},
+		{
+			"name": "Chest Piercings (Major)",
+			"file": "shadowpiercingsdisplay4b45.html",
+			"cost": 3750
+		},
+		{
+			"name": "Head Piercings (Minor)",
+			"file": "shadowpiercingsdisplay6380.html",
+			"cost": 3750
+		},
+		{
+			"name": "Chest Piercings (Greater)",
+			"file": "shadowpiercingsdisplaycf3e.html",
+			"cost": 5750
+		},
+		{
+			"name": "Head Piercings (Major)",
+			"file": "shadowpiercingsdisplay10bc.html",
+			"cost": 6000
+		},
+		{
+			"name": "Eye Piercings (Minor)",
+			"file": "shadowpiercingsdisplayc46e.html",
+			"cost": 6000
+		},
+		{
+			"name": "Suspension Piercings (Minor)",
+			"file": "shadowpiercingsdisplay7971.html",
+			"cost": 6000
+		},
+		{
+			"name": "Suspension Piercings (Major)",
+			"file": "shadowpiercingsdisplayd8dc.html",
+			"cost": 7200
+		},
+		{
+			"name": "Suspension Piercings (Greater)",
+			"file": "shadowpiercingsdisplay0477.html",
+			"cost": 11200
+		},
+		{
+			"name": "Eye Piercings (Major)",
+			"file": "shadowpiercingsdisplaycf58.html",
+			"cost": 18000
+		},
+		{
+			"name": "Eye Piercings (Greater)",
+			"file": "shadowpiercingsdisplay8e0b.html",
+			"cost": 32000
+		},
+		{
+			"name": "Head Piercings (Greater)",
+			"file": "shadowpiercingsdisplay21c0.html",
+			"cost": 33600
+		}
+	]
+}

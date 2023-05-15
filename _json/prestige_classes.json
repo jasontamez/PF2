@@ -1,0 +1,599 @@
+{
+    "list": [
+        {
+            "name": "Agent of the Grave",
+            "file": "prestigeclassesdisplay94ee.html",
+            "short_description": "Promising servant of the Whispering Way."
+        },
+        {
+            "name": "Aldori Swordlord",
+            "file": "prestigeclassesdisplay3192.html",
+            "short_description": "Disciplined duelist from Brevoy."
+        },
+        {
+            "name": "Arcane Archer",
+            "file": "prestigeclassesdisplaya2f9.html",
+            "short_description": "An arcane spellcaster who draws upon ancient elven traditions to infuse his arrows with potent magical power."
+        },
+        {
+            "name": "Arcane Trickster",
+            "file": "prestigeclassesdisplay710b.html",
+            "short_description": "A troublemaker and a scoundrel who uses arcane magic to enhance her thievery and trickery."
+        },
+        {
+            "name": "Arclord of Nex",
+            "file": "prestigeclassesdisplay15bb.html",
+            "short_description": "Formally trained Nexian diviner."
+        },
+        {
+            "name": "Argent Dramaturge",
+            "file": "prestigeclassesdisplay7dca.html",
+            "short_description": "Bard who wields anti-fiend magic"
+        },
+        {
+            "name": "Asavir",
+            "file": "prestigeclassesdisplayb882.html",
+            "short_description": "Al-Zabriti horseman with a genie-blessed horse"
+        },
+        {
+            "name": "Ashavic Dancer",
+            "file": "prestigeclassesdisplayd9c6.html",
+            "short_description": "Servants of Ashava who use mystical dances to bring rest to the undead "
+        },
+        {
+            "name": "Aspis Agent",
+            "file": "prestigeclassesdisplayb2a1.html",
+            "short_description": "Unscrupulous mercenary treasure hunter."
+        },
+        {
+            "name": "Assassin",
+            "file": "prestigeclassesdisplay7601.html",
+            "short_description": "A remorseless murderer who kills for money and the sheer thrill of death-dealing."
+        },
+        {
+            "name": "Balanced Scale of Abadar",
+            "file": "prestigeclassesdisplay5ed3.html",
+            "short_description": "Treasure seeking servant of Abadar."
+        },
+        {
+            "name": "Battle Herald",
+            "file": "prestigeclassesdisplaya04c.html",
+            "short_description": "A veteran whose masterful tactics and air of command inspire allies to greater feats of heroism."
+        },
+        {
+            "name": "Bellflower Tiller",
+            "file": "prestigeclassesdisplayec55.html",
+            "short_description": "Halfling freedom fighter of Cheliax."
+        },
+        {
+            "name": "Blackfire Adept",
+            "file": "prestigeclassesdisplay2361.html",
+            "short_description": "Evil summoner of fiends."
+        },
+        {
+            "name": "Bloatmage",
+            "file": "prestigeclassesdisplay4db7.html",
+            "short_description": "Master of the arcane art of hemotheurgy."
+        },
+        {
+            "name": "Brewkeeper",
+            "file": "prestigeclassesdisplay70c5.html",
+            "short_description": "Sacred brewers of Cayden Cailean who can distill spells into liquor"
+        },
+        {
+            "name": "Brightness Seeker",
+            "file": "prestigeclassesdisplaycf68.html",
+            "short_description": "Revered seer of elven-kind."
+        },
+        {
+            "name": "Brother of the Seal",
+            "file": "prestigeclassesdisplaydd9e.html",
+            "short_description": "Guardian of ancient secrets."
+        },
+        {
+            "name": "Champion of Irori",
+            "file": "prestigeclassesdisplay6e5c.html",
+            "short_description": "Devout hand-to-hand master."
+        },
+        {
+            "name": "Chernasardo Warden",
+            "file": "prestigeclassesdisplay8114.html",
+            "short_description": "Chernasardo warden is a title that few can reasonably hope to earn. Among the freedom fighters, wardens have proven themselves again and again, taking on enemies that threaten the fate of Nirmathas."
+        },
+        {
+            "name": "Chevalier",
+            "file": "prestigeclassesdisplay8e48.html",
+            "short_description": "A heroic do-gooder with Cayden Cailean aspirations."
+        },
+        {
+            "name": "Crimson Templar",
+            "file": "prestigeclassesdisplay320a.html",
+            "short_description": "Holy warriors of Ragathiel who fight the forces of Hell with sacred fire"
+        },
+        {
+            "name": "Cyphermage",
+            "file": "UNKNOWN",
+            "short_description": "Student of ancient history and runic lore, with a particular focus on the monuments and magics of ancient Thassilon."
+        },
+        {
+            "name": "Daggermark Poisoner",
+            "file": "prestigeclassesdisplay98dc.html",
+            "short_description": "Devious and crafty toxicologist."
+        },
+        {
+            "name": "Daivrat",
+            "file": "prestigeclassesdisplay9497.html",
+            "short_description": "Friend of genies, diplomat amongst their kind."
+        },
+        {
+            "name": "Darechaser",
+            "file": "prestigeclassesdisplay607f.html",
+            "short_description": "Athletes of Kurgess who push themselves to exceed their limits "
+        },
+        {
+            "name": "Dawnflower Anchorite",
+            "file": "prestigeclassesdisplay36fb.html",
+            "short_description": "Hermits of Sarenrae who channel light to smite their foes."
+        },
+        {
+            "name": "Dawnflower Dissident",
+            "file": "prestigeclassesdisplay128d.html",
+            "short_description": "Secretive emissary of Sarenrae."
+        },
+        {
+            "name": "Death Slayer",
+            "file": "prestigeclassesdisplay5140.html",
+            "short_description": "Hired assassin of the undead"
+        },
+        {
+            "name": "Demoniac",
+            "file": "prestigeclassesdisplay9e46.html",
+            "short_description": "Servant to a powerful Demon Lord."
+        },
+        {
+            "name": "Devoted Muse",
+            "file": "prestigeclassesdisplay5dd1.html",
+            "short_description": "Muses of Shelyn who have mastered an artistic form of combat for self-defense"
+        },
+        {
+            "name": "Diabolist",
+            "file": "prestigeclassesdisplay9e20.html",
+            "short_description": "Those who seek to control the power of Hell."
+        },
+        {
+            "name": "Divine Scion",
+            "file": "prestigeclassesdisplay6d3e.html",
+            "short_description": "Chosen by a god to fulfill a sacred mission, the divine scion has the spark of divinity within them."
+        },
+        {
+            "name": "Dragon Disciple",
+            "file": "prestigeclassesdisplay8e63.html",
+            "short_description": "An arcane spellcaster who has embraced his latent draconic heritage and, over the course of training and devotion, undergoes a partial transformation into a dragon."
+        },
+        {
+            "name": "Duelist",
+            "file": "prestigeclassesdisplay1a22.html",
+            "short_description": "A swashbuckling swordfighter who relies upon grace, poise, and acrobatics to win the day."
+        },
+        {
+            "name": "Eldritch Knight",
+            "file": "prestigeclassesdisplay5bd1.html",
+            "short_description": "An arcane spellcaster who augments his magical skills with combat to create a deadly combination of weapons and magic."
+        },
+        {
+            "name": "Enchanting Courtesan",
+            "file": "prestigeclassesdisplay3830.html",
+            "short_description": "Diviners and enchanters who use their talents to become information brokers."
+        },
+        {
+            "name": "Envoy of Balance",
+            "file": "prestigeclassesdisplay58a6.html",
+            "short_description": "Standing beyond good and evil, outside law and chaos, an envoy of balance serves as the countering force against any extremism that seeks to elevate one alignment above all others."
+        },
+        {
+            "name": "Esoteric Knight",
+            "file": "prestigeclassesdisplayf484.html",
+            "short_description": "Powerful warriors who combine martial technique with occult or elemental power"
+        },
+        {
+            "name": "Evangelist",
+            "file": "UNKNOWN",
+            "short_description": "Of all the preeminent followers of the core deities, the evangelist is the hardest to predict and shows the most variety in her abilities."
+        },
+        {
+            "name": "Exalted",
+            "file": "prestigeclassesdisplay0ae4.html",
+            "short_description": "The exalted exemplifies the teachings of her faith. More than a religious leader, she is the embodiment of faith that all members of the religion strive to emulate."
+        },
+        {
+            "name": "Feysworn",
+            "file": "prestigeclassesdisplaye45c.html",
+            "short_description": "Servents of the enigmatic Eldest"
+        },
+        {
+            "name": "Genie Binder",
+            "file": "prestigeclassesdisplay526c.html",
+            "short_description": "Especially powerful conjurers compel genies into service as often as they pay them fairly in treasures or favors."
+        },
+        {
+            "name": "Golden Legionnaire",
+            "file": "prestigeclassesdisplay53a9.html",
+            "short_description": "High-ranking protector of Andoran."
+        },
+        {
+            "name": "Gray Corsair",
+            "file": "prestigeclassesdisplayb0ea.html",
+            "short_description": "Naval member of Andor's Eagle Knights"
+        },
+        {
+            "name": "Gray Gardener",
+            "file": "prestigeclassesdisplay3cc6.html",
+            "short_description": "Deadly agent of the Revolutionary Council."
+        },
+        {
+            "name": "Green Faith Acolyte",
+            "file": "prestigeclassesdisplay454c.html",
+            "short_description": "Talented member of a druidic order."
+        },
+        {
+            "name": "Halfling Opportunist",
+            "file": "prestigeclassesdisplay642b.html",
+            "short_description": "Halfling that makes his own luck."
+        },
+        {
+            "name": "Harrower",
+            "file": "UNKNOWN",
+            "short_description": "Spellcaster who can weave Harrow cards into her spells."
+        },
+        {
+            "name": "Hellknight",
+            "file": "prestigeclassesdisplayf7f0.html",
+            "short_description": "Disciplined executer of law."
+        },
+        {
+            "name": "Hellknight Signifer",
+            "file": "prestigeclassesdisplay8dc5.html",
+            "short_description": "Masked, magic-wielding Hellknight."
+        },
+        {
+            "name": "Heritor Knight",
+            "file": "prestigeclassesdisplayc0c1.html",
+            "short_description": "Knights of Iomedae that seek to emulate her mortal life."
+        },
+        {
+            "name": "Hinterlander",
+            "file": "prestigeclassesdisplay2213.html",
+            "short_description": "Archers of Erastil that guard frontier towns"
+        },
+        {
+            "name": "Holy Vindicator",
+            "file": "prestigeclassesdisplaya2e9.html",
+            "short_description": "A pious warrior who spreads religion at the edge of a sword."
+        },
+        {
+            "name": "Horizon Walker",
+            "file": "prestigeclassesdisplay2d11.html",
+            "short_description": "A scout and wanderer comfortable in even the strangest terrain."
+        },
+        {
+            "name": "Inheritor's Crusader",
+            "file": "prestigeclassesdisplayd503.html",
+            "short_description": "Righteous champion of Iomedae."
+        },
+        {
+            "name": "Inner Sea Pirate",
+            "file": "prestigeclassesdisplay59da.html",
+            "short_description": "Pirates of the Inner Sea region sail many different bodies of water in search of plunder."
+        },
+        {
+            "name": "Justicar",
+            "file": "prestigeclassesdisplay7087.html",
+            "short_description": "Holy enforcer of the teachings of Abadar."
+        },
+        {
+            "name": "Knight of Ozem",
+            "file": "prestigeclassesdisplay8209.html",
+            "short_description": "Zealous destroyer of undead."
+        },
+        {
+            "name": "Lantern Bearer",
+            "file": "prestigeclassesdisplay7b9b.html",
+            "short_description": "Elven eradicator of drow."
+        },
+        {
+            "name": "Liberator",
+            "file": "prestigeclassesdisplaya44c.html",
+            "short_description": "The hope of slaves everywhere."
+        },
+        {
+            "name": "Lion Blade",
+            "file": "UNKNOWN",
+            "short_description": "Member of Taldor's most secretive school of fighting arts."
+        },
+        {
+            "name": "Living Monolith",
+            "file": "UNKNOWN",
+            "short_description": "Living monoliths are mortals who willingly take on the mantle of immortal warriors through ritual and devotion, imbuing themselves with the patience and eternal strength of stone."
+        },
+        {
+            "name": "Loremaster",
+            "file": "prestigeclassesdisplay637b.html",
+            "short_description": "A spellcaster who devotes his life to research and rumination upon the mysteries of the world."
+        },
+        {
+            "name": "Low Templar",
+            "file": "prestigeclassesdisplaya2de.html",
+            "short_description": "Greedy crusader fighting the denizens of the Worldwound."
+        },
+        {
+            "name": "Magaambyan Arcanist",
+            "file": "prestigeclassesdisplayafdc.html",
+            "short_description": "Benevolent student of Old-Mage Jatembe."
+        },
+        {
+            "name": "Mammoth Rider",
+            "file": "prestigeclassesdisplay84f6.html",
+            "short_description": "Tamer of beasts in the northern wilds."
+        },
+        {
+            "name": "Master Chymist",
+            "file": "prestigeclassesdisplay5da9.html",
+            "short_description": "An alchemist whose mutagens create an alternate, brutish personality."
+        },
+        {
+            "name": "Master Spy",
+            "file": "prestigeclassesdisplay53b7.html",
+            "short_description": "An espionage expert specializing in disguises and striking swiftly from the shadows."
+        },
+        {
+            "name": "Mortal Usher",
+            "file": "prestigeclassesdisplay68ed.html",
+            "short_description": "Servants of the psychopomps who can act where the psychopomps cannot"
+        },
+        {
+            "name": "Mystery Cultist",
+            "file": "prestigeclassesdisplayb9f9.html",
+            "short_description": "These zealots hone their spellcasting powers in honor of their patron empyreal lord and dedicate their lives to the teachings of this entity."
+        },
+        {
+            "name": "Mystic Theurge",
+            "file": "prestigeclassesdisplay665f.html",
+            "short_description": "Equally devoted to divine and arcane magic, the mystic theurge combines both magical traditions into one incredibly diverse class."
+        },
+        {
+            "name": "Nature Warden",
+            "file": "prestigeclassesdisplayd6e6.html",
+            "short_description": "A master of the wilderness bonded spiritually to a fearsome animal companion."
+        },
+        {
+            "name": "Noble Scion",
+            "file": "prestigeclassesdisplay8748.html",
+            "short_description": "Resource-laden member of foreign royalty."
+        },
+        {
+            "name": "Pain Taster",
+            "file": "prestigeclassesdisplay239c.html",
+            "short_description": "For pain tasters, agony is more than a pleasure-it's a path to power."
+        },
+        {
+            "name": "Pathfinder Chronicler",
+            "file": "prestigeclassesdisplay5297.html",
+            "short_description": "An explorer at heart, the Pathfinder chronicler travels to distant, exotic lands to expand her knowledge of the world."
+        },
+        {
+            "name": "Pathfinder Delver",
+            "file": "prestigeclassesdisplayb7db.html",
+            "short_description": "Grand adventure seeker of the Pathfinder Society."
+        },
+        {
+            "name": "Pathfinder Field Agent",
+            "file": "prestigeclassesdisplaye5ec.html",
+            "short_description": "Equipped with a variety of skills and trained to keep a cool head even in the most dire circumstances, a practiced Pathfinder field agent is a boon to any adventuring party."
+        },
+        {
+            "name": "Pathfinder Savant",
+            "file": "prestigeclassesdisplay2feb.html",
+            "short_description": "Master sage of the Pathfinder Society."
+        },
+        {
+            "name": "Pit Fighter",
+            "file": "prestigeclassesdisplay3b6f.html",
+            "short_description": "Gladiatorial brawler and performer."
+        },
+        {
+            "name": "Proctor",
+            "file": "prestigeclassesdisplay815d.html",
+            "short_description": "Ardent worshipers of a monitor demigod: an aeon, primal inevitable, protean lord, or psychopomp usher."
+        },
+        {
+            "name": "Prophet of Kalistrade",
+            "file": "prestigeclassesdisplayaa9f.html",
+            "short_description": "Savvy mercantile spellcaster."
+        },
+        {
+            "name": "Pure Legion Enforcer",
+            "file": "prestigeclassesdisplayc206.html",
+            "short_description": "The Pure Legion is a government-sponsored military organization created to enforce the Laws of Man within Rahadoum's borders and territorial waters. "
+        },
+        {
+            "name": "Rage Prophet",
+            "file": "prestigeclassesdisplay10b4.html",
+            "short_description": "A bold and barbaric champion who embraces otherworldly powers in order to perfect the art of combat."
+        },
+        {
+            "name": "Razmiran Priest",
+            "file": "prestigeclassesdisplayd3cf.html",
+            "short_description": "False divine caster of Razmir."
+        },
+        {
+            "name": "Red Mantis Assassin",
+            "file": "prestigeclassesdisplaybe26.html",
+            "short_description": "Elite assassin of the Red Mantis cult."
+        },
+        {
+            "name": "Riftwarden",
+            "file": "prestigeclassesdisplay3974.html",
+            "short_description": "Sealer of extraplanar portals."
+        },
+        {
+            "name": "Ritualist",
+            "file": "prestigeclassesdisplay4c6a.html",
+            "short_description": "Individuals who specialize in using occult rituals, being able to perform rituals more quickly and easily"
+        },
+        {
+            "name": "Rivethun Emissary",
+            "file": "prestigeclassesdisplay9267.html",
+            "short_description": "Animists of a dwarven spiritual religion"
+        },
+        {
+            "name": "Rose Warden",
+            "file": "prestigeclassesdisplay3d91.html",
+            "short_description": "Champions of Milani who protect and guide revolutions "
+        },
+        {
+            "name": "Runeguard",
+            "file": "UNKNOWN",
+            "short_description": "Arcanists of Soralyon who use the benevolent form of ancient Thassilonian rune magic"
+        },
+        {
+            "name": "Sacred Sentinel",
+            "file": "prestigeclassesdisplayac30.html",
+            "short_description": "Guardians of Torag that serve as a shield for their allies."
+        },
+        {
+            "name": "Sanguine Angel",
+            "file": "UNKNOWN",
+            "short_description": "Former Gray Maidens who have entered the service of Cheliax and the Queens of the Night"
+        },
+        {
+            "name": "Scar Seeker",
+            "file": "prestigeclassesdisplayf9f2.html",
+            "short_description": "Followers of Vildeis who scar their bodies to prove their devotion"
+        },
+        {
+            "name": "Sentinel",
+            "file": "UNKNOWN",
+            "short_description": "The sentinel is a warrior who receives special powers in exchange for his service to a deity, and often serves as a guard for the deity's clergy."
+        },
+        {
+            "name": "Shackles Pirate",
+            "file": "UNKNOWN",
+            "short_description": "Gifted pirate of the Shackles."
+        },
+        {
+            "name": "Shadowdancer",
+            "file": "prestigeclassesdisplay7b69.html",
+            "short_description": "A mysterious adventurer who walks the boundaries between the real world and the realm of shadows, and who can command shadows to do her bidding."
+        },
+        {
+            "name": "Shieldmarshal",
+            "file": "prestigeclassesdisplayf600.html",
+            "short_description": "Gun-wielding officer of Alkenstar."
+        },
+        {
+            "name": "Skyseeker",
+            "file": "prestigeclassesdisplay655f.html",
+            "short_description": "Excavator of dwarven Sky Citadels."
+        },
+        {
+            "name": "Sleepless Detective",
+            "file": "prestigeclassesdisplaye430.html",
+            "short_description": "Expert urban sleuthhound."
+        },
+        {
+            "name": "Soul Warden",
+            "file": "prestigeclassesdisplay9018.html",
+            "short_description": "Bygone products of an ancient war, soul wardens are an enigma of themselves. The original soul wardens were a specially trained cadre of anti-necromantic commandos in the Nexian army during the Age of Destiny."
+        },
+        {
+            "name": "Souldrinker",
+            "file": "prestigeclassesdisplayb7c5.html",
+            "short_description": "Pledged to the Horsemen of the Apocalypse, the souldrinker learns the worst of daemonic magic while gaining the ability to bind and devour souls."
+        },
+        {
+            "name": "Sphere Singer",
+            "file": "prestigeclassesdisplay65db.html",
+            "short_description": "Wanderers of Desna who manipulate dreams and luck to aid their travels"
+        },
+        {
+            "name": "Spherewalker",
+            "file": "UNKNOWN",
+            "short_description": "Magical traveler of Desna."
+        },
+        {
+            "name": "Stalwart Defender",
+            "file": "prestigeclassesdisplay72ca.html",
+            "short_description": "A master of defending territory and holding the line at all costs."
+        },
+        {
+            "name": "Stargazer",
+            "file": "prestigeclassesdisplay0bec.html",
+            "short_description": "Astronomers of Pulura who look to the heaven for guidance"
+        },
+        {
+            "name": "Steel Falcon",
+            "file": "prestigeclassesdisplay7a07.html",
+            "short_description": "Member of Andoran's elite military force."
+        },
+        {
+            "name": "Storm Kindler",
+            "file": "prestigeclassesdisplayac25.html",
+            "short_description": "Gozreh-worshiping hurricane hunter."
+        },
+        {
+            "name": "Student of Perfection",
+            "file": "UNKNOWN",
+            "short_description": "Member of one of the Houses of Perfection"
+        },
+        {
+            "name": "Student of War",
+            "file": "prestigeclassesdisplayd552.html",
+            "short_description": "Learned martial scholar of the Pathfinder Society."
+        },
+        {
+            "name": "Tattooed Mystic",
+            "file": "prestigeclassesdisplaybc6c.html",
+            "short_description": "Wandering Varisian magician."
+        },
+        {
+            "name": "Technomancer",
+            "file": "prestigeclassesdisplay30a4.html",
+            "short_description": "The true power in Numeria lies with the Technic League, not the Black Sovereign, and it is technomancers who rule the League."
+        },
+        {
+            "name": "Thuvian Alchemist",
+            "file": "prestigeclassesdisplay4913.html",
+            "short_description": "Using the long-neglected art of herbalism and the reinvigorated science of alchemy, the Thuvian Alchemist specializes on a practice that combines the two."
+        },
+        {
+            "name": "Twilight Talon",
+            "file": "prestigeclassesdisplay40ec.html",
+            "short_description": "Secret agents of Andor"
+        },
+        {
+            "name": "Ulfen Guard",
+            "file": "prestigeclassesdisplay1cd6.html",
+            "short_description": "After centuries of raiding and pillaging throughout Avistan, the Ulfen have earned their reputation for ferocity and fearlessness. Though seemingly at odds with this perception of barbarism, Ulfen are also known for their staunch loyalty, strong sense of honor, and unyielding resolve."
+        },
+        {
+            "name": "Umbral Court Agent",
+            "file": "prestigeclassesdisplay15f1.html",
+            "short_description": "Nidalese shadow saboteur."
+        },
+        {
+            "name": "Veiled Illusionist",
+            "file": "prestigeclassesdisplay4217.html",
+            "short_description": "Shadowy shapechanger."
+        },
+        {
+            "name": "Westcrown Devil",
+            "file": "prestigeclassesdisplay355c.html",
+            "short_description": "Agent of the Council of Thieves"
+        },
+        {
+            "name": "Winter Witch",
+            "file": "prestigeclassesdisplay39c1.html",
+            "short_description": "Master of ice and snow."
+        }
+    ]
+}

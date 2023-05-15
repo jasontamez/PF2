@@ -1,0 +1,119 @@
+{
+	"sources": [
+		"Black Markets",
+		"Agents of Evil"
+	],
+	"description": [
+		"Hailing from the undead nation of Geb but illegal even there, necrotoxins fuse alchemy and necromancy to attack not just the body or the mind, but the very soul of the victim. Only alchemists in Geb and the poison-loving city of Daggermark have mastered the creation of these rare and reviled toxins. // Charging necrotoxins with necrotic power requires special rituals, reagents from undead creatures, and the channeling of negative energy during the brewing process. The DCs of Craft (alchemy) check to brew a necrotoxin is 5 higher than the poison's Fortitude DC due to the temperamental process of its creation."
+	],
+	"list": [
+		{
+			"name": "Entropic Dust",
+			"sources": [ "Black Markets" ],
+			"header": [
+				"Entropic Dust",
+				"Source [Black Markets pg. 13](source:Black Markets)",
+				"Aura faint necromancy; CL 3rd",
+				"Slot ; Price 1,500 gp; Weight &mdash;"
+			],
+			"cost": 1500,
+			"description": [
+				"This white grit hinders a victim's divine power.",
+				"Type poison, inhaled; Save Fortitude DC 18",
+				"Frequency 1/round for 6 rounds",
+				"Effect 1d2 Cha damage, and for the duration of the poison, victim must succeed at a concentration check vs. the poison's save DC to channel positive energy or lay on hands; Cure 1 save"
+			],
+			"construction": "Requirements Craft Wondrous Item, desecrate; Cost 750 gp</td>"
+		},
+		{
+			"name": "Ghost Syrup",
+			"sources": [ "Agents of Evil" ],
+			"header": [
+				"Ghost Syrup",
+				"Source [Agents of Evil pg. 23](source:Agents of Evil)",
+				"Aura strong necromancy; CL 13th",
+				"Slot ; Price 6,000 gp; Weight &mdash;"
+			],
+			"cost": 6000,
+			"description": [
+				"This necrotoxin causes a creature to lose corporeal substance.",
+				"Type ingested; Save Fortitude DC 20",
+				"Onset 1 minute; Frequency 1/round for 6 rounds",
+				"Effect 1d3 Str damage, and each round a victim takes damage from this poison, she has a 50% chance of dropping one held item. If a victim's Strength is reduced to 0 by ghost syrup, the Strength damage becomes Strength drain, and the victim becomes permanently incorporeal. Carried and worn equipment is unaffected and remains corporeal, and the victim can be restored only through a limited wish, miracle, remove curse, or wish spell; Cure 2 consecutive saves"
+			],
+			"construction": "Requirements Craft Wondrous Item, ethereal jaunt, creator must have 13 ranks in Craft (alchemy); Cost 3,000 gp</td>"
+		},
+		{
+			"name": "Lazurite Flakes",
+			"sources": [ "Black Markets" ],
+			"header": [
+				"Lazurite Flakes",
+				"Source [Black Markets pg. 13](source:Black Markets)",
+				"Aura moderate necromancy; CL 11th",
+				"Slot ; Price 5,400 gp; Weight &mdash;"
+			],
+			"cost": 5400,
+			"description": [
+				"These dark gray flakes induce ravenous hunger.",
+				"Type poison, ingested; Save Fortitude DC 18",
+				"Onset 10 minutes; Frequency 1/minute for 8 minutes",
+				"Effect 1d2 Con damage, and a humanoid who dies while poisoned rises as an uncontrolled ghoul at the next midnight, retaining none of the abilities it possessed in life; Cure 2 consecutive saves"
+			],
+			"construction": "Requirements Craft Wondrous Item, create undead; Cost 2,700 gp</td>"
+		},
+		{
+			"name": "Memento Mori",
+			"sources": [ "Agents of Evil" ],
+			"header": [
+				"Memento Mori",
+				"Source [Agents of Evil pg. 23](source:Agents of Evil)",
+				"Aura moderate necromancy; CL 9th",
+				"Slot ; Price 3,700 gp; Weight &mdash;"
+			],
+			"cost": 3700,
+			"description": [
+				"Memento mori is a powerful hallucinogen that clouds a victim's senses with messages of death.",
+				"Type inhaled; Save Fortitude DC 19",
+				"Onset -; Frequency 1/minute for 6 rounds",
+				"Effect 1d3 Wis damage, and as long as any Wisdom damage from the poison remains, the victim can't distinguish living creatures from undead and can't understand or read any language'spoken words sound like tearful moans and written words seem faded and tattered. While under this effect, the target takes a -5 penalty on saving throws against fear effects and must attempt to save against all spells cast by others, even harmless or beneficial spells; Cure 2 consecutive saves"
+			],
+			"construction": "Requirements Craft Wondrous Item, unhallow, creator must have 10 ranks in Craft (alchemy); Cost 1,850 gp</td>"
+		},
+		{
+			"name": "Quick Rot",
+			"sources": [ "Black Markets" ],
+			"header": [
+				"Quick Rot",
+				"Source [Black Markets pg. 13](source:Black Markets)",
+				"Aura faint necromancy; CL 3rd",
+				"Slot ; Price 450 gp; Weight &mdash;"
+			],
+			"cost": 450,
+			"description": [
+				"This smelly toxin causes a victim's flesh to become gangrenous.",
+				"Type poison, injury; Save Fortitude DC 14",
+				"Frequency 1/round for 4 rounds",
+				"Effect 1d2 Con damage, and until the Con damage is healed, the victim gains the stench universal monster ability. The stench DC is equal to the poison's DC, and creatures who fail their saves are sickened for 1d6+4 minutes. The poisoned creature is not immune to its own stench; Cure 1 save"
+			],
+			"construction": "Requirements Craft Wondrous Item, ghoul touch; Cost 225 gp</td>"
+		},
+		{
+			"name": "Xensh Spores",
+			"sources": [ "Black Markets" ],
+			"header": [
+				"Xensh Spores",
+				"Source [Black Markets pg. 13](source:Black Markets)",
+				"Aura faint necromancy; CL 5th",
+				"Slot ; Price 1,200 gp; Weight &mdash;"
+			],
+			"cost": 1200,
+			"description": [
+				"These Shadow Plane spores inhibit a victim's ability to absorb positive energy.",
+				"Type poison, inhaled; Save Fortitude DC 16",
+				"Onset 10 minutes; Frequency 1/hour for 6 hours",
+				"Effect 1d2 Dex damage, and until the Dex damage is healed, the victim regains only half the normal amount of hit points from channeled energy and conjuration (healing) spells; Cure 2 consecutive saves"
+			],
+			"construction": "Requirements Craft Wondrous Item, undead anatomy I; Cost 225 gp</td>"
+		}
+	]
+}

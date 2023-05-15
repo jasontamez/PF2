@@ -1,0 +1,1794 @@
+{
+	"category": "poisons",
+	"value_type": "info",
+	"sources": [ "PRPG Core Rulebook", "Inner Sea Intrigue" ],
+	"description": [
+		"Description Source: [PRPG Core Rulebook](source:PRPG Core Rulebook)",
+		"No other affliction is so prevalent as poison. From the fangs of a viper to the ichor-stained assassin's blade, poison is a constant threat. Poisons can be cured by successful saving throws and spells such as neutralize poison.",
+		"Source [Inner Sea Intrigue](source:Inner Sea Intrigue)",
+		"*Triggered Poisons*: Numerous Inner Sea poisons are designed to take effect only after exposure to a particular stimulus. Poisons in this section with onset triggers list the specific triggers in their Onset entries (rather than a number of rounds, minutes, or days). A character who fails his Fortitude saving throw upon exposure doesn't start attempting saving throws against the poison's effects until exposed to the listed stimulus.",
+		"Some triggered poisons have initial and secondary effects. The first time after an affected character triggers the poison and fails a saving throw to resist the poison, the character suffers the initial effect. If the affected character fails any subsequent saving throws, he suffers the secondary effect. Unless noted otherwise, a triggered poison that isn't triggered after 1 day has no effect."
+	],
+	"list": [
+		{
+			"name": "Black Lotus Extract",
+			"file": "poisondisplayc0da.html",
+			"poison_type": "contact",
+			"save": "Fort DC 20",
+			"onset": "1 minute",
+			"frequency": "1/rd. for 6 rds.",
+			"effect": "1d6 Con da...",
+			"cost": null
+		},
+		{
+			"name": "Blackfrost",
+			"file": "poisondisplay1c14.html",
+			"poison_type": "contact",
+			"save": "Fort DC 15",
+			"onset": "1 minute",
+			"frequency": "1/min. for 6 mins.",
+			"effect": "2d6 hp dam... / 1d2 Con da...",
+			"cost": null
+		},
+		{
+			"name": "Blue lily extract",
+			"file": "poisondisplaye523.html",
+			"poison_type": "contact or injested",
+			"save": "Fort DC 14 (18 if injested)",
+			"onset": "1 minute",
+			"frequency": "1/hour for 6 hours",
+			"effect": "1d4 Wisdom...",
+			"cost": null
+		},
+		{
+			"name": "Burnt Other Fumes",
+			"file": "poisondisplayebcd.html",
+			"poison_type": "inhaled",
+			"save": "Fort DC 18",
+			"onset": "-",
+			"frequency": "1/rd. for 6 rds.",
+			"effect": "1 Con drai... / 1d3 Con da...",
+			"cost": null
+		},
+		{
+			"name": "Dragon Bile",
+			"file": "poisondisplayacd6.html",
+			"poison_type": "contact",
+			"save": "Fort DC 26",
+			"onset": "-",
+			"frequency": "1/rd. for 6 rds.",
+			"effect": "1d3 Str da...",
+			"cost": null
+		},
+		{
+			"name": "Green Prismatic Poison",
+			"file": "poisondisplay2e7b.html",
+			"poison_type": "spell",
+			"save": "Fort DC varies by spell",
+			"onset": "-",
+			"frequency": "1/rd. for 6 rds.",
+			"effect": "death / 1 Con dama...",
+			"cost": null
+		},
+		{
+			"name": "Insanity Mist",
+			"file": "poisondisplay24fc.html",
+			"poison_type": "inhaled",
+			"save": "Fort DC 15",
+			"onset": "-",
+			"frequency": "1/rds. for 6 rds.",
+			"effect": "1d3 Wis da...",
+			"cost": null
+		},
+		{
+			"name": "King's Sleep",
+			"file": "poisondisplay1549.html",
+			"poison_type": "ingested",
+			"save": "Fort DC 18",
+			"onset": "1 day",
+			"frequency": "1/day",
+			"effect": "1 Con drai...",
+			"cost": null
+		},
+		{
+			"name": "Lethe water",
+			"file": "poisondisplaybdc8.html",
+			"poison_type": "ingested",
+			"save": "Will DC 16",
+			"onset": "-",
+			"frequency": "1/rd. for 6 rds.",
+			"effect": "1d4 Int an...",
+			"cost": null
+		},
+		{
+			"name": "Maiden lily attar",
+			"file": "poisondisplay0842.html",
+			"poison_type": "inhaled",
+			"save": "Fort DC 13",
+			"onset": "-",
+			"frequency": "1/rd. for 4 rds.",
+			"effect": "unconsciou... / unconsciou...",
+			"cost": null
+		},
+		{
+			"name": "Nightmare Vapor",
+			"file": "poisondisplay9cbb.html",
+			"poison_type": "inhaled",
+			"save": "Fort DC 20",
+			"onset": "-",
+			"frequency": "1/rd. for 6 rds.",
+			"effect": "1 Wis dama...",
+			"cost": null
+		},
+		{
+			"name": "Quicklime",
+			"file": "poisondisplaycb9d.html",
+			"poison_type": "contact or inhaled",
+			"save": "Fort DC 18",
+			"onset": "-",
+			"frequency": "1/rd. for 6 rds.",
+			"effect": "1d2 Con da...",
+			"cost": null
+		},
+		{
+			"name": "Slow nectar",
+			"file": "poisondisplayaec3.html",
+			"poison_type": "injury",
+			"save": "Fort DC 17",
+			"onset": "-",
+			"frequency": "1/rd. for 6 rds.",
+			"effect": "1d3 Dex da...",
+			"cost": null
+		},
+		{
+			"name": "Spidervine poison",
+			"file": "poisondisplayecf0.html",
+			"poison_type": "injury",
+			"save": "Fort DC 15",
+			"onset": "-",
+			"frequency": "1/rd. for 6 rds.",
+			"effect": "paralysis / 1d2 Con da...",
+			"cost": null
+		},
+		{
+			"name": "Tears of Death",
+			"file": "poisondisplayf121.html",
+			"poison_type": "contact",
+			"save": "Fort DC 22",
+			"onset": "1 minute",
+			"frequency": "1/min. for 6 mins.",
+			"effect": "1d6 Con da...",
+			"cost": null
+		},
+		{
+			"name": "Ungol Dust",
+			"file": "poisondisplay791f.html",
+			"poison_type": "inhaled",
+			"save": "Fort DC 15",
+			"onset": "-",
+			"frequency": "1/rd. for 4 rds.",
+			"effect": "1 Cha drai... / 1d2 Cha da...",
+			"cost": null
+		},
+		{
+			"name": "Wyvern Poison",
+			"file": "poisondisplay13ba.html",
+			"poison_type": "injury",
+			"save": "Fort DC 17",
+			"onset": "-",
+			"frequency": "1/rd. for 6 rds.",
+			"effect": "1d4 Con da...",
+			"cost": null
+		},
+		{
+			"name": "Pupil's friend",
+			"file": "poisondisplaya08e.html",
+			"poison_type": "ingested",
+			"save": "Fort DC 10",
+			"onset": "10 minutes",
+			"frequency": "1/min. for 15 mins.",
+			"effect": "sickened f...",
+			"cost": 30
+		},
+		{
+			"name": "Dhabba spittle",
+			"file": "poisondisplaycf18.html",
+			"poison_type": "injury",
+			"save": "Fort DC 12",
+			"onset": "-",
+			"frequency": "-",
+			"effect": "1d6 acid d... / 1d4 Dex",
+			"cost": 50
+		},
+		{
+			"name": "Red tears",
+			"file": "poisondisplayac84.html",
+			"poison_type": "injury",
+			"save": "Fort DC 15",
+			"onset": "-",
+			"frequency": "1/rd. for 10 rds.",
+			"effect": "1d6 points...",
+			"cost": 50
+		},
+		{
+			"name": "Might blight",
+			"file": "poisondisplay1af3.html",
+			"poison_type": "injury",
+			"save": "Fort DC 13",
+			"onset": "1 round",
+			"frequency": "1/rd. for 4 rds.",
+			"effect": "1 Str dama...",
+			"cost": 60
+		},
+		{
+			"name": "Addlemind",
+			"file": "poisondisplay1d56.html",
+			"poison_type": "ingested",
+			"save": "Fort DC 15",
+			"onset": "1 minute",
+			"frequency": "1/min. for 10 mins.",
+			"effect": "1d2 Wisdom...",
+			"cost": 75
+		},
+		{
+			"name": "Concentrated laxative",
+			"file": "poisondisplay1707.html",
+			"poison_type": "ingested",
+			"save": "Fort DC 12",
+			"onset": "10 minutes",
+			"frequency": "1/min. for 2 mins.",
+			"effect": "This mixtu...",
+			"cost": 75
+		},
+		{
+			"name": "Drow poison",
+			"file": "poisondisplay7ecf.html",
+			"poison_type": "injury",
+			"save": "Fort DC 13",
+			"onset": "-",
+			"frequency": "1/min. for 2 mins.",
+			"effect": "unconsciou... / unconsciou...",
+			"cost": 75
+		},
+		{
+			"name": "Drow Poison",
+			"file": "poisondisplay2ad5.html",
+			"poison_type": "injury",
+			"save": "Fort DC 13",
+			"onset": "-",
+			"frequency": "1/min. for 2 mins.",
+			"effect": "unconsciou... / unconsciou...",
+			"cost": 75
+		},
+		{
+			"name": "Gelidburn oil",
+			"file": "poisondisplay97aa.html",
+			"poison_type": "injury",
+			"save": "Fort DC 12",
+			"onset": "-",
+			"frequency": "1 rd. for 4 rds.",
+			"effect": "1d3 fire, ...",
+			"cost": 75
+		},
+		{
+			"name": "Goblin's eye",
+			"file": "poisondisplay9201.html",
+			"poison_type": "ingested",
+			"save": "Fort DC 13",
+			"onset": "1 minute",
+			"frequency": "1/min. for 6 mins.",
+			"effect": "1 Con dama...",
+			"cost": 75
+		},
+		{
+			"name": "Vampire's kiss",
+			"file": "poisondisplayef94.html",
+			"poison_type": "injury",
+			"save": "Fort DC 15",
+			"onset": "-",
+			"frequency": "1/rd. for 2 rds.",
+			"effect": "1d2 Con da... / bleed dama...",
+			"cost": 75
+		},
+		{
+			"name": "Confabulation powder",
+			"file": "poisondisplayf3c3.html",
+			"poison_type": "inhaled",
+			"save": "Fort DC 18",
+			"onset": "-",
+			"frequency": "1/min. for 2 mins.",
+			"effect": "staggered ... / If already...",
+			"cost": 80
+		},
+		{
+			"name": "Baneberry",
+			"file": "poisondisplayae69.html",
+			"poison_type": "ingested or injury",
+			"save": "Fort DC 15",
+			"onset": "1 round (injury), 30 minutes (ingested)",
+			"frequency": "1/min. for 5 mins.",
+			"effect": "1d3 Streng...",
+			"cost": 90
+		},
+		{
+			"name": "Oil of Taggit",
+			"file": "poisondisplayc6d1.html",
+			"poison_type": "ingested",
+			"save": "Fort DC 15",
+			"onset": "1 minute",
+			"frequency": "-",
+			"effect": "unconsciou...",
+			"cost": 90
+		},
+		{
+			"name": "Oil of taggit",
+			"file": "poisondisplay46e2.html",
+			"poison_type": "ingested",
+			"save": "Fort DC 15",
+			"onset": "1 minute",
+			"frequency": "-",
+			"effect": "unconsciou...",
+			"cost": 90
+		},
+		{
+			"name": "Small centipede poison",
+			"file": "poisondisplay448e.html",
+			"poison_type": "injury",
+			"save": "Fort DC 11",
+			"onset": "-",
+			"frequency": "1/rd. for 4 rds.",
+			"effect": "1 Dex",
+			"cost": 90
+		},
+		{
+			"name": "Small Centipede Poison",
+			"file": "poisondisplay5724.html",
+			"poison_type": "injury",
+			"save": "Fort DC 11",
+			"onset": "-",
+			"frequency": "1/rd. for 4 rds.",
+			"effect": "1 Dex dama...",
+			"cost": 90
+		},
+		{
+			"name": "Thornapple",
+			"file": "poisondisplayceef.html",
+			"poison_type": "contact",
+			"save": "Fort DC 11",
+			"onset": "10 minutes",
+			"frequency": "1/min. for 6 mins.",
+			"effect": "1 Int dama...",
+			"cost": 90
+		},
+		{
+			"name": "Belladonna",
+			"file": "poisondisplay2899.html",
+			"poison_type": "ingested",
+			"save": "Fort DC 14",
+			"onset": "10 minutes",
+			"frequency": "1/min. for 6 mins.",
+			"effect": "1d2 Str, s...",
+			"cost": 100
+		},
+		{
+			"name": "Bloodroot",
+			"file": "poisondisplaye7db.html",
+			"poison_type": "injury",
+			"save": "Fort DC 12",
+			"onset": "1 round",
+			"frequency": "1/rd. for 4 rds.",
+			"effect": "1 Con and ...",
+			"cost": 100
+		},
+		{
+			"name": "Bloodwine",
+			"file": "poisondisplayb310.html",
+			"poison_type": "ingested",
+			"save": "Fort DC 25",
+			"onset": "-",
+			"frequency": "1/min. for 6 mins.",
+			"effect": "sickened f... / 1d3 Wis da...",
+			"cost": 100
+		},
+		{
+			"name": "Flayleaf spider venom",
+			"file": "poisondisplay0043.html",
+			"poison_type": "injury",
+			"save": "Fort DC 11",
+			"onset": "-",
+			"frequency": "-",
+			"effect": "1d3 Con / 1d3 Con",
+			"cost": 100
+		},
+		{
+			"name": "Frightshade",
+			"file": "poisondisplay0298.html",
+			"poison_type": "inhaled",
+			"save": "Fort DC 14",
+			"onset": "-",
+			"frequency": "1/rd. for 4 rds.",
+			"effect": "This plant...",
+			"cost": 100
+		},
+		{
+			"name": "Frostspore",
+			"file": "poisondisplaye024.html",
+			"poison_type": "ingested or injury",
+			"save": "Fort DC 13",
+			"onset": "-",
+			"frequency": "1/rd. for 6 rds.",
+			"effect": "1d6 cold d...",
+			"cost": 100
+		},
+		{
+			"name": "Greenblood Oil",
+			"file": "poisondisplayea83.html",
+			"poison_type": "injury",
+			"save": "Fort DC 13",
+			"onset": "-",
+			"frequency": "1/rd. for 4 rds.",
+			"effect": "11 Con dam...",
+			"cost": 100
+		},
+		{
+			"name": "Greenblood oil",
+			"file": "poisondisplayc4d3.html",
+			"poison_type": "injury",
+			"save": "Fort DC 13",
+			"onset": "-",
+			"frequency": "1/rd. for 4 rds.",
+			"effect": "1 Con",
+			"cost": 100
+		},
+		{
+			"name": "Numbing poison",
+			"file": "poisondisplay36d8.html",
+			"poison_type": "injury",
+			"save": "Fort DC 13",
+			"onset": "-",
+			"frequency": "-",
+			"effect": "1d3 Str an... / 1d3 Str an...",
+			"cost": 100
+		},
+		{
+			"name": "Woundweal",
+			"file": "poisondisplay7c66.html",
+			"poison_type": "injury",
+			"save": "Fort DC 18",
+			"onset": "1 round",
+			"frequency": "1/day",
+			"effect": "impaired h...",
+			"cost": 100
+		},
+		{
+			"name": "Arsenic",
+			"file": "poisondisplay657a.html",
+			"poison_type": "ingested",
+			"save": "Fort DC 13",
+			"onset": "10 minutes",
+			"frequency": "1/min. for 4 mins.",
+			"effect": "1d2 Con",
+			"cost": 120
+		},
+		{
+			"name": "Black Adder Venom",
+			"file": "poisondisplay0c12.html",
+			"poison_type": "injury",
+			"save": "Fort DC 11",
+			"onset": "-",
+			"frequency": "1/rd. for 6 rds.",
+			"effect": "1d2 Con da...",
+			"cost": 120
+		},
+		{
+			"name": "Black adder venom",
+			"file": "poisondisplayd4c5.html",
+			"poison_type": "injury",
+			"save": "Fort DC 11",
+			"onset": "-",
+			"frequency": "1/rd. for 6 rds.",
+			"effect": "1d2 Con",
+			"cost": 120
+		},
+		{
+			"name": "Blue whinnis",
+			"file": "poisondisplay3320.html",
+			"poison_type": "injury",
+			"save": "Fort DC 14",
+			"onset": "-",
+			"frequency": "1/rd. for 2 rds.",
+			"effect": "1 Con / unconsciou...",
+			"cost": 120
+		},
+		{
+			"name": "Blue Whinnis",
+			"file": "poisondisplay842e.html",
+			"poison_type": "injury",
+			"save": "Fort DC 14",
+			"onset": "-",
+			"frequency": "1/rd. for 2 rds.",
+			"effect": "1 Con dama... / unconsciou...",
+			"cost": 120
+		},
+		{
+			"name": "Calotropis",
+			"file": "poisondisplayca9f.html",
+			"poison_type": "ingested",
+			"save": "Fort DC 14",
+			"onset": "1 hour",
+			"frequency": "1/min. for 6 mins.",
+			"effect": "1 Wis dama...",
+			"cost": 120
+		},
+		{
+			"name": "Liquid persuasion",
+			"file": "poisondisplay82f0.html",
+			"poison_type": "ingested",
+			"save": "Fort DC 11",
+			"onset": "10 minutes",
+			"frequency": "1/min. for 5 mins.",
+			"effect": "1 Wis dama...",
+			"cost": 120
+		},
+		{
+			"name": "Goblinvine oil",
+			"file": "poisondisplay1705.html",
+			"poison_type": "contact",
+			"save": "Fort DC 10",
+			"onset": "1 round",
+			"frequency": "-",
+			"effect": "sickened",
+			"cost": 125
+		},
+		{
+			"name": "Id Moss",
+			"file": "poisondisplay0c74.html",
+			"poison_type": "ingested",
+			"save": "Fort DC 14",
+			"onset": "10 minutes",
+			"frequency": "1/min. for 6 mins.",
+			"effect": "1d3 Int da...",
+			"cost": 125
+		},
+		{
+			"name": "Id moss",
+			"file": "poisondisplayb52f.html",
+			"poison_type": "ingested",
+			"save": "Fort DC 14",
+			"onset": "10 minutes",
+			"frequency": "1/min. for 6 mins.",
+			"effect": "1d3 Int",
+			"cost": 125
+		},
+		{
+			"name": "Draughtcap fungus",
+			"file": "poisondisplayf27c.html",
+			"poison_type": "ingested",
+			"save": "Fort DC 16",
+			"onset": "4d6 hours",
+			"frequency": "1/hour for 8 hours",
+			"effect": "1d2 Str da...",
+			"cost": 150
+		},
+		{
+			"name": "Indigo dreams",
+			"file": "poisondisplay3b52.html",
+			"poison_type": "ingested",
+			"save": "Fort DC 13",
+			"onset": "10 minutes",
+			"frequency": "1/min. for 6 mins.",
+			"effect": "1d3 Wis",
+			"cost": 150
+		},
+		{
+			"name": "Marvelous fear gas",
+			"file": "poisondisplayb362.html",
+			"poison_type": "inhaled",
+			"save": "Fort DC 17",
+			"onset": "injury or affected by any fear condition or effect",
+			"frequency": "1/min. for 4 mins.",
+			"effect": "shaken for... / 1d2 Wisdom...",
+			"cost": 150
+		},
+		{
+			"name": "Medium spider venom",
+			"file": "poisondisplay3128.html",
+			"poison_type": "injury",
+			"save": "Fort DC 14",
+			"onset": "-",
+			"frequency": "1/rd. for 4 rds.",
+			"effect": "1d2 Str",
+			"cost": 150
+		},
+		{
+			"name": "Medium Spider Venom",
+			"file": "poisondisplay62bf.html",
+			"poison_type": "injury",
+			"save": "Fort DC 14",
+			"onset": "-",
+			"frequency": "1/rd. for 4 rds.",
+			"effect": "1d2 Str da...",
+			"cost": 150
+		},
+		{
+			"name": "Rainbow scarab shell",
+			"file": "poisondisplay95da.html",
+			"poison_type": "injury",
+			"save": "Fort DC 14",
+			"onset": "1 round",
+			"frequency": "1/rd. for 4 rds.",
+			"effect": "1d4 Streng...",
+			"cost": 150
+		},
+		{
+			"name": "Alchemical isolation",
+			"file": "poisondisplay84f8.html",
+			"poison_type": "inhaled",
+			"save": "Fort DC 13",
+			"onset": "-",
+			"frequency": "1/min. for 2 mins.",
+			"effect": "deafened f... / blinded fo...",
+			"cost": 175
+		},
+		{
+			"name": "Insecticide",
+			"file": "poisondisplay622d.html",
+			"poison_type": "inhaled",
+			"save": "Fort DC 10 (see text)",
+			"onset": "-",
+			"frequency": "1/rd. for 3 rds.",
+			"effect": "1 Str dama...",
+			"cost": 175
+		},
+		{
+			"name": "Striped toadstool",
+			"file": "poisondisplaycf59.html",
+			"poison_type": "ingested",
+			"save": "Fort DC 11",
+			"onset": "10 minutes",
+			"frequency": "1/min. for 4 mins.",
+			"effect": "1d3 Wis an...",
+			"cost": 180
+		},
+		{
+			"name": "Striped Toadstool",
+			"file": "poisondisplay40da.html",
+			"poison_type": "ingested",
+			"save": "Fort DC 11",
+			"onset": "10 minutes",
+			"frequency": "1/min. for 4 mins.",
+			"effect": "1d3 Wis da...",
+			"cost": 180
+		},
+		{
+			"name": "Black whinnis",
+			"file": "poisondisplay5bfe.html",
+			"poison_type": "injury",
+			"save": "Fort DC 14",
+			"onset": "-",
+			"frequency": "1/rd. for 2 rds.",
+			"effect": "1 Con dama... / nausea for...",
+			"cost": 200
+		},
+		{
+			"name": "Chelish deathapple",
+			"file": "poisondisplay0a62.html",
+			"poison_type": "ingested",
+			"save": "Fort DC 23",
+			"onset": "1 minute",
+			"frequency": "1/min. for 2 mins.",
+			"effect": "enter a de... / remain in ...",
+			"cost": 200
+		},
+		{
+			"name": "Hazemind concentrate",
+			"file": "poisondisplayafc0.html",
+			"poison_type": "injury",
+			"save": "Fort DC 16",
+			"onset": "1 round",
+			"frequency": "1/rd. for 6 rds.",
+			"effect": "The subjec...",
+			"cost": 200
+		},
+		{
+			"name": "Large scorpion venom",
+			"file": "poisondisplayb2a2.html",
+			"poison_type": "injury",
+			"save": "Fort DC 17",
+			"onset": "-",
+			"frequency": "1/rd. for 6 rds.",
+			"effect": "1d2 Str",
+			"cost": 200
+		},
+		{
+			"name": "Large Scorpion Venom",
+			"file": "poisondisplay9c16.html",
+			"poison_type": "injury",
+			"save": "Fort DC 17",
+			"onset": "-",
+			"frequency": "1/rd. for 6 rds.",
+			"effect": "1d2 Str da...",
+			"cost": 200
+		},
+		{
+			"name": "Purple pesh",
+			"file": "poisondisplay7370.html",
+			"poison_type": "ingested",
+			"save": "Fort DC 18",
+			"onset": "-",
+			"frequency": "-",
+			"effect": "1d2 Con an... / unconsciou...",
+			"cost": 200
+		},
+		{
+			"name": "Spellscorch",
+			"file": "poisondisplay3b7c.html",
+			"poison_type": "injury",
+			"save": "Fort DC 14",
+			"onset": "-",
+			"frequency": "1/rd. for 4 rds.",
+			"effect": "Refined fr...",
+			"cost": 200
+		},
+		{
+			"name": "Giant Wasp Poison",
+			"file": "poisondisplayf164.html",
+			"poison_type": "injury",
+			"save": "Fort DC 18",
+			"onset": "-",
+			"frequency": "1/rd. for 6 rds.",
+			"effect": "1d2 Dex da...",
+			"cost": 210
+		},
+		{
+			"name": "Giant wasp poison",
+			"file": "poisondisplayb893.html",
+			"poison_type": "injury",
+			"save": "Fort DC 18",
+			"onset": "-",
+			"frequency": "1/rd. for 6 rds.",
+			"effect": "1d2 Dex",
+			"cost": 210
+		},
+		{
+			"name": "Hazemind mist",
+			"file": "poisondisplay17d5.html",
+			"poison_type": "inhaled",
+			"save": "Fort DC 13",
+			"onset": "1 round",
+			"frequency": "1/rd. for 10 rds.",
+			"effect": "The subjec...",
+			"cost": 225
+		},
+		{
+			"name": "Diplopic serum",
+			"file": "poisondisplay82fb.html",
+			"poison_type": "injury",
+			"save": "Fort DC 15",
+			"onset": "-",
+			"frequency": "1/rd. for 6 rds.",
+			"effect": "1d2 Wis da...",
+			"cost": 250
+		},
+		{
+			"name": "Malyass Root Paste",
+			"file": "poisondisplay8dd5.html",
+			"poison_type": "contact",
+			"save": "Fort DC 16",
+			"onset": "1 minute",
+			"frequency": "1/min. for 6 mins.",
+			"effect": "1d2 Dex da...",
+			"cost": 250
+		},
+		{
+			"name": "Malyass root paste",
+			"file": "poisondisplaya837.html",
+			"poison_type": "contact",
+			"save": "Fort DC 16",
+			"onset": "1 minute",
+			"frequency": "1/min. for 6 mins.",
+			"effect": "1d2 Dex",
+			"cost": 250
+		},
+		{
+			"name": "Nymph's lure",
+			"file": "poisondisplay66a3.html",
+			"poison_type": "ingested",
+			"save": "Fort DC 15",
+			"onset": "1d4 hours",
+			"frequency": "1/hour for 8 hours",
+			"effect": "1d2 Str an...",
+			"cost": 250
+		},
+		{
+			"name": "Shadow essence",
+			"file": "poisondisplay0465.html",
+			"poison_type": "injury",
+			"save": "Fort DC 17",
+			"onset": "-",
+			"frequency": "1/rd. for 6 rds.",
+			"effect": "1 Str drai... / 1d2 Str",
+			"cost": 250
+		},
+		{
+			"name": "Shadow Essence",
+			"file": "poisondisplay6e07.html",
+			"poison_type": "injury",
+			"save": "Fort DC 17",
+			"onset": "-",
+			"frequency": "1/rd. for 6 rds.",
+			"effect": "1 Str drai... / 1d2 Str da...",
+			"cost": 250
+		},
+		{
+			"name": "Blackfinger's salt",
+			"file": "poisondisplay6362.html",
+			"poison_type": "ingested",
+			"save": "Fort DC 17",
+			"onset": "10 minutes",
+			"frequency": "1/min. for 6 minute",
+			"effect": "1d2 Con an...",
+			"cost": 300
+		},
+		{
+			"name": "Sassone Leaf Residue",
+			"file": "poisondisplaybcfd.html",
+			"poison_type": "contact",
+			"save": "Fort DC 16",
+			"onset": "1 minute",
+			"frequency": "1/min. for 6 mins.",
+			"effect": "2d12 hit p... / 1 Con dama...",
+			"cost": 300
+		},
+		{
+			"name": "Sassone leaf residue",
+			"file": "poisondisplaybac6.html",
+			"poison_type": "contact",
+			"save": "Fort DC 16",
+			"onset": "1 minute",
+			"frequency": "1/min. for 6 mins.",
+			"effect": "2d12 hp / 1 Con",
+			"cost": 300
+		},
+		{
+			"name": "Sloth's bite",
+			"file": "poisondisplay056e.html",
+			"poison_type": "injury",
+			"save": "Fort DC 18",
+			"onset": "-",
+			"frequency": "1/rd. for 6 rds.",
+			"effect": "This poiso...",
+			"cost": 300
+		},
+		{
+			"name": "Starving nettle",
+			"file": "poisondisplayd6e1.html",
+			"poison_type": "injury",
+			"save": "Fort DC 15",
+			"onset": "-",
+			"frequency": "1/day for 8 days",
+			"effect": "1d3 Dex an...",
+			"cost": 300
+		},
+		{
+			"name": "Count Ambras's punishment",
+			"file": "poisondisplayfd99.html",
+			"poison_type": "contact",
+			"save": "Fort DC 16",
+			"onset": "1 minute",
+			"frequency": "1/min. for 6 mins.",
+			"effect": "1 Dex drai... / 1d2 Dex dr...",
+			"cost": 350
+		},
+		{
+			"name": "Ossivane",
+			"file": "poisondisplay13e1.html",
+			"poison_type": "injury",
+			"save": "Fort DC 18",
+			"onset": "-",
+			"frequency": "1/rd. for 6 rds. (see text)",
+			"effect": "1d3 Dex",
+			"cost": 350
+		},
+		{
+			"name": "Slaver's will",
+			"file": "poisondisplay660b.html",
+			"poison_type": "ingested",
+			"save": "Fort DC 14",
+			"onset": "10 minutes",
+			"frequency": "1/hour for 8 hours",
+			"effect": " 1 Wis dam...",
+			"cost": 350
+		},
+		{
+			"name": "Blackfinder's silence",
+			"file": "poisondisplaya0b9.html",
+			"poison_type": "injury",
+			"save": "Fort DC 14",
+			"onset": "-",
+			"frequency": "1/rd. for 4 rds.",
+			"effect": "unable to ...",
+			"cost": 400
+		},
+		{
+			"name": "Bloodbrain Venom",
+			"file": "poisondisplay9d3c.html",
+			"poison_type": "injury",
+			"save": "Fort DC 17",
+			"onset": "-",
+			"frequency": "1/rd. for 6 rds.",
+			"effect": "1d6 Str da... / 1d3 Str da...",
+			"cost": 400
+		},
+		{
+			"name": "Brinestump special",
+			"file": "poisondisplayce16.html",
+			"poison_type": "ingested",
+			"save": "Fort DC 15",
+			"onset": "1 round",
+			"frequency": "-",
+			"effect": "nauseated ...",
+			"cost": 400
+		},
+		{
+			"name": "Cloudthorn venom",
+			"file": "poisondisplay02bc.html",
+			"poison_type": "injury",
+			"save": "Fort DC 14",
+			"onset": "1d4 rounds",
+			"frequency": "1/hour for 3 hours",
+			"effect": "1d3 Str an...",
+			"cost": 400
+		},
+		{
+			"name": "Gray justice",
+			"file": "poisondisplayfac9.html",
+			"poison_type": "injury",
+			"save": "Fort DC 18",
+			"onset": "-",
+			"frequency": "1/min. for 10 mins.",
+			"effect": "1d2 Wis, s...",
+			"cost": 400
+		},
+		{
+			"name": "Lich Dust",
+			"file": "poisondisplay50cd.html",
+			"poison_type": "ingested",
+			"save": "Fort DC 17",
+			"onset": "10 minutes",
+			"frequency": "1/min. for 6 mins.",
+			"effect": "1d3 Str da...",
+			"cost": 400
+		},
+		{
+			"name": "Lich dust",
+			"file": "poisondisplaybd1f.html",
+			"poison_type": "ingested",
+			"save": "Fort DC 17",
+			"onset": "10 minutes",
+			"frequency": "1/min. for 6 mins.",
+			"effect": "1d3 Str",
+			"cost": 400
+		},
+		{
+			"name": "Peasant's woe",
+			"file": "poisondisplaye0ba.html",
+			"poison_type": "injury",
+			"save": "Fort DC 15",
+			"onset": "-",
+			"frequency": "1/rd. for 4 rds.",
+			"effect": "-10 ft. to... / 1 Dex dama...",
+			"cost": 400
+		},
+		{
+			"name": "Rainbow jellyfish toxin",
+			"file": "poisondisplay8b3b.html",
+			"poison_type": "contact, injury",
+			"save": "Fort DC 14",
+			"onset": "-",
+			"frequency": "1/rd. for 2 rds.",
+			"effect": "staggered ... / paralyzed ...",
+			"cost": 400
+		},
+		{
+			"name": "Swampseer poison",
+			"file": "poisondisplaye28e.html",
+			"poison_type": "ingested",
+			"save": "Fort DC 18",
+			"onset": "10 minutes",
+			"frequency": "1/min. for 3 mins.",
+			"effect": "1d4 Wis / 1d2 Wis an...",
+			"cost": 400
+		},
+		{
+			"name": "Terinav root",
+			"file": "poisondisplay624d.html",
+			"poison_type": "contact",
+			"save": "Fort DC 16",
+			"onset": "1 minute",
+			"frequency": "1/min. for 6 mins.",
+			"effect": "1d3 Dex",
+			"cost": 400
+		},
+		{
+			"name": "Terinav Root",
+			"file": "poisondisplay7926.html",
+			"poison_type": "contact",
+			"save": "Fort DC 16",
+			"onset": "1 minute",
+			"frequency": "1/min. for 6 mins.",
+			"effect": "1d3 Dex da...",
+			"cost": 400
+		},
+		{
+			"name": "Blue star",
+			"file": "poisondisplayd831.html",
+			"poison_type": "ingested",
+			"save": "Fort DC 15",
+			"onset": "10 minutes",
+			"frequency": "1/min. for 6 mins.",
+			"effect": "1d2 Con da...",
+			"cost": 500
+		},
+		{
+			"name": "Calistria's revenge",
+			"file": "poisondisplaydc2c.html",
+			"poison_type": "ingested",
+			"save": "Fort DC 16",
+			"onset": "consuming one or more alchoholic drink",
+			"frequency": "1/min. for 6 mins.",
+			"effect": "1d2 Dexter...",
+			"cost": 500
+		},
+		{
+			"name": "Fiddleback venom",
+			"file": "poisondisplaye1e1.html",
+			"poison_type": "injury, ingested",
+			"save": "Fort DC 13",
+			"onset": "1 minute",
+			"frequency": "1/min. for 6 mins.",
+			"effect": "nauseated ... / 1d3 Str da...",
+			"cost": 500
+		},
+		{
+			"name": "Halo mushroom toxin",
+			"file": "poisondisplayd54f.html",
+			"poison_type": "ingested",
+			"save": "Fort DC 18",
+			"onset": "10 minutes",
+			"frequency": "1/min. for 6 mins.",
+			"effect": "distractio... / 1d4 Wisdom...",
+			"cost": 500
+		},
+		{
+			"name": "Laughing gas",
+			"file": "poisondisplay6217.html",
+			"poison_type": "inhaled",
+			"save": "Fort DC 12",
+			"onset": "immediate",
+			"frequency": "1/rd. for 5 rds.",
+			"effect": "The subjec...",
+			"cost": 500
+		},
+		{
+			"name": "Mage bane",
+			"file": "poisondisplay928a.html",
+			"poison_type": "contact",
+			"save": "Fort DC 20",
+			"onset": "-",
+			"frequency": "-",
+			"effect": "+10 to all... / +10 to all...",
+			"cost": 500
+		},
+		{
+			"name": "Riddleport tea",
+			"file": "poisondisplay52df.html",
+			"poison_type": "ingested",
+			"save": "Fort DC 15",
+			"onset": "-",
+			"frequency": "-",
+			"effect": "confusi... / fatigue",
+			"cost": 500
+		},
+		{
+			"name": "Wolfsbane",
+			"file": "poisondisplay0028.html",
+			"poison_type": "ingested",
+			"save": "Fort DC 16",
+			"onset": "10 minutes",
+			"frequency": "1/min. for 6 mins.",
+			"effect": "1d3 Con",
+			"cost": 500
+		},
+		{
+			"name": "Crone's curse",
+			"file": "poisondisplay99e7.html",
+			"poison_type": "inhaled",
+			"save": "Fort DC 16",
+			"onset": "1d4 hours",
+			"frequency": "1/day for 6 days",
+			"effect": "1 Dex and ...",
+			"cost": 600
+		},
+		{
+			"name": "Jackalroot essence",
+			"file": "poisondisplay80c1.html",
+			"poison_type": "injury",
+			"save": "Fort DC 18",
+			"onset": "-",
+			"frequency": "1/rd. for 1d6 rds.",
+			"effect": "uncontroll...",
+			"cost": 600
+		},
+		{
+			"name": "Smell of fear",
+			"file": "poisondisplay470b.html",
+			"poison_type": "inhaled",
+			"save": "Fort DC 17",
+			"onset": "-",
+			"frequency": "1/min. for 6 mins.",
+			"effect": "1d2 Wis da...",
+			"cost": 600
+		},
+		{
+			"name": "Tears of perfection",
+			"file": "poisondisplay49f3.html",
+			"poison_type": "injury",
+			"save": "Fort DC 18",
+			"onset": "1 round",
+			"frequency": "1/rd. for 4 rds.",
+			"effect": "1d2 Wis da... / blindness ...",
+			"cost": 600
+		},
+		{
+			"name": "Tongue twist",
+			"file": "poisondisplay0a05.html",
+			"poison_type": "injury",
+			"save": "Fort DC 16",
+			"onset": "-",
+			"frequency": "1/rd. for 6 rds.",
+			"effect": "1d2 Int da...",
+			"cost": 600
+		},
+		{
+			"name": "Nitharit",
+			"file": "poisondisplay9060.html",
+			"poison_type": "contact",
+			"save": "Fort DC 13",
+			"onset": "1 minute",
+			"frequency": "1/min. for 6 mins.",
+			"effect": "1d3 Con",
+			"cost": 650
+		},
+		{
+			"name": "Witch-hunter's sword",
+			"file": "poisondisplayd2a1.html",
+			"poison_type": "ingested",
+			"save": "Fort DC 19",
+			"onset": "10 minutes",
+			"frequency": "1/hour for 8 hours",
+			"effect": "1 Int, Wis...",
+			"cost": 650
+		},
+		{
+			"name": "Purple Worm Poison",
+			"file": "poisondisplaye358.html",
+			"poison_type": "injury",
+			"save": "Fort DC 24",
+			"onset": "-",
+			"frequency": "1/rd. for 6 rds.",
+			"effect": "1d3 Str da...",
+			"cost": 700
+		},
+		{
+			"name": "Purple worm poison",
+			"file": "poisondisplay42d9.html",
+			"poison_type": "injury",
+			"save": "Fort DC 24",
+			"onset": "-",
+			"frequency": "1/rd. for 6 rds.",
+			"effect": "1d3 Str",
+			"cost": 700
+		},
+		{
+			"name": "Juvebloom",
+			"file": "poisondisplaycd2f.html",
+			"poison_type": "ingested",
+			"save": "Fort DC 16",
+			"onset": "1 day",
+			"frequency": "1day for 7 days",
+			"effect": "1 Wis drai...",
+			"cost": 750
+		},
+		{
+			"name": "Liquid leprosy",
+			"file": "poisondisplay0b85.html",
+			"poison_type": "contact",
+			"save": "Fort DC 20",
+			"onset": "1 minute",
+			"frequency": "1/min. for 6 mins.",
+			"effect": "Each time ...",
+			"cost": 750
+		},
+		{
+			"name": "Muddling heresy",
+			"file": "",
+			"poison_type": "injury",
+			"save": "Fort DC 20",
+			"onset": "-",
+			"frequency": "1/rd. for 6 rds.",
+			"effect": "1d4+1 Wis ...",
+			"cost": 750
+		},
+		{
+			"name": "Twilight illness",
+			"file": "poisondisplay8710.html",
+			"poison_type": "contact",
+			"save": "Fort DC 19",
+			"onset": "eating food",
+			"frequency": "1/hour for 8 hours",
+			"effect": "nauseated ...",
+			"cost": 750
+		},
+		{
+			"name": "Vessel between",
+			"file": "poisondisplay03a3.html",
+			"poison_type": "ingested",
+			"save": "Fort DC 20",
+			"onset": "sickened",
+			"frequency": "1/min. for 4 mins.",
+			"effect": "1d2 Consti...",
+			"cost": 750
+		},
+		{
+			"name": "Black spider marsh poison",
+			"file": "poisondisplay8975.html",
+			"poison_type": "injury",
+			"save": "Fort DC 14",
+			"onset": "-",
+			"frequency": "1/rd. for 6 rds.",
+			"effect": "1d4 Dex an...",
+			"cost": 800
+		},
+		{
+			"name": "Brain blot",
+			"file": "poisondisplayaaa3.html",
+			"poison_type": "inhaled",
+			"save": "Fort DC 13",
+			"onset": "1 minute",
+			"frequency": "1/min. for 6 mins.",
+			"effect": "-5 on conc... / 1 Int dama...",
+			"cost": 800
+		},
+		{
+			"name": "Cytillesh extract",
+			"file": "poisondisplayf4de.html",
+			"poison_type": "ingested",
+			"save": "Fort DC 18",
+			"onset": "-",
+			"frequency": "1/hour for 8 hours",
+			"effect": "The victim...",
+			"cost": 800
+		},
+		{
+			"name": "Dark reaver powder",
+			"file": "poisondisplay416b.html",
+			"poison_type": "ingested",
+			"save": "Fort DC 18",
+			"onset": "10 minutes",
+			"frequency": "1/min. for 6 mins.",
+			"effect": "1d3 Con an...",
+			"cost": 800
+		},
+		{
+			"name": "Dark Reaver Powder",
+			"file": "poisondisplay9092.html",
+			"poison_type": "ingested",
+			"save": "Fort DC 18",
+			"onset": "10 minutes",
+			"frequency": "1/min. for 6 mins.",
+			"effect": "1d3 Con da...",
+			"cost": 800
+		},
+		{
+			"name": "Violet venom",
+			"file": "poisondisplay369a.html",
+			"poison_type": "contact",
+			"save": "Fort DC 13",
+			"onset": "-",
+			"frequency": "1/min. for 6 mins.",
+			"effect": "1d2 Str an...",
+			"cost": 800
+		},
+		{
+			"name": "Flaming doom",
+			"file": "poisondisplay3cf7.html",
+			"poison_type": "injury",
+			"save": "Fort DC 18",
+			"onset": "-",
+			"frequency": "1/rd. for 6 rds.",
+			"effect": "1d6 fire d...",
+			"cost": 900
+		},
+		{
+			"name": "Fury gas",
+			"file": "poisondisplay07d3.html",
+			"poison_type": "inhaled",
+			"save": "Fort DC 16",
+			"onset": "-",
+			"frequency": "1/min. for 4 mins.",
+			"effect": "Non-orcs a...",
+			"cost": 900
+		},
+		{
+			"name": "Nights-eye dust",
+			"file": "poisondisplayf707.html",
+			"poison_type": "inhaled",
+			"save": "Fort DC 13",
+			"onset": "-",
+			"frequency": "1/rd. for 6 rds.",
+			"effect": "shaken / blinded fo...",
+			"cost": 900
+		},
+		{
+			"name": "Sweetdream",
+			"file": "poisondisplayf21e.html",
+			"poison_type": "inhaled",
+			"save": "Fort DC 19",
+			"onset": "1 round",
+			"frequency": "1/min. for 2 mins.",
+			"effect": "sleep for ... / sleep for ...",
+			"cost": 900
+		},
+		{
+			"name": "Third eye",
+			"file": "poisondisplay3d28.html",
+			"poison_type": "contact",
+			"save": "Fort DC 17",
+			"onset": "1 minute",
+			"frequency": "1/rd. for 6 rds.",
+			"effect": "1d3 Wis da...",
+			"cost": 900
+		},
+		{
+			"name": "Bloodpyre",
+			"file": "poisondisplay52ad.html",
+			"poison_type": "contact",
+			"save": "Fort DC 14",
+			"onset": "-",
+			"frequency": "1/rd. for 6 rds.",
+			"effect": "1 Cha, Int...",
+			"cost": 1000
+		},
+		{
+			"name": "Cockatrice spit",
+			"file": "poisondisplayd99a.html",
+			"poison_type": "contact, injury, ingested",
+			"save": "Fort DC 12",
+			"onset": "-",
+			"frequency": "1/rd. for 4 rds.",
+			"effect": "1d2 Dex da...",
+			"cost": 1000
+		},
+		{
+			"name": "Ragespittle",
+			"file": "poisondisplay7f9b.html",
+			"poison_type": "contact",
+			"save": "Fort DC 17",
+			"onset": "1 minute",
+			"frequency": "1/min. for 6 mins.",
+			"effect": "1d2 Dex, s...",
+			"cost": 1000
+		},
+		{
+			"name": "Ungol dust",
+			"file": "poisondisplay812c.html",
+			"poison_type": "inhaled",
+			"save": "Fort DC 15",
+			"onset": "-",
+			"frequency": "1/rd. for 4 rds.",
+			"effect": "1 Cha drai... / 1d2 Cha",
+			"cost": 1000
+		},
+		{
+			"name": "Blistercap spore",
+			"file": "poisondisplay08f3.html",
+			"poison_type": "contact",
+			"save": "Fort DC 20",
+			"onset": "-",
+			"frequency": "1/rd. for 6 rds.",
+			"effect": "1d2 Dex dr... / sickened f...",
+			"cost": 1125
+		},
+		{
+			"name": "Blistercap spore poison",
+			"file": "poisondisplay6e80.html",
+			"poison_type": "contact",
+			"save": "Fort DC 20",
+			"onset": "-",
+			"frequency": "1/rd. for 6 rds.",
+			"effect": "1d2 Dex dr... / sickened f...",
+			"cost": 1125
+		},
+		{
+			"name": "Lungsap powder",
+			"file": "poisondisplayc691.html",
+			"poison_type": "inhaled",
+			"save": "Fort DC 16",
+			"onset": "-",
+			"frequency": "1/rd. for 4 rds.",
+			"effect": "This fine ...",
+			"cost": 1200
+		},
+		{
+			"name": "Lungtaker",
+			"file": "poisondisplayf4a0.html",
+			"poison_type": "inhaled",
+			"save": "Fort DC 17",
+			"onset": "-",
+			"frequency": "1/rd. for 6 rds.",
+			"effect": "1d6 Str; I...",
+			"cost": 1200
+		},
+		{
+			"name": "Red bedlam",
+			"file": "poisondisplay905e.html",
+			"poison_type": "ingested",
+			"save": "Fort DC 15",
+			"onset": "10 minutes",
+			"frequency": "1/min. for 10 mins.",
+			"effect": "confusion",
+			"cost": 1200
+		},
+		{
+			"name": "Skinsap extract",
+			"file": "poisondisplayfadd.html",
+			"poison_type": "injury",
+			"save": "Fort DC 16",
+			"onset": "-",
+			"frequency": "1/rd. for 6 rds.",
+			"effect": "staggered ... / 1d2 Dexter...",
+			"cost": 1400
+		},
+		{
+			"name": "Azure lily pollen",
+			"file": "poisondisplay5b00.html",
+			"poison_type": "inhaled",
+			"save": "Fort DC 15",
+			"onset": "-",
+			"frequency": "1/min. for 2 mins.",
+			"effect": "nauseated ... / paralyzed ...",
+			"cost": 1500
+		},
+		{
+			"name": "Breath of the mantis god",
+			"file": "poisondisplayec12.html",
+			"poison_type": "inhaled",
+			"save": "Fort DC 21",
+			"onset": "-",
+			"frequency": "1/min. for 6 mins.",
+			"effect": "1d4 bleed;... / 1d3 Con da...",
+			"cost": 1500
+		},
+		{
+			"name": "Demon nettle sap",
+			"file": "poisondisplayb7ff.html",
+			"poison_type": "injury",
+			"save": "Fort DC 21",
+			"onset": "-",
+			"frequency": "1/rd. for 6 rds.",
+			"effect": "1d2 Wis dr...",
+			"cost": 1500
+		},
+		{
+			"name": "Dragon bile",
+			"file": "poisondisplay9380.html",
+			"poison_type": "contact",
+			"save": "Fort DC 26",
+			"onset": "-",
+			"frequency": "1/rd. for 6 rds.",
+			"effect": "1d3 Str",
+			"cost": 1500
+		},
+		{
+			"name": "Hag spit",
+			"file": "poisondisplayf185.html",
+			"poison_type": "injury, ingested",
+			"save": "Fort DC 16",
+			"onset": "-",
+			"frequency": "1/rd. for 6 rds.",
+			"effect": "blindness ... / 1d4 Wis da...",
+			"cost": 1500
+		},
+		{
+			"name": "Insanity mist",
+			"file": "poisondisplay63bd.html",
+			"poison_type": "inhaled",
+			"save": "Fort DC 15",
+			"onset": "-",
+			"frequency": "1/rd. for 6 rds.",
+			"effect": "1d3 Wis",
+			"cost": 1500
+		},
+		{
+			"name": "Insanity pill",
+			"file": "poisondisplay99ff.html",
+			"poison_type": "ingested",
+			"save": "Fort DC 14",
+			"onset": "-",
+			"frequency": "-",
+			"effect": "creature a...",
+			"cost": 1500
+		},
+		{
+			"name": "Leng's tears",
+			"file": "poisondisplayd245.html",
+			"poison_type": "contact",
+			"save": "Fort DC 18",
+			"onset": "1 round",
+			"frequency": "1/10 mins. for 1 hour",
+			"effect": "1d2 Wisdom...",
+			"cost": 1500
+		},
+		{
+			"name": "Nerveblast",
+			"file": "poisondisplay0448.html",
+			"poison_type": "injury",
+			"save": "Fort DC 19",
+			"onset": "-",
+			"frequency": "1/rd. for 6 rds.",
+			"effect": "1 Dex drai...",
+			"cost": 1500
+		},
+		{
+			"name": "Scholarblight",
+			"file": "poisondisplayc878.html",
+			"poison_type": "inhaled",
+			"save": "Fort DC 15",
+			"onset": "-",
+			"frequency": "1/min. for 6 mins.",
+			"effect": "1d3 Int, s...",
+			"cost": 1500
+		},
+		{
+			"name": "Mindrust",
+			"file": "poisondisplayc616.html",
+			"poison_type": "inhaled",
+			"save": "Fort DC 20",
+			"onset": "-",
+			"frequency": "1/rd. for 6 rds.",
+			"effect": "1 Wis dama...",
+			"cost": 1600
+		},
+		{
+			"name": "Aconite root",
+			"file": "poisondisplay6eb8.html",
+			"poison_type": "ingested",
+			"save": "Fort DC 25",
+			"onset": "1 minute",
+			"frequency": "1/rd. for 5 rds.",
+			"effect": "1d3 Dex da...",
+			"cost": 1800
+		},
+		{
+			"name": "Deathblade",
+			"file": "poisondisplayc71d.html",
+			"poison_type": "injury",
+			"save": "Fort DC 20",
+			"onset": "-",
+			"frequency": "1/rd. for 6 rds.",
+			"effect": "1d3 Con",
+			"cost": 1800
+		},
+		{
+			"name": "Nightmare vapor",
+			"file": "poisondisplay44d8.html",
+			"poison_type": "inhaled",
+			"save": "Fort DC 20",
+			"onset": "-",
+			"frequency": "1/rd. for 6 rds.",
+			"effect": "1 Wis and ...",
+			"cost": 1800
+		},
+		{
+			"name": "Burnt othur fumes",
+			"file": "poisondisplayf7bf.html",
+			"poison_type": "inhaled",
+			"save": "Fort DC 18",
+			"onset": "-",
+			"frequency": "1/rd. for 6 rds.",
+			"effect": "1 Con drai... / 1d3 Con",
+			"cost": 2100
+		},
+		{
+			"name": "Grinding joint paste",
+			"file": "poisondisplay124d.html",
+			"poison_type": "ingested",
+			"save": "Fort DC 16",
+			"onset": "10 minutes",
+			"frequency": "1/min. for 6 mins.",
+			"effect": "1d4 Dexter...",
+			"cost": 2100
+		},
+		{
+			"name": "Dream crystal toxin",
+			"file": "poisondisplay74cf.html",
+			"poison_type": "ingested or injury",
+			"save": "Will DC 20",
+			"onset": "-",
+			"frequency": "1/hour for 6 hours",
+			"effect": "1d2 Int dr...",
+			"cost": 2500
+		},
+		{
+			"name": "Dreaming death",
+			"file": "poisondisplayd20f.html",
+			"poison_type": "inhaled",
+			"save": "Fort DC 16",
+			"onset": "10 minutes",
+			"frequency": "1/10 mins. for 1 hour",
+			"effect": "sleep 10 m...",
+			"cost": 2500
+		},
+		{
+			"name": "Everwake serum",
+			"file": "poisondisplaydaba.html",
+			"poison_type": "ingested",
+			"save": "Fort DC 16",
+			"onset": "-",
+			"frequency": "1/day for 5 days",
+			"effect": "cannot vol...",
+			"cost": 2500
+		},
+		{
+			"name": "Hemlock",
+			"file": "poisondisplay480e.html",
+			"poison_type": "ingested",
+			"save": "Fort DC 18",
+			"onset": "10 minutes",
+			"frequency": "1/min. for 6 mins.",
+			"effect": "1d6 Dex, s...",
+			"cost": 2500
+		},
+		{
+			"name": "Hydrofluoric acid",
+			"file": "poisondisplaye304.html",
+			"poison_type": "contact",
+			"save": "Fort DC 20",
+			"onset": "1 minute",
+			"frequency": "1/rd. for 6 rds.",
+			"effect": "1d2 Str dr...",
+			"cost": 2500
+		},
+		{
+			"name": "Snap will",
+			"file": "poisondisplay11dd.html",
+			"poison_type": "ingested",
+			"save": "Fort DC 18",
+			"onset": "5 minutes",
+			"frequency": "1/min. for 10 mins.",
+			"effect": "The subjec...",
+			"cost": 2500
+		},
+		{
+			"name": "Styx sap",
+			"file": "poisondisplaya98f.html",
+			"poison_type": "contact",
+			"save": "Fort DC 18",
+			"onset": "1d4 minutes",
+			"frequency": "1/10 mins. for 60 mins.",
+			"effect": "1d4 Wis da...",
+			"cost": 2600
+		},
+		{
+			"name": "Wyvern poison",
+			"file": "poisondisplay949c.html",
+			"poison_type": "injury",
+			"save": "Fort DC 17",
+			"onset": "-",
+			"frequency": "1/rd. for 6 rds.",
+			"effect": "1d4 Con",
+			"cost": 3000
+		},
+		{
+			"name": "Cyanide",
+			"file": "poisondisplay3ba3.html",
+			"poison_type": "contact",
+			"save": "Fort DC 20",
+			"onset": "1 minute",
+			"frequency": "1/rd. for 6 rds.",
+			"effect": "1d4 Con da...",
+			"cost": 4000
+		},
+		{
+			"name": "Black lotus extract",
+			"file": "poisondisplay8b1a.html",
+			"poison_type": "contact",
+			"save": "Fort DC 20",
+			"onset": "1 minute",
+			"frequency": "1/rd. for 6 rds.",
+			"effect": "1d6 Con",
+			"cost": 4500
+		},
+		{
+			"name": "Leopard's bane",
+			"file": "poisondisplaye92c.html",
+			"poison_type": "ingested",
+			"save": "Fort DC 20",
+			"onset": "1 minute",
+			"frequency": "1/rd. for 6 rds.",
+			"effect": "Consuming ...",
+			"cost": 4500
+		},
+		{
+			"name": "King's sleep",
+			"file": "poisondisplay31e7.html",
+			"poison_type": "ingested",
+			"save": "Fort DC 19",
+			"onset": "1 day",
+			"frequency": "1/day",
+			"effect": "1 Con drai...",
+			"cost": 5000
+		},
+		{
+			"name": "Whisperwound",
+			"file": "poisondisplay4ebc.html",
+			"poison_type": "ingested",
+			"save": "Fort DC 20",
+			"onset": "1 minute",
+			"frequency": "1 round",
+			"effect": "1d6 Consti...",
+			"cost": 5000
+		},
+		{
+			"name": "Shamweed",
+			"file": "poisondisplay509a.html",
+			"poison_type": "contact",
+			"save": "Fort DC 18",
+			"onset": "immediate and 1 week, see effect",
+			"frequency": "varies, see effect",
+			"effect": "+1 Con/day... / all Con ga...",
+			"cost": 6500
+		},
+		{
+			"name": "Tears of death",
+			"file": "poisondisplayaa64.html",
+			"poison_type": "contact",
+			"save": "Fort DC 22",
+			"onset": "1 minute",
+			"frequency": "1/min. for 6 mins.",
+			"effect": "1d6 Con an...",
+			"cost": 6500
+		},
+		{
+			"name": "Widow's kiss",
+			"file": "poisondisplaya656.html",
+			"poison_type": "ingested",
+			"save": "Fort DC 24",
+			"onset": "1d4 days",
+			"frequency": "1/day",
+			"effect": "1d3 Con, s...",
+			"cost": 7000
+		},
+		{
+			"name": "Kiss of barbatos",
+			"file": "poisondisplay7f40.html",
+			"poison_type": "contact, ingested",
+			"save": "Fort DC 23",
+			"onset": "1d6 days",
+			"frequency": "1/day",
+			"effect": "fatigued, ...",
+			"cost": 7500
+		},
+		{
+			"name": "Fool's Leprosy",
+			"file": "poisondisplay8c4c.html",
+			"poison_type": "ingested",
+			"save": "Fort DC 20",
+			"onset": "1 day",
+			"frequency": "1/day for 6 days",
+			"effect": "1d2 Cha da...",
+			"cost": 10000
+		}
+	]
+}

@@ -1,0 +1,92 @@
+{
+	"description": [
+		"Description Source: [Inner Sea World Guide](source:Inner Sea World Guide)",
+		"A character must choose one Hellknight order to join. The choice of order determines what disciplines the character gains access to."
+	],
+	"list": [
+		{
+			"name": "Order of the Chain",
+			"file": "hellknightordersdisplay2372.html",
+			"short_description": "These Hellknights serve as wardens and trackers devoted to hunting down the enemies of society and locking away dangerous criminals.",
+			"major_order": true
+		},
+		{
+			"name": "Order of the Gate",
+			"file": "hellknightordersdisplaye5e0.html",
+			"short_description": "Dominated by spellcasting signifers who employ magic in surveillance, manipulation, and execution, this order is known for predicting crimes and creating magical innovations.",
+			"major_order": true
+		},
+		{
+			"name": "Order of the Godclaw",
+			"file": "hellknightordersdisplay15c0.html",
+			"short_description": "Crusaders in the service of a pantheon of five lawful deities, these Hellknights bring order wherever it is needed, usually by force. Their unusual faith is understood by few.",
+			"major_order": true
+		},
+		{
+			"name": "Order of the Nail",
+			"file": "hellknightordersdisplaye565.html",
+			"short_description": "These knights at the vanguard of civilization bring order to frontier settlements and stamp out those who impede society's march.",
+			"major_order": true
+		},
+		{
+			"name": "Order of the Pyre",
+			"file": "hellknightordersdisplayb4de.html",
+			"short_description": "With spell and blade, this order seeks out superstition and witchcraft and destroys any chaotic cults that threaten the minds and souls of law-abiding citizens.",
+			"major_order": true
+		},
+		{
+			"name": "Order of the Rack",
+			"file": "hellknightordersdisplayd6db.html",
+			"short_description": "These Hellknights root out and quell subversive knowledge and destructive ideas they believe capable of impeding order's march.",
+			"major_order": true
+		},
+		{
+			"name": "Order of the Scourge",
+			"file": "hellknightordersdisplay66a2.html",
+			"short_description": "Using their vast wealth and resources, these armored sleuths work- sometimes under cover-to take down corrupt politicians, thieves' guilds, and bastions of organized crime.",
+			"major_order": true
+		},
+		{
+			"name": "Order of the Coil",
+			"file": "hellknightordersdisplay50d2.html",
+			"short_description": "A small order of Hellknights that seeks to wipe out the native inhabitants of Sargava in the name of civilization",
+			"major_order": false
+		},
+		{
+			"name": "Order of the Crux",
+			"file": "hellknightordersdisplayb6aa.html",
+			"short_description": "A remnant of the Chelish civil war, these butchers were destroyed by the Order of the Scourge, but have risen again in unlife",
+			"major_order": false
+		},
+		{
+			"name": "Order of the Glyph",
+			"file": "hellknightordersdisplayb64a.html",
+			"short_description": "An unofficial band of Hellknights, charged with protecting the true history of Cheliax",
+			"major_order": false
+		},
+		{
+			"name": "Order of the Pike",
+			"file": "hellknightordersdisplaye377.html",
+			"short_description": "Monster-slayers and heroes, this order dedicates itself to wiping out dangerous creatures.",
+			"major_order": false
+		},
+		{
+			"name": "Order of the Scar",
+			"file": "hellknightordersdisplay65f9.html",
+			"short_description": "Mercenary assassin-hunters, this order protects its charges and oppsess the Daggermark Guild and the followers of Achaekek.",
+			"major_order": false
+		},
+		{
+			"name": "Order of the Torrent",
+			"file": "hellknightordersdisplay9583.html",
+			"short_description": "A good order of Hellknights that focus their efforts on rescuing hostages and kidnapping victims.",
+			"major_order": false
+		},
+		{
+			"name": "Order of the Wall",
+			"file": "hellknightordersdisplaycb0d.html",
+			"short_description": "These hellknights serve as guardians and watchmen against the forces that would intrude on the borders of civilization",
+			"major_order": false
+		}
+	]
+}

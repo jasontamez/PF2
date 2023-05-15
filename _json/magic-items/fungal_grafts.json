@@ -1,0 +1,38 @@
+{
+	"sources": [ "Alchemy Manual" ],
+	"description": [
+		"Description Source: [Alchemy Manual](source: Alchemy Manual)",
+		"Derros have long studied the effects of growing modified cytillesh fungus on and inside living creatures. Growing a fungal graft is similar to crafting a magic item, but requires only a specific number of ranks in Craft (alchemy) instead of an item creation feat.",
+		"Growing a fungal graft takes the same amount of time that creating a magic item of the same price does. During this time, the nascent fungus must be fertilized with expensive material components (the cost varies according to the graft), watered as needed, and kept safe from harm. After the required time has passed, the cultivator must succeed at a Craft (alchemy) check in order for the fungus graft to be properly formed. The DC of this check varies according to the graft. On a failure, the graft withers and the cultivator must begin anew. On a success, the fungus is ready to be grafted onto a target.",
+		"Grafting a fungus onto a target requires a 1-hour-long surgical procedure, during which time the subject must be either willing or helpless. At the end of the hour, the surgeon must attempt a Heal check against the listed DC. Failure indicates that the patient's body rejects the fungus and the fungus dies. Regardless of the surgery's success, the subject takes 1d4 points of Constitution damage. Although fungal grafts are not magical, some occupy a magic item slot on the body, preventing that slot from being used for any magic item or other graft.",
+		"A fungal graft can be removed with a heal or greater restoration spell, or with a successful Heal check against the original DC in another hour-long surgery."
+	],
+	"list": [
+		{
+			"name": "Fungal Eyes",
+			"sources": [ "Alchemy Manual" ],
+			"cost": 18000,
+			"type": "fungalgraft",
+			"slot": "eyes",
+			"weight": 0,
+			"description": [
+				"Source [Alchemy Manual pg. 10](source:Alchemy Manual)",
+				"Price 18,000 gp; Slot eyes",
+				"These small, glowing blue fungi form a protective film over the subject's eyes, preventing her from seeing with normal vision but granting her blindsight to a range of 30 feet."
+			]
+		},
+		{
+			"name": "Reaching Vines",
+			"sources": [ "Alchemy Manual" ],
+			"cost": 4000,
+			"type": "fungalgraft",
+			"slot": "wrists",
+			"weight": 0,
+			"description": [
+				"Source [Alchemy Manual pg. 10](source:Alchemy Manual)",
+				"Price 4,000 gp; Slot wrists",
+				"Cytillesh spores seeded beneath the subject's skin enable the subject to extend and contract fungal vines from its wrists and forearms at will. The subject gains two vine attacks per round, which count as secondary natural attacks with a reach of 10 feet. These vines deal no damage, but the fungal-grafted creature can attempt to pull a struck target up to 5 feet toward itself, as the pull universal monster ability (Pathfinder RPG Bestiary 303)."
+			]
+		}
+	]
+}
