@@ -4,8 +4,22 @@ function getParser() {
 	// Globl-ish variable to hold various contexts across functions
 	let CONTEXT = {};
 
+	// Helper functions
 	function escapeRegex(input) {
 		return input.replace(/[-[\]{}()*+?.,\\^$|#\s]/g, '\\$&');
+	}
+	function flatten(input, evaluate = true) {
+		const final = [];
+		const search = input.slice();
+		while(search.length) {
+			const item = evaluate ? this._evaluate(search.shift()) : search.shift();
+			if(Array.is_array(item)) {
+				item.unshift(...item);
+			} else {
+				final.push(item);
+			}
+		}
+		return final;
 	}
 
 	// Standard fuctions
@@ -56,6 +70,12 @@ function getParser() {
 		}
 		const range = y - x + 1;
 		return Math.floor(Math.random() * range) + x;
+	}
+	function sum (...args) {
+		return this._flatten(args).reduce((accumulator, x) => accumulator + x);
+	}
+	function product (...args) {
+		return this._flatten(args).reduce((accumulator, x) => accumulator * x);
 	}
 	// Logical functions
 	function find (needle, haystack) {
@@ -109,6 +129,7 @@ function getParser() {
 		// Global-ish variable to hold save/load variables
 		_MEMORY: {},
 		_escapeRegex: escapeRegex,
+		_flatten: flatten,
 		save,
 		load,
 		//get(Score|Bonus|Input)
@@ -126,6 +147,8 @@ function getParser() {
 		floor,
 		min,
 		max,
+		sum,
+		product,
 		random,
 		randomInt,
 		find,

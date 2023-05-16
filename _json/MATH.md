@@ -204,7 +204,6 @@ The functions above accept the same extensions as `hasFeature`, in the same orde
 - `getScoresWithTypeAll((att,basic),strength)` - gets all scores named "strength" with both "att" and "basic" types
 - `getBonusesTagged((tag:one,tag:two))` - gets all bonuses with either the "tag:one" or "tag:two" tags
 - `getInputsInCategoryTaggedAllWithTypeAll((att),(tag:one,tag:two),(secret,penalty))` - gets all inputs with with the "att" category, both the "tag:one" and "tag:two" tags, and both "secret" and "penalty" types
-- `getScoresAll(name)` - works exactly the same as `getScores(name)`, no point in using it
 - `getInputsTaggedInCategory` - is invalid, should be `getInputsInCategoryTagged`
 
 Custom functions may require access to the `input`, `score`, etc. `Object` itself; you can get them by adding "Objects" after "get":
@@ -239,6 +238,7 @@ These functions should extract the results from a function and treat them as arg
 
 - `min()` and `max()` work as expected
 - `sum()` adds all arguments together and returns the result
+- `product()` multiplies all arguments together and returns the result
 - `test(Boolean Phrase, STRING, ANY...)` - this returns true if at least one of arguments passes a test
   - the `Boolean Phrase` is a special `STRING` with some sort of comparison or equality test, e.g. "X > 5" or "? == 40"
   - the second `STRING` represents the part of the test function that is to be replaced by the other arguments, e.g. "X" or "?"

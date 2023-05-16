@@ -10,8 +10,6 @@ System should specify sheets and all relevant JSON files. The sheet should descr
   - change alignment_test into prerequisites
 - **Remove input/score/bonus distinction and just use typed scores**
 
-- ***Is "Adventurer's Guide" in sources? "Arcane Anthology"? "Black Markets"? "Alchemy Manual"? "Elemental Master's Handbook"?***
-
 ## Types
 
 ### `KEYS`
