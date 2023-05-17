@@ -8,6 +8,11 @@
 	"standard_properties": [
 		"sources"
 	],
+	"shared_properties": {
+		"prerequisite_explanations": [
+			"Alignment must be within one step of the deity's"
+		]
+	},
 	"searchable_properties": {
 		"STRING": [
 			"symbol",
@@ -5890,7 +5895,8 @@
 			]
 		},
 		{
-			"name": "Chinostes (Evil Aspect)",
+			"name": "Chinostes [Evil Aspect]",
+			"display_name": "Chinostes (Evil Aspect)",
 			"file": "deitydisplay6ab4.html",
 			"sources": [ "Pathfinder #144: Midwives to Death" ],
 			"heading": [
@@ -5940,7 +5946,8 @@
 			]
 		},
 		{
-			"name": "Chinostes (Good Aspect)",
+			"name": "Chinostes [Good Aspect]",
+			"display_name": "Chinostes (Good Aspect)",
 			"file": "deitydisplay77ec.html",
 			"sources": [ "Pathfinder #144: Midwives to Death" ],
 			"heading": [
@@ -15667,7 +15674,8 @@
 			]
 		},
 		{
-			"name": "Lissala (pre-Earthfall)",
+			"name": "Lissala [pre-Earthfall]",
+			"display_name": "Lissala (pre-Earthfall)",
 			"file": "deitydisplayb382.html",
 			"sources": [ "Pathfinder #123: The Flooded Cathedral" ],
 			"heading": [
@@ -19208,7 +19216,8 @@
 			]
 		},
 		{
-			"name": "Nocticula (Redeemed)",
+			"name": "Nocticula [Redeemed]",
+			"display_name": "Nocticula (Redeemed)",
 			"file": "deitydisplaye44d.html",
 			"sources": [ "Pathfinder #144: Midwives to Death" ],
 			"heading": [
@@ -19636,7 +19645,8 @@
 			]
 		},
 		{
-			"name": "Nyarlathotep (Black Pharaoh)",
+			"name": "Nyarlathotep [Black Pharaoh]",
+			"display_name": "Nyarlathotep (Black Pharaoh)",
 			"file": "deitydisplaydc4f.html",
 			"sources": [ "Pathfinder #109: In Search of Sanity" ],
 			"heading": [
@@ -19684,7 +19694,8 @@
 			]
 		},
 		{
-			"name": "Nyarlathotep (Faceless Sphinx)",
+			"name": "Nyarlathotep [Faceless Sphinx]",
+			"display_name": "Nyarlathotep (Faceless Sphinx)",
 			"file": "deitydisplay8b8c.html",
 			"sources": [ "Pathfinder #65: Into the Nightmare Rift" ],
 			"heading": [
@@ -19725,7 +19736,8 @@
 			]
 		},
 		{
-			"name": "Nyarlathotep (Haunter of the Dark)",
+			"name": "Nyarlathotep [Haunter of the Dark]",
+			"display_name": "Nyarlathotep (Haunter of the Dark)",
 			"file": "deitydisplay901c.html",
 			"sources": [ "Pathfinder #109: In Search of Sanity" ],
 			"heading": [
@@ -23648,7 +23660,8 @@
 			]
 		},
 		{
-			"name": "Shelyn (pre-Earthfall)",
+			"name": "Shelyn [pre-Earthfall]",
+			"display_name": "Shelyn (pre-Earthfall)",
 			"file": "deitydisplaye6ce.html",
 			"sources": [ "Pathfinder #123: The Flooded Cathedral" ],
 			"heading": [

@@ -6,9 +6,12 @@ System should specify sheets and all relevant JSON files. The sheet should descr
 
 - Trait CREATURES, UNFINISHED, etc
 - classes: Wizard: improved familiars: celestial, fiendish, entropic (protean?), resolute templates
-  - alignment_must_match_deity
-  - change alignment_test into prerequisites
 - **Remove input/score/bonus distinction and just use typed scores**
+
+## How to add classes?
+
+- Needs to add level by level
+- Maybe have a class levels `input` for every class?
 
 ## Types
 

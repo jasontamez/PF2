@@ -128,8 +128,10 @@ function getParser() {
 	let FUNCTIONS = {
 		// Global-ish variable to hold save/load variables
 		_MEMORY: {},
+		// Helper functions
 		_escapeRegex: escapeRegex,
 		_flatten: flatten,
+		// Main functions
 		save,
 		load,
 		//get(Score|Bonus|Input)
@@ -223,8 +225,8 @@ function getParser() {
 			"\""
 		);
 		return {
-			enclosures: enclosures.map(e => e.replace(detox, "\"")),
-			output: output.replace(detox, "\"")
+			enclosures: enclosures.map(e => e.replace(detox, '"')),
+			output: output.replace(detox, '"')
 		};
 	}
 
