@@ -1,0 +1,146 @@
+{
+	"sources": [ "Occult Adventures" ],
+	"description": [
+		"The following disciplines represent those most commonly chosen by psychics. Followers of a discipline might come to it in a variety of different ways, and though some might join together in orders, others follow personal, singular interpretations of the discipline."
+	],
+	"list": [
+		{
+			"name": "Abomination",
+			"file": "psychicdisciplinesdisplay1020.html",
+			"pool_stat": "charisma",
+			"short_description": "Your mind is impure, tainted by outside forces."
+		},
+		{
+			"name": "Bleaching",
+			"file": "psychicdisciplinesdisplay5b1d.html",
+			"pool_stat": "wisdom",
+			"short_description": "You draw power from a void in your emotions, a yawning and empty chasm where your hopes and dreams and fears should be."
+		},
+		{
+			"name": "Dream",
+			"file": "psychicdisciplinesdisplayf711.html",
+			"pool_stat": "charisma",
+			"short_description": "You discover deeper and more powerful corners of your mind through journeys you make in your dreams."
+		},
+		{
+			"name": "Enlightenment",
+			"file": "psychicdisciplinesdisplay484c.html",
+			"pool_stat": "wisdom",
+			"short_description": "Your quest for enlightenment has opened your eyes to new concepts and heights of spiritual awareness."
+		},
+		{
+			"name": "Faith",
+			"file": "psychicdisciplinesdisplay1565.html",
+			"pool_stat": "wisdom",
+			"short_description": "Your belief in a higher power fuels your psychic abilities."
+		},
+		{
+			"name": "Ferocity",
+			"file": "psychicdisciplinesdisplayde9c.html",
+			"pool_stat": "wisdom",
+			"short_description": "You are in touch with the most primal part of your subconscious."
+		},
+		{
+			"name": "Hag-Called",
+			"file": "psychicdisciplinesdisplayef6c.html",
+			"pool_stat": "charisma",
+			"short_description": "A hag's call echoes through your mind like a siren's song, enticing you to surrender and become something horrible."
+		},
+		{
+			"name": "Haunted",
+			"file": "psychicdisciplinesdisplayef7f.html",
+			"pool_stat": "charisma",
+			"short_description": "You attract the attention of spirits as naturally as a lodestone attracts iron filings."
+		},
+		{
+			"name": "Lore",
+			"file": "psychicdisciplinesdisplayd63b.html",
+			"pool_stat": "wisdom",
+			"short_description": "By collecting expert information and reading all sorts of treatises and chapbooks on occult subjects, you learn proper techniques and rituals to empower your mental abilities."
+		},
+		{
+			"name": "Mindtech",
+			"file": "psychicdisciplinesdisplay8744.html",
+			"pool_stat": "wisdom",
+			"short_description": "You are innately tied to and can communicate with electronic machinery and similar technological objects, through which you can funnel your psychic power like flowing water."
+		},
+		{
+			"name": "Pageantry",
+			"file": "psychicdisciplinesdisplay8c69.html",
+			"pool_stat": "charisma",
+			"short_description": "The act of ritual, no matter how ostentatious, can be a route to mental strength."
+		},
+		{
+			"name": "Pain",
+			"file": "psychicdisciplinesdisplayd29b.html",
+			"pool_stat": "charisma",
+			"short_description": "Mental blocks prevent your immense inborn psychic energies from flowing freely."
+		},
+		{
+			"name": "Psychedelia",
+			"file": "psychicdisciplinesdisplay1899.html",
+			"pool_stat": "wisdom",
+			"short_description": "You ingest hallucinogens to expand your mind."
+		},
+		{
+			"name": "Rapport",
+			"file": "psychicdisciplinesdisplay7ad7.html",
+			"pool_stat": "charisma",
+			"short_description": "Forging a close bond with other people brings out the best in you, making it easier for you to link your mind with theirs."
+		},
+		{
+			"name": "Rebirth",
+			"file": "UNKNOWN",
+			"pool_stat": "charisma",
+			"short_description": "Your mind is forged from the most powerful memories of a multitude of lifetimes."
+		},
+		{
+			"name": "Rivethun",
+			"file": "psychicdisciplinesdisplaybf00.html",
+			"pool_stat": "charisma",
+			"short_description": "You have embraced those aspects of your body that cause you agony, respecting the perspective they grant you if not necessarily the roles they've condemned you to in life."
+		},
+		{
+			"name": "Self-Perfection",
+			"file": "psychicdisciplinesdisplay50c0.html",
+			"pool_stat": "wisdom",
+			"short_description": "You take a holistic view of psychic power, believing that you must hone both your mental and physical attributes to remain in balance."
+		},
+		{
+			"name": "Shadow",
+			"file": "psychicdisciplinesdisplay372c.html",
+			"pool_stat": "wisdom",
+			"short_description": "You perceive the space between light and darkness, and draw power from it."
+		},
+		{
+			"name": "Sorrow",
+			"file": "psychicdisciplinesdisplay973d.html",
+			"pool_stat": "charisma",
+			"short_description": "You draw strength from deep feelings of abandonment, loneliness, and sadness, turning these emotions into a powerful weapon or a barrier that protects you."
+		},
+		{
+			"name": "Superiority",
+			"file": "psychicdisciplinesdisplayf6c1.html",
+			"pool_stat": "charisma",
+			"short_description": "You know that you are far better than average creatures of your kind."
+		},
+		{
+			"name": "Symbiosis",
+			"file": "UNKNOWN",
+			"pool_stat": "charisma",
+			"short_description": "Like pollen on the wind or the roots of plants in the ground, your thoughts permeate your surroundings, allowing you to study and manipulate the world around you."
+		},
+		{
+			"name": "Tranquility",
+			"file": "psychicdisciplinesdisplayc34e.html",
+			"pool_stat": "wisdom",
+			"short_description": "Psychic magic flows through you when you attain a peaceful mental state."
+		},
+		{
+			"name": "Warp",
+			"file": "psychicdisciplinesdisplayec1c.html",
+			"pool_stat": "charisma",
+			"short_description": "Ratfolk mythology claims they were appointed by the gods to sniff out the ragged edges of creation."
+		}
+	]
+}
