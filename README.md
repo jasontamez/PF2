@@ -8,6 +8,8 @@ System should specify sheets and all relevant JSON files. The sheet should descr
 - classes: Wizard: improved familiars: celestial, fiendish, entropic (protean?), resolute templates
 - **Remove input/score/bonus distinction and just use typed scores**
 
+- Remove **commas** from all names
+
 ## How to add classes?
 
 - Needs to add level by level

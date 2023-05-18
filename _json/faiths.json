@@ -38,10 +38,10 @@
 				"**Pathfinder Wiki** [Green Faith](http://www.pathfinderwiki.com/wiki/Green Faith)"
 			],
 			"alignment": "N",
-			"prerequisites": [
+			"requirements": [
 				"find(N,getInput(alignment))"
 			],
-			"prerequisite_explanations": [
+			"requirement_explanations": [
 				"Alignment must be within one step of true neutral"
 			],
 			"areas_of_concern": "Air, beast, earth, fire, water",
@@ -109,10 +109,10 @@
 				"**nature**"
 			],
 			"alignment": "N",
-			"prerequisites": [
+			"requirements": [
 				"find(N,getInput(alignment))"
 			],
-			"prerequisite_explanations": [
+			"requirement_explanations": [
 				"Alignment must be within one step of true neutral"
 			],
 			"areas_of_concern": "Air, beast, earth, fire, water",
@@ -140,7 +140,7 @@
 				"**(Other)**"
 			],
 			"alignment": "Unaligned",
-			"prerequisites": [],
+			"requirements": [],
 			"areas_of_concern": "Any",
 			"domains": [
 				"Air",
