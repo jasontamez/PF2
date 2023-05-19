@@ -59,6 +59,79 @@
 		"boon_rakshasa_immortals",
 		"boon_sahkil_tormentors"
 	],
+	"sources": [
+		"Book of the Damned - Volume 2: Lords of Chaos",
+		"Book of the Damned",
+		"Chronicle of the Righteous",
+		"Concordance of Rivals",
+		"Cult of the Ebon Destroyers",
+		"Distant Shores",
+		"Divine Anthology",
+		"Dragon Empires Gazetteer",
+		"Faiths of Golarion",
+		"Inner Sea Faiths",
+		"Inner Sea Gods",
+		"Inner Sea Temples",
+		"Legacy of Dragons",
+		"Legacy of the First World",
+		"Monster Summoner's Handbook",
+		"Mythic Realms",
+		"Pathfinder #100: A Song of Silver",
+		"Pathfinder #102: Breaking the Bones of Hell",
+		"Pathfinder #105: The Inferno Gate",
+		"Pathfinder #107: Scourge of the Godclaw",
+		"Pathfinder #109: In Search of Sanity",
+		"Pathfinder #11: Skeletons of Scarwall",
+		"Pathfinder #110: The Thrushmoor Terror",
+		"Pathfinder #113: What Grows Within",
+		"Pathfinder #117: Assault on Longshadow",
+		"Pathfinder #119: Prisoners of the Blight",
+		"Pathfinder #123: The Flooded Cathedral",
+		"Pathfinder #131: The Reaper's Right Hand",
+		"Pathfinder #134: It Came from Hollow Mountain",
+		"Pathfinder #135: Runeplague",
+		"Pathfinder #14: Children of the Void",
+		"Pathfinder #140: Eulogy for Roslar's Coffer",
+		"Pathfinder #143: Borne by the Sun's Grace",
+		"Pathfinder #144: Midwives to Death",
+		"Pathfinder #17: A Memory of Darkness",
+		"Pathfinder #2: The Skinsaw Murders",
+		"Pathfinder #20: House of the Beast",
+		"Pathfinder #23: The Impossible Eye",
+		"Pathfinder #26: The Sixfold Trial",
+		"Pathfinder #29: Mother of Flies",
+		"Pathfinder #32: Rivers Run Red",
+		"Pathfinder #35: War of the River Kings",
+		"Pathfinder #38: Racing to Ruin",
+		"Pathfinder #41: The Thousand Fangs Below",
+		"Pathfinder #42: Sanctum of the Serpent God",
+		"Pathfinder #44: Trial of the Beast",
+		"Pathfinder #47: Ashes at Dawn",
+		"Pathfinder #5: Sins of the Saviors",
+		"Pathfinder #50: Night of Frozen Shadows",
+		"Pathfinder #53: Tide of Honor",
+		"Pathfinder #55: The Wormwood Mutiny",
+		"Pathfinder #59: The Price of Infamy",
+		"Pathfinder #62: Curse of the Lady's Light",
+		"Pathfinder #64: Beyond the Doomsday Door",
+		"Pathfinder #65: Into the Nightmare Rift",
+		"Pathfinder #68: The Shackled Hut",
+		"Pathfinder #69: Maiden, Mother, Crone",
+		"Pathfinder #71: Rasputin Must Die!",
+		"Pathfinder #77: Herald of the Ivory Labyrinth",
+		"Pathfinder #78: City of Locusts",
+		"Pathfinder #8: Seven Days to the Grave",
+		"Pathfinder #80: Empty Graves",
+		"Pathfinder #86: Lords of Rust",
+		"Pathfinder #89: Palace of Fallen Stars",
+		"Pathfinder #93: Forge of the Giant God",
+		"Pathfinder #95: Anvil of Fire",
+		"Pathfinder #99: Dance of the Damned",
+		"Planar Adventures",
+		"The Emerald Spire Superdungeon",
+		"The First World, Realm of the Fey",
+		"Weapon Master's Handbook"
+	],
 	"list": [
 		{
 			"name": "Abadar",
@@ -3082,7 +3155,8 @@
 			]
 		},
 		{
-			"name": "Atlach-Nacha",
+			"name": "Atlach Nacha",
+			"display_name": "Atlach-Nacha",
 			"file": "deitydisplay8226.html",
 			"sources": [ "Pathfinder #109: In Search of Sanity" ],
 			"heading": [
@@ -5895,7 +5969,7 @@
 			]
 		},
 		{
-			"name": "Chinostes [Evil Aspect]",
+			"name": "Chinostes Evil Aspect",
 			"display_name": "Chinostes (Evil Aspect)",
 			"file": "deitydisplay6ab4.html",
 			"sources": [ "Pathfinder #144: Midwives to Death" ],
@@ -5946,7 +6020,7 @@
 			]
 		},
 		{
-			"name": "Chinostes [Good Aspect]",
+			"name": "Chinostes Good Aspect",
 			"display_name": "Chinostes (Good Aspect)",
 			"file": "deitydisplay77ec.html",
 			"sources": [ "Pathfinder #144: Midwives to Death" ],
@@ -6588,7 +6662,8 @@
 			]
 		},
 		{
-			"name": "Cyth-V'sug",
+			"name": "Cyth V'sug",
+			"display_name": "Cyth-V'sug",
 			"file": "deitydisplay6a73.html",
 			"sources": [
 				"Pathfinder #119: Prisoners of the Blight",
@@ -6731,7 +6806,8 @@
 			]
 		},
 		{
-			"name": "Daclau-Sar",
+			"name": "Daclau Sar",
+			"display_name": "Daclau-Sar",
 			"file": "deitydisplay2727.html",
 			"sources": [
 				"Inner Sea Gods",
@@ -13061,7 +13137,8 @@
 			]
 		},
 		{
-			"name": "Isph-Aun-Vuln",
+			"name": "Isph Aun Vuln",
+			"display_name": "Isph-Aun-Vuln",
 			"file": "deitydisplay605b.html",
 			"sources": [
 				"Inner Sea Gods",
@@ -15674,7 +15751,7 @@
 			]
 		},
 		{
-			"name": "Lissala [pre-Earthfall]",
+			"name": "Lissala pre Earthfall",
 			"display_name": "Lissala (pre-Earthfall)",
 			"file": "deitydisplayb382.html",
 			"sources": [ "Pathfinder #123: The Flooded Cathedral" ],
@@ -19216,7 +19293,7 @@
 			]
 		},
 		{
-			"name": "Nocticula [Redeemed]",
+			"name": "Nocticula Redeemed",
 			"display_name": "Nocticula (Redeemed)",
 			"file": "deitydisplaye44d.html",
 			"sources": [ "Pathfinder #144: Midwives to Death" ],
@@ -19645,7 +19722,7 @@
 			]
 		},
 		{
-			"name": "Nyarlathotep [Black Pharaoh]",
+			"name": "Nyarlathotep Black Pharaoh",
 			"display_name": "Nyarlathotep (Black Pharaoh)",
 			"file": "deitydisplaydc4f.html",
 			"sources": [ "Pathfinder #109: In Search of Sanity" ],
@@ -19694,7 +19771,7 @@
 			]
 		},
 		{
-			"name": "Nyarlathotep [Faceless Sphinx]",
+			"name": "Nyarlathotep Faceless Sphinx",
 			"display_name": "Nyarlathotep (Faceless Sphinx)",
 			"file": "deitydisplay8b8c.html",
 			"sources": [ "Pathfinder #65: Into the Nightmare Rift" ],
@@ -19736,7 +19813,7 @@
 			]
 		},
 		{
-			"name": "Nyarlathotep [Haunter of the Dark]",
+			"name": "Nyarlathotep Haunter of the Dark",
 			"display_name": "Nyarlathotep (Haunter of the Dark)",
 			"file": "deitydisplay901c.html",
 			"sources": [ "Pathfinder #109: In Search of Sanity" ],
@@ -19785,7 +19862,8 @@
 			]
 		},
 		{
-			"name": "Oaur-Ooung",
+			"name": "Oaur Ooung",
+			"display_name": "Oaur-Ooung",
 			"file": "deitydisplaydb78.html",
 			"sources": [
 				"Inner Sea Gods",
@@ -22099,7 +22177,8 @@
 			]
 		},
 		{
-			"name": "Rhan-Tegoth",
+			"name": "Rhan Tegoth",
+			"display_name": "Rhan-Tegoth",
 			"file": "deitydisplay1bc8.html",
 			"sources": [ "Pathfinder #109: In Search of Sanity" ],
 			"heading": [
@@ -23660,7 +23739,7 @@
 			]
 		},
 		{
-			"name": "Shelyn [pre-Earthfall]",
+			"name": "Shelyn pre Earthfall",
 			"display_name": "Shelyn (pre-Earthfall)",
 			"file": "deitydisplaye6ce.html",
 			"sources": [ "Pathfinder #123: The Flooded Cathedral" ],
@@ -24104,7 +24183,8 @@
 			]
 		},
 		{
-			"name": "Shub-Niggurath",
+			"name": "Shub Niggurath",
+			"display_name": "Shub-Niggurath",
 			"file": "deitydisplay9160.html",
 			"sources": [ "Pathfinder #109: In Search of Sanity" ],
 			"heading": [
@@ -28773,7 +28853,8 @@
 			]
 		},
 		{
-			"name": "Xhamen-Dor",
+			"name": "Xhamen Dor",
+			"display_name": "Xhamen-Dor",
 			"file": "deitydisplay8f72.html",
 			"sources": [ "Pathfinder #113: What Grows Within" ],
 			"heading": [
@@ -29382,7 +29463,8 @@
 			]
 		},
 		{
-			"name": "Yan-gant-y-tan",
+			"name": "Yan gant y tan",
+			"display_name": "Yan-gant-y-tan",
 			"file": "deitydisplay84c3.html",
 			"sources": [
 				"Inner Sea Gods",
@@ -29845,7 +29927,8 @@
 			]
 		},
 		{
-			"name": "Yog-Sothoth",
+			"name": "Yog Sothoth",
+			"display_name": "Yog-Sothoth",
 			"file": "deitydisplay34e1.html",
 			"sources": [ "Pathfinder #109: In Search of Sanity" ],
 			"heading": [
@@ -30632,7 +30715,8 @@
 			]
 		},
 		{
-			"name": "Zon-Kuthon",
+			"name": "Zon Kuthon",
+			"display_name": "Zon-Kuthon",
 			"file": "deitydisplay5e52.html",
 			"sources": [
 				"Inner Sea Gods",
