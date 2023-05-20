@@ -14,7 +14,7 @@ function getParser() {
 		while(search.length) {
 			const item = evaluate ? this._evaluate(search.shift()) : search.shift();
 			if(Array.is_array(item)) {
-				item.unshift(...item);
+				search.unshift(...item);
 			} else {
 				final.push(item);
 			}
@@ -136,10 +136,11 @@ function getParser() {
 		load,
 		//get(Score|Bonus|Input)
 		//setInput
+		//has(Score|Tag)[All]
 		//hasFeature[All][InCategory][Tagged[All]][WithType[All]]
-		//get[Objects](Inputs|Bonuses|Scores)[InCategory][Tagged[All]][WithType[All]]
+		//get[Objects](Inputs|Scores)[InCategory][Tagged[All]][WithType[All]]
 		//countFeature[InCategory][Tagged[All]][WithType[All]]
-		//count(Inputs|Bonuses|Scores)[InCategory][Tagged[All]][WithType[All]]
+		//count(Inputs|Scores)[InCategory][Tagged[All]][WithType[All]]
 		//
 		//  the above must be ready in case they get an array as an argument!
 		//

@@ -128,6 +128,11 @@ Quotation marks are an exception, they surround a string which should not be mut
   - `findWord(what,whatever you say)` false
   - `findWord(say,whatever you say)` true
 
+#### Lookups - Scores
+
+- `hasScore(STRING...)` - returns true if a given `score` has been bestowed; if multiple arguments are given, returns true if *any* of the `scores` have been bestowed
+- `hasScoreAll(STRING, STRING...)` - returns true if *all* of the given `scores` have been bestowed
+
 #### Lookups - Tags
 
 - `hasTag(STRING...)` - returns true if a given `tag` has been bestowed; if multiple arguments are given, returns true if *any* of the `tags` have been bestowed
