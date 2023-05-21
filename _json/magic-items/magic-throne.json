@@ -1,59 +1,70 @@
 {
-	"Throne of Pleasing Mien": {
-		"itemname": "Throne of Pleasing Mien",
-		"file": "magicthronesdisplay2a1e.html",
-		"sources": [ "Heroes of the High Court" ],
-		"cost": 8000,
-		"type": "wondrous",
-		"slot": "throne",
-		"weight": 350,
-		"header": [
-			"Throne of Pleasing Mien",
-			"Source [Heroes of the High Court pg. 31](source:Heroes of the High Court)",
-			"Aura moderate abjuration and enchantment CL 10th",
-			"Slot none; Price 8,000 gp; Weight 350 lbs."
-		],
-		"description": [
-			"This beautiful throne is delicately crafted from pale stone carved with images of dancing nymphs and frolicking satyrs. A throne of pleasing mien imparts its continuous heroism effect to anyone seated upon it. A creature that bows or otherwise offers fealty to anyone sitting upon the throne (regardless of whether the person is a rightful ruler or not) gains a +2 circumstance bonus on Charisma-based skill checks and a +1 morale bonus on Will saving throws for 24 hours."
-		],
-		"construction": "Requirements Craft Wondrous Item, eagle's splendor, heroism, resistance; Cost 4,000 gp"
-	},
-	"Throne of Fetters": {
-		"itemname": "Throne of Fetters",
-		"file": "magicthronesdisplayaf8a.html",
-		"sources": [ "Heroes of the High Court" ],
-		"cost": 16000,
-		"type": "wondrous",
-		"slot": "throne",
-		"weight": 500,
-		"header": [
-			"Throne of Fetters",
-			"Source [Heroes of the High Court pg. 31](source:Heroes of the High Court)",
-			"Aura moderate conjuration and enchantment CL 10th",
-			"Slot none; Price 16,000 gp; Weight 500 lbs."
-		],
-		"description": [
-			"This imposing stone throne is ornamented with heavy chains radiating outward from the central seat. A throne of fetters provides a continuous heroism effect to the ruler or anyone related to the ruler by blood or marriage seated on it. Acknowledging a ruler (or a member of the ruler's family) seated upon the throne grants a +2 circumstance bonus on Constitution checks and a +1 morale bonus on Fortitude saving throws for 24 hours. A creature can choose to expend this blessing before the duration expires as an immediate action by crying, \"My freedom for yours!\" Doing so causes spectral fetters to appear around the creature's ankles, reducing its base land speed by 20 feet (to a minimum of 5 feet) and granting a freedom of movement effect to the creature seated upon the throne. Both of these effects last for 1 minute."
-		],
-		"construction": "Requirements Craft Wondrous Item, bear's endurance, freedom of movement, heroism; Cost 8,000 gp"
-	},
-	"Throne of the Ardent Defense": {
-		"itemname": "Throne of the Ardent Defense",
-		"file": "magicthronesdisplay1d19.html",
-		"sources": [ "Heroes of the High Court" ],
-		"cost": 16000,
-		"type": "wondrous",
-		"slot": "throne",
-		"weight": 350,
-		"header": [
-			"Throne of the Ardent Defense",
-			"Source [Heroes of the High Court pg. 31](source:Heroes of the High Court)",
-			"Aura moderate abjuration and enchantment CL 10th",
-			"Slot none; Price 16,000 gp; Weight 350 lbs."
-		],
-		"description": [
-			"This heavy throne is made of elaborate wrought iron and decorated with shields bearing the ruler's heraldry. A ruler seated upon a throne of ardent defense gains the throne's continuous heroism effect. Acknowledging a ruler sitting upon the throne grants the ability to cast shield other as a spell-like ability once in the next 24 hours. The spell ends if the subject of the spell moves more than 50 feet from either the caster or the throne."
-		],
-		"construction": "Requirements Craft Wondrous Item, heroism, shield other; Cost 8,000 gp"
-	}
+	"list": [
+		{
+			"name": "Throne of Pleasing Mien",
+			"file": "magicthronesdisplay2a1e.html",
+			"sources": [ "Heroes of the High Court" ],
+			"cost": 8000,
+			"category": "magic item",
+			"types": [
+				"wondrous",
+				"throne"
+			],
+			"weight": 350,
+			"header": [
+				"Throne of Pleasing Mien",
+				"Source [Heroes of the High Court pg. 31](source:Heroes of the High Court)",
+				"Aura moderate abjuration and enchantment CL 10th",
+				"Slot none; Price 8,000 gp; Weight 350 lbs."
+			],
+			"description": [
+				"This beautiful throne is delicately crafted from pale stone carved with images of dancing nymphs and frolicking satyrs. A throne of pleasing mien imparts its continuous heroism effect to anyone seated upon it. A creature that bows or otherwise offers fealty to anyone sitting upon the throne (regardless of whether the person is a rightful ruler or not) gains a +2 circumstance bonus on Charisma-based skill checks and a +1 morale bonus on Will saving throws for 24 hours."
+			],
+			"construction": "Requirements Craft Wondrous Item, eagle's splendor, heroism, resistance; Cost 4,000 gp"
+		},
+		{
+			"name": "Throne of Fetters",
+			"file": "magicthronesdisplayaf8a.html",
+			"sources": [ "Heroes of the High Court" ],
+			"cost": 16000,
+			"category": "magic item",
+			"types": [
+				"wondrous",
+				"throne"
+			],
+			"weight": 500,
+			"header": [
+				"Throne of Fetters",
+				"Source [Heroes of the High Court pg. 31](source:Heroes of the High Court)",
+				"Aura moderate conjuration and enchantment CL 10th",
+				"Slot none; Price 16,000 gp; Weight 500 lbs."
+			],
+			"description": [
+				"This imposing stone throne is ornamented with heavy chains radiating outward from the central seat. A throne of fetters provides a continuous heroism effect to the ruler or anyone related to the ruler by blood or marriage seated on it. Acknowledging a ruler (or a member of the ruler's family) seated upon the throne grants a +2 circumstance bonus on Constitution checks and a +1 morale bonus on Fortitude saving throws for 24 hours. A creature can choose to expend this blessing before the duration expires as an immediate action by crying, \"My freedom for yours!\" Doing so causes spectral fetters to appear around the creature's ankles, reducing its base land speed by 20 feet (to a minimum of 5 feet) and granting a freedom of movement effect to the creature seated upon the throne. Both of these effects last for 1 minute."
+			],
+			"construction": "Requirements Craft Wondrous Item, bear's endurance, freedom of movement, heroism; Cost 8,000 gp"
+		},
+		{
+			"name": "Throne of the Ardent Defense",
+			"file": "magicthronesdisplay1d19.html",
+			"sources": [ "Heroes of the High Court" ],
+			"cost": 16000,
+			"category": "magic item",
+			"types": [
+				"wondrous",
+				"throne"
+			],
+			"weight": 350,
+			"header": [
+				"Throne of the Ardent Defense",
+				"Source [Heroes of the High Court pg. 31](source:Heroes of the High Court)",
+				"Aura moderate abjuration and enchantment CL 10th",
+				"Slot none; Price 16,000 gp; Weight 350 lbs."
+			],
+			"description": [
+				"This heavy throne is made of elaborate wrought iron and decorated with shields bearing the ruler's heraldry. A ruler seated upon a throne of ardent defense gains the throne's continuous heroism effect. Acknowledging a ruler sitting upon the throne grants the ability to cast shield other as a spell-like ability once in the next 24 hours. The spell ends if the subject of the spell moves more than 50 feet from either the caster or the throne."
+			],
+			"construction": "Requirements Craft Wondrous Item, heroism, shield other; Cost 8,000 gp"
+		}
+	]
 }

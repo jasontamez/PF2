@@ -1,97 +1,114 @@
 {
-	"Kerchief of Remembrance": {
-		"itemname": "Kerchief of Remembrance",
-		"file": "magicfavorsdisplay8eb5.html",
-		"sources": [ "Heroes of the High Court" ],
-		"cost": 600,
-		"type": "favor",
-		"slot": "arm or wrist",
-		"weight": 0,
-		"header": [
-			"Kerchief of Remembrance",
-			"Source [Heroes of the High Court pg. 13](source:Heroes of the High Court)",
-			"Aura faint divination CL 3rd",
-			"Slot arm or wrist; Price 600 gp; Weight -"
-		],
-		"description": [
-			"This favor is a simple checked kerchief worn around the arm or wrist. For 1 week, the recipient can automatically call to mind a detailed recollection of the presenter's features, even if his memory has been impaired or modified (such as by modify memory). In addition, the recipient can take a standard action to know the presenter's status in the same manner that the presenter can take a standard action to know the recipient's status."
-		],
-		"construction": "Requirements Craft Wondrous Item, eagle's splendor, status; Cost 300 gp"
-	},
-	"Paper Flower": {
-		"itemname": "Paper Flower",
-		"file": "magicfavorsdisplay714f.html",
-		"sources": [ "Heroes of the High Court" ],
-		"cost": 800,
-		"type": "favor",
-		"slot": "headband",
-		"weight": 0,
-		"header": [
-			"Paper Flower",
-			"Source [Heroes of the High Court pg. 13](source:Heroes of the High Court)",
-			"Aura faint abjuration CL 3rd",
-			"Slot headband; Price 800 gp; Weight -"
-		],
-		"description": [
-			"This delicate example of papercraft is often given to a paramour, with the promise that the love of the presenter will protect the recipient. A paper flower is worn behind the ear. For 24 hours, the first creature to directly attack the wearer (even with a targeted spell) must succeed at a DC 12 Will saving throw or be unable to follow through with the attack (as per sanctuary)."
-		],
-		"construction": "Requirements Craft Wondrous Item, sanctuary, status; Cost 400 gp"
-	},
-	"Lucky Button": {
-		"itemname": "Lucky Button",
-		"file": "magicfavorsdisplaya4a3.html",
-		"sources": [ "Heroes of the High Court" ],
-		"cost": 1200,
-		"type": "favor",
-		"slot": "none",
-		"weight": 0,
-		"header": [
-			"Lucky Button",
-			"Source [Heroes of the High Court pg. 13](source:Heroes of the High Court)",
-			"Aura faint evocation CL 3rd",
-			"Slot none; Price 1,200 gp; Weight -"
-		],
-		"description": [
-			"This favor is a pretty button that does not need to be donned, but merely placed in a pouch or pocket and carried by the recipient. A lucky button is activated as soon as it is given by the presenter. When the presenter bestows a lucky button, he names a single skill. For 1 week, the recipient gains a +2 luck bonus on skill rolls of that type."
-		],
-		"construction": "Requirements Craft Wondrous Item, guidance, status; Cost 600 gp"
-	},
-	"Laurel of the Champion": {
-		"itemname": "Laurel of the Champion",
-		"file": "magicfavorsdisplaya72d.html",
-		"sources": [ "Heroes of the High Court" ],
-		"cost": 2000,
-		"type": "favor",
-		"slot": "head",
-		"weight": 0,
-		"header": [
-			"Laurel of the Champion",
-			"Source [Heroes of the High Court pg. 13](source:Heroes of the High Court)",
-			"Aura faint transmutation CL 3rd",
-			"Slot head; Price 2,000 gp; Weight -"
-		],
-		"description": [
-			"This favor is a garland of leaves, often presented to the winner of a joust or other competition. For 24 hours, the recipient takes a -2 penalty on Disguise checks and can roll twice and take the better result on Diplomacy checks."
-		],
-		"construction": "Requirements Craft Wondrous Item, eagle's splendor, status; Cost 1,000 gp"
-	},
-	"Token of Gallantry": {
-		"itemname": "Token of Gallantry",
-		"file": "magicfavorsdisplay585d.html",
-		"sources": [ "Heroes of the High Court" ],
-		"cost": 2400,
-		"type": "favor",
-		"slot": "none",
-		"weight": 0,
-		"header": [
-			"Token of Gallantry",
-			"Source [Heroes of the High Court pg. 13](source:Heroes of the High Court)",
-			"Aura faint transmutation CL 3rd",
-			"Slot none; Price 2,400 gp; Weight -"
-		],
-		"description": [
-			"This favor is a lace handkerchief or scrap of silken clothing that is tied around the pommel or haft of a melee weapon. For 24 hours, that weapon becomes good-aligned for the purpose of bypassing damage reduction. As long as the favor is active, the token does not become soiled or bloody."
-		],
-		"construction": "Requirements Craft Wondrous Item, align weapon, status; Cost 1,200 gp"
-	}
+	"list": [
+		{
+			"name": "Kerchief of Remembrance",
+			"file": "magicfavorsdisplay8eb5.html",
+			"sources": [ "Heroes of the High Court" ],
+			"cost": 600,
+			"category": "magic item",
+			"types": [
+				"favor"
+			],
+			"slot": "arm or wrist",
+			"weight": 0,
+			"header": [
+				"Kerchief of Remembrance",
+				"Source [Heroes of the High Court pg. 13](source:Heroes of the High Court)",
+				"Aura faint divination CL 3rd",
+				"Slot arm or wrist; Price 600 gp; Weight -"
+			],
+			"description": [
+				"This favor is a simple checked kerchief worn around the arm or wrist. For 1 week, the recipient can automatically call to mind a detailed recollection of the presenter's features, even if his memory has been impaired or modified (such as by modify memory). In addition, the recipient can take a standard action to know the presenter's status in the same manner that the presenter can take a standard action to know the recipient's status."
+			],
+			"construction": "Requirements Craft Wondrous Item, eagle's splendor, status; Cost 300 gp"
+		},
+		{
+			"name": "Paper Flower",
+			"file": "magicfavorsdisplay714f.html",
+			"sources": [ "Heroes of the High Court" ],
+			"cost": 800,
+			"category": "magic item",
+			"types": [
+				"favor"
+			],
+			"slot": "headband",
+			"weight": 0,
+			"header": [
+				"Paper Flower",
+				"Source [Heroes of the High Court pg. 13](source:Heroes of the High Court)",
+				"Aura faint abjuration CL 3rd",
+				"Slot headband; Price 800 gp; Weight -"
+			],
+			"description": [
+				"This delicate example of papercraft is often given to a paramour, with the promise that the love of the presenter will protect the recipient. A paper flower is worn behind the ear. For 24 hours, the first creature to directly attack the wearer (even with a targeted spell) must succeed at a DC 12 Will saving throw or be unable to follow through with the attack (as per sanctuary)."
+			],
+			"construction": "Requirements Craft Wondrous Item, sanctuary, status; Cost 400 gp"
+		},
+		{
+			"name": "Lucky Button",
+			"file": "magicfavorsdisplaya4a3.html",
+			"sources": [ "Heroes of the High Court" ],
+			"cost": 1200,
+			"category": "magic item",
+			"types": [
+				"favor"
+			],
+			"slot": "none",
+			"weight": 0,
+			"header": [
+				"Lucky Button",
+				"Source [Heroes of the High Court pg. 13](source:Heroes of the High Court)",
+				"Aura faint evocation CL 3rd",
+				"Slot none; Price 1,200 gp; Weight -"
+			],
+			"description": [
+				"This favor is a pretty button that does not need to be donned, but merely placed in a pouch or pocket and carried by the recipient. A lucky button is activated as soon as it is given by the presenter. When the presenter bestows a lucky button, he names a single skill. For 1 week, the recipient gains a +2 luck bonus on skill rolls of that type."
+			],
+			"construction": "Requirements Craft Wondrous Item, guidance, status; Cost 600 gp"
+		},
+		{
+			"name": "Laurel of the Champion",
+			"file": "magicfavorsdisplaya72d.html",
+			"sources": [ "Heroes of the High Court" ],
+			"cost": 2000,
+			"category": "magic item",
+			"types": [
+				"favor"
+			],
+			"slot": "head",
+			"weight": 0,
+			"header": [
+				"Laurel of the Champion",
+				"Source [Heroes of the High Court pg. 13](source:Heroes of the High Court)",
+				"Aura faint transmutation CL 3rd",
+				"Slot head; Price 2,000 gp; Weight -"
+			],
+			"description": [
+				"This favor is a garland of leaves, often presented to the winner of a joust or other competition. For 24 hours, the recipient takes a -2 penalty on Disguise checks and can roll twice and take the better result on Diplomacy checks."
+			],
+			"construction": "Requirements Craft Wondrous Item, eagle's splendor, status; Cost 1,000 gp"
+		},
+		{
+			"name": "Token of Gallantry",
+			"file": "magicfavorsdisplay585d.html",
+			"sources": [ "Heroes of the High Court" ],
+			"cost": 2400,
+			"category": "magic item",
+			"types": [
+				"favor"
+			],
+			"slot": "none",
+			"weight": 0,
+			"header": [
+				"Token of Gallantry",
+				"Source [Heroes of the High Court pg. 13](source:Heroes of the High Court)",
+				"Aura faint transmutation CL 3rd",
+				"Slot none; Price 2,400 gp; Weight -"
+			],
+			"description": [
+				"This favor is a lace handkerchief or scrap of silken clothing that is tied around the pommel or haft of a melee weapon. For 24 hours, that weapon becomes good-aligned for the purpose of bypassing damage reduction. As long as the favor is active, the token does not become soiled or bloody."
+			],
+			"construction": "Requirements Craft Wondrous Item, align weapon, status; Cost 1,200 gp"
+		}
+	]
 }
