@@ -1,1176 +1,1180 @@
-[
-	{
-		"monster_name": "Arazni",
-		"file": "mythicmonsterdisplayea52.html",
-		"sources": [ "Mythic Realms" ],
-		"cr": 26,
-		"mr": 8,
-		"xp": 2457600,
-		"levels": "Female human lich wizard 20/marshal 8",
-		"alignment": "NE",
-		"size": "medium",
-		"type": "undead",
-		"subtypes": [ "human" ],
-		"initiative": 18,
-		"senses": [ "darkvision 60 ft." ],
-		"perception": 40,
-		"aura": [ "fear (60 ft., DC 30)" ],
-		"heading": [
-			"Arazni CR 26/MR 8",
-			"**Source** [Mythic Realms pg. 50](source:Mythic Realms)",
-			"**XP** 2,457,600",
-			"Female human lich wizard 20/marshal 8 (Pathfinder RPG Bestiary 188, Pathfinder RPG Mythic Adventures 38)",
-			"NE Medium undead (human)",
-			"**Init** +18; **Senses** darkvision 60 ft.; Perception +40",
-			"**Aura** fear (60 ft., DC 30)"
-		],
-		"ac": {
-			"ac": 44,
-			"touch": 22,
-			"flatfooted": 38,
-			"bonuses": {
-				"armor": 6,
-				"deflection": 5,
-				"dex": 6,
-				"insight": 1,
-				"natural": 10,
-				"shield": 6
-			}
+{
+	"category": "unique monster",
+	"value_type": "feature",
+	"list": [
+		{
+			"name": "Arazni",
+			"file": "mythicmonsterdisplayea52.html",
+			"sources": [ "Mythic Realms" ],
+			"cr": 26,
+			"mr": 8,
+			"xp": 2457600,
+			"levels": "Female human lich wizard 20/marshal 8",
+			"alignment": "NE",
+			"size": "medium",
+			"type": "undead",
+			"subtypes": [ "human" ],
+			"initiative": 18,
+			"senses": [ "darkvision 60 ft." ],
+			"perception": 40,
+			"aura": [ "fear (60 ft., DC 30)" ],
+			"heading": [
+				"Arazni CR 26/MR 8",
+				"**Source** [Mythic Realms pg. 50](source:Mythic Realms)",
+				"**XP** 2,457,600",
+				"Female human lich wizard 20/marshal 8 (Pathfinder RPG Bestiary 188, Pathfinder RPG Mythic Adventures 38)",
+				"NE Medium undead (human)",
+				"**Init** +18; **Senses** darkvision 60 ft.; Perception +40",
+				"**Aura** fear (60 ft., DC 30)"
+			],
+			"ac": {
+				"ac": 44,
+				"touch": 22,
+				"flatfooted": 38,
+				"bonuses": {
+					"armor": 6,
+					"deflection": 5,
+					"dex": 6,
+					"insight": 1,
+					"natural": 10,
+					"shield": 6
+				}
+			},
+			"hp": {
+				"hp": 379
+			},
+			"saves": {
+				"fort": 23,
+				"ref": 21,
+				"will": 25
+			},
+			"defensive_abilities": [
+				"channel resistance +4",
+				"fortification (50%)",
+				"freedom of movement",
+				"hard to kill",
+				"mythic saving throws",
+				"rejuvenation",
+				"unstoppable"
+			],
+			"dr": [
+				15,
+				"bludgeoning and magic"
+			],
+			"immune": [
+				"cold",
+				"electricity",
+				"undead traits"
+			],
+			"sr": 23,
+			"defense": [
+				"**AC** 44, touch 22, flat-footed 38 (+6 armor, +5 deflection, +6 Dex, +1 insight, +10 natural, +6 shield)",
+				"**hp** 379 (20d6+307)",
+				"**Fort** +23, **Ref** +21, **Will** +25",
+				"**Defensive Abilities** channel resistance +4, fortification (50%), freedom of movement, hard to kill, mythic saving throws, rejuvenation, unstoppable; **DR** 15/bludgeoning and magic; **Immune** cold, electricity, undead traits; **SR** 23"
+			],
+			"speed": {
+				"land": 30,
+				"fly": 40,
+				"maneuverability": "average"
+			},
+			"space": 5,
+			"reach": 5,
+			"offense": [
+				"**Speed** 30 ft., fly 40 ft. (average)",
+				"**Melee** +5 conductive dancing keen rapier +23/+18 (1d6+12/15-20), touch +13 (1d8+10 plus paralyzing touch)",
+				"**Ranged**  ray +16 (ranged touch)",
+				"**Special Attacks** abundant casting, arcane metamastery (2 spell slots), archmage arcana (arcane surge), hand of the apprentice (17/day), inspire minions, marshal's order (advance), metamagic mastery (7/day), mythic power (18/day, surge +1d10), paralyzing touch (DC 30), surge of inspiration, words of valor",
+				"**Wizard Spells Prepared ** (CL 20th; concentration +34)",
+				"9th-gate, overwhelming presence (DC 36), power word kill[^M] (2), time stop[^M], wish",
+				"8th-quickened charm monster, horrid wilting (2, DC 32), mass charm monster (2, DC 34), prediction of failure (DC 32)",
+				"7th-finger of death[^M] (DC 32), quickened invisibility sphere, mass fly, power word blind, spell turning, waves of ecstasy (DC 34)",
+				"6th-antimagic field[^M], circle of death (DC 31), disintegrate (DC 30), greater dispel magic, greater heroism, mass eagle's splendor, mass suggestion (DC 33)",
+				"5th-dominate person (2, DC 32), feeblemind (DC 32), overland flight (already cast), quickened true strike (3)",
+				"4th-detect scrying (already cast), dimension door, fear (DC 29), greater invisibility, phantasmal killer (2, DC 29), terrible remorse (DC 31)",
+				"3rd-fireball[^M] (DC 27), fly, greater magic weapon (already cast), haste[^M] (2), heroism[^M], stinking cloud (DC 27)",
+				"2nd-detect thoughts (DC 26), false life (already cast), mirror image (2), resist energy (2), see invisibility, spectral hand",
+				"1st-disguise self, feather fall, mage armor[^M], ray of enfeeblement (DC 26), shield, true strike, vanish (2)",
+				"0 (at will)-detect magic, ghost sound (DC 25), mage hand, open/close [^M]: mythic spell"
+			],
+			"tactics": [ "**Before Combat** Every day, Arazni casts detect scrying, false life, greater magic weapon, mythic mage armor (cast from her staff of the magi), and overland flight on herself, using her arcane metamastery path ability to gain the benefit of Extended Spell with each. The effects of these spells and the use of mythic power already expended are reflected in Arazni's statistics." ],
+			"str": 24,
+			"dex": 22,
+			"con": null,
+			"int": 39,
+			"wis": 18,
+			"cha": 31,
+			"base_attack_bonus": 10,
+			"cmb": 17,
+			"cmd": 39,
+			"feats": [
+				"Arcane Strike",
+				"Craft Wondrous Item",
+				"Dual Path",
+				"Empower Spell",
+				"Extend Spell",
+				"Greater Spell Focus (enchantment)",
+				"Improved Initiative",
+				"Iron Will",
+				"Leadership",
+				"Lightning Reflexes",
+				"Mythic Spell Lore",
+				"Quicken Spell",
+				"Persistent Spell",
+				"Scribe Scroll",
+				"Spell Focus (enchantment)",
+				"Spell Focus (necromancy)",
+				"Spell Perfection (fireball)",
+				"Toughness"
+			],
+			"skills": [
+				"Appraise +18",
+				"Bluff +11",
+				"Craft (alchemy) +18",
+				"Diplomacy +31",
+				"Disguise +24",
+				"Fly +19",
+				"Handle Animal +11",
+				"Intimidate +33",
+				"Knowledge (arcana, dungeoneering, engineering, history, local, nobility, planes, religion) +38",
+				"Knowledge (geography, nature) +32",
+				"Linguistics +27",
+				"Perception +40",
+				"Sense Motive +17",
+				"Spellcraft +37",
+				"Stealth +35",
+				"Use Magic Device +31"
+			],
+			"statistics": [
+				"**Str** 24, **Dex** 22, **Con**: -, **Int** 39, **Wis** 18, **Cha**, 31",
+				"**Base Atk** +10; **CMB** +17; **CMD** 39",
+				"**Feats** [Arcane Strike](feat:Arcane Strike), [Craft Wondrous Item](feat:Craft Wondrous Item), [Dual Path](feat:Dual Path), [Empower Spell](feat:Empower Spell), [Extend Spell](feat:Extend Spell), [Greater Spell Focus (enchantment)](feat:Greater Spell Focus), [Improved Initiative](feat:Improved Initiative), [Iron Will](feat:Iron Will), [Leadership](feat:Leadership), [Lightning Reflexes](feat:Lightning Reflexes), [Mythic Spell Lore](feat:Mythic Spell Lore), [Quicken Spell](feat:Quicken Spell), [Persistent Spell](feat:Persistent Spell), [Scribe Scroll](feat:Scribe Scroll), [Spell Focus (enchantment)](feat:Spell Focus), [Spell Focus (necromancy)](feat:Spell Focus), [Spell Perfection (fireball)](feat:Spell Perfection), [Toughness](feat:Toughness)",
+				"**Skills** Appraise +18, Bluff +11, Craft (alchemy) +18, Diplomacy +31, Disguise +24, Fly +19, Handle Animal +11, Intimidate +33, Knowledge (arcana, dungeoneering, engineering, history, local, nobility, planes, religion) +38, Knowledge (geography, nature) +32, Linguistics +27, Perception +40, Sense Motive +17, Spellcraft +37, Stealth +35, Use Magic Device +31; **Racial Modifiers** +8 Perception, +8 Sense Motive, +8 Stealth",
+				"**Languages** Abyssal, Aklo, Ancient Osiriani, Aquan, Auran, Azlanti, Celestial, Common, Draconic, Dwarven, Elven, Giant, Gnoll, Gnome, Goblin, Halfling, Ignan, Infernal, Kelish, Orc, Osiriani, Sylvan, Terran, Undercommon",
+				"**SQ** amazing initiative, arcane bond (rapier), divine source (Evil, Nobility [Leadership subdomain], Protection [Defense subdomain]), exceptional resources, permanent spells, recuperation",
+				"**Combat Gear** Arazni's staff of the magi, Harlot's Kiss, lesser maximize metamagic rod, pearls of power (2, 3rd level), scroll of greater scrying, scroll of teleport, scroll of tongues, wand of inflict light wounds (50 charges); **Other Gear** +5 arrow deflection mithral buckler, amulet of natural armor +5, belt of physical might +6 (Str, Dex), cloak of resistance +5, dusty rose prism ioun stone, eyes of the eagle, handy haversack, headband of mental superiority +6, pale green ioun stone, ring of freedom of movement, ring of protection +5, spellbook (includes all sorcerer/wizard spells, plus unique spells Arazni personally researched), diamond worth 25,000 gp"
+			],
+			"special_abilities": [
+				"**Exceptional Resources (Ex)** Arazni has the wealth of a 20th-level PC, rather than an NPC. This increases her CR by 1. She used some of this wealth to create and read the following books to gain inherent bonuses to her ability scores: manual of gainful exercise +5, manual of quickness in action +4, tome of clear thought +5, and tome of leadership and influence +5.",
+				"**Permanent Spells (Sp)** Using permanency, Arazni gave herself the constant effects of arcane sight, resistance, and see invisibility. She is under the effect of a contingency that casts harm on her if she's brought below 100 hit points."
+			],
+			"description": [
+				"Arazni was once a demigod and herald to Aroden. As the Red Crusader, she rode into battle during the Shining Crusade. Yet her bravery and might were of no avail against the Whispering Tyrant, who humiliated her before torturing her to death, throwing her broken form amid the ranks of her army to dishearten them. But even in death Arazni found no comfort. She lay in rest only 67 years before the overzealous Knights of Ozem provoked the witch-king Geb, who raised some of the fallen knights as grave knights and sent them to bring Arazni's revered remains to him. Not content with her corpse, he infused deathless vitality into her and bound her spirit up in her bones, making her his Harlot Queen. She rules still in his stead.",
+				"Arazni's onetime disciples in the Knights of Ozem have resolved to lay her finally to rest. The knights possess the Bloodstones of Arazni (Pathfinder Campaign Setting: Artifacts & Legends 13): four of her organs kept in funerary jars, which they recovered from Geb. They believe those bearing these jars have the protection of both holy aura and mind blank against Arazni's magic (in addition to an ability unique to each jar). But whether the jars hold the key to truly destroying her has not yet been proven. The Harlot Queen plots in secret to destroy-or recover, if possible-all the remaining jars. Her graveknight bodyguards monitor for any sign of the Bloodstones. It's said that Arazni senses the location of a jar when it's used, but no one can be sure whether this is true or a rumor the Harlot Queen has spread to keep those relics from being used.",
+				"Arazni's Staff of the Magi (Minor Artifact): Arazni possesses an unusual staff of the magi that Geb recovered from a nameless pharaoh's tomb and offered his newly risen bride. This staff of the magi uses its wielder's caster level, Intelligence modifier, and feats when determining its spells' saving throws, rather than the set save DCs of a typical staff of the magi. In addition, if the wielder knows the mythic version of one of the staff \"s spells, she can expend uses of mythic power to cast or augment that spell as if she were casting it normally. If the wielder doesn't know the mythic version of a spell, she can use the mythic version of that spell by expending one use of mythic power per 2 levels of the spell (rounding up); a mythic spell cast this way can't be augmented. The wielder can use metamagic feats in conjunction with spells cast from her staff if she has a way to apply the feats on the spot without increasing the spells\" caster levels (such as Arazni's arcane metamastery path ability, a metamagic rod, or the Spell Perfection feat).",
+				"Arazni's staff of the magi can create unique fireballs, which cost 2 charges to cast. These fireballs begin as eruptions of black fire, but coalesce into explosive waves of freezing darkness. These fireballs can deal fire damage, cold damage, or half cold and half fire. Creatures failing their saving throws against such a fireball are staggered for 1 round by the force of the explosion. In addition, the area of the fireball is treated as deeper darkness until the end of the wielder's next turn. Any creature or object that enters the darkness during this time takes damage as if it had been in the area when the fireball was cast. This power replaces telekinesis.",
+				"Harlot's Kiss (Minor Artifact): Arazni's scarlet-hilted rapier is a relic of her days as the Red Crusader. Her blade acts as a +1 conductive dancing keen rapier, and its conductive property can be used once per round even while it is dancing.",
+				"The blade has two abilities only Arazni can use. If she hurls Harlot's Kiss using the hand of the apprentice ability, it can perform a full attack against a single target rather than a single attack, instantly returning to Arazni at the end of her turn. However, she can't use hand of the apprentice on the rapier while it's dancing. If Arazni expends one use of mythic power when commanding the weapon to dance, the weapon's attacks use her caster level as the base attack bonus (effectively gaining a +10 bonus on attack rolls) for as long as it dances."
+			],
+			"short_description": "This gray-skinned woman wears a royal gown that exposes the top of a jagged incision down the middle of her chest."
 		},
-		"hp": {
-			"hp": 379
+		{
+			"name": "Baba Yaga",
+			"file": "mythicmonsterdisplay6ace.html",
+			"sources": [ "Pathfinder #72: The Witch Queen's Revenge" ],
+			"cr": 30,
+			"mr": 10,
+			"xp": 9830400,
+			"levels": "Female venerable advanced human witch 20/archmage 10",
+			"alignment": "NE",
+			"size": "medium",
+			"type": "humanoid",
+			"subtypes": [ "human", "mythic" ],
+			"initiative": 19,
+			"senses": [
+				"arcane sight",
+				"darkvision 60 ft.",
+				"see invisibility"
+			],
+			"perception": 27,
+			"heading": [
+				"Baba Yaga CR 30/MR 10",
+				"**Source** [Pathfinder #72: The Witch Queen's Revenge pg. 74](source:Pathfinder #72: The Witch Queen's Revenge)",
+				"**XP** 9,830,400",
+				"Female venerable advanced human witch 20/archmage 10",
+				"NE Medium humanoid (human, mythic)",
+				"**Init** +19; **Senses** arcane sight, darkvision 60 ft., see invisibility; Perception +27"
+			],
+			"ac": {
+				"ac": 51,
+				"touch": 31,
+				"flatfooted": 46,
+				"bonuses": {
+					"armor": 13,
+					"deflection": 5,
+					"dex": 5,
+					"insight": 11,
+					"natural": 7
+				}
+			},
+			"hp": {
+				"hp": 782
+			},
+			"saves": {
+				"fort": 30,
+				"ref": 27,
+				"will": 35
+			},
+			"defensive_abilities": [
+				"hard to kill",
+				"mythic saving throws",
+				"unstoppable"
+			],
+			"dr": [
+				10,
+				"epic and good"
+			],
+			"immune": [
+				"ability damage and drain",
+				"charm and compulsion effects",
+				"death effects",
+				"disease",
+				"energy drain",
+				"petrification",
+				"poison",
+				"and all forms of madness"
+			],
+			"sr": 35,
+			"defense": [
+				"**AC** 51, touch 31, flat-footed 46 (+13 armor, +5 deflection, +5 Dex, +11 insight, +7 natural)",
+				"**hp** 782 (20d6+710); regeneration 20",
+				"**Fort** +30, **Ref** +27, **Will** +35",
+				"**Defensive Abilities** hard to kill, mythic saving throws, unstoppable; **DR** 10/epic and good; **Immune** ability damage and drain, charm and compulsion effects, death effects, disease, energy drain, petrification, poison, and all forms of madness; **SR** 35 (arcane only)"
+			],
+			"speed": {
+				"land": 30
+			},
+			"space": 5,
+			"reach": 5,
+			"offense": [
+				"**Speed** 30 ft.",
+				"**Melee** Baba Yaga's besom +17/+12 (1d6+7)",
+				"**Special Attacks** archmage arcana (wild arcana), channel power, coupled arcana, energy conversion, forceful will, hexes (agony [20 rounds], cackle [swift action 2/day], cauldron, child scent, cook people, death curse, evil eye [-4, 21 rounds], scar, life giver, slumber [20 rounds], witch's hut, vision), mythic hexes, mythic power (23/day, surge +1d12), mythic presence (DC 28), reverse scrying, sanctum, throw spell",
+				"**Witch Spells Prepared ** (CL 20th; concentration +38)",
+				"9th-dominate monster (DC 37), foresight, gate, time stop, wail of the banshee (DC 37), weird (DC 37), wish",
+				"8th-binding (DC 36), quickened dimension door, maze, quickened phantasmal killer (DC 36), polymorph any object (DC 36), stormbolts(DC 36), symbol of death (DC 36)",
+				"7th-control weather, finger of death (DC 35), greater teleport, heal, jolting portent (DC 35), terraform, temporary resurrection",
+				"6th-quickened blindness/deafness (DC 34), chain lightning(DC 34), disintegrate (DC 34), eyebite (DC 34), greater dispel magic, slay living (DC 34), true seeing",
+				"5th-baleful polymorph (DC 33), break enchantment, dominate person (DC 33), feeblemind (DC 33), greater forbid action (DC 33), major curse (DC 33), smug narcissism, steal power (DC 33)",
+				"4th-bestow curse (DC 32), charm monster (DC 32), confusion (DC 32), dimensional anchor, ice storm, greater invisibility, stoneskin, terrible remorse (DC 32)",
+				"3rd-cackling skull (DC 31), dispel magic, fireball (DC 31), fly, haste, lightning bolt (DC 31), protection from energy, suggestion (DC 31)",
+				"2nd-anticipate peril (DC 30), glitterdust (DC 30), mad hallucination (DC 30), mirror image, miserable pity (DC 30), pox pustules (DC 30), touch of idiocy, web (DC 30)",
+				"1st-beguiling gift (DC 30), bungle (DC 30), charm person (DC 29), disguise self (DC 29), feather fall, fumbletongue (DC 30), magic missile (2)",
+				"0 (at will)-daze (DC 28), mending, prestidigitation, read magic Patron fate"
+			],
+			"str": 17,
+			"dex": 20,
+			"con": 26,
+			"int": 46,
+			"wis": 24,
+			"cha": 32,
+			"base_attack_bonus": 10,
+			"cmb": 13,
+			"cmd": 36,
+			"feats": [
+				"Accursed Critical",
+				"Accursed Hex",
+				"Brew Potion",
+				"Extra Hex",
+				"Extra Path Ability",
+				"Greater Spell Penetration",
+				"Improved Familiar",
+				"Improved Initiative",
+				"Mythic Paragon",
+				"Mythic Spell Lore",
+				"Quicken Spell",
+				"Spell Penetration",
+				"Split Hex",
+				"Split Major Hex",
+				"Toughness"
+			],
+			"skills": [
+				"Acrobatics +15",
+				"Appraise +23",
+				"Bluff +26",
+				"Craft (alchemy) +22",
+				"Craft (woodworking) +22",
+				"Diplomacy +21",
+				"Escape Artist +25",
+				"Fly +23",
+				"Heal +25",
+				"Intimidate +36",
+				"Knowledge (arcana) +41",
+				"Knowledge (dungeoneering) +38",
+				"Knowledge (engineering) +38",
+				"Knowledge (geography) +38",
+				"Knowledge (history) +41",
+				"Knowledge (local) +38",
+				"Knowledge (nature) +41",
+				"Knowledge (nobility) +38",
+				"Knowledge (planes) +41",
+				"Knowledge (religion) +38",
+				"Perception +27",
+				"Ride +13",
+				"Sense Motive +27",
+				"Spellcraft +41",
+				"Stealth +25",
+				"Survival +11",
+				"Use Magic Device +34"
+			],
+			"statistics": [
+				"**Str** 17, **Dex** 20, **Con**: 26, **Int** 46, **Wis** 24, **Cha**, 32",
+				"**Base Atk** +10; **CMB** +13; **CMD** 36",
+				"**Feats** [Accursed Critical](feat:Accursed Critical), [Accursed Hex](feat:Accursed Hex), [Brew Potion](feat:Brew Potion), [Extra Hex](feat:Extra Hex), [Extra Path Ability](feat:Extra Path Ability), [Greater Spell Penetration](feat:Greater Spell Penetration), [Improved Familiar](feat:Improved Familiar), [Improved Initiative](feat:Improved Initiative), [Mythic Paragon](feat:Mythic Paragon), [Mythic Spell Lore](feat:Mythic Spell Lore), [Quicken Spell](feat:Quicken Spell), [Spell Penetration](feat:Spell Penetration), [Split Hex](feat:Split Hex), [Split Major Hex](feat:Split Major Hex), [Toughness](feat:Toughness)",
+				"**Skills** Acrobatics +15, Appraise +23, Bluff +26, Craft (alchemy) +22, Craft (woodworking) +22, Diplomacy +21, Escape Artist +25, Fly +23, Heal +25, Intimidate +36, Knowledge (arcana) +41, Knowledge (dungeoneering) +38, Knowledge (engineering) +38, Knowledge (geography) +38, Knowledge (history) +41, Knowledge (local) +38, Knowledge (nature) +41, Knowledge (nobility) +38, Knowledge (planes) +41, Knowledge (religion) +38, Perception +27, Ride +13, Sense Motive +27, Spellcraft +41, Stealth +25, Survival +11, Use Magic Device +34",
+				"**Languages** Abyssal, Aklo, Aquan, Auran, Celestial, Common, Draconic, Giant, Ignan, Infernal, Iobarian, Polish, Russian, Sarmatian, Sylvan, Terran, Triaxian; tongues",
+				"**SQ** amazing initiative (+10), component freedom, contingency, crafting mastery, enduring armor, exceptional stats, forceful presence, hut familiar, immortal, legendary hero, long-lived, mythic spell power, permanent spells, Queen of Witches, recuperation, true archmage",
+				"**Gear** amulet of natural armor +5, apple of eternal sleep, Baba Yaga's besom, belt of mighty constitution +6, bracelet of second chances, cackling hag's blouse, corset of dire witchcraft, ebony fly figurine of wondrous power, gem of seeing, Grandmother's basket (as a portable hole), Grandmother's shawl (as a cloak of resistance +5), grim lantern, hat of disguise, haunted shoes, headband of alluring charisma +6, hexing doll, orb of foul Abaddon, pearl of power (5th level), ring of elemental command (fire), ring of freedom of movement (slotless), ring of protection +5; in addition to the gear listed here, Baba Yaga has access to a wide variety of other magic items that she can use at the GM's discretion."
+			],
+			"special_abilities": [
+				"**Contingency (Sp)** Whenever Baba Yaga is attacked, she is affected by mislead.",
+				"**Exceptional Stats (Ex)** Baba Yaga was born a perfect specimen of humanity. As a result, her ability scores were generated using 25 points, rather than using the standard 15 point buy used to create most NPCs. Additionally, Baba Yaga has much more gear than an NPC of her level would normally have. These modifications increase her total CR by 2.",
+				"**Forceful Presence (Ex)** Baba Yaga adds her Charisma modifier as an insight bonus to her Armor Class and on all of her saving throws. In addition, Baba Yaga uses her Charisma score as well as her Constitution score when calculating hit points. This ability increases her total CR by 1.",
+				"**Hut Familiar (Ex)** Baba Yaga built her Dancing Hut using a combination of the witch's hut hex and the sanctum mythic path ability, and over time expanded the artifact's powers to its present state. The Dancing Hut of Baba Yaga serves as Baba Yaga's familiar, and replaces the normal witch's familiar ability. Baba Yaga's life is forever intertwined with her Dancing Hut and parts of her essence reside within it. As long as the hut exists, this special connection grants her 300 bonus hit points, DR 10/epic and good, and regeneration 20. This ability increases her total CR by 1.",
+				"**Immortal (Su)** Baba Yaga has hidden her death to make herself even more difficult to kill. This functions as the base mythic ability (Mythic Adventures 13), but Baba Yaga always returns to life 24 hours later, regardless of how she is killed. In order to permanently kill Baba Yaga, her death must be found and released back into her body, at which point she can be killed with a coup de grace or critical hit made with an artifact.",
+				"**Long-Lived (Ex)** Mystical arcane powers, mythic abilities, and complex arcane rituals have extended Baba Yaga's life. She gains the +3 bonus to Intelligence, Wisdom, and Charisma scores for having lived beyond venerable age, but she doesn't gain the penalties to Strength, Dexterity, and Constitution resulting from this advanced age. Baba Yaga's supernaturally empowered life grants her complete immunity to ability damage and drain, charm and compulsion effects, death effects, disease, energy drain, petrification, poison, and all forms of madness (including confusion effects and feeblemind). This ability increases her total CR by 1.",
+				"**Permanent Spells (Sp)** Through the use of permanency, Baba Yaga is constantly under the effect of the following spells: arcane sight, darkvision, read magic, see invisibility, and tongues. Baba Yaga has also devised a way to inscribe symbol spells upon her person. Baba Yaga has permanent symbols of death (DC 36) magically inscribed on the center of her chest, between her shoulder blades, upon the crown of her head, and on the soles of her feet. Only a few great beings have knowledge of the symbols' passwords (each symbol has its own unique phrase), and even fewer significant personalities have been attuned to the symbols.",
+				"**Queen of Witches (Ex)** As Queen of Witches, Baba Yaga knows all witch spells, as well as all sorcerer/wizard spells. Baba Yaga also has knowledge of many other spells that she has researched. Many of these are arcane versions of divine spells. In addition, Baba Yaga can create artifacts, and has done so to great extent, the greatest of which is the Dancing Hut of Baba Yaga."
+			],
+			"description": [ "Around campfires and in front of hearths on cold winter nights, wise grandmothers and favored uncles recite countless tales of a stern and powerful woman. Some know her as the Old Crone, others as Old Knobby Legs. She's often called the Queen of the Witches, but those who are wise call her Dear Grandmother. She is Baba Yaga, and on Golarion, she has an oppressive and violent legacy. But, on other worlds, the foolhardy and the brave seek her for wisdom and magic." ]
 		},
-		"saves": {
-			"fort": 23,
-			"ref": 21,
-			"will": 25
+		{
+			"name": "Jarl Gnargorak",
+			"file": "mythicmonsterdisplay28f8.html",
+			"sources": [ "Mythic Realms" ],
+			"cr": 25,
+			"mr": 8,
+			"xp": 1638400,
+			"levels": "Male frost giant ranger 12/marshal 8",
+			"alignment": "CE",
+			"size": "large",
+			"type": "humanoid",
+			"subtypes": [ "cold", "giant" ],
+			"initiative": 19,
+			"senses": [ "low-light vision" ],
+			"perception": 33,
+			"heading": [
+				"Jarl Gnargorak CR 25/MR 8",
+				"**Source** [Mythic Realms pg. 52](source:Mythic Realms)",
+				"**XP** 1,638,400",
+				"Male frost giant ranger 12/marshal 8 (Pathfinder RPG Mythic Adventures 38)",
+				"CE Large humanoid (cold, giant)",
+				"**Init** +19; **Senses** low-light vision; Perception +33"
+			],
+			"ac": {
+				"ac": 43,
+				"touch": 19,
+				"flatfooted": 38,
+				"bonuses": {
+					"armor": 10,
+					"deflection": 5,
+					"dex": 5,
+					"natural": 14,
+					"size": -1
+				}
+			},
+			"hp": {
+				"hp": 485
+			},
+			"saves": {
+				"fort": 34,
+				"ref": 26,
+				"will": 19
+			},
+			"defensive_abilities": [
+				"evasion",
+				"hard to kill",
+				"mythic saving throws",
+				"rock catching",
+				"unstoppable"
+			],
+			"resist": {
+				"electricity": 20,
+				"fire": 30
+			},
+			"defense": [
+				"**AC** 43, touch 19, flat-footed 38 (+10 armor, +5 deflection, +5 Dex, +14 natural, -1 size)",
+				"**hp** 485 (26 HD; 14d8+12d10+356)",
+				"**Fort** +34, **Ref** +26, **Will** +19; +2 vs. fire-based effects",
+				"**Defensive Abilities** evasion, hard to kill, mythic saving throws, rock catching, unstoppable; **Resist** electricity 20, fire 30"
+			],
+			"speed": {
+				"land": 30
+			},
+			"space": 10,
+			"reach": 10,
+			"offense": [
+				"**Speed** 30 ft.",
+				"**Melee** Winter's Heart +41/+36/+31/+26 (2d8+25/17-20 plus 1d6 cold)",
+				"**Ranged**  +5 seeking composite longbow +33/+28/+23/+18 (2d6+18/19-20/x3) or rock +28 (1d8+19)",
+				"**Space** 10 ft., **Reach** 10 ft.",
+				"**Special Attacks** favored enemy (animals +4, evil outsiders +2, humans +4), fight on, inspiring assault, marshal's order (advance, decisive strike), menacing presence, mythic bond, mythic presence, press the advantage, rock throwing (120 ft.)",
+				"**Ranger Spells Prepared ** (CL 9th; concentration +13)",
+				"3rd-fickle winds, water walk",
+				"2nd-barkskin (already cast), versatile weapon, wind wall",
+				"1st-horn of pursuit, pass without trace, resist energy (already cast)"
+			],
+			"str": 37,
+			"dex": 24,
+			"con": 34,
+			"int": 12,
+			"wis": 18,
+			"cha": 18,
+			"base_attack_bonus": 22,
+			"cmb": 36,
+			"cmd": 58,
+			"feats": [
+				"Awesome Blow",
+				"Deadly Aim",
+				"Endurance",
+				"Exotic Weapon Proficiency (bastard sword)",
+				"Improved Bull Rush",
+				"Improved Critical (bastard sword)",
+				"Improved Critical (composite longbow)",
+				"Improved Initiative",
+				"Improved Precise Shot",
+				"Iron Will",
+				"Leadership",
+				"Lightning Reflexes",
+				"Pinpoint Targeting",
+				"Point-Blank Shot",
+				"Power Attack",
+				"Precise Shot",
+				"Rapid Shot"
+			],
+			"skills": [
+				"Intimidate +33",
+				"Knowledge (geography, nature) +13",
+				"Perception +33",
+				"Sense Motive +14",
+				"Stealth +25 (+29 in snow)",
+				"Survival +33"
+			],
+			"statistics": [
+				"**Str** 37, **Dex** 24, **Con**: 34, **Int** 12, **Wis** 18, **Cha**, 18",
+				"**Base Atk** +22; **CMB** +36 (+38 bull rush); **CMD** 58 (60 vs. bull rush)",
+				"**Feats** [Awesome Blow](feat:Awesome Blow), [Deadly Aim](feat:Deadly Aim), [Endurance](feat:Endurance), [Exotic Weapon Proficiency (bastard sword)](feat:Exotic Weapon Proficiency), [Improved Bull Rush](feat:Improved Bull Rush), [Improved Critical (bastard sword)](feat:Improved Critical), [Improved Critical (composite longbow)](feat:Improved Critical), [Improved Initiative](feat:Improved Initiative), [Improved Precise Shot](feat:Improved Precise Shot), [Iron Will](feat:Iron Will), [Leadership](feat:Leadership), [Lightning Reflexes](feat:Lightning Reflexes), [Pinpoint Targeting](feat:Pinpoint Targeting), [Point-Blank Shot](feat:Point-Blank Shot), [Power Attack](feat:Power Attack), [Precise Shot](feat:Precise Shot), [Rapid Shot](feat:Rapid Shot)",
+				"**Skills** Intimidate +33, Knowledge (geography, nature) +13, Perception +33, Sense Motive +14, Stealth +25 (+29 in snow), Survival +33; **Racial Modifiers** +4 Stealth in snow",
+				"**Languages** Common, Giant, Hallit",
+				"**SQ** additional order, amazing initiative, camouflage, evasion, exceptional wealth, favored terrain (cold +4, mountain +2), hunter's bond (companions), pierce the darkness, quarry, recuperation, swift tracker, track +6, wild empathy +16, woodland stride",
+				"**Combat Gear** boots of speed, +1 brilliant energy arrows (10), potions of cure serious wounds (4), +1 demon bane arrows (10), +1 dragon bane arrows (10), +1 flaming burst arrows (10), +1 human bane arrows (20), efficient quiver, glove of storing, greater horn of blasting, staff of journeys (50 charges); **Other Gear** +4 improved shadow mithral breastplate, +5 seeking composite longbow (+14 Str) with 30 arrows, Winter's Heart (see below), amulet of natural armor +5, belt of physical perfection +6, cloak of resistance +5, greater bracers of archery, greater ring of fire resistance, headband of mental prowess +4 (Wis, Cha), portable hole, ring of protection +5, stormlord's helm, spell component pouch, platinum and sapphire necklace (worth 12,500 gp), platinum symbol of Thremyr (worth 500 gp), sapphires (10, worth 5,000 gp each)"
+			],
+			"special_abilities": [ "**Exceptional Wealth (Ex)** Jarl Gnargorak has the wealth of a 20th-level PC, rather than an NPC. This increases his CR by 1." ],
+			"description": [
+				"The ambitious Gnargorak always hungered for power and status, but he didn't aspire to be Jarl of all Jarls until Winter's Heart came into his grasp. The sword whispered dreams of greatness to Gnargorak, of lordship over all frost giants. The first obstacle to establishing his regime was the ancient silver dragon Lanargix, long a thorn in the side of frost giants throughout the Tusk Mountains. Jarl Gnargorak filled her hide with a dozen arrows before meeting her in melee, sword to claw. With the dead dragon's horns adorning his staff, Gnargorak proclaimed himself the chosen of Thremyr and high jarl of all frost giants, in the Tusk Mountains and beyond. Now, a full score of Tusk Mountain jarls openly swear fealty to Gnargorak. Others placate him, lest they draw his wrath. Only the jarl's lack of focus and unceasing need to conquer keeps him from uniting the remaining giants of the Tusks under one banner.",
+				"The skulls of those who dared dispute his sovereignty line the path to his mountain fortress of Bos-Phargrumm (see page 33). He rarely sets foot in this ice castle, as raiding the hated Mammoth Lords brings him far more pleasure than consolidating his rule. The towering citadel that reaches into the clouds stays busy even without its ostensible owner sitting upon its massive, ornate throne. Jarl Gnargorak's cloud giant harem lives there, serving as his advisors, maintaining the treasuries, collecting taxes from lands Gnargorak has claimed, and negotiating with the tribes on the jarl's behalf. They grow tired of this work, as the jarl is far more interested in conquering new territory than in ruling over that which he holds.",
+				"Winter's Heart also grows weary of Gnargorak's lack of dedication to building a true empire. Of late, the sword has denied the jarl its greater powers except in times of dire need. It constantly searches for another potential leader to bear it and use it to impose rule over the north. Of course, the jarl never lets Winter's Heart leave his presence, so the sword's options are limited. The artifact is unattended only while the jarl is in his personal chambers, where he feels he's safe. But one of his harem has communicated with the sword and sympathizes with its goals. She watches for the best candidates, and invites them to Bos-Phargrumm on false pretenses so she can weigh their acumen. She and Winter's Heart haven't found a suitable leader among the frost giants; there's no shortage of ambition among their kind, but no tribal leader has half the experience or cunning Gnargorak does.",
+				"Though other frost giants admire and fear Jarl Gnargorak's prowess in battle, they view his harem of cloud giants with private derision and a touch of envy. Even given the jarl's imposing 16-foot stature, his brides all stand noticeably taller than he. Gnargorak prizes his exotic harem, and eagerly anticipates the birth of a son surely destined to be the mightiest frost giant in all the Tusks. Yet despite his many brides, the jarl's seed has yet to bear fruit. His displeasure over this continued lack of an heir drives him to ever more brutal raids against the Mammoth Lords so that he can at least leave a legacy of conquest and make a mark for all to see in the histories of the north-even if there would be no one of his own blood to take over his domain.",
+				"Jarl Gnargorak leads a veritable army, but because he started out as a hunter, not a soldier, he uses his forces in unconventional ways that suit the tactics he learned in the wild. Rather than simply leading an overwhelming force directly into battle against the Mammoth Lords, he draws the warriors' attention away from the safety of their followings and into his snares and ambushes. Only when a group is weakened does he sweep in to destroy them.",
+				"Winter's Heart",
+				"The details for the Winter's Heart artifact can be found [here](unknown:here)."
+			],
+			"short_description": "Clad in mithral and furs and armed with a glowing sword made of ice, this towering, blue-skinned humanoid has a regal presence."
 		},
-		"defensive_abilities": [
-			"channel resistance +4",
-			"fortification (50%)",
-			"freedom of movement",
-			"hard to kill",
-			"mythic saving throws",
-			"rejuvenation",
-			"unstoppable"
-		],
-		"dr": [
-			15,
-			"bludgeoning and magic"
-		],
-		"immune": [
-			"cold",
-			"electricity",
-			"undead traits"
-		],
-		"sr": 23,
-		"defense": [
-			"**AC** 44, touch 22, flat-footed 38 (+6 armor, +5 deflection, +6 Dex, +1 insight, +10 natural, +6 shield)",
-			"**hp** 379 (20d6+307)",
-			"**Fort** +23, **Ref** +21, **Will** +25",
-			"**Defensive Abilities** channel resistance +4, fortification (50%), freedom of movement, hard to kill, mythic saving throws, rejuvenation, unstoppable; **DR** 15/bludgeoning and magic; **Immune** cold, electricity, undead traits; **SR** 23"
-		],
-		"speed": {
-			"land": 30,
-			"fly": 40,
-			"maneuverability": "average"
+		{
+			"name": "Kortash Khain",
+			"file": "mythicmonsterdisplayca4a.html",
+			"sources": [ "Mythic Realms" ],
+			"cr": 23,
+			"mr": 6,
+			"xp": 819200,
+			"levels": "Male ghoul cleric of Kabriri 5/sorcerer (wildblooded) 5/mystic theurge 10/hierophant 6",
+			"alignment": "CE",
+			"size": "medium",
+			"type": "undead",
+			"initiative": 11,
+			"senses": [
+				"darkvision 60 ft.",
+				"deathwatch 30 ft.",
+				"true seeing"
+			],
+			"perception": 11,
+			"heading": [
+				"Kortash Khain CR 23/MR 6",
+				"**Source** [Mythic Realms pg. 54](source:Mythic Realms)",
+				"**XP** 819,200",
+				"Male ghoul cleric of Kabriri 5/sorcerer (wildblooded) 5/mystic theurge 10/hierophant 6 (Pathfinder RPG Mythic Adventures 32, Pathfinder RPG Ultimate Magic 70)",
+				"CE Medium undead",
+				"**Init** +11; **Senses** darkvision 60 ft., deathwatch 30 ft., true seeing; Perception +11"
+			],
+			"ac": {
+				"ac": 39,
+				"touch": 22,
+				"flatfooted": 34,
+				"bonuses": {
+					"armor": 5,
+					"deflection": 5,
+					"dex": 5,
+					"luck": 2,
+					"natural": 7,
+					"shield": 5
+				}
+			},
+			"hp": {
+				"hp": 391
+			},
+			"saves": {
+				"fort": 25,
+				"ref": 17,
+				"will": 34
+			},
+			"defensive_abilities": [
+				"channel resistance +2",
+				"contingencies",
+				"hard to kill",
+				"mind blank",
+				"mythic saving throws"
+			],
+			"immune": [ "undead traits" ],
+			"defense": [
+				"**AC** 39, touch 22, flat-footed 34 (+5 armor, +5 deflection, +5 Dex, +2 luck, +7 natural, +5 shield)",
+				"**hp** 391 (22 HD; 2d8+5d8+5d6+10d6+308)",
+				"**Fort** +25, **Ref** +17, **Will** +34",
+				"**Defensive Abilities** channel resistance +2, contingencies, hard to kill, mind blank, mythic saving throws; **Immune** undead traits"
+			],
+			"speed": {
+				"land": 30
+			},
+			"space": 5,
+			"reach": 5,
+			"offense": [
+				"**Speed** 30 ft.",
+				"**Melee** bite +12 (1d6+1 plus disease and paralysis), 2 claws +12 (1d4+1 plus paralysis), staff of power +14/+9/+4 (1d6+3)",
+				"**Ranged**  ray +17 (by spell/19-20)",
+				"**Special Attacks** alter channel, the blood is the life (13/day), channel negative energy 15/day (DC 22, 3d6), death's kiss (2 rounds, 14/day), disease, divine surge (inspired spell), eldritch breach, enduring blessing (1 minute/level), faith's reach, lore keeper, mythic power (15/day, surge +1d8), paralysis (1d4+1 rounds, DC 21, elves are immune to this effect), spell synthesis",
+				"**Spell-Like Abilities (CL 22nd)",
+				"2/day-ghoul touch",
+				"1/day-undead minion",
+				"**Cleric Spells Prepared ** (CL 15th; concentration +26)",
+				"8th-fire storm[^M] (DC 29), mind blank[^D] (already cast), unholy aura",
+				"7th-destruction[^D] (2, DC 29), empowered flame strike (2), repulsion (DC 28)",
+				"6th-create undead[^D], greater dispel magic, harm[^M] (2, DC 29), plague storm, word of recall",
+				"5th-plane shift[^M] (DC 26), scrying (DC 26), slay living[^D] (3, DC 27), steal power (DC 28), true seeing (already cast)",
+				"4th-aura of doom, blessing of fervor, dismissal (DC 25), divine power, enervation[^D][^M] (2), freedom of movement",
+				"3rd-bestow curse (3, DC 25), dispel magic, magic vestment (already cast), prayer[^M] (2), seek thoughts[^D]",
+				"2nd-darkness[^M], ghoul touch[^D] (DC 25), remove paralysis, resist energy (2), silence[^M] (2, DC 23), spiritual weapon",
+				"1st-comprehend languages[^D], divine favor, entropic shield, protection from good (3), shield of faith[^M] (2)",
+				"0 (at will)-detect magic, guidance, light, mending [^D]: domain spell; Domains Death (Undead subdomain), Knowledge (Thought subdomain)",
+				"**Sorcerer Spells Known ** (CL 15th; concentration +25)",
+				"7th (5/day)-finger of death[^M], (DC 29), power word blind, prismatic spray[^M]",
+				"6th (8/day)-contagious flame, contingency[^M], greater dispel magic, undeath to death (DC 28)",
+				"5th (8/day)-cone of cold (DC 25), dominate person[^M] (DC 25), mage's private sanctum, teleport, waves of fatigue",
+				"4th (8/day)-animate dead, bestow curse (DC 26), charm monster (DC 24), enervation[^M], fire shield",
+				"3rd (8/day)-fly, hold person (DC 23), magic circle against good, nondetection, vampiric touch[^M] 2nd (9/day, 8 remaining)-command undead (DC 23), false life (cast once), mirror image, resist energy, scorching ray, spider climb[^M]",
+				"1st (9/day)-chill touch (DC 23), expeditious retreat, feather fall, ray of enfeeblement (DC 23), silent image (DC 21), vanish",
+				"0 (at will)-acid splash, arcane mark, dancing lights, ghost sound (DC 20), mage hand, message, prestidigitation, read magic, tough of fatigue",
+				"**Bloodline** undead (sanguine); [^M]: mythic spell"
+			],
+			"str": 13,
+			"dex": 21,
+			"con": null,
+			"int": 17,
+			"wis": 32,
+			"cha": 31,
+			"base_attack_bonus": 11,
+			"cmb": 12,
+			"cmd": 32,
+			"feats": [
+				"Accursed Critical",
+				"Craft Wondrous Item",
+				"Demonic Obedience",
+				"Empower Spell",
+				"Eschew Materials",
+				"Extra Channel",
+				"Improved Critical (ray)",
+				"Mythic Spell Lore",
+				"Spell Focus (necromancy)",
+				"Thanatopic Spell",
+				"Toughness",
+				"Weapon Focus (ray)"
+			],
+			"skills": [
+				"Intimidate +32",
+				"Knowledge (arcana, planes, religion) +28",
+				"Spellcraft +28",
+				"Use Magic Device +24"
+			],
+			"statistics": [
+				"**Str** 13, **Dex** 21, **Con**: -, **Int** 17, **Wis** 32, **Cha**, 31",
+				"**Base Atk** +11; **CMB** +12; **CMD** 32",
+				"**Feats** [Accursed Critical](feat:Accursed Critical), [Craft Wondrous Item](feat:Craft Wondrous Item), [Demonic Obedience](feat:Demonic Obedience), [Empower Spell](feat:Empower Spell), [Eschew Materials](feat:Eschew Materials), [Extra Channel](feat:Extra Channel), [Improved Critical (ray)](feat:Improved Critical), [Mythic Spell Lore](feat:Mythic Spell Lore), [Spell Focus (necromancy)](feat:Spell Focus), [Thanatopic Spell](feat:Thanatopic Spell), [Toughness](feat:Toughness), [Weapon Focus (ray)](feat:Weapon Focus)",
+				"**Skills** Intimidate +32, Knowledge (arcana, planes, religion) +28, Spellcraft +28, Use Magic Device +24",
+				"**Languages** Common",
+				"**SQ** amazing initiative, aura, bloodline arcana (+1 caster level with necromancy spells), combined spells (5th), exceptional wealth, ghoulish apotheosis (+4 Charisma), mythic spellcasting, recuperation",
+				"**Combat Gear** crown of conquest, extend metamagic rod, greater strand of prayer beads, ring of spell turning, scroll of tongues, staff of necromancy, staff of power; **Other Gear** +4 mithral buckler, amulet of natural armor +5, belt of incredible dexterity +6, cloak of resistance +5, darkskull (invisibility purge), deathwatch eyes, headband of mental prowess +6 (Wis, Cha), ring of protection +5, eye ointment (worth 250 gp), gold and platinum holy symbol (worth 1,000 gp)"
+			],
+			"special_abilities": [
+				"**Contingencies (Sp)** Kortash Khain is under the effect of the following mythic contingencies: resist energy when he's affected by an acid, cold, electricity, fire, or sonic effect dealing more than 10 points of damage; teleport when he's brought below 50 hit points or unable to take actions for 1 full round; and both empowered mirror image and mythic shield of faith when he's targeted with an attack that requires an attack roll.",
+				"**Disease (Su)** Ghoul Fever: Bite-injury; save Fort DC 21; onset 1 day; frequency 1 day; effect 1d3 Con and 1d3 Dex damage; cure 2 consecutive saves. The save DC is Charisma-based. A humanoid who dies of ghoul fever rises as a ghoul at the next midnight; a humanoid with 4 Hit Dice or more rises as a ghast.",
+				"**Exceptional Wealth (Ex)** Kortash Khain has the wealth of a 20th-level PC, rather than an NPC. This increases his CR by 1."
+			],
+			"description": [
+				"Kortash Khain is the high priest on Golarion of the demon lord Kabriri, the Lord of Everglut. He rules as Priest-King of Nemret Noktoria, a city of bone-white towers where ghouls dwell. His city lies deep in the vaults of Sekamina in the Darklands below Osirion. Kabriri rules over the Abyssal city of Everglut, a cyclopean necropolis inhabited by ghouls and riddled with tunnels. All Kortash Khain's immortal thought is bent on replicating his master's dead city within the living world.",
+				"Though Khain has sent ambassadors to Thuvia, Osirion, and their neighbors to conduct trade negotiations, thoughts of war, insurrection, and murder are never far from his mind. Much of his wrath has been turned against the nearby inhabitants of the Darklands' his purges have largely depopulated Sekamina in the vicinity of his city. A fortunate few are merely dead and devoured-all of the rest have been absorbed into Khain's ever-growing ghoul army.",
+				"Not even the genies of Garund have escaped the Priest- King's capture squads. Many have been defeated and converted by the powers of death into great ghuls, often serving in positions of prominence as atamans, beys, and pashas under Khain's dominion. The most powerful of these are four great ghul oracles called the Quadrate Pillars, each formed from the undead remnant of a genie twisted into serving in death the element that was its opposite in life. A few renegade shaitans have been converted to the worship of Kabriri, and serve Kortash Khain as architects, engineers, and builders in his city. This socalled Blackstone Brotherhood is held in high esteem in Nemret Noktoria not only for its architectural creations but also for its members' prowess as hunters. They infiltrate their genie brethren and lure them into ambushes.",
+				"Kortash Khain and any other clerics or oracles worshiping Kabriri gain several unique options when summoning or creating undead to serve them. They add the following creatures to their summon monster lists: I-fiendish human zombie (standard or fast zombie); II-fiendish ghoul, fiendish plague zombie; III-fiendish ghast; IV-giant fiendish ghast; V-ghul; VI-fiendish ghul, great ghul; VII-fiendish great ghul, fiendish shaitan; VIII-black jinni; IX-fiendish black jinni. When using create undead, a cleric or oracle of Kabriri can create a ghul or great ghul from the corpse of a genie rather than creating a mummy (minimum caster level 15th). When creating a ghoul, ghast, ghul, or great ghul with this spell, a cleric or oracle of Kabriri can also apply the fiendish template to that creature. This requires the caster to double the normal material component cost or sacrifice a living humanoid as an additional material component of casting the spell."
+			],
+			"short_description": "This withered humanoid wears sooty, fire-blackened robes and a headdress of black and gold."
 		},
-		"space": 5,
-		"reach": 5,
-		"offense": [
-			"**Speed** 30 ft., fly 40 ft. (average)",
-			"**Melee** +5 conductive dancing keen rapier +23/+18 (1d6+12/15-20), touch +13 (1d8+10 plus paralyzing touch)",
-			"**Ranged**  ray +16 (ranged touch)",
-			"**Special Attacks** abundant casting, arcane metamastery (2 spell slots), archmage arcana (arcane surge), hand of the apprentice (17/day), inspire minions, marshal's order (advance), metamagic mastery (7/day), mythic power (18/day, surge +1d10), paralyzing touch (DC 30), surge of inspiration, words of valor",
-			"**Wizard Spells Prepared ** (CL 20th; concentration +34)",
-			"9th-gate, overwhelming presence (DC 36), power word kill[^M] (2), time stop[^M], wish",
-			"8th-quickened charm monster, horrid wilting (2, DC 32), mass charm monster (2, DC 34), prediction of failure (DC 32)",
-			"7th-finger of death[^M] (DC 32), quickened invisibility sphere, mass fly, power word blind, spell turning, waves of ecstasy (DC 34)",
-			"6th-antimagic field[^M], circle of death (DC 31), disintegrate (DC 30), greater dispel magic, greater heroism, mass eagle's splendor, mass suggestion (DC 33)",
-			"5th-dominate person (2, DC 32), feeblemind (DC 32), overland flight (already cast), quickened true strike (3)",
-			"4th-detect scrying (already cast), dimension door, fear (DC 29), greater invisibility, phantasmal killer (2, DC 29), terrible remorse (DC 31)",
-			"3rd-fireball[^M] (DC 27), fly, greater magic weapon (already cast), haste[^M] (2), heroism[^M], stinking cloud (DC 27)",
-			"2nd-detect thoughts (DC 26), false life (already cast), mirror image (2), resist energy (2), see invisibility, spectral hand",
-			"1st-disguise self, feather fall, mage armor[^M], ray of enfeeblement (DC 26), shield, true strike, vanish (2)",
-			"0 (at will)-detect magic, ghost sound (DC 25), mage hand, open/close [^M]: mythic spell"
-		],
-		"tactics": [ "**Before Combat** Every day, Arazni casts detect scrying, false life, greater magic weapon, mythic mage armor (cast from her staff of the magi), and overland flight on herself, using her arcane metamastery path ability to gain the benefit of Extended Spell with each. The effects of these spells and the use of mythic power already expended are reflected in Arazni's statistics." ],
-		"str": 24,
-		"dex": 22,
-		"con": null,
-		"int": 39,
-		"wis": 18,
-		"cha": 31,
-		"base_attack_bonus": 10,
-		"cmb": 17,
-		"cmd": 39,
-		"feats": [
-			"Arcane Strike",
-			"Craft Wondrous Item",
-			"Dual Path",
-			"Empower Spell",
-			"Extend Spell",
-			"Greater Spell Focus (enchantment)",
-			"Improved Initiative",
-			"Iron Will",
-			"Leadership",
-			"Lightning Reflexes",
-			"Mythic Spell Lore",
-			"Quicken Spell",
-			"Persistent Spell",
-			"Scribe Scroll",
-			"Spell Focus (enchantment)",
-			"Spell Focus (necromancy)",
-			"Spell Perfection (fireball)",
-			"Toughness"
-		],
-		"skills": [
-			"Appraise +18",
-			"Bluff +11",
-			"Craft (alchemy) +18",
-			"Diplomacy +31",
-			"Disguise +24",
-			"Fly +19",
-			"Handle Animal +11",
-			"Intimidate +33",
-			"Knowledge (arcana, dungeoneering, engineering, history, local, nobility, planes, religion) +38",
-			"Knowledge (geography, nature) +32",
-			"Linguistics +27",
-			"Perception +40",
-			"Sense Motive +17",
-			"Spellcraft +37",
-			"Stealth +35",
-			"Use Magic Device +31"
-		],
-		"statistics": [
-			"**Str** 24, **Dex** 22, **Con**: -, **Int** 39, **Wis** 18, **Cha**, 31",
-			"**Base Atk** +10; **CMB** +17; **CMD** 39",
-			"**Feats** [Arcane Strike](feat:Arcane Strike), [Craft Wondrous Item](feat:Craft Wondrous Item), [Dual Path](feat:Dual Path), [Empower Spell](feat:Empower Spell), [Extend Spell](feat:Extend Spell), [Greater Spell Focus (enchantment)](feat:Greater Spell Focus), [Improved Initiative](feat:Improved Initiative), [Iron Will](feat:Iron Will), [Leadership](feat:Leadership), [Lightning Reflexes](feat:Lightning Reflexes), [Mythic Spell Lore](feat:Mythic Spell Lore), [Quicken Spell](feat:Quicken Spell), [Persistent Spell](feat:Persistent Spell), [Scribe Scroll](feat:Scribe Scroll), [Spell Focus (enchantment)](feat:Spell Focus), [Spell Focus (necromancy)](feat:Spell Focus), [Spell Perfection (fireball)](feat:Spell Perfection), [Toughness](feat:Toughness)",
-			"**Skills** Appraise +18, Bluff +11, Craft (alchemy) +18, Diplomacy +31, Disguise +24, Fly +19, Handle Animal +11, Intimidate +33, Knowledge (arcana, dungeoneering, engineering, history, local, nobility, planes, religion) +38, Knowledge (geography, nature) +32, Linguistics +27, Perception +40, Sense Motive +17, Spellcraft +37, Stealth +35, Use Magic Device +31; **Racial Modifiers** +8 Perception, +8 Sense Motive, +8 Stealth",
-			"**Languages** Abyssal, Aklo, Ancient Osiriani, Aquan, Auran, Azlanti, Celestial, Common, Draconic, Dwarven, Elven, Giant, Gnoll, Gnome, Goblin, Halfling, Ignan, Infernal, Kelish, Orc, Osiriani, Sylvan, Terran, Undercommon",
-			"**SQ** amazing initiative, arcane bond (rapier), divine source (Evil, Nobility [Leadership subdomain], Protection [Defense subdomain]), exceptional resources, permanent spells, recuperation",
-			"**Combat Gear** Arazni's staff of the magi, Harlot's Kiss, lesser maximize metamagic rod, pearls of power (2, 3rd level), scroll of greater scrying, scroll of teleport, scroll of tongues, wand of inflict light wounds (50 charges); **Other Gear** +5 arrow deflection mithral buckler, amulet of natural armor +5, belt of physical might +6 (Str, Dex), cloak of resistance +5, dusty rose prism ioun stone, eyes of the eagle, handy haversack, headband of mental superiority +6, pale green ioun stone, ring of freedom of movement, ring of protection +5, spellbook (includes all sorcerer/wizard spells, plus unique spells Arazni personally researched), diamond worth 25,000 gp"
-		],
-		"special_abilities": [
-			"**Exceptional Resources (Ex)** Arazni has the wealth of a 20th-level PC, rather than an NPC. This increases her CR by 1. She used some of this wealth to create and read the following books to gain inherent bonuses to her ability scores: manual of gainful exercise +5, manual of quickness in action +4, tome of clear thought +5, and tome of leadership and influence +5.",
-			"**Permanent Spells (Sp)** Using permanency, Arazni gave herself the constant effects of arcane sight, resistance, and see invisibility. She is under the effect of a contingency that casts harm on her if she's brought below 100 hit points."
-		],
-		"description": [
-			"Arazni was once a demigod and herald to Aroden. As the Red Crusader, she rode into battle during the Shining Crusade. Yet her bravery and might were of no avail against the Whispering Tyrant, who humiliated her before torturing her to death, throwing her broken form amid the ranks of her army to dishearten them. But even in death Arazni found no comfort. She lay in rest only 67 years before the overzealous Knights of Ozem provoked the witch-king Geb, who raised some of the fallen knights as grave knights and sent them to bring Arazni's revered remains to him. Not content with her corpse, he infused deathless vitality into her and bound her spirit up in her bones, making her his Harlot Queen. She rules still in his stead.",
-			"Arazni's onetime disciples in the Knights of Ozem have resolved to lay her finally to rest. The knights possess the Bloodstones of Arazni (Pathfinder Campaign Setting: Artifacts & Legends 13): four of her organs kept in funerary jars, which they recovered from Geb. They believe those bearing these jars have the protection of both holy aura and mind blank against Arazni's magic (in addition to an ability unique to each jar). But whether the jars hold the key to truly destroying her has not yet been proven. The Harlot Queen plots in secret to destroy-or recover, if possible-all the remaining jars. Her graveknight bodyguards monitor for any sign of the Bloodstones. It's said that Arazni senses the location of a jar when it's used, but no one can be sure whether this is true or a rumor the Harlot Queen has spread to keep those relics from being used.",
-			"Arazni's Staff of the Magi (Minor Artifact): Arazni possesses an unusual staff of the magi that Geb recovered from a nameless pharaoh's tomb and offered his newly risen bride. This staff of the magi uses its wielder's caster level, Intelligence modifier, and feats when determining its spells' saving throws, rather than the set save DCs of a typical staff of the magi. In addition, if the wielder knows the mythic version of one of the staff \"s spells, she can expend uses of mythic power to cast or augment that spell as if she were casting it normally. If the wielder doesn't know the mythic version of a spell, she can use the mythic version of that spell by expending one use of mythic power per 2 levels of the spell (rounding up); a mythic spell cast this way can't be augmented. The wielder can use metamagic feats in conjunction with spells cast from her staff if she has a way to apply the feats on the spot without increasing the spells\" caster levels (such as Arazni's arcane metamastery path ability, a metamagic rod, or the Spell Perfection feat).",
-			"Arazni's staff of the magi can create unique fireballs, which cost 2 charges to cast. These fireballs begin as eruptions of black fire, but coalesce into explosive waves of freezing darkness. These fireballs can deal fire damage, cold damage, or half cold and half fire. Creatures failing their saving throws against such a fireball are staggered for 1 round by the force of the explosion. In addition, the area of the fireball is treated as deeper darkness until the end of the wielder's next turn. Any creature or object that enters the darkness during this time takes damage as if it had been in the area when the fireball was cast. This power replaces telekinesis.",
-			"Harlot's Kiss (Minor Artifact): Arazni's scarlet-hilted rapier is a relic of her days as the Red Crusader. Her blade acts as a +1 conductive dancing keen rapier, and its conductive property can be used once per round even while it is dancing.",
-			"The blade has two abilities only Arazni can use. If she hurls Harlot's Kiss using the hand of the apprentice ability, it can perform a full attack against a single target rather than a single attack, instantly returning to Arazni at the end of her turn. However, she can't use hand of the apprentice on the rapier while it's dancing. If Arazni expends one use of mythic power when commanding the weapon to dance, the weapon's attacks use her caster level as the base attack bonus (effectively gaining a +10 bonus on attack rolls) for as long as it dances."
-		],
-		"short_description": "This gray-skinned woman wears a royal gown that exposes the top of a jagged incision down the middle of her chest."
-	},
-	{
-		"monster_name": "Baba Yaga",
-		"file": "mythicmonsterdisplay6ace.html",
-		"sources": [ "Pathfinder #72: The Witch Queen's Revenge" ],
-		"cr": 30,
-		"mr": 10,
-		"xp": 9830400,
-		"levels": "Female venerable advanced human witch 20/archmage 10",
-		"alignment": "NE",
-		"size": "medium",
-		"type": "humanoid",
-		"subtypes": [ "human", "mythic" ],
-		"initiative": 19,
-		"senses": [
-			"arcane sight",
-			"darkvision 60 ft.",
-			"see invisibility"
-		],
-		"perception": 27,
-		"heading": [
-			"Baba Yaga CR 30/MR 10",
-			"**Source** [Pathfinder #72: The Witch Queen's Revenge pg. 74](source:Pathfinder #72: The Witch Queen's Revenge)",
-			"**XP** 9,830,400",
-			"Female venerable advanced human witch 20/archmage 10",
-			"NE Medium humanoid (human, mythic)",
-			"**Init** +19; **Senses** arcane sight, darkvision 60 ft., see invisibility; Perception +27"
-		],
-		"ac": {
-			"ac": 51,
-			"touch": 31,
-			"flatfooted": 46,
-			"bonuses": {
-				"armor": 13,
-				"deflection": 5,
-				"dex": 5,
-				"insight": 11,
-				"natural": 7
-			}
+		{
+			"name": "Old-Mage Jatembe",
+			"file": "mythicmonsterdisplay769b.html",
+			"sources": [ "Mythic Realms" ],
+			"cr": 24,
+			"mr": 6,
+			"xp": 1228800,
+			"levels": "Male old human wizard 20/archmage 6",
+			"alignment": "NG",
+			"size": "medium",
+			"type": "humanoid",
+			"subtypes": [ "human" ],
+			"initiative": 13,
+			"senses": [
+				"arcane sight",
+				"darkvision 60 ft.",
+				"see invisibility"
+			],
+			"perception": 28,
+			"heading": [
+				"Old-Mage Jatembe CR 24/MR 6",
+				"**Source** [Mythic Realms pg. 56](source:Mythic Realms)",
+				"**XP** 1,228,800",
+				"Male old human wizard 20/archmage 6",
+				"NG Medium humanoid (human)",
+				"**Init** +13; **Senses** arcane sight, darkvision 60 ft., see invisibility; Perception +28"
+			],
+			"ac": {
+				"ac": 32,
+				"touch": 19,
+				"flatfooted": 29,
+				"bonuses": {
+					"armor": 8,
+					"deflection": 5,
+					"dex": 3,
+					"insight": 1,
+					"natural": 5
+				}
+			},
+			"hp": {
+				"hp": 210
+			},
+			"saves": {
+				"fort": 16,
+				"ref": 15,
+				"will": 25
+			},
+			"defensive_abilities": [
+				"hard to kill",
+				"mind blank",
+				"mythic saving throws"
+			],
+			"dr": [
+				10,
+				"epic"
+			],
+			"defense": [
+				"**AC** 32, touch 19, flat-footed 29 (+8 armor, +5 deflection, +3 Dex, +1 insight, +5 natural)",
+				"**hp** 210 (20d6+138); regeneration 1",
+				"**Fort** +16, **Ref** +15, **Will** +25; +8 vs. mind-affecting",
+				"**Defensive Abilities** hard to kill, mind blank, mythic saving throws; **DR** 10/epic"
+			],
+			"speed": {
+				"land": 30
+			},
+			"space": 5,
+			"reach": 5,
+			"offense": [
+				"**Speed** 30 ft.",
+				"**Melee** staff of the planes +13/+8 (1d6+3)",
+				"**Special Attacks** abundant casting, archmage arcana (wild arcana), hand of the apprentice (18/day), metamagic mastery (7/day), mythic spellpower, permanent shapechange, rapid preparation",
+				"**Wizard Spells Prepared ** (CL 20th; concentration +35)",
+				"9th-ascension[^M], gate, mage's disjunction, meteor swarm, time stop[^M], empty slot[^F]",
+				"8th-maximized cone of cold, maze[^M], polymorph any object (DC 33), power word stun, summon monster VIII, empty slot[^F]",
+				"7th-quickened fireball[^M] (2, DC 32), forcecage (DC 33), mage's sword, mass invisibility, summon monster VII, empty slot[^F]",
+				"6th-chain lightning[^M] (DC 32), globe of invulnerability[^M], mislead[^M] (DC 31), quickened scorching ray[^M], summon monster VI, true seeing, empty slot[^F]",
+				"5th-baleful polymorph (DC 30), cloudkill (DC 31), communal stoneskin, quickened entangle[^M] (DC 30), mage's faithful hound, overland flight, empty slot[^F]",
+				"4th-communal protection from energy (DC 29), dimension door, enervation, mass enlarge person (DC 29), maximized magic missile[^M], wall of fire, empty slot[^F]",
+				"3rd-call lightning[^M] (2, DC 29), communal resist energy (DC 28), fireball[^M] (DC 29), haste[^M] (2), lightning bolt (DC 29), empty slot[^F]",
+				"2nd-barkskin, blur, communal protection from evil, forest friend, glitterdust (DC 28), mirror image (2), empty slot[^F]",
+				"1st-entangle[^M] (2, DC 26), expeditious retreat, feather fall, magic missile[^M], obscuring mist[^M], true strike, empty slot[^F]",
+				"0 (at will)-ghost sound (DC 25), light, mage hand, prestidigitation [^M]: mythic spells [^F]: Jatembe has one unprepared slot at each level for his rapid preparation archmage path ability."
+			],
+			"str": 14,
+			"dex": 16,
+			"con": 18,
+			"int": 41,
+			"wis": 24,
+			"cha": 22,
+			"base_attack_bonus": 10,
+			"cmb": 12,
+			"cmd": 31,
+			"feats": [
+				"Augment Summoning",
+				"Extend Spell",
+				"Fast Learner",
+				"Greater Spell Penetration",
+				"Heighten Spell",
+				"Improved Initiative",
+				"Maximize Spell",
+				"Mythic Spell Lore (2)",
+				"Quicken Spell",
+				"Scribe Scroll",
+				"Silent Spell",
+				"Spell Focus (conjuration)",
+				"Spell Focus (evocation)",
+				"Spell Penetration",
+				"Still Spell",
+				"Toughness"
+			],
+			"skills": [
+				"Bluff +30",
+				"Diplomacy +30",
+				"Fly +27",
+				"Handle Animal +30",
+				"Heal +28",
+				"Intimidate +30",
+				"Knowledge (arcana, dungeoneering, geography, history, nature, planes, religion) +39",
+				"Perception +28",
+				"Perform (oratory) +30",
+				"Sense Motive +28",
+				"Spellcraft +39",
+				"Stealth +5",
+				"Survival +28",
+				"Use Magic Device +30"
+			],
+			"statistics": [
+				"**Str** 14, **Dex** 16, **Con**: 18, **Int** 41, **Wis** 24, **Cha**, 22",
+				"**Base Atk** +10; **CMB** +12; **CMD** 31",
+				"**Feats** [Augment Summoning](feat:Augment Summoning), [Extend Spell](feat:Extend Spell), [Fast Learner](feat:Fast Learner), [Greater Spell Penetration](feat:Greater Spell Penetration), [Heighten Spell](feat:Heighten Spell), [Improved Initiative](feat:Improved Initiative), [Maximize Spell](feat:Maximize Spell), [Mythic Spell Lore (2)](feat:Mythic Spell Lore), [Quicken Spell](feat:Quicken Spell), [Scribe Scroll](feat:Scribe Scroll), [Silent Spell](feat:Silent Spell), [Spell Focus (conjuration)](feat:Spell Focus), [Spell Focus (evocation)](feat:Spell Focus), [Spell Penetration](feat:Spell Penetration), [Still Spell](feat:Still Spell), [Toughness](feat:Toughness)",
+				"**Skills** Bluff +30, Diplomacy +30, Fly +27, Handle Animal +30, Heal +28, Intimidate +30, Knowledge (arcana, dungeoneering, geography, history, nature, planes, religion) +39, Perception +28, Perform (oratory) +30, Sense Motive +28, Spellcraft +39, Stealth +5, Survival +28, Use Magic Device +30",
+				"**Languages** Abyssal, Aklo, Ancient Osiriani, Azlanti, Celestial, Common, Cyclops, Draconic, Druidic, Elven, Infernal, Polyglot, Protean, Sylvan, Treant, Undercommon",
+				"**SQ** amazing initiative, arcane bond (ring of continuation), crafting mastery, exceptional wealth, gifts of the teachers, immortality arcane discovery, Jatembe's divine knowledge, perfect preparation, permanent spells, recuperation",
+				"**Combat Gear** bag of tricks (tan), beacon of true faith, cloak of etherealness, dryad sandals, greater book of extended summoning (good), robe of gates, staff of the planes, wand of cure critical wounds (CL 20th, 50 charges), wand of restoration (50 charges); **Other Gear** belt of physical perfection +6, bracers of armor +8, cloak of resistance +5, headband of mental superiority +6, ring of protection +5, amulet of the planes, circlet of persuasion, dusty rose prism ioun stone, gloves of shaping, handy haversack, polymorphic pouch, ring of regeneration, stone of good luck, eye ointment for true seeing (worth 1,000 gp), granite and diamond dust for communal stoneskin (worth 10,000 gp), miniature platinum sword for mage's sword (worth 250 gp), rare herbs and gems for ascension (worth 10,000 gp), ruby dust for forcecage (worth 1,500 gp)"
+			],
+			"special_abilities": [
+				"**Exceptional Wealth (Ex)** Jatembe has the wealth of a 20th-level PC, rather than an NPC. This increases his CR by 1.",
+				"**Gifts of the Teachers (Ex)** Old-Mage Jatembe sought the knowledge and assistance of many great powers-from angels to demons to gods'so he could help his people. Among the gifts they bestowed on him were permanent versions of augmented mythic barkskin, mind blank, and shapechange, plus the knowledge and power that allowed him to develop his enhanced divine knowledge ability. These increase his CR by 1.",
+				"**Jatembe's Divine Knowledge (Ex)** Jatembe has a much stronger version of the divine knowledge archmage path ability (Pathfinder RPG Mythic Adventures 19). He has the following spells on his list of spells known: barkskin, call lightning, entangle, forest friend, lesser restoration, plant growth, speak with animals, and speak with plants.",
+				"**Perfect Preparation (Ex)** Jatembe no longer needs a spellbook to prepare spells. He knows and can prepare any wizard spell from the Pathfinder RPG Core Rulebook that doesn't have the evil descriptor, any spell from pages 28 and 29 of Pathfinder Player Companion: Faiths & Philosophies (casting these as though they were wizard spells of the highest level listed in their descriptions), and possibly others as well, including unique ones he's researched.",
+				"**Permanent Spells (Sp)** Through the use of permanency, Jatembe is constantly under the effects of the following spells: arcane sight, darkvision, see invisibility, and telepathic bond (once with each of his Ten Magic Warriors). He is under the effect of a contingency that causes dimension door to come into effect if he's brought below 80 hit points."
+			],
+			"description": [
+				"No character looms larger in the myths of the Mwangi tribes than Old-Mage Jatembe. Jatembe rose to prominence in the Age of Anguish, a time when mankind was just beginning to recover from the devastation caused by Earthfall and the destruction of Azlant. Jatembe was the first among humanity to rediscover the art of wizardry and written magic, and did much to redeem these arts in the eyes of a superstitious people. Jatmebe worked tirelessly to stem the tide of barbarism left in the wake of the Age of Darkness, and preserve the learning and culture of his people. He is remembered as a folk hero among the Mwangi, and as a beacon of hope in a darkest of times.",
+				"Little is known about Jatembe's origins. Even in the earliest of myths, he's described as an old man. Some scholars point out parallels between Jatembe's ageless nature and the immortal masters of the lost city of Ird, suggesting that fabled city as his birthplace, though the decadent and cruel lords of Ird have little else in common with him. Later accounts claim Jatembe and his disciples destroyed the city of Ird to punish it for its wickedness, casting doubt on this theory. Other myths connect Jatembe with the druids of the Mwangi Expanse, some even claiming he was an ex-druid himself. True or not, Jatembe did have an affinity for druidic magic, and the magical school he founded-the Magaambya-continues to teach druid spells to this day.",
+				"The details of Jatembe's ascension are similarly occluded by millennia of myth and legend. One popular tale holds that Jatembe learned the deepest mysteries of magic from the severed head of Ydersius before sewing the serpent-god's lips shut. Others claim he gained mythic knowledge from sources among the planes, for many tales tell of his dealings with angels, demons, and other outsiders while in search of ways to protect his people. Still more stories say that Jatembe found some potent artifact amid the ruins of the Mwangi that awakened his mythic potential, and that he departed Golarion once the strength of this artifact had faded.",
+				"Prior to his mysterious departure, Jatembe performed many astonishing deeds. The first of these was the gathering of his disciples, the Ten Magic Warriors. These men and women were known only by the golden animal masks they wore, having forsaken their identities in service to Jatembe and his quest. With their help, Jatembe explored the ancient ruins that dot the Mwangi Expanse, uncovering ancient magical secrets and treasures. He founded the city of Nantambu and the Magaambya arcane academy to preserve and share knowledge and wealth with future generations, and to protect the Expanse from further devastation such as that wrought by the Earthfall. In later days, Jatembe fought and defeated the twisted sorcerer known as the King of Biting Ants, who claimed to possess a weapon that would allow him to eat the sun and cast the world into darkness.",
+				"For reasons unknown, Jatembe departed Golarion; if anyone knows where he left to, they're silent on the matter. Some believe he left to fulfill obligations to the beings who granted him mythic power, and others think a magnificent spell took him. He left his Ten Magic Warriors behind to rule in his place, and forged the Ring of Nine Facets (Artifacts and Legends 40) to aid them in his absence. He has created and used other artifacts in his travels, but gave them all away to allies, keeping only the beacon of true faith that one of his patrons gave him."
+			],
+			"short_description": "This gray-haired man with a short, wiry beard wears a nondescript robe festooned with satchels and decorations."
 		},
-		"hp": {
-			"hp": 782
+		{
+			"name": "Raskineya, the Dark Comet",
+			"file": "mythicmonsterdisplay50fe.html",
+			"sources": [ "Mythic Realms" ],
+			"cr": 16,
+			"mr": 6,
+			"xp": 76800,
+			"levels": "Female adult void dragon",
+			"alignment": "CE",
+			"size": "huge",
+			"type": "dragon",
+			"subtypes": [ "mythic" ],
+			"initiative": 11,
+			"senses": [
+				"dragon senses",
+				"see in darkness"
+			],
+			"perception": 22,
+			"aura": [ "alien presence (180 ft., DC 23, sickened or nauseated 5d6 rounds)" ],
+			"heading": [
+				"Raskineya, the Dark Comet CR 16/MR 6",
+				"**Source** [Mythic Realms pg. 60](source:Mythic Realms)",
+				"**XP** 76,800",
+				"Female adult void dragon (see Pathfinder RPG Bestiary 4)",
+				"CE Huge dragon (mythic)",
+				"**Init** +11; **Senses** dragon senses, see in darkness; Perception +22",
+				"**Aura** alien presence (180 ft., DC 23, sickened or nauseated 5d6 rounds)"
+			],
+			"ac": {
+				"ac": 35,
+				"touch": 9,
+				"flatfooted": 34,
+				"bonuses": {
+					"dex": 1,
+					"natural": 26,
+					"size": -2
+				}
+			},
+			"hp": {
+				"hp": 260
+			},
+			"saves": {
+				"fort": 16,
+				"ref": 11,
+				"will": 15
+			},
+			"defensive_abilities": [
+				"dragon blood (1d8 cold)",
+				"DR 10/epic and magic"
+			],
+			"dr": [
+				10,
+				"epic and magic"
+			],
+			"immune": [
+				"cold",
+				"confusion",
+				"dragon traits",
+				"insanity effects",
+				"paralysis",
+				"sleep"
+			],
+			"sr": 30,
+			"defense": [
+				"**AC** 35, touch 9, flat-footed 34 (+1 Dex, +26 natural, -2 size)",
+				"**hp** 260 (16d12+156)",
+				"**Fort** +16, **Ref** +11, **Will** +15",
+				"**Defensive Abilities** dragon blood (1d8 cold), **DR** 10/epic and magic; **Immune** cold, confusion, dragon traits, insanity effects, paralysis, sleep; **SR** 30"
+			],
+			"speed": {
+				"land": 40,
+				"fly": 200,
+				"maneuverability": "good"
+			},
+			"space": 15,
+			"reach": 10,
+			"offense": [
+				"**Speed** 40 ft., fly 200 ft. (good); starflight",
+				"**Melee** bite +26 (2d8+15/19-20 plus 2d6 obliteration plus grab), 2 claws +24 (2d6+10), tail slap +22 (2d6+15), 2 wings +22 (1d8+5)",
+				"**Space** 15 ft., **Reach** 10 ft. (15 ft. with bite)",
+				"**Special Attacks** breath weapon (50-ft. cone, 12d8 cold, Reflex DC 24 half, usable every 1d4 rounds), crush, dual breath, dragon fury (1d8 cold), fast swallow, gaze of the void (DC 23), mythic power (6/day, surge +1d8), obliteration (DC 23), suffocating breath (DC 23), swallow whole (2d8 cold damage plus suffocating void, AC 23, 26 hp)",
+				"**Spell-Like Abilities (CL 16th; concentration +21)",
+				"At will-asral gloom, blur, ray of enfeeblement (DC 16), ray of exhaustion (DC 18)",
+				"**Sorcerer Spells Known ** (CL 7th; concentration +12)",
+				"3rd (5)-dispel magic, rage 2nd (7)-darkness, shatter, touch of idiocy 1st (8)-cause fear (DC 16), hypnotism (DC 16), mage armor, obscuring mist, true strike"
+			],
+			"str": 31,
+			"dex": 12,
+			"con": 23,
+			"int": 20,
+			"wis": 17,
+			"cha": 20,
+			"base_attack_bonus": 16,
+			"cmb": 28,
+			"cmd": 37,
+			"feats": [
+				"Flyby Attack",
+				"Hover",
+				"Improved Critical (bite)",
+				"Improved Initiative",
+				"Iron Will",
+				"Multiattack",
+				"Weapon Focus (bite)",
+				"Wingover"
+			],
+			"skills": [
+				"Acrobatics +17 (+21 when jumping)",
+				"Bluff +24",
+				"Fly +20",
+				"Intimidate +24",
+				"Knowledge (arcana, planes) +24",
+				"Perception +22",
+				"Sense Motive +22",
+				"Spellcraft +24",
+				"Stealth +20",
+				"Use Magic Device +24"
+			],
+			"statistics": [
+				"**Str** 31, **Dex** 12, **Con**: 23, **Int** 20, **Wis** 17, **Cha**, 20",
+				"**Base Atk** +16; **CMB** +28 (+32 grapple); **CMD** 37 (41 vs. grapple or trip)",
+				"**Feats** [Flyby Attack](feat:Flyby Attack), [Hover](feat:Hover), [Improved Critical (bite)](feat:Improved Critical), [Improved Initiative](feat:Improved Initiative), [Iron Will](feat:Iron Will), [Multiattack](feat:Multiattack), [Weapon Focus (bite)](feat:Weapon Focus), [Wingover](feat:Wingover)",
+				"**Skills** Acrobatics +17 (+21 when jumping), Bluff +24, Fly +20, Intimidate +24, Knowledge (arcana, planes) +24, Perception +22, Sense Motive +22, Spellcraft +24, Stealth +20, Use Magic Device +24; **Racial Modifiers** +4 Acrobatics when jumping, +8 Stealth",
+				"**Languages** Abyssal, Aklo, Celestial, Draconic, Infernal",
+				"**SQ** agile, breathless"
+			],
+			"special_abilities": [
+				"**Astral Gloom (Sp)** Raskineya can expend one use of mythic power to cast deeper darkness. Her caster level for this ability is equal to her Hit Dice. This darkness doesn't interfere with her alien presence or gaze of the void abilities.",
+				"**Dual Breath (Su)** Raskineya can expend one use of mythic power to use both her breath weapon and her suffocating breath simultaneously as a standard action. Both breath weapons affect the same 50-foot cone, and creatures caught in the cone must save separately against each effect.",
+				"**Suffocating Void (Su)** Creatures swallowed whole by Raskineya are exposed to the cold vacuum of space. In addition to the listed damage, the first time a creature begins its turn swallowed whole by Raskineya, it must succeed at a Fortitude save or begin to suffocate (as her suffocating breath ability). Even if it succeeds at this save, the creature can't breathe, speak, or cast spells with verbal components while it remains swallowed."
+			],
+			"description": [
+				"Void dragons are a cursed race, born on the boundary between rational space and the vast unknowable nothingness that lurks between the stars. They are not typically evil, but few escape the notice of the unnamable beings that dwell within that distant void. The fortunate ones resist the fell influence of the Dark Tapestry and survive with their minds intact.",
+				"Raskineya was not one of the fortunate ones. The taint of the void shattered her mind, driving her to mindless violence and destruction. In her madness she sought out the inner planets of Golarion's solar system, plunging into the gravity wells of the inhabited worlds to feed and raze before fleeing back to the stars and plotting her next attack.",
+				"This urge to destroy is what brought her to the attention of the cult of Rovagug. Priests of the Rough Beast often enslave powerful creatures to serve as proxies for their shackled god and guardians for their hidden temples, and Raskineya's savagery and madness made her an excellent prospect. The priests called to the stars, whispering promises of blood to the dragon to lure her into their waiting clutches. In her unthinking madness, she was no match for the cunning priests, and soon she was subdued, shackled, and locked in a cavern hidden deep within the earth.",
+				"Raskineya languished at first, longing to once again fly to the stars and seek exotic new prey. Yet the priests had not lied to her when they promised her blood. She was given sacrifices and allowed to hunt and feed within her underground prison. With each such sacrifice, she not only grew stronger and more focused, but also found began to understand the prayers given to her. This world was promised to Rovagug, and he would have it. All worlds were promised to him, and he would destroy them all. Even the gods themselves would fall to his power, and in his wake only nothingness would remain. Raskineya found in Rovagug something she had not realized she was searching for: someone to champion. If she could but release this Unmaker, she could at long last have vengeance upon this existence, and upon the nameless ones who drew her here. All that would be left in his wake would be nothingness, and to nothingness her heart longed to return.",
+				"With her newfound sense of purpose, Raskineya turned upon her captors. Her mind intact for the first time in centuries, she quickly overpowered them. First, she swallowed the high priest alive, consuming his life and essence to fuel her ascension. Then she enslaved the priests, and commanded them to find her a way to unleash their god upon the world once more. From them she learned of a prophecy, set down by the oracles of the brimstone haruspex, that a dark comet would herald the return of Gormuz-the first and most powerful of Rovagug's spawn-who would in turn unleash the Rough Beast himself. Raskineya sees herself as this dark comet, and demands all those who address her to call her by that name (with a slow death awaiting to those who do not).",
+				"In the years since her ascension, Raskineya first scoured the world searching for the Star Towers-artifacts created by the gods to strengthen Rovagug's prison. The dragon was certain that if she could locate the first of these towers and destroy it, the rest will fall like dominoes, weakening the foundations of Rovagug's prison enough to allow his escape. She moved from Star Tower to Star Tower, searching for clues as to the location of the original. She last conquered the Star Tower of Vekheen, winning it from a paladin of Sarenrae named Dazma the Bright, who had learned of the dragon's design on the tower and marshaled an army to defend it. Raskineya vanquished Dazma and her army by dragging meteors from the sky to drop on the Sarenites. Those who survived the initial bombardment were savaged by akatas carried within the meteors, leaving the remainder easy pickings for the dragon.",
+				"Though it seemed she was getting closer to her goal, Raskineya's devotion to Rovagug made her actions unpredictable. Just as she conquered the Star Tower of Vekheen, she heard a pressing call she believed came from Rovagug himself. She flew to the Pit of Gormuz, where she made a den in the Crater of Carnal Joining in anticipation of the Rough Beast's arrival. There she waits, conducting horrific rituals to attract his attention. She brought with her the Sarenite survivors of the raid on the Star Tower, who she keeps alive as subjects for her rites. Once noble soldiers, they're now maimed and driven mad, kept in perpetual darkness within a small cave in Raskineya's lair. The warriors of the Maimed Legion, as she calls them, see light only when they're being tortured."
+			],
+			"short_description": "This spined dragon has black scales that pulse with green light. Her tattered wings show a starscape that whirls in mad patterns."
 		},
-		"saves": {
-			"fort": 30,
-			"ref": 27,
-			"will": 35
+		{
+			"name": "The First Owlbear",
+			"file": "mythicmonsterdisplaya1d2.html",
+			"sources": [ "Mythic Adventures" ],
+			"cr": 10,
+			"mr": 4,
+			"xp": 9600,
+			"levels": "Advanced mythic owlbear",
+			"alignment": "N",
+			"size": "large",
+			"type": "magical beast",
+			"subtypes": [ "mythic" ],
+			"initiative": 10,
+			"senses": [
+				"darkvision 60 ft.",
+				"low-light vision",
+				"scent"
+			],
+			"perception": 16,
+			"heading": [
+				"The First Owlbear CR 10/MR 4",
+				"**Source** [Mythic Adventures pg. 213](source:Mythic Adventures)",
+				"**XP** 9,600",
+				"Advanced mythic owlbear",
+				"N Large magical beast (mythic)",
+				"**Init** +10; **Senses** darkvision 60 ft., low-light vision, scent; Perception +16"
+			],
+			"ac": {
+				"ac": 23,
+				"touch": 11,
+				"flatfooted": 21,
+				"bonuses": {
+					"dex": 2,
+					"natural": 12,
+					"size": -1
+				}
+			},
+			"hp": {
+				"hp": 165,
+				"fast_healing": 5
+			},
+			"saves": {
+				"fort": 16,
+				"ref": 9,
+				"will": 7
+			},
+			"dr": [
+				5,
+				"epic"
+			],
+			"sr": 21,
+			"defense": [
+				"**AC** 23, touch 11, flat-footed 21 (+2 Dex, +12 natural, -1 size)",
+				"**hp** 165 (10d10+110); fast healing 5",
+				"**Fort** +16, **Ref** +9, **Will** +7",
+				"**DR** 5/epic; **SR** 21"
+			],
+			"speed": {
+				"land": 30,
+				"fly": 60,
+				"maneuverability": "average"
+			},
+			"space": 10,
+			"reach": 5,
+			"offense": [
+				"**Speed** 30 ft., fly 60 ft. (average)",
+				"**Melee** bite +17 (2d6+8), 2 claws +18 (1d8+8 plus grab)",
+				"**Space** 10 ft., **Reach** 5 ft.",
+				"**Special Attacks** disorienting pounce, mythic power (4/day, surge +1d8), pounce, rend (2 claws, 1d8+12)"
+			],
+			"str": 27,
+			"dex": 14,
+			"con": 24,
+			"int": 2,
+			"wis": 14,
+			"cha": 10,
+			"base_attack_bonus": 10,
+			"cmb": 19,
+			"cmd": 31,
+			"feats": [
+				"Great Fortitude",
+				"Improved Initiative",
+				"Iron Will",
+				"Skill Focus (Perception)",
+				"Weapon Focus (claws)"
+			],
+			"skills": [
+				"Fly +5",
+				"Perception +16"
+			],
+			"statistics": [
+				"**Str** 27, **Dex** 14, **Con**: 24, **Int** 2, **Wis** 14, **Cha**, 10",
+				"**Base Atk** +10; **CMB** +19 (+23 grapple); **CMD** 31 (35 vs. trip)",
+				"**Feats** [Great Fortitude](feat:Great Fortitude), [Improved Initiative](feat:Improved Initiative), [Iron Will](feat:Iron Will), [Skill Focus (Perception)](feat:Skill Focus), [Weapon Focus (claws)](feat:Weapon Focus)",
+				"**Skills** Fly +5, Perception +16",
+				"**SQ** immortal (see page 13)"
+			],
+			"environment": "temperate forests",
+			"organization": "solitary, pair, or pack (3-8)",
+			"treasure": "incidental",
+			"ecology": [
+				"**Environment** temperate forests",
+				"**Organization** solitary, pair, or pack (3-8)",
+				"**Treasure** incidental"
+			],
+			"description": [ "Though created long ago, the very first owlbear still lives. Fecund, nomadic and cantankerous, the First Owlbear's offspring are always owlbears, whether the mother is a bear, a giant owl, or an owlbear. He brings his \"harem\" of mates with him when he hunts, driving them off when he tires of their company or food becomes scarce." ],
+			"short_description": "This owlbear seems lean and especially mean, and moves with a spookily silent grace."
 		},
-		"defensive_abilities": [
-			"hard to kill",
-			"mythic saving throws",
-			"unstoppable"
-		],
-		"dr": [
-			10,
-			"epic and good"
-		],
-		"immune": [
-			"ability damage and drain",
-			"charm and compulsion effects",
-			"death effects",
-			"disease",
-			"energy drain",
-			"petrification",
-			"poison",
-			"and all forms of madness"
-		],
-		"sr": 35,
-		"defense": [
-			"**AC** 51, touch 31, flat-footed 46 (+13 armor, +5 deflection, +5 Dex, +11 insight, +7 natural)",
-			"**hp** 782 (20d6+710); regeneration 20",
-			"**Fort** +30, **Ref** +27, **Will** +35",
-			"**Defensive Abilities** hard to kill, mythic saving throws, unstoppable; **DR** 10/epic and good; **Immune** ability damage and drain, charm and compulsion effects, death effects, disease, energy drain, petrification, poison, and all forms of madness; **SR** 35 (arcane only)"
-		],
-		"speed": {
-			"land": 30
-		},
-		"space": 5,
-		"reach": 5,
-		"offense": [
-			"**Speed** 30 ft.",
-			"**Melee** Baba Yaga's besom +17/+12 (1d6+7)",
-			"**Special Attacks** archmage arcana (wild arcana), channel power, coupled arcana, energy conversion, forceful will, hexes (agony [20 rounds], cackle [swift action 2/day], cauldron, child scent, cook people, death curse, evil eye [-4, 21 rounds], scar, life giver, slumber [20 rounds], witch's hut, vision), mythic hexes, mythic power (23/day, surge +1d12), mythic presence (DC 28), reverse scrying, sanctum, throw spell",
-			"**Witch Spells Prepared ** (CL 20th; concentration +38)",
-			"9th-dominate monster (DC 37), foresight, gate, time stop, wail of the banshee (DC 37), weird (DC 37), wish",
-			"8th-binding (DC 36), quickened dimension door, maze, quickened phantasmal killer (DC 36), polymorph any object (DC 36), stormbolts(DC 36), symbol of death (DC 36)",
-			"7th-control weather, finger of death (DC 35), greater teleport, heal, jolting portent (DC 35), terraform, temporary resurrection",
-			"6th-quickened blindness/deafness (DC 34), chain lightning(DC 34), disintegrate (DC 34), eyebite (DC 34), greater dispel magic, slay living (DC 34), true seeing",
-			"5th-baleful polymorph (DC 33), break enchantment, dominate person (DC 33), feeblemind (DC 33), greater forbid action (DC 33), major curse (DC 33), smug narcissism, steal power (DC 33)",
-			"4th-bestow curse (DC 32), charm monster (DC 32), confusion (DC 32), dimensional anchor, ice storm, greater invisibility, stoneskin, terrible remorse (DC 32)",
-			"3rd-cackling skull (DC 31), dispel magic, fireball (DC 31), fly, haste, lightning bolt (DC 31), protection from energy, suggestion (DC 31)",
-			"2nd-anticipate peril (DC 30), glitterdust (DC 30), mad hallucination (DC 30), mirror image, miserable pity (DC 30), pox pustules (DC 30), touch of idiocy, web (DC 30)",
-			"1st-beguiling gift (DC 30), bungle (DC 30), charm person (DC 29), disguise self (DC 29), feather fall, fumbletongue (DC 30), magic missile (2)",
-			"0 (at will)-daze (DC 28), mending, prestidigitation, read magic Patron fate"
-		],
-		"str": 17,
-		"dex": 20,
-		"con": 26,
-		"int": 46,
-		"wis": 24,
-		"cha": 32,
-		"base_attack_bonus": 10,
-		"cmb": 13,
-		"cmd": 36,
-		"feats": [
-			"Accursed Critical",
-			"Accursed Hex",
-			"Brew Potion",
-			"Extra Hex",
-			"Extra Path Ability",
-			"Greater Spell Penetration",
-			"Improved Familiar",
-			"Improved Initiative",
-			"Mythic Paragon",
-			"Mythic Spell Lore",
-			"Quicken Spell",
-			"Spell Penetration",
-			"Split Hex",
-			"Split Major Hex",
-			"Toughness"
-		],
-		"skills": [
-			"Acrobatics +15",
-			"Appraise +23",
-			"Bluff +26",
-			"Craft (alchemy) +22",
-			"Craft (woodworking) +22",
-			"Diplomacy +21",
-			"Escape Artist +25",
-			"Fly +23",
-			"Heal +25",
-			"Intimidate +36",
-			"Knowledge (arcana) +41",
-			"Knowledge (dungeoneering) +38",
-			"Knowledge (engineering) +38",
-			"Knowledge (geography) +38",
-			"Knowledge (history) +41",
-			"Knowledge (local) +38",
-			"Knowledge (nature) +41",
-			"Knowledge (nobility) +38",
-			"Knowledge (planes) +41",
-			"Knowledge (religion) +38",
-			"Perception +27",
-			"Ride +13",
-			"Sense Motive +27",
-			"Spellcraft +41",
-			"Stealth +25",
-			"Survival +11",
-			"Use Magic Device +34"
-		],
-		"statistics": [
-			"**Str** 17, **Dex** 20, **Con**: 26, **Int** 46, **Wis** 24, **Cha**, 32",
-			"**Base Atk** +10; **CMB** +13; **CMD** 36",
-			"**Feats** [Accursed Critical](feat:Accursed Critical), [Accursed Hex](feat:Accursed Hex), [Brew Potion](feat:Brew Potion), [Extra Hex](feat:Extra Hex), [Extra Path Ability](feat:Extra Path Ability), [Greater Spell Penetration](feat:Greater Spell Penetration), [Improved Familiar](feat:Improved Familiar), [Improved Initiative](feat:Improved Initiative), [Mythic Paragon](feat:Mythic Paragon), [Mythic Spell Lore](feat:Mythic Spell Lore), [Quicken Spell](feat:Quicken Spell), [Spell Penetration](feat:Spell Penetration), [Split Hex](feat:Split Hex), [Split Major Hex](feat:Split Major Hex), [Toughness](feat:Toughness)",
-			"**Skills** Acrobatics +15, Appraise +23, Bluff +26, Craft (alchemy) +22, Craft (woodworking) +22, Diplomacy +21, Escape Artist +25, Fly +23, Heal +25, Intimidate +36, Knowledge (arcana) +41, Knowledge (dungeoneering) +38, Knowledge (engineering) +38, Knowledge (geography) +38, Knowledge (history) +41, Knowledge (local) +38, Knowledge (nature) +41, Knowledge (nobility) +38, Knowledge (planes) +41, Knowledge (religion) +38, Perception +27, Ride +13, Sense Motive +27, Spellcraft +41, Stealth +25, Survival +11, Use Magic Device +34",
-			"**Languages** Abyssal, Aklo, Aquan, Auran, Celestial, Common, Draconic, Giant, Ignan, Infernal, Iobarian, Polish, Russian, Sarmatian, Sylvan, Terran, Triaxian; tongues",
-			"**SQ** amazing initiative (+10), component freedom, contingency, crafting mastery, enduring armor, exceptional stats, forceful presence, hut familiar, immortal, legendary hero, long-lived, mythic spell power, permanent spells, Queen of Witches, recuperation, true archmage",
-			"**Gear** amulet of natural armor +5, apple of eternal sleep, Baba Yaga's besom, belt of mighty constitution +6, bracelet of second chances, cackling hag's blouse, corset of dire witchcraft, ebony fly figurine of wondrous power, gem of seeing, Grandmother's basket (as a portable hole), Grandmother's shawl (as a cloak of resistance +5), grim lantern, hat of disguise, haunted shoes, headband of alluring charisma +6, hexing doll, orb of foul Abaddon, pearl of power (5th level), ring of elemental command (fire), ring of freedom of movement (slotless), ring of protection +5; in addition to the gear listed here, Baba Yaga has access to a wide variety of other magic items that she can use at the GM's discretion."
-		],
-		"special_abilities": [
-			"**Contingency (Sp)** Whenever Baba Yaga is attacked, she is affected by mislead.",
-			"**Exceptional Stats (Ex)** Baba Yaga was born a perfect specimen of humanity. As a result, her ability scores were generated using 25 points, rather than using the standard 15 point buy used to create most NPCs. Additionally, Baba Yaga has much more gear than an NPC of her level would normally have. These modifications increase her total CR by 2.",
-			"**Forceful Presence (Ex)** Baba Yaga adds her Charisma modifier as an insight bonus to her Armor Class and on all of her saving throws. In addition, Baba Yaga uses her Charisma score as well as her Constitution score when calculating hit points. This ability increases her total CR by 1.",
-			"**Hut Familiar (Ex)** Baba Yaga built her Dancing Hut using a combination of the witch's hut hex and the sanctum mythic path ability, and over time expanded the artifact's powers to its present state. The Dancing Hut of Baba Yaga serves as Baba Yaga's familiar, and replaces the normal witch's familiar ability. Baba Yaga's life is forever intertwined with her Dancing Hut and parts of her essence reside within it. As long as the hut exists, this special connection grants her 300 bonus hit points, DR 10/epic and good, and regeneration 20. This ability increases her total CR by 1.",
-			"**Immortal (Su)** Baba Yaga has hidden her death to make herself even more difficult to kill. This functions as the base mythic ability (Mythic Adventures 13), but Baba Yaga always returns to life 24 hours later, regardless of how she is killed. In order to permanently kill Baba Yaga, her death must be found and released back into her body, at which point she can be killed with a coup de grace or critical hit made with an artifact.",
-			"**Long-Lived (Ex)** Mystical arcane powers, mythic abilities, and complex arcane rituals have extended Baba Yaga's life. She gains the +3 bonus to Intelligence, Wisdom, and Charisma scores for having lived beyond venerable age, but she doesn't gain the penalties to Strength, Dexterity, and Constitution resulting from this advanced age. Baba Yaga's supernaturally empowered life grants her complete immunity to ability damage and drain, charm and compulsion effects, death effects, disease, energy drain, petrification, poison, and all forms of madness (including confusion effects and feeblemind). This ability increases her total CR by 1.",
-			"**Permanent Spells (Sp)** Through the use of permanency, Baba Yaga is constantly under the effect of the following spells: arcane sight, darkvision, read magic, see invisibility, and tongues. Baba Yaga has also devised a way to inscribe symbol spells upon her person. Baba Yaga has permanent symbols of death (DC 36) magically inscribed on the center of her chest, between her shoulder blades, upon the crown of her head, and on the soles of her feet. Only a few great beings have knowledge of the symbols' passwords (each symbol has its own unique phrase), and even fewer significant personalities have been attuned to the symbols.",
-			"**Queen of Witches (Ex)** As Queen of Witches, Baba Yaga knows all witch spells, as well as all sorcerer/wizard spells. Baba Yaga also has knowledge of many other spells that she has researched. Many of these are arcane versions of divine spells. In addition, Baba Yaga can create artifacts, and has done so to great extent, the greatest of which is the Dancing Hut of Baba Yaga."
-		],
-		"description": [ "Around campfires and in front of hearths on cold winter nights, wise grandmothers and favored uncles recite countless tales of a stern and powerful woman. Some know her as the Old Crone, others as Old Knobby Legs. She's often called the Queen of the Witches, but those who are wise call her Dear Grandmother. She is Baba Yaga, and on Golarion, she has an oppressive and violent legacy. But, on other worlds, the foolhardy and the brave seek her for wisdom and magic." ]
-	},
-	{
-		"monster_name": "Jarl Gnargorak",
-		"file": "mythicmonsterdisplay28f8.html",
-		"sources": [ "Mythic Realms" ],
-		"cr": 25,
-		"mr": 8,
-		"xp": 1638400,
-		"levels": "Male frost giant ranger 12/marshal 8",
-		"alignment": "CE",
-		"size": "large",
-		"type": "humanoid",
-		"subtypes": [ "cold", "giant" ],
-		"initiative": 19,
-		"senses": [ "low-light vision" ],
-		"perception": 33,
-		"heading": [
-			"Jarl Gnargorak CR 25/MR 8",
-			"**Source** [Mythic Realms pg. 52](source:Mythic Realms)",
-			"**XP** 1,638,400",
-			"Male frost giant ranger 12/marshal 8 (Pathfinder RPG Mythic Adventures 38)",
-			"CE Large humanoid (cold, giant)",
-			"**Init** +19; **Senses** low-light vision; Perception +33"
-		],
-		"ac": {
-			"ac": 43,
-			"touch": 19,
-			"flatfooted": 38,
-			"bonuses": {
-				"armor": 10,
-				"deflection": 5,
-				"dex": 5,
-				"natural": 14,
-				"size": -1
-			}
-		},
-		"hp": {
-			"hp": 485
-		},
-		"saves": {
-			"fort": 34,
-			"ref": 26,
-			"will": 19
-		},
-		"defensive_abilities": [
-			"evasion",
-			"hard to kill",
-			"mythic saving throws",
-			"rock catching",
-			"unstoppable"
-		],
-		"resist": {
-			"electricity": 20,
-			"fire": 30
-		},
-		"defense": [
-			"**AC** 43, touch 19, flat-footed 38 (+10 armor, +5 deflection, +5 Dex, +14 natural, -1 size)",
-			"**hp** 485 (26 HD; 14d8+12d10+356)",
-			"**Fort** +34, **Ref** +26, **Will** +19; +2 vs. fire-based effects",
-			"**Defensive Abilities** evasion, hard to kill, mythic saving throws, rock catching, unstoppable; **Resist** electricity 20, fire 30"
-		],
-		"speed": {
-			"land": 30
-		},
-		"space": 10,
-		"reach": 10,
-		"offense": [
-			"**Speed** 30 ft.",
-			"**Melee** Winter's Heart +41/+36/+31/+26 (2d8+25/17-20 plus 1d6 cold)",
-			"**Ranged**  +5 seeking composite longbow +33/+28/+23/+18 (2d6+18/19-20/x3) or rock +28 (1d8+19)",
-			"**Space** 10 ft., **Reach** 10 ft.",
-			"**Special Attacks** favored enemy (animals +4, evil outsiders +2, humans +4), fight on, inspiring assault, marshal's order (advance, decisive strike), menacing presence, mythic bond, mythic presence, press the advantage, rock throwing (120 ft.)",
-			"**Ranger Spells Prepared ** (CL 9th; concentration +13)",
-			"3rd-fickle winds, water walk",
-			"2nd-barkskin (already cast), versatile weapon, wind wall",
-			"1st-horn of pursuit, pass without trace, resist energy (already cast)"
-		],
-		"str": 37,
-		"dex": 24,
-		"con": 34,
-		"int": 12,
-		"wis": 18,
-		"cha": 18,
-		"base_attack_bonus": 22,
-		"cmb": 36,
-		"cmd": 58,
-		"feats": [
-			"Awesome Blow",
-			"Deadly Aim",
-			"Endurance",
-			"Exotic Weapon Proficiency (bastard sword)",
-			"Improved Bull Rush",
-			"Improved Critical (bastard sword)",
-			"Improved Critical (composite longbow)",
-			"Improved Initiative",
-			"Improved Precise Shot",
-			"Iron Will",
-			"Leadership",
-			"Lightning Reflexes",
-			"Pinpoint Targeting",
-			"Point-Blank Shot",
-			"Power Attack",
-			"Precise Shot",
-			"Rapid Shot"
-		],
-		"skills": [
-			"Intimidate +33",
-			"Knowledge (geography, nature) +13",
-			"Perception +33",
-			"Sense Motive +14",
-			"Stealth +25 (+29 in snow)",
-			"Survival +33"
-		],
-		"statistics": [
-			"**Str** 37, **Dex** 24, **Con**: 34, **Int** 12, **Wis** 18, **Cha**, 18",
-			"**Base Atk** +22; **CMB** +36 (+38 bull rush); **CMD** 58 (60 vs. bull rush)",
-			"**Feats** [Awesome Blow](feat:Awesome Blow), [Deadly Aim](feat:Deadly Aim), [Endurance](feat:Endurance), [Exotic Weapon Proficiency (bastard sword)](feat:Exotic Weapon Proficiency), [Improved Bull Rush](feat:Improved Bull Rush), [Improved Critical (bastard sword)](feat:Improved Critical), [Improved Critical (composite longbow)](feat:Improved Critical), [Improved Initiative](feat:Improved Initiative), [Improved Precise Shot](feat:Improved Precise Shot), [Iron Will](feat:Iron Will), [Leadership](feat:Leadership), [Lightning Reflexes](feat:Lightning Reflexes), [Pinpoint Targeting](feat:Pinpoint Targeting), [Point-Blank Shot](feat:Point-Blank Shot), [Power Attack](feat:Power Attack), [Precise Shot](feat:Precise Shot), [Rapid Shot](feat:Rapid Shot)",
-			"**Skills** Intimidate +33, Knowledge (geography, nature) +13, Perception +33, Sense Motive +14, Stealth +25 (+29 in snow), Survival +33; **Racial Modifiers** +4 Stealth in snow",
-			"**Languages** Common, Giant, Hallit",
-			"**SQ** additional order, amazing initiative, camouflage, evasion, exceptional wealth, favored terrain (cold +4, mountain +2), hunter's bond (companions), pierce the darkness, quarry, recuperation, swift tracker, track +6, wild empathy +16, woodland stride",
-			"**Combat Gear** boots of speed, +1 brilliant energy arrows (10), potions of cure serious wounds (4), +1 demon bane arrows (10), +1 dragon bane arrows (10), +1 flaming burst arrows (10), +1 human bane arrows (20), efficient quiver, glove of storing, greater horn of blasting, staff of journeys (50 charges); **Other Gear** +4 improved shadow mithral breastplate, +5 seeking composite longbow (+14 Str) with 30 arrows, Winter's Heart (see below), amulet of natural armor +5, belt of physical perfection +6, cloak of resistance +5, greater bracers of archery, greater ring of fire resistance, headband of mental prowess +4 (Wis, Cha), portable hole, ring of protection +5, stormlord's helm, spell component pouch, platinum and sapphire necklace (worth 12,500 gp), platinum symbol of Thremyr (worth 500 gp), sapphires (10, worth 5,000 gp each)"
-		],
-		"special_abilities": [ "**Exceptional Wealth (Ex)** Jarl Gnargorak has the wealth of a 20th-level PC, rather than an NPC. This increases his CR by 1." ],
-		"description": [
-			"The ambitious Gnargorak always hungered for power and status, but he didn't aspire to be Jarl of all Jarls until Winter's Heart came into his grasp. The sword whispered dreams of greatness to Gnargorak, of lordship over all frost giants. The first obstacle to establishing his regime was the ancient silver dragon Lanargix, long a thorn in the side of frost giants throughout the Tusk Mountains. Jarl Gnargorak filled her hide with a dozen arrows before meeting her in melee, sword to claw. With the dead dragon's horns adorning his staff, Gnargorak proclaimed himself the chosen of Thremyr and high jarl of all frost giants, in the Tusk Mountains and beyond. Now, a full score of Tusk Mountain jarls openly swear fealty to Gnargorak. Others placate him, lest they draw his wrath. Only the jarl's lack of focus and unceasing need to conquer keeps him from uniting the remaining giants of the Tusks under one banner.",
-			"The skulls of those who dared dispute his sovereignty line the path to his mountain fortress of Bos-Phargrumm (see page 33). He rarely sets foot in this ice castle, as raiding the hated Mammoth Lords brings him far more pleasure than consolidating his rule. The towering citadel that reaches into the clouds stays busy even without its ostensible owner sitting upon its massive, ornate throne. Jarl Gnargorak's cloud giant harem lives there, serving as his advisors, maintaining the treasuries, collecting taxes from lands Gnargorak has claimed, and negotiating with the tribes on the jarl's behalf. They grow tired of this work, as the jarl is far more interested in conquering new territory than in ruling over that which he holds.",
-			"Winter's Heart also grows weary of Gnargorak's lack of dedication to building a true empire. Of late, the sword has denied the jarl its greater powers except in times of dire need. It constantly searches for another potential leader to bear it and use it to impose rule over the north. Of course, the jarl never lets Winter's Heart leave his presence, so the sword's options are limited. The artifact is unattended only while the jarl is in his personal chambers, where he feels he's safe. But one of his harem has communicated with the sword and sympathizes with its goals. She watches for the best candidates, and invites them to Bos-Phargrumm on false pretenses so she can weigh their acumen. She and Winter's Heart haven't found a suitable leader among the frost giants; there's no shortage of ambition among their kind, but no tribal leader has half the experience or cunning Gnargorak does.",
-			"Though other frost giants admire and fear Jarl Gnargorak's prowess in battle, they view his harem of cloud giants with private derision and a touch of envy. Even given the jarl's imposing 16-foot stature, his brides all stand noticeably taller than he. Gnargorak prizes his exotic harem, and eagerly anticipates the birth of a son surely destined to be the mightiest frost giant in all the Tusks. Yet despite his many brides, the jarl's seed has yet to bear fruit. His displeasure over this continued lack of an heir drives him to ever more brutal raids against the Mammoth Lords so that he can at least leave a legacy of conquest and make a mark for all to see in the histories of the north-even if there would be no one of his own blood to take over his domain.",
-			"Jarl Gnargorak leads a veritable army, but because he started out as a hunter, not a soldier, he uses his forces in unconventional ways that suit the tactics he learned in the wild. Rather than simply leading an overwhelming force directly into battle against the Mammoth Lords, he draws the warriors' attention away from the safety of their followings and into his snares and ambushes. Only when a group is weakened does he sweep in to destroy them.",
-			"Winter's Heart",
-			"The details for the Winter's Heart artifact can be found [here](unknown:here)."
-		],
-		"short_description": "Clad in mithral and furs and armed with a glowing sword made of ice, this towering, blue-skinned humanoid has a regal presence."
-	},
-	{
-		"monster_name": "Kortash Khain",
-		"file": "mythicmonsterdisplayca4a.html",
-		"sources": [ "Mythic Realms" ],
-		"cr": 23,
-		"mr": 6,
-		"xp": 819200,
-		"levels": "Male ghoul cleric of Kabriri 5/sorcerer (wildblooded) 5/mystic theurge 10/hierophant 6",
-		"alignment": "CE",
-		"size": "medium",
-		"type": "undead",
-		"initiative": 11,
-		"senses": [
-			"darkvision 60 ft.",
-			"deathwatch 30 ft.",
-			"true seeing"
-		],
-		"perception": 11,
-		"heading": [
-			"Kortash Khain CR 23/MR 6",
-			"**Source** [Mythic Realms pg. 54](source:Mythic Realms)",
-			"**XP** 819,200",
-			"Male ghoul cleric of Kabriri 5/sorcerer (wildblooded) 5/mystic theurge 10/hierophant 6 (Pathfinder RPG Mythic Adventures 32, Pathfinder RPG Ultimate Magic 70)",
-			"CE Medium undead",
-			"**Init** +11; **Senses** darkvision 60 ft., deathwatch 30 ft., true seeing; Perception +11"
-		],
-		"ac": {
-			"ac": 39,
-			"touch": 22,
-			"flatfooted": 34,
-			"bonuses": {
-				"armor": 5,
-				"deflection": 5,
-				"dex": 5,
-				"luck": 2,
-				"natural": 7,
-				"shield": 5
-			}
-		},
-		"hp": {
-			"hp": 391
-		},
-		"saves": {
-			"fort": 25,
-			"ref": 17,
-			"will": 34
-		},
-		"defensive_abilities": [
-			"channel resistance +2",
-			"contingencies",
-			"hard to kill",
-			"mind blank",
-			"mythic saving throws"
-		],
-		"immune": [ "undead traits" ],
-		"defense": [
-			"**AC** 39, touch 22, flat-footed 34 (+5 armor, +5 deflection, +5 Dex, +2 luck, +7 natural, +5 shield)",
-			"**hp** 391 (22 HD; 2d8+5d8+5d6+10d6+308)",
-			"**Fort** +25, **Ref** +17, **Will** +34",
-			"**Defensive Abilities** channel resistance +2, contingencies, hard to kill, mind blank, mythic saving throws; **Immune** undead traits"
-		],
-		"speed": {
-			"land": 30
-		},
-		"space": 5,
-		"reach": 5,
-		"offense": [
-			"**Speed** 30 ft.",
-			"**Melee** bite +12 (1d6+1 plus disease and paralysis), 2 claws +12 (1d4+1 plus paralysis), staff of power +14/+9/+4 (1d6+3)",
-			"**Ranged**  ray +17 (by spell/19-20)",
-			"**Special Attacks** alter channel, the blood is the life (13/day), channel negative energy 15/day (DC 22, 3d6), death's kiss (2 rounds, 14/day), disease, divine surge (inspired spell), eldritch breach, enduring blessing (1 minute/level), faith's reach, lore keeper, mythic power (15/day, surge +1d8), paralysis (1d4+1 rounds, DC 21, elves are immune to this effect), spell synthesis",
-			"**Spell-Like Abilities (CL 22nd)",
-			"2/day-ghoul touch",
-			"1/day-undead minion",
-			"**Cleric Spells Prepared ** (CL 15th; concentration +26)",
-			"8th-fire storm[^M] (DC 29), mind blank[^D] (already cast), unholy aura",
-			"7th-destruction[^D] (2, DC 29), empowered flame strike (2), repulsion (DC 28)",
-			"6th-create undead[^D], greater dispel magic, harm[^M] (2, DC 29), plague storm, word of recall",
-			"5th-plane shift[^M] (DC 26), scrying (DC 26), slay living[^D] (3, DC 27), steal power (DC 28), true seeing (already cast)",
-			"4th-aura of doom, blessing of fervor, dismissal (DC 25), divine power, enervation[^D][^M] (2), freedom of movement",
-			"3rd-bestow curse (3, DC 25), dispel magic, magic vestment (already cast), prayer[^M] (2), seek thoughts[^D]",
-			"2nd-darkness[^M], ghoul touch[^D] (DC 25), remove paralysis, resist energy (2), silence[^M] (2, DC 23), spiritual weapon",
-			"1st-comprehend languages[^D], divine favor, entropic shield, protection from good (3), shield of faith[^M] (2)",
-			"0 (at will)-detect magic, guidance, light, mending [^D]: domain spell; Domains Death (Undead subdomain), Knowledge (Thought subdomain)",
-			"**Sorcerer Spells Known ** (CL 15th; concentration +25)",
-			"7th (5/day)-finger of death[^M], (DC 29), power word blind, prismatic spray[^M]",
-			"6th (8/day)-contagious flame, contingency[^M], greater dispel magic, undeath to death (DC 28)",
-			"5th (8/day)-cone of cold (DC 25), dominate person[^M] (DC 25), mage's private sanctum, teleport, waves of fatigue",
-			"4th (8/day)-animate dead, bestow curse (DC 26), charm monster (DC 24), enervation[^M], fire shield",
-			"3rd (8/day)-fly, hold person (DC 23), magic circle against good, nondetection, vampiric touch[^M] 2nd (9/day, 8 remaining)-command undead (DC 23), false life (cast once), mirror image, resist energy, scorching ray, spider climb[^M]",
-			"1st (9/day)-chill touch (DC 23), expeditious retreat, feather fall, ray of enfeeblement (DC 23), silent image (DC 21), vanish",
-			"0 (at will)-acid splash, arcane mark, dancing lights, ghost sound (DC 20), mage hand, message, prestidigitation, read magic, tough of fatigue",
-			"**Bloodline** undead (sanguine); [^M]: mythic spell"
-		],
-		"str": 13,
-		"dex": 21,
-		"con": null,
-		"int": 17,
-		"wis": 32,
-		"cha": 31,
-		"base_attack_bonus": 11,
-		"cmb": 12,
-		"cmd": 32,
-		"feats": [
-			"Accursed Critical",
-			"Craft Wondrous Item",
-			"Demonic Obedience",
-			"Empower Spell",
-			"Eschew Materials",
-			"Extra Channel",
-			"Improved Critical (ray)",
-			"Mythic Spell Lore",
-			"Spell Focus (necromancy)",
-			"Thanatopic Spell",
-			"Toughness",
-			"Weapon Focus (ray)"
-		],
-		"skills": [
-			"Intimidate +32",
-			"Knowledge (arcana, planes, religion) +28",
-			"Spellcraft +28",
-			"Use Magic Device +24"
-		],
-		"statistics": [
-			"**Str** 13, **Dex** 21, **Con**: -, **Int** 17, **Wis** 32, **Cha**, 31",
-			"**Base Atk** +11; **CMB** +12; **CMD** 32",
-			"**Feats** [Accursed Critical](feat:Accursed Critical), [Craft Wondrous Item](feat:Craft Wondrous Item), [Demonic Obedience](feat:Demonic Obedience), [Empower Spell](feat:Empower Spell), [Eschew Materials](feat:Eschew Materials), [Extra Channel](feat:Extra Channel), [Improved Critical (ray)](feat:Improved Critical), [Mythic Spell Lore](feat:Mythic Spell Lore), [Spell Focus (necromancy)](feat:Spell Focus), [Thanatopic Spell](feat:Thanatopic Spell), [Toughness](feat:Toughness), [Weapon Focus (ray)](feat:Weapon Focus)",
-			"**Skills** Intimidate +32, Knowledge (arcana, planes, religion) +28, Spellcraft +28, Use Magic Device +24",
-			"**Languages** Common",
-			"**SQ** amazing initiative, aura, bloodline arcana (+1 caster level with necromancy spells), combined spells (5th), exceptional wealth, ghoulish apotheosis (+4 Charisma), mythic spellcasting, recuperation",
-			"**Combat Gear** crown of conquest, extend metamagic rod, greater strand of prayer beads, ring of spell turning, scroll of tongues, staff of necromancy, staff of power; **Other Gear** +4 mithral buckler, amulet of natural armor +5, belt of incredible dexterity +6, cloak of resistance +5, darkskull (invisibility purge), deathwatch eyes, headband of mental prowess +6 (Wis, Cha), ring of protection +5, eye ointment (worth 250 gp), gold and platinum holy symbol (worth 1,000 gp)"
-		],
-		"special_abilities": [
-			"**Contingencies (Sp)** Kortash Khain is under the effect of the following mythic contingencies: resist energy when he's affected by an acid, cold, electricity, fire, or sonic effect dealing more than 10 points of damage; teleport when he's brought below 50 hit points or unable to take actions for 1 full round; and both empowered mirror image and mythic shield of faith when he's targeted with an attack that requires an attack roll.",
-			"**Disease (Su)** Ghoul Fever: Bite-injury; save Fort DC 21; onset 1 day; frequency 1 day; effect 1d3 Con and 1d3 Dex damage; cure 2 consecutive saves. The save DC is Charisma-based. A humanoid who dies of ghoul fever rises as a ghoul at the next midnight; a humanoid with 4 Hit Dice or more rises as a ghast.",
-			"**Exceptional Wealth (Ex)** Kortash Khain has the wealth of a 20th-level PC, rather than an NPC. This increases his CR by 1."
-		],
-		"description": [
-			"Kortash Khain is the high priest on Golarion of the demon lord Kabriri, the Lord of Everglut. He rules as Priest-King of Nemret Noktoria, a city of bone-white towers where ghouls dwell. His city lies deep in the vaults of Sekamina in the Darklands below Osirion. Kabriri rules over the Abyssal city of Everglut, a cyclopean necropolis inhabited by ghouls and riddled with tunnels. All Kortash Khain's immortal thought is bent on replicating his master's dead city within the living world.",
-			"Though Khain has sent ambassadors to Thuvia, Osirion, and their neighbors to conduct trade negotiations, thoughts of war, insurrection, and murder are never far from his mind. Much of his wrath has been turned against the nearby inhabitants of the Darklands' his purges have largely depopulated Sekamina in the vicinity of his city. A fortunate few are merely dead and devoured-all of the rest have been absorbed into Khain's ever-growing ghoul army.",
-			"Not even the genies of Garund have escaped the Priest- King's capture squads. Many have been defeated and converted by the powers of death into great ghuls, often serving in positions of prominence as atamans, beys, and pashas under Khain's dominion. The most powerful of these are four great ghul oracles called the Quadrate Pillars, each formed from the undead remnant of a genie twisted into serving in death the element that was its opposite in life. A few renegade shaitans have been converted to the worship of Kabriri, and serve Kortash Khain as architects, engineers, and builders in his city. This socalled Blackstone Brotherhood is held in high esteem in Nemret Noktoria not only for its architectural creations but also for its members' prowess as hunters. They infiltrate their genie brethren and lure them into ambushes.",
-			"Kortash Khain and any other clerics or oracles worshiping Kabriri gain several unique options when summoning or creating undead to serve them. They add the following creatures to their summon monster lists: I-fiendish human zombie (standard or fast zombie); II-fiendish ghoul, fiendish plague zombie; III-fiendish ghast; IV-giant fiendish ghast; V-ghul; VI-fiendish ghul, great ghul; VII-fiendish great ghul, fiendish shaitan; VIII-black jinni; IX-fiendish black jinni. When using create undead, a cleric or oracle of Kabriri can create a ghul or great ghul from the corpse of a genie rather than creating a mummy (minimum caster level 15th). When creating a ghoul, ghast, ghul, or great ghul with this spell, a cleric or oracle of Kabriri can also apply the fiendish template to that creature. This requires the caster to double the normal material component cost or sacrifice a living humanoid as an additional material component of casting the spell."
-		],
-		"short_description": "This withered humanoid wears sooty, fire-blackened robes and a headdress of black and gold."
-	},
-	{
-		"monster_name": "Old-Mage Jatembe",
-		"file": "mythicmonsterdisplay769b.html",
-		"sources": [ "Mythic Realms" ],
-		"cr": 24,
-		"mr": 6,
-		"xp": 1228800,
-		"levels": "Male old human wizard 20/archmage 6",
-		"alignment": "NG",
-		"size": "medium",
-		"type": "humanoid",
-		"subtypes": [ "human" ],
-		"initiative": 13,
-		"senses": [
-			"arcane sight",
-			"darkvision 60 ft.",
-			"see invisibility"
-		],
-		"perception": 28,
-		"heading": [
-			"Old-Mage Jatembe CR 24/MR 6",
-			"**Source** [Mythic Realms pg. 56](source:Mythic Realms)",
-			"**XP** 1,228,800",
-			"Male old human wizard 20/archmage 6",
-			"NG Medium humanoid (human)",
-			"**Init** +13; **Senses** arcane sight, darkvision 60 ft., see invisibility; Perception +28"
-		],
-		"ac": {
-			"ac": 32,
-			"touch": 19,
-			"flatfooted": 29,
-			"bonuses": {
-				"armor": 8,
-				"deflection": 5,
-				"dex": 3,
-				"insight": 1,
-				"natural": 5
-			}
-		},
-		"hp": {
-			"hp": 210
-		},
-		"saves": {
-			"fort": 16,
-			"ref": 15,
-			"will": 25
-		},
-		"defensive_abilities": [
-			"hard to kill",
-			"mind blank",
-			"mythic saving throws"
-		],
-		"dr": [
-			10,
-			"epic"
-		],
-		"defense": [
-			"**AC** 32, touch 19, flat-footed 29 (+8 armor, +5 deflection, +3 Dex, +1 insight, +5 natural)",
-			"**hp** 210 (20d6+138); regeneration 1",
-			"**Fort** +16, **Ref** +15, **Will** +25; +8 vs. mind-affecting",
-			"**Defensive Abilities** hard to kill, mind blank, mythic saving throws; **DR** 10/epic"
-		],
-		"speed": {
-			"land": 30
-		},
-		"space": 5,
-		"reach": 5,
-		"offense": [
-			"**Speed** 30 ft.",
-			"**Melee** staff of the planes +13/+8 (1d6+3)",
-			"**Special Attacks** abundant casting, archmage arcana (wild arcana), hand of the apprentice (18/day), metamagic mastery (7/day), mythic spellpower, permanent shapechange, rapid preparation",
-			"**Wizard Spells Prepared ** (CL 20th; concentration +35)",
-			"9th-ascension[^M], gate, mage's disjunction, meteor swarm, time stop[^M], empty slot[^F]",
-			"8th-maximized cone of cold, maze[^M], polymorph any object (DC 33), power word stun, summon monster VIII, empty slot[^F]",
-			"7th-quickened fireball[^M] (2, DC 32), forcecage (DC 33), mage's sword, mass invisibility, summon monster VII, empty slot[^F]",
-			"6th-chain lightning[^M] (DC 32), globe of invulnerability[^M], mislead[^M] (DC 31), quickened scorching ray[^M], summon monster VI, true seeing, empty slot[^F]",
-			"5th-baleful polymorph (DC 30), cloudkill (DC 31), communal stoneskin, quickened entangle[^M] (DC 30), mage's faithful hound, overland flight, empty slot[^F]",
-			"4th-communal protection from energy (DC 29), dimension door, enervation, mass enlarge person (DC 29), maximized magic missile[^M], wall of fire, empty slot[^F]",
-			"3rd-call lightning[^M] (2, DC 29), communal resist energy (DC 28), fireball[^M] (DC 29), haste[^M] (2), lightning bolt (DC 29), empty slot[^F]",
-			"2nd-barkskin, blur, communal protection from evil, forest friend, glitterdust (DC 28), mirror image (2), empty slot[^F]",
-			"1st-entangle[^M] (2, DC 26), expeditious retreat, feather fall, magic missile[^M], obscuring mist[^M], true strike, empty slot[^F]",
-			"0 (at will)-ghost sound (DC 25), light, mage hand, prestidigitation [^M]: mythic spells [^F]: Jatembe has one unprepared slot at each level for his rapid preparation archmage path ability."
-		],
-		"str": 14,
-		"dex": 16,
-		"con": 18,
-		"int": 41,
-		"wis": 24,
-		"cha": 22,
-		"base_attack_bonus": 10,
-		"cmb": 12,
-		"cmd": 31,
-		"feats": [
-			"Augment Summoning",
-			"Extend Spell",
-			"Fast Learner",
-			"Greater Spell Penetration",
-			"Heighten Spell",
-			"Improved Initiative",
-			"Maximize Spell",
-			"Mythic Spell Lore (2)",
-			"Quicken Spell",
-			"Scribe Scroll",
-			"Silent Spell",
-			"Spell Focus (conjuration)",
-			"Spell Focus (evocation)",
-			"Spell Penetration",
-			"Still Spell",
-			"Toughness"
-		],
-		"skills": [
-			"Bluff +30",
-			"Diplomacy +30",
-			"Fly +27",
-			"Handle Animal +30",
-			"Heal +28",
-			"Intimidate +30",
-			"Knowledge (arcana, dungeoneering, geography, history, nature, planes, religion) +39",
-			"Perception +28",
-			"Perform (oratory) +30",
-			"Sense Motive +28",
-			"Spellcraft +39",
-			"Stealth +5",
-			"Survival +28",
-			"Use Magic Device +30"
-		],
-		"statistics": [
-			"**Str** 14, **Dex** 16, **Con**: 18, **Int** 41, **Wis** 24, **Cha**, 22",
-			"**Base Atk** +10; **CMB** +12; **CMD** 31",
-			"**Feats** [Augment Summoning](feat:Augment Summoning), [Extend Spell](feat:Extend Spell), [Fast Learner](feat:Fast Learner), [Greater Spell Penetration](feat:Greater Spell Penetration), [Heighten Spell](feat:Heighten Spell), [Improved Initiative](feat:Improved Initiative), [Maximize Spell](feat:Maximize Spell), [Mythic Spell Lore (2)](feat:Mythic Spell Lore), [Quicken Spell](feat:Quicken Spell), [Scribe Scroll](feat:Scribe Scroll), [Silent Spell](feat:Silent Spell), [Spell Focus (conjuration)](feat:Spell Focus), [Spell Focus (evocation)](feat:Spell Focus), [Spell Penetration](feat:Spell Penetration), [Still Spell](feat:Still Spell), [Toughness](feat:Toughness)",
-			"**Skills** Bluff +30, Diplomacy +30, Fly +27, Handle Animal +30, Heal +28, Intimidate +30, Knowledge (arcana, dungeoneering, geography, history, nature, planes, religion) +39, Perception +28, Perform (oratory) +30, Sense Motive +28, Spellcraft +39, Stealth +5, Survival +28, Use Magic Device +30",
-			"**Languages** Abyssal, Aklo, Ancient Osiriani, Azlanti, Celestial, Common, Cyclops, Draconic, Druidic, Elven, Infernal, Polyglot, Protean, Sylvan, Treant, Undercommon",
-			"**SQ** amazing initiative, arcane bond (ring of continuation), crafting mastery, exceptional wealth, gifts of the teachers, immortality arcane discovery, Jatembe's divine knowledge, perfect preparation, permanent spells, recuperation",
-			"**Combat Gear** bag of tricks (tan), beacon of true faith, cloak of etherealness, dryad sandals, greater book of extended summoning (good), robe of gates, staff of the planes, wand of cure critical wounds (CL 20th, 50 charges), wand of restoration (50 charges); **Other Gear** belt of physical perfection +6, bracers of armor +8, cloak of resistance +5, headband of mental superiority +6, ring of protection +5, amulet of the planes, circlet of persuasion, dusty rose prism ioun stone, gloves of shaping, handy haversack, polymorphic pouch, ring of regeneration, stone of good luck, eye ointment for true seeing (worth 1,000 gp), granite and diamond dust for communal stoneskin (worth 10,000 gp), miniature platinum sword for mage's sword (worth 250 gp), rare herbs and gems for ascension (worth 10,000 gp), ruby dust for forcecage (worth 1,500 gp)"
-		],
-		"special_abilities": [
-			"**Exceptional Wealth (Ex)** Jatembe has the wealth of a 20th-level PC, rather than an NPC. This increases his CR by 1.",
-			"**Gifts of the Teachers (Ex)** Old-Mage Jatembe sought the knowledge and assistance of many great powers-from angels to demons to gods'so he could help his people. Among the gifts they bestowed on him were permanent versions of augmented mythic barkskin, mind blank, and shapechange, plus the knowledge and power that allowed him to develop his enhanced divine knowledge ability. These increase his CR by 1.",
-			"**Jatembe's Divine Knowledge (Ex)** Jatembe has a much stronger version of the divine knowledge archmage path ability (Pathfinder RPG Mythic Adventures 19). He has the following spells on his list of spells known: barkskin, call lightning, entangle, forest friend, lesser restoration, plant growth, speak with animals, and speak with plants.",
-			"**Perfect Preparation (Ex)** Jatembe no longer needs a spellbook to prepare spells. He knows and can prepare any wizard spell from the Pathfinder RPG Core Rulebook that doesn't have the evil descriptor, any spell from pages 28 and 29 of Pathfinder Player Companion: Faiths & Philosophies (casting these as though they were wizard spells of the highest level listed in their descriptions), and possibly others as well, including unique ones he's researched.",
-			"**Permanent Spells (Sp)** Through the use of permanency, Jatembe is constantly under the effects of the following spells: arcane sight, darkvision, see invisibility, and telepathic bond (once with each of his Ten Magic Warriors). He is under the effect of a contingency that causes dimension door to come into effect if he's brought below 80 hit points."
-		],
-		"description": [
-			"No character looms larger in the myths of the Mwangi tribes than Old-Mage Jatembe. Jatembe rose to prominence in the Age of Anguish, a time when mankind was just beginning to recover from the devastation caused by Earthfall and the destruction of Azlant. Jatembe was the first among humanity to rediscover the art of wizardry and written magic, and did much to redeem these arts in the eyes of a superstitious people. Jatmebe worked tirelessly to stem the tide of barbarism left in the wake of the Age of Darkness, and preserve the learning and culture of his people. He is remembered as a folk hero among the Mwangi, and as a beacon of hope in a darkest of times.",
-			"Little is known about Jatembe's origins. Even in the earliest of myths, he's described as an old man. Some scholars point out parallels between Jatembe's ageless nature and the immortal masters of the lost city of Ird, suggesting that fabled city as his birthplace, though the decadent and cruel lords of Ird have little else in common with him. Later accounts claim Jatembe and his disciples destroyed the city of Ird to punish it for its wickedness, casting doubt on this theory. Other myths connect Jatembe with the druids of the Mwangi Expanse, some even claiming he was an ex-druid himself. True or not, Jatembe did have an affinity for druidic magic, and the magical school he founded-the Magaambya-continues to teach druid spells to this day.",
-			"The details of Jatembe's ascension are similarly occluded by millennia of myth and legend. One popular tale holds that Jatembe learned the deepest mysteries of magic from the severed head of Ydersius before sewing the serpent-god's lips shut. Others claim he gained mythic knowledge from sources among the planes, for many tales tell of his dealings with angels, demons, and other outsiders while in search of ways to protect his people. Still more stories say that Jatembe found some potent artifact amid the ruins of the Mwangi that awakened his mythic potential, and that he departed Golarion once the strength of this artifact had faded.",
-			"Prior to his mysterious departure, Jatembe performed many astonishing deeds. The first of these was the gathering of his disciples, the Ten Magic Warriors. These men and women were known only by the golden animal masks they wore, having forsaken their identities in service to Jatembe and his quest. With their help, Jatembe explored the ancient ruins that dot the Mwangi Expanse, uncovering ancient magical secrets and treasures. He founded the city of Nantambu and the Magaambya arcane academy to preserve and share knowledge and wealth with future generations, and to protect the Expanse from further devastation such as that wrought by the Earthfall. In later days, Jatembe fought and defeated the twisted sorcerer known as the King of Biting Ants, who claimed to possess a weapon that would allow him to eat the sun and cast the world into darkness.",
-			"For reasons unknown, Jatembe departed Golarion; if anyone knows where he left to, they're silent on the matter. Some believe he left to fulfill obligations to the beings who granted him mythic power, and others think a magnificent spell took him. He left his Ten Magic Warriors behind to rule in his place, and forged the Ring of Nine Facets (Artifacts and Legends 40) to aid them in his absence. He has created and used other artifacts in his travels, but gave them all away to allies, keeping only the beacon of true faith that one of his patrons gave him."
-		],
-		"short_description": "This gray-haired man with a short, wiry beard wears a nondescript robe festooned with satchels and decorations."
-	},
-	{
-		"monster_name": "Raskineya, the Dark Comet",
-		"file": "mythicmonsterdisplay50fe.html",
-		"sources": [ "Mythic Realms" ],
-		"cr": 16,
-		"mr": 6,
-		"xp": 76800,
-		"levels": "Female adult void dragon",
-		"alignment": "CE",
-		"size": "huge",
-		"type": "dragon",
-		"subtypes": [ "mythic" ],
-		"initiative": 11,
-		"senses": [
-			"dragon senses",
-			"see in darkness"
-		],
-		"perception": 22,
-		"aura": [ "alien presence (180 ft., DC 23, sickened or nauseated 5d6 rounds)" ],
-		"heading": [
-			"Raskineya, the Dark Comet CR 16/MR 6",
-			"**Source** [Mythic Realms pg. 60](source:Mythic Realms)",
-			"**XP** 76,800",
-			"Female adult void dragon (see Pathfinder RPG Bestiary 4)",
-			"CE Huge dragon (mythic)",
-			"**Init** +11; **Senses** dragon senses, see in darkness; Perception +22",
-			"**Aura** alien presence (180 ft., DC 23, sickened or nauseated 5d6 rounds)"
-		],
-		"ac": {
-			"ac": 35,
-			"touch": 9,
-			"flatfooted": 34,
-			"bonuses": {
-				"dex": 1,
-				"natural": 26,
-				"size": -2
-			}
-		},
-		"hp": {
-			"hp": 260
-		},
-		"saves": {
-			"fort": 16,
-			"ref": 11,
-			"will": 15
-		},
-		"defensive_abilities": [
-			"dragon blood (1d8 cold)",
-			"DR 10/epic and magic"
-		],
-		"dr": [
-			10,
-			"epic and magic"
-		],
-		"immune": [
-			"cold",
-			"confusion",
-			"dragon traits",
-			"insanity effects",
-			"paralysis",
-			"sleep"
-		],
-		"sr": 30,
-		"defense": [
-			"**AC** 35, touch 9, flat-footed 34 (+1 Dex, +26 natural, -2 size)",
-			"**hp** 260 (16d12+156)",
-			"**Fort** +16, **Ref** +11, **Will** +15",
-			"**Defensive Abilities** dragon blood (1d8 cold), **DR** 10/epic and magic; **Immune** cold, confusion, dragon traits, insanity effects, paralysis, sleep; **SR** 30"
-		],
-		"speed": {
-			"land": 40,
-			"fly": 200,
-			"maneuverability": "good"
-		},
-		"space": 15,
-		"reach": 10,
-		"offense": [
-			"**Speed** 40 ft., fly 200 ft. (good); starflight",
-			"**Melee** bite +26 (2d8+15/19-20 plus 2d6 obliteration plus grab), 2 claws +24 (2d6+10), tail slap +22 (2d6+15), 2 wings +22 (1d8+5)",
-			"**Space** 15 ft., **Reach** 10 ft. (15 ft. with bite)",
-			"**Special Attacks** breath weapon (50-ft. cone, 12d8 cold, Reflex DC 24 half, usable every 1d4 rounds), crush, dual breath, dragon fury (1d8 cold), fast swallow, gaze of the void (DC 23), mythic power (6/day, surge +1d8), obliteration (DC 23), suffocating breath (DC 23), swallow whole (2d8 cold damage plus suffocating void, AC 23, 26 hp)",
-			"**Spell-Like Abilities (CL 16th; concentration +21)",
-			"At will-asral gloom, blur, ray of enfeeblement (DC 16), ray of exhaustion (DC 18)",
-			"**Sorcerer Spells Known ** (CL 7th; concentration +12)",
-			"3rd (5)-dispel magic, rage 2nd (7)-darkness, shatter, touch of idiocy 1st (8)-cause fear (DC 16), hypnotism (DC 16), mage armor, obscuring mist, true strike"
-		],
-		"str": 31,
-		"dex": 12,
-		"con": 23,
-		"int": 20,
-		"wis": 17,
-		"cha": 20,
-		"base_attack_bonus": 16,
-		"cmb": 28,
-		"cmd": 37,
-		"feats": [
-			"Flyby Attack",
-			"Hover",
-			"Improved Critical (bite)",
-			"Improved Initiative",
-			"Iron Will",
-			"Multiattack",
-			"Weapon Focus (bite)",
-			"Wingover"
-		],
-		"skills": [
-			"Acrobatics +17 (+21 when jumping)",
-			"Bluff +24",
-			"Fly +20",
-			"Intimidate +24",
-			"Knowledge (arcana, planes) +24",
-			"Perception +22",
-			"Sense Motive +22",
-			"Spellcraft +24",
-			"Stealth +20",
-			"Use Magic Device +24"
-		],
-		"statistics": [
-			"**Str** 31, **Dex** 12, **Con**: 23, **Int** 20, **Wis** 17, **Cha**, 20",
-			"**Base Atk** +16; **CMB** +28 (+32 grapple); **CMD** 37 (41 vs. grapple or trip)",
-			"**Feats** [Flyby Attack](feat:Flyby Attack), [Hover](feat:Hover), [Improved Critical (bite)](feat:Improved Critical), [Improved Initiative](feat:Improved Initiative), [Iron Will](feat:Iron Will), [Multiattack](feat:Multiattack), [Weapon Focus (bite)](feat:Weapon Focus), [Wingover](feat:Wingover)",
-			"**Skills** Acrobatics +17 (+21 when jumping), Bluff +24, Fly +20, Intimidate +24, Knowledge (arcana, planes) +24, Perception +22, Sense Motive +22, Spellcraft +24, Stealth +20, Use Magic Device +24; **Racial Modifiers** +4 Acrobatics when jumping, +8 Stealth",
-			"**Languages** Abyssal, Aklo, Celestial, Draconic, Infernal",
-			"**SQ** agile, breathless"
-		],
-		"special_abilities": [
-			"**Astral Gloom (Sp)** Raskineya can expend one use of mythic power to cast deeper darkness. Her caster level for this ability is equal to her Hit Dice. This darkness doesn't interfere with her alien presence or gaze of the void abilities.",
-			"**Dual Breath (Su)** Raskineya can expend one use of mythic power to use both her breath weapon and her suffocating breath simultaneously as a standard action. Both breath weapons affect the same 50-foot cone, and creatures caught in the cone must save separately against each effect.",
-			"**Suffocating Void (Su)** Creatures swallowed whole by Raskineya are exposed to the cold vacuum of space. In addition to the listed damage, the first time a creature begins its turn swallowed whole by Raskineya, it must succeed at a Fortitude save or begin to suffocate (as her suffocating breath ability). Even if it succeeds at this save, the creature can't breathe, speak, or cast spells with verbal components while it remains swallowed."
-		],
-		"description": [
-			"Void dragons are a cursed race, born on the boundary between rational space and the vast unknowable nothingness that lurks between the stars. They are not typically evil, but few escape the notice of the unnamable beings that dwell within that distant void. The fortunate ones resist the fell influence of the Dark Tapestry and survive with their minds intact.",
-			"Raskineya was not one of the fortunate ones. The taint of the void shattered her mind, driving her to mindless violence and destruction. In her madness she sought out the inner planets of Golarion's solar system, plunging into the gravity wells of the inhabited worlds to feed and raze before fleeing back to the stars and plotting her next attack.",
-			"This urge to destroy is what brought her to the attention of the cult of Rovagug. Priests of the Rough Beast often enslave powerful creatures to serve as proxies for their shackled god and guardians for their hidden temples, and Raskineya's savagery and madness made her an excellent prospect. The priests called to the stars, whispering promises of blood to the dragon to lure her into their waiting clutches. In her unthinking madness, she was no match for the cunning priests, and soon she was subdued, shackled, and locked in a cavern hidden deep within the earth.",
-			"Raskineya languished at first, longing to once again fly to the stars and seek exotic new prey. Yet the priests had not lied to her when they promised her blood. She was given sacrifices and allowed to hunt and feed within her underground prison. With each such sacrifice, she not only grew stronger and more focused, but also found began to understand the prayers given to her. This world was promised to Rovagug, and he would have it. All worlds were promised to him, and he would destroy them all. Even the gods themselves would fall to his power, and in his wake only nothingness would remain. Raskineya found in Rovagug something she had not realized she was searching for: someone to champion. If she could but release this Unmaker, she could at long last have vengeance upon this existence, and upon the nameless ones who drew her here. All that would be left in his wake would be nothingness, and to nothingness her heart longed to return.",
-			"With her newfound sense of purpose, Raskineya turned upon her captors. Her mind intact for the first time in centuries, she quickly overpowered them. First, she swallowed the high priest alive, consuming his life and essence to fuel her ascension. Then she enslaved the priests, and commanded them to find her a way to unleash their god upon the world once more. From them she learned of a prophecy, set down by the oracles of the brimstone haruspex, that a dark comet would herald the return of Gormuz-the first and most powerful of Rovagug's spawn-who would in turn unleash the Rough Beast himself. Raskineya sees herself as this dark comet, and demands all those who address her to call her by that name (with a slow death awaiting to those who do not).",
-			"In the years since her ascension, Raskineya first scoured the world searching for the Star Towers-artifacts created by the gods to strengthen Rovagug's prison. The dragon was certain that if she could locate the first of these towers and destroy it, the rest will fall like dominoes, weakening the foundations of Rovagug's prison enough to allow his escape. She moved from Star Tower to Star Tower, searching for clues as to the location of the original. She last conquered the Star Tower of Vekheen, winning it from a paladin of Sarenrae named Dazma the Bright, who had learned of the dragon's design on the tower and marshaled an army to defend it. Raskineya vanquished Dazma and her army by dragging meteors from the sky to drop on the Sarenites. Those who survived the initial bombardment were savaged by akatas carried within the meteors, leaving the remainder easy pickings for the dragon.",
-			"Though it seemed she was getting closer to her goal, Raskineya's devotion to Rovagug made her actions unpredictable. Just as she conquered the Star Tower of Vekheen, she heard a pressing call she believed came from Rovagug himself. She flew to the Pit of Gormuz, where she made a den in the Crater of Carnal Joining in anticipation of the Rough Beast's arrival. There she waits, conducting horrific rituals to attract his attention. She brought with her the Sarenite survivors of the raid on the Star Tower, who she keeps alive as subjects for her rites. Once noble soldiers, they're now maimed and driven mad, kept in perpetual darkness within a small cave in Raskineya's lair. The warriors of the Maimed Legion, as she calls them, see light only when they're being tortured."
-		],
-		"short_description": "This spined dragon has black scales that pulse with green light. Her tattered wings show a starscape that whirls in mad patterns."
-	},
-	{
-		"monster_name": "The First Owlbear",
-		"file": "mythicmonsterdisplaya1d2.html",
-		"sources": [ "Mythic Adventures" ],
-		"cr": 10,
-		"mr": 4,
-		"xp": 9600,
-		"levels": "Advanced mythic owlbear",
-		"alignment": "N",
-		"size": "large",
-		"type": "magical beast",
-		"subtypes": [ "mythic" ],
-		"initiative": 10,
-		"senses": [
-			"darkvision 60 ft.",
-			"low-light vision",
-			"scent"
-		],
-		"perception": 16,
-		"heading": [
-			"The First Owlbear CR 10/MR 4",
-			"**Source** [Mythic Adventures pg. 213](source:Mythic Adventures)",
-			"**XP** 9,600",
-			"Advanced mythic owlbear",
-			"N Large magical beast (mythic)",
-			"**Init** +10; **Senses** darkvision 60 ft., low-light vision, scent; Perception +16"
-		],
-		"ac": {
-			"ac": 23,
-			"touch": 11,
-			"flatfooted": 21,
-			"bonuses": {
-				"dex": 2,
-				"natural": 12,
-				"size": -1
-			}
-		},
-		"hp": {
-			"hp": 165,
-			"fast_healing": 5
-		},
-		"saves": {
-			"fort": 16,
-			"ref": 9,
-			"will": 7
-		},
-		"dr": [
-			5,
-			"epic"
-		],
-		"sr": 21,
-		"defense": [
-			"**AC** 23, touch 11, flat-footed 21 (+2 Dex, +12 natural, -1 size)",
-			"**hp** 165 (10d10+110); fast healing 5",
-			"**Fort** +16, **Ref** +9, **Will** +7",
-			"**DR** 5/epic; **SR** 21"
-		],
-		"speed": {
-			"land": 30,
-			"fly": 60,
-			"maneuverability": "average"
-		},
-		"space": 10,
-		"reach": 5,
-		"offense": [
-			"**Speed** 30 ft., fly 60 ft. (average)",
-			"**Melee** bite +17 (2d6+8), 2 claws +18 (1d8+8 plus grab)",
-			"**Space** 10 ft., **Reach** 5 ft.",
-			"**Special Attacks** disorienting pounce, mythic power (4/day, surge +1d8), pounce, rend (2 claws, 1d8+12)"
-		],
-		"str": 27,
-		"dex": 14,
-		"con": 24,
-		"int": 2,
-		"wis": 14,
-		"cha": 10,
-		"base_attack_bonus": 10,
-		"cmb": 19,
-		"cmd": 31,
-		"feats": [
-			"Great Fortitude",
-			"Improved Initiative",
-			"Iron Will",
-			"Skill Focus (Perception)",
-			"Weapon Focus (claws)"
-		],
-		"skills": [
-			"Fly +5",
-			"Perception +16"
-		],
-		"statistics": [
-			"**Str** 27, **Dex** 14, **Con**: 24, **Int** 2, **Wis** 14, **Cha**, 10",
-			"**Base Atk** +10; **CMB** +19 (+23 grapple); **CMD** 31 (35 vs. trip)",
-			"**Feats** [Great Fortitude](feat:Great Fortitude), [Improved Initiative](feat:Improved Initiative), [Iron Will](feat:Iron Will), [Skill Focus (Perception)](feat:Skill Focus), [Weapon Focus (claws)](feat:Weapon Focus)",
-			"**Skills** Fly +5, Perception +16",
-			"**SQ** immortal (see page 13)"
-		],
-		"environment": "temperate forests",
-		"organization": "solitary, pair, or pack (3-8)",
-		"treasure": "incidental",
-		"ecology": [
-			"**Environment** temperate forests",
-			"**Organization** solitary, pair, or pack (3-8)",
-			"**Treasure** incidental"
-		],
-		"description": [ "Though created long ago, the very first owlbear still lives. Fecund, nomadic and cantankerous, the First Owlbear's offspring are always owlbears, whether the mother is a bear, a giant owl, or an owlbear. He brings his \"harem\" of mates with him when he hunts, driving them off when he tires of their company or food becomes scarce." ],
-		"short_description": "This owlbear seems lean and especially mean, and moves with a spookily silent grace."
-	},
-	{
-		"monster_name": "The Whispering Tyrant",
-		"file": "mythicmonsterdisplay8929.html",
-		"sources": [ "Mythic Realms" ],
-		"cr": 26,
-		"mr": 10,
-		"xp": 2457600,
-		"levels": "Human mythic lich necromancer 20",
-		"alignment": "NE",
-		"size": "medium",
-		"type": "undead",
-		"subtypes": [ "augmented humanoid", "human", "mythic" ],
-		"initiative": 18,
-		"senses": [
-			"darkvision 60 ft.",
-			"see in darkness",
-			"spell perception"
-		],
-		"perception": 33,
-		"aura": [ "absolute terror (60-ft. radius, DC 39)" ],
-		"heading": [
-			"The Whispering Tyrant CR 26/MR 10",
-			"**Source** [Mythic Realms pg. 62](source:Mythic Realms)",
-			"**XP** 2,457,600",
-			"Human mythic lich necromancer 20 (Pathfinder RPG Mythic Adventures 206)",
-			"NE Medium undead (augmented humanoid, human, mythic)",
-			"**Init** +18; **Senses** darkvision 60 ft., see in darkness, spell perception; Perception +33",
-			"**Aura** absolute terror (60-ft. radius, DC 39)"
-		],
-		"ac": {
-			"ac": 46,
-			"touch": 19,
-			"flatfooted": 42,
-			"bonuses": {
-				"armor": 8,
-				"deflection": 5,
-				"dex": 4,
-				"natural": 19
-			}
-		},
-		"hp": {
-			"hp": 392
-		},
-		"saves": {
-			"fort": 21,
-			"ref": 16,
-			"will": 22
-		},
-		"defensive_abilities": [
-			"channel resistance +12",
-			"rejuvenation"
-		],
-		"dr": [
-			15,
-			"bludgeoning and magic"
-		],
-		"immune": [
-			"acid",
-			"channel energy from non-mythic sources",
-			"cold",
-			"electricity",
-			"undead traits"
-		],
-		"resist": {},
-		"sr": 42,
-		"defense": [
-			"**AC** 46, touch 19, flat-footed 42 (+8 armor, +5 deflection, +4 Dex, +19 natural)",
-			"**hp** 392 (20d6+320)",
-			"**Fort** +21, **Ref** +16, **Will** +22",
-			"**Defensive Abilities** channel resistance +12, rejuvenation; **DR** 15/bludgeoning and magic; **Immune** acid, channel energy from non-mythic sources, cold, electricity, undead traits; **Resist** half damage from positive energy; **SR** 42"
-		],
-		"speed": {
-			"land": 30
-		},
-		"space": 5,
-		"reach": 5,
-		"offense": [
-			"**Speed** 30 ft.",
-			"**Melee** +2 keen wounding dagger +15/+10 (1d4+5/19-20), touch +8 (1d8+10 plus 5d6 negative energy plus paralysis)",
-			"**Special Attacks** animate touch, channel negative energy (DC 29, 16/day), immediate counterspell, mythic power (12/day, surge +1d12), mythic spells (2/day), paralyzing touch (DC 39), wild arcana",
-			"**Necromancer Spells Prepared ** (CL 20th; concentration +39)",
-			"9th-energy drain (DC 36), foresight, mage's disjunction, meteor swarm (DC 32), time stop, wail of the banshee (DC 36), wish",
-			"8th-empowered disintegrate, horrid wilting (DC 35), maze, moment of prescience, power word stun, protection from spells, trap the soul",
-			"7th-finger of death (2, DC 34), force cage, greater scrying (DC 30), limited wish, quickened fireball, spell turning",
-			"6th-acid fog, disintegrate (DC 29), greater dispel magic (2), repulsion (DC 29), true seeing, empowered vampiric touch",
-			"5th-cone of cold (DC 28), silent dimension door, dismissal (DC 28), dominate person (DC 28), quickened magic missile (2), wall of force, waves of fatigue",
-			"4th-black tentacles, detect scrying, dimension door, enervation (2), greater invisibility, empowered scorching ray, stoneskin",
-			"3rd-dispel magic (2), displacement, fireball (DC 26), fly, haste, vampiric touch (2)",
-			"2nd-detect thoughts (DC 25), false life (2), resist energy (3), extended shield (2)",
-			"1st-expeditious retreat, grease, magic missile (3), ray of enfeeblement (2, DC 28), true strike (2)",
-			"0 (at will)-detect magic, mage hand, message, read magic",
-			"**Opposition Schools** enchantment, illusion"
-		],
-		"str": 14,
-		"dex": 19,
-		"con": null,
-		"int": 36,
-		"wis": 14,
-		"cha": 28,
-		"base_attack_bonus": 10,
-		"cmb": 12,
-		"cmd": 19,
-		"feats": [
-			"Command Undead",
-			"Craft Construct",
-			"Craft Wondrous Item",
-			"Empower Spell",
-			"Eschew Materials",
-			"Extend Spell",
-			"Extra Mythic Power",
-			"Greater Spell Focus (necromancy)",
-			"Improved Initiative",
-			"Improved Iron Will",
-			"Iron Will",
-			"Mythic Spell Lore",
-			"Quicken Spell",
-			"Scribe Scroll",
-			"Silent Spell",
-			"Spell Focus (necromancy)",
-			"Spell Penetration",
-			"Still Spell",
-			"Toughness"
-		],
-		"skills": [
-			"Acrobatics +25",
-			"Bluff +30",
-			"Diplomacy +30",
-			"Escape Artist +25",
-			"Fly +28",
-			"Intimidate +33",
-			"Knowledge (arcana, dungeoneering, history, planes, religion) +37",
-			"Perception +34",
-			"Sense Motive +34",
-			"Spellcraft +37",
-			"Stealth +36",
-			"Use Magic Device +30"
-		],
-		"statistics": [
-			"**Str** 14, **Dex** 19, **Con**: -, **Int** 36, **Wis** 14, **Cha**, 28",
-			"**Base Atk** +10; **CMB** +12; **CMD** 19",
-			"**Feats** [Command Undead](feat:Command Undead), [Craft Construct](feat:Craft Construct), [Craft Wondrous Item](feat:Craft Wondrous Item), [Empower Spell](feat:Empower Spell), [Eschew Materials](feat:Eschew Materials), [Extend Spell](feat:Extend Spell), [Extra Mythic Power](feat:Extra Mythic Power), [Greater Spell Focus (necromancy)](feat:Greater Spell Focus), [Improved Initiative](feat:Improved Initiative), [Improved Iron Will](feat:Improved Iron Will), [Iron Will](feat:Iron Will), [Mythic Spell Lore](feat:Mythic Spell Lore), [Quicken Spell](feat:Quicken Spell), [Scribe Scroll](feat:Scribe Scroll), [Silent Spell](feat:Silent Spell), [Spell Focus (necromancy)](feat:Spell Focus), [Spell Penetration](feat:Spell Penetration), [Still Spell](feat:Still Spell), [Toughness](feat:Toughness)",
-			"**Skills** Acrobatics +25, Bluff +30, Diplomacy +30, Escape Artist +25, Fly +28, Intimidate +33, Knowledge (arcana, dungeoneering, history, planes, religion) +37, Perception +34, Sense Motive +34, Spellcraft +37, Stealth +36, Use Magic Device +30; **Racial Modifiers** +8 Perception, +8 Sense Motive, +8 Stealth",
-			"**Languages** Abyssal, Aklo, Celestial, Common, Draconic, Dwarven, Elven, Giant, Infernal, Orc, Undercommon",
-			"**SQ** arcane bond (amulet), life sight (40 feet, 20 rounds/day), mythic phylactery, perfect necromancer",
-			"**Combat Gear** greater silent metamagic rod, maximize metamagic rod, quicken metamagic rod, scrolls (contingency, discern location, gate, greater teleport, harm [2], mage's disjunction, mass charm monster, project image, soul bind, time stop, and wish), wand of inflict critical wounds; **Other Gear** +2 keen wounding dagger, amulet of natural armor +4, belt of physical might +4 (Str, Dex), boots of teleportation, bracers of armor +8, cloak of resistance +5, gloves of the shortened path, headband of mental prowess +6 (Int, Cha), Horns of Naraga, lavender and green ellipsoid ioun stone, pale green prism ioun stone, ring of protection +5, robe of the archmagi (black), tyrant's ring (minor artifact, acts as a ring of freedom of movement and a ring of greater spell storing containing antilife shell and spell immunity), unfettered shirt"
-		],
-		"special_abilities": [
-			"**Animate Touch (Su)** As a standard action, the Whispering Tyrant can touch a dead creature and animate it as a skeleton or zombie, as if using animate dead. He can expend one use of mythic power when using this ability to animate the body as a different type of undead, as if using greater create undead. The Whispering Tyrant treats his total Hit Dice as his caster level for these effects. Undead created in this way are automatically under his control. The Whispering Tyrant does not need to expend any material components when using this ability. This ability replaces the creeping paralysis mythic lich ability.",
-			"**Aura of Absolute Terror (Su)** Living creatures within 60 feet of the Whispering Tyrant are paralyzed by absolute terror for 1d4 rounds, after which they are shaken as long as they remain within his aura. Once a creature has been paralyzed by this aura, it is immune for 24 hours. Mythic creatures receive a DC 29 Will save to negate the paralysis, but are still shaken as long as they remain within the aura. This is a mind-affecting fear effect. This ability replaces the formidable animation mythic lich ability.",
-			"**Perfect Necromancer (Ex)** The Whispering Tyrant can prepare spells from his opposition schools without needing to expend an additional spell slot. He always succeeds at concentration checks to cast spells. He can have any number of undead under his control, and he is not limited by the total Hit Dice of those undead. This ability replaces the enhanced spellcasting mythic lich ability."
-		],
-		"description": [
-			"The Whispering Tyrant was perhaps the greatest threat that the people of the Inner Sea have ever known. Even after his defeat atop Gallowspire, he wasn't finished. The forces that brought him low had no choice but to seal him within the tower that was once his capital.",
-			"Before becoming a lich, the Whispering Tyrant was a powerful necromancer by the name Tar-Baphon. Though his origins are lost to time, it's thought that he grew up on the shores of Lake Encarthan, where he first studied the necromantic arts. As his power grew, so did his ambition, eventually leading him to the Cenotaph, the resting place of the slumbering runelord of gluttony. After unlocking the powers of Zutha, Tar-Baphon gained power beyond that of mortals. He realized then that true greatness required bringing the world itself under his control-alive or dead, all would serve him.",
-			"His campaign was brutal. Enlisting nearby orcs and undead, he quickly conquered Ustalav and began a conquest that consumed most of central Avistan. He set down stones on the Isle of Terror, intent upon making it his capital. His actions drew the attention of Aroden, the Last Azlanti, who knew what destruction the runelords had caused, and refused to allow the world to return to those ancient ways. The two met on the Isle of Terror in 896 ar. The battle raged for days and leveled the entire surface of the island. Tar-Baphon's broken form lay among the rubble, and Aroden buried him there, thinking that was the end of the threat.",
-			"However, Tar-Baphon had intended to die by Aroden's hand all along. His studies had revealed to him that his only true path to immortality lay in undeath. For Tar-Baphon's last step in becoming a lich beyond compare, he needed to be killed by a god, and Aroden served this purpose. The process sparked by Aroden took time, however, and for 2,307 years Tar-Baphon's body laid dead in the ground before he returned to grim unlife. The Whispering Tyrant was born.",
-			"He soon reestablished his power, animating thousands of dead. For centuries, the forces of the living were unable to resist the tide of the dead-with Aroden gone, nothing could stop the Whispering Tyrant. Only the Shining Crusade had a chance to end his threat. Bearing the Shield of Aroden, General Arnisant faced the lich, but when the Whispering Tyrant used a wish to summon the general's heart to his waiting claw, the symbol of Aroden flared to life, the shield shattered, and the lich's body was destroyed. Without a means to locate the Tyrant's phylactery, let alone destroy it, the crusaders instead sealed him away in his tower, where their descendants remain ever watchful for his return."
-		],
-		"short_description": "Clad in ancient leather and bronze and a great horned helm, this withered gray figure is surrounded by a palpable aura of death."
-	}
-]
+		{
+			"name": "The Whispering Tyrant",
+			"file": "mythicmonsterdisplay8929.html",
+			"sources": [ "Mythic Realms" ],
+			"cr": 26,
+			"mr": 10,
+			"xp": 2457600,
+			"levels": "Human mythic lich necromancer 20",
+			"alignment": "NE",
+			"size": "medium",
+			"type": "undead",
+			"subtypes": [ "augmented humanoid", "human", "mythic" ],
+			"initiative": 18,
+			"senses": [
+				"darkvision 60 ft.",
+				"see in darkness",
+				"spell perception"
+			],
+			"perception": 33,
+			"aura": [ "absolute terror (60-ft. radius, DC 39)" ],
+			"heading": [
+				"The Whispering Tyrant CR 26/MR 10",
+				"**Source** [Mythic Realms pg. 62](source:Mythic Realms)",
+				"**XP** 2,457,600",
+				"Human mythic lich necromancer 20 (Pathfinder RPG Mythic Adventures 206)",
+				"NE Medium undead (augmented humanoid, human, mythic)",
+				"**Init** +18; **Senses** darkvision 60 ft., see in darkness, spell perception; Perception +33",
+				"**Aura** absolute terror (60-ft. radius, DC 39)"
+			],
+			"ac": {
+				"ac": 46,
+				"touch": 19,
+				"flatfooted": 42,
+				"bonuses": {
+					"armor": 8,
+					"deflection": 5,
+					"dex": 4,
+					"natural": 19
+				}
+			},
+			"hp": {
+				"hp": 392
+			},
+			"saves": {
+				"fort": 21,
+				"ref": 16,
+				"will": 22
+			},
+			"defensive_abilities": [
+				"channel resistance +12",
+				"rejuvenation"
+			],
+			"dr": [
+				15,
+				"bludgeoning and magic"
+			],
+			"immune": [
+				"acid",
+				"channel energy from non-mythic sources",
+				"cold",
+				"electricity",
+				"undead traits"
+			],
+			"resist": {},
+			"sr": 42,
+			"defense": [
+				"**AC** 46, touch 19, flat-footed 42 (+8 armor, +5 deflection, +4 Dex, +19 natural)",
+				"**hp** 392 (20d6+320)",
+				"**Fort** +21, **Ref** +16, **Will** +22",
+				"**Defensive Abilities** channel resistance +12, rejuvenation; **DR** 15/bludgeoning and magic; **Immune** acid, channel energy from non-mythic sources, cold, electricity, undead traits; **Resist** half damage from positive energy; **SR** 42"
+			],
+			"speed": {
+				"land": 30
+			},
+			"space": 5,
+			"reach": 5,
+			"offense": [
+				"**Speed** 30 ft.",
+				"**Melee** +2 keen wounding dagger +15/+10 (1d4+5/19-20), touch +8 (1d8+10 plus 5d6 negative energy plus paralysis)",
+				"**Special Attacks** animate touch, channel negative energy (DC 29, 16/day), immediate counterspell, mythic power (12/day, surge +1d12), mythic spells (2/day), paralyzing touch (DC 39), wild arcana",
+				"**Necromancer Spells Prepared ** (CL 20th; concentration +39)",
+				"9th-energy drain (DC 36), foresight, mage's disjunction, meteor swarm (DC 32), time stop, wail of the banshee (DC 36), wish",
+				"8th-empowered disintegrate, horrid wilting (DC 35), maze, moment of prescience, power word stun, protection from spells, trap the soul",
+				"7th-finger of death (2, DC 34), force cage, greater scrying (DC 30), limited wish, quickened fireball, spell turning",
+				"6th-acid fog, disintegrate (DC 29), greater dispel magic (2), repulsion (DC 29), true seeing, empowered vampiric touch",
+				"5th-cone of cold (DC 28), silent dimension door, dismissal (DC 28), dominate person (DC 28), quickened magic missile (2), wall of force, waves of fatigue",
+				"4th-black tentacles, detect scrying, dimension door, enervation (2), greater invisibility, empowered scorching ray, stoneskin",
+				"3rd-dispel magic (2), displacement, fireball (DC 26), fly, haste, vampiric touch (2)",
+				"2nd-detect thoughts (DC 25), false life (2), resist energy (3), extended shield (2)",
+				"1st-expeditious retreat, grease, magic missile (3), ray of enfeeblement (2, DC 28), true strike (2)",
+				"0 (at will)-detect magic, mage hand, message, read magic",
+				"**Opposition Schools** enchantment, illusion"
+			],
+			"str": 14,
+			"dex": 19,
+			"con": null,
+			"int": 36,
+			"wis": 14,
+			"cha": 28,
+			"base_attack_bonus": 10,
+			"cmb": 12,
+			"cmd": 19,
+			"feats": [
+				"Command Undead",
+				"Craft Construct",
+				"Craft Wondrous Item",
+				"Empower Spell",
+				"Eschew Materials",
+				"Extend Spell",
+				"Extra Mythic Power",
+				"Greater Spell Focus (necromancy)",
+				"Improved Initiative",
+				"Improved Iron Will",
+				"Iron Will",
+				"Mythic Spell Lore",
+				"Quicken Spell",
+				"Scribe Scroll",
+				"Silent Spell",
+				"Spell Focus (necromancy)",
+				"Spell Penetration",
+				"Still Spell",
+				"Toughness"
+			],
+			"skills": [
+				"Acrobatics +25",
+				"Bluff +30",
+				"Diplomacy +30",
+				"Escape Artist +25",
+				"Fly +28",
+				"Intimidate +33",
+				"Knowledge (arcana, dungeoneering, history, planes, religion) +37",
+				"Perception +34",
+				"Sense Motive +34",
+				"Spellcraft +37",
+				"Stealth +36",
+				"Use Magic Device +30"
+			],
+			"statistics": [
+				"**Str** 14, **Dex** 19, **Con**: -, **Int** 36, **Wis** 14, **Cha**, 28",
+				"**Base Atk** +10; **CMB** +12; **CMD** 19",
+				"**Feats** [Command Undead](feat:Command Undead), [Craft Construct](feat:Craft Construct), [Craft Wondrous Item](feat:Craft Wondrous Item), [Empower Spell](feat:Empower Spell), [Eschew Materials](feat:Eschew Materials), [Extend Spell](feat:Extend Spell), [Extra Mythic Power](feat:Extra Mythic Power), [Greater Spell Focus (necromancy)](feat:Greater Spell Focus), [Improved Initiative](feat:Improved Initiative), [Improved Iron Will](feat:Improved Iron Will), [Iron Will](feat:Iron Will), [Mythic Spell Lore](feat:Mythic Spell Lore), [Quicken Spell](feat:Quicken Spell), [Scribe Scroll](feat:Scribe Scroll), [Silent Spell](feat:Silent Spell), [Spell Focus (necromancy)](feat:Spell Focus), [Spell Penetration](feat:Spell Penetration), [Still Spell](feat:Still Spell), [Toughness](feat:Toughness)",
+				"**Skills** Acrobatics +25, Bluff +30, Diplomacy +30, Escape Artist +25, Fly +28, Intimidate +33, Knowledge (arcana, dungeoneering, history, planes, religion) +37, Perception +34, Sense Motive +34, Spellcraft +37, Stealth +36, Use Magic Device +30; **Racial Modifiers** +8 Perception, +8 Sense Motive, +8 Stealth",
+				"**Languages** Abyssal, Aklo, Celestial, Common, Draconic, Dwarven, Elven, Giant, Infernal, Orc, Undercommon",
+				"**SQ** arcane bond (amulet), life sight (40 feet, 20 rounds/day), mythic phylactery, perfect necromancer",
+				"**Combat Gear** greater silent metamagic rod, maximize metamagic rod, quicken metamagic rod, scrolls (contingency, discern location, gate, greater teleport, harm [2], mage's disjunction, mass charm monster, project image, soul bind, time stop, and wish), wand of inflict critical wounds; **Other Gear** +2 keen wounding dagger, amulet of natural armor +4, belt of physical might +4 (Str, Dex), boots of teleportation, bracers of armor +8, cloak of resistance +5, gloves of the shortened path, headband of mental prowess +6 (Int, Cha), Horns of Naraga, lavender and green ellipsoid ioun stone, pale green prism ioun stone, ring of protection +5, robe of the archmagi (black), tyrant's ring (minor artifact, acts as a ring of freedom of movement and a ring of greater spell storing containing antilife shell and spell immunity), unfettered shirt"
+			],
+			"special_abilities": [
+				"**Animate Touch (Su)** As a standard action, the Whispering Tyrant can touch a dead creature and animate it as a skeleton or zombie, as if using animate dead. He can expend one use of mythic power when using this ability to animate the body as a different type of undead, as if using greater create undead. The Whispering Tyrant treats his total Hit Dice as his caster level for these effects. Undead created in this way are automatically under his control. The Whispering Tyrant does not need to expend any material components when using this ability. This ability replaces the creeping paralysis mythic lich ability.",
+				"**Aura of Absolute Terror (Su)** Living creatures within 60 feet of the Whispering Tyrant are paralyzed by absolute terror for 1d4 rounds, after which they are shaken as long as they remain within his aura. Once a creature has been paralyzed by this aura, it is immune for 24 hours. Mythic creatures receive a DC 29 Will save to negate the paralysis, but are still shaken as long as they remain within the aura. This is a mind-affecting fear effect. This ability replaces the formidable animation mythic lich ability.",
+				"**Perfect Necromancer (Ex)** The Whispering Tyrant can prepare spells from his opposition schools without needing to expend an additional spell slot. He always succeeds at concentration checks to cast spells. He can have any number of undead under his control, and he is not limited by the total Hit Dice of those undead. This ability replaces the enhanced spellcasting mythic lich ability."
+			],
+			"description": [
+				"The Whispering Tyrant was perhaps the greatest threat that the people of the Inner Sea have ever known. Even after his defeat atop Gallowspire, he wasn't finished. The forces that brought him low had no choice but to seal him within the tower that was once his capital.",
+				"Before becoming a lich, the Whispering Tyrant was a powerful necromancer by the name Tar-Baphon. Though his origins are lost to time, it's thought that he grew up on the shores of Lake Encarthan, where he first studied the necromantic arts. As his power grew, so did his ambition, eventually leading him to the Cenotaph, the resting place of the slumbering runelord of gluttony. After unlocking the powers of Zutha, Tar-Baphon gained power beyond that of mortals. He realized then that true greatness required bringing the world itself under his control-alive or dead, all would serve him.",
+				"His campaign was brutal. Enlisting nearby orcs and undead, he quickly conquered Ustalav and began a conquest that consumed most of central Avistan. He set down stones on the Isle of Terror, intent upon making it his capital. His actions drew the attention of Aroden, the Last Azlanti, who knew what destruction the runelords had caused, and refused to allow the world to return to those ancient ways. The two met on the Isle of Terror in 896 ar. The battle raged for days and leveled the entire surface of the island. Tar-Baphon's broken form lay among the rubble, and Aroden buried him there, thinking that was the end of the threat.",
+				"However, Tar-Baphon had intended to die by Aroden's hand all along. His studies had revealed to him that his only true path to immortality lay in undeath. For Tar-Baphon's last step in becoming a lich beyond compare, he needed to be killed by a god, and Aroden served this purpose. The process sparked by Aroden took time, however, and for 2,307 years Tar-Baphon's body laid dead in the ground before he returned to grim unlife. The Whispering Tyrant was born.",
+				"He soon reestablished his power, animating thousands of dead. For centuries, the forces of the living were unable to resist the tide of the dead-with Aroden gone, nothing could stop the Whispering Tyrant. Only the Shining Crusade had a chance to end his threat. Bearing the Shield of Aroden, General Arnisant faced the lich, but when the Whispering Tyrant used a wish to summon the general's heart to his waiting claw, the symbol of Aroden flared to life, the shield shattered, and the lich's body was destroyed. Without a means to locate the Tyrant's phylactery, let alone destroy it, the crusaders instead sealed him away in his tower, where their descendants remain ever watchful for his return."
+			],
+			"short_description": "Clad in ancient leather and bronze and a great horned helm, this withered gray figure is surrounded by a palpable aura of death."
+		}
+	]
+}
