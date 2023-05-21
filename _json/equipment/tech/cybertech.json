@@ -1,668 +1,786 @@
 {
-	"_information": {
-		"description": [
-			"Cybertech is a form of technology that must be surgically implanted into a host body before it functions. Cybertech takes up a special set of slots that correspond to a creature's body. Most cybertech is designed for a creature with a humanoid shape-installing cybertech in a non-humanoid-shaped body is more difficult, but possible.",
-			"Each piece of cybertech has an implantation value that indicates how invasive the implant is. The total combined implantation values of all cybertech implanted in a single creature can't exceed either that creature's Constitution score or Intelligence score-a creature's Constitution sets the physical limit of what its body can accept in the form of cybernetic implants, while the creature's Intelligence sets the mental limit of what its brain can control. An implant whose implantation value would cause the total to exceed either of these two scores does not function but still takes up a body slot. In addition, as long as a character has cybernetic implants installed whose combined implantation exceeds his Constitution or Intelligence, he takes a -4 penalty on all saving throws.",
-			"A creature with neither a Constitution score nor an Intelligence score cannot receive benefits from cybertech, but a creature with only one of these scores can.",
-			"Installing a piece of cybertech takes a number of hours equal to the cybertech's implantation value if the installation is done by hand-certain technological items can speed this installation time. The target must be willing or helpless during the entire installation, at the end of which the installer attempts a Heal check against the cybertech's Install DC-this specific value is listed for each cybertech item. On a success, the target takes Constitution damage equal to the cybertech's implantation value and the cybertech immediately activates. On a failed check, the target still takes the Constitution damage but the installation fails; a new attempt to install the cybertech can be made, although it's wise to wait for the Constitution damage to heal before trying again.",
-			"Cybertech can be extracted using the same procedure as implanting it, with a failed Heal check indicating the attempt to extract the item failed. Fortunately, extraction is a simpler task than installment, and Heal checks to remove cybertech gain a +10 bonus. Extracting a piece of cybertech from a dead body requires no Heal check but takes a number of rounds equal to the cybertech's implantation value. You can only install or extract a single piece of cybertech at a time.",
-			"An NPC generally charges an amount equal to 1/10 the total price of a piece of cybertech for the service of installing the item.",
-			"Each piece of cybertech has a full description, including a set of abbreviated statistics at the start. This information is organized as follows.",
-			"**Price:** This is the cost in gold pieces to buy the implant if it's available for sale. This value does not include the cost to have the object surgically implanted. As with magic items, a piece of cybertech can be sold by PCs for half this value.",
-			"**Slot:** This is the part of the body into which the cybertech must be implanted. A single slot can only ever host a single piece of cybertech. Cybertech slots are separate from normal magic item slots and do not count as being used for the purposes of worn magic items.",
-			"**Weight:** This is the weight of the cybertech in pounds. Once installed, the cybertech's weight does not count against a creature's encumbrance or maximum load.",
-			"**Install:** This is the Heal check DC required to successfully implant or remove the cybertech from a creature.",
-			"**Implantation:** A numerical value indicating how invasive the cybertech is. The higher the number, the more invasive the cybertech. Implantation influences the time and difficulty of installing and removing the cybertech.",
-			"**Description:** This section describes the cybertech's appearance and abilities.",
-			"**Construction:** Certain requirements must be met for a character to craft cybertech. These requirements generally consist of having a feat and access to a manufacturing facility (see page 16).",
-			"**Craft:** This is the Craft DC required to create the cybertech. It is also the Knowledge (engineering) DC to  correctly identify the cybertech.",
-			"**Cost:** This is the cost in gold pieces to create the item. Generally this cost is equal to half the price of the item"
-		]
-	},
-	"Cybernetic Legs": {
-		"equipmentname": "Cybernetic Legs",
-		"file": "equipmenttechcybertechdisplay4f21.html",
-		"sources": [ "Technology Guide" ],
-		"type": "tech cybertech",
-		"cost": 8500,
-		"weight": 12,
-		"slot": "legs",
-		"implantation": 4,
-		"install": 28,
-		"heading": [
-			"**Cybernetic Legs**",
-			"**Source** [Technology Guide pg. 37](source:Technology Guide)",
-			"**Price** 8,500 gp",
-			"**Slot** legs; **Weight** 12 lbs.",
-			"**Install** DC 28; **Implantation** 4"
-		],
-		"construction": [
-			"Craft DC 25; Cost 4,250 gp",
-			"Craft Cybertech, cybernetics lab"
-		],
-		"description": [
-			"A cybernetic leg completely replaces a normal leg, from the hip to the foot. It can take the place of a leg lost to a severing wound. The leg is fully functional and no different in appearance from a regular leg, although cyberart can be added to the leg at no additional cost. A cybernetic leg does not increase a user's Strength score. If both legs are replaced, they increase the user's base land speed by 10 feet and grant a +5 bonus to CMD against trip attempts and a +5 circumstance bonus on Acrobatics checks.",
-			"The listed price, implantation, and install DC are for having two legs installed. A single cybernetic leg costs half the price and half the listed implantation value, but no significant bonus is granted to a creature with only one cybernetic leg. Both legs (or all legs, in the case of multilegged creatures) must be replaced for the above benefits to take effect."
-		]
-	},
-	"Cranial Bomb": {
-		"equipmentname": "Cranial Bomb",
-		"file": "equipmenttechcybertechdisplay9fc5.html",
-		"sources": [ "Technology Guide" ],
-		"type": "tech cybertech",
-		"cost": 4500,
-		"weight": 0.5,
-		"slot": "head",
-		"implantation": 1,
-		"install": 25,
-		"heading": [
-			"**Cranial Bomb**",
-			"**Source** [Technology Guide pg. 35](source:Technology Guide)",
-			"**Price** 4,500 gp",
-			"**Slot** head; **Weight** 1/2 lb.",
-			"**Install** DC 25; **Implantation** 1"
-		],
-		"construction": [
-			"Craft DC 20; Cost 2,250 gp",
-			"Craft Cybertech, cybernetics lab"
-		],
-		"description": [
-			"A cranial bomb is a bomb implanted at the base of the skull that explodes when remotely activated by a detonator's (see page 43) signal. Though normally implanted, a cranial bomb can also be detonated outside of a body. If detonated while implanted, it deals 2d6 points of bludgeoning damage and 2d6 points of fire damage, and the recipient must succeed at a Fortitude saving throw (DC = 10 + the damage dealt) or be instantly slain. Creatures killed in this manner cannot be revived by breath of life or raise dead. If detonated outside a body, the bomb instead creates a small explosion, dealing the damage detailed above in a 5-foot-radius burst (Reflex DC 13 half)."
-		]
-	},
-	"Cybernetic Eyes": {
-		"equipmentname": "Cybernetic Eyes",
-		"file": "equipmenttechcybertechdisplay1c9f.html",
-		"sources": [ "Technology Guide" ],
-		"type": "tech cybertech",
-		"cost": 4000,
-		"weight": 1,
-		"slot": "eyes",
-		"implantation": 1,
-		"install": 28,
-		"heading": [
-			"**Cybernetic Eyes**",
-			"**Source** [Technology Guide pg. 37](source:Technology Guide)",
-			"**Price** 4,000 gp",
-			"**Slot** eyes; **Weight** 1 lb.",
-			"**Install** DC 28; **Implantation** 1"
-		],
-		"construction": [
-			"Craft DC 28; Cost 2,000 gp",
-			"Craft Cybertech, cybernetics lab"
-		],
-		"description": [
-			"A cybernetic eye can be enhanced by cyber art for no additional cost, giving it an unusual color or pattern. When a pair of eyes is installed, the user gains a +2 circumstance bonus on Perception checks and a +4 resistance bonus on saving throws against blindness or visual effects. The bonus on Perception checks stacks with circumstance bonuses on Perception checks from other cybernetic sources. A pair of cybernetic eyes can be further enhanced by one veemod (see page 53) at a price equal to twice the veemod's normal price.",
-			"The listed price, implantation value, and install DC are for having two eyes installed. A single cybernetic eye costs half the price and half the listed implantation value, but a creature must replace all of its eyes to receive the benefits above."
-		]
-	},
-	"Optical Turrets": {
-		"equipmentname": "Optical Turrets",
-		"file": "equipmenttechcybertechdisplayf6dd.html",
-		"sources": [ "Pathfinder #88: Valley of the Brain Collectors" ],
-		"type": "tech cybertech",
-		"cost": 6000,
-		"weight": 0,
-		"slot": "eyes",
-		"implantation": 2,
-		"install": 30,
-		"heading": [
-			"**Optical Turrets**",
-			"**Source** [Pathfinder #88: Valley of the Brain Collectors pg. 75](source:Pathfinder #88: Valley of the Brain Collectors)",
-			"**Price** 6,000 gp",
-			"**Slot** eyes; **Weight** &mdash;",
-			"**Install** DC 30; **Implantation** 2"
-		],
-		"construction": [
-			"Craft DC 30; Cost 3,000 gp",
-			"Craft Cybertech, cybernetics lab"
-		],
-		"description": [
-			"These cybernetic implants replace the recipient's eyes with turrets containing multiple lenses, such as one finds on an optical microscope. In addition to providing normal vision, the implants can rapidly adjust to varying light levels, making the wearer immune to both the blind and dazzled conditions.",
-			"If the wearer is willing or helpless, additional lenses can be added (or removed) from the optical turrets with 1 minute's work. Each of the three turrets can hold one eyes slot magic item. These lenses do not count against the wearer's limit of one eyes slot item, but only one function can be active at a time. The wearer can change which of the installed lenses is active (or deactivate them all) as a swift action."
-		]
-	},
-	"Cybernetic Ears": {
-		"equipmentname": "Cybernetic Ears",
-		"file": "equipmenttechcybertechdisplayb32a.html",
-		"sources": [ "Technology Guide" ],
-		"type": "tech cybertech",
-		"cost": 4000,
-		"weight": 1,
-		"slot": "ears",
-		"implantation": 1,
-		"install": 28,
-		"heading": [
-			"**Cybernetic Ears**",
-			"**Source** [Technology Guide pg. 37](source:Technology Guide)",
-			"**Price** 4,000 gp",
-			"**Slot** ears; **Weight** 1 lb.",
-			"**Install** DC 28; **Implantation** 1"
-		],
-		"construction": [
-			"Craft DC 28; Cost 2,000 gp",
-			"Craft Cybertech, cybernetics lab"
-		],
-		"description": [
-			"A cybernetic ear can be enhanced by cyberart at no additional cost, giving it an unusual color or shape. When a pair of ears is installed, the user gains a +2 circumstance bonus on Perception checks. This bonus stacks with circumstance bonuses on Perception checks from other cybernetic senses. Cybernetic ears grant a +4 resistance bonus on all saving throws against sonic effects.",
-			"The listed price, implantation value, and install DC are for having both ears installed. A single cybernetic ear costs half the price and half the listed implantation value, but a creature must replace all of its ears to receive the benefits above."
-		]
-	},
-	"Skillslot": {
-		"equipmentname": "Skillslot",
-		"file": "equipmenttechcybertechdisplay0ee6.html",
-		"sources": [ "Technology Guide" ],
-		"type": "tech cybertech",
-		"cost": 2000,
-		"weight": 1,
-		"slot": "brain",
-		"implantation": 1,
-		"install": 30,
-		"heading": [
-			"**Skillslot**",
-			"**Source** [Technology Guide pg. 38](source:Technology Guide)",
-			"**Price** 2,000 gp",
-			"**Slot** brain; **Weight** 1 lb.",
-			"**Install** DC 30; **Implantation** 1"
-		],
-		"construction": [
-			"Craft DC 28; Cost 1,000 gp",
-			"Craft Cybertech, cybernetics lab"
-		],
-		"description": [
-			"A skillslot is implanted into the",
-			"target's brain, leaving a small port",
-			"at the base of the skull. This port",
-			"is covered with a flap of skin when",
-			"not in use. Once installed, a skillslot",
-			"has no effect until a skillchip is",
-			"inserted into the port (see page 52 for information on the",
-			"various forms of available skillchips.) An inserted skillchip",
-			"enhances the user's ability in the skill encoded on the chip;",
-			"the magnitude to which the skill is enhanced depends on",
-			"the power of the skillchip. This does not grant ranks in the",
-			"associated skill. It takes 10 minutes for a skillchip to adjust",
-			"itself to a new skillslot; during this time, the user takes a",
-			"-2 penalty on all skill checks as distracting sensations flood",
-			"his mind. When a skillchip is removed, its benefits end",
-			"immediately, but the wearer suffers no ill effects."
-		]
-	},
-	"Frenzychip": {
-		"equipmentname": "Frenzychip",
-		"file": "equipmenttechcybertechdisplay41d8.html",
-		"sources": [ "Technology Guide" ],
-		"type": "tech cybertech",
-		"cost": 36400,
-		"weight": 0,
-		"slot": "brain",
-		"implantation": 1,
-		"install": 32,
-		"heading": [
-			"**Frenzychip**",
-			"**Source** [Technology Guide pg. 37](source:Technology Guide)",
-			"**Price** 36,400 gp",
-			"**Slot** brain; **Weight** &mdash;",
-			"**Install** DC 32; **Implantation** 1"
-		],
-		"construction": [
-			"Craft DC 30; Cost 18,200 gp",
-			"Craft Cybertech, cybernetics lab"
-		],
-		"description": [
-			"A frenzychip is installed into a creature's brain. Successful implantation leaves no trace of the operation. Once in place, a frenzychip patches directly in to the patient's motor skills and emotions. As long as she's not fatigued or exhausted, the user of a frenzychip can activate it as a swift action. While active, it grants a +2 morale bonus to Strength and Dexterity, a +1 morale bonus on Reflex saving throws, and a -2 penalty on Will saving throws. The user may use a frenzychip for up to 10 rounds per day, though the rounds need not be consecutive. Once the effects end, she becomes fatigued for twice as many rounds as she was under the frenzychip's effects."
-		]
-	},
-	"Dermal Plating (Mark I)": {
-		"equipmentname": "Dermal Plating (Mark I)",
-		"file": "equipmenttechcybertechdisplayeb7c.html",
-		"sources": [ "Technology Guide" ],
-		"type": "tech cybertech",
-		"cost": 4000,
-		"weight": 5,
-		"slot": "body",
-		"implantation": 2,
-		"install": 24,
-		"heading": [
-			"**Dermal Plating (Mark I)**",
-			"**Source** [Technology Guide pg. 37](source:Technology Guide)",
-			"**Price** 4,000 gp (Mark I), 16,000 gp (Mark II), 36,000 gp (Mark III), 64,000 gp (Mark IV), 100,000 gp (Mark V)",
-			"**Slot** body; **Weight** 5 lbs. (Mark I), 5 lbs. (Mark II), 5 lbs. (Mark III), 5 lbs. (Mark IV), 5 lbs. (Mark V)",
-			"**Install** DC 24 (Mark I), DC 26 (Mark II), DC 28 (Mark III), DC 30 (Mark IV), DC 32 (Mark V)",
-			"**Implantation** 2 (Mark I), 4 (Mark II), 4 (Mark III), 8 (Mark IV), 10 (Mark V)"
-		],
-		"construction": [
-			"Craft DC 24 (Mark I), DC 25 (Mark II), DC 26 (Mark III), DC 27 (Mark IV), DC 28 (Mark V); Cost 2,000 gp (Mark I), 8,000 gp (Mark II), 18,000 gp (Mark III), 32,000 gp (Mark IV), 50,000 gp (Mark V)",
-			"Craft Cybertech, cybernetics lab"
-		],
-		"description": [
-			"Dermal plating consists of sheets of highly resistant bioplastics anchored directly onto the patient's skin. These armored plates grant an enhancement bonus to natural armor; this bonus influences other elements of the dermal plating, as detailed below.",
-			"| Plating | Enhancement | Implantation | Install |",
-			"| --- | --- | --- | --- |",
-			"| Mark I | +1 | 2 | DC 24 |",
-			"| Mark II | +2 | 4 | DC 26 |",
-			"| Mark III | +3 | 4 | DC 28 |",
-			"| Mark IV | +4 | 8 | DC 30 |",
-			"| Mark V | +5 | 10 | DC 32 |"
-		]
-	},
-	"Cyberfiber Muscles (Mark I)": {
-		"equipmentname": "Cyberfiber Muscles (Mark I)",
-		"file": "equipmenttechcybertechdisplayb73b.html",
-		"sources": [ "Technology Guide" ],
-		"type": "tech cybertech",
-		"cost": 8000,
-		"weight": 10,
-		"slot": "body",
-		"implantation": 2,
-		"install": 24,
-		"heading": [
-			"**Cyberfiber Muscles (Mark I)**",
-			"**Source** [Technology Guide pg. 36](source:Technology Guide)",
-			"**Price** 8,000 gp (Mark I), 32,000 gp (Mark II), 72,000 gp (Mark III)",
-			"**Slot** body; **Weight** 10 lbs. (Mark I), 10 lbs. (Mark II), 10 lbs. (Mark III)",
-			"**Install** DC 24 (Mark I), DC 28 (Mark II), DC 36 (Mark III)",
-			"**Implantation** 2 (Mark I), 4 (Mark II), 8 (Mark III)"
-		],
-		"construction": [
-			"Craft DC 24 (Mark I), DC 28 (Mark II), DC 32 (Mark III); Cost 4,000 gp (Mark I), 16,000 gp (Mark II), 36,000 gp (Mark III)",
-			"Craft Cybertech, cybernetics lab"
-		],
-		"description": [
-			"Cyberfiber muscles are powerful synthetic muscles that augment but do not replace existing muscle mass in a creature. Once installed, cyberfiber muscles grant an enhancement bonus to Strength. This enhancement bonus alters price, implantation value, install DCs, and Craft DCs as listed below.",
-			"| Cyberfiber | Enhancement | Implantation | Install |",
-			"| --- | --- | --- | --- |",
-			"| Mark I | +2 Str | 2 | DC 24 |",
-			"| Mark II | +4 Str | 4 | DC 28 |",
-			"| Mark III | +6 Str | 8 | DC 36 |"
-		]
-	},
-	"Thoracic Nanite Chamber (Mark I)": {
-		"equipmentname": "Thoracic Nanite Chamber (Mark I)",
-		"file": "equipmenttechcybertechdisplayacd6.html",
-		"sources": [ "Technology Guide" ],
-		"type": "tech cybertech",
-		"cost": 8000,
-		"weight": 5,
-		"slot": "body",
-		"implantation": 2,
-		"install": 24,
-		"heading": [
-			"**Thoracic Nanite Chamber (Mark I)**",
-			"**Source** [Technology Guide pg. 38](source:Technology Guide)",
-			"**Price** 8,000 gp (Mark I), 32,000 gp (Mark II), 72,000 gp (Mark III)",
-			"**Slot** body; **Weight** 5 lbs. (Mark I), 5 lbs. (Mark II), 5 lbs. (Mark III)",
-			"**Install** DC 24 (Mark I), DC 28 (Mark II), DC 36 (Mark III)",
-			"**Implantation** 2 (Mark I), 4 (Mark II), 8 (Mark III)"
-		],
-		"construction": [
-			"Craft DC 24 (Mark I), DC 28 (Mark II), DC 32 (Mark III); Cost 4,000 gp (Mark I), 16,000 gp (Mark II), 36,000 gp (Mark III)",
-			"Craft Cybertech, cybernetics lab"
-		],
-		"description": [
-			"A thoracic nanite chamber augments the vital organs within a creature's chest, particularly its heart, lungs, and pulmonary system. Once installed, a thoracic nanite chamber grants an enhancement bonus to Constitution. This enhancement bonus alters the implant's price, implantation value, install DCs, and Craft DCs as listed below.",
-			"| Chamber | Enhancement | Implantation | Install |",
-			"| --- | --- | --- | --- |",
-			"| Mark I | +2 Con | 2 | DC 24 |",
-			"| Mark II | +4 Con | 4 | DC 28 |",
-			"| Mark III | +6 Con | 8 | DC 36 |"
-		]
-	},
-	"Wirejack Tendons (Mark I)": {
-		"equipmentname": "Wirejack Tendons (Mark I)",
-		"file": "equipmenttechcybertechdisplay5a14.html",
-		"sources": [ "Technology Guide" ],
-		"type": "tech cybertech",
-		"cost": 8000,
-		"weight": 10,
-		"slot": "body",
-		"implantation": 2,
-		"install": 24,
-		"heading": [
-			"**Wirejack Tendons (Mark I)**",
-			"**Source** [Technology Guide pg. 38](source:Technology Guide)",
-			"**Price** 8,000 gp (Mark I), 32,000 gp (Mark II), 72,000 gp (Mark III)",
-			"**Slot** body; **Weight** 10 lbs. (Mark I), 10 lbs. (Mark II), 10 lbs. (Mark III)",
-			"**Install** DC 24 (Mark I), DC 28 (Mark II), DC 36 (Mark III)",
-			"**Implantation** 2 (Mark I), 4 (Mark II), 8 (Mark III)"
-		],
-		"construction": [
-			"Craft DC 24 (Mark I), DC 28 (Mark II), DC 32 (Mark III); Cost 4,000 gp (Mark I), 16,000 gp (Mark II), 36,000 gp (Mark III)",
-			"Craft Cybertech, cybernetics lab"
-		],
-		"description": [
-			"Wirejack tendons not only strengthen and enhance existing reflexes, but also enhance the transmission of nerve impulses to surrounding musculature. Once installed, wirejack tendons grant an enhancement bonus to Dexterity. This enhancement bonus alters the price, implantation values, install DCs, and Craft DCs of the implant as listed below.",
-			"| Wirejack | Enhancement | Implantation | Install |",
-			"| --- | --- | --- | --- |",
-			"| Mark I | +2 Dex | 2 | DC 24 |",
-			"| Mark II | +4 Dex | 4 | DC 28 |",
-			"| Mark III | +6 Dex | 8 | DC 36 |"
-		]
-	},
-	"Biofilter": {
-		"equipmentname": "Biofilter",
-		"file": "equipmenttechcybertechdisplaybac0.html",
-		"sources": [ "Technology Guide" ],
-		"type": "tech cybertech",
-		"cost": 16000,
-		"weight": 2,
-		"slot": "body",
-		"implantation": 3,
-		"install": 25,
-		"heading": [
-			"**Biofilter**",
-			"**Source** [Technology Guide pg. 35](source:Technology Guide)",
-			"**Price** 16,000 gp",
-			"**Slot** body; **Weight** 2 lbs.",
-			"**Install** DC 25; **Implantation** 3"
-		],
-		"construction": [
-			"Craft DC 25; Cost 8,000 gp",
-			"Craft Cybertech, cybernetics lab"
-		],
-		"description": [
-			"A nanite matrix is installed in the kidneys and liver to help purge the body of toxins. A biofilter provides a +4 competence bonus on saving throws against disease and poison. In addition, when the user attempts such a saving throw, she rolls twice and takes the higher result."
-		]
-	},
-	"Dermal Plating (Mark II)": {
-		"equipmentname": "Dermal Plating (Mark II)",
-		"file": "equipmenttechcybertechdisplayafb3.html",
-		"sources": [ "Technology Guide" ],
-		"type": "tech cybertech",
-		"cost": 16000,
-		"weight": 5,
-		"slot": "body",
-		"implantation": 4,
-		"install": 26,
-		"heading": [
-			"**Dermal Plating (Mark II)**",
-			"**Source** [Technology Guide pg. 37](source:Technology Guide)",
-			"**Price** 4,000 gp (Mark I), 16,000 gp (Mark II), 36,000 gp (Mark III), 64,000 gp (Mark IV), 100,000 gp (Mark V)",
-			"**Slot** body; **Weight** 5 lbs. (Mark I), 5 lbs. (Mark II), 5 lbs. (Mark III), 5 lbs. (Mark IV), 5 lbs. (Mark V)",
-			"**Install** DC 24 (Mark I), DC 26 (Mark II), DC 28 (Mark III), DC 30 (Mark IV), DC 32 (Mark V)",
-			"**Implantation** 2 (Mark I), 4 (Mark II), 4 (Mark III), 8 (Mark IV), 10 (Mark V)"
-		],
-		"copyof": "Dermal Plating (Mark I)"
-	},
-	"Cyberfiber Muscles (Mark II)": {
-		"equipmentname": "Cyberfiber Muscles (Mark II)",
-		"file": "equipmenttechcybertechdisplay2c91.html",
-		"sources": [ "Technology Guide" ],
-		"type": "tech cybertech",
-		"cost": 32000,
-		"weight": 10,
-		"slot": "body",
-		"implantation": 4,
-		"install": 28,
-		"heading": [
-			"**Cyberfiber Muscles (Mark II)**",
-			"**Source** [Technology Guide pg. 36](source:Technology Guide)",
-			"**Price** 8,000 gp (Mark I), 32,000 gp (Mark II), 72,000 gp (Mark III)",
-			"**Slot** body; **Weight** 10 lbs. (Mark I), 10 lbs. (Mark II), 10 lbs. (Mark III)",
-			"**Install** DC 24 (Mark I), DC 28 (Mark II), DC 36 (Mark III)",
-			"**Implantation** 2 (Mark I), 4 (Mark II), 8 (Mark III)"
-		],
-		"copyof": "Cyberfiber Muscles (Mark I)"
-	},
-	"Thoracic Nanite Chamber (Mark II)": {
-		"equipmentname": "Thoracic Nanite Chamber (Mark II)",
-		"file": "equipmenttechcybertechdisplay08dc.html",
-		"sources": [ "Technology Guide" ],
-		"type": "tech cybertech",
-		"cost": 32000,
-		"weight": 5,
-		"slot": "body",
-		"implantation": 4,
-		"install": 28,
-		"heading": [
-			"**Thoracic Nanite Chamber (Mark II)**",
-			"**Source** [Technology Guide pg. 38](source:Technology Guide)",
-			"**Price** 8,000 gp (Mark I), 32,000 gp (Mark II), 72,000 gp (Mark III)",
-			"**Slot** body; **Weight** 5 lbs. (Mark I), 5 lbs. (Mark II), 5 lbs. (Mark III)",
-			"**Install** DC 24 (Mark I), DC 28 (Mark II), DC 36 (Mark III)",
-			"**Implantation** 2 (Mark I), 4 (Mark II), 8 (Mark III)"
-		],
-		"copyof": "Thoracic Nanite Chamber (Mark I)"
-	},
-	"Wirejack Tendons (Mark II)": {
-		"equipmentname": "Wirejack Tendons (Mark II)",
-		"file": "equipmenttechcybertechdisplay2129.html",
-		"sources": [ "Technology Guide" ],
-		"type": "tech cybertech",
-		"cost": 32000,
-		"weight": 10,
-		"slot": "body",
-		"implantation": 4,
-		"install": 28,
-		"heading": [
-			"**Wirejack Tendons (Mark II)**",
-			"**Source** [Technology Guide pg. 38](source:Technology Guide)",
-			"**Price** 8,000 gp (Mark I), 32,000 gp (Mark II), 72,000 gp (Mark III)",
-			"**Slot** body; **Weight** 10 lbs. (Mark I), 10 lbs. (Mark II), 10 lbs. (Mark III)",
-			"**Install** DC 24 (Mark I), DC 28 (Mark II), DC 36 (Mark III)",
-			"**Implantation** 2 (Mark I), 4 (Mark II), 8 (Mark III)"
-		],
-		"copyof": "Wirejack Tendons (Mark I)"
-	},
-	"Dermal Plating (Mark III)": {
-		"equipmentname": "Dermal Plating (Mark III)",
-		"file": "equipmenttechcybertechdisplay53e7.html",
-		"sources": [ "Technology Guide" ],
-		"type": "tech cybertech",
-		"cost": 36000,
-		"weight": 5,
-		"slot": "body",
-		"implantation": 4,
-		"install": 28,
-		"heading": [
-			"**Dermal Plating (Mark III)**",
-			"**Source** [Technology Guide pg. 37](source:Technology Guide)",
-			"**Price** 4,000 gp (Mark I), 16,000 gp (Mark II), 36,000 gp (Mark III), 64,000 gp (Mark IV), 100,000 gp (Mark V)",
-			"**Slot** body; **Weight** 5 lbs. (Mark I), 5 lbs. (Mark II), 5 lbs. (Mark III), 5 lbs. (Mark IV), 5 lbs. (Mark V)",
-			"**Install** DC 24 (Mark I), DC 26 (Mark II), DC 28 (Mark III), DC 30 (Mark IV), DC 32 (Mark V)",
-			"**Implantation** 2 (Mark I), 4 (Mark II), 4 (Mark III), 8 (Mark IV), 10 (Mark V)"
-		],
-		"copyof": "Dermal Plating (Mark I)"
-	},
-	"Dermal Plating (Mark IV)": {
-		"equipmentname": "Dermal Plating (Mark IV)",
-		"file": "equipmenttechcybertechdisplay1262.html",
-		"sources": [ "Technology Guide" ],
-		"type": "tech cybertech",
-		"cost": 64000,
-		"weight": 5,
-		"slot": "body",
-		"implantation": 8,
-		"install": 30,
-		"heading": [
-			"**Dermal Plating (Mark IV)**",
-			"**Source** [Technology Guide pg. 37](source:Technology Guide)",
-			"**Price** 4,000 gp (Mark I), 16,000 gp (Mark II), 36,000 gp (Mark III), 64,000 gp (Mark IV), 100,000 gp (Mark V)",
-			"**Slot** body; **Weight** 5 lbs. (Mark I), 5 lbs. (Mark II), 5 lbs. (Mark III), 5 lbs. (Mark IV), 5 lbs. (Mark V)",
-			"**Install** DC 24 (Mark I), DC 26 (Mark II), DC 28 (Mark III), DC 30 (Mark IV), DC 32 (Mark V)",
-			"**Implantation** 2 (Mark I), 4 (Mark II), 4 (Mark III), 8 (Mark IV), 10 (Mark V)"
-		],
-		"copyof": "Dermal Plating (Mark I)"
-	},
-	"Cyberfiber Muscles (Mark III)": {
-		"equipmentname": "Cyberfiber Muscles (Mark III)",
-		"file": "equipmenttechcybertechdisplay1aca.html",
-		"sources": [ "Technology Guide" ],
-		"type": "tech cybertech",
-		"cost": 72000,
-		"weight": 10,
-		"slot": "body",
-		"implantation": 8,
-		"install": 36,
-		"heading": [
-			"**Cyberfiber Muscles (Mark III)**",
-			"**Source** [Technology Guide pg. 36](source:Technology Guide)",
-			"**Price** 8,000 gp (Mark I), 32,000 gp (Mark II), 72,000 gp (Mark III)",
-			"**Slot** body; **Weight** 10 lbs. (Mark I), 10 lbs. (Mark II), 10 lbs. (Mark III)",
-			"**Install** DC 24 (Mark I), DC 28 (Mark II), DC 36 (Mark III)",
-			"**Implantation** 2 (Mark I), 4 (Mark II), 8 (Mark III)"
-		],
-		"copyof": "Cyberfiber Muscles (Mark I)"
-	},
-	"Thoracic Nanite Chamber (Mark III)": {
-		"equipmentname": "Thoracic Nanite Chamber (Mark III)",
-		"file": "equipmenttechcybertechdisplay1aa6.html",
-		"sources": [ "Technology Guide" ],
-		"type": "tech cybertech",
-		"cost": 72000,
-		"weight": 5,
-		"slot": "body",
-		"implantation": 8,
-		"install": 36,
-		"heading": [
-			"**Thoracic Nanite Chamber (Mark III)**",
-			"**Source** [Technology Guide pg. 38](source:Technology Guide)",
-			"**Price** 8,000 gp (Mark I), 32,000 gp (Mark II), 72,000 gp (Mark III)",
-			"**Slot** body; **Weight** 5 lbs. (Mark I), 5 lbs. (Mark II), 5 lbs. (Mark III)",
-			"**Install** DC 24 (Mark I), DC 28 (Mark II), DC 36 (Mark III)",
-			"**Implantation** 2 (Mark I), 4 (Mark II), 8 (Mark III)"
-		],
-		"copyof": "Thoracic Nanite Chamber (Mark I)"
-	},
-	"Wirejack Tendons (Mark III)": {
-		"equipmentname": "Wirejack Tendons (Mark III)",
-		"file": "equipmenttechcybertechdisplay7575.html",
-		"sources": [ "Technology Guide" ],
-		"type": "tech cybertech",
-		"cost": 72000,
-		"weight": 10,
-		"slot": "body",
-		"implantation": 8,
-		"install": 36,
-		"heading": [
-			"**Wirejack Tendons (Mark III)**",
-			"**Source** [Technology Guide pg. 38](source:Technology Guide)",
-			"**Price** 8,000 gp (Mark I), 32,000 gp (Mark II), 72,000 gp (Mark III)",
-			"**Slot** body; **Weight** 10 lbs. (Mark I), 10 lbs. (Mark II), 10 lbs. (Mark III)",
-			"**Install** DC 24 (Mark I), DC 28 (Mark II), DC 36 (Mark III)",
-			"**Implantation** 2 (Mark I), 4 (Mark II), 8 (Mark III)"
-		],
-		"copyof": "Wirejack Tendons (Mark I)"
-	},
-	"Dermal Plating (Mark V)": {
-		"equipmentname": "Dermal Plating (Mark V)",
-		"file": "equipmenttechcybertechdisplaye6f1.html",
-		"sources": [ "Technology Guide" ],
-		"type": "tech cybertech",
-		"cost": 100000,
-		"weight": 5,
-		"slot": "body",
-		"implantation": 10,
-		"install": 32,
-		"heading": [
-			"**Dermal Plating (Mark V)**",
-			"**Source** [Technology Guide pg. 37](source:Technology Guide)",
-			"**Price** 4,000 gp (Mark I), 16,000 gp (Mark II), 36,000 gp (Mark III), 64,000 gp (Mark IV), 100,000 gp (Mark V)",
-			"**Slot** body; **Weight** 5 lbs. (Mark I), 5 lbs. (Mark II), 5 lbs. (Mark III), 5 lbs. (Mark IV), 5 lbs. (Mark V)",
-			"**Install** DC 24 (Mark I), DC 26 (Mark II), DC 28 (Mark III), DC 30 (Mark IV), DC 32 (Mark V)",
-			"**Implantation** 2 (Mark I), 4 (Mark II), 4 (Mark III), 8 (Mark IV), 10 (Mark V)"
-		],
-		"copyof": "Dermal Plating (Mark I)"
-	},
-	"Cybernetic Arm": {
-		"equipmentname": "Cybernetic Arm",
-		"file": "equipmenttechcybertechdisplay4922.html",
-		"sources": [ "Technology Guide" ],
-		"type": "tech cybertech",
-		"cost": 4750,
-		"weight": 9,
-		"slot": "arm",
-		"implantation": 2,
-		"install": 28,
-		"heading": [
-			"**Cybernetic Arm**",
-			"**Source** [Technology Guide pg. 36](source:Technology Guide)",
-			"**Price** 4,750 gp",
-			"**Slot** arm; **Weight** 9 lbs.",
-			"**Install** DC 28; **Implantation** 2"
-		],
-		"construction": [
-			"Craft DC 25; Cost 2,375 gp",
-			"Craft Cybertech, cybernetics lab"
-		],
-		"description": [
-			"A cybernetic arm completely replaces a normal arm, from the shoulder to the hand. It can take the place of an arm lost to a severing wound. The arm is fully functional and no different in appearance from a regular arm, although cyberart can be added to the arm at no additional cost. A cybernetic arm does not increase a user's Strength score. If a creature has two cybernetic arms, it can lift and carry double the normal maximum weight for that creature's Strength and size, and it gains a +5 circumstance bonus on Climb checks. A character who wields a onehanded or light weapon with a cybernetic arm gains a +5 bonus to CMD against disarm attempts; two cybernetic arms do not increase this bonus, but do allow the bonus to apply to two-handed weapons."
-		]
-	},
-	"Implanted Weaponry": {
-		"equipmentname": "Implanted Weaponry",
-		"file": "equipmenttechcybertechdisplaydfd1.html",
-		"sources": [ "Technology Guide" ],
-		"type": "tech cybertech",
-		"cost": 10000,
-		"weight": 1,
-		"slot": "arm",
-		"implantation": 2,
-		"install": 26,
-		"heading": [
-			"**Implanted Weaponry**",
-			"**Source** [Technology Guide pg. 38](source:Technology Guide)",
-			"**Price** 10,000 gp",
-			"**Slot** arm; **Weight** 1 lb.",
-			"**Install** DC 26; **Implantation** 2"
-		],
-		"construction": [
-			"Craft DC 25; Cost 5,000 gp",
-			"Craft Cybertech, cybernetics lab, weapon to be implanted"
-		],
-		"description": [
-			"A single light melee weapon or one-handed firearm can be implanted in an arm or cybernetic arm. Melee weapons extend or retract as a swift action. Ranged weapons fire through a port on the palm or back of the wrist. Either type of weapon has statistics identical to its normal form. Firearms reload through a breach in the arm, increasing the reloading time of the weapon to a full-round action, or doubling reloading times that already take a full round or longer. Implanted weapons are well concealed; detecting one requires a thorough search (Perception DC 25). Implanted weaponry can be damaged or destroyed by sundering, but cannot be disarmed. Weaponry installed in a cybernetic arm does not count against a creature's implantation limit. The cost, price, and weight of the weapon to be implanted are added to the cost, price, and weight listed in this stat block."
-		]
-	},
-	"Cyberart": {
-		"equipmentname": "Cyberart",
-		"file": "equipmenttechcybertechdisplayba19.html",
-		"sources": [ "Technology Guide" ],
-		"type": "tech cybertech",
-		"cost": 100,
-		"weight": 1,
-		"slot": "none",
-		"implantation": 0,
-		"install": 20,
-		"heading": [
-			"**Cyberart**",
-			"**Source** [Technology Guide pg. 36](source:Technology Guide)",
-			"**Price** 100 gp",
-			"**Slot** none; **Weight** 1 lb.",
-			"**Install** DC 20; **Implantation** 0"
-		],
-		"construction": [
-			"Craft DC 20; Cost 50 gp",
-			"Craft Cybertech, cybernetics lab"
-		],
-		"description": [
-			"Cyberart is the least invasive of all cybertech. This implant is similar in appearance to a tattoo, except that it can glow softly if desired, providing illumination equal to that provided by a candle. Some cyberart is animated, providing a short looping scene that replays over and over. Cyberart is installed in a body with a small metallic stylus that injects low-grade nanites into a body part; the quality of the art relies on the installer's Craft (painting or tattoo) check."
-		]
-	},
-	"Implant Mesh": {
-		"equipmentname": "Implant Mesh",
-		"file": "equipmenttechcybertechdisplay198c.html",
-		"sources": [ "Pathfinder #89: Palace of Fallen Stars" ],
-		"type": "tech cybertech",
-		"cost": 5000,
-		"weight": 0,
-		"slot": "none",
-		"implantation": 2,
-		"install": 30,
-		"heading": [
-			"**Implant Mesh**",
-			"**Source** [Pathfinder #89: Palace of Fallen Stars pg. 63](source:Pathfinder #89: Palace of Fallen Stars)",
-			"**Price** 5,000 gp",
-			"**Slot** none; **Weight** &mdash;",
-			"**Install** DC 30; **Implantation** 2"
-		],
-		"construction": [
-			"Craft DC 34; Cost 2,500 gp",
-			"Craft Cybertech, cybernetics lab"
-		],
-		"description": [
-			"An implant mesh is a cybernetic augmentation that enhanced other cybernetic implants, notably those that heighten their wearers' physical abilities. If used to enhance cyberfiber muscles, a thoracic nanite chamber, or wirejack tendons, an implant mesh must be installed on that piece of cyberware before the item is implanted in a body. If the check to implant the mesh into the other cybernetic item fails, the implant mesh is destroyed.",
-			"Once a piece of cybertech has been augmented by an implant mesh, that cybertech implant no longer counts as taking up a body slot for the purposes of installing other cybernetic devices into that slot. Enhancing a cybernetic device with an implant mesh doesn't alter the device's install DC, but does increase its implantation value by 2. For example, a mark II thoracic nanite chamber enhanced with an implant mesh could be implanted in a creature that already has cyberfiber muscles or dermal plating, but the augmented thoracic nanite chamber's implantation value increases to 6."
-		]
-	}
+	"description": [
+		"Cybertech is a form of technology that must be surgically implanted into a host body before it functions. Cybertech takes up a special set of slots that correspond to a creature's body. Most cybertech is designed for a creature with a humanoid shape-installing cybertech in a non-humanoid-shaped body is more difficult, but possible.",
+		"Each piece of cybertech has an implantation value that indicates how invasive the implant is. The total combined implantation values of all cybertech implanted in a single creature can't exceed either that creature's Constitution score or Intelligence score-a creature's Constitution sets the physical limit of what its body can accept in the form of cybernetic implants, while the creature's Intelligence sets the mental limit of what its brain can control. An implant whose implantation value would cause the total to exceed either of these two scores does not function but still takes up a body slot. In addition, as long as a character has cybernetic implants installed whose combined implantation exceeds his Constitution or Intelligence, he takes a -4 penalty on all saving throws.",
+		"A creature with neither a Constitution score nor an Intelligence score cannot receive benefits from cybertech, but a creature with only one of these scores can.",
+		"Installing a piece of cybertech takes a number of hours equal to the cybertech's implantation value if the installation is done by hand-certain technological items can speed this installation time. The target must be willing or helpless during the entire installation, at the end of which the installer attempts a Heal check against the cybertech's Install DC-this specific value is listed for each cybertech item. On a success, the target takes Constitution damage equal to the cybertech's implantation value and the cybertech immediately activates. On a failed check, the target still takes the Constitution damage but the installation fails; a new attempt to install the cybertech can be made, although it's wise to wait for the Constitution damage to heal before trying again.",
+		"Cybertech can be extracted using the same procedure as implanting it, with a failed Heal check indicating the attempt to extract the item failed. Fortunately, extraction is a simpler task than installment, and Heal checks to remove cybertech gain a +10 bonus. Extracting a piece of cybertech from a dead body requires no Heal check but takes a number of rounds equal to the cybertech's implantation value. You can only install or extract a single piece of cybertech at a time.",
+		"An NPC generally charges an amount equal to 1/10 the total price of a piece of cybertech for the service of installing the item.",
+		"Each piece of cybertech has a full description, including a set of abbreviated statistics at the start. This information is organized as follows.",
+		"**Price:** This is the cost in gold pieces to buy the implant if it's available for sale. This value does not include the cost to have the object surgically implanted. As with magic items, a piece of cybertech can be sold by PCs for half this value.",
+		"**Slot:** This is the part of the body into which the cybertech must be implanted. A single slot can only ever host a single piece of cybertech. Cybertech slots are separate from normal magic item slots and do not count as being used for the purposes of worn magic items.",
+		"**Weight:** This is the weight of the cybertech in pounds. Once installed, the cybertech's weight does not count against a creature's encumbrance or maximum load.",
+		"**Install:** This is the Heal check DC required to successfully implant or remove the cybertech from a creature.",
+		"**Implantation:** A numerical value indicating how invasive the cybertech is. The higher the number, the more invasive the cybertech. Implantation influences the time and difficulty of installing and removing the cybertech.",
+		"**Description:** This section describes the cybertech's appearance and abilities.",
+		"**Construction:** Certain requirements must be met for a character to craft cybertech. These requirements generally consist of having a feat and access to a manufacturing facility (see page 16).",
+		"**Craft:** This is the Craft DC required to create the cybertech. It is also the Knowledge (engineering) DC to  correctly identify the cybertech.",
+		"**Cost:** This is the cost in gold pieces to create the item. Generally this cost is equal to half the price of the item"
+	],
+	"list": [
+		{
+			"name": "cybernetic legs",
+			"file": "equipmenttechcybertechdisplay4f21.html",
+			"sources": [ "Technology Guide" ],
+			"category": "magic item",
+			"types": [
+				"tech",
+				"cybertech"
+			],
+			"cost": 8500,
+			"weight": 12,
+			"slot": "legs",
+			"implantation": 4,
+			"install": 28,
+			"heading": [
+				"**Cybernetic Legs**",
+				"**Source** [Technology Guide pg. 37](source:Technology Guide)",
+				"**Price** 8,500 gp",
+				"**Slot** legs; **Weight** 12 lbs.",
+				"**Install** DC 28; **Implantation** 4"
+			],
+			"construction": [
+				"Craft DC 25; Cost 4,250 gp",
+				"Craft Cybertech, cybernetics lab"
+			],
+			"description": [
+				"A cybernetic leg completely replaces a normal leg, from the hip to the foot. It can take the place of a leg lost to a severing wound. The leg is fully functional and no different in appearance from a regular leg, although cyberart can be added to the leg at no additional cost. A cybernetic leg does not increase a user's Strength score. If both legs are replaced, they increase the user's base land speed by 10 feet and grant a +5 bonus to CMD against trip attempts and a +5 circumstance bonus on Acrobatics checks.",
+				"The listed price, implantation, and install DC are for having two legs installed. A single cybernetic leg costs half the price and half the listed implantation value, but no significant bonus is granted to a creature with only one cybernetic leg. Both legs (or all legs, in the case of multilegged creatures) must be replaced for the above benefits to take effect."
+			]
+		},
+		{
+			"name": "cranial bomb",
+			"file": "equipmenttechcybertechdisplay9fc5.html",
+			"sources": [ "Technology Guide" ],
+			"category": "magic item",
+			"types": [
+				"tech",
+				"cybertech"
+			],
+			"cost": 4500,
+			"weight": 0.5,
+			"slot": "head",
+			"implantation": 1,
+			"install": 25,
+			"heading": [
+				"**Cranial Bomb**",
+				"**Source** [Technology Guide pg. 35](source:Technology Guide)",
+				"**Price** 4,500 gp",
+				"**Slot** head; **Weight** 1/2 lb.",
+				"**Install** DC 25; **Implantation** 1"
+			],
+			"construction": [
+				"Craft DC 20; Cost 2,250 gp",
+				"Craft Cybertech, cybernetics lab"
+			],
+			"description": [
+				"A cranial bomb is a bomb implanted at the base of the skull that explodes when remotely activated by a detonator's (see page 43) signal. Though normally implanted, a cranial bomb can also be detonated outside of a body. If detonated while implanted, it deals 2d6 points of bludgeoning damage and 2d6 points of fire damage, and the recipient must succeed at a Fortitude saving throw (DC = 10 + the damage dealt) or be instantly slain. Creatures killed in this manner cannot be revived by breath of life or raise dead. If detonated outside a body, the bomb instead creates a small explosion, dealing the damage detailed above in a 5-foot-radius burst (Reflex DC 13 half)."
+			]
+		},
+		{
+			"name": "cybernetic eyes",
+			"file": "equipmenttechcybertechdisplay1c9f.html",
+			"sources": [ "Technology Guide" ],
+			"category": "magic item",
+			"types": [
+				"tech",
+				"cybertech"
+			],
+			"cost": 4000,
+			"weight": 1,
+			"slot": "eyes",
+			"implantation": 1,
+			"install": 28,
+			"heading": [
+				"**Cybernetic Eyes**",
+				"**Source** [Technology Guide pg. 37](source:Technology Guide)",
+				"**Price** 4,000 gp",
+				"**Slot** eyes; **Weight** 1 lb.",
+				"**Install** DC 28; **Implantation** 1"
+			],
+			"construction": [
+				"Craft DC 28; Cost 2,000 gp",
+				"Craft Cybertech, cybernetics lab"
+			],
+			"description": [
+				"A cybernetic eye can be enhanced by cyber art for no additional cost, giving it an unusual color or pattern. When a pair of eyes is installed, the user gains a +2 circumstance bonus on Perception checks and a +4 resistance bonus on saving throws against blindness or visual effects. The bonus on Perception checks stacks with circumstance bonuses on Perception checks from other cybernetic sources. A pair of cybernetic eyes can be further enhanced by one veemod (see page 53) at a price equal to twice the veemod's normal price.",
+				"The listed price, implantation value, and install DC are for having two eyes installed. A single cybernetic eye costs half the price and half the listed implantation value, but a creature must replace all of its eyes to receive the benefits above."
+			]
+		},
+		{
+			"name": "optical turrets",
+			"file": "equipmenttechcybertechdisplayf6dd.html",
+			"sources": [ "Pathfinder #88: Valley of the Brain Collectors" ],
+			"category": "magic item",
+			"types": [
+				"tech",
+				"cybertech"
+			],
+			"cost": 6000,
+			"weight": 0,
+			"slot": "eyes",
+			"implantation": 2,
+			"install": 30,
+			"heading": [
+				"**Optical Turrets**",
+				"**Source** [Pathfinder #88: Valley of the Brain Collectors pg. 75](source:Pathfinder #88: Valley of the Brain Collectors)",
+				"**Price** 6,000 gp",
+				"**Slot** eyes; **Weight** &mdash;",
+				"**Install** DC 30; **Implantation** 2"
+			],
+			"construction": [
+				"Craft DC 30; Cost 3,000 gp",
+				"Craft Cybertech, cybernetics lab"
+			],
+			"description": [
+				"These cybernetic implants replace the recipient's eyes with turrets containing multiple lenses, such as one finds on an optical microscope. In addition to providing normal vision, the implants can rapidly adjust to varying light levels, making the wearer immune to both the blind and dazzled conditions.",
+				"If the wearer is willing or helpless, additional lenses can be added (or removed) from the optical turrets with 1 minute's work. Each of the three turrets can hold one eyes slot magic item. These lenses do not count against the wearer's limit of one eyes slot item, but only one function can be active at a time. The wearer can change which of the installed lenses is active (or deactivate them all) as a swift action."
+			]
+		},
+		{
+			"name": "cybernetic ears",
+			"file": "equipmenttechcybertechdisplayb32a.html",
+			"sources": [ "Technology Guide" ],
+			"category": "magic item",
+			"types": [
+				"tech",
+				"cybertech"
+			],
+			"cost": 4000,
+			"weight": 1,
+			"slot": "ears",
+			"implantation": 1,
+			"install": 28,
+			"heading": [
+				"**Cybernetic Ears**",
+				"**Source** [Technology Guide pg. 37](source:Technology Guide)",
+				"**Price** 4,000 gp",
+				"**Slot** ears; **Weight** 1 lb.",
+				"**Install** DC 28; **Implantation** 1"
+			],
+			"construction": [
+				"Craft DC 28; Cost 2,000 gp",
+				"Craft Cybertech, cybernetics lab"
+			],
+			"description": [
+				"A cybernetic ear can be enhanced by cyberart at no additional cost, giving it an unusual color or shape. When a pair of ears is installed, the user gains a +2 circumstance bonus on Perception checks. This bonus stacks with circumstance bonuses on Perception checks from other cybernetic senses. Cybernetic ears grant a +4 resistance bonus on all saving throws against sonic effects.",
+				"The listed price, implantation value, and install DC are for having both ears installed. A single cybernetic ear costs half the price and half the listed implantation value, but a creature must replace all of its ears to receive the benefits above."
+			]
+		},
+		{
+			"name": "skillslot",
+			"file": "equipmenttechcybertechdisplay0ee6.html",
+			"sources": [ "Technology Guide" ],
+			"category": "magic item",
+			"types": [
+				"tech",
+				"cybertech"
+			],
+			"cost": 2000,
+			"weight": 1,
+			"slot": "brain",
+			"implantation": 1,
+			"install": 30,
+			"heading": [
+				"**Skillslot**",
+				"**Source** [Technology Guide pg. 38](source:Technology Guide)",
+				"**Price** 2,000 gp",
+				"**Slot** brain; **Weight** 1 lb.",
+				"**Install** DC 30; **Implantation** 1"
+			],
+			"construction": [
+				"Craft DC 28; Cost 1,000 gp",
+				"Craft Cybertech, cybernetics lab"
+			],
+			"description": [
+				"A skillslot is implanted into the",
+				"target's brain, leaving a small port",
+				"at the base of the skull. This port",
+				"is covered with a flap of skin when",
+				"not in use. Once installed, a skillslot",
+				"has no effect until a skillchip is",
+				"inserted into the port (see page 52 for information on the",
+				"various forms of available skillchips.) An inserted skillchip",
+				"enhances the user's ability in the skill encoded on the chip;",
+				"the magnitude to which the skill is enhanced depends on",
+				"the power of the skillchip. This does not grant ranks in the",
+				"associated skill. It takes 10 minutes for a skillchip to adjust",
+				"itself to a new skillslot; during this time, the user takes a",
+				"-2 penalty on all skill checks as distracting sensations flood",
+				"his mind. When a skillchip is removed, its benefits end",
+				"immediately, but the wearer suffers no ill effects."
+			]
+		},
+		{
+			"name": "frenzychip",
+			"file": "equipmenttechcybertechdisplay41d8.html",
+			"sources": [ "Technology Guide" ],
+			"category": "magic item",
+			"types": [
+				"tech",
+				"cybertech"
+			],
+			"cost": 36400,
+			"weight": 0,
+			"slot": "brain",
+			"implantation": 1,
+			"install": 32,
+			"heading": [
+				"**Frenzychip**",
+				"**Source** [Technology Guide pg. 37](source:Technology Guide)",
+				"**Price** 36,400 gp",
+				"**Slot** brain; **Weight** &mdash;",
+				"**Install** DC 32; **Implantation** 1"
+			],
+			"construction": [
+				"Craft DC 30; Cost 18,200 gp",
+				"Craft Cybertech, cybernetics lab"
+			],
+			"description": [
+				"A frenzychip is installed into a creature's brain. Successful implantation leaves no trace of the operation. Once in place, a frenzychip patches directly in to the patient's motor skills and emotions. As long as she's not fatigued or exhausted, the user of a frenzychip can activate it as a swift action. While active, it grants a +2 morale bonus to Strength and Dexterity, a +1 morale bonus on Reflex saving throws, and a -2 penalty on Will saving throws. The user may use a frenzychip for up to 10 rounds per day, though the rounds need not be consecutive. Once the effects end, she becomes fatigued for twice as many rounds as she was under the frenzychip's effects."
+			]
+		},
+		{
+			"name": "dermal plating mark i",
+			"display_name": "dermal plating (mark I)",
+			"file": "equipmenttechcybertechdisplayeb7c.html",
+			"sources": [ "Technology Guide" ],
+			"category": "magic item",
+			"types": [
+				"tech",
+				"cybertech"
+			],
+			"cost": 4000,
+			"weight": 5,
+			"slot": "body",
+			"implantation": 2,
+			"install": 24,
+			"heading": [
+				"**Dermal Plating (Mark I)**",
+				"**Source** [Technology Guide pg. 37](source:Technology Guide)",
+				"**Price** 4,000 gp (Mark I), 16,000 gp (Mark II), 36,000 gp (Mark III), 64,000 gp (Mark IV), 100,000 gp (Mark V)",
+				"**Slot** body; **Weight** 5 lbs. (Mark I), 5 lbs. (Mark II), 5 lbs. (Mark III), 5 lbs. (Mark IV), 5 lbs. (Mark V)",
+				"**Install** DC 24 (Mark I), DC 26 (Mark II), DC 28 (Mark III), DC 30 (Mark IV), DC 32 (Mark V)",
+				"**Implantation** 2 (Mark I), 4 (Mark II), 4 (Mark III), 8 (Mark IV), 10 (Mark V)"
+			],
+			"construction": [
+				"Craft DC 24 (Mark I), DC 25 (Mark II), DC 26 (Mark III), DC 27 (Mark IV), DC 28 (Mark V); Cost 2,000 gp (Mark I), 8,000 gp (Mark II), 18,000 gp (Mark III), 32,000 gp (Mark IV), 50,000 gp (Mark V)",
+				"Craft Cybertech, cybernetics lab"
+			],
+			"description": [
+				"Dermal plating consists of sheets of highly resistant bioplastics anchored directly onto the patient's skin. These armored plates grant an enhancement bonus to natural armor; this bonus influences other elements of the dermal plating, as detailed below.",
+				"| Plating | Enhancement | Implantation | Install |",
+				"| --- | --- | --- | --- |",
+				"| Mark I | +1 | 2 | DC 24 |",
+				"| Mark II | +2 | 4 | DC 26 |",
+				"| Mark III | +3 | 4 | DC 28 |",
+				"| Mark IV | +4 | 8 | DC 30 |",
+				"| Mark V | +5 | 10 | DC 32 |"
+			]
+		},
+		{
+			"name": "cyberfiber muscles mark i",
+			"display_name": "cyberfiber muscles (mark I)",
+			"file": "equipmenttechcybertechdisplayb73b.html",
+			"sources": [ "Technology Guide" ],
+			"category": "magic item",
+			"types": [
+				"tech",
+				"cybertech"
+			],
+			"cost": 8000,
+			"weight": 10,
+			"slot": "body",
+			"implantation": 2,
+			"install": 24,
+			"heading": [
+				"**Cyberfiber Muscles (Mark I)**",
+				"**Source** [Technology Guide pg. 36](source:Technology Guide)",
+				"**Price** 8,000 gp (Mark I), 32,000 gp (Mark II), 72,000 gp (Mark III)",
+				"**Slot** body; **Weight** 10 lbs. (Mark I), 10 lbs. (Mark II), 10 lbs. (Mark III)",
+				"**Install** DC 24 (Mark I), DC 28 (Mark II), DC 36 (Mark III)",
+				"**Implantation** 2 (Mark I), 4 (Mark II), 8 (Mark III)"
+			],
+			"construction": [
+				"Craft DC 24 (Mark I), DC 28 (Mark II), DC 32 (Mark III); Cost 4,000 gp (Mark I), 16,000 gp (Mark II), 36,000 gp (Mark III)",
+				"Craft Cybertech, cybernetics lab"
+			],
+			"description": [
+				"Cyberfiber muscles are powerful synthetic muscles that augment but do not replace existing muscle mass in a creature. Once installed, cyberfiber muscles grant an enhancement bonus to Strength. This enhancement bonus alters price, implantation value, install DCs, and Craft DCs as listed below.",
+				"| Cyberfiber | Enhancement | Implantation | Install |",
+				"| --- | --- | --- | --- |",
+				"| Mark I | +2 Str | 2 | DC 24 |",
+				"| Mark II | +4 Str | 4 | DC 28 |",
+				"| Mark III | +6 Str | 8 | DC 36 |"
+			]
+		},
+		{
+			"name": "thoracic nanite chamber mark i",
+			"display_name": "thoracic nanite chamber (mark I)",
+			"file": "equipmenttechcybertechdisplayacd6.html",
+			"sources": [ "Technology Guide" ],
+			"category": "magic item",
+			"types": [
+				"tech",
+				"cybertech"
+			],
+			"cost": 8000,
+			"weight": 5,
+			"slot": "body",
+			"implantation": 2,
+			"install": 24,
+			"heading": [
+				"**Thoracic Nanite Chamber (Mark I)**",
+				"**Source** [Technology Guide pg. 38](source:Technology Guide)",
+				"**Price** 8,000 gp (Mark I), 32,000 gp (Mark II), 72,000 gp (Mark III)",
+				"**Slot** body; **Weight** 5 lbs. (Mark I), 5 lbs. (Mark II), 5 lbs. (Mark III)",
+				"**Install** DC 24 (Mark I), DC 28 (Mark II), DC 36 (Mark III)",
+				"**Implantation** 2 (Mark I), 4 (Mark II), 8 (Mark III)"
+			],
+			"construction": [
+				"Craft DC 24 (Mark I), DC 28 (Mark II), DC 32 (Mark III); Cost 4,000 gp (Mark I), 16,000 gp (Mark II), 36,000 gp (Mark III)",
+				"Craft Cybertech, cybernetics lab"
+			],
+			"description": [
+				"A thoracic nanite chamber augments the vital organs within a creature's chest, particularly its heart, lungs, and pulmonary system. Once installed, a thoracic nanite chamber grants an enhancement bonus to Constitution. This enhancement bonus alters the implant's price, implantation value, install DCs, and Craft DCs as listed below.",
+				"| Chamber | Enhancement | Implantation | Install |",
+				"| --- | --- | --- | --- |",
+				"| Mark I | +2 Con | 2 | DC 24 |",
+				"| Mark II | +4 Con | 4 | DC 28 |",
+				"| Mark III | +6 Con | 8 | DC 36 |"
+			]
+		},
+		{
+			"name": "wirejack tendons mark i",
+			"display_name": "wirejack tendons (mark I)",
+			"file": "equipmenttechcybertechdisplay5a14.html",
+			"sources": [ "Technology Guide" ],
+			"category": "magic item",
+			"types": [
+				"tech",
+				"cybertech"
+			],
+			"cost": 8000,
+			"weight": 10,
+			"slot": "body",
+			"implantation": 2,
+			"install": 24,
+			"heading": [
+				"**Wirejack Tendons (Mark I)**",
+				"**Source** [Technology Guide pg. 38](source:Technology Guide)",
+				"**Price** 8,000 gp (Mark I), 32,000 gp (Mark II), 72,000 gp (Mark III)",
+				"**Slot** body; **Weight** 10 lbs. (Mark I), 10 lbs. (Mark II), 10 lbs. (Mark III)",
+				"**Install** DC 24 (Mark I), DC 28 (Mark II), DC 36 (Mark III)",
+				"**Implantation** 2 (Mark I), 4 (Mark II), 8 (Mark III)"
+			],
+			"construction": [
+				"Craft DC 24 (Mark I), DC 28 (Mark II), DC 32 (Mark III); Cost 4,000 gp (Mark I), 16,000 gp (Mark II), 36,000 gp (Mark III)",
+				"Craft Cybertech, cybernetics lab"
+			],
+			"description": [
+				"Wirejack tendons not only strengthen and enhance existing reflexes, but also enhance the transmission of nerve impulses to surrounding musculature. Once installed, wirejack tendons grant an enhancement bonus to Dexterity. This enhancement bonus alters the price, implantation values, install DCs, and Craft DCs of the implant as listed below.",
+				"| Wirejack | Enhancement | Implantation | Install |",
+				"| --- | --- | --- | --- |",
+				"| Mark I | +2 Dex | 2 | DC 24 |",
+				"| Mark II | +4 Dex | 4 | DC 28 |",
+				"| Mark III | +6 Dex | 8 | DC 36 |"
+			]
+		},
+		{
+			"name": "biofilter",
+			"file": "equipmenttechcybertechdisplaybac0.html",
+			"sources": [ "Technology Guide" ],
+			"category": "magic item",
+			"types": [
+				"tech",
+				"cybertech"
+			],
+			"cost": 16000,
+			"weight": 2,
+			"slot": "body",
+			"implantation": 3,
+			"install": 25,
+			"heading": [
+				"**Biofilter**",
+				"**Source** [Technology Guide pg. 35](source:Technology Guide)",
+				"**Price** 16,000 gp",
+				"**Slot** body; **Weight** 2 lbs.",
+				"**Install** DC 25; **Implantation** 3"
+			],
+			"construction": [
+				"Craft DC 25; Cost 8,000 gp",
+				"Craft Cybertech, cybernetics lab"
+			],
+			"description": [
+				"A nanite matrix is installed in the kidneys and liver to help purge the body of toxins. A biofilter provides a +4 competence bonus on saving throws against disease and poison. In addition, when the user attempts such a saving throw, she rolls twice and takes the higher result."
+			]
+		},
+		{
+			"name": "dermal plating mark ii",
+			"display_name": "dermal plating (mark II)",
+			"file": "equipmenttechcybertechdisplayafb3.html",
+			"sources": [ "Technology Guide" ],
+			"category": "magic item",
+			"types": [
+				"tech",
+				"cybertech"
+			],
+			"cost": 16000,
+			"weight": 5,
+			"slot": "body",
+			"implantation": 4,
+			"install": 26,
+			"heading": [
+				"**Dermal Plating (Mark II)**",
+				"**Source** [Technology Guide pg. 37](source:Technology Guide)",
+				"**Price** 4,000 gp (Mark I), 16,000 gp (Mark II), 36,000 gp (Mark III), 64,000 gp (Mark IV), 100,000 gp (Mark V)",
+				"**Slot** body; **Weight** 5 lbs. (Mark I), 5 lbs. (Mark II), 5 lbs. (Mark III), 5 lbs. (Mark IV), 5 lbs. (Mark V)",
+				"**Install** DC 24 (Mark I), DC 26 (Mark II), DC 28 (Mark III), DC 30 (Mark IV), DC 32 (Mark V)",
+				"**Implantation** 2 (Mark I), 4 (Mark II), 4 (Mark III), 8 (Mark IV), 10 (Mark V)"
+			],
+			"copyof": "dermal plating mark i"
+		},
+		{
+			"name": "cyberfiber muscles mark ii",
+			"display_name": "cyberfiber muscles (mark II)",
+			"file": "equipmenttechcybertechdisplay2c91.html",
+			"sources": [ "Technology Guide" ],
+			"category": "magic item",
+			"types": [
+				"tech",
+				"cybertech"
+			],
+			"cost": 32000,
+			"weight": 10,
+			"slot": "body",
+			"implantation": 4,
+			"install": 28,
+			"heading": [
+				"**Cyberfiber Muscles (Mark II)**",
+				"**Source** [Technology Guide pg. 36](source:Technology Guide)",
+				"**Price** 8,000 gp (Mark I), 32,000 gp (Mark II), 72,000 gp (Mark III)",
+				"**Slot** body; **Weight** 10 lbs. (Mark I), 10 lbs. (Mark II), 10 lbs. (Mark III)",
+				"**Install** DC 24 (Mark I), DC 28 (Mark II), DC 36 (Mark III)",
+				"**Implantation** 2 (Mark I), 4 (Mark II), 8 (Mark III)"
+			],
+			"copyof": "cyberfiber muscles mark i"
+		},
+		{
+			"name": "thoracic nanite chamber mark ii",
+			"display_name": "thoracic nanite chamber (mark II)",
+			"file": "equipmenttechcybertechdisplay08dc.html",
+			"sources": [ "Technology Guide" ],
+			"category": "magic item",
+			"types": [
+				"tech",
+				"cybertech"
+			],
+			"cost": 32000,
+			"weight": 5,
+			"slot": "body",
+			"implantation": 4,
+			"install": 28,
+			"heading": [
+				"**Thoracic Nanite Chamber (Mark II)**",
+				"**Source** [Technology Guide pg. 38](source:Technology Guide)",
+				"**Price** 8,000 gp (Mark I), 32,000 gp (Mark II), 72,000 gp (Mark III)",
+				"**Slot** body; **Weight** 5 lbs. (Mark I), 5 lbs. (Mark II), 5 lbs. (Mark III)",
+				"**Install** DC 24 (Mark I), DC 28 (Mark II), DC 36 (Mark III)",
+				"**Implantation** 2 (Mark I), 4 (Mark II), 8 (Mark III)"
+			],
+			"copyof": "thoracic nanite chamber mark i"
+		},
+		{
+			"name": "wirejack tendons mark ii",
+			"display_name": "wirejack tendons (mark II)",
+			"file": "equipmenttechcybertechdisplay2129.html",
+			"sources": [ "Technology Guide" ],
+			"category": "magic item",
+			"types": [
+				"tech",
+				"cybertech"
+			],
+			"cost": 32000,
+			"weight": 10,
+			"slot": "body",
+			"implantation": 4,
+			"install": 28,
+			"heading": [
+				"**Wirejack Tendons (Mark II)**",
+				"**Source** [Technology Guide pg. 38](source:Technology Guide)",
+				"**Price** 8,000 gp (Mark I), 32,000 gp (Mark II), 72,000 gp (Mark III)",
+				"**Slot** body; **Weight** 10 lbs. (Mark I), 10 lbs. (Mark II), 10 lbs. (Mark III)",
+				"**Install** DC 24 (Mark I), DC 28 (Mark II), DC 36 (Mark III)",
+				"**Implantation** 2 (Mark I), 4 (Mark II), 8 (Mark III)"
+			],
+			"copyof": "wirejack tendons mark i"
+		},
+		{
+			"name": "dermal plating mark iii",
+			"display_name": "dermal plating (mark III)",
+			"file": "equipmenttechcybertechdisplay53e7.html",
+			"sources": [ "Technology Guide" ],
+			"category": "magic item",
+			"types": [
+				"tech",
+				"cybertech"
+			],
+			"cost": 36000,
+			"weight": 5,
+			"slot": "body",
+			"implantation": 4,
+			"install": 28,
+			"heading": [
+				"**Dermal Plating (Mark III)**",
+				"**Source** [Technology Guide pg. 37](source:Technology Guide)",
+				"**Price** 4,000 gp (Mark I), 16,000 gp (Mark II), 36,000 gp (Mark III), 64,000 gp (Mark IV), 100,000 gp (Mark V)",
+				"**Slot** body; **Weight** 5 lbs. (Mark I), 5 lbs. (Mark II), 5 lbs. (Mark III), 5 lbs. (Mark IV), 5 lbs. (Mark V)",
+				"**Install** DC 24 (Mark I), DC 26 (Mark II), DC 28 (Mark III), DC 30 (Mark IV), DC 32 (Mark V)",
+				"**Implantation** 2 (Mark I), 4 (Mark II), 4 (Mark III), 8 (Mark IV), 10 (Mark V)"
+			],
+			"copyof": "dermal plating mark i"
+		},
+		{
+			"name": "dermal plating mark iv",
+			"display_name": "dermal plating (mark IV)",
+			"file": "equipmenttechcybertechdisplay1262.html",
+			"sources": [ "Technology Guide" ],
+			"category": "magic item",
+			"types": [
+				"tech",
+				"cybertech"
+			],
+			"cost": 64000,
+			"weight": 5,
+			"slot": "body",
+			"implantation": 8,
+			"install": 30,
+			"heading": [
+				"**Dermal Plating (Mark IV)**",
+				"**Source** [Technology Guide pg. 37](source:Technology Guide)",
+				"**Price** 4,000 gp (Mark I), 16,000 gp (Mark II), 36,000 gp (Mark III), 64,000 gp (Mark IV), 100,000 gp (Mark V)",
+				"**Slot** body; **Weight** 5 lbs. (Mark I), 5 lbs. (Mark II), 5 lbs. (Mark III), 5 lbs. (Mark IV), 5 lbs. (Mark V)",
+				"**Install** DC 24 (Mark I), DC 26 (Mark II), DC 28 (Mark III), DC 30 (Mark IV), DC 32 (Mark V)",
+				"**Implantation** 2 (Mark I), 4 (Mark II), 4 (Mark III), 8 (Mark IV), 10 (Mark V)"
+			],
+			"copyof": "dermal plating mark i"
+		},
+		{
+			"name": "cyberfiber muscles mark iii",
+			"display_name": "cyberfiber muscles (mark III)",
+			"file": "equipmenttechcybertechdisplay1aca.html",
+			"sources": [ "Technology Guide" ],
+			"category": "magic item",
+			"types": [
+				"tech",
+				"cybertech"
+			],
+			"cost": 72000,
+			"weight": 10,
+			"slot": "body",
+			"implantation": 8,
+			"install": 36,
+			"heading": [
+				"**Cyberfiber Muscles (Mark III)**",
+				"**Source** [Technology Guide pg. 36](source:Technology Guide)",
+				"**Price** 8,000 gp (Mark I), 32,000 gp (Mark II), 72,000 gp (Mark III)",
+				"**Slot** body; **Weight** 10 lbs. (Mark I), 10 lbs. (Mark II), 10 lbs. (Mark III)",
+				"**Install** DC 24 (Mark I), DC 28 (Mark II), DC 36 (Mark III)",
+				"**Implantation** 2 (Mark I), 4 (Mark II), 8 (Mark III)"
+			],
+			"copyof": "cyberfiber muscles mark i"
+		},
+		{
+			"name": "thoracic nanite chamber mark iii",
+			"display_name": "thoracic nanite chamber (mark III)",
+			"file": "equipmenttechcybertechdisplay1aa6.html",
+			"sources": [ "Technology Guide" ],
+			"category": "magic item",
+			"types": [
+				"tech",
+				"cybertech"
+			],
+			"cost": 72000,
+			"weight": 5,
+			"slot": "body",
+			"implantation": 8,
+			"install": 36,
+			"heading": [
+				"**Thoracic Nanite Chamber (Mark III)**",
+				"**Source** [Technology Guide pg. 38](source:Technology Guide)",
+				"**Price** 8,000 gp (Mark I), 32,000 gp (Mark II), 72,000 gp (Mark III)",
+				"**Slot** body; **Weight** 5 lbs. (Mark I), 5 lbs. (Mark II), 5 lbs. (Mark III)",
+				"**Install** DC 24 (Mark I), DC 28 (Mark II), DC 36 (Mark III)",
+				"**Implantation** 2 (Mark I), 4 (Mark II), 8 (Mark III)"
+			],
+			"copyof": "thoracic nanite chamber mark i"
+		},
+		{
+			"name": "wirejack tendons mark iii",
+			"display_name": "wirejack tendons (mark III)",
+			"file": "equipmenttechcybertechdisplay7575.html",
+			"sources": [ "Technology Guide" ],
+			"category": "magic item",
+			"types": [
+				"tech",
+				"cybertech"
+			],
+			"cost": 72000,
+			"weight": 10,
+			"slot": "body",
+			"implantation": 8,
+			"install": 36,
+			"heading": [
+				"**Wirejack Tendons (Mark III)**",
+				"**Source** [Technology Guide pg. 38](source:Technology Guide)",
+				"**Price** 8,000 gp (Mark I), 32,000 gp (Mark II), 72,000 gp (Mark III)",
+				"**Slot** body; **Weight** 10 lbs. (Mark I), 10 lbs. (Mark II), 10 lbs. (Mark III)",
+				"**Install** DC 24 (Mark I), DC 28 (Mark II), DC 36 (Mark III)",
+				"**Implantation** 2 (Mark I), 4 (Mark II), 8 (Mark III)"
+			],
+			"copyof": "wirejack tendons mark i"
+		},
+		{
+			"name": "dermal plating mark v",
+			"display_name": "dermal plating (mark V)",
+			"file": "equipmenttechcybertechdisplaye6f1.html",
+			"sources": [ "Technology Guide" ],
+			"category": "magic item",
+			"types": [
+				"tech",
+				"cybertech"
+			],
+			"cost": 100000,
+			"weight": 5,
+			"slot": "body",
+			"implantation": 10,
+			"install": 32,
+			"heading": [
+				"**Dermal Plating (Mark V)**",
+				"**Source** [Technology Guide pg. 37](source:Technology Guide)",
+				"**Price** 4,000 gp (Mark I), 16,000 gp (Mark II), 36,000 gp (Mark III), 64,000 gp (Mark IV), 100,000 gp (Mark V)",
+				"**Slot** body; **Weight** 5 lbs. (Mark I), 5 lbs. (Mark II), 5 lbs. (Mark III), 5 lbs. (Mark IV), 5 lbs. (Mark V)",
+				"**Install** DC 24 (Mark I), DC 26 (Mark II), DC 28 (Mark III), DC 30 (Mark IV), DC 32 (Mark V)",
+				"**Implantation** 2 (Mark I), 4 (Mark II), 4 (Mark III), 8 (Mark IV), 10 (Mark V)"
+			],
+			"copyof": "dermal plating mark i"
+		},
+		{
+			"name": "cybernetic arm",
+			"file": "equipmenttechcybertechdisplay4922.html",
+			"sources": [ "Technology Guide" ],
+			"category": "magic item",
+			"types": [
+				"tech",
+				"cybertech"
+			],
+			"cost": 4750,
+			"weight": 9,
+			"slot": "arm",
+			"implantation": 2,
+			"install": 28,
+			"heading": [
+				"**Cybernetic Arm**",
+				"**Source** [Technology Guide pg. 36](source:Technology Guide)",
+				"**Price** 4,750 gp",
+				"**Slot** arm; **Weight** 9 lbs.",
+				"**Install** DC 28; **Implantation** 2"
+			],
+			"construction": [
+				"Craft DC 25; Cost 2,375 gp",
+				"Craft Cybertech, cybernetics lab"
+			],
+			"description": [
+				"A cybernetic arm completely replaces a normal arm, from the shoulder to the hand. It can take the place of an arm lost to a severing wound. The arm is fully functional and no different in appearance from a regular arm, although cyberart can be added to the arm at no additional cost. A cybernetic arm does not increase a user's Strength score. If a creature has two cybernetic arms, it can lift and carry double the normal maximum weight for that creature's Strength and size, and it gains a +5 circumstance bonus on Climb checks. A character who wields a onehanded or light weapon with a cybernetic arm gains a +5 bonus to CMD against disarm attempts; two cybernetic arms do not increase this bonus, but do allow the bonus to apply to two-handed weapons."
+			]
+		},
+		{
+			"name": "implanted weaponry",
+			"file": "equipmenttechcybertechdisplaydfd1.html",
+			"sources": [ "Technology Guide" ],
+			"category": "magic item",
+			"types": [
+				"tech",
+				"cybertech"
+			],
+			"cost": 10000,
+			"weight": 1,
+			"slot": "arm",
+			"implantation": 2,
+			"install": 26,
+			"heading": [
+				"**Implanted Weaponry**",
+				"**Source** [Technology Guide pg. 38](source:Technology Guide)",
+				"**Price** 10,000 gp",
+				"**Slot** arm; **Weight** 1 lb.",
+				"**Install** DC 26; **Implantation** 2"
+			],
+			"construction": [
+				"Craft DC 25; Cost 5,000 gp",
+				"Craft Cybertech, cybernetics lab, weapon to be implanted"
+			],
+			"description": [
+				"A single light melee weapon or one-handed firearm can be implanted in an arm or cybernetic arm. Melee weapons extend or retract as a swift action. Ranged weapons fire through a port on the palm or back of the wrist. Either type of weapon has statistics identical to its normal form. Firearms reload through a breach in the arm, increasing the reloading time of the weapon to a full-round action, or doubling reloading times that already take a full round or longer. Implanted weapons are well concealed; detecting one requires a thorough search (Perception DC 25). Implanted weaponry can be damaged or destroyed by sundering, but cannot be disarmed. Weaponry installed in a cybernetic arm does not count against a creature's implantation limit. The cost, price, and weight of the weapon to be implanted are added to the cost, price, and weight listed in this stat block."
+			]
+		},
+		{
+			"name": "cyberart",
+			"file": "equipmenttechcybertechdisplayba19.html",
+			"sources": [ "Technology Guide" ],
+			"category": "magic item",
+			"types": [
+				"tech",
+				"cybertech"
+			],
+			"cost": 100,
+			"weight": 1,
+			"slot": "none",
+			"implantation": 0,
+			"install": 20,
+			"heading": [
+				"**Cyberart**",
+				"**Source** [Technology Guide pg. 36](source:Technology Guide)",
+				"**Price** 100 gp",
+				"**Slot** none; **Weight** 1 lb.",
+				"**Install** DC 20; **Implantation** 0"
+			],
+			"construction": [
+				"Craft DC 20; Cost 50 gp",
+				"Craft Cybertech, cybernetics lab"
+			],
+			"description": [
+				"Cyberart is the least invasive of all cybertech. This implant is similar in appearance to a tattoo, except that it can glow softly if desired, providing illumination equal to that provided by a candle. Some cyberart is animated, providing a short looping scene that replays over and over. Cyberart is installed in a body with a small metallic stylus that injects low-grade nanites into a body part; the quality of the art relies on the installer's Craft (painting or tattoo) check."
+			]
+		},
+		{
+			"name": "implant mesh",
+			"file": "equipmenttechcybertechdisplay198c.html",
+			"sources": [ "Pathfinder #89: Palace of Fallen Stars" ],
+			"category": "magic item",
+			"types": [
+				"tech",
+				"cybertech"
+			],
+			"cost": 5000,
+			"weight": 0,
+			"slot": "none",
+			"implantation": 2,
+			"install": 30,
+			"heading": [
+				"**Implant Mesh**",
+				"**Source** [Pathfinder #89: Palace of Fallen Stars pg. 63](source:Pathfinder #89: Palace of Fallen Stars)",
+				"**Price** 5,000 gp",
+				"**Slot** none; **Weight** &mdash;",
+				"**Install** DC 30; **Implantation** 2"
+			],
+			"construction": [
+				"Craft DC 34; Cost 2,500 gp",
+				"Craft Cybertech, cybernetics lab"
+			],
+			"description": [
+				"An implant mesh is a cybernetic augmentation that enhanced other cybernetic implants, notably those that heighten their wearers' physical abilities. If used to enhance cyberfiber muscles, a thoracic nanite chamber, or wirejack tendons, an implant mesh must be installed on that piece of cyberware before the item is implanted in a body. If the check to implant the mesh into the other cybernetic item fails, the implant mesh is destroyed.",
+				"Once a piece of cybertech has been augmented by an implant mesh, that cybertech implant no longer counts as taking up a body slot for the purposes of installing other cybernetic devices into that slot. Enhancing a cybernetic device with an implant mesh doesn't alter the device's install DC, but does increase its implantation value by 2. For example, a mark II thoracic nanite chamber enhanced with an implant mesh could be implanted in a creature that already has cyberfiber muscles or dermal plating, but the augmented thoracic nanite chamber's implantation value increases to 6."
+			]
+		}
+	]
 }

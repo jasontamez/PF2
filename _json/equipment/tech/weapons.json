@@ -1,1039 +1,1147 @@
 {
-	"_information": {
-		"description": [
-			"Each technological weapon has a full description, including a set of abbreviated statistics. This information is organized as follows.",
-			"**Price:** This is the cost (in gold pieces) to purchase the weapon if it's available for sale. As with magic weapons, a technological weapon can be sold by PCs for half this value.",
-			"**Type:** This indicates whether the weapon is a light, one-handed, or two-handed melee or ranged weapon.",
-			"**Proficiency:** This entry lists whether the weapon is simple, martial, or exotic. If an existing weapon proficiency allows the new weapon's use, that weapon proficiency is listed in parentheses. Note that Exotic Weapon Proficiency (heavy weaponry) works similarly to Exotic Weapon Proficiency (firearms) in that it allows access to a wide range of similar weapons.",
-			"Some GMs may wish to replace Weapon Proficiency (firearms) with Weapon Proficiency (technological firearms) to further restrict access to these devices to player characters in their campaigns. **Damage:** This is the weapon's base damage. The type of damage dealt by the weapon is listed after the damage value. Most weapons list the damage dealt by Medium and Small versions of the weapon; weapons with only one damage entry deal the same amount of damage regardless of size.",
-			"**Critical:** This entry lists the weapon's critical threat range and critical damage multiplier.",
-			"**Range:** This lists the weapon's range increment; no listing is given for melee weapons that cannot be thrown. Unless otherwise noted, all firearms in this chapter are treated as projectile weapons for the purpose of determining their maximum range.",
-			"**Capacity:** Unless otherwise specified, this value is the maximum number of charges the weapon can hold.",
-			"**Usage:** This value lists the number of charges the weapon consumes from its capacity each time it is activated.",
-			"**Special:** This entry lists any special weapon qualities the weapon might have. New weapon qualities are listed below. **Weight:** This is the weight of the weapon in pounds. The weights given are for Medium weapons. A Small weapon weighs half as much; a Large weapon weighs twice as much.",
-			"*Automatic:* This weapon can act as a semi-automatic weapon (see below), or it can fire a burst of shots with a single pull of the trigger to attack all creatures in a line. This line starts from any corner of the wielder's space and extends to the limit of the weapon's range or until it strikes a barrier it cannot penetrate. When using an automatic weapon to attack all creatures in a line, the wielder makes a separate attack roll against each creature in the line. Each creature in the line can be attacked with only one shot from each burst. Each attack roll takes a -2 penalty, and its damage cannot be modified by precision damage or damage-increasing feats such as Vital Strike. Effects that grant concealment, such as fog or smoke, or the blur, invisibility, or mirror image spells, do not affect an automatic weapon's line attack. Roll to confirm each attack roll that threatens a critical hit separately. A single burst with an automatic weapon consumes 10 charges. When taking a full-attack action with an automatic weapon, the wielder can fire as many bursts in a round as he has attacks, provided he has enough charges to make all of the attacks.",
-			"*Semi-Automatic:* A semi-automatic weapon normally fires one shot as an attack. However, the user can take a full-attack action to fire twice, as if using the Rapid Shot feat (including taking a -2 penalty on all attacks). If the wielder has the Rapid Shot feat, she can use the additional shot from that as well, but the penalty for all shots fired in that round increases to -6.",
-			"*Slow-Firing:* A slow-firing weapon requires a full-round action to use, and thus cannot be used to make iterative attacks.",
-			"**Touch:** Attacks with the weapon resolve as touch attacks.",
-			"**Description:** This section describes the weapon's abilities and appearance.",
-			"**Construction:** Certain requirements must be met for a character to craft a technological weapon. These requirements generally consist of having a feat and access to a particular kind of manufacturing facility (see page 16).",
-			"**Craft:** This is the Craft DC required to create the weapon. It is also the Knowledge (engineering) DC to correctly identify the weapon.",
-			"**Cost:** This is the cost in gold pieces to create the weapon. Generally this cost is equal to half the price of the weapon"
-		]
-	},
-	"Monowhip": {
-		"equipmentname": "Monowhip",
-		"file": "equipmenttechweaponsdisplay1804.html",
-		"sources": [ "Technology Guide" ],
-		"type": "weapon",
-		"category": "light",
-		"proficiency": "exotic",
-		"cost": 70000,
-		"weight": 1,
-		"dmgS": "1d10",
-		"dmgM": "2d6",
-		"critMultiplier": 3,
-		"critRange": 18,
-		"slashing": true,
-		"capacity": 10,
-		"usage": "1 charge/round",
-		"special": "Performance, reach, touch",
-		"heading": [
-			"**Monowhip**",
-			"**Source** [Technology Guide pg. 20](source:Technology Guide)"
-		],
-		"statistics": [
-			"**Cost** 70,000 gp",
-			"**Type** light melee; **Proficiency** exotic; **Weight** 1 lb.",
-			"**Damage** 1d10 (small), 2d6 (medium); Damage Type S; Criticsl 18-20/x3",
-			"**Range** -; **Capacity** 10; **Usage** 1 charge/round; **Special** Performance, reach, touch"
-		],
-		"construction": [
-			"Craft DC 32; Cost 35,000 gp",
-			"Craft Technological Arms and Armor, graviton lab"
-		],
-		"description": [
-			"A monowhip is a deadly melee weapon capable of inflicting horrible wounds, even in the hands of the weak. An inactive monowhip looks like a short metal baton, but when it's activated, a small weight detaches, revealing a 15-foot-long monofilament length. Wielded like a whip, a monowhip slices deeply into targets and can inflict grievous critical hits with shocking ease. Attacks made with a monowhip resolve as touch attacks, and they ignore hardness as if the monofilament were made of adamantine. A monowhip's damage cannot be enhanced by strength, as the monofilament slices with equal ease regardless of the force applied. Activating a monowhip is a move action; once activated, the whip consumes power incredibly quickly, at the rate of 1 charge per round."
-		]
-	},
-	"Null blade": {
-		"equipmentname": "Null blade",
-		"file": "equipmenttechweaponsdisplay3b73.html",
-		"sources": [ "Technology Guide" ],
-		"type": "weapon",
-		"category": "one-handed",
-		"proficiency": "exotic",
-		"cost": 58835,
-		"weight": 4,
-		"dmgS": "1d8",
-		"dmgM": "1d10",
-		"critMultiplier": 2,
-		"critRange": 19,
-		"slashing": true,
-		"capacity": 10,
-		"usage": "1 charge/round",
-		"heading": [
-			"**Null blade**",
-			"**Source** [Technology Guide pg. 20](source:Technology Guide)"
-		],
-		"statistics": [
-			"**Cost** 58,835 gp",
-			"**Type** one-handed melee; **Proficiency** exotic; **Weight** 4 lbs.",
-			"**Damage** 1d8 (small), 1d10 (medium); Damage Type S; Criticsl 19-20/x2",
-			"**Range** -; **Capacity** 10; **Usage** 1 charge/round; **Special** -"
-		],
-		"construction": [
-			"Craft DC 30; Cost 33,835 gp",
-			"Craft Magic Arms and Armor, Craft Technological Arms and Armor, military lab, discharge, dispel magic, summon monster I"
-		],
-		"description": [
-			"A potent fusion of magic, advanced science, and masterful weaponsmithing, null blades were devised by the Technic League as weapons against both magic and machine. Null blades incorporate an adamantine-noqual alloy in their blades, a closely guarded metallurgical secret of the Technic League. The League guards these weapons closely, and when one falls into another's hands, they spare no expense in their efforts to recover it.",
-			"A null blade is a +1 construct-bane bastard sword- using it in this capacity does not consume any charges. The blade's strange alloy penetrates hardness as if it were made of adamantine. The blade can be activated as a swift action. While it's active, a shimmering field of green energy wraps around the blade, disrupting magic and technology alike, and the weapon's enhancement bonus increases to +2. In addition, the first time in a round that an activated null blade strikes a creature or object, it consumes an additional charge and targets the creature or object struck with dispel magic and discharge (see page 9). If a technological item damaged by a null blade is used in the same round it took damage, it glitches as if it were timeworn (see page 55)."
-		]
-	},
-	"Plasma blade": {
-		"equipmentname": "Plasma blade",
-		"file": "equipmenttechweaponsdisplay310a.html",
-		"sources": [ "Pathfinder #100: A Song of Silver" ],
-		"type": "weapon",
-		"category": "one-handed",
-		"proficiency": "exotic",
-		"cost": 12000,
-		"weight": 3,
-		"dmgS": "1d8",
-		"dmgM": "1d10",
-		"critMultiplier": 3,
-		"critRange": 19,
-		"dmgType": "electricity and fire",
-		"capacity": 10,
-		"usage": "1 charge/minute",
-		"special": "Touch",
-		"heading": [
-			"**Plasma blade**",
-			"**Source** [Pathfinder #100: A Song of Silver pg. 105](source:Pathfinder #100: A Song of Silver)"
-		],
-		"statistics": [
-			"**Cost** 12,000 gp",
-			"**Type** one-handed melee; **Proficiency** exotic; **Weight** 3 lbs.",
-			"**Damage** 1d8 (small), 1d10 (medium); Damage Type E and F; Criticsl 19-20/x3",
-			"**Range** -; **Capacity** 10; **Usage** 1 charge/minute; **Special** Touch"
-		],
-		"construction": [
-			"Craft DC 0; Cost  gp",
-			"N/A"
-		],
-		"description": [
-			"When activated, a plasma blade's heavy, ornate handle projects a quantum field that contains energized plasma in a 2- to 3-foot-long \"blade.\" Attacks made with a plasma blade resolve as touch attacks. Half the damage it deals is electricity and the other half is fire. When the wielder attacks an object, damage from a plasma blade ignores the first 20 points of hardness and its damage is not halved (even though energy damage is usually halved when applied to objects). Thanks to its quantum containment, a plasma blade deals half damage against incorporeal creatures, despite not being a magical weapon."
-		]
-	},
-	"Chainsaw": {
-		"equipmentname": "Chainsaw",
-		"file": "equipmenttechweaponsdisplay222d.html",
-		"sources": [ "Technology Guide" ],
-		"type": "weapon",
-		"category": "two-handed",
-		"proficiency": "exotic",
-		"cost": 2700,
-		"weight": 10,
-		"dmgS": "1d12",
-		"dmgM": "3d6",
-		"critMultiplier": 2,
-		"critRange": 18,
-		"slashing": true,
-		"capacity": 10,
-		"usage": "1 charge/hour",
-		"special": "Deadly, distracting",
-		"heading": [
-			"**Chainsaw**",
-			"**Source** [Technology Guide pg. 21](source:Technology Guide)"
-		],
-		"statistics": [
-			"**Cost** 2,700 gp",
-			"**Type** two-handed melee; **Proficiency** exotic; **Weight** 10 lbs.",
-			"**Damage** 1d12 (small), 3d6 (medium); Damage Type S; Criticsl 18-20/x2",
-			"**Range** -; **Capacity** 10; **Usage** 1 charge/hour; **Special** Deadly, distracting"
-		],
-		"construction": [
-			"Craft DC 20; Cost 1,350 gp",
-			"Craft Technological Arms and Armor, military lab"
-		],
-		"description": [
-			"Originally developed for use as tools, chainsaws work remarkably well as weapons and are often used by lunatics or those who want to intimidate their enemies. A Numerian chainsaw consists of a weighty housing for the engine and power source that is fitted with two handles, and a 2- to 3-foot-long blade extending from the front, around which a whirling, buzzing chain of razorsharp cutting links spins at blinding speed when the weapon is activated. It's a standard action to activate a chainsaw, and doing so consumes a charge of power. The chainsaw continues to run constantly after activation, draining an additional charge each hour. A dropped chainsaw automatically turns off unless it is set down carefully as a move action. The buzzing of a chainsaw's blade is loud and distracting (but not deafening), causing anyone carrying an activated chainsaw to take a -10 penalty on Stealth checks. An activated chainsaw grants a proficient user a +2 morale bonus on Intimidate checks."
-		]
-	},
-	"Neural inhibitor": {
-		"equipmentname": "Neural inhibitor",
-		"file": "equipmenttechweaponsdisplay6304.html",
-		"sources": [ "Pathfinder #85: Fires of Creation" ],
-		"type": "weapon",
-		"category": "light",
-		"proficiency": "simple",
-		"cost": 2400,
-		"weight": 2,
-		"dmgS": "1d6",
-		"dmgM": "1d6",
-		"critMultiplier": 2,
-		"bludgeoning": true,
-		"capacity": 10,
-		"usage": "see text",
-		"heading": [
-			"**Neural inhibitor**",
-			"**Source** [Pathfinder #85: Fires of Creation pg. 60](source:Pathfinder #85: Fires of Creation)"
-		],
-		"statistics": [
-			"**Cost** 2,400 gp",
-			"**Type** light melee; **Proficiency** simple; **Weight** 2 lbs.",
-			"**Damage** 1d6 (small), 1d6 (medium); Damage Type B; Criticsl x2",
-			"**Range** -; **Capacity** 10; **Usage** see text; **Special** -"
-		],
-		"construction": [
-			"Craft DC 20; Cost 1,200 gp",
-			"Craft Technological Arms and Armor, military lab"
-		],
-		"description": [
-			"While powered down, this sturdy, 2-foot truncheon functions as a light mace. Once it is activated (this is a swift action that consumes 1 charge), a high-density power core housed in the weapon's head generates a high-pitched whine that causes momentary disorientation in a creature struck. Each time the weapon hits a target, it consumes 1 charge and the creature struck must succeed at a DC 12 Fortitude save or suffer trauma to its central nervous system. For 1 round, a creature that fails its saving throw takes a -1 penalty on attack rolls, skill checks, and Will saving throws, as well as a -4 penalty on concentration checks. The duration of this effect stacks with multiple hits from the neural inhibitor. This is a mind-affecting effect."
-		]
-	},
-	"Laser torch": {
-		"equipmentname": "Laser torch",
-		"file": "equipmenttechweaponsdisplay35d8.html",
-		"sources": [ "Technology Guide" ],
-		"type": "weapon",
-		"category": "one-handed",
-		"proficiency": "martial",
-		"cost": 6000,
-		"weight": 4,
-		"dmgS": "1d8",
-		"dmgM": "1d10",
-		"critMultiplier": 3,
-		"dmgType": "fire",
-		"capacity": 10,
-		"usage": "1 charge",
-		"special": "Touch",
-		"heading": [
-			"**Laser torch**",
-			"**Source** [Technology Guide pg. 20](source:Technology Guide)"
-		],
-		"statistics": [
-			"**Cost** 6,000 gp",
-			"**Type** one-handed melee; **Proficiency** martial; **Weight** 4 lbs.",
-			"**Damage** 1d8 (small), 1d10 (medium); Damage Type F; Criticsl x3",
-			"**Range** -; **Capacity** 10; **Usage** 1 charge; **Special** Touch"
-		],
-		"construction": [
-			"Craft DC 26; Cost 3,000 gp",
-			"Craft Technological Arms and Armor, production lab"
-		],
-		"description": [
-			"A laser torch is a handheld tool intended to cut through objects with great speed. When activated, a laser torch emits a beam of highly focused light, cutting and burning through surfaces up to 6 inches away. Attacks from a laser torch resolve as touch attacks and deal 1d10 points of fire damage. This damage is not modified further by Strength. When the laser torch is used as a tool or as a weapon to sunder, its damage bypasses up to 20 points of hardness, and damage is not halved (as is normally the case for energy damage applied to objects) unless the object is particularly fire-resistant. A laser torch's cutting beam passes through force fields and force effects without damaging the field. Invisible objects and creatures can't be harmed by a laser torch."
-		]
-	},
-	"Stun baton": {
-		"equipmentname": "Stun baton",
-		"file": "equipmenttechweaponsdisplayedce.html",
-		"sources": [ "Technology Guide" ],
-		"type": "weapon",
-		"category": "one-handed",
-		"proficiency": "martial",
-		"cost": 5000,
-		"weight": 2,
-		"dmgS": "special",
-		"dmgM": "special",
-		"critMultiplier": 2,
-		"bludgeoning": true,
-		"dmgType": "electricity (special)",
-		"capacity": 10,
-		"usage": "1 charge/round",
-		"special": "Touch",
-		"heading": [
-			"**Stun baton**",
-			"**Source** [Technology Guide pg. 20](source:Technology Guide)"
-		],
-		"statistics": [
-			"**Cost** 5,000 gp",
-			"**Type** one-handed melee; **Proficiency** martial; **Weight** 2 lbs.",
-			"**Damage** Special (small), Special (medium); Damage Type B and E (special); Criticsl x2",
-			"**Range** -; **Capacity** 10; **Usage** 1 charge/round; **Special** Touch"
-		],
-		"construction": [
-			"Craft DC 24; Cost 2,500 gp",
-			"Craft Technological Arms and Armor, military lab"
-		],
-		"description": [
-			"This slender rod has an insulated grip and a conductive tip. All bludgeoning damage dealt by an active stun baton is nonlethal, while the electrical charge can be either nonlethal or lethal. By activating a control in the handle as a swift action, the wielder can switch the attack between a nonlethal jolt and a lethal shock. On a confirmed critical hit, a target must succeed at a Fortitude saving throw (DC = 10 + the damage dealt by the critical hit) or be staggered for 1 round. When it's not activated, a stun baton functions as a sap. A character who is proficient with saps is proficient with a stun baton."
-		]
-	},
-	"Starfall spade": {
-		"equipmentname": "Starfall spade",
-		"file": "equipmenttechweaponsdisplay865e.html",
-		"sources": [ "Pathfinder #89: Palace of Fallen Stars" ],
-		"type": "weapon",
-		"category": "two-handed",
-		"proficiency": "martial",
-		"cost": 8620,
-		"weight": 12,
-		"dmgS": "special",
-		"dmgM": "special",
-		"critMultiplier": 2,
-		"dmgType": "special",
-		"capacity": 10,
-		"usage": "see text",
-		"special": "See text",
-		"heading": [
-			"**Starfall spade**",
-			"**Source** [Pathfinder #89: Palace of Fallen Stars pg. 63](source:Pathfinder #89: Palace of Fallen Stars)"
-		],
-		"statistics": [
-			"**Cost** 8,620 gp",
-			"**Type** two-handed melee; **Proficiency** martial; **Weight** 12 lbs.",
-			"**Damage** Special (small), Special (medium); Damage Type Special; Criticsl x2",
-			"**Range** -; **Capacity** 10; **Usage** see text; **Special** See text"
-		],
-		"construction": [
-			"Craft DC 26; Cost 4,620 gp",
-			"Craft Magic Arms and Armor, Craft Technoligcal Arms and Armor, military lab, scorching ray, shocking grasp"
-		],
-		"description": [
-			"Aura moderate evocation; CL 7th",
-			"The Technic League produces these unusual weapons as signature tools for the guards of Starfall and the Palace of Fallen Stars. A Starfall spade is a +1/+1 monk's spade and has a capacity of 10 charges. When the weapon strikes a foe, it automatically consumes a charge and deals an additional 2 points of plasma damage (1 electricity, 1 fire) on that hit. Attack that miss don't consume charges. A crystal button on the shaft allows for a secondary attack: a beam of plasma that fires from the forked tip of the spade. This beam is a ranged touch attack that deals 4d6 points of plasma damage (half electricity, half fire) on a hit-it has a maximum range of 40 feet with no range increment. Firing this plasma beam consumes 10 charges."
-		]
-	},
-	"Arc pistol": {
-		"equipmentname": "Arc pistol",
-		"file": "equipmenttechweaponsdisplayaf74.html",
-		"sources": [ "Technology Guide" ],
-		"type": "weapon",
-		"category": "one-handed firearm",
-		"proficiency": "exotic",
-		"cost": 10000,
-		"weight": 2,
-		"range": "50 ft.",
-		"dmgS": "1d6",
-		"dmgM": "1d8",
-		"critMultiplier": 2,
-		"dmgType": "electricity",
-		"capacity": 10,
-		"usage": "1 charge",
-		"special": "Semi-automatic, touch",
-		"heading": [
-			"**Arc pistol**",
-			"**Source** [Technology Guide pg. 21](source:Technology Guide)"
-		],
-		"statistics": [
-			"**Cost** 10,000 gp",
-			"**Type** one-handed ranged; **Proficiency** exotic (firearms); **Weight** 2 lbs.",
-			"**Damage** 1d6 (small), 1d8 (medium); Damage Type E; Criticsl x2",
-			"**Range** 50 ft.; **Capacity** 10; **Usage** 1 charge; **Special** Semi-automatic, touch"
-		],
-		"construction": [
-			"Craft DC 23; Cost 5,000 gp",
-			"Craft Technological Arms and Armor, military lab"
-		],
-		"description": [
-			"An arc pistol emits bolts of ionized particles that it then electrifies, creating a crackling beam of electricity between it and its target. Arc pistols gain a +2 circumstance bonus on attack rolls against targets that are metal or are wearing medium or heavy metal armor."
-		]
-	},
-	"Dart gun": {
-		"equipmentname": "Dart gun",
-		"file": "equipmenttechweaponsdisplayd9f8.html",
-		"sources": [ "Technology Guide" ],
-		"type": "weapon",
-		"category": "one-handed firearm",
-		"proficiency": "exotic",
-		"cost": 3000,
-		"weight": 2,
-		"range": "30 ft.",
-		"dmgS": "1d3",
-		"dmgM": "1d4",
-		"critMultiplier": 2,
-		"piercing": true,
-		"capacityNanite": 1,
-		"usage": "1 charge",
-		"heading": [
-			"**Dart gun**",
-			"**Source** [Technology Guide pg. 21](source:Technology Guide)"
-		],
-		"statistics": [
-			"**Cost** 3,000 gp",
-			"**Type** one-handed ranged; **Proficiency** exotic (firearms); **Weight** 2 lbs.",
-			"**Damage** 1d3 (small), 1d4 (medium); Damage Type P; Criticsl x2",
-			"**Range** 30 ft.; **Capacity** 1 nanite canister; **Usage** 1 charge; **Special** -"
-		],
-		"construction": [
-			"Craft DC 24; Cost 1,500 gp",
-			"Craft Technological Arms and Armor, nanotech lab"
-		],
-		"description": [
-			"A dart gun makes use of nanotechnology to craft a small pointed projectile that does minimal damage on its own. Unlike other nanotech weapons, the nanites that make up a dart do not have any additional effect on the target. Instead, a dart gun contains a small reservoir above its handle into which a single dose of a pharmaceutical, drug, poison, or even potion can be poured as a standard action. The next dart fired from the dart gun delivers that liquid into the target immediately upon a hit."
-		]
-	},
-	"Death ray": {
-		"equipmentname": "Death ray",
-		"file": "equipmenttechweaponsdisplay90b9.html",
-		"sources": [ "Technology Guide" ],
-		"type": "weapon",
-		"category": "one-handed firearm",
-		"proficiency": "exotic",
-		"cost": 140000,
-		"weight": 1,
-		"range": "200 ft. (see text)",
-		"dmgS": "special",
-		"dmgM": "special",
-		"dmgType": "special",
-		"capacityNanite": 1,
-		"usage": "varies",
-		"special": "Slow-firing, touch",
-		"heading": [
-			"**Death ray**",
-			"**Source** [Technology Guide pg. 21](source:Technology Guide)"
-		],
-		"statistics": [
-			"**Cost** 140,000 gp",
-			"**Type** one-handed ranged; **Proficiency** exotic (firearms); **Weight** 1 lb.",
-			"**Damage** Special (small), Special (medium); Damage Type Special; Criticsl &mdash;",
-			"**Range** 200 ft. (see text); **Capacity** 1 nanite canister; **Usage** Varies; **Special** Slow-firing, touch"
-		],
-		"construction": [
-			"Craft DC 32; Cost 70,000 gp",
-			"Craft Technological Arms and Armor, nanotech lab"
-		],
-		"description": [
-			"A death ray is a handheld, wandlike weapon that fires a harmless carrier beam of energy at a target. When the beam hits a target, the death ray then projects a stream of specialized nanites through the beam into the body of the target. When firing a death ray, the wielder must decide how many charges of nanites she is consuming, to a maximum of 10. Even if the wielder engineers a method of using a larger reserve of nanites than normally come in a canister, this maximum does not increase. Immediately upon being struck, the nanites inflict incredible pain on the target, which must succeed at a Fortitude saving throw to avoid a grisly fate (DC = 10 + twice the number of charges consumed by the attack). For example, if 1 charge is consumed, the target must succeed at a DC 12 Fortitude save to resist the death ray, but if all 10 charges are consumed in the attack, the DC to resist the effects is 30.",
-			"If the target fails this save, it takes 100 points of damage as the nanites tear apart the victim's cardiovascular system. On a successful saving throw, the victim takes only 6d6 points of damage. Creatures slain by a death ray die spectacularly, seeming to melt into a pool of blood that swiftly fades away. The victim's gear is unaffected by this attack. A death ray has no effect on creatures that aren't living (such as constructs or undead) and can't penetrate a force field. The wielder can't score critical hits with a death ray. A death ray has a maximum range of 200 feet with no range increment."
-		]
-	},
-	"EMP pistol": {
-		"equipmentname": "EMP pistol",
-		"file": "equipmenttechweaponsdisplay72ff.html",
-		"sources": [ "Technology Guide" ],
-		"type": "weapon",
-		"category": "one-handed firearm",
-		"proficiency": "exotic",
-		"cost": 12000,
-		"weight": 2,
-		"range": "50 ft.",
-		"dmgS": "1d10",
-		"dmgM": "2d6",
-		"critMultiplier": 2,
-		"dmgType": "electricity",
-		"capacity": 10,
-		"usage": "1 charge",
-		"special": "Semi-automatic, touch",
-		"heading": [
-			"**EMP pistol**",
-			"**Source** [Technology Guide pg. 21](source:Technology Guide)"
-		],
-		"statistics": [
-			"**Cost** 12,000 gp",
-			"**Type** one-handed ranged; **Proficiency** exotic (firearms); **Weight** 2 lbs.",
-			"**Damage** 1d10 (small), 2d6 (medium); Damage Type E; Criticsl x2",
-			"**Range** 50 ft.; **Capacity** 10; **Usage** 1 charge; **Special** Semi-automatic, touch"
-		],
-		"construction": [
-			"Craft DC 25; Cost 6,000 gp",
-			"Craft Technological Arms and Armor, military lab"
-		],
-		"description": [
-			"An EMP pistol emits a beam of electromagnetic energy that cannot harm living creatures, but deals terrible damage to robots. An EMP pistol can harm androids and creatures with cybernetic implants, but they take half damage from a hit. A creature that is critically hit by an EMP pistol and takes damage from that hit must succeed at a DC 15 Fortitude save or be staggered for 1d4 rounds."
-		]
-	},
-	"Flare gun": {
-		"equipmentname": "Flare gun",
-		"file": "equipmenttechweaponsdisplayfc9b.html",
-		"sources": [ "Technology Guide" ],
-		"type": "weapon",
-		"category": "one-handed firearm",
-		"proficiency": "exotic",
-		"cost": 300,
-		"weight": 1,
-		"range": "240 ft.",
-		"dmgS": "1d6",
-		"dmgM": "1d8",
-		"critMultiplier": 3,
-		"dmgType": "fire",
-		"capacity": 1,
-		"usage": "Disposable",
-		"special": "Slow-firing, touch",
-		"heading": [
-			"**Flare gun**",
-			"**Source** [Technology Guide pg. 21](source:Technology Guide)"
-		],
-		"statistics": [
-			"**Cost** 300 gp",
-			"**Type** one-handed ranged; **Proficiency** exotic (firearms); **Weight** 1 lb.",
-			"**Damage** 1d6 (small), 1d8 (medium); Damage Type F; Criticsl x3",
-			"**Range** 240 ft.; **Capacity** 1; **Usage** Disposable; **Special** Slow-firing, touch"
-		],
-		"construction": [
-			"Craft DC 18; Cost 150 gp",
-			"Craft Technological Arms and Armor, production lab"
-		],
-		"description": [
-			"A flare gun looks like a wide-barreled pistol, and although it can be used in combat, the item's primary use is to send signals. A flare gun and its ammunition (a small, rocket-propelled magnesium charge) are completely self-contained and disposable-once fired, a flare gun is useless. While a flare gun has excellent range, the flare tends to wobble and spiral in flight, incurring a 20% miss chance if it's being used to target a specific point. The flare detonates once it hits a target or reaches its maximum range of 2,400 feet, bursting into a sphere of fire that illuminates a 120-foot-radius area for 1 minute as it drifts slowly back to the ground. Any creatures within 20 feet of the flare must succeed at a DC 12 Fortitude saving throw each round or be dazzled by the intense light for as long as they remain in the area. Creatures adjacent to a lit flare are also blinded for 1d4 rounds on a failed save. A creature struck by a flare takes 1d8 points of fire damage (1d6 points of fire damage from Small flare guns), and continues to take the same amount of fire damage each round until the flare is removed. Removing a flare is a full-round action."
-		]
-	},
-	"Gravity pistol": {
-		"equipmentname": "Gravity pistol",
-		"file": "equipmenttechweaponsdisplay4e7e.html",
-		"sources": [ "Technology Guide" ],
-		"type": "weapon",
-		"category": "one-handed firearm",
-		"proficiency": "exotic",
-		"cost": 95000,
-		"weight": 2,
-		"range": "50 ft.",
-		"dmgS": "1d6",
-		"dmgM": "1d8",
-		"critMultiplier": 2,
-		"dmgType": "force",
-		"capacity": 10,
-		"usage": "1 charge",
-		"special": "Semi-automatic, touch",
-		"heading": [
-			"**Gravity pistol**",
-			"**Source** [Technology Guide pg. 21](source:Technology Guide)"
-		],
-		"statistics": [
-			"**Cost** 95,000 gp",
-			"**Type** one-handed ranged; **Proficiency** exotic (firearms); **Weight** 2 lbs.",
-			"**Damage** 1d6 (small), 1d8 (medium); Damage Type Force; Criticsl x2",
-			"**Range** 50 ft.; **Capacity** 10; **Usage** 1 charge; **Special** Semi-automatic, touch"
-		],
-		"construction": [
-			"Craft DC 32; Cost 52,500 gp",
-			"Craft Technological Arms and Armor, graviton lab"
-		],
-		"description": [
-			"A gravity pistol is one of the most advanced pieces of technology found in Numeria. It uses a focused beam of gravitons to create a bolt of force. A gravity pistol has two settings'switching between settings is a swift action. On its pulse setting, it can be used as a typical beam weapon, but on it sustained setting, holding the pistol's trigger down creates a stable beam of gravitons rather than a short, destructive burst. In this mode, the gravity pistol can be used to move and manipulate objects at a distance, similar to a telekinesis spell in its sustained force or combat maneuver versions (a gravity pistol cannot duplicate the violent thrust option of a telekinesis spell). In this mode, a gravity pistol consumes 1 charge per round. The graviton beam can move objects weighing no more than 225 pounds up to 20 feet per round. A creature can negate this effect on an object in its possession with a successful DC 19 Reflex save. If used to perform a combat maneuver, the beam uses the wielder's CMB, but uses her Intelligence modifier in place of her Strength or Dexterity modifier."
-		]
-	},
-	"Inferno pistol": {
-		"equipmentname": "Inferno pistol",
-		"file": "equipmenttechweaponsdisplay54f4.html",
-		"sources": [ "Pathfinder #85: Fires of Creation" ],
-		"type": "weapon",
-		"category": "one-handed firearm",
-		"proficiency": "exotic",
-		"cost": 5000,
-		"weight": 2,
-		"range": "30 ft.",
-		"dmgS": "1d4",
-		"dmgM": "1d6",
-		"critMultiplier": 2,
-		"dmgType": "fire",
-		"capacityNanite": 1,
-		"usage": "1 charge",
-		"special": "Touch",
-		"heading": [
-			"**Inferno pistol**",
-			"**Source** [Pathfinder #85: Fires of Creation pg. 60](source:Pathfinder #85: Fires of Creation)"
-		],
-		"statistics": [
-			"**Cost** 5,000 gp",
-			"**Type** one-handed ranged; **Proficiency** exotic (firearms); **Weight** 2 lbs.",
-			"**Damage** 1d4 (small), 1d6 (medium); Damage Type F; Criticsl x2",
-			"**Range** 30 ft.; **Capacity** 1 nanite canister; **Usage** 1 charge; **Special** Touch"
-		],
-		"construction": [
-			"Craft DC 21; Cost 2,500 gp",
-			"Craft Technological Arms and Armor, nanotech lab"
-		],
-		"description": [
-			"An inferno pistol is a less refined variant of the longer-range laser pistol. Unlike a laser pistol, which uses an intensely focused beam of light to burn a target, an inferno pistol is much less elegant-it generates a blob of molten, red-hot material and fires what appears to be a burning pellet of fire with a soft hissing sound. This material is consumed swiftly in firing, leaving behind nothing but ash and painful burns on anything it strikes. On a critical hit, a shot from an inferno pistol also inflicts 1 point of burn damage (Reflex DC 12 negates). An inferno pistol has a maximum range of 5 increments."
-		]
-	},
-	"Laser pistol": {
-		"equipmentname": "Laser pistol",
-		"file": "equipmenttechweaponsdisplayd922.html",
-		"sources": [ "Technology Guide" ],
-		"type": "weapon",
-		"category": "one-handed firearm",
-		"proficiency": "exotic",
-		"cost": 10000,
-		"weight": 2,
-		"range": "50 ft.",
-		"dmgS": "1d6",
-		"dmgM": "1d8",
-		"critMultiplier": 2,
-		"dmgType": "fire",
-		"capacity": 10,
-		"usage": "1 charge",
-		"special": "Semi-automatic, touch",
-		"heading": [
-			"**Laser pistol**",
-			"**Source** [Technology Guide pg. 21](source:Technology Guide)"
-		],
-		"statistics": [
-			"**Cost** 10,000 gp",
-			"**Type** one-handed ranged; **Proficiency** exotic (firearms); **Weight** 2 lbs.",
-			"**Damage** 1d6 (small), 1d8 (medium); Damage Type F; Criticsl x2",
-			"**Range** 50 ft.; **Capacity** 10; **Usage** 1 charge; **Special** Semi-automatic, touch"
-		],
-		"construction": [
-			"Craft DC 23; Cost 5,000 gp",
-			"Craft Technological Arms and Armor, military lab"
-		],
-		"description": [
-			"A laser pistol emits a beam of intensely focused light capable of burning anything it strikes. A laser attack can pass through force fields and force effects, such as a wall of force, to strike a foe beyond without damaging that field. Objects like glass or other transparent barriers do not provide cover from lasers-but unlike force barriers, a transparent physical barrier still takes damage from a laser passing through it. Invisible creatures are immune to damage caused by a laser weapon. Fog, smoke, and other clouds provide cover in addition to concealment from laser attacks. Darkness (magical or otherwise) has no effect on lasers other than providing concealment, and though a laser consists of highly focused light, it does not provide any illumination."
-		]
-	},
-	"Mind burner": {
-		"equipmentname": "Mind burner",
-		"file": "equipmenttechweaponsdisplay1020.html",
-		"sources": [ "Pathfinder #86: Lords of Rust" ],
-		"type": "weapon",
-		"category": "one-handed firearm",
-		"proficiency": "exotic",
-		"cost": 8000,
-		"weight": 2,
-		"range": "20 ft.",
-		"dmgS": "special",
-		"dmgM": "special",
-		"critMultiplier": 2,
-		"dmgType": "special",
-		"capacity": 10,
-		"usage": "1 charge",
-		"special": "Touch",
-		"heading": [
-			"**Mind burner**",
-			"**Source** [Pathfinder #86: Lords of Rust pg. 63](source:Pathfinder #86: Lords of Rust)"
-		],
-		"statistics": [
-			"**Cost** 8,000 gp",
-			"**Type** one-handed ranged; **Proficiency** exotic (firearms); **Weight** 2 lbs.",
-			"**Damage** Special (small), Special (medium); Damage Type Special; Criticsl x2",
-			"**Range** 20 ft.; **Capacity** 10; **Usage** 1 charge; **Special** Touch"
-		],
-		"construction": [
-			"Craft DC 28; Cost 4,000 gp",
-			"Craft Technological Arms and Armor, military lab"
-		],
-		"description": [
-			"A mind burner is a pistol with a dishlike adornment at the tip of its barrel. When this weapon is fired, a pulse of white smoke pools in the dish an instant before a thin beam of white light lances out to strike its target. A mind burner is silent when fired, but stray particles from the mind-altering beam can cause those nearby to catch unexpected scents associated with powerful memories-the odor of a bouquet of flowers given to one's first lover, the scent of a parent's perfume or sweat, or maybe even the odor of a favorite food that hasn't been eaten in years. These fragmentary memories generally have no additional effect on those who experience them, but at the GM's discretion, they could cause the resurfacing of repressed memories or forgotten fears.",
-			"On a successful hit, a mind burner causes intense headaches that dull the senses and weaken willpower. Each hit deals 1d4 points of nonlethal damage, but also imposes a -2 penalty on Perception checks and a -1 penalty on saving throws against mind-affecting effects. These penalties stack with themselves, up to a maximum penalty of -10 on Perception checks and -5 on mind-affecting saving throws. A creature can resist the penalties caused by a shot from a mind burner with a successful DC 14 Will save; otherwise, the penalties persist for 1 hour after the previous successful shot. On a critical hit, a mind burner's penalties are doubled along with its nonlethal damage."
-		]
-	},
-	"Mindrender": {
-		"equipmentname": "Mindrender",
-		"file": "equipmenttechweaponsdisplaya5d5.html",
-		"sources": [ "Technology Guide" ],
-		"type": "weapon",
-		"category": "one-handed firearm",
-		"proficiency": "exotic",
-		"cost": 56000,
-		"weight": 2,
-		"range": "40 ft.",
-		"dmgS": "special",
-		"dmgM": "special",
-		"critMultiplier": 2,
-		"dmgType": "special",
-		"capacityNanite": 1,
-		"usage": "2 charges",
-		"special": "Slow-firing, touch",
-		"heading": [
-			"**Mindrender**",
-			"**Source** [Technology Guide pg. 21](source:Technology Guide)"
-		],
-		"statistics": [
-			"**Cost** 56,000 gp",
-			"**Type** one-handed ranged; **Proficiency** exotic (firearms); **Weight** 2 lbs.",
-			"**Damage** Special (small), Special (medium); Damage Type Special; Criticsl x2",
-			"**Range** 40 ft.; **Capacity** 1 nanite canister; **Usage** 2 charges; **Special** Slow-firing, touch"
-		],
-		"construction": [
-			"Craft DC 33; Cost 28,000 gp",
-			"Craft Technological Arms and Armor, nanotech lab"
-		],
-		"description": [
-			"A mindrender is a cruel weapon that emits a carrier wave of light which transmits a mass of nanites into the body of the creature struck. The victim must succeed at a DC 17 Fortitude save or it takes 1 negative level and is staggered for 1 round as the nanites flood the victim's brain and suppress long term memories. If the victim succeeds, he's instead sickened for 1d4 rounds and is immune to further attacks from a mindrender for 1 hour. A creature can attempt a new saving throw every 24 hours to remove the negative level. These are mind-affecting effects."
-		]
-	},
-	"Sonic pistol": {
-		"equipmentname": "Sonic pistol",
-		"file": "equipmenttechweaponsdisplayd01e.html",
-		"sources": [ "Technology Guide" ],
-		"type": "weapon",
-		"category": "one-handed firearm",
-		"proficiency": "exotic",
-		"cost": 13000,
-		"weight": 2,
-		"range": "50 ft.",
-		"dmgS": "1d6",
-		"dmgM": "1d8",
-		"critMultiplier": 2,
-		"dmgType": "sonic",
-		"capacity": 10,
-		"usage": "1 charge",
-		"special": "Semi-automic, touch",
-		"heading": [
-			"**Sonic pistol**",
-			"**Source** [Technology Guide pg. 21](source:Technology Guide)"
-		],
-		"statistics": [
-			"**Cost** 13,000 gp",
-			"**Type** one-handed ranged; **Proficiency** exotic (firearms); **Weight** 2 lbs.",
-			"**Damage** 1d6 (small), 1d8 (medium); Damage Type Sonic; Criticsl x2",
-			"**Range** 50 ft.; **Capacity** 10; **Usage** 1 charge; **Special** Semi-automic, touch"
-		],
-		"construction": [
-			"Craft DC 23; Cost 6,500 gp",
-			"Craft Technological Arms and Armor, military lab"
-		],
-		"description": [
-			"A sonic pistol emits a blast of devastating sound waves that shatter and blast flesh, bone, and anything else they happen to strike. A creature critically hit by a sonic pistol must succeed at a DC 15 Fortitude save to resist being permanently deafened."
-		]
-	},
-	"Stun gun": {
-		"equipmentname": "Stun gun",
-		"file": "equipmenttechweaponsdisplayb4ab.html",
-		"sources": [ "Technology Guide" ],
-		"type": "weapon",
-		"category": "one-handed firearm",
-		"proficiency": "exotic",
-		"cost": 3000,
-		"weight": 3,
-		"range": "20 ft.",
-		"dmgS": "1d6",
-		"dmgM": "1d8",
-		"critMultiplier": 2,
-		"capacity": 10,
-		"usage": "1 charge",
-		"special": "Nonlethal, semi-automatic, touch",
-		"heading": [
-			"**Stun gun**",
-			"**Source** [Technology Guide pg. 21](source:Technology Guide)"
-		],
-		"statistics": [
-			"**Cost** 3,000 gp",
-			"**Type** one-handed ranged; **Proficiency** exotic (firearms); **Weight** 3 lbs.",
-			"**Damage** 1d6 (small), 1d8 (medium); Damage Type &mdash;; Criticsl x2",
-			"**Range** 20 ft.; **Capacity** 10; **Usage** 1 charge; **Special** Nonlethal, semi-automatic, touch"
-		],
-		"construction": [
-			"Craft DC 22; Cost 1,500 gp",
-			"Craft Technological Arms and Armor, military lab"
-		],
-		"description": [
-			"This weapon uses a sonic amplifier to produce powerful low-frequency blasts of energy that pummel targets. The weapon has a relatively short range, but the fact that it deals nonlethal damage at range and can knock targets prone makes it a favorite for those seeking to capture their foes alive. A hit by a stun gun deals nonlethal damage-on a critical hit, the gun can attempt a free trip combat maneuver check against the target (CMB = user's base attack bonus + 10); this attempt doesn't provoke attacks of opportunity."
-		]
-	},
-	"Zero pistol": {
-		"equipmentname": "Zero pistol",
-		"file": "equipmenttechweaponsdisplay3fc9.html",
-		"sources": [ "Technology Guide" ],
-		"type": "weapon",
-		"category": "one-handed firearm",
-		"proficiency": "exotic",
-		"cost": 10000,
-		"weight": 2,
-		"range": "50 ft.",
-		"dmgS": "1d6",
-		"dmgM": "1d8",
-		"critMultiplier": 2,
-		"dmgType": "cold",
-		"capacity": 10,
-		"usage": "1 charge",
-		"special": "Semi-automatic, touch",
-		"heading": [
-			"**Zero pistol**",
-			"**Source** [Technology Guide pg. 21](source:Technology Guide)"
-		],
-		"statistics": [
-			"**Cost** 10,000 gp",
-			"**Type** one-handed ranged; **Proficiency** exotic (firearms); **Weight** 2 lbs.",
-			"**Damage** 1d6 (small), 1d8 (medium); Damage Type C; Criticsl x2",
-			"**Range** 50 ft.; **Capacity** 10; **Usage** 1 charge; **Special** Semi-automatic, touch"
-		],
-		"construction": [
-			"Craft DC 23; Cost 5,000 gp",
-			"Craft Technological Arms and Armor, military lab"
-		],
-		"description": [
-			"A zero pistol fires a beam of freezing particles at high velocity, dealing cold damage to anything it strikes. Any creature critically hit by a zero pistol ray must succeed at a DC 15 Fortitude saving throw or become staggered by the cold for 1 round."
-		]
-	},
-	"Arc rifle": {
-		"equipmentname": "Arc rifle",
-		"file": "equipmenttechweaponsdisplay8936.html",
-		"sources": [ "Technology Guide" ],
-		"type": "weapon",
-		"category": "two-handed firearm",
-		"proficiency": "exotic",
-		"cost": 20000,
-		"weight": 6,
-		"range": "150 ft.",
-		"dmgS": "1d10",
-		"dmgM": "2d6",
-		"critMultiplier": 2,
-		"dmgType": "electricity",
-		"capacity": 20,
-		"usage": "1 charge",
-		"special": "Automatic, touch",
-		"heading": [
-			"**Arc rifle**",
-			"**Source** [Technology Guide pg. 21](source:Technology Guide)"
-		],
-		"statistics": [
-			"**Cost** 20,000 gp",
-			"**Type** two-handed ranged; **Proficiency** exotic (firearms); **Weight** 6 lbs.",
-			"**Damage** 1d10 (small), 2d6 (medium); Damage Type E; Criticsl x2",
-			"**Range** 150 ft.; **Capacity** 20; **Usage** 1 charge; **Special** Automatic, touch"
-		],
-		"construction": [
-			"Craft DC 27; Cost 10,000 gp",
-			"Craft Technological Arms and Armor, military lab"
-		],
-		"description": [
-			"An arc rifle is a larger, more powerful version of an arc pistol, and functions as such except for the differences listed here."
-		]
-	},
-	"Autograpnel": {
-		"equipmentname": "Autograpnel",
-		"file": "equipmenttechweaponsdisplay6e47.html",
-		"sources": [ "Technology Guide" ],
-		"type": "weapon",
-		"category": "two-handed firearm",
-		"proficiency": "exotic",
-		"cost": 4000,
-		"weight": 10,
-		"range": "30 ft.",
-		"dmgS": "1d6+6",
-		"dmgM": "1d8+6",
-		"critMultiplier": 3,
-		"piercing": true,
-		"capacity": 20,
-		"usage": "1 charge",
-		"special": "Grapple, slow-firing",
-		"heading": [
-			"**Autograpnel**",
-			"**Source** [Technology Guide pg. 21](source:Technology Guide)"
-		],
-		"statistics": [
-			"**Cost** 4,000 gp",
-			"**Type** two-handed ranged; **Proficiency** exotic (firearms); **Weight** 10 lbs.",
-			"**Damage** 1d6+6 (small), 1d8+6 (medium); Damage Type P; Criticsl x3",
-			"**Range** 30 ft.; **Capacity** 20; **Usage** 1 charge; **Special** Grapple, slow-firing"
-		],
-		"construction": [
-			"Craft DC 20; Cost 2,000 gp",
-			"Craft Technological Arms and Armor, military lab"
-		],
-		"description": [
-			"An autograpnel looks like a rifle with a small adamantine spike protruding from its barrel. When fired, an autograpnel launches the spike with a muffled bang. The spike trails an incredibly strong and thin metal cable behind it. An instant after the spike punches into a solid target, tiny spurs lance out of it, anchoring the spike in place. An autograpnel's cord is long enough to allow the grapnel to reach its maximum range of 300 feet, and the internal retraction motors are strong enough to hold up to 500 pounds of weight. If the grapnel misses its target, it can be rewound into the gun as a standard action; reattaching the grapnel to the gun barrel is a move action.",
-			"An autograpnel strikes with an effective Strength score of 22 for the purposes of determining damage. If it strikes a creature, it remains lodged in the target and connected to the rifle and its wielder by the metal cord. This cord has AC 12, hardness 10, and 20 hp. A successful DC 32 Strength check is required to snap the cord. If the wielder retracts the cord while it's attached to a creature, the autograpnel attempts a pull combat maneuver check with a CMB of +16. If used against objects, an autograpnel can pull an item that weighs 25 pounds or less back to the user as a full-round action, or it can pull a heavier object that weighs no more than 100 pounds back to the user at a speed of 20 feet.",
-			"When attached to a solid object, the gun's retraction rate can be set to maintain a taut line while the gun is attached to a harness worn to aid climbing checks."
-		]
-	},
-	"EMP rifle": {
-		"equipmentname": "EMP rifle",
-		"file": "equipmenttechweaponsdisplayc73a.html",
-		"sources": [ "Technology Guide" ],
-		"type": "weapon",
-		"category": "two-handed firearm",
-		"proficiency": "exotic",
-		"cost": 24000,
-		"weight": 6,
-		"range": "150 ft.",
-		"dmgS": "2d6",
-		"dmgM": "3d6",
-		"critMultiplier": 2,
-		"dmgType": "electricity",
-		"capacity": 20,
-		"usage": "1 charge",
-		"special": "Automatic, touch",
-		"heading": [
-			"**EMP rifle**",
-			"**Source** [Technology Guide pg. 21](source:Technology Guide)"
-		],
-		"statistics": [
-			"**Cost** 24,000 gp",
-			"**Type** two-handed ranged; **Proficiency** exotic (firearms); **Weight** 6 lbs.",
-			"**Damage** 2d6 (small), 3d6 (medium); Damage Type E; Criticsl x2",
-			"**Range** 150 ft.; **Capacity** 20; **Usage** 1 charge; **Special** Automatic, touch"
-		],
-		"construction": [
-			"Craft DC 29; Cost 12,000 gp",
-			"Craft Technological Arms and Armor, military lab"
-		],
-		"description": [
-			"An EMP rifle is a larger, more powerful version of an EMP pistol. It emits a beam of electromagnetic energy that can't harm living creatures, but deals significant damage to robots. It functions as an EMP pistol except for the differences listed here."
-		]
-	},
-	"Gravity rifle": {
-		"equipmentname": "Gravity rifle",
-		"file": "equipmenttechweaponsdisplayda71.html",
-		"sources": [ "Technology Guide" ],
-		"type": "weapon",
-		"category": "two-handed firearm",
-		"proficiency": "exotic",
-		"cost": 165000,
-		"weight": 6,
-		"range": "150 ft.",
-		"dmgS": "1d10",
-		"dmgM": "2d6",
-		"critMultiplier": 2,
-		"dmgType": "force",
-		"capacity": 20,
-		"usage": "1 charge",
-		"special": "Automatic, touch",
-		"heading": [
-			"**Gravity rifle**",
-			"**Source** [Technology Guide pg. 21](source:Technology Guide)"
-		],
-		"statistics": [
-			"**Cost** 165,000 gp",
-			"**Type** two-handed ranged; **Proficiency** exotic (firearms); **Weight** 6 lbs.",
-			"**Damage** 1d10 (small), 2d6 (medium); Damage Type Force; Criticsl x2",
-			"**Range** 150 ft.; **Capacity** 20; **Usage** 1 charge; **Special** Automatic, touch"
-		],
-		"construction": [
-			"Craft DC 34; Cost 82,500 gp",
-			"Craft Technological Arms and Armor, graviton lab"
-		],
-		"description": [
-			"A gravity rifle is a larger, more powerful version of the gravity pistol, and functions as such except for the differences listed here. When a gravity rifle is on sustained setting, it can move objects weighing no more than 350 pounds up to 20 feet per round, and the wielder gains a +4 bonus on combat maneuver checks; she still substitutes her Intelligence modifier in place of her Strength or Dexterity modifier when calculating her CMB for these maneuvers."
-		]
-	},
-	"Id rifle": {
-		"equipmentname": "Id rifle",
-		"file": "equipmenttechweaponsdisplay1a46.html",
-		"sources": [ "Technology Guide" ],
-		"type": "weapon",
-		"category": "two-handed firearm",
-		"proficiency": "exotic",
-		"cost": 50000,
-		"weight": 5,
-		"range": "50 ft.",
-		"dmgS": "special",
-		"dmgM": "special",
-		"critMultiplier": 2,
-		"dmgType": "special",
-		"capacityNanite": 1,
-		"usage": "1 charge",
-		"special": "Slow-firing, touch",
-		"heading": [
-			"**Id rifle**",
-			"**Source** [Technology Guide pg. 21](source:Technology Guide)"
-		],
-		"statistics": [
-			"**Cost** 50,000 gp",
-			"**Type** two-handed ranged; **Proficiency** exotic (firearms); **Weight** 5 lbs.",
-			"**Damage** Special (small), Special (medium); Damage Type Special; Criticsl x2",
-			"**Range** 50 ft.; **Capacity** 1 nanite canister; **Usage** 1 charge; **Special** Slow-firing, touch"
-		],
-		"construction": [
-			"Craft DC 32; Cost 25,000 gp",
-			"Craft Technological Arms and Armor, nanotech lab"
-		],
-		"description": [
-			"An id rifle looks like a sleek, low-caliber rifle made of burnished skymetal. It fires a tiny barb of solid nanites with a range increment of 50 feet. Although this barb does minimal damage on a hit, any creature damaged by an id rifle barb must succeed at a DC 16 Fortitude saving throw or have its central nervous system flooded with nanites that swiftly overwhelm the creature's brain, reducing its mind to the instinctive level of an animal. The victim takes 1d4 points of Intelligence damage each round, but the total amount of damage taken can never equal the victim's actual Intelligence score. Each round after the first, the victim can resist the Intelligence damage by succeeding at a DC 16 Fortitude saving throw, at which point the damage ceases. The recurring Intelligence damage automatically ends after 6 rounds. A victim already suffering from the effects of an id rifle who is affected by an additional shot has the save DC increased by 2 per additional shot.",
-			"An id rifle has a microphone built into its stock. During any round in which a creature takes Intelligence damage from an id rifle, as a move action the wielder of that rifle can speak a short command into the microphone. Any applicable target within 50 feet of the wielder must then succeed at a DC 16 Will save to resist following the command, as if under the effect of a suggestion spell. A victim follows only the latest suggestion spoken into the microphone, and abandons any previous suggestion if it fails a saving throw against a new suggestion. A victim continues to follow the suggestion for up to 5 hours after succumbing to its effects.",
-			"The effects created by an id rifle are mind-affecting effects."
-		]
-	},
-	"Laser rifle": {
-		"equipmentname": "Laser rifle",
-		"file": "equipmenttechweaponsdisplayd3d8.html",
-		"sources": [ "Technology Guide" ],
-		"type": "weapon",
-		"category": "two-handed firearm",
-		"proficiency": "exotic",
-		"cost": 20000,
-		"weight": 6,
-		"range": "150 ft.",
-		"dmgS": "1d10",
-		"dmgM": "2d6",
-		"critMultiplier": 2,
-		"dmgType": "fire",
-		"capacity": 20,
-		"usage": "1 charge",
-		"special": "Automatic, touch",
-		"heading": [
-			"**Laser rifle**",
-			"**Source** [Technology Guide pg. 21](source:Technology Guide)"
-		],
-		"statistics": [
-			"**Cost** 20,000 gp",
-			"**Type** two-handed ranged; **Proficiency** exotic (firearms); **Weight** 6 lbs.",
-			"**Damage** 1d10 (small), 2d6 (medium); Damage Type F; Criticsl x2",
-			"**Range** 150 ft.; **Capacity** 20; **Usage** 1 charge; **Special** Automatic, touch"
-		],
-		"construction": [
-			"Craft DC 27; Cost 10,000 gp",
-			"Craft Technological Arms and Armor, military lab"
-		],
-		"description": [
-			"A laser rifle is a larger, more powerful version of a laser pistol, and functions as such except for the differences listed here."
-		]
-	},
-	"Sonic rifle": {
-		"equipmentname": "Sonic rifle",
-		"file": "equipmenttechweaponsdisplayca16.html",
-		"sources": [ "Technology Guide" ],
-		"type": "weapon",
-		"category": "two-handed firearm",
-		"proficiency": "exotic",
-		"cost": 26000,
-		"weight": 6,
-		"range": "150 ft.",
-		"dmgS": "1d10",
-		"dmgM": "2d6",
-		"critMultiplier": 2,
-		"dmgType": "sonic",
-		"capacity": 20,
-		"usage": "1 charge",
-		"special": "Automatic, touch",
-		"heading": [
-			"**Sonic rifle**",
-			"**Source** [Technology Guide pg. 21](source:Technology Guide)"
-		],
-		"statistics": [
-			"**Cost** 26,000 gp",
-			"**Type** two-handed ranged; **Proficiency** exotic (firearms); **Weight** 6 lbs.",
-			"**Damage** 1d10 (small), 2d6 (medium); Damage Type Sonic; Criticsl x2",
-			"**Range** 150 ft.; **Capacity** 20; **Usage** 1 charge; **Special** Automatic, touch"
-		],
-		"construction": [
-			"Craft DC 27; Cost 13,000 gp",
-			"Craft Technological Arms and Armor, military lab"
-		],
-		"description": [
-			"A sonic rifle is a larger, more powerful version of the sonic pistol, and functions as such except for the differences listed here."
-		]
-	},
-	"Zero rifle": {
-		"equipmentname": "Zero rifle",
-		"file": "equipmenttechweaponsdisplay4480.html",
-		"sources": [ "Technology Guide" ],
-		"type": "weapon",
-		"category": "two-handed firearm",
-		"proficiency": "exotic",
-		"cost": 20000,
-		"weight": 6,
-		"range": "150 ft.",
-		"dmgS": "1d10",
-		"dmgM": "2d6",
-		"critMultiplier": 2,
-		"dmgType": "cold",
-		"capacity": 20,
-		"usage": "1 charge",
-		"special": "Automatic, touch",
-		"heading": [
-			"**Zero rifle**",
-			"**Source** [Technology Guide pg. 21](source:Technology Guide)"
-		],
-		"statistics": [
-			"**Cost** 20,000 gp",
-			"**Type** two-handed ranged; **Proficiency** exotic (firearms); **Weight** 6 lbs.",
-			"**Damage** 1d10 (small), 2d6 (medium); Damage Type C; Criticsl x2",
-			"**Range** 150 ft.; **Capacity** 20; **Usage** 1 charge; **Special** Automatic, touch"
-		],
-		"construction": [
-			"Craft DC 27; Cost 10,000 gp",
-			"Craft Technological Arms and Armor, military lab"
-		],
-		"description": [
-			"A zero rifle is a larger, more powerful version of the zero pistol, and functions as such except for the differences listed here."
-		]
-	}
+	"description": [
+		"Each technological weapon has a full description, including a set of abbreviated statistics. This information is organized as follows.",
+		"**Price:** This is the cost (in gold pieces) to purchase the weapon if it's available for sale. As with magic weapons, a technological weapon can be sold by PCs for half this value.",
+		"**Type:** This indicates whether the weapon is a light, one-handed, or two-handed melee or ranged weapon.",
+		"**Proficiency:** This entry lists whether the weapon is simple, martial, or exotic. If an existing weapon proficiency allows the new weapon's use, that weapon proficiency is listed in parentheses. Note that Exotic Weapon Proficiency (heavy weaponry) works similarly to Exotic Weapon Proficiency (firearms) in that it allows access to a wide range of similar weapons.",
+		"Some GMs may wish to replace Weapon Proficiency (firearms) with Weapon Proficiency (technological firearms) to further restrict access to these devices to player characters in their campaigns. **Damage:** This is the weapon's base damage. The type of damage dealt by the weapon is listed after the damage value. Most weapons list the damage dealt by Medium and Small versions of the weapon; weapons with only one damage entry deal the same amount of damage regardless of size.",
+		"**Critical:** This entry lists the weapon's critical threat range and critical damage multiplier.",
+		"**Range:** This lists the weapon's range increment; no listing is given for melee weapons that cannot be thrown. Unless otherwise noted, all firearms in this chapter are treated as projectile weapons for the purpose of determining their maximum range.",
+		"**Capacity:** Unless otherwise specified, this value is the maximum number of charges the weapon can hold.",
+		"**Usage:** This value lists the number of charges the weapon consumes from its capacity each time it is activated.",
+		"**Special:** This entry lists any special weapon qualities the weapon might have. New weapon qualities are listed below. **Weight:** This is the weight of the weapon in pounds. The weights given are for Medium weapons. A Small weapon weighs half as much; a Large weapon weighs twice as much.",
+		"*Automatic:* This weapon can act as a semi-automatic weapon (see below), or it can fire a burst of shots with a single pull of the trigger to attack all creatures in a line. This line starts from any corner of the wielder's space and extends to the limit of the weapon's range or until it strikes a barrier it cannot penetrate. When using an automatic weapon to attack all creatures in a line, the wielder makes a separate attack roll against each creature in the line. Each creature in the line can be attacked with only one shot from each burst. Each attack roll takes a -2 penalty, and its damage cannot be modified by precision damage or damage-increasing feats such as Vital Strike. Effects that grant concealment, such as fog or smoke, or the blur, invisibility, or mirror image spells, do not affect an automatic weapon's line attack. Roll to confirm each attack roll that threatens a critical hit separately. A single burst with an automatic weapon consumes 10 charges. When taking a full-attack action with an automatic weapon, the wielder can fire as many bursts in a round as he has attacks, provided he has enough charges to make all of the attacks.",
+		"*Semi-Automatic:* A semi-automatic weapon normally fires one shot as an attack. However, the user can take a full-attack action to fire twice, as if using the Rapid Shot feat (including taking a -2 penalty on all attacks). If the wielder has the Rapid Shot feat, she can use the additional shot from that as well, but the penalty for all shots fired in that round increases to -6.",
+		"*Slow-Firing:* A slow-firing weapon requires a full-round action to use, and thus cannot be used to make iterative attacks.",
+		"**Touch:** Attacks with the weapon resolve as touch attacks.",
+		"**Description:** This section describes the weapon's abilities and appearance.",
+		"**Construction:** Certain requirements must be met for a character to craft a technological weapon. These requirements generally consist of having a feat and access to a particular kind of manufacturing facility (see page 16).",
+		"**Craft:** This is the Craft DC required to create the weapon. It is also the Knowledge (engineering) DC to correctly identify the weapon.",
+		"**Cost:** This is the cost in gold pieces to create the weapon. Generally this cost is equal to half the price of the weapon"
+	],
+	"list": [
+		{
+			"name": "monowhip",
+			"file": "equipmenttechweaponsdisplay1804.html",
+			"sources": [ "Technology Guide" ],
+			"category": "weapon",
+			"types": [
+				"tech",
+				"light"
+			],
+			"proficiency": "exotic",
+			"cost": 70000,
+			"weight": 1,
+			"damage_s": "1d10",
+			"damage_m": "2d6",
+			"crit_multiplier": 3,
+			"crit_range": 18,
+			"slashing": true,
+			"capacity": 10,
+			"usage": "1 charge/round",
+			"special": "Performance, reach, touch",
+			"heading": [
+				"**Monowhip**",
+				"**Source** [Technology Guide pg. 20](source:Technology Guide)"
+			],
+			"statistics": [
+				"**Cost** 70,000 gp",
+				"**Type** light melee; **Proficiency** exotic; **Weight** 1 lb.",
+				"**Damage** 1d10 (small), 2d6 (medium); Damage Type S; Critical 18-20/x3",
+				"**Range** -; **Capacity** 10; **Usage** 1 charge/round; **Special** Performance, reach, touch"
+			],
+			"construction": [
+				"Craft DC 32; Cost 35,000 gp",
+				"Craft Technological Arms and Armor, graviton lab"
+			],
+			"description": [
+				"A monowhip is a deadly melee weapon capable of inflicting horrible wounds, even in the hands of the weak. An inactive monowhip looks like a short metal baton, but when it's activated, a small weight detaches, revealing a 15-foot-long monofilament length. Wielded like a whip, a monowhip slices deeply into targets and can inflict grievous critical hits with shocking ease. Attacks made with a monowhip resolve as touch attacks, and they ignore hardness as if the monofilament were made of adamantine. A monowhip's damage cannot be enhanced by strength, as the monofilament slices with equal ease regardless of the force applied. Activating a monowhip is a move action; once activated, the whip consumes power incredibly quickly, at the rate of 1 charge per round."
+			]
+		},
+		{
+			"name": "null blade",
+			"file": "equipmenttechweaponsdisplay3b73.html",
+			"sources": [ "Technology Guide" ],
+			"category": "weapon",
+			"types": [
+				"tech",
+				"one-handed"
+			],
+			"proficiency": "exotic",
+			"cost": 58835,
+			"weight": 4,
+			"damage_s": "1d8",
+			"damage_m": "1d10",
+			"crit_multiplier": 2,
+			"crit_range": 19,
+			"slashing": true,
+			"capacity": 10,
+			"usage": "1 charge/round",
+			"heading": [
+				"**Null blade**",
+				"**Source** [Technology Guide pg. 20](source:Technology Guide)"
+			],
+			"statistics": [
+				"**Cost** 58,835 gp",
+				"**Type** one-handed melee; **Proficiency** exotic; **Weight** 4 lbs.",
+				"**Damage** 1d8 (small), 1d10 (medium); Damage Type S; Critical 19-20/x2",
+				"**Range** -; **Capacity** 10; **Usage** 1 charge/round; **Special** -"
+			],
+			"construction": [
+				"Craft DC 30; Cost 33,835 gp",
+				"Craft Magic Arms and Armor, Craft Technological Arms and Armor, military lab, discharge, dispel magic, summon monster I"
+			],
+			"description": [
+				"A potent fusion of magic, advanced science, and masterful weaponsmithing, null blades were devised by the Technic League as weapons against both magic and machine. Null blades incorporate an adamantine-noqual alloy in their blades, a closely guarded metallurgical secret of the Technic League. The League guards these weapons closely, and when one falls into another's hands, they spare no expense in their efforts to recover it.",
+				"A null blade is a +1 construct-bane bastard sword- using it in this capacity does not consume any charges. The blade's strange alloy penetrates hardness as if it were made of adamantine. The blade can be activated as a swift action. While it's active, a shimmering field of green energy wraps around the blade, disrupting magic and technology alike, and the weapon's enhancement bonus increases to +2. In addition, the first time in a round that an activated null blade strikes a creature or object, it consumes an additional charge and targets the creature or object struck with dispel magic and discharge (see page 9). If a technological item damaged by a null blade is used in the same round it took damage, it glitches as if it were timeworn (see page 55)."
+			]
+		},
+		{
+			"name": "plasma blade",
+			"file": "equipmenttechweaponsdisplay310a.html",
+			"sources": [ "Pathfinder #100: A Song of Silver" ],
+			"category": "weapon",
+			"types": [
+				"tech",
+				"one-handed"
+			],
+			"proficiency": "exotic",
+			"cost": 12000,
+			"weight": 3,
+			"damage_s": "1d8",
+			"damage_m": "1d10",
+			"crit_multiplier": 3,
+			"crit_range": 19,
+			"damage_type": "electricity and fire",
+			"capacity": 10,
+			"usage": "1 charge/minute",
+			"special": "Touch",
+			"heading": [
+				"**Plasma blade**",
+				"**Source** [Pathfinder #100: A Song of Silver pg. 105](source:Pathfinder #100: A Song of Silver)"
+			],
+			"statistics": [
+				"**Cost** 12,000 gp",
+				"**Type** one-handed melee; **Proficiency** exotic; **Weight** 3 lbs.",
+				"**Damage** 1d8 (small), 1d10 (medium); Damage Type E and F; Critical 19-20/x3",
+				"**Range** -; **Capacity** 10; **Usage** 1 charge/minute; **Special** Touch"
+			],
+			"construction": [
+				"Craft DC 0; Cost  gp",
+				"N/A"
+			],
+			"description": [
+				"When activated, a plasma blade's heavy, ornate handle projects a quantum field that contains energized plasma in a 2- to 3-foot-long \"blade.\" Attacks made with a plasma blade resolve as touch attacks. Half the damage it deals is electricity and the other half is fire. When the wielder attacks an object, damage from a plasma blade ignores the first 20 points of hardness and its damage is not halved (even though energy damage is usually halved when applied to objects). Thanks to its quantum containment, a plasma blade deals half damage against incorporeal creatures, despite not being a magical weapon."
+			]
+		},
+		{
+			"name": "chainsaw",
+			"file": "equipmenttechweaponsdisplay222d.html",
+			"sources": [ "Technology Guide" ],
+			"category": "weapon",
+			"types": [
+				"tech",
+				"two-handed"
+			],
+			"proficiency": "exotic",
+			"cost": 2700,
+			"weight": 10,
+			"damage_s": "1d12",
+			"damage_m": "3d6",
+			"crit_multiplier": 2,
+			"crit_range": 18,
+			"slashing": true,
+			"capacity": 10,
+			"usage": "1 charge/hour",
+			"special": "Deadly, distracting",
+			"heading": [
+				"**Chainsaw**",
+				"**Source** [Technology Guide pg. 21](source:Technology Guide)"
+			],
+			"statistics": [
+				"**Cost** 2,700 gp",
+				"**Type** two-handed melee; **Proficiency** exotic; **Weight** 10 lbs.",
+				"**Damage** 1d12 (small), 3d6 (medium); Damage Type S; Critical 18-20/x2",
+				"**Range** -; **Capacity** 10; **Usage** 1 charge/hour; **Special** Deadly, distracting"
+			],
+			"construction": [
+				"Craft DC 20; Cost 1,350 gp",
+				"Craft Technological Arms and Armor, military lab"
+			],
+			"description": [
+				"Originally developed for use as tools, chainsaws work remarkably well as weapons and are often used by lunatics or those who want to intimidate their enemies. A Numerian chainsaw consists of a weighty housing for the engine and power source that is fitted with two handles, and a 2- to 3-foot-long blade extending from the front, around which a whirling, buzzing chain of razorsharp cutting links spins at blinding speed when the weapon is activated. It's a standard action to activate a chainsaw, and doing so consumes a charge of power. The chainsaw continues to run constantly after activation, draining an additional charge each hour. A dropped chainsaw automatically turns off unless it is set down carefully as a move action. The buzzing of a chainsaw's blade is loud and distracting (but not deafening), causing anyone carrying an activated chainsaw to take a -10 penalty on Stealth checks. An activated chainsaw grants a proficient user a +2 morale bonus on Intimidate checks."
+			]
+		},
+		{
+			"name": "neural inhibitor",
+			"file": "equipmenttechweaponsdisplay6304.html",
+			"sources": [ "Pathfinder #85: Fires of Creation" ],
+			"category": "weapon",
+			"types": [
+				"tech",
+				"light"
+			],
+			"proficiency": "simple",
+			"cost": 2400,
+			"weight": 2,
+			"damage_s": "1d6",
+			"damage_m": "1d6",
+			"crit_multiplier": 2,
+			"bludgeoning": true,
+			"capacity": 10,
+			"usage": "see text",
+			"heading": [
+				"**Neural inhibitor**",
+				"**Source** [Pathfinder #85: Fires of Creation pg. 60](source:Pathfinder #85: Fires of Creation)"
+			],
+			"statistics": [
+				"**Cost** 2,400 gp",
+				"**Type** light melee; **Proficiency** simple; **Weight** 2 lbs.",
+				"**Damage** 1d6 (small), 1d6 (medium); Damage Type B; Critical x2",
+				"**Range** -; **Capacity** 10; **Usage** see text; **Special** -"
+			],
+			"construction": [
+				"Craft DC 20; Cost 1,200 gp",
+				"Craft Technological Arms and Armor, military lab"
+			],
+			"description": [
+				"While powered down, this sturdy, 2-foot truncheon functions as a light mace. Once it is activated (this is a swift action that consumes 1 charge), a high-density power core housed in the weapon's head generates a high-pitched whine that causes momentary disorientation in a creature struck. Each time the weapon hits a target, it consumes 1 charge and the creature struck must succeed at a DC 12 Fortitude save or suffer trauma to its central nervous system. For 1 round, a creature that fails its saving throw takes a -1 penalty on attack rolls, skill checks, and Will saving throws, as well as a -4 penalty on concentration checks. The duration of this effect stacks with multiple hits from the neural inhibitor. This is a mind-affecting effect."
+			]
+		},
+		{
+			"name": "laser torch",
+			"file": "equipmenttechweaponsdisplay35d8.html",
+			"sources": [ "Technology Guide" ],
+			"category": "weapon",
+			"types": [
+				"tech",
+				"one-handed"
+			],
+			"proficiency": "martial",
+			"cost": 6000,
+			"weight": 4,
+			"damage_s": "1d8",
+			"damage_m": "1d10",
+			"crit_multiplier": 3,
+			"damage_type": "fire",
+			"capacity": 10,
+			"usage": "1 charge",
+			"special": "Touch",
+			"heading": [
+				"**Laser torch**",
+				"**Source** [Technology Guide pg. 20](source:Technology Guide)"
+			],
+			"statistics": [
+				"**Cost** 6,000 gp",
+				"**Type** one-handed melee; **Proficiency** martial; **Weight** 4 lbs.",
+				"**Damage** 1d8 (small), 1d10 (medium); Damage Type F; Critical x3",
+				"**Range** -; **Capacity** 10; **Usage** 1 charge; **Special** Touch"
+			],
+			"construction": [
+				"Craft DC 26; Cost 3,000 gp",
+				"Craft Technological Arms and Armor, production lab"
+			],
+			"description": [
+				"A laser torch is a handheld tool intended to cut through objects with great speed. When activated, a laser torch emits a beam of highly focused light, cutting and burning through surfaces up to 6 inches away. Attacks from a laser torch resolve as touch attacks and deal 1d10 points of fire damage. This damage is not modified further by Strength. When the laser torch is used as a tool or as a weapon to sunder, its damage bypasses up to 20 points of hardness, and damage is not halved (as is normally the case for energy damage applied to objects) unless the object is particularly fire-resistant. A laser torch's cutting beam passes through force fields and force effects without damaging the field. Invisible objects and creatures can't be harmed by a laser torch."
+			]
+		},
+		{
+			"name": "stun baton",
+			"file": "equipmenttechweaponsdisplayedce.html",
+			"sources": [ "Technology Guide" ],
+			"category": "weapon",
+			"types": [
+				"tech",
+				"one-handed"
+			],
+			"proficiency": "martial",
+			"cost": 5000,
+			"weight": 2,
+			"damage_s": "special",
+			"damage_m": "special",
+			"crit_multiplier": 2,
+			"bludgeoning": true,
+			"damage_type": "electricity (special)",
+			"capacity": 10,
+			"usage": "1 charge/round",
+			"special": "Touch",
+			"heading": [
+				"**Stun baton**",
+				"**Source** [Technology Guide pg. 20](source:Technology Guide)"
+			],
+			"statistics": [
+				"**Cost** 5,000 gp",
+				"**Type** one-handed melee; **Proficiency** martial; **Weight** 2 lbs.",
+				"**Damage** Special (small), Special (medium); Damage Type B and E (special); Critical x2",
+				"**Range** -; **Capacity** 10; **Usage** 1 charge/round; **Special** Touch"
+			],
+			"construction": [
+				"Craft DC 24; Cost 2,500 gp",
+				"Craft Technological Arms and Armor, military lab"
+			],
+			"description": [
+				"This slender rod has an insulated grip and a conductive tip. All bludgeoning damage dealt by an active stun baton is nonlethal, while the electrical charge can be either nonlethal or lethal. By activating a control in the handle as a swift action, the wielder can switch the attack between a nonlethal jolt and a lethal shock. On a confirmed critical hit, a target must succeed at a Fortitude saving throw (DC = 10 + the damage dealt by the critical hit) or be staggered for 1 round. When it's not activated, a stun baton functions as a sap. A character who is proficient with saps is proficient with a stun baton."
+			]
+		},
+		{
+			"name": "starfall spade",
+			"file": "equipmenttechweaponsdisplay865e.html",
+			"sources": [ "Pathfinder #89: Palace of Fallen Stars" ],
+			"category": "weapon",
+			"types": [
+				"tech",
+				"two-handed"
+			],
+			"proficiency": "martial",
+			"cost": 8620,
+			"weight": 12,
+			"damage_s": "special",
+			"damage_m": "special",
+			"crit_multiplier": 2,
+			"damage_type": "special",
+			"capacity": 10,
+			"usage": "see text",
+			"special": "See text",
+			"heading": [
+				"**Starfall spade**",
+				"**Source** [Pathfinder #89: Palace of Fallen Stars pg. 63](source:Pathfinder #89: Palace of Fallen Stars)"
+			],
+			"statistics": [
+				"**Cost** 8,620 gp",
+				"**Type** two-handed melee; **Proficiency** martial; **Weight** 12 lbs.",
+				"**Damage** Special (small), Special (medium); Damage Type Special; Critical x2",
+				"**Range** -; **Capacity** 10; **Usage** see text; **Special** See text"
+			],
+			"construction": [
+				"Craft DC 26; Cost 4,620 gp",
+				"Craft Magic Arms and Armor, Craft Technoligcal Arms and Armor, military lab, scorching ray, shocking grasp"
+			],
+			"description": [
+				"Aura moderate evocation; CL 7th",
+				"The Technic League produces these unusual weapons as signature tools for the guards of Starfall and the Palace of Fallen Stars. A Starfall spade is a +1/+1 monk's spade and has a capacity of 10 charges. When the weapon strikes a foe, it automatically consumes a charge and deals an additional 2 points of plasma damage (1 electricity, 1 fire) on that hit. Attack that miss don't consume charges. A crystal button on the shaft allows for a secondary attack: a beam of plasma that fires from the forked tip of the spade. This beam is a ranged touch attack that deals 4d6 points of plasma damage (half electricity, half fire) on a hit-it has a maximum range of 40 feet with no range increment. Firing this plasma beam consumes 10 charges."
+			]
+		},
+		{
+			"name": "arc pistol",
+			"file": "equipmenttechweaponsdisplayaf74.html",
+			"sources": [ "Technology Guide" ],
+			"category": "weapon",
+			"types": [
+				"tech",
+				"one-handed",
+				"firearm"
+			],
+			"proficiency": "exotic",
+			"cost": 10000,
+			"weight": 2,
+			"range": "50 ft.",
+			"damage_s": "1d6",
+			"damage_m": "1d8",
+			"crit_multiplier": 2,
+			"damage_type": "electricity",
+			"capacity": 10,
+			"usage": "1 charge",
+			"special": "Semi-automatic, touch",
+			"heading": [
+				"**Arc pistol**",
+				"**Source** [Technology Guide pg. 21](source:Technology Guide)"
+			],
+			"statistics": [
+				"**Cost** 10,000 gp",
+				"**Type** one-handed ranged; **Proficiency** exotic (firearms); **Weight** 2 lbs.",
+				"**Damage** 1d6 (small), 1d8 (medium); Damage Type E; Critical x2",
+				"**Range** 50 ft.; **Capacity** 10; **Usage** 1 charge; **Special** Semi-automatic, touch"
+			],
+			"construction": [
+				"Craft DC 23; Cost 5,000 gp",
+				"Craft Technological Arms and Armor, military lab"
+			],
+			"description": [
+				"An arc pistol emits bolts of ionized particles that it then electrifies, creating a crackling beam of electricity between it and its target. Arc pistols gain a +2 circumstance bonus on attack rolls against targets that are metal or are wearing medium or heavy metal armor."
+			]
+		},
+		{
+			"name": "dart gun",
+			"file": "equipmenttechweaponsdisplayd9f8.html",
+			"sources": [ "Technology Guide" ],
+			"category": "weapon",
+			"types": [
+				"tech",
+				"one-handed",
+				"firearm"
+			],
+			"proficiency": "exotic",
+			"cost": 3000,
+			"weight": 2,
+			"range": "30 ft.",
+			"damage_s": "1d3",
+			"damage_m": "1d4",
+			"crit_multiplier": 2,
+			"piercing": true,
+			"capacity_nanite": 1,
+			"usage": "1 charge",
+			"heading": [
+				"**Dart gun**",
+				"**Source** [Technology Guide pg. 21](source:Technology Guide)"
+			],
+			"statistics": [
+				"**Cost** 3,000 gp",
+				"**Type** one-handed ranged; **Proficiency** exotic (firearms); **Weight** 2 lbs.",
+				"**Damage** 1d3 (small), 1d4 (medium); Damage Type P; Critical x2",
+				"**Range** 30 ft.; **Capacity** 1 nanite canister; **Usage** 1 charge; **Special** -"
+			],
+			"construction": [
+				"Craft DC 24; Cost 1,500 gp",
+				"Craft Technological Arms and Armor, nanotech lab"
+			],
+			"description": [
+				"A dart gun makes use of nanotechnology to craft a small pointed projectile that does minimal damage on its own. Unlike other nanotech weapons, the nanites that make up a dart do not have any additional effect on the target. Instead, a dart gun contains a small reservoir above its handle into which a single dose of a pharmaceutical, drug, poison, or even potion can be poured as a standard action. The next dart fired from the dart gun delivers that liquid into the target immediately upon a hit."
+			]
+		},
+		{
+			"name": "death ray",
+			"file": "equipmenttechweaponsdisplay90b9.html",
+			"sources": [ "Technology Guide" ],
+			"category": "weapon",
+			"types": [
+				"tech",
+				"one-handed",
+				"firearm"
+			],
+			"proficiency": "exotic",
+			"cost": 140000,
+			"weight": 1,
+			"range": "200 ft. (see text)",
+			"damage_s": "special",
+			"damage_m": "special",
+			"damage_type": "special",
+			"capacity_nanite": 1,
+			"usage": "varies",
+			"special": "Slow-firing, touch",
+			"heading": [
+				"**Death ray**",
+				"**Source** [Technology Guide pg. 21](source:Technology Guide)"
+			],
+			"statistics": [
+				"**Cost** 140,000 gp",
+				"**Type** one-handed ranged; **Proficiency** exotic (firearms); **Weight** 1 lb.",
+				"**Damage** Special (small), Special (medium); Damage Type Special; Critical &mdash;",
+				"**Range** 200 ft. (see text); **Capacity** 1 nanite canister; **Usage** Varies; **Special** Slow-firing, touch"
+			],
+			"construction": [
+				"Craft DC 32; Cost 70,000 gp",
+				"Craft Technological Arms and Armor, nanotech lab"
+			],
+			"description": [
+				"A death ray is a handheld, wandlike weapon that fires a harmless carrier beam of energy at a target. When the beam hits a target, the death ray then projects a stream of specialized nanites through the beam into the body of the target. When firing a death ray, the wielder must decide how many charges of nanites she is consuming, to a maximum of 10. Even if the wielder engineers a method of using a larger reserve of nanites than normally come in a canister, this maximum does not increase. Immediately upon being struck, the nanites inflict incredible pain on the target, which must succeed at a Fortitude saving throw to avoid a grisly fate (DC = 10 + twice the number of charges consumed by the attack). For example, if 1 charge is consumed, the target must succeed at a DC 12 Fortitude save to resist the death ray, but if all 10 charges are consumed in the attack, the DC to resist the effects is 30.",
+				"If the target fails this save, it takes 100 points of damage as the nanites tear apart the victim's cardiovascular system. On a successful saving throw, the victim takes only 6d6 points of damage. Creatures slain by a death ray die spectacularly, seeming to melt into a pool of blood that swiftly fades away. The victim's gear is unaffected by this attack. A death ray has no effect on creatures that aren't living (such as constructs or undead) and can't penetrate a force field. The wielder can't score critical hits with a death ray. A death ray has a maximum range of 200 feet with no range increment."
+			]
+		},
+		{
+			"name": "emp pistol",
+			"file": "equipmenttechweaponsdisplay72ff.html",
+			"sources": [ "Technology Guide" ],
+			"category": "weapon",
+			"types": [
+				"tech",
+				"one-handed",
+				"firearm"
+			],
+			"proficiency": "exotic",
+			"cost": 12000,
+			"weight": 2,
+			"range": "50 ft.",
+			"damage_s": "1d10",
+			"damage_m": "2d6",
+			"crit_multiplier": 2,
+			"damage_type": "electricity",
+			"capacity": 10,
+			"usage": "1 charge",
+			"special": "Semi-automatic, touch",
+			"heading": [
+				"**EMP pistol**",
+				"**Source** [Technology Guide pg. 21](source:Technology Guide)"
+			],
+			"statistics": [
+				"**Cost** 12,000 gp",
+				"**Type** one-handed ranged; **Proficiency** exotic (firearms); **Weight** 2 lbs.",
+				"**Damage** 1d10 (small), 2d6 (medium); Damage Type E; Critical x2",
+				"**Range** 50 ft.; **Capacity** 10; **Usage** 1 charge; **Special** Semi-automatic, touch"
+			],
+			"construction": [
+				"Craft DC 25; Cost 6,000 gp",
+				"Craft Technological Arms and Armor, military lab"
+			],
+			"description": [
+				"An EMP pistol emits a beam of electromagnetic energy that cannot harm living creatures, but deals terrible damage to robots. An EMP pistol can harm androids and creatures with cybernetic implants, but they take half damage from a hit. A creature that is critically hit by an EMP pistol and takes damage from that hit must succeed at a DC 15 Fortitude save or be staggered for 1d4 rounds."
+			]
+		},
+		{
+			"name": "flare gun",
+			"file": "equipmenttechweaponsdisplayfc9b.html",
+			"sources": [ "Technology Guide" ],
+			"category": "weapon",
+			"types": [
+				"tech",
+				"one-handed",
+				"firearm"
+			],
+			"proficiency": "exotic",
+			"cost": 300,
+			"weight": 1,
+			"range": "240 ft.",
+			"damage_s": "1d6",
+			"damage_m": "1d8",
+			"crit_multiplier": 3,
+			"damage_type": "fire",
+			"capacity": 1,
+			"usage": "Disposable",
+			"special": "Slow-firing, touch",
+			"heading": [
+				"**Flare gun**",
+				"**Source** [Technology Guide pg. 21](source:Technology Guide)"
+			],
+			"statistics": [
+				"**Cost** 300 gp",
+				"**Type** one-handed ranged; **Proficiency** exotic (firearms); **Weight** 1 lb.",
+				"**Damage** 1d6 (small), 1d8 (medium); Damage Type F; Critical x3",
+				"**Range** 240 ft.; **Capacity** 1; **Usage** Disposable; **Special** Slow-firing, touch"
+			],
+			"construction": [
+				"Craft DC 18; Cost 150 gp",
+				"Craft Technological Arms and Armor, production lab"
+			],
+			"description": [
+				"A flare gun looks like a wide-barreled pistol, and although it can be used in combat, the item's primary use is to send signals. A flare gun and its ammunition (a small, rocket-propelled magnesium charge) are completely self-contained and disposable-once fired, a flare gun is useless. While a flare gun has excellent range, the flare tends to wobble and spiral in flight, incurring a 20% miss chance if it's being used to target a specific point. The flare detonates once it hits a target or reaches its maximum range of 2,400 feet, bursting into a sphere of fire that illuminates a 120-foot-radius area for 1 minute as it drifts slowly back to the ground. Any creatures within 20 feet of the flare must succeed at a DC 12 Fortitude saving throw each round or be dazzled by the intense light for as long as they remain in the area. Creatures adjacent to a lit flare are also blinded for 1d4 rounds on a failed save. A creature struck by a flare takes 1d8 points of fire damage (1d6 points of fire damage from Small flare guns), and continues to take the same amount of fire damage each round until the flare is removed. Removing a flare is a full-round action."
+			]
+		},
+		{
+			"name": "gravity pistol",
+			"file": "equipmenttechweaponsdisplay4e7e.html",
+			"sources": [ "Technology Guide" ],
+			"category": "weapon",
+			"types": [
+				"tech",
+				"one-handed",
+				"firearm"
+			],
+			"proficiency": "exotic",
+			"cost": 95000,
+			"weight": 2,
+			"range": "50 ft.",
+			"damage_s": "1d6",
+			"damage_m": "1d8",
+			"crit_multiplier": 2,
+			"damage_type": "force",
+			"capacity": 10,
+			"usage": "1 charge",
+			"special": "Semi-automatic, touch",
+			"heading": [
+				"**Gravity pistol**",
+				"**Source** [Technology Guide pg. 21](source:Technology Guide)"
+			],
+			"statistics": [
+				"**Cost** 95,000 gp",
+				"**Type** one-handed ranged; **Proficiency** exotic (firearms); **Weight** 2 lbs.",
+				"**Damage** 1d6 (small), 1d8 (medium); Damage Type Force; Critical x2",
+				"**Range** 50 ft.; **Capacity** 10; **Usage** 1 charge; **Special** Semi-automatic, touch"
+			],
+			"construction": [
+				"Craft DC 32; Cost 52,500 gp",
+				"Craft Technological Arms and Armor, graviton lab"
+			],
+			"description": [
+				"A gravity pistol is one of the most advanced pieces of technology found in Numeria. It uses a focused beam of gravitons to create a bolt of force. A gravity pistol has two settings'switching between settings is a swift action. On its pulse setting, it can be used as a typical beam weapon, but on it sustained setting, holding the pistol's trigger down creates a stable beam of gravitons rather than a short, destructive burst. In this mode, the gravity pistol can be used to move and manipulate objects at a distance, similar to a telekinesis spell in its sustained force or combat maneuver versions (a gravity pistol cannot duplicate the violent thrust option of a telekinesis spell). In this mode, a gravity pistol consumes 1 charge per round. The graviton beam can move objects weighing no more than 225 pounds up to 20 feet per round. A creature can negate this effect on an object in its possession with a successful DC 19 Reflex save. If used to perform a combat maneuver, the beam uses the wielder's CMB, but uses her Intelligence modifier in place of her Strength or Dexterity modifier."
+			]
+		},
+		{
+			"name": "inferno pistol",
+			"file": "equipmenttechweaponsdisplay54f4.html",
+			"sources": [ "Pathfinder #85: Fires of Creation" ],
+			"category": "weapon",
+			"types": [
+				"tech",
+				"one-handed",
+				"firearm"
+			],
+			"proficiency": "exotic",
+			"cost": 5000,
+			"weight": 2,
+			"range": "30 ft.",
+			"damage_s": "1d4",
+			"damage_m": "1d6",
+			"crit_multiplier": 2,
+			"damage_type": "fire",
+			"capacity_nanite": 1,
+			"usage": "1 charge",
+			"special": "Touch",
+			"heading": [
+				"**Inferno pistol**",
+				"**Source** [Pathfinder #85: Fires of Creation pg. 60](source:Pathfinder #85: Fires of Creation)"
+			],
+			"statistics": [
+				"**Cost** 5,000 gp",
+				"**Type** one-handed ranged; **Proficiency** exotic (firearms); **Weight** 2 lbs.",
+				"**Damage** 1d4 (small), 1d6 (medium); Damage Type F; Critical x2",
+				"**Range** 30 ft.; **Capacity** 1 nanite canister; **Usage** 1 charge; **Special** Touch"
+			],
+			"construction": [
+				"Craft DC 21; Cost 2,500 gp",
+				"Craft Technological Arms and Armor, nanotech lab"
+			],
+			"description": [
+				"An inferno pistol is a less refined variant of the longer-range laser pistol. Unlike a laser pistol, which uses an intensely focused beam of light to burn a target, an inferno pistol is much less elegant-it generates a blob of molten, red-hot material and fires what appears to be a burning pellet of fire with a soft hissing sound. This material is consumed swiftly in firing, leaving behind nothing but ash and painful burns on anything it strikes. On a critical hit, a shot from an inferno pistol also inflicts 1 point of burn damage (Reflex DC 12 negates). An inferno pistol has a maximum range of 5 increments."
+			]
+		},
+		{
+			"name": "laser pistol",
+			"file": "equipmenttechweaponsdisplayd922.html",
+			"sources": [ "Technology Guide" ],
+			"category": "weapon",
+			"types": [
+				"tech",
+				"one-handed",
+				"firearm"
+			],
+			"proficiency": "exotic",
+			"cost": 10000,
+			"weight": 2,
+			"range": "50 ft.",
+			"damage_s": "1d6",
+			"damage_m": "1d8",
+			"crit_multiplier": 2,
+			"damage_type": "fire",
+			"capacity": 10,
+			"usage": "1 charge",
+			"special": "Semi-automatic, touch",
+			"heading": [
+				"**Laser pistol**",
+				"**Source** [Technology Guide pg. 21](source:Technology Guide)"
+			],
+			"statistics": [
+				"**Cost** 10,000 gp",
+				"**Type** one-handed ranged; **Proficiency** exotic (firearms); **Weight** 2 lbs.",
+				"**Damage** 1d6 (small), 1d8 (medium); Damage Type F; Critical x2",
+				"**Range** 50 ft.; **Capacity** 10; **Usage** 1 charge; **Special** Semi-automatic, touch"
+			],
+			"construction": [
+				"Craft DC 23; Cost 5,000 gp",
+				"Craft Technological Arms and Armor, military lab"
+			],
+			"description": [
+				"A laser pistol emits a beam of intensely focused light capable of burning anything it strikes. A laser attack can pass through force fields and force effects, such as a wall of force, to strike a foe beyond without damaging that field. Objects like glass or other transparent barriers do not provide cover from lasers-but unlike force barriers, a transparent physical barrier still takes damage from a laser passing through it. Invisible creatures are immune to damage caused by a laser weapon. Fog, smoke, and other clouds provide cover in addition to concealment from laser attacks. Darkness (magical or otherwise) has no effect on lasers other than providing concealment, and though a laser consists of highly focused light, it does not provide any illumination."
+			]
+		},
+		{
+			"name": "mind burner",
+			"file": "equipmenttechweaponsdisplay1020.html",
+			"sources": [ "Pathfinder #86: Lords of Rust" ],
+			"category": "weapon",
+			"types": [
+				"tech",
+				"one-handed",
+				"firearm"
+			],
+			"proficiency": "exotic",
+			"cost": 8000,
+			"weight": 2,
+			"range": "20 ft.",
+			"damage_s": "special",
+			"damage_m": "special",
+			"crit_multiplier": 2,
+			"damage_type": "special",
+			"capacity": 10,
+			"usage": "1 charge",
+			"special": "Touch",
+			"heading": [
+				"**Mind burner**",
+				"**Source** [Pathfinder #86: Lords of Rust pg. 63](source:Pathfinder #86: Lords of Rust)"
+			],
+			"statistics": [
+				"**Cost** 8,000 gp",
+				"**Type** one-handed ranged; **Proficiency** exotic (firearms); **Weight** 2 lbs.",
+				"**Damage** Special (small), Special (medium); Damage Type Special; Critical x2",
+				"**Range** 20 ft.; **Capacity** 10; **Usage** 1 charge; **Special** Touch"
+			],
+			"construction": [
+				"Craft DC 28; Cost 4,000 gp",
+				"Craft Technological Arms and Armor, military lab"
+			],
+			"description": [
+				"A mind burner is a pistol with a dishlike adornment at the tip of its barrel. When this weapon is fired, a pulse of white smoke pools in the dish an instant before a thin beam of white light lances out to strike its target. A mind burner is silent when fired, but stray particles from the mind-altering beam can cause those nearby to catch unexpected scents associated with powerful memories-the odor of a bouquet of flowers given to one's first lover, the scent of a parent's perfume or sweat, or maybe even the odor of a favorite food that hasn't been eaten in years. These fragmentary memories generally have no additional effect on those who experience them, but at the GM's discretion, they could cause the resurfacing of repressed memories or forgotten fears.",
+				"On a successful hit, a mind burner causes intense headaches that dull the senses and weaken willpower. Each hit deals 1d4 points of nonlethal damage, but also imposes a -2 penalty on Perception checks and a -1 penalty on saving throws against mind-affecting effects. These penalties stack with themselves, up to a maximum penalty of -10 on Perception checks and -5 on mind-affecting saving throws. A creature can resist the penalties caused by a shot from a mind burner with a successful DC 14 Will save; otherwise, the penalties persist for 1 hour after the previous successful shot. On a critical hit, a mind burner's penalties are doubled along with its nonlethal damage."
+			]
+		},
+		{
+			"name": "mindrender",
+			"file": "equipmenttechweaponsdisplaya5d5.html",
+			"sources": [ "Technology Guide" ],
+			"category": "weapon",
+			"types": [
+				"tech",
+				"one-handed",
+				"firearm"
+			],
+			"proficiency": "exotic",
+			"cost": 56000,
+			"weight": 2,
+			"range": "40 ft.",
+			"damage_s": "special",
+			"damage_m": "special",
+			"crit_multiplier": 2,
+			"damage_type": "special",
+			"capacity_nanite": 1,
+			"usage": "2 charges",
+			"special": "Slow-firing, touch",
+			"heading": [
+				"**Mindrender**",
+				"**Source** [Technology Guide pg. 21](source:Technology Guide)"
+			],
+			"statistics": [
+				"**Cost** 56,000 gp",
+				"**Type** one-handed ranged; **Proficiency** exotic (firearms); **Weight** 2 lbs.",
+				"**Damage** Special (small), Special (medium); Damage Type Special; Critical x2",
+				"**Range** 40 ft.; **Capacity** 1 nanite canister; **Usage** 2 charges; **Special** Slow-firing, touch"
+			],
+			"construction": [
+				"Craft DC 33; Cost 28,000 gp",
+				"Craft Technological Arms and Armor, nanotech lab"
+			],
+			"description": [
+				"A mindrender is a cruel weapon that emits a carrier wave of light which transmits a mass of nanites into the body of the creature struck. The victim must succeed at a DC 17 Fortitude save or it takes 1 negative level and is staggered for 1 round as the nanites flood the victim's brain and suppress long term memories. If the victim succeeds, he's instead sickened for 1d4 rounds and is immune to further attacks from a mindrender for 1 hour. A creature can attempt a new saving throw every 24 hours to remove the negative level. These are mind-affecting effects."
+			]
+		},
+		{
+			"name": "sonic pistol",
+			"file": "equipmenttechweaponsdisplayd01e.html",
+			"sources": [ "Technology Guide" ],
+			"category": "weapon",
+			"types": [
+				"tech",
+				"one-handed",
+				"firearm"
+			],
+			"proficiency": "exotic",
+			"cost": 13000,
+			"weight": 2,
+			"range": "50 ft.",
+			"damage_s": "1d6",
+			"damage_m": "1d8",
+			"crit_multiplier": 2,
+			"damage_type": "sonic",
+			"capacity": 10,
+			"usage": "1 charge",
+			"special": "Semi-automic, touch",
+			"heading": [
+				"**Sonic pistol**",
+				"**Source** [Technology Guide pg. 21](source:Technology Guide)"
+			],
+			"statistics": [
+				"**Cost** 13,000 gp",
+				"**Type** one-handed ranged; **Proficiency** exotic (firearms); **Weight** 2 lbs.",
+				"**Damage** 1d6 (small), 1d8 (medium); Damage Type Sonic; Critical x2",
+				"**Range** 50 ft.; **Capacity** 10; **Usage** 1 charge; **Special** Semi-automic, touch"
+			],
+			"construction": [
+				"Craft DC 23; Cost 6,500 gp",
+				"Craft Technological Arms and Armor, military lab"
+			],
+			"description": [
+				"A sonic pistol emits a blast of devastating sound waves that shatter and blast flesh, bone, and anything else they happen to strike. A creature critically hit by a sonic pistol must succeed at a DC 15 Fortitude save to resist being permanently deafened."
+			]
+		},
+		{
+			"name": "stun gun",
+			"file": "equipmenttechweaponsdisplayb4ab.html",
+			"sources": [ "Technology Guide" ],
+			"category": "weapon",
+			"types": [
+				"tech",
+				"one-handed",
+				"firearm"
+			],
+			"proficiency": "exotic",
+			"cost": 3000,
+			"weight": 3,
+			"range": "20 ft.",
+			"damage_s": "1d6",
+			"damage_m": "1d8",
+			"crit_multiplier": 2,
+			"capacity": 10,
+			"usage": "1 charge",
+			"special": "Nonlethal, semi-automatic, touch",
+			"heading": [
+				"**Stun gun**",
+				"**Source** [Technology Guide pg. 21](source:Technology Guide)"
+			],
+			"statistics": [
+				"**Cost** 3,000 gp",
+				"**Type** one-handed ranged; **Proficiency** exotic (firearms); **Weight** 3 lbs.",
+				"**Damage** 1d6 (small), 1d8 (medium); Damage Type &mdash;; Critical x2",
+				"**Range** 20 ft.; **Capacity** 10; **Usage** 1 charge; **Special** Nonlethal, semi-automatic, touch"
+			],
+			"construction": [
+				"Craft DC 22; Cost 1,500 gp",
+				"Craft Technological Arms and Armor, military lab"
+			],
+			"description": [
+				"This weapon uses a sonic amplifier to produce powerful low-frequency blasts of energy that pummel targets. The weapon has a relatively short range, but the fact that it deals nonlethal damage at range and can knock targets prone makes it a favorite for those seeking to capture their foes alive. A hit by a stun gun deals nonlethal damage-on a critical hit, the gun can attempt a free trip combat maneuver check against the target (CMB = user's base attack bonus + 10); this attempt doesn't provoke attacks of opportunity."
+			]
+		},
+		{
+			"name": "zero pistol",
+			"file": "equipmenttechweaponsdisplay3fc9.html",
+			"sources": [ "Technology Guide" ],
+			"category": "weapon",
+			"types": [
+				"tech",
+				"one-handed",
+				"firearm"
+			],
+			"proficiency": "exotic",
+			"cost": 10000,
+			"weight": 2,
+			"range": "50 ft.",
+			"damage_s": "1d6",
+			"damage_m": "1d8",
+			"crit_multiplier": 2,
+			"damage_type": "cold",
+			"capacity": 10,
+			"usage": "1 charge",
+			"special": "Semi-automatic, touch",
+			"heading": [
+				"**Zero pistol**",
+				"**Source** [Technology Guide pg. 21](source:Technology Guide)"
+			],
+			"statistics": [
+				"**Cost** 10,000 gp",
+				"**Type** one-handed ranged; **Proficiency** exotic (firearms); **Weight** 2 lbs.",
+				"**Damage** 1d6 (small), 1d8 (medium); Damage Type C; Critical x2",
+				"**Range** 50 ft.; **Capacity** 10; **Usage** 1 charge; **Special** Semi-automatic, touch"
+			],
+			"construction": [
+				"Craft DC 23; Cost 5,000 gp",
+				"Craft Technological Arms and Armor, military lab"
+			],
+			"description": [
+				"A zero pistol fires a beam of freezing particles at high velocity, dealing cold damage to anything it strikes. Any creature critically hit by a zero pistol ray must succeed at a DC 15 Fortitude saving throw or become staggered by the cold for 1 round."
+			]
+		},
+		{
+			"name": "arc rifle",
+			"file": "equipmenttechweaponsdisplay8936.html",
+			"sources": [ "Technology Guide" ],
+			"category": "weapon",
+			"types": [
+				"tech",
+				"two-handed",
+				"firearm"
+			],
+			"proficiency": "exotic",
+			"cost": 20000,
+			"weight": 6,
+			"range": "150 ft.",
+			"damage_s": "1d10",
+			"damage_m": "2d6",
+			"crit_multiplier": 2,
+			"damage_type": "electricity",
+			"capacity": 20,
+			"usage": "1 charge",
+			"special": "Automatic, touch",
+			"heading": [
+				"**Arc rifle**",
+				"**Source** [Technology Guide pg. 21](source:Technology Guide)"
+			],
+			"statistics": [
+				"**Cost** 20,000 gp",
+				"**Type** two-handed ranged; **Proficiency** exotic (firearms); **Weight** 6 lbs.",
+				"**Damage** 1d10 (small), 2d6 (medium); Damage Type E; Critical x2",
+				"**Range** 150 ft.; **Capacity** 20; **Usage** 1 charge; **Special** Automatic, touch"
+			],
+			"construction": [
+				"Craft DC 27; Cost 10,000 gp",
+				"Craft Technological Arms and Armor, military lab"
+			],
+			"description": [
+				"An arc rifle is a larger, more powerful version of an arc pistol, and functions as such except for the differences listed here."
+			]
+		},
+		{
+			"name": "autograpnel",
+			"file": "equipmenttechweaponsdisplay6e47.html",
+			"sources": [ "Technology Guide" ],
+			"category": "weapon",
+			"types": [
+				"tech",
+				"two-handed",
+				"firearm"
+			],
+			"proficiency": "exotic",
+			"cost": 4000,
+			"weight": 10,
+			"range": "30 ft.",
+			"damage_s": "1d6+6",
+			"damage_m": "1d8+6",
+			"crit_multiplier": 3,
+			"piercing": true,
+			"capacity": 20,
+			"usage": "1 charge",
+			"special": "Grapple, slow-firing",
+			"heading": [
+				"**Autograpnel**",
+				"**Source** [Technology Guide pg. 21](source:Technology Guide)"
+			],
+			"statistics": [
+				"**Cost** 4,000 gp",
+				"**Type** two-handed ranged; **Proficiency** exotic (firearms); **Weight** 10 lbs.",
+				"**Damage** 1d6+6 (small), 1d8+6 (medium); Damage Type P; Critical x3",
+				"**Range** 30 ft.; **Capacity** 20; **Usage** 1 charge; **Special** Grapple, slow-firing"
+			],
+			"construction": [
+				"Craft DC 20; Cost 2,000 gp",
+				"Craft Technological Arms and Armor, military lab"
+			],
+			"description": [
+				"An autograpnel looks like a rifle with a small adamantine spike protruding from its barrel. When fired, an autograpnel launches the spike with a muffled bang. The spike trails an incredibly strong and thin metal cable behind it. An instant after the spike punches into a solid target, tiny spurs lance out of it, anchoring the spike in place. An autograpnel's cord is long enough to allow the grapnel to reach its maximum range of 300 feet, and the internal retraction motors are strong enough to hold up to 500 pounds of weight. If the grapnel misses its target, it can be rewound into the gun as a standard action; reattaching the grapnel to the gun barrel is a move action.",
+				"An autograpnel strikes with an effective Strength score of 22 for the purposes of determining damage. If it strikes a creature, it remains lodged in the target and connected to the rifle and its wielder by the metal cord. This cord has AC 12, hardness 10, and 20 hp. A successful DC 32 Strength check is required to snap the cord. If the wielder retracts the cord while it's attached to a creature, the autograpnel attempts a pull combat maneuver check with a CMB of +16. If used against objects, an autograpnel can pull an item that weighs 25 pounds or less back to the user as a full-round action, or it can pull a heavier object that weighs no more than 100 pounds back to the user at a speed of 20 feet.",
+				"When attached to a solid object, the gun's retraction rate can be set to maintain a taut line while the gun is attached to a harness worn to aid climbing checks."
+			]
+		},
+		{
+			"name": "emp rifle",
+			"file": "equipmenttechweaponsdisplayc73a.html",
+			"sources": [ "Technology Guide" ],
+			"category": "weapon",
+			"types": [
+				"tech",
+				"two-handed",
+				"firearm"
+			],
+			"proficiency": "exotic",
+			"cost": 24000,
+			"weight": 6,
+			"range": "150 ft.",
+			"damage_s": "2d6",
+			"damage_m": "3d6",
+			"crit_multiplier": 2,
+			"damage_type": "electricity",
+			"capacity": 20,
+			"usage": "1 charge",
+			"special": "Automatic, touch",
+			"heading": [
+				"**EMP rifle**",
+				"**Source** [Technology Guide pg. 21](source:Technology Guide)"
+			],
+			"statistics": [
+				"**Cost** 24,000 gp",
+				"**Type** two-handed ranged; **Proficiency** exotic (firearms); **Weight** 6 lbs.",
+				"**Damage** 2d6 (small), 3d6 (medium); Damage Type E; Critical x2",
+				"**Range** 150 ft.; **Capacity** 20; **Usage** 1 charge; **Special** Automatic, touch"
+			],
+			"construction": [
+				"Craft DC 29; Cost 12,000 gp",
+				"Craft Technological Arms and Armor, military lab"
+			],
+			"description": [
+				"An EMP rifle is a larger, more powerful version of an EMP pistol. It emits a beam of electromagnetic energy that can't harm living creatures, but deals significant damage to robots. It functions as an EMP pistol except for the differences listed here."
+			]
+		},
+		{
+			"name": "gravity rifle",
+			"file": "equipmenttechweaponsdisplayda71.html",
+			"sources": [ "Technology Guide" ],
+			"category": "weapon",
+			"types": [
+				"tech",
+				"two-handed",
+				"firearm"
+			],
+			"proficiency": "exotic",
+			"cost": 165000,
+			"weight": 6,
+			"range": "150 ft.",
+			"damage_s": "1d10",
+			"damage_m": "2d6",
+			"crit_multiplier": 2,
+			"damage_type": "force",
+			"capacity": 20,
+			"usage": "1 charge",
+			"special": "Automatic, touch",
+			"heading": [
+				"**Gravity rifle**",
+				"**Source** [Technology Guide pg. 21](source:Technology Guide)"
+			],
+			"statistics": [
+				"**Cost** 165,000 gp",
+				"**Type** two-handed ranged; **Proficiency** exotic (firearms); **Weight** 6 lbs.",
+				"**Damage** 1d10 (small), 2d6 (medium); Damage Type Force; Critical x2",
+				"**Range** 150 ft.; **Capacity** 20; **Usage** 1 charge; **Special** Automatic, touch"
+			],
+			"construction": [
+				"Craft DC 34; Cost 82,500 gp",
+				"Craft Technological Arms and Armor, graviton lab"
+			],
+			"description": [
+				"A gravity rifle is a larger, more powerful version of the gravity pistol, and functions as such except for the differences listed here. When a gravity rifle is on sustained setting, it can move objects weighing no more than 350 pounds up to 20 feet per round, and the wielder gains a +4 bonus on combat maneuver checks; she still substitutes her Intelligence modifier in place of her Strength or Dexterity modifier when calculating her CMB for these maneuvers."
+			]
+		},
+		{
+			"name": "id rifle",
+			"file": "equipmenttechweaponsdisplay1a46.html",
+			"sources": [ "Technology Guide" ],
+			"category": "weapon",
+			"types": [
+				"tech",
+				"two-handed",
+				"firearm"
+			],
+			"proficiency": "exotic",
+			"cost": 50000,
+			"weight": 5,
+			"range": "50 ft.",
+			"damage_s": "special",
+			"damage_m": "special",
+			"crit_multiplier": 2,
+			"damage_type": "special",
+			"capacity_nanite": 1,
+			"usage": "1 charge",
+			"special": "Slow-firing, touch",
+			"heading": [
+				"**Id rifle**",
+				"**Source** [Technology Guide pg. 21](source:Technology Guide)"
+			],
+			"statistics": [
+				"**Cost** 50,000 gp",
+				"**Type** two-handed ranged; **Proficiency** exotic (firearms); **Weight** 5 lbs.",
+				"**Damage** Special (small), Special (medium); Damage Type Special; Critical x2",
+				"**Range** 50 ft.; **Capacity** 1 nanite canister; **Usage** 1 charge; **Special** Slow-firing, touch"
+			],
+			"construction": [
+				"Craft DC 32; Cost 25,000 gp",
+				"Craft Technological Arms and Armor, nanotech lab"
+			],
+			"description": [
+				"An id rifle looks like a sleek, low-caliber rifle made of burnished skymetal. It fires a tiny barb of solid nanites with a range increment of 50 feet. Although this barb does minimal damage on a hit, any creature damaged by an id rifle barb must succeed at a DC 16 Fortitude saving throw or have its central nervous system flooded with nanites that swiftly overwhelm the creature's brain, reducing its mind to the instinctive level of an animal. The victim takes 1d4 points of Intelligence damage each round, but the total amount of damage taken can never equal the victim's actual Intelligence score. Each round after the first, the victim can resist the Intelligence damage by succeeding at a DC 16 Fortitude saving throw, at which point the damage ceases. The recurring Intelligence damage automatically ends after 6 rounds. A victim already suffering from the effects of an id rifle who is affected by an additional shot has the save DC increased by 2 per additional shot.",
+				"An id rifle has a microphone built into its stock. During any round in which a creature takes Intelligence damage from an id rifle, as a move action the wielder of that rifle can speak a short command into the microphone. Any applicable target within 50 feet of the wielder must then succeed at a DC 16 Will save to resist following the command, as if under the effect of a suggestion spell. A victim follows only the latest suggestion spoken into the microphone, and abandons any previous suggestion if it fails a saving throw against a new suggestion. A victim continues to follow the suggestion for up to 5 hours after succumbing to its effects.",
+				"The effects created by an id rifle are mind-affecting effects."
+			]
+		},
+		{
+			"name": "laser rifle",
+			"file": "equipmenttechweaponsdisplayd3d8.html",
+			"sources": [ "Technology Guide" ],
+			"category": "weapon",
+			"types": [
+				"tech",
+				"two-handed",
+				"firearm"
+			],
+			"proficiency": "exotic",
+			"cost": 20000,
+			"weight": 6,
+			"range": "150 ft.",
+			"damage_s": "1d10",
+			"damage_m": "2d6",
+			"crit_multiplier": 2,
+			"damage_type": "fire",
+			"capacity": 20,
+			"usage": "1 charge",
+			"special": "Automatic, touch",
+			"heading": [
+				"**Laser rifle**",
+				"**Source** [Technology Guide pg. 21](source:Technology Guide)"
+			],
+			"statistics": [
+				"**Cost** 20,000 gp",
+				"**Type** two-handed ranged; **Proficiency** exotic (firearms); **Weight** 6 lbs.",
+				"**Damage** 1d10 (small), 2d6 (medium); Damage Type F; Critical x2",
+				"**Range** 150 ft.; **Capacity** 20; **Usage** 1 charge; **Special** Automatic, touch"
+			],
+			"construction": [
+				"Craft DC 27; Cost 10,000 gp",
+				"Craft Technological Arms and Armor, military lab"
+			],
+			"description": [
+				"A laser rifle is a larger, more powerful version of a laser pistol, and functions as such except for the differences listed here."
+			]
+		},
+		{
+			"name": "sonic rifle",
+			"file": "equipmenttechweaponsdisplayca16.html",
+			"sources": [ "Technology Guide" ],
+			"category": "weapon",
+			"types": [
+				"tech",
+				"two-handed",
+				"firearm"
+			],
+			"proficiency": "exotic",
+			"cost": 26000,
+			"weight": 6,
+			"range": "150 ft.",
+			"damage_s": "1d10",
+			"damage_m": "2d6",
+			"crit_multiplier": 2,
+			"damage_type": "sonic",
+			"capacity": 20,
+			"usage": "1 charge",
+			"special": "Automatic, touch",
+			"heading": [
+				"**Sonic rifle**",
+				"**Source** [Technology Guide pg. 21](source:Technology Guide)"
+			],
+			"statistics": [
+				"**Cost** 26,000 gp",
+				"**Type** two-handed ranged; **Proficiency** exotic (firearms); **Weight** 6 lbs.",
+				"**Damage** 1d10 (small), 2d6 (medium); Damage Type Sonic; Critical x2",
+				"**Range** 150 ft.; **Capacity** 20; **Usage** 1 charge; **Special** Automatic, touch"
+			],
+			"construction": [
+				"Craft DC 27; Cost 13,000 gp",
+				"Craft Technological Arms and Armor, military lab"
+			],
+			"description": [
+				"A sonic rifle is a larger, more powerful version of the sonic pistol, and functions as such except for the differences listed here."
+			]
+		},
+		{
+			"name": "zero rifle",
+			"file": "equipmenttechweaponsdisplay4480.html",
+			"sources": [ "Technology Guide" ],
+			"category": "weapon",
+			"types": [
+				"tech",
+				"two-handed",
+				"firearm"
+			],
+			"proficiency": "exotic",
+			"cost": 20000,
+			"weight": 6,
+			"range": "150 ft.",
+			"damage_s": "1d10",
+			"damage_m": "2d6",
+			"crit_multiplier": 2,
+			"damage_type": "cold",
+			"capacity": 20,
+			"usage": "1 charge",
+			"special": "Automatic, touch",
+			"heading": [
+				"**Zero rifle**",
+				"**Source** [Technology Guide pg. 21](source:Technology Guide)"
+			],
+			"statistics": [
+				"**Cost** 20,000 gp",
+				"**Type** two-handed ranged; **Proficiency** exotic (firearms); **Weight** 6 lbs.",
+				"**Damage** 1d10 (small), 2d6 (medium); Damage Type C; Critical x2",
+				"**Range** 150 ft.; **Capacity** 20; **Usage** 1 charge; **Special** Automatic, touch"
+			],
+			"construction": [
+				"Craft DC 27; Cost 10,000 gp",
+				"Craft Technological Arms and Armor, military lab"
+			],
+			"description": [
+				"A zero rifle is a larger, more powerful version of the zero pistol, and functions as such except for the differences listed here."
+			]
+		}
+	]
 }
