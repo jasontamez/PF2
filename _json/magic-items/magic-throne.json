@@ -1,11 +1,11 @@
 {
+	"category": "magic item",
 	"list": [
 		{
 			"name": "Throne of Pleasing Mien",
 			"file": "magicthronesdisplay2a1e.html",
 			"sources": [ "Heroes of the High Court" ],
 			"cost": 8000,
-			"category": "magic item",
 			"types": [
 				"wondrous",
 				"throne"
@@ -27,7 +27,6 @@
 			"file": "magicthronesdisplayaf8a.html",
 			"sources": [ "Heroes of the High Court" ],
 			"cost": 16000,
-			"category": "magic item",
 			"types": [
 				"wondrous",
 				"throne"
@@ -49,7 +48,6 @@
 			"file": "magicthronesdisplay1d19.html",
 			"sources": [ "Heroes of the High Court" ],
 			"cost": 16000,
-			"category": "magic item",
 			"types": [
 				"wondrous",
 				"throne"

@@ -1,11 +1,11 @@
 {
+	"category": "magic item",
 	"list": [
 		{
 			"name": "Altar of Pharasma",
 			"file": "magicaltarsdisplaycae8.html",
 			"sources": [ "Inner Sea Gods" ],
 			"cost": 5380,
-			"category": "magic item",
 			"types": [
 				"altar",
 				"wondrous"
@@ -28,7 +28,6 @@
 			"file": "magicaltarsdisplay6960.html",
 			"sources": [ "Inner Sea Gods" ],
 			"cost": 8000,
-			"category": "magic item",
 			"types": [
 				"altar",
 				"wondrous"
@@ -51,7 +50,6 @@
 			"file": "magicaltarsdisplay22f7.html",
 			"sources": [ "Inner Sea Gods" ],
 			"cost": 8000,
-			"category": "magic item",
 			"types": [
 				"altar",
 				"wondrous"
@@ -74,7 +72,6 @@
 			"file": "magicaltarsdisplay8ae1.html",
 			"sources": [ "Inner Sea Gods" ],
 			"cost": 8000,
-			"category": "magic item",
 			"types": [
 				"altar",
 				"wondrous"
@@ -97,7 +94,6 @@
 			"file": "magicaltarsdisplay7a38.html",
 			"sources": [ "Inner Sea Gods" ],
 			"cost": 8000,
-			"category": "magic item",
 			"types": [
 				"altar",
 				"wondrous"
@@ -120,7 +116,6 @@
 			"file": "magicaltarsdisplay9ec9.html",
 			"sources": [ "Inner Sea Gods" ],
 			"cost": 8000,
-			"category": "magic item",
 			"types": [
 				"altar",
 				"wondrous"
@@ -143,7 +138,6 @@
 			"file": "magicaltarsdisplay63c7.html",
 			"sources": [ "Inner Sea Gods" ],
 			"cost": 8000,
-			"category": "magic item",
 			"types": [
 				"altar",
 				"wondrous"
@@ -166,7 +160,6 @@
 			"file": "magicaltarsdisplayf43a.html",
 			"sources": [ "Inner Sea Gods" ],
 			"cost": 8000,
-			"category": "magic item",
 			"types": [
 				"altar",
 				"wondrous"
@@ -189,7 +182,6 @@
 			"file": "magicaltarsdisplay6b7d.html",
 			"sources": [ "Inner Sea Gods" ],
 			"cost": 8000,
-			"category": "magic item",
 			"types": [
 				"altar",
 				"wondrous"
@@ -212,7 +204,6 @@
 			"file": "magicaltarsdisplayd9b8.html",
 			"sources": [ "Inner Sea Gods" ],
 			"cost": 8000,
-			"category": "magic item",
 			"types": [
 				"altar",
 				"wondrous"
@@ -236,7 +227,6 @@
 			"file": "magicaltarsdisplayfb67.html",
 			"sources": [ "Inner Sea Gods" ],
 			"cost": 8000,
-			"category": "magic item",
 			"types": [
 				"altar",
 				"wondrous"
@@ -259,7 +249,6 @@
 			"file": "magicaltarsdisplay1c40.html",
 			"sources": [ "Inner Sea Gods" ],
 			"cost": 10000,
-			"category": "magic item",
 			"types": [
 				"altar",
 				"wondrous"
@@ -282,7 +271,6 @@
 			"file": "magicaltarsdisplay157e.html",
 			"sources": [ "Inner Sea Gods" ],
 			"cost": 10000,
-			"category": "magic item",
 			"types": [
 				"altar",
 				"wondrous"
@@ -305,7 +293,6 @@
 			"file": "magicaltarsdisplay03c9.html",
 			"sources": [ "Inner Sea Gods" ],
 			"cost": 10000,
-			"category": "magic item",
 			"types": [
 				"altar",
 				"wondrous"
@@ -328,7 +315,6 @@
 			"file": "magicaltarsdisplay1ca3.html",
 			"sources": [ "Inner Sea Gods" ],
 			"cost": 10000,
-			"category": "magic item",
 			"types": [
 				"altar",
 				"wondrous"
@@ -351,7 +337,6 @@
 			"file": "magicaltarsdisplay8651.html",
 			"sources": [ "Inner Sea Gods" ],
 			"cost": 10000,
-			"category": "magic item",
 			"types": [
 				"altar",
 				"wondrous"
@@ -374,7 +359,6 @@
 			"file": "magicaltarsdisplayad2b.html",
 			"sources": [ "Inner Sea Gods" ],
 			"cost": 10000,
-			"category": "magic item",
 			"types": [
 				"altar",
 				"wondrous"
@@ -397,7 +381,6 @@
 			"file": "magicaltarsdisplaye5e1.html",
 			"sources": [ "Inner Sea Temples" ],
 			"cost": 10000,
-			"category": "magic item",
 			"types": [
 				"altar",
 				"wondrous"
@@ -421,7 +404,6 @@
 			"file": "magicaltarsdisplay6ea9.html",
 			"sources": [ "Inner Sea Gods" ],
 			"cost": 10000,
-			"category": "magic item",
 			"types": [
 				"altar",
 				"wondrous"
@@ -444,7 +426,6 @@
 			"file": "magicaltarsdisplay13b3.html",
 			"sources": [ "Pathfinder #95: Anvil of Fire" ],
 			"cost": 10000,
-			"category": "magic item",
 			"types": [
 				"altar",
 				"wondrous"
@@ -467,7 +448,6 @@
 			"file": "magicaltarsdisplay5ff3.html",
 			"sources": [ "Inner Sea Gods" ],
 			"cost": 16000,
-			"category": "magic item",
 			"types": [
 				"altar",
 				"wondrous"
@@ -490,7 +470,6 @@
 			"file": "magicaltarsdisplay6d53.html",
 			"sources": [ "Inner Sea Gods" ],
 			"cost": 16000,
-			"category": "magic item",
 			"types": [
 				"altar",
 				"wondrous"

@@ -1,4 +1,5 @@
 {
+	"category": "weapon",
 	"list": [
 		{
 			"name": "acid",
@@ -8,7 +9,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -36,7 +36,6 @@
 			"name": "acid neutralizer",
 			"file": "equipmentmiscdisplay5779.html",
 			"sources": [ "Alchemy Manual" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -63,7 +62,6 @@
 			"display_name": "alchemical coal (blinding cinders)",
 			"file": "equipmentmiscdisplayf5e8.html",
 			"sources": [ "Advanced Race Guide" ],
-			"category": "weapon",
 			"types": [],
 			"cost": 100,
 			"weight": 0,
@@ -92,7 +90,6 @@
 			"display_name": "alchemical coal (choking smoke)",
 			"file": "equipmentmiscdisplay7f3b.html",
 			"sources": [ "Advanced Race Guide" ],
-			"category": "weapon",
 			"types": [],
 			"cost": 50,
 			"weight": 0,
@@ -120,7 +117,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -153,7 +149,6 @@
 				"Dungeon Denizens Revisited",
 				"Advanced Player's Guide"
 			],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -184,7 +179,6 @@
 				"Alchemy Manual",
 				"Elves of Golarion"
 			],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -213,7 +207,6 @@
 				"Alchemy Manual",
 				"Elves of Golarion"
 			],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -241,7 +234,6 @@
 				"Alchemy Manual",
 				"Elves of Golarion"
 			],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -270,7 +262,6 @@
 				"Alchemy Manual",
 				"Elves of Golarion"
 			],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -299,7 +290,6 @@
 				"Alchemy Manual",
 				"Elves of Golarion"
 			],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -328,7 +318,6 @@
 				"Elves of Golarion",
 				"Alchemy Manual"
 			],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -355,7 +344,6 @@
 				"Alchemy Manual",
 				"Elves of Golarion"
 			],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -385,7 +373,6 @@
 				"Alchemy Manual",
 				"Elves of Golarion"
 			],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -414,7 +401,6 @@
 				"Alchemy Manual",
 				"Elves of Golarion"
 			],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -442,7 +428,6 @@
 				"Alchemy Manual",
 				"Elves of Golarion"
 			],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -466,7 +451,6 @@
 			"name": "artokus's fire",
 			"file": "equipmentmiscdisplay4f2d.html",
 			"sources": [ "Alchemy Manual" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -494,7 +478,6 @@
 			"display_name": "blanch bomb (adamantine)",
 			"file": "equipmentmiscdisplay8569.html",
 			"sources": [ "Alchemy Manual" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -521,7 +504,6 @@
 			"display_name": "blanch bomb (cold iron)",
 			"file": "equipmentmiscdisplay885d.html",
 			"sources": [ "Alchemy Manual" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -548,7 +530,6 @@
 			"display_name": "blanch bomb (silver)",
 			"file": "equipmentmiscdisplay7f38.html",
 			"sources": [ "Alchemy Manual" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -574,7 +555,6 @@
 			"name": "bloating solution",
 			"file": "equipmentmiscdisplay49a3.html",
 			"sources": [ "Alchemy Manual" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -604,7 +584,6 @@
 				"Adventurer's Armory 2",
 				"Pathfinder #15: The Armageddon Echo"
 			],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -629,7 +608,6 @@
 			"display_name": "bolt, alchemical fire",
 			"file": "equipmentmiscdisplay3f08.html",
 			"sources": [ "Adventurer's Armory 2" ],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -654,7 +632,6 @@
 			"display_name": "bolt, liquid ice",
 			"file": "equipmentmiscdisplaya86a.html",
 			"sources": [ "Adventurer's Armory 2" ],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -679,7 +656,6 @@
 			"display_name": "bolt, poison",
 			"file": "equipmentmiscdisplay3852.html",
 			"sources": [ "Adventurer's Armory 2" ],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -702,7 +678,6 @@
 			"name": "bone burn",
 			"file": "equipmentmiscdisplay100e.html",
 			"sources": [ "Pathfinder #139: The Dead Road" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -729,7 +704,6 @@
 			"name": "bottled lightning",
 			"file": "equipmentmiscdisplay4ea6.html",
 			"sources": [ "Ultimate Equipment" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -756,7 +730,6 @@
 			"name": "brewed reek",
 			"file": "equipmentmiscdisplay408b.html",
 			"sources": [ "Advanced Race Guide" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -781,7 +754,6 @@
 			"name": "burst jar",
 			"file": "equipmentmiscdisplay1f17.html",
 			"sources": [ "Ultimate Equipment" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -807,7 +779,6 @@
 			"name": "chroma grenade",
 			"file": "equipmentmiscdisplaydcdf.html",
 			"sources": [ "Legacy of the First World" ],
-			"category": "weapon",
 			"types": [],
 			"cost": 75,
 			"weight": 2,
@@ -828,7 +799,6 @@
 			"name": "congealer spray",
 			"file": "equipmentmiscdisplay2144.html",
 			"sources": [ "Alchemy Manual" ],
-			"category": "weapon",
 			"types": [],
 			"cost": 15,
 			"weight": 0,
@@ -853,7 +823,6 @@
 			"name": "consecrated salts",
 			"file": "equipmentmiscdisplay574e.html",
 			"sources": [ "Pathfinder #139: The Dead Road" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -879,7 +848,6 @@
 			"name": "corrosenze",
 			"file": "equipmentmiscdisplay5fa4.html",
 			"sources": [ "Elemental Master's Handbook" ],
-			"category": "weapon",
 			"types": [],
 			"cost": 90,
 			"weight": 1,
@@ -900,7 +868,6 @@
 			"name": "cytillesh stun vial",
 			"file": "equipmentmiscdisplay1e87.html",
 			"sources": [ "Kobolds of Golarion" ],
-			"category": "weapon",
 			"types": [],
 			"cost": 75,
 			"weight": 0.5,
@@ -926,7 +893,6 @@
 				"Adventurer's Armory 2",
 				"Faction Guide"
 			],
-			"category": "weapon",
 			"types": [],
 			"cost": 1,
 			"weight": 0,
@@ -948,7 +914,6 @@
 			"name": "deadground dust",
 			"file": "equipmentmiscdisplayfa71.html",
 			"sources": [ "Elemental Master's Handbook" ],
-			"category": "weapon",
 			"types": [],
 			"cost": 70,
 			"weight": 1,
@@ -969,7 +934,6 @@
 			"name": "desiccating lubricant",
 			"file": "equipmentmiscdisplay66c8.html",
 			"sources": [ "Alchemy Manual" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -995,7 +959,6 @@
 			"name": "dung grenade",
 			"file": "equipmentmiscdisplay7f7e.html",
 			"sources": [ "Antihero's Handbook" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -1023,7 +986,6 @@
 			"display_name": "dust knuckles (4 vials)",
 			"file": "equipmentmiscdisplaye51a.html",
 			"sources": [ "Advanced Class Guide" ],
-			"category": "weapon",
 			"types": [],
 			"cost": 5,
 			"weight": 0,
@@ -1049,7 +1011,6 @@
 			"display_name": "dust knuckles (diamond dust vial)",
 			"file": "equipmentmiscdisplay19fe.html",
 			"sources": [ "Advanced Class Guide" ],
-			"category": "weapon",
 			"types": [],
 			"cost": 25,
 			"weight": 0,
@@ -1072,7 +1033,6 @@
 			"display_name": "dust knuckles (gloves)",
 			"file": "equipmentmiscdisplay9729.html",
 			"sources": [ "Advanced Class Guide" ],
-			"category": "weapon",
 			"types": [],
 			"cost": 25,
 			"weight": 0.5,
@@ -1094,7 +1054,6 @@
 			"name": "ectoplasmic residue",
 			"file": "equipmentmiscdisplay70fd.html",
 			"sources": [ "Occult Adventures" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -1119,7 +1078,6 @@
 			"name": "elemental brine",
 			"file": "equipmentmiscdisplay575a.html",
 			"sources": [ "Blood of the Elements" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -1147,7 +1105,6 @@
 			"display_name": "elemental flux (flask)",
 			"file": "equipmentmiscdisplay6939.html",
 			"sources": [ "Advanced Race Guide" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -1174,7 +1131,6 @@
 			"name": "fiery boulder",
 			"file": "equipmentmiscdisplayfd7b.html",
 			"sources": [ "Pathfinder #91: Battle of Bloodmarch Hills" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -1207,7 +1163,6 @@
 			"display_name": "firework (banshee ballerina)",
 			"file": "equipmentmiscdisplay94b1.html",
 			"sources": [ "Ultimate Equipment" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -1233,7 +1188,6 @@
 			"display_name": "firework (coughing dragon)",
 			"file": "equipmentmiscdisplaydb07.html",
 			"sources": [ "Ships of the Inner Sea" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -1260,7 +1214,6 @@
 			"display_name": "firework (dancing peonies)",
 			"file": "equipmentmiscdisplay2b2b.html",
 			"sources": [ "Alchemy Manual" ],
-			"category": "weapon",
 			"types": [],
 			"cost": 50,
 			"weight": 0.5,
@@ -1284,7 +1237,6 @@
 			"display_name": "firework (fire wheel)",
 			"file": "equipmentmiscdisplay0cc0.html",
 			"sources": [ "Ranged Tactics Toolbox" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -1311,7 +1263,6 @@
 			"display_name": "firework (firecracker)",
 			"file": "equipmentmiscdisplay8948.html",
 			"sources": [ "Alchemy Manual" ],
-			"category": "weapon",
 			"types": [],
 			"cost": 10,
 			"weight": 0,
@@ -1335,7 +1286,6 @@
 			"display_name": "firework (firecracker, spirit)",
 			"file": "equipmentmiscdisplay3648.html",
 			"sources": [ "Alchemy Manual" ],
-			"category": "weapon",
 			"types": [],
 			"cost": 30,
 			"weight": 0,
@@ -1359,7 +1309,6 @@
 			"display_name": "firework (flame fountain)",
 			"file": "equipmentmiscdisplay3fef.html",
 			"sources": [ "Ultimate Equipment" ],
-			"category": "weapon",
 			"types": [],
 			"cost": 100,
 			"weight": 0,
@@ -1386,7 +1335,6 @@
 			"display_name": "firework (flashing fiend)",
 			"file": "equipmentmiscdisplay073a.html",
 			"sources": [ "Ships of the Inner Sea" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -1413,7 +1361,6 @@
 			"display_name": "firework (holy fountain)",
 			"file": "equipmentmiscdisplayb50e.html",
 			"sources": [ "Demon Hunter's Handbook" ],
-			"category": "weapon",
 			"types": [],
 			"cost": 110,
 			"weight": 1,
@@ -1440,7 +1387,6 @@
 			"display_name": "firework (jumping jenny)",
 			"file": "equipmentmiscdisplay5454.html",
 			"sources": [ "Alchemy Manual" ],
-			"category": "weapon",
 			"types": [],
 			"cost": 15,
 			"weight": 0,
@@ -1467,7 +1413,6 @@
 				"Ultimate Equipment",
 				"Adventurer's Armory"
 			],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -1492,7 +1437,6 @@
 			"display_name": "firework (signal rocket)",
 			"file": "equipmentmiscdisplaya4b3.html",
 			"sources": [ "Monster Codex" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -1518,7 +1462,6 @@
 			"display_name": "firework (skydragon)",
 			"file": "equipmentmiscdisplaybb6d.html",
 			"sources": [ "Alchemy Manual" ],
-			"category": "weapon",
 			"types": [],
 			"cost": 300,
 			"weight": 10,
@@ -1545,7 +1488,6 @@
 				"Ultimate Equipment",
 				"Adventurer's Armory"
 			],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -1572,7 +1514,6 @@
 			"display_name": "firework (sparking pinwheel)",
 			"file": "equipmentmiscdisplay35bf.html",
 			"sources": [ "Alchemy Manual" ],
-			"category": "weapon",
 			"types": [],
 			"cost": 60,
 			"weight": 1,
@@ -1599,7 +1540,6 @@
 				"Ultimate Equipment",
 				"Adventurer's Armory"
 			],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -1630,7 +1570,6 @@
 				"Ultimate Equipment",
 				"Adventurer's Armory"
 			],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -1660,7 +1599,6 @@
 				"Advanced Player's Guide",
 				"Adventurer's Armory"
 			],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -1688,7 +1626,6 @@
 				"Ultimate Equipment",
 				"Adventurer's Armory"
 			],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -1715,7 +1652,6 @@
 			"name": "ghast retch flask",
 			"file": "equipmentmiscdisplay7ac1.html",
 			"sources": [ "Ultimate Equipment" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -1740,7 +1676,6 @@
 			"name": "hellfire sparkler",
 			"file": "equipmentmiscdisplay4996.html",
 			"sources": [ "Antihero's Handbook" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -1770,7 +1705,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -1796,7 +1730,6 @@
 			"name": "holy weapon balm",
 			"file": "equipmentmiscdisplaye240.html",
 			"sources": [ "Advanced Class Guide" ],
-			"category": "weapon",
 			"types": [],
 			"cost": 30,
 			"weight": 0.5,
@@ -1820,7 +1753,6 @@
 			"name": "incendiary catalyst",
 			"file": "equipmentmiscdisplay3c94.html",
 			"sources": [ "Pathfinder #115: Trail of the Hunted" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -1844,7 +1776,6 @@
 			"name": "insomnia powder",
 			"file": "equipmentmiscdisplay2715.html",
 			"sources": [ "Dungeoneer's Handbook" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -1872,7 +1803,6 @@
 				"Ultimate Equipment",
 				"Adventurer's Armory"
 			],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -1900,7 +1830,6 @@
 				"Ultimate Equipment",
 				"Adventurer's Armory"
 			],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -1927,7 +1856,6 @@
 			"name": "kitumu's ire",
 			"file": "equipmentmiscdisplaya270.html",
 			"sources": [ "Adventurer's Armory 2" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -1951,7 +1879,6 @@
 			"name": "liquid blade",
 			"file": "equipmentmiscdisplay0b26.html",
 			"sources": [ "Ultimate Equipment" ],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -1982,7 +1909,6 @@
 				"Advanced Player's Guide",
 				"Adventurer's Armory"
 			],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -2009,7 +1935,6 @@
 			"name": "lyddric essence",
 			"file": "equipmentmiscdisplay688c.html",
 			"sources": [ "Alchemy Manual" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -2035,7 +1960,6 @@
 			"name": "mineral acid",
 			"file": "equipmentmiscdisplaydf1f.html",
 			"sources": [ "People of the Wastes" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -2061,7 +1985,6 @@
 			"name": "mu spore secretions",
 			"file": "equipmentmiscdisplay1284-2.html",
 			"sources": [ "Heroes of the Darklands" ],
-			"category": "weapon",
 			"types": [],
 			"cost": 25,
 			"weight": 0,
@@ -2080,7 +2003,6 @@
 			"display_name": "noxious aromatic (flask)",
 			"file": "equipmentmiscdisplayc5d6.html",
 			"sources": [ "Animal Archive" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -2104,7 +2026,6 @@
 			"name": "noxious pig",
 			"file": "equipmentmiscdisplay9af9.html",
 			"sources": [ "Pathfinder #91: Battle of Bloodmarch Hills" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -2134,7 +2055,6 @@
 			"display_name": "pellet grenade (adamantine)",
 			"file": "equipmentmiscdisplay4102.html",
 			"sources": [ "Ultimate Equipment" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -2162,7 +2082,6 @@
 			"display_name": "pellet grenade (cold iron)",
 			"file": "equipmentmiscdisplay752d.html",
 			"sources": [ "Ultimate Equipment" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -2188,7 +2107,6 @@
 			"display_name": "pellet grenade (iron)",
 			"file": "equipmentmiscdisplay9498.html",
 			"sources": [ "Ultimate Equipment" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -2214,7 +2132,6 @@
 			"display_name": "pellet grenade (silver)",
 			"file": "equipmentmiscdisplayce55.html",
 			"sources": [ "Ultimate Equipment" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -2239,7 +2156,6 @@
 			"name": "perfect ice",
 			"file": "equipmentmiscdisplayc9cb.html",
 			"sources": [ "Ranged Tactics Toolbox" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -2264,7 +2180,6 @@
 			"name": "plague powder",
 			"file": "equipmentmiscdisplay3faf.html",
 			"sources": [ "Horror Adventures" ],
-			"category": "weapon",
 			"types": [],
 			"cost_variable": true,
 			"weight": 0,
@@ -2286,7 +2201,6 @@
 			"name": "portable hive",
 			"file": "equipmentmiscdisplaycdfd.html",
 			"sources": [ "Antihero's Handbook" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -2310,7 +2224,6 @@
 			"name": "pox burster",
 			"file": "equipmentmiscdisplay5658.html",
 			"sources": [ "Advanced Race Guide" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -2335,7 +2248,6 @@
 			"name": "shadowcloy flask",
 			"file": "equipmentmiscdisplayeb50.html",
 			"sources": [ "Advanced Race Guide" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -2360,7 +2272,6 @@
 			"name": "shard gel",
 			"file": "equipmentmiscdisplayd441.html",
 			"sources": [ "Ultimate Equipment" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -2387,7 +2298,6 @@
 			"name": "shriek bomb",
 			"file": "equipmentmiscdisplaydbb2.html",
 			"sources": [ "Alchemy Manual" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -2414,7 +2324,6 @@
 			"name": "silvercloud oil",
 			"file": "equipmentmiscdisplay41a7.html",
 			"sources": [ "Blood of the Moon" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -2440,7 +2349,6 @@
 			"name": "slime grenade",
 			"file": "equipmentmiscdisplayb3fc.html",
 			"sources": [ "Alchemy Manual" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -2467,7 +2375,6 @@
 			"name": "slime slow",
 			"file": "equipmentmiscdisplay6993.html",
 			"sources": [ "Demon Hunter's Handbook" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -2497,7 +2404,6 @@
 				"Advanced Player's Guide",
 				"Adventurer's Armory"
 			],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -2522,7 +2428,6 @@
 			"name": "somnigrip",
 			"file": "equipmentmiscdisplay2553.html",
 			"sources": [ "Elemental Master's Handbook" ],
-			"category": "weapon",
 			"types": [],
 			"cost": 45,
 			"weight": 3,
@@ -2546,7 +2451,6 @@
 			"display_name": "specialty smoke pellet (pepper)",
 			"file": "equipmentmiscdisplay6b6c.html",
 			"sources": [ "Dungeoneer's Handbook" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -2572,7 +2476,6 @@
 			"display_name": "specialty smoke pellet (smog)",
 			"file": "equipmentmiscdisplay19ad.html",
 			"sources": [ "Dungeoneer's Handbook" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -2593,7 +2496,6 @@
 			"name": "spore dehiscent",
 			"file": "equipmentmiscdisplaye832.html",
 			"sources": [ "Heroes of the Darklands" ],
-			"category": "weapon",
 			"types": [],
 			"cost": 30,
 			"weight": 1,
@@ -2612,7 +2514,6 @@
 			"display_name": "stench-gas bladder",
 			"file": "equipmentmiscdisplay9e6f.html",
 			"sources": [ "Pathfinder #115: Trail of the Hunted" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -2633,7 +2534,6 @@
 			"name": "sting grenade",
 			"file": "equipmentmiscdisplay4fb7.html",
 			"sources": [ "Pathfinder #115: Trail of the Hunted" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -2660,7 +2560,6 @@
 			"name": "stormstone",
 			"file": "equipmentmiscdisplay8288.html",
 			"sources": [ "Alchemy Manual" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -2687,7 +2586,6 @@
 			"name": "suffocating powder",
 			"file": "equipmentmiscdisplay3ade.html",
 			"sources": [ "Alchemy Manual" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -2713,7 +2611,6 @@
 			"name": "tangleburn bag",
 			"file": "equipmentmiscdisplayb301.html",
 			"sources": [ "Ultimate Equipment" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -2743,7 +2640,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -2769,7 +2665,6 @@
 			"name": "tanglefoot bundle",
 			"file": "equipmentmiscdisplayc82f.html",
 			"sources": [ "Pathfinder #91: Battle of Bloodmarch Hills" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -2793,7 +2688,6 @@
 			"name": "tar bomb",
 			"file": "equipmentmiscdisplay780b.html",
 			"sources": [ "Pirates of the Inner Sea" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -2821,7 +2715,6 @@
 			"name": "thunderclap charge",
 			"file": "equipmentmiscdisplay6120.html",
 			"sources": [ "People of the Wastes" ],
-			"category": "weapon",
 			"types": [],
 			"cost": 200,
 			"weight": 10,
@@ -2851,7 +2744,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -2878,7 +2770,6 @@
 			"name": "tress tincture",
 			"file": "equipmentmiscdisplay0edf.html",
 			"sources": [ "Adventurer's Armory 2" ],
-			"category": "weapon",
 			"types": [
 				"thrown"
 			],
@@ -2902,7 +2793,6 @@
 			"name": "venomblock",
 			"file": "equipmentmiscdisplay0d85.html",
 			"sources": [ "Monster Hunter's Handbook" ],
-			"category": "weapon",
 			"types": [],
 			"cost": 60,
 			"weight": 0,
@@ -2921,7 +2811,6 @@
 			"display_name": "arrow, iron-tipped distance (20)",
 			"file": "equipmentweaponsdisplay6faa.html",
 			"sources": [ "Ultimate Combat" ],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -2945,7 +2834,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -2965,7 +2853,6 @@
 			"name": "atlatl dart",
 			"file": "equipmentweaponsdisplayf607.html",
 			"sources": [ "Ultimate Equipment" ],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -2988,7 +2875,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -3009,7 +2895,6 @@
 			"display_name": "barbed arrow (20)",
 			"file": "equipmentweaponsdisplay9d77.html",
 			"sources": [ "Ranged Tactics Toolbox" ],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -3034,7 +2919,6 @@
 				"Pathfinder Campaign Setting",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -3058,7 +2942,6 @@
 				"Ultimate Equipment",
 				"Advanced Player's Guide"
 			],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -3078,7 +2961,6 @@
 			"name": "bolas bolts",
 			"file": "equipmentweaponsdisplayf26d.html",
 			"sources": [ "Monster Codex" ],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -3101,7 +2983,6 @@
 			"display_name": "bolts, heartstake (5)",
 			"file": "equipmentweaponsdisplay3bf0.html",
 			"sources": [ "Advanced Race Guide" ],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -3123,7 +3004,6 @@
 			"display_name": "bullets, groaning (10)",
 			"file": "equipmentweaponsdisplayc0c2.html",
 			"sources": [ "Adventurer's Armory" ],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -3149,7 +3029,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -3170,7 +3049,6 @@
 			"display_name": "featherweight dart (10)",
 			"file": "equipmentweaponsdisplaycda2.html",
 			"sources": [ "Ultimate Intrigue" ],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -3194,7 +3072,6 @@
 				"Ultimate Equipment",
 				"Advanced Player's Guide"
 			],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -3215,7 +3092,6 @@
 			"display_name": "halfling little starstones (10)",
 			"file": "equipmentweaponsdisplayda5c.html",
 			"sources": [ "Halflings of Golarion" ],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -3240,7 +3116,6 @@
 			"display_name": "halfling sharpstones (10)",
 			"file": "equipmentweaponsdisplay2bf1.html",
 			"sources": [ "Halflings of Golarion" ],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -3265,7 +3140,6 @@
 			"display_name": "halfling softstones (10)",
 			"file": "equipmentweaponsdisplayed64.html",
 			"sources": [ "Halflings of Golarion" ],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -3288,7 +3162,6 @@
 			"display_name": "halfling spongestones (10)",
 			"file": "equipmentweaponsdisplay058b.html",
 			"sources": [ "Halflings of Golarion" ],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -3310,7 +3183,6 @@
 			"display_name": "incendiary arrow (20)",
 			"file": "equipmentweaponsdisplay0739.html",
 			"sources": [ "Ranged Tactics Toolbox" ],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -3331,7 +3203,6 @@
 			"display_name": "kestros dart (10)",
 			"file": "equipmentweaponsdisplay013b.html",
 			"sources": [ "Ultimate Equipment" ],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -3352,7 +3223,6 @@
 			"display_name": "pronged arrow (20)",
 			"file": "equipmentweaponsdisplay5580.html",
 			"sources": [ "Ranged Tactics Toolbox" ],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -3376,7 +3246,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -3400,7 +3269,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -3423,7 +3291,6 @@
 				"Ultimate Equipment",
 				"Advanced Player's Guide"
 			],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -3446,7 +3313,6 @@
 				"Adventurer's Armory",
 				"Pathfinder Campaign Setting"
 			],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -3466,7 +3332,6 @@
 			"name": "throwing arrow",
 			"file": "equipmentweaponsdisplay9d25.html",
 			"sources": [ "Ranged Tactics Toolbox" ],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -3491,7 +3356,6 @@
 				"Adventurer's Armory",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -3511,7 +3375,6 @@
 			"name": "ballista net",
 			"file": "equipmentweaponsdisplay3a3f.html",
 			"sources": [ "Dragonslayer's Handbook" ],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -3531,7 +3394,6 @@
 			"name": "flak",
 			"file": "equipmentweaponsdisplay7611.html",
 			"sources": [ "Dragonslayer's Handbook" ],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -3551,7 +3413,6 @@
 			"name": "flechette bolt",
 			"file": "equipmentweaponsdisplayc223.html",
 			"sources": [ "Dragonslayer's Handbook" ],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -3572,7 +3433,6 @@
 			"name": "weighted bolt",
 			"file": "equipmentweaponsdisplay0e56.html",
 			"sources": [ "Dragonslayer's Handbook" ],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -3595,7 +3455,6 @@
 				"Ultimate Equipment",
 				"Advanced Player's Guide"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -3623,7 +3482,6 @@
 			"name": "brass knife",
 			"file": "equipmentweaponsdisplay3588.html",
 			"sources": [ "Pirates of the Inner Sea" ],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -3658,7 +3516,6 @@
 				"Adventurer's Armory",
 				"Advanced Player's Guide"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -3690,7 +3547,6 @@
 				"Adventurer's Armory",
 				"Advanced Player's Guide"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -3723,7 +3579,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -3756,7 +3611,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -3783,7 +3637,6 @@
 			"name": "hanbo",
 			"file": "equipmentweaponsdisplay85e4.html",
 			"sources": [ "Adventurer's Armory" ],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -3811,7 +3664,6 @@
 			"name": "handwraps",
 			"file": "equipmentweaponsdisplay0e53.html",
 			"sources": [ "Martial Arts Handbook" ],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -3838,7 +3690,6 @@
 				"Pirates of the Inner Sea",
 				"Skull and Shackles Player's Guide"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -3865,7 +3716,6 @@
 			"name": "kunai",
 			"file": "equipmentweaponsdisplay312e.html",
 			"sources": [ "Ranged Tactics Toolbox" ],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -3896,7 +3746,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -3926,7 +3775,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -3956,7 +3804,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -3985,7 +3832,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -4014,7 +3860,6 @@
 			"display_name": "spider-leg sickle",
 			"file": "equipmentweaponsdisplayba99.html",
 			"sources": [ "The House on Hook Street" ],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -4044,7 +3889,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -4071,7 +3915,6 @@
 			"name": "spring blade",
 			"file": "equipmentweaponsdisplayc558.html",
 			"sources": [ "Ultimate Intrigue" ],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -4099,7 +3942,6 @@
 			"name": "traveling kettle",
 			"file": "equipmentweaponsdisplay7b96.html",
 			"sources": [ "Martial Arts Handbook" ],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -4132,7 +3974,6 @@
 				"Adventurer's Armory",
 				"Advanced Player's Guide"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -4160,7 +4001,6 @@
 			"name": "baston fighting stick",
 			"file": "equipmentweaponsdisplay21d9.html",
 			"sources": [ "Merchant's Manifest" ],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -4190,7 +4030,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -4221,7 +4060,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -4251,7 +4089,6 @@
 				"Ultimate Equipment",
 				"Adventurer's Armory"
 			],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -4283,7 +4120,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -4314,7 +4150,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -4348,7 +4183,6 @@
 				"Advanced Player's Guide",
 				"Skull and Shackles Player's Guide"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -4378,7 +4212,6 @@
 				"Ultimate Equipment",
 				"Advanced Player's Guide"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -4409,7 +4242,6 @@
 				"Pirates of the Inner Sea",
 				"Skull and Shackles Player's Guide"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -4436,7 +4268,6 @@
 			"name": "kumade",
 			"file": "equipmentweaponsdisplay87b8.html",
 			"sources": [ "Melee Tactics Toolbox" ],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -4465,7 +4296,6 @@
 			"display_name": "kumade, collapsible",
 			"file": "equipmentweaponsdisplay01df.html",
 			"sources": [ "Melee Tactics Toolbox" ],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -4493,7 +4323,6 @@
 			"name": "lantern staff",
 			"file": "equipmentweaponsdisplayde01.html",
 			"sources": [ "Adventurer's Armory 2" ],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -4524,7 +4353,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -4555,7 +4383,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -4586,7 +4413,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -4615,7 +4441,6 @@
 			"name": "weighted spear",
 			"file": "equipmentweaponsdisplaydc9d.html",
 			"sources": [ "Melee Tactics Toolbox" ],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -4649,7 +4474,6 @@
 				"PRPG Core Rulebook",
 				"Ultimate Equipment"
 			],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -4681,7 +4505,6 @@
 				"PRPG Core Rulebook",
 				"Ultimate Equipment"
 			],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -4713,7 +4536,6 @@
 				"PRPG Core Rulebook",
 				"Ultimate Equipment"
 			],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -4748,7 +4570,6 @@
 				"Ultimate Combat",
 				"Ultimate Equipment"
 			],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -4780,7 +4601,6 @@
 				"PRPG Core Rulebook",
 				"Ultimate Equipment"
 			],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -4814,7 +4634,6 @@
 				"PRPG Core Rulebook",
 				"Ultimate Equipment"
 			],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -4843,7 +4662,6 @@
 			"name": "stingchuck",
 			"file": "equipmentweaponsdisplayf77f.html",
 			"sources": [ "Adventurer's Armory" ],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -4871,7 +4689,6 @@
 			"name": "stonebow",
 			"file": "equipmentweaponsdisplayab15.html",
 			"sources": [ "Ranged Tactics Toolbox" ],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -4904,7 +4721,6 @@
 				"Advanced Race Guide",
 				"Ultimate Equipment"
 			],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -4937,7 +4753,6 @@
 				"Advanced Race Guide",
 				"Ultimate Equipment"
 			],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -4966,7 +4781,6 @@
 			"name": "blade boot",
 			"file": "equipmentweaponsdisplay5aa7.html",
 			"sources": [ "Adventurer's Armory" ],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -4997,7 +4811,6 @@
 				"Pirates of the Inner Sea",
 				"Skull and Shackles Player's Guide"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -5028,7 +4841,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -5062,7 +4874,6 @@
 				"Pirates of the Inner Sea",
 				"Skull and Shackles Player's Guide"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -5097,7 +4908,6 @@
 				"Adventurer's Armory",
 				"Advanced Race Guide"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -5126,7 +4936,6 @@
 			"name": "dueling dagger",
 			"file": "equipmentweaponsdisplayb4a9.html",
 			"sources": [ "Adventurer's Armory 2" ],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -5160,7 +4969,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -5193,7 +5001,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -5223,7 +5030,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -5254,7 +5060,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -5287,7 +5092,6 @@
 				"Pathfinder #9: Escape from Old Korvosa",
 				"Pathfinder Campaign Setting"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -5317,7 +5121,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -5347,7 +5150,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -5378,7 +5180,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -5409,7 +5210,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -5439,7 +5239,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -5468,7 +5267,6 @@
 			"name": "machete",
 			"file": "equipmentweaponsdisplayba80.html",
 			"sources": [ "Melee Tactics Toolbox" ],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -5499,7 +5297,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -5528,7 +5325,6 @@
 			"display_name": "sea-knife",
 			"file": "equipmentweaponsdisplay9fbb.html",
 			"sources": [ "Advanced Race Guide" ],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -5558,7 +5354,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -5589,7 +5384,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -5624,7 +5418,6 @@
 				"PRPG Core Rulebook",
 				"Varisia, Birthplace of Legends"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -5652,7 +5445,6 @@
 			"name": "switchblade knife",
 			"file": "equipmentweaponsdisplay0664.html",
 			"sources": [ "Adventurer's Armory" ],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -5681,7 +5473,6 @@
 			"display_name": "tailblade, ratfolk",
 			"file": "equipmentweaponsdisplay571e.html",
 			"sources": [ "Advanced Race Guide" ],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -5710,7 +5501,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -5741,7 +5531,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -5775,7 +5564,6 @@
 				"Inner Sea World Guide",
 				"Adventurer's Armory"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -5806,7 +5594,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -5835,7 +5622,6 @@
 			"name": "ankus",
 			"file": "equipmentweaponsdisplay2b83.html",
 			"sources": [ "Melee Tactics Toolbox" ],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -5866,7 +5652,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -5893,7 +5678,6 @@
 			"name": "combat scabbard",
 			"file": "equipmentweaponsdisplay276d.html",
 			"sources": [ "Adventurer's Armory" ],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -5921,7 +5705,6 @@
 			"display_name": "combat scabbard, sharpened",
 			"file": "equipmentweaponsdisplayc6cf.html",
 			"sources": [ "Adventurer's Armory" ],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -5953,7 +5736,6 @@
 				"Skull and Shackles Player's Guide",
 				"Villain Codex"
 			],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -5984,7 +5766,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -6013,7 +5794,6 @@
 			"name": "gandasa",
 			"file": "equipmentweaponsdisplayfccd.html",
 			"sources": [ "Melee Tactics Toolbox" ],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -6043,7 +5823,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -6078,7 +5857,6 @@
 				"Adventurer's Armory",
 				"Varisia, Birthplace of Legends"
 			],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -6109,7 +5887,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -6140,7 +5917,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -6168,7 +5944,6 @@
 			"name": "manople",
 			"file": "equipmentweaponsdisplay5567.html",
 			"sources": [ "Melee Tactics Toolbox" ],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -6201,7 +5976,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -6232,7 +6006,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -6263,7 +6036,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -6295,7 +6067,6 @@
 				"Adventurer's Armory",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -6327,7 +6098,6 @@
 				"Ultimate Combat",
 				"Ultimate Equipment"
 			],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -6360,7 +6130,6 @@
 				"Ultimate Equipment",
 				"Advanced Player's Guide"
 			],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -6390,7 +6159,6 @@
 				"Ultimate Equipment",
 				"Adventurer's Armory"
 			],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -6420,7 +6188,6 @@
 			"display_name": "terbutje, steel",
 			"file": "equipmentweaponsdisplay728f.html",
 			"sources": [ "Adventurer's Armory" ],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -6450,7 +6217,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -6482,7 +6248,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -6513,7 +6278,6 @@
 				"Adventurer's Armory",
 				"Advanced Player's Guide"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -6546,7 +6310,6 @@
 				"Adventurer's Armory",
 				"Advanced Player's Guide"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -6579,7 +6342,6 @@
 				"Adventurer's Armory",
 				"Advanced Player's Guide"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -6615,7 +6377,6 @@
 				"Adventurer's Armory",
 				"Varisia, Birthplace of Legends"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -6645,7 +6406,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -6676,7 +6436,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -6709,7 +6468,6 @@
 				"Adventurer's Armory",
 				"Advanced Player's Guide"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -6740,7 +6498,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -6770,7 +6527,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -6800,7 +6556,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -6831,7 +6586,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -6862,7 +6616,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -6894,7 +6647,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -6926,7 +6678,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -6960,7 +6711,6 @@
 				"Adventurer's Armory",
 				"Advanced Race Guide"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -6992,7 +6742,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -7024,7 +6773,6 @@
 				"Adventurer's Armory",
 				"Advanced Player's Guide"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -7053,7 +6801,6 @@
 			"name": "mattock",
 			"file": "equipmentweaponsdisplayb396.html",
 			"sources": [ "Ultimate Equipment" ],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -7084,7 +6831,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -7115,7 +6861,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -7146,7 +6891,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -7182,7 +6926,6 @@
 				"Inner Sea World Guide",
 				"Adventurer's Armory"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -7210,7 +6953,6 @@
 			"name": "planson",
 			"file": "equipmentweaponsdisplayeee1.html",
 			"sources": [ "Melee Tactics Toolbox" ],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -7242,7 +6984,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -7270,7 +7011,6 @@
 			"name": "rhomphaia",
 			"file": "equipmentweaponsdisplayb537.html",
 			"sources": [ "Ultimate Equipment" ],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -7301,7 +7041,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -7330,7 +7069,6 @@
 			"name": "sarissa",
 			"file": "equipmentweaponsdisplayf014.html",
 			"sources": [ "Giant Hunter's Handbook" ],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -7360,7 +7098,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -7389,7 +7126,6 @@
 			"name": "syringe spear",
 			"file": "equipmentweaponsdisplay001c.html",
 			"sources": [ "Adventurer's Armory" ],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -7417,7 +7153,6 @@
 			"name": "tepoztopilli",
 			"file": "equipmentweaponsdisplayaa72.html",
 			"sources": [ "Ultimate Equipment" ],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -7449,7 +7184,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -7481,7 +7215,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -7513,7 +7246,6 @@
 				"Ultimate Combat",
 				"Ultimate Equipment"
 			],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -7545,7 +7277,6 @@
 				"Ranged Tactics Toolbox",
 				"Ultimate Equipment"
 			],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -7578,7 +7309,6 @@
 				"Advanced Player's Guide",
 				"Ultimate Equipment"
 			],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -7610,7 +7340,6 @@
 				"PRPG Core Rulebook",
 				"Ultimate Equipment"
 			],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -7643,7 +7372,6 @@
 				"PRPG Core Rulebook",
 				"Ultimate Equipment"
 			],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -7672,7 +7400,6 @@
 			"name": "gastraphetes",
 			"file": "equipmentweaponsdisplay9e69.html",
 			"sources": [ "Distant Shores" ],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -7704,7 +7431,6 @@
 				"Adventurer's Armory",
 				"Ultimate Equipment"
 			],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -7732,7 +7458,6 @@
 			"name": "hurlbat",
 			"file": "equipmentweaponsdisplay6e75.html",
 			"sources": [ "Ranged Tactics Toolbox" ],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -7760,7 +7485,6 @@
 			"name": "jolting dart",
 			"file": "equipmentweaponsdisplayd999.html",
 			"sources": [ "Advanced Race Guide" ],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -7792,7 +7516,6 @@
 				"PRPG Core Rulebook",
 				"Ultimate Equipment"
 			],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -7820,7 +7543,6 @@
 			"name": "phaleros",
 			"file": "equipmentweaponsdisplay2599.html",
 			"sources": [ "Distant Shores" ],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -7852,7 +7574,6 @@
 				"Advanced Player's Guide",
 				"Ultimate Equipment"
 			],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -7885,7 +7606,6 @@
 				"Ultimate Combat",
 				"Ultimate Equipment"
 			],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -7911,7 +7631,6 @@
 			"name": "reflex bow",
 			"file": "equipmentweaponsdisplay4579.html",
 			"sources": [ "Merchant's Manifest" ],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -7943,7 +7662,6 @@
 				"PRPG Core Rulebook",
 				"Ultimate Equipment"
 			],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -7972,7 +7690,6 @@
 			"display_name": "spear-sling",
 			"file": "equipmentweaponsdisplay979b.html",
 			"sources": [ "Ranged Tactics Toolbox" ],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -8001,7 +7718,6 @@
 			"name": "throwing arrow cord",
 			"file": "equipmentweaponsdisplay92ee.html",
 			"sources": [ "Ranged Tactics Toolbox" ],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -8032,7 +7748,6 @@
 				"Ultimate Combat",
 				"Ultimate Equipment"
 			],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -8065,7 +7780,6 @@
 				"Adventurer's Armory",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -8095,7 +7809,6 @@
 			"display_name": "axe-gauntlet, dwarven light",
 			"file": "equipmentweaponsdisplayc38c.html",
 			"sources": [ "Heroes from the Fringe" ],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -8123,7 +7836,6 @@
 			"name": "barbazu beard",
 			"file": "equipmentweaponsdisplayac50.html",
 			"sources": [ "Cheliax, Empire of Devils" ],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -8153,7 +7865,6 @@
 				"Adventurer's Armory",
 				"Legacy of Fire Player's Guide"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -8180,7 +7891,6 @@
 			"name": "butterfly knife",
 			"file": "equipmentweaponsdisplay8350.html",
 			"sources": [ "Adventurer's Armory" ],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -8212,7 +7922,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -8242,7 +7951,6 @@
 			"name": "deer horn knife",
 			"file": "equipmentweaponsdisplay2023.html",
 			"sources": [ "Melee Tactics Toolbox" ],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -8274,7 +7982,6 @@
 				"Adventurer's Armory",
 				"Pathfinder Campaign Setting"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -8302,7 +8009,6 @@
 			"name": "elven leafblade",
 			"file": "equipmentweaponsdisplay5381.html",
 			"sources": [ "Adventurer's Guide" ],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -8334,7 +8040,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -8366,7 +8071,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -8394,7 +8098,6 @@
 			"name": "flying talon",
 			"file": "equipmentweaponsdisplay1d69.html",
 			"sources": [ "Adventurer's Armory 2" ],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -8423,7 +8126,6 @@
 			"name": "gnome pincher",
 			"file": "equipmentweaponsdisplay200c.html",
 			"sources": [ "Melee Tactics Toolbox" ],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -8452,7 +8154,6 @@
 			"display_name": "halfling rope-shot",
 			"file": "equipmentweaponsdisplayeedf.html",
 			"sources": [ "Melee Tactics Toolbox" ],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -8481,7 +8182,6 @@
 			"display_name": "helmet, dwarven boulder",
 			"file": "equipmentweaponsdisplaybd32.html",
 			"sources": [ "Advanced Race Guide" ],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -8511,7 +8211,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -8539,7 +8238,6 @@
 			"name": "kasatha spinal sword",
 			"file": "equipmentweaponsdisplay3094.html",
 			"sources": [ "People of the Stars" ],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -8570,7 +8268,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -8604,7 +8301,6 @@
 				"Adventurer's Armory",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -8638,7 +8334,6 @@
 				"Adventurer's Armory",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -8667,7 +8362,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -8701,7 +8395,6 @@
 				"Adventurer's Armory",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -8732,7 +8425,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -8762,7 +8454,6 @@
 			"display_name": "razor, drow",
 			"file": "equipmentweaponsdisplaya023.html",
 			"sources": [ "Adventurer's Armory 2" ],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -8794,7 +8485,6 @@
 				"Adventurer's Armory",
 				"Legacy of Fire Player's Guide"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -8824,7 +8514,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -8852,7 +8541,6 @@
 			"name": "sanpkhang",
 			"file": "equipmentweaponsdisplay9cc3.html",
 			"sources": [ "Adventurer's Armory 2" ],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -8887,7 +8575,6 @@
 				"Adventurer's Armory",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -8918,7 +8605,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -8950,7 +8636,6 @@
 				"Adventurer's Armory",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -8982,7 +8667,6 @@
 				"Adventurer's Armory",
 				"Advanced Player's Guide"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -9014,7 +8698,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -9045,7 +8728,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -9075,7 +8757,6 @@
 			"name": "waveblade",
 			"file": "equipmentweaponsdisplay0ca4.html",
 			"sources": [ "Adventurer's Armory 2" ],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -9110,7 +8791,6 @@
 				"Inner Sea World Guide",
 				"Adventurer's Armory"
 			],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -9139,7 +8819,6 @@
 			"display_name": "axe-gauntlet, dwarven heavy",
 			"file": "equipmentweaponsdisplay627e.html",
 			"sources": [ "Heroes from the Fringe" ],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -9168,7 +8847,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -9197,7 +8875,6 @@
 			"display_name": "broken-back seax",
 			"file": "equipmentweaponsdisplay6e25.html",
 			"sources": [ "Martial Arts Handbook" ],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -9226,7 +8903,6 @@
 			"name": "doru",
 			"file": "equipmentweaponsdisplay8857.html",
 			"sources": [ "Distant Shores" ],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -9254,7 +8930,6 @@
 			"name": "dwarven double waraxe",
 			"file": "equipmentweaponsdisplay29c7.html",
 			"sources": [ "Advanced Race Guide" ],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -9284,7 +8959,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -9311,7 +8985,6 @@
 			"name": "elven thornblade",
 			"file": "equipmentweaponsdisplayd01c.html",
 			"sources": [ "Adventurer's Guide" ],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -9340,7 +9013,6 @@
 			"name": "estoc",
 			"file": "equipmentweaponsdisplay4fa8.html",
 			"sources": [ "Melee Tactics Toolbox" ],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -9373,7 +9045,6 @@
 				"Adventurer's Armory",
 				"Advanced Player's Guide"
 			],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -9404,7 +9075,6 @@
 				"Monster Codex",
 				"Classic Monsters Revisited"
 			],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -9433,7 +9103,6 @@
 			"display_name": "gnome flick-mace",
 			"file": "equipmentweaponsdisplay03a3.html",
 			"sources": [ "Gnomes of Golarion" ],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -9460,7 +9129,6 @@
 			"name": "great terbutje",
 			"file": "equipmentweaponsdisplayc782.html",
 			"sources": [ "Ultimate Equipment" ],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -9492,7 +9160,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -9523,7 +9190,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -9557,7 +9223,6 @@
 				"Adventurer's Armory",
 				"Advanced Player's Guide"
 			],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -9586,7 +9251,6 @@
 			"name": "knobkerrie",
 			"file": "equipmentweaponsdisplaya3e2.html",
 			"sources": [ "Ranged Tactics Toolbox" ],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -9618,7 +9282,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -9648,7 +9311,6 @@
 			"display_name": "ram hammer, dwarven",
 			"file": "equipmentweaponsdisplay25bd.html",
 			"sources": [ "Heroes from the Fringe" ],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -9680,7 +9342,6 @@
 				"Into the Darklands",
 				"Adventurer's Armory"
 			],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -9715,7 +9376,6 @@
 				"Adventurer's Armory",
 				"Ultimate Equipment"
 			],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -9748,7 +9408,6 @@
 				"Adventurer's Armory",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -9777,7 +9436,6 @@
 			"display_name": "sickle-sword",
 			"file": "equipmentweaponsdisplay5079.html",
 			"sources": [ "Adventurer's Armory 2" ],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -9806,7 +9464,6 @@
 			"name": "spiral rapier",
 			"file": "equipmentweaponsdisplay9796.html",
 			"sources": [ "Adventurer's Armory 2" ],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -9836,7 +9493,6 @@
 			"display_name": "split-blade sword",
 			"file": "equipmentweaponsdisplay03fb.html",
 			"sources": [ "Martial Arts Handbook" ],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -9864,7 +9520,6 @@
 			"name": "taiaha",
 			"file": "equipmentweaponsdisplay8723.html",
 			"sources": [ "Ultimate Equipment" ],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -9899,7 +9554,6 @@
 				"Adventurer's Armory",
 				"Advanced Player's Guide"
 			],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -9928,7 +9582,6 @@
 			"name": "tongi",
 			"file": "equipmentweaponsdisplay876c.html",
 			"sources": [ "Melee Tactics Toolbox" ],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -9963,7 +9616,6 @@
 				"Adventurer's Armory",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -9992,7 +9644,6 @@
 			"name": "wahaika",
 			"file": "equipmentweaponsdisplay5ae3.html",
 			"sources": [ "Ultimate Equipment" ],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -10024,7 +9675,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -10054,7 +9704,6 @@
 			"name": "barbed spear",
 			"file": "equipmentweaponsdisplay8a4d.html",
 			"sources": [ "Giant Hunter's Handbook" ],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -10085,7 +9734,6 @@
 				"Adventurer's Armory 2",
 				"Gnomes of Golarion"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -10120,7 +9768,6 @@
 				"Inner Sea World Guide",
 				"Adventurer's Armory"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -10151,7 +9798,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -10182,7 +9828,6 @@
 				"Adventurer's Armory 2",
 				"Pirates of the Inner Sea"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -10211,7 +9856,6 @@
 			"name": "butchering axe",
 			"file": "equipmentweaponsdisplay05e8.html",
 			"sources": [ "Adventurer's Armory 2" ],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -10246,7 +9890,6 @@
 				"Adventurer's Armory",
 				"Advanced Player's Guide"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -10276,7 +9919,6 @@
 			"display_name": "chain-hammer",
 			"file": "equipmentweaponsdisplay9d91.html",
 			"sources": [ "Adventurer's Armory 2" ],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -10305,7 +9947,6 @@
 			"name": "crook",
 			"file": "equipmentweaponsdisplay4b36.html",
 			"sources": [ "Melee Tactics Toolbox" ],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -10336,7 +9977,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -10368,7 +10008,6 @@
 				"Adventurer's Armory 2",
 				"Dwarves of Golarion"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -10396,7 +10035,6 @@
 			"name": "double spear",
 			"file": "equipmentweaponsdisplay1fc8.html",
 			"sources": [ "Martial Arts Handbook" ],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -10428,7 +10066,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -10459,7 +10096,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -10488,7 +10124,6 @@
 			"name": "elven branched spear",
 			"file": "equipmentweaponsdisplaydfa6.html",
 			"sources": [ "Melee Tactics Toolbox" ],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -10520,7 +10155,6 @@
 				"Pathfinder Campaign Setting",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -10552,7 +10186,6 @@
 				"Adventurer's Armory 2",
 				"Classic Horrors Revisited"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -10581,7 +10214,6 @@
 			"name": "flailpole",
 			"file": "equipmentweaponsdisplay69a4.html",
 			"sources": [ "Gnomes of Golarion" ],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -10608,7 +10240,6 @@
 			"name": "flambard",
 			"file": "equipmentweaponsdisplay6deb.html",
 			"sources": [ "Adventurer's Armory" ],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -10637,7 +10268,6 @@
 			"name": "flask pike",
 			"file": "equipmentweaponsdisplayc859.html",
 			"sources": [ "Giant Hunter's Handbook" ],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -10668,7 +10298,6 @@
 				"Ultimate Combat",
 				"Ultimate Equipment"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -10696,7 +10325,6 @@
 			"name": "garrote",
 			"file": "equipmentweaponsdisplay5e47.html",
 			"sources": [ "Adventurer's Armory" ],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -10725,7 +10353,6 @@
 			"display_name": "giant-sticker, dwarven",
 			"file": "equipmentweaponsdisplayacfe.html",
 			"sources": [ "Heroes from the Fringe" ],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -10757,7 +10384,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -10790,7 +10416,6 @@
 				"Pirates of the Inner Sea",
 				"Skull and Shackles Player's Guide"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -10822,7 +10447,6 @@
 				"Pathfinder #61: Shards of Sin",
 				"Classic Horrors Revisited"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -10852,7 +10476,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -10883,7 +10506,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -10915,7 +10537,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -10946,7 +10567,6 @@
 			"display_name": "longaxe, dwarven",
 			"file": "equipmentweaponsdisplay07d8.html",
 			"sources": [ "Advanced Race Guide" ],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -10974,7 +10594,6 @@
 			"display_name": "longhammer, dwarven",
 			"file": "equipmentweaponsdisplayb4fa.html",
 			"sources": [ "Advanced Race Guide" ],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -11005,7 +10624,6 @@
 				"Adventurer's Armory",
 				"Advanced Player's Guide"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -11037,7 +10655,6 @@
 				"Adventurer's Armory",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -11068,7 +10685,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -11096,7 +10712,6 @@
 			"name": "orc skull ram",
 			"file": "equipmentweaponsdisplay266c.html",
 			"sources": [ "Melee Tactics Toolbox" ],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -11128,7 +10743,6 @@
 				"Adventurer's Armory 2",
 				"Gnomes of Golarion"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -11160,7 +10774,6 @@
 				"Adventurer's Armory 2",
 				"Gnomes of Golarion"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -11192,7 +10805,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -11221,7 +10833,6 @@
 			"display_name": "sphinx hammer, dwarven",
 			"file": "equipmentweaponsdisplay5d7f.html",
 			"sources": [ "Heroes from the Fringe" ],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -11252,7 +10863,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -11280,7 +10890,6 @@
 			"name": "switchscythe",
 			"file": "equipmentweaponsdisplayb8d0.html",
 			"sources": [ "Adventurer's Armory 2" ],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -11312,7 +10921,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -11342,7 +10950,6 @@
 				"Varisia, Birthplace of Legends",
 				"Pathfinder #10: A History of Ashes"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -11374,7 +10981,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed"
 			],
@@ -11407,7 +11013,6 @@
 				"PRPG Core Rulebook",
 				"Ultimate Equipment"
 			],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -11441,7 +11046,6 @@
 				"Advanced Player's Guide",
 				"Ultimate Equipment"
 			],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -11470,7 +11074,6 @@
 			"name": "crystal chakram",
 			"file": "equipmentweaponsdisplay1ef5.html",
 			"sources": [ "Classic Horrors Revisited" ],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -11497,7 +11100,6 @@
 			"name": "dire bolas",
 			"file": "equipmentweaponsdisplay3c66.html",
 			"sources": [ "Giant Hunter's Handbook" ],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -11532,7 +11134,6 @@
 				"Advanced Player's Guide",
 				"Ultimate Equipment"
 			],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -11565,7 +11166,6 @@
 				"Adventurer's Armory 2",
 				"Gnomes of Golarion"
 			],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -11593,7 +11193,6 @@
 				"Pirates of the Inner Sea",
 				"Skull and Shackles Player's Guide"
 			],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -11624,7 +11223,6 @@
 			"name": "halfling double sling",
 			"file": "equipmentweaponsdisplayf080.html",
 			"sources": [ "Halflings of Golarion" ],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -11657,7 +11255,6 @@
 				"PRPG Core Rulebook",
 				"Ultimate Equipment"
 			],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -11687,7 +11284,6 @@
 			"name": "halfling stitched sling",
 			"file": "equipmentweaponsdisplay4b9b.html",
 			"sources": [ "Halflings of Golarion" ],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -11718,7 +11314,6 @@
 				"PRPG Core Rulebook",
 				"Ultimate Equipment"
 			],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -11748,7 +11343,6 @@
 			"name": "heavy crank crossbow",
 			"file": "equipmentweaponsdisplayccf6.html",
 			"sources": [ "Ranged Tactics Toolbox" ],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -11776,7 +11370,6 @@
 			"name": "heavy slaver's crossbow",
 			"file": "equipmentweaponsdisplay54de.html",
 			"sources": [ "Monster Codex" ],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -11805,7 +11398,6 @@
 			"name": "heavy wrist launcher",
 			"file": "equipmentweaponsdisplayf015.html",
 			"sources": [ "Ultimate Intrigue" ],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -11834,7 +11426,6 @@
 			"display_name": "hornbow, orc",
 			"file": "equipmentweaponsdisplayca8a.html",
 			"sources": [ "Adventurer's Armory 2" ],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -11862,7 +11453,6 @@
 			"name": "horse bow",
 			"file": "equipmentweaponsdisplaye37c.html",
 			"sources": [ "Merchant's Manifest" ],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -11892,7 +11482,6 @@
 				"Ranged Tactics Toolbox",
 				"Ultimate Equipment"
 			],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -11925,7 +11514,6 @@
 				"Advanced Player's Guide",
 				"Ultimate Equipment"
 			],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -11949,7 +11537,6 @@
 			"name": "launching crossbow",
 			"file": "equipmentweaponsdisplay33a2.html",
 			"sources": [ "Adventurer's Armory" ],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -11973,7 +11560,6 @@
 			"name": "light crank crossbow",
 			"file": "equipmentweaponsdisplayf98b.html",
 			"sources": [ "Ranged Tactics Toolbox" ],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -12001,7 +11587,6 @@
 			"name": "light slaver's crossbow",
 			"file": "equipmentweaponsdisplaydd24.html",
 			"sources": [ "Monster Codex" ],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -12032,7 +11617,6 @@
 				"PRPG Core Rulebook",
 				"Ultimate Equipment"
 			],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -12060,7 +11644,6 @@
 			"display_name": "pelletbow, dwarven heavy",
 			"file": "equipmentweaponsdisplaybc99-2.html",
 			"sources": [ "Heroes from the Fringe" ],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -12091,7 +11674,6 @@
 			"display_name": "pelletbow, dwarven light",
 			"file": "equipmentweaponsdisplay45bf.html",
 			"sources": [ "Heroes from the Fringe" ],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -12121,7 +11703,6 @@
 				"Ranged Tactics Toolbox",
 				"Ultimate Equipment"
 			],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -12154,7 +11735,6 @@
 				"PRPG Core Rulebook",
 				"Ultimate Equipment"
 			],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -12188,7 +11768,6 @@
 				"PRPG Core Rulebook",
 				"Ultimate Equipment"
 			],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -12221,7 +11800,6 @@
 				"Ultimate Combat",
 				"Ultimate Equipment"
 			],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -12256,7 +11834,6 @@
 				"Inner Sea World Guide",
 				"Adventurer's Armory"
 			],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -12286,7 +11863,6 @@
 			"name": "shrillshaft javelin",
 			"file": "equipmentweaponsdisplay184e.html",
 			"sources": [ "Gnomes of Golarion" ],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -12318,7 +11894,6 @@
 				"PRPG Core Rulebook",
 				"Ultimate Equipment"
 			],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -12349,7 +11924,6 @@
 				"Adventurer's Armory",
 				"Legacy of Fire Player's Guide"
 			],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -12381,7 +11955,6 @@
 				"Advanced Race Guide",
 				"Ultimate Equipment"
 			],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -12407,7 +11980,6 @@
 			"name": "stormshaft javelin",
 			"file": "equipmentweaponsdisplay29be.html",
 			"sources": [ "Adventurer's Armory 2" ],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -12440,7 +12012,6 @@
 				"Pathfinder Campaign Setting",
 				"Conquest of Bloodsworn Vale"
 			],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -12467,7 +12038,6 @@
 			"name": "wrist launcher",
 			"file": "equipmentweaponsdisplay2072.html",
 			"sources": [ "Ultimate Intrigue" ],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -12491,7 +12061,6 @@
 			"name": "claw blades",
 			"file": "equipmentweaponsdisplay144b.html",
 			"sources": [ "Advanced Race Guide" ],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -12516,7 +12085,6 @@
 			"display_name": "kobold tail, long lash",
 			"file": "equipmentweaponsdisplayeb84.html",
 			"sources": [ "Advanced Race Guide" ],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -12550,7 +12118,6 @@
 			"display_name": "kobold tail, pounder",
 			"file": "equipmentweaponsdisplay08e9.html",
 			"sources": [ "Advanced Race Guide" ],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -12575,7 +12142,6 @@
 			"display_name": "kobold tail, razored",
 			"file": "equipmentweaponsdisplay2c21.html",
 			"sources": [ "Advanced Race Guide" ],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -12601,7 +12167,6 @@
 			"display_name": "kobold tail, spiked",
 			"file": "equipmentweaponsdisplayb6ee.html",
 			"sources": [ "Advanced Race Guide" ],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -12626,7 +12191,6 @@
 			"display_name": "kobold tail, sweeper",
 			"file": "equipmentweaponsdisplay7600.html",
 			"sources": [ "Advanced Race Guide" ],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -12652,7 +12216,6 @@
 			"display_name": "breech-loader",
 			"file": "equipmentweaponsdisplayba24.html",
 			"sources": [ "Heroes of Golarion" ],
-			"category": "weapon",
 			"types": [
 				"one-handed",
 				"firearm"
@@ -12688,7 +12251,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"one-handed",
 				"firearm"
@@ -12724,7 +12286,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"one-handed",
 				"firearm"
@@ -12760,7 +12321,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"one-handed",
 				"firearm"
@@ -12797,7 +12357,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"one-handed",
 				"firearm"
@@ -12834,7 +12393,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"one-handed",
 				"firearm"
@@ -12869,7 +12427,6 @@
 			"name": "dragoon pistol",
 			"file": "equipmentweaponsdisplay340c.html",
 			"sources": [ "Villain Codex" ],
-			"category": "weapon",
 			"types": [
 				"one-handed",
 				"firearm"
@@ -12903,7 +12460,6 @@
 			"display_name": "paddle-foot pistol",
 			"file": "equipmentweaponsdisplay63d9.html",
 			"sources": [ "People of the Wastes" ],
-			"category": "weapon",
 			"types": [
 				"one-handed",
 				"firearm"
@@ -12941,7 +12497,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"one-handed",
 				"firearm"
@@ -12978,7 +12533,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"one-handed",
 				"firearm"
@@ -13015,7 +12569,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"one-handed",
 				"firearm"
@@ -13048,7 +12601,6 @@
 			"name": "air repeater",
 			"file": "equipmentweaponsdisplaycf77.html",
 			"sources": [ "Heroes of Golarion" ],
-			"category": "weapon",
 			"types": [
 				"two-handed",
 				"firearm"
@@ -13084,7 +12636,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed",
 				"firearm"
@@ -13121,7 +12672,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed",
 				"firearm"
@@ -13159,7 +12709,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed",
 				"firearm"
@@ -13193,7 +12742,6 @@
 			"name": "cylinder rifle",
 			"file": "equipmentweaponsdisplay8d48.html",
 			"sources": [ "People of the Wastes" ],
-			"category": "weapon",
 			"types": [
 				"two-handed",
 				"firearm"
@@ -13230,7 +12778,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed",
 				"firearm"
@@ -13268,7 +12815,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed",
 				"firearm"
@@ -13302,7 +12848,6 @@
 			"name": "dragoon musket",
 			"file": "equipmentweaponsdisplay8ea0.html",
 			"sources": [ "Villain Codex" ],
-			"category": "weapon",
 			"types": [
 				"two-handed",
 				"firearm"
@@ -13339,7 +12884,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed",
 				"firearm"
@@ -13375,7 +12919,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed",
 				"firearm"
@@ -13412,7 +12955,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed",
 				"firearm"
@@ -13446,7 +12988,6 @@
 			"name": "radium pistol",
 			"file": "equipmentweaponsdisplay7d78.html",
 			"sources": [ "Pathfinder: Worldscape #2" ],
-			"category": "weapon",
 			"types": [
 				"one-handed",
 				"firearm"
@@ -13485,7 +13026,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"one-handed",
 				"firearm"
@@ -13521,7 +13061,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed",
 				"firearm"
@@ -13558,7 +13097,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed",
 				"firearm"
@@ -13591,7 +13129,6 @@
 			"name": "radium rifle",
 			"file": "equipmentweaponsdisplaya06b.html",
 			"sources": [ "Pathfinder: Worldscape #2" ],
-			"category": "weapon",
 			"types": [
 				"two-handed",
 				"firearm"
@@ -13630,7 +13167,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed",
 				"firearm"
@@ -13666,7 +13202,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"two-handed",
 				"firearm"
@@ -13701,7 +13236,6 @@
 			"name": "thark rifle",
 			"file": "equipmentweaponsdisplayd9c9.html",
 			"sources": [ "Pathfinder: Worldscape #2" ],
-			"category": "weapon",
 			"types": [
 				"two-handed",
 				"firearm"
@@ -13738,7 +13272,6 @@
 			"name": "air reservoir",
 			"file": "equipmentweaponsdisplay752f.html",
 			"sources": [ "Heroes of Golarion" ],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -13762,7 +13295,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -13797,7 +13329,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -13819,7 +13350,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -13838,7 +13368,6 @@
 			"display_name": "alchemical cartridge (gray dust shot)",
 			"file": "equipmentweaponsdisplay0752.html",
 			"sources": [ "Heroes of Golarion" ],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -13857,7 +13386,6 @@
 			"display_name": "alchemical cartridge (gray dust)",
 			"file": "equipmentweaponsdisplaya614.html",
 			"sources": [ "Heroes of Golarion" ],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -13876,7 +13404,6 @@
 			"display_name": "alchemical cartridge (molten shot)",
 			"file": "equipmentweaponsdisplay8f93.html",
 			"sources": [ "People of the Wastes" ],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -13898,7 +13425,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -13917,7 +13443,6 @@
 			"display_name": "alchemical cartridge (repellent)",
 			"file": "equipmentweaponsdisplay6f3a.html",
 			"sources": [ "People of the Wastes" ],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -13939,7 +13464,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -13958,7 +13482,6 @@
 			"display_name": "alchemical cartridge (smoke cartridge)",
 			"file": "equipmentweaponsdisplay62d8.html",
 			"sources": [ "Heroes of Golarion" ],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -13977,7 +13500,6 @@
 			"display_name": "alchemical cartridge (toxin)",
 			"file": "equipmentweaponsdisplay25d5.html",
 			"sources": [ "People of the Wastes" ],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -13999,7 +13521,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -14023,7 +13544,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -14042,7 +13562,6 @@
 			"display_name": "bullet, adamantine",
 			"file": "equipmentweaponsdisplayf433.html",
 			"sources": [ "Ultimate Combat" ],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -14063,7 +13582,6 @@
 			"display_name": "bullet, screaming",
 			"file": "equipmentweaponsdisplaycf5b.html",
 			"sources": [ "Heroes of Golarion" ],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -14083,7 +13601,6 @@
 			"name": "dragoon cartridge",
 			"file": "equipmentweaponsdisplay94b5.html",
 			"sources": [ "Villain Codex" ],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -14109,7 +13626,6 @@
 				"Pathfinder Campaign Setting",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -14130,7 +13646,6 @@
 			"display_name": "firearm bullet (30)",
 			"file": "equipmentweaponsdisplay6038.html",
 			"sources": [ "Ultimate Combat" ],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -14149,7 +13664,6 @@
 			"display_name": "firearm bullet, silver",
 			"file": "equipmentweaponsdisplay38b2.html",
 			"sources": [ "Ultimate Combat" ],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -14169,7 +13683,6 @@
 			"name": "gunsmith's kit",
 			"file": "equipmentweaponsdisplay3999.html",
 			"sources": [ "Ultimate Combat" ],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -14192,7 +13705,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -14216,7 +13728,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -14237,7 +13748,6 @@
 			"display_name": "pellets (30 handfuls)",
 			"file": "equipmentweaponsdisplaya147.html",
 			"sources": [ "Ultimate Combat" ],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -14258,7 +13768,6 @@
 				"Ultimate Equipment",
 				"Ultimate Combat"
 			],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -14278,7 +13787,6 @@
 			"name": "powder horn",
 			"file": "equipmentweaponsdisplay2a4c.html",
 			"sources": [ "Ultimate Combat" ],
-			"category": "weapon",
 			"types": [
 				"ammunition"
 			],
@@ -14298,7 +13806,6 @@
 			"name": "brutally weighted",
 			"file": "equipmentweaponsdisplay3ffc.html",
 			"sources": [ "Adventurer's Armory 2" ],
-			"category": "weapon",
 			"types": [
 				"modification"
 			],
@@ -14320,7 +13827,6 @@
 			"display_name": "dual-balanced",
 			"file": "equipmentweaponsdisplay3f30.html",
 			"sources": [ "Adventurer's Armory 2" ],
-			"category": "weapon",
 			"types": [
 				"modification"
 			],
@@ -14341,7 +13847,6 @@
 			"name": "jagged hooks",
 			"file": "equipmentweaponsdisplay8808.html",
 			"sources": [ "Adventurer's Armory 2" ],
-			"category": "weapon",
 			"types": [
 				"modification"
 			],
@@ -14363,7 +13868,6 @@
 			"display_name": "razor-sharp",
 			"file": "equipmentweaponsdisplay1a76.html",
 			"sources": [ "Adventurer's Armory 2" ],
-			"category": "weapon",
 			"types": [
 				"modification"
 			],
@@ -14384,7 +13888,6 @@
 			"name": "serrated edge",
 			"file": "equipmentweaponsdisplay2675.html",
 			"sources": [ "Adventurer's Armory 2" ],
-			"category": "weapon",
 			"types": [
 				"modification"
 			],
@@ -14405,7 +13908,6 @@
 			"name": "tactically adapted",
 			"file": "equipmentweaponsdisplay15a7.html",
 			"sources": [ "Adventurer's Armory 2" ],
-			"category": "weapon",
 			"types": [
 				"modification"
 			],
@@ -14426,7 +13928,6 @@
 			"name": "versatile design",
 			"file": "equipmentweaponsdisplay527a.html",
 			"sources": [ "Adventurer's Armory 2" ],
-			"category": "weapon",
 			"types": [
 				"modification"
 			],
@@ -14448,7 +13949,6 @@
 			"display_name": "war-shield, dwarven",
 			"file": "equipmentweaponsdisplay989f.html",
 			"sources": [ "Adventurer's Armory 2" ],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -14482,7 +13982,6 @@
 				"Ultimate Combat",
 				"Ultimate Equipment"
 			],
-			"category": "weapon",
 			"types": [
 				"ranged"
 			],
@@ -14514,7 +14013,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -14544,7 +14042,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -14574,7 +14071,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"light"
 			],
@@ -14603,7 +14099,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],
@@ -14633,7 +14128,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "weapon",
 			"types": [
 				"one-handed"
 			],

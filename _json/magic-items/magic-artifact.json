@@ -1,10 +1,10 @@
 {
+	"category": "artifact",
 	"list": [
 		{
 			"name": "Figurine of the Concealed Companion",
 			"file": "magicartifactsdisplay3c4f.html",
 			"sources": [ "Artifacts and Legends" ],
-			"category": "artifact",
 			"types": [
 				"metagame"
 			],
@@ -25,7 +25,6 @@
 			"name": "Hourglass of Transfiguration",
 			"file": "magicartifactsdisplay0d3e.html",
 			"sources": [ "Artifacts and Legends" ],
-			"category": "artifact",
 			"types": [
 				"metagame"
 			],
@@ -46,7 +45,6 @@
 			"name": "Scar of Destiny",
 			"file": "magicartifactsdisplay1701.html",
 			"sources": [ "Artifacts and Legends" ],
-			"category": "artifact",
 			"types": [
 				"metagame"
 			],
@@ -67,7 +65,6 @@
 			"name": "Sliver of the Amalgam Mind",
 			"file": "magicartifactsdisplay80f1.html",
 			"sources": [ "Artifacts and Legends" ],
-			"category": "artifact",
 			"types": [
 				"metagame"
 			],
@@ -88,7 +85,6 @@
 			"name": "Bracers of the Immortal Hunt",
 			"file": "magicartifactsdisplay4ba7.html",
 			"sources": [ "Mythic Origins" ],
-			"category": "artifact",
 			"types": [
 				"transcendent"
 			],
@@ -118,7 +114,6 @@
 			"name": "Abyssal Runestone",
 			"file": "magicartifactsdisplayb2c1.html",
 			"sources": [ "Pathfinder #134: It Came from Hollow Mountain" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -141,7 +136,6 @@
 			"name": "Aegis",
 			"file": "magicartifactsdisplayb37b.html",
 			"sources": [ "Mythic Adventures" ],
-			"category": "artifact",
 			"types": [
 				"minor",
 				"shield",
@@ -169,7 +163,6 @@
 				"Skull & Shackles Adventure Path",
 				"Pathfinder #59: The Price of Infamy"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -195,7 +188,6 @@
 				"Jade Regent Adventure Path",
 				"Pathfinder #49: The Brinewall Legacy"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -216,7 +208,6 @@
 			"name": "Amethyst Crescent Ioun Stone",
 			"file": "magicartifactsdisplayf14d.html",
 			"sources": [ "Pathfinder #126: Beyond the Veiled Past" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -240,7 +231,6 @@
 				"Serpent's Skull Adventure Path",
 				"Pathfinder #40: Vaults of Madness"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -264,7 +254,6 @@
 				"Reign of Winter Adventure Path",
 				"Pathfinder #69: Maiden, Mother, Crone"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -291,7 +280,6 @@
 			"name": "Automaton Core",
 			"file": "magicartifactsdisplay9b74.html",
 			"sources": [ "Construct Handbook" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -318,7 +306,6 @@
 			"name": "Azlanti Orrery",
 			"file": "magicartifactsdisplay7ac4.html",
 			"sources": [ "Pathfinder #122: Into the Shattered Continent" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -339,7 +326,6 @@
 			"name": "Azlanti Sealstone",
 			"file": "magicartifactsdisplay775c.html",
 			"sources": [ "Revenge of the Kobold King" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -363,7 +349,6 @@
 				"Reign of Winter Adventure Path",
 				"Pathfinder #72: The Witch Queen's Revenge"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -389,7 +374,6 @@
 				"Reign of Winter Adventure Path",
 				"Pathfinder #72: The Witch Queen's Revenge"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -415,7 +399,6 @@
 				"Hell's Rebels Adventure Path",
 				"Pathfinder #102: Breaking the Bones of Hell"
 			],
-			"category": "artifact",
 			"types": [
 				"minor",
 				"weapon"
@@ -441,7 +424,6 @@
 				"Ultimate Equipment",
 				"Advanced Player's Guide"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -468,7 +450,6 @@
 				"Wrath of the Righteous Adventure Path",
 				"Pathfinder #75: Demon's Heresy"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -490,7 +471,6 @@
 			"name": "Black Iron Axe",
 			"file": "magicartifactsdisplay2be3.html",
 			"sources": [ "Mythic Adventures" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -514,7 +494,6 @@
 				"Artifacts and Legends",
 				"Pathfinder #10: A History of Ashes"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -541,7 +520,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -572,7 +550,6 @@
 			"name": "Branch of Life",
 			"file": "magicartifactsdisplay98d1.html",
 			"sources": [ "Ultimate Equipment" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -593,7 +570,6 @@
 			"name": "Bullroarers of Outburst",
 			"file": "magicartifactsdisplay979d.html",
 			"sources": [ "Mythic Adventures" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -620,7 +596,6 @@
 				"Giantslayer Adventure Path",
 				"Pathfinder #96: Shadow of the Storm Tyrant"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -643,7 +618,6 @@
 			"name": "Crown of the Iron King",
 			"file": "magicartifactsdisplayee45.html",
 			"sources": [ "Ultimate Equipment" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -667,7 +641,6 @@
 				"Artifacts and Legends",
 				"Pathfinder #24: The Final Wish"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -690,7 +663,6 @@
 			"name": "Crystal Control Rod",
 			"file": "magicartifactsdisplay97b6.html",
 			"sources": [ "Tombs of Golarion" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -717,7 +689,6 @@
 			"name": "Cubic Spiral",
 			"file": "magicartifactsdisplayf748.html",
 			"sources": [ "Pathfinder #120: Vault of the Onyx Citadel" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -744,7 +715,6 @@
 			"name": "Cup of Forbidden Knowledge",
 			"file": "magicartifactsdisplay68dc.html",
 			"sources": [ "Horror Adventures" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -766,7 +736,6 @@
 			"name": "Dark Grimoire",
 			"file": "magicartifactsdisplay2e88.html",
 			"sources": [ "Horror Adventures" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -793,7 +762,6 @@
 				"Wrath of the Righteous Adventure Path",
 				"Pathfinder #77: Herald of the Ivory Labyrinth"
 			],
-			"category": "artifact",
 			"types": [
 				"minor",
 				"weapon"
@@ -820,7 +788,6 @@
 				"Artifacts and Legends",
 				"Pathfinder Society Field Guide"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -844,7 +811,6 @@
 				"Artifacts and Legends",
 				"The Harrowing"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -868,7 +834,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -939,7 +904,6 @@
 				"Giantslayer Adventure Path",
 				"Pathfinder #93: Forge of the Giant God"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -966,7 +930,6 @@
 			"name": "Earth's Eye",
 			"file": "magicartifactsdisplaye57e.html",
 			"sources": [ "Pathfinder #120: Vault of the Onyx Citadel" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -993,7 +956,6 @@
 			"name": "Elder Sign",
 			"file": "magicartifactsdisplayfda0.html",
 			"sources": [ "Horror Adventures" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -1016,7 +978,6 @@
 			"name": "Elemental Chain",
 			"file": "magicartifactsdisplay345d.html",
 			"sources": [ "Mythic Adventures" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -1037,7 +998,6 @@
 			"name": "Eye of Abenatrex",
 			"file": "magicartifactsdisplayb930.html",
 			"sources": [ "Dragonslayer's Handbook" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -1061,7 +1021,6 @@
 			"name": "Eye of Rapture",
 			"file": "magicartifactsdisplay0ab5.html",
 			"sources": [ "Carnival of Tears" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -1084,7 +1043,6 @@
 				"Wrath of the Righteous Adventure Path",
 				"Pathfinder #76: The Midnight Isles"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -1105,7 +1063,6 @@
 			"name": "Fetoring Maw",
 			"file": "magicartifactsdisplay2b81.html",
 			"sources": [ "Pathfinder #140: Eulogy for Roslar's Coffer" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -1134,7 +1091,6 @@
 			"name": "Final Blade",
 			"file": "magicartifactsdisplay65de.html",
 			"sources": [ "Inner Sea World Guide" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -1159,7 +1115,6 @@
 				"Shattered Star Adventure Path",
 				"Pathfinder #66: The Dead Heart of Xin"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -1184,7 +1139,6 @@
 			"name": "Fleshhook of Mythic Sustenance",
 			"file": "magicartifactsdisplay92f8.html",
 			"sources": [ "Mythic Adventures" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -1206,7 +1160,6 @@
 			"name": "Fluttered Wing",
 			"file": "magicartifactsdisplay301e.html",
 			"sources": [ "Pathfinder #137: The City Outside of Time" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -1228,7 +1181,6 @@
 			"name": "Fortune's Arrow",
 			"file": "magicartifactsdisplayc1be.html",
 			"sources": [ "Mythic Adventures" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -1251,7 +1203,6 @@
 			"name": "Funeral Mask of the Four Pharaohs of Ascension",
 			"file": "magicartifactsdisplayd982.html",
 			"sources": [ "Entombed with the Pharaohs" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -1273,7 +1224,6 @@
 			"name": "Funerary Crown of the True King",
 			"file": "magicartifactsdisplay0da9.html",
 			"sources": [ "Ships of the Inner Sea" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -1295,7 +1245,6 @@
 			"name": "Glabrezu Claw",
 			"file": "magicartifactsdisplay2734.html",
 			"sources": [ "Mythic Adventures" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -1323,7 +1272,6 @@
 				"Hell's Vengeance Adventure Path",
 				"Pathfinder #107: Scourge of the Godclaw"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -1351,7 +1299,6 @@
 				"Advanced Player's Guide",
 				"Ultimate Equipment"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -1373,7 +1320,6 @@
 			"name": "Harp of Night's Hope",
 			"file": "magicartifactsdisplay9781.html",
 			"sources": [ "Nidal, Land of Shadows" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -1397,7 +1343,6 @@
 			"name": "Haykali's House of Cards",
 			"file": "magicartifactsdisplay811e.html",
 			"sources": [ "Classic Treasures Revisited" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -1418,7 +1363,6 @@
 			"name": "Heart of Nhur Athemon",
 			"file": "magicartifactsdisplay7ec6.html",
 			"sources": [ "The Emerald Spire Superdungeon" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -1444,7 +1388,6 @@
 				"Hell's Vengeance Adventure Path",
 				"Pathfinder #107: Scourge of the Godclaw"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -1465,7 +1408,6 @@
 			"name": "Helm of Governance",
 			"file": "magicartifactsdisplay8e9d.html",
 			"sources": [ "Pathfinder #126: Beyond the Veiled Past" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -1487,7 +1429,6 @@
 			"name": "Hermetic Flask",
 			"file": "magicartifactsdisplay432a.html",
 			"sources": [ "Mythic Adventures" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -1515,7 +1456,6 @@
 				"Artifacts and Legends",
 				"The Demon Within"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -1540,7 +1480,6 @@
 				"Artifacts and Legends",
 				"Gallery of Evil"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -1566,7 +1505,6 @@
 			"name": "Imperial Diadem",
 			"file": "magicartifactsdisplay9e5d.html",
 			"sources": [ "Pathfinder #114: Black Stars Beckon" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -1592,7 +1530,6 @@
 				"Rise of the Runelords Adventure Path",
 				"Rise of the Runelords Anniversary Edition"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -1614,7 +1551,6 @@
 			"name": "Jaundiced Skull Ioun Stone",
 			"file": "magicartifactsdisplay69e4.html",
 			"sources": [ "Pathfinder #126: Beyond the Veiled Past" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -1639,7 +1575,6 @@
 				"Ultimate Equipment",
 				"Advanced Player's Guide"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -1683,7 +1618,6 @@
 				"Mummy's Mask Adventure Path",
 				"Pathfinder #83: The Slave Trenches of Hakotep"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -1710,7 +1644,6 @@
 				"Mummy's Mask Adventure Path",
 				"Pathfinder #83: The Slave Trenches of Hakotep"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -1733,7 +1666,6 @@
 			"name": "Magi Staff of the Deep Black",
 			"file": "magicartifactsdisplay70e6.html",
 			"sources": [ "Classic Treasures Revisited" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -1764,7 +1696,6 @@
 			"name": "Magi Staff of the Mammoth",
 			"file": "magicartifactsdisplay270f.html",
 			"sources": [ "Classic Treasures Revisited" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -1789,7 +1720,6 @@
 			"name": "Magi Staff of the Necromancer",
 			"file": "magicartifactsdisplayece4.html",
 			"sources": [ "Classic Treasures Revisited" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -1818,7 +1748,6 @@
 			"name": "Magi Staff of the Scholar",
 			"file": "magicartifactsdisplay339f.html",
 			"sources": [ "Classic Treasures Revisited" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -1842,7 +1771,6 @@
 				"Artifacts and Legends",
 				"Pathfinder #17: A Memory of Darkness"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -1869,7 +1797,6 @@
 				"Artifacts and Legends",
 				"Pathfinder #39: The City of Seven Spears"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -1903,7 +1830,6 @@
 			"name": "Mindbind Figurine",
 			"file": "magicartifactsdisplayc680.html",
 			"sources": [ "The Moonscar" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -1926,7 +1852,6 @@
 			"name": "Monkey's Paw",
 			"file": "magicartifactsdisplay8272.html",
 			"sources": [ "Ultimate Equipment" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -1949,7 +1874,6 @@
 				"Wrath of the Righteous Adventure Path",
 				"Pathfinder #77: Herald of the Ivory Labyrinth"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -1979,7 +1903,6 @@
 				"Wrath of the Righteous Adventure Path",
 				"Pathfinder #78: City of Locusts"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -2003,7 +1926,6 @@
 				"Wrath of the Righteous Adventure Path",
 				"Pathfinder #76: The Midnight Isles"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -2031,7 +1953,6 @@
 				"Wrath of the Righteous Adventure Path",
 				"Pathfinder #76: The Midnight Isles"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -2057,7 +1978,6 @@
 				"Giantslayer Adventure Path",
 				"Pathfinder #93: Forge of the Giant God"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -2078,7 +1998,6 @@
 			"name": "Necropyre Crystal",
 			"file": "magicartifactsdisplayab5b.html",
 			"sources": [ "Blood of Dragonscar" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -2102,7 +2021,6 @@
 			"name": "Nexus Crystal",
 			"file": "magicartifactsdisplay7f02.html",
 			"sources": [ "Mythic Adventures" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -2132,7 +2050,6 @@
 				"Kingmaker Adventure Path",
 				"Pathfinder #33: The Varnhold Vanishing"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -2161,7 +2078,6 @@
 			"name": "Orb of Dragon Mastery",
 			"file": "magicartifactsdisplay2f0b.html",
 			"sources": [ "Artifacts and Legends" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -2182,7 +2098,6 @@
 			"name": "Orb of Dragonkin",
 			"file": "magicartifactsdisplay3d73.html",
 			"sources": [ "Artifacts and Legends" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -2214,7 +2129,6 @@
 			"name": "Orb of Dragonshape",
 			"file": "magicartifactsdisplay8002.html",
 			"sources": [ "Artifacts and Legends" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -2245,7 +2159,6 @@
 			"name": "Orrery of Distant Worlds",
 			"file": "magicartifactsdisplayacfc.html",
 			"sources": [ "Doom Comes to Dustpawn" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -2280,7 +2193,6 @@
 			"name": "Osa Painting",
 			"file": "magicartifactsdisplay898d.html",
 			"sources": [ "Horror Realms" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -2305,7 +2217,6 @@
 				"Artifacts and Legends",
 				"Pathfinder #34: Blood for Blood"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -2339,7 +2250,6 @@
 			"name": "Pendant of the First Tears",
 			"file": "magicartifactsdisplayce00.html",
 			"sources": [ "Pathfinder #137: The City Outside of Time" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -2365,7 +2275,6 @@
 				"Ultimate Equipment",
 				"Advanced Player's Guide"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -2388,7 +2297,6 @@
 				"Mummy's Mask Adventure Path",
 				"Pathfinder #83: The Slave Trenches of Hakotep"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -2412,7 +2320,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -2433,7 +2340,6 @@
 			"name": "Phylactery of the Failed",
 			"file": "magicartifactsdisplay5947.html",
 			"sources": [ "Artifacts and Legends" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -2457,7 +2363,6 @@
 			"name": "Portal Network",
 			"file": "magicartifactsdisplayb6e7.html",
 			"sources": [ "Occult Adventures" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -2481,7 +2386,6 @@
 			"name": "Primordial Symbol",
 			"file": "magicartifactsdisplay436c.html",
 			"sources": [ "Occult Adventures" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -2509,7 +2413,6 @@
 			"name": "Quake Cannon",
 			"file": "magicartifactsdisplay0d23.html",
 			"sources": [ "Wardens of the Reborn Forge" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -2532,7 +2435,6 @@
 			"name": "Radiant Blue Ioun Stone",
 			"file": "magicartifactsdisplay074a.html",
 			"sources": [ "Pathfinder #126: Beyond the Veiled Past" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -2556,7 +2458,6 @@
 				"Artifacts and Legends",
 				"Pathfinder #46: Wake of the Watcher"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -2580,7 +2481,6 @@
 				"Hell's Rebels Adventure Path",
 				"Pathfinder #99: Dance of the Damned"
 			],
-			"category": "artifact",
 			"types": [
 				"minor",
 				"weapon"
@@ -2606,7 +2506,6 @@
 				"Rise of the Runelords Anniversary Edition",
 				"Pathfinder #5: Sins of the Saviors"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -2629,7 +2528,6 @@
 			"display_name": "Rift-Born Sphere",
 			"file": "magicartifactsdisplaydeb0.html",
 			"sources": [ "Classic Treasures Revisited" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -2650,7 +2548,6 @@
 			"name": "Ring of Equilibrium",
 			"file": "magicartifactsdisplayaca2.html",
 			"sources": [ "Mythic Adventures" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -2674,7 +2571,6 @@
 			"name": "Rod of Spell Sundering",
 			"file": "magicartifactsdisplay8d30.html",
 			"sources": [ "Mythic Adventures" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -2697,7 +2593,6 @@
 			"name": "Runescarred Dragonship",
 			"file": "magicartifactsdisplayc195.html",
 			"sources": [ "Ultimate Equipment" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -2721,7 +2616,6 @@
 				"Rise of the Runelords Anniversary Edition",
 				"Pathfinder #4: Fortress of the Stone Giants"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -2745,7 +2639,6 @@
 			"name": "Runewarded Gauntlets",
 			"file": "magicartifactsdisplay7e0f.html",
 			"sources": [ "Pathfinder #133: Secrets of Roderic's Cove" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -2767,7 +2660,6 @@
 			"display_name": "Runewell Amulet (Envy)",
 			"file": "magicartifactsdisplay2b2e.html",
 			"sources": [ "Pathfinder #137: The City Outside of Time" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -2793,7 +2685,6 @@
 				"Rise of the Runelords Anniversary Edition",
 				"Pathfinder #6: Spires of Xin-Shalast"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -2818,7 +2709,6 @@
 				"Rise of the Runelords Adventure Path",
 				"Rise of the Runelords Anniversary Edition"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -2842,7 +2732,6 @@
 			"name": "Screaming Spear of the Sun",
 			"file": "magicartifactsdisplayb67f.html",
 			"sources": [ "Mythic Adventures" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -2865,7 +2754,6 @@
 			"name": "Shadow Urn",
 			"file": "magicartifactsdisplaya7b9.html",
 			"sources": [ "The Demon Within" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -2889,7 +2777,6 @@
 				"Jade Regent Adventure Path",
 				"Pathfinder #53: Tide of Honor"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -2922,7 +2809,6 @@
 			"name": "Sigils of the Great Cataclysm",
 			"file": "magicartifactsdisplayeabc.html",
 			"sources": [ "Villain Codex" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -2953,7 +2839,6 @@
 			"display_name": "Sihedron Tome (Envy)",
 			"file": "magicartifactsdisplaye9b0.html",
 			"sources": [ "Pathfinder #137: The City Outside of Time" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -2979,7 +2864,6 @@
 				"Rise of the Runelords Anniversary Edition",
 				"Pathfinder #6: Spires of Xin-Shalast"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -3003,7 +2887,6 @@
 				"Mummy's Mask Adventure Path",
 				"Pathfinder #83: The Slave Trenches of Hakotep"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -3026,7 +2909,6 @@
 			"name": "Slime Tendril",
 			"file": "magicartifactsdisplay9afe.html",
 			"sources": [ "Pathfinder #122: Into the Shattered Continent" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -3052,7 +2934,6 @@
 				"Rise of the Runelords Adventure Path",
 				"Rise of the Runelords Anniversary Edition"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -3073,7 +2954,6 @@
 			"name": "Soul Portrait",
 			"file": "magicartifactsdisplay0ca4.html",
 			"sources": [ "Occult Adventures" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -3098,7 +2978,6 @@
 			"name": "Sparkling Blue Rhomboid Ioun Stone",
 			"file": "magicartifactsdisplay5e35.html",
 			"sources": [ "Pathfinder #126: Beyond the Veiled Past" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -3119,7 +2998,6 @@
 			"name": "Spear of Shards",
 			"file": "magicartifactsdisplay070e.html",
 			"sources": [ "Pathfinder #120: Vault of the Onyx Citadel" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -3145,7 +3023,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -3169,7 +3046,6 @@
 			"name": "Sphere of Bleeding Snowflakes",
 			"file": "magicartifactsdisplayadf7.html",
 			"sources": [ "Classic Treasures Revisited" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -3193,7 +3069,6 @@
 				"Ultimate Equipment",
 				"Advanced Player's Guide"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -3213,7 +3088,6 @@
 			"name": "Staff of Eldritch Sovereignty",
 			"file": "magicartifactsdisplay90ae.html",
 			"sources": [ "Mythic Adventures" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -3265,7 +3139,6 @@
 				"Pathfinder #83: The Slave Trenches of Hakotep",
 				"Crucible of Chaos"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -3294,7 +3167,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -3336,7 +3208,6 @@
 			"name": "Stannum Crown",
 			"file": "magicartifactsdisplay3d17.html",
 			"sources": [ "Occult Adventures" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -3359,7 +3230,6 @@
 			"name": "Storm Kindler's Rod",
 			"file": "magicartifactsdisplay2b58.html",
 			"sources": [ "Adventurer's Guide" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -3388,7 +3258,6 @@
 				"Jade Regent Adventure Path",
 				"Pathfinder #50: Night of Frozen Shadows"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -3425,7 +3294,6 @@
 			"name": "Sun Orchid Elixir",
 			"file": "magicartifactsdisplayce7f.html",
 			"sources": [ "Inner Sea World Guide" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -3447,7 +3315,6 @@
 			"name": "Sword of the Mists",
 			"file": "magicartifactsdisplaycbd5.html",
 			"sources": [ "Mythic Adventures" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -3473,7 +3340,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -3497,7 +3363,6 @@
 				"Ultimate Equipment",
 				"Advanced Player's Guide"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -3525,7 +3390,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -3549,7 +3413,6 @@
 				"Ultimate Equipment",
 				"PRPG Core Rulebook"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -3570,7 +3433,6 @@
 			"name": "Tentacle of the Vaults",
 			"file": "magicartifactsdisplay6775.html",
 			"sources": [ "Pathfinder #120: Vault of the Onyx Citadel" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -3598,7 +3460,6 @@
 				"Wrath of the Righteous Adventure Path",
 				"Pathfinder #73: The Worldwound Incursion"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -3624,7 +3485,6 @@
 			"name": "Tessarael's Book of Infinite Spells",
 			"file": "magicartifactsdisplay530d.html",
 			"sources": [ "Fangwood Keep" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -3654,7 +3514,6 @@
 			"name": "The Elder Decks",
 			"file": "magicartifactsdisplay1bdc.html",
 			"sources": [ "Classic Treasures Revisited" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -3675,7 +3534,6 @@
 			"name": "The Enthroned King",
 			"file": "magicartifactsdisplay24a5.html",
 			"sources": [ "Pathfinder #118: Siege of Stone" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -3696,7 +3554,6 @@
 			"name": "The Last Theorem",
 			"file": "magicartifactsdisplay91ba.html",
 			"sources": [ "The Pact Stone Pyramid" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -3720,7 +3577,6 @@
 				"Council of Thieves Adventure Path",
 				"Pathfinder #27: What Lies in Dust"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -3745,7 +3601,6 @@
 				"Council of Thieves Adventure Path",
 				"Pathfinder #29: Mother of Flies"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -3769,7 +3624,6 @@
 			"name": "Thought Record",
 			"file": "magicartifactsdisplay65c7.html",
 			"sources": [ "Occult Adventures" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -3795,7 +3649,6 @@
 			"name": "Throne of Blasphemy",
 			"file": "magicartifactsdisplay6ef7.html",
 			"sources": [ "Hell Unleashed" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -3823,7 +3676,6 @@
 				"Serpent's Skull Adventure Path",
 				"Pathfinder #41: The Thousand Fangs Below"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -3844,7 +3696,6 @@
 			"name": "Thrushmoor Star Stelae",
 			"file": "magicartifactsdisplaye488.html",
 			"sources": [ "Pathfinder #110: The Thrushmoor Terror" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -3875,7 +3726,6 @@
 				"Shattered Star Adventure Path",
 				"Pathfinder #66: The Dead Heart of Xin"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -3902,7 +3752,6 @@
 				"Artifacts and Legends",
 				"The Witchwar Legacy"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -3924,7 +3773,6 @@
 			"name": "Torc of the Heavens",
 			"file": "magicartifactsdisplay9447.html",
 			"sources": [ "Mythic Adventures" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -3949,7 +3797,6 @@
 				"Artifacts and Legends",
 				"Pathfinder #42: Sanctum of the Serpent God"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -3982,7 +3829,6 @@
 			"name": "Twin Spheres",
 			"file": "magicartifactsdisplay7c28.html",
 			"sources": [ "Classic Treasures Revisited" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -4006,7 +3852,6 @@
 				"Artifacts and Legends",
 				"Flight of the Red Raven"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -4028,7 +3873,6 @@
 			"name": "Vicious Link",
 			"file": "magicartifactsdisplay9c30.html",
 			"sources": [ "Path of the Hellknight" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -4054,7 +3898,6 @@
 				"Artifacts and Legends",
 				"Realm of the Fellnight Queen"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -4079,7 +3922,6 @@
 			"name": "Vivacious Rose Prism Ioun Stone",
 			"file": "magicartifactsdisplay9d76.html",
 			"sources": [ "Pathfinder #126: Beyond the Veiled Past" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -4100,7 +3942,6 @@
 			"name": "Void Crystal",
 			"file": "magicartifactsdisplay15d4.html",
 			"sources": [ "Undead Unleashed" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -4127,7 +3968,6 @@
 				"Artifacts and Legends",
 				"Pathfinder #49: The Brinewall Legacy"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -4151,7 +3991,6 @@
 				"Inner Sea World Guide",
 				"The Demon Within"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -4175,7 +4014,6 @@
 				"Wrath of the Righteous Adventure Path",
 				"Pathfinder #73: The Worldwound Incursion"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -4198,7 +4036,6 @@
 			"name": "Weird Queen's Magpie",
 			"file": "magicartifactsdisplay9030.html",
 			"sources": [ "Ultimate Equipment" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -4223,7 +4060,6 @@
 			"name": "Wheel of Worlds",
 			"file": "magicartifactsdisplay0f03.html",
 			"sources": [ "Book of the Damned" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -4259,7 +4095,6 @@
 			"name": "Winter's Heart",
 			"file": "magicartifactsdisplaya179.html",
 			"sources": [ "Mythic Realms" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -4284,7 +4119,6 @@
 			"name": "Witch Ice Shard",
 			"file": "magicartifactsdisplay2f44.html",
 			"sources": [ "Carnival of Tears" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -4305,7 +4139,6 @@
 			"name": "Witherfang",
 			"file": "magicartifactsdisplay415a.html",
 			"sources": [ "Mythic Adventures" ],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -4331,7 +4164,6 @@
 				"Curse of the Crimson Throne (PFRPG)",
 				"Pathfinder #7: Edge of Anarchy"
 			],
-			"category": "artifact",
 			"types": [
 				"minor"
 			],
@@ -4364,7 +4196,6 @@
 				"Giantslayer Adventure Path",
 				"Pathfinder #91: Battle of Bloodmarch Hills"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -4391,7 +4222,6 @@
 			"name": "Alaznist's Hateful Ranseur",
 			"file": "magicartifactsdisplaya9bf.html",
 			"sources": [ "Pathfinder #138: Rise of New Thassilon" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -4422,7 +4252,6 @@
 				"Rise of the Runelords Adventure Path",
 				"Rise of the Runelords Anniversary Edition"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -4451,7 +4280,6 @@
 				"Rise of the Runelords Anniversary Edition",
 				"Pathfinder #6: Spires of Xin-Shalast"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -4472,7 +4300,6 @@
 			"name": "Apocalypse Box",
 			"file": "magicartifactsdisplaye2a0.html",
 			"sources": [ "Mythic Adventures" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -4504,7 +4331,6 @@
 			"name": "Apollyon Ring",
 			"file": "magicartifactsdisplay1851.html",
 			"sources": [ "Artifacts and Legends" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -4529,7 +4355,6 @@
 			"name": "Avernus Claw",
 			"file": "magicartifactsdisplay64b4.html",
 			"sources": [ "Hell Unleashed" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -4554,7 +4379,6 @@
 				"Artifacts and Legends",
 				"PRPG Core Rulebook"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -4577,7 +4401,6 @@
 				"Wrath of the Righteous Adventure Path",
 				"Pathfinder #74: Sword of Valor"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -4599,7 +4422,6 @@
 			"name": "Belimarius's Invidious Halberd",
 			"file": "magicartifactsdisplaydbc2.html",
 			"sources": [ "Pathfinder #137: The City Outside of Time" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -4631,7 +4453,6 @@
 			"name": "Bellwether Brooch",
 			"file": "magicartifactsdisplay8e28.html",
 			"sources": [ "Guardians of Dragonfall" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -4656,7 +4477,6 @@
 				"Artifacts and Legends",
 				"Inner Sea World Guide"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -4677,7 +4497,6 @@
 			"name": "Bloodstones of Arazni",
 			"file": "magicartifactsdisplay0983.html",
 			"sources": [ "Artifacts and Legends" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -4709,7 +4528,6 @@
 				"Book of the Damned",
 				"Artifacts and Legends"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -4740,7 +4558,6 @@
 			"display_name": "Book of the Damned (Apocrypha)",
 			"file": "magicartifactsdisplay5e06.html",
 			"sources": [ "Book of the Damned" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -4769,7 +4586,6 @@
 				"Book of the Damned",
 				"Book of the Damned - Volume 3: Horsemen of the Apocalypse"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -4798,7 +4614,6 @@
 				"Book of the Damned",
 				"Book of the Damned - Volume 2: Lords of Chaos"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -4826,7 +4641,6 @@
 				"Book of the Damned",
 				"Book of the Damned - Volume 1: Princes of Darkness"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -4856,7 +4670,6 @@
 				"Advanced Player's Guide",
 				"Artifacts and Legends"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -4878,7 +4691,6 @@
 			"name": "Brazen Egg",
 			"file": "magicartifactsdisplaye9c8.html",
 			"sources": [ "Ultimate Equipment" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -4899,7 +4711,6 @@
 			"name": "Briar",
 			"file": "magicartifactsdisplaya735.html",
 			"sources": [ "Artifacts and Legends" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -4930,7 +4741,6 @@
 			"name": "Calabash of Last Draughts",
 			"file": "magicartifactsdisplay0434.html",
 			"sources": [ "Feast of Dust" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -4953,7 +4763,6 @@
 			"name": "Cantorian Spring",
 			"file": "magicartifactsdisplayb20a.html",
 			"sources": [ "Gods and Magic" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -4980,7 +4789,6 @@
 				"Ultimate Equipment",
 				"Lost Cities of Golarion"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -5003,7 +4811,6 @@
 			"name": "Chalice of Lissala",
 			"file": "magicartifactsdisplay7029.html",
 			"sources": [ "Pathfinder #137: The City Outside of Time" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -5029,7 +4836,6 @@
 				"Wrath of the Righteous Adventure Path",
 				"Pathfinder #77: Herald of the Ivory Labyrinth"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -5052,7 +4858,6 @@
 			"name": "Chronicle of the Righteous",
 			"file": "magicartifactsdisplay8569.html",
 			"sources": [ "Chronicle of the Righteous" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -5075,7 +4880,6 @@
 			"name": "Cicatrix",
 			"file": "magicartifactsdisplayf779.html",
 			"sources": [ "Bestiary 4" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -5099,7 +4903,6 @@
 				"Ultimate Equipment",
 				"Advanced Player's Guide"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -5129,7 +4932,6 @@
 				"PRPG Core Rulebook",
 				"Artifacts and Legends"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -5155,7 +4957,6 @@
 			"name": "Cradle of Night",
 			"file": "magicartifactsdisplay8fcf.html",
 			"sources": [ "Cradle of Night" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -5179,7 +4980,6 @@
 				"Mummy's Mask Adventure Path",
 				"Pathfinder #84: Pyramid of the Sky Pharaoh"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -5207,7 +5007,6 @@
 				"Curse of the Crimson Throne (PFRPG)",
 				"Pathfinder #12: Crown of Fangs"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -5239,7 +5038,6 @@
 				"Hell's Vengeance Adventure Path",
 				"Pathfinder #106: For Queen and Empire"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -5264,7 +5062,6 @@
 				"Pathfinder #68: The Shackled Hut",
 				"Artifacts and Legends"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -5292,7 +5089,6 @@
 			"name": "Demon Prince Armor",
 			"file": "magicartifactsdisplayafc1.html",
 			"sources": [ "Ultimate Equipment" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -5320,7 +5116,6 @@
 				"Wrath of the Righteous Adventure Path",
 				"Pathfinder #78: City of Locusts"
 			],
-			"category": "artifact",
 			"types": [
 				"major",
 				"weapon"
@@ -5342,7 +5137,6 @@
 			"name": "Diadem of Nod",
 			"file": "magicartifactsdisplayc0cb.html",
 			"sources": [ "Mythic Adventures" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -5364,7 +5158,6 @@
 			"name": "Dryad's Song",
 			"file": "magicartifactsdisplay998c.html",
 			"sources": [ "Pathfinder #119: Prisoners of the Blight" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -5393,7 +5186,6 @@
 			"display_name": "Dryad's Song (Corrupted)",
 			"file": "magicartifactsdisplay5f84.html",
 			"sources": [ "Pathfinder #119: Prisoners of the Blight" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -5420,7 +5212,6 @@
 			"name": "Emperor's Mammoth",
 			"file": "magicartifactsdisplay22bb.html",
 			"sources": [ "Mythic Adventures" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -5446,7 +5237,6 @@
 				"Curse of the Crimson Throne Adventure Path",
 				"Curse of the Crimson Throne (PFRPG)"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -5476,7 +5266,6 @@
 			"name": "Eyjatas",
 			"file": "magicartifactsdisplayec58.html",
 			"sources": [ "Bestiary 6" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -5501,7 +5290,6 @@
 				"Ultimate Equipment",
 				"Lost Cities of Golarion"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -5524,7 +5312,6 @@
 				"Ultimate Equipment",
 				"Advanced Player's Guide"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -5545,7 +5332,6 @@
 			"name": "Frozen Heart of Cocytus",
 			"file": "magicartifactsdisplayde73.html",
 			"sources": [ "Mythic Adventures" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -5569,7 +5355,6 @@
 			"name": "Gem of Dreams",
 			"file": "magicartifactsdisplay88be.html",
 			"sources": [ "Dungeons of Golarion" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -5590,7 +5375,6 @@
 			"name": "Greatcube of Jayalakshmi",
 			"file": "magicartifactsdisplayfd7c.html",
 			"sources": [ "Gods and Magic" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -5618,7 +5402,6 @@
 				"Shattered Star Adventure Path",
 				"Pathfinder #66: The Dead Heart of Xin"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -5640,7 +5423,6 @@
 			"name": "Handflower of Genocide",
 			"file": "magicartifactsdisplayb737.html",
 			"sources": [ "Feast of Dust" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -5663,7 +5445,6 @@
 			"name": "Harrow Deck of Many Things",
 			"file": "magicartifactsdisplay604a.html",
 			"sources": [ "Artifacts and Legends" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -5692,7 +5473,6 @@
 				"Wrath of the Righteous Adventure Path",
 				"Pathfinder #77: Herald of the Ivory Labyrinth"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -5718,7 +5498,6 @@
 				"Hell's Vengeance Adventure Path",
 				"Pathfinder #108: Hell Comes to Westcrown"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -5743,7 +5522,6 @@
 				"Hell's Vengeance Adventure Path",
 				"Pathfinder #108: Hell Comes to Westcrown"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -5765,7 +5543,6 @@
 			"name": "Helicyon",
 			"file": "magicartifactsdisplay5230.html",
 			"sources": [ "Heaven Unleashed" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -5786,7 +5563,6 @@
 			"name": "Horn of Lies",
 			"file": "magicartifactsdisplay90f0.html",
 			"sources": [ "Bestiary 6" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -5812,7 +5588,6 @@
 				"Artifacts and Legends",
 				"Dungeons of Golarion"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -5835,7 +5610,6 @@
 				"Reign of Winter Adventure Path",
 				"Pathfinder #72: The Witch Queen's Revenge"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -5859,7 +5633,6 @@
 			"name": "Ihystear",
 			"file": "magicartifactsdisplay0bd9.html",
 			"sources": [ "Book of the Damned" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -5885,7 +5658,6 @@
 				"Wrath of the Righteous Adventure Path",
 				"Pathfinder #76: The Midnight Isles"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -5906,7 +5678,6 @@
 			"name": "Infensus Mucro",
 			"file": "magicartifactsdisplay183c.html",
 			"sources": [ "Tomb of the Iron Medusa" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -5936,7 +5707,6 @@
 			"name": "Invidian Eye",
 			"file": "magicartifactsdisplay8d57.html",
 			"sources": [ "Artifacts and Legends" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -5960,7 +5730,6 @@
 			"name": "Jar of Dragon's Teeth",
 			"file": "magicartifactsdisplay5bf9.html",
 			"sources": [ "Ultimate Equipment" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -5991,7 +5760,6 @@
 				"Wrath of the Righteous Adventure Path",
 				"Pathfinder #74: Sword of Valor"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -6021,7 +5789,6 @@
 				"Rise of the Runelords Adventure Path",
 				"Rise of the Runelords Anniversary Edition"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -6053,7 +5820,6 @@
 			"name": "Lamentation of the Faithless",
 			"file": "magicartifactsdisplay35dd.html",
 			"sources": [ "Bestiary 6" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -6074,7 +5840,6 @@
 			"name": "Legendsbane",
 			"file": "magicartifactsdisplaye032.html",
 			"sources": [ "Mythic Adventures" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -6097,7 +5862,6 @@
 			"name": "Lens of Galundari",
 			"file": "magicartifactsdisplayfd80.html",
 			"sources": [ "Artifacts and Legends" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -6121,7 +5885,6 @@
 			"name": "Linnorm's Lament",
 			"file": "magicartifactsdisplayfe72.html",
 			"sources": [ "Classic Treasures Revisited" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -6142,7 +5905,6 @@
 			"name": "Lung Bloodstone of Arazni",
 			"file": "magicartifactsdisplay572a.html",
 			"sources": [ "Pathfinder #141: Last Watch" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -6166,7 +5928,6 @@
 				"Mummy's Mask Adventure Path",
 				"Pathfinder #80: Empty Graves"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -6196,7 +5957,6 @@
 				"Giantslayer Adventure Path",
 				"Pathfinder #93: Forge of the Giant God"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -6229,7 +5989,6 @@
 			"name": "Mirror of Sorshen",
 			"file": "magicartifactsdisplay23ab.html",
 			"sources": [ "Pathfinder #137: The City Outside of Time" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -6253,7 +6012,6 @@
 			"display_name": "Mog-Lathar, the Petrified Spider",
 			"file": "magicartifactsdisplayf8eb.html",
 			"sources": [ "The House on Hook Street" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -6276,7 +6034,6 @@
 			"name": "Netherworld Cauldron",
 			"file": "magicartifactsdisplay0c46.html",
 			"sources": [ "Mythic Adventures" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -6299,7 +6056,6 @@
 			"name": "Nimbus of Radiant Truth",
 			"file": "magicartifactsdisplayf9b7.html",
 			"sources": [ "Mythic Adventures" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -6332,7 +6088,6 @@
 				"Wrath of the Righteous Adventure Path",
 				"Pathfinder #78: City of Locusts"
 			],
-			"category": "artifact",
 			"types": [
 				"major",
 				"weapon"
@@ -6357,7 +6112,6 @@
 				"Mummy's Mask Adventure Path",
 				"Pathfinder #83: The Slave Trenches of Hakotep"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -6384,7 +6138,6 @@
 				"Artifacts and Legends",
 				"PRPG Core Rulebook"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -6418,7 +6171,6 @@
 				"Wrath of the Righteous Adventure Path",
 				"Pathfinder #74: Sword of Valor"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -6442,7 +6194,6 @@
 			"name": "Perfection's Key",
 			"file": "magicartifactsdisplay2c6d.html",
 			"sources": [ "Ultimate Equipment" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -6462,7 +6213,6 @@
 			"name": "Plaguebringer",
 			"file": "magicartifactsdisplay362c.html",
 			"sources": [ "Mythic Adventures" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -6501,7 +6251,6 @@
 			"name": "Primogen Crown",
 			"file": "magicartifactsdisplay77c6.html",
 			"sources": [ "Pathfinder #127: Crownfall" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -6526,7 +6275,6 @@
 				"Wrath of the Righteous Adventure Path",
 				"Pathfinder #73: The Worldwound Incursion"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -6549,7 +6297,6 @@
 			"name": "Ravenous Blade",
 			"file": "magicartifactsdisplay4b0d.html",
 			"sources": [ "Feast of Dust" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -6575,7 +6322,6 @@
 				"Artifacts and Legends",
 				"Pathfinder #12: Crown of Fangs"
 			],
-			"category": "artifact",
 			"types": [
 				"major",
 				"armor"
@@ -6609,7 +6355,6 @@
 				"Artifacts and Legends",
 				"Pathfinder #12: Crown of Fangs"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -6640,7 +6385,6 @@
 			"display_name": "Relic of Kazavon-Crown of Fangs",
 			"file": "magicartifactsdisplaye4d9.html",
 			"sources": [ "Artifacts and Legends" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -6673,7 +6417,6 @@
 				"Artifacts and Legends",
 				"Pathfinder #12: Crown of Fangs"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -6706,7 +6449,6 @@
 				"Artifacts and Legends",
 				"Pathfinder #12: Crown of Fangs"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -6739,7 +6481,6 @@
 				"Artifacts and Legends",
 				"Pathfinder #12: Crown of Fangs"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -6774,7 +6515,6 @@
 				"Artifacts and Legends",
 				"Pathfinder #12: Crown of Fangs"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -6808,7 +6548,6 @@
 				"Wrath of the Righteous Adventure Path",
 				"Pathfinder #78: City of Locusts"
 			],
-			"category": "artifact",
 			"types": [
 				"major",
 				"weapon"
@@ -6832,7 +6571,6 @@
 			"name": "Ring of Nine Facets",
 			"file": "magicartifactsdisplaybd2a.html",
 			"sources": [ "Artifacts and Legends" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -6871,7 +6609,6 @@
 				"Wrath of the Righteous Adventure Path",
 				"Pathfinder #78: City of Locusts"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -6899,7 +6636,6 @@
 				"Rise of the Runelords Adventure Path",
 				"Rise of the Runelords Anniversary Edition"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -6923,7 +6659,6 @@
 			"name": "Runewell of Wrath",
 			"file": "magicartifactsdisplay63de.html",
 			"sources": [ "Pathfinder #138: Rise of New Thassilon" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -6944,7 +6679,6 @@
 			"name": "Saint Cuthbert's Mace",
 			"file": "magicartifactsdisplaycc24.html",
 			"sources": [ "Artifacts and Legends" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -6966,7 +6700,6 @@
 			"name": "Scepter of Ages",
 			"file": "magicartifactsdisplay8740.html",
 			"sources": [ "Artifacts and Legends" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -6988,7 +6721,6 @@
 			"name": "Scepter of Alaznist",
 			"file": "magicartifactsdisplayeb28.html",
 			"sources": [ "Pathfinder #137: The City Outside of Time" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -7011,7 +6743,6 @@
 			"name": "Scepter of Shibaxet",
 			"file": "magicartifactsdisplay3be2.html",
 			"sources": [ "Bestiary 4" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -7032,7 +6763,6 @@
 			"name": "Scepter of the Shining Lord",
 			"file": "magicartifactsdisplay357d.html",
 			"sources": [ "Mythic Adventures" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -7061,7 +6791,6 @@
 			"name": "Scintillating Garment",
 			"file": "magicartifactsdisplay07bc.html",
 			"sources": [ "Pathfinder #138: Rise of New Thassilon" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -7085,7 +6814,6 @@
 				"Artifacts and Legends",
 				"Pathfinder #21: The Jackal's Price"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -7111,7 +6839,6 @@
 				"Pathfinder #11: Skeletons of Scarwall",
 				"Artifacts and Legends"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -7147,7 +6874,6 @@
 				"PRPG Core Rulebook",
 				"Artifacts and Legends"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -7171,7 +6897,6 @@
 			"name": "Shadowwraith Heart",
 			"file": "magicartifactsdisplay4f60.html",
 			"sources": [ "Mythic Adventures" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -7195,7 +6920,6 @@
 				"Shattered Star Adventure Path",
 				"Pathfinder #61: Shards of Sin"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -7220,7 +6944,6 @@
 				"Shattered Star Adventure Path",
 				"Pathfinder #61: Shards of Sin"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -7245,7 +6968,6 @@
 				"Shattered Star Adventure Path",
 				"Pathfinder #61: Shards of Sin"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -7270,7 +6992,6 @@
 				"Shattered Star Adventure Path",
 				"Pathfinder #61: Shards of Sin"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -7295,7 +7016,6 @@
 				"Shattered Star Adventure Path",
 				"Pathfinder #61: Shards of Sin"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -7320,7 +7040,6 @@
 				"Shattered Star Adventure Path",
 				"Pathfinder #61: Shards of Sin"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -7345,7 +7064,6 @@
 				"Shattered Star Adventure Path",
 				"Pathfinder #61: Shards of Sin"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -7367,7 +7085,6 @@
 			"name": "Shelana the Mother Deck",
 			"file": "magicartifactsdisplay00c0.html",
 			"sources": [ "Classic Treasures Revisited" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -7399,7 +7116,6 @@
 				"Gods and Magic",
 				"Inner Sea World Guide"
 			],
-			"category": "artifact",
 			"types": [
 				"major",
 				"shield",
@@ -7425,7 +7141,6 @@
 			"display_name": "Shield of Xin-Undoros",
 			"file": "magicartifactsdisplaye0a5.html",
 			"sources": [ "Pathfinder #137: The City Outside of Time" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -7448,7 +7163,6 @@
 			"name": "Shroud of Flies",
 			"file": "magicartifactsdisplay068f.html",
 			"sources": [ "Feast of Dust" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -7474,7 +7188,6 @@
 				"Pathfinder #137: The City Outside of Time",
 				"Pathfinder #66: The Dead Heart of Xin"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -7510,7 +7223,6 @@
 			"name": "Silver Maiden",
 			"file": "magicartifactsdisplay85da.html",
 			"sources": [ "Mythic Adventures" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -7537,7 +7249,6 @@
 				"Artifacts and Legends",
 				"Pathfinder #42: Sanctum of the Serpent God"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -7562,7 +7273,6 @@
 			"name": "Skullsoul",
 			"file": "magicartifactsdisplay2eca.html",
 			"sources": [ "Ultimate Equipment" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -7583,7 +7293,6 @@
 			"display_name": "Song of Extinction (Music Box)",
 			"file": "magicartifactsdisplayd5d6.html",
 			"sources": [ "Artifacts and Legends" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -7606,7 +7315,6 @@
 			"name": "Sorshen's Sinuous Guisarme",
 			"file": "magicartifactsdisplay4ed1.html",
 			"sources": [ "Pathfinder #138: Rise of New Thassilon" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -7635,7 +7343,6 @@
 			"name": "Soulforge",
 			"file": "magicartifactsdisplay24c1.html",
 			"sources": [ "Tombs of Golarion" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -7661,7 +7368,6 @@
 			"name": "Spherical Boat of Zutha",
 			"file": "magicartifactsdisplaya858.html",
 			"sources": [ "Pathfinder #137: The City Outside of Time" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -7693,7 +7399,6 @@
 			"name": "Staff of Elemental Castigation",
 			"file": "magicartifactsdisplay2298.html",
 			"sources": [ "Classic Treasures Revisited" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -7721,7 +7426,6 @@
 				"Wrath of the Righteous Adventure Path",
 				"Pathfinder #77: Herald of the Ivory Labyrinth"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -7742,7 +7446,6 @@
 			"name": "Surcease of Sorows",
 			"file": "magicartifactsdisplay01ad.html",
 			"sources": [ "Pathfinder #143: Borne by the Sun's Grace" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -7765,7 +7468,6 @@
 			"display_name": "Sword of Gluttony-Ungarato",
 			"file": "magicartifactsdisplay2a7e.html",
 			"sources": [ "Artifacts and Legends" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -7801,7 +7503,6 @@
 				"Artifacts and Legends",
 				"Pathfinder #6: Spires of Xin-Shalast"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -7836,7 +7537,6 @@
 				"Artifacts and Legends",
 				"Seven Swords of Sin"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -7870,7 +7570,6 @@
 				"Pathfinder #133: Secrets of Roderic's Cove",
 				"Artifacts and Legends"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -7902,7 +7601,6 @@
 			"display_name": "Sword of Sloth, Shin-Tari",
 			"file": "magicartifactsdisplayb692.html",
 			"sources": [ "Artifacts and Legends" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -7935,7 +7633,6 @@
 				"Wrath of the Righteous Adventure Path",
 				"Pathfinder #74: Sword of Valor"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -7957,7 +7654,6 @@
 			"display_name": "Sword of Wrath-Garvok",
 			"file": "magicartifactsdisplaye8ce.html",
 			"sources": [ "Artifacts and Legends" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -7987,7 +7683,6 @@
 			"name": "Synchrony Device",
 			"file": "magicartifactsdisplayd123.html",
 			"sources": [ "Pathfinder #126: Beyond the Veiled Past" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -8026,7 +7721,6 @@
 				"Pathfinder #137: The City Outside of Time",
 				"Artifacts and Legends"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -8055,7 +7749,6 @@
 			"name": "Tarnhelm",
 			"file": "magicartifactsdisplay9cc3.html",
 			"sources": [ "Mythic Adventures" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -8086,7 +7779,6 @@
 				"Hell's Vengeance Adventure Path",
 				"Pathfinder #108: Hell Comes to Westcrown"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -8109,7 +7801,6 @@
 			"name": "The Aqualinth",
 			"file": "magicartifactsdisplaydb99.html",
 			"sources": [ "Lost Cities of Golarion" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -8134,7 +7825,6 @@
 			"name": "The Bone Grimoire",
 			"file": "magicartifactsdisplay5a0e.html",
 			"sources": [ "Pathfinder #135: Runeplague" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -8156,7 +7846,6 @@
 			"name": "The Demonscope",
 			"file": "magicartifactsdisplay7276.html",
 			"sources": [ "The Demon Within" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -8180,7 +7869,6 @@
 			"name": "The Doom Idol of Ib",
 			"file": "magicartifactsdisplaydf75.html",
 			"sources": [ "Pathfinder #111: Dreams of the Yellow King" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -8203,7 +7891,6 @@
 			"name": "The Dreamstone",
 			"file": "magicartifactsdisplay0b9a.html",
 			"sources": [ "The House on Hook Street" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -8227,7 +7914,6 @@
 			"name": "The Eclipsing Eye",
 			"file": "magicartifactsdisplay0e7a.html",
 			"sources": [ "Bestiary 6" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -8248,7 +7934,6 @@
 			"name": "The Gasping Pearl",
 			"file": "magicartifactsdisplay28ea.html",
 			"sources": [ "Aquatic Adventures" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -8272,7 +7957,6 @@
 				"Rise of the Runelords Adventure Path",
 				"Magic of Thassilon (Web Enhancement)"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -8310,7 +7994,6 @@
 				"Legacy of Fire Adventure Path",
 				"Pathfinder #23: The Impossible Eye"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -8333,7 +8016,6 @@
 			"name": "The Jewel of Everlasting Gold",
 			"file": "magicartifactsdisplaya2d8.html",
 			"sources": [ "City of Golden Death" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -8366,7 +8048,6 @@
 				"Advanced Player's Guide",
 				"Artifacts and Legends"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -8390,7 +8071,6 @@
 				"Ultimate Equipment",
 				"Advanced Player's Guide"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -8411,7 +8091,6 @@
 			"name": "The Viridian Crown",
 			"file": "magicartifactsdisplayc1bb.html",
 			"sources": [ "Elves of Golarion" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -8434,7 +8113,6 @@
 			"name": "Thorncrown of Iomedae",
 			"file": "magicartifactsdisplay7f07.html",
 			"sources": [ "Artifacts and Legends" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -8456,7 +8134,6 @@
 			"name": "Trueforge",
 			"file": "magicartifactsdisplay3df1.html",
 			"sources": [ "Mythic Adventures" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -8484,7 +8161,6 @@
 			"name": "Usher of the Black Rain",
 			"file": "magicartifactsdisplay6cc2.html",
 			"sources": [ "Bestiary 6" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -8508,7 +8184,6 @@
 				"Artifacts and Legends",
 				"Gods and Magic"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -8530,7 +8205,6 @@
 			"name": "Visineir",
 			"file": "magicartifactsdisplayc0ae.html",
 			"sources": [ "Bestiary 6" ],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -8555,7 +8229,6 @@
 				"Mummy's Mask Adventure Path",
 				"Pathfinder #83: The Slave Trenches of Hakotep"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],
@@ -8584,7 +8257,6 @@
 				"Reign of Winter Adventure Path",
 				"Pathfinder #72: The Witch Queen's Revenge"
 			],
-			"category": "artifact",
 			"types": [
 				"major"
 			],

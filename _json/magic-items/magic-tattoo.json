@@ -1,11 +1,11 @@
 {
+	"category": "magic item",
 	"list": [
 		{
 			"name": "Spell Tattoo",
 			"file": "magictattoodisplay0aaf.html",
 			"sources": [ "Inner Sea Magic" ],
 			"cost": 0,
-			"category": "magic item",
 			"types": [
 				"tattoo"
 			],
@@ -27,7 +27,6 @@
 			"file": "magictattoodisplaye0f7.html",
 			"sources": [ "Magical Marketplace" ],
 			"cost": 900,
-			"category": "magic item",
 			"types": [
 				"tattoo"
 			],
@@ -50,7 +49,6 @@
 			"file": "magictattoodisplaya6f9.html",
 			"sources": [ "Magical Marketplace" ],
 			"cost": 1000,
-			"category": "magic item",
 			"types": [
 				"tattoo"
 			],
@@ -72,7 +70,6 @@
 			"file": "magictattoodisplayf595.html",
 			"sources": [ "Dirty Tactics Toolbox" ],
 			"cost": 1500,
-			"category": "magic item",
 			"types": [
 				"tattoo"
 			],
@@ -97,7 +94,6 @@
 				"Bastards of Golarion"
 			],
 			"cost": 1600,
-			"category": "magic item",
 			"types": [
 				"tattoo"
 			],
@@ -120,7 +116,6 @@
 			"file": "magictattoodisplay4878.html",
 			"sources": [ "Magical Marketplace" ],
 			"cost": 2000,
-			"category": "magic item",
 			"types": [
 				"tattoo"
 			],
@@ -143,7 +138,6 @@
 			"file": "magictattoodisplay1fdc.html",
 			"sources": [ "Inner Sea Magic" ],
 			"cost": 6000,
-			"category": "magic item",
 			"types": [
 				"tattoo"
 			],
@@ -166,7 +160,6 @@
 			"file": "magictattoodisplayf6a6.html",
 			"sources": [ "Feast of Dust" ],
 			"cost": 9500,
-			"category": "magic item",
 			"types": [
 				"tattoo"
 			],
@@ -189,7 +182,6 @@
 			"file": "magictattoodisplay5a26.html",
 			"sources": [ "Inner Sea Magic" ],
 			"cost": 10000,
-			"category": "magic item",
 			"types": [
 				"tattoo"
 			],
@@ -211,7 +203,6 @@
 			"file": "magictattoodisplay96eb.html",
 			"sources": [ "Dirty Tactics Toolbox" ],
 			"cost": 10000,
-			"category": "magic item",
 			"types": [
 				"tattoo"
 			],
@@ -233,7 +224,6 @@
 			"file": "magictattoodisplaycbc5.html",
 			"sources": [ "Blood of Shadows" ],
 			"cost": 10800,
-			"category": "magic item",
 			"types": [
 				"tattoo"
 			],
@@ -256,7 +246,6 @@
 			"file": "magictattoodisplay8b58.html",
 			"sources": [ "Magical Marketplace" ],
 			"cost": 12000,
-			"category": "magic item",
 			"types": [
 				"tattoo"
 			],
@@ -278,7 +267,6 @@
 			"file": "magictattoodisplay354f.html",
 			"sources": [ "Blood of Shadows" ],
 			"cost": 12500,
-			"category": "magic item",
 			"types": [
 				"tattoo"
 			],
@@ -300,7 +288,6 @@
 			"file": "magictattoodisplay3480.html",
 			"sources": [ "Dirty Tactics Toolbox" ],
 			"cost": 18000,
-			"category": "magic item",
 			"types": [
 				"tattoo"
 			],
@@ -326,7 +313,6 @@
 			"file": "magictattoodisplay0214.html",
 			"sources": [ "Inner Sea Magic" ],
 			"cost": 21000,
-			"category": "magic item",
 			"types": [
 				"tattoo"
 			],
@@ -338,7 +324,6 @@
 			"file": "magictattoodisplay3eb7.html",
 			"sources": [ "Blood of Shadows" ],
 			"cost": 24000,
-			"category": "magic item",
 			"types": [
 				"tattoo"
 			],
@@ -361,7 +346,6 @@
 			"file": "magictattoodisplay0908.html",
 			"sources": [ "Inner Sea Magic" ],
 			"cost": 48000,
-			"category": "magic item",
 			"types": [
 				"tattoo"
 			],

@@ -989,7 +989,8 @@
 			]
 		},
 		{
-			"name": "Dragon (Black)",
+			"name": "Black Dragon",
+			"display_name": "Dragon (Black)",
 			"file": "monsterfamiliesf0da.html",
 			"sources": [ "Pathfinder RPG Bestiary" ],
 			"members": [
@@ -1121,7 +1122,8 @@
 			]
 		},
 		{
-			"name": "Dragon (Blue)",
+			"name": "Blue Dragon",
+			"display_name": "Dragon (Blue)",
 			"file": "monsterfamilies8688.html",
 			"sources": [ "Pathfinder RPG Bestiary" ],
 			"members": [
@@ -1252,7 +1254,8 @@
 			]
 		},
 		{
-			"name": "Dragon (Brass)",
+			"name": "Brass Dragon",
+			"display_name": "Dragon (Brass)",
 			"file": "monsterfamilies97db.html",
 			"sources": [ "Pathfinder RPG Bestiary" ],
 			"members": [
@@ -1367,7 +1370,8 @@
 			]
 		},
 		{
-			"name": "Dragon (Bronze)",
+			"name": "Bronze Dragon",
+			"display_name": "Dragon (Bronze)",
 			"file": "monsterfamilies9593.html",
 			"sources": [ "Pathfinder RPG Bestiary" ],
 			"members": [
@@ -1483,7 +1487,8 @@
 			]
 		},
 		{
-			"name": "Dragon (Copper)",
+			"name": "Copper Dragon",
+			"display_name": "Dragon (Copper)",
 			"file": "monsterfamiliesd013.html",
 			"sources": [ "Pathfinder RPG Bestiary" ],
 			"members": [
@@ -1599,7 +1604,8 @@
 			]
 		},
 		{
-			"name": "Dragon (Esoteric, Astral)",
+			"name": "Astral Dragon",
+			"display_name": "Dragon (Esoteric, Astral)",
 			"file": "monsterfamiliesd900.html",
 			"sources": [ "Bestiary 5" ],
 			"members": [
@@ -1707,7 +1713,8 @@
 			]
 		},
 		{
-			"name": "Dragon (Esoteric, Dream)",
+			"name": "Dream Dragon",
+			"display_name": "Dragon (Esoteric, Dream)",
 			"file": "monsterfamilies3e50.html",
 			"sources": [ "Bestiary 5" ],
 			"members": [
@@ -1815,7 +1822,8 @@
 			]
 		},
 		{
-			"name": "Dragon (Esoteric, Etheric)",
+			"name": "Etheric Dragon",
+			"display_name": "Dragon (Esoteric, Etheric)",
 			"file": "monsterfamilies3ffe.html",
 			"sources": [ "Bestiary 5" ],
 			"members": [
@@ -1923,7 +1931,8 @@
 			]
 		},
 		{
-			"name": "Dragon (Esoteric, Nightmare)",
+			"name": "Nightmare Dragon",
+			"display_name": "Dragon (Esoteric, Nightmare)",
 			"file": "monsterfamilies07d2.html",
 			"sources": [ "Bestiary 5" ],
 			"members": [
@@ -2031,7 +2040,8 @@
 			]
 		},
 		{
-			"name": "Dragon (Esoteric, Occult)",
+			"name": "Occult Dragon",
+			"display_name": "Dragon (Esoteric, Occult)",
 			"file": "monsterfamiliesb88e.html",
 			"sources": [ "Bestiary 5" ],
 			"members": [
@@ -2139,7 +2149,8 @@
 			]
 		},
 		{
-			"name": "Dragon (Gold)",
+			"name": "Gold Dragon",
+			"display_name": "Dragon (Gold)",
 			"file": "monsterfamiliesbe2a.html",
 			"sources": [ "Pathfinder RPG Bestiary" ],
 			"members": [
@@ -2255,7 +2266,8 @@
 			]
 		},
 		{
-			"name": "Dragon (Green)",
+			"name": "Green Dragon",
+			"display_name": "Dragon (Green)",
 			"file": "monsterfamiliese5b7.html",
 			"sources": [ "Pathfinder RPG Bestiary" ],
 			"members": [
@@ -2371,7 +2383,8 @@
 			]
 		},
 		{
-			"name": "Dragon (Imperial, Forest)",
+			"name": "Forest Dragon",
+			"display_name": "Dragon (Imperial, Forest)",
 			"file": "monsterfamiliese30e.html",
 			"sources": [ "Bestiary 3" ],
 			"members": [
@@ -2507,7 +2520,8 @@
 			]
 		},
 		{
-			"name": "Dragon (Imperial, Sea)",
+			"name": "Sea Dragon",
+			"display_name": "Dragon (Imperial, Sea)",
 			"file": "monsterfamilies917f.html",
 			"sources": [ "Bestiary 3" ],
 			"members": [
@@ -2642,7 +2656,8 @@
 			]
 		},
 		{
-			"name": "Dragon (Imperial, Sky)",
+			"name": "Sky Dragon",
+			"display_name": "Dragon (Imperial, Sky)",
 			"file": "monsterfamiliese432.html",
 			"sources": [ "Bestiary 3" ],
 			"members": [
@@ -2778,7 +2793,8 @@
 			]
 		},
 		{
-			"name": "Dragon (Imperial, Sovereign)",
+			"name": "Sovereign Dragon",
+			"display_name": "Dragon (Imperial, Sovereign)",
 			"file": "monsterfamiliesa09c.html",
 			"sources": [ "Bestiary 3" ],
 			"members": [
@@ -2913,7 +2929,8 @@
 			]
 		},
 		{
-			"name": "Dragon (Imperial, Underworld)",
+			"name": "Underworld Dragon",
+			"display_name": "Dragon (Imperial, Underworld)",
 			"file": "monsterfamiliesd84c.html",
 			"sources": [ "Bestiary 3" ],
 			"members": [
@@ -3047,7 +3064,8 @@
 			]
 		},
 		{
-			"name": "Dragon (Outer, Lunar)",
+			"name": "Lunar Dragon",
+			"display_name": "Dragon (Outer, Lunar)",
 			"file": "monsterfamilies46f7.html",
 			"sources": [ "Bestiary 4" ],
 			"members": [
@@ -3181,7 +3199,8 @@
 			]
 		},
 		{
-			"name": "Dragon (Outer, Solar)",
+			"name": "Solar Dragon",
+			"display_name": "Dragon (Outer, Solar)",
 			"file": "monsterfamiliesde49.html",
 			"sources": [ "Bestiary 4" ],
 			"members": [
@@ -3313,7 +3332,8 @@
 			]
 		},
 		{
-			"name": "Dragon (Outer, Time)",
+			"name": "Time Dragon",
+			"display_name": "Dragon (Outer, Time)",
 			"file": "monsterfamiliesc0d1.html",
 			"sources": [ "Bestiary 4" ],
 			"members": [
@@ -3447,7 +3467,8 @@
 			]
 		},
 		{
-			"name": "Dragon (Outer, Void)",
+			"name": "Void Dragon",
+			"display_name": "Dragon (Outer, Void)",
 			"file": "monsterfamilies8eaf.html",
 			"sources": [ "Bestiary 4" ],
 			"members": [
@@ -3579,7 +3600,8 @@
 			]
 		},
 		{
-			"name": "Dragon (Outer, Vortex)",
+			"name": "Vortex Dragon",
+			"display_name": "Dragon (Outer, Vortex)",
 			"file": "monsterfamilies36e2.html",
 			"sources": [ "Bestiary 4" ],
 			"members": [
@@ -3711,7 +3733,8 @@
 			]
 		},
 		{
-			"name": "Dragon (Planar, Apocalypse)",
+			"name": "Apocalypse Dragon",
+			"display_name": "Dragon (Planar, Apocalypse)",
 			"file": "monsterfamilies4c2a.html",
 			"sources": [ "Pathfinder #137: The City Outside of Time" ],
 			"members": [
@@ -3799,7 +3822,8 @@
 			]
 		},
 		{
-			"name": "Dragon (Planar, Bliss)",
+			"name": "Bliss Dragon",
+			"display_name": "Dragon (Planar, Bliss)",
 			"file": "monsterfamilies5a8e.html",
 			"sources": [ "Pathfinder #137: The City Outside of Time" ],
 			"members": [
@@ -3887,7 +3911,8 @@
 			]
 		},
 		{
-			"name": "Dragon (Planar, Crypt)",
+			"name": "Crypt Dragon",
+			"display_name": "Dragon (Planar, Crypt)",
 			"file": "monsterfamiliesa113.html",
 			"sources": [ "Bestiary 6" ],
 			"members": [
@@ -3975,7 +4000,8 @@
 			]
 		},
 		{
-			"name": "Dragon (Planar, Edict)",
+			"name": "Edict Dragon",
+			"display_name": "Dragon (Planar, Edict)",
 			"file": "monsterfamilies7d4e.html",
 			"sources": [ "Pathfinder #131: The Reaper's Right Hand" ],
 			"members": [
@@ -4063,7 +4089,8 @@
 			]
 		},
 		{
-			"name": "Dragon (Planar, Havoc)",
+			"name": "Havoc Dragon",
+			"display_name": "Dragon (Planar, Havoc)",
 			"file": "monsterfamiliesae01.html",
 			"sources": [ "Bestiary 6" ],
 			"members": [
@@ -4151,7 +4178,8 @@
 			]
 		},
 		{
-			"name": "Dragon (Planar, Infernal)",
+			"name": "Infernal Dragon",
+			"display_name": "Dragon (Planar, Infernal)",
 			"file": "monsterfamilies0448.html",
 			"sources": [ "Bestiary 6" ],
 			"members": [
@@ -4239,7 +4267,8 @@
 			]
 		},
 		{
-			"name": "Dragon (Planar, Paradise)",
+			"name": "Paradise Dragon",
+			"display_name": "Dragon (Planar, Paradise)",
 			"file": "monsterfamilies34c0.html",
 			"sources": [ "Bestiary 6" ],
 			"members": [
@@ -4327,7 +4356,8 @@
 			]
 		},
 		{
-			"name": "Dragon (Planar, Rift)",
+			"name": "Rift Dragon",
+			"display_name": "Dragon (Planar, Rift)",
 			"file": "monsterfamilies2d89.html",
 			"sources": [ "Bestiary 6" ],
 			"members": [
@@ -4415,7 +4445,8 @@
 			]
 		},
 		{
-			"name": "Dragon (Planar, Tumult)",
+			"name": "Tumult Dragon",
+			"display_name": "Dragon (Planar, Tumult)",
 			"file": "monsterfamilies0afb.html",
 			"sources": [ "Pathfinder #138: Rise of New Thassilon" ],
 			"members": [
@@ -4503,7 +4534,8 @@
 			]
 		},
 		{
-			"name": "Dragon (Primal, Brine)",
+			"name": "Brine Dragon",
+			"display_name": "Dragon (Primal, Brine)",
 			"file": "monsterfamilies0d0f.html",
 			"sources": [ "Bestiary 2" ],
 			"members": [
@@ -4630,7 +4662,8 @@
 			]
 		},
 		{
-			"name": "Dragon (Primal, Cloud)",
+			"name": "Cloud Dragon",
+			"display_name": "Dragon (Primal, Cloud)",
 			"file": "monsterfamilies6b1d.html",
 			"sources": [ "Bestiary 2" ],
 			"members": [
@@ -4758,7 +4791,8 @@
 			]
 		},
 		{
-			"name": "Dragon (Primal, Crystal)",
+			"name": "Crystal Dragon",
+			"display_name": "Dragon (Primal, Crystal)",
 			"file": "monsterfamiliesd66f.html",
 			"sources": [ "Bestiary 2" ],
 			"members": [
@@ -4886,7 +4920,8 @@
 			]
 		},
 		{
-			"name": "Dragon (Primal, Magma)",
+			"name": "Magma Dragon",
+			"display_name": "Dragon (Primal, Magma)",
 			"file": "monsterfamilies8ab0.html",
 			"sources": [ "Bestiary 2" ],
 			"members": [
@@ -5013,7 +5048,8 @@
 			]
 		},
 		{
-			"name": "Dragon (Primal, Umbral)",
+			"name": "Umbral Dragon",
+			"display_name": "Dragon (Primal, Umbral)",
 			"file": "monsterfamilies6fa5.html",
 			"sources": [ "Bestiary 2" ],
 			"members": [
@@ -5143,7 +5179,8 @@
 			]
 		},
 		{
-			"name": "Dragon (Red)",
+			"name": "Red Dragon",
+			"display_name": "Dragon (Red)",
 			"file": "monsterfamilies01e7.html",
 			"sources": [ "Pathfinder RPG Bestiary" ],
 			"members": [
@@ -5261,7 +5298,8 @@
 			]
 		},
 		{
-			"name": "Dragon (Silver)",
+			"name": "Silver Dragon",
+			"display_name": "Dragon (Silver)",
 			"file": "monsterfamilies43c0.html",
 			"sources": [ "Pathfinder RPG Bestiary" ],
 			"members": [
@@ -5378,7 +5416,8 @@
 			]
 		},
 		{
-			"name": "Dragon (White)",
+			"name": "White Dragon",
+			"display_name": "Dragon (White)",
 			"file": "monsterfamiliesf99a.html",
 			"sources": [ "Pathfinder RPG Bestiary" ],
 			"members": [
@@ -5519,7 +5558,8 @@
 			]
 		},
 		{
-			"name": "Elemental (Aether)",
+			"name": "Aether Elemental",
+			"display_name": "Elemental (Aether)",
 			"file": "monsterfamilies5748.html",
 			"sources": [ "Bestiary 5" ],
 			"members": [
@@ -5552,7 +5592,8 @@
 			]
 		},
 		{
-			"name": "Elemental (Air)",
+			"name": "Air Elemental",
+			"display_name": "Elemental (Air)",
 			"file": "monsterfamilies14cf.html",
 			"sources": [ "Pathfinder RPG Bestiary" ],
 			"members": [
@@ -5586,7 +5627,8 @@
 			]
 		},
 		{
-			"name": "Elemental (Earth)",
+			"name": "Earth Elemental",
+			"display_name": "Elemental (Earth)",
 			"file": "monsterfamilies6fa6.html",
 			"sources": [ "Pathfinder RPG Bestiary" ],
 			"members": [
@@ -5621,7 +5663,8 @@
 			]
 		},
 		{
-			"name": "Elemental (Fire)",
+			"name": "Fire Elemental",
+			"display_name": "Elemental (Fire)",
 			"file": "monsterfamilies9195.html",
 			"sources": [ "Pathfinder RPG Bestiary" ],
 			"members": [
@@ -5651,7 +5694,8 @@
 			]
 		},
 		{
-			"name": "Elemental (Ice)",
+			"name": "Ice Elemental",
+			"display_name": "Elemental (Ice)",
 			"file": "monsterfamilies6992.html",
 			"sources": [ "Bestiary 2" ],
 			"members": [
@@ -5687,7 +5731,8 @@
 			]
 		},
 		{
-			"name": "Elemental (Lightning)",
+			"name": "Lightning Elemental",
+			"display_name": "Elemental (Lightning)",
 			"file": "monsterfamilies7450.html",
 			"sources": [ "Bestiary 2" ],
 			"members": [
@@ -5721,7 +5766,8 @@
 			]
 		},
 		{
-			"name": "Elemental (Magma)",
+			"name": "Magma Elemental",
+			"display_name": "Elemental (Magma)",
 			"file": "monsterfamiliesaff8.html",
 			"sources": [ "Bestiary 2" ],
 			"members": [
@@ -5756,7 +5802,8 @@
 			]
 		},
 		{
-			"name": "Elemental (Mud)",
+			"name": "Mud Elemental",
+			"display_name": "Elemental (Mud)",
 			"file": "monsterfamilies4fed.html",
 			"sources": [ "Bestiary 2" ],
 			"members": [
@@ -5790,7 +5837,8 @@
 			]
 		},
 		{
-			"name": "Elemental (Water)",
+			"name": "Water Elemental",
+			"display_name": "Elemental (Water)",
 			"file": "monsterfamiliesb275.html",
 			"sources": [ "Pathfinder RPG Bestiary" ],
 			"members": [
@@ -6074,7 +6122,8 @@
 			]
 		},
 		{
-			"name": "Fiend-Bred Animal",
+			"name": "Fiend Bred Animal",
+			"display_name": "Fiend-Bred Animal",
 			"file": "monsterfamilies9d10.html",
 			"sources": [ "Pathfinder #103: The Hellfire Compact" ],
 			"members": [

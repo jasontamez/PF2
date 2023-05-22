@@ -1,11 +1,11 @@
 {
+	"category": "magic item",
 	"list": [
 		{
 			"name": "Wracking Rod",
 			"file": "magicrodsdisplay28c0.html",
 			"sources": [ "Entombed with the Pharaohs" ],
 			"cost": 2250,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -28,7 +28,6 @@
 			"file": "magicrodsdisplay3784.html",
 			"sources": [ "Legacy of the First World" ],
 			"cost": 2500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -51,7 +50,6 @@
 			"file": "magicrodsdisplay64e7.html",
 			"sources": [ "Monster Summoner's Handbook" ],
 			"cost": 3000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -73,7 +71,6 @@
 			"file": "magicrodsdisplaycb55.html",
 			"sources": [ "Villain Codex" ],
 			"cost": 3200,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -98,7 +95,6 @@
 			"file": "magicrodsdisplay87af.html",
 			"sources": [ "Heroes of the High Court" ],
 			"cost": 5000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -123,7 +119,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 5000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -145,7 +140,6 @@
 			"file": "magicrodsdisplay45ff.html",
 			"sources": [ "Occult Adventures" ],
 			"cost": 5000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -169,7 +163,6 @@
 			"file": "magicrodsdisplay75e8.html",
 			"sources": [ "Faction Guide" ],
 			"cost": 5000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -202,7 +195,6 @@
 			"file": "magicrodsdisplayf131.html",
 			"sources": [ "Psychic Anthology" ],
 			"cost": 5000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -224,7 +216,6 @@
 			"file": "magicrodsdisplay81bb.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 5400,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -247,7 +238,6 @@
 			"file": "magicrodsdisplay1f63.html",
 			"sources": [ "Legacy of the First World" ],
 			"cost": 6500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -259,7 +249,6 @@
 			"file": "magicrodsdisplay8f14.html",
 			"sources": [ "The Harrow Handbook" ],
 			"cost": 7800,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -281,7 +270,6 @@
 			"file": "magicrodsdisplay95a8.html",
 			"sources": [ "Pathfinder #95: Anvil of Fire" ],
 			"cost": 8000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -306,7 +294,6 @@
 			"file": "magicrodsdisplay9399.html",
 			"sources": [ "Pathfinder #139: The Dead Road" ],
 			"cost": 8500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -328,7 +315,6 @@
 			"file": "magicrodsdisplay99b5.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 8500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -350,7 +336,6 @@
 			"file": "magicrodsdisplay13b7.html",
 			"sources": [ "People of the Sands" ],
 			"cost": 10000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -373,7 +358,6 @@
 			"file": "magicrodsdisplay8b57.html",
 			"sources": [ "Entombed with the Pharaohs" ],
 			"cost": 10000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -398,7 +382,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 10500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -423,7 +406,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 11000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -445,7 +427,6 @@
 			"file": "magicrodsdisplay198f.html",
 			"sources": [ "Advanced Class Guide" ],
 			"cost": 11000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -467,7 +448,6 @@
 			"file": "magicrodsdisplay1e77.html",
 			"sources": [ "Advanced Class Guide" ],
 			"cost": 11000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -490,7 +470,6 @@
 			"file": "magicrodsdisplay89cd.html",
 			"sources": [ "Monster Summoner's Handbook" ],
 			"cost": 11000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -502,7 +481,6 @@
 			"file": "magicrodsdisplay4740.html",
 			"sources": [ "Villain Codex" ],
 			"cost": 11050,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -525,7 +503,6 @@
 			"file": "magicrodsdisplay19b6.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 12000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -548,7 +525,6 @@
 			"file": "magicrodsdisplaye829.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 12000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -571,7 +547,6 @@
 			"file": "magicrodsdisplay9b2b.html",
 			"sources": [ "Magic Tactics Toolbox" ],
 			"cost": 12000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -593,7 +568,6 @@
 			"file": "magicrodsdisplayfb28.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 12000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -618,7 +592,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 12000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -664,7 +637,6 @@
 			"file": "magicrodsdisplay4d33.html",
 			"sources": [ "Animal Archive" ],
 			"cost": 12300,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -686,7 +658,6 @@
 			"file": "magicrodsdisplay60dd.html",
 			"sources": [ "Magic Tactics Toolbox" ],
 			"cost": 12305,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -711,7 +682,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 13000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -734,7 +704,6 @@
 			"file": "magicrodsdisplaydc77.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 13500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -761,7 +730,6 @@
 				"Osirion, Land of the Pharaohs"
 			],
 			"cost": 14400,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -785,7 +753,6 @@
 			"file": "magicrodsdisplay3b90.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 15000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -808,7 +775,6 @@
 			"file": "magicrodsdisplay9006.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 15000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -834,7 +800,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 15000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -860,7 +825,6 @@
 			"file": "magicrodsdisplayd695.html",
 			"sources": [ "Pathfinder #87: The Choking Tower" ],
 			"cost": 15000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -884,7 +848,6 @@
 			"file": "magicrodsdisplaycccf.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 16000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -906,7 +869,6 @@
 			"file": "magicrodsdisplay446c.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 16650,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -929,7 +891,6 @@
 			"file": "magicrodsdisplay94a1.html",
 			"sources": [ "Pathfinder #94: Ice Tomb of the Giant Queen" ],
 			"cost": 17312,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -951,7 +912,6 @@
 			"file": "magicrodsdisplay1be8.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 18000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -974,7 +934,6 @@
 			"file": "magicrodsdisplay08b7.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 18000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -997,7 +956,6 @@
 			"file": "magicrodsdisplay990d.html",
 			"sources": [ "Magic Tactics Toolbox" ],
 			"cost": 18000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -1020,7 +978,6 @@
 			"file": "magicrodsdisplay3f31.html",
 			"sources": [ "Psychic Anthology" ],
 			"cost": 18000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -1032,7 +989,6 @@
 			"file": "magicrodsdisplay84dc.html",
 			"sources": [ "Merchant's Manifest" ],
 			"cost": 18312,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -1058,7 +1014,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 19000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -1081,7 +1036,6 @@
 			"file": "magicrodsdisplayb3da.html",
 			"sources": [ "Legacy of the First World" ],
 			"cost": 19500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -1093,7 +1047,6 @@
 			"file": "magicrodsdisplay310e.html",
 			"sources": [ "Magic Tactics Toolbox" ],
 			"cost": 20000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -1116,7 +1069,6 @@
 			"file": "magicrodsdisplay4f65.html",
 			"sources": [ "Pathfinder #83: The Slave Trenches of Hakotep" ],
 			"cost": 20000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -1140,7 +1092,6 @@
 			"file": "magicrodsdisplayd447.html",
 			"sources": [ "Osirion, Land of the Pharaohs" ],
 			"cost": 20000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -1165,7 +1116,6 @@
 			"file": "magicrodsdisplay0170.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 20000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -1187,7 +1137,6 @@
 			"file": "magicrodsdisplay57aa.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 22305,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -1210,7 +1159,6 @@
 			"file": "magicrodsdisplay66d5.html",
 			"sources": [ "Magic of Thassilon (Web Enhancement)" ],
 			"cost": 22400,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -1237,7 +1185,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 23500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -1259,7 +1206,6 @@
 			"file": "magicrodsdisplay7f7f.html",
 			"sources": [ "Magic of Thassilon (Web Enhancement)" ],
 			"cost": 24000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -1284,7 +1230,6 @@
 			"file": "magicrodsdisplay1d34.html",
 			"sources": [ "Monster Summoner's Handbook" ],
 			"cost": 24500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -1296,7 +1241,6 @@
 			"file": "magicrodsdisplaya441.html",
 			"sources": [ "Occult Adventures" ],
 			"cost": 25000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -1318,7 +1262,6 @@
 			"file": "magicrodsdisplay825d.html",
 			"sources": [ "Magic Tactics Toolbox" ],
 			"cost": 25000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -1343,7 +1286,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 25000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -1368,7 +1310,6 @@
 			"file": "magicrodsdisplayc175.html",
 			"sources": [ "Inner Sea Intrigue" ],
 			"cost": 25000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -1393,7 +1334,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 25000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -1415,7 +1355,6 @@
 			"file": "magicrodsdisplayc2bb.html",
 			"sources": [ "Planar Adventures" ],
 			"cost": 26000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -1437,7 +1376,6 @@
 			"file": "magicrodsdisplay7868.html",
 			"sources": [ "Elemental Master's Handbook" ],
 			"cost": 26400,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -1462,7 +1400,6 @@
 				"Advanced Race Guide"
 			],
 			"cost": 26500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -1484,7 +1421,6 @@
 			"file": "magicrodsdisplay7be9.html",
 			"sources": [ "Down the Blighted Path" ],
 			"cost": 28000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -1508,7 +1444,6 @@
 			"file": "magicrodsdisplayb163.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 29000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -1533,7 +1468,6 @@
 			"file": "magicrodsdisplay8324.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 30000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -1556,7 +1490,6 @@
 			"file": "magicrodsdisplay1b87.html",
 			"sources": [ "Magic Tactics Toolbox" ],
 			"cost": 30000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -1578,7 +1511,6 @@
 			"file": "magicrodsdisplay2e1b.html",
 			"sources": [ "Occult Adventures" ],
 			"cost": 31000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -1601,7 +1533,6 @@
 			"file": "magicrodsdisplayeef1.html",
 			"sources": [ "Advanced Class Guide" ],
 			"cost": 32500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -1626,7 +1557,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 33000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -1653,7 +1583,6 @@
 			"file": "magicrodsdisplaye41d.html",
 			"sources": [ "Heroes of the High Court" ],
 			"cost": 34000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -1675,7 +1604,6 @@
 			"file": "magicrodsdisplay9530.html",
 			"sources": [ "Blood of Shadows" ],
 			"cost": 35000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -1701,7 +1629,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 37000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -1726,7 +1653,6 @@
 				"Advanced Race Guide"
 			],
 			"cost": 38305,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -1749,7 +1675,6 @@
 			"file": "magicrodsdisplay5961.html",
 			"sources": [ "Lost Kingdoms" ],
 			"cost": 40000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -1772,7 +1697,6 @@
 			"file": "magicrodsdisplay13e3.html",
 			"sources": [ "Psychic Anthology" ],
 			"cost": 40500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -1784,7 +1708,6 @@
 			"file": "magicrodsdisplay09c1.html",
 			"sources": [ "Magical Marketplace" ],
 			"cost": 45700,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -1807,7 +1730,6 @@
 			"file": "magicrodsdisplay2e6e.html",
 			"sources": [ "Down the Blighted Path" ],
 			"cost": 50000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -1831,7 +1753,6 @@
 			"file": "magicrodsdisplay8753.html",
 			"sources": [ "Planar Adventures" ],
 			"cost": 50000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -1856,7 +1777,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 50000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -1884,7 +1804,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 50000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -1908,7 +1827,6 @@
 			"file": "magicrodsdisplay3ff3.html",
 			"sources": [ "Advanced Class Guide" ],
 			"cost": 54000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -1930,7 +1848,6 @@
 			"file": "magicrodsdisplayacbf.html",
 			"sources": [ "Magic Tactics Toolbox" ],
 			"cost": 60000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -1955,7 +1872,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 60000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -1980,7 +1896,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 61000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -2004,7 +1919,6 @@
 			"file": "magicrodsdisplay0bdb.html",
 			"sources": [ "Pathfinder #39: The City of Seven Spears" ],
 			"cost": 62000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -2030,7 +1944,6 @@
 				"Advanced Race Guide"
 			],
 			"cost": 64305,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -2052,7 +1965,6 @@
 			"file": "magicrodsdisplay73ab.html",
 			"sources": [ "Pathfinder #35: War of the River Kings" ],
 			"cost": 65000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -2074,7 +1986,6 @@
 			"file": "magicrodsdisplay8d79.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 67000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -2101,7 +2012,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 70000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -2136,7 +2046,6 @@
 			"file": "magicrodsdisplay11a1.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 74000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -2163,7 +2072,6 @@
 			"file": "magicrodsdisplay1a4e.html",
 			"sources": [ "Advanced Class Guide" ],
 			"cost": 75500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -2185,7 +2093,6 @@
 			"file": "magicrodsdisplaye65a.html",
 			"sources": [ "Pathfinder #95: Anvil of Fire" ],
 			"cost": 80000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -2207,7 +2114,6 @@
 			"file": "magicrodsdisplay05bd.html",
 			"sources": [ "Pathfinder #65: Into the Nightmare Rift" ],
 			"cost": 80000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -2235,7 +2141,6 @@
 				"Advanced Race Guide"
 			],
 			"cost": 80000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -2261,7 +2166,6 @@
 			"file": "magicrodsdisplay6b06.html",
 			"sources": [ "Inner Sea Combat" ],
 			"cost": 82000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -2286,7 +2190,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 85000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -2309,7 +2212,6 @@
 			"file": "magicrodsdisplay8469.html",
 			"sources": [ "Mythic Adventures" ],
 			"cost": 120000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -2331,7 +2233,6 @@
 			"file": "magicrodsdisplay72df.html",
 			"sources": [ "Occult Adventures" ],
 			"cost": 121500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -2353,7 +2254,6 @@
 			"file": "magicrodsdisplay125c.html",
 			"sources": [ "Occult Adventures" ],
 			"cost": 142000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -2380,7 +2280,6 @@
 			"file": "magicrodsdisplay1714.html",
 			"sources": [ "Lost Treasures" ],
 			"cost": 200000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -2412,7 +2311,6 @@
 			"file": "magicrodsdisplay7c90.html",
 			"sources": [ "Blood of Shadows" ],
 			"cost": 1500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -2438,7 +2336,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 1500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -2461,7 +2358,6 @@
 			"file": "magicrodsdisplay2d2a.html",
 			"sources": [ "Aquatic Adventures" ],
 			"cost": 1500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -2484,7 +2380,6 @@
 			"file": "magicrodsdisplayb8cd.html",
 			"sources": [ "Aquatic Adventures" ],
 			"cost": 1500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -2507,7 +2402,6 @@
 			"file": "magicrodsdisplay5b65.html",
 			"sources": [ "Planar Adventures" ],
 			"cost": 3000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -2530,7 +2424,6 @@
 			"file": "magicrodsdisplay19be.html",
 			"sources": [ "Planar Adventures" ],
 			"cost": 3000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -2553,7 +2446,6 @@
 			"file": "magicrodsdisplay3698.html",
 			"sources": [ "Planar Adventures" ],
 			"cost": 3000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -2579,7 +2471,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 3000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -2602,7 +2493,6 @@
 			"file": "magicrodsdisplayfe79.html",
 			"sources": [ "Planar Adventures" ],
 			"cost": 3000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -2628,7 +2518,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 3000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -2654,7 +2543,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 3000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -2680,7 +2568,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 3000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -2706,7 +2593,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 3000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -2732,7 +2618,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 3000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -2755,7 +2640,6 @@
 			"file": "magicrodsdisplayd830.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 3000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -2781,7 +2665,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 3000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -2804,7 +2687,6 @@
 			"file": "magicrodsdisplay96fd.html",
 			"sources": [ "Occult Adventures" ],
 			"cost": 3000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -2830,7 +2712,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 3000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -2856,7 +2737,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 3000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -2879,7 +2759,6 @@
 			"file": "magicrodsdisplay8daa.html",
 			"sources": [ "Occult Adventures" ],
 			"cost": 3000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -2902,7 +2781,6 @@
 			"file": "magicrodsdisplay3bdb.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 3000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -2928,7 +2806,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 3000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -2951,7 +2828,6 @@
 			"file": "magicrodsdisplay283f.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 3000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -2974,7 +2850,6 @@
 			"file": "magicrodsdisplaydfea.html",
 			"sources": [ "Occult Adventures" ],
 			"cost": 3000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3000,7 +2875,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 3000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3026,7 +2900,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 3000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3049,7 +2922,6 @@
 			"file": "magicrodsdisplayf7c8.html",
 			"sources": [ "Wardens of the Reborn Forge" ],
 			"cost": 3000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3072,7 +2944,6 @@
 			"file": "magicrodsdisplay64aa.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 3000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3095,7 +2966,6 @@
 			"file": "magicrodsdisplay322f.html",
 			"sources": [ "Planar Adventures" ],
 			"cost": 3000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3118,7 +2988,6 @@
 			"file": "magicrodsdisplay2f4a.html",
 			"sources": [ "Blood of Shadows" ],
 			"cost": 5500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3134,7 +3003,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 5500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3147,7 +3015,6 @@
 			"file": "magicrodsdisplay0489.html",
 			"sources": [ "Aquatic Adventures" ],
 			"cost": 5500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3160,7 +3027,6 @@
 			"file": "magicrodsdisplayc630.html",
 			"sources": [ "Aquatic Adventures" ],
 			"cost": 5500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3173,7 +3039,6 @@
 			"file": "magicrodsdisplay92c3.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 9000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3196,7 +3061,6 @@
 			"file": "magicrodsdisplay6621.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 9000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3222,7 +3086,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 9000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3245,7 +3108,6 @@
 			"file": "magicrodsdisplayd9bd.html",
 			"sources": [ "Occult Adventures" ],
 			"cost": 9000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3271,7 +3133,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 9000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3297,7 +3158,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 9000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3320,7 +3180,6 @@
 			"file": "magicrodsdisplaya883.html",
 			"sources": [ "Blood of Shadows" ],
 			"cost": 9000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3343,7 +3202,6 @@
 			"file": "magicrodsdisplay15da.html",
 			"sources": [ "Planar Adventures" ],
 			"cost": 9000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3366,7 +3224,6 @@
 			"file": "magicrodsdisplay9500.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 9000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3389,7 +3246,6 @@
 			"file": "magicrodsdisplay1a78.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 9000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3415,7 +3271,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 9000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3438,7 +3293,6 @@
 			"file": "magicrodsdisplay9569.html",
 			"sources": [ "Occult Adventures" ],
 			"cost": 9000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3461,7 +3315,6 @@
 			"file": "magicrodsdisplay287e.html",
 			"sources": [ "Planar Adventures" ],
 			"cost": 11000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3474,7 +3327,6 @@
 			"file": "magicrodsdisplay5033.html",
 			"sources": [ "Planar Adventures" ],
 			"cost": 11000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3487,7 +3339,6 @@
 			"file": "magicrodsdisplay9188.html",
 			"sources": [ "Planar Adventures" ],
 			"cost": 11000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3503,7 +3354,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 11000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3516,7 +3366,6 @@
 			"file": "magicrodsdisplay5c3c.html",
 			"sources": [ "Planar Adventures" ],
 			"cost": 11000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3532,7 +3381,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 11000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3548,7 +3396,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 11000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3564,7 +3411,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 11000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3580,7 +3426,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 11000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3596,7 +3441,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 11000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3609,7 +3453,6 @@
 			"file": "magicrodsdisplaya3e4.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 11000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3625,7 +3468,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 11000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3638,7 +3480,6 @@
 			"file": "magicrodsdisplayb953.html",
 			"sources": [ "Occult Adventures" ],
 			"cost": 11000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3654,7 +3495,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 11000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3670,7 +3510,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 11000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3683,7 +3522,6 @@
 			"file": "magicrodsdisplay98f6.html",
 			"sources": [ "Occult Adventures" ],
 			"cost": 11000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3696,7 +3534,6 @@
 			"file": "magicrodsdisplayf791.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 11000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3712,7 +3549,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 11000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3725,7 +3561,6 @@
 			"file": "magicrodsdisplayd80c.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 11000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3738,7 +3573,6 @@
 			"file": "magicrodsdisplayae67.html",
 			"sources": [ "Occult Adventures" ],
 			"cost": 11000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3754,7 +3588,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 11000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3770,7 +3603,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 11000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3783,7 +3615,6 @@
 			"file": "magicrodsdisplayb10f.html",
 			"sources": [ "Wardens of the Reborn Forge" ],
 			"cost": 11000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3796,7 +3627,6 @@
 			"file": "magicrodsdisplay872a.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 11000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3809,7 +3639,6 @@
 			"file": "magicrodsdisplayf865.html",
 			"sources": [ "Planar Adventures" ],
 			"cost": 11000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3822,7 +3651,6 @@
 			"file": "magicrodsdisplaya1d3.html",
 			"sources": [ "Blood of Shadows" ],
 			"cost": 12250,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3838,7 +3666,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 12250,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3851,7 +3678,6 @@
 			"file": "magicrodsdisplay9656.html",
 			"sources": [ "Aquatic Adventures" ],
 			"cost": 12250,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3864,7 +3690,6 @@
 			"file": "magicrodsdisplay530f.html",
 			"sources": [ "Aquatic Adventures" ],
 			"cost": 12250,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3880,7 +3705,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 14000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3903,7 +3727,6 @@
 			"file": "magicrodsdisplay1f73.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 14000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3926,7 +3749,6 @@
 			"file": "magicrodsdisplay5cfb.html",
 			"sources": [ "Animal Archive" ],
 			"cost": 14000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3952,7 +3774,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 14000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3975,7 +3796,6 @@
 			"file": "magicrodsdisplay406c.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 14000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -3998,7 +3818,6 @@
 			"file": "magicrodsdisplay6d06.html",
 			"sources": [ "Planar Adventures" ],
 			"cost": 24500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4011,7 +3830,6 @@
 			"file": "magicrodsdisplayad5d.html",
 			"sources": [ "Planar Adventures" ],
 			"cost": 24500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4024,7 +3842,6 @@
 			"file": "magicrodsdisplayb59a.html",
 			"sources": [ "Planar Adventures" ],
 			"cost": 24500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4040,7 +3857,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 24500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4053,7 +3869,6 @@
 			"file": "magicrodsdisplayd6d9.html",
 			"sources": [ "Planar Adventures" ],
 			"cost": 24500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4069,7 +3884,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 24500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4085,7 +3899,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 24500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4101,7 +3914,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 24500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4117,7 +3929,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 24500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4133,7 +3944,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 24500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4146,7 +3956,6 @@
 			"file": "magicrodsdisplayfc0b.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 24500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4162,7 +3971,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 24500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4175,7 +3983,6 @@
 			"file": "magicrodsdisplay7385.html",
 			"sources": [ "Occult Adventures" ],
 			"cost": 24500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4191,7 +3998,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 24500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4207,7 +4013,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 24500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4220,7 +4025,6 @@
 			"file": "magicrodsdisplayd303.html",
 			"sources": [ "Occult Adventures" ],
 			"cost": 24500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4233,7 +4037,6 @@
 			"file": "magicrodsdisplayc07d.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 24500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4249,7 +4052,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 24500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4262,7 +4064,6 @@
 			"file": "magicrodsdisplay6b36.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 24500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4275,7 +4076,6 @@
 			"file": "magicrodsdisplayadaa.html",
 			"sources": [ "Occult Adventures" ],
 			"cost": 24500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4291,7 +4091,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 24500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4307,7 +4106,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 24500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4320,7 +4118,6 @@
 			"file": "magicrodsdisplay9c32.html",
 			"sources": [ "Wardens of the Reborn Forge" ],
 			"cost": 24500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4333,7 +4130,6 @@
 			"file": "magicrodsdisplay75b5.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 24500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4346,7 +4142,6 @@
 			"file": "magicrodsdisplayf1f3.html",
 			"sources": [ "Planar Adventures" ],
 			"cost": 24500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4359,7 +4154,6 @@
 			"file": "magicrodsdisplay90fd.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 32500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4372,7 +4166,6 @@
 			"file": "magicrodsdisplayc3a5.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 32500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4388,7 +4181,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 32500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4401,7 +4193,6 @@
 			"file": "magicrodsdisplay32b6.html",
 			"sources": [ "Occult Adventures" ],
 			"cost": 32500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4417,7 +4208,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 32500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4433,7 +4223,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 32500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4446,7 +4235,6 @@
 			"file": "magicrodsdisplay641d.html",
 			"sources": [ "Blood of Shadows" ],
 			"cost": 32500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4459,7 +4247,6 @@
 			"file": "magicrodsdisplay493e.html",
 			"sources": [ "Planar Adventures" ],
 			"cost": 32500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4472,7 +4259,6 @@
 			"file": "magicrodsdisplay4298.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 32500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4485,7 +4271,6 @@
 			"file": "magicrodsdisplay9f2d.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 32500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4501,7 +4286,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 32500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4514,7 +4298,6 @@
 			"file": "magicrodsdisplay70c0.html",
 			"sources": [ "Occult Adventures" ],
 			"cost": 32500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4530,7 +4313,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 35000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4556,7 +4338,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 54000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4569,7 +4350,6 @@
 			"file": "magicrodsdisplayb4f6.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 54000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4582,7 +4362,6 @@
 			"file": "magicrodsdisplay9bbb.html",
 			"sources": [ "Animal Archive" ],
 			"cost": 54000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4598,7 +4377,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 54000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4611,7 +4389,6 @@
 			"file": "magicrodsdisplayaab9.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 54000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4624,7 +4401,6 @@
 			"file": "magicrodsdisplay9060.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 73000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4637,7 +4413,6 @@
 			"file": "magicrodsdisplay4746.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 73000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4653,7 +4428,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 73000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4666,7 +4440,6 @@
 			"file": "magicrodsdisplay531e.html",
 			"sources": [ "Occult Adventures" ],
 			"cost": 73000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4682,7 +4455,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 73000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4698,7 +4470,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 73000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4711,7 +4482,6 @@
 			"file": "magicrodsdisplay0f41.html",
 			"sources": [ "Blood of Shadows" ],
 			"cost": 73000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4724,7 +4494,6 @@
 			"file": "magicrodsdisplayeb52.html",
 			"sources": [ "Planar Adventures" ],
 			"cost": 73000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4737,7 +4506,6 @@
 			"file": "magicrodsdisplayf0f1.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 73000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4750,7 +4518,6 @@
 			"file": "magicrodsdisplay98c6.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 73000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4766,7 +4533,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 73000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4779,7 +4545,6 @@
 			"file": "magicrodsdisplaye868.html",
 			"sources": [ "Occult Adventures" ],
 			"cost": 73000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4795,7 +4560,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 75500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4811,7 +4575,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 121500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4824,7 +4587,6 @@
 			"file": "magicrodsdisplay7b21.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 121500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4837,7 +4599,6 @@
 			"file": "magicrodsdisplaydbcb.html",
 			"sources": [ "Animal Archive" ],
 			"cost": 121500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4853,7 +4614,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 121500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4866,7 +4626,6 @@
 			"file": "magicrodsdisplay0bdf.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 121500,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
@@ -4882,12 +4641,184 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 170000,
-			"category": "magic item",
 			"types": [
 				"rod"
 			],
 			"slot": "none",
 			"copyof": "Rod of Metamagic, Quicken (lesser)"
+		},
+		{
+			"name": "Lesser Rod That Should Not Be",
+			"display_name": "Rod That Should Not Be (Lesser)",
+			"file": "magicintelligentdisplaye7e2.html",
+			"sources": [ "Ultimate Equipment" ],
+			"cost": 12000,
+			"types": [
+				"rod",
+				"intelligent"
+			],
+			"slot": "none",
+			"intelligent": true,
+			"weight": 8,
+			"header": [
+				"Source [Ultimate Equipment pg. 359](source:Ultimate Equipment)",
+				"Aura moderate abjuration CL 9th",
+				"Slot none; Price 12,000 gp; Weight 8 lbs."
+			],
+			"statistics": [
+				"Alignment chaotic evil; Ego 3",
+				"Senses 30 ft.",
+				"Int 5, Wis 10, Cha 8",
+				"Communication none (none)"
+			],
+			"description": [
+				"This rod is a fusion of magic and the limb of a dangerous, nearly mindless aberration. This rod features a single writhing tentacle at one end. The rod contains the mind of a living creature, but it does not have the ability to communicate via speech, empathy, or telepathy. If allowed, the rod attempts to attack creatures within reach, and must be stowed in a bag or backpack when the wielder is sleeping to keep it from grasping at the wielder or other creatures.",
+				"On command, the tentacle attacks an adjacent creature as a melee touch attack (attack bonus +8). On a successful hit, the tentacle deals 2d8 points of acid damage and the target must succeed at a DC 14 Will saving throw or be paralyzed for 1 round. This paralysis is a mind-affecting fear effect.",
+				"The greater version of this rod has four tentacles, which attack the same target simultaneously on command (attack bonus +12). The tentacles collectively deal 4d8 points of acid damage and the target must succeed at a DC 18 Will saving throw or be paralyzed for 1 round. This paralysis is a mindaffecting fear effect. The greater rods have a dedicated purpose: serve a bloodthirsty master."
+			],
+			"construction": "summon monster III (Lesser), summon monster V (Greater); Price 6,000 gp (Lesser), 20,000 gp (Greater)"
+		},
+		{
+			"name": "Greater Rod That Should Not Be",
+			"display_name": "Rod That Should Not Be (Greater)",
+			"file": "magicintelligentdisplayc16e.html",
+			"sources": [ "Ultimate Equipment" ],
+			"cost": 40000,
+			"types": [
+				"rod",
+				"intelligent"
+			],
+			"slot": "none",
+			"intelligent": true,
+			"weight": 8,
+			"header": [
+				"Source [Ultimate Equipment pg. 359](source:Ultimate Equipment)",
+				"Aura strong abjuration CL 16th",
+				"Slot none; Price 40,000 gp; Weight 8 lbs."
+			],
+			"statistics": [
+				"Alignment chaotic neutral; Ego 6",
+				"Senses 120 ft., darkvision",
+				"Int 10, Wis 10, Cha 8",
+				"Communication telepathy (Aklo)"
+			],
+			"description": [
+				"This rod is a fusion of magic and the limb of a dangerous, nearly mindless aberration. This rod features a single writhing tentacle at one end. The rod contains the mind of a living creature, but it does not have the ability to communicate via speech, empathy, or telepathy. If allowed, the rod attempts to attack creatures within reach, and must be stowed in a bag or backpack when the wielder is sleeping to keep it from grasping at the wielder or other creatures.",
+				"On command, the tentacle attacks an adjacent creature as a melee touch attack (attack bonus +8). On a successful hit, the tentacle deals 2d8 points of acid damage and the target must succeed at a DC 14 Will saving throw or be paralyzed for 1 round. This paralysis is a mind-affecting fear effect.",
+				"The greater version of this rod has four tentacles, which attack the same target simultaneously on command (attack bonus +12). The tentacles collectively deal 4d8 points of acid damage and the target must succeed at a DC 18 Will saving throw or be paralyzed for 1 round. This paralysis is a mindaffecting fear effect. The greater rods have a dedicated purpose: serve a bloodthirsty master."
+			],
+			"construction": "summon monster III (Lesser), summon monster V (Greater); Price 6,000 gp (Lesser), 20,000 gp (Greater)"
+		},
+		{
+			"name": "Harbinger Rod",
+			"file": "magicintelligentdisplay1a73.html",
+			"sources": [ "Ultimate Equipment" ],
+			"cost": 44200,
+			"types": [
+				"rod",
+				"intelligent"
+			],
+			"slot": "none",
+			"intelligent": true,
+			"weight": 5,
+			"header": [
+				"Source [Ultimate Equipment pg. 357](source:Ultimate Equipment)",
+				"Aura moderate conjuration CL 8th",
+				"Price 44,200 gp; Weight 5 lbs."
+			],
+			"statistics": [
+				"Alignment lawful good; Ego 10",
+				"Senses 30 ft.",
+				"Int 10, Wis 13, Cha 12",
+				"Communication telepathy (Celestial; truespeech)"
+			],
+			"description": [
+				"This copper rod is made up of constantly grinding gearlike parts. It is believed that these rods may be some alternate or lesser form of harbinger archons (Bestiary 3 18). T he rod can take may useful forms, and after 24 hours in the possession of a lawful good creature, the wielder can command it to take the form of any tool, including a chime of opening. Very intelligent and witty, these rods communicate with their wielders in truespeech (Bestiary 310; see archon subtype) or Celestial. Furthermore, the rod has the following powers. ",
+				"- Three times per day, on command, the rod's wielder can use dimension door, as the spell.",
+				"- Once per day, on command, the rod can emit a blast of energy that deals 2d6 points of force damage to creatures adjacent to the wielder. A successful DC 12 Reflex save halves the damage. The wielder can choose to omit any target from this blast that it desires, damaging only the foes it chooses.",
+				"The rod's purpose is to destroy or foil the plans of chaotic evil creatures."
+			],
+			"construction": "Craft Rod, dimension door, knock, explosive runes, creator must be lawful good; Price 22,100 gp"
+		},
+		{
+			"name": "Metamagician's Apprentice",
+			"file": "magicintelligentdisplay52de.html",
+			"sources": [ "Ultimate Equipment" ],
+			"cost": 93605,
+			"types": [
+				"rod",
+				"intelligent"
+			],
+			"slot": "none",
+			"intelligent": true,
+			"weight": 5,
+			"header": [
+				"Source [Ultimate Equipment pg. 358](source:Ultimate Equipment)",
+				"Aura strong divination CL 18th",
+				"Slot none; Price 93,605 gp; Weight 5 lbs."
+			],
+			"statistics": [
+				"Alignment lawful neutral; Ego 20",
+				"Senses 120 ft.",
+				"Int 18, Wis 14, Cha 10",
+				"Communication telepathy (Common and eight other languages)"
+			],
+			"description": [
+				"This slender rod is usually capped with a metal knob resembling the face of a young male or female mage. The first rod of this type was created by a ruthless cabal of wizards and sorcerers who transferred the minds of their most promising apprentices into a set of rods for the sake of greater power.",
+				"The bound apprentices' intellects have no free will but retain their rebellious imaginations. Under normal circumstances, the rod must do what its wielder commands, but it can make telepathic, respectful complaints about how unhappy it is to be a group of living minds imprisoned in an inanimate object-though few wielders care. While no good creature would create a metamagician's apprentice, he or she can still wield one.",
+				"The rod can be used as a +1 light mace. On command, it transforms into a +1/+1 quarterstaff or back to its rod form.",
+				"A metamagician's apprentice knows four metamagic feats (limited to feats that use a spell slot one or two levels higher than the spell's actual level, such as Silent Spell and Empower Spell) and acts as a greater metamagic rod for those feats. The rod can only apply one metamagic feat to a spell at a time, though (like a metamagic rod) the wielder can use his own feats and the rod's on the same spell.",
+				"The rod can use read magic and detect magic at will. The metamagician's apprentice is never overwhelmed by powerful magic auras. These abilities do not trigger effects that require reading to activate (such as the explosive runes spell). The rod grants the wielder a +2 competence bonus on three Knowledge skills; these skills are determined when the rod is created (and require the apprentice to have ranks in that skill) and can never be changed. Knowledge (arcana) is almost always one of these three skills.",
+				"A typical rod of this type is lawful neutral, though rods with other alignments exist.",
+				"If a metamagician's apprentice becomes dominant after a personality conflict, it insists the wearer find a way to free its mind from the object or destroy the item so its mind can be at peace."
+			],
+			"construction": "Craft Rod, the four metamagic feats the rod is to know; Price 47,105 gp"
+		},
+		{
+			"name": "Rod of Arson",
+			"file": "magiccurseddisplay5d6b.html",
+			"sources": [
+				"Ultimate Equipment",
+				"Advanced Player's Guide"
+			],
+			"types": [
+				"cursed",
+				"rod"
+			],
+			"slot": "none",
+			"weight": 5,
+			"cursed": true,
+			"header": [
+				"Source [Ultimate Equipment pg. 350](source:Ultimate Equipment), [Advanced Player's Guide pg. 311](source:Advanced Player's Guide)",
+				"Aura strong evocation CL 12th",
+				"Slot none; Weight 5 lbs."
+			],
+			"description": [
+				"All tests indicate that this hollow metal tube is a rod of flame extinguishing until its owner uses it to extinguish or suppress a fire in a combat or other dangerous situation. Once she does, she discovers that rather than quenching the flame, the rod causes the flame to enter her body. This flame persists inside of her for the next 24 hours, causing minor discomfort and giving her the sickened condition, but causing no visible injury. However, when the wielder is adjacent to or within a flammable object or structure, she feels inclined to set the object ablaze, using any means at her disposal. Each round the wielder resists this urge, she takes 1d6 points of fire damage as the flame within her surges and roils. After 1 minute of this, she must make a DC 15 Will save or succumb to the temptation; if she saves, the urge passes, the internal fire stops harming her, and she can interact normally with the flammable target thereafter.",
+				"Once the curse reveals itself, the owner must make a DC 15 Will saving throw to avoid using the item to try and extinguish or suppress any fire she encounters which she herself did not start. She cannot use the rod against fires that she personally started. Successful curse-breaking magic allows the wielder to get rid of the rod and harmlessly dissipates any fire persisting inside her from the action of the rod."
+			],
+			"construction": "Requirements rod of flame extinguishing; Cost -"
+		},
+		{
+			"name": "Rod of Foiled Magic",
+			"file": "magiccurseddisplay2eff.html",
+			"sources": [ "Ultimate Equipment" ],
+			"types": [
+				"cursed",
+				"rod"
+			],
+			"slot": "none",
+			"weight": 5,
+			"cursed": true,
+			"header": [
+				"Source [Ultimate Equipment pg. 350](source:Ultimate Equipment)",
+				"Aura strong (no school) CL 17th",
+				"Slot none; Weight 5 lbs."
+			],
+			"description": [
+				"This rod is similar in appearance to a metamagic rod. Once a creature picks up such a rod, it cannot be discarded without use of a remove curse spell or similar magic. Each time the wielder casts a spell, he takes the rod of foiled magic in hand and treats the caster level of the spell as 2 levels lower. If this would reduce the caster level to 0 or lower, than the caster has only a 50% chance of casting the spell (any chance of arcane spell failure is added to this percentile chance), but if he is able to cast the spell, the spell has a caster level of 1st."
+			],
+			"construction": "Requirements metamagic rod; Cost -"
 		}
 	]
 }

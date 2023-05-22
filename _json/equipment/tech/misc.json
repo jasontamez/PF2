@@ -1,4 +1,5 @@
 {
+	"category": "magic item",
 	"description": [
 		"Most of the technological treasures that await discovery in Numeria fall into this catchall category. Each piece of technological gear detailed here has a full description, including a set of abbreviated statistics. This information is organized as follows.",
 		"**Price:** This value is the cost in gold pieces for the PCs to purchase the item-if it's available for sale. As with magic items, a technological item can be sold by PCs for half of this amount. Slot: This is the part of the body the item must be worn on, if any. If the item's slot matches one of the existing magic item slots, wearing the item prevents the user from wearing or gaining the benefit from a magic item in the same slot.",
@@ -15,7 +16,6 @@
 			"display_name": "access card (black)",
 			"file": "equipmenttechmiscdisplay7e52.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"access",
@@ -46,7 +46,6 @@
 			"display_name": "access card (blue)",
 			"file": "equipmenttechmiscdisplay9dcb.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"access",
@@ -69,7 +68,6 @@
 			"display_name": "access card (brown)",
 			"file": "equipmenttechmiscdisplay7552.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"access",
@@ -92,7 +90,6 @@
 			"display_name": "access card (gray)",
 			"file": "equipmenttechmiscdisplayda40.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"access",
@@ -115,7 +112,6 @@
 			"display_name": "access card (green)",
 			"file": "equipmenttechmiscdisplay40c3.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"access",
@@ -138,7 +134,6 @@
 			"display_name": "access card (orange)",
 			"file": "equipmenttechmiscdisplay1ef3.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"access",
@@ -161,7 +156,6 @@
 			"display_name": "access card (prismatic)",
 			"file": "equipmenttechmiscdisplay9ec2.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"access",
@@ -184,7 +178,6 @@
 			"display_name": "access card (red)",
 			"file": "equipmenttechmiscdisplay6a1f.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"access",
@@ -207,7 +200,6 @@
 			"display_name": "access card (white)",
 			"file": "equipmenttechmiscdisplay0e2e.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"access",
@@ -230,7 +222,6 @@
 			"display_name": "e-pick (black)",
 			"file": "equipmenttechmiscdisplay3153.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"access",
@@ -271,7 +262,6 @@
 			"display_name": "e-pick (blue)",
 			"file": "equipmenttechmiscdisplay2cf6.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"access",
@@ -294,7 +284,6 @@
 			"display_name": "e-pick (brown)",
 			"file": "equipmenttechmiscdisplay1a99.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"access",
@@ -317,7 +306,6 @@
 			"display_name": "e-pick (gray)",
 			"file": "equipmenttechmiscdisplay6bee.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"access",
@@ -340,7 +328,6 @@
 			"display_name": "e-pick (green)",
 			"file": "equipmenttechmiscdisplayff4a.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"access",
@@ -363,7 +350,6 @@
 			"display_name": "e-pick (orange)",
 			"file": "equipmenttechmiscdisplayc057.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"access",
@@ -386,7 +372,6 @@
 			"display_name": "e-pick (prismatic)",
 			"file": "equipmenttechmiscdisplay31eb.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"access",
@@ -409,7 +394,6 @@
 			"display_name": "e-pick (red)",
 			"file": "equipmenttechmiscdisplayaf04.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"access",
@@ -432,7 +416,6 @@
 			"display_name": "e-pick (white)",
 			"file": "equipmenttechmiscdisplayc95e.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"access",
@@ -455,7 +438,6 @@
 			"display_name": "lock coder (black)",
 			"file": "equipmenttechmiscdisplay8161.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"access",
@@ -496,7 +478,6 @@
 			"display_name": "lock coder (blue)",
 			"file": "equipmenttechmiscdisplay3a1d.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"access",
@@ -519,7 +500,6 @@
 			"display_name": "lock coder (brown)",
 			"file": "equipmenttechmiscdisplayebf2.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"access",
@@ -542,7 +522,6 @@
 			"display_name": "lock coder (gray)",
 			"file": "equipmenttechmiscdisplay7804.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"access",
@@ -565,7 +544,6 @@
 			"display_name": "lock coder (green)",
 			"file": "equipmenttechmiscdisplay963f.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"access",
@@ -588,7 +566,6 @@
 			"display_name": "lock coder (orange)",
 			"file": "equipmenttechmiscdisplayd310.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"access",
@@ -611,7 +588,6 @@
 			"display_name": "lock coder (prismatic)",
 			"file": "equipmenttechmiscdisplaye6f2.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"access",
@@ -634,7 +610,6 @@
 			"display_name": "lock coder (red)",
 			"file": "equipmenttechmiscdisplayd178.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"access",
@@ -657,7 +632,6 @@
 			"display_name": "lock coder (white)",
 			"file": "equipmenttechmiscdisplayafb1.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"access",
@@ -679,7 +653,6 @@
 			"name": "battery",
 			"file": "equipmenttechmiscdisplayafc2.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"batteries",
@@ -708,7 +681,6 @@
 			"name": "power cable",
 			"file": "equipmenttechmiscdisplay8c48.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"batteries",
@@ -736,7 +708,6 @@
 			"name": "power receiver",
 			"file": "equipmenttechmiscdisplay1bab.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"batteries",
@@ -764,7 +735,6 @@
 			"name": "cylex",
 			"file": "equipmenttechmiscdisplayb5a2.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"grenades",
@@ -792,7 +762,6 @@
 			"name": "detonator",
 			"file": "equipmenttechmiscdisplay100b.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"grenades",
@@ -821,7 +790,6 @@
 			"display_name": "grenade (arc grenade)",
 			"file": "equipmenttechmiscdisplayd920.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"grenades",
@@ -867,7 +835,6 @@
 			"display_name": "grenade (atom grenade)",
 			"file": "equipmenttechmiscdisplayec3d.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"grenades",
@@ -890,7 +857,6 @@
 			"display_name": "grenade (bang grenade)",
 			"file": "equipmenttechmiscdisplay53da.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"grenades",
@@ -913,7 +879,6 @@
 			"display_name": "grenade (bio grenade)",
 			"file": "equipmenttechmiscdisplay8839.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"grenades",
@@ -936,7 +901,6 @@
 			"display_name": "grenade (concussion grenade)",
 			"file": "equipmenttechmiscdisplay2451.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"grenades",
@@ -959,7 +923,6 @@
 			"display_name": "grenade (emp grenade)",
 			"file": "equipmenttechmiscdisplay6e76.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"grenades",
@@ -982,7 +945,6 @@
 			"display_name": "grenade (flash grenade)",
 			"file": "equipmenttechmiscdisplay2466.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"grenades",
@@ -1005,7 +967,6 @@
 			"display_name": "grenade (flechette grenade)",
 			"file": "equipmenttechmiscdisplay1e3e.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"grenades",
@@ -1028,7 +989,6 @@
 			"display_name": "grenade (fragmentation grenade)",
 			"file": "equipmenttechmiscdisplayf70a.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"grenades",
@@ -1051,7 +1011,6 @@
 			"display_name": "grenade (gas grenade)",
 			"file": "equipmenttechmiscdisplay6a6f.html",
 			"sources": [ "Pathfinder #86: Lords of Rust" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"grenades",
@@ -1080,7 +1039,6 @@
 			"display_name": "grenade (gravity grenade)",
 			"file": "equipmenttechmiscdisplay56b1.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"grenades",
@@ -1103,7 +1061,6 @@
 			"display_name": "grenade (inferno grenade)",
 			"file": "equipmenttechmiscdisplay1059.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"grenades",
@@ -1126,7 +1083,6 @@
 			"display_name": "grenade (plasma grenade)",
 			"file": "equipmenttechmiscdisplay3d2e.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"grenades",
@@ -1149,7 +1105,6 @@
 			"display_name": "grenade (soft grenade)",
 			"file": "equipmenttechmiscdisplay00db.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"grenades",
@@ -1172,7 +1127,6 @@
 			"display_name": "grenade (sonic grenade)",
 			"file": "equipmenttechmiscdisplay8928.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"grenades",
@@ -1195,7 +1149,6 @@
 			"display_name": "grenade (zero grenade)",
 			"file": "equipmenttechmiscdisplay032a.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"grenades",
@@ -1217,7 +1170,6 @@
 			"name": "chemalyzer",
 			"file": "equipmenttechmiscdisplay121d.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"implants",
@@ -1246,7 +1198,6 @@
 			"name": "clonepod",
 			"file": "equipmenttechmiscdisplay0f1d.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"implants",
@@ -1279,7 +1230,6 @@
 			"display_name": "cortex gun (mark I)",
 			"file": "equipmenttechmiscdisplay38af.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"implants",
@@ -1321,7 +1271,6 @@
 			"display_name": "cortex gun (mark II)",
 			"file": "equipmenttechmiscdisplayb4a3.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"implants",
@@ -1345,7 +1294,6 @@
 			"display_name": "cortex gun (mark III)",
 			"file": "equipmenttechmiscdisplayfc42.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"implants",
@@ -1369,7 +1317,6 @@
 			"display_name": "cortex gun (mark IV)",
 			"file": "equipmenttechmiscdisplay5ec6.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"implants",
@@ -1393,7 +1340,6 @@
 			"display_name": "cortex gun (mark V)",
 			"file": "equipmenttechmiscdisplay6c59.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"implants",
@@ -1416,7 +1362,6 @@
 			"name": "envoy's mouthpiece",
 			"file": "equipmenttechmiscdisplay6a24.html",
 			"sources": [ "Pathfinder #86: Lords of Rust" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"implants",
@@ -1446,7 +1391,6 @@
 			"name": "filter mask",
 			"file": "equipmenttechmiscdisplayfa88.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"implants",
@@ -1475,7 +1419,6 @@
 			"name": "goo tube",
 			"file": "equipmenttechmiscdisplaye618.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"implants",
@@ -1504,7 +1447,6 @@
 			"name": "medlance",
 			"file": "equipmenttechmiscdisplay7286.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"implants",
@@ -1533,7 +1475,6 @@
 			"name": "mindmelder",
 			"file": "equipmenttechmiscdisplay478c.html",
 			"sources": [ "Pathfinder #90: The Divinity Drive" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"implants",
@@ -1562,7 +1503,6 @@
 			"name": "nanite canister",
 			"file": "equipmenttechmiscdisplay1a6a.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"implants",
@@ -1592,7 +1532,6 @@
 			"display_name": "nanite hypogun (black)",
 			"file": "equipmenttechmiscdisplay80a9.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"implants",
@@ -1635,7 +1574,6 @@
 			"display_name": "nanite hypogun (blue)",
 			"file": "equipmenttechmiscdisplay8dd1.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"implants",
@@ -1659,7 +1597,6 @@
 			"display_name": "nanite hypogun (brown)",
 			"file": "equipmenttechmiscdisplayaf93.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"implants",
@@ -1683,7 +1620,6 @@
 			"display_name": "nanite hypogun (gray)",
 			"file": "equipmenttechmiscdisplayd944.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"implants",
@@ -1707,7 +1643,6 @@
 			"display_name": "nanite hypogun (green)",
 			"file": "equipmenttechmiscdisplayb4db.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"implants",
@@ -1731,7 +1666,6 @@
 			"display_name": "nanite hypogun (orange)",
 			"file": "equipmenttechmiscdisplay4d5c.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"implants",
@@ -1755,7 +1689,6 @@
 			"display_name": "nanite hypogun (prismatic)",
 			"file": "equipmenttechmiscdisplayacf8.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"implants",
@@ -1779,7 +1712,6 @@
 			"display_name": "nanite hypogun (red)",
 			"file": "equipmenttechmiscdisplaye17b.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"implants",
@@ -1803,7 +1735,6 @@
 			"display_name": "nanite hypogun (white)",
 			"file": "equipmenttechmiscdisplaya775.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"implants",
@@ -1826,7 +1757,6 @@
 			"name": "neurocam",
 			"file": "equipmenttechmiscdisplay695e.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"implants",
@@ -1857,7 +1787,6 @@
 			"name": "nutrient training node",
 			"file": "equipmenttechmiscdisplay9fbf.html",
 			"sources": [ "Pathfinder #87: The Choking Tower" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"implants",
@@ -1888,7 +1817,6 @@
 			"name": "proximity helmet",
 			"file": "equipmenttechmiscdisplay28c8.html",
 			"sources": [ "Pathfinder #85: Fires of Creation" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"implants",
@@ -1918,7 +1846,6 @@
 			"display_name": "skillchip (mark I)",
 			"file": "equipmenttechmiscdisplayb8f7.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"implants",
@@ -1957,7 +1884,6 @@
 			"display_name": "skillchip (mark II)",
 			"file": "equipmenttechmiscdisplay2d96.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"implants",
@@ -1981,7 +1907,6 @@
 			"display_name": "skillchip (mark III)",
 			"file": "equipmenttechmiscdisplay27b9.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"implants",
@@ -2005,7 +1930,6 @@
 			"display_name": "skillchip (mark IV)",
 			"file": "equipmenttechmiscdisplayba28.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"implants",
@@ -2029,7 +1953,6 @@
 			"display_name": "skillchip (mark V)",
 			"file": "equipmenttechmiscdisplay4e05.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"implants",
@@ -2052,7 +1975,6 @@
 			"name": "trauma pack",
 			"file": "equipmenttechmiscdisplayee8f.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"implants",
@@ -2081,7 +2003,6 @@
 			"name": "trauma pack plus",
 			"file": "equipmenttechmiscdisplayec3c.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"implants",
@@ -2111,7 +2032,6 @@
 			"display_name": "veemod (black)",
 			"file": "equipmenttechmiscdisplayafcf.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"implants",
@@ -2162,7 +2082,6 @@
 			"display_name": "veemod (blue)",
 			"file": "equipmenttechmiscdisplaye14d.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"implants",
@@ -2186,7 +2105,6 @@
 			"display_name": "veemod (brown)",
 			"file": "equipmenttechmiscdisplay82b3.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"implants",
@@ -2210,7 +2128,6 @@
 			"display_name": "veemod (gray)",
 			"file": "equipmenttechmiscdisplayf5b0.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"implants",
@@ -2234,7 +2151,6 @@
 			"display_name": "veemod (green)",
 			"file": "equipmenttechmiscdisplay63cc.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"implants",
@@ -2258,7 +2174,6 @@
 			"display_name": "veemod (orange)",
 			"file": "equipmenttechmiscdisplay2d87.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"implants",
@@ -2282,7 +2197,6 @@
 			"display_name": "veemod (prismatic)",
 			"file": "equipmenttechmiscdisplay6c32.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"implants",
@@ -2306,7 +2220,6 @@
 			"display_name": "veemod (red)",
 			"file": "equipmenttechmiscdisplay40df.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"implants",
@@ -2330,7 +2243,6 @@
 			"display_name": "veemod (white)",
 			"file": "equipmenttechmiscdisplayd496.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"implants",
@@ -2353,7 +2265,6 @@
 			"name": "veemod goggles",
 			"file": "equipmenttechmiscdisplay84c6.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"implants",
@@ -2383,7 +2294,6 @@
 			"name": "camera",
 			"file": "equipmenttechmiscdisplay5f0d.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"tools",
@@ -2412,7 +2322,6 @@
 			"display_name": "chipfinder (black)",
 			"file": "equipmenttechmiscdisplay9a06.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"tools",
@@ -2453,7 +2362,6 @@
 			"display_name": "chipfinder (blue)",
 			"file": "equipmenttechmiscdisplay7f27.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"tools",
@@ -2476,7 +2384,6 @@
 			"display_name": "chipfinder (brown)",
 			"file": "equipmenttechmiscdisplay560a.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"tools",
@@ -2499,7 +2406,6 @@
 			"display_name": "chipfinder (gray)",
 			"file": "equipmenttechmiscdisplay2894.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"tools",
@@ -2522,7 +2428,6 @@
 			"display_name": "chipfinder (green)",
 			"file": "equipmenttechmiscdisplay4591.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"tools",
@@ -2545,7 +2450,6 @@
 			"display_name": "chipfinder (orange)",
 			"file": "equipmenttechmiscdisplayea48.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"tools",
@@ -2568,7 +2472,6 @@
 			"display_name": "chipfinder (prismatic)",
 			"file": "equipmenttechmiscdisplay9619.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"tools",
@@ -2591,7 +2494,6 @@
 			"display_name": "chipfinder (red)",
 			"file": "equipmenttechmiscdisplayfb10.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"tools",
@@ -2614,7 +2516,6 @@
 			"display_name": "chipfinder (white)",
 			"file": "equipmenttechmiscdisplayf797.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"tools",
@@ -2636,7 +2537,6 @@
 			"name": "commset",
 			"file": "equipmenttechmiscdisplay3cb6.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"tools",
@@ -2664,7 +2564,6 @@
 			"name": "emergency beacon",
 			"file": "equipmenttechmiscdisplay6690.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"tools",
@@ -2692,7 +2591,6 @@
 			"name": "emergency raft",
 			"file": "equipmenttechmiscdisplaydd1f.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"tools",
@@ -2720,7 +2618,6 @@
 			"name": "emergency shelter",
 			"file": "equipmenttechmiscdisplay669d.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"tools",
@@ -2748,7 +2645,6 @@
 			"name": "fire extinguisher",
 			"file": "equipmenttechmiscdisplayaddd.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"tools",
@@ -2777,7 +2673,6 @@
 			"name": "flashlight",
 			"file": "equipmenttechmiscdisplayc02a.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"tools",
@@ -2806,7 +2701,6 @@
 			"display_name": "force field (black)",
 			"file": "equipmenttechmiscdisplayab47.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"tools",
@@ -2849,7 +2743,6 @@
 			"display_name": "force field (blue)",
 			"file": "equipmenttechmiscdisplayad48.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"tools",
@@ -2872,7 +2765,6 @@
 			"display_name": "force field (brown)",
 			"file": "equipmenttechmiscdisplay73f6.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"tools",
@@ -2895,7 +2787,6 @@
 			"display_name": "force field (gray)",
 			"file": "equipmenttechmiscdisplayc4eb.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"tools",
@@ -2918,7 +2809,6 @@
 			"display_name": "force field (green)",
 			"file": "equipmenttechmiscdisplay6eb8.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"tools",
@@ -2941,7 +2831,6 @@
 			"display_name": "force field (orange)",
 			"file": "equipmenttechmiscdisplay1b73.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"tools",
@@ -2964,7 +2853,6 @@
 			"display_name": "force field (prismatic)",
 			"file": "equipmenttechmiscdisplay0f98.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"tools",
@@ -2987,7 +2875,6 @@
 			"display_name": "force field (red)",
 			"file": "equipmenttechmiscdisplay42cc.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"tools",
@@ -3010,7 +2897,6 @@
 			"display_name": "force field (white)",
 			"file": "equipmenttechmiscdisplayda22.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"tools",
@@ -3032,7 +2918,6 @@
 			"name": "gravity clip",
 			"file": "equipmenttechmiscdisplay4094.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"tools",
@@ -3060,7 +2945,6 @@
 			"name": "grip of death",
 			"file": "equipmenttechmiscdisplay0276.html",
 			"sources": [ "Pathfinder #88: Valley of the Brain Collectors" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"tools",
@@ -3089,7 +2973,6 @@
 			"name": "grippers",
 			"file": "equipmenttechmiscdisplay4293.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"tools",
@@ -3118,7 +3001,6 @@
 			"display_name": "hologram generator (black)",
 			"file": "equipmenttechmiscdisplay74ea.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"tools",
@@ -3171,7 +3053,6 @@
 			"display_name": "hologram generator (blue)",
 			"file": "equipmenttechmiscdisplay9d67.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"tools",
@@ -3194,7 +3075,6 @@
 			"display_name": "hologram generator (brown)",
 			"file": "equipmenttechmiscdisplaycc24.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"tools",
@@ -3217,7 +3097,6 @@
 			"display_name": "hologram generator (gray)",
 			"file": "equipmenttechmiscdisplay8fa0.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"tools",
@@ -3240,7 +3119,6 @@
 			"display_name": "hologram generator (green)",
 			"file": "equipmenttechmiscdisplaye330.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"tools",
@@ -3263,7 +3141,6 @@
 			"display_name": "hologram generator (orange)",
 			"file": "equipmenttechmiscdisplay62ba.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"tools",
@@ -3286,7 +3163,6 @@
 			"display_name": "hologram generator (prismatic)",
 			"file": "equipmenttechmiscdisplay959f.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"tools",
@@ -3309,7 +3185,6 @@
 			"display_name": "hologram generator (red)",
 			"file": "equipmenttechmiscdisplay0c62.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"tools",
@@ -3332,7 +3207,6 @@
 			"display_name": "hologram generator (white)",
 			"file": "equipmenttechmiscdisplay33cb.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"tools",
@@ -3354,7 +3228,6 @@
 			"name": "inertial dampening belt",
 			"file": "equipmenttechmiscdisplay0495.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"tools",
@@ -3382,7 +3255,6 @@
 			"name": "ion tape",
 			"file": "equipmenttechmiscdisplayf13d.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"tools",
@@ -3410,7 +3282,6 @@
 			"name": "jetpack",
 			"file": "equipmenttechmiscdisplay4f91.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"tools",
@@ -3440,7 +3311,6 @@
 			"name": "laser sight",
 			"file": "equipmenttechmiscdisplayb526.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"tools",
@@ -3468,7 +3338,6 @@
 			"name": "lighter",
 			"file": "equipmenttechmiscdisplay1efd.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"tools",
@@ -3496,7 +3365,6 @@
 			"name": "magboots",
 			"file": "equipmenttechmiscdisplayd23c.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"tools",
@@ -3524,7 +3392,6 @@
 			"name": "motion tracker",
 			"file": "equipmenttechmiscdisplay5d76.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"tools",
@@ -3552,7 +3419,6 @@
 			"name": "quantum box",
 			"file": "equipmenttechmiscdisplay1aac.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"tools",
@@ -3580,7 +3446,6 @@
 			"name": "radiation detector",
 			"file": "equipmenttechmiscdisplay84a7.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"tools",
@@ -3608,7 +3473,6 @@
 			"name": "robojack",
 			"file": "equipmenttechmiscdisplay1fd6.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"tools",
@@ -3636,7 +3500,6 @@
 			"name": "signal booster",
 			"file": "equipmenttechmiscdisplay4f99.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"tools",
@@ -3664,7 +3527,6 @@
 			"name": "signal jammer",
 			"file": "equipmenttechmiscdisplay880a.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"tools",
@@ -3692,7 +3554,6 @@
 			"name": "tracker chip",
 			"file": "equipmenttechmiscdisplaya6c3.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"tools",
@@ -3721,7 +3582,6 @@
 			"name": "zipstick",
 			"file": "equipmenttechmiscdisplayd447.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"tools",

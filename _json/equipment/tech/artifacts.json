@@ -1,4 +1,5 @@
 {
+	"category": "artifact",
 	"description": [
 		"In the case of technological items, artifact status refers to an item that is beyond the means of anyone on Golarion to create or replicate, as well as beyond conventional measures of value. Unlike magical artifacts, technological artifacts can be destroyed just as other items could, and indeed may be quite fragile."
 	],
@@ -8,10 +9,8 @@
 			"file": "equipmenttechartifactsdisplaye869.html",
 			"sources": [ "Pathfinder #90: The Divinity Drive" ],
 			"slot": "arms",
-			"category": "magic item",
 			"types": [
 				"tech",
-				"artifact",
 				"cybertech"
 			],
 			"weight": 28,
@@ -36,10 +35,8 @@
 			"name": "autodoc",
 			"file": "equipmenttechartifactsdisplay3f4e.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
-				"tech",
-				"artifact"
+				"tech"
 			],
 			"slot": "none",
 			"weight": 1200,
@@ -71,10 +68,9 @@
 			"display_name": "beam cannon (gravity cannon)",
 			"file": "equipmenttechartifactsdisplaycd6b.html",
 			"sources": [ "Pathfinder #89: Palace of Fallen Stars" ],
-			"category": "weapon",
 			"types": [
 				"tech",
-				"artifact",
+				"weapon",
 				"firearm",
 				"two-handed",
 				"heavy weaponry"
@@ -113,10 +109,8 @@
 			"name": "compact ai core",
 			"file": "equipmenttechartifactsdisplay7649.html",
 			"sources": [ "Pathfinder #88: Valley of the Brain Collectors" ],
-			"category": "magic item",
 			"types": [
-				"tech",
-				"artifact"
+				"tech"
 			],
 			"slot": "none",
 			"weight": 0,
@@ -141,10 +135,8 @@
 			"name": "divinity drive",
 			"file": "equipmenttechartifactsdisplayee89.html",
 			"sources": [ "Pathfinder #90: The Divinity Drive" ],
-			"category": "magic item",
 			"types": [
-				"tech",
-				"artifact"
+				"tech"
 			],
 			"slot": "none",
 			"weight": 0,
@@ -174,10 +166,8 @@
 			"name": "extinction wave device",
 			"file": "equipmenttechartifactsdisplay1680.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
-				"tech",
-				"artifact"
+				"tech"
 			],
 			"slot": "none",
 			"weight": 0,
@@ -197,10 +187,8 @@
 			"display_name": "memory facet (aggression, ego, inhibitor)",
 			"file": "equipmenttechartifactsdisplay03d9.html",
 			"sources": [ "Pathfinder #86: Lords of Rust" ],
-			"category": "magic item",
 			"types": [
-				"tech",
-				"artifact"
+				"tech"
 			],
 			"slot": "none",
 			"weight": 0,
@@ -224,10 +212,8 @@
 			"display_name": "memory facet (compassion, ingenuity)",
 			"file": "equipmenttechartifactsdisplay9ea7.html",
 			"sources": [ "Pathfinder #88: Valley of the Brain Collectors" ],
-			"category": "magic item",
 			"types": [
-				"tech",
-				"artifact"
+				"tech"
 			],
 			"slot": "none",
 			"weight": 0,
@@ -248,10 +234,8 @@
 			"display_name": "memory facet (creativity, cruelty, instinct, intuition, logic, psyche)",
 			"file": "equipmenttechartifactsdisplay18d4.html",
 			"sources": [ "Pathfinder #90: The Divinity Drive" ],
-			"category": "magic item",
 			"types": [
-				"tech",
-				"artifact"
+				"tech"
 			],
 			"slot": "none",
 			"weight": 0,
@@ -276,10 +260,8 @@
 			"display_name": "memory facet (discipline, entropy, guile)",
 			"file": "equipmenttechartifactsdisplay1906.html",
 			"sources": [ "Pathfinder #89: Palace of Fallen Stars" ],
-			"category": "magic item",
 			"types": [
-				"tech",
-				"artifact"
+				"tech"
 			],
 			"slot": "none",
 			"weight": 0,
@@ -300,10 +282,8 @@
 			"name": "power relay",
 			"file": "equipmenttechartifactsdisplay34e6.html",
 			"sources": [ "Pathfinder #85: Fires of Creation" ],
-			"category": "magic item",
 			"types": [
-				"tech",
-				"artifact"
+				"tech"
 			],
 			"slot": "none",
 			"weight": 50,
@@ -330,10 +310,9 @@
 			"sources": [ "Technology Guide" ],
 			"slot": "armor",
 			"weight": 50,
-			"category": "armor",
 			"types": [
 				"tech",
-				"artifact",
+				"armor",
 				"heavy"
 			],
 			"armor_bonus": 10,
@@ -378,10 +357,8 @@
 			"name": "psychic imprinter",
 			"file": "equipmenttechartifactsdisplay0467.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
-				"tech",
-				"artifact"
+				"tech"
 			],
 			"slot": "head",
 			"weight": 10,
@@ -403,10 +380,8 @@
 			"name": "rebirthing chamber",
 			"file": "equipmenttechartifactsdisplayd49a.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
-				"tech",
-				"artifact"
+				"tech"
 			],
 			"slot": "none",
 			"capacity": 0,
@@ -430,10 +405,8 @@
 			"name": "temporal accelerator",
 			"file": "equipmenttechartifactsdisplayc64f.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
-				"tech",
-				"artifact"
+				"tech"
 			],
 			"slot": "head",
 			"weight": 1,

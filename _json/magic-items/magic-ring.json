@@ -1,4 +1,5 @@
 {
+	"category": "magic item",
 	"list": [
 		{
 			"name": "Dungeon Ring prisoner's",
@@ -9,7 +10,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 250,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -33,7 +33,6 @@
 			"file": "magicringsdisplay5d43.html",
 			"sources": [ "Adventurer's Guide" ],
 			"cost": 500,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -55,7 +54,6 @@
 			"file": "magicringsdisplay776a.html",
 			"sources": [ "Villain Codex" ],
 			"cost": 900,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -78,7 +76,6 @@
 			"file": "magicringsdisplay99e3.html",
 			"sources": [ "Horror Adventures" ],
 			"cost": 1000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -103,7 +100,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 1000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -125,7 +121,6 @@
 			"file": "magicringsdisplay1aef.html",
 			"sources": [ "Ire of the Storm" ],
 			"cost": 1000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -147,7 +142,6 @@
 			"file": "magicringsdisplay16ad.html",
 			"sources": [ "Inner Sea Temples" ],
 			"cost": 1000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -169,7 +163,6 @@
 			"file": "magicringsdisplaycb5e.html",
 			"sources": [ "People of the River" ],
 			"cost": 1000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -191,7 +184,6 @@
 			"file": "magicringsdisplay8ef3.html",
 			"sources": [ "Inner Sea Gods" ],
 			"cost": 1200,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -213,7 +205,6 @@
 			"file": "magicringsdisplayad76.html",
 			"sources": [ "Hollow's Last Hope" ],
 			"cost": 1200,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -235,7 +226,6 @@
 			"file": "magicringsdisplayd162.html",
 			"sources": [ "Champions of Corruption" ],
 			"cost": 1250,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -259,7 +249,6 @@
 			"file": "magicringsdisplayf881.html",
 			"sources": [ "Pathfinder #123: The Flooded Cathedral" ],
 			"cost": 1500,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -281,7 +270,6 @@
 			"file": "magicringsdisplayfe7e.html",
 			"sources": [ "Inner Sea Gods" ],
 			"cost": 1500,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -304,7 +292,6 @@
 			"file": "magicringsdisplayd764.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 1500,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -328,7 +315,6 @@
 			"file": "magicringsdisplayfd5d.html",
 			"sources": [ "Adventurer's Armory 2" ],
 			"cost": 1600,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -350,7 +336,6 @@
 			"file": "magicringsdisplay4d4d.html",
 			"sources": [ "Merchant's Manifest" ],
 			"cost": 1600,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -376,7 +361,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 2000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -401,7 +385,6 @@
 				"Blood of the Night"
 			],
 			"cost": 2000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -423,7 +406,6 @@
 			"file": "magicringsdisplay3500.html",
 			"sources": [ "Advanced Class Guide" ],
 			"cost": 2000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -445,7 +427,6 @@
 			"file": "magicringsdisplay3a3f.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 2000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -467,7 +448,6 @@
 			"file": "magicringsdisplay4ef9.html",
 			"sources": [ "Taldor, Echoes of Glory" ],
 			"cost": 2000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -489,7 +469,6 @@
 			"file": "magicringsdisplay719b.html",
 			"sources": [ "Second Darkness Player's Guide" ],
 			"cost": 2100,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -515,7 +494,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 2200,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -540,7 +518,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 2500,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -565,7 +542,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 2500,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -590,7 +566,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 2500,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -615,7 +590,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 2500,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -640,7 +614,6 @@
 				"Gods and Magic"
 			],
 			"cost": 2600,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -663,7 +636,6 @@
 			"file": "magicringsdisplaye2e6.html",
 			"sources": [ "Advanced Class Guide" ],
 			"cost": 2800,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -689,7 +661,6 @@
 				"Inner Sea Gods"
 			],
 			"cost": 3000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -711,7 +682,6 @@
 			"file": "magicringsdisplayd6cd.html",
 			"sources": [ "Inner Sea Gods" ],
 			"cost": 3000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -733,7 +703,6 @@
 			"file": "magicringsdisplay558f.html",
 			"sources": [ "Merchant's Manifest" ],
 			"cost": 3000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -758,7 +727,6 @@
 				"Advanced Race Guide"
 			],
 			"cost": 3000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -780,7 +748,6 @@
 			"file": "magicringsdisplaydc45.html",
 			"sources": [ "Advanced Class Guide" ],
 			"cost": 3000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -802,7 +769,6 @@
 			"file": "magicringsdisplay3433.html",
 			"sources": [ "Pathfinder Society Field Guide" ],
 			"cost": 3000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -824,7 +790,6 @@
 			"file": "magicringsdisplay7563.html",
 			"sources": [ "Advanced Class Guide" ],
 			"cost": 3500,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -847,7 +812,6 @@
 			"file": "magicringsdisplay886f.html",
 			"sources": [ "Inner Sea Gods" ],
 			"cost": 3820,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -869,7 +833,6 @@
 			"file": "magicringsdisplay77ad.html",
 			"sources": [ "Advanced Class Guide" ],
 			"cost": 4000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -894,7 +857,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 4000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -916,7 +878,6 @@
 			"file": "magicringsdisplaycc22.html",
 			"sources": [ "Planar Adventures" ],
 			"cost": 4000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -939,7 +900,6 @@
 			"file": "magicringsdisplay56fc.html",
 			"sources": [ "Inner Sea Gods" ],
 			"cost": 4000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -961,7 +921,6 @@
 			"file": "magicringsdisplay1c06.html",
 			"sources": [ "Pathfinder #121: The Lost Outpost" ],
 			"cost": 4500,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -984,7 +943,6 @@
 			"file": "magicringsdisplayc2f6.html",
 			"sources": [ "Inner Sea Gods" ],
 			"cost": 4700,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -1007,7 +965,6 @@
 			"file": "magicringsdisplayb3cf.html",
 			"sources": [ "Advanced Player's Guide" ],
 			"cost": 5000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -1029,7 +986,6 @@
 			"file": "magicringsdisplayd565.html",
 			"sources": [ "Inner Sea Gods" ],
 			"cost": 5000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -1054,7 +1010,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 5000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -1079,7 +1034,6 @@
 				"Advanced Race Guide"
 			],
 			"cost": 5000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -1101,7 +1055,6 @@
 			"file": "magicringsdisplay4a2a.html",
 			"sources": [ "Inner Sea Gods" ],
 			"cost": 5400,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -1124,7 +1077,6 @@
 			"file": "magicringsdisplayd8c7.html",
 			"sources": [ "Advanced Class Guide" ],
 			"cost": 5400,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -1147,7 +1099,6 @@
 			"file": "magicringsdisplaya975.html",
 			"sources": [ "Pathfinder #123: The Flooded Cathedral" ],
 			"cost": 6000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -1159,7 +1110,6 @@
 			"file": "magicringsdisplay6ce2.html",
 			"sources": [ "Ultimate Intrigue" ],
 			"cost": 6000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -1181,7 +1131,6 @@
 			"file": "magicringsdisplay4df4.html",
 			"sources": [ "Ranged Tactics Toolbox" ],
 			"cost": 6000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -1206,7 +1155,6 @@
 				"Ultimate Equipment"
 			],
 			"cost": 6000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -1228,7 +1176,6 @@
 			"file": "magicringsdisplay879d.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 6000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -1251,7 +1198,6 @@
 			"file": "magicringsdisplay4f35.html",
 			"sources": [ "Inner Sea Gods" ],
 			"cost": 6000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -1276,7 +1222,6 @@
 				"Advanced Race Guide"
 			],
 			"cost": 6000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -1299,7 +1244,6 @@
 			"file": "magicringsdisplay8e73.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 6000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -1311,7 +1255,6 @@
 			"file": "magicringsdisplay2c08.html",
 			"sources": [ "Inner Sea Gods" ],
 			"cost": 6500,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -1333,7 +1276,6 @@
 			"file": "magicringsdisplay2f63.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 6840,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -1359,7 +1301,6 @@
 			"file": "magicringsdisplaya682.html",
 			"sources": [ "Advanced Class Guide" ],
 			"cost": 7000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -1382,7 +1323,6 @@
 			"file": "magicringsdisplayc1ed.html",
 			"sources": [ "Advanced Class Guide" ],
 			"cost": 7200,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -1405,7 +1345,6 @@
 			"file": "magicringsdisplayc0b6.html",
 			"sources": [ "Advanced Class Guide" ],
 			"cost": 7200,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -1428,7 +1367,6 @@
 			"file": "magicringsdisplay7b78.html",
 			"sources": [ "Advanced Class Guide" ],
 			"cost": 7300,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -1450,7 +1388,6 @@
 			"file": "magicringsdisplay1fe6.html",
 			"sources": [ "Second Darkness Player's Guide" ],
 			"cost": 7400,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -1476,7 +1413,6 @@
 			"file": "magicringsdisplay6336.html",
 			"sources": [ "Advanced Class Guide" ],
 			"cost": 7600,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -1499,7 +1435,6 @@
 			"file": "magicringsdisplay5e6f.html",
 			"sources": [ "Advanced Class Guide" ],
 			"cost": 7600,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -1522,7 +1457,6 @@
 			"file": "magicringsdisplay75f6.html",
 			"sources": [ "Advanced Class Guide" ],
 			"cost": 7700,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -1544,7 +1478,6 @@
 			"file": "magicringsdisplay0a6e.html",
 			"sources": [ "Bastards of Golarion" ],
 			"cost": 7800,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -1568,7 +1501,6 @@
 			"file": "magicringsdisplay7e84.html",
 			"sources": [ "Advanced Class Guide" ],
 			"cost": 7800,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -1591,7 +1523,6 @@
 			"file": "magicringsdisplayc246.html",
 			"sources": [ "Advanced Class Guide" ],
 			"cost": 7800,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -1614,7 +1545,6 @@
 			"file": "magicringsdisplayc564.html",
 			"sources": [ "People of the Sands" ],
 			"cost": 8000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -1641,7 +1571,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 8000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -1653,7 +1582,6 @@
 			"file": "magicringsdisplayea83.html",
 			"sources": [ "Heroes of the Streets" ],
 			"cost": 8000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -1677,7 +1605,6 @@
 			"file": "magicringsdisplayde76.html",
 			"sources": [ "Adventurer's Guide" ],
 			"cost": 8000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -1692,7 +1619,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 8000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -1714,7 +1640,6 @@
 			"file": "magicringsdisplayee59.html",
 			"sources": [ "Advanced Player's Guide" ],
 			"cost": 8000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -1739,7 +1664,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 8000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -1761,7 +1685,6 @@
 			"file": "magicringsdisplay1c22.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 8000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -1783,7 +1706,6 @@
 			"file": "magicringsdisplay5b51.html",
 			"sources": [ "Pathfinder Society Field Guide" ],
 			"cost": 8000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -1805,7 +1727,6 @@
 			"file": "magicringsdisplaye99c.html",
 			"sources": [ "Villain Codex" ],
 			"cost": 8000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -1829,7 +1750,6 @@
 			"file": "magicringsdisplay3c06.html",
 			"sources": [ "Planar Adventures" ],
 			"cost": 8000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -1852,7 +1772,6 @@
 			"file": "magicringsdisplaycacb.html",
 			"sources": [ "Advanced Class Guide" ],
 			"cost": 8100,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -1874,7 +1793,6 @@
 			"file": "magicringsdisplay8627.html",
 			"sources": [ "Potions and Poisons" ],
 			"cost": 8500,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -1896,7 +1814,6 @@
 			"file": "magicringsdisplay90d0.html",
 			"sources": [ "Cohorts and Companions" ],
 			"cost": 8500,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -1922,7 +1839,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 8500,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -1945,7 +1861,6 @@
 			"file": "magicringsdisplay89c2.html",
 			"sources": [ "Advanced Class Guide" ],
 			"cost": 8600,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -1970,7 +1885,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 8600,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -1994,7 +1908,6 @@
 			"file": "magicringsdisplaya380.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 8700,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -2017,7 +1930,6 @@
 			"file": "magicringsdisplayb613.html",
 			"sources": [ "Undead Slayer's Handbook" ],
 			"cost": 9000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -2040,7 +1952,6 @@
 			"file": "magicringsdisplay089d.html",
 			"sources": [ "Cohorts and Companions" ],
 			"cost": 9000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -2063,7 +1974,6 @@
 			"file": "magicringsdisplayb748.html",
 			"sources": [ "Advanced Class Guide" ],
 			"cost": 9100,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -2085,7 +1995,6 @@
 			"file": "magicringsdisplayf5bd.html",
 			"sources": [ "Potions and Poisons" ],
 			"cost": 9250,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -2107,7 +2016,6 @@
 			"file": "magicringsdisplay12b5.html",
 			"sources": [ "Chronicle of the Righteous" ],
 			"cost": 9900,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -2130,7 +2038,6 @@
 			"file": "magicringsdisplayab05.html",
 			"sources": [ "Advanced Player's Guide" ],
 			"cost": 10000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -2146,7 +2053,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 10000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -2173,7 +2079,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 10000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -2195,7 +2100,6 @@
 			"file": "magicringsdisplay90f0.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 10000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -2217,7 +2121,6 @@
 			"file": "magicringsdisplay1202.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 10000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -2243,7 +2146,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 10000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -2265,7 +2167,6 @@
 			"file": "magicringsdisplay9a6e.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 10000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -2289,7 +2190,6 @@
 			"file": "magicringsdisplayda81.html",
 			"sources": [ "Pathfinder #39: The City of Seven Spears" ],
 			"cost": 10000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -2315,7 +2215,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 10000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -2338,7 +2237,6 @@
 			"file": "magicringsdisplayde1f.html",
 			"sources": [ "Advanced Class Guide" ],
 			"cost": 10600,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -2363,7 +2261,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 10800,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -2385,7 +2282,6 @@
 			"file": "magicringsdisplayd8ae.html",
 			"sources": [ "Pathfinder #57: Tempest Rising" ],
 			"cost": 10800,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -2407,7 +2303,6 @@
 			"file": "magicringsdisplay4f2d.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 10800,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -2429,7 +2324,6 @@
 			"file": "magicringsdisplayce34.html",
 			"sources": [ "Inner Sea Combat" ],
 			"cost": 11000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -2452,7 +2346,6 @@
 			"file": "magicringsdisplay6ecb.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 11000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -2477,7 +2370,6 @@
 				"Advanced Race Guide"
 			],
 			"cost": 11000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -2499,7 +2391,6 @@
 			"file": "magicringsdisplaybc78.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 12000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -2525,7 +2416,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 12000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -2548,7 +2438,6 @@
 			"file": "magicringsdisplay9180.html",
 			"sources": [ "Pathfinder #106: For Queen and Empire" ],
 			"cost": 12000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -2572,7 +2461,6 @@
 			"file": "magicringsdisplayf881.html",
 			"sources": [ "Pathfinder #123: The Flooded Cathedral" ],
 			"cost": 1500,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -2594,7 +2482,6 @@
 			"file": "magicringsdisplay219f.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 12000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -2619,7 +2506,6 @@
 				"Pathfinder #11: Skeletons of Scarwall"
 			],
 			"cost": 12000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -2641,7 +2527,6 @@
 			"file": "magicringsdisplay26b3.html",
 			"sources": [ "Adventurer's Guide" ],
 			"cost": 12000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -2663,7 +2548,6 @@
 			"file": "magicringsdisplay92f3.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 12000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -2686,7 +2570,6 @@
 			"file": "magicringsdisplaye6a8.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 12000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -2712,7 +2595,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 12700,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -2735,7 +2617,6 @@
 			"file": "magicringsdisplay2a0b.html",
 			"sources": [ "Advanced Class Guide" ],
 			"cost": 12880,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -2757,7 +2638,6 @@
 			"file": "magicringsdisplay17f1.html",
 			"sources": [ "Inner Sea Gods" ],
 			"cost": 13000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -2780,7 +2660,6 @@
 			"file": "magicringsdisplay84f0.html",
 			"sources": [ "Pathfinder #123: The Flooded Cathedral" ],
 			"cost": 13500,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -2793,7 +2672,6 @@
 			"file": "magicringsdisplay27cf.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 135000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -2805,7 +2683,6 @@
 			"file": "magicringsdisplayff42.html",
 			"sources": [ "Villain Codex" ],
 			"cost": 14000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -2829,7 +2706,6 @@
 			"file": "magicringsdisplay1bf0.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 14000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -2851,7 +2727,6 @@
 			"file": "magicringsdisplay5150.html",
 			"sources": [ "Pathfinder #108: Hell Comes to Westcrown" ],
 			"cost": 14500,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -2874,7 +2749,6 @@
 			"file": "magicringsdisplayab55.html",
 			"sources": [ "Advanced Player's Guide" ],
 			"cost": 15000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -2886,7 +2760,6 @@
 			"file": "magicringsdisplaya0a2.html",
 			"sources": [ "Down the Blighted Path" ],
 			"cost": 15000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -2911,7 +2784,6 @@
 			"file": "magicringsdisplaya5dc.html",
 			"sources": [ "Inner Sea Combat" ],
 			"cost": 15000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -2935,7 +2807,6 @@
 			"file": "magicringsdisplay76c3.html",
 			"sources": [ "Advanced Class Guide" ],
 			"cost": 15000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -2960,7 +2831,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 15000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -2982,7 +2852,6 @@
 			"file": "magicringsdisplay2236.html",
 			"sources": [ "Book of the Damned" ],
 			"cost": 15000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -3007,7 +2876,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 15000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -3029,7 +2897,6 @@
 			"file": "magicringsdisplay8663.html",
 			"sources": [ "Magical Marketplace" ],
 			"cost": 15000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -3055,7 +2922,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 16000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -3067,7 +2933,6 @@
 			"file": "magicringsdisplay72c7.html",
 			"sources": [ "Horror Adventures" ],
 			"cost": 16000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -3095,7 +2960,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 16000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -3107,7 +2971,6 @@
 			"file": "magicringsdisplayed1a.html",
 			"sources": [ "Giant Hunter's Handbook" ],
 			"cost": 16000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -3129,7 +2992,6 @@
 			"file": "magicringsdisplay89f5.html",
 			"sources": [ "Pathfinder #118: Siege of Stone" ],
 			"cost": 16000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -3151,7 +3013,6 @@
 			"file": "magicringsdisplayb922.html",
 			"sources": [ "Planar Adventures" ],
 			"cost": 16200,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -3174,7 +3035,6 @@
 			"file": "magicringsdisplayc76c.html",
 			"sources": [ "People of the Sands" ],
 			"cost": 17000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -3190,7 +3050,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 18000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -3203,7 +3062,6 @@
 			"file": "magicringsdisplaydae6.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 18000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -3232,7 +3090,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 18000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -3254,7 +3111,6 @@
 			"file": "magicringsdisplay2d60.html",
 			"sources": [ "Pathfinder #83: The Slave Trenches of Hakotep" ],
 			"cost": 18000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -3276,7 +3132,6 @@
 			"file": "magicringsdisplay1427.html",
 			"sources": [ "Magic of Thassilon (Web Enhancement)" ],
 			"cost": 18000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -3303,7 +3158,6 @@
 			"file": "magicringsdisplayc730.html",
 			"sources": [ "Ultimate Intrigue" ],
 			"cost": 18200,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -3328,7 +3182,6 @@
 			"file": "magicringsdisplay3d65.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 19500,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -3351,7 +3204,6 @@
 			"file": "magicringsdisplayfda3.html",
 			"sources": [ "Advanced Player's Guide" ],
 			"cost": 20000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -3363,7 +3215,6 @@
 			"file": "magicringsdisplay84a7.html",
 			"sources": [ "Inner Sea Gods" ],
 			"cost": 20000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -3385,7 +3236,6 @@
 			"file": "magicringsdisplay0301.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 20000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -3413,7 +3263,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 20000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -3435,7 +3284,6 @@
 			"file": "magicringsdisplay444f.html",
 			"sources": [ "Psychic Anthology" ],
 			"cost": 20000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -3459,7 +3307,6 @@
 			"file": "magicringsdisplayb602.html",
 			"sources": [ "Champions of Corruption" ],
 			"cost": 20000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -3482,7 +3329,6 @@
 			"file": "magicringsdisplayf521.html",
 			"sources": [ "Cheliax, Empire of Devils" ],
 			"cost": 20000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -3511,7 +3357,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 20000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -3534,7 +3379,6 @@
 			"file": "magicringsdisplay19e8.html",
 			"sources": [ "Psychic Anthology" ],
 			"cost": 20000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -3557,7 +3401,6 @@
 			"file": "magicringsdisplay88e2.html",
 			"sources": [ "Pathfinder #123: The Flooded Cathedral" ],
 			"cost": 24000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -3573,7 +3416,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 24000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -3586,7 +3428,6 @@
 			"file": "magicringsdisplay381e.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 24000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -3599,7 +3440,6 @@
 			"file": "magicringsdisplayc1fe.html",
 			"sources": [ "Advanced Player's Guide" ],
 			"cost": 25000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -3614,7 +3454,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 25000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -3640,7 +3479,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 25000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -3663,7 +3501,6 @@
 			"file": "magicringsdisplay3b8c.html",
 			"sources": [ "Inner Sea Intrigue" ],
 			"cost": 25200,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -3685,7 +3522,6 @@
 			"file": "magicringsdisplay4142.html",
 			"sources": [ "Ultimate Intrigue" ],
 			"cost": 26000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -3709,7 +3545,6 @@
 			"file": "magicringsdisplayb2d8.html",
 			"sources": [ "Clash of the Kingslayers" ],
 			"cost": 26000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -3732,7 +3567,6 @@
 			"file": "magicringsdisplaydaaa.html",
 			"sources": [ "People of the Sands" ],
 			"cost": 27000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -3747,7 +3581,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 27000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -3773,7 +3606,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 28000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -3785,7 +3617,6 @@
 			"file": "magicringsdisplayaedb.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 28500,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -3809,7 +3640,6 @@
 			"file": "magicringsdisplay29bb.html",
 			"sources": [ "Advanced Player's Guide" ],
 			"cost": 30000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -3821,7 +3651,6 @@
 			"file": "magicringsdisplaydc98.html",
 			"sources": [ "Cohorts and Companions" ],
 			"cost": 30000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -3844,7 +3673,6 @@
 			"file": "magicringsdisplayeb51.html",
 			"sources": [ "Planes of Power" ],
 			"cost": 30000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -3870,7 +3698,6 @@
 			"file": "magicringsdisplay756f.html",
 			"sources": [ "Mythic Adventures" ],
 			"cost": 30000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -3894,7 +3721,6 @@
 			"file": "magicringsdisplay854a.html",
 			"sources": [ "Horror Adventures" ],
 			"cost": 30000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -3917,7 +3743,6 @@
 			"file": "magicringsdisplaya660.html",
 			"sources": [ "Healer's Handbook" ],
 			"cost": 30800,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -3940,7 +3765,6 @@
 			"file": "magicringsdisplay5d09.html",
 			"sources": [ "Mythic Adventures" ],
 			"cost": 31500,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -3966,7 +3790,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 32000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -3978,7 +3801,6 @@
 			"file": "magicringsdisplay2fd2.html",
 			"sources": [ "Inner Sea Monster Codex" ],
 			"cost": 32500,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -4002,7 +3824,6 @@
 			"file": "magicringsdisplay344f.html",
 			"sources": [ "Advanced Player's Guide" ],
 			"cost": 35000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -4017,7 +3838,6 @@
 				"Pathfinder #6: Spires of Xin-Shalast"
 			],
 			"cost": 35000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -4041,7 +3861,6 @@
 			"file": "magicringsdisplaye74b.html",
 			"sources": [ "Pathfinder #123: The Flooded Cathedral" ],
 			"cost": 375000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -4054,7 +3873,6 @@
 			"file": "magicringsdisplay2e44.html",
 			"sources": [ "People of the Sands" ],
 			"cost": 38000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -4067,7 +3885,6 @@
 			"file": "magicringsdisplay3597.html",
 			"sources": [ "Advanced Player's Guide" ],
 			"cost": 40000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -4082,7 +3899,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 40000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -4105,7 +3921,6 @@
 			"file": "magicringsdisplay5a10.html",
 			"sources": [ "Psychic Anthology" ],
 			"cost": 40000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -4121,7 +3936,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 40000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -4134,7 +3948,6 @@
 			"file": "magicringsdisplay9eab.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 42000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -4147,7 +3960,6 @@
 			"file": "magicringsdisplay5759.html",
 			"sources": [ "Ultimate Intrigue" ],
 			"cost": 42000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -4174,7 +3986,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 44000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -4187,7 +3998,6 @@
 			"file": "magicringsdisplay1dd5.html",
 			"sources": [ "Advanced Player's Guide" ],
 			"cost": 45000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -4199,7 +4009,6 @@
 			"file": "magicringsdisplay5a0a.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 45000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -4221,7 +4030,6 @@
 			"file": "magicringsdisplaydb46.html",
 			"sources": [ "Dragonslayer's Handbook" ],
 			"cost": 48000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -4248,7 +4056,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 50000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -4261,7 +4068,6 @@
 			"file": "magicringsdisplay9dbb.html",
 			"sources": [ "People of the Sands" ],
 			"cost": 50000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -4273,7 +4079,6 @@
 			"file": "magicringsdisplay5cb2.html",
 			"sources": [ "Pathfinder #131: The Reaper's Right Hand" ],
 			"cost": 50000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -4299,7 +4104,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 50000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -4321,7 +4125,6 @@
 			"file": "magicringsdisplayae3a.html",
 			"sources": [ "Occult Adventures" ],
 			"cost": 50000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -4346,7 +4149,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 50000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -4389,7 +4191,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 50000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -4414,7 +4215,6 @@
 			"file": "magicringsdisplay82d7.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 56000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -4436,7 +4236,6 @@
 			"file": "magicringsdisplay1bfd.html",
 			"sources": [ "Inner Sea Intrigue" ],
 			"cost": 56160,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -4459,7 +4258,6 @@
 			"file": "magicringsdisplay0291.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 66000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -4471,7 +4269,6 @@
 			"file": "magicringsdisplay9eda.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 70000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -4501,7 +4298,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 70000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -4514,7 +4310,6 @@
 			"file": "magicringsdisplay4975.html",
 			"sources": [ "Psychic Anthology" ],
 			"cost": 70000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -4529,7 +4324,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 75000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -4554,7 +4348,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 90000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -4579,7 +4372,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 100000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -4602,7 +4394,6 @@
 			"file": "magicringsdisplayf062.html",
 			"sources": [ "Psychic Anthology" ],
 			"cost": 100000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -4618,7 +4409,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 100000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -4630,7 +4420,6 @@
 			"file": "magicringsdisplay0187.html",
 			"sources": [ "Ultimate Intrigue" ],
 			"cost": 101000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -4658,7 +4447,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 120000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -4683,7 +4471,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 125000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -4705,7 +4492,6 @@
 			"file": "magicringsdisplay7aa0.html",
 			"sources": [ "Pathfinder #132: The Six-Legend Soul" ],
 			"cost": 150000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -4729,7 +4515,6 @@
 			"file": "magicringsdisplaybf5d.html",
 			"sources": [ "Occult Adventures" ],
 			"cost": 160000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -4756,7 +4541,6 @@
 				"Pathfinder #12: Crown of Fangs"
 			],
 			"cost": 180000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -4781,7 +4565,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 200000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -4850,7 +4633,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 200000,
-			"category": "magic item",
 			"types": [
 				"ring"
 			],
@@ -4866,6 +4648,236 @@
 				"As the ring of spell storing, except it holds up to 10 levels of spells."
 			],
 			"construction": "Requirements Forge Ring, imbue with spell ability; Cost 100,000 gp"
+		},
+		{
+			"name": "Wary Ring",
+			"file": "magicintelligentdisplay2663.html",
+			"sources": [ "Magical Marketplace" ],
+			"cost": 14600,
+			"types": [
+				"ring",
+				"intelligent"
+			],
+			"slot": "ring",
+			"intelligent": true,
+			"weight": 0,
+			"header": [
+				"Wary Ring",
+				"Source [Magical Marketplace pg. 17](source:Magical Marketplace)",
+				"Aura n/a CL 9th",
+				"Slot ring; Price 14,600 gp"
+			],
+			"statistics": [
+				"Alignment lawful good; Ego 7",
+				"Senses 60 ft.",
+				"Int 12, Wis 15, Cha 12",
+				"Communication empathy"
+			],
+			"description": [
+				"This relatively plain brass ring of mind shielding can read script in any language. The personality within the ring is distrustful of everyone, and it pesters its wearer with increasingly elaborate conspiracy theories. Because of its unrelenting paranoia, the ring provides its wearer with occasional welltimed guidance and can use timely inspiration up to three times per day on the wearer."
+			],
+			"construction": "Forge Ring, nondetection, read magic, timely inspiration; Price 7,300 gp"
+		},
+		{
+			"name": "Ring of the Weary Sky",
+			"file": "magicintelligentdisplay5eec.html",
+			"sources": [ "Lost Treasures" ],
+			"cost": 14800,
+			"types": [
+				"ring",
+				"intelligent"
+			],
+			"slot": "ring",
+			"intelligent": true,
+			"weight": 0,
+			"header": [
+				"Ring of the Weary Sky",
+				"Source [Lost Treasures pg. 49](source:Lost Treasures)",
+				"Aura moderate abjuration and enchantment CL 7th",
+				"Slot ring; Price 14,800 gp"
+			],
+			"statistics": [
+				"Alignment neutral; Ego 7",
+				"Senses 30 ft.",
+				"Int 12, Wis 10, Cha 11",
+				"Communication empathy"
+			],
+			"description": [
+				"This ancient silver ring provides a measure of control over elemental creatures. The spirit of an ancient Jistkan elementalist still echoes within the ring, issuing a sense of smug arrogance. The Ring of the Weary Sky's special purpose is controlling or defeating elementals, and once per day the wearer can attempt to charm a creature with the elemental subtype (as charm monster, Will DC 15 negates).",
+				"Once per day, the ring can affect its wearer with resist energy. The ring uses this ability only when the wearer faces a hostile creature with the elemental subtype, making an educated guess about the most applicable energy type against which to ward its wearer. The ring is quick to provide this protection when the wearer tries but fails to charm an elemental creature, exuding a clear impression of patronizing disappointment."
+			],
+			"construction": "Forge Ring, charm monster, resist energy; Price 7,400 gp"
+		},
+		{
+			"name": "Obsession Ring",
+			"file": "magicintelligentdisplayd29f.html",
+			"sources": [ "Ultimate Equipment" ],
+			"cost": 116500,
+			"types": [
+				"ring",
+				"intelligent"
+			],
+			"slot": "ring",
+			"intelligent": true,
+			"weight": 0,
+			"header": [
+				"Source [Ultimate Equipment pg. 359](source:Ultimate Equipment)",
+				"Aura moderate abjuration CL 9th",
+				"Slot none; Price 116,500 gp"
+			],
+			"statistics": [
+				"Alignment varies; Ego 11",
+				"Senses 30 ft.",
+				"Int 17, Wis 10, Cha 13",
+				"Communication telepathy (Common and seven other languages)"
+			],
+			"description": [
+				"These rings of protection +3 are extremely varied in form. They can be of any alignment and each has its own unique personality and proclivities. Each ring has a specific obsession. To determine a particular obsession ring's obsession, roll on Table 6-10: Intelligent Item Purpose. When the ring is in pursuit of its purpose, its Ego is 10 points higher than normal.",
+				"Gnomes with the obsession racial trait have a unique understanding of the ring's mentality and gain a +5 bonus on Will saving throws to resist the obsession ring's attempts to dominate the wearer.",
+				"When an obsession ring is engaged in action directly related to its obsession, it grants its wearer the following powers, but can choose to withhold such powers if it does not believe their uses would further its obsession. ",
+				"- The ring functions as a ring of protection +5.",
+				"- The ring grants its wearer a +2 luck bonus on attack rolls against creatures its obsession is sworn to defeat.",
+				"- Three times per day, the ring can allow its wearer to reroll any saving throw. The wearer gains a +4 luck bonus on the saving throw reroll.",
+				"These rings are typically quite emphatic on their desire to fulfill their obsessions, and frequently communicate with their wielder to encourage pursuit of this goal."
+			],
+			"construction": "Forge Ring, shield of faith, creator must be 15th level (or 9th level if the creator is a gnome); Price 58,250 gp"
+		},
+		{
+			"name": "Cannibal Ring",
+			"file": "magiccurseddisplayf8bc.html",
+			"sources": [
+				"Ultimate Equipment",
+				"Advanced Player's Guide"
+			],
+			"types": [
+				"cursed",
+				"ring"
+			],
+			"slot": "ring",
+			"weight": 0,
+			"cursed": true,
+			"header": [
+				"Source [Ultimate Equipment pg. 344](source:Ultimate Equipment), [Advanced Player's Guide pg. 310](source:Advanced Player's Guide)",
+				"Aura strong transmutation CL 16th",
+				"Slot ring; Weight -"
+			],
+			"description": [
+				"This simple and unadorned copper ring appears slightly tarnished, but seemingly wards off the effects of hunger or other sorts of deprivation; all tests reveal it to be a ring of sustenance. However, after wearing it for 7 days, its owner instead comes to suffer from almost constant hunger and thirst, which, if not sated, ultimately drives him mad enough to become a cannibal. The wearer must eat and drink a full dayâ€™s worth of food and water each hour to avoid making a starvation or thirst check. Once the wearer starts to take lethal damage instead of nonlethal damage due to failed checks, he begins to experience ever more powerful cravings for the flesh of intelligent creatures (any living creature with an Intelligence of 3 or higher).",
+				"Once the wearer feasts in such a manner, he recovers all nonlethal damage sustained from hunger and thirst, though he continues to suffer lethal damage on failed starvation and thirst checks. The next time he is in a situation in which he could eat part of an intelligent being, he must make a DC 15 Will save or dine on the forbidden meat. If the wearer succumbs to this urge again, he recovers all lethal damage from failed starvation and thirst checks, and realizes cannibalism is the key to avoiding the increased hunger and thirst-on any day he eats at least one meal of flesh from an intelligent creature, he does not have to make hourly starvation and thirst checks, and recovers any accumulated damage from failing these checks. Once its curse activates, the ring cannot be removed until the curse is broken."
+			],
+			"construction": "Requirements ring of sustenance; Cost -"
+		},
+		{
+			"name": "Chatter Ring",
+			"file": "magiccurseddisplay30f0.html",
+			"sources": [ "Antihero's Handbook" ],
+			"types": [
+				"cursed",
+				"ring"
+			],
+			"slot": "ring",
+			"weight": 0,
+			"cursed": true,
+			"header": [
+				"Chatter Ring",
+				"Source [Antihero's Handbook pg. 31](source:Antihero's Handbook)",
+				"Aura faint divination CL 3rd",
+				"Slot ring; Weight -"
+			],
+			"description": [
+				"This ring appears as a normal ring of eloquence (Pathfinder RPG Advanced Class Guide 216), with four different languages (usually Common, Dwarven, Elven, and Gnome) etched around the inside of a silver band, and the wearer of a chatter ring gains the ability to speak the four languages inscribed in the ring. However, the difference between a chatter ring and a normal ring of eloquence quickly becomes apparent when the wearer speaks, as he becomes overwhelmingly talkative. The wearer takes a -2 penalty on Bluff, Diplomacy, Disguise, Perform (oratory), and Stealth checks. The ring can be removed only after the wearer benefits from a remove curse spell or similar effect."
+			],
+			"construction": "Requirements ring of eloquence; Cost -"
+		},
+		{
+			"name": "Ring of Clumsiness",
+			"file": "magiccurseddisplaye03d.html",
+			"sources": [
+				"Ultimate Equipment",
+				"PRPG Core Rulebook"
+			],
+			"types": [
+				"cursed",
+				"ring"
+			],
+			"slot": "ring",
+			"weight": 0,
+			"cursed": true,
+			"header": [
+				"Source [Ultimate Equipment pg. 349](source:Ultimate Equipment), [PRPG Core Rulebook pg. 542](source:PRPG Core Rulebook)",
+				"Aura strong transmutation CL 15th",
+				"Slot ring; Weight -"
+			],
+			"description": [
+				"This ring operates exactly like a ring of feather falling. However, it also makes the wearer clumsy. She takes a -4 penalty to Dexterity and has a 20% chance of spell failure when trying to cast any arcane spell that has a somatic component. (This chance of spell failure stacks with other arcane spell failure chances.)"
+			],
+			"construction": "Requirements ring of feather falling; Cost -"
+		},
+		{
+			"name": "Ring of Lifebleed",
+			"file": "magiccurseddisplayf773.html",
+			"sources": [ "Ultimate Equipment" ],
+			"types": [
+				"cursed",
+				"ring"
+			],
+			"slot": "ring",
+			"weight": 0,
+			"cursed": true,
+			"header": [
+				"Source [Ultimate Equipment pg. 349](source:Ultimate Equipment)",
+				"Aura moderate necromancy CL 10th",
+				"Slot ring; Weight -"
+			],
+			"description": [
+				"Before being worn, this ring appears to be a ring of regeneration. Once it is worn in combat, however, the true nature of the ring becomes apparent. Each time the wearer is hit with a melee or ranged weapon attack, he takes an additional 1d4 points of damage. This ring cannot be removed until the wearer dies or by way of a remove curse, wish, or miracle spell."
+			],
+			"construction": "Requirements ring of regeneration; Cost -"
+		},
+		{
+			"name": "Ring of Spell Devouring",
+			"file": "magiccurseddisplay4200.html",
+			"sources": [ "Ultimate Equipment" ],
+			"types": [
+				"cursed",
+				"ring"
+			],
+			"slot": "ring",
+			"weight": 0,
+			"cursed": true,
+			"header": [
+				"Source [Ultimate Equipment pg. 349](source:Ultimate Equipment)",
+				"Aura strong abjuration CL 13th",
+				"Slot ring; Weight -"
+			],
+			"description": [
+				"This delicate ring appears to be a ring of spell storing or a ring of spell turning, but instead of aiding casting or counterspelling, the ring hinders such efforts. Each time the wearer casts an arcane spell, he suffers a 25% spell failure chance. Furthermore, the wearer of the ring takes a -4 penalty on Spellcraft checks to identify a spell when attempting to counterspell. The ring can only be removed by a remove curse spell or a similar effect."
+			],
+			"construction": "Requirements ring of spell storing (any) or a ring of spell turning; Cost -"
+		},
+		{
+			"name": "Ring of Truth",
+			"file": "magiccurseddisplay3a6c.html",
+			"sources": [
+				"Ultimate Equipment",
+				"Advanced Player's Guide"
+			],
+			"types": [
+				"cursed",
+				"ring"
+			],
+			"slot": "ring",
+			"weight": 0,
+			"cursed": true,
+			"header": [
+				"Source [Ultimate Equipment pg. 349](source:Ultimate Equipment), [Advanced Player's Guide pg. 310](source:Advanced Player's Guide)",
+				"Aura moderate enchantment CL 9th",
+				"Slot ring; Weight -"
+			],
+			"description": [
+				"Deceptively pleasant-looking, a ring of truth bears images of childlike angels and broadly smiling divine creatures holding onto links of a heavy chain. The wearer of this cursed ring is rendered unable to tell a deliberate lie, in either speech or writing. The wearer may simply omit the truth or choose not to communicate, but even then must succeed at a DC 20 Will saving throw to avoid answering a direct question truthfully. The wearer cannot remove the ring unless the magic of the curse is negated."
+			],
+			"construction": "Requirements ring of mind shielding, ring of x-ray vision; Cost -"
 		}
 	]
 }

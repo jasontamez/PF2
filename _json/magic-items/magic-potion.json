@@ -1,11 +1,11 @@
 {
+	"category": "magic item",
 	"list": [
 		{
 			"name": "Waybread",
 			"file": "magicpotionsdisplayac3b.html",
 			"sources": [ "Elves of Golarion" ],
 			"cost": 50,
-			"category": "magic item",
 			"types": [
 				"potion or oil"
 			],
@@ -27,7 +27,6 @@
 			"file": "magicpotionsdisplayaad6.html",
 			"sources": [ "Elves of Golarion" ],
 			"cost": 300,
-			"category": "magic item",
 			"types": [
 				"potion or oil"
 			],
@@ -49,7 +48,6 @@
 			"file": "magicpotionsdisplay9c40.html",
 			"sources": [ "Elves of Golarion" ],
 			"cost": 500,
-			"category": "magic item",
 			"types": [
 				"potion or oil"
 			],
@@ -71,7 +69,6 @@
 			"file": "magicpotionsdisplay5324.html",
 			"sources": [ "Elves of Golarion" ],
 			"cost": 600,
-			"category": "magic item",
 			"types": [
 				"potion or oil"
 			],
@@ -93,7 +90,6 @@
 			"file": "magicpotionsdisplay0892.html",
 			"sources": [ "Elves of Golarion" ],
 			"cost": 900,
-			"category": "magic item",
 			"types": [
 				"potion or oil"
 			],
@@ -116,7 +112,6 @@
 			"file": "magicpotionsdisplayd0bb.html",
 			"sources": [ "Elves of Golarion" ],
 			"cost": 900,
-			"category": "magic item",
 			"types": [
 				"potion or oil"
 			],
@@ -140,7 +135,6 @@
 			"file": "magicpotionsdisplay3b24.html",
 			"sources": [ "Faiths of Balance" ],
 			"cost": 1000,
-			"category": "magic item",
 			"types": [
 				"potion or oil"
 			],
@@ -162,7 +156,6 @@
 			"file": "magicpotionsdisplay5949.html",
 			"sources": [ "Second Darkness Player's Guide" ],
 			"cost": 1400,
-			"category": "magic item",
 			"types": [
 				"potion or oil"
 			],
@@ -186,7 +179,6 @@
 			"file": "magicpotionsdisplay9827.html",
 			"sources": [ "Elves of Golarion" ],
 			"cost": 1500,
-			"category": "magic item",
 			"types": [
 				"potion or oil"
 			],
@@ -208,7 +200,6 @@
 			"file": "magicpotionsdisplayb3fa.html",
 			"sources": [ "Tower of the Last Baron" ],
 			"cost": 1900,
-			"category": "magic item",
 			"types": [
 				"potion or oil"
 			],

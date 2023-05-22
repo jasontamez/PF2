@@ -1,11 +1,11 @@
 {
+	"category": "magic item",
 	"list": [
 		{
 			"name": "Grabbing Vines",
 			"file": "magicplantsdisplay4f4b.html",
 			"sources": [ "Ultimate Wilderness" ],
 			"cost": 2000,
-			"category": "magic item",
 			"types": [
 				"plant"
 			],
@@ -28,7 +28,6 @@
 			"file": "magicplantsdisplay5475.html",
 			"sources": [ "Ultimate Wilderness" ],
 			"cost": 3000,
-			"category": "magic item",
 			"types": [
 				"plant"
 			],
@@ -51,7 +50,6 @@
 			"file": "magicplantsdisplay9961.html",
 			"sources": [ "Ultimate Wilderness" ],
 			"cost": 4000,
-			"category": "magic item",
 			"types": [
 				"plant"
 			],
@@ -75,7 +73,6 @@
 			"file": "magicplantsdisplay433e.html",
 			"sources": [ "Ultimate Wilderness" ],
 			"cost": 5000,
-			"category": "magic item",
 			"types": [
 				"plant"
 			],
@@ -98,7 +95,6 @@
 			"file": "magicplantsdisplayd182.html",
 			"sources": [ "Wilderness Origins" ],
 			"cost": 7200,
-			"category": "magic item",
 			"types": [
 				"plant"
 			],
@@ -121,7 +117,6 @@
 			"file": "magicplantsdisplay739b.html",
 			"sources": [ "Ultimate Wilderness" ],
 			"cost": 8000,
-			"category": "magic item",
 			"types": [
 				"plant"
 			],
@@ -144,7 +139,6 @@
 			"file": "magicplantsdisplay5e01.html",
 			"sources": [ "Ultimate Wilderness" ],
 			"cost": 8000,
-			"category": "magic item",
 			"types": [
 				"plant"
 			],
@@ -167,7 +161,6 @@
 			"file": "magicplantsdisplayce1e.html",
 			"sources": [ "Ultimate Wilderness" ],
 			"cost": 9600,
-			"category": "magic item",
 			"types": [
 				"plant"
 			],
@@ -190,7 +183,6 @@
 			"file": "magicplantsdisplay0ce3.html",
 			"sources": [ "Ultimate Wilderness" ],
 			"cost": 10000,
-			"category": "magic item",
 			"types": [
 				"plant"
 			],
@@ -213,7 +205,6 @@
 			"file": "magicplantsdisplayfc9f.html",
 			"sources": [ "Wilderness Origins" ],
 			"cost": 10500,
-			"category": "magic item",
 			"types": [
 				"plant"
 			],
@@ -236,7 +227,6 @@
 			"file": "magicplantsdisplaya7dd.html",
 			"sources": [ "Ultimate Wilderness" ],
 			"cost": 12000,
-			"category": "magic item",
 			"types": [
 				"plant"
 			],
@@ -259,7 +249,6 @@
 			"file": "magicplantsdisplaybffd.html",
 			"sources": [ "Ultimate Wilderness" ],
 			"cost": 12000,
-			"category": "magic item",
 			"types": [
 				"plant"
 			],
@@ -282,7 +271,6 @@
 			"file": "magicplantsdisplay6645.html",
 			"sources": [ "Ultimate Wilderness" ],
 			"cost": 12000,
-			"category": "magic item",
 			"types": [
 				"plant"
 			],
@@ -305,7 +293,6 @@
 			"file": "magicplantsdisplay6b83.html",
 			"sources": [ "Ultimate Wilderness" ],
 			"cost": 12000,
-			"category": "magic item",
 			"types": [
 				"plant"
 			],
@@ -328,7 +315,6 @@
 			"file": "magicplantsdisplaya823.html",
 			"sources": [ "Wilderness Origins" ],
 			"cost": 16000,
-			"category": "magic item",
 			"types": [
 				"plant"
 			],
@@ -351,7 +337,6 @@
 			"file": "magicplantsdisplay6460.html",
 			"sources": [ "Ultimate Wilderness" ],
 			"cost": 20000,
-			"category": "magic item",
 			"types": [
 				"plant"
 			],
@@ -374,7 +359,6 @@
 			"file": "magicplantsdisplayf99f.html",
 			"sources": [ "Wilderness Origins" ],
 			"cost": 25000,
-			"category": "magic item",
 			"types": [
 				"plant"
 			],
@@ -397,7 +381,6 @@
 			"file": "magicplantsdisplay0aae.html",
 			"sources": [ "Ultimate Wilderness" ],
 			"cost": 30000,
-			"category": "magic item",
 			"types": [
 				"plant"
 			],
@@ -420,7 +403,6 @@
 			"file": "magicplantsdisplay6dfc.html",
 			"sources": [ "Ultimate Wilderness" ],
 			"cost": 30000,
-			"category": "magic item",
 			"types": [
 				"plant"
 			],
@@ -443,7 +425,6 @@
 			"file": "magicplantsdisplay42c7.html",
 			"sources": [ "Ultimate Wilderness" ],
 			"cost": 45000,
-			"category": "magic item",
 			"types": [
 				"plant"
 			],
@@ -466,7 +447,6 @@
 			"file": "magicplantsdisplayc1c3.html",
 			"sources": [ "Ultimate Wilderness" ],
 			"cost": 56000,
-			"category": "magic item",
 			"types": [
 				"plant"
 			],

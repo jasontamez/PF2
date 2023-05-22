@@ -667,7 +667,8 @@
 			]
 		},
 		{
-			"name": "Child of Yog-Sothoth",
+			"name": "Child of Yog Sothoth",
+			"display_name": "Child of Yog-Sothoth",
 			"file": "monstertemplatesc581.html",
 			"sources": [ "Pathfinder #113: What Grows Within" ],
 			"cr_adjustment": 1,
@@ -788,45 +789,29 @@
 			]
 		},
 		{
-			"name": "Color-Blighted",
-			"file": "monstertemplates0ac3.html",
-			"sources": [ "Bestiary 4" ],
+			"name": "Colour Blighted",
+			"display_name": "Colour-Blighted",
+			"file": "monstertemplates0e6c.html",
+			"sources": [
+				"Pathfinder #46: Wake of the Watcher",
+				"Bestiary 4"
+			],
 			"cr_adjustment": 0,
 			"acquired": true,
 			"simple": true,
 			"summonable": false,
 			"text": [
-				"Color-Blighted (CR +0)",
+				"Colour-Blighted (CR +0)",
 				"",
 				"[Bestiary 4](source:Bestiary 4)",
+				"[Pathfinder #46: Wake of the Watcher](source:Pathfinder #46: Wake of the Watcher)",
 				"**Acquired/Inherited Template** Acquired",
 				"**Simple Template** Yes",
 				"**Usable with Summons** No",
 				"",
 				"A creature with the colour-blighted simple template appears hideously deformed and glows with the same unnamable color as the creature that blighted it. A colour-blighted creature's quick and rebuild rules are the same.",
 				"",
-				"**Rebuild Rules:** A colour-blighted creature's ability scores are already drained as a result of being fed upon by a [colour out of space](unknown:colour out of space), but once a creature gains this template it becomes immune to further feed attacks from colours out of space until it loses the colour-blighted simple template. A Charisma score drained to 0 by a colour out of space's feed attack is raised to 1; otherwise, its ability scores are not altered by this template. In order to remove this simple template from a creature, one only has to restore all of its drained ability scores to normal. As long as a creature suffers the colour-blighted template, it becomes aggressive toward creatures that do not exude the colors of a colour out of space, and gains a +1 bonus on attack rolls and weapon damage rolls against such targets. Every 24 hours, a creature suffering from this simple template must succeed at a DC 12 Fortitude save or crumble into fine, white ash'such a doom means instant death and, for many color-blighted creatures, the only chance at escape from a life filled with pain."
-			]
-		},
-		{
-			"name": "Colour-Blighted",
-			"file": "monstertemplates0e6c.html",
-			"sources": [ "Pathfinder #46: Wake of the Watcher" ],
-			"cr_adjustment": 0,
-			"acquired": true,
-			"simple": true,
-			"summonable": true,
-			"text": [
-				"Colour-Blighted (CR +0)",
-				"",
-				"[Pathfinder #46: Wake of the Watcher](source:Pathfinder #46: Wake of the Watcher)",
-				"**Acquired/Inherited Template** Acquired",
-				"**Simple Template** Yes",
-				"**Usable with Summons** Yes",
-				"",
-				"A creature with the colour-blighted simple template appears hideously deformed and glows with the same unnamable color as the creature that blighted it. A colour-blighted creature's quick and rebuild rules are the same.",
-				"",
-				"**Rebuild Rules:** A colour-blighted creature's ability scores suffer drain as a result of being fed upon by a colour out of space, but once a creature gains this template, it becomes immune to further feed attacks from colours out of space until it loses the colour-blighted simple template. A Charisma score drained to 0 by a colour out of space's feed attack is raised to 1; other ability scores are not altered. In order to remove this simple template from a creature, one need only restore all of its drained ability scores to normal. As long as a creature suffers the colour-blighted template, it becomes strangely aggressive toward creatures that do not exude the colors of a colour out of space, and gains a +1 bonus on attack rolls and weapon damage rolls against such targets. Every 24 hours, a creature suffering from this simple template must make a DC 12 Fortitude save to resist crumbling into fine white ash'such a doom means instant death and, for many color-blighted creatures, their only chance at escape from a life filled with pain."
+				"**Rebuild Rules:** A colour-blighted creature's ability scores are already drained as a result of being fed upon by a [colour out of space](unknown:colour out of space), but once a creature gains this template, it becomes immune to further feed attacks from colours out of space until it loses the colour-blighted simple template. A Charisma score drained to 0 by a colour out of space's feed attack is raised to 1; otherwise, its ability scores are not altered by this template. In order to remove this simple template from a creature, one only has to restore all of its drained ability scores to normal. As long as a creature suffers the colour-blighted template, it becomes aggressive toward creatures that do not exude the colors of a colour out of space, and gains a +1 bonus on attack rolls and weapon damage rolls against such targets. Every 24 hours, a creature suffering from this simple template must succeed at a DC 12 Fortitude save or crumble into fine, white ash - such a doom means instant death and, for many color-blighted creatures, the only chance at escape from a life filled with pain."
 			]
 		},
 		{
@@ -1545,7 +1530,8 @@
 			]
 		},
 		{
-			"name": "Elemental-Infused Creature",
+			"name": "Elemental Infused Creature",
+			"display_name": "Elemental-Infused Creature",
 			"file": "monstertemplates6485.html",
 			"sources": [ "Planes of Power" ],
 			"cr_adjustment_range": [ 1, 2 ],
@@ -2149,7 +2135,8 @@
 			]
 		},
 		{
-			"name": "Fey-Touched Creature",
+			"name": "Fey Touched Creature",
+			"display_name": "Fey-Touched Creature",
 			"file": "monstertemplatese159.html",
 			"sources": [ "Heroes from the Fringe" ],
 			"cr_adjustment_range": [ 0, 1 ],
@@ -2179,7 +2166,8 @@
 			]
 		},
 		{
-			"name": "Fiend-Infused",
+			"name": "Fiend Infused",
+			"display_name": "Fiend-Infused",
 			"file": "monstertemplatesc3d4.html",
 			"sources": [ "Cheliax, the Infernal Empire" ],
 			"cr_adjustment": 2,
@@ -2964,7 +2952,8 @@
 			]
 		},
 		{
-			"name": "Half-Celestial",
+			"name": "Half Celestial",
+			"display_name": "Half-Celestial",
 			"file": "monstertemplates6c5b.html",
 			"sources": [ "Pathfinder RPG Bestiary" ],
 			"cr_adjustment_range": [ 1, 3 ],
@@ -3018,7 +3007,8 @@
 			]
 		},
 		{
-			"name": "Half-Dragon",
+			"name": "Half Dragon",
+			"display_name": "Half-Dragon",
 			"file": "monstertemplatesf32d.html",
 			"sources": [ "Pathfinder RPG Bestiary" ],
 			"cr_adjustment": 2,
@@ -3064,7 +3054,8 @@
 			]
 		},
 		{
-			"name": "Half-Fiend",
+			"name": "Half Fiend",
+			"display_name": "Half-Fiend",
 			"file": "monstertemplates248d.html",
 			"sources": [
 				"Pathfinder RPG Bestiary",
@@ -3276,7 +3267,8 @@
 			]
 		},
 		{
-			"name": "Half-Janni",
+			"name": "Half Janni",
+			"display_name": "Half-Janni",
 			"file": "monstertemplates1e5e.html",
 			"sources": [ "Qadira, Gateway to the East" ],
 			"cr_adjustment": 2,
@@ -3716,7 +3708,8 @@
 			]
 		},
 		{
-			"name": "Jiang-Shi",
+			"name": "Jiang Shi",
+			"display_name": "Jiang-Shi",
 			"file": "monstertemplatesd01f.html",
 			"sources": [ "Bestiary 3" ],
 			"cr_adjustment": 2,
@@ -4114,7 +4107,8 @@
 			]
 		},
 		{
-			"name": "Man-Eating Animal",
+			"name": "Man Eating Animal",
+			"display_name": "Man-Eating Animal",
 			"file": "monstertemplates897d.html",
 			"sources": [ "Pathfinder #74: Sword of Valor" ],
 			"cr_adjustment_range": [ 1, 3 ],
@@ -5048,7 +5042,8 @@
 			]
 		},
 		{
-			"name": "Pod-Spawned",
+			"name": "Pod Spawned",
+			"display_name": "Pod-Spawned",
 			"file": "monstertemplatescba4.html",
 			"sources": [ "Bestiary 4" ],
 			"cr_adjustment_range": [
@@ -5219,7 +5214,8 @@
 			]
 		},
 		{
-			"name": "Prophecy-Addled Creature",
+			"name": "Prophecy Addled Creature",
+			"display_name": "Prophecy-Addled Creature",
 			"file": "monstertemplates7546.html",
 			"sources": [ "Pathfinder #125: Tower of the Drowned Dead" ],
 			"cr_adjustment": 1,
@@ -5888,7 +5884,8 @@
 			]
 		},
 		{
-			"name": "Sea-Sworn",
+			"name": "Sea Sworn",
+			"display_name": "Sea-Sworn",
 			"file": "monstertemplates0cb7.html",
 			"sources": [ "Treasure of Chimera Cove" ],
 			"cr_adjustment": 1,
@@ -6746,7 +6743,8 @@
 			]
 		},
 		{
-			"name": "Steam-Powered Construct",
+			"name": "Steam Powered Construct",
+			"display_name": "Steam-Powered Construct",
 			"file": "monstertemplates1f68.html",
 			"sources": [ "Construct Handbook" ],
 			"cr_adjustment": 2,
@@ -7700,7 +7698,8 @@
 			]
 		},
 		{
-			"name": "Winter-Touched Fey",
+			"name": "Winter Touched Fey",
+			"display_name": "Winter-Touched Fey",
 			"file": "monstertemplates0287.html",
 			"sources": [ "Pathfinder #67: The Snows of Summer" ],
 			"cr_adjustment": 0,

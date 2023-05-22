@@ -1,11 +1,11 @@
 {
+	"category": "magic item",
 	"list": [
 		{
 			"name": "Staff of Blessed Relief",
 			"file": "magicstavesdisplay6c32.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 7200,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -30,7 +30,6 @@
 			"file": "magicstavesdisplaye74f.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 8000,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -54,7 +53,6 @@
 			"file": "magicstavesdisplayedad.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 8800,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -80,7 +78,6 @@
 			"file": "magicstavesdisplay1941.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 9600,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -105,7 +102,6 @@
 			"file": "magicstavesdisplay5fbe.html",
 			"sources": [ "Advanced Class Guide" ],
 			"cost": 12000,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -129,7 +125,6 @@
 			"file": "magicstavesdisplayc7b6.html",
 			"sources": [ "Advanced Class Guide" ],
 			"cost": 12150,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -154,7 +149,6 @@
 			"file": "magicstavesdisplay58d7.html",
 			"sources": [ "Advanced Class Guide" ],
 			"cost": 12650,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -179,7 +173,6 @@
 			"file": "magicstavesdisplayeade.html",
 			"sources": [ "Advanced Class Guide" ],
 			"cost": 13100,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -205,7 +198,6 @@
 			"file": "magicstavesdisplaycf7f.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 14400,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -233,7 +225,6 @@
 				"Pathfinder Society Field Guide"
 			],
 			"cost": 14400,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -258,7 +249,6 @@
 			"file": "magicstavesdisplaya313.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 14800,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -284,7 +274,6 @@
 			"file": "magicstavesdisplay41fa.html",
 			"sources": [ "Conquest of Bloodsworn Vale" ],
 			"cost": 15200,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -310,7 +299,6 @@
 			"file": "magicstavesdisplay0e8c.html",
 			"sources": [ "Realm of the Fellnight Queen" ],
 			"cost": 16800,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -339,7 +327,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 17600,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -366,7 +353,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 18950,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -391,7 +377,6 @@
 			"file": "magicstavesdisplaya100.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 20000,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -420,7 +405,6 @@
 				"Pathfinder Society Field Guide"
 			],
 			"cost": 20800,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -446,7 +430,6 @@
 			"file": "magicstavesdisplay893f.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 20800,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -473,7 +456,6 @@
 			"file": "magicstavesdisplaydc35.html",
 			"sources": [ "Dragonslayer's Handbook" ],
 			"cost": 20800,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -500,7 +482,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 20800,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -527,7 +508,6 @@
 			"file": "magicstavesdisplay65f2.html",
 			"sources": [ "Advanced Class Origins" ],
 			"cost": 21600,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -552,7 +532,6 @@
 			"file": "magicstavesdisplayf9d7.html",
 			"sources": [ "Horror Adventures" ],
 			"cost": 22800,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -581,7 +560,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 22800,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -605,7 +583,6 @@
 			"file": "magicstavesdisplaycd72.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 23000,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -633,7 +610,6 @@
 				"Pathfinder Society Field Guide"
 			],
 			"cost": 23200,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -658,7 +634,6 @@
 			"file": "magicstavesdisplay650f.html",
 			"sources": [ "Advanced Class Origins" ],
 			"cost": 24800,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -687,7 +662,6 @@
 			"file": "magicstavesdisplaye85b.html",
 			"sources": [ "Hungry are the Dead" ],
 			"cost": 25000,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -716,7 +690,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 26150,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -743,7 +716,6 @@
 			"file": "magicstavesdisplaye703.html",
 			"sources": [ "Pathfinder #122: Into the Shattered Continent" ],
 			"cost": 26600,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -774,7 +746,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 27200,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -801,7 +772,6 @@
 			"file": "magicstavesdisplay9e4d.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 28600,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -826,7 +796,6 @@
 			"file": "magicstavesdisplayeb13.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 29600,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -852,7 +821,6 @@
 			"file": "magicstavesdisplay9491.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 29600,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -878,7 +846,6 @@
 			"file": "magicstavesdisplayde78.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 29600,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -907,7 +874,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 29600,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -933,7 +899,6 @@
 			"file": "magicstavesdisplayf0c8.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 29600,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -959,7 +924,6 @@
 			"file": "magicstavesdisplaycff6.html",
 			"sources": [ "Horror Adventures" ],
 			"cost": 30000,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -986,7 +950,6 @@
 			"file": "magicstavesdisplaye0f8.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 30000,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -1012,7 +975,6 @@
 			"file": "magicstavesdisplay41fa-2.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 30200,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -1037,7 +999,6 @@
 			"file": "magicstavesdisplay5458.html",
 			"sources": [ "Heroes of the Wild" ],
 			"cost": 31800,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -1063,7 +1024,6 @@
 			"file": "magicstavesdisplayae71.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 31900,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -1088,7 +1048,6 @@
 			"file": "magicstavesdisplayce92.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 32000,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -1115,7 +1074,6 @@
 			"file": "magicstavesdisplay91d0.html",
 			"sources": [ "Horror Adventures" ],
 			"cost": 32000,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -1141,7 +1099,6 @@
 			"file": "magicstavesdisplaya5b5.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 32000,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -1171,7 +1128,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 32800,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -1201,7 +1157,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 34200,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -1228,7 +1183,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 36000,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -1253,7 +1207,6 @@
 			"file": "magicstavesdisplay9018.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 37310,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -1279,7 +1232,6 @@
 			"file": "magicstavesdisplay9055.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 37600,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -1305,7 +1257,6 @@
 			"file": "magicstavesdisplay3155.html",
 			"sources": [ "Down the Blighted Path" ],
 			"cost": 38300,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -1335,7 +1286,6 @@
 			"file": "magicstavesdisplay76ef.html",
 			"sources": [ "Sargava, the Lost Colony" ],
 			"cost": 39050,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -1365,7 +1315,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 39300,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -1394,7 +1343,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 41400,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -1422,7 +1370,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 41600,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -1448,7 +1395,6 @@
 			"file": "magicstavesdisplayb1ea.html",
 			"sources": [ "Pathfinder #75: Demon's Heresy" ],
 			"cost": 43400,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -1477,7 +1423,6 @@
 			"file": "magicstavesdisplayd170.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 43500,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -1504,7 +1449,6 @@
 			"file": "magicstavesdisplaye7d1.html",
 			"sources": [ "Pathfinder #88: Valley of the Brain Collectors" ],
 			"cost": 43500,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -1532,7 +1476,6 @@
 			"file": "magicstavesdisplay242d.html",
 			"sources": [ "Advanced Player's Guide" ],
 			"cost": 44400,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -1556,7 +1499,6 @@
 			"file": "magicstavesdisplay1784.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 47000,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -1586,7 +1528,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 48800,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -1615,7 +1556,6 @@
 			"file": "magicstavesdisplayd0fb.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 49800,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -1641,7 +1581,6 @@
 			"file": "magicstavesdisplayd572.html",
 			"sources": [ "Dragonslayer's Handbook" ],
 			"cost": 51000,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -1669,7 +1608,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 51008,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -1698,7 +1636,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 51500,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -1724,7 +1661,6 @@
 			"file": "magicstavesdisplaydd80.html",
 			"sources": [ "Champions of Purity" ],
 			"cost": 51688,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -1749,7 +1685,6 @@
 			"file": "magicstavesdisplay17e1.html",
 			"sources": [ "Pathfinder #64: Beyond the Doomsday Door" ],
 			"cost": 52000,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -1779,7 +1714,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 52850,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -1811,7 +1745,6 @@
 				"Rise of the Runelords Anniversary Edition"
 			],
 			"cost": 54000,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -1838,7 +1771,6 @@
 			"file": "magicstavesdisplay7f80.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 54400,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -1867,7 +1799,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 55866,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -1894,7 +1825,6 @@
 			"file": "magicstavesdisplayc1d5.html",
 			"sources": [ "Down the Blighted Path" ],
 			"cost": 56300,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -1924,7 +1854,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 56700,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -1956,7 +1885,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 56925,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -1987,7 +1915,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 57200,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -2014,7 +1941,6 @@
 			"file": "magicstavesdisplayec1e.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 57200,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -2045,7 +1971,6 @@
 				"Rise of the Runelords Anniversary Edition"
 			],
 			"cost": 58000,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -2071,7 +1996,6 @@
 			"file": "magicstavesdisplay56f4.html",
 			"sources": [ "Chronicle of the Righteous" ],
 			"cost": 59400,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -2098,7 +2022,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 62000,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -2124,7 +2047,6 @@
 			"file": "magicstavesdisplayaf99.html",
 			"sources": [ "Pathfinder #34: Blood for Blood" ],
 			"cost": 63180,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -2152,7 +2074,6 @@
 			"file": "magicstavesdisplayccc1.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 63960,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -2182,7 +2103,6 @@
 				"Rise of the Runelords Anniversary Edition"
 			],
 			"cost": 69300,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -2210,7 +2130,6 @@
 			"file": "magicstavesdisplay3434.html",
 			"sources": [ "Pathfinder #34: Blood for Blood" ],
 			"cost": 72750,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -2237,7 +2156,6 @@
 			"file": "magicstavesdisplay3218.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 81000,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -2267,7 +2185,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 81766,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -2298,7 +2215,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 82000,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -2329,7 +2245,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 82000,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -2360,7 +2275,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 82000,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -2391,7 +2305,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 82000,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -2422,7 +2335,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 82000,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -2453,7 +2365,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 82000,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -2484,7 +2395,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 82000,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -2515,7 +2425,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 82000,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -2546,7 +2455,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 84066,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -2577,7 +2485,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 85800,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -2604,7 +2511,6 @@
 				"Advanced Player's Guide"
 			],
 			"cost": 86666,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -2632,7 +2538,6 @@
 			"file": "magicstavesdisplay3eaa.html",
 			"sources": [ "Aquatic Adventures" ],
 			"cost": 90300,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -2662,7 +2567,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 100400,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -2694,7 +2598,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 109400,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -2718,7 +2621,6 @@
 			"file": "magicstavesdisplayf31b.html",
 			"sources": [ "Divine Anthology" ],
 			"cost": 131550,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -2747,7 +2649,6 @@
 			"file": "magicstavesdisplay6683.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 180200,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -2775,7 +2676,6 @@
 			"file": "magicstavesdisplayf266.html",
 			"sources": [ "Occult Adventures" ],
 			"cost": 200000,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -2808,7 +2708,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 206900,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -2835,7 +2734,6 @@
 			"file": "magicstavesdisplay7f3e.html",
 			"sources": [ "Ultimate Equipment" ],
 			"cost": 220000,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -2869,7 +2767,6 @@
 			"file": "magicstavesdisplay24b1.html",
 			"sources": [ "Pathfinder #72: The Witch Queen's Revenge" ],
 			"cost": 228000,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -2901,7 +2798,6 @@
 				"PRPG Core Rulebook"
 			],
 			"cost": 235000,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -2936,7 +2832,6 @@
 			"file": "magicstavesdisplay6c67.html",
 			"sources": [ "Lost Treasures" ],
 			"cost": 240000,
-			"category": "magic item",
 			"types": [
 				"staff"
 			],
@@ -2964,6 +2859,50 @@
 				"The retributive strike destroys the staff, although it reforms on the anniversary of Lasirro's death 10d10 years later somewhere on the Material Plane within 100 miles of one of Lasirro's descendants."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, Craft Staff, Heighten Spell, Widen Spell, break enchantment, fireball, flame arrow, greater dispel magic, invisibility, knock, nondetection, repulsion, wall of force; Cost 120,000 gp"
+		},
+		{
+			"name": "Staff of Magical Decline",
+			"file": "magiccurseddisplaye9e8.html",
+			"sources": [ "Horror Adventures" ],
+			"types": [
+				"cursed",
+				"staff"
+			],
+			"slot": "none",
+			"weight": 5,
+			"cursed": true,
+			"header": [
+				"Staff of Magical Decline",
+				"Source [Horror Adventures pg. 143](source:Horror Adventures)",
+				"Aura varies CL varies",
+				"Slot none; Weight 5 lbs."
+			],
+			"description": [
+				"This staff appears to be an ordinary staff and functions normally as such until it is used in combat. The wielder's effective caster level drops to match that of the staff or the wielder's caster level - 4, whichever is lower. The wielder's spellcasting ability score drops to 10 + staff's highest spell level, unless it is already lower.",
+				"The wielder must employ the staff rather than any other melee weapon or spell trigger item. Even if the staff is fully charged, the caster fails to regain spell slots for the day unless she forgoes a spell slot to restore 1 charge to the staff. However, she never again regains a spell slot used to charge the staff until she is freed from the curse. The only way for the wielder to be rid of the staff is by miracle or wish."
+			],
+			"construction": "Requirements any staff; Cost -"
+		},
+		{
+			"name": "Staff of Occasional Wonder",
+			"file": "magiccurseddisplay4341.html",
+			"sources": [ "Ultimate Equipment" ],
+			"types": [
+				"cursed",
+				"staff"
+			],
+			"slot": "none",
+			"weight": 4,
+			"cursed": true,
+			"header": [
+				"Source [Ultimate Equipment pg. 351](source:Ultimate Equipment)",
+				"Aura varies CL varies",
+				"Slot none; Weight 4 lbs."
+			],
+			"description": [
+				"A staff of occasional wonder can appear to be any magical staff, and in fact such items are usually the result of accidents during an attempted crafting of the staff it appears to be. It usually functions as intended, but each time someone uses the staff, they must roll d%. On a roll of 1-10, instead of the desired effect, the staff acts like a rod of wonder (see page 185)."
+			],
+			"construction": "Requirements any staff; Cost -"
 		}
 	]
 }

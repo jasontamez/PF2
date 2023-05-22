@@ -10,8 +10,8 @@
 			"xp": 2457600,
 			"alignment": "NE",
 			"size": "colossal",
-			"type": "undead",
-			"subtypes": [ "cold", "kaiju" ],
+			"creature_type": "undead",
+			"creature_subtypes": [ "cold", "kaiju" ],
 			"initiative": 5,
 			"senses": [
 				"creaturesense",
@@ -158,7 +158,8 @@
 			"short_description": "Stony segments cover this towering colossus like armor plates. Though it looks lifeless, its four arms move with supple grace."
 		},
 		{
-			"name": "Ahriman, Lord of All Divs",
+			"name": "Ahriman",
+			"display_name": "Ahriman, Lord of All Divs",
 			"file": "monsterdisplay5553.html",
 			"sources": [
 				"Mythic Realms",
@@ -168,8 +169,8 @@
 			"xp": 2457600,
 			"alignment": "NE",
 			"size": "huge",
-			"type": "outsider",
-			"subtypes": [ "div", "evil", "extraplanar" ],
+			"creature_type": "outsider",
+			"creature_subtypes": [ "div", "evil", "extraplanar" ],
 			"initiative": 20,
 			"senses": [
 				"darkvision 60 ft.",
@@ -334,7 +335,8 @@
 			"short_description": "This humanoid creature has the head of a ravening, horned lion. A chorus of anguished screams echoes from his gaping maw."
 		},
 		{
-			"name": "Akilep, Lady of Stone",
+			"name": "Akilep",
+			"display_name": "Akilep, Lady of Stone",
 			"file": "monsterdisplay41d0.html",
 			"sources": [ "Mythical Monsters Revisited" ],
 			"cr": 13,
@@ -342,7 +344,7 @@
 			"levels": "Female unique gynosphinx",
 			"alignment": "N",
 			"size": "gargantuan",
-			"type": "magical beast",
+			"creature_type": "magical beast",
 			"initiative": 3,
 			"senses": [
 				"darkvision 60 ft.",
@@ -457,7 +459,7 @@
 			"levels": "Dryad druid 3",
 			"alignment": "CG",
 			"size": "medium",
-			"type": "fey",
+			"creature_type": "fey",
 			"initiative": 5,
 			"senses": [ "low-light vision" ],
 			"perception": 13,
@@ -557,7 +559,8 @@
 			"short_description": "This lithe, otherworldly woman has with deep brown eyes and dark green hair that cascades past her waist. She's adorned in trinkets made from a great white pine's needles and cones."
 		},
 		{
-			"name": "Aridus, the Desert's Howl",
+			"name": "Aridus",
+			"display_name": "Aridus, the Desert's Howl",
 			"file": "monsterdisplay893f.html",
 			"sources": [ "Mythical Monsters Revisited" ],
 			"cr": 19,
@@ -565,8 +568,8 @@
 			"levels": "Male dust wendigo",
 			"alignment": "CE",
 			"size": "huge",
-			"type": "outsider",
-			"subtypes": [ "air", "fire", "native" ],
+			"creature_type": "outsider",
+			"creature_subtypes": [ "air", "fire", "native" ],
 			"initiative": 12,
 			"senses": [
 				"blindsight 60 ft.",
@@ -684,7 +687,8 @@
 			"short_description": "This hunched-over, vaguely humanoid creature has gauntly muscled biceps beneath a sandy hide and coarse fur. Its head is that of a jagged-toothed antelope, the face spotted with rot and sand slowly sifting out from between the fibers of its hair, and its legs end at the shin in stumps of charred flesh."
 		},
 		{
-			"name": "Ayandamahla, the Crimson Lotus",
+			"name": "Ayandamahla",
+			"display_name": "Ayandamahla, the Crimson Lotus",
 			"file": "monsterdisplaye9bf.html",
 			"sources": [ "Demons Revisited" ],
 			"cr": 24,
@@ -692,8 +696,8 @@
 			"levels": "Female succubus bard 20",
 			"alignment": "CE",
 			"size": "medium",
-			"type": "outsider",
-			"subtypes": [ "chaotic", "demon", "evil", "extraplanar" ],
+			"creature_type": "outsider",
+			"creature_subtypes": [ "chaotic", "demon", "evil", "extraplanar" ],
 			"initiative": 5,
 			"senses": [
 				"darkvision 60 ft.",
@@ -832,7 +836,8 @@
 			"short_description": "This pale woman is as beautiful as she is menacing-her smile promises endless bliss, yet her weapons and fangs drip with blood."
 		},
 		{
-			"name": "Balravnus, Lord of the Deep Pools",
+			"name": "Balravnus",
+			"display_name": "Balravnus, Lord of the Deep Pools",
 			"file": "monsterdisplay298e.html",
 			"sources": [ "Demons Revisited" ],
 			"cr": 18,
@@ -840,8 +845,8 @@
 			"levels": "Male hezrou barbarian 7",
 			"alignment": "CE",
 			"size": "large",
-			"type": "outsider",
-			"subtypes": [ "aquatic", "chaotic", "demon", "evil", "extraplanar" ],
+			"creature_type": "outsider",
+			"creature_subtypes": [ "aquatic", "chaotic", "demon", "evil", "extraplanar" ],
 			"initiative": 6,
 			"senses": [ "darkvision 60 ft." ],
 			"perception": 31,
@@ -957,14 +962,15 @@
 			"short_description": "This lumbering toadlike demon wields a blood-soaked halberd in its powerful hands-one of those hands is clad in a rusting jagged gauntlet, while on the beast's misshapen head perches a leering helm made of greasy green metal."
 		},
 		{
-			"name": "Bee-Man of Bellis",
+			"name": "Bee Man of Bellis",
+			"display_name": "Bee-Man of Bellis",
 			"file": "monsterdisplay9120.html",
 			"sources": [ "Andoran, Birthplace of Freedom" ],
 			"cr": 9,
 			"xp": 6400,
 			"alignment": "NE",
 			"size": "medium",
-			"type": "aberration",
+			"creature_type": "aberration",
 			"initiative": 6,
 			"senses": [
 				"darkvision 60 ft.",
@@ -1082,7 +1088,8 @@
 			"short_description": "This shabby-cloaked figure is surrounded by hundreds of bees."
 		},
 		{
-			"name": "Bezilak, the Silken Fang",
+			"name": "Bezilak",
+			"display_name": "Bezilak, the Silken Fang",
 			"file": "monsterdisplay9449.html",
 			"sources": [ "Demons Revisited" ],
 			"cr": 17,
@@ -1090,8 +1097,8 @@
 			"levels": "Male glabrezu rogue 8",
 			"alignment": "CE",
 			"size": "huge",
-			"type": "outsider",
-			"subtypes": [ "chaotic", "demon", "evil", "extraplanar" ],
+			"creature_type": "outsider",
+			"creature_subtypes": [ "chaotic", "demon", "evil", "extraplanar" ],
 			"initiative": 7,
 			"senses": [
 				"darkvision 60 ft.",
@@ -1227,8 +1234,8 @@
 			"xp": 51200,
 			"alignment": "CE",
 			"size": "gargantuan",
-			"type": "outsider",
-			"subtypes": [ "aquatic", "native" ],
+			"creature_type": "outsider",
+			"creature_subtypes": [ "aquatic", "native" ],
 			"initiative": 4,
 			"senses": [
 				"all-around vision",
@@ -1363,8 +1370,8 @@
 			"levels": "Male munavri psychic 2/swashbuckler 4",
 			"alignment": "CG",
 			"size": "medium",
-			"type": "humanoid",
-			"subtypes": [ "munavri" ],
+			"creature_type": "humanoid",
+			"creature_subtypes": [ "munavri" ],
 			"initiative": 5,
 			"senses": [ "darkvision 120 ft." ],
 			"perception": 7,
@@ -1470,8 +1477,8 @@
 			"xp": 51200,
 			"alignment": "CG",
 			"size": "medium",
-			"type": "outsider",
-			"subtypes": [ "chaotic", "extraplanar", "good" ],
+			"creature_type": "outsider",
+			"creature_subtypes": [ "chaotic", "extraplanar", "good" ],
 			"initiative": 10,
 			"senses": [
 				"darkvision 60 ft.",
@@ -1620,8 +1627,8 @@
 			"xp": 51200,
 			"alignment": "CE",
 			"size": "huge",
-			"type": "outsider",
-			"subtypes": [ "chaotic", "evil", "native" ],
+			"creature_type": "outsider",
+			"creature_subtypes": [ "chaotic", "evil", "native" ],
 			"initiative": 11,
 			"senses": [
 				"all-around vision",
@@ -1756,7 +1763,8 @@
 			"short_description": "The air fills with the sound of hissing snakes as a giant, severed snake's head floats into view, with a gaping mouth and twin fangs dripping virulent poison. Its eyes are milky and blind, but its forked tongue constantly tests the air for fresh scents. Below the head, where a body should be, numerous hissing serpents thrash like tendrils of torn flesh. Blood drips from the severed head, sizzling as it burns like acid through anything it touches."
 		},
 		{
-			"name": "Erotundee, Keeper of the Risen Light",
+			"name": "Erotundee",
+			"display_name": "Erotundee, Keeper of the Risen Light",
 			"file": "monsterdisplay8593.html",
 			"sources": [ "Demons Revisited" ],
 			"cr": 22,
@@ -1764,8 +1772,8 @@
 			"levels": "Female nalfeshnee wizard 15",
 			"alignment": "CE",
 			"size": "huge",
-			"type": "outsider",
-			"subtypes": [ "chaotic", "demon", "evil", "extraplanar" ],
+			"creature_type": "outsider",
+			"creature_subtypes": [ "chaotic", "demon", "evil", "extraplanar" ],
 			"initiative": 6,
 			"senses": [
 				"darkvision 60 ft.",
@@ -1920,7 +1928,7 @@
 			"levels": "Male morlock cleric of Lamashtu 4",
 			"alignment": "CE",
 			"size": "medium",
-			"type": "monstrous humanoid",
+			"creature_type": "monstrous humanoid",
 			"initiative": 3,
 			"senses": [
 				"darkvision 120 ft.",
@@ -2027,7 +2035,7 @@
 			"levels": "Male leprechaun sorcerer 5",
 			"alignment": "CN",
 			"size": "small",
-			"type": "fey",
+			"creature_type": "fey",
 			"initiative": 8,
 			"senses": [
 				"darkvision 60 ft.",
@@ -2128,7 +2136,8 @@
 			"short_description": "Dressed entirely in gray worn robes, a tiny, otherworldly man stands cloaked in mysterious shadows, his head crowned by a mane of wild, fiery-orange hair and his green eyes gleaming with madness and delight."
 		},
 		{
-			"name": "Galundari, the Scourge of Heaven",
+			"name": "Galundari",
+			"display_name": "Galundari, the Scourge of Heaven",
 			"file": "monsterdisplay0c68.html",
 			"sources": [ "Demons Revisited" ],
 			"cr": 25,
@@ -2136,8 +2145,8 @@
 			"levels": "Male balor lord fighter 5",
 			"alignment": "CE",
 			"size": "large",
-			"type": "outsider",
-			"subtypes": [ "chaotic", "demon", "evil", "extraplanar" ],
+			"creature_type": "outsider",
+			"creature_subtypes": [ "chaotic", "demon", "evil", "extraplanar" ],
 			"initiative": 6,
 			"senses": [
 				"darkvision 60 ft.",
@@ -2281,8 +2290,8 @@
 			"levels": "Female troglodyte hunter (feral hunter) 7",
 			"alignment": "NE",
 			"size": "medium",
-			"type": "humanoid",
-			"subtypes": [ "reptilian" ],
+			"creature_type": "humanoid",
+			"creature_subtypes": [ "reptilian" ],
 			"initiative": 2,
 			"senses": [ "darkvision 90 ft." ],
 			"perception": 12,
@@ -2372,7 +2381,8 @@
 			"short_description": "Wielding a net of woven moss and a stone javelin, this humanoid reptile wears armor of swamp reeds and bone and the skull of a larger reptile as a menacing mask."
 		},
 		{
-			"name": "Grendler Red-Chains",
+			"name": "Grendler Red Chains",
+			"display_name": "Grendler Red-Chains",
 			"file": "monsterdisplay0868.html",
 			"sources": [ "Fey Revisited" ],
 			"cr": 11,
@@ -2380,7 +2390,7 @@
 			"levels": "Male advanced redcap",
 			"alignment": "NE",
 			"size": "medium",
-			"type": "fey",
+			"creature_type": "fey",
 			"initiative": 8,
 			"senses": [ "low-light vision" ],
 			"perception": 17,
@@ -2473,7 +2483,8 @@
 			"short_description": "Shards of broken manacles, links of chain, and iron flails are imbedded in this hideous, human-sized man's ruddy flesh. Rivulets of congealing blood run from its soaked cap down its mangled face and neck, soaking its tangled white beard; in its arms looms a rusty but clearly sharp scythe."
 		},
 		{
-			"name": "Ilzunae, the Gloom Widow",
+			"name": "Ilzunae",
+			"display_name": "Ilzunae, the Gloom Widow",
 			"file": "monsterdisplayca32.html",
 			"sources": [ "Demons Revisited" ],
 			"cr": 19,
@@ -2481,8 +2492,8 @@
 			"levels": "Female shadow demon cleric of Nocticula 15",
 			"alignment": "CE",
 			"size": "medium",
-			"type": "outsider",
-			"subtypes": [ "chaotic", "demon", "evil", "extraplanar", "incorporeal" ],
+			"creature_type": "outsider",
+			"creature_subtypes": [ "chaotic", "demon", "evil", "extraplanar", "incorporeal" ],
 			"initiative": 6,
 			"senses": [ "darkvision 60 ft." ],
 			"perception": 31,
@@ -2615,8 +2626,8 @@
 			"levels": "Variant nuckelavee",
 			"alignment": "NE",
 			"size": "large",
-			"type": "fey",
-			"subtypes": [ "aquatic" ],
+			"creature_type": "fey",
+			"creature_subtypes": [ "aquatic" ],
 			"initiative": 5,
 			"senses": [ "darkvision 60 ft." ],
 			"perception": 17,
@@ -2719,7 +2730,8 @@
 			"short_description": "Growing from the back of a horselike beast is the torso of a sea hag with grossly elongated arms and large, clawed hands. Its tangled web of stringy hair does not hide the disturbing fact that the hideous creature has no skin, and is built of gore and viscera."
 		},
 		{
-			"name": "Kaltestrua, Governess of Casnoriva",
+			"name": "Kaltestrua",
+			"display_name": "Kaltestrua, Governess of Casnoriva",
 			"file": "monsterdisplay5813.html",
 			"sources": [ "Demons Revisited" ],
 			"cr": 21,
@@ -2727,8 +2739,8 @@
 			"levels": "Female marilith sorcerer 7",
 			"alignment": "CE",
 			"size": "large",
-			"type": "outsider",
-			"subtypes": [ "chaotic", "demon", "evil", "extraplanar" ],
+			"creature_type": "outsider",
+			"creature_subtypes": [ "chaotic", "demon", "evil", "extraplanar" ],
 			"initiative": 6,
 			"senses": [
 				"darkvision 60 ft.",
@@ -2859,7 +2871,8 @@
 			"short_description": "This serpent-bodied, six-armed woman is painfully thin, haggard, and gaunt. Bloody sores dot her flesh, and the skulladorned flails she wields drip black liquid."
 		},
 		{
-			"name": "Khalirai, the Ivory Queen",
+			"name": "Khalirai",
+			"display_name": "Khalirai, the Ivory Queen",
 			"file": "monsterdisplay999a.html",
 			"sources": [ "Fey Revisited" ],
 			"cr": 15,
@@ -2867,7 +2880,7 @@
 			"levels": "Nymph oracle 8",
 			"alignment": "CG",
 			"size": "medium",
-			"type": "fey",
+			"creature_type": "fey",
 			"initiative": 7,
 			"senses": [
 				"darkvision 60 ft.",
@@ -2990,8 +3003,8 @@
 			"xp": 51200,
 			"alignment": "LE",
 			"size": "large",
-			"type": "outsider",
-			"subtypes": [ "evil", "extraplanar", "lawful" ],
+			"creature_type": "outsider",
+			"creature_subtypes": [ "evil", "extraplanar", "lawful" ],
 			"initiative": 10,
 			"senses": [
 				"blindsense 60 ft.",
@@ -3137,8 +3150,8 @@
 			"xp": 1638400,
 			"alignment": "LE",
 			"size": "medium",
-			"type": "outsider",
-			"subtypes": [ "devil", "evil", "extraplanar", "lawful" ],
+			"creature_type": "outsider",
+			"creature_subtypes": [ "devil", "evil", "extraplanar", "lawful" ],
 			"initiative": 11,
 			"senses": [
 				"darkvision 60 ft.",
@@ -3304,8 +3317,8 @@
 			"levels": "Rusalka rogue 4",
 			"alignment": "NE",
 			"size": "medium",
-			"type": "fey",
-			"subtypes": [ "aquatic" ],
+			"creature_type": "fey",
+			"creature_subtypes": [ "aquatic" ],
 			"initiative": 13,
 			"senses": [ "low-light vision" ],
 			"perception": 33,
@@ -3422,7 +3435,8 @@
 			"short_description": "Standing amid a roiling fog, this nude, humanoid woman's pale, wet skin glistens. Her long, dark hair moves about her head as though she were submerged underwater, and rapier in her hand crackles with arcane energy."
 		},
 		{
-			"name": "Malziarax, Rune Giant Overlord",
+			"name": "Malziarax",
+			"display_name": "Malziarax, Rune Giant Overlord",
 			"file": "monsterdisplay9cdb.html",
 			"sources": [ "Giants Revisited" ],
 			"cr": 21,
@@ -3430,8 +3444,8 @@
 			"levels": "Female rune giant fighter 4",
 			"alignment": "LE",
 			"size": "gargantuan",
-			"type": "humanoid",
-			"subtypes": [ "giant" ],
+			"creature_type": "humanoid",
+			"creature_subtypes": [ "giant" ],
 			"initiative": 6,
 			"senses": [ "low-light vision" ],
 			"perception": 32,
@@ -3537,7 +3551,8 @@
 			"short_description": "This enormous, ebon-skinned giant is covered in glowing red runes and exotic plate armor."
 		},
 		{
-			"name": "Mangvhune, the Temple Hill Slasher",
+			"name": "Mangvhune",
+			"display_name": "Mangvhune, the Temple Hill Slasher",
 			"file": "monsterdisplayf813.html",
 			"sources": [ "Demons Revisited" ],
 			"cr": 16,
@@ -3545,8 +3560,8 @@
 			"levels": "Male babau assassin 10",
 			"alignment": "CE",
 			"size": "medium",
-			"type": "outsider",
-			"subtypes": [ "chaotic", "demon", "evil", "extraplanar" ],
+			"creature_type": "outsider",
+			"creature_subtypes": [ "chaotic", "demon", "evil", "extraplanar" ],
 			"initiative": 8,
 			"senses": [
 				"darkvision 60 ft.",
@@ -3658,7 +3673,8 @@
 			"short_description": "This leering, single-horned demon seems emaciated even clad in black dragonhide armor. A viscous layer of crimson slime glistens on its flesh, dripping over its armor in red rivulets."
 		},
 		{
-			"name": "Mardahamman, Cyclops Tyrant",
+			"name": "Mardahamman",
+			"display_name": "Mardahamman, Cyclops Tyrant",
 			"file": "monsterdisplay765c.html",
 			"sources": [ "Giants Revisited" ],
 			"cr": 15,
@@ -3666,8 +3682,8 @@
 			"levels": "Male cyclops fighter 10",
 			"alignment": "NE",
 			"size": "large",
-			"type": "humanoid",
-			"subtypes": [ "giant" ],
+			"creature_type": "humanoid",
+			"creature_subtypes": [ "giant" ],
 			"initiative": 7,
 			"senses": [ "low-light vision" ],
 			"perception": 15,
@@ -3776,8 +3792,8 @@
 			"xp": 307200,
 			"alignment": "CE",
 			"size": "gargantuan",
-			"type": "outsider",
-			"subtypes": [ "chaotic", "demon", "evil", "extraplanar" ],
+			"creature_type": "outsider",
+			"creature_subtypes": [ "chaotic", "demon", "evil", "extraplanar" ],
 			"initiative": 3,
 			"senses": [
 				"blindsense 60 ft.",
@@ -3914,8 +3930,8 @@
 			"xp": 1228800,
 			"alignment": "CE",
 			"size": "medium",
-			"type": "outsider",
-			"subtypes": [ "chaotic", "demon", "evil", "extraplanar" ],
+			"creature_type": "outsider",
+			"creature_subtypes": [ "chaotic", "demon", "evil", "extraplanar" ],
 			"initiative": 11,
 			"senses": [
 				"darkvision 60 ft.",
@@ -4069,8 +4085,8 @@
 			"levels": "Male advanced muck bunyip",
 			"alignment": "N",
 			"size": "large",
-			"type": "magical beast",
-			"subtypes": [ "aquatic" ],
+			"creature_type": "magical beast",
+			"creature_subtypes": [ "aquatic" ],
 			"initiative": 5,
 			"senses": [
 				"darkvision 60 ft.",
@@ -4164,8 +4180,8 @@
 			"xp": 9830400,
 			"alignment": "CN",
 			"size": "colossal",
-			"type": "outsider",
-			"subtypes": [ "chaotic", "extraplanar" ],
+			"creature_type": "outsider",
+			"creature_subtypes": [ "chaotic", "extraplanar" ],
 			"initiative": 8,
 			"senses": [
 				"darkvision 60 ft.",
@@ -4303,7 +4319,8 @@
 			"short_description": "The elephantine creature is titanic in scale. Curving tusks frame its flexing, muscular trunk and its canyon of a mouth."
 		},
 		{
-			"name": "Oozlosh, Marsh Giant High Priest",
+			"name": "Oozlosh",
+			"display_name": "Oozlosh, Marsh Giant High Priest",
 			"file": "monsterdisplay9526.html",
 			"sources": [ "Giants Revisited" ],
 			"cr": 14,
@@ -4311,8 +4328,8 @@
 			"levels": "Male marsh giant cleric of Dagon 10",
 			"alignment": "CE",
 			"size": "large",
-			"type": "humanoid",
-			"subtypes": [ "giant" ],
+			"creature_type": "humanoid",
+			"creature_subtypes": [ "giant" ],
 			"initiative": 8,
 			"senses": [ "low-light vision" ],
 			"perception": 24,
@@ -4419,7 +4436,8 @@
 			"short_description": "This creature has the bulbous eyes of a fish, and his mottled green skin glistens with slime where it isn't bedecked in gaudy jewelry."
 		},
 		{
-			"name": "Orania, Cloud Giant Oligarch",
+			"name": "Orania",
+			"display_name": "Orania, Cloud Giant Oligarch",
 			"file": "monsterdisplay9e7b.html",
 			"sources": [ "Giants Revisited" ],
 			"cr": 18,
@@ -4427,8 +4445,8 @@
 			"levels": "Female cloud giant oracle 12",
 			"alignment": "NE",
 			"size": "huge",
-			"type": "humanoid",
-			"subtypes": [ "giant" ],
+			"creature_type": "humanoid",
+			"creature_subtypes": [ "giant" ],
 			"initiative": 3,
 			"senses": [
 				"low-light vision",
@@ -4544,7 +4562,8 @@
 			"short_description": "This blue-skinned giant is outfitted in elegant jewelry and white robes, and wields a lightning-infused spear."
 		},
 		{
-			"name": "Orynox Marchelin, Fire Giant King",
+			"name": "Orynox Marchelin",
+			"display_name": "Orynox Marchelin, Fire Giant King",
 			"file": "monsterdisplay2614.html",
 			"sources": [ "Giants Revisited" ],
 			"cr": 19,
@@ -4552,8 +4571,8 @@
 			"levels": "Male fire giant [fighter](unknown:fighter) ([polearm master](unknown:polearm master)) 9",
 			"alignment": "LE",
 			"size": "large",
-			"type": "humanoid",
-			"subtypes": [ "fire", "giant" ],
+			"creature_type": "humanoid",
+			"creature_subtypes": [ "fire", "giant" ],
 			"initiative": 3,
 			"senses": [ "low-light vision" ],
 			"perception": 29,
@@ -4652,7 +4671,8 @@
 			"short_description": "This stocky giant has a flaming mane and facial hair, his massive armor and fiery glaive indicating his prowess as a warrior."
 		},
 		{
-			"name": "Paakis-Si",
+			"name": "Paakis Si",
+			"display_name": "Paakis-Si",
 			"file": "monsterdisplay01b8.html",
 			"sources": [ "Mystery Monsters Revisited" ],
 			"cr": 5,
@@ -4660,8 +4680,8 @@
 			"levels": "Male sasquatch ranger (warden) 3",
 			"alignment": "LN",
 			"size": "medium",
-			"type": "humanoid",
-			"subtypes": [ "sasquatch" ],
+			"creature_type": "humanoid",
+			"creature_subtypes": [ "sasquatch" ],
 			"initiative": 4,
 			"senses": [
 				"darkvision 60 ft.",
@@ -4756,7 +4776,7 @@
 			"levels": "Male unique winged chupacabra",
 			"alignment": "N",
 			"size": "medium",
-			"type": "magical beast",
+			"creature_type": "magical beast",
 			"initiative": 6,
 			"senses": [
 				"darkvision 60 ft.",
@@ -4846,7 +4866,7 @@
 			"xp": 25600,
 			"alignment": "N",
 			"size": "gargantuan",
-			"type": "construct",
+			"creature_type": "construct",
 			"initiative": 2,
 			"senses": [
 				"darkvision 60 ft.",
@@ -4927,6 +4947,139 @@
 			"short_description": "A series of metal rings rotates around a giant prismatic sphere."
 		},
 		{
+			"name": "Pyralisia",
+			"display_name": "Phoenix, Pyralisia, the Rain of Embers",
+			"file": "monsterdisplay17a2.html",
+			"sources": [ "Mythical Monsters Revisited" ],
+			"cr": 18,
+			"xp": 153600,
+			"alignment": "NE",
+			"size": "gargantuan",
+			"creature_type": "magical beast",
+			"creature_subtypes": [ "fire" ],
+			"initiative": 10,
+			"senses": [
+				"darkvision 60 ft.",
+				"detect good",
+				"detect magic",
+				"low-light vision",
+				"see invisibility"
+			],
+			"perception": 39,
+			"aura": [ "shroud of flame (20 ft., DC 28)" ],
+			"heading": [
+				"Pyralisia, the Rain of Embers CR 18",
+				"**Source** [Mythical Monsters Revisited pg. 50](source:Mythical Monsters Revisited)",
+				"**XP** 153,600",
+				"Female unique phoenix (Pathfinder RPG Bestiary 227)",
+				"NE Gargantuan magical beast (fire)",
+				"**Init** +10; **Senses** darkvision 60 ft., detect good, detect magic, low-light vision, see invisibility; Perception +39",
+				"**Aura** shroud of flame (20 ft., DC 28)"
+			],
+			"ac": {
+				"ac": 33,
+				"touch": 13,
+				"flatfooted": 26,
+				"bonuses": {
+					"dexterity": 6,
+					"dodge": 1,
+					"natural": 20,
+					"size": -4
+				}
+			},
+			"hp": {
+				"hp": 287,
+				"regen": 10,
+				"regen_overcome_by": "cold or good"
+			},
+			"saves": {
+				"fort": 20,
+				"ref": 19,
+				"will": 14
+			},
+			"defensive_abilities": [ "self-resurrection" ],
+			"dr": [
+				15,
+				"good"
+			],
+			"immune": [ "fire" ],
+			"sr": 29,
+			"weaknesses": [ "vulnerability to cold" ],
+			"defense": [
+				"**AC** 33, touch 13, flat-footed 26 (+6 Dex, +1 dodge, +20 natural, -4 size)",
+				"**hp** 287 (23d10+161); regeneration 10 (cold or good)",
+				"**Fort** +20, **Ref** +19, **Will** +14",
+				"**Defensive Abilities** self-resurrection; **DR** 15/good; **Immune** fire; **SR** 29",
+				"**Weaknesses** vulnerability to cold"
+			],
+			"speed": {
+				"land": 30,
+				"fly": 90,
+				"maneuverability": "good"
+			},
+			"space": 20,
+			"reach": 20,
+			"offense": [
+				"**Speed** 30 ft., fly 90 ft. (good)",
+				"**Melee** bite +28 (2d8+9 plus 4d6 fire and 4d6 electricity), 2 talons +28 (2d6+9/19-20 plus 4d6 fire)",
+				"**Space** 20 ft., **Reach** 20 ft.",
+				"**Spell-Like Abilities (CL 20th; concentration +27)",
+				"Constant-detect good, detect magic, see invisibility",
+				"At will-bestow curse (DC 21), chain lightning (DC 23), continual flame, greater dispel magic, wall of fire",
+				"3/day-fire storm (DC 25), mass inflict critical wounds (DC 25), quickened wall of fire",
+				"1/day-destruction (DC 24), meteor swarm (DC 26)"
+			],
+			"str": 29,
+			"dex": 23,
+			"con": 24,
+			"int": 23,
+			"wis": 20,
+			"cha": 24,
+			"base_attack_bonus": 23,
+			"cmb": 36,
+			"cmd": 53,
+			"feats": [
+				"Blinding Critical",
+				"Combat Reflexes",
+				"Critical Focus",
+				"Dodge",
+				"Flyby Attack",
+				"Improved Critical (talon)",
+				"Improved Initiative",
+				"Iron Will",
+				"Mobility",
+				"Power Attack",
+				"Quicken Spell-Like Ability (wall of fire)",
+				"Vital Strike"
+			],
+			"skills": [
+				"Bluff +30",
+				"Fly +30",
+				"Intimidate +30",
+				"Knowledge (arcana) +29",
+				"Knowledge (nature) +29",
+				"Perception +39",
+				"Sense Motive +28",
+				"Stealth +20"
+			],
+			"statistics": [
+				"**Str** 29, **Dex** 23, **Con**: 24, **Int** 23, **Wis** 20, **Cha**, 24",
+				"**Base Atk** +23; **CMB** +36; **CMD** 53",
+				"**Feats** [Blinding Critical](feat:Blinding Critical), [Combat Reflexes](feat:Combat Reflexes), [Critical Focus](feat:Critical Focus), [Dodge](feat:Dodge), [Flyby Attack](feat:Flyby Attack), [Improved Critical (talon)](feat:Improved Critical), [Improved Initiative](feat:Improved Initiative), [Iron Will](feat:Iron Will), [Mobility](feat:Mobility), [Power Attack](feat:Power Attack), Quicken Spell-Like Ability (wall of fire), [Vital Strike](feat:Vital Strike)",
+				"**Skills** Bluff +30, Fly +30, Intimidate +30, Knowledge (arcana) +29, Knowledge (nature) +29, Perception +39, Sense Motive +28, Stealth +20; **Racial Modifiers** +8 Perception",
+				"**Languages** Auran, Celestial, Common, Ignan",
+				"**SQ** corrupted flames (DC 28)"
+			],
+			"description": [
+				"Pyralisia, often called \"the Rain of Embers,\" was considered one the strongest and most benevolent phoenixes of Avistan in the early years of the Age of Lost Omens. She rose to prominence during the First Mendevian Crusade by leading the charge against a marilith general and her legion of minions. During the Second Crusade, Pyralisia oversaw the erection of several of the wardstones that kept the Worldwound's demonic hordes contained near the crusader citadel of Drezen. But when an Abyssal rift opened near the wardstone line before the final menhirs were in place, the entire crusade stood on the brink of failure. Without hesitation, Pyralisia threw her body into the yawning chasm, blocking the demons' escape and using her body to absorb the torrents of tainted fire bursting forth.",
+				"Pyralisia's heroic act was not enough, however, and the dark energy pouring from the rift slew her quickly. When she resurrected from her ashes, the Abyssal flames bonded with Pyralisia and corrupted her, instilling her body with dark, negative energy and trapping the Rain of Embers in a body utterly consumed by evil.",
+				"Now, Pyralisia prowls the Worldwound, hunting crusaders and demons alike in her vengeful anger. Phoenixes contend that if she could be killed, Pyralisia's self-resurrection would cleanse her of this malignancy and restore her true goodness. But so far, few have faced Pyralisia and lived to tell the tale. Those phoenixes that have tried to defeat her found themselves outmatched by the new power of Pyralisia's black fire, their own flames as useless against her as against any other of their kind. The phoenix Garidor-Pyralisia's mate prior to her corruption-anxiously watches the roads leading into Mendev, seeking powerful crusaders or adventurers to aid him in destroying his beloved before her perversion becomes permanent.",
+				"[Phoenix](unknown:Phoenix)",
+				"This giant ebon bird is streaked in lines of fiery embers and red lightning, clouds of black smoke billowing behind it."
+			],
+			"short_description": "This giant ebon bird is streaked in lines of fiery embers and red lightning, clouds of black smoke billowing behind it."
+		},
+		{
 			"name": "Qaishan Yeti",
 			"file": "monsterdisplay4cba.html",
 			"sources": [ "Mystery Monsters Revisited" ],
@@ -4935,8 +5088,8 @@
 			"levels": "Yeti monk 5",
 			"alignment": "LN",
 			"size": "large",
-			"type": "monstrous humanoid",
-			"subtypes": [ "cold" ],
+			"creature_type": "monstrous humanoid",
+			"creature_subtypes": [ "cold" ],
 			"initiative": 2,
 			"senses": [
 				"darkvision 60 ft.",
@@ -5049,7 +5202,7 @@
 			"levels": "Rogue mutant intellect devourer",
 			"alignment": "CE",
 			"size": "small",
-			"type": "aberration",
+			"creature_type": "aberration",
 			"initiative": 17,
 			"senses": [
 				"blindsight 60 ft.",
@@ -5167,7 +5320,8 @@
 			"short_description": "This brainlike creature has two clawed legs emerging from its fore and rear and a serpentine proboscis clutching a dagger."
 		},
 		{
-			"name": "Rahstalshan, Stone Giant Elder",
+			"name": "Rahstalshan",
+			"display_name": "Rahstalshan, Stone Giant Elder",
 			"file": "monsterdisplay99a7.html",
 			"sources": [ "Giants Revisited" ],
 			"cr": 14,
@@ -5175,8 +5329,8 @@
 			"levels": "Female stone giant elder sorcerer 10",
 			"alignment": "N",
 			"size": "large",
-			"type": "humanoid",
-			"subtypes": [ "giant" ],
+			"creature_type": "humanoid",
+			"creature_subtypes": [ "giant" ],
 			"initiative": 4,
 			"senses": [
 				"darkvision 60 ft.",
@@ -5300,8 +5454,8 @@
 			"xp": 4800,
 			"alignment": "NE",
 			"size": "large",
-			"type": "outsider",
-			"subtypes": [ "native" ],
+			"creature_type": "outsider",
+			"creature_subtypes": [ "native" ],
 			"initiative": 3,
 			"senses": [
 				"darkvision 60 ft.",
@@ -5413,7 +5567,8 @@
 			"short_description": "This mangy horselike beast walks perversely upright. Wings, a dragon's tail, and a fanged mouth complete its vile appearance."
 		},
 		{
-			"name": "Scyld Hranni, Storm Giant Matriarch",
+			"name": "Scyld Hranni",
+			"display_name": "Scyld Hranni, Storm Giant Matriarch",
 			"file": "monsterdisplay106c.html",
 			"sources": [ "Giants Revisited" ],
 			"cr": 20,
@@ -5421,8 +5576,8 @@
 			"levels": "Female storm giant cleric of Aegirran 13",
 			"alignment": "CG",
 			"size": "huge",
-			"type": "humanoid",
-			"subtypes": [ "giant" ],
+			"creature_type": "humanoid",
+			"creature_subtypes": [ "giant" ],
 			"initiative": 4,
 			"senses": [ "low-light vision" ],
 			"perception": 33,
@@ -5547,8 +5702,8 @@
 			"xp": 1638400,
 			"alignment": "CE",
 			"size": "medium",
-			"type": "outsider",
-			"subtypes": [ "chaotic", "demon", "evil", "extraplanar", "fire" ],
+			"creature_type": "outsider",
+			"creature_subtypes": [ "chaotic", "demon", "evil", "extraplanar", "fire" ],
 			"initiative": 11,
 			"senses": [
 				"darkvision 60 ft.",
@@ -5704,7 +5859,8 @@
 			"short_description": "This crimson-haired demonic woman has wings of fire. She carries a slender bow made of flames."
 		},
 		{
-			"name": "Shaorhaz, Glutton of the Green",
+			"name": "Shaorhaz",
+			"display_name": "Shaorhaz, Glutton of the Green",
 			"file": "monsterdisplay0cde.html",
 			"sources": [ "Demons Revisited" ],
 			"cr": 23,
@@ -5712,8 +5868,8 @@
 			"levels": "Male vrolikai inquisitor of Cyth-V-sug 9",
 			"alignment": "CE",
 			"size": "large",
-			"type": "outsider",
-			"subtypes": [ "chaotic", "demon", "evil", "extraplanar" ],
+			"creature_type": "outsider",
+			"creature_subtypes": [ "chaotic", "demon", "evil", "extraplanar" ],
 			"initiative": 21,
 			"senses": [
 				"darkvision 120 ft.",
@@ -5852,6 +6008,475 @@
 			"short_description": "This four-armed nightmare stands with an elegance that seems out of place, given its demonic visage. Huge black wings fan behind its back, and flickering black blades burn in its hands."
 		},
 		{
+			"name": "Chemnosit",
+			"display_name": "Spawn of Rovagug, Chemnosit (The Monarch Worm)",
+			"file": "monsterdisplayfaf3.html",
+			"sources": [ "Inner Sea Bestiary" ],
+			"cr": 23,
+			"xp": 819200,
+			"alignment": "CE",
+			"size": "colossal",
+			"creature_type": "magical beast",
+			"initiative": 5,
+			"senses": [
+				"darkvision 60 ft.",
+				"low-light vision",
+				"tremorsense 180 ft."
+			],
+			"perception": 27,
+			"aura": [ "frightful presence (300 ft., DC 26)" ],
+			"heading": [
+				"Chemnosit (The Monarch Worm) CR 23",
+				"**Source** [Inner Sea Bestiary pg. 47](source:Inner Sea Bestiary)",
+				"**XP** 819,200",
+				"CE Colossal magical beast",
+				"**Init** +5; **Senses** darkvision 60 ft., low-light vision, tremorsense 180 ft.; Perception +27",
+				"**Aura** frightful presence (300 ft., DC 26)"
+			],
+			"ac": {
+				"ac": 39,
+				"touch": 3,
+				"flatfooted": 38,
+				"bonuses": {
+					"dexterity": 1,
+					"natural": 36,
+					"size": -8
+				}
+			},
+			"hp": {
+				"hp": 472
+			},
+			"saves": {
+				"fort": 29,
+				"ref": 18,
+				"will": 13
+			},
+			"dr": [
+				15,
+				"epic"
+			],
+			"immune": [
+				"ability damage",
+				"acid",
+				"bleed",
+				"cold",
+				"disease",
+				"energy drain",
+				"mind-affecting effects",
+				"paralysis",
+				"permanent wounds",
+				"petrification",
+				"poison",
+				"polymorph"
+			],
+			"sr": 34,
+			"defense": [
+				"**AC** 39, touch 3, flat-footed 38 (+1 Dex, +36 natural, -8 size)",
+				"**hp** 472 (27d10+324); regeneration 30",
+				"**Fort** +29, **Ref** +18, **Will** +13",
+				"**DR** 15/epic; **Immune** ability damage, acid, bleed, cold, disease, energy drain, mind-affecting effects, paralysis, permanent wounds, petrification, poison, polymorph; **SR** 34"
+			],
+			"speed": {
+				"land": 40,
+				"burrow": 40
+			},
+			"space": 30,
+			"reach": 30,
+			"offense": [
+				"**Speed** 40 ft., burrow 40 ft.",
+				"**Melee** 6 toothed tentacles +33 (2d10+13/19-20 plus grab)",
+				"**Ranged** ray +20 (disintegrate/19-20)",
+				"**Space** 30 ft., **Reach** 30 ft.",
+				"**Special Attacks** hungry gaze, spines, swallow whole (2d10+13 plus 1d4 Str damage, AC 28, 47 hp)",
+				"**Spell-Like Abilities (CL 27th; concentration +32)",
+				"At will-disintegrate (DC 21)",
+				"1/day-earthquake"
+			],
+			"str": 36,
+			"dex": 13,
+			"con": 34,
+			"int": 5,
+			"wis": 14,
+			"cha": 21,
+			"base_attack_bonus": 27,
+			"cmb": 48,
+			"cmd": 59,
+			"feats": [
+				"Ability Focus (hungry gaze)",
+				"Awesome Blow",
+				"Bleeding Critical",
+				"Blind-Fight",
+				"Critical Focus",
+				"Great Fortitude",
+				"Improved Bull Rush",
+				"Improved Critical (ray)",
+				"Improved Critical (toothed tentacle)",
+				"Improved Initiative",
+				"Iron Will",
+				"Lightning Reflexes",
+				"Power Attack",
+				"Weapon Focus (toothed tentacle)"
+			],
+			"skills": [
+				"Climb +20",
+				"Perception +27",
+				"Swim +17"
+			],
+			"statistics": [
+				"**Str** 36, **Dex** 13, **Con**: 34, **Int** 5, **Wis** 14, **Cha**, 21",
+				"**Base Atk** +27; **CMB** +48 (+52 grapple, +68 overrun); **CMD** 59 (can't be tripped)",
+				"**Feats** [Ability Focus (hungry gaze)](feat:Ability Focus), [Awesome Blow](feat:Awesome Blow), [Bleeding Critical](feat:Bleeding Critical), [Blind-Fight](feat:Blind-Fight), [Critical Focus](feat:Critical Focus), [Great Fortitude](feat:Great Fortitude), [Improved Bull Rush](feat:Improved Bull Rush), [Improved Critical (ray)](feat:Improved Critical), [Improved Critical (toothed tentacle)](feat:Improved Critical), [Improved Initiative](feat:Improved Initiative), [Iron Will](feat:Iron Will), [Lightning Reflexes](feat:Lightning Reflexes), [Power Attack](feat:Power Attack), [Weapon Focus (toothed tentacle)](feat:Weapon Focus)",
+				"**Skills** Climb +20, Perception +27, Swim +17",
+				"**Languages** Aklo",
+				"**SQ** hibernation, unstoppable force"
+			],
+			"environment": "any (Darklands)",
+			"organization": "solitary",
+			"treasure": "none",
+			"ecology": [
+				"**Environment** any (Darklands)",
+				"**Organization** solitary",
+				"**Treasure** none"
+			],
+			"special_abilities": [
+				"**Hungry Gaze (Su)** Chemnosit's gaze attack deals 3d6 points of nonlethal damage plus fatigue at a distance of 120 feet. A successful DC 30 Fortitude save negates the fatigue. Creatures already fatigued become exhausted; creatures already exhausted become staggered. A creature that fails its save must succeed at a DC 30 Will save or gain an overwhelming compulsion to eat flesh of creatures of its type, including its own if no other is available. The save DCs are Charisma-based.",
+				"**Spines (Ex)** Creatures striking Chemnosit with natural weapons, unarmed strikes, melee weapons, or melee touch attacks take 2d6+12 points of damage."
+			],
+			"description": [
+				"The dread burrower Chemnosit is an engine of destruction, able to devour the stoutest construction and the mightiest of mortals with ease. His power lies in the profane glamour of his glowing eye, inspiring a gruesome urge to devour-a hunger for the flesh of one's own kind. For all his power, this is the true dread of the Monarch Worm. While he burrows constantly through the Darklands to the deepest Vaults of Orv, he sometimes rises to Golarion's surface bringing annihilation in his wake, as those corrupted by his awful eye wreak devastation upon themselves and their own people. Chemnosit drinks in the carnage like a feast before devouring any survivors.",
+				"[Spawn of Rovagug](unknown:Spawn of Rovagug)",
+				"Source [Inner Sea Bestiary pg. 46](source:Inner Sea Bestiary) The spawn of Rovagug are titanic terrors, slavering monstrosities of immense size and strength that live only to destroy. They are unnatural things, born of a fundamental wrongness in the universe where entropy gnaws at the root of reality. None know whether the spawn of Rovagug are the literal children of the Rough Beast in a biological sense, for it is almost impossible to think of what manner of creature could survive copulation with Rovagug or the gestation of such terrible abominations. Perhaps their foremothers are not remembered because these beasts ripped their way from the womb with their own claws, tearing and rending their way to matricidal freedom. Some sages speculate that perhaps Lamashtu herself bore them in one monstrous brood at the dawn of time, before Rovagug's imprisonment, but none of her blasphemous rites or scriptures attests to this, and her faithful make no claim that these terrors are sacred to the Mother of Monsters.",
+				"Whatever their provenance, spawn of Rovagug are living engines of destruction, slumbering for long periods before awakening with an incomprehensible hunger for sustenance and devastation. Their rampages lack cruelty or premeditation. If they indeed can trace any lineage to the Rough Beast, they did not inherit his spirit of hateful and wanton viciousness. Instead, they are comparatively simple creatures, their urges to destroy purely instinctual. They wreak havoc because it is what they were created to do, each in their own way. It may be that spawn of Rovagug represent a divergence in the fabric of reality, a natural flaw that seeks to unravel the threads of the universe even as the universe attempts to heal itself around them, which in turn the spawn of Rovagug experience as a suffocating constriction. They must destroy if they are to survive, rending reality to create space to breathe, f iguratively speaking. Their apparent satiation at the end of rampages may simply represent the spawn unraveling the order of the universe suff iciently to allow them to once more rest in peace. Their hibernation resumes until the universe knits itself back together too tightly, choking the spawn once more until they rise yet again in another waking rampage of annihilation.",
+				"It is known that certain strange and nigh-impossible rituals are capable of attracting the attention of a spawn of Rovagug or awakening one from long hibernation. Such rituals may draw the spawn to a place or perhaps point it in a certain direction, but taking full control of a spawn of Rovagug is wholly impossible. The earliest recorded appearance of a spawn of Rovagug, in ancient Ninshabur, was of Festering Ulunat, the Unholy First, whose immortal carapace towers over Osirion's capital of Sothis and has spawned countless legends about a future end-time wherein he might reawaken. Perhaps the most famous of Rovagug's living spawn is the Tarrasque, the Armageddon Engine, but Wrath-Blazing Xotani, the Firebleeder, and Unyielding Kothogaz, the Dance of Disharmony, have reputations no less terrifying in Garund and Vudra, respectively, among those aware of their existence.",
+				"Spawn of Rovagug Traits",
+				"Spawn of Rovagug are Colossal magical beasts, and gain the normal features of a creature of that type as well as the following traits common to all spawn of Rovagug.",
+				"Damage Reduction (Ex) Spawn of Rovagug have DR 15/epic. Frightful Presence (Su) Spawn of Rovagug radiate an aura of terror in a 300-foot radius. Hibernation (Ex) Spawn of Rovagug can sleep for years, decades, or even centuries and do not need to eat or breathe during these periods of dormancy, though they breathe normally and eat ravenously and almost constantly once they've been awakened. If a spawn of Rovagug is forced into an environment where it cannot breathe and would suffocate, it goes into hibernation until conditions are right for it to reawaken. While in hibernation, a spawn of Rovagug's damage reduction improves to 50/epic and it gains immunity to any spell or spell-like ability that allows spell resistance as well as all divination effects. Immunities (Ex) All spawn of Rovagug are immune to ability damage, bleed, disease, energy drain, mind-affecting effects, paralysis, permanent wounds, petrification, poison, and polymorph. In addition, each spawn of Rovagug possesses immunity to two of the following energy types: acid, cold, electricity, fire, or sonic. Regeneration (Ex) All spawn of Rovagug possess regeneration, and no form of attack can suppress this regeneration; they regenerate even if disintegrated or slain by a death effect. If a spawn of Rovagug fails a save against an effect that would kill it instantly, it rises from death 3 rounds later with 1 hit point if no further damage is dealt to its remains. It can be banished or otherwise transported as a means to save a region, but a method to kill Spawn of Rovagug has yet to be discovered. Spell Resistance (Su) A spawn of Rovagug possesses spell resistance equal to 11 + its CR. Unstoppable Force (Ex) A spawn of Rovagug can always charge, even if its movement is impeded or its path is blocked by another creature. It receives a +20 racial bonus on combat maneuver checks to overrun and Strength checks to break or destroy objects, and can make one such check as a free action as part of a charge. In addition, the natural weapons of a spawn of Rovagug ignore all forms of damage reduction and hardness."
+			],
+			"short_description": "This massive beast possesses a mouth of rasping teeth and tentacles with biting mouths. In the center of its maw rests a glowing evil eye."
+		},
+		{
+			"name": "Festering Ulunat",
+			"display_name": "Spawn of Rovagug, Festering Ulunat (The Unholy First)",
+			"file": "monsterdisplayc830.html",
+			"sources": [
+				"Pathfinder #84: Pyramid of the Sky Pharaoh",
+				"Inner Sea Bestiary"
+			],
+			"cr": 24,
+			"xp": 1228800,
+			"alignment": "CE",
+			"size": "colossal",
+			"creature_type": "magical beast",
+			"initiative": 5,
+			"senses": [
+				"darkvision 600 ft.",
+				"low-light vision",
+				"tremorsense 600 ft."
+			],
+			"perception": 42,
+			"aura": [ "frightful presence (300 ft., DC 30)" ],
+			"heading": [
+				"Festering Ulunat (The Unholy First) CR 24",
+				"**Source** [Pathfinder #84: Pyramid of the Sky Pharaoh pg. 64](source:Pathfinder #84: Pyramid of the Sky Pharaoh)",
+				"**XP** 1,228,800",
+				"CE Colossal magical beast",
+				"**Init** +5; **Senses** darkvision 600 ft., low-light vision, tremorsense 600 ft.; Perception +42",
+				"**Aura** frightful presence (300 ft., DC 30)"
+			],
+			"ac": {
+				"ac": 42,
+				"touch": 7,
+				"flatfooted": 37,
+				"bonuses": {
+					"dexterity": 5,
+					"natural": 35,
+					"size": -8
+				}
+			},
+			"hp": {
+				"hp": 525
+			},
+			"saves": {
+				"fort": 29,
+				"ref": 24,
+				"will": 22
+			},
+			"defensive_abilities": [ "regeneration" ],
+			"dr": [
+				15,
+				"epic"
+			],
+			"immune": [
+				"ability damage",
+				"bleed",
+				"disease",
+				"energy drain",
+				"fire",
+				"mind-affecting effects",
+				"paralysis",
+				"permanent wounds",
+				"petrification",
+				"poison",
+				"polymorph",
+				"sonic"
+			],
+			"sr": 35,
+			"defense": [
+				"**AC** 42, touch 7, flat-footed 37 (+5 Dex, +35 natural, -8 size)",
+				"**hp** 525 (30d10+360); regeneration 30",
+				"**Fort** +29, **Ref** +24, **Will** +22",
+				"**Defensive Abilities** regeneration; **DR** 15/epic; **Immune** ability damage, bleed, disease, energy drain, fire, mind-affecting effects, paralysis, permanent wounds, petrification, poison, polymorph, sonic; **SR** 35"
+			],
+			"speed": {
+				"land": 60,
+				"climb": 60,
+				"fly": 90,
+				"maneuverability": "poor",
+				"swim": 40
+			},
+			"space": 60,
+			"reach": 60,
+			"offense": [
+				"**Speed** 60 ft., climb 60 ft., fly 90 ft. (poor), swim 40 ft.",
+				"**Melee** bite +36 (4d8+14/19-20 plus 6d6 acid), 4 claws +36 (4d6+14/19-20)",
+				"**Space** 60 ft., **Reach** 60 ft.",
+				"**Special Attacks** crush, devour magic, disease, rend (2 claws, 4d8+21), thunderous steps, trample (4d8+21, DC 39), terrible claws"
+			],
+			"str": 38,
+			"dex": 21,
+			"con": 35,
+			"int": 3,
+			"wis": 30,
+			"cha": 20,
+			"base_attack_bonus": 30,
+			"cmb": 52,
+			"cmd": 67,
+			"feats": [
+				"Awesome Blow",
+				"Blind-Fight",
+				"Critical Focus",
+				"Greater Sunder",
+				"Improved Bull Rush",
+				"Improved Critical (bite)",
+				"Improved Critical (claws)",
+				"Improved Sunder",
+				"Improved Vital Strike",
+				"Iron Will",
+				"Lightning Reflexes",
+				"Power Attack",
+				"Staggering Critical",
+				"Stunning Critical",
+				"Vital Strike"
+			],
+			"skills": [
+				"Climb +26",
+				"Fly +8",
+				"Perception +30",
+				"Swim +22"
+			],
+			"statistics": [
+				"**Str** 38, **Dex** 21, **Con**: 35, **Int** 3, **Wis** 30, **Cha**, 20",
+				"**Base Atk** +30; **CMB** +52 (+54 bull rush, +56 sunder); **CMD** 67 (69 vs. bull rush, 69 vs. sunder, 83 vs. trip)",
+				"**Feats** [Awesome Blow](feat:Awesome Blow), [Blind-Fight](feat:Blind-Fight), [Critical Focus](feat:Critical Focus), [Greater Sunder](feat:Greater Sunder), [Improved Bull Rush](feat:Improved Bull Rush), [Improved Critical (bite)](feat:Improved Critical), [Improved Critical (claws)](feat:Improved Critical), [Improved Sunder](feat:Improved Sunder), [Improved Vital Strike](feat:Improved Vital Strike), [Iron Will](feat:Iron Will), [Lightning Reflexes](feat:Lightning Reflexes), [Power Attack](feat:Power Attack), [Staggering Critical](feat:Staggering Critical), [Stunning Critical](feat:Stunning Critical), [Vital Strike](feat:Vital Strike)",
+				"**Skills** Climb +26, Fly +8, Perception +30, Swim +22",
+				"**Languages** Aklo (can't speak)",
+				"**SQ** hibernation, massive, no breath"
+			],
+			"environment": "any (Sothis)",
+			"organization": "unique",
+			"treasure": "none",
+			"ecology": [
+				"**Environment** any (Sothis)",
+				"**Organization** unique",
+				"**Treasure** none"
+			],
+			"special_abilities": [
+				"**Crush (Ex)** Ulunat uses its immense size as a formidable weapon. As a standard action, Ulunat can move over enemies or objects, using its whole body to crush them, dealing 20d6+30 points of damage. Crush attacks are effective only against opponents that are Huge or smaller. This attack affects as many creatures as fit in Ulunat's space. Creatures in the affected area must succeed at a DC 39 Reflex save or be pinned, automatically taking bludgeoning damage during the next round unless Ulunat moves off them. If Ulunat chooses to maintain the pin, it must succeed at a combat maneuver check as normal. Pinned foes take damage from the crush each round if they don't escape. The save DC is Strength-based.",
+				"**Devour Magic (Ex)** Ulunat has the ability to absorb magic directed at it and create arcane feedback that has the potential to shred a spellcaster's mind. Whenever Ulunat is targeted by a spell or spell-like ability, the caster must succeed at a DC 30 Will save or be affected as if he were targeted by phantasmal killer. If Ulunat is in the area of effect of a spell or spell-like ability, the caster must succeed at a DC 30 Will save or be affected as if he were targeted by insanity. The save DC is Charisma-based.",
+				"**Hibernation (Ex)** Ulunat can sleep for centuries and doesn't need to eat during these periods of dormancy, though it eats ravenously and almost constantly once it has been awakened. If Ulunat is forced into an inhospitable environment, it goes into hibernation until conditions are right for it to reawaken. While in hibernation, Ulunat's damage reduction improves to 50/epic and it gains immunity to any spell or spell-like ability that allows spell resistance as well as all divination effects.",
+				"**Massive (Ex)** Because of Ulunat's size, uneven ground and other terrain features that form difficult terrain generally pose no significant hindrance to its movement, though forests or settlements are considered difficult terrain. A Huge or smaller creature can move through any square Ulunat occupies, and vice versa. Ulunat can make attacks of opportunity only against foes that are Huge or larger, and can be flanked only by Huge or larger foes. Ulunat gains a bonus for being on higher ground only if its entire space is on higher ground than that of its target. It's possible for a Huge or smaller creature to climb Ulunat with a successful DC 30 Climb check, however unlike the normal rules regarding Ulunat and attacks of opportunity, a Small or larger creature that climbs on Ulunat provokes an attack of opportunity from the monster.",
+				"**Regeneration (Ex)** Like all Spawn of Rovagug, Ulunat is a nearly indestructible force. No form of attack can suppress Ulunat's regeneration-it regenerates even if disintegrated or slain by a death effect. If Ulunat fails a save against an effect that would kill it instantly, it rises from death 3 rounds later with 1 hit point if no further damage is dealt to its remains. It can be banished or otherwise transported as a means to save a region from devastation, but a method to kill Spawn of Rovagug like Ulunat has yet to be discovered.",
+				"**Terrible Claws (Ex)** Ulunat's natural weapons ignore all forms of damage reduction and hardness.",
+				"**Tremor Step (Ex)** Ulunat's thunderous steps shake the ground as it moves. While moving along the ground, any creatures within 100 feet of Ulunat that are also in contact with the ground must succeed at a DC 39 Reflex save or be knocked prone as the beast thunders along. The save DC is Strength-based."
+			],
+			"description": [
+				"Ulunat's carapace towers above Sothis, creating what is now known as the Black Dome. The most exclusive part of the city, the Black Dome shields its district from the sun's blazing heat and the desert's blistering sandstorms. Beneath the Black Dome sit palaces and monuments, the most important of which is the seat of Sothis's government and the home of the Ruby Prince.",
+				"The stories from the beginning of the First Age of Osirion claim that Azghaad killed Ulunat-some even say that he achieved this feat with the divine help of Nethys-but the truth is that the Spawn of Rovagug are unkillable. After a lengthy and dangerous battle, Azghaad banished Ulunat to a pocket realm beneath the place where its bloated shell still stands. In this realm, under the oldest and largest settlement in Osirion, Ulunat sleeps.",
+				"Before this ancient conflict, the great beast emerged from the Pit of Gormuz and thundered across Golarion. As Ulunat neared what is now Sothis, cultists of Rovagug channeling the power of raw chaos in a massive ritual- chanting cacophonous praises to the Rough Beast- opened a direct link between Ulunat and Rovagug. Empowered by this divine connection, Ulunat grew to an immense size and charged across the land, trampling everything in its path.",
+				"Now, thousands of years later, the Unholy First has begun to stir in its prison. Numerous past attempts to free the Unholy First have failed, and most of these were hidden from the public and Osirion's official history in hopes that the proper method for freeing Ulunat would remain unknown. However, this doesn't stop cultists and doomsayers from trying to bring back the terrible beast.",
+				"[Spawn of Rovagug](unknown:Spawn of Rovagug)",
+				"Source [Inner Sea Bestiary pg. 46](source:Inner Sea Bestiary) The spawn of Rovagug are titanic terrors, slavering monstrosities of immense size and strength that live only to destroy. They are unnatural things, born of a fundamental wrongness in the universe where entropy gnaws at the root of reality. None know whether the spawn of Rovagug are the literal children of the Rough Beast in a biological sense, for it is almost impossible to think of what manner of creature could survive copulation with Rovagug or the gestation of such terrible abominations. Perhaps their foremothers are not remembered because these beasts ripped their way from the womb with their own claws, tearing and rending their way to matricidal freedom. Some sages speculate that perhaps Lamashtu herself bore them in one monstrous brood at the dawn of time, before Rovagug's imprisonment, but none of her blasphemous rites or scriptures attests to this, and her faithful make no claim that these terrors are sacred to the Mother of Monsters.",
+				"Whatever their provenance, spawn of Rovagug are living engines of destruction, slumbering for long periods before awakening with an incomprehensible hunger for sustenance and devastation. Their rampages lack cruelty or premeditation. If they indeed can trace any lineage to the Rough Beast, they did not inherit his spirit of hateful and wanton viciousness. Instead, they are comparatively simple creatures, their urges to destroy purely instinctual. They wreak havoc because it is what they were created to do, each in their own way. It may be that spawn of Rovagug represent a divergence in the fabric of reality, a natural flaw that seeks to unravel the threads of the universe even as the universe attempts to heal itself around them, which in turn the spawn of Rovagug experience as a suffocating constriction. They must destroy if they are to survive, rending reality to create space to breathe, f iguratively speaking. Their apparent satiation at the end of rampages may simply represent the spawn unraveling the order of the universe suff iciently to allow them to once more rest in peace. Their hibernation resumes until the universe knits itself back together too tightly, choking the spawn once more until they rise yet again in another waking rampage of annihilation.",
+				"It is known that certain strange and nigh-impossible rituals are capable of attracting the attention of a spawn of Rovagug or awakening one from long hibernation. Such rituals may draw the spawn to a place or perhaps point it in a certain direction, but taking full control of a spawn of Rovagug is wholly impossible. The earliest recorded appearance of a spawn of Rovagug, in ancient Ninshabur, was of Festering Ulunat, the Unholy First, whose immortal carapace towers over Osirion's capital of Sothis and has spawned countless legends about a future end-time wherein he might reawaken. Perhaps the most famous of Rovagug's living spawn is the Tarrasque, the Armageddon Engine, but Wrath-Blazing Xotani, the Firebleeder, and Unyielding Kothogaz, the Dance of Disharmony, have reputations no less terrifying in Garund and Vudra, respectively, among those aware of their existence.",
+				"Spawn of Rovagug Traits",
+				"Spawn of Rovagug are Colossal magical beasts, and gain the normal features of a creature of that type as well as the following traits common to all spawn of Rovagug.",
+				"Damage Reduction (Ex) Spawn of Rovagug have DR 15/epic.",
+				"Frightful Presence (Su) Spawn of Rovagug radiate an aura of terror in a 300-foot radius.",
+				"Hibernation (Ex) Spawn of Rovagug can sleep for years, decades, or even centuries and do not need to eat or breathe during these periods of dormancy, though they breathe normally and eat ravenously and almost constantly once they've been awakened. If a spawn of Rovagug is forced into an environment where it cannot breathe and would suffocate, it goes into hibernation until conditions are right for it to reawaken.",
+				"While in hibernation, a spawn of Rovagug's damage reduction improves to 50/epic and it gains immunity to any spell or spell-like ability that allows spell resistance as well as all divination effects.",
+				"Immunities (Ex) All spawn of Rovagug are immune to ability damage, bleed, disease, energy drain, mind-affecting effects, paralysis, permanent wounds, petrification, poison, and polymorph. In addition, each spawn of Rovagug possesses immunity to two of the following energy types: acid, cold, electricity, fire, or sonic.",
+				"Regeneration (Ex) All spawn of Rovagug possess regeneration, and no form of attack can suppress this regeneration; they regenerate even if disintegrated or slain by a death effect. If a spawn of Rovagug fails a save against an effect that would kill it instantly, it rises from death 3 rounds later with 1 hit point if no further damage is dealt to its remains. It can be banished or otherwise transported as a means to save a region, but a method to kill Spawn of Rovagug has yet to be discovered.",
+				"Spell Resistance (Su) A spawn of Rovagug possesses spell resistance equal to 11 + its CR.",
+				"Unstoppable Force (Ex) A spawn of Rovagug can always charge, even if its movement is impeded or its path is blocked by another creature. It receives a +20 racial bonus on combat maneuver checks to overrun and Strength checks to break or destroy objects, and can make one such check as a free action as part of a charge. In addition, the natural weapons of a spawn of Rovagug ignore all forms of damage reduction and hardness."
+			]
+		},
+		{
+			"name": "Volnagur",
+			"display_name": "Spawn of Rovagug, Volnagur (The End-Singer)",
+			"file": "monsterdisplayc36d-2.html",
+			"sources": [ "Inner Sea Bestiary" ],
+			"cr": 22,
+			"xp": 614400,
+			"alignment": "CE",
+			"size": "colossal",
+			"creature_type": "magical beast",
+			"initiative": 10,
+			"senses": [
+				"all-around vision",
+				"blindsense 300 ft.",
+				"darkvision 60 ft.",
+				"low-light vision",
+				"scent"
+			],
+			"perception": 20,
+			"aura": [ "frightful presence (300 ft., DC 27)" ],
+			"heading": [
+				"Volnagur (The End-Singer) CR 22",
+				"**Source** [Inner Sea Bestiary pg. 48](source:Inner Sea Bestiary)",
+				"**XP** 614,400",
+				"CE Colossal magical beast",
+				"**Init** +10; **Senses** all-around vision, blindsense 300 ft., darkvision 60 ft., low-light vision, scent; Perception +20",
+				"**Aura** frightful presence (300 ft., DC 27)"
+			],
+			"ac": {
+				"ac": 39,
+				"touch": 9,
+				"flatfooted": 32,
+				"bonuses": {
+					"dexterity": 6,
+					"dodge": 1,
+					"natural": 30,
+					"size": -8
+				}
+			},
+			"hp": {
+				"hp": 437
+			},
+			"saves": {
+				"fort": 26,
+				"ref": 20,
+				"will": 12
+			},
+			"dr": [
+				15,
+				"epic"
+			],
+			"immune": [
+				"ability damage",
+				"acid",
+				"bleed",
+				"disease",
+				"electricity",
+				"energy drain",
+				"mind-affecting effects",
+				"paralysis",
+				"permanent wounds",
+				"petrification",
+				"poison",
+				"polymorph"
+			],
+			"sr": 33,
+			"defense": [
+				"**AC** 39, touch 9, flat-footed 32 (+6 Dex, +1 dodge, +30 natural, -8 size)",
+				"**hp** 437 (25d10+300); regeneration 30",
+				"**Fort** +26, **Ref** +20, **Will** +12",
+				"**DR** 15/epic; **Immune** ability damage, acid, bleed, disease, electricity, energy drain, mind-affecting effects, paralysis, permanent wounds, petrification, poison, polymorph; **SR** 33"
+			],
+			"speed": {
+				"land": 20,
+				"fly": 100,
+				"maneuverability": "perfect"
+			},
+			"space": 30,
+			"reach": 30,
+			"offense": [
+				"**Speed** 20 ft., fly 100 ft. (perfect)",
+				"**Melee** bite +29 (4d6+12), 3 razor tongues +29 (2d6+12/18-20/x3 plus 1d6 bleed, 1 Con bleed, and blood rage), 6 wings +24 (2d8+6)",
+				"**Ranged** 4 eye rays +23 (4d6 sonic/18-20 plus nausea)",
+				"**Space** 30 ft., **Reach** 30 ft. (50 ft. with razor tongues)",
+				"**Spell-Like Abilities (CL 25th; concentration +30)",
+				"At will-acid fog, greater invisibility, song of discord (DC 20)",
+				"3/day-winds of vengeance"
+			],
+			"str": 34,
+			"dex": 22,
+			"con": 35,
+			"int": 7,
+			"wis": 14,
+			"cha": 21,
+			"base_attack_bonus": 25,
+			"cmb": 45,
+			"cmd": 62,
+			"feats": [
+				"Ability Focus (eye ray)",
+				"Dodge",
+				"Flyby Attack",
+				"Improved Initiative",
+				"Improved Precise Shot",
+				"Improved Vital Strike",
+				"Iron Will",
+				"Mobility",
+				"Point-Blank Shot",
+				"Power Attack",
+				"Precise Shot",
+				"Snatch",
+				"Vital Strike"
+			],
+			"skills": [
+				"Fly +19",
+				"Perception +20"
+			],
+			"statistics": [
+				"**Str** 34, **Dex** 22, **Con**: 35, **Int** 7, **Wis** 14, **Cha**, 21",
+				"**Base Atk** +25; **CMB** +45; **CMD** 62 (can't be tripped)",
+				"**Feats** [Ability Focus (eye ray)](feat:Ability Focus), [Dodge](feat:Dodge), [Flyby Attack](feat:Flyby Attack), [Improved Initiative](feat:Improved Initiative), [Improved Precise Shot](feat:Improved Precise Shot), [Improved Vital Strike](feat:Improved Vital Strike), [Iron Will](feat:Iron Will), [Mobility](feat:Mobility), [Point-Blank Shot](feat:Point-Blank Shot), [Power Attack](feat:Power Attack), [Precise Shot](feat:Precise Shot), [Snatch](feat:Snatch), [Vital Strike](feat:Vital Strike)",
+				"**Skills** Fly +19, Perception +20",
+				"**Languages** Aklo",
+				"**SQ** hibernation, shatter silence, unstoppable force"
+			],
+			"environment": "any (Casmaron)",
+			"organization": "solitary",
+			"treasure": "none",
+			"ecology": [
+				"**Environment** any (Casmaron)",
+				"**Organization** solitary",
+				"**Treasure** none"
+			],
+			"special_abilities": [
+				"**Blood Rage (Ex)** Any creature taking bleed damage from Volnagur's razor tongues takes a -4 penalty on Will saves and is affected as the murderous command spell (Will DC 16 negates) each round that bleeding continues, ignoring allies that are also taking bleed damage from Volnagur.",
+				"**Eye Rays (Su)** Volnagur fires eye rays at a range of up to 120 feet. Creatures struck by his eye rays are nauseated for 1 minute (Fortitude DC 29 negates). In addition, if the target fails a second Fortitude save against the same DC, it gains one of the following conditions, lasting as long as the nauseated condition, as its mind and body begin to unravel (roll 1d6): 1-confused, 2-fatigued (exhausted if already fatigued), 3-shaken (increase severity of fear effect if already present), 4-sickened, 5-staggered, 6-stunned. Reroll if an identical condition already exists. This is a sonic effect. The save DC is Charisma-based.",
+				"**Shatter Silence (Su)** Volnagur's presence unravels magical silence effects or effects that provide energy resistance against sonic attacks. At the beginning of its turn, any such effect within 60 feet is targeted as dispel magic (caster level 25th)."
+			],
+			"description": [
+				"Volnagur, the End-Singer, is an alien thing whose very presence brings turbulence, disturbance, and cacophony wherever he soars. He flits with effortless grace upon a hideous assortment of mismatched wings that constantly molt and rot from within, the oldest wings falling off as new ones spring up and grow in their place. His skirling cry awakens madness and blood fury in those who listen, as does the touch of his impossibly long, jagged-razor tongues. Alien harmonics induced by his grotesque gaze cripple those upon whom he gazes.",
+				"[Spawn of Rovagug](unknown:Spawn of Rovagug)",
+				"Source [Inner Sea Bestiary pg. 46](source:Inner Sea Bestiary) The spawn of Rovagug are titanic terrors, slavering monstrosities of immense size and strength that live only to destroy. They are unnatural things, born of a fundamental wrongness in the universe where entropy gnaws at the root of reality. None know whether the spawn of Rovagug are the literal children of the Rough Beast in a biological sense, for it is almost impossible to think of what manner of creature could survive copulation with Rovagug or the gestation of such terrible abominations. Perhaps their foremothers are not remembered because these beasts ripped their way from the womb with their own claws, tearing and rending their way to matricidal freedom. Some sages speculate that perhaps Lamashtu herself bore them in one monstrous brood at the dawn of time, before Rovagug's imprisonment, but none of her blasphemous rites or scriptures attests to this, and her faithful make no claim that these terrors are sacred to the Mother of Monsters.",
+				"Whatever their provenance, spawn of Rovagug are living engines of destruction, slumbering for long periods before awakening with an incomprehensible hunger for sustenance and devastation. Their rampages lack cruelty or premeditation. If they indeed can trace any lineage to the Rough Beast, they did not inherit his spirit of hateful and wanton viciousness. Instead, they are comparatively simple creatures, their urges to destroy purely instinctual. They wreak havoc because it is what they were created to do, each in their own way. It may be that spawn of Rovagug represent a divergence in the fabric of reality, a natural flaw that seeks to unravel the threads of the universe even as the universe attempts to heal itself around them, which in turn the spawn of Rovagug experience as a suffocating constriction. They must destroy if they are to survive, rending reality to create space to breathe, f iguratively speaking. Their apparent satiation at the end of rampages may simply represent the spawn unraveling the order of the universe suff iciently to allow them to once more rest in peace. Their hibernation resumes until the universe knits itself back together too tightly, choking the spawn once more until they rise yet again in another waking rampage of annihilation.",
+				"It is known that certain strange and nigh-impossible rituals are capable of attracting the attention of a spawn of Rovagug or awakening one from long hibernation. Such rituals may draw the spawn to a place or perhaps point it in a certain direction, but taking full control of a spawn of Rovagug is wholly impossible. The earliest recorded appearance of a spawn of Rovagug, in ancient Ninshabur, was of Festering Ulunat, the Unholy First, whose immortal carapace towers over Osirion's capital of Sothis and has spawned countless legends about a future end-time wherein he might reawaken. Perhaps the most famous of Rovagug's living spawn is the Tarrasque, the Armageddon Engine, but Wrath-Blazing Xotani, the Firebleeder, and Unyielding Kothogaz, the Dance of Disharmony, have reputations no less terrifying in Garund and Vudra, respectively, among those aware of their existence.",
+				"Spawn of Rovagug Traits",
+				"Spawn of Rovagug are Colossal magical beasts, and gain the normal features of a creature of that type as well as the following traits common to all spawn of Rovagug.",
+				"Damage Reduction (Ex) Spawn of Rovagug have DR 15/epic.",
+				"Frightful Presence (Su) Spawn of Rovagug radiate an aura of terror in a 300-foot radius.",
+				"Hibernation (Ex) Spawn of Rovagug can sleep for years, decades, or even centuries and do not need to eat or breathe during these periods of dormancy, though they breathe normally and eat ravenously and almost constantly once they've been awakened. If a spawn of Rovagug is forced into an environment where it cannot breathe and would suffocate, it goes into hibernation until conditions are right for it to reawaken.",
+				"While in hibernation, a spawn of Rovagug's damage reduction improves to 50/epic and it gains immunity to any spell or spell-like ability that allows spell resistance as well as all divination effects.",
+				"Immunities (Ex) All spawn of Rovagug are immune to ability damage, bleed, disease, energy drain, mind-affecting effects, paralysis, permanent wounds, petrification, poison, and polymorph. In addition, each spawn of Rovagug possesses immunity to two of the following energy types: acid, cold, electricity, fire, or sonic.",
+				"Regeneration (Ex) All spawn of Rovagug possess regeneration, and no form of attack can suppress this regeneration; they regenerate even if disintegrated or slain by a death effect. If a spawn of Rovagug fails a save against an effect that would kill it instantly, it rises from death 3 rounds later with 1 hit point if no further damage is dealt to its remains. It can be banished or otherwise transported as a means to save a region, but a method to kill Spawn of Rovagug has yet to be discovered.",
+				"Spell Resistance (Su) A spawn of Rovagug possesses spell resistance equal to 11 + its CR.",
+				"Unstoppable Force (Ex) A spawn of Rovagug can always charge, even if its movement is impeded or its path is blocked by another creature. It receives a +20 racial bonus on combat maneuver checks to overrun and Strength checks to break or destroy objects, and can make one such check as a free action as part of a charge. In addition, the natural weapons of a spawn of Rovagug ignore all forms of damage reduction and hardness."
+			],
+			"short_description": "This immense creature's warty body is shaped like a many-pointed star, and from it sprout nearly a dozen different wings."
+		},
+		{
 			"name": "Talmandor",
 			"file": "monsterdisplay60cd.html",
 			"sources": [ "Andoran, Birthplace of Freedom" ],
@@ -5859,8 +6484,8 @@
 			"xp": 819200,
 			"alignment": "NG",
 			"size": "large",
-			"type": "outsider",
-			"subtypes": [ "agathion", "extraplanar", "good" ],
+			"creature_type": "outsider",
+			"creature_subtypes": [ "agathion", "extraplanar", "good" ],
 			"initiative": 13,
 			"senses": [
 				"darkvision 60 ft.",
@@ -6005,7 +6630,8 @@
 			"short_description": "This gloriously plumed anthropomorphic eagle has feathers tipped with shimmering gold, and claws with sharp black talons."
 		},
 		{
-			"name": "Tanaq Mammoth-Eater, Taiga Giant Shaman",
+			"name": "Tanaq Mammoth Eater",
+			"display_name": "Tanaq Mammoth-Eater, Taiga Giant Shaman",
 			"file": "monsterdisplaya205.html",
 			"sources": [ "Giants Revisited" ],
 			"cr": 17,
@@ -6013,8 +6639,8 @@
 			"levels": "Male taiga giant druid (mountain druid) 10",
 			"alignment": "CN",
 			"size": "huge",
-			"type": "humanoid",
-			"subtypes": [ "giant" ],
+			"creature_type": "humanoid",
+			"creature_subtypes": [ "giant" ],
 			"initiative": 8,
 			"senses": [ "low-light vision" ],
 			"perception": 23,
@@ -6125,7 +6751,8 @@
 			"short_description": "This towering, gray-skinned giant holds a massive spear, its crimson haft sporting a head of barbed and blackened stone."
 		},
 		{
-			"name": "Thath-Malal, the Eyeless Prince",
+			"name": "Thath Malal",
+			"display_name": "Thath-Malal, the Eyeless Prince",
 			"file": "monsterdisplay1816.html",
 			"sources": [ "Darklands Revisited" ],
 			"cr": 13,
@@ -6133,7 +6760,7 @@
 			"levels": "Variant young neothelid",
 			"alignment": "CE",
 			"size": "huge",
-			"type": "aberration",
+			"creature_type": "aberration",
 			"initiative": 4,
 			"senses": [
 				"blindsight 100 ft.",
@@ -6240,8 +6867,8 @@
 			"levels": "Female unique water orm",
 			"alignment": "N",
 			"size": "huge",
-			"type": "magical beast",
-			"subtypes": [ "aquatic" ],
+			"creature_type": "magical beast",
+			"creature_subtypes": [ "aquatic" ],
 			"initiative": 4,
 			"senses": [
 				"darkvision 120 ft.",
@@ -6355,8 +6982,8 @@
 			"levels": "Unique black-blooded sea serpent",
 			"alignment": "CE",
 			"size": "colossal",
-			"type": "aberration",
-			"subtypes": [ "aquatic" ],
+			"creature_type": "aberration",
+			"creature_subtypes": [ "aquatic" ],
 			"initiative": 7,
 			"senses": [ "darkvision 120 ft." ],
 			"perception": 8,
@@ -6469,8 +7096,8 @@
 			"levels": "Female drow sorcerer 4/swashbuckler 4",
 			"alignment": "CE",
 			"size": "medium",
-			"type": "humanoid",
-			"subtypes": [ "elf" ],
+			"creature_type": "humanoid",
+			"creature_subtypes": [ "elf" ],
 			"initiative": 9,
 			"senses": [ "darkvision 120 ft." ],
 			"perception": 7,
@@ -6573,7 +7200,8 @@
 			"short_description": "This blue-skinned elf has milk-white eyes, a glowing punching dagger, and a shield embossed with a demonic face."
 		},
 		{
-			"name": "The Would-Be Queen, Almara Kazaar",
+			"name": "Almara Kazaar",
+			"display_name": "The Would-Be Queen, Almara Kazaar",
 			"file": "monsterdisplay92de.html",
 			"sources": [ "Darklands Revisited" ],
 			"cr": 10,
@@ -6581,8 +7209,8 @@
 			"levels": "Female duergar warpriest of Droskar 11",
 			"alignment": "LE",
 			"size": "medium",
-			"type": "humanoid",
-			"subtypes": [ "dwarf" ],
+			"creature_type": "humanoid",
+			"creature_subtypes": [ "dwarf" ],
 			"initiative": 1,
 			"senses": [ "darkvision 120 ft." ],
 			"perception": 3,
@@ -6694,8 +7322,8 @@
 			"xp": 1638400,
 			"alignment": "CE",
 			"size": "huge",
-			"type": "outsider",
-			"subtypes": [ "demon", "native" ],
+			"creature_type": "outsider",
+			"creature_subtypes": [ "demon", "native" ],
 			"initiative": 14,
 			"senses": [
 				"darkvision 60 ft.",
@@ -6854,8 +7482,8 @@
 			"levels": "Female urdefhan magus 7",
 			"alignment": "NE",
 			"size": "medium",
-			"type": "outsider",
-			"subtypes": [ "native" ],
+			"creature_type": "outsider",
+			"creature_subtypes": [ "native" ],
 			"initiative": 7,
 			"senses": [ "darkvision 120 ft." ],
 			"perception": 14,
@@ -6971,8 +7599,8 @@
 			"xp": 819200,
 			"alignment": "CE",
 			"size": "colossal",
-			"type": "aberration",
-			"subtypes": [ "aquatic", "chaotic", "evil" ],
+			"creature_type": "aberration",
+			"creature_subtypes": [ "aquatic", "chaotic", "evil" ],
 			"initiative": 16,
 			"senses": [
 				"darkvision 60 ft.",
@@ -7118,7 +7746,7 @@
 			"levels": "Gug barbarian 2",
 			"alignment": "CE",
 			"size": "large",
-			"type": "aberration",
+			"creature_type": "aberration",
 			"initiative": 3,
 			"senses": [ "darkvision 60 ft." ],
 			"perception": 31,
@@ -7221,7 +7849,7 @@
 			"levels": "Female harpy ranger 7",
 			"alignment": "CE",
 			"size": "medium",
-			"type": "monstrous humanoid",
+			"creature_type": "monstrous humanoid",
 			"initiative": 5,
 			"senses": [ "darkvision 60 ft." ],
 			"perception": 19,
@@ -7317,7 +7945,8 @@
 			"short_description": "This fierce and feral-looking woman has huge wings and clawed hands and feet, and carries a wicked-looking longbow."
 		},
 		{
-			"name": "Urburg Armbreaker, Hill Giant Chieftain",
+			"name": "Urburg Armbreaker",
+			"display_name": "Urburg Armbreaker, Hill Giant Chieftain",
 			"file": "monsterdisplay7e3a.html",
 			"sources": [ "Giants Revisited" ],
 			"cr": 13,
@@ -7325,8 +7954,8 @@
 			"levels": "Male hill giant barbarian (scarred rager) 6",
 			"alignment": "CE",
 			"size": "large",
-			"type": "humanoid",
-			"subtypes": [ "giant" ],
+			"creature_type": "humanoid",
+			"creature_subtypes": [ "giant" ],
 			"initiative": 1,
 			"senses": [ "low-light vision" ],
 			"perception": 10,
@@ -7419,7 +8048,174 @@
 			"short_description": "This heavily scarred, towering giant wears the hide of a black dragon, and wields a massive club studded with dragon's teeth."
 		},
 		{
-			"name": "Uvaglor, the Misbegotten Prince",
+			"name": "Urtleytlar",
+			"display_name": "Urtleytlar, The Tempest Queen",
+			"file": "monsterdisplay3fc0.html",
+			"sources": [ "Pathfinder #60: From Hell's Heart" ],
+			"cr": 20,
+			"xp": 307200,
+			"levels": "Female [scylla](unknown:scylla) cleric of Rovagug 8",
+			"alignment": "CE",
+			"size": "huge",
+			"creature_type": "aberration",
+			"creature_subtypes": [ "aquatic" ],
+			"initiative": 14,
+			"senses": [
+				"all-around vision",
+				"blindsight 30 ft.",
+				"darkvision 60 ft.",
+				"low-light vision",
+				"see invisibility"
+			],
+			"perception": 34,
+			"aura": [ "frightful presence (30 ft., DC 27)" ],
+			"heading": [
+				"Urtleytlar, The Tempest Queen CR 20",
+				"**Source** [Pathfinder #60: From Hell's Heart pg. 68](source:Pathfinder #60: From Hell's Heart)",
+				"**XP** 307,200",
+				"Female [scylla](unknown:scylla) cleric of Rovagug 8",
+				"CE Huge aberration (aquatic)",
+				"**Init** +14; **Senses** all-around vision, blindsight 30 ft., darkvision 60 ft., low-light vision, see invisibility; Perception +34",
+				"**Aura** frightful presence (30 ft., DC 27)"
+			],
+			"ac": {
+				"ac": 38,
+				"touch": 28,
+				"flatfooted": 23,
+				"bonuses": {
+					"deflection": 5,
+					"dexterity": 14,
+					"dodge": 1,
+					"natural": 10,
+					"size": -2
+				}
+			},
+			"hp": {
+				"hp": 406,
+				"fast_healing": 10
+			},
+			"saves": {
+				"fort": 22,
+				"ref": 22,
+				"will": 27
+			},
+			"defensive_abilities": [
+				"freedom of movement",
+				"improved evasion"
+			],
+			"dr": [
+				10,
+				"cold iron and lawful"
+			],
+			"immune": [
+				"charm effects",
+				"cold",
+				"confusion and insanity effects"
+			],
+			"resist": {
+				"acid": 20,
+				"fire": 20
+			},
+			"sr": 31,
+			"defense": [
+				"**AC** 38, touch 28, flat-footed 23 (+5 deflection, +14 Dex, +1 dodge, +10 natural, -2 size)",
+				"**hp** 406 (28 HD; 20d8+8d8+280); fast healing 10",
+				"**Fort** +22, **Ref** +22, **Will** +27",
+				"**Defensive Abilities** freedom of movement, improved evasion; **DR** 10/cold iron and lawful; **Immune** charm effects, cold, confusion and insanity effects; **Resist** acid 20, fire 20; **SR** 31"
+			],
+			"speed": {
+				"land": 30,
+				"fly": 60,
+				"maneuverability": "good",
+				"swim": 50
+			},
+			"space": 15,
+			"reach": 15,
+			"offense": [
+				"**Speed** 30 ft., fly 60 ft. (good), swim 50 ft.",
+				"**Melee** 3 bites +37 (1d8+12/19-20 plus bleed), 4 tentacles +35 (1d6+6 plus grab)",
+				"**Space** 15 ft., **Reach** 15 ft.",
+				"**Special Attacks** bleed (1d6), channel negative energy 10/day (DC 21, 4d6), constrict (1d6+10), deadly weather (8 rounds/day), gale aura (8 rounds/day)",
+				"**Spell-Like Abilities (CL 16th; concentration +23)",
+				"Constant-fly, freedom of movement, nondetection, see invisibility",
+				"At will-acid arrow, control water, fog cloud, greater dispel magic, major image (DC 20)",
+				"3/day-black tentacles, charm monster (DC 21), insanity (DC 24), mirage arcana (DC 22), solid fog",
+				"1/day-control weather, power word stun, project image (DC 24), summon (level 8, 1 charybdis 100%)",
+				"**Cleric Spells Prepared ** (CL 8th; concentration +17)",
+				"4th-cure critical wounds (DC 23), divine power, inflict critical wounds[^D] (DC 23), tongues, unholy blight (DC 23)",
+				"3rd-call lightning[^D] (DC 22), cure serious wounds (DC 22, 2), invisibility purge, magic circle against good, water breathing",
+				"2nd-darkness, death knell (DC 21), gust of wind[^D] (DC 21), shatter (2), spiritual weapon",
+				"1st-cause fear (DC 20), command (DC 20, 2), divine favor, entropic shield, obscuring mist, shield of faith, true strike[^D]",
+				"0 (at will)-bleed (DC 19), detect magic, guidance, virtue",
+				"[^D]: Domain spell; **Domains** Destruction (Catastrophe subdomain), Weather (Storms subdomain)"
+			],
+			"str": 35,
+			"dex": 38,
+			"con": 31,
+			"int": 18,
+			"wis": 29,
+			"cha": 24,
+			"base_attack_bonus": 21,
+			"cmb": 35,
+			"cmd": 65,
+			"feats": [
+				"Combat Reflexes",
+				"Critical Focus",
+				"Dodge",
+				"Improved Critical (bite)",
+				"Mobility",
+				"Multiattack",
+				"Power Attack",
+				"Selective Channeling",
+				"Staggering Critical",
+				"Stunning Critical",
+				"Vital Strike",
+				"Weapon Finesse",
+				"Weapon Focus (bite)",
+				"Weapon Focus (tentacle)"
+			],
+			"skills": [
+				"Acrobatics +35",
+				"Bluff +25",
+				"Fly +35",
+				"Knowledge (nature) +22",
+				"Knowledge (planes) +25",
+				"Perception +34",
+				"Sense Motive +30",
+				"Spellcraft +31",
+				"Stealth +27",
+				"Swim +45",
+				"Use Magic Device +29"
+			],
+			"statistics": [
+				"**Str** 35, **Dex** 38, **Con**: 31, **Int** 18, **Wis** 29, **Cha**, 24",
+				"**Base Atk** +21; **CMB** +35 (+39 grapple); **CMD** 65",
+				"**Feats** [Combat Reflexes](feat:Combat Reflexes), [Critical Focus](feat:Critical Focus), [Dodge](feat:Dodge), [Improved Critical (bite)](feat:Improved Critical), [Mobility](feat:Mobility), [Multiattack](feat:Multiattack), [Power Attack](feat:Power Attack), [Selective Channeling](feat:Selective Channeling), [Staggering Critical](feat:Staggering Critical), [Stunning Critical](feat:Stunning Critical), [Vital Strike](feat:Vital Strike), [Weapon Finesse](feat:Weapon Finesse), [Weapon Focus (bite)](feat:Weapon Focus), [Weapon Focus (tentacle)](feat:Weapon Focus)",
+				"**Skills** Acrobatics +35, Bluff +25, Fly +35, Knowledge (nature) +22, Knowledge (planes) +25, Perception +34, Sense Motive +30, Spellcraft +31, Stealth +27, Swim +45, Use Magic Device +29",
+				"**Languages** Aboleth, Abyssal, Aklo, Aquan, Common",
+				"**SQ** amphibious, aura, change shape (1 humanoid form; alter self), undersized weapons",
+				"**Gear** amulet of mighty fists +3, belt of physical perfection +4, ring of protection +5"
+			],
+			"description": [
+				"An awakened horror shaken from the depths of the sea by the catastrophic calling of Earthfall, the beast known as Urtleytlar swims the Arcadian Ocean, wreaking havoc wherever she treads. Urtleytlar is one of the Lesser Spawn of Rovagug, having escaped the Rough Beast's prison deep beneath the earth like those before her. The drow of Sekamina tell legends of a terrible many-headed beast crawling from the depths of the Dying Sea to prey upon their coastal settlements, and scholars among the dark elves hypothesize that this beast may have originated from somewhere in Orv. In this instance, their legends hold true, for Urtleytlar indeed swam the lightless depths of the Sightless Sea for centuries until she made it up the Braid, raided the aboleth population guarding the Inverted Sea, and emerged into a broken Azlant already claimed by the Arcadian Ocean.",
+				"Urtleytlar spent her first millennia on Golarion's surface terrorizing the eastern coasts of Arcadia, after which the foul beast felt an irresistible call to the lands of the east. The world rippled with destruction after the passing of Aroden, and this surge of chaos washed over Urtleytlar as she felt the pull of her lord Rovagug in the Inner Sea region. She swam eastward, weaving through the shattered continent of Azlant, and as she headed toward the Eye of Abendego, she saw the storm as a manifestation of the Rough Beast's destructive power. The monstrous scylla delights in the powerful storm, and preaches Rovagug's words of destruction through the ruin she sows.",
+				"Since making the Abendego Gulf her home, Urtleytlar has gathered numerous evil aquatic humanoids (and even depraved sailors) to her wretched bosom. The boggards and skum that make up the greatest number of her minions extend her reach to the broken shores of the Sodden Lands and Shackles. Some say she guides foolish sailors hoping to sail into the hurricane, providing them temporary safety in exchange for a taste of their souls.",
+				"A handful of boggard tribes swear fealty to the Tempest Queen by capturing slaves and dragging them to the shores as sacrifices. Urtleytlar makes choice selections from among her minions' offerings, leaving the scraps for the boggards themselves to enjoy. Though she doesn't need the froglike humanoids for her conquests, she nonetheless enjoys their adoration. In addition to these minions, she counts a number of skum armies-left masterless after their abandonment by their aboleth rulers-as her thralls. Beneath the howling winds of the Eye of Abendego, hundreds of skum dwell in the ruins of Lirgen, now sunken beneath the sea. From this base, they make deals with both boggards and humans who have managed to survive in the flooded wastes of the Sodden Lands. These tribes and gangs provide Urtleytlar with slaves and food, and she strengthens their reach by aiding them in their destructive endeavors. In addition to these humanoids, Urtleytlar uses Megrexti, her charybdis counterpart and favorite plaything, as a living weapon, sending it into the middle of fleets of ships or other attackers and laughing in delight as it tears her victims to pieces.",
+				"Urtleytlar chose as her alternate form a strangely beautiful Cyclops woman. As old a creature as she is, perhaps Urtleytlar feels a kinship with the giants who once ruled the land and waters she now calls home. Regardless, her alternate form has tricked many explorers searching for the ruins of Ghol-Gan, easing them into an odd complacency before she utterly destroys them and their crews.",
+				"Infamous Deeds",
+				"Thriving within the dangerous force of the Eye of Abendego, the Tempest Queen gleefully besets any ship or fleet hoping to penetrate the storm. Many explorers in search of lost cities from Lirgen or ruins of ancient Ghol-Gan risk running across this wrathful creature.",
+				"An insane, destructive whimsy marks Urtleytlar's behavior, and she delights in betrayal at the slightest offense. She leads some sailors safely through the storm for a time, then closes off the pockets of calm on the pitiful crew, leaving them to be ripped apart by the blistering winds and churning waters.",
+				"According to the ship logs of the famed explorer Escobar Vellian, his last major encounter in the Sodden Lands was escaping the clutches of Urtleytlar. Assaulted by her fanatical skum minions and subjected to her numerous magical gambits, Vellian lost two ships during his attempts to escape, and returned to his home port with only one ship and less than one-fifth of his original crew.",
+				"Adventure Hooks",
+				"Urtleytlar tends to find sailors before they find her, and those who purposefully seek out the legendary monster are regarded as mad.",
+				"- Eager to acquire more power to further her course of destruction, Urtleytlar sends skum scouts to raid the underwater city of Wetan near the Sodden Lands. Once a port city of Lirgen, Wetan fell beneath the waves with the formation of the Eye of Abendego, and after the settlement's destruction, a tribe of locathah squatters sought the protection of its abandoned buildings. There they discovered an inoperable planetary gate and managed to partially activate it. Urtleytlar can sense the power and wants it for her own, despite not knowing exactly what she might gain.",
+				"- Though Urtleytlar enjoys the caress of the Eye, she is hardly contained to one place, and her touch can be felt on the shores of the Shackles, the Sodden Lands, and Mediogalti Isle. Her destructive roaming causes especial trouble for the pirates of the Shackles, and a number of unlikely collaborators have settled their grudges, forming a pact to locate the dangerous scylla and kill her. Of course, with an endeavor like this, the pirates are eager for additional help."
+			],
+			"short_description": "This writhing terror is made of tentacles and the heads of multiple hounds. The figure of a beautiful woman extends from the monster's center, though its fiendish visage is far from welcoming."
+		},
+		{
+			"name": "Uvaglor",
+			"display_name": "Uvaglor, the Misbegotten Prince",
 			"file": "monsterdisplayb508.html",
 			"sources": [ "Demons Revisited" ],
 			"cr": 20,
@@ -7427,8 +8223,8 @@
 			"levels": "Male advanced vrock oracle 15",
 			"alignment": "CE",
 			"size": "large",
-			"type": "outsider",
-			"subtypes": [ "chaotic", "demon", "evil", "extraplanar" ],
+			"creature_type": "outsider",
+			"creature_subtypes": [ "chaotic", "demon", "evil", "extraplanar" ],
 			"initiative": 13,
 			"senses": [
 				"darkvision 60 ft.",
@@ -7559,7 +8355,8 @@
 			"short_description": "This vulture-headed demon has crimson wings and a baleful third eye in his forehead. He is clad in lengths of chain and metal plates, and carries a cruel-looking sword in one hand and a glowing sphere of violet crystal in the other."
 		},
 		{
-			"name": "Valonesse Hergrut, Frost Giant Jarl",
+			"name": "Valonesse Hergrut",
+			"display_name": "Valonesse Hergrut, Frost Giant Jarl",
 			"file": "monsterdisplay5783.html",
 			"sources": [ "Giants Revisited" ],
 			"cr": 18,
@@ -7567,8 +8364,8 @@
 			"levels": "Female frost giant barbarian 9",
 			"alignment": "CE",
 			"size": "large",
-			"type": "humanoid",
-			"subtypes": [ "cold", "giant" ],
+			"creature_type": "humanoid",
+			"creature_subtypes": [ "cold", "giant" ],
 			"initiative": 6,
 			"senses": [ "low-light vision" ],
 			"perception": 29,
@@ -7681,8 +8478,8 @@
 			"xp": 1638400,
 			"alignment": "NE",
 			"size": "large",
-			"type": "outsider",
-			"subtypes": [ "evil", "native" ],
+			"creature_type": "outsider",
+			"creature_subtypes": [ "evil", "native" ],
 			"initiative": 16,
 			"senses": [
 				"darkvision 60 ft.",
@@ -7842,7 +8639,7 @@
 			"levels": "Variant norn",
 			"alignment": "LN",
 			"size": "large",
-			"type": "fey",
+			"creature_type": "fey",
 			"initiative": 10,
 			"senses": [
 				"low-light vision",
@@ -7967,8 +8764,8 @@
 			"xp": 409600,
 			"alignment": "NE",
 			"size": "large",
-			"type": "outsider",
-			"subtypes": [ "daemon", "evil", "extraplanar", "fire" ],
+			"creature_type": "outsider",
+			"creature_subtypes": [ "daemon", "evil", "extraplanar", "fire" ],
 			"initiative": 5,
 			"senses": [
 				"darkvision 60 ft.",

@@ -1,10 +1,10 @@
 {
+	"category": "siege weapon",
 	"list": [
 		{
 			"name": "alchemist's fire",
 			"file": "equipmentweaponsdisplay35d1.html",
 			"sources": [ "Ultimate Combat" ],
-			"category": "siege weapon",
 			"types": [
 				"ammunition"
 			],
@@ -27,7 +27,6 @@
 			"name": "blast shot",
 			"file": "equipmentweaponsdisplayb9e4.html",
 			"sources": [ "Ultimate Combat" ],
-			"category": "siege weapon",
 			"types": [
 				"ammunition"
 			],
@@ -50,7 +49,6 @@
 			"name": "bomb",
 			"file": "equipmentweaponsdisplay8558.html",
 			"sources": [ "Ultimate Combat" ],
-			"category": "siege weapon",
 			"types": [
 				"ammunition"
 			],
@@ -73,7 +71,6 @@
 			"name": "chain shot",
 			"file": "equipmentweaponsdisplay5357.html",
 			"sources": [ "Ultimate Combat" ],
-			"category": "siege weapon",
 			"types": [
 				"ammunition"
 			],
@@ -96,7 +93,6 @@
 			"name": "defoliant shot",
 			"file": "equipmentweaponsdisplaydf27.html",
 			"sources": [ "Belkzen, Hold of the Orc Hordes" ],
-			"category": "siege weapon",
 			"types": [
 				"ammunition"
 			],
@@ -120,7 +116,6 @@
 			"name": "entangling bolt",
 			"file": "equipmentweaponsdisplayb644.html",
 			"sources": [ "Belkzen, Hold of the Orc Hordes" ],
-			"category": "siege weapon",
 			"types": [
 				"ammunition"
 			],
@@ -144,7 +139,6 @@
 			"name": "liquid ice",
 			"file": "equipmentweaponsdisplayec8f.html",
 			"sources": [ "Ultimate Combat" ],
-			"category": "siege weapon",
 			"types": [
 				"ammunition"
 			],
@@ -167,7 +161,6 @@
 			"name": "plague bundle",
 			"file": "equipmentweaponsdisplayd7f6.html",
 			"sources": [ "Ultimate Combat" ],
-			"category": "siege weapon",
 			"types": [
 				"ammunition"
 			],
@@ -190,7 +183,6 @@
 			"name": "rockwasp bomb",
 			"file": "equipmentweaponsdisplaydb52.html",
 			"sources": [ "Belkzen, Hold of the Orc Hordes" ],
-			"category": "siege weapon",
 			"types": [
 				"ammunition"
 			],
@@ -213,7 +205,6 @@
 			"name": "smoke shot",
 			"file": "equipmentweaponsdisplay5d5e.html",
 			"sources": [ "Ultimate Combat" ],
-			"category": "siege weapon",
 			"types": [
 				"ammunition"
 			],
@@ -236,7 +227,6 @@
 			"name": "ballista net",
 			"file": "equipmentweaponsdisplay3a3f.html",
 			"sources": [ "Dragonslayer's Handbook" ],
-			"category": "siege weapon",
 			"types": [
 				"ammunition"
 			],
@@ -259,7 +249,6 @@
 			"name": "flak",
 			"file": "equipmentweaponsdisplay7611.html",
 			"sources": [ "Dragonslayer's Handbook" ],
-			"category": "siege weapon",
 			"types": [
 				"ammunition"
 			],
@@ -282,7 +271,6 @@
 			"name": "flechette bolt",
 			"file": "equipmentweaponsdisplayc223.html",
 			"sources": [ "Dragonslayer's Handbook" ],
-			"category": "siege weapon",
 			"types": [
 				"ammunition"
 			],
@@ -306,7 +294,6 @@
 			"name": "weighted bolt",
 			"file": "equipmentweaponsdisplay0e56.html",
 			"sources": [ "Dragonslayer's Handbook" ],
-			"category": "siege weapon",
 			"types": [
 				"ammunition"
 			],
@@ -333,7 +320,6 @@
 				"Ultimate Combat",
 				"PRPG Core Rulebook"
 			],
-			"category": "siege weapon",
 			"types": [
 				"direct-fire",
 				"large"
@@ -370,7 +356,6 @@
 			"name": "cannon",
 			"file": "equipmentweaponsdisplayde18.html",
 			"sources": [ "Ultimate Combat" ],
-			"category": "siege weapon",
 			"types": [
 				"direct-fire",
 				"large"
@@ -405,7 +390,6 @@
 			"display_name": "ballista, heavy",
 			"file": "equipmentweaponsdisplay9267.html",
 			"sources": [ "Ultimate Combat" ],
-			"category": "siege weapon",
 			"types": [
 				"direct-fire",
 				"huge"
@@ -438,7 +422,6 @@
 			"display_name": "cannon, fiend's mouth",
 			"file": "equipmentweaponsdisplayd566.html",
 			"sources": [ "Ultimate Combat" ],
-			"category": "siege weapon",
 			"types": [
 				"direct-fire",
 				"huge"
@@ -472,7 +455,6 @@
 			"name": "firedrake",
 			"file": "equipmentweaponsdisplaydde4.html",
 			"sources": [ "Ultimate Combat" ],
-			"category": "siege weapon",
 			"types": [
 				"direct-fire",
 				"huge"
@@ -503,7 +485,6 @@
 			"name": "manticore's tail",
 			"file": "equipmentweaponsdisplaydce8.html",
 			"sources": [ "Belkzen, Hold of the Orc Hordes" ],
-			"category": "siege weapon",
 			"types": [
 				"direct-fire",
 				"huge"
@@ -538,7 +519,6 @@
 			"display_name": "ballista, gate breaker",
 			"file": "equipmentweaponsdisplay816c.html",
 			"sources": [ "Ultimate Combat" ],
-			"category": "siege weapon",
 			"types": [
 				"direct-fire",
 				"gargantuan"
@@ -570,7 +550,6 @@
 			"name": "firewyrm",
 			"file": "equipmentweaponsdisplay1317.html",
 			"sources": [ "Ultimate Combat" ],
-			"category": "siege weapon",
 			"types": [
 				"direct-fire",
 				"gargantuan"
@@ -602,7 +581,6 @@
 			"display_name": "bombard, light",
 			"file": "equipmentweaponsdisplay1ec7.html",
 			"sources": [ "Ultimate Combat" ],
-			"category": "siege weapon",
 			"types": [
 				"indirect-fire",
 				"large"
@@ -644,7 +622,6 @@
 				"Ultimate Combat",
 				"PRPG Core Rulebook"
 			],
-			"category": "siege weapon",
 			"types": [
 				"indirect-fire",
 				"large"
@@ -680,7 +657,6 @@
 			"display_name": "trebuchet, light",
 			"file": "equipmentweaponsdisplaye756.html",
 			"sources": [ "Ultimate Combat" ],
-			"category": "siege weapon",
 			"types": [
 				"indirect-fire",
 				"large"
@@ -718,7 +694,6 @@
 			"display_name": "bombard, standard",
 			"file": "equipmentweaponsdisplayc038.html",
 			"sources": [ "Ultimate Combat" ],
-			"category": "siege weapon",
 			"types": [
 				"indirect-fire",
 				"huge"
@@ -752,7 +727,6 @@
 			"display_name": "catapult, standard",
 			"file": "equipmentweaponsdisplay2eba.html",
 			"sources": [ "Ultimate Combat" ],
-			"category": "siege weapon",
 			"types": [
 				"indirect-fire",
 				"huge"
@@ -785,7 +759,6 @@
 			"display_name": "springal, arrow",
 			"file": "equipmentweaponsdisplayf0b8.html",
 			"sources": [ "Ultimate Combat" ],
-			"category": "siege weapon",
 			"types": [
 				"indirect-fire",
 				"huge"
@@ -822,7 +795,6 @@
 			"display_name": "springal, rocket",
 			"file": "equipmentweaponsdisplaya4ad.html",
 			"sources": [ "Ultimate Combat" ],
-			"category": "siege weapon",
 			"types": [
 				"indirect-fire",
 				"huge"
@@ -855,7 +827,6 @@
 			"display_name": "trebuchet, standard",
 			"file": "equipmentweaponsdisplay0ab2.html",
 			"sources": [ "Ultimate Combat" ],
-			"category": "siege weapon",
 			"types": [
 				"indirect-fire",
 				"huge"
@@ -888,7 +859,6 @@
 			"display_name": "bombard, heavy",
 			"file": "equipmentweaponsdisplayf759.html",
 			"sources": [ "Ultimate Combat" ],
-			"category": "siege weapon",
 			"types": [
 				"indirect-fire",
 				"gargantuan"
@@ -925,7 +895,6 @@
 				"Ultimate Combat",
 				"PRPG Core Rulebook"
 			],
-			"category": "siege weapon",
 			"types": [
 				"indirect-fire",
 				"gargantuan"
@@ -958,7 +927,6 @@
 			"display_name": "trebuchet, heavy",
 			"file": "equipmentweaponsdisplay79c3.html",
 			"sources": [ "Ultimate Combat" ],
-			"category": "siege weapon",
 			"types": [
 				"indirect-fire",
 				"gargantuan"
@@ -991,7 +959,6 @@
 			"display_name": "bridge, assault, colossal",
 			"file": "equipmentweaponsdisplay62b3.html",
 			"sources": [ "Ultimate Combat" ],
-			"category": "siege weapon",
 			"types": [
 				"close assault"
 			],
@@ -1025,7 +992,6 @@
 			"display_name": "bridge, assault, gargantuan",
 			"file": "equipmentweaponsdisplay2c10.html",
 			"sources": [ "Ultimate Combat" ],
-			"category": "siege weapon",
 			"types": [
 				"close assault"
 			],
@@ -1050,7 +1016,6 @@
 			"display_name": "bridge, assault, huge",
 			"file": "equipmentweaponsdisplaya6d0.html",
 			"sources": [ "Ultimate Combat" ],
-			"category": "siege weapon",
 			"types": [
 				"close assault"
 			],
@@ -1075,7 +1040,6 @@
 			"display_name": "bridge, assault, large",
 			"file": "equipmentweaponsdisplayd200.html",
 			"sources": [ "Ultimate Combat" ],
-			"category": "siege weapon",
 			"types": [
 				"close assault"
 			],
@@ -1099,7 +1063,6 @@
 			"name": "corvus",
 			"file": "equipmentweaponsdisplay9f57.html",
 			"sources": [ "Ultimate Combat" ],
-			"category": "siege weapon",
 			"types": [
 				"close assault"
 			],
@@ -1125,7 +1088,6 @@
 			"name": "crushing wheel",
 			"file": "equipmentweaponsdisplay2585.html",
 			"sources": [ "Belkzen, Hold of the Orc Hordes" ],
-			"category": "siege weapon",
 			"types": [
 				"close assault"
 			],
@@ -1154,7 +1116,6 @@
 			"name": "earthmaul",
 			"file": "equipmentweaponsdisplay1786.html",
 			"sources": [ "Belkzen, Hold of the Orc Hordes" ],
-			"category": "siege weapon",
 			"types": [
 				"close assault"
 			],
@@ -1184,7 +1145,6 @@
 			"display_name": "gallery, colossal",
 			"file": "equipmentweaponsdisplay4a89.html",
 			"sources": [ "Ultimate Combat" ],
-			"category": "siege weapon",
 			"types": [
 				"close assault"
 			],
@@ -1213,7 +1173,6 @@
 			"display_name": "gallery, gargantuan",
 			"file": "equipmentweaponsdisplay2ab2.html",
 			"sources": [ "Ultimate Combat" ],
-			"category": "siege weapon",
 			"types": [
 				"close assault"
 			],
@@ -1238,7 +1197,6 @@
 			"display_name": "gallery, huge",
 			"file": "equipmentweaponsdisplay7b0e.html",
 			"sources": [ "Ultimate Combat" ],
-			"category": "siege weapon",
 			"types": [
 				"close assault"
 			],
@@ -1263,7 +1221,6 @@
 			"display_name": "gallery, large",
 			"file": "equipmentweaponsdisplaye4dc.html",
 			"sources": [ "Ultimate Combat" ],
-			"category": "siege weapon",
 			"types": [
 				"close assault"
 			],
@@ -1287,7 +1244,6 @@
 			"name": "harvester",
 			"file": "equipmentweaponsdisplay94a3.html",
 			"sources": [ "Belkzen, Hold of the Orc Hordes" ],
-			"category": "siege weapon",
 			"types": [
 				"close assault"
 			],
@@ -1318,7 +1274,6 @@
 			"display_name": "ladder, escalade, gargantuan",
 			"file": "equipmentweaponsdisplay4775.html",
 			"sources": [ "Ultimate Combat" ],
-			"category": "siege weapon",
 			"types": [
 				"close assault"
 			],
@@ -1352,7 +1307,6 @@
 			"display_name": "ladder, escalade, colossal",
 			"file": "equipmentweaponsdisplayfed9.html",
 			"sources": [ "Ultimate Combat" ],
-			"category": "siege weapon",
 			"types": [
 				"close assault"
 			],
@@ -1377,7 +1331,6 @@
 			"display_name": "ladder, escalade, huge",
 			"file": "equipmentweaponsdisplay9887.html",
 			"sources": [ "Ultimate Combat" ],
-			"category": "siege weapon",
 			"types": [
 				"close assault"
 			],
@@ -1402,7 +1355,6 @@
 			"display_name": "ladder, escalade, large",
 			"file": "equipmentweaponsdisplaybc26.html",
 			"sources": [ "Ultimate Combat" ],
-			"category": "siege weapon",
 			"types": [
 				"close assault"
 			],
@@ -1430,7 +1382,6 @@
 				"Ultimate Combat",
 				"PRPG Core Rulebook"
 			],
-			"category": "siege weapon",
 			"types": [
 				"close assault"
 			],
@@ -1468,7 +1419,6 @@
 			"display_name": "ram, colossal",
 			"file": "equipmentweaponsdisplayc553.html",
 			"sources": [ "Ultimate Combat" ],
-			"category": "siege weapon",
 			"types": [
 				"close assault"
 			],
@@ -1496,7 +1446,6 @@
 			"display_name": "ram, gargantuan",
 			"file": "equipmentweaponsdisplayfc3a.html",
 			"sources": [ "Ultimate Combat" ],
-			"category": "siege weapon",
 			"types": [
 				"close assault"
 			],
@@ -1524,7 +1473,6 @@
 			"display_name": "ram, huge",
 			"file": "equipmentweaponsdisplay6211.html",
 			"sources": [ "Ultimate Combat" ],
-			"category": "siege weapon",
 			"types": [
 				"close assault"
 			],
@@ -1552,7 +1500,6 @@
 			"display_name": "siege tower, colossal",
 			"file": "equipmentweaponsdisplay6d9b.html",
 			"sources": [ "Ultimate Combat" ],
-			"category": "siege weapon",
 			"types": [
 				"close assault"
 			],
@@ -1588,7 +1535,6 @@
 			"display_name": "siege tower, gargantuan",
 			"file": "equipmentweaponsdisplay07d0.html",
 			"sources": [ "Ultimate Combat" ],
-			"category": "siege weapon",
 			"types": [
 				"close assault"
 			],
@@ -1613,7 +1559,6 @@
 			"display_name": "siege tower, huge",
 			"file": "equipmentweaponsdisplay4460.html",
 			"sources": [ "Ultimate Combat" ],
-			"category": "siege weapon",
 			"types": [
 				"close assault"
 			],
@@ -1641,7 +1586,6 @@
 				"Ultimate Combat",
 				"PRPG Core Rulebook"
 			],
-			"category": "siege weapon",
 			"types": [
 				"close assault"
 			],

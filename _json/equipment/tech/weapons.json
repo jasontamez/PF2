@@ -1,4 +1,5 @@
 {
+	"category": "weapon",
 	"description": [
 		"Each technological weapon has a full description, including a set of abbreviated statistics. This information is organized as follows.",
 		"**Price:** This is the cost (in gold pieces) to purchase the weapon if it's available for sale. As with magic weapons, a technological weapon can be sold by PCs for half this value.",
@@ -24,7 +25,6 @@
 			"name": "monowhip",
 			"file": "equipmenttechweaponsdisplay1804.html",
 			"sources": [ "Technology Guide" ],
-			"category": "weapon",
 			"types": [
 				"tech",
 				"light"
@@ -62,7 +62,6 @@
 			"name": "null blade",
 			"file": "equipmenttechweaponsdisplay3b73.html",
 			"sources": [ "Technology Guide" ],
-			"category": "weapon",
 			"types": [
 				"tech",
 				"one-handed"
@@ -100,7 +99,6 @@
 			"name": "plasma blade",
 			"file": "equipmenttechweaponsdisplay310a.html",
 			"sources": [ "Pathfinder #100: A Song of Silver" ],
-			"category": "weapon",
 			"types": [
 				"tech",
 				"one-handed"
@@ -138,7 +136,6 @@
 			"name": "chainsaw",
 			"file": "equipmenttechweaponsdisplay222d.html",
 			"sources": [ "Technology Guide" ],
-			"category": "weapon",
 			"types": [
 				"tech",
 				"two-handed"
@@ -176,7 +173,6 @@
 			"name": "neural inhibitor",
 			"file": "equipmenttechweaponsdisplay6304.html",
 			"sources": [ "Pathfinder #85: Fires of Creation" ],
-			"category": "weapon",
 			"types": [
 				"tech",
 				"light"
@@ -212,7 +208,6 @@
 			"name": "laser torch",
 			"file": "equipmenttechweaponsdisplay35d8.html",
 			"sources": [ "Technology Guide" ],
-			"category": "weapon",
 			"types": [
 				"tech",
 				"one-handed"
@@ -249,7 +244,6 @@
 			"name": "stun baton",
 			"file": "equipmenttechweaponsdisplayedce.html",
 			"sources": [ "Technology Guide" ],
-			"category": "weapon",
 			"types": [
 				"tech",
 				"one-handed"
@@ -287,7 +281,6 @@
 			"name": "starfall spade",
 			"file": "equipmenttechweaponsdisplay865e.html",
 			"sources": [ "Pathfinder #89: Palace of Fallen Stars" ],
-			"category": "weapon",
 			"types": [
 				"tech",
 				"two-handed"
@@ -325,7 +318,6 @@
 			"name": "arc pistol",
 			"file": "equipmenttechweaponsdisplayaf74.html",
 			"sources": [ "Technology Guide" ],
-			"category": "weapon",
 			"types": [
 				"tech",
 				"one-handed",
@@ -364,7 +356,6 @@
 			"name": "dart gun",
 			"file": "equipmenttechweaponsdisplayd9f8.html",
 			"sources": [ "Technology Guide" ],
-			"category": "weapon",
 			"types": [
 				"tech",
 				"one-handed",
@@ -402,7 +393,6 @@
 			"name": "death ray",
 			"file": "equipmenttechweaponsdisplay90b9.html",
 			"sources": [ "Technology Guide" ],
-			"category": "weapon",
 			"types": [
 				"tech",
 				"one-handed",
@@ -441,7 +431,6 @@
 			"name": "emp pistol",
 			"file": "equipmenttechweaponsdisplay72ff.html",
 			"sources": [ "Technology Guide" ],
-			"category": "weapon",
 			"types": [
 				"tech",
 				"one-handed",
@@ -480,7 +469,6 @@
 			"name": "flare gun",
 			"file": "equipmenttechweaponsdisplayfc9b.html",
 			"sources": [ "Technology Guide" ],
-			"category": "weapon",
 			"types": [
 				"tech",
 				"one-handed",
@@ -519,7 +507,6 @@
 			"name": "gravity pistol",
 			"file": "equipmenttechweaponsdisplay4e7e.html",
 			"sources": [ "Technology Guide" ],
-			"category": "weapon",
 			"types": [
 				"tech",
 				"one-handed",
@@ -558,7 +545,6 @@
 			"name": "inferno pistol",
 			"file": "equipmenttechweaponsdisplay54f4.html",
 			"sources": [ "Pathfinder #85: Fires of Creation" ],
-			"category": "weapon",
 			"types": [
 				"tech",
 				"one-handed",
@@ -597,7 +583,6 @@
 			"name": "laser pistol",
 			"file": "equipmenttechweaponsdisplayd922.html",
 			"sources": [ "Technology Guide" ],
-			"category": "weapon",
 			"types": [
 				"tech",
 				"one-handed",
@@ -636,7 +621,6 @@
 			"name": "mind burner",
 			"file": "equipmenttechweaponsdisplay1020.html",
 			"sources": [ "Pathfinder #86: Lords of Rust" ],
-			"category": "weapon",
 			"types": [
 				"tech",
 				"one-handed",
@@ -676,7 +660,6 @@
 			"name": "mindrender",
 			"file": "equipmenttechweaponsdisplaya5d5.html",
 			"sources": [ "Technology Guide" ],
-			"category": "weapon",
 			"types": [
 				"tech",
 				"one-handed",
@@ -715,7 +698,6 @@
 			"name": "sonic pistol",
 			"file": "equipmenttechweaponsdisplayd01e.html",
 			"sources": [ "Technology Guide" ],
-			"category": "weapon",
 			"types": [
 				"tech",
 				"one-handed",
@@ -754,7 +736,6 @@
 			"name": "stun gun",
 			"file": "equipmenttechweaponsdisplayb4ab.html",
 			"sources": [ "Technology Guide" ],
-			"category": "weapon",
 			"types": [
 				"tech",
 				"one-handed",
@@ -792,7 +773,6 @@
 			"name": "zero pistol",
 			"file": "equipmenttechweaponsdisplay3fc9.html",
 			"sources": [ "Technology Guide" ],
-			"category": "weapon",
 			"types": [
 				"tech",
 				"one-handed",
@@ -831,7 +811,6 @@
 			"name": "arc rifle",
 			"file": "equipmenttechweaponsdisplay8936.html",
 			"sources": [ "Technology Guide" ],
-			"category": "weapon",
 			"types": [
 				"tech",
 				"two-handed",
@@ -870,7 +849,6 @@
 			"name": "autograpnel",
 			"file": "equipmenttechweaponsdisplay6e47.html",
 			"sources": [ "Technology Guide" ],
-			"category": "weapon",
 			"types": [
 				"tech",
 				"two-handed",
@@ -911,7 +889,6 @@
 			"name": "emp rifle",
 			"file": "equipmenttechweaponsdisplayc73a.html",
 			"sources": [ "Technology Guide" ],
-			"category": "weapon",
 			"types": [
 				"tech",
 				"two-handed",
@@ -950,7 +927,6 @@
 			"name": "gravity rifle",
 			"file": "equipmenttechweaponsdisplayda71.html",
 			"sources": [ "Technology Guide" ],
-			"category": "weapon",
 			"types": [
 				"tech",
 				"two-handed",
@@ -989,7 +965,6 @@
 			"name": "id rifle",
 			"file": "equipmenttechweaponsdisplay1a46.html",
 			"sources": [ "Technology Guide" ],
-			"category": "weapon",
 			"types": [
 				"tech",
 				"two-handed",
@@ -1030,7 +1005,6 @@
 			"name": "laser rifle",
 			"file": "equipmenttechweaponsdisplayd3d8.html",
 			"sources": [ "Technology Guide" ],
-			"category": "weapon",
 			"types": [
 				"tech",
 				"two-handed",
@@ -1069,7 +1043,6 @@
 			"name": "sonic rifle",
 			"file": "equipmenttechweaponsdisplayca16.html",
 			"sources": [ "Technology Guide" ],
-			"category": "weapon",
 			"types": [
 				"tech",
 				"two-handed",
@@ -1108,7 +1081,6 @@
 			"name": "zero rifle",
 			"file": "equipmenttechweaponsdisplay4480.html",
 			"sources": [ "Technology Guide" ],
-			"category": "weapon",
 			"types": [
 				"tech",
 				"two-handed",

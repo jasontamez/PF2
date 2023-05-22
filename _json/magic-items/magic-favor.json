@@ -1,11 +1,11 @@
 {
+	"category": "magic item",
 	"list": [
 		{
 			"name": "Kerchief of Remembrance",
 			"file": "magicfavorsdisplay8eb5.html",
 			"sources": [ "Heroes of the High Court" ],
 			"cost": 600,
-			"category": "magic item",
 			"types": [
 				"favor"
 			],
@@ -27,7 +27,6 @@
 			"file": "magicfavorsdisplay714f.html",
 			"sources": [ "Heroes of the High Court" ],
 			"cost": 800,
-			"category": "magic item",
 			"types": [
 				"favor"
 			],
@@ -49,7 +48,6 @@
 			"file": "magicfavorsdisplaya4a3.html",
 			"sources": [ "Heroes of the High Court" ],
 			"cost": 1200,
-			"category": "magic item",
 			"types": [
 				"favor"
 			],
@@ -71,7 +69,6 @@
 			"file": "magicfavorsdisplaya72d.html",
 			"sources": [ "Heroes of the High Court" ],
 			"cost": 2000,
-			"category": "magic item",
 			"types": [
 				"favor"
 			],
@@ -93,7 +90,6 @@
 			"file": "magicfavorsdisplay585d.html",
 			"sources": [ "Heroes of the High Court" ],
 			"cost": 2400,
-			"category": "magic item",
 			"types": [
 				"favor"
 			],

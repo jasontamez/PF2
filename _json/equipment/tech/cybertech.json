@@ -1,4 +1,5 @@
 {
+	"category": "magic item",
 	"description": [
 		"Cybertech is a form of technology that must be surgically implanted into a host body before it functions. Cybertech takes up a special set of slots that correspond to a creature's body. Most cybertech is designed for a creature with a humanoid shape-installing cybertech in a non-humanoid-shaped body is more difficult, but possible.",
 		"Each piece of cybertech has an implantation value that indicates how invasive the implant is. The total combined implantation values of all cybertech implanted in a single creature can't exceed either that creature's Constitution score or Intelligence score-a creature's Constitution sets the physical limit of what its body can accept in the form of cybernetic implants, while the creature's Intelligence sets the mental limit of what its brain can control. An implant whose implantation value would cause the total to exceed either of these two scores does not function but still takes up a body slot. In addition, as long as a character has cybernetic implants installed whose combined implantation exceeds his Constitution or Intelligence, he takes a -4 penalty on all saving throws.",
@@ -22,7 +23,6 @@
 			"name": "cybernetic legs",
 			"file": "equipmenttechcybertechdisplay4f21.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"cybertech"
@@ -52,7 +52,6 @@
 			"name": "cranial bomb",
 			"file": "equipmenttechcybertechdisplay9fc5.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"cybertech"
@@ -81,7 +80,6 @@
 			"name": "cybernetic eyes",
 			"file": "equipmenttechcybertechdisplay1c9f.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"cybertech"
@@ -111,7 +109,6 @@
 			"name": "optical turrets",
 			"file": "equipmenttechcybertechdisplayf6dd.html",
 			"sources": [ "Pathfinder #88: Valley of the Brain Collectors" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"cybertech"
@@ -141,7 +138,6 @@
 			"name": "cybernetic ears",
 			"file": "equipmenttechcybertechdisplayb32a.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"cybertech"
@@ -171,7 +167,6 @@
 			"name": "skillslot",
 			"file": "equipmenttechcybertechdisplay0ee6.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"cybertech"
@@ -215,7 +210,6 @@
 			"name": "frenzychip",
 			"file": "equipmenttechcybertechdisplay41d8.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"cybertech"
@@ -245,7 +239,6 @@
 			"display_name": "dermal plating (mark I)",
 			"file": "equipmenttechcybertechdisplayeb7c.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"cybertech"
@@ -283,7 +276,6 @@
 			"display_name": "cyberfiber muscles (mark I)",
 			"file": "equipmenttechcybertechdisplayb73b.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"cybertech"
@@ -319,7 +311,6 @@
 			"display_name": "thoracic nanite chamber (mark I)",
 			"file": "equipmenttechcybertechdisplayacd6.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"cybertech"
@@ -355,7 +346,6 @@
 			"display_name": "wirejack tendons (mark I)",
 			"file": "equipmenttechcybertechdisplay5a14.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"cybertech"
@@ -390,7 +380,6 @@
 			"name": "biofilter",
 			"file": "equipmenttechcybertechdisplaybac0.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"cybertech"
@@ -420,7 +409,6 @@
 			"display_name": "dermal plating (mark II)",
 			"file": "equipmenttechcybertechdisplayafb3.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"cybertech"
@@ -445,7 +433,6 @@
 			"display_name": "cyberfiber muscles (mark II)",
 			"file": "equipmenttechcybertechdisplay2c91.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"cybertech"
@@ -470,7 +457,6 @@
 			"display_name": "thoracic nanite chamber (mark II)",
 			"file": "equipmenttechcybertechdisplay08dc.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"cybertech"
@@ -495,7 +481,6 @@
 			"display_name": "wirejack tendons (mark II)",
 			"file": "equipmenttechcybertechdisplay2129.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"cybertech"
@@ -520,7 +505,6 @@
 			"display_name": "dermal plating (mark III)",
 			"file": "equipmenttechcybertechdisplay53e7.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"cybertech"
@@ -545,7 +529,6 @@
 			"display_name": "dermal plating (mark IV)",
 			"file": "equipmenttechcybertechdisplay1262.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"cybertech"
@@ -570,7 +553,6 @@
 			"display_name": "cyberfiber muscles (mark III)",
 			"file": "equipmenttechcybertechdisplay1aca.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"cybertech"
@@ -595,7 +577,6 @@
 			"display_name": "thoracic nanite chamber (mark III)",
 			"file": "equipmenttechcybertechdisplay1aa6.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"cybertech"
@@ -620,7 +601,6 @@
 			"display_name": "wirejack tendons (mark III)",
 			"file": "equipmenttechcybertechdisplay7575.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"cybertech"
@@ -645,7 +625,6 @@
 			"display_name": "dermal plating (mark V)",
 			"file": "equipmenttechcybertechdisplaye6f1.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"cybertech"
@@ -669,7 +648,6 @@
 			"name": "cybernetic arm",
 			"file": "equipmenttechcybertechdisplay4922.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"cybertech"
@@ -698,7 +676,6 @@
 			"name": "implanted weaponry",
 			"file": "equipmenttechcybertechdisplaydfd1.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"cybertech"
@@ -727,7 +704,6 @@
 			"name": "cyberart",
 			"file": "equipmenttechcybertechdisplayba19.html",
 			"sources": [ "Technology Guide" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"cybertech"
@@ -756,7 +732,6 @@
 			"name": "implant mesh",
 			"file": "equipmenttechcybertechdisplay198c.html",
 			"sources": [ "Pathfinder #89: Palace of Fallen Stars" ],
-			"category": "magic item",
 			"types": [
 				"tech",
 				"cybertech"

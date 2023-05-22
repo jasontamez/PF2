@@ -1,4 +1,5 @@
 {
+	"category": "magic item set",
 	"list": [
 		{
 			"name": "Archmage's Vestments",
@@ -6,7 +7,6 @@
 			"sources": [
 				"Chronicle of Legends"
 			],
-			"category": "magic item",
 			"types": [
 				"set"
 			],
@@ -33,7 +33,6 @@
 			"sources": [
 				"Chronicle of Legends"
 			],
-			"category": "magic item",
 			"types": [
 				"set"
 			],
@@ -60,7 +59,6 @@
 			"sources": [
 				"Chronicle of Legends"
 			],
-			"category": "magic item",
 			"types": [
 				"set"
 			],
@@ -85,7 +83,6 @@
 			"sources": [
 				"Chronicle of Legends"
 			],
-			"category": "magic item",
 			"types": [
 				"set"
 			],
@@ -112,7 +109,6 @@
 			"sources": [
 				"Chronicle of Legends"
 			],
-			"category": "magic item",
 			"types": [
 				"set"
 			],
@@ -139,7 +135,6 @@
 			"sources": [
 				"Chronicle of Legends"
 			],
-			"category": "magic item",
 			"types": [
 				"set"
 			],
@@ -162,7 +157,6 @@
 			"sources": [
 				"Chronicle of Legends"
 			],
-			"category": "magic item",
 			"types": [
 				"set"
 			],
@@ -189,7 +183,6 @@
 			"sources": [
 				"Chronicle of Legends"
 			],
-			"category": "magic item",
 			"types": [
 				"set"
 			],
