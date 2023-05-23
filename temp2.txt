@@ -1,0 +1,259 @@
+{
+	"list": [
+		{
+			"name": "Aberrant",
+			"file": "bloodlinedisplay20be.html",
+			"short_description": "There is a taint in your blood, one that is alien and bizarre."
+		},
+		{
+			"name": "Abyssal",
+			"file": "bloodlinedisplay7aee.html",
+			"short_description": "Generations ago, a demon spread its filth into your heritage."
+		},
+		{
+			"name": "Accursed",
+			"file": "bloodlinedisplay50a6.html",
+			"short_description": "Misfortune, pestilence, and nightmares follow your family like vermin drawn to carrion."
+		},
+		{
+			"name": "Aquatic",
+			"file": "bloodlinedisplay92d2.html",
+			"short_description": "Your family traces its heritage back to the ocean depths, whether scions of undersea empires left in the wake of nomadic sea-tribes, or the spawn of creeping ichthyic infiltrators into remote seaside villages. "
+		},
+		{
+			"name": "Arcane",
+			"file": "bloodlinedisplayaee0.html",
+			"short_description": "Your family has always been skilled in the eldritch art of magic."
+		},
+		{
+			"name": "Astral",
+			"file": "bloodlinedisplay03b9.html",
+			"short_description": "Whether you were raised on the Astral Plane, had an ancestor with a strong connection to the Astral, or simply had a freak brush with an astral conduit in your youth, you have an unusual connection to both time and space. Your senses extend through the Astral Plane to the far reaches of the multiverse, allowing you to perceive and manipulate the timeless potential that binds the multiverse together. Your ancestors may have also held a connection to one of the astral isles or conduits, or like you, may have plied this cosmic ocean-and some may even survive there to this day."
+		},
+		{
+			"name": "Boreal",
+			"file": "bloodlinedisplayf7d8.html",
+			"short_description": "Descended from inhabitants of the lands of ice and snow, you count among your ancestors giant-kin, troll-born, and frost-rimed spirits."
+		},
+		{
+			"name": "Celestial",
+			"file": "bloodlinedisplay9813.html",
+			"short_description": "Your bloodline is blessed by a celestial power, either from a celestial ancestor or through divine intervention."
+		},
+		{
+			"name": "Daemon",
+			"file": "bloodlinedisplay2e84.html",
+			"short_description": "Your powers derive from daemons, who take pleasure and gain power from manipulating mortal frailties like aging, pestilence, famine, and the horrors of war."
+		},
+		{
+			"name": "Deep Earth",
+			"file": "bloodlinedisplay8368.html",
+			"short_description": "The echoing cave-songs and the rumble and creak of primal spirits deep below the ground thrum in your soul and in all your family line. "
+		},
+		{
+			"name": "Destined",
+			"file": "bloodlinedisplay4903.html",
+			"short_description": "Your family is destined for greatness in some way."
+		},
+		{
+			"name": "Div",
+			"file": "bloodlinedisplay3fe4.html",
+			"short_description": "You can trace your ancestry to one of the foul, corrupted genies known as divs."
+		},
+		{
+			"name": "Djinni",
+			"file": "bloodlinedisplay19a4.html",
+			"short_description": "You were born with the power of air genies, and the magic of the djinn is strong in you."
+		},
+		{
+			"name": "Draconic",
+			"file": "UNKNOWN",
+			"short_description": "At some point in your family's history, a dragon interbred with your bloodline, and now its ancient power flows through your veins."
+		},
+		{
+			"name": "Dreamspun",
+			"file": "bloodlinedisplay4b4a.html",
+			"short_description": "Your family is a long line of dreamers, who dream not as ordinary mortals do but rather as those who reach through and touch the supernal realm of dreams and the farthest shores of night."
+		},
+		{
+			"name": "Ectoplasm",
+			"file": "UNKNOWN",
+			"short_description": "The power of the Ethereal Plane thrums in your mind and pulls at your flesh."
+		},
+		{
+			"name": "Efreeti",
+			"file": "bloodlinedisplay896f.html",
+			"short_description": "You were born with the power of fire genies, and the magic of the efreet is strong in you."
+		},
+		{
+			"name": "Elemental",
+			"file": "bloodlinedisplay04c4.html",
+			"short_description": "The power of the elements resides in you, and at times you can hardly control its fury."
+		},
+		{
+			"name": "Fey",
+			"file": "bloodlinedisplaycdfa.html",
+			"short_description": "The capricious nature of the fey runs in your family due to some intermingling of fey blood or magic."
+		},
+		{
+			"name": "Ghoul",
+			"file": "bloodlinedisplay30e4.html",
+			"short_description": "Your connection to the hungering undead shapes your magic."
+		},
+		{
+			"name": "Harrow",
+			"file": "bloodlinedisplay1f5b.html",
+			"short_description": "Just as knowledge of the harrow has passed from generation to generation since time immemorial, so too has a deep spiritual connection to the otherworldly forces bound by the harrow passed through the ages."
+		},
+		{
+			"name": "Imperious",
+			"file": "bloodlinedisplay0d3c.html",
+			"short_description": "(Human Only) A scion of forgotten kings, with a lineage rich with the dust of ancient empires spanning every golden age of humanity's history, an imperious embodies the apex of human potential, as well as human temerity and uninhibited hubris."
+		},
+		{
+			"name": "Impossible",
+			"file": "UNKNOWN",
+			"short_description": "You can see beyond the mundane, and are capable of visualizing the improbable, and even the impossible."
+		},
+		{
+			"name": "Infernal",
+			"file": "bloodlinedisplay423f.html",
+			"short_description": "Somewhere in your family's history, a relative made a deal with a devil, and that pact has influenced your family line ever since."
+		},
+		{
+			"name": "Kobold Sorcerer",
+			"file": "bloodlinedisplay15c1.html",
+			"short_description": "(Kobold Only) While many kobold sorcerers tout their purely draconic bloodline, over generations of eldritch training, some such spellcasters have created a bloodline that, while tinged with some draconic magic, is the embodiment of the race's virtue distilled into arcane form."
+		},
+		{
+			"name": "Maestro",
+			"file": "bloodlinedisplay55d3.html",
+			"short_description": "The spiritual power of art and song runs strongly through your family line."
+		},
+		{
+			"name": "Marid",
+			"file": "bloodlinedisplaycbf2.html",
+			"short_description": "You were born with the power of water genies, and the magic of the marids is strong in you."
+		},
+		{
+			"name": "Martyred",
+			"file": "UNKNOWN",
+			"short_description": "One of your ancestors paid the ultimate price for your beliefs."
+		},
+		{
+			"name": "Naga",
+			"file": "bloodlinedisplaye818.html",
+			"short_description": "Naga blood flows within your veins. Perhaps a curious naga experimented upon one of your ancestors in an attempt to create the perfect servant, or maybe one of your ancestors was a shapeshifting naga. Either way, you boast powers similar to those of true nagas."
+		},
+		{
+			"name": "Nanite",
+			"file": "bloodlinedisplaye470.html",
+			"short_description": "Either you were born from one of the forgewombs scattered throughout the wastelands, or you were infected by nanites, which now course through your blood."
+		},
+		{
+			"name": "Oni",
+			"file": "bloodlinedisplay4db8.html",
+			"short_description": "As slaves of capricious oni lords, your ancestors were forced to yield to their masters' hedonistic desires, inevitably tainting their descendents with oni blood."
+		},
+		{
+			"name": "Orc",
+			"file": "bloodlinedisplay6130.html",
+			"short_description": "The rage of your ancestors burns within you, and the taint of savage orc blood flows through your veins."
+		},
+		{
+			"name": "Pestilence",
+			"file": "bloodlinedisplay89ef.html",
+			"short_description": "You were born during the height of a great magical plague, to a mother suffering from an eldritch disease, or you suffered an eldritch pox as a child, such that your very soul now carries a blight of pestilence within it."
+		},
+		{
+			"name": "Phoenix",
+			"file": "bloodlinedisplayc56a.html",
+			"short_description": "One of your ancestors bore witness to a phoenix's resurrection and formed a bond with the magical creature. The resurrecting flames still course through your veins, surging with power."
+		},
+		{
+			"name": "Possessed",
+			"file": "bloodlinedisplaycb4e.html",
+			"short_description": "The mystical connection with your possessing spirit allows you to gain more control over your body and mind."
+		},
+		{
+			"name": "Protean",
+			"file": "bloodlinedisplay681d.html",
+			"short_description": "You have in your veins the ever-changing wildness of primal chaos, the raw essence of unbound creation."
+		},
+		{
+			"name": "Psychic",
+			"file": "bloodlinedisplayfc45.html",
+			"short_description": "Psychic power runs thorough your blood, whether it be from a familial predisposition to psychic power or exposure to a powerful psychic phenomenon. Whatever the source of this power, your mind is a dangerous weapon."
+		},
+		{
+			"name": "Rakshasa",
+			"file": "bloodlinedisplay5da9.html",
+			"short_description": "At some point in your family's history, one of your ancestors was tainted by the influence of a rakshasa."
+		},
+		{
+			"name": "Salamander",
+			"file": "bloodlinedisplayb6a2.html",
+			"short_description": "You are descended from the elemental outsiders known as salamanders. You wield flame as a weapon and a tool, and your smithing skills are unrivaled."
+		},
+		{
+			"name": "Scorpion",
+			"file": "bloodlinedisplay0f26.html",
+			"short_description": "Whether your ancestors served a scorpion goddess or simply worked closely with more mundane members of the species, the venom from these arachnids has seeped down through generations into your blood."
+		},
+		{
+			"name": "Serpentine",
+			"file": "bloodlinedisplaye9f6.html",
+			"short_description": "Your bloodline carries the lingering stain of ancient serpent races that ruled when the world was young."
+		},
+		{
+			"name": "Shadow",
+			"file": "bloodlinedisplay372c.html",
+			"short_description": "Spirits from the shadow plane dally at times in the world of light, and such as these lay with your ancestors once upon a time, imparting the mystery of shadow-stuff into your lineage."
+		},
+		{
+			"name": "Shaitan",
+			"file": "bloodlinedisplay5a9f.html",
+			"short_description": "You were born with the power of earth genies, and the magic of the shaitans is strong in you."
+		},
+		{
+			"name": "Shapechanger",
+			"file": "bloodlinedisplay8846.html",
+			"short_description": "Channeling the power of your shapeshifting ancestors that you carry in your blood, you gain powers that allow you to change your shape and alter your appearance and physical abilities."
+		},
+		{
+			"name": "Solar",
+			"file": "bloodlinedisplay1559.html",
+			"short_description": "Sorcerers who serve in the sun goddess's court display powers infused with the glory of the sun itself."
+		},
+		{
+			"name": "Starsoul",
+			"file": "bloodlinedisplay4a2e.html",
+			"short_description": "You come from a line of stargazers and explorers who delved deeply into the darkness beyond the stars."
+		},
+		{
+			"name": "Stormborn",
+			"file": "bloodlinedisplay281f.html",
+			"short_description": "You trace your heritage to fierce and proud spirits of storm and sky, and living lightning sings in your veins. "
+		},
+		{
+			"name": "Undead",
+			"file": "bloodlinedisplaya695.html",
+			"short_description": "The taint of the grave runs through your family."
+		},
+		{
+			"name": "Unicorn",
+			"file": "bloodlinedisplay19f1.html",
+			"short_description": "The deep forests of Avistan, such as those found in Molthune and Nirmathas, are a haven for one of Golarion's most fabled creatures: <a href="monsterdisplay19f1.html?ItemName=Unicorn">unicorns</a>. Deeply empathetic and fiercely protective, unicorns on occasion form close bonds with humans, often young and noble-hearted women. When the two have a particularly strong bond, the unicorn's magic can become a part of the bonded human, and sometimes is even passed on to her children. These children, blessed by their parent's connection to that force of true good, grow up to become sorcerers of the unicorn bloodline."
+		},
+		{
+			"name": "Verdant",
+			"file": "bloodlinedisplay8c6b.html",
+			"short_description": "Your progenitors infused themselves with raw plant life, binding it into their own tissue and passing it down to their literal seed, giving you innate communion with nature."
+		},
+		{
+			"name": "Vestige",
+			"file": "UNKNOWN",
+			"short_description": "You trace your ancestry to a bygone civilization and can call upon its forgotten people or places for power."
+		}
+	]
+}

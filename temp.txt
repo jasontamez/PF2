@@ -1,0 +1,152 @@
+{
+	"sources": [ "Ultimate Magic" ],
+	"description": [
+		"A wildblooded sorcerer has a mutated version of a more common bloodline, with one arcana and at least one bloodline power that are different from those of an unmutated bloodline. When creating a wildblooded sorcerer, select an existing bloodline, then select one of the following mutated bloodlines associated with that bloodline. Use the normal bloodline's class skill, bonus spells, and bonus feats, and the mutated bloodline's bloodline arcana. Use the normal bloodline's bloodline powers, except when the mutated bloodline replaces one of those powers."
+	],
+	"list": [
+		{
+			"name": "Anarchic",
+			"file": "wildbloodeddisplay28b3.html",
+			"base_bloodline": "Protean"
+			"short_description": "Your magical power taps into pure anarchy."
+		},
+		{
+			"name": "Arial",
+			"file": "wildbloodeddisplayd8cf.html",
+			"base_bloodline": "Stormborn"
+			"short_description": "Your magic is more focused on the power of air and rain than on lightning and thunder."
+		},
+		{
+			"name": "Bedrock",
+			"file": "wildbloodeddisplay07aa.html",
+			"base_bloodline": "Deep Earth"
+			"short_description": "Your earth magic is more defensive than offensive."
+		},
+		{
+			"name": "Brutal",
+			"file": "wildbloodeddisplay2249.html",
+			"base_bloodline": "Abyssal"
+			"short_description": "The powers of the Abyss can vary radically, even for similar fiends."
+		},
+		{
+			"name": "Dark Fey",
+			"file": "wildbloodeddisplay5147.html",
+			"base_bloodline": "Fey"
+			"short_description": "Your powers were born of malevolent trickery and shadowy First World magic."
+		},
+		{
+			"name": "Empyreal",
+			"file": "wildbloodeddisplay03bd.html",
+			"base_bloodline": "Celestial"
+			"short_description": "Your heavenly power derives from insight rather than force of personality."
+		},
+		{
+			"name": "Envenomed",
+			"file": "wildbloodeddisplay264d.html",
+			"base_bloodline": "Serpentine"
+			"short_description": "The ophidian source of your bloodline has more to do with stealth and assassination than it does with leadership and alliances."
+		},
+		{
+			"name": "Groveborn",
+			"file": "wildbloodeddisplayda14.html",
+			"base_bloodline": "Verdant"
+			"short_description": "Some plant magic is more green, while some is more brown, like hardwood."
+		},
+		{
+			"name": "Karmic",
+			"file": "wildbloodeddisplaya417.html",
+			"base_bloodline": "Destined"
+			"short_description": "The universe punishes those who interfere with destiny."
+		},
+		{
+			"name": "Lifewater",
+			"file": "wildbloodeddisplaya987.html",
+			"base_bloodline": "Elemental (water)"
+			"short_description": "Your soul is infused with the restorative and life-giving powers of elemental water."
+		},
+		{
+			"name": "Linnorm",
+			"file": "wildbloodeddisplay4055.html",
+			"base_bloodline": "Draconic"
+			"short_description": "Your draconic heritage stems from a mighty, primordial linnorm rather than from the more common, somewhat civilized dragons."
+		},
+		{
+			"name": "Pit-Touched",
+			"file": "wildbloodeddisplay0675.html",
+			"base_bloodline": "Infernal"
+			"short_description": "Your diabolic corruption is from a source in the deepest parts of Hell."
+		},
+		{
+			"name": "Primal",
+			"file": "wildbloodeddisplay44d6.html",
+			"base_bloodline": "Elemental"
+			"short_description": "Your powers are attuned to the concentrated core of the elemental plane."
+		},
+		{
+			"name": "Retribution",
+			"file": "wildbloodeddisplayc168.html",
+			"base_bloodline": "Martyred"
+			"short_description": "One of your ancestors was unjustly executed, and your soul is infused with this forebear's vengeful spirit."
+		},
+		{
+			"name": "Rime-Blooded",
+			"file": "wildbloodeddisplayb1c9.html",
+			"base_bloodline": "Boreal"
+			"short_description": "The wintry origin of your magic flows like ice water in your veins."
+		},
+		{
+			"name": "Sage",
+			"file": "wildbloodeddisplay3403.html",
+			"base_bloodline": "Arcane"
+			"short_description": "Scholars of the arcane are always creating new means to use magic."
+		},
+		{
+			"name": "Sanguine",
+			"file": "wildbloodeddisplay354f.html",
+			"base_bloodline": "Undead"
+			"short_description": "The power of undeath can derive from cold blood as well as hard bone."
+		},
+		{
+			"name": "Seaborn",
+			"file": "wildbloodeddisplayddb9.html",
+			"base_bloodline": "Aquatic"
+			"short_description": "Your powers rise like the tides."
+		},
+		{
+			"name": "Shahzada",
+			"file": "wildbloodeddisplay86d1.html",
+			"base_bloodline": "Marid"
+			"short_description": "You are descended from the ranks of noble marids, making your blood royal as well as magical."
+		},
+		{
+			"name": "Sylvan",
+			"file": "wildbloodeddisplay6ae9.html",
+			"base_bloodline": "Fey"
+			"short_description": "Your ties to nature have more to do with creatures than with capriciousness."
+		},
+		{
+			"name": "Umbral",
+			"file": "wildbloodeddisplayaa9c.html",
+			"base_bloodline": "Shadow"
+			"short_description": "Your nature is to gather the darkness into yourself."
+		},
+		{
+			"name": "Visionary",
+			"file": "wildbloodeddisplay552d.html",
+			"base_bloodline": "Dreamspun"
+			"short_description": "Your dream-magic strongly influences the waking world."
+		},
+		{
+			"name": "Void-Touched",
+			"file": "wildbloodeddisplayfa28.html",
+			"base_bloodline": "Starsoul"
+			"short_description": "The darkness between the stars calls to you."
+		},
+		{
+			"name": "Warped",
+			"file": "wildbloodeddisplayae85.html",
+			"base_bloodline": "Aberrant"
+			"short_description": "The alien taint in your blood causes malformations and mutations in others."
+		}
+	]
+}

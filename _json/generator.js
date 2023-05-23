@@ -1,11 +1,11 @@
 
-export function calculateBonusesByType (arrayOfBonuses) {
+export function calculateBonusesByType (...arrayOfBonuses) {
     // Takes an array of objects
     // Returns an integer
     const types = [];
     const bonuses = {};
     let final = 0;
-    arrayOfBonuses.forEach(bonus => {
+    this._flatten(arrayOfBonuses).forEach(bonus => {
         const { type, value } = bonus;
         if(!type || value <= 0) {
             // Typeless bonuses always stack

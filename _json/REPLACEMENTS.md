@@ -115,24 +115,31 @@ Replace skill-rank checks
 
 Condense class features with multiple possibilities
 
-`^(\t+)("alignment_any": \[\n(?:\1\t".+?",\n)*\1\t".+?)",\n\1\t"(.+?)"\n`
+`^(\t+)("god_any": \[\n(?:\1\t".+?",\n)*\1\t".+?)",\n\1\t"(.+?)"\n`
 `$1$2,$3"\n`
 
-`^(\t+)"(alignment)_any": \[\n\1\t(".+?")\n\1\]`
-`$1"$2_": $3`
+`^(\t+)"(god)_any": \[\n\1\t(".+?")\n\1\]`
+`$1"$2": $3`
 
 Replace class features
-`^(\t+)\{\n\1\t"alignment": "(.+?)"\n\1\}`
-`$1"hasFeatureInCategory([background],$2)"`
+`^(\t+)\{\n\1\t"creature": "(.+?)"\n\1\}`
+`$1"hasFeatureInCategory((god),$2)"`
+
+`^(\t+)(\{\n(?:\1\t.+\n)*?)\1\t"deity": "(.+?)",?\n((?:\1\t.+\n)*\1\})`
+`$1"hasFeatureInCategory((god),$3)",\n$1$2$4`
 
 `^(\t+)\{\n\1\t"class_feature_all": "(.+?)"\n\1\}`
 `$1"hasFeatureAllInCategory([class feature],$2)"`
 
-`^(\t+)(\{\n(?:\1\t.+\n)*?)\1\t"alignment": "(.+?)",?\n((?:\1\t.+\n)*\1\})`
-`$1"hasFeatureInCategory([background],$3)",\n$1$2$4`
-
 `^(\t+)(\{\n(?:\1\t.+\n)*?)\1\t"class_feature_all": "(.+?)",?\n((?:\1\t.+\n)*\1\})`
 `$1"hasFeatureAllInCategory([class feature],$3)",\n$1$2$4`
+
+`^(\t+)\{\n\1\t"alignment": "(.+?)"\n\1\}`
+`$1"getInput(alignment)==$2"`
+
+`^(\t+)(\{\n(?:\1\t.+\n)*?)\1\t"alignment": "(.+?)",?\n((?:\1\t.+\n)*\1\})`
+`$1"getInput(alignment)==$3",\n$1$2$4`
+
 
 `,(\n\t+\})`
 `$1`

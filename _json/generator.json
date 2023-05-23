@@ -9,6 +9,182 @@
 		{
 			"name": "skill points pool",
 			"value": 0
+		},
+		{
+			"name": "alchemist class level",
+			"value": 0
+		},
+		{
+			"name": "antipaladin class level",
+			"value": 0
+		},
+		{
+			"name": "arcanist class level",
+			"value": 0
+		},
+		{
+			"name": "barbarian class level",
+			"value": 0
+		},
+		{
+			"name": "unchained barbarian class level",
+			"value": 0
+		},
+		{
+			"name": "bard class level",
+			"value": 0
+		},
+		{
+			"name": "bloodrager class level",
+			"value": 0
+		},
+		{
+			"name": "brawler class level",
+			"value": 0
+		},
+		{
+			"name": "cavalier class level",
+			"value": 0
+		},
+		{
+			"name": "cleric class level",
+			"value": 0
+		},
+		{
+			"name": "druid class level",
+			"value": 0
+		},
+		{
+			"name": "fighter class level",
+			"value": 0
+		},
+		{
+			"name": "gunslinger class level",
+			"value": 0
+		},
+		{
+			"name": "hunter class level",
+			"value": 0
+		},
+		{
+			"name": "inquisitor class level",
+			"value": 0
+		},
+		{
+			"name": "investigator class level",
+			"value": 0
+		},
+		{
+			"name": "kineticist class level",
+			"value": 0
+		},
+		{
+			"name": "magus class level",
+			"value": 0
+		},
+		{
+			"name": "medium class level",
+			"value": 0
+		},
+		{
+			"name": "mesmerist class level",
+			"value": 0
+		},
+		{
+			"name": "monk class level",
+			"value": 0
+		},
+		{
+			"name": "unchained monk class level",
+			"value": 0
+		},
+		{
+			"name": "ninja class level",
+			"value": 0
+		},
+		{
+			"name": "occultist class level",
+			"value": 0
+		},
+		{
+			"name": "oracle class level",
+			"value": 0
+		},
+		{
+			"name": "paladin class level",
+			"value": 0
+		},
+		{
+			"name": "psychic class level",
+			"value": 0
+		},
+		{
+			"name": "ranger class level",
+			"value": 0
+		},
+		{
+			"name": "rogue class level",
+			"value": 0
+		},
+		{
+			"name": "unchained rogue class level",
+			"value": 0
+		},
+		{
+			"name": "samuari class level",
+			"value": 0
+		},
+		{
+			"name": "shaman class level",
+			"value": 0
+		},
+		{
+			"name": "shifter class level",
+			"value": 0
+		},
+		{
+			"name": "skald class level",
+			"value": 0
+		},
+		{
+			"name": "slayer class level",
+			"value": 0
+		},
+		{
+			"name": "sorcerer class level",
+			"value": 0
+		},
+		{
+			"name": "spiritualist class level",
+			"value": 0
+		},
+		{
+			"name": "summoner class level",
+			"value": 0
+		},
+		{
+			"name": "unchained summoner class level",
+			"value": 0
+		},
+		{
+			"name": "swashbuckler class level",
+			"value": 0
+		},
+		{
+			"name": "vigilante class level",
+			"value": 0
+		},
+		{
+			"name": "warpriest class level",
+			"value": 0
+		},
+		{
+			"name": "witch class level",
+			"value": 0
+		},
+		{
+			"name": "wizard class level",
+			"value": 0
 		}
 	],
 	"user_inputs": {
@@ -498,6 +674,10 @@
 		}
 	],
 	"scores": [
+		{
+			"name": "character level",
+			"formula": "getInput(alchemist class level) + getInput(antipaladin class level) + getInput(arcanist class level) + getInput(barbarian class level) + getInput(unchained barbarian_unchained class level) + getInput(bard class level) + getInput(bloodrager class level) + getInput(brawler class level) + getInput(cavalier class level) + getInput(cleric class level) + getInput(druid class level) + getInput(fighter class level) + getInput(gunslinger class level) + getInput(hunter class level) + getInput(inquisitor class level) + getInput(investigator class level) + getInput(kineticist class level) + getInput(magus class level) + getInput(medium class level) + getInput(mesmerist class level) + getInput(monk class level) + getInput(unchained monk_unchained class level) + getInput(ninja class level) + getInput(occultist class level) + getInput(oracle class level) + getInput(paladin class level) + getInput(psychic class level) + getInput(ranger class level) + getInput(rogue class level) + getInput(unchained rogue_unchained class level) + getInput(samuari class level) + getInput(shaman class level) + getInput(shifter class level) + getInput(skald class level) + getInput(slayer class level) + getInput(sorcerer class level) + getInput(spiritualist class level) + getInput(summoner class level) + getInput(unchained summoner_unchained class level) + getInput(swashbuckler class level) + getInput(vigilante class level) + getInput(warpriest class level) + getInput(witch class level) + getInput(wizard class level)"
+		},
 		{
 			"name": "base attack bonus",
 			"formula": "sum(getScores(BAB bonus))"
