@@ -1,0 +1,172 @@
+[
+	{
+		"name": "Ancestor",
+		"file": "mysterydisplay1854.html",
+		"deities": [ "Erastil", "Irori", "Pharasma" ]
+	},
+	{
+		"name": "Apocalypse",
+		"file": "mysterydisplaya5ab.html",
+		"deities": [ "Gorum", "Rovagug" ]
+	},
+	{
+		"name": "Ascetic",
+		"file": "mysterydisplayd1c6.html",
+		"deities": [ "Gozreh", "Irori" ]
+	},
+	{
+		"name": "Battle",
+		"file": "mysterydisplay55dc.html",
+		"deities": [ "Cayden Cailean", "Gorum", "Iomedae", "Rovagug" ]
+	},
+	{
+		"name": "Bones",
+		"file": "mysterydisplay706f.html",
+		"deities": [ "Norgorber", "Pharasma", "Urgathoa" ]
+	},
+	{
+		"name": "Dark Tapestry",
+		"file": "mysterydisplay7137.html",
+		"deities": [ "Lamashtu", "Norgorber", "Zon-Kuthon" ]
+	},
+	{
+		"name": "Dragon",
+		"file": "mysterydisplay1041.html",
+		"deities": [ "Dahak", "General Susumu", "Nalinivati", "Ragadahn", "Shizuru" ]
+	},
+	{
+		"name": "Elemental",
+		"file": "mysterydisplay04c4.html",
+		"deities": [ "Elemental Lords", "Gozreh", "Nethys", "Yamatsumi" ]
+	},
+	{
+		"name": "Flame",
+		"file": "mysterydisplay5771.html",
+		"deities": [ "Asmodeus", "Sarenrae" ]
+	},
+	{
+		"name": "Godclaw",
+		"file": "mysterydisplay7ee6.html",
+		"deities": [ "Abadar", "Asmodeus", "Iomedae", "Irori", "Torag" ]
+	},
+	{
+		"name": "Heavens",
+		"file": "mysterydisplay923d.html",
+		"deities": [ "Desna", "Gozreh", "Pharasma", "Sarenrae" ]
+	},
+	{
+		"name": "Intrigue",
+		"file": "mysterydisplayb269.html",
+		"deities": [ "Calistria", "Norgorber" ]
+	},
+	{
+		"name": "Juju",
+		"file": "mysterydisplay935e.html",
+		"deities": [ "Wendo" ]
+	},
+	{
+		"name": "Life",
+		"file": "mysterydisplay195c.html",
+		"deities": [ "Gozreh", "Pharasma", "Sarenrae" ]
+	},
+	{
+		"name": "Lore",
+		"file": "mysterydisplayd63b.html",
+		"deities": [ "Abadar", "Irori", "Nethys" ]
+	},
+	{
+		"name": "Lunar",
+		"file": "mysterydisplayd77f.html",
+		"deities": [ "Ashava", "Desna", "Groetus", "Jezelda", "Tsukiyo", "Zon-Kuthon" ]
+	},
+	{
+		"name": "Metal",
+		"file": "mysterydisplay508a.html",
+		"deities": [ "Abadar", "Gorum", "Torag" ]
+	},
+	{
+		"name": "Nature",
+		"file": "mysterydisplayd262.html",
+		"deities": [ "Erastil", "Gozreh" ]
+	},
+	{
+		"name": "Occult",
+		"file": "mysterydisplay546d.html",
+		"deities": [ "Magdh", "Nethys", "Pharasma", "Tsukiyo" ]
+	},
+	{
+		"name": "Outer Rifts",
+		"file": "mysterydisplay0ce0.html",
+		"deities": [ "Iomedae", "Groetus", "Lamashtu", "demon lords" ]
+	},
+	{
+		"name": "Reaper",
+		"file": "mysterydisplay928f.html",
+		"deities": [ "Achaekek", "Groetus", "Pharasma" ]
+	},
+	{
+		"name": "Shadow",
+		"file": "mysterydisplay372c.html",
+		"deities": [ "Groetus", "Lao Shu Po", "Tsukiyo", "Zon-Kuthon" ]
+	},
+	{
+		"name": "Solar",
+		"file": "mysterydisplay1559.html",
+		"deities": [ "Desna", "Gozreh", "Iomedae", "Keltheald", "Lalaci", "Nurgal", "Sarenrae", "Ymeri" ]
+	},
+	{
+		"name": "Spellscar",
+		"file": "UNKNOWN",
+		"deities": [ "Gozreh", "Lamashtu", "Nethys", "Zyphus" ]
+	},
+	{
+		"name": "Stone",
+		"file": "mysterydisplay1180.html",
+		"deities": [ "Abadar", "Gorum", "Torag" ]
+	},
+	{
+		"name": "Streets",
+		"file": "mysterydisplay18c8.html",
+		"deities": [ "Cayden Cailean", "Milani", "Norgorber" ]
+	},
+	{
+		"name": "Succor",
+		"file": "mysterydisplay04f8.html",
+		"deities": [ "Milani", "Pharasma", "Qi Zhong", "Sarenrae" ]
+	},
+	{
+		"name": "Time",
+		"file": "UNKNOWN",
+		"deities": [ "Gozreh", "Nethys", "Pharasma" ]
+	},
+	{
+		"name": "Volcano",
+		"file": "mysterydisplay6f38.html",
+		"deities": [ "Flauros", "Mhar", "Rovagug", "Valani", "Yamatsumi", "Ymeri" ]
+	},
+	{
+		"name": "Waves",
+		"file": "mysterydisplay037d.html",
+		"deities": [ "Gozreh", "Pharasma" ]
+	},
+	{
+		"name": "Whimsy",
+		"file": "mysterydisplayb47e.html",
+		"deities": [ "Green Mother", "Lantern King", "Ng", "Shyka" ]
+	},
+	{
+		"name": "Wind",
+		"file": "mysterydisplay437e.html",
+		"deities": [ "Gozreh", "Shelyn" ]
+	},
+	{
+		"name": "Winter",
+		"file": "mysterydisplay05e6.html",
+		"deities": [ "Gorum", "Gozreh", "Kostchtchie", "Ng", "Rovagug" ]
+	},
+	{
+		"name": "Wood",
+		"file": "mysterydisplay696e.html",
+		"deities": [ "Erastil", "Gozreh" ]
+	}
+]

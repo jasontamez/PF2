@@ -8,7 +8,7 @@ System should specify sheets and all relevant JSON files. The sheet should descr
 - classes: Wizard: improved familiars: celestial, fiendish, entropic (protean?), resolute templates
 - **Remove input/score/bonus distinction and just use typed scores**
 
-- Remove **commas** from all names
+- Remove **commas** from all names.
 
 ## How to add classes?
 
@@ -204,8 +204,8 @@ Each `bestow_` property has a corresponding `remove_` property
   - ~~ninja tricks~~
   - occultist implements
   - oracle mysteries, ~~curses~~
-  - paladin oaths, divine bonds, mercies
-  - psychic phrenic amps, disciplines
+  - paladin oaths, ~~divine bonds, mercies~~
+  - psychic ~~phrenic amps,~~ disciplines
   - ~~ranger combat styles~~
   - ~~rogue and UC talents, skill unlocks~~
   - ~~samurai~~

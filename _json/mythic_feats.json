@@ -4,16 +4,25 @@
 	"standard_properties": [
 		"types",
 		"sources",
-		"prerequisites",
+		"requirements",
 		"description"
 	],
+	"shared_prerequisites": {
+		"properties_map": [
+			["name", "NAME"],
+			["no_limit", "MULTIPLE"]
+		],
+		"list": [
+			"MULTIPLE || !hasFeature((mythic feat),NAME)"
+		]
+	},
 	"list": [
 		{
 			"name": "Accursed Hex",
 			"file": "featdisplay5c9e.html",
 			"sources": [ "Ultimate Magic" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Accursed Hex)"
 			],
 			"description": [
@@ -26,7 +35,7 @@
 				"Mythic Accursed Hex",
 				"Source [Mythic Adventures pg. 54](source:Mythic Adventures)",
 				"Your hexes flare with persistent potency.",
-				"**Prerequisites:** [Accursed Hex.](unknown:Accursed Hex.)",
+				"**Prerequisites:** [Accursed Hex](unknown:Accursed Hex).",
 				"**Benefit:** When you use Accursed Hex to target a creature with one of your hexes a second time, that creature must roll its saving throw twice and take the lower result."
 			]
 		},
@@ -35,7 +44,7 @@
 			"file": "featdisplay7828.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Acrobatic)"
 			],
 			"description": [
@@ -46,7 +55,7 @@
 				"Mythic Acrobatic",
 				"Source [Mythic Adventures pg. 54](source:Mythic Adventures)",
 				"Your grace and fluidity are beyond compare.",
-				"**Prerequisites:** [Acrobatic.](unknown:Acrobatic.)",
+				"**Prerequisites:** [Acrobatic](unknown:Acrobatic).",
 				"**Benefit:** The bonus on Acrobatics and Fly skill checks from Acrobatic increases by 2. In addition, you can expend one use of mythic power to treat an Acrobatics or Fly check as if you had rolled a natural 20. You must decide to use this ability before making the roll."
 			]
 		},
@@ -55,7 +64,7 @@
 			"file": "featdisplayb423.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Alertness)"
 			],
 			"description": [
@@ -66,7 +75,7 @@
 				"Mythic Alertness",
 				"Source [Mythic Adventures pg. 54](source:Mythic Adventures)",
 				"Your powers of perception surpass everyone's, whether used to observe your surroundings or the intentions of others.",
-				"**Prerequisites:** [Alertness.](unknown:Alertness.)",
+				"**Prerequisites:** [Alertness](unknown:Alertness).",
 				"**Benefit:** The bonus on Perception and Sense Motive skill checks from Alertness increases by 2. In addition, you can expend one use of mythic power to treat a Perception or Sense Motive check as if you had rolled a natural 20. You must decide to use this ability before making the roll."
 			]
 		},
@@ -76,7 +85,10 @@
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory((feat),Alignment Channel)"
+				"countFeatureInCategory((feat),Alignment Channel) > countFeatureInCategory((mythic feat),Alignment Channel)"
+			],
+			"requirements": [
+				"countFeatureInCategory((feat),Alignment Channel) >= countFeatureInCategory((mythic feat),Alignment Channel)"
 			],
 			"description": [
 				"Alignment Channel",
@@ -88,16 +100,17 @@
 				"Mythic Alignment Channel",
 				"Source [Mythic Adventures pg. 54](source:Mythic Adventures)",
 				"The power of your faith harms all creatures that follow the alignment you abhor.",
-				"**Prerequisites:** [Alignment Channel.](unknown:Alignment Channel.)",
+				"**Prerequisites:** [Alignment Channel](unknown:Alignment Channel).",
 				"**Benefit:** Your channeled energy affects any creatures with the alignment chosen when you took Alignment Channel (not just outsiders, and not just those with the alignment subtype), but grants only half healing or deals only half damage to these targets. Alternatively, you can expend two uses of mythic power when using Alignment Channel to affect all targets of the chosen alignment as if they had that alignment subtype."
-			]
+			],
+			"no_limit": true
 		},
 		{
 			"name": "Animal Affinity",
 			"file": "featdisplay6cd8.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Animal Affinity)"
 			],
 			"description": [
@@ -108,7 +121,7 @@
 				"Mythic Animal Affinity",
 				"Source [Mythic Adventures pg. 55](source:Mythic Adventures)",
 				"You have a greater affinity with wild animals, and can speak with them.",
-				"**Prerequisites:** [Animal Affinity.](unknown:Animal Affinity.)",
+				"**Prerequisites:** [Animal Affinity](unknown:Animal Affinity).",
 				"**Benefit:** The bonus on Handle Animal and Ride skill checks from Animal Affinity increases by 2. In addition, you can expend one use of mythic power to speak with animals as the spell. Your caster level for this effect is equal to twice your tier."
 			]
 		},
@@ -120,7 +133,7 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Arcane Armor Training)"
 			],
 			"description": [
@@ -135,7 +148,7 @@
 				"Mythic Arcane Armor Training",
 				"Source [Mythic Adventures pg. 55](source:Mythic Adventures)",
 				"You've adapted your spellcasting to overcome limitations of wearing armor.",
-				"**Prerequisites:** [Arcane Armor Training.](unknown:Arcane Armor Training.)",
+				"**Prerequisites:** [Arcane Armor Training](unknown:Arcane Armor Training).",
 				"**Benefit:** You don't have to spend a swift action to gain the reduction to arcane spell failure chance from Arcane Armor Training. Furthermore, if you're wearing light armor, reduce your arcane spell failure chance by 20%."
 			]
 		},
@@ -144,7 +157,7 @@
 			"file": "featdisplay28ce.html",
 			"sources": [ "Advanced Player's Guide" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Arcane Blast)"
 			],
 			"description": [
@@ -156,7 +169,7 @@
 				"Mythic Arcane Blast",
 				"Source [Mythic Adventures pg. 55](source:Mythic Adventures)",
 				"You can manipulate raw eldritch energies to do more than just deal damage.",
-				"**Prerequisites:** [Arcane Blast.](unknown:Arcane Blast.)",
+				"**Prerequisites:** [Arcane Blast](unknown:Arcane Blast).",
 				"**Benefit:** When you use Arcane Blast, you may halve the damage dice to also perform your choice of either a trip or bull rush combat maneuver against the target of the blast. You can't move with an opponent you bull rush with this feat. You gain a bonus on your combat maneuver check for this attempt equal to half the spell level of the spell you sacrificed when using Arcane Blast, and you can substitute your Intelligence or Charisma modifier in place of your Strength modifier when determining your combat maneuver bonus.",
 				"In addition, you can expend one use of mythic power to change the damage dice of your Arcane Blast to d8s instead of d6s."
 			]
@@ -166,7 +179,7 @@
 			"file": "featdisplay1878.html",
 			"sources": [ "Advanced Player's Guide" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Arcane Shield)"
 			],
 			"description": [
@@ -178,7 +191,7 @@
 				"Mythic Arcane Shield",
 				"Source [Mythic Adventures pg. 55](source:Mythic Adventures)",
 				"You sculpt spells into a powerful, enduring arcane barriers.",
-				"**Prerequisites:** [Arcane Shield.](unknown:Arcane Shield.)",
+				"**Prerequisites:** [Arcane Shield](unknown:Arcane Shield).",
 				"**Benefit:** You add half your tier to the deflection bonus granted to your AC when you use your Arcane Shield. You can expend one use of mythic power when using this feat to extend the duration to a number of rounds equal to your tier."
 			]
 		},
@@ -190,7 +203,7 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Arcane Strike)"
 			],
 			"description": [
@@ -205,7 +218,7 @@
 				"Mythic Arcane Strike",
 				"Source [Mythic Adventures pg. 55](source:Mythic Adventures)",
 				"Using your amazing arcane talents, you can deliver devastating blows infused with magical energy.",
-				"**Prerequisites:** [Arcane Strike.](unknown:Arcane Strike.)",
+				"**Prerequisites:** [Arcane Strike](unknown:Arcane Strike).",
 				"**Benefit:** Whenever you use Arcane Strike to enhance your weapons, the effect lasts for 1 minute instead of 1 round. If you expend one use of mythic power when using Arcane Strike, you can also add any one magic weapon special ability with a base price modifier of +1 to your weapons. This base price modifier increases to +2 at 4th tier, +3 at 7th tier, and +4 at 10th tier."
 			]
 		},
@@ -214,7 +227,7 @@
 			"file": "featdisplay4110.html",
 			"sources": [ "Advanced Player's Guide" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Aspect of the Beast)"
 			],
 			"description": [
@@ -227,11 +240,11 @@
 				"Claws of the Beast (Ex): You grow a pair of claws. These claws are primary attacks that deal 1d4 points of damage (1d3 if you are Small).",
 				"Predator's Leap (Ex): You can make a running jump without needing to run 10 feet before you jump.",
 				"Wild Instinct (Ex): You gain a +2 bonus on initiative checks and a +2 bonus on Survival skill checks.",
-				"**Special:** A character that has contracted lycanthropy can take this feat without having to meet the prerequisites. A ranger who selects the natural weapon combat style can take this feat without having to meet the prerequisites (even if he does not select Aspect of the Beast as a bonus feat).",
+				"**Special:** A character that has contracted lycanthropy can take this feat without having to meet the requirements. A ranger who selects the natural weapon combat style can take this feat without having to meet the requirements (even if he does not select Aspect of the Beast as a bonus feat).",
 				"Mythic Aspect of the Beast",
 				"Source [Mythic Adventures pg. 55](source:Mythic Adventures)",
 				"Your blood burns with savage fury, giving you bestial powers and abilities.",
-				"**Prerequisites:** [Aspect of the Beast.](unknown:Aspect of the Beast.)",
+				"**Prerequisites:** [Aspect of the Beast](unknown:Aspect of the Beast).",
 				"**Benefit:** Your bestial nature manifests itself in one of the following ways. You choose the manifestation when you choose the feat, and you can't change it.",
 				"Mythic Senses (Ex): If you have normal vision, you gain darkvision 30 feet. If you have low-light vision, you gain darkvision 60 feet. If you have darkvision, the range of your darkvision increases by 30 feet plus 10 feet per tier.",
 				"Mythic Claws (Ex): You grow a pair of powerful claws. These claws are primary attacks that deal 1d4 points of damage (1d3 if you're Small). If you already have claws, the damage they deal increases by one die type (d4s become d6s, d3s become d4s, and so on). You can expend one use of mythic power when you hit with both claws during the same round to rend with those claws, dealing extra damage equal to one claw's damage plus 1-1/2 times your Strength bonus.",
@@ -244,7 +257,7 @@
 			"file": "featdisplay2684.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Athletic)"
 			],
 			"description": [
@@ -255,7 +268,7 @@
 				"Mythic Athletic",
 				"Source [Mythic Adventures pg. 60](source:Mythic Adventures)",
 				"You excel far beyond others at acts of physical prowess.",
-				"**Prerequisites:** [Athletic.](unknown:Athletic.)",
+				"**Prerequisites:** [Athletic](unknown:Athletic).",
 				"**Benefit:** The bonus on Climb and Swim skill checks from Athletic increases by 2. In addition, you can expend one use of mythic power to treat a Climb or Swim check as if you had rolled a natural 20. You must decide to use this ability before making the roll."
 			]
 		},
@@ -264,19 +277,19 @@
 			"file": "featdisplayc78d.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Augment Summoning)"
 			],
 			"description": [
 				"Augment Summoning",
 				"Source [PRPG Core Rulebook pg. 118](source:PRPG Core Rulebook)",
 				"Your summoned creatures are more powerful and robust.",
-				"**Prerequisites:** [Spell Focus (conjuration).](unknown:Spell Focus (conjuration).)",
+				"**Prerequisites:** [Spell Focus (conjuration)](unknown:Spell Focus (conjuration)).",
 				"**Benefit:** Each creature you conjure with any summon spell gains a +4 enhancement bonus to Strength and Constitution for the duration of the spell that summoned it.",
 				"Mythic Augment Summoning",
 				"Source [Mythic Adventures pg. 60](source:Mythic Adventures)",
 				"Your summoning spells bring not mere ordinary beasts, but instead mythic creatures.",
-				"**Prerequisites:** [Augment Summoning.](unknown:Augment Summoning.)",
+				"**Prerequisites:** [Augment Summoning](unknown:Augment Summoning).",
 				"**Benefit:** Any creature you summon using a summon spell is considered mythic for the purpose of interacting with other mythic creatures. It doesn't gain any mythic abilities or power, but is affected by mythic spells and abilities as if it were a 1st-tier mythic creature. Additionally, if the creature summoned has damage reduction, its damage reduction becomes DR/epic."
 			]
 		},
@@ -291,7 +304,7 @@
 				"Combat",
 				"Critical"
 			],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Bleeding Critical)"
 			],
 			"description": [
@@ -307,21 +320,22 @@
 				"Mythic Bleeding Critical",
 				"Source [Mythic Adventures pg. 60](source:Mythic Adventures)",
 				"Your deadliest blows unleash rivers of blood.",
-				"**Prerequisites:** [Bleeding Critical](unknown:Bleeding Critical), [Critical Focus (mythic).](unknown:Critical Focus (mythic).)",
+				"**Prerequisites:** [Bleeding Critical](unknown:Bleeding Critical), [Critical Focus (mythic)](unknown:Critical Focus (mythic)).",
 				"**Benefit:** The bleed damage dealt with Bleeding Critical increases by your tier. Stopping this bleed damage requires a Heal check with a DC equal to 15 + 1/2 your tier. Any magical healing ends the bleed damage normally.",
 				"You can expend one use of mythic power to deal 1 Con bleed, in addition to the hit point bleed damage you deal with this feat. This effect increases by 1 for each additional use of mythic power you expend."
 			]
 		},
 		{
-			"name": "Blind-Fight",
+			"name": "Blind Fight",
+			"display_name": "Blind-Fight",
 			"file": "featdisplay45f6.html",
 			"sources": [
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
-				"hasFeatureInCategory((feat),Blind-Fight)"
+			"requirements": [
+				"hasFeatureInCategory((feat),Blind Fight)"
 			],
 			"description": [
 				"Blind-Fight (Combat)",
@@ -338,20 +352,21 @@
 				"Mythic Blind-Fight",
 				"Source [Mythic Adventures pg. 60](source:Mythic Adventures)",
 				"No creature can avoid your preternatural senses.",
-				"**Prerequisites:** [Blind-Fight.](unknown:Blind-Fight.)",
+				"**Prerequisites:** [Blind-Fight](unknown:Blind-Fight).",
 				"**Benefit:** As a swift action, you can expend one use of mythic power to ignore all miss chances due to concealment or total concealment for a number of rounds equal to your tier."
 			]
 		},
 		{
-			"name": "Catch Off-Guard",
+			"name": "Catch Off Guard",
+			"display_name": "Catch Off-Guard",
 			"file": "featdisplayf03d.html",
 			"sources": [
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
-				"hasFeatureInCategory((feat),Catch Off-Guard)"
+			"requirements": [
+				"hasFeatureInCategory((feat),Catch Off Guard)"
 			],
 			"description": [
 				"Catch Off-Guard (Combat)",
@@ -365,7 +380,7 @@
 				"Mythic Catch Off-Guard",
 				"Source [Mythic Adventures pg. 60](source:Mythic Adventures)",
 				"In your hands, anything is a deadly weapon.",
-				"**Prerequisites:** [Catch Off-Guard.](unknown:Catch Off-Guard.)",
+				"**Prerequisites:** [Catch Off-Guard](unknown:Catch Off-Guard).",
 				"**Benefit:** The damage dealt when you use improvised weapons increases by your tier. You also gain a bonus to CMD equal to your tier when an opponent attempts to sunder or disarm an improvised weapon you're wielding."
 			]
 		},
@@ -377,7 +392,7 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Channel Smite)"
 			],
 			"description": [
@@ -392,7 +407,7 @@
 				"Mythic Channel Smite",
 				"Source [Mythic Adventures pg. 60](source:Mythic Adventures)",
 				"Your weapon a conduit of divine energy.",
-				"**Prerequisites:** [Channel Smite.](unknown:Channel Smite.)",
+				"**Prerequisites:** [Channel Smite](unknown:Channel Smite).",
 				"**Benefit:** When using Channel Smite, you gain a bonus on your attack roll equal to the number of d6s granted by your channel energy class feature. This is either a sacred bonus (if channeling positive energy) or a profane bonus (if channeling negative energy). If your attack misses the target, you can expend one use of mythic power as a free action to release the channeled energy, producing the normal effects of your channel energy class feature centered on the creature you were attempting to smite."
 			]
 		},
@@ -404,7 +419,7 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Charge Through)"
 			],
 			"description": [
@@ -420,7 +435,7 @@
 				"Mythic Charge Through",
 				"Source [Mythic Adventures pg. 60](source:Mythic Adventures)",
 				"You can plow through those who stand between you and the target of your charge.",
-				"**Prerequisites:** [Charge Through.](unknown:Charge Through.)",
+				"**Prerequisites:** [Charge Through](unknown:Charge Through).",
 				"**Benefit:** When charging, you can ignore allies in your path when determining whether or not you can charge your target. Furthermore, after you have attempted at least one overrun with Charge Through, you can expend one use of mythic power as a free action to attempt another overrun against a different opponent in the path of the same charge."
 			]
 		},
@@ -432,7 +447,7 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Cleave)"
 			],
 			"description": [
@@ -447,7 +462,7 @@
 				"Mythic Cleave",
 				"Source [Mythic Adventures pg. 61](source:Mythic Adventures)",
 				"You can cleave any foe within your reach.",
-				"**Prerequisites:** [Cleave.](unknown:Cleave.)",
+				"**Prerequisites:** [Cleave](unknown:Cleave).",
 				"**Benefit:** Whenever you use Cleave or Great Cleave, one of your attacks can be made against a foe that is within your reach, but not adjacent to the foe you attacked. You can expend one use of mythic power when you use Cleave or Great Cleave to continue making attacks against foes within your reach, regardless of their position, as long as you continue to hit each foe. You can't use this ability to attack a foe more than once per round."
 			]
 		},
@@ -459,7 +474,7 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Combat Expertise)"
 			],
 			"description": [
@@ -474,7 +489,7 @@
 				"Mythic Combat Expertise",
 				"Source [Mythic Adventures pg. 61](source:Mythic Adventures)",
 				"You can dart out of the way of attacks with skill and defiance.",
-				"**Prerequisites:** [Combat Expertise.](unknown:Combat Expertise.)",
+				"**Prerequisites:** [Combat Expertise](unknown:Combat Expertise).",
 				"**Benefit:** Whenever you use Combat Expertise, you gain an additional +2 dodge bonus to your Armor Class. You can expend one use of mythic power to negate the penalties on melee attack rolls and combat maneuver checks caused by using Combat Expertise for 1 minute."
 			]
 		},
@@ -486,7 +501,7 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Combat Reflexes)"
 			],
 			"description": [
@@ -502,7 +517,7 @@
 				"Mythic Combat Reflexes",
 				"Source [Mythic Adventures pg. 61](source:Mythic Adventures)",
 				"You strike viciously whenever your foe gives you an opening.",
-				"**Prerequisites:** [Combat Reflexes.](unknown:Combat Reflexes.)",
+				"**Prerequisites:** [Combat Reflexes](unknown:Combat Reflexes).",
 				"**Benefit:** You can make any number of additional attacks of opportunity per round. As a swift action, you can expend one use of mythic power to, until the start of your next turn, make attacks of opportunity against foes you've already made attacks of opportunity against this round if they provoke attacks of opportunity from you by moving."
 			]
 		},
@@ -511,7 +526,7 @@
 			"file": "featdisplay7844.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Command Undead)"
 			],
 			"description": [
@@ -523,7 +538,7 @@
 				"Mythic Command Undead",
 				"Source [Mythic Adventures pg. 61](source:Mythic Adventures)",
 				"Your control of the undead is nearly absolute.",
-				"**Prerequisites:** [Command Undead.](unknown:Command Undead.)",
+				"**Prerequisites:** [Command Undead](unknown:Command Undead).",
 				"**Benefit:** When you command undead, the DC of the Will save increases by half your tier, and intelligent undead get no additional saves beyond their first to resist your commands. Any attempts by non-mythic creatures to control undead you command automatically fail, and you gain a +4 bonus on Charisma checks to prevent mythic creatures from stealing control of your undead."
 			]
 		},
@@ -538,7 +553,7 @@
 				"Combat",
 				"Critical"
 			],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Critical Focus)"
 			],
 			"description": [
@@ -553,7 +568,7 @@
 				"Mythic Critical Focus",
 				"Source [Mythic Adventures pg. 61](source:Mythic Adventures)",
 				"Your blows unerringly find your target's vital spots.",
-				"**Prerequisites:** [Critical Focus.](unknown:Critical Focus.)",
+				"**Prerequisites:** [Critical Focus](unknown:Critical Focus).",
 				"**Benefit:** You automatically confirm critical threats against non-mythic opponents. In addition, when you threaten a critical hit against a creature wearing armor with the fortification special ability or similar effect, that creature must roll twice and take the worse result when determining critical hit negation."
 			]
 		},
@@ -568,7 +583,7 @@
 				"Combat",
 				"Critical"
 			],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Critical Mastery)",
 				"hasFeatureInCategory((mythic feat),Critical Focus)"
 			],
@@ -585,7 +600,7 @@
 				"Mythic Critical Mastery",
 				"Source [Mythic Adventures pg. 61](source:Mythic Adventures)",
 				"Your critical hits are versatile and devastating.",
-				"**Prerequisites:** [Critical Focus (mythic)](unknown:Critical Focus (mythic)), [Critical Mastery.](unknown:Critical Mastery.)",
+				"**Prerequisites:** [Critical Focus (mythic)](unknown:Critical Focus (mythic)), [Critical Mastery](unknown:Critical Mastery).",
 				"**Benefit:** When using Critical Mastery, increase the number of critical feats you may apply by every 3 tiers that you possess."
 			]
 		},
@@ -597,7 +612,7 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Dastardly Finish)"
 			],
 			"description": [
@@ -613,7 +628,7 @@
 				"Mythic Dastardly Finish",
 				"Source [Mythic Adventures pg. 61](source:Mythic Adventures)",
 				"You strike downed, dazed, and staggered opponents with deadly efficiency.",
-				"**Prerequisites:** [Dastardly Finish.](unknown:Dastardly Finish.)",
+				"**Prerequisites:** [Dastardly Finish](unknown:Dastardly Finish).",
 				"**Benefit:** You can deliver a coup de grace to dazed and staggered non-mythic opponents. In addition, when any creature makes a Fortitude saving throw to survive one of your coup de grace attempts, it takes a penalty to that saving throw equal to your tier."
 			]
 		},
@@ -625,7 +640,7 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Dazzling Display)"
 			],
 			"description": [
@@ -640,7 +655,7 @@
 				"Mythic Dazzling Display",
 				"Source [Mythic Adventures pg. 61](source:Mythic Adventures)",
 				"You can quickly deter others with your martial mastery.",
-				"**Prerequisites:** [Dazzling Display.](unknown:Dazzling Display.)",
+				"**Prerequisites:** [Dazzling Display](unknown:Dazzling Display).",
 				"**Benefit:** While wielding the weapon with which you have Weapon Focus, you can use Dazzling Display as a standard action with a -5 penalty on your Intimidate check, as a move action with a -10 penalty, or as a swift action with a -20 penalty. You can expend one use of mythic power when you make a Dazzling Display to make those affected by the display frightened rather than shaken."
 			]
 		},
@@ -652,7 +667,7 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Deadly Aim)"
 			],
 			"description": [
@@ -667,7 +682,7 @@
 				"Mythic Deadly Aim",
 				"Source [Mythic Adventures pg. 61](source:Mythic Adventures)",
 				"Your aim is truly devastating.",
-				"**Prerequisites:** [Deadly Aim.](unknown:Deadly Aim.)",
+				"**Prerequisites:** [Deadly Aim](unknown:Deadly Aim).",
 				"**Benefit:** When you use Deadly Aim, you gain a +3 bonus on ranged damage rolls instead of +2. When your base attack bonus reaches +4, and every +4 thereafter, the bonus on ranged damage rolls increases by +3 rather than +2."
 			]
 		},
@@ -679,7 +694,7 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Deadly Stroke)"
 			],
 			"description": [
@@ -694,7 +709,7 @@
 				"Mythic Deadly Stroke",
 				"Source [Mythic Adventures pg. 62](source:Mythic Adventures)",
 				"You can kill with a single stroke.",
-				"**Prerequisites:** [Deadly Stroke.](unknown:Deadly Stroke.)",
+				"**Prerequisites:** [Deadly Stroke](unknown:Deadly Stroke).",
 				"**Benefit:** When making a Deadly Stroke attack, you can expend one use of mythic power to instantly kill a nonmythic living creature. A Fortitude save (DC 10 + your base attack bonus + your tier) negates this effect, though the attack still deals double damage and Con bleed as Deadly Stroke. Constructs, oozes, and creatures immune to critical hits or precision-based damage can't be killed with this feat."
 			]
 		},
@@ -706,7 +721,7 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Death from Above)"
 			],
 			"description": [
@@ -720,7 +735,7 @@
 				"Mythic Death from Above",
 				"Source [Mythic Adventures pg. 62](source:Mythic Adventures)",
 				"When attacking from the air or higher ground, you bear down on your enemy to deadly effect.",
-				"**Prerequisites:** [Death from Above.](unknown:Death from Above.)",
+				"**Prerequisites:** [Death from Above](unknown:Death from Above).",
 				"**Benefit:** Whenever you charge an opponent from higher ground, or from above while flying, the critical multiplier of your weapon increases by 2 (to a maximum of x6). This doesn't stack with other abilities that increase a weapon's critical multiplier. If your charge attack hits, you can perform a trip combat maneuver against the attack's target as a free action without provoking attacks of opportunity."
 			]
 		},
@@ -729,7 +744,7 @@
 			"file": "featdisplayc704.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Deceitful)"
 			],
 			"description": [
@@ -740,7 +755,7 @@
 				"Mythic Deceitful",
 				"Source [Mythic Adventures pg. 62](source:Mythic Adventures)",
 				"Your power to mislead is beyond compare.",
-				"**Prerequisites:** [Deceitful.](unknown:Deceitful.)",
+				"**Prerequisites:** [Deceitful](unknown:Deceitful).",
 				"**Benefit:** The bonus on Bluff and Disguise skill checks from Deceitful increases by 2. In addition, you can expend one use of mythic power to treat a Bluff or Disguise check as if you had rolled a natural 20. You must decide to use this ability before making the roll."
 			]
 		},
@@ -749,7 +764,7 @@
 			"file": "featdisplay2d84.html",
 			"sources": [ "Advanced Player's Guide" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Deepsight)"
 			],
 			"description": [
@@ -762,7 +777,7 @@
 				"Mythic Deepsight",
 				"Source [Mythic Adventures pg. 62](source:Mythic Adventures)",
 				"Your sharp eyes can penetrate deeper into the darkness, revealing more to you.",
-				"**Prerequisites:** [Deepsight.](unknown:Deepsight.)",
+				"**Prerequisites:** [Deepsight](unknown:Deepsight).",
 				"**Benefit:** The range of your darkvision increases by 10 feet per tier."
 			]
 		},
@@ -774,7 +789,7 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Defensive Combat Training)"
 			],
 			"description": [
@@ -800,14 +815,14 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Deflect Arrows)"
 			],
 			"description": [
 				"Deflect Arrows (Combat)",
 				"Source [PRPG Core Rulebook pg. 121](source:PRPG Core Rulebook)",
 				"You can knock arrows and other projectiles off course, preventing them from hitting you.",
-				"**Prerequisites:** Dex 13, [Improved Unarmed Strike.](unknown:Improved Unarmed Strike.)",
+				"**Prerequisites:** Dex 13, [Improved Unarmed Strike](unknown:Improved Unarmed Strike).",
 				"**Benefit:** You must have at least one hand free (holding nothing) to use this feat. Once per round when you would normally be hit with an attack from a ranged weapon, you may deflect it so that you take no damage from it. You must be aware of the attack and not flat-footed. Attempting to deflect a ranged attack doesn't count as an action. Unusually massive ranged weapons (such as boulders or ballista bolts) and ranged attacks generated by natural attacks or spell effects can't be deflected.",
 				"*Combat Trick* (from the [Combat Stamina](feat:Combat Stamina) feat)",
 				"Source [Pathfinder Unchained pg. 117](source:Pathfinder Unchained)",
@@ -815,7 +830,7 @@
 				"Mythic Deflect Arrows",
 				"Source [Mythic Adventures pg. 63](source:Mythic Adventures)",
 				"You deflect projectiles and ray spells with uncanny skill.",
-				"**Prerequisites:** [Deflect Arrows.](unknown:Deflect Arrows.)",
+				"**Prerequisites:** [Deflect Arrows](unknown:Deflect Arrows).",
 				"**Benefit:** When using Deflect Arrows, you can deflect an additional number of ranged attacks per round equal to half your tier. You can expend one use of mythic power as an immediate action to deflect a single ray from a ray spell or effect targeting you."
 			]
 		},
@@ -824,7 +839,7 @@
 			"file": "featdisplay113a.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Deft Hands)"
 			],
 			"description": [
@@ -835,7 +850,7 @@
 				"Mythic Deft Hands",
 				"Source [Mythic Adventures pg. 63](source:Mythic Adventures)",
 				"Your hands are astonishingly nimble.",
-				"**Prerequisites:** [Deft Hands.](unknown:Deft Hands.)",
+				"**Prerequisites:** [Deft Hands](unknown:Deft Hands).",
 				"**Benefit:** The bonus on Disable Device and Sleight of Hand skill checks from Deft Hands increases by 2. In addition, you can expend one use of mythic power to treat a Disable Device or Sleight of Hand check as if you had rolled a natural 20. You must decide to use this ability before making the roll."
 			]
 		},
@@ -844,7 +859,7 @@
 			"file": "featdisplay913e.html",
 			"sources": [ "Ultimate Magic" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Detect Expertise)"
 			],
 			"description": [
@@ -852,11 +867,11 @@
 				"Source [Ultimate Magic pg. 148](source:Ultimate Magic)",
 				"You can detect the mystic specialty of a foe.",
 				"**Prerequisites:** Int 13; ability to cast detect chaos, detect evil, detect good, detect law, or detect magic.",
-				"**Benefit:** When you use any of the spells listed in this feat's prerequisites to detect a creature's alignment or its magic, you have a chance of detecting what spellcasting expertise it has. After you observe a creature with the detect spell for 3 rounds, it must make a Will save (DC 10 + 1/2 your caster level + your Intelligence modifier). If it fails the saving throw, you learn what bloodlines, domains, hexes, schools, or mysteries (if any) the creature possesses. If the creature makes its save, it is immune to the effects of this feat for 24 hours.",
+				"**Benefit:** When you use any of the spells listed in this feat's requirements to detect a creature's alignment or its magic, you have a chance of detecting what spellcasting expertise it has. After you observe a creature with the detect spell for 3 rounds, it must make a Will save (DC 10 + 1/2 your caster level + your Intelligence modifier). If it fails the saving throw, you learn what bloodlines, domains, hexes, schools, or mysteries (if any) the creature possesses. If the creature makes its save, it is immune to the effects of this feat for 24 hours.",
 				"Mythic Detect Expertise",
 				"Source [Mythic Adventures pg. 63](source:Mythic Adventures)",
 				"You can sense a creature's magical abilities with just a mere glance.",
-				"**Prerequisites:** [Detect Expertise.](unknown:Detect Expertise.)",
+				"**Prerequisites:** [Detect Expertise](unknown:Detect Expertise).",
 				"**Benefit:** You gain the benefit of Detect Expertise immediately (without needing to observe a creature for 3 rounds) when using the divinations listed in Detect Expertise. Non-mythic creatures cannot attempt a Will save to resist this effect."
 			]
 		},
@@ -868,7 +883,7 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Disruptive)"
 			],
 			"description": [
@@ -883,7 +898,7 @@
 				"Mythic Disruptive",
 				"Source [Mythic Adventures pg. 63](source:Mythic Adventures)",
 				"You're a master at disrupting nearby spellcasters.",
-				"**Prerequisites:** [Disruptive.](unknown:Disruptive.)",
+				"**Prerequisites:** [Disruptive](unknown:Disruptive).",
 				"**Benefit:** The DC to cast spells defensively within your threatened area increases by half your tier. This stacks with the increase granted by Disruptive. In addition, even if you can't make attacks of opportunity, non-mythic spellcasters are still wary of you and continue to suffer from the effects of Disruptive."
 			]
 		},
@@ -895,7 +910,7 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Distance Thrower)",
 				"getScore(strength score) >= 17"
 			],
@@ -911,7 +926,7 @@
 				"Mythic Distance Thrower",
 				"Source [Mythic Adventures pg. 63](source:Mythic Adventures)",
 				"There's virtually no limit to your powerful throwing arm.",
-				"**Prerequisites:** Str 17, [Distance Thrower.](unknown:Distance Thrower.)",
+				"**Prerequisites:** Str 17, [Distance Thrower](unknown:Distance Thrower).",
 				"**Benefit:** Thrown weapons wielded by you have twice their normal range."
 			]
 		},
@@ -920,7 +935,7 @@
 			"file": "featdisplayd862.html",
 			"sources": [ "Ultimate Magic" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Divine Interference)"
 			],
 			"description": [
@@ -932,7 +947,7 @@
 				"Mythic Divine Interference",
 				"Source [Mythic Adventures pg. 63](source:Mythic Adventures)",
 				"Your divine power thwarts enemies of your faith.",
-				"**Prerequisites:** [Divine Interference.](unknown:Divine Interference.)",
+				"**Prerequisites:** [Divine Interference](unknown:Divine Interference).",
 				"**Benefit:** When you use Divine Interference, the penalty on your opponent's attack roll is equal to twice the level of the spell sacrificed. You can expend one use of mythic power when you sacrifice the spell to increase the penalty to triple the level of the spell sacrificed."
 			]
 		},
@@ -944,7 +959,7 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Dodge)"
 			],
 			"description": [
@@ -959,7 +974,7 @@
 				"Mythic Dodge",
 				"Source [Mythic Adventures pg. 63](source:Mythic Adventures)",
 				"When focused, you become nearly impossible to strike.",
-				"**Prerequisites:** [Dodge.](unknown:Dodge.)",
+				"**Prerequisites:** [Dodge](unknown:Dodge).",
 				"**Benefit:** The bonus to AC from Dodge increases by 1. As an immediate action, you can expend one use of mythic power to grant yourself an additional +10 dodge bonus to AC against one attack."
 			]
 		},
@@ -971,7 +986,7 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Dreadful Carnage)"
 			],
 			"description": [
@@ -986,7 +1001,7 @@
 				"Mythic Dreadful Carnage",
 				"Source [Mythic Adventures pg. 63](source:Mythic Adventures)",
 				"Your kills are truly frightening to behold.",
-				"**Prerequisites:** [Dreadful Carnage.](unknown:Dreadful Carnage.)",
+				"**Prerequisites:** [Dreadful Carnage](unknown:Dreadful Carnage).",
 				"**Benefit:** When you use Dreadful Carnage, you affect non-mythic enemies within 60 feet in addition to all enemies within 30 feet. You can expend one use of mythic power before making the Intimidate check to cause enemies demoralized by Dreadful Carnage to become frightened instead of shaken, for the same duration as the normal shaken effect. While frightened by this ability, an enemy takes a penalty equal to your tier on attack rolls, saving throws, skill checks, and ability checks."
 			]
 		},
@@ -995,7 +1010,7 @@
 			"file": "featdisplay67d9.html",
 			"sources": [ "Mythic Adventures" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"(getScore(mythic tier) >= 3) && (getScore(constitution score) >= 19)"
 			],
 			"description": [
@@ -1011,7 +1026,7 @@
 			"file": "featdisplay1678.html",
 			"sources": [ "Mythic Adventures" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"getScore(mythic tier) >= 1"
 			],
 			"description": [
@@ -1027,7 +1042,7 @@
 			"file": "featdisplayd1f1.html",
 			"sources": [ "Advanced Player's Guide" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Eagle Eyes)"
 			],
 			"description": [
@@ -1039,7 +1054,7 @@
 				"Mythic Eagle Eyes",
 				"Source [Mythic Adventures pg. 64](source:Mythic Adventures)",
 				"You eyesight rivals that of the most far-seeing raptors.",
-				"**Prerequisites:** [Eagle Eyes.](unknown:Eagle Eyes.)",
+				"**Prerequisites:** [Eagle Eyes](unknown:Eagle Eyes).",
 				"**Benefit:** You ignore up to -10 in penalties due to distance on visual Perception checks, instead of the normal -5. As a swift action, you can expend one use of mythic power to ignore all penalties due to distance on visual Perception checks for 1 round."
 			]
 		},
@@ -1048,7 +1063,7 @@
 			"file": "featdisplayad7c.html",
 			"sources": [ "Ultimate Magic" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Eldritch Heritage)"
 			],
 			"description": [
@@ -1060,7 +1075,7 @@
 				"Mythic Eldritch Heritage",
 				"Source [Mythic Adventures pg. 64](source:Mythic Adventures)",
 				"The blood of your sorcerous ancestor mingles with your mythic power to great effect.",
-				"**Prerequisites:** [Eldritch Heritage.](unknown:Eldritch Heritage.)",
+				"**Prerequisites:** [Eldritch Heritage](unknown:Eldritch Heritage).",
 				"**Benefit:** You gain sorcerer bloodline powers of the bloodline tied to Eldritch Heritage as if your sorcerer level were your character level - 2. For that bloodline's 1st-level bloodline power, use your full character level to determine its effect; for all other bloodline powers, treat your sorcerer level as your character level - 2."
 			]
 		},
@@ -1069,7 +1084,7 @@
 			"file": "featdisplayd617.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Elemental Channel)"
 			],
 			"description": [
@@ -1082,7 +1097,7 @@
 				"Mythic Elemental Channel",
 				"Source [Mythic Adventures pg. 64](source:Mythic Adventures)",
 				"Your power over elemental beings is nearly absolute.",
-				"**Prerequisites:** [Elemental Channel.](unknown:Elemental Channel.)",
+				"**Prerequisites:** [Elemental Channel](unknown:Elemental Channel).",
 				"**Benefit:** Your Elemental Channel can affect any elemental subtype, not just the one you chose when you took Elemental Channel. Each time you use Elemental Channel, you must pick one elemental subtype before using the feat. You can expend one use of mythic power when you use Elemental Channel to choose a second elemental subtype to affect."
 			]
 		},
@@ -1094,7 +1109,7 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Elemental Fist)"
 			],
 			"description": [
@@ -1103,14 +1118,14 @@
 				"You empower your strike with elemental energy",
 				"**Prerequisites:** Con 13, Wis 13, [Improved Unarmed Strike](unknown:Improved Unarmed Strike), base attack bonus +8.",
 				"**Benefit:** When you use Elemental Strike pick one of the following energy types: acid, cold, electricity, or fire. On a successful hit, the attack deals damage normally plus 1d6 points of damage of the chosen type. You must declare that you are using this feat before you make your attack roll (thus a failed attack roll ruins the attempt). You may attempt an elemental fist attack once per day for every four levels you have attained (see Special), and no more than once per round.",
-				"**Special:** A monk of the four winds receives Elemental Fist as a bonus feat at 1st level, even if he does not meet the prerequisites. A monk may attempt an Elemental Fist attack a number of times per day equal to his monk level, plus one more time per day for every four levels he has in classes other than monk.",
+				"**Special:** A monk of the four winds receives Elemental Fist as a bonus feat at 1st level, even if he does not meet the requirements. A monk may attempt an Elemental Fist attack a number of times per day equal to his monk level, plus one more time per day for every four levels he has in classes other than monk.",
 				"*Combat Trick* (from the [Combat Stamina](feat:Combat Stamina) feat)",
 				"Source [Pathfinder Unchained pg. 119](source:Pathfinder Unchained)",
 				"You can spend 5 stamina points to declare the use of Elemental Fist after making a successful attack roll.",
 				"Mythic Elemental Fist",
 				"Source [Mythic Adventures pg. 64](source:Mythic Adventures)",
 				"Your ability to channel elemental power through your unarmed attacks is ferociously potent.",
-				"**Prerequisites:** [Elemental Fist.](unknown:Elemental Fist.)",
+				"**Prerequisites:** [Elemental Fist](unknown:Elemental Fist).",
 				"**Benefit:** The extra energy damage dealt by Elemental Fist increases to 1d8 points, and you gain additional uses of Elemental Fist per day equal to your tier. You can expend one use of mythic power as an immediate action to add the extra damage from your Elemental Fist to all of the unarmed strikes you make until the beginning of your next turn. This counts as only one use of Elemental Fist, regardless of the number of attacks that you make in this fashion."
 			]
 		},
@@ -1120,7 +1135,10 @@
 			"sources": [ "Advanced Player's Guide" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory((feat),Elemental Focus)"
+				"countFeatureInCategory((feat),Elemental Focus) > countFeatureInCategory((mythic feat),Elemental Focus)"
+			],
+			"requirements": [
+				"countFeatureInCategory((feat),Elemental Focus) >= countFeatureInCategory((mythic feat),Elemental Focus)"
 			],
 			"description": [
 				"Elemental Focus",
@@ -1131,7 +1149,7 @@
 				"Mythic Elemental Focus",
 				"Source [Mythic Adventures pg. 64](source:Mythic Adventures)",
 				"Your elemental spells are potent and effective.",
-				"**Prerequisites:** [Elemental Focus.](unknown:Elemental Focus.)",
+				"**Prerequisites:** [Elemental Focus](unknown:Elemental Focus).",
 				"**Benefit:** Choose an energy type in which you already have Elemental Focus. The increase to save DC provided by Elemental Focus and Greater Elemental Focus for spells of the selected energy type is 1 higher. When casting a spell with this energy type's descriptor, you can expend one use of mythic power as part of the casting to force the spell's targets to roll their saving throws twice, taking the lower result."
 			]
 		},
@@ -1143,7 +1161,7 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Elven Accuracy)"
 			],
 			"description": [
@@ -1158,7 +1176,7 @@
 				"Mythic Elven Accuracy",
 				"Source [Mythic Adventures pg. 64](source:Mythic Adventures)",
 				"Your elven eyesight cuts though concealment.",
-				"**Prerequisites:** [Elven Accuracy.](unknown:Elven Accuracy.)",
+				"**Prerequisites:** [Elven Accuracy](unknown:Elven Accuracy).",
 				"**Benefit:** When you make an attack with a longbow or short bow (including composite bows), you can ignore concealment, but not total concealment. You still suffer a miss chance for total concealment, but if you miss due to total concealment, you may reroll your miss chance as per Elven Accuracy."
 			]
 		},
@@ -1167,7 +1185,7 @@
 			"file": "featdisplayb418.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Endurance)"
 			],
 			"description": [
@@ -1180,7 +1198,7 @@
 				"Mythic Endurance",
 				"Source [Mythic Adventures pg. 65](source:Mythic Adventures)",
 				"Your endurance is truly beyond the pale.",
-				"**Prerequisites:** [Endurance.](unknown:Endurance.)",
+				"**Prerequisites:** [Endurance](unknown:Endurance).",
 				"**Benefit:** The bonus on checks and saves from Endurance increases by half your tier. You take half the damage when you fail a check to avoid nonlethal damage from a forced march, starvation and thirst, hot or cold environments, or slow suffocation.",
 				"You can sleep in heavy armor without becoming fatigued."
 			]
@@ -1190,7 +1208,7 @@
 			"file": "featdisplay39f8.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Eschew Materials)"
 			],
 			"description": [
@@ -1201,7 +1219,7 @@
 				"Mythic Eschew Materials",
 				"Source [Mythic Adventures pg. 65](source:Mythic Adventures)",
 				"You can cast even the most powerful spells without using material components.",
-				"**Prerequisites:** [Eschew Materials.](unknown:Eschew Materials.)",
+				"**Prerequisites:** [Eschew Materials](unknown:Eschew Materials).",
 				"**Benefit:** You can cast any spell with a material component costing 10 gp per tier or less without providing that component. If you expend one use of mythic power while casting a spell that requires a material component costing 50 gp per tier or less, you can cast it without providing that component. Expending two uses of mythic power instead allows you to cast a spell that requires a material component costing 100 gp per tier or less without providing that component."
 			]
 		},
@@ -1210,7 +1228,6 @@
 			"file": "featdisplay7a2d.html",
 			"sources": [ "Mythic Adventures" ],
 			"types": [ "General" ],
-			"prerequisites": null,
 			"description": [
 				"Extra Mythic Power",
 				"Source [Mythic Adventures pg. 65](source:Mythic Adventures)",
@@ -1223,7 +1240,7 @@
 			"file": "featdisplay8f15.html",
 			"sources": [ "Mythic Adventures" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"getScore(mythic tier) >= 3"
 			],
 			"description": [
@@ -1231,7 +1248,7 @@
 				"Source [Mythic Adventures pg. 65](source:Mythic Adventures)",
 				"You can call upon mythic powers beyond those already invested in you.",
 				"**Prerequisites:** 3rd mythic tier.",
-				"**Benefit:** Choose one mythic ability from your path or from the universal path abilities that you meet the prerequisites for. You gain that path ability."
+				"**Benefit:** Choose one mythic ability from your path or from the universal path abilities that you meet the requirements for. You gain that path ability."
 			]
 		},
 		{
@@ -1243,7 +1260,7 @@
 				"Fabulous Figments",
 				"Source [Mythic Adventures pg. 65](source:Mythic Adventures)",
 				"Your illusions are astonishingly realistic.",
-				"**Prerequisites:** [Spell Focus (illusion).](unknown:Spell Focus (illusion).)",
+				"**Prerequisites:** [Spell Focus (illusion)](unknown:Spell Focus (illusion)).",
 				"**Benefit:** Non-mythic creatures can't identify your illusion spells with Spellcraft, including checks attempted as part of arcane sight, detect magic, or similar effects. When mythic creatures attempt to identify your illusions, add your tier to the DC of those Spellcraft checks. Mythic creatures informed by their allies that one of your illusions isn't real gain only a +2 bonus on their Will saves to disbelieve. Non-mythic creatures gain no bonus to disbelieve."
 			]
 		},
@@ -1255,14 +1272,14 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Far Shot)"
 			],
 			"description": [
 				"Far Shot (Combat)",
 				"Source [PRPG Core Rulebook pg. 124](source:PRPG Core Rulebook)",
 				"You are more accurate at longer ranges.",
-				"**Prerequisites:** [Point-Blank Shot.](unknown:Point-Blank Shot.)",
+				"**Prerequisites:** [Point-Blank Shot](unknown:Point-Blank Shot).",
 				"**Benefit:** You only suffer a -1 penalty per full range increment between you and your target when using a ranged weapon.",
 				"**Normal:** You suffer a -2 penalty per full range increment between you and your target.",
 				"*Combat Trick* (from the [Combat Stamina](feat:Combat Stamina) feat)",
@@ -1271,7 +1288,7 @@
 				"Mythic Far Shot",
 				"Source [Mythic Adventures pg. 65](source:Mythic Adventures)",
 				"You make long-ranged attacks with remarkable accuracy.",
-				"**Prerequisites:** [Far Shot.](unknown:Far Shot.)",
+				"**Prerequisites:** [Far Shot](unknown:Far Shot).",
 				"**Benefit:** As a swift action, you can expend one use of mythic power to ignore all range increment penalties for your ranged attacks until the end of your turn."
 			]
 		},
@@ -1280,7 +1297,7 @@
 			"file": "featdisplayda09-2.html",
 			"sources": [ "Ultimate Magic" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Fast Empathy)"
 			],
 			"description": [
@@ -1293,7 +1310,7 @@
 				"Mythic Fast Empathy",
 				"Source [Mythic Adventures pg. 65](source:Mythic Adventures)",
 				"You can soothe the emotions of wild beasts with nearly supernatural quickness.",
-				"**Prerequisites:** [Fast Empathy.](unknown:Fast Empathy.)",
+				"**Prerequisites:** [Fast Empathy](unknown:Fast Empathy).",
 				"**Benefit:** You can use wild empathy as a swift action."
 			]
 		},
@@ -1302,7 +1319,7 @@
 			"file": "featdisplaya776.html",
 			"sources": [ "Ultimate Magic" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Fire Music)"
 			],
 			"description": [
@@ -1316,7 +1333,7 @@
 				"Mythic Fire Music",
 				"Source [Mythic Adventures pg. 65](source:Mythic Adventures)",
 				"You masterfully weave the ancient melodies of fire into your spells.",
-				"**Prerequisites:** [Fire Music.](unknown:Fire Music.)",
+				"**Prerequisites:** [Fire Music](unknown:Fire Music).",
 				"**Benefit:** When you use Fire Music to change any of the damage dealt by a bard spell to fire damage, that damage ignores fire resistance up to your tier.",
 				"If you cast summon monster as a bard spell and choose to give the summoned creature a fiery appearance, increase its fire resistance by 5 (adding to the resistance already granted by Fire Music) and add 1d4 points of fire damage to all of its natural attacks instead of the +1 fire damage normally granted by Fire Music. Creatures with the fire subtype also gain these benefits."
 			]
@@ -1327,7 +1344,10 @@
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory((feat),Fleet)"
+				"countFeatureInCategory((feat),Fleet) < countFeatureInCategory((mythic feat),Fleet)"
+			],
+			"requirements": [
+				"countFeatureInCategory((feat),Fleet) <= countFeatureInCategory((mythic feat),Fleet)"
 			],
 			"description": [
 				"Fleet",
@@ -1338,7 +1358,7 @@
 				"Mythic Fleet",
 				"Source [Mythic Adventures pg. 65](source:Mythic Adventures)",
 				"You're fantastically light on your feet.",
-				"**Prerequisites:** [Fleet.](unknown:Fleet.)",
+				"**Prerequisites:** [Fleet](unknown:Fleet).",
 				"**Benefit:** Your base land speed increases by 5 feet, regardless of what armor you wear or whether you're encumbered. This bonus stacks with the bonus gained from Fleet.",
 				"**Special:** You can take this feat multiple times, but no more than the number of times you've taken non-mythic Fleet. The effects stack."
 			]
@@ -1351,7 +1371,7 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Furious Focus)"
 			],
 			"description": [
@@ -1366,7 +1386,7 @@
 				"Mythic Furious Focus",
 				"Source [Mythic Adventures pg. 65](source:Mythic Adventures)",
 				"Your attacks create a rhythmic barrage that doesn't sacrifice precision for force.",
-				"**Prerequisites:** [Furious Focus.](unknown:Furious Focus.)",
+				"**Prerequisites:** [Furious Focus](unknown:Furious Focus).",
 				"**Benefit:** When you are using Furious Focus, you don't take Power Attack's penalty on attack rolls that are made as attacks of opportunity. As a free action, you can expend one use of mythic power to negate Power Attack's penalty on all melee attacks you make for 1 round while using this feat."
 			]
 		},
@@ -1375,7 +1395,7 @@
 			"file": "featdisplay8bff.html",
 			"sources": [ "Advanced Player's Guide" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Gnome Trickster)"
 			],
 			"description": [
@@ -1387,7 +1407,7 @@
 				"Mythic Gnome Trickster",
 				"Source [Mythic Adventures pg. 65](source:Mythic Adventures)",
 				"Thanks to your mythic power, the magic in your blood has grown more potent and diverse.",
-				"**Prerequisites:** [Gnome Trickster.](unknown:Gnome Trickster.)",
+				"**Prerequisites:** [Gnome Trickster](unknown:Gnome Trickster).",
 				"**Benefit:** You gain the following spell-like abilities: 1/day-blur and vanish.",
 				"You can use your gnome spell-like abilities an additional number of times per day equal to half your tier. You can spend these additional uses to use any of your gnome spell-like abilities you wish. Your caster level for your gnome spell-like abilities becomes your character level plus your tier."
 			]
@@ -1400,7 +1420,7 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Scorpion Style)",
 				"getScore(base attack bonus) >= 6"
 			],
@@ -1425,7 +1445,7 @@
 			"file": "featdisplay51bc.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Great Fortitude)"
 			],
 			"description": [
@@ -1436,7 +1456,7 @@
 				"Mythic Great Fortitude",
 				"Source [Mythic Adventures pg. 66](source:Mythic Adventures)",
 				"Your fortitude is unmatched.",
-				"**Prerequisites:** [Great Fortitude.](unknown:Great Fortitude.)",
+				"**Prerequisites:** [Great Fortitude](unknown:Great Fortitude).",
 				"**Benefit:** Whenever you roll a Fortitude saving throw against a spell, spell-like ability, or supernatural ability from a non-mythic source, roll twice and take the higher result."
 			]
 		},
@@ -1445,7 +1465,7 @@
 			"file": "featdisplayab90.html",
 			"sources": [ "Ultimate Combat" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Guided Hand)"
 			],
 			"description": [
@@ -1457,7 +1477,7 @@
 				"Mythic Guided Hand",
 				"Source [Mythic Adventures pg. 66](source:Mythic Adventures)",
 				"Attacks made with your deity's favored weapon are divinely inspired.",
-				"**Prerequisites:** [Guided Hand.](unknown:Guided Hand.)",
+				"**Prerequisites:** [Guided Hand](unknown:Guided Hand).",
 				"**Benefit:** When making attacks with your deity's favored weapon, you can add your Wisdom modifier instead of your Strength or Dexterity modifier on damage rolls."
 			]
 		},
@@ -1466,7 +1486,7 @@
 			"file": "featdisplay7923.html",
 			"sources": [ "Advanced Player's Guide" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Heroic Defiance)"
 			],
 			"description": [
@@ -1478,7 +1498,7 @@
 				"Mythic Heroic Defiance",
 				"Source [Mythic Adventures pg. 66](source:Mythic Adventures)",
 				"You ignore harmful effects that would bring others down.",
-				"**Prerequisites:** [Heroic Defiance.](unknown:Heroic Defiance.)",
+				"**Prerequisites:** [Heroic Defiance](unknown:Heroic Defiance).",
 				"**Benefit:** Once per day as an immediate action, you can attempt to negate the onset of one harmful condition or affliction (such as panicked, paralyzed, stunned, and so on) that allowed a saving throw for its onset, not including permanent and instantaneous conditions. When you do so, attempt a Will saving throw with a bonus equal to your tier against the original DC of the effect. If you succeed, the condition is negated. If you fail, the onset is delayed until the end of your next turn, after which it takes its normal effect. This feat has no effect on hit point damage or ability damage.",
 				"This effect is separate from the use of non-mythic Heroic Defiance."
 			]
@@ -1488,7 +1508,7 @@
 			"file": "featdisplayf6af.html",
 			"sources": [ "Advanced Player's Guide" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Heroic Recovery)"
 			],
 			"description": [
@@ -1500,7 +1520,7 @@
 				"Mythic Heroic Recovery",
 				"Source [Mythic Adventures pg. 66](source:Mythic Adventures)",
 				"You can shrug off the effects of harmful conditions after they've taken effect.",
-				"**Prerequisites:** [Heroic Recovery.](unknown:Heroic Recovery.)",
+				"**Prerequisites:** [Heroic Recovery](unknown:Heroic Recovery).",
 				"**Benefit:** As a swift action, you can expend one use of mythic power to use Heroic Recovery additional times. Whenever you do, add your tier to the result of the Fortitude save."
 			]
 		},
@@ -1512,7 +1532,7 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Improved Bull Rush)"
 			],
 			"description": [
@@ -1528,7 +1548,7 @@
 				"Mythic Improved Bull Rush",
 				"Source [Mythic Adventures pg. 66](source:Mythic Adventures)",
 				"You push foes around with amazing ease.",
-				"**Prerequisites:** [Improved Bull Rush.](unknown:Improved Bull Rush.)",
+				"**Prerequisites:** [Improved Bull Rush](unknown:Improved Bull Rush).",
 				"**Benefit:** You gain a bonus equal to half your tier on checks to bull rush, and to your CMD when an opponent bull rushes you. These bonuses stack with those granted by non-mythic Improved Bull Rush.",
 				"Furthermore, you can make an attack of opportunity against any creature that attempts to bull rush you, unless it also has this feat."
 			]
@@ -1538,7 +1558,7 @@
 			"file": "featdisplaya91d.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Improved Channel)"
 			],
 			"description": [
@@ -1550,7 +1570,7 @@
 				"Mythic Improved Channel",
 				"Source [Mythic Adventures pg. 66](source:Mythic Adventures)",
 				"As a divine conduit for energy, you're unmatched.",
-				"**Prerequisites:** [Improved Channel.](unknown:Improved Channel.)",
+				"**Prerequisites:** [Improved Channel](unknown:Improved Channel).",
 				"**Benefit:** Non-mythic creatures that take damage from your channel energy must roll their saving throws twice and take the lower result."
 			]
 		},
@@ -1559,7 +1579,7 @@
 			"file": "featdisplay9a47.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Improved Counterspell)"
 			],
 			"description": [
@@ -1571,7 +1591,7 @@
 				"Mythic Improved Counterspell",
 				"Source [Mythic Adventures pg. 66](source:Mythic Adventures)",
 				"Your innate understanding of magical mechanics allows you to unravel spells with pure magical energy.",
-				"**Prerequisites:** [Improved Counterspell.](unknown:Improved Counterspell.)",
+				"**Prerequisites:** [Improved Counterspell](unknown:Improved Counterspell).",
 				"**Benefit:** When counterspelling, you can use a spell of the same school that is the same or higher spell level as the target spell."
 			]
 		},
@@ -1584,7 +1604,10 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory((feat),Improved Critical)"
+				"countFeatureInCategory((feat),Improved Critical) > countFeatureInCategory((mythic feat),Improved Critical)"
+			],
+			"requirements": [
+				"countFeatureInCategory((feat),Improved Critical) >= countFeatureInCategory((mythic feat),Improved Critical)"
 			],
 			"description": [
 				"Improved Critical (Combat)",
@@ -1612,14 +1635,14 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Improved Dirty Trick)"
 			],
 			"description": [
 				"Improved Dirty Trick (Combat)",
 				"Source [Advanced Player's Guide pg. 162](source:Advanced Player's Guide)",
 				"You are skilled at pulling dirty tricks on your foes.",
-				"**Prerequisites:** Int 13, [Combat Expertise.](unknown:Combat Expertise.)",
+				"**Prerequisites:** Int 13, [Combat Expertise](unknown:Combat Expertise).",
 				"**Benefit:** You do not provoke an attack of opportunity when performing a dirty trick combat maneuver. In addition, you receive a +2 bonus on checks made to attempt a dirty trick. You also receive a +2 bonus to your Combat Maneuver Defense when an opponent tries a dirty trick on you.",
 				"**Normal:** You provoke an attack of opportunity when performing a dirty trick combat maneuver.",
 				"*Combat Trick* (from the [Combat Stamina](feat:Combat Stamina) feat)",
@@ -1628,7 +1651,7 @@
 				"Mythic Improved Dirty Trick",
 				"Source [Mythic Adventures pg. 66](source:Mythic Adventures)",
 				"You're a paragon of down-and-dirty fighting.",
-				"**Prerequisites:** [Improved Dirty Trick.](unknown:Improved Dirty Trick.)",
+				"**Prerequisites:** [Improved Dirty Trick](unknown:Improved Dirty Trick).",
 				"**Benefit:** You gain a bonus equal to half your tier on checks to attempt a dirty trick, and to your CMD when an opponent attempts to perform a dirty trick on you. These bonuses stack with those granted by Improved Dirty Trick.",
 				"Furthermore, you can make an attack of opportunity against any creature that attempts a dirty trick maneuver against you, unless it also has this feat."
 			]
@@ -1641,14 +1664,14 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Improved Disarm)"
 			],
 			"description": [
 				"Improved Disarm (Combat)",
 				"Source [PRPG Core Rulebook pg. 127](source:PRPG Core Rulebook)",
 				"You are skilled at knocking weapons from a foe's grasp.",
-				"**Prerequisites:** Int 13, [Combat Expertise.](unknown:Combat Expertise.)",
+				"**Prerequisites:** Int 13, [Combat Expertise](unknown:Combat Expertise).",
 				"**Benefit:** You do not provoke an attack of opportunity when performing a disarm combat maneuver. In addition, you receive a +2 bonus on checks made to disarm a foe. You also receive a +2 bonus to your Combat Maneuver Defense whenever an opponent tries to disarm you.",
 				"**Normal:** You provoke an attack of opportunity when performing a disarm combat maneuver.",
 				"*Combat Trick* (from the [Combat Stamina](feat:Combat Stamina) feat)",
@@ -1657,7 +1680,7 @@
 				"Mythic Improved Disarm",
 				"Source [Mythic Adventures pg. 67](source:Mythic Adventures)",
 				"You're expert at knocking your enemies' weapons away.",
-				"**Prerequisites:** [Improved Disarm.](unknown:Improved Disarm.)",
+				"**Prerequisites:** [Improved Disarm](unknown:Improved Disarm).",
 				"**Benefit:** You gain a bonus equal to half your tier on checks to disarm, and to your CMD when an opponent tries to disarm you. These bonuses stack with those granted by Improved Disarm.",
 				"Furthermore, you can make an attack of opportunity against any creature that attempts to disarm you, unless it also has this feat."
 			]
@@ -1670,7 +1693,7 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Improved Drag)"
 			],
 			"description": [
@@ -1686,7 +1709,7 @@
 				"Mythic Improved Drag",
 				"Source [Mythic Adventures pg. 67](source:Mythic Adventures)",
 				"You pull your enemies around the battlefield with great ease.",
-				"**Prerequisites:** [Improved Drag.](unknown:Improved Drag.)",
+				"**Prerequisites:** [Improved Drag](unknown:Improved Drag).",
 				"**Benefit:** You gain a bonus equal to half your tier on checks to attempt a drag combat maneuver, and to your CMD when an opponent attempts a drag combat maneuver against you. These bonuses stack with those granted by Improved Drag.",
 				"Furthermore, you can make an attack of opportunity against any creature that attempts a drag maneuver against you, unless it also has this feat."
 			]
@@ -1696,7 +1719,7 @@
 			"file": "featdisplay1793.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Improved Familiar)"
 			],
 			"description": [
@@ -1710,7 +1733,7 @@
 				"Mythic Improved Familiar",
 				"Source [Mythic Adventures pg. 67](source:Mythic Adventures)",
 				"Your familiar gains some of your incredible resiliency and insight.",
-				"**Prerequisites:** [Improved Familiar.](unknown:Improved Familiar.)",
+				"**Prerequisites:** [Improved Familiar](unknown:Improved Familiar).",
 				"**Benefit:** For every 3 tiers you possess, your familiar gains a +2 bonus to an ability score of your choice. These bonuses stack. Your familiar adds your tier to its natural armor bonus and to its spell resistance (if it has spell resistance)."
 			]
 		},
@@ -1722,14 +1745,14 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Improved Grapple)"
 			],
 			"description": [
 				"Improved Grapple (Combat)",
 				"Source [PRPG Core Rulebook pg. 127](source:PRPG Core Rulebook)",
 				"You are skilled at grappling opponents.",
-				"**Prerequisites:** Dex 13, [Improved Unarmed Strike.](unknown:Improved Unarmed Strike.)",
+				"**Prerequisites:** Dex 13, [Improved Unarmed Strike](unknown:Improved Unarmed Strike).",
 				"**Benefit:** You do not provoke an attack of opportunity when performing a grapple combat maneuver. In addition, you receive a +2 bonus on checks made to grapple a foe. You also receive a +2 bonus to your Combat Maneuver Defense whenever an opponent tries to grapple you.",
 				"**Normal:** You provoke an attack of opportunity when performing a grapple combat maneuver.",
 				"*Combat Trick* (from the [Combat Stamina](feat:Combat Stamina) feat)",
@@ -1738,7 +1761,7 @@
 				"Mythic Improved Grapple",
 				"Source [Mythic Adventures pg. 67](source:Mythic Adventures)",
 				"Your wrestling moves are difficult to counter.",
-				"**Prerequisites:** [Improved Grapple.](unknown:Improved Grapple.)",
+				"**Prerequisites:** [Improved Grapple](unknown:Improved Grapple).",
 				"**Benefit:** You gain a bonus equal to half your tier on checks to grapple, and to your CMD when an opponent tries to grapple you. These bonuses stack with those granted by Improved Grapple.",
 				"Furthermore, you can make an attack of opportunity against any creature that attempts to grapple you, unless it also has this feat."
 			]
@@ -1751,7 +1774,7 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Improved Initiative)"
 			],
 			"description": [
@@ -1765,7 +1788,7 @@
 				"Mythic Improved Initiative",
 				"Source [Mythic Adventures pg. 67](source:Mythic Adventures)",
 				"You leap into the fray with speed and confidence.",
-				"**Prerequisites:** [Improved Initiative.](unknown:Improved Initiative.)",
+				"**Prerequisites:** [Improved Initiative](unknown:Improved Initiative).",
 				"**Benefit:** The bonus on initiative checks granted by Improved Initiative increases by an amount equal to your tier. This bonus stacks with the bonus from Improved Initiative. In addition, instead of rolling initiative, you can expend one use of mythic power to treat your roll as a natural 20."
 			]
 		},
@@ -1777,7 +1800,7 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Improved Overrun)"
 			],
 			"description": [
@@ -1793,7 +1816,7 @@
 				"Mythic Improved Overrun",
 				"Source [Mythic Adventures pg. 67](source:Mythic Adventures)",
 				"You're an unstoppable force on the battlefield, able to run down lesser foes with ease.",
-				"**Prerequisites:** [Improved Overrun.](unknown:Improved Overrun.)",
+				"**Prerequisites:** [Improved Overrun](unknown:Improved Overrun).",
 				"**Benefit:** You gain a bonus equal to half your tier on checks to overrun, and to your CMD when an opponent tries to overrun you. These bonuses stack with those granted by Improved Overrun.",
 				"Furthermore, you can make an attack of opportunity against any creature that attempts to overrun you, unless it also has this feat."
 			]
@@ -1806,14 +1829,14 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Improved Reposition)"
 			],
 			"description": [
 				"Improved Reposition (Combat)",
 				"Source [Advanced Player's Guide pg. 163](source:Advanced Player's Guide)",
 				"You have learned how to force your enemies to move around the battlefield.",
-				"**Prerequisites:** Int 13, [Combat Expertise.](unknown:Combat Expertise.)",
+				"**Prerequisites:** Int 13, [Combat Expertise](unknown:Combat Expertise).",
 				"**Benefit:** You do not provoke an attack of opportunity when performing a reposition combat maneuver. In addition, you receive a +2 bonus on checks made to reposition a foe. You also receive a +2 bonus to your Combat Maneuver Defense when an opponent tries to reposition you.",
 				"**Normal:** You provoke an attack of opportunity when performing a reposition combat maneuver.",
 				"*Combat Trick* (from the [Combat Stamina](feat:Combat Stamina) feat)",
@@ -1822,7 +1845,7 @@
 				"Mythic Improved Reposition",
 				"Source [Mythic Adventures pg. 67](source:Mythic Adventures)",
 				"You put your foes right where you want them.",
-				"**Prerequisites:** [Improved Reposition.](unknown:Improved Reposition.)",
+				"**Prerequisites:** [Improved Reposition](unknown:Improved Reposition).",
 				"**Benefit:** You gain a bonus equal to half your tier on checks to attempt a reposition combat maneuver, and to your CMD when an opponent attempts to perform a reposition combat maneuver against you. These bonuses stack with those granted by Improved Reposition.",
 				"Furthermore, you can make an attack of opportunity against any creature that attempts to reposition you, unless it also has this feat."
 			]
@@ -1835,14 +1858,14 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Improved Steal)"
 			],
 			"description": [
 				"Improved Steal (Combat)",
 				"Source [Advanced Player's Guide pg. 163](source:Advanced Player's Guide)",
 				"You have a knack for snatching items from your opponents.",
-				"**Prerequisites:** Int 13, [Combat Expertise.](unknown:Combat Expertise.)",
+				"**Prerequisites:** Int 13, [Combat Expertise](unknown:Combat Expertise).",
 				"**Benefit:** You do not provoke an attack of opportunity when performing a steal combat maneuver. In addition, you receive a +2 bonus on checks made to steal an item from a foe. You also receive a +2 bonus to your Combat Maneuver Defense when an opponent tries to steal an item from you.",
 				"**Normal:** You provoke an attack of opportunity when performing a steal combat maneuver.",
 				"*Combat Trick* (from the [Combat Stamina](feat:Combat Stamina) feat)",
@@ -1851,7 +1874,7 @@
 				"Mythic Improved Steal",
 				"Source [Mythic Adventures pg. 67](source:Mythic Adventures)",
 				"Your light fingers can lift even the most closely held item off an enemy.",
-				"**Prerequisites:** [Improved Steal.](unknown:Improved Steal.)",
+				"**Prerequisites:** [Improved Steal](unknown:Improved Steal).",
 				"**Benefit:** You gain a bonus equal to half your tier on checks to attempt a steal combat maneuver, and to your CMD when an opponent attempts a steal combat maneuver on you. These bonuses stack with those granted by Improved Steal.",
 				"Furthermore, you can make an attack of opportunity against any creature that attempts a steal maneuver against, you unless it also has this feat."
 			]
@@ -1861,7 +1884,7 @@
 			"file": "featdisplay2e9a.html",
 			"sources": [ "Advanced Player's Guide" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Improved Stonecunning)"
 			],
 			"description": [
@@ -1873,7 +1896,7 @@
 				"Mythic Improved Stonecunning",
 				"Source [Mythic Adventures pg. 67](source:Mythic Adventures)",
 				"If you listen close, you can hear the secrets of stone.",
-				"**Prerequisites:** [Improved Stonecunning.](unknown:Improved Stonecunning.)",
+				"**Prerequisites:** [Improved Stonecunning](unknown:Improved Stonecunning).",
 				"**Benefit:** You gain stone tell as a spell-like ability usable once per day with a caster level equal to twice your tier."
 			]
 		},
@@ -1885,7 +1908,7 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Improved Sunder)"
 			],
 			"description": [
@@ -1901,7 +1924,7 @@
 				"Mythic Improved Sunder",
 				"Source [Mythic Adventures pg. 67](source:Mythic Adventures)",
 				"Your mighty smashing blows demolish objects.",
-				"**Prerequisites:** [Improved Sunder.](unknown:Improved Sunder.)",
+				"**Prerequisites:** [Improved Sunder](unknown:Improved Sunder).",
 				"**Benefit:** You gain a bonus equal to half your tier on checks to sunder, and to your CMD when an opponent tries to sunder an object used by you. These bonuses stack with those granted by Improved Sunder.",
 				"Furthermore, you can make an attack of opportunity against any creature that attempts to sunder an object used by you, unless it also has this feat."
 			]
@@ -1914,14 +1937,14 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Improved Trip)"
 			],
 			"description": [
 				"Improved Trip (Combat)",
 				"Source [PRPG Core Rulebook pg. 128](source:PRPG Core Rulebook)",
 				"You are skilled at sending your opponents to the ground.",
-				"**Prerequisites:** Int 13, [Combat Expertise.](unknown:Combat Expertise.)",
+				"**Prerequisites:** Int 13, [Combat Expertise](unknown:Combat Expertise).",
 				"**Benefit:** You do not provoke an attack of opportunity when performing a trip combat maneuver. In addition, you receive a +2 bonus on checks made to trip a foe. You also receive a +2 bonus to your Combat Maneuver Defense whenever an opponent tries to trip you.",
 				"**Normal:** You provoke an attack of opportunity when performing a trip combat maneuver.",
 				"*Combat Trick* (from the [Combat Stamina](feat:Combat Stamina) feat)",
@@ -1930,7 +1953,7 @@
 				"Mythic Improved Trip",
 				"Source [Mythic Adventures pg. 68](source:Mythic Adventures)",
 				"You're expert at knocking your foes down.",
-				"**Prerequisites:** [Improved Trip.](unknown:Improved Trip.)",
+				"**Prerequisites:** [Improved Trip](unknown:Improved Trip).",
 				"**Benefit:** You gain a bonus equal to half your tier on checks to trip, and to your CMD when an opponent tries to trip you. These bonuses stack with those granted by Improved Trip.",
 				"Furthermore, you can make an attack of opportunity against any creature that attempts to trip you, unless it also has this feat."
 			]
@@ -1943,7 +1966,7 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Improved Unarmed Strike)"
 			],
 			"description": [
@@ -1958,7 +1981,7 @@
 				"Mythic Improved Unarmed Strike",
 				"Source [Mythic Adventures pg. 68](source:Mythic Adventures)",
 				"Your unarmed strikes are more powerful than others.",
-				"**Prerequisites:** [Improved Unarmed Strike.](unknown:Improved Unarmed Strike.)",
+				"**Prerequisites:** [Improved Unarmed Strike](unknown:Improved Unarmed Strike).",
 				"**Benefit:** You can add half your tier to your damage with unarmed strikes. As a swift action, you can expend one use of mythic power to overcome the hardness of objects with your unarmed strikes. This effect last for a number of rounds equal to your tier. If an object's hardness is greater than 15, you don't ignore any of its hardness."
 			]
 		},
@@ -1970,7 +1993,7 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Intimidating Prowess)"
 			],
 			"description": [
@@ -1984,7 +2007,7 @@
 				"Mythic Intimidating Prowess",
 				"Source [Mythic Adventures pg. 68](source:Mythic Adventures)",
 				"Your mythic stature makes others uneasy.",
-				"**Prerequisites:** [Intimidating Prowess.](unknown:Intimidating Prowess.)",
+				"**Prerequisites:** [Intimidating Prowess](unknown:Intimidating Prowess).",
 				"**Benefit:** You gain a bonus on Intimidate checks equal to your tier against non-mythic creatures, or half your tier against mythic creatures. If you also have the Persuasive (mythic) feat, you can expend one use of mythic power to treat the Intimidate check as if you had rolled a natural 20. You must decide to use this ability before the roll is made."
 			]
 		},
@@ -1993,7 +2016,7 @@
 			"file": "featdisplayc786.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Iron Will)"
 			],
 			"description": [
@@ -2004,7 +2027,7 @@
 				"Mythic Iron Will",
 				"Source [Mythic Adventures pg. 68](source:Mythic Adventures)",
 				"Your will is incorruptible.",
-				"**Prerequisites:** [Iron Will.](unknown:Iron Will.)",
+				"**Prerequisites:** [Iron Will](unknown:Iron Will).",
 				"**Benefit:** Whenever you roll a Will saving throw against a spell, spell-like ability, or supernatural ability from a non-mythic source, roll twice and take the higher result."
 			]
 		},
@@ -2013,19 +2036,19 @@
 			"file": "featdisplay484e.html",
 			"sources": [ "Ultimate Combat" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Knockout Artist)"
 			],
 			"description": [
 				"Knockout Artist",
 				"Source [Ultimate Combat pg. 106](source:Ultimate Combat)",
 				"You can throw devastating knockout punches.",
-				"**Prerequisites:** Sneak attack class feature, [Improved Unarmed Strike.](unknown:Improved Unarmed Strike.)",
+				"**Prerequisites:** Sneak attack class feature, [Improved Unarmed Strike](unknown:Improved Unarmed Strike).",
 				"**Benefit:** When you use your unarmed strike to deal nonlethal damage and sneak attack damage to an opponent denied his Dexterity bonus to AC, you gain a +1 bonus on the damage roll per each sneak attack damage die you roll.",
 				"Mythic Knockout Artist",
 				"Source [Mythic Adventures pg. 68](source:Mythic Adventures)",
 				"Your knockout punches are truly mighty.",
-				"**Prerequisites:** [Knockout Artist.](unknown:Knockout Artist.)",
+				"**Prerequisites:** [Knockout Artist](unknown:Knockout Artist).",
 				"**Benefit:** When you use your unarmed strike to deal nonlethal damage and sneak attack damage to an opponent, roll d8s for each sneak attack die instead of d6s."
 			]
 		},
@@ -2034,7 +2057,7 @@
 			"file": "featdisplay5682.html",
 			"sources": [ "Mythic Adventures" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"countFeatureInCategoryWithType((feat),(Teamwork)) >= 2"
 			],
 			"description": [
@@ -2050,7 +2073,7 @@
 			"file": "featdisplay7b12.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Lightning Reflexes)"
 			],
 			"description": [
@@ -2061,7 +2084,7 @@
 				"Mythic Lightning Reflexes",
 				"Source [Mythic Adventures pg. 68](source:Mythic Adventures)",
 				"Your reflexes are superhuman.",
-				"**Prerequisites:** [Lightning Reflexes.](unknown:Lightning Reflexes.)",
+				"**Prerequisites:** [Lightning Reflexes](unknown:Lightning Reflexes).",
 				"**Benefit:** Whenever you roll a Reflex saving throw against a spell, spell-like ability, or supernatural ability from a non-mythic source, roll twice and take the higher result."
 			]
 		},
@@ -2073,7 +2096,7 @@
 				"Dark Markets - A Guide to Katapesh"
 			],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Lucky Halfling)"
 			],
 			"description": [
@@ -2085,7 +2108,7 @@
 				"Mythic Lucky Halfling",
 				"Source [Mythic Adventures pg. 68](source:Mythic Adventures)",
 				"You share your mythic luck with those around you.",
-				"**Prerequisites:** [Lucky Halfling.](unknown:Lucky Halfling.)",
+				"**Prerequisites:** [Lucky Halfling](unknown:Lucky Halfling).",
 				"**Benefit:** When you use Lucky Halfling, add your tier as a bonus on the saving throw. You can expend one use of mythic power when an ally uses your save but still suffers an effect on a successful saving throw. If you do, that ally suffers no effect on the successful saving throw."
 			]
 		},
@@ -2094,7 +2117,7 @@
 			"file": "featdisplaybef8.html",
 			"sources": [ "Mythic Adventures" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((mythic feat),Potent Surge)",
 				"getScore(mythic tier) >= 3"
 			],
@@ -2114,7 +2137,7 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Lunge)"
 			],
 			"description": [
@@ -2129,7 +2152,7 @@
 				"Mythic Lunge",
 				"Source [Mythic Adventures pg. 69](source:Mythic Adventures)",
 				"Your reaching strikes aid your defenses against those you hit.",
-				"**Prerequisites:** [Lunge.](unknown:Lunge.)",
+				"**Prerequisites:** [Lunge](unknown:Lunge).",
 				"**Benefit:** Whenever you use Lunge and hit a creature with the melee attack, you no longer take a -2 penalty to AC against that creature. You can expend one use of mythic power when you use Lunge to negate the -2 penalty to AC whether you hit or miss, and gain a +2 bonus on attacks of opportunity you make while Lunge is in effect."
 			]
 		},
@@ -2138,7 +2161,7 @@
 			"file": "featdisplay05b0.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Magical Aptitude)"
 			],
 			"description": [
@@ -2149,7 +2172,7 @@
 				"Mythic Magical Aptitude",
 				"Source [Mythic Adventures pg. 69](source:Mythic Adventures)",
 				"Your understanding of the principles and intricacies of magic goes far beyond your training.",
-				"**Prerequisites:** [Magical Aptitude.](unknown:Magical Aptitude.)",
+				"**Prerequisites:** [Magical Aptitude](unknown:Magical Aptitude).",
 				"**Benefit:** The bonus on Spellcraft and Use Magic Device skill checks from Magical Aptitude increases by 2. In addition, you can expend one use of mythic power to treat a Spellcraft or Use Magic Device check as if you had rolled a natural 20. You must decide to use this ability before making the roll."
 			]
 		},
@@ -2161,7 +2184,7 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Manyshot)"
 			],
 			"description": [
@@ -2176,7 +2199,7 @@
 				"Mythic Manyshot",
 				"Source [Mythic Adventures pg. 69](source:Mythic Adventures)",
 				"You can fire a barrage of arrows at your target with very little effort.",
-				"**Prerequisites:** [Manyshot.](unknown:Manyshot.)",
+				"**Prerequisites:** [Manyshot](unknown:Manyshot).",
 				"**Benefit:** When making a full-attack action with a bow and using Manyshot, you fire two arrows with both your first and second attacks, instead of just your first attack."
 			]
 		},
@@ -2185,7 +2208,7 @@
 			"file": "featdisplay7c3b.html",
 			"sources": [ "Mythic Adventures" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"getScore(mythic tier) >= 6"
 			],
 			"description": [
@@ -2195,7 +2218,8 @@
 				"**Prerequisites:** 6th mythic tier.",
 				"**Benefit:** Once per day when you surge, you can expend two uses of mythic power to treat your surge die as though it rolled the maximum result.",
 				"**Special:** You can take this feat multiple times. Each time you do, you gain an extra use of this feat per day."
-			]
+			],
+			"no_limit": true
 		},
 		{
 			"name": "Medusa's Wrath",
@@ -2205,7 +2229,7 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Gorgon's Fist)",
 				"getScore(base attack bonus) >= 11"
 			],
@@ -2233,14 +2257,14 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Missile Shield)"
 			],
 			"description": [
 				"Missile Shield (Combat)",
 				"Source [Advanced Player's Guide pg. 165](source:Advanced Player's Guide)",
 				"You are skilled at deflecting ranged attacks with your shield.",
-				"**Prerequisites:** Dex 13, [Shield Focus.](unknown:Shield Focus.)",
+				"**Prerequisites:** Dex 13, [Shield Focus](unknown:Shield Focus).",
 				"**Benefit:** You must be using a light, heavy, or tower shield to use this feat. Once per round when you would normally be hit with an attack from a ranged weapon (not including spell effects, natural attacks, or massive ranged weapons), you may deflect it so that you take no damage, as if you had the Deflect Arrows feat. You must be aware of the attack and not flat-footed.",
 				"*Combat Trick* (from the [Combat Stamina](feat:Combat Stamina) feat)",
 				"Source [Pathfinder Unchained pg. 127](source:Pathfinder Unchained)",
@@ -2248,7 +2272,7 @@
 				"Mythic Missile Shield",
 				"Source [Mythic Adventures pg. 69](source:Mythic Adventures)",
 				"Your remarkable awareness allows you to deflect multiple ranged attacks and even ray spells.",
-				"**Prerequisites:** [Missile Shield.](unknown:Missile Shield.)",
+				"**Prerequisites:** [Missile Shield](unknown:Missile Shield).",
 				"**Benefit:** When using Missile Shield, you can deflect an additional number of ranged attacks per round equal to half your tier. You can expend one use of mythic power as an immediate action to deflect a single ray from a ray spell or effect targeting you."
 			]
 		},
@@ -2260,14 +2284,14 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Mobility)"
 			],
 			"description": [
 				"Mobility (Combat)",
 				"Source [PRPG Core Rulebook pg. 130](source:PRPG Core Rulebook)",
 				"You can easily move through a dangerous melee.",
-				"**Prerequisites:** Dex 13, [Dodge.](unknown:Dodge.)",
+				"**Prerequisites:** Dex 13, [Dodge](unknown:Dodge).",
 				"**Benefit:** You get a +4 dodge bonus to Armor Class against attacks of opportunity caused when you move out of or within a threatened area. A condition that makes you lose your Dexterity bonus to Armor Class (if any) also makes you lose dodge bonuses.",
 				"Dodge bonuses stack with each other, unlike most types of bonuses.",
 				"*Combat Trick* (from the [Combat Stamina](feat:Combat Stamina) feat)",
@@ -2276,7 +2300,7 @@
 				"Mythic Mobility",
 				"Source [Mythic Adventures pg. 69](source:Mythic Adventures)",
 				"You have perfected your ability to weave through the battlefield, using your momentum to propel yourself far.",
-				"**Prerequisites:** [Mobility.](unknown:Mobility.)",
+				"**Prerequisites:** [Mobility](unknown:Mobility).",
 				"**Benefit:** Whenever you use Mobility, you gain a +6 dodge bonus to AC instead of the normal +4. In addition, once per round when an attack of opportunity provoked by your movement misses you, you may move 5 feet as a free action. This movement doesn't count against your total overall movement for the round, but it does provoke attacks of opportunity."
 			]
 		},
@@ -2288,14 +2312,14 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Monastic Legacy)"
 			],
 			"description": [
 				"Monastic Legacy (Combat)",
 				"Source [Ultimate Combat pg. 109](source:Ultimate Combat)",
 				"Your formal unarmed training continues to bolster your training in other areas.",
-				"**Prerequisites:** Still mind class feature, [Improved Unarmed Strike.](unknown:Improved Unarmed Strike.)",
+				"**Prerequisites:** Still mind class feature, [Improved Unarmed Strike](unknown:Improved Unarmed Strike).",
 				"**Benefit:** Add half the levels you have in classes other than monk to your monk level to determine your effective monk level for your base unarmed strike damage. This feat does not make levels in classes other than monk count toward any other monk class features.",
 				"*Combat Trick* (from the [Combat Stamina](feat:Combat Stamina) feat)",
 				"Source [Pathfinder Unchained pg. 127](source:Pathfinder Unchained)",
@@ -2303,7 +2327,7 @@
 				"Mythic Monastic Legacy",
 				"Source [Mythic Adventures pg. 69](source:Mythic Adventures)",
 				"Every new experience carries you another step further along your path to enlightenment.",
-				"**Prerequisites:** [Monastic Legacy.](unknown:Monastic Legacy.)",
+				"**Prerequisites:** [Monastic Legacy](unknown:Monastic Legacy).",
 				"**Benefit:** Add half the levels you have in classes other than monk to your monk level to determine your effective monk level for your AC bonus. As a free action, you can expend one use of mythic power to add half your tier to your effective monk level to determine your base unarmed strike damage and AC bonus until the start of your next turn."
 			]
 		},
@@ -2315,14 +2339,14 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Mounted Archery)"
 			],
 			"description": [
 				"Mounted Archery (Combat)",
 				"Source [PRPG Core Rulebook pg. 131](source:PRPG Core Rulebook)",
 				"You are skilled at making ranged attacks while mounted.",
-				"**Prerequisites:** Ride 1 rank, [Mounted Combat.](unknown:Mounted Combat.)",
+				"**Prerequisites:** Ride 1 rank, [Mounted Combat](unknown:Mounted Combat).",
 				"**Benefit:** The penalty you take when using a ranged weapon while mounted is halved: -2 instead of -4 if your mount is taking a double move, and -4 instead of -8 if your mount is running.",
 				"*Combat Trick* (from the [Combat Stamina](feat:Combat Stamina) feat)",
 				"Source [Pathfinder Unchained pg. 127](source:Pathfinder Unchained)",
@@ -2330,7 +2354,7 @@
 				"Mythic Mounted Archery",
 				"Source [Mythic Adventures pg. 69](source:Mythic Adventures)",
 				"Your skill as a rider allows you to take cover and shoot with amazing accuracy.",
-				"**Prerequisites:** [Mounted Archery.](unknown:Mounted Archery.)",
+				"**Prerequisites:** [Mounted Archery](unknown:Mounted Archery).",
 				"**Benefit:** When using the Ride skill to use your mount as cover, you can still make a single ranged weapon attack as a standard action. While your mount is moving, you can expend one use of mythic power to negate the penalties for making ranged weapon attacks while mounted until the beginning of your next turn."
 			]
 		},
@@ -2342,7 +2366,7 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Mounted Combat)"
 			],
 			"description": [
@@ -2357,16 +2381,32 @@
 				"Mythic Mounted Combat",
 				"Source [Mythic Adventures pg. 70](source:Mythic Adventures)",
 				"Your ability to maneuver a mount through the rigors of combat is nearly unparalleled.",
-				"**Prerequisites:** [Mounted Combat.](unknown:Mounted Combat.)",
+				"**Prerequisites:** [Mounted Combat](unknown:Mounted Combat).",
 				"**Benefit:** You can negate an additional number of hits against your mount per round equal to your tier. Once per round as an immediate action, you can expend one use of mythic power to substitute a Ride check for a single Reflex saving throw your mount must make."
 			]
+		},
+		{
+			"name": "Mythic Crafter",
+			"file": "featdisplay84aa.html",
+			"sources": [ "Mythic Adventures" ],
+			"types": [ "General" ],
+			"requirements": [
+				"countFeatureInCategoryWithType((feat),(Item Creation)) >= 1"
+			],
+			"description": [
+				"Mythic Crafter",
+				"Source [Mythic Adventures pg. 70](source:Mythic Adventures)",
+				"You can craft mythic magic items.",
+				"**Prerequisites:** Any item creation feat.",
+				"**Benefit:** You can create any mythic magic item for which you have the appropriate item creation feat. In addition, you gain a +5 bonus on skill checks when creating nonmythic magic items."
+			],
+			"short_description": "Create mythic magic items"
 		},
 		{
 			"name": "Mythic Paragon",
 			"file": "featdisplay4f78.html",
 			"sources": [ "Mythic Adventures" ],
 			"types": [ "General" ],
-			"prerequisites": null,
 			"description": [
 				"Mythic Paragon",
 				"Source [Mythic Adventures pg. 70](source:Mythic Adventures)",
@@ -2375,11 +2415,32 @@
 			]
 		},
 		{
+			"name": "Mythic Spell Lore",
+			"file": "featdisplay75d7.html",
+			"sources": [ "Mythic Adventures" ],
+			"types": [ "General" ],
+			"requirements": [
+				{
+					"spell_any": true
+				}
+			],
+			"description": [
+				"Mythic Spell Lore",
+				"Source [Mythic Adventures pg. 70](source:Mythic Adventures)",
+				"You have learned how to unlock the power of your spells, combining them with your mythic power.",
+				"**Prerequisites:** Ability to cast spells.",
+				"**Benefit:** You can learn a number of mythic spells equal to your tier and can expend mythic power when casting them to enhance the results. To select a mythic spell, you must be able to cast the non-mythic version or have it on your list of spells known. Every time you gain a new tier, you can select an additional mythic spell.",
+				"**Special:** You can select this feat multiple times. Each time you select this feat, you must select different spells."
+			],
+			"short_description": "Gain mythic spells equal to your mythic tier",
+			"no_limit": true
+		},
+		{
 			"name": "Natural Spell",
 			"file": "featdisplaybba2.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Natural Spell)"
 			],
 			"description": [
@@ -2392,7 +2453,7 @@
 				"Mythic Natural Spell",
 				"Source [Mythic Adventures pg. 70](source:Mythic Adventures)",
 				"You can speak and use some magic items when you use wild shape.",
-				"**Prerequisites:** [Natural Spell.](unknown:Natural Spell.)",
+				"**Prerequisites:** [Natural Spell](unknown:Natural Spell).",
 				"**Benefit:** When you're using wild shape, you can use spell completion and spell trigger magic items that were on your person when you changed form. You don't need to physically manipulate the items when you use them while using wild shape. Furthermore, you can speak normally when using wild shape."
 			]
 		},
@@ -2401,7 +2462,7 @@
 			"file": "featdisplayc15b.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Nimble Moves)"
 			],
 			"description": [
@@ -2413,7 +2474,7 @@
 				"Mythic Nimble Moves",
 				"Source [Mythic Adventures pg. 70](source:Mythic Adventures)",
 				"You dance across obstacles with ease, as though they weren't even there.",
-				"**Prerequisites:** [Nimble Moves.](unknown:Nimble Moves.)",
+				"**Prerequisites:** [Nimble Moves](unknown:Nimble Moves).",
 				"**Benefit:** For every 2 tiers you possess, you can move through up to 5 feet of difficult terrain each round as if it were normal terrain (minimum 5 feet). This effect stacks with those provided by Nimble Moves and Acrobatic Steps."
 			]
 		},
@@ -2425,7 +2486,7 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Penetrating Strike)"
 			],
 			"description": [
@@ -2440,7 +2501,7 @@
 				"Mythic Penetrating Strike",
 				"Source [Mythic Adventures pg. 70](source:Mythic Adventures)",
 				"You know just how to strike to bypass even the most heavily armored foe's defenses.",
-				"**Prerequisites:** [Penetrating Strike.](unknown:Penetrating Strike.)",
+				"**Prerequisites:** [Penetrating Strike](unknown:Penetrating Strike).",
 				"**Benefit:** When using Penetrating Strike or Greater Penetrating Strike, you can ignore an additional point of damage reduction for every 3 tiers you posses. Additionally, the effects apply to damage reduction without a type (such as DR 10/-)."
 			]
 		},
@@ -2449,7 +2510,7 @@
 			"file": "featdisplaye71e.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Persuasive)"
 			],
 			"description": [
@@ -2460,7 +2521,7 @@
 				"Mythic Persuasive",
 				"Source [Mythic Adventures pg. 70](source:Mythic Adventures)",
 				"You're a master of persuasion, be it with soothing words or harsh barking commands.",
-				"**Prerequisites:** [Persuasive.](unknown:Persuasive.)",
+				"**Prerequisites:** [Persuasive](unknown:Persuasive).",
 				"**Benefit:** The bonus on Diplomacy and Intimidate skill checks granted by Persuasive increases by 2. In addition, you can expend one use of mythic power to treat a Diplomacy or Intimidate check as if you had rolled a natural 20. You must decide to use this ability before making the roll."
 			]
 		},
@@ -2472,7 +2533,7 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Pinpoint Targeting)"
 			],
 			"description": [
@@ -2487,20 +2548,21 @@
 				"Mythic Pinpoint Targeting",
 				"Source [Mythic Adventures pg. 70](source:Mythic Adventures)",
 				"Your attacks can home in on your opponent's weak spot and ignore many defenses.",
-				"**Prerequisites:** [Pinpoint Targeting.](unknown:Pinpoint Targeting.)",
+				"**Prerequisites:** [Pinpoint Targeting](unknown:Pinpoint Targeting).",
 				"**Benefit:** You can use this feat even if you move this round, but only if the distance you move is equal to or less than 5 feet per tier."
 			]
 		},
 		{
-			"name": "Point-Blank Shot",
+			"name": "Point Blank Shot",
+			"display_name": "Point-Blank Shot",
 			"file": "featdisplay999c.html",
 			"sources": [
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
-				"hasFeatureInCategory((feat),Point-Blank Shot)"
+			"requirements": [
+				"hasFeatureInCategory((feat),Point Blank Shot)"
 			],
 			"description": [
 				"Point-Blank Shot (Combat)",
@@ -2513,7 +2575,7 @@
 				"Mythic Point-Blank Shot",
 				"Source [Mythic Adventures pg. 71](source:Mythic Adventures)",
 				"Your accuracy with ranged attacks is unmatched at pointblank range.",
-				"**Prerequisites:** [Point-Blank Shot.](unknown:Point-Blank Shot.)",
+				"**Prerequisites:** [Point-Blank Shot](unknown:Point-Blank Shot).",
 				"**Benefit:** The bonus on attack and damage rolls granted by Point-Blank Shot increases to +2. As a swift action, you can expend one use of mythic power to gain an additional bonus on these rolls equal to half your tier."
 			]
 		},
@@ -2522,7 +2584,6 @@
 			"file": "featdisplayf752.html",
 			"sources": [ "Mythic Adventures" ],
 			"types": [ "General" ],
-			"prerequisites": null,
 			"description": [
 				"Potent Surge",
 				"Source [Mythic Adventures pg. 71](source:Mythic Adventures)",
@@ -2538,7 +2599,7 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Power Attack)"
 			],
 			"description": [
@@ -2553,7 +2614,7 @@
 				"Mythic Power Attack",
 				"Source [Mythic Adventures pg. 71](source:Mythic Adventures)",
 				"Your attacks are truly devastating.",
-				"**Prerequisites:** [Power Attack.](unknown:Power Attack.)",
+				"**Prerequisites:** [Power Attack](unknown:Power Attack).",
 				"**Benefit:** When you use Power Attack, you gain a +3 bonus on melee damage rolls instead of +2. When your base attack bonus reaches +4 and every 4 points thereafter, the amount of bonus damage increases by +3 instead of +2. In addition, the bonus damage from this feat is doubled on a critical hit, before it's multiplied by the weapon's critical multiplier.",
 				"You can expend one use of mythic power when you activate Power Attack to ignore the penalties on melee attack rolls and combat maneuver checks for 1 minute."
 			]
@@ -2563,7 +2624,7 @@
 			"file": "featdisplaya7ca.html",
 			"sources": [ "Ultimate Magic" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Powerful Shape)"
 			],
 			"description": [
@@ -2575,7 +2636,7 @@
 				"Mythic Powerful Shape",
 				"Source [Mythic Adventures pg. 71](source:Mythic Adventures)",
 				"The forms you take in wild shape tower over their natural counterparts.",
-				"**Prerequisites:** [Powerful Shape.](unknown:Powerful Shape.)",
+				"**Prerequisites:** [Powerful Shape](unknown:Powerful Shape).",
 				"**Benefit:** You can apply the giant simple template (quick rules version, from Pathfinder RPG Bestiary 295) to any form you take with wild shape. This replaces the benefit from Powerful Shape.",
 				"As a free action, you can expend one use of mythic power to combine the benefit from this feat with the benefit from non-mythic Powerful Shape for a number of rounds equal to your tier."
 			]
@@ -2585,7 +2646,7 @@
 			"file": "featdisplay6d03.html",
 			"sources": [ "Ultimate Magic" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Prophetic Visionary)"
 			],
 			"description": [
@@ -2597,7 +2658,7 @@
 				"Mythic Prophetic Visionary",
 				"Source [Mythic Adventures pg. 71](source:Mythic Adventures)",
 				"Your precognitive powers aid you further.",
-				"**Prerequisites:** [Prophetic Visionary.](unknown:Prophetic Visionary.)",
+				"**Prerequisites:** [Prophetic Visionary](unknown:Prophetic Visionary).",
 				"**Benefit:** You can use Prophetic Visionary's augury ability at will, spending 10 minutes in a deep trance each time. Your chance of a successful augury increases by 1% per tier. A successful augury made by using this feat also grants you the benefits of guidance, but the bonus is equal to your tier and is an insight bonus instead of a competence bonus."
 			]
 		},
@@ -2609,7 +2670,7 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Quick Draw)"
 			],
 			"description": [
@@ -2625,7 +2686,7 @@
 				"Mythic Quick Draw",
 				"Source [Mythic Adventures pg. 71](source:Mythic Adventures)",
 				"You can retrieve any item quickly, not just weapons.",
-				"**Prerequisites:** [Quick Draw.](unknown:Quick Draw.)",
+				"**Prerequisites:** [Quick Draw](unknown:Quick Draw).",
 				"**Benefit:** You can use Quick Draw to draw items of any kind, not just weapons, provided they are stored or concealed on your person. As a move action, you can expend one use of mythic power to retrieve up to two hidden items. You must have two hands free to do so."
 			]
 		},
@@ -2634,7 +2695,7 @@
 			"file": "featdisplay04bd-2.html",
 			"sources": [ "Advanced Player's Guide" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Racial Heritage)"
 			],
 			"description": [
@@ -2646,7 +2707,7 @@
 				"Mythic Racial Heritage",
 				"Source [Mythic Adventures pg. 71](source:Mythic Adventures)",
 				"Your racial heritage mingles with your mythic power to become more pronounced.",
-				"**Prerequisites:** [Racial Heritage.](unknown:Racial Heritage.)",
+				"**Prerequisites:** [Racial Heritage](unknown:Racial Heritage).",
 				"**Benefit:** You gain a single racial trait of your choice from the race you picked when you took non-mythic Racial Heritage. That racial trait can't modify your size or ability scores. You also gain the racial language of the race (if any) if you don't already know it. For races with multiple racial languages, you gain all of them."
 			]
 		},
@@ -2660,7 +2721,7 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Rapid Reload)"
 			],
 			"description": [
@@ -2678,7 +2739,7 @@
 				"Mythic Rapid Reload",
 				"Source [Mythic Adventures pg. 72](source:Mythic Adventures)",
 				"You can reload any type of weapon with astounding speed.",
-				"**Prerequisites:** [Rapid Reload.](unknown:Rapid Reload.)",
+				"**Prerequisites:** [Rapid Reload](unknown:Rapid Reload).",
 				"**Benefit:** You gain the benefits of Rapid Reload with all crossbows and firearms, not just the one you originally chose when you gained that feat. As a swift action, you can expend one use of mythic power to gain the ability to reload crossbows and firearms without provoking attacks of opportunity for 1 minute."
 			]
 		},
@@ -2690,14 +2751,14 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Rapid Shot)"
 			],
 			"description": [
 				"Rapid Shot (Combat)",
 				"Source [PRPG Core Rulebook pg. 132](source:PRPG Core Rulebook)",
 				"You can make an additional ranged attack.",
-				"**Prerequisites:** Dex 13, [Point-Blank Shot.](unknown:Point-Blank Shot.)",
+				"**Prerequisites:** Dex 13, [Point-Blank Shot](unknown:Point-Blank Shot).",
 				"**Benefit:** When making a full-attack action with a ranged weapon, you can fire one additional time this round at your highest bonus. All of your attack rolls take a -2 penalty when using Rapid Shot.",
 				"*Combat Trick* (from the [Combat Stamina](feat:Combat Stamina) feat)",
 				"Source [Pathfinder Unchained pg. 130](source:Pathfinder Unchained)",
@@ -2705,7 +2766,7 @@
 				"Mythic Rapid Shot",
 				"Source [Mythic Adventures pg. 72](source:Mythic Adventures)",
 				"You can fire many times each round with amazing precision.",
-				"**Prerequisites:** [Rapid Shot.](unknown:Rapid Shot.)",
+				"**Prerequisites:** [Rapid Shot](unknown:Rapid Shot).",
 				"**Benefit:** When using Rapid Shot, you can either ignore the feat's -2 penalty on attack rolls or make two additional attacks instead of one."
 			]
 		},
@@ -2714,40 +2775,41 @@
 			"file": "featdisplayacdb.html",
 			"sources": [ "Ultimate Combat" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Rhetorical Flourish)"
 			],
 			"description": [
 				"Rhetorical Flourish",
 				"Source [Ultimate Combat pg. 116](source:Ultimate Combat)",
 				"You rapidly change topics and employ confusing rhetoric to distract people from your true intent.",
-				"**Prerequisites:** Cha 13, [Persuasive.](unknown:Persuasive.)",
+				"**Prerequisites:** Cha 13, [Persuasive](unknown:Persuasive).",
 				"**Benefit:** When using the Diplomacy skill to make a request or change a creature's attitude, you can use verbal misdirection. To do so, make a Bluff check against that creature. If you succeed, you gain a +4 bonus on your next Diplomacy check against that creature if the check is made within the next minute. If you fail by 5 or more, you instead take a -2 penalty on your next Diplomacy check against that creature.",
 				"Alternatively, you can use this feat to retry a single failed Diplomacy check against a creature. You take a -4 penalty on your Bluff check when using Rhetorical Flourish in this way. If you succeed, rather than gaining this feat's normal bonus, you can retry your last Diplomacy check against the creature if that check was made in the past minute.",
 				"Mythic Rhetorical Flourish",
 				"Source [Mythic Adventures pg. 72](source:Mythic Adventures)",
 				"You're supremely skilled at using verbal misdirection and",
-				"**Prerequisites:** [Rhetorical Flourish.](unknown:Rhetorical Flourish.)",
+				"**Prerequisites:** [Rhetorical Flourish](unknown:Rhetorical Flourish).",
 				"**Benefit:** When you successfully use Rhetorical Flourish against a non-mythic creature, the bonus on your Diplomacy check increases by your tier. If the target is a mythic creature, you instead increase the bonus by half your tier.",
 				"You can expend one use of mythic power to reroll a single failed Bluff check. You must take the new result even if it is lower."
 			]
 		},
 		{
-			"name": "Ride-By Attack",
+			"name": "Ride By Attack",
+			"display_name": "Ride-By Attack",
 			"file": "featdisplaycbce.html",
 			"sources": [
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
-				"hasFeatureInCategory((feat),Ride-By Attack)"
+			"requirements": [
+				"hasFeatureInCategory((feat),Ride By Attack)"
 			],
 			"description": [
 				"Ride-By Attack (Combat)",
 				"Source [PRPG Core Rulebook pg. 132](source:PRPG Core Rulebook)",
 				"While mounted and charging, you can move, strike at a foe, and then continue moving.",
-				"**Prerequisites:** Ride 1 rank, [Mounted Combat.](unknown:Mounted Combat.)",
+				"**Prerequisites:** Ride 1 rank, [Mounted Combat](unknown:Mounted Combat).",
 				"**Benefit:** When you are mounted and use the charge action, you may move and attack as if with a standard charge and then move again (continuing the straight line of the charge). Your total movement for the round can't exceed double your mounted speed. You and your mount do not provoke an attack of opportunity from the opponent that you attack.",
 				"*Combat Trick* (from the [Combat Stamina](feat:Combat Stamina) feat)",
 				"Source [Pathfinder Unchained pg. 130](source:Pathfinder Unchained)",
@@ -2755,7 +2817,7 @@
 				"Mythic Ride-By Attack",
 				"Source [Mythic Adventures pg. 72](source:Mythic Adventures)",
 				"You can make multiple attacks as you ride past your enemies.",
-				"**Prerequisites:** [Ride-By Attack.](unknown:Ride-By Attack.)",
+				"**Prerequisites:** [Ride-By Attack](unknown:Ride-By Attack).",
 				"**Benefit:** When you successfully strike an opponent as part of a Ride-By Attack, you can continue to make attacks against successive targets. You can make one additional attack per 3 tiers you possess, but you can't make more attacks than you could if you were making a full attack. Successive attacks use the lower bonus for multiple attacks, as when making a full attack. You must move at least 10 feet between each attack."
 			]
 		},
@@ -2764,7 +2826,7 @@
 			"file": "featdisplay1c6f.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Run)"
 			],
 			"description": [
@@ -2776,7 +2838,7 @@
 				"Mythic Run",
 				"Source [Mythic Adventures pg. 72](source:Mythic Adventures)",
 				"You run with preternatural speed and endurance.",
-				"**Prerequisites:** [Run.](unknown:Run.)",
+				"**Prerequisites:** [Run](unknown:Run).",
 				"**Benefit:** When running, you move seven times your normal speed if wearing medium, light, or no armor and carrying no more than a medium load, or six times your speed if wearing heavy armor or carrying a heavy load. When making a jump after a running start, you gain an additional bonus equal to your tier + 4 on your Acrobatics check.",
 				"You can run normally for a number of rounds equal to your Constitution score plus your tier, but after that you must succeed at Constitution checks to continue running."
 			]
@@ -2789,14 +2851,14 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Saving Shield)"
 			],
 			"description": [
 				"Saving Shield (Combat)",
 				"Source [Advanced Player's Guide pg. 168](source:Advanced Player's Guide)",
 				"You deflect attacks that could mean your ally's death.",
-				"**Prerequisites:** [Shield Proficiency.](unknown:Shield Proficiency.)",
+				"**Prerequisites:** [Shield Proficiency](unknown:Shield Proficiency).",
 				"**Benefit:** Whenever an adjacent ally is the target of an attack, you can, as an immediate action, grant that adjacent ally a +2 shield bonus to AC. You must be wielding a light shield, heavy shield, or tower shield to use this feat.",
 				"*Combat Trick* (from the [Combat Stamina](feat:Combat Stamina) feat)",
 				"Source [Pathfinder Unchained pg. 130](source:Pathfinder Unchained)",
@@ -2804,7 +2866,7 @@
 				"Mythic Saving Shield",
 				"Source [Mythic Adventures pg. 72](source:Mythic Adventures)",
 				"Shielding a comrade from harm gives you a chance to strike back.",
-				"**Prerequisites:** [Saving Shield.](unknown:Saving Shield.)",
+				"**Prerequisites:** [Saving Shield](unknown:Saving Shield).",
 				"**Benefit:** The shield bonus you grant an ally with Saving Shield increases to +3. If you use Saving Shield to successfully negate an attack against an adjacent ally, you can immediately make an attack of opportunity against the attacker so long as it is within your melee reach."
 			]
 		},
@@ -2816,14 +2878,14 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Scorpion Style)"
 			],
 			"description": [
 				"Scorpion Style (Combat)",
 				"Source [PRPG Core Rulebook pg. 132](source:PRPG Core Rulebook)",
 				"You can perform an unarmed strike that greatly hampers your target's movement.",
-				"**Prerequisites:** [Improved Unarmed Strike.](unknown:Improved Unarmed Strike.)",
+				"**Prerequisites:** [Improved Unarmed Strike](unknown:Improved Unarmed Strike).",
 				"**Benefit:** To use this feat, you must make a single unarmed attack as a standard action. If this unarmed attack hits, you deal damage normally, and the target's base land speed is reduced to 5 feet for a number of rounds equal to your Wisdom modifier unless it makes a Fortitude saving throw (DC 10 + 1/2 your character level + your Wis modifier).",
 				"*Combat Trick* (from the [Combat Stamina](feat:Combat Stamina) feat)",
 				"Source [Pathfinder Unchained pg. 130](source:Pathfinder Unchained)",
@@ -2831,7 +2893,7 @@
 				"Mythic Scorpion Style",
 				"Source [Mythic Adventures pg. 72](source:Mythic Adventures)",
 				"Your unarmed strikes can induce a near-crippling lethargy in your enemies.",
-				"**Prerequisites:** [Scorpion Style.](unknown:Scorpion Style.)",
+				"**Prerequisites:** [Scorpion Style](unknown:Scorpion Style).",
 				"**Benefit:** Whenever you are using Scorpion Style, you add your tier to the number of rounds the target's base land speed is reduced. You can expend one use of mythic power when making your attack to slow your target, as the spell slow, unless it succeeds at a Fortitude save (DC 10 + 1/2 your character level + your Wisdom modif ier). The slowing effect supersedes the normal speed penalty of your Scorpion Strike, but lasts for an equal number of rounds."
 			]
 		},
@@ -2840,7 +2902,7 @@
 			"file": "featdisplay29d7.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Selective Channeling)"
 			],
 			"description": [
@@ -2853,17 +2915,18 @@
 				"Mythic Selective Channeling",
 				"Source [Mythic Adventures pg. 72](source:Mythic Adventures)",
 				"When you exclude creatures from your channel, you empower those you do affect.",
-				"**Prerequisites:** [Selective Channeling.](unknown:Selective Channeling.)",
+				"**Prerequisites:** [Selective Channeling](unknown:Selective Channeling).",
 				"**Benefit:** When you channel energy, the damage you heal or deal increases by a number of points equal to twice the number of targets you excluded from your channeled energy. You can expend one use of mythic power to increase the number of targets you exclude from your channeled energy by half your tier."
 			]
 		},
 		{
-			"name": "Self-Sufficient",
+			"name": "Self Sufficient",
+			"display_name": "Self-Sufficient",
 			"file": "featdisplay63ea.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
-			"prerequisites": [
-				"hasFeatureInCategory((feat),Self-Sufficient)"
+			"requirements": [
+				"hasFeatureInCategory((feat),Self Sufficient)"
 			],
 			"description": [
 				"Self-Sufficient",
@@ -2873,7 +2936,7 @@
 				"Mythic Self-Sufficient",
 				"Source [Mythic Adventures pg. 72](source:Mythic Adventures)",
 				"Independence comes naturally to you, and you have mastered taking care of yourself.",
-				"**Prerequisites:** [Self-Sufficient.](unknown:Self-Sufficient.)",
+				"**Prerequisites:** [Self-Sufficient](unknown:Self-Sufficient).",
 				"**Benefit:** The bonus on Heal and Survival skill checks from Self-Sufficient increases by 2. In addition, you can expend one use of mythic power to treat a Heal or Survival check as if you had rolled a natural 20. You must decide to use this ability before making the roll."
 			]
 		},
@@ -2885,7 +2948,7 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Shatter Defenses)"
 			],
 			"description": [
@@ -2900,7 +2963,7 @@
 				"Mythic Shatter Defenses",
 				"Source [Mythic Adventures pg. 72](source:Mythic Adventures)",
 				"Your dazzling attacks leave your opponents flummoxed and bewildered, unable to attack you or to defend themselves effectively.",
-				"**Prerequisites:** [Shatter Defenses.](unknown:Shatter Defenses.)",
+				"**Prerequisites:** [Shatter Defenses](unknown:Shatter Defenses).",
 				"**Benefit:** An opponent you affect with Shatter Defenses is flat-footed to all attacks, not just yours."
 			]
 		},
@@ -2912,7 +2975,7 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Shield Focus)"
 			],
 			"description": [
@@ -2927,7 +2990,7 @@
 				"Mythic Shield Focus",
 				"Source [Mythic Adventures pg. 73](source:Mythic Adventures)",
 				"You're a master of using your shield for protection.",
-				"**Prerequisites:** [Shield Focus.](unknown:Shield Focus.)",
+				"**Prerequisites:** [Shield Focus](unknown:Shield Focus).",
 				"**Benefit:** Add your shield bonus and your shield's enhancement bonus to your touch AC. As an immediate action, you can expend one use of mythic power to add your shield bonus and your shield's enhancement bonus on a Fortitude or Reflex save just before you roll it."
 			]
 		},
@@ -2939,7 +3002,7 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Shield Slam)"
 			],
 			"description": [
@@ -2954,7 +3017,7 @@
 				"Mythic Shield Slam",
 				"Source [Mythic Adventures pg. 73](source:Mythic Adventures)",
 				"Your shield bash produces a powerful kick.",
-				"**Prerequisites:** [Shield Slam.](unknown:Shield Slam.)",
+				"**Prerequisites:** [Shield Slam](unknown:Shield Slam).",
 				"**Benefit:** When using Shield Slam to bull rush, an opponent knocked prone because of an intervening wall or other surface also takes damage from the collision. The damage dealt is equal to 1d6 points per 2 tiers you possess. As an immediate action, you can expend one use of mythic power to add your tier to your combat maneuver checks when resolving a bull rush made due to Shield Slam."
 			]
 		},
@@ -2966,7 +3029,7 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Shot on the Run)"
 			],
 			"description": [
@@ -2992,7 +3055,10 @@
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory((feat),Skill Focus)"
+				"countFeatureInCategory((feat),Skill Focus) > countFeatureInCategory((mythic feat),Skill Focus)"
+			],
+			"requirements": [
+				"countFeatureInCategory((feat),Skill Focus) >= countFeatureInCategory((mythic feat),Skill Focus)"
 			],
 			"description": [
 				"Skill Focus",
@@ -3003,7 +3069,7 @@
 				"Mythic Skill Focus",
 				"Source [Mythic Adventures pg. 73](source:Mythic Adventures)",
 				"You mastery with this skill is unmatched, even in difficult situations.",
-				"**Prerequisites:** [Skill Focus.](unknown:Skill Focus.)",
+				"**Prerequisites:** [Skill Focus](unknown:Skill Focus).",
 				"**Benefit:** You can always take 10 or 20 on checks with your choice of skill for Skill Focus, even when you are rushed or threatened.",
 				"**Special:** You can gain this feat multiple times. The effects do not stack. Each time you take this feat, it applies to a different non-mythic Skill Focus feat."
 			]
@@ -3016,14 +3082,14 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Snatch Arrows)"
 			],
 			"description": [
 				"Snatch Arrows (Combat)",
 				"Source [PRPG Core Rulebook pg. 134](source:PRPG Core Rulebook)",
 				"Instead of knocking an arrow or ranged attack aside, you can catch it in mid-flight.",
-				"**Prerequisites:** Dex 15, [Deflect Arrows](unknown:Deflect Arrows), [Improved Unarmed Strike.](unknown:Improved Unarmed Strike.)",
+				"**Prerequisites:** Dex 15, [Deflect Arrows](unknown:Deflect Arrows), [Improved Unarmed Strike](unknown:Improved Unarmed Strike).",
 				"**Benefit:** When using the Deflect Arrows feat you may choose to catch the weapon instead of just deflecting it. Thrown weapons can immediately be thrown back as an attack against the original attacker (even though it isn't your turn) or kept for later use.",
 				"You must have at least one hand free (holding nothing) to use this feat.",
 				"*Combat Trick* (from the [Combat Stamina](feat:Combat Stamina) feat)",
@@ -3032,7 +3098,7 @@
 				"Mythic Snatch Arrows",
 				"Source [Mythic Adventures pg. 74](source:Mythic Adventures)",
 				"You can use the weapons you pluck from the air to immediately make melee attacks.",
-				"**Prerequisites:** [Snatch Arrows.](unknown:Snatch Arrows.)",
+				"**Prerequisites:** [Snatch Arrows](unknown:Snatch Arrows).",
 				"**Benefit:** When you use Snatch Arrows to catch a thrown weapon that can also be used as a melee weapon, you can make a melee attack with it as an immediate action against a foe within the weapon's melee reach. You can expend one use of mythic power to make this attack without spending an immediate action."
 			]
 		},
@@ -3041,7 +3107,7 @@
 			"file": "featdisplay993f-2.html",
 			"sources": [ "Advanced Player's Guide" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Sociable)"
 			],
 			"description": [
@@ -3053,7 +3119,7 @@
 				"Mythic Sociable",
 				"Source [Mythic Adventures pg. 74](source:Mythic Adventures)",
 				"Your easy nature flows from you without effort, putting others at ease.",
-				"**Prerequisites:** [Sociable.](unknown:Sociable.)",
+				"**Prerequisites:** [Sociable](unknown:Sociable).",
 				"**Benefit:** You grant and benefit from the +2 bonus on Diplomacy checks from Sociable constantly without having to spend a move action. You can spend a move action to increase the bonus to +4 for a number of rounds equal to your tier."
 			]
 		},
@@ -3063,7 +3129,10 @@
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory((feat),Spell Focus)"
+				"countFeatureInCategory((feat),Spell Focus) > countFeatureInCategory((mythic feat),Spell Focus)"
+			],
+			"requirements": [
+				"countFeatureInCategory((feat),Spell Focus) >= countFeatureInCategory((mythic feat),Spell Focus)"
 			],
 			"description": [
 				"Spell Focus",
@@ -3074,7 +3143,7 @@
 				"Mythic Spell Focus",
 				"Source [Mythic Adventures pg. 74](source:Mythic Adventures)",
 				"Your magical specialties are particularly effective.",
-				"**Prerequisites:** [Spell Focus.](unknown:Spell Focus.)",
+				"**Prerequisites:** [Spell Focus](unknown:Spell Focus).",
 				"**Benefit:** Choose a school of magic you already have Spell Focus in. The bonus to save DCs provided by Spell Focus and Greater Spell Focus for that school increases by 1. You can expend one use of mythic power as part of casting a spell from your chosen school to force any of the spell's targets to roll their saving throws twice, taking the lower result.",
 				"**Special:** You can gain this feat multiple times. The effects do not stack. Each time you take this feat, it applies to a different non-mythic Spell Focus feat."
 			]
@@ -3084,7 +3153,7 @@
 			"file": "featdisplaybc72.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Spell Mastery)"
 			],
 			"description": [
@@ -3097,7 +3166,7 @@
 				"Mythic Spell Mastery",
 				"Source [Mythic Adventures pg. 74](source:Mythic Adventures)",
 				"You're so familiar with certain spells you can prepare them with the greatest of ease.",
-				"**Prerequisites:** [Spell Mastery.](unknown:Spell Mastery.)",
+				"**Prerequisites:** [Spell Mastery](unknown:Spell Mastery).",
 				"**Benefit:** You can prepare spells you have selected with Spell Mastery as a full-round action. You must spend the appropriate amount of time preparing other spells you have not mastered. As a full-round action, you can expend one use of mythic power to prepare all your spells that you have selected with Spell Mastery."
 			]
 		},
@@ -3106,7 +3175,7 @@
 			"file": "featdisplayd0d6.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Spell Penetration)"
 			],
 			"description": [
@@ -3117,7 +3186,7 @@
 				"Mythic Spell Penetration",
 				"Source [Mythic Adventures pg. 74](source:Mythic Adventures)",
 				"Your mythic power breaches your enemies' defenses.",
-				"**Prerequisites:** [Spell Penetration.](unknown:Spell Penetration.)",
+				"**Prerequisites:** [Spell Penetration](unknown:Spell Penetration).",
 				"**Benefit:** Add half your tier to caster level checks to overcome spell resistance. If you have Greater Spell Penetration, add your full tier instead."
 			]
 		},
@@ -3129,7 +3198,7 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Spellbreaker)"
 			],
 			"description": [
@@ -3145,7 +3214,7 @@
 				"Mythic Spellbreaker",
 				"Source [Mythic Adventures pg. 74](source:Mythic Adventures)",
 				"You're a spellcaster's worst nightmare.",
-				"**Prerequisites:** [Spellbreaker.](unknown:Spellbreaker.)",
+				"**Prerequisites:** [Spellbreaker](unknown:Spellbreaker).",
 				"**Benefit:** Any non-mythic creature you threaten provokes an attack of opportunity from you whenever it uses a spell or spell-like ability, even when casting defensively or casting a quickened spell.",
 				"If a non-mythic creature within 30 feet of you uses a spell or spell-like ability, you can expend one use of mythic power to make a ranged attack against that creature as an attack of opportunity (even if the creature wouldn't normally provoke attacks of opportunity). You must have a ranged weapon in hand or have a free hand and the nonmythic Quick Draw feat to use this ability. You can use this ability against a mythic creature by expending two uses of mythic power."
 			]
@@ -3158,14 +3227,14 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Spirited Charge)"
 			],
 			"description": [
 				"Spirited Charge (Combat)",
 				"Source [PRPG Core Rulebook pg. 134](source:PRPG Core Rulebook)",
 				"Your mounted charge attacks deal a tremendous amount of damage.",
-				"**Prerequisites:** Ride 1 rank, [Mounted Combat](unknown:Mounted Combat), [Ride-By Attack.](unknown:Ride-By Attack.)",
+				"**Prerequisites:** Ride 1 rank, [Mounted Combat](unknown:Mounted Combat), [Ride-By Attack](unknown:Ride-By Attack).",
 				"**Benefit:** When mounted and using the charge action, you deal double damage with a melee weapon (or triple damage with a lance).",
 				"*Combat Trick* (from the [Combat Stamina](feat:Combat Stamina) feat)",
 				"Source [Pathfinder Unchained pg. 132](source:Pathfinder Unchained)",
@@ -3173,7 +3242,7 @@
 				"Mythic Spirited Charge",
 				"Source [Mythic Adventures pg. 74](source:Mythic Adventures)",
 				"Your mounted charge knocks the wind and wits from those foolish enough to stand against you.",
-				"**Prerequisites:** [Spirited Charge.](unknown:Spirited Charge.)",
+				"**Prerequisites:** [Spirited Charge](unknown:Spirited Charge).",
 				"**Benefit:** When you hit an opponent with a mounted charge, that opponent must succeed at a Fortitude saving throw (DC 10 + 1/2 your character level + your Str modifier) or be staggered for a number of rounds equal to your tier. If you use a lance with this attack, increase the saving throw DC by 2. As a free action before you make the attack, you can expend one use of mythic power to daze your opponent on a failed saving throw instead of staggering it."
 			]
 		},
@@ -3183,7 +3252,10 @@
 			"sources": [ "Ultimate Magic" ],
 			"types": [ "General" ],
 			"prerequisites": [
-				"hasFeatureInCategory((feat),Spontaneous Metafocus)"
+				"countFeatureInCategory((feat),Spontaneous Metafocus) > countFeatureInCategory((mythic feat),Spontaneous Metafocus)"
+			],
+			"requirements": [
+				"countFeatureInCategory((feat),Spontaneous Metafocus) >= countFeatureInCategory((mythic feat),Spontaneous Metafocus)"
 			],
 			"description": [
 				"Spontaneous Metafocus",
@@ -3195,7 +3267,7 @@
 				"Mythic Spontaneous Metafocus",
 				"Source [Mythic Adventures pg. 74](source:Mythic Adventures)",
 				"You apply metamagic to your spells with greater ease than do other spontaneous casters.",
-				"**Prerequisites:** [Spontaneous Metafocus.](unknown:Spontaneous Metafocus.)",
+				"**Prerequisites:** [Spontaneous Metafocus](unknown:Spontaneous Metafocus).",
 				"**Benefit:** You can change which spell your Spontaneous Metafocus feat applies to each morning when you restore your expended spell slots. The spell it applies to can be of any level, but it must be a legal selection for the Spontaneous Metafocus feat.",
 				"**Special:** You can gain this feat multiple times. The effects do not stack. Each time you take this feat, it applies to a different non-mythic Spontaneous Metafocus feat."
 			]
@@ -3208,7 +3280,7 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Spring Attack)"
 			],
 			"description": [
@@ -3233,7 +3305,7 @@
 			"file": "featdisplay01e0.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Stealthy)"
 			],
 			"description": [
@@ -3244,7 +3316,7 @@
 				"Mythic Stealthy",
 				"Source [Mythic Adventures pg. 75](source:Mythic Adventures)",
 				"Your grace and fluidity are beyond compare.",
-				"**Prerequisites:** [Stealthy.](unknown:Stealthy.)",
+				"**Prerequisites:** [Stealthy](unknown:Stealthy).",
 				"**Benefit:** The bonus on Escape Artist and Stealth skill checks from Stealthy increases by 2. In addition, you can expend one use of mythic power to treat an Escape Artist or Stealth check as if you had rolled a natural 20. You must decide to use this ability before making the roll."
 			]
 		},
@@ -3256,7 +3328,7 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Strike Back)"
 			],
 			"description": [
@@ -3271,7 +3343,7 @@
 				"Mythic Strike Back",
 				"Source [Mythic Adventures pg. 75](source:Mythic Adventures)",
 				"Your precise counterattacks degrade your foes' advantages in combat.",
-				"**Prerequisites:** [Strike Back.](unknown:Strike Back.)",
+				"**Prerequisites:** [Strike Back](unknown:Strike Back).",
 				"**Benefit:** When you make a melee attack as a readied action against a foe outside your melee reach, you can take a 5-foot step toward that foe. If you expend one use of mythic power, you can move your speed toward the foe instead. Neither of these counts toward the movement made during your turn."
 			]
 		},
@@ -3280,7 +3352,7 @@
 			"file": "featdisplayc22f.html",
 			"sources": [ "Ultimate Combat" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Strong Comeback)"
 			],
 			"description": [
@@ -3291,7 +3363,7 @@
 				"Mythic Strong Comeback",
 				"Source [Mythic Adventures pg. 75](source:Mythic Adventures)",
 				"You never make the same mistake twice.",
-				"**Prerequisites:** [Strong Comeback.](unknown:Strong Comeback.)",
+				"**Prerequisites:** [Strong Comeback](unknown:Strong Comeback).",
 				"**Benefit:** Whenever you're allowed to reroll an ability check, a skill check, or a saving throw, roll two dice and take the higher result, before adding the bonus from Strong Comeback."
 			]
 		},
@@ -3303,7 +3375,7 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Stunning Fist)"
 			],
 			"description": [
@@ -3312,14 +3384,14 @@
 				"You know just where to strike to temporarily stun a foe.",
 				"**Prerequisites:** Dex 13, Wis 13, [Improved Unarmed Strike](unknown:Improved Unarmed Strike), base attack bonus +8.",
 				"**Benefit:** You must declare that you are using this feat before you make your attack roll (thus, a failed attack roll ruins the attempt). Stunning Fist forces a foe damaged by your unarmed attack to make a Fortitude saving throw (DC 10 + 1/2 your character level + your Wis modifier), in addition to dealing damage normally. A defender who fails this saving throw is stunned for 1 round (until just before your next turn). A stunned character drops everything held, can't take actions, loses any Dexterity bonus to AC, and takes a -2 penalty to AC. You may attempt a stunning attack once per day for every four levels you have attained (but see Special), and no more than once per round. Constructs, oozes, plants, undead, incorporeal creatures, and creatures immune to critical hits cannot be stunned.",
-				"**Special:** A monk receives Stunning Fist as a bonus feat at 1st level, even if he does not meet the prerequisites. A monk may attempt a stunning attack a number of times per day equal to his monk level, plus one more time per day for every four levels he has in classes other than monk.",
+				"**Special:** A monk receives Stunning Fist as a bonus feat at 1st level, even if he does not meet the requirements. A monk may attempt a stunning attack a number of times per day equal to his monk level, plus one more time per day for every four levels he has in classes other than monk.",
 				"*Combat Trick* (from the [Combat Stamina](feat:Combat Stamina) feat)",
 				"Source [Pathfinder Unchained pg. 133](source:Pathfinder Unchained)",
 				"You can spend 5 stamina points to declare that you are using Stunning Fist after you've hit with an unarmed strike.",
 				"Mythic Stunning Fist",
 				"Source [Mythic Adventures pg. 75](source:Mythic Adventures)",
 				"With greater potency and frequency, your fists stun those who stand against you.",
-				"**Prerequisites:** [Stunning Fist.](unknown:Stunning Fist.)",
+				"**Prerequisites:** [Stunning Fist](unknown:Stunning Fist).",
 				"**Benefit:** The DC of your Stunning Fist increases by half your tier, and you can use Stunning Fist multiple times during the same round. As a free action, you can expend one use of your mythic power to use Stunning Fist without spending one of your daily uses of the feat."
 			]
 		},
@@ -3331,7 +3403,7 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Throw Anything)"
 			],
 			"description": [
@@ -3346,7 +3418,7 @@
 				"Mythic Throw Anything",
 				"Source [Mythic Adventures pg. 75](source:Mythic Adventures)",
 				"You're so skilled at throwing weapons that it hardly matters what you throw.",
-				"**Prerequisites:** [Throw Anything.](unknown:Throw Anything.)",
+				"**Prerequisites:** [Throw Anything](unknown:Throw Anything).",
 				"**Benefit:** You gain a +2 bonus on attack rolls and damage rolls made using an improvised thrown weapon or splash weapon. This bonus stacks with the bonus from the non-mythic Throw Anything feat. If you miss with a thrown splash weapon, it always lands adjacent to its target regardless of how many range increments it was thrown."
 			]
 		},
@@ -3355,14 +3427,14 @@
 			"file": "featdisplayf975.html",
 			"sources": [ "Mythic Adventures" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((mythic feat),Improved Unarmed Strike)"
 			],
 			"description": [
 				"Titan Strike",
 				"Source [Mythic Adventures pg. 75](source:Mythic Adventures)",
 				"Your fists can fell titanic foes.",
-				"**Prerequisites:** [Improved Unarmed Strike (mythic).](unknown:Improved Unarmed Strike (mythic).)",
+				"**Prerequisites:** [Improved Unarmed Strike (mythic)](unknown:Improved Unarmed Strike (mythic)).",
 				"**Benefit:** Your unarmed strike deals damage as if you were one size category larger. You also gain a +1 bonus for each size category that your target is larger than you on the following: bull rush, drag, grapple, overrun, sunder, and trip combat maneuver checks and the DC of your Stunning Fist."
 			]
 		},
@@ -3371,7 +3443,7 @@
 			"file": "featdisplay1698.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Toughness)"
 			],
 			"description": [
@@ -3382,7 +3454,7 @@
 				"Mythic Toughness",
 				"Source [Mythic Adventures pg. 75](source:Mythic Adventures)",
 				"You have legendary resilience and durability.",
-				"**Prerequisites:** [Toughness.](unknown:Toughness.)",
+				"**Prerequisites:** [Toughness](unknown:Toughness).",
 				"**Benefit:** Toughness provides you twice as many hit points. In addition, when you're below 0 hit points, you gain DR 10/epic. This DR stacks with any other DR/epic you might possess."
 			]
 		},
@@ -3394,14 +3466,14 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Trample)"
 			],
 			"description": [
 				"Trample (Combat)",
 				"Source [PRPG Core Rulebook pg. 136](source:PRPG Core Rulebook)",
 				"While mounted, you can ride down opponents and trample them under your mount.",
-				"**Prerequisites:** Ride 1 rank, [Mounted Combat.](unknown:Mounted Combat.)",
+				"**Prerequisites:** Ride 1 rank, [Mounted Combat](unknown:Mounted Combat).",
 				"**Benefit:** When you attempt to overrun an opponent while mounted, your target may not choose to avoid you. Your mount may make one hoof attack against any target you knock down, gaining the standard +4 bonus on attack rolls against prone targets.",
 				"*Combat Trick* (from the [Combat Stamina](feat:Combat Stamina) feat)",
 				"Source [Pathfinder Unchained pg. 134](source:Pathfinder Unchained)",
@@ -3409,7 +3481,7 @@
 				"Mythic Trample",
 				"Source [Mythic Adventures pg. 75](source:Mythic Adventures)",
 				"Your rearing mount can stomp foes into the ground, barely",
-				"**Prerequisites:** [Trample.](unknown:Trample.)",
+				"**Prerequisites:** [Trample](unknown:Trample).",
 				"**Benefit:** Your mount can make two hoof attacks against an opponent you knock down with an overrun, instead of one. You can expend one use of mythic power when you score a critical hit with one or more of those hoof attacks. When you do, the critical is automatically confirmed. If both scored critical hits, expending one use of mythic power automatically confirms both."
 			]
 		},
@@ -3421,7 +3493,7 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Tripping Staff)"
 			],
 			"description": [
@@ -3437,7 +3509,7 @@
 				"Mythic Tripping Staff",
 				"Source [Mythic Adventures pg. 75](source:Mythic Adventures)",
 				"Your staff is valuable for attack and defensive balance.",
-				"**Prerequisites:** [Tripping Staff.](unknown:Tripping Staff.)",
+				"**Prerequisites:** [Tripping Staff](unknown:Tripping Staff).",
 				"**Benefit:** You add half your tier to CMD against trip maneuvers and on combat maneuver checks to trip with a quarterstaff. When you're wielding a quarterstaff and an opponent you threaten attempts to trip you and fails, it provokes an attack of opportunity from you. You must use your staff for this attack of opportunity."
 			]
 		},
@@ -3446,7 +3518,7 @@
 			"file": "featdisplay3841.html",
 			"sources": [ "PRPG Core Rulebook" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Turn Undead)"
 			],
 			"description": [
@@ -3458,43 +3530,45 @@
 				"Mythic Turn Undead",
 				"Source [Mythic Adventures pg. 75](source:Mythic Adventures)",
 				"The power of your divine energy can not only cause undead to flee but also destroy them where they stand.",
-				"**Prerequisites:** [Turn Undead.](unknown:Turn Undead.)",
+				"**Prerequisites:** [Turn Undead](unknown:Turn Undead).",
 				"**Benefit:** When you use Turn Undead, the range increases by 10 feet per tier, and non-mythic undead take a penalty on their saving throws equal to your tier.",
 				"You can expend one use of mythic power when using Turn Undead to destroy undead. Instead of fleeing, undead that fail their saves might be destroyed. You destroy 2d4 Hit Dice worth of undead per tier. Undead with the fewest HD are affected first; among undead with equal HD, those that are closest to the burst's point of origin are affected first. No undead of 9 or more HD can be affected, and HD that aren't sufficient to affect an undead are wasted."
 			]
 		},
 		{
-			"name": "Two-Fisted Drinker",
+			"name": "Two Fisted Drinker",
+			"display_name": "Two-Fisted Drinker",
 			"file": "featdisplay29d6.html",
 			"sources": [ "Mythic Adventures" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Quick Draw)"
 			],
 			"description": [
 				"Two-Fisted Drinker",
 				"Source [Mythic Adventures pg. 76](source:Mythic Adventures)",
 				"You can pound down drinks with amazing verve.",
-				"**Prerequisites:** [Quick Draw.](unknown:Quick Draw.)",
+				"**Prerequisites:** [Quick Draw](unknown:Quick Draw).",
 				"**Benefit:** You can draw two potions or other beverages-mundane or magical-from a pouch, bandolier, or similar holder (but not from a backpack) as a move action. As a standard action, you can drink two potions or other beverages. You must have two free hands to use this feat."
 			]
 		},
 		{
-			"name": "Two-Weapon Defense",
+			"name": "Two Weapon Defense",
+			"display_name": "Two-Weapon Defense",
 			"file": "featdisplaybe56.html",
 			"sources": [
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
-				"hasFeatureInCategory((feat),Two-Weapon Defense)"
+			"requirements": [
+				"hasFeatureInCategory((feat),Two Weapon Defense)"
 			],
 			"description": [
 				"Two-Weapon Defense (Combat)",
 				"Source [PRPG Core Rulebook pg. 136](source:PRPG Core Rulebook)",
 				"You are skilled at defending yourself while dual-wielding.",
-				"**Prerequisites:** Dex 15, [Two-Weapon Fighting.](unknown:Two-Weapon Fighting.)",
+				"**Prerequisites:** Dex 15, [Two-Weapon Fighting](unknown:Two-Weapon Fighting).",
 				"**Benefit:** When wielding a double weapon or two weapons (not including natural weapons or unarmed strikes), you gain a +1 shield bonus to your AC. When you are fighting defensively or using the total defense action, this shield bonus increases to +2.",
 				"*Combat Trick* (from the [Combat Stamina](feat:Combat Stamina) feat)",
 				"Source [Pathfinder Unchained pg. 135](source:Pathfinder Unchained)",
@@ -3502,20 +3576,21 @@
 				"Mythic Two-Weapon Defense",
 				"Source [Mythic Adventures pg. 76](source:Mythic Adventures)",
 				"Your graceful flow between attack and defense makes you difficult to hit.",
-				"**Prerequisites:** [Two-Weapon Defense.](unknown:Two-Weapon Defense.)",
+				"**Prerequisites:** [Two-Weapon Defense](unknown:Two-Weapon Defense).",
 				"**Benefit:** When using Two-Weapon Defense, you apply the highest enhancement bonus from your two weapons to the shield bonus granted by that feat."
 			]
 		},
 		{
-			"name": "Two-Weapon Fighting",
+			"name": "Two Weapon Fighting",
+			"display_name": "Two-Weapon Fighting",
 			"file": "featdisplay3992.html",
 			"sources": [
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
-				"hasFeatureInCategory((feat),Two-Weapon Fighting)"
+			"requirements": [
+				"hasFeatureInCategory((feat),Two Weapon Fighting)"
 			],
 			"description": [
 				"Two-Weapon Fighting (Combat)",
@@ -3530,20 +3605,21 @@
 				"Mythic Two-Weapon Fighting",
 				"Source [Mythic Adventures pg. 76](source:Mythic Adventures)",
 				"With deft strikes, you gain an advantage over your foes beyond mere damage.",
-				"**Prerequisites:** [Two-Weapon Fighting.](unknown:Two-Weapon Fighting.)",
+				"**Prerequisites:** [Two-Weapon Fighting](unknown:Two-Weapon Fighting).",
 				"**Benefit:** As an immediate action, you can expend one use of mythic power to negate the penalties on attack rolls for two-weapon fighting for a number of rounds equal to your tier."
 			]
 		},
 		{
-			"name": "Two-Weapon Rend",
+			"name": "Two Weapon Rend",
+			"display_name": "Two-Weapon Rend",
 			"file": "featdisplay5bbe.html",
 			"sources": [
 				"PRPG Core Rulebook",
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
-				"hasFeatureInCategory((feat),Two-Weapon Rend)"
+			"requirements": [
+				"hasFeatureInCategory((feat),Two Weapon Rend)"
 			],
 			"description": [
 				"Two-Weapon Rend (Combat)",
@@ -3557,7 +3633,7 @@
 				"Mythic Two-Weapon Rend",
 				"Source [Mythic Adventures pg. 76](source:Mythic Adventures)",
 				"Your synchronized dual attacks are even more dangerous, and can leave lasting wounds.",
-				"**Prerequisites:** [Two-Weapon Rend.](unknown:Two-Weapon Rend.)",
+				"**Prerequisites:** [Two-Weapon Rend](unknown:Two-Weapon Rend).",
 				"**Benefit:** The damage of your Two-Weapon Rend increases to 2d8 points plus twice your Strength modifier. You can expend one use of mythic power to gain a bonus on this damage equal to twice your tier."
 			]
 		},
@@ -3566,7 +3642,7 @@
 			"file": "featdisplay5378.html",
 			"sources": [ "Ultimate Magic" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Undead Master)"
 			],
 			"description": [
@@ -3578,7 +3654,7 @@
 				"Mythic Undead Master",
 				"Source [Mythic Adventures pg. 76](source:Mythic Adventures)",
 				"Through your fearsome mythic nature, you have matchless power over the undead.",
-				"**Prerequisites:** [Undead Master.](unknown:Undead Master.)",
+				"**Prerequisites:** [Undead Master](unknown:Undead Master).",
 				"**Benefit:** When you cast animate dead or use the Command Undead feat, add your tier to your caster level when determining the number of Hit Dice of undead you animate. This stacks with the increased caster level of Undead Master. When you cast command undead, your duration is tripled rather than doubled."
 			]
 		},
@@ -3590,7 +3666,7 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Unseat)"
 			],
 			"description": [
@@ -3605,7 +3681,7 @@
 				"Mythic Unseat",
 				"Source [Mythic Adventures pg. 76](source:Mythic Adventures)",
 				"You knock your opponents down from their mounts with frightening concussive force.",
-				"**Prerequisites:** [Unseat.](unknown:Unseat.)",
+				"**Prerequisites:** [Unseat](unknown:Unseat).",
 				"**Benefit:** When you successfully bull rush an opponent off his mount with Unseat, your opponent takes 1d6 points of falling damage per 2 tiers you possess. Items or abilities that reduce falling damage, such as a successful Acrobatics check, can reduce the damage dealt by the impact."
 			]
 		},
@@ -3614,9 +3690,9 @@
 			"file": "featdisplayfc18.html",
 			"sources": [ "Mythic Adventures" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"getScore(ride ranks) >= 5",
-				"hasFeatureAllInCategory((feat),Mounted Combat,Ride-By Attack)"
+				"hasFeatureAllInCategory((feat),Mounted Combat,Ride By Attack)"
 			],
 			"description": [
 				"Valiant Vault",
@@ -3635,7 +3711,7 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Vital Strike)"
 			],
 			"description": [
@@ -3650,7 +3726,7 @@
 				"Mythic Vital Strike",
 				"Source [Mythic Adventures pg. 77](source:Mythic Adventures)",
 				"You can strike your foes with incredible force.",
-				"**Prerequisites:** [Vital Strike.](unknown:Vital Strike.)",
+				"**Prerequisites:** [Vital Strike](unknown:Vital Strike).",
 				"**Benefit:** Whenever you use Vital Strike, Improved Vital Strike, or Greater Vital Strike, multiply the Strength bonus, magic bonus, and other bonuses that would normally be multiplied on a critical hit by the number of weapon damage dice you roll for that feat.",
 				"Extra damage from sources that wouldn't normally be multiplied on a critical hit isn't multiplied by this feat."
 			]
@@ -3660,7 +3736,7 @@
 			"file": "featdisplay6176.html",
 			"sources": [ "Ultimate Magic" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Voice of the Sibyl)"
 			],
 			"description": [
@@ -3672,7 +3748,7 @@
 				"Mythic Voice of the Sibyl",
 				"Source [Mythic Adventures pg. 77](source:Mythic Adventures)",
 				"You overpower weaker and more vulnerable minds with your voice alone.",
-				"**Prerequisites:** [Voice of the Sibyl.](unknown:Voice of the Sibyl.)",
+				"**Prerequisites:** [Voice of the Sibyl](unknown:Voice of the Sibyl).",
 				"**Benefit:** You gain a +1 bonus on all Bluff, Diplomacy, and Perform (oratory) skill checks for every 3 tiers you possess. This bonus stacks with the bonus from Voice of the Sibyl. If you have 10 or more ranks in at least two of these skills, gain a +2 bonus to the DC of any language-dependent spell you cast."
 			]
 		},
@@ -3681,7 +3757,7 @@
 			"file": "featdisplay9331.html",
 			"sources": [ "Ultimate Magic" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Warrior Priest)"
 			],
 			"description": [
@@ -3693,7 +3769,7 @@
 				"Mythic Warrior Priest",
 				"Source [Mythic Adventures pg. 77](source:Mythic Adventures)",
 				"Your faith speeds you in battle and further strengthens your mind and confidence.",
-				"**Prerequisites:** [Warrior Priest.](unknown:Warrior Priest.)",
+				"**Prerequisites:** [Warrior Priest](unknown:Warrior Priest).",
 				"**Benefit:** You gain a bonus equal to half your tier both on initiative checks and on concentration checks to cast a spell or use a spell-like ability when casting defensively or while grappled. These bonuses stack with the bonuses from Warrior Priest."
 			]
 		},
@@ -3705,7 +3781,7 @@
 				"Pathfinder Unchained"
 			],
 			"types": [ "Combat" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Weapon Finesse)"
 			],
 			"description": [
@@ -3720,7 +3796,7 @@
 				"Mythic Weapon Finesse",
 				"Source [Mythic Adventures pg. 77](source:Mythic Adventures)",
 				"You're an expert with weapons that rely on your agility.",
-				"**Prerequisites:** [Weapon Finesse.](unknown:Weapon Finesse.)",
+				"**Prerequisites:** [Weapon Finesse](unknown:Weapon Finesse).",
 				"**Benefit:** When using Weapon Finesse, you may also use your Dexterity modifier instead of your Strength modifier on your damage rolls. If you carry a shield, its armor check penalty doesn't apply to either the attack rolls or the damage rolls."
 			]
 		},
@@ -3733,7 +3809,10 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory((feat),Weapon Focus)"
+				"countFeatureInCategory((feat),Weapon Focus) > countFeatureInCategory((mythic feat),Weapon Focus)"
+			],
+			"requirements": [
+				"countFeatureInCategory((feat),Weapon Focus) >= countFeatureInCategory((mythic feat),Weapon Focus)"
 			],
 			"description": [
 				"Weapon Focus (Combat)",
@@ -3748,7 +3827,7 @@
 				"Mythic Weapon Focus",
 				"Source [Mythic Adventures pg. 77](source:Mythic Adventures)",
 				"You're a master of one type of weapon.",
-				"**Prerequisites:** [Weapon Focus.](unknown:Weapon Focus.)",
+				"**Prerequisites:** [Weapon Focus](unknown:Weapon Focus).",
 				"**Benefit:** Double the bonuses on your attack rolls from Weapon Focus and Greater Weapon Focus. As a swift action, you can expend one use of mythic power to gain a bonus on attack rolls with your selected weapon equal to half your tier until the end of your turn.",
 				"**Special:** If you have taken non-mythic Weapon Focus multiple times, you must choose which of those feats this enhances. You can take this feat multiple times. The effects do not stack. Each time you take this feat, it applies to a different non-mythic Weapon Focus feat you have."
 			]
@@ -3762,7 +3841,10 @@
 			],
 			"types": [ "Combat" ],
 			"prerequisites": [
-				"hasFeatureInCategory((feat),Weapon Specialization)"
+				"countFeatureInCategory((feat),Weapon Specialization) > countFeatureInCategory((mythic feat),Weapon Specialization)"
+			],
+			"requirements": [
+				"countFeatureInCategory((feat),Weapon Specialization) >= countFeatureInCategory((mythic feat),Weapon Specialization)"
 			],
 			"description": [
 				"Weapon Specialization (Combat)",
@@ -3777,7 +3859,7 @@
 				"Mythic Weapon Specialization",
 				"Source [Mythic Adventures pg. 77](source:Mythic Adventures)",
 				"The damage you deal with your chosen weapon is truly awesome to behold.",
-				"**Prerequisites:** [Weapon Specialization.](unknown:Weapon Specialization.)",
+				"**Prerequisites:** [Weapon Specialization](unknown:Weapon Specialization).",
 				"**Benefit:** When using your chosen weapon, you gain a bonus equal to half your tier on damage rolls. This stacks with the bonus from Weapon Specialization and Greater Weapon Specialization.",
 				"**Special:** If you have taken non-mythic Weapon Specialization multiple times, you must choose which of those feats this enhances. You can take this feat multiple times. The effects do not stack. Each time you take this feat, it applies to a different non-mythic Weapon Specialization feat you have."
 			]
@@ -3787,7 +3869,7 @@
 			"file": "featdisplay6b87.html",
 			"sources": [ "Ultimate Magic" ],
 			"types": [ "General" ],
-			"prerequisites": [
+			"requirements": [
 				"hasFeatureInCategory((feat),Witch Knife)"
 			],
 			"description": [
@@ -3799,7 +3881,7 @@
 				"Mythic Witch Knife",
 				"Source [Mythic Adventures pg. 77](source:Mythic Adventures)",
 				"Your witch knife is as much an extension of your body as it is an extension of your power.",
-				"**Prerequisites:** [Witch Knife.](unknown:Witch Knife.)",
+				"**Prerequisites:** [Witch Knife](unknown:Witch Knife).",
 				"**Benefit:** You can use your witch knife as an additional focus component for all your witch spells, not just your patron spells, adding 1 to their DC. This bonus stacks with the bonus to patron spells granted by Witch Knife, granting your patron spells a total +2 bonus to their DC. Additionally, the hand holding the witch knife is still considered free for the purpose of casting spells and delivering touch attacks."
 			]
 		}
