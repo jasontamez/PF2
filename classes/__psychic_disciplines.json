@@ -1,5 +1,7 @@
 {
-	"sources": [ "Occult Adventures" ],
+	"sources": [
+		"Occult Adventures"
+	],
 	"description": [
 		"The following disciplines represent those most commonly chosen by psychics. Followers of a discipline might come to it in a variety of different ways, and though some might join together in orders, others follow personal, singular interpretations of the discipline."
 	],
@@ -8,139 +10,436 @@
 			"name": "Abomination",
 			"file": "psychicdisciplinesdisplay1020.html",
 			"pool_stat": "charisma",
-			"short_description": "Your mind is impure, tainted by outside forces."
+			"short_description": "Your mind is impure, tainted by outside forces.",
+			"info": [
+				"Abomination - Disciplines - Psychic",
+				"Abomination",
+				"Source <a href=\"http://paizo.com/products/btpy9egu?Pathfinder-Roleplaying-Game-Occult-Adventures\">Occult Adventures pg. 64</a>",
+				"Your mind is impure, tainted by outside forces. These might be monstrous ancestors whose blood still flows within you, or powerful and unknowable psychic forces that intrude upon your mind. Like a psychic disease, this influence consumes part of your brain, creating a dark counterpart to your normal self. Every time you call forth a psychic spell, you're drawing on this dangerous force-and potentially giving it a greater hold on you. This malign influence might stem from creatures like rakshasas and aboleths, or perhaps malign entities that dwell in the voids between the stars.",
+				"Phrenic Pool Ability: Charisma",
+				"Bonus Spells: <a href=\"spelldisplay4c35.html?ItemName=Ray%20of%20Enfeeblement\">ray of enfeeblement</a> (1st), <a href=\"spelldisplaydd4d.html?ItemName=Alter%20Self\">alter self</a> (4th), <a href=\"spelldisplay5a10.html?ItemName=Excruciating%20Deformation\">excruciating deformation</a> (6th), <a href=\"spelldisplay9496.html?ItemName=Black%20Tentacles\">black tentacles</a> (8th), <a href=\"spelldisplayf92b.html?ItemName=Explode%20Head\">explode head</a> (10th), <a href=\"spelldisplay2d90.html?ItemName=Repulsion\">repulsion</a> (12th), <a href=\"spelldisplay038c.html?ItemName=Insanity\">insanity</a> (14th), <a href=\"spelldisplay1d0e.html?ItemName=Orb%20of%20the%20Void\">orb of the void</a> (16th), <a href=\"spelldisplay68f6.html?ItemName=Telekinetic%20Storm\">telekinetic storm</a> (18th).",
+				"Discipline Powers: Your powers allow the dark influences to take over, and it can be difficult to come back from the brink.",
+				"Dark Half (Su): By allowing the dark forces to overcome you, you can enter a state of instinctual cruelty as a swift action. While you're manifesting your dark half, you increase the DCs of your psychic spells by 1, gain a +2 morale bonus on Will saves, and become immune to fear effects. Whenever you cast a spell that deals damage while manifesting your dark half, you can cause one creature that took damage from the spell to also take 1 point of bleed damage. The amount of bleed damage increases to 2 points at 5th level and to 1d6 points at 13th level. While manifesting your dark half, you can't use any Charisma-, Dexterity-, or Intelligence-based skills (except Acrobatics, Fly, Intimidate, and Ride) or any ability that requires patience or concentration other than casting spells using psychic magic, using phrenic amplifications, or attempting to return to normal. You can attempt to return to your normal self as a free action, but must succeed at a concentration check with a DC equal to 10 + your caster level. If you fail, you continue to manifest your dark half and can't attempt to change back for 1 round. You can manifest your dark half for a number of rounds per day equal to 3 + 1/2 your psychic level + your Charisma modifier; when these rounds are expended, you return to your normal self without requiring a concentration check.",
+				"Morphic Form (Ex): At 5th level, while manifesting your dark half, you gain DR 5. This damage reduction can be overcome by a random type of damage each time you manifest your dark half, determined by rolling on the table below.",
+				"<table class=\"inner\"><tr><td>d%</td><td>Damage Reduction</td></tr> <tr><td>1-35</td><td>DR 5/bludgeoning</td></tr> <tr><td>36-60</td><td>DR 5/cold iron</td></tr> <tr><td>61-100</td><td>DR 5/magic</td></tr></table>",
+				"Psychic Safeguard (Su): At 13th level, you project constant mental defenses, gaining spell resistance equal to 8 + your caster level. While manifesting your dark half, this spell resistance increases to 16 + your caster level."
+			]
 		},
 		{
 			"name": "Bleaching",
 			"file": "psychicdisciplinesdisplay5b1d.html",
 			"pool_stat": "wisdom",
-			"short_description": "You draw power from a void in your emotions, a yawning and empty chasm where your hopes and dreams and fears should be."
+			"short_description": "You draw power from a void in your emotions, a yawning and empty chasm where your hopes and dreams and fears should be.",
+			"info": [
+				"Bleaching - Disciplines - Psychic",
+				"Bleaching",
+				"Source <a href=\"http://paizo.com/products/btpy9xdr?Pathfinder-Player-Companion-Heroes-from-the-Fringe\">Heroes from the Fringe pg. 18</a>",
+				"You draw power from a void in your emotions, a yawning and empty chasm where your hopes and dreams and fears should be. It is very rare for any creature besides a gnome to have this psychic discipline-usually a bleachling or a gnome with a particularly strong fear of the Bleaching-but in occasional cases members of other races have been known to develop such a strong nihilistic ennui or depression that they can tap into the vitality-draining effects of this discipline as well.",
+				"Phrenic Pool Ability: Wisdom",
+				"Bonus Spells: <a href=\"spelldisplay56e9.html?ItemName=Decrepit%20Disguise\">decrepit disguise</a> (1st), <a href=\"spelldisplay0b04.html?ItemName=Steal%20Voice\">steal voice</a> (4th), <a href=\"spelldisplayd41a.html?ItemName=Cup%20of%20Dust\">cup of dust</a> (6th), <a href=\"spelldisplay538e.html?ItemName=Enervation\">enervation</a> (8th), <a href=\"spelldisplay9c18.html?ItemName=Pessimism\">pessimism</a> (10th), <a href=\"spelldisplay6382.html?ItemName=Disintegrate\">disintegrate</a> (12th), <a href=\"spelldisplayd32c.html?ItemName=Waves%20of%20Exhaustion\">waves of exhaustion</a> (14th), greater spell immunity (16th), <a href=\"spelldisplay1d8d.html?ItemName=Energy%20Drain\">energy drain</a> (18th).",
+				"Discipline Powers: Your emotional malaise combines with your psychic ability to allow you to drain the vibrancy from the world around you.",
+				"Draining Touch: As a standard action, you can make a melee touch attack to drain vitality from a creature. If the attack hits, the target must succeed at a Fortitude save (DC = 10 + half your psychic level + your Wisdom modifier) or take 1d2 points of Charisma damage. If a creature is affected, the colors of its skin, hair, and eyes dull and become less vibrant. Whether or not the save is successful, a creature cannot be the target of this power again for 24 hours. You regain 1 point in your phrenic pool each time you successfully drain a creature this way. You can use this ability a number of times per day equal to your Wisdom modifier.",
+				"Emotionally Distant: At 5th level, your emotions have atrophied such that you rarely have any genuine feelings at all. You gain a +4 bonus on saving throws to resist charm, emotion, and fear effects.",
+				"Drain Vibrancy: At 13th level, you can drain the color and vitality from the world around you. Three times per day, as a standard action you can drain vibrancy within a 30-foot radius, causing the area and all creatures within it to become pale and sallow. Each living creature in the area must succeed at a Fortitude save (DC = 10 + half your psychic level + your Wisdom modifier) or take 1 temporary negative level as their life force drains away. If you're at least 17th level, a creature that fails its saving throw takes 2 temporary negative levels instead."
+			]
 		},
 		{
 			"name": "Dream",
 			"file": "psychicdisciplinesdisplayf711.html",
 			"pool_stat": "charisma",
-			"short_description": "You discover deeper and more powerful corners of your mind through journeys you make in your dreams."
+			"short_description": "You discover deeper and more powerful corners of your mind through journeys you make in your dreams.",
+			"info": [
+				"Dream - Disciplines - Psychic",
+				"Dream",
+				"Source <a href=\"http://paizo.com/products/btpy9egu?Pathfinder-Roleplaying-Game-Occult-Adventures\">Occult Adventures pg. 65</a>",
+				"You discover deeper and more powerful corners of your mind through journeys you make in your dreams. Your consciousness expands outward into other dreaming minds, allowing you to explore the psychic landscapes of unconsciousness or regions of nightmare and horror.",
+				"Phrenic Pool Ability: Charisma",
+				"Bonus Spells: <a href=\"spelldisplay7a94.html?ItemName=Sleep\">sleep</a> (1st), <a href=\"spelldisplay0783.html?ItemName=Oneiric%20Horror\">oneiric horror</a> (4th), <a href=\"spelldisplay9620.html?ItemName=Deep%20Slumber\">deep slumber</a> (6th), <a href=\"spelldisplay194e.html?ItemName=Sleepwalk\">sleepwalk</a> (8th), <a href=\"spelldisplaydb50.html?ItemName=Nightmare\">nightmare</a> (10th), <a href=\"spelldisplay1d9e.html?ItemName=Cloak%20of%20Dreams\">cloak of dreams</a> (12th), <a href=\"spelldisplay4709.html?ItemName=Ethereal%20Jaunt\">ethereal jaunt</a> (14th), <a href=\"spelldisplay4cca.html?ItemName=Dream%20Voyage\">dream voyage</a> (16th), <a href=\"spelldisplay22b4.html?ItemName=Microcosm\">microcosm</a> (18th).",
+				"Discipline Powers: Your mind can powerfully influence dreaming consciousnesses.",
+				"Dream Leech (Su): While adjacent to a sleeping or unconscious creature, you can take a swift action to siphon that creature's dreams, thereby learning new things about your own mind. The creature can attempt a Will save to negate this effect; such creatures are never considered willing. Creatures that don't dream are immune to this effect. If the subject fails the save, you gain a +4 bonus on your next Bluff, Diplomacy, or Intimidate check against the subject within the next 24 hours, and you regain 1 point in your phrenic pool. You can use this ability a number of times per day equal to your Charisma modifier, but no more than once per hour and no more than once per creature per day.",
+				"Oneiromancy (Su): As a standard action, you can tamper with the minds of sleeping creatures. You plant a subconscious thought in a sleeping creature's mind by attempting a Diplomacy or Intimidate check to modify the sleeping creature's attitude or request a service from it. If you succeed, when the creature wakes it behaves in the way you dictated with the normal restrictions for the Diplomacy or Intimidate skill. The target of oneiromancy remains unaware of this manipulation, though if you fail your Diplomacy check the subject might have its starting attitude toward you negatively impacted, as normal. You must be adjacent to the sleeping creature to use this ability. Alternatively, you can use this ability as part of the casting of dream, minor dream, or nightmare. In this case, the oneiromancy effect takes place when the spell is cast. You can use this ability a number of times per day equal to 3 + your Charisma modifier. Creatures that don't dream are immune to this effect.",
+				"Mind Heist (Sp): At 5th level, you can delve into the subconscious mind of a sleeping target. You can cast detect thoughts as a spell-like ability on any adjacent sleeping creature. Additionally, you can gain the benefit of detect thoughts on a target of your dream, minor dream, or nightmare spells as if you had studied the target for 3 rounds. If you cast dream scan (see page 166), you know whether you received false information from the dream. A successful Will save negates mind heist. You can use this ability a number of times per day equal to your Charisma modifier.",
+				"Waking Dream (Sp): At 13th level, as a standard action, you can take control of the body of a sleeping creature within 30 feet for 1 hour per level. This ability functions like magic jar, except that your soul travels directly into the sleeping target with no receptacle necessary and the target creature's consciousness remains dreaming and unaware of its body's actions. When waking dream ends or the host body is destroyed, you immediately wake up in your body regardless of the distance from the host body, provided your body hasn't been destroyed. You can use this ability a number of times per day equal to your Charisma bonus. Creatures that don't dream are immune to this effect."
+			]
 		},
 		{
 			"name": "Enlightenment",
 			"file": "psychicdisciplinesdisplay484c.html",
 			"pool_stat": "wisdom",
-			"short_description": "Your quest for enlightenment has opened your eyes to new concepts and heights of spiritual awareness."
+			"short_description": "Your quest for enlightenment has opened your eyes to new concepts and heights of spiritual awareness.",
+			"info": [
+				"Enlightenment - Disciplines - Psychic",
+				"Enlightenment",
+				"Source <a href=\"http://paizo.com/products/btpy9grw?Pathfinder-Player-Companion-Occult-Origins\">Occult Origins pg. 16</a>",
+				"Your quest for enlightenment has opened your eyes to new concepts and heights of spiritual awareness. You seek learning that allows you to evolve in mind and spirit, improving your next incarnation.",
+				"Phrenic Pool Ability: Wisdom",
+				"Bonus Spells: <a href=\"spelldisplay722f.html?ItemName=Acute%20Senses\">acute senses</a> (1st), <a href=\"spelldisplayaf63.html?ItemName=Identify\">identify</a> (4th), <a href=\"spelldisplay3517.html?ItemName=Clairaudience/Clairvoyance\">clairaudience/clairvoyance</a> (6th), <a href=\"spelldisplay9cbc.html?ItemName=Thoughtsense\">thoughtsense</a> (8th), <a href=\"spelldisplayfab3.html?ItemName=Atonement\">atonement</a> (10th), greater arcane sight (12th), <a href=\"spelldisplay0911.html?ItemName=Circle%20of%20Clarity\">circle of clarity</a> (14th), <a href=\"spelldisplayfb92.html?ItemName=Protection%20from%20Spells\">protection from spells</a> (16th), <a href=\"spelldisplay098b.html?ItemName=Overwhelming%20Presence\">overwhelming presence</a> (18th).",
+				"Discipline Powers: Your enlightened mind eases your burden and allows troubles to harmlessly wash over you.",
+				"Expanded Awareness (Su): As a move action, you can focus on your senses and gain one of the following sensory abilities: blindsense (10 feet), darkvision (30 feet), low-light vision, or scent. This new sense lasts for 1 round per psychic level. You can use this ability a number of times per day equal to your Wisdom modifier. At 11th level, you can use expanded awareness to gain see in darkness or thoughtsense (20 feet). At 15th level, you can use it to gain lifesense.",
+				"Patient Insight (Ex): When you attempt a Heal, Knowledge, Sense Motive, or Survival check, you can spend 1 point from your phrenic pool to roll the check twice and take the higher result.",
+				"Focused Trance (Ex): At 5th level, you can enter a deep meditation, allowing you to concentrate on a single problem, philosophical issue, or memory. This trance lasts 1d6 rounds, during which time you can take only move actions and gain a bonus equal to your psychic level on all saves against sonic effects and gaze attacks. When you come out of your trance, you can attempt a single Appraise, Knowledge, or Spellcraft check with a +20 circumstance bonus. You can enter a focused trance a number of times per day equal to your Wisdom modifier.",
+				"Empty Mind (Su): At 13th level, you can clear your mind by focusing on a sense of emptiness, purging yourself of doubt and discomfort. You can spend 1 point from your phrenic pool on your turn as a free action to remove the blinded, confused, dazed, deafened, staggered, or stunned condition from yourself."
+			]
 		},
 		{
 			"name": "Faith",
 			"file": "psychicdisciplinesdisplay1565.html",
 			"pool_stat": "wisdom",
-			"short_description": "Your belief in a higher power fuels your psychic abilities."
+			"short_description": "Your belief in a higher power fuels your psychic abilities.",
+			"info": [
+				"Faith - Disciplines - Psychic",
+				"Faith",
+				"Source <a href=\"http://paizo.com/products/btpy9egu?Pathfinder-Roleplaying-Game-Occult-Adventures\">Occult Adventures pg. 65</a>",
+				"Your belief in a higher power fuels your psychic abilities. Whether your mental abilities truly come to you as a divine gift or are simply enhanced by the power of your belief, none can say. In many ways, you resemble a divine caster, and prayers often factor into your casting of psychic spells.",
+				"Phrenic Pool Ability: Wisdom",
+				"Bonus Spells: <a href=\"spelldisplayae01.html?ItemName=Bless\">bless</a> (1st), <a href=\"spelldisplay212d.html?ItemName=Spiritual%20Weapon\">spiritual weapon</a> (4th), <a href=\"spelldisplaya9d1.html?ItemName=Magic%20Vestment\">magic vestment</a> (6th), <a href=\"spelldisplay58d2.html?ItemName=Guardian%20of%20Faith\">guardian of faith</a> (8th), <a href=\"spelldisplaya33d.html?ItemName=Commune\">commune</a> (10th), <a href=\"spelldisplayf6b4.html?ItemName=Psychic%20Surgery\">psychic surgery</a> (12th), greater scrying (14th), greater planar ally (16th), <a href=\"spelldisplay2e34.html?ItemName=Miracle\">miracle</a> (18th).",
+				"Discipline Powers: Your powers serve to protect or cure you and your allies.",
+				"Deity (Ex): At 1st level, choose a deity to worship. Your alignment must remain within one step of your deity's or you lose access to all this discipline's bonus spells and discipline powers.",
+				"Divine Energy: You can channel spell energy into cure or inflict spells. This ability functions similarly to the cleric's ability to spontaneously cast cure or inflict spells, and the type of spells you can convert depends on your alignment in the same way. The cure or inflict spells don't count as being on your psychic spell list for the purposes of any other effects. Each day, you can convert up to one spell from each spell level you can cast. Each time you use this ability to convert a spell, you regain 1 point in your phrenic pool. The maximum number of points you can regain in this way per day is equal to your Wisdom modifier.",
+				"Resilience of the Faithful (Su): At 5th level, you gain a +2 resistance bonus on all saving throws. This bonus increases by 1 for every 5 levels you possess beyond 5th.",
+				"Prayer Aura (Su): At 13th level, as a free action, you can extend an aura around you to bolster your allies and make your enemies less effective. You can use this aura for a number of rounds per day equal to your psychic level. These rounds don't need to be consecutive. This functions as the prayer spell, granting your allies a +1 luck bonus on attack rolls, weapon damage rolls, saves, and skill checks and imposing a -1 penalty on your enemies' rolls of those types. If you are chaotic, lawful, good, or evil, the penalty from your aura changes to -2 against creatures of an opposing alignment. The penalty doesn't change further for a creature that opposes you on two alignment axes (such as a chaotic evil creature fighting a lawful good psychic)."
+			]
 		},
 		{
 			"name": "Ferocity",
 			"file": "psychicdisciplinesdisplayde9c.html",
 			"pool_stat": "wisdom",
-			"short_description": "You are in touch with the most primal part of your subconscious."
+			"short_description": "You are in touch with the most primal part of your subconscious.",
+			"info": [
+				"Ferocity - Disciplines - Psychic",
+				"Ferocity",
+				"Source <a href=\"http://paizo.com/products/btpy9ujo\">Ultimate Wilderness pg. 92</a>",
+				"You are in touch with the most primal part of your subconscious. Your training allows you to unlock animalistic senses and powers.",
+				"Phrenic Pool Ability: Wisdom",
+				"Bonus Spells: <a href=\"spelldisplayced9.html?ItemName=Anticipate%20Peril\">anticipate peril</a> (1st), <a href=\"spelldisplayab34.html?ItemName=Bull's%20Strength\">bull's strength</a> (4th), <a href=\"spelldisplay4670.html?ItemName=Heroism\">heroism</a> (6th), <a href=\"spelldisplaya0df.html?ItemName=Freedom%20of%20Movement\">freedom of movement</a> (8th), <a href=\"spelldisplayb346.html?ItemName=Stoneskin\">stoneskin</a> (10th), <a href=\"spelldisplayef48.html?ItemName=Transformation\">transformation</a> (12th), greater arcane sight (14th), <a href=\"spelldisplay218d.html?ItemName=Mind%20Blank\">mind blank</a> (16th), <a href=\"spelldisplay66d1.html?ItemName=Foresight\">foresight</a> (18th).",
+				"Discipline Powers: Through your psychic training, you can unleash the most animalistic portions of your subconscious, enhancing your senses and physical capabilities.",
+				"Enhanced Senses (Ex): Your mind can process sensory stimuli with exceptional efficiency, awakening you to a world most humanoids cannot comprehend. You gain scent as per the universal monster rule. You can spend 1 point from your phrenic pool as a standard action to amplify your sense of smell, gaining blindsense with a range of 30 feet for 1 minute. At 11th level, your blindsense is continuously active, and you can spend 1 point from your phrenic pool as a standard action to gain blindsight with a range of 30 feet for 1 minute.",
+				"Survival Instinct (Ex): Through sheer willpower, you can keep your body going longer than should be possible. You add your Wisdom bonus (minimum +1) to your Constitution score to determine the negative hit point total at which you die, and as a bonus on Constitution checks to become stable or regain consciousness.",
+				"Ferocity (Ex): At 5th level, you cling to life with increasing ferocity. You gain ferocity as per the universal monster rule. Whenever you have 0 hit points or negative hit points, you gain a +4 morale bonus to your Strength and Dexterity, as well as a +2 morale bonus on Fortitude saves. At 8th level, you are not staggered when you have 0 hit points or negative hit points, and you automatically stabilize when you have negative hit points.",
+				"Primal Fury (Su): At 13th level, you can unleash a more primal version of yourself as a free action. This functions as transformation, with the following exceptions. You can use this ability for a number of rounds per day equal to your psychic level. These rounds do not need to be consecutive. You can end the effect as a free action. After using this ability, you are fatigued for a number of rounds equal to twice the number of rounds spent in primal fury. You cannot enter a new primal fury while fatigued or exhausted. If you fall unconscious, your primal fury immediately ends."
+			]
 		},
 		{
 			"name": "Hag-Called",
 			"file": "psychicdisciplinesdisplayef6c.html",
 			"pool_stat": "charisma",
-			"short_description": "A hag's call echoes through your mind like a siren's song, enticing you to surrender and become something horrible."
+			"short_description": "A hag's call echoes through your mind like a siren's song, enticing you to surrender and become something horrible.",
+			"info": [
+				"Hag-Called - Disciplines - Psychic",
+				"Hag-Called",
+				"Source <a href=\"http://paizo.com/products/btpy9s3z?Pathfinder-Player-Companion-Blood-of-the-Coven\">Blood of the Coven pg. 23</a>",
+				"A hag's call echoes through your mind like a siren's song, enticing you to surrender and become something horrible. Even after you've resisted the call or even killed your hag mother, those echoes remain, shaping your mind into something else and telling you who you were meant to be. While you're almost certainly a changeling, you might be a latent psychic who came into accidental psychic contact with a hag's call through a changeling associate, or your dreams might have long been infested by a night hag's machinations.",
+				"Phrenic Pool Ability: Charisma",
+				"Bonus Spells: <a href=\"spelldisplay3c6a.html?ItemName=Ill%20Omen\">ill omen</a> (1st), <a href=\"spelldisplayd4c1.html?ItemName=Enthrall\">enthrall</a> (4th), <a href=\"spelldisplay4414.html?ItemName=Bestow%20Curse\">bestow curse</a> (6th), <a href=\"spelldisplay4670-2.html?ItemName=Charm%20Monster\">charm monster</a> (8th), <a href=\"spelldisplay26ab.html?ItemName=Threefold%20Aspect\">threefold aspect</a> (10th), <a href=\"spelldisplay1ac4.html?ItemName=Veil\">veil</a> (12th), <a href=\"spelldisplay7f97.html?ItemName=Control%20Weather\">control weather</a> (14th), <a href=\"spelldisplayb6a2.html?ItemName=Trap%20the%20Soul\">trap the soul</a> (16th), <a href=\"spelldisplay538d.html?ItemName=Dominate%20Monster\">dominate monster</a> (18th).",
+				"Discipline Powers: The echoes of the hag's call shapes the psychic potential of your mind, granting you exceptional abilities that might one day exceed the hag's own.",
+				"Threefold Casting (Ex): While you cannot join a true witch's coven, you are nonetheless skilled at casting magic in conjunction with others. You gain a +2 insight bonus on skill checks for ritual magic in which you have at least two secondary casters. In addition, whenever you are within 30 feet of another hag, psychic, or witch, you can use the aid another action to grant a +1 bonus to the other spellcaster's caster level for 1 round.",
+				"Mother's Embrace (Su): The hag's call grows stronger as you grow more desperate, promising protection and release if only you would succumb. When you would fail a Will save, you can add 1d4 to your result; whether or not this causes you to succeed at the saving throw, you take 2 points of Wisdom damage. When you perform an act of cruelty, you regain 1 phrenic pool point. You can use each aspect of this ability a number of times per day equal to your Charisma modifier.",
+				"Deceptive Shapes (Su): At 5th level, you learn the hag's art of concealing your true face to get what you want. You can change into any Small or Medium humanoid at will as alter self, though you don't gain any special abilities or ability score adjustments. You can't replicate a specific person using this ability.",
+				"Curse Mastery (Sp): At 13th level, you have made the accursed magic of the hags your own. You become immune to spells of the curse subschool and curse effects. Furthermore, the DCs of your spells with the curse descriptor increase by 1, and you can apply the overpowering mind and synaptic shock phrenic amplifications to spells with the curse descriptor so long as you have learned those amplifications."
+			]
 		},
 		{
 			"name": "Haunted",
 			"file": "psychicdisciplinesdisplayef7f.html",
 			"pool_stat": "charisma",
-			"short_description": "You attract the attention of spirits as naturally as a lodestone attracts iron filings."
+			"short_description": "You attract the attention of spirits as naturally as a lodestone attracts iron filings.",
+			"info": [
+				"Haunted - Disciplines - Psychic",
+				"Haunted",
+				"Source <a href=\"http://paizo.com/products/btpy9nft?Pathfinder-Player-Companion-Haunted-Heroes-Handbook\">Haunted Heroes Handbook pg. 18</a>",
+				"You attract the attention of spirits as naturally as a lodestone attracts iron filings. Testing your power leads you to develop some control over undead forces, despite the inherent defenses such creatures have against psychic abilities. Meanwhile, those spirits clinging to your life essence become increasingly protective, channeling their abilities to aid you and warn of threats. Psychics of this discipline are most common in Ustalav and Shenmen, where so many spirits are stuck in the transition between life and death.",
+				"Phrenic Pool Ability: Charisma",
+				"Bonus Spells: <a href=\"spelldisplay7d9d.html?ItemName=Detect%20Undead\">Detect undead</a> (1st), calm spirit (4th), <a href=\"spelldisplay963b.html?ItemName=Halt%20Undead\">halt undead</a> (6th), speak with haunt  (8th), <a href=\"spelldisplay0a45.html?ItemName=Disrupting%20Weapon\">disrupting weapon</a> (10th), <a href=\"spelldisplay496c.html?ItemName=Undeath%20to%20Death\">undeath to death</a> (12th), <a href=\"spelldisplay4709.html?ItemName=Ethereal%20Jaunt\">ethereal jaunt</a> (14th), greater possession (16th), <a href=\"spelldisplayfdb2.html?ItemName=Etherealness\">etherealness</a> (18th).",
+				"Discipline Powers: Your powers interact with the spiritual world, attracting the attention of minor spirits and undead.",
+				"Lingering Spirits (Sp): Numerous minor spirits find themselves attracted to you. Your connection with these spirits allows you to manifest any of the following spell-like abilities as a swift action: mage hand, ghost sound, grave words, or telekinetic projectile. You can use this  ability a number of times per day equal to 3 + your Charisma modifier.",
+				"Spiritual Bulwark (Su): At 5th level, you develop a deeper attachment to your lingering spirits, and learn to rely on their presence as protection from external spiritual attacks. You gain a bonus equal to your Charisma modifier on saving throws against effects generated by haunts, incorporeal undead, incorporeal outsiders, and on saving throws against possession attempts.",
+				"Phantasmal Assault (Su): At 13th level, you learn to harness your psychic force against all forms of haunts and undead creatures. Your mind-affecting spells that deal damage can now be used against haunts and undead normally immune to mind-affecting effects (including mindless undead). These spells are treated as though they dealt positive energy damage. This affects only spells that deal purely psychic-based damage (such as psychic crush, mind thrust, or synapse overload); effects based on physical effects (such as telekinetic projectile or telekinetic storm) don't benefit from this ability. Additional non-damaging effects from such spells don't affect the haunt, unless it would be normally affected. When you use a mind-affecting effect that deals damage against a possessed creature, the possessing entity takes a -4 penalty on the saving throw against the mind-affecting attack."
+			]
 		},
 		{
 			"name": "Lore",
 			"file": "psychicdisciplinesdisplayd63b.html",
 			"pool_stat": "wisdom",
-			"short_description": "By collecting expert information and reading all sorts of treatises and chapbooks on occult subjects, you learn proper techniques and rituals to empower your mental abilities."
+			"short_description": "By collecting expert information and reading all sorts of treatises and chapbooks on occult subjects, you learn proper techniques and rituals to empower your mental abilities.",
+			"info": [
+				"Lore - Disciplines - Psychic",
+				"Lore",
+				"Source <a href=\"http://paizo.com/products/btpy9egu?Pathfinder-Roleplaying-Game-Occult-Adventures\">Occult Adventures pg. 66</a>",
+				"By collecting expert information and reading all sorts of treatises and chapbooks on occult subjects, you learn proper techniques and rituals to empower your mental abilities. Your abilities become stronger through study and science, not instinct.",
+				"Phrenic Pool Ability: Wisdom",
+				"Bonus Spells: <a href=\"spelldisplayf5cf.html?ItemName=Comprehend%20Languages\">comprehend languages</a> (1st), <a href=\"spelldisplay73b0.html?ItemName=Hypercognition\">hypercognition</a> (4th), <a href=\"spelldisplay7874.html?ItemName=Dispel%20Magic\">dispel magic</a> (6th), <a href=\"spelldisplay8abb.html?ItemName=Mind%20Probe\">mind probe</a> (8th), <a href=\"spelldisplay9892.html?ItemName=Retrocognition\">retrocognition</a> (10th), <a href=\"spelldisplay39d0.html?ItemName=Legend%20Lore\">legend lore</a> (12th), greater arcane sight (14th), <a href=\"spelldisplay444b.html?ItemName=Moment%20of%20Prescience\">moment of prescience</a> (16th), <a href=\"spelldisplay045e.html?ItemName=Divide%20Mind\">divide mind</a> (18th).",
+				"Discipline Powers: Your powers relate to your extensive knowledge and your ability to alter and adapt your memory.",
+				"Illuminating Answers (Su): You can glean deeper truths from advice you magically obtain, even if the information itself is specious. When you use a spell or spell-like ability that allows you to get answers to questions (such as augury, blood biography, or contact other plane) and get at least one answer, you regain 1 point in your phrenic pool. You regain this point even if the answer is false or vague. The maximum number of points you can regain in this way per day is equal to your Wisdom modifier.",
+				"Mnemonic Cache (Su): You can memorize a piece of information and later recall it perfectly. Your mnemonic cache can hold roughly 10 pages of written information, including images and maps, or 30 minutes' worth of speech or music. (Memorizing music doesn't confer the ability to perform it properly.) The amount you can store increases by 5 pages and 5 minutes at 2nd level, and at every psychic level thereafter. You can hold only one piece of information in your mnemonic cache at a time. The information doesn't go away when you recall it, but when you put a new piece of information in the cache, the old piece becomes as imperfect any other memory. Memorizing magical writing (such as a scroll or a page from a spellbook) doesn't confer the ability to borrow, duplicate, or retain any of the magic in the writing. You could reproduce the spell in writing to allow someone who prepares spells from a spellbook to prepare it, though this functions as using a borrowed spellbook for anyone other than you. If you're in telepathic contact with another creature (through telepathic bond, for example), you can transfer the information directly into its mind as a free action. For this creature, the information functions like a normal memory, not one with perfect clarity.",
+				"You can attempt to sequester a written magical trap (such as explosive runes or sepia snake sigil) in your mnemonic cache and destroy it. Treat this as a Disable Device check to disarm a magical trap (as though you had the trapfinding class feature). Your bonus on this roll is equal to either your Disable Device modifier or the sum of 5 + your psychic level + your Wisdom modifier, whichever is higher. If you succeed, instead of being disabled, the trap is erased and destroyed. This ability can't destroy symbol traps; it functions only if written text is involved.",
+				"Superior Automatic Writing (Ex): At 5th level, when attempting checks for the automatic writing occult skill unlock (see page 194), you can treat your psychic level + your Wisdom bonus as your number of Linguistics skill ranks. At 8th level, you gain an additional option when using automatic writing, and can attempt a DC 35 check to gain information as though you-d used commune instead of augury or divination. This type of commune requires no material component, and the duration equals 1 round per psychic class level you possess. You connect to a distant being of great intellect, a fragment of the Akashic Record (see page 244), or a similar bastion of knowledge instead of to a deity.",
+				"Memory Palace (Su): At 13th level, you mentally construct an extradimensional library to house mental constructs representing the volumes of lore you've studied. This ability functions as mage's magnificent mansion, with the following adjustments: the memory palace is limited in size to a number of 10-foot cubes equal to your psychic level; your memory palace doesn't contain any furniture other than bookcases and a few desks and sofas where you and your visitors can study; and there is no food within, though the memory palace does contain a number of unseen servants equal to 1/2 your psychic level, which function solely as librarians. The library keeps the same layout each time you summon it, though you can alter its appearance each time you gain a level or by spending 15 minutes concentrating. You can reshape the memory palace in your mind, so it doesn't need to currently be in effect for you to alter it. You can create your memory palace once per day.",
+				"Choose one type of Knowledge skill when you gain this ability. Consulting your memory palace gives anyone who studies within-including you-a +4 circumstance bonus on Knowledge checks of that type, and the memory palace counts as an extensive library for people attempting Knowledge checks of that type untrained. You gain a +2 circumstance bonus on checks with the chosen skill when you're not consulting the palace (including when the palace isn't in effect). At 14th level and at each additional level thereafter, choose another Knowledge skill to which your memory palace's library bonuses apply."
+			]
 		},
 		{
 			"name": "Mindtech",
 			"file": "psychicdisciplinesdisplay8744.html",
 			"pool_stat": "wisdom",
-			"short_description": "You are innately tied to and can communicate with electronic machinery and similar technological objects, through which you can funnel your psychic power like flowing water."
+			"short_description": "You are innately tied to and can communicate with electronic machinery and similar technological objects, through which you can funnel your psychic power like flowing water.",
+			"info": [
+				"Mindtech - Disciplines - Psychic",
+				"Mindtech",
+				"Source <a href=\"http://paizo.com/products/btpy9hdt?Pathfinder-Campaign-Setting-Occult-Realms\">Occult Realms pg. 13</a>",
+				"You are innately tied to and can communicate with electronic machinery and similar technological objects, through which you can funnel your psychic power like flowing water. You can amplify and focus your psychic energies using the technology that surrounds you- even certain kinds of technology that might not be obvious to others.",
+				"Phrenic Pool Ability: Wisdom",
+				"Bonus Spells: <a href=\"spelldisplay2b8c.html?ItemName=Technomancy\">technomancy</a> (1st), <a href=\"spelldisplay5b02.html?ItemName=Protection%20from%20Technology\">protection from technology</a> (4th), <a href=\"spelldisplaye97a.html?ItemName=Irradiate\">irradiate</a> (6th), <a href=\"spelldisplaye533.html?ItemName=Malfunction\">malfunction</a> (8th), <a href=\"spelldisplay975d.html?ItemName=Lightning%20Arc\">lightning arc</a> (10th), <a href=\"spelldisplayea58.html?ItemName=Destroy%20Robot\">destroy robot</a> (12th), <a href=\"spelldisplay08b2.html?ItemName=Memory%20of%20Function\">memory of function</a> (14th), <a href=\"spelldisplayae25.html?ItemName=Prismatic%20Wall\">prismatic wall</a> (16th), <a href=\"spelldisplay3c2c.html?ItemName=Time%20Stop\">time stop</a> (18th).",
+				"Discipline Powers: Your powers relate to uniting technology with psychic energy.",
+				"Synergized Energy (Su): Whenever you use a battery (Technology Guide 39), a generator (Technology Guide 62), or the ability described in the psychic battery psi-tech discovery (see above) to restore charges to any piece of technological equipment, you regain 1 point in your phrenic pool. The maximum number of points you can regain in your phrenic pool in this way per day is equal to your Wisdom modifier.",
+				"Attune Implants (Su): Starting at 5th level, you can spend a full-round action once per day to harness and channel the power of your cybernetic implants into your psychic spellcasting. This increases the saving throw DCs of your psychic spells by 1, and the increase lasts a number of minutes equal to your psychic level. You must have at least one piece of cybertech (Technology Guide 35) implanted in you to use this ability. Additional implants do not increase the duration or the number of uses of this discipline ability.",
+				"Dominate Technology (Sp): At 13th level, you can meld your mind with a piece of technology and temporarily control it, even if you had no hand in creating it or anything like it. Once per day, you can target one construct with control construct (as per the spell), except the DC of the Spellcraft check each round to maintain control of the construct is equal to 15 + the construct's HD. If you must attempt opposed Spellcraft checks against the construct's creator, you take a -5 penalty on your Spellcraft checks while you concentrate on this ability."
+			]
 		},
 		{
 			"name": "Pageantry",
 			"file": "psychicdisciplinesdisplay8c69.html",
 			"pool_stat": "charisma",
-			"short_description": "The act of ritual, no matter how ostentatious, can be a route to mental strength."
+			"short_description": "The act of ritual, no matter how ostentatious, can be a route to mental strength.",
+			"info": [
+				"Pageantry - Disciplines - Psychic",
+				"Pageantry",
+				"Source <a href=\"http://paizo.com/products/btpy9nda?Pathfinder-Player-Companion-Heroes-of-the-High-Court\">Heroes of the High Court pg. 16</a>",
+				"The act of ritual, no matter how ostentatious, can be a route to mental strength. By engaging in esoteric and intricate routines, you have unlocked potent psychic power.",
+				"Phrenic Pool Ability: Charisma",
+				"Bonus Spells: <a href=\"spelldisplayae01.html?ItemName=Bless\">bless</a> (1st), <a href=\"spelldisplay3e33.html?ItemName=Calm%20Emotions\">calm emotions</a> (4th), <a href=\"spelldisplay4015.html?ItemName=Slow\">slow</a> (6th), overwhelming presence (8th), <a href=\"spelldisplay73fb.html?ItemName=Seeming\">seeming</a> (10th), <a href=\"spelldisplaya467.html?ItemName=Heroes'%20Feast\">heroes' feast</a> (12th), <a href=\"spelldisplay686c.html?ItemName=Mage's%20Magnificent%20Mansion\">mage's magnificent mansion</a> (14th), divine vessel (16th), heroic invocation (18th).",
+				"Discipline Powers: Your mastery of intricate rituals allows you to wield great power, given time.",
+				"Ritual Unity (Su): You receive a +2 bonus on all skill checks attempted as part of an occult ritual (Pathfinder RPG Occult Adventures 208). When you take the aid another action to assist an ally with a skill check and succeed at a DC 20 check, you impart a +4 bonus to your ally instead. When you successfully aid an ally in this way, you regain 1 point in your phrenic pool.",
+				"Power from Pageantry (Su): When casting a spell with a casting time of 1 standard action or less, you can spend 1 point from your phrenic pool to extend the casting time to 1 full round. If you do, the caster level and saving throw DC increase by 2.",
+				"Force of Habit (Su): At 5th level, you are so accustomed to complex tasks that you can maintain focus on multiple mental foci simultaneously. If you spend 1 point from your phrenic pool as you cast a psychic spell that requires concentration, you can maintain concentration on that spell as a swift action. In addition, you can cast other psychic spells while concentrating on that spell.",
+				"Unrivaled Focus (Su): At 13th level, your powers of concentration become unmatched. Whenever you attempt a concentration check, you can spend 1 point from your phrenic pool to treat the result of your die roll as a 20. You must choose to use this ability before rolling the check."
+			]
 		},
 		{
 			"name": "Pain",
 			"file": "psychicdisciplinesdisplayd29b.html",
 			"pool_stat": "charisma",
-			"short_description": "Mental blocks prevent your immense inborn psychic energies from flowing freely."
+			"short_description": "Mental blocks prevent your immense inborn psychic energies from flowing freely.",
+			"info": [
+				"Pain - Disciplines - Psychic",
+				"Pain",
+				"Source <a href=\"http://paizo.com/products/btpy9egu?Pathfinder-Roleplaying-Game-Occult-Adventures\">Occult Adventures pg. 67</a>",
+				"Mental blocks prevent your immense inborn psychic energies from flowing freely. They are unleashed only when you suffer pain.",
+				"Phrenic Pool Ability: Charisma",
+				"Bonus Spells: <a href=\"spelldisplayf935.html?ItemName=Persuasive%20Goad\">persuasive goad</a> (1st), <a href=\"spelldisplaydb39.html?ItemName=Pain%20Strike\">pain strike</a> (4th), <a href=\"spelldisplayd360.html?ItemName=Vampiric%20Touch\">vampiric touch</a> (6th), mass pain strike (8th), <a href=\"spelldisplay0381.html?ItemName=Synapse%20Overload\">synapse overload</a> (10th), mass inflict pain (12th), <a href=\"spelldisplayd32c.html?ItemName=Waves%20of%20Exhaustion\">waves of exhaustion</a> (14th), <a href=\"spelldisplay4154-2.html?ItemName=Horrid%20Wilting\">horrid wilting</a> (16th), mass suffocation (18th).",
+				"Discipline Powers: Your powers allow you to cause and endure pain.",
+				"Painful Reminder (Su): As a swift action, you can cause an enemy to take 1d6 points of nonlethal damage if you dealt damage to that enemy with a spell since the start of your previous turn. You can use this ability a number of times per day equal to 3 + your Charisma modifier. This damage increases to 2d6 at 8th level and to 3d6 at 15th level.",
+				"Power from Pain (Su): If your painful reminder deals at least 5 points of damage, you regain 1 point in your phrenic pool. The maximum number of points you can regain in this way per day is equal to your Wisdom modifier.",
+				"Live On (Sp): At 5th level, you can use lay on hands as though you were a paladin of 3 levels lower than your psychic level. You also gain access to mercies as though you were a paladin of 3 levels lower than your psychic level. You can target only yourself with lay on hands or mercies gained from this discipline. This stacks with lay on hands abilities gained from other sources.",
+				"Agonizing Wound (Su): At 13th level, whenever you cast a spell that deals damage to a creature, you can also make that creature frightened or sickened (your choice) for a number of rounds equal to your Charisma modifier. If you expend two uses of this ability, you can instead have the creature become dazed, nauseated, or panicked for 1 round. The creature can attempt a Will saving throw to negate this effect. You can use this ability a number of times per day equal to 3 + your Charisma modifier. This is a mind-affecting pain effect."
+			]
 		},
 		{
 			"name": "Psychedelia",
 			"file": "psychicdisciplinesdisplay1899.html",
 			"pool_stat": "wisdom",
-			"short_description": "You ingest hallucinogens to expand your mind."
+			"short_description": "You ingest hallucinogens to expand your mind.",
+			"info": [
+				"Psychedelia - Disciplines - Psychic",
+				"Psychedelia",
+				"Source <a href=\"http://paizo.com/products/btpy9egu?Pathfinder-Roleplaying-Game-Occult-Adventures\">Occult Adventures pg. 67</a>",
+				"You ingest hallucinogens to expand your mind. Experimentation and study show you which ones will have the greatest effect. Your psychedelic forays put you into a different mental space from others, and normal people don't really understand you.",
+				"Phrenic Pool Ability: Wisdom",
+				"Bonus Spells: <a href=\"spelldisplay708d.html?ItemName=Polypurpose%20Panacea\">polypurpose panacea</a> (1st), <a href=\"spelldisplayf51d.html?ItemName=Mad%20Hallucination\">mad hallucination</a> (4th), <a href=\"spelldisplay48cd.html?ItemName=Synesthesia\">synesthesia</a> (6th), <a href=\"spelldisplaya744.html?ItemName=Confusion\">confusion</a> (8th), <a href=\"spelldisplay3478.html?ItemName=Mirage%20Arcana\">mirage arcana</a> (10th), <a href=\"spelldisplay4228.html?ItemName=Joyful%20Rapture\">joyful rapture</a> (12th), <a href=\"spelldisplay2f52.html?ItemName=Waves%20of%20Ecstasy\">waves of ecstasy</a> (14th), <a href=\"spelldisplay45eb.html?ItemName=Euphoric%20Tranquility\">euphoric tranquility</a> (16th), <a href=\"spelldisplay3269.html?ItemName=Astral%20Projection\">astral projection</a> (18th).",
+				"Discipline Powers: You distort your own mind and perceptions, and can impress your altered states onto others.",
+				"Drug Resistance (Ex): When you ingest drugs, you take half as much ability damage (minimum 1). You also gain a +4 bonus on saving throws to avoid becoming addicted to a drug or to overcome being addicted (Pathfinder RPG GameMastery Guide 236).",
+				"Cognatogen (Su): Once per day, you can create a cognatogen, a mutagen-like mixture that heightens one mental ability score at the expense of a physical ability score. When you imbibe a cognatogen, you gain a +2 natural armor bonus and a +4 alchemical bonus to the selected ability score for 1 minute per psychic level. In addition, while the cognatogen is in effect, you take a -2 penalty to one of your physical ability scores. If the cognatogen enhances your Intelligence, it applies a penalty to your Strength. If it enhances your Wisdom, it applies a penalty to your Dexterity. If it enhances your Charisma, it applies a penalty to your Constitution. Otherwise, this ability works just like the alchemist's mutagen ability (Pathfinder RPG Advanced Player's Guide 28). When the effect of the cognatogen ends, you take 2 points of ability damage to the ability score penalized by the cognatogen. If you have both alchemist and psychic levels, these levels stack to determine the duration of your cognatogen and the DC of the save a non-alchemist must attempt if he drinks your cognatogen. If you gain discoveries, you can take the grand cognatogen and greater cognatogen discoveries to improve your cognatogen. The infuse mutagen discovery and the persistent mutagen class ability apply to cognatogens. However, even if you have alchemist levels, the duration of your cognatogen remains 1 minute per level (instead of 10 minutes per level) and you can still create only one per day (instead of an unlimited number) unless you also possess the cognatogen discovery.",
+				"Warped Brain (Su): At 5th level, your mind becomes difficult to comprehend. When another creature uses a mind-affecting spell or ability against you, that creature must attempt a Will save. If it fails, it becomes nauseated for 1 round. This ability triggers even if you succeed at your save (or are otherwise unaffected by the spell or ability), but doesn't apply if you're a willing subject of the spell. This is a mind-affecting effect.",
+				"Hallucinogenic Aura (Su): At 13th level, a mental field emanates from you, touching the minds of those nearby. Any creature within 30 feet of you must succeed at a Will save or be confused for 1d4 rounds. A creature that succeeds at its saving throw is immune to your hallucinogenic aura for 24 hours. A creature that fails its save doesn't need to continue making saves while it's confused by this aura, and becomes immune for 24 hours once its confusion ends. This is a mind-affecting effect. You're immune to your own hallucinogenic aura, as well as that of any other psychic. You can brew an antidote that protects the imbiber from your aura. Brewing 1 dose requires 1 hour and a successful DC 15 Craft (alchemy) check. One dose's effects last for 1 month."
+			]
 		},
 		{
 			"name": "Rapport",
 			"file": "psychicdisciplinesdisplay7ad7.html",
 			"pool_stat": "charisma",
-			"short_description": "Forging a close bond with other people brings out the best in you, making it easier for you to link your mind with theirs."
+			"short_description": "Forging a close bond with other people brings out the best in you, making it easier for you to link your mind with theirs.",
+			"info": [
+				"Rapport - Disciplines - Psychic",
+				"Rapport",
+				"Source <a href=\"http://paizo.com/products/btpy9egu?Pathfinder-Roleplaying-Game-Occult-Adventures\">Occult Adventures pg. 68</a>",
+				"Forging a close bond with other people brings out the best in you, making it easier for you to link your mind with theirs. Through bonding your psyche with another person, you're able to fill in your own mental gaps and develop new psychic powers.",
+				"Phrenic Pool Ability: Charisma",
+				"Bonus Spells: <a href=\"spelldisplay697d.html?ItemName=Charm%20Person\">charm person</a> (1st), <a href=\"spelldisplayd4c1.html?ItemName=Enthrall\">enthrall</a> (4th), <a href=\"spelldisplay539e.html?ItemName=Coordinated%20Effort\">coordinated effort</a> (6th), lesser geas (8th), <a href=\"spelldisplay0b82.html?ItemName=Telepathy\">telepathy</a> (10th), <a href=\"spelldisplay5e41.html?ItemName=Battlemind%20Link\">battlemind link</a> (12th), mass hold person (14th), mass charm monster (16th), <a href=\"spelldisplay098b.html?ItemName=Overwhelming%20Presence\">overwhelming presence</a> (18th).",
+				"Discipline Powers: Your powers meld several minds together, or allow you to more easily influence others.",
+				"Emotional Bond (Su): You can create an empathic link between yourself and your allies, allowing you to monitor their emotional states. Setting up the link requires 10 minutes of uninterrupted concentration from you and all subjects, who must remain within 10 feet of you. You can link with a number of allies equal to your Charisma modifier. This bond lasts until the next time you regain your spells, or until you go unconscious or voluntarily end the bond as a free action. If the bond ends, you can establish a new bond at will with another 10 minutes of mutual concentration. This link allows you to monitor emotions, detecting when allies become angry, surprised, confused, fearful, or the like, but doesn't allow them to communicate specific details. You can also easily tell whether a subject is unconscious. If a subject dies or moves to a different plane than you, your bond with that creature is severed. The distance between you and the subjects doesn't affect the bond as long as you're on the same plane of existence. At 4th level, the bond also gives you the benefits of the status spell with all subjects of the emotional bond.",
+				"Emotional Push (Su): You can draw upon the intense power of your own emotions in desperate situations, and your allies can call upon you through your emotional link to protect themselves. When you or a subject of your emotional bond must attempt a saving throw, the person attempting the save can gain a bonus equal to your Charisma bonus on the save as an immediate action. This ability can be used once per day, plus one additional time per day for every 4 psychic levels you possess. Allies using this ability don't need your permission, since the emotional connection is so direct, though you know when one of the uses has been expended. If the ally's saving throw is successful, you regain 1 point in your phrenic pool.",
+				"Share Memory (Sp): At 5th level, you can use share memory at will, but only with a willing target.",
+				"Team Player (Ex): At 5th level and 13th level, you gain a bonus teamwork feat.",
+				"Shared Skill (Ex): At 13th level, each time you set up an emotional bond, you can choose one Intelligence- or Charisma-based skill from the list of psychic's class skills. Any subject of your bond can use your bonus instead of his own when attempting checks with that skill as long as the bond lasts."
+			]
 		},
 		{
 			"name": "Rebirth",
-			"file": "UNKNOWN",
+			"file": "psychicdisciplinesdisplay24f5.html",
 			"pool_stat": "charisma",
-			"short_description": "Your mind is forged from the most powerful memories of a multitude of lifetimes."
+			"short_description": "Your mind is forged from the most powerful memories of a multitude of lifetimes.",
+			"info": [
+				"Rebirth - Disciplines - Psychic",
+				"Rebirth",
+				"Source <a href=\"http://paizo.com/products/btpy9grw?Pathfinder-Player-Companion-Occult-Origins\">Occult Origins pg. 17</a>",
+				"Your mind is forged from the most powerful memories of a multitude of lifetimes. You have fragmentary knowledge of your prior lives and can leverage the experience gained during these lifetimes into raw psychic power.",
+				"Phrenic Pool Ability: Charisma",
+				"Bonus Spells: <a href=\"spelldisplaya3a1.html?ItemName=Burst%20of%20Insight\">burst of insight</a> (1st), <a href=\"spelldisplay10cc.html?ItemName=False%20Life\">false life</a> (4th), <a href=\"spelldisplay6496.html?ItemName=Contact%20Other%20Plane\">contact other plane</a> (6th), <a href=\"spelldisplay6123-2.html?ItemName=Ancestral%20Memory\">ancestral memory</a> (8th), <a href=\"spelldisplay7555.html?ItemName=Reincarnate\">reincarnate</a> (10th), <a href=\"spelldisplayef48.html?ItemName=Transformation\">transformation</a> (12th), <a href=\"spelldisplay4709.html?ItemName=Ethereal%20Jaunt\">ethereal jaunt</a> (14th), <a href=\"spelldisplayce04.html?ItemName=Bilocation\">bilocation</a> (16th), <a href=\"spelldisplayb4c2.html?ItemName=Akashic%20Form\">akashic form</a> (18th).",
+				"Discipline Powers: Your myriad lives inspire diverse exceptional abilities.",
+				"Past-Life Memories (Ex): You add a bonus equal to half your psychic level (minimum 1) to all Knowledge checks and can attempt all Knowledge skill checks untrained.",
+				"Mnemonic Esoterica (Ex): By reaching into the recesses of your past lives, you gain knowledge beyond that of most psychics. Select a single additional spellcasting class. Once per day when you prepare your spells, you can add one spell from this class's spell list to your spells known and class spell list for 24 hours. This spell must be 1 level lower than the highest-level spell you can cast, and you cast it as if it were psychic magic (Pathfinder RPG Occult Adventures 144). You can decide to change the spellcasting class from which you draw this spell each time you gain a new level.",
+				"Resurgence (Su): At 5th level when you would be reduced to 0 hit points or fewer by an attack, you can spend 2 points from your phrenic pool as an immediate action to regain a number of hit points equal to 1d8 points of damage + your psychic level. At 10th level, this ability's healing increases to 3d8 + your psychic level. If this healing is insufficient to bring you above negative hit points, you are automatically stabilized. If you would still be killed by the amount of damage taken, you erupt with positive energy and heal all allies within 30-foot-radius burst for the amount you healed yourself.",
+				"Physical Regression (Sp): At 13th level, you can spend 2 points from your phrenic pool as a standard action once per day to take on the form of one of your previous incarnations. This ability functions as the polymorph spell, but its range is personal and its duration becomes 10 minutes per caster level."
+			]
 		},
 		{
 			"name": "Rivethun",
 			"file": "psychicdisciplinesdisplaybf00.html",
 			"pool_stat": "charisma",
-			"short_description": "You have embraced those aspects of your body that cause you agony, respecting the perspective they grant you if not necessarily the roles they've condemned you to in life."
+			"short_description": "You have embraced those aspects of your body that cause you agony, respecting the perspective they grant you if not necessarily the roles they've condemned you to in life.",
+			"info": [
+				"Rivethun - Disciplines - Psychic",
+				"Rivethun",
+				"Source <a href=\"http://paizo.com/products/btpy9sjo?Pathfinder-Roleplaying-Game-Adventurers-Guide\">Adventurer's Guide pg. 168</a>",
+				"You have embraced those aspects of your body that cause you agony, respecting the perspective they grant you if not necessarily the roles they've condemned you to in life.",
+				"Phrenic Pool Ability: Charisma",
+				"Bonus Spells: <a href=\"spelldisplaya4b6.html?ItemName=Heightened%20Awareness\">heightened awareness</a> (1st), <a href=\"spelldisplaybbe3.html?ItemName=Bear's%20Endurance\">bear's endurance</a> (4th), <a href=\"spelldisplayf344.html?ItemName=Aura%20Sight\">aura sight</a> (6th), <a href=\"spelldisplay8cd0.html?ItemName=Persistent%20Vigor\">persistent vigor</a> (8th), <a href=\"spelldisplaya191.html?ItemName=True%20Seeing\">true seeing</a> (10th), <a href=\"spelldisplay99ec.html?ItemName=Thought%20Shield%20V\">thought shield V</a> (12th), <a href=\"spelldisplay218d.html?ItemName=Mind%20Blank\">mind blank</a> (14th), <a href=\"spelldisplay07c4.html?ItemName=Iron%20Body\">iron body</a> (16th), <a href=\"spelldisplayb4c2.html?ItemName=Akashic%20Form\">akashic form</a> (18th).",
+				"Discipline Powers: Your powers relate to your discipline and mastery of mind over matter.",
+				"Agitating Cognizance (Su): Whenever you are not maintaining an altered form via metamorphosis (including the 24 hours normally required to assume a new form), your maximum number of points in your phrenic pool increases by 1.",
+				"Metamorphosis (Su): By meditating for 1 hour, you can trigger a slow, physical metamorphosis that takes 24 hours to complete (during which you do not gain the benefits of this new form). This ability cannot change your type or subtype, grant new abilities or natural weapons, or change your size category, but otherwise allows you to transform your appearance into anything possible for creatures of your type and subtype. You gain a +1 enhancement bonus to one physical ability score of your choice (Strength, Dexterity, or Constitution) while in this altered form. This bonus increases by 1 for every 5 psychic levels you have. Your shape and ability score bonus persist until you assume a new form or your current altered form ends. When meditating to begin your metamorphosis, you can spend 1 point from your phrenic pool either to change your size category to Small or Medium, or to gain a new ability from those provided by the alter self spell. If you do so, your altered form lasts only 1 hour per level.",
+				"Spirit Channeling (Su): As your self-awareness expands, you become increasingly attuned to the spirit world around you. At 5th level, as part of your meditation to initiate metamorphosis, you can invite a wandering spirit to share your body as if you were a shaman (Pathfinder RPG Advanced Class Guide 37). You gain the associated 1st-level spirit ability as long as you maintain your altered form, but your metamorphosis form also exhibits some aspect of the spirit you host, such as vivid red hair for a flame spirit or gauntness for a bone spirit.",
+				"Greater Spirit Channeling (Su): At 13th level, when you open your body to a wandering spirit, you also gain that wandering spirit's greater spirit ability as long as you are in a metamorphosed form."
+			]
 		},
 		{
 			"name": "Self-Perfection",
 			"file": "psychicdisciplinesdisplay50c0.html",
 			"pool_stat": "wisdom",
-			"short_description": "You take a holistic view of psychic power, believing that you must hone both your mental and physical attributes to remain in balance."
+			"short_description": "You take a holistic view of psychic power, believing that you must hone both your mental and physical attributes to remain in balance.",
+			"info": [
+				"Self-Perfection - Disciplines - Psychic",
+				"Self-Perfection",
+				"Source <a href=\"http://paizo.com/products/btpy9egu?Pathfinder-Roleplaying-Game-Occult-Adventures\">Occult Adventures pg. 68</a>",
+				"You take a holistic view of psychic power, believing that you must hone both your mental and physical attributes to remain in balance. The focus you find while exercising, fasting, and otherwise tending to your body broadens your psychic powers.",
+				"Phrenic Pool Ability: Wisdom",
+				"Bonus Spells: <a href=\"spelldisplay97eb.html?ItemName=Expeditious%20Retreat\">expeditious retreat</a> (1st), <a href=\"spelldisplaybbe3.html?ItemName=Bear's%20Endurance\">bear's endurance</a> (4th), <a href=\"spelldisplay1929.html?ItemName=Haste\">haste</a> (6th), <a href=\"spelldisplaya0df.html?ItemName=Freedom%20of%20Movement\">freedom of movement</a> (8th), <a href=\"spelldisplayb1f3-2.html?ItemName=Echolocation\">echolocation</a> (10th), <a href=\"spelldisplayef48.html?ItemName=Transformation\">transformation</a> (12th), <a href=\"spelldisplay4709.html?ItemName=Ethereal%20Jaunt\">ethereal jaunt</a> (14th), <a href=\"spelldisplay07c4.html?ItemName=Iron%20Body\">iron body</a> (16th), <a href=\"spelldisplayb4c2.html?ItemName=Akashic%20Form\">akashic form</a> (18th).",
+				"Discipline Powers: Your powers alter your body through your force of will.",
+				"AC Bonus (Ex): When unarmored and unencumbered, you add your Wisdom bonus (if any) to your AC and CMD. The bonus to AC applies even against touch attacks or when you're flat-footed. You lose these bonuses when you're immobilized or helpless, when you wear any armor, when you carry a shield, or when you carry a medium or heavy load.",
+				"Physical Push (Su): By channeling your psychic energy, you can make your body capable of greater physical feats. When you attempt a Strength-, Dexterity-, or Constitutionbased ability check or skill check, you can gain a bonus on the check equal to your Wisdom bonus. You can use this ability a number of times per day equal to your Wisdom modifier. Using this ability is part of the action used to attempt the skill check (if any). If you succeed at the check, you regain 1 point in your phrenic pool.",
+				"Bodily Purge (Su): You can heal your own wounds and maladies with the power of thought alone. At 5th level, you gain access to a daily pool of healing energy. This pool starts with 3 d8 dice per day, and gains 1 additional d8 for every 2 psychic levels you possess beyond 5th. As a standard action, you can use up any number of these dice to regain a number of hit points equal to the result of rolling that many d8s. For example, at 5th level you could regain 3d8 hit points all at once, 1d8 hit points three separate times, or 1d8 hit points once and 2d8 hit points at a different time. In addition, you can expend 2 dice from this pool to instead gain the benefit of lesser restoration (affecting yourself only). At 7th level, you can expend 3 dice from this pool to instead gain the benefit of neutralize poison, remove disease, or restoration (affecting yourself only). To use restoration to dispel a permanent negative level, you must expend 4 dice from this pool instead of 3. Use your psychic level as your caster level for these effects.",
+				"Pure Body (Ex): At 13th level, you gain immunity to diseases and poisons."
+			]
 		},
 		{
 			"name": "Shadow",
 			"file": "psychicdisciplinesdisplay372c.html",
 			"pool_stat": "wisdom",
-			"short_description": "You perceive the space between light and darkness, and draw power from it."
+			"short_description": "You perceive the space between light and darkness, and draw power from it.",
+			"info": [
+				"Shadow - Disciplines - Psychic",
+				"Shadow",
+				"Source <a href=\"http://paizo.com/products/btpy9j6s?Pathfinder-Player-Companion-Blood-of-Shadows\">Blood of Shadows pg. 17</a>",
+				"You perceive the space between light and darkness, and draw power from it. Shadows conceal and protect you, while revealing the locations of those who dare to hide within them. Over time, you develop the ability to deny the warmth of light or life to your enemies.",
+				"Phrenic Pool Ability: Wisdom",
+				"Bonus Spells: <a href=\"spelldisplay2f33.html?ItemName=Blurred%20Movement\">blurred movement</a> (1st), <a href=\"spelldisplay1bb0.html?ItemName=Fear%20the%20Sun\">fear the sun</a> (4th), <a href=\"spelldisplaybc1d.html?ItemName=Deeper%20Darkness\">deeper darkness</a> (6th), <a href=\"spelldisplay6b2c.html?ItemName=Shadow%20Step\">shadow step</a> (8th), <a href=\"spelldisplay081c.html?ItemName=Shadow%20Evocation\">shadow evocation</a> (10th), <a href=\"spelldisplayc3b5.html?ItemName=Shadow%20Walk\">shadow walk</a> (12th), <a href=\"spelldisplay00df.html?ItemName=Lunar%20Veil\">lunar veil</a> (14th), <a href=\"spelldisplaye5c2.html?ItemName=Umbral%20Strike\">umbral strike</a> (16th), <a href=\"spelldisplay04df.html?ItemName=Polar%20Midnight\">polar midnight</a> (18th).",
+				"Discipline Powers: Your powers give you authority over light and shadow.",
+				"Twilight Influence (Su): You can channel spell energy into spells drawn from the Darkness cleric domain. This ability functions similarly to the cleric's ability to spontaneously cast cure or inflict spells, but you instead spontaneously cast Darkness domain spells. The domain spells don't count as being on your psychic spell list for the purposes of any other effects (unless they are independently on your psychic spell list, such as blindness/deafness). Each day, you can convert up to one spell from each spell level you can cast. Each time you use this ability to convert a spell, you regain 1 point in your phrenic pool. The maximum number of points you can regain in this way per day is equal to your Wisdom modifier.",
+				"Dark Defense (Su): At 5th level, light and darkness become your allies, moving around you to protect you from your enemies. You gain a +2 deflection bonus to Armor Class against any attack while you benefit from concealment against that attack. If you have full concealment from that attack, this deflection bonus increases to +4.",
+				"Adumbration (Su): At 13th level, shadows move to conceal you. You gain a bonus on Stealth checks equal to half your level. In addition, you can use the Stealth skill even while being observed and without cover or concealment, as long as you are within 10 feet of a shadow other than your own. You gain no benefit from adumbration in areas of bright light."
+			]
 		},
 		{
 			"name": "Sorrow",
 			"file": "psychicdisciplinesdisplay973d.html",
 			"pool_stat": "charisma",
-			"short_description": "You draw strength from deep feelings of abandonment, loneliness, and sadness, turning these emotions into a powerful weapon or a barrier that protects you."
+			"short_description": "You draw strength from deep feelings of abandonment, loneliness, and sadness, turning these emotions into a powerful weapon or a barrier that protects you.",
+			"info": [
+				"Sorrow - Disciplines - Psychic",
+				"Sorrow",
+				"Source <a href=\"http://paizo.com/products/btpy9pn6?Pathfinder-Player-Companion-Legacy-of-the-First-World\">Legacy of the First World pg. 22</a>",
+				"You draw strength from deep feelings of abandonment, loneliness, and sadness, turning these emotions into a powerful weapon or a barrier that protects you.",
+				"Phrenic Pool Ability: Charisma.",
+				"Bonus Spells: <a href=\"spelldisplay81f7.html?ItemName=Sanctuary\">sanctuary</a> (1st), <a href=\"spelldisplaya526.html?ItemName=Silence\">silence</a> (4th), <a href=\"spelldisplayaa3c.html?ItemName=Nondetection\">nondetection</a> (6th), <a href=\"spelldisplay6104.html?ItemName=Crushing%20Despair\">crushing despair</a> (8th), <a href=\"spelldisplay25b6.html?ItemName=Mind%20Fog\">mind fog</a> (10th), <a href=\"spelldisplay9e01.html?ItemName=Eyebite\">eyebite</a> (12th), <a href=\"spelldisplay9ec9.html?ItemName=Sequester\">sequester</a> (14th), <a href=\"spelldisplay63c4.html?ItemName=Maze\">maze</a> (16th), <a href=\"spelldisplay2aa7.html?ItemName=Imprisonment\">imprisonment</a> (18th).",
+				"Discipline Powers: Through your powers, you can use overwhelming sorrow to protect yourself and weaken others.",
+				"Numb to the Pain (Ex): You gain a morale bonus equal to your Charisma bonus on saving throws against mind-affecting spells and effects. This bonus cannot exceed your psychic level.",
+				"Despair (Su): When a creature within 30 feet rolls for an attack, a save against a fear effect, or a skill check, you can flood its mind with a feeling of hopelessness as an immediate action before the roll is made. The target takes a -1 penalty on the roll. The penalty increases by 1 for every 6 psychic levels you have beyond 1st, to a maximum of -4 at 19th level. If the target fails its attack roll, save, or skill check, you regain 1 point in your phrenic pool. You can use this ability a number of times per day equal to 3 + your Charisma modifier. This is a mind-affecting emotion effect.",
+				"Wave of Gloom (Su): At 5th level, by expending 1 use of your despair ability as a standard action, you can project a strong feeling of dejection. All creatures within 30 feet of you must succeed at a Will save or take a penalty on attack rolls, saves against fear effects, and skill checks for 1d4 minutes. The penalty is equal to (but doesn't stack with) the penalty provided by your despair ability. The DC of the saving throw equals 10 + half your psychic level + your Charisma modifier. You're immune to your own wave of gloom. This is a mind-affecting emotion effect.",
+				"Fortress of Sorrow (Sp): At 13th level, you can mentally construct an extraplanar retreat on the Astral Plane. This ability functions as lesser create demiplane with a caster level equal to your psychic level, with the following adjustments: you need no focus to create the fortress of sorrow; the demiplane is permanent until dismissed by you; you cannot create more than one demiplane with this ability or add to the plane's area by casting the spell again; the light level on the demiplane is dim, though light sources affect it normally; and you cannot bring other creatures to your demiplane. Once per day, you can enter your demiplane (as plane shift), and once per day, you can return in a similar manner, arriving at the same spot you left from (or the nearest available space)."
+			]
 		},
 		{
 			"name": "Superiority",
 			"file": "psychicdisciplinesdisplayf6c1.html",
 			"pool_stat": "charisma",
-			"short_description": "You know that you are far better than average creatures of your kind."
+			"short_description": "You know that you are far better than average creatures of your kind.",
+			"info": [
+				"Superiority - Disciplines - Psychic",
+				"Superiority",
+				"Source <a href=\"http://paizo.com/products/btpy9xew?Pathfinder-Player-Companion-Disciples-Doctrine\">Disciple's Doctrine pg. 19</a>",
+				"You know that you are far better than average creatures of your kind. The more you leverage your psychic talents to prove yourself superior, the more powerful you become.",
+				"Phrenic Pool Ability: Charisma",
+				"Bonus Spells: <a href=\"spelldisplay1daf.html?ItemName=Moment%20of%20Greatness\">moment of greatness</a> (1st), <a href=\"spelldisplayca85.html?ItemName=Deflect%20Blame\">deflect blame</a> (4th), <a href=\"spelldisplay4b2d.html?ItemName=Unflappable%20Mien\">unflappable mien</a> (6th), <a href=\"spelldisplay34c6.html?ItemName=Majestic%20Image\">majestic image</a> (8th), mage's private sanctum (10th), <a href=\"spelldisplayef48.html?ItemName=Transformation\">transformation</a> (12th), <a href=\"spelldisplay9290.html?ItemName=Project%20Image\">project image</a> (14th), clone (self only) (16th), <a href=\"spelldisplay098b.html?ItemName=Overwhelming%20Presence\">overwhelming presence</a> (18th).",
+				"Discipline Powers: Your unflappable sense of self-worth grants you powers that your rivals can't hope to countermand.",
+				"Self-Assurance (Su): Overwhelming confidence in your success brings you closer to your goals, and you know that your superiority has destined you for greatness. As an immediate action, you can gain a morale bonus equal to half your psychic level (minimum 1) on a single ability check, attack roll, saving throw, or skill check. You must declare that you are using this ability before attempting the roll in question. If you succeed at the check, you regain 1 point in your phrenic pool. You can use this ability a number of times per day equal to your Charisma modifier.",
+				"At Arm's Length (Ex): At 5th level, you gain Reach Spell as a bonus feat. Additionally, when using this feat, you can spend 1 point from your phrenic pool for each increase in the spell's range category. If you do, the spell does not use up a higher-level spell slot than normal. (For example, a spell with a range of touch increased to long range via this feat would normally use up a spell slot 3 levels higher, but if you spend 3 points from your phrenic pool, the spell does not use up a higher spell slot.)",
+				"Magical Hoarder (Su): At 13th level, whenever a creature within 30 feet of you casts a spell intended to benefit its targets, you can spend 1 point from your phrenic pool as an immediate action to include yourself as a target of that spell. If the creature is not your ally, you must be able to clearly see the spell's effects and you must succeed at a Spellcraft check (DC = 15 + the spell's level) to identify the spell before using this ability. If you are not within the normal range of the spell, then you must spend 1 additional point from your phrenic pool to use this ability. If the spell has a range of personal, then you must instead spend 2 additional phrenic points from your pool to use this ability. This ability does not affect spells with an instantaneous or permanent duration."
+			]
 		},
 		{
 			"name": "Symbiosis",
-			"file": "UNKNOWN",
+			"file": "psychicdisciplinesdisplay4510.html",
 			"pool_stat": "charisma",
-			"short_description": "Like pollen on the wind or the roots of plants in the ground, your thoughts permeate your surroundings, allowing you to study and manipulate the world around you."
+			"short_description": "Like pollen on the wind or the roots of plants in the ground, your thoughts permeate your surroundings, allowing you to study and manipulate the world around you.",
+			"info": [
+				"Symbiosis - Disciplines - Psychic",
+				"Symbiosis",
+				"Source <a href=\"http://paizo.com/products/btpy9ujo\">Ultimate Wilderness pg. 93</a>",
+				"Like pollen on the wind or the roots of plants in the ground, your thoughts permeate your surroundings, allowing you to study and manipulate the world around you.",
+				"Phrenic Pool Ability: Charisma",
+				"Bonus Spells: <a href=\"spelldisplayfc7f.html?ItemName=Hide%20from%20Animals\">hide from animals</a> (1st), <a href=\"spelldisplayf783.html?ItemName=Hold%20Animal\">hold animal</a> (4th), <a href=\"spelldisplay8fc4.html?ItemName=Dominate%20Animal\">dominate animal</a> (6th), <a href=\"spelldisplay9a45.html?ItemName=Command%20Plants\">command plants</a> (8th), <a href=\"spelldisplay7d2d.html?ItemName=Awaken\">awaken</a> (10th), <a href=\"spelldisplayb3e6.html?ItemName=Liveoak\">liveoak</a> (12th), greater scrying (14th), <a href=\"spelldisplayd0ec.html?ItemName=Control%20Plants\">control plants</a> (16th), <a href=\"spelldisplay538d.html?ItemName=Dominate%20Monster\">dominate monster</a> (18th).",
+				"Discipline Powers: Your powers allow you to connect with and manipulate natural life.",
+				"Animal Mastery (Su): As a standard action, you can project your mind into the mind of an animal you can see, establishing a mental link that allows you to share the animal's senses-hearing, seeing, smelling, tasting, and touching everything the animal does. You cannot use this ability on an animal if its Hit Dice exceed your psychic level. The animal can attempt a Will save to resist the effect. If it is successful, the animal is immune to this ability for 24 hours. While sharing an animal's senses, your body is effectively unconscious, but you can end the effect as a free action. You can maintain the link for 1 hour per level, but the link is immediately severed if the animal moves beyond a range of 1 mile per psychic level you have. You can use this ability a number of times per day equal to 3 + your Charisma modifier. At 7th level, the mental link becomes stronger. Whenever you share an animal's senses, you can control it, as per dominate animal, except the duration, Hit Dice limit, range, and other conditions listed above apply.",
+				"One with Nature (Sp, Su): You can cast detect animals or plants as a spell-like ability at will. You gain a +2 insight bonus on Knowledge (nature) checks, and while using detect animals or plants, the bonus increases to +4 to identify a matching animal or plant creature within the area of effect. At 7th level, you can speak with any animal you successfully identify, as per speak with animals, but this ability doesn't make the creature any friendlier than normal.",
+				"Bionetwork (Su): At 5th level, your mental influence over nature increases. Once per day, you can spend 10 minutes to mentally connect with living fungi, leaves, moss, roots, and similar plants or plantlike things. You form a temporary network that functions as an extension of your senses. The network allows you to use one of the following two effects: you can remotely view any familiar or obvious location within a range of 250 feet per psychic level, as per clairaudience/clairvoyance; or you can attempt to locate a creature within the area, as per scrying. You don't need a focus to use this effect, and you can't cast spells through the sensor. This ability doesn't function in areas of sparse vegetation, such as arid deserts, barren caverns, or frozen tundras. Buildings and urban areas are generally excluded from your network, but ruins reclaimed by nature are connected. While you're underground, roots and fungi function as your network, but the radius of the network is only 100 feet per psychic level. At 9th level and every 4 levels thereafter, you gain an additional daily use of this ability.",
+				"Animate Trees (Su): At 13th level, you can animate a tree within 180 feet as a standard action. This functions as a treant's animate trees ability, with the following exceptions. Each day, you can animate a number of trees equal to 3 + your Charisma modifier, and you can control up to one tree at a time, plus an additional tree at 15th level and every 2 levels thereafter. A tree remains animated for 10 minutes per level, or until dismissed by you or destroyed."
+			]
 		},
 		{
 			"name": "Tranquility",
 			"file": "psychicdisciplinesdisplayc34e.html",
 			"pool_stat": "wisdom",
-			"short_description": "Psychic magic flows through you when you attain a peaceful mental state."
+			"short_description": "Psychic magic flows through you when you attain a peaceful mental state.",
+			"info": [
+				"Tranquility - Disciplines - Psychic",
+				"Tranquility",
+				"Source <a href=\"http://paizo.com/products/btpy9egu?Pathfinder-Roleplaying-Game-Occult-Adventures\">Occult Adventures pg. 69</a>",
+				"Psychic magic flows through you when you attain a peaceful mental state. Regular meditation expands your mind, allowing new powers to develop.",
+				"Phrenic Pool Ability: Wisdom",
+				"Bonus Spells: <a href=\"spelldisplay1ca9.html?ItemName=Telempathic%20Projection\">telempathic projection</a> (1st), <a href=\"spelldisplaya526.html?ItemName=Silence\">silence</a> (4th), <a href=\"spelldisplaybab1.html?ItemName=Mantle%20of%20Calm\">mantle of calm</a> (6th), mass daze (8th), <a href=\"spelldisplay29d7.html?ItemName=Serenity\">serenity</a> (10th), <a href=\"spelldisplayf6b4.html?ItemName=Psychic%20Surgery\">psychic surgery</a> (12th), <a href=\"spelldisplay218d.html?ItemName=Mind%20Blank\">mind blank</a> (14th), <a href=\"spelldisplay45eb.html?ItemName=Euphoric%20Tranquility\">euphoric tranquility</a> (16th), <a href=\"spelldisplay3c2c.html?ItemName=Time%20Stop\">time stop</a> (18th).",
+				"Discipline Powers: Your stable mind protects you and your allies.",
+				"Mental Placidity (Su): As an immediate action, you can gain a +2 bonus on a Will saving throw you are about to attempt. This bonus increases to +4 against an enchantment spell or effect. Any ally who attempts a saving throw against the same effect gains a +1 bonus on the Will save, or a +2 bonus if the effect is an enchantment. If you succeed at the saving throw, you regain 1 point in your phrenic pool. You can use this ability a number of times per day equal to your Wisdom modifier.",
+				"Calming Presence (Su): At 5th level, you become a calming force. You can use calm emotions as a spell-like ability a number of times per day equal to your Wisdom modifier.",
+				"Purge Disquiet (Su): At 13th level, you can banish mental distress. You become immune to fear spells and effects and to the confused condition. As a standard action, you can choose a willing creature that is either within 30 feet or in telepathic contact with you. For 1 round per psychic level you possess, you suppress any fear effect or confused, cowering, frightened, panicked, or shaken condition affecting that creature. You can suppress only one effect at a time with this ability, and choosing a new target ends the suppression for the character you previously chose."
+			]
 		},
 		{
 			"name": "Warp",
 			"file": "psychicdisciplinesdisplayec1c.html",
 			"pool_stat": "charisma",
-			"short_description": "Ratfolk mythology claims they were appointed by the gods to sniff out the ragged edges of creation."
+			"short_description": "Ratfolk mythology claims they were appointed by the gods to sniff out the ragged edges of creation.",
+			"info": [
+				"Warp - Disciplines - Psychic",
+				"Warp",
+				"Source <a href=\"http://paizo.com/products/btpy9oo8?Pathfinder-Player-Companion-Blood-of-the-Beast\">Blood of the Beast pg. 24</a>",
+				"Ratfolk mythology claims they were appointed by the gods to sniff out the ragged edges of creation. Whether the art of ranatagi descended from this glorious role or formed the source of such myths, this psychic tradition among the ratfolk of Vudra and eastern Casmaron unlocks the psychic potential in trainees, teaching them to sniff out folds and tears in reality. Ancient practitioners of ranatagi even claimed that the art once allowed ratfolk to guide great caravans to the stars.",
+				"Phrenic Pool Ability: Charisma",
+				"Bonus Spells: <a href=\"spelldisplay9e88.html?ItemName=Entropic%20Shield\">entropic shield</a> (1st), apport object (4th), <a href=\"spelldisplay2b8e.html?ItemName=Displacement\">displacement</a> (6th), <a href=\"spelldisplay84e4.html?ItemName=Dimension%20Door\">dimension door</a> (8th), <a href=\"spelldisplay78f0.html?ItemName=Dismissal\">dismissal</a> (10th), <a href=\"spelldisplay4709.html?ItemName=Ethereal%20Jaunt\">ethereal jaunt</a> (12th), greater teleport (14th), <a href=\"spelldisplayaa5c.html?ItemName=Dimensional%20Lock\">dimensional lock</a> (16th), interplanetary teleport (18th).",
+				"Discipline Powers: Your powers allow you to sidestep obstacles, defend yourself, and assault others by tearing holes in reality.",
+				"Planar Scent (Su): You can intuitively sense disruptions in the cosmos. This ability functions as a constant detect magic, but only for effects of the conjuration (calling), conjuration (summoning), conjuration (teleport), and illusion (shadow) subschools. You gain a +2 insight bonus on Spellcraft checks to identify such effects.",
+				"Rift Reach (Su): As a move action, you can tear open a small rent in reality just large enough to reach an arm through. The far end of this portal must be within 10 feet of you, but otherwise allows you to manipulate objects, perform melee attacks requiring a single hand, or even cast spells. If you cannot see your target, standard concealment penalties apply. You cannot move either end of the portal once it's created, and the opening collapses immediately when you leave your current space or withdraw your arm, but it otherwise lasts for 1 round per psychic level. Your disembodied hand uses your AC with a +4 size bonus, should opponents target it. This size bonus does not apply to disarm combat maneuver checks.",
+				"You can use this ability a number of times per day equal to 3 + your Charisma modifier. At 11th level, the range of your rift reach increases to 20 feet. At 15th level, your range increases to 30 feet.",
+				"Turn Aside (Su): You can compress or inflate enough space around you to turn aside ranged attacks. At 5th level, you gain Deflect Arrows as a bonus feat. You can expend 1 point from your phrenic pool as an immediate action to gain a +4 deflection bonus against a single ranged attack.",
+				"Sidestep (Su): You can push your way through holes in reality, crossing vast distances in a single stride. At 13th level, you can teleport up to 10 feet per psychic level per day as a move action. This teleportation must be used in 5-foot increments and such movement does not provoke attacks of opportunity. You must have line of sight to your destination to use this ability. You can bring other willing creatures with you, but you must expend an equal amount of distance for each creature transported."
+			]
 		}
 	]
 }

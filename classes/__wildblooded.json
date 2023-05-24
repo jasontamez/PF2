@@ -1,5 +1,7 @@
 {
-	"sources": [ "Ultimate Magic" ],
+	"sources": [
+		"Ultimate Magic"
+	],
 	"description": [
 		"A wildblooded sorcerer has a mutated version of a more common bloodline, with one arcana and at least one bloodline power that are different from those of an unmutated bloodline. When creating a wildblooded sorcerer, select an existing bloodline, then select one of the following mutated bloodlines associated with that bloodline. Use the normal bloodline's class skill, bonus spells, and bonus feats, and the mutated bloodline's bloodline arcana. Use the normal bloodline's bloodline powers, except when the mutated bloodline replaces one of those powers."
 	],
@@ -8,145 +10,392 @@
 			"name": "Anarchic",
 			"file": "wildbloodeddisplay28b3.html",
 			"base_bloodline": "Protean",
-			"short_description": "Your magical power taps into pure anarchy."
+			"short_description": "Your magical power taps into pure anarchy.",
+			"info": [
+				"Wildblooded - Sorcerer",
+				"Anarchic",
+				"Source <a href=\"http://paizo.com/pathfinderRPG/v5748btpy8k8r\">Ultimate Magic pg. 70</a>",
+				"Your magical power taps into pure anarchy.",
+				"Associated Bloodline: Protean.",
+				"Bloodline Arcana: Whenever you fail a concentration check to cast a spell, a cantrip effect is created. Randomly determine one of your cantrips known (for example, if you know 6 cantrips, roll 1d6). There is a 50% chance this cantrip affects a target of your choice within 60 feet; otherwise it affects you.",
+				"Bloodline Powers: Raw magical energy lashes out when you destroy or negate hostile spells.",
+				"Wild Feedback (Su): At 3rd level, when you successfully dispel or counterspell an opponent's spell, the caster (if it is within 100 feet) takes 1d6 points of damage +1 per level of the spell affected. This bloodline power replaces protean resistances."
+			]
 		},
 		{
 			"name": "Arial",
 			"file": "wildbloodeddisplayd8cf.html",
 			"base_bloodline": "Stormborn",
-			"short_description": "Your magic is more focused on the power of air and rain than on lightning and thunder."
+			"short_description": "Your magic is more focused on the power of air and rain than on lightning and thunder.",
+			"info": [
+				"Wildblooded - Sorcerer",
+				"Arial",
+				"Source <a href=\"http://paizo.com/pathfinderRPG/v5748btpy8k8r\">Ultimate Magic pg. 70</a>",
+				"Your magic is more focused on the power of air and rain than on lightning and thunder.",
+				"Associated Bloodline: Stormborn.",
+				"Bloodline Arcana: Whenever outdoors during any form of precipitation, your effective caster level is increased by 2.",
+				"Bloodline Powers: The greatest storms bring ruin through wind, not electricity.",
+				"Windcaller (Sp): At 9th level, you can call the winds to obey your commands for 1 minute per level. This functions like control winds, except that you may choose to be immune to any increased wind effects you create. The ability's duration does not need to be consecutive, but it must be used in 1-minute increments. This bloodline power replaces thunderbolt."
+			]
 		},
 		{
 			"name": "Bedrock",
 			"file": "wildbloodeddisplay07aa.html",
 			"base_bloodline": "Deep Earth",
-			"short_description": "Your earth magic is more defensive than offensive."
+			"short_description": "Your earth magic is more defensive than offensive.",
+			"info": [
+				"Wildblooded - Sorcerer",
+				"Bedrock",
+				"Source <a href=\"http://paizo.com/pathfinderRPG/v5748btpy8k8r\">Ultimate Magic pg. 70</a>",
+				"Your earth magic is more defensive than offensive.",
+				"Associated Bloodline: Deep Earth.",
+				"Bloodline Arcana: Whenever you cast a spell of the summoning subschool, the creatures summoned gain DR/adamantine equal to 1/2 your sorcerer level (minimum 1). This does not stack with any DR the creature might have.",
+				"Bloodline Powers: Rock is timeless; it endures.",
+				"Iron Hide (Sp): At 9th level, as a swift action, you can grant yourself DR 10/adamantine for a number of rounds per day equal to your sorcerer level. The rounds do not need to be used consecutively. This bloodline power replaces crystal shard."
+			]
 		},
 		{
 			"name": "Brutal",
 			"file": "wildbloodeddisplay2249.html",
 			"base_bloodline": "Abyssal",
-			"short_description": "The powers of the Abyss can vary radically, even for similar fiends."
+			"short_description": "The powers of the Abyss can vary radically, even for similar fiends.",
+			"info": [
+				"Wildblooded - Sorcerer",
+				"Brutal",
+				"Source <a href=\"http://paizo.com/pathfinderRPG/v5748btpy8k8r\">Ultimate Magic pg. 70</a>",
+				"The powers of the Abyss can vary radically, even for similar fiends.",
+				"Associated Bloodline: Abyssal.",
+				"Bloodline Arcana: Whenever you cast a spell that deals hit point damage, one target of your choice affected by the spell takes 2 additional hit points of damage. This ability has no effect on spells that do not deal hit point damage (such as ability score damage).",
+				"Bloodline Powers: Flight is often the key to survival.",
+				"Wings of the Abyss (Su): At 9th level, you can sprout leathery wings and fly for a number of minutes per day equal to your sorcerer level, with a speed of 60 feet and good maneuverability. This duration does not need to be consecutive, but it must be used in 1-minute increments. This bloodline power replaces strength of the abyss."
+			]
 		},
 		{
 			"name": "Dark Fey",
 			"file": "wildbloodeddisplay5147.html",
 			"base_bloodline": "Fey",
-			"short_description": "Your powers were born of malevolent trickery and shadowy First World magic."
+			"short_description": "Your powers were born of malevolent trickery and shadowy First World magic.",
+			"info": [
+				"Wildblooded - Sorcerer",
+				"Dark Fey",
+				"Source <a href=\"http://paizo.com/products/btpy978r?Pathfinder-Player-Companion-People-of-the-River\">People of the River pg. 11</a>",
+				"Your powers were born of malevolent trickery and shadowy First World magic.",
+				"Associated Bloodline: Fey.",
+				"Bloodline Arcana: Whenever you cast a spell with the curse subtype, increase the spell's DC by 2.",
+				"Bloodline Powers: In your presence, senses are deceived.",
+				"Fey Fascination (Su): At 1st level, as a standard action, you can force one target within 30 feet to make a Will save (DC = 10 + 1/2 your sorcerer level + your Charisma modifier) or be fascinated for 1 round for every 2 sorcerer levels you possess (minimum 1). This is a mind-affecting, illusion (pattern) effect. You can use this ability a number of times per day equal to 3 + your Charisma modifier. This bloodline power replaces laughing touch."
+			]
 		},
 		{
 			"name": "Empyreal",
 			"file": "wildbloodeddisplay03bd.html",
 			"base_bloodline": "Celestial",
-			"short_description": "Your heavenly power derives from insight rather than force of personality."
+			"short_description": "Your heavenly power derives from insight rather than force of personality.",
+			"info": [
+				"Wildblooded - Sorcerer",
+				"Empyreal",
+				"Source <a href=\"http://paizo.com/pathfinderRPG/v5748btpy8k8r\">Ultimate Magic pg. 71</a>",
+				"Your heavenly power derives from insight rather than force of personality.",
+				"Associated Bloodline: Celestial.",
+				"Bloodline Arcana: Unlike most sorcerers whose innate magic is powered by force of personality, you use pure willpower to master and fuel your magic. You use your Wisdom, rather than your Charisma, to determine all class features and effects relating to your sorcerer class, such as bonus spells per day, maximum spell level you can cast, and the save DCs of your spells. You gain a +2 bonus on all Heal and Knowledge (religion) checks.",
+				"Bloodline Powers: Your quasi-divine nature gives you strange powers.",
+				"Sacred Cistern (Su): At 9th level, your bloodline makes you a natural receptacle of divine energy. You can channel energy once per day as a cleric of your sorcerer level - 4. This bloodline power replaces wings of heaven."
+			]
 		},
 		{
 			"name": "Envenomed",
 			"file": "wildbloodeddisplay264d.html",
 			"base_bloodline": "Serpentine",
-			"short_description": "The ophidian source of your bloodline has more to do with stealth and assassination than it does with leadership and alliances."
+			"short_description": "The ophidian source of your bloodline has more to do with stealth and assassination than it does with leadership and alliances.",
+			"info": [
+				"Wildblooded - Sorcerer",
+				"Envenomed",
+				"Source <a href=\"http://paizo.com/pathfinderRPG/v5748btpy8k8r\">Ultimate Magic pg. 71</a>",
+				"The ophidian source of your bloodline has more to do with stealth and assassination than it does with leadership and alliances.",
+				"Associated Bloodline: Serpentine.",
+				"Bloodline Arcana: You gain a +2 bonus on Acrobatics, Climb, and Stealth checks.",
+				"Bloodline Powers: The stink of poison taints your magic.",
+				"Envenom (Su): At 3rd level, as a swift action, you can lick or bite a melee weapon to imbue it with 1 dose of black adder venom. The poison's DC is equal to 10 + 1/2 your sorcerer level + your Charisma modifier. You may use this ability once per day at 3rd level, and one additional time per day for every three additional levels. The poison cannot be removed or stored, and the weapon loses the benefit of the poison after the first successful attack or 1 hour has passed. The bloodline power replaces serpentfriend."
+			]
 		},
 		{
 			"name": "Groveborn",
 			"file": "wildbloodeddisplayda14.html",
 			"base_bloodline": "Verdant",
-			"short_description": "Some plant magic is more green, while some is more brown, like hardwood."
+			"short_description": "Some plant magic is more green, while some is more brown, like hardwood.",
+			"info": [
+				"Wildblooded - Sorcerer",
+				"Groveborn",
+				"Source <a href=\"http://paizo.com/pathfinderRPG/v5748btpy8k8r\">Ultimate Magic pg. 71</a>",
+				"Some plant magic is more green, while some is more brown, like hardwood.",
+				"Associated Bloodline: Verdant.",
+				"Bloodline Arcana: Your powers of compulsion can affect even plant creatures. Whenever you cast a mind-affecting or language-dependent spell, it affects creatures of the plant type as if they were humanoids that understood your language.",
+				"Bloodline Powers: Your nature powers create tough, resilient minions.",
+				"Lush Summoning (Su): At 3rd level, whenever you summon creatures with a conjuration (summoning) spell, you can decide that they appear green and leafy. The natural armor bonus of such creatures is increased by +2, and they gain a +4 bonus on saves against paralysis, poison, polymorph, sleep, and stunning. This bloodline power replaces photosynthesis."
+			]
 		},
 		{
 			"name": "Karmic",
 			"file": "wildbloodeddisplaya417.html",
 			"base_bloodline": "Destined",
-			"short_description": "The universe punishes those who interfere with destiny."
+			"short_description": "The universe punishes those who interfere with destiny.",
+			"info": [
+				"Wildblooded - Sorcerer",
+				"Karmic",
+				"Source <a href=\"http://paizo.com/pathfinderRPG/v5748btpy8k8r\">Ultimate Magic pg. 71</a>",
+				"The universe punishes those who interfere with destiny.",
+				"Associated Bloodline: Destined.",
+				"Bloodline Arcana: If you are casting defensively because a creature is threatening you and you fail your concentration check, one of the creatures that is threatening you provokes an attack of opportunity from you or from one ally who is adjacent to the enemy. You decide which creature provokes this attack and which of its adjacent opponents may make the attack.",
+				"Bloodline Powers: Your blood responds angrily when you are attacked.",
+				"Fate's Retribution (Su): Starting at 1st level, when you are hit by a melee attack, as an immediate action, you can curse the creature that struck you. The target takes a -2 penalty on all attack and damage rolls for 1d4 rounds. A Will save (DC 10 + 1/2 your sorcerer level + your Charisma modifier) negates this effect. You can use this ability a number of times per day equal to 3 + your Charisma modifier. This bloodline power replaces touch of destiny."
+			]
 		},
 		{
 			"name": "Lifewater",
 			"file": "wildbloodeddisplaya987.html",
 			"base_bloodline": "Elemental (water)",
-			"short_description": "Your soul is infused with the restorative and life-giving powers of elemental water."
+			"short_description": "Your soul is infused with the restorative and life-giving powers of elemental water.",
+			"info": [
+				"Wildblooded - Sorcerer",
+				"Lifewater",
+				"Source <a href=\"http://paizo.com/products/btpy978p?Pathfinder-Player-Companion-Blood-of-the-Elements\">Blood of the Elements pg. 15</a>",
+				"Your soul is infused with the restorative and life-giving powers of elemental water.",
+				"Associated Bloodline: Elemental (water).",
+				"Bloodline Arcana: Anytime you cast a spell with the cold or water descriptor, you gain a number of temporary hit points equal to the level of the spell cast. You can grant up to half of these temporary hit points to an adjacent ally, in which case you gain the remaining temporary hit points. These temporary hit points last 1 minute.",
+				"Bloodline Powers: Your powers are revitalizing rather than destructive.",
+				"Lifewater Stream (Su): At 9th level, once per day, you can unleash a surge of restorative elemental water that aids your allies. This ability affects creatures in a 30-foot line extending from your palm, and you can select one of the following conditions to remove from the affected creatures: fatigued, shaken, or sickened. Creatures affected by a more extreme version of the chosen condition (such as exhausted for fatigued, frightened for shaken, and nauseated for sickened) have their condition reduced to the less extreme version. At 17th level, you can use this ability twice per day, and you can choose from the following additional conditions: blinded, deafened, dazed, and staggered. At 20th level, you can use this ability three times per day. This bloodline power replaces elemental blast."
+			]
 		},
 		{
 			"name": "Linnorm",
 			"file": "wildbloodeddisplay4055.html",
 			"base_bloodline": "Draconic",
-			"short_description": "Your draconic heritage stems from a mighty, primordial linnorm rather than from the more common, somewhat civilized dragons."
+			"short_description": "Your draconic heritage stems from a mighty, primordial linnorm rather than from the more common, somewhat civilized dragons.",
+			"info": [
+				"Wildblooded - Sorcerer",
+				"Linnorm",
+				"Source <a href=\"http://paizo.com/pathfinderRPG/v5748btpy8k8r\">Ultimate Magic pg. 71</a>",
+				"Your draconic heritage stems from a mighty, primordial linnorm rather than from the more common, somewhat civilized dragons.",
+				"Associated Bloodline: Draconic.",
+				"Bloodline Arcana: Whenever you cast a spell with an energy descriptor that matches your linnorm bloodline's energy type, you gain a natural armor bonus equal to the spell's level for 1d4 rounds.",
+				"Bloodline Powers: True dragons blast their foes with rays of energy.",
+				"Elemental Spit (Su): Starting at 1st level, you can fire an elemental ray that matches your linnorm bloodline's energy type as a standard action, targeting any foe within 30 feet as a ranged touch attack. The ray deals 1d6 points of damage + 1 for every two sorcerer levels you possess. You can use this ability a number of times per day equal to 3 + your Charisma modifier. This bloodline power replaces claws."
+			]
 		},
 		{
 			"name": "Pit-Touched",
 			"file": "wildbloodeddisplay0675.html",
 			"base_bloodline": "Infernal",
-			"short_description": "Your diabolic corruption is from a source in the deepest parts of Hell."
+			"short_description": "Your diabolic corruption is from a source in the deepest parts of Hell.",
+			"info": [
+				"Wildblooded - Sorcerer",
+				"Pit-Touched",
+				"Source <a href=\"http://paizo.com/pathfinderRPG/v5748btpy8k8r\">Ultimate Magic pg. 71</a>",
+				"Your diabolic corruption is from a source in the deepest parts of Hell.",
+				"Associated Bloodline: Infernal.",
+				"Bloodline Arcana: Whenever you cast a spell, you gain a bonus on Intimidate checks equal to the spell's level for 1 round.",
+				"Bloodline Powers: The crushing weight of evil has given you the strength to endure.",
+				"Tough as Hell (Ex): At 9th level, you gain a +2 inherent bonus to your Constitution. This bonus increases to +4 at 13th level, and to +6 at 17th level. This bloodline power replaces hellfire."
+			]
 		},
 		{
 			"name": "Primal",
 			"file": "wildbloodeddisplay44d6.html",
 			"base_bloodline": "Elemental",
-			"short_description": "Your powers are attuned to the concentrated core of the elemental plane."
+			"short_description": "Your powers are attuned to the concentrated core of the elemental plane.",
+			"info": [
+				"Wildblooded - Sorcerer",
+				"Primal",
+				"Source <a href=\"http://paizo.com/pathfinderRPG/v5748btpy8k8r\">Ultimate Magic pg. 72</a>",
+				"Your powers are attuned to the concentrated core of the elemental plane.",
+				"Associated Bloodline: Elemental.",
+				"Bloodline Arcana: Whenever you cast a spell with an energy descriptor that matches your elemental bloodline's energy type, that spell deals +1 point of damage per die rolled.",
+				"Bloodline Powers: You can infuse raw energy into your summoned minions.",
+				"Elementalist Summoning (Su): At 9th level, whenever you summon a creature, it gains energy resistance 10 against the energy type that matches your elemental bloodline (if it already has such resistance, its resistance increases by +5), and its natural attacks deal an additional 1d6 points of damage of the same energy type. This bloodline power replaces elemental blast."
+			]
 		},
 		{
 			"name": "Retribution",
 			"file": "wildbloodeddisplayc168.html",
 			"base_bloodline": "Martyred",
-			"short_description": "One of your ancestors was unjustly executed, and your soul is infused with this forebear's vengeful spirit."
+			"short_description": "One of your ancestors was unjustly executed, and your soul is infused with this forebear's vengeful spirit.",
+			"info": [
+				"Wildblooded - Sorcerer",
+				"Retribution",
+				"Source <a href=\"http://paizo.com/products/btpy978r?Pathfinder-Player-Companion-People-of-the-River\">People of the River pg. 11</a>",
+				"One of your ancestors was unjustly executed, and your soul is infused with this forebear's vengeful spirit.",
+				"Associated Bloodline: Martyred.",
+				"Bloodline Arcana: Whenever a creature damages you, until the end of your next turn if you apply a metamagic feat to a spell that targets that creature, reduce the spell level increase of that metamagic feat by 1 (minimum 0).",
+				"Bloodline Powers: You never forgive those who wrong you.",
+				"Vengeful Strike (Su): At 9th level, once per day after a foe has damaged you in melee, as an immediate action you can deal the same amount and type of damage to your foe (maximum amount of damage equal to double your character level). At 17th level, you can use this ability twice per day. This bloodline power replaces gift of blood."
+			]
 		},
 		{
 			"name": "Rime-Blooded",
 			"file": "wildbloodeddisplayb1c9.html",
 			"base_bloodline": "Boreal",
-			"short_description": "The wintry origin of your magic flows like ice water in your veins."
+			"short_description": "The wintry origin of your magic flows like ice water in your veins.",
+			"info": [
+				"Wildblooded - Sorcerer",
+				"Rime-Blooded",
+				"Source <a href=\"http://paizo.com/pathfinderRPG/v5748btpy8k8r\">Ultimate Magic pg. 72</a>",
+				"The wintry origin of your magic flows like ice water in your veins.",
+				"Associated Bloodline: Boreal.",
+				"Bloodline Arcana: Whenever you cast a spell with the cold descriptor, you may select one target of the spell to be slowed (as the spell) for 1 round. A Fortitude save (DC 10 + the level of cold spell + your Charisma modifier) negates the effect.",
+				"Bloodline Powers: Sometimes you must bring the cold to your enemies.",
+				"Freezing Bolt (Sp): At 9th level, you can cause the air to erupt in freezing sleet. This 10-foot-radius burst does 1d6 points of cold damage per sorcerer level (Reflex half). The DC of this save is equal to 10 + 1/2 your sorcerer level + your Charisma modifier. At 9th level, you can use this ability once per day. At 17th level, you can use this ability twice per day. At 20th level, you can use this ability three times per day. This power has a range of 60 feet. This bloodline power replaces snow shroud."
+			]
 		},
 		{
 			"name": "Sage",
 			"file": "wildbloodeddisplay3403.html",
 			"base_bloodline": "Arcane",
-			"short_description": "Scholars of the arcane are always creating new means to use magic."
+			"short_description": "Scholars of the arcane are always creating new means to use magic.",
+			"info": [
+				"Wildblooded - Sorcerer",
+				"Sage",
+				"Source <a href=\"http://paizo.com/pathfinderRPG/v5748btpy8k8r\">Ultimate Magic pg. 72</a>",
+				"Scholars of the arcane are always creating new means to use magic.",
+				"Associated Bloodline: Arcane.",
+				"Bloodline Arcana: Unlike most sorcerers, whose innate magic is powered by force of personality, you use your intellect to understand and master your mystic powers. You use your Intelligence, rather than your Charisma, to determine all class features and effects relating to your sorcerer class, such as bonus spells per day, the maximum spell level you can cast, the save DCs of your spells, and the number of daily uses of your bloodline powers. You gain a +2 bonus on all Knowledge (arcana) and Spellcraft checks.",
+				"Bloodline Powers: Your preferred focus is a bolt of mind-spun magic.",
+				"Arcane Bolt (Sp): Starting at 1st level, you can unleash a ray of magic force as a standard action, targeting any foe within 30 feet as a ranged touch attack. This ray deals 1d4 points of damage + 1 for every two sorcerer levels you possess. This damage is treated as a spell of a level equal to half your sorcerer level, and is a force effect. You can use this ability a number of times per day equal to 3 + your Charisma modifier. This bloodline power replaces arcane bond."
+			]
 		},
 		{
 			"name": "Sanguine",
 			"file": "wildbloodeddisplay354f.html",
 			"base_bloodline": "Undead",
-			"short_description": "The power of undeath can derive from cold blood as well as hard bone."
+			"short_description": "The power of undeath can derive from cold blood as well as hard bone.",
+			"info": [
+				"Wildblooded - Sorcerer",
+				"Sanguine",
+				"Source <a href=\"http://paizo.com/pathfinderRPG/v5748btpy8k8r\">Ultimate Magic pg. 72</a>",
+				"The power of undeath can derive from cold blood as well as hard bone.",
+				"Associated Bloodline: Undead.",
+				"Bloodline Arcana: Whenever you cast a spell of the necromancy school, your effective caster level is increased by 1.",
+				"Bloodline Powers: Your magic emulates that of the hungry dead.",
+				"The Blood Is the Life (Su): At 1st level, you can gain sustenance from the blood of the recently dead. As a standard action, you can drink the blood of a creature that died within the past minute. The creature must be corporeal, must be at least the same size as you, and must have blood. This ability heals you 1d6 hit points and nourishes you as if you'd had a full meal. You may use this ability a number of times per day equal to 3 + your Charisma modifier. This bloodline power replaces grave touch."
+			]
 		},
 		{
 			"name": "Seaborn",
 			"file": "wildbloodeddisplayddb9.html",
 			"base_bloodline": "Aquatic",
-			"short_description": "Your powers rise like the tides."
+			"short_description": "Your powers rise like the tides.",
+			"info": [
+				"Wildblooded - Sorcerer",
+				"Seaborn",
+				"Source <a href=\"http://paizo.com/pathfinderRPG/v5748btpy8k8r\">Ultimate Magic pg. 72</a>",
+				"Your powers rise like the tides.",
+				"Associated Bloodline: Aquatic.",
+				"Bloodline Arcana: When you are in a body of water large enough to float in, your effective caster level is increased by 1.",
+				"Bloodline Powers: You prefer to attack with water rather than to leech it away.",
+				"Water Blast (Sp): As a standard action, you can fire a bolt of water at a foe within 30 feet as a ranged touch attack. The foe is knocked prone, and at your option may be pushed 5 feet directly away from you. A reflex save (DC 10 +1/2 your sorcerer level + your Charisma modifier) negates this effect. You can use this ability a number of times per day equal to 3 + your Charisma modifier. This bloodline power replaces dehydrating touch."
+			]
 		},
 		{
 			"name": "Shahzada",
 			"file": "wildbloodeddisplay86d1.html",
 			"base_bloodline": "Marid",
-			"short_description": "You are descended from the ranks of noble marids, making your blood royal as well as magical."
+			"short_description": "You are descended from the ranks of noble marids, making your blood royal as well as magical.",
+			"info": [
+				"Wildblooded - Sorcerer",
+				"Shahzada",
+				"Source <a href=\"http://paizo.com/products/btpy978p?Pathfinder-Player-Companion-Blood-of-the-Elements\">Blood of the Elements pg. 15</a>",
+				"You are descended from the ranks of noble marids, making your blood royal as well as magical.",
+				"Associated Bloodline: Marid.",
+				"Bloodline Arcana: Whenever you cast a spell with the water descriptor, you gain a swim speed of 30 feet for a number of rounds equal to double the level of the spell cast.",
+				"Bloodline Powers: Your mastery over water is coupled with the power to alter it.",
+				"Sweeping Waves (Su): At 15th level, you can summon a wave of water from within, which pours from your mouth and violently sweeps creatures away from you on all sides. Creatures within 5 feet of you must succeed at a Ref lex save (the DC is equal to 10 + 1/2 your sorcerer level + your Charisma modifier) or take a number of points of damage equal to 1d6 + 1 per 2 sorcerer levels you possess. Additionally, the waves of water bull rush each affected creature, using your caster level as your base attack bonus and your Charisma modifier as your Strength modifier to determine the CMB of the bull rush. A successful save halves the damage and negates the bull rush. This bloodline power replaces elemental movement."
+			]
 		},
 		{
 			"name": "Sylvan",
 			"file": "wildbloodeddisplay6ae9.html",
 			"base_bloodline": "Fey",
-			"short_description": "Your ties to nature have more to do with creatures than with capriciousness."
+			"short_description": "Your ties to nature have more to do with creatures than with capriciousness.",
+			"info": [
+				"Wildblooded - Sorcerer",
+				"Sylvan",
+				"Source <a href=\"http://paizo.com/pathfinderRPG/v5748btpy8k8r\">Ultimate Magic pg. 72</a>",
+				"Your ties to nature have more to do with creatures than with capriciousness.",
+				"Associated Bloodline: Fey.",
+				"Bloodline Arcana: See bloodline powers.",
+				"Bloodline Powers: Your magic shows a kinship to that of the beast-talkers and shapechanger fey.",
+				"Animal Companion (Ex): You gain an animal companion. Your effective druid level for this ability is equal to your sorcerer level - 3 (minimum 1st). This bloodline power counts as your bloodline arcana and also replaces laughing touch.",
+				"Fey Wings (Su): At 15th level, you can grow insectlike wings from your back and become one size category smaller (as if you had used reduce person), gaining a fly speed of 60 feet with average maneuverability. You can maintain this form for 1 minute per level. This duration does not need to be consecutive, but it must be used in 1-minute increments. This bloodline power replaces fey magic."
+			]
 		},
 		{
 			"name": "Umbral",
 			"file": "wildbloodeddisplayaa9c.html",
 			"base_bloodline": "Shadow",
-			"short_description": "Your nature is to gather the darkness into yourself."
+			"short_description": "Your nature is to gather the darkness into yourself.",
+			"info": [
+				"Wildblooded - Sorcerer",
+				"Umbral",
+				"Source <a href=\"http://paizo.com/pathfinderRPG/v5748btpy8k8r\">Ultimate Magic pg. 73</a>",
+				"Your nature is to gather the darkness into yourself.",
+				"Associated Bloodline: Shadow.",
+				"Bloodline Arcana: Whenever you cast a spell in an area of dim light or darkness, your effective caster level is increased by 1.",
+				"Bloodline Powers: Your shadow magic is more defensive than offensive.",
+				"Cloak of Shadows (Sp): At 1st level, as a standard action, you can grant one target a cloak of shadows. This cloak gives the target a bonus on Stealth checks made in areas of dim or no light equal to 1/2 your sorcerer level for 1 round per 2 sorcerer levels you possess (minimum +1 bonus for 1 round). You may use this ability a number of times per day equal to 3 + your Charisma modifier. This bloodline power replaces shadowstrike."
+			]
 		},
 		{
 			"name": "Visionary",
 			"file": "wildbloodeddisplay552d.html",
 			"base_bloodline": "Dreamspun",
-			"short_description": "Your dream-magic strongly influences the waking world."
+			"short_description": "Your dream-magic strongly influences the waking world.",
+			"info": [
+				"Wildblooded - Sorcerer",
+				"Visionary",
+				"Source <a href=\"http://paizo.com/pathfinderRPG/v5748btpy8k8r\">Ultimate Magic pg. 73</a>",
+				"Your dream-magic strongly influences the waking world.",
+				"Associated Bloodline: Dreamspun.",
+				"Bloodline Arcana: Though you can still only regain spells once per day, you need only a single hour of sleep prior to doing so. (You still risk fatigue as normal if you don't receive enough rest.)",
+				"Bloodline Powers: Your dreams hint at the future.",
+				"Visions (Sp): At 9th level, when you sleep, you can gain information through prophetic visions. Once per day when sleeping, you may gain information about actions taken in the next week as if you had cast a divination spell. You can gain information about a single question at 9th level. At 17th level, you can have two questions answered while you sleep, and at 20th level, three questions. This bloodline power replaces dreamshaper."
+			]
 		},
 		{
 			"name": "Void-Touched",
 			"file": "wildbloodeddisplayfa28.html",
 			"base_bloodline": "Starsoul",
-			"short_description": "The darkness between the stars calls to you."
+			"short_description": "The darkness between the stars calls to you.",
+			"info": [
+				"Wildblooded - Sorcerer",
+				"Void-Touched",
+				"Source <a href=\"http://paizo.com/pathfinderRPG/v5748btpy8k8r\">Ultimate Magic pg. 73</a>",
+				"The darkness between the stars calls to you.",
+				"Associated Bloodline: Starsoul.",
+				"Bloodline Arcana: Whenever you cast an evocation spell, you may select one affected target that fails its save to suffer the choking airlessness of the void, silencing it (as silence, but affecting only the target) for 1 round. This is a supernatural ability.",
+				"Bloodline Powers: Your magic is blacker than any night.",
+				"Black Motes (Sp): This ability works exactly like (and replaces) minute meteors, except it deals cold damage.",
+				"Voidfield (Sp): At 9th level, you can create an area influenced by the black void. This ability acts as an ice storm, except the area is also subject to deeper darkness for 1 round per four sorcerer levels. You may use this ability once per day at 3rd level, and one additional time per day for every three additional levels. The bloodline power replaces aurora borealis."
+			]
 		},
 		{
 			"name": "Warped",
 			"file": "wildbloodeddisplayae85.html",
 			"base_bloodline": "Aberrant",
-			"short_description": "The alien taint in your blood causes malformations and mutations in others."
+			"short_description": "The alien taint in your blood causes malformations and mutations in others.",
+			"info": [
+				"Wildblooded - Sorcerer",
+				"<table class=\"table\">",
+				"<tr>",
+				"<td>Warped",
+				"Source <a href=\"http://paizo.com/pathfinderRPG/v5748btpy8k8r\">Ultimate Magic pg. 73</a>",
+				"The alien taint in your blood causes malformations and mutations in others.",
+				"Associated Bloodline: Aberrant.",
+				"Bloodline Arcana: Whenever you cast a spell of the polymorph subschool, one target of your choice may receive one random effect from the Warped Polymorph Benefits table (see below). This bonus lasts as long as the polymorph effect on the target.",
+				"Bloodline Powers: Your strange blood brings out the worst in people.",
+				"Warp Touch (Sp): Starting at 1st level, you create brief, disorienting changes in a creature's physical form. This ability affects one creature within 30 feet, which is dazed for 1 round (Fortitude negates; DC 10 + 1/2 your sorcerer level + your Charisma modifier). You can use this ability a number of times per day equal to 3 + your Charisma modifier. This bloodline power replaces acidic ray.",
+				"<table class=\"inner\"><tr><td>d12</td><td> Effect</td></tr> <tr><td>1</td><td> Double-Jointed: +2 on Escape Artist checks.</td></tr> <tr><td>2</td><td> Webbed Digits: +2 on Swim checks.</td></tr> <tr><td>3</td><td> Iron Grip: +2 on Climb checks and to CMD against disarm maneuvers.</td></tr> <tr><td>4</td><td> Bug Eyes: +2 on Perception checks.</td></tr> <tr><td>5</td><td> Camouflage: +2 on Stealth checks.</td></tr> <tr><td>6</td><td> Tough Hide: +1 natural armor bonus.</td></tr> <tr><td>7</td><td> Hardy: +1 on Fortitude saving throws.</td></tr> <tr><td>8</td><td> Lively: +1 on Reflex saving throws.</td></tr> <tr><td>9</td><td> Astute: +1 on Will saves.</td></tr> <tr><td>10</td><td> Quick: +5 ft. movement rate.</td></tr> <tr><td>11</td><td> Vicious: +1 on melee attack rolls.</td></tr> <tr><td>12</td><td> Eagle Eyes: +1 on ranged attack rolls.</td></tr></table></td>",
+				"</tr>",
+				"</table>"
+			]
 		}
 	]
 }
