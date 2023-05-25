@@ -11,10 +11,9 @@
 			"file": "wildbloodeddisplay28b3.html",
 			"base_bloodline": "Protean",
 			"short_description": "Your magical power taps into pure anarchy.",
-			"info": [
-				"Wildblooded - Sorcerer",
-				"Anarchic",
-				"Source <a href=\"http://paizo.com/pathfinderRPG/v5748btpy8k8r\">Ultimate Magic pg. 70</a>",
+			"sources": [ "Ultimate Magic" ],
+			"description": [
+				"Source [Ultimate Magic pg. 70](source:Ultimate Magic)",
 				"Your magical power taps into pure anarchy.",
 				"Associated Bloodline: Protean.",
 				"Bloodline Arcana: Whenever you fail a concentration check to cast a spell, a cantrip effect is created. Randomly determine one of your cantrips known (for example, if you know 6 cantrips, roll 1d6). There is a 50% chance this cantrip affects a target of your choice within 60 feet; otherwise it affects you.",
@@ -27,10 +26,9 @@
 			"file": "wildbloodeddisplayd8cf.html",
 			"base_bloodline": "Stormborn",
 			"short_description": "Your magic is more focused on the power of air and rain than on lightning and thunder.",
-			"info": [
-				"Wildblooded - Sorcerer",
-				"Arial",
-				"Source <a href=\"http://paizo.com/pathfinderRPG/v5748btpy8k8r\">Ultimate Magic pg. 70</a>",
+			"sources": [ "Ultimate Magic" ],
+			"description": [
+				"Source [Ultimate Magic pg. 70](source:Ultimate Magic)",
 				"Your magic is more focused on the power of air and rain than on lightning and thunder.",
 				"Associated Bloodline: Stormborn.",
 				"Bloodline Arcana: Whenever outdoors during any form of precipitation, your effective caster level is increased by 2.",
@@ -43,10 +41,9 @@
 			"file": "wildbloodeddisplay07aa.html",
 			"base_bloodline": "Deep Earth",
 			"short_description": "Your earth magic is more defensive than offensive.",
-			"info": [
-				"Wildblooded - Sorcerer",
-				"Bedrock",
-				"Source <a href=\"http://paizo.com/pathfinderRPG/v5748btpy8k8r\">Ultimate Magic pg. 70</a>",
+			"sources": [ "Ultimate Magic" ],
+			"description": [
+				"Source [Ultimate Magic pg. 70](source:Ultimate Magic)",
 				"Your earth magic is more defensive than offensive.",
 				"Associated Bloodline: Deep Earth.",
 				"Bloodline Arcana: Whenever you cast a spell of the summoning subschool, the creatures summoned gain DR/adamantine equal to 1/2 your sorcerer level (minimum 1). This does not stack with any DR the creature might have.",
@@ -59,10 +56,9 @@
 			"file": "wildbloodeddisplay2249.html",
 			"base_bloodline": "Abyssal",
 			"short_description": "The powers of the Abyss can vary radically, even for similar fiends.",
-			"info": [
-				"Wildblooded - Sorcerer",
-				"Brutal",
-				"Source <a href=\"http://paizo.com/pathfinderRPG/v5748btpy8k8r\">Ultimate Magic pg. 70</a>",
+			"sources": [ "Ultimate Magic" ],
+			"description": [
+				"Source [Ultimate Magic pg. 70](source:Ultimate Magic)",
 				"The powers of the Abyss can vary radically, even for similar fiends.",
 				"Associated Bloodline: Abyssal.",
 				"Bloodline Arcana: Whenever you cast a spell that deals hit point damage, one target of your choice affected by the spell takes 2 additional hit points of damage. This ability has no effect on spells that do not deal hit point damage (such as ability score damage).",
@@ -75,10 +71,9 @@
 			"file": "wildbloodeddisplay5147.html",
 			"base_bloodline": "Fey",
 			"short_description": "Your powers were born of malevolent trickery and shadowy First World magic.",
-			"info": [
-				"Wildblooded - Sorcerer",
-				"Dark Fey",
-				"Source <a href=\"http://paizo.com/products/btpy978r?Pathfinder-Player-Companion-People-of-the-River\">People of the River pg. 11</a>",
+			"sources": [ "People of the River" ],
+			"description": [
+				"Source [People of the River pg. 11](source:People of the River)",
 				"Your powers were born of malevolent trickery and shadowy First World magic.",
 				"Associated Bloodline: Fey.",
 				"Bloodline Arcana: Whenever you cast a spell with the curse subtype, increase the spell's DC by 2.",
@@ -91,10 +86,9 @@
 			"file": "wildbloodeddisplay03bd.html",
 			"base_bloodline": "Celestial",
 			"short_description": "Your heavenly power derives from insight rather than force of personality.",
-			"info": [
-				"Wildblooded - Sorcerer",
-				"Empyreal",
-				"Source <a href=\"http://paizo.com/pathfinderRPG/v5748btpy8k8r\">Ultimate Magic pg. 71</a>",
+			"sources": [ "Ultimate Magic" ],
+			"description": [
+				"Source [Ultimate Magic pg. 71](source:Ultimate Magic)",
 				"Your heavenly power derives from insight rather than force of personality.",
 				"Associated Bloodline: Celestial.",
 				"Bloodline Arcana: Unlike most sorcerers whose innate magic is powered by force of personality, you use pure willpower to master and fuel your magic. You use your Wisdom, rather than your Charisma, to determine all class features and effects relating to your sorcerer class, such as bonus spells per day, maximum spell level you can cast, and the save DCs of your spells. You gain a +2 bonus on all Heal and Knowledge (religion) checks.",
@@ -107,10 +101,9 @@
 			"file": "wildbloodeddisplay264d.html",
 			"base_bloodline": "Serpentine",
 			"short_description": "The ophidian source of your bloodline has more to do with stealth and assassination than it does with leadership and alliances.",
-			"info": [
-				"Wildblooded - Sorcerer",
-				"Envenomed",
-				"Source <a href=\"http://paizo.com/pathfinderRPG/v5748btpy8k8r\">Ultimate Magic pg. 71</a>",
+			"sources": [ "Ultimate Magic" ],
+			"description": [
+				"Source [Ultimate Magic pg. 71](source:Ultimate Magic)",
 				"The ophidian source of your bloodline has more to do with stealth and assassination than it does with leadership and alliances.",
 				"Associated Bloodline: Serpentine.",
 				"Bloodline Arcana: You gain a +2 bonus on Acrobatics, Climb, and Stealth checks.",
@@ -123,10 +116,9 @@
 			"file": "wildbloodeddisplayda14.html",
 			"base_bloodline": "Verdant",
 			"short_description": "Some plant magic is more green, while some is more brown, like hardwood.",
-			"info": [
-				"Wildblooded - Sorcerer",
-				"Groveborn",
-				"Source <a href=\"http://paizo.com/pathfinderRPG/v5748btpy8k8r\">Ultimate Magic pg. 71</a>",
+			"sources": [ "Ultimate Magic" ],
+			"description": [
+				"Source [Ultimate Magic pg. 71](source:Ultimate Magic)",
 				"Some plant magic is more green, while some is more brown, like hardwood.",
 				"Associated Bloodline: Verdant.",
 				"Bloodline Arcana: Your powers of compulsion can affect even plant creatures. Whenever you cast a mind-affecting or language-dependent spell, it affects creatures of the plant type as if they were humanoids that understood your language.",
@@ -139,10 +131,9 @@
 			"file": "wildbloodeddisplaya417.html",
 			"base_bloodline": "Destined",
 			"short_description": "The universe punishes those who interfere with destiny.",
-			"info": [
-				"Wildblooded - Sorcerer",
-				"Karmic",
-				"Source <a href=\"http://paizo.com/pathfinderRPG/v5748btpy8k8r\">Ultimate Magic pg. 71</a>",
+			"sources": [ "Ultimate Magic" ],
+			"description": [
+				"Source [Ultimate Magic pg. 71](source:Ultimate Magic)",
 				"The universe punishes those who interfere with destiny.",
 				"Associated Bloodline: Destined.",
 				"Bloodline Arcana: If you are casting defensively because a creature is threatening you and you fail your concentration check, one of the creatures that is threatening you provokes an attack of opportunity from you or from one ally who is adjacent to the enemy. You decide which creature provokes this attack and which of its adjacent opponents may make the attack.",
@@ -155,10 +146,9 @@
 			"file": "wildbloodeddisplaya987.html",
 			"base_bloodline": "Elemental (water)",
 			"short_description": "Your soul is infused with the restorative and life-giving powers of elemental water.",
-			"info": [
-				"Wildblooded - Sorcerer",
-				"Lifewater",
-				"Source <a href=\"http://paizo.com/products/btpy978p?Pathfinder-Player-Companion-Blood-of-the-Elements\">Blood of the Elements pg. 15</a>",
+			"sources": [ "Blood of the Elements" ],
+			"description": [
+				"Source [Blood of the Elements pg. 15](source:Blood of the Elements)",
 				"Your soul is infused with the restorative and life-giving powers of elemental water.",
 				"Associated Bloodline: Elemental (water).",
 				"Bloodline Arcana: Anytime you cast a spell with the cold or water descriptor, you gain a number of temporary hit points equal to the level of the spell cast. You can grant up to half of these temporary hit points to an adjacent ally, in which case you gain the remaining temporary hit points. These temporary hit points last 1 minute.",
@@ -171,10 +161,9 @@
 			"file": "wildbloodeddisplay4055.html",
 			"base_bloodline": "Draconic",
 			"short_description": "Your draconic heritage stems from a mighty, primordial linnorm rather than from the more common, somewhat civilized dragons.",
-			"info": [
-				"Wildblooded - Sorcerer",
-				"Linnorm",
-				"Source <a href=\"http://paizo.com/pathfinderRPG/v5748btpy8k8r\">Ultimate Magic pg. 71</a>",
+			"sources": [ "Ultimate Magic" ],
+			"description": [
+				"Source [Ultimate Magic pg. 71](source:Ultimate Magic)",
 				"Your draconic heritage stems from a mighty, primordial linnorm rather than from the more common, somewhat civilized dragons.",
 				"Associated Bloodline: Draconic.",
 				"Bloodline Arcana: Whenever you cast a spell with an energy descriptor that matches your linnorm bloodline's energy type, you gain a natural armor bonus equal to the spell's level for 1d4 rounds.",
@@ -187,10 +176,9 @@
 			"file": "wildbloodeddisplay0675.html",
 			"base_bloodline": "Infernal",
 			"short_description": "Your diabolic corruption is from a source in the deepest parts of Hell.",
-			"info": [
-				"Wildblooded - Sorcerer",
-				"Pit-Touched",
-				"Source <a href=\"http://paizo.com/pathfinderRPG/v5748btpy8k8r\">Ultimate Magic pg. 71</a>",
+			"sources": [ "Ultimate Magic" ],
+			"description": [
+				"Source [Ultimate Magic pg. 71](source:Ultimate Magic)",
 				"Your diabolic corruption is from a source in the deepest parts of Hell.",
 				"Associated Bloodline: Infernal.",
 				"Bloodline Arcana: Whenever you cast a spell, you gain a bonus on Intimidate checks equal to the spell's level for 1 round.",
@@ -203,10 +191,9 @@
 			"file": "wildbloodeddisplay44d6.html",
 			"base_bloodline": "Elemental",
 			"short_description": "Your powers are attuned to the concentrated core of the elemental plane.",
-			"info": [
-				"Wildblooded - Sorcerer",
-				"Primal",
-				"Source <a href=\"http://paizo.com/pathfinderRPG/v5748btpy8k8r\">Ultimate Magic pg. 72</a>",
+			"sources": [ "Ultimate Magic" ],
+			"description": [
+				"Source [Ultimate Magic pg. 72](source:Ultimate Magic)",
 				"Your powers are attuned to the concentrated core of the elemental plane.",
 				"Associated Bloodline: Elemental.",
 				"Bloodline Arcana: Whenever you cast a spell with an energy descriptor that matches your elemental bloodline's energy type, that spell deals +1 point of damage per die rolled.",
@@ -219,10 +206,9 @@
 			"file": "wildbloodeddisplayc168.html",
 			"base_bloodline": "Martyred",
 			"short_description": "One of your ancestors was unjustly executed, and your soul is infused with this forebear's vengeful spirit.",
-			"info": [
-				"Wildblooded - Sorcerer",
-				"Retribution",
-				"Source <a href=\"http://paizo.com/products/btpy978r?Pathfinder-Player-Companion-People-of-the-River\">People of the River pg. 11</a>",
+			"sources": [ "People of the River" ],
+			"description": [
+				"Source [People of the River pg. 11](source:People of the River)",
 				"One of your ancestors was unjustly executed, and your soul is infused with this forebear's vengeful spirit.",
 				"Associated Bloodline: Martyred.",
 				"Bloodline Arcana: Whenever a creature damages you, until the end of your next turn if you apply a metamagic feat to a spell that targets that creature, reduce the spell level increase of that metamagic feat by 1 (minimum 0).",
@@ -235,10 +221,9 @@
 			"file": "wildbloodeddisplayb1c9.html",
 			"base_bloodline": "Boreal",
 			"short_description": "The wintry origin of your magic flows like ice water in your veins.",
-			"info": [
-				"Wildblooded - Sorcerer",
-				"Rime-Blooded",
-				"Source <a href=\"http://paizo.com/pathfinderRPG/v5748btpy8k8r\">Ultimate Magic pg. 72</a>",
+			"sources": [ "Ultimate Magic" ],
+			"description": [
+				"Source [Ultimate Magic pg. 72](source:Ultimate Magic)",
 				"The wintry origin of your magic flows like ice water in your veins.",
 				"Associated Bloodline: Boreal.",
 				"Bloodline Arcana: Whenever you cast a spell with the cold descriptor, you may select one target of the spell to be slowed (as the spell) for 1 round. A Fortitude save (DC 10 + the level of cold spell + your Charisma modifier) negates the effect.",
@@ -251,10 +236,9 @@
 			"file": "wildbloodeddisplay3403.html",
 			"base_bloodline": "Arcane",
 			"short_description": "Scholars of the arcane are always creating new means to use magic.",
-			"info": [
-				"Wildblooded - Sorcerer",
-				"Sage",
-				"Source <a href=\"http://paizo.com/pathfinderRPG/v5748btpy8k8r\">Ultimate Magic pg. 72</a>",
+			"sources": [ "Ultimate Magic" ],
+			"description": [
+				"Source [Ultimate Magic pg. 72](source:Ultimate Magic)",
 				"Scholars of the arcane are always creating new means to use magic.",
 				"Associated Bloodline: Arcane.",
 				"Bloodline Arcana: Unlike most sorcerers, whose innate magic is powered by force of personality, you use your intellect to understand and master your mystic powers. You use your Intelligence, rather than your Charisma, to determine all class features and effects relating to your sorcerer class, such as bonus spells per day, the maximum spell level you can cast, the save DCs of your spells, and the number of daily uses of your bloodline powers. You gain a +2 bonus on all Knowledge (arcana) and Spellcraft checks.",
@@ -267,10 +251,9 @@
 			"file": "wildbloodeddisplay354f.html",
 			"base_bloodline": "Undead",
 			"short_description": "The power of undeath can derive from cold blood as well as hard bone.",
-			"info": [
-				"Wildblooded - Sorcerer",
-				"Sanguine",
-				"Source <a href=\"http://paizo.com/pathfinderRPG/v5748btpy8k8r\">Ultimate Magic pg. 72</a>",
+			"sources": [ "Ultimate Magic" ],
+			"description": [
+				"Source [Ultimate Magic pg. 72](source:Ultimate Magic)",
 				"The power of undeath can derive from cold blood as well as hard bone.",
 				"Associated Bloodline: Undead.",
 				"Bloodline Arcana: Whenever you cast a spell of the necromancy school, your effective caster level is increased by 1.",
@@ -283,10 +266,9 @@
 			"file": "wildbloodeddisplayddb9.html",
 			"base_bloodline": "Aquatic",
 			"short_description": "Your powers rise like the tides.",
-			"info": [
-				"Wildblooded - Sorcerer",
-				"Seaborn",
-				"Source <a href=\"http://paizo.com/pathfinderRPG/v5748btpy8k8r\">Ultimate Magic pg. 72</a>",
+			"sources": [ "Ultimate Magic" ],
+			"description": [
+				"Source [Ultimate Magic pg. 72](source:Ultimate Magic)",
 				"Your powers rise like the tides.",
 				"Associated Bloodline: Aquatic.",
 				"Bloodline Arcana: When you are in a body of water large enough to float in, your effective caster level is increased by 1.",
@@ -299,10 +281,9 @@
 			"file": "wildbloodeddisplay86d1.html",
 			"base_bloodline": "Marid",
 			"short_description": "You are descended from the ranks of noble marids, making your blood royal as well as magical.",
-			"info": [
-				"Wildblooded - Sorcerer",
-				"Shahzada",
-				"Source <a href=\"http://paizo.com/products/btpy978p?Pathfinder-Player-Companion-Blood-of-the-Elements\">Blood of the Elements pg. 15</a>",
+			"sources": [ "Blood of the Elements" ],
+			"description": [
+				"Source [Blood of the Elements pg. 15](source:Blood of the Elements)",
 				"You are descended from the ranks of noble marids, making your blood royal as well as magical.",
 				"Associated Bloodline: Marid.",
 				"Bloodline Arcana: Whenever you cast a spell with the water descriptor, you gain a swim speed of 30 feet for a number of rounds equal to double the level of the spell cast.",
@@ -315,10 +296,9 @@
 			"file": "wildbloodeddisplay6ae9.html",
 			"base_bloodline": "Fey",
 			"short_description": "Your ties to nature have more to do with creatures than with capriciousness.",
-			"info": [
-				"Wildblooded - Sorcerer",
-				"Sylvan",
-				"Source <a href=\"http://paizo.com/pathfinderRPG/v5748btpy8k8r\">Ultimate Magic pg. 72</a>",
+			"sources": [ "Ultimate Magic" ],
+			"description": [
+				"Source [Ultimate Magic pg. 72](source:Ultimate Magic)",
 				"Your ties to nature have more to do with creatures than with capriciousness.",
 				"Associated Bloodline: Fey.",
 				"Bloodline Arcana: See bloodline powers.",
@@ -332,10 +312,9 @@
 			"file": "wildbloodeddisplayaa9c.html",
 			"base_bloodline": "Shadow",
 			"short_description": "Your nature is to gather the darkness into yourself.",
-			"info": [
-				"Wildblooded - Sorcerer",
-				"Umbral",
-				"Source <a href=\"http://paizo.com/pathfinderRPG/v5748btpy8k8r\">Ultimate Magic pg. 73</a>",
+			"sources": [ "Ultimate Magic" ],
+			"description": [
+				"Source [Ultimate Magic pg. 73](source:Ultimate Magic)",
 				"Your nature is to gather the darkness into yourself.",
 				"Associated Bloodline: Shadow.",
 				"Bloodline Arcana: Whenever you cast a spell in an area of dim light or darkness, your effective caster level is increased by 1.",
@@ -348,10 +327,9 @@
 			"file": "wildbloodeddisplay552d.html",
 			"base_bloodline": "Dreamspun",
 			"short_description": "Your dream-magic strongly influences the waking world.",
-			"info": [
-				"Wildblooded - Sorcerer",
-				"Visionary",
-				"Source <a href=\"http://paizo.com/pathfinderRPG/v5748btpy8k8r\">Ultimate Magic pg. 73</a>",
+			"sources": [ "Ultimate Magic" ],
+			"description": [
+				"Source [Ultimate Magic pg. 73](source:Ultimate Magic)",
 				"Your dream-magic strongly influences the waking world.",
 				"Associated Bloodline: Dreamspun.",
 				"Bloodline Arcana: Though you can still only regain spells once per day, you need only a single hour of sleep prior to doing so. (You still risk fatigue as normal if you don't receive enough rest.)",
@@ -364,10 +342,9 @@
 			"file": "wildbloodeddisplayfa28.html",
 			"base_bloodline": "Starsoul",
 			"short_description": "The darkness between the stars calls to you.",
-			"info": [
-				"Wildblooded - Sorcerer",
-				"Void-Touched",
-				"Source <a href=\"http://paizo.com/pathfinderRPG/v5748btpy8k8r\">Ultimate Magic pg. 73</a>",
+			"sources": [ "Ultimate Magic" ],
+			"description": [
+				"Source [Ultimate Magic pg. 73](source:Ultimate Magic)",
 				"The darkness between the stars calls to you.",
 				"Associated Bloodline: Starsoul.",
 				"Bloodline Arcana: Whenever you cast an evocation spell, you may select one affected target that fails its save to suffer the choking airlessness of the void, silencing it (as silence, but affecting only the target) for 1 round. This is a supernatural ability.",
@@ -381,20 +358,28 @@
 			"file": "wildbloodeddisplayae85.html",
 			"base_bloodline": "Aberrant",
 			"short_description": "The alien taint in your blood causes malformations and mutations in others.",
-			"info": [
-				"Wildblooded - Sorcerer",
-				"<table class=\"table\">",
-				"<tr>",
-				"<td>Warped",
-				"Source <a href=\"http://paizo.com/pathfinderRPG/v5748btpy8k8r\">Ultimate Magic pg. 73</a>",
+			"sources": [ "Ultimate Magic" ],
+			"description": [
+				"Source [Ultimate Magic pg. 73](source:Ultimate Magic)",
 				"The alien taint in your blood causes malformations and mutations in others.",
 				"Associated Bloodline: Aberrant.",
 				"Bloodline Arcana: Whenever you cast a spell of the polymorph subschool, one target of your choice may receive one random effect from the Warped Polymorph Benefits table (see below). This bonus lasts as long as the polymorph effect on the target.",
 				"Bloodline Powers: Your strange blood brings out the worst in people.",
 				"Warp Touch (Sp): Starting at 1st level, you create brief, disorienting changes in a creature's physical form. This ability affects one creature within 30 feet, which is dazed for 1 round (Fortitude negates; DC 10 + 1/2 your sorcerer level + your Charisma modifier). You can use this ability a number of times per day equal to 3 + your Charisma modifier. This bloodline power replaces acidic ray.",
-				"<table class=\"inner\"><tr><td>d12</td><td> Effect</td></tr> <tr><td>1</td><td> Double-Jointed: +2 on Escape Artist checks.</td></tr> <tr><td>2</td><td> Webbed Digits: +2 on Swim checks.</td></tr> <tr><td>3</td><td> Iron Grip: +2 on Climb checks and to CMD against disarm maneuvers.</td></tr> <tr><td>4</td><td> Bug Eyes: +2 on Perception checks.</td></tr> <tr><td>5</td><td> Camouflage: +2 on Stealth checks.</td></tr> <tr><td>6</td><td> Tough Hide: +1 natural armor bonus.</td></tr> <tr><td>7</td><td> Hardy: +1 on Fortitude saving throws.</td></tr> <tr><td>8</td><td> Lively: +1 on Reflex saving throws.</td></tr> <tr><td>9</td><td> Astute: +1 on Will saves.</td></tr> <tr><td>10</td><td> Quick: +5 ft. movement rate.</td></tr> <tr><td>11</td><td> Vicious: +1 on melee attack rolls.</td></tr> <tr><td>12</td><td> Eagle Eyes: +1 on ranged attack rolls.</td></tr></table></td>",
-				"</tr>",
-				"</table>"
+				"| d12 | Effect |",
+				"| --- | --- |",
+				"| 1 | Double-Jointed: +2 on Escape Artist checks |",
+				"| 2 | Webbed Digits: +2 on Swim checks |",
+				"| 3 | Iron Grip: +2 on Climb checks and to CMD against disarm maneuvers |",
+				"| 4 | Bug Eyes: +2 on Perception checks |",
+				"| 5 | Camouflage: +2 on Stealth checks |",
+				"| 6 | Tough Hide: +1 natural armor bonus |",
+				"| 7 | Hardy: +1 on Fortitude saving throws |",
+				"| 8 | Lively: +1 on Reflex saving throws |",
+				"| 9 | Astute: +1 on Will saves |",
+				"| 10 | Quick: +5 ft. movement rate |",
+				"| 11 | Vicious: +1 on melee attack rolls |",
+				"| 12 | Eagle Eyes: +1 on ranged attack rolls |"
 			]
 		}
 	]
