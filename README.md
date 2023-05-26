@@ -203,22 +203,22 @@ Each `bestow_` property has a corresponding `remove_` property
   - ~~monk and UC ki powers, vows, style strikes~~
   - ~~ninja tricks~~
   - occultist implements
-  - oracle mysteries, ~~curses~~
-  - paladin oaths, ~~divine bonds, mercies~~
-  - psychic ~~phrenic amps,~~ disciplines
+  - ~~oracle mysteries, curses~~
+  - ~~paladin oaths, divine bonds, mercies~~
+  - ~~psychic phrenic amps, disciplines~~
   - ~~ranger combat styles~~
   - ~~rogue and UC talents, skill unlocks~~
   - ~~samurai~~
-  - shaman hexes, spirits
+  - ~~shaman hexes, spirits~~
   - shifter aspects
   - skald ~~sagas, rage powers (barb), masterpieces,~~ advanced versatile performances (bard)
   - ~~slayer talents~~
-  - sorcerer bloodlines, wildbloods
+  - ~~sorcerer bloodlines, wildbloods~~
   - summoner and UC evolutions
   - ~~swashbuckler deeds~~
   - ~~vigilante talents~~
   - ~~warpriest blessings~~
-  - witch hexes, patrons, unique patrons
+  - ~~witch hexes, patrons, unique patrons~~
   - wizard ~~arcane discoveries, familiars,~~ schools
   - PHANTOM focuses
 - Archetypes (under classes)

@@ -1,0 +1,79 @@
+{
+	"sources": [
+		"Occult Adventures",
+		"Psychic Anthology"
+	],
+	"description": [
+		"**Implements**",
+		"Occultists can chose from the following implement schools, each representing a school of magic. An occultist can select an implement school more than once, as noted in the implements class feature.",
+		"**Panoplies**",
+		"While many occultists focus on the inherent psychic properties of certain types of objects, some specialists take their studies a step further, exploring the ways specific types of implements interact with one another. While not all implements psychically resonate with all other kinds of implements, such panoplies unlock even greater magical potential when used to complement one another.",
+		"An occultist can select a panoply anytime he selects a new implement school. To do so, he must already have learned to use the implement school of each implement within the panoply at least once. As with any other implement school, when an occultist learns to use a panoply, he gains access to the resonant power and base focus power, and he becomes able to learn the panoply's other focus powers. He also adds one spell of each spell level to his spell list, and these spells can be taken from any of the implement schools associated with the panoply. To use a panoply's resonant power or any of its focus powers, the occultist must select and invest mental focus into the associated implements that day. A single bearer must hold all the panoply's associated implements to gain the panoply's resonant power, and the occultist counts the total number of points of mental focus invested among all of the associated implements to determine the resonant power's effect. The occultist can expend points of mental focus from any of the associated implements to use the panoply's focus powers. Unlike for other implement schools, an occultist cannot select a panoply more than once."
+	],
+	"list": [
+		{
+			"name": "Abjuration",
+			"file": "occultistimplementsdisplay358b.html",
+			"short_description": "Abjuration implements are objects associated with protection and wards."
+		},
+		{
+			"name": "Conjuration",
+			"file": "occultistimplementsdisplay27e8.html",
+			"short_description": "Implements used in conjuration allow the occultist to perform magic that transports or calls creatures."
+		},
+		{
+			"name": "Divination",
+			"file": "occultistimplementsdisplay3f63.html",
+			"short_description": "Implements of the divination school grant powers related to foresight and remote viewing."
+		},
+		{
+			"name": "Enchantment",
+			"file": "occultistimplementsdisplay21b2.html",
+			"short_description": "Enchantment implements allow the occultist to befuddle the mind and charm his foes."
+		},
+		{
+			"name": "Evocation",
+			"file": "occultistimplementsdisplayb0e9.html",
+			"short_description": "Implements focused on evocation grant the ability to create and direct energy to protect and to destroy."
+		},
+		{
+			"name": "Illusion",
+			"file": "occultistimplementsdisplay2703.html",
+			"short_description": "Illusion implements allow the occultist to distort the senses and cloak creatures from sight."
+		},
+		{
+			"name": "Necromancy",
+			"file": "occultistimplementsdisplay685a.html",
+			"short_description": "Implements that draw power from necromancy can control undead and harm the living."
+		},
+		{
+			"name": "Transmutation",
+			"file": "occultistimplementsdisplayfc8f.html",
+			"short_description": "Transmutation implements can alter the properties of both objects and creatures."
+		},
+		{
+			"name": "Mage's Paraphernalia",
+			"file": "occultistimplementsdisplay60e6.html",
+			"requirements": [],
+			"short_description": "This panoply is associated with the arcane arts and the masters of manipulating magic."
+		},
+		{
+			"name": "Performer's Accoutrements",
+			"file": "occultistimplementsdisplaya3d6.html",
+			"requirements": [],
+			"short_description": "This panoply is associated with those who deceive as well as those who entertain."
+		},
+		{
+			"name": "Saint's Holy Regalia",
+			"file": "occultistimplementsdisplay6025.html",
+			"requirements": [],
+			"short_description": "This panoply is associated with devoted members of a good-aligned faith and the power of belief."
+		},
+		{
+			"name": "Trappings of the Warrior",
+			"file": "occultistimplementsdisplay9440.html",
+			"requirements": [],
+			"short_description": "This panoply is associated with brave and stalwart warriors, martial skill, and the defense of one's allies."
+		}
+	]
+}

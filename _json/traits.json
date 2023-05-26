@@ -495,7 +495,8 @@
 			"sources": [ "Blood of the Elements" ]
 		},
 		{
-			"name": "Air-Touched",
+			"name": "Air Touched",
+			"display_name": "Air-Touched",
 			"description": "You share an affinity with elemental air. You gain DR 1/- against creatures and attacks with the air type.",
 			"type": [ "Faith" ],
 			"sources": [ "Ultimate Campaign" ]
@@ -898,7 +899,8 @@
 			"sources": [ "Ironfang Invasion Player's Guide" ]
 		},
 		{
-			"name": "Animal-Spirit Vitality",
+			"name": "Animal Spirit Vitality",
+			"display_name": "Animal-Spirit Vitality",
 			"requirements": [
 				{
 					"region": "kyonin"
@@ -1167,7 +1169,8 @@
 			"sources": [ "Arcane Anthology" ]
 		},
 		{
-			"name": "Artifact Hunter",
+			"name": "Artifact Hunter ISP",
+			"display_name": "Artifact Hunter (ISP)",
 			"requirements": [
 				{
 					"region": "mwangi-expanse"
@@ -1178,7 +1181,8 @@
 			"sources": [ "Inner Sea Primer" ]
 		},
 		{
-			"name": "Artifact Hunter (GS)",
+			"name": "Artifact Hunter GS",
+			"display_name": "Artifact Hunter (GS)",
 			"requirements": [
 				{
 					"campaign": "giantslayer"
@@ -1461,7 +1465,8 @@
 			]
 		},
 		{
-			"name": "Azlanti Scholar (HFtF)",
+			"name": "Azlanti Scholar HFtF",
+			"display_name": "Azlanti Scholar (HFtF)",
 			"requirements": [
 				{
 					"region": "ironbound-archipelago"
@@ -1479,7 +1484,8 @@
 			"sources": [ "Heroes from the Fringe" ]
 		},
 		{
-			"name": "Azlanti Scholar (RoAPG)",
+			"name": "Azlanti Scholar RoAPG",
+			"display_name": "Azlanti Scholar (RoAPG)",
 			"requirements": [
 				{
 					"campaign": "ruins-of-azlant"
@@ -1569,13 +1575,15 @@
 			"sources": [ "Skull and Shackles Player's Guide" ]
 		},
 		{
-			"name": "Bastard",
+			"name": "Bastard UC",
+			"display_name": "Bastard (UC)",
 			"description": "You were born out of wedlock. You have always been an outsider in society, and in your own family. This perspective has sharpened your insight. You gain a +1 trait bonus on Sense Motive checks, and Sense Motive is always a class skill for you.",
 			"type": [ "Social" ],
 			"sources": [ "Ultimate Campaign" ]
 		},
 		{
-			"name": "Bastard (KM)",
+			"name": "Bastard KM",
+			"display_name": "Bastard (KM)",
 			"requirements": [
 				"hasFeatureInCategory((creature),human)",
 				{
@@ -1878,7 +1886,8 @@
 			"sources": [ "Cohorts and Companions" ]
 		},
 		{
-			"name": "Betrayed",
+			"name": "Betrayed CotCT",
+			"display_name": "Betrayed (CotCT)",
 			"requirements": [
 				{
 					"campaign": "curse-of-the-crimson-throne"
@@ -1894,13 +1903,15 @@
 			"sources": [ "Curse of the Crimson Throne (PFRPG)" ]
 		},
 		{
-			"name": "Betrayed (Drawback)",
+			"name": "Betrayed Drawback",
+			"display_name": "Betrayed (Drawback)",
 			"description": "You were reported to a dangerous authority such as the Gray Gardeners of Galt, the high inquisitors of Cheliax, or the Council of Mwanyisa of Mzali, and narrowly escaped death. You second-guess your instincts constantly, leaving you never sure whether or not to trust someone and endangered if you encounter that group's agents again. You can roll twice and take the lower result on Sense Motive checks to get hunches. You cannot reroll this result, even if you have another ability that would normally allow you to do so.",
 			"type": [ "Drawback" ],
 			"sources": [ "Spymaster's Handbook" ]
 		},
 		{
-			"name": "Betrayed Ex-Noble",
+			"name": "Betrayed Ex Noble",
+			"display_name": "Betrayed Ex-Noble",
 			"requirements": [
 				{
 					"region": "city-of-brass"
@@ -2166,7 +2177,8 @@
 			"sources": [ "People of the Wastes" ]
 		},
 		{
-			"name": "Blight-Burned",
+			"name": "Blight Burned",
+			"display_name": "Blight-Burned",
 			"requirements": [
 				{
 					"campaign": "ironfang-invasion"
@@ -2298,7 +2310,8 @@
 			"sources": [ "Healer's Handbook" ]
 		},
 		{
-			"name": "Bloody-Minded",
+			"name": "Bloody Minded",
+			"display_name": "Bloody-Minded",
 			"description": "You are always ready for bloodshed. You gain a +1 trait bonus on initiative and Intimidate checks.",
 			"type": [ "Combat" ],
 			"sources": [ "Champions of Corruption" ]
@@ -2477,7 +2490,8 @@
 			"sources": [ "Faiths and Philosophies" ]
 		},
 		{
-			"name": "Bountiful Herb-Lore",
+			"name": "Bountiful Herb Lore",
+			"display_name": "Bountiful Herb-Lore",
 			"requirements": [
 				{
 					"region": "cassomir"
@@ -2511,7 +2525,8 @@
 			"sources": [ "Blood of Angels" ]
 		},
 		{
-			"name": "Brastlewark Businessman (CEoD)",
+			"name": "Brastlewark Businessman CEoD",
+			"display_name": "Brastlewark Businessman (CEoD)",
 			"requirements": [
 				"hasFeatureInCategory((creature),gnome)"
 			],
@@ -2520,7 +2535,8 @@
 			"sources": [ "Cheliax, Empire of Devils" ]
 		},
 		{
-			"name": "Brastlewark Businessman (GoG)",
+			"name": "Brastlewark Businessman GoG",
+			"display_name": "Brastlewark Businessman (GoG)",
 			"requirements": [
 				"hasFeatureInCategory((creature),gnome)"
 			],
@@ -2624,7 +2640,8 @@
 			]
 		},
 		{
-			"name": "Broken, Not Beaten",
+			"name": "Broken Not Beaten",
+			"display_name": "Broken, Not Beaten",
 			"description": "You automatically stabilize when reduced below 0 hit points. Once per day when brought below 0 hit points, you can accept 1 point of damage to regain consciousness for 1 round, though you remain staggered and only able to take a single move or standard action.",
 			"type": [ "Combat" ],
 			"sources": [ "Agents of Evil" ]
@@ -2636,7 +2653,8 @@
 			"sources": [ "Ultimate Campaign" ]
 		},
 		{
-			"name": "Brute",
+			"name": "Brute APG",
+			"display_name": "Brute (APG)",
 			"requirements": [
 				"hasFeatureInCategory((creature),half-orc)"
 			],
@@ -2649,7 +2667,8 @@
 			]
 		},
 		{
-			"name": "Brute (Orc)",
+			"name": "Brute Orc",
+			"display_name": "Brute (Orc)",
 			"requirements": [
 				"hasFeatureInCategory((creature),half-orc,orc)"
 			],
@@ -3165,7 +3184,8 @@
 			"sources": [ "Blood of the Elements" ]
 		},
 		{
-			"name": "Charau-Ka Slayer",
+			"name": "Charau Ka Slayer",
+			"display_name": "Charau-Ka Slayer",
 			"requirements": [
 				{
 					"region": "mwangi-expanse"
@@ -3367,7 +3387,8 @@
 			"sources": [ "Legacy of Fire Player's Guide" ]
 		},
 		{
-			"name": "Child of the Crusades",
+			"name": "Child of the Crusades ISP",
+			"display_name": "Child of the Crusades (ISP)",
 			"requirements": [
 				{
 					"region": "mendev"
@@ -3378,7 +3399,8 @@
 			"sources": [ "Inner Sea Primer" ]
 		},
 		{
-			"name": "Child of the Crusades (WotR)",
+			"name": "Child of the Crusades WotR",
+			"display_name": "Child of the Crusades (WotR)",
 			"requirements": [
 				{
 					"campaign": "wrath-of-the-righteous"
@@ -3619,7 +3641,8 @@
 			"sources": [ "Heroes from the Fringe" ]
 		},
 		{
-			"name": "Cliff-Master",
+			"name": "Cliff Master",
+			"display_name": "Cliff-Master",
 			"requirements": [
 				"hasFeatureInCategory((creature),goblin)",
 				{
@@ -3833,7 +3856,8 @@
 			"sources": [ "Champions of Balance" ]
 		},
 		{
-			"name": "Community-Minded",
+			"name": "Community Minded",
+			"display_name": "Community-Minded",
 			"requirements": [
 				{
 					"region": "rahadoum"
@@ -4106,13 +4130,15 @@
 			"sources": [ "Blood of the Moon" ]
 		},
 		{
-			"name": "Cross-Disciplined",
+			"name": "Cross Disciplined",
+			"display_name": "Cross-Disciplined",
 			"description": "Your dabbling has granted you greater insight into the proper casting of certain spells. Once per day, you may cast a spell you have prepared that appears on both the magus and wizard spell lists as if your caster level were 1 level higher.",
 			"type": [ "Faith" ],
 			"sources": [ "Ultimate Campaign" ]
 		},
 		{
-			"name": "Cross-Knowledge",
+			"name": "Cross Knowledge",
+			"display_name": "Cross-Knowledge",
 			"description": "Once per day, you may treat an extract you drink as if your caster level were 1 level higher as long as that extract appears on the wizard spell list and the alchemist list of formulae.",
 			"type": [ "Faith" ],
 			"sources": [ "Ultimate Campaign" ]
@@ -4658,7 +4684,8 @@
 			"sources": [ "Champions of Purity" ]
 		},
 		{
-			"name": "Demon-Proof Mind",
+			"name": "Demon Proof Mind",
+			"display_name": "Demon-Proof Mind",
 			"requirements": [
 				{
 					"region_any": [
@@ -4953,7 +4980,8 @@
 			"sources": [ "Pirates of the Inner Sea" ]
 		},
 		{
-			"name": "Dirty Fighter",
+			"name": "Dirty Fighter APG",
+			"display_name": "Dirty Fighter (APG)",
 			"description": "You wouldn't have lived to make it out of childhood without the aid of a sibling, friend, or companion you could always count on to distract your enemies long enough for you to do a little bit more damage than normal. That companion may be another PC or an NPC (who may even be recently departed from your side). When you hit a foe you are flanking, you deal 1 additional point of damage (this damage is added to your base damage, and is multiplied on a critical hit). This additional damage is a trait bonus.",
 			"type": [ "Combat" ],
 			"sources": [
@@ -4963,7 +4991,8 @@
 			]
 		},
 		{
-			"name": "Dirty Fighter (Orc)",
+			"name": "Dirty Fighter Orc",
+			"display_name": "Dirty Fighter (Orc)",
 			"requirements": [
 				"hasFeatureInCategory((creature),half-orc,orc)"
 			],
@@ -5160,7 +5189,8 @@
 			"sources": [ "Skull and Shackles Player's Guide" ]
 		},
 		{
-			"name": "Dog-Sniff-Hate",
+			"name": "Dog Sniff Hate",
+			"display_name": "Dog-Sniff-Hate",
 			"requirements": [
 				"hasFeatureInCategory((creature),goblin)"
 			],
@@ -5296,7 +5326,8 @@
 			"sources": [ "Inner Sea Gods" ]
 		},
 		{
-			"name": "Dragon-Hunted",
+			"name": "Dragon Hunted",
+			"display_name": "Dragon-Hunted",
 			"description": "You've survived being hunted by the draconic nightmares on the Shackles islands of Dahak's Fang, Dahak's Horn, or Dahak's Tooth. You gain a +1 trait bonus on Will saves against fear effects, and against any saving throw from a spell or effect created by a dragon.",
 			"type": [ "Social" ],
 			"sources": [ "Legacy of Dragons" ]
@@ -5467,7 +5498,8 @@
 			"sources": [ "Legacy of Fire Player's Guide" ]
 		},
 		{
-			"name": "Dwarf-Trained",
+			"name": "Dwarf Trained",
+			"display_name": "Dwarf-Trained",
 			"requirements": [
 				{
 					"campaign": "giantslayer"
@@ -5540,7 +5572,8 @@
 			"sources": [ "Legacy of Fire Player's Guide" ]
 		},
 		{
-			"name": "Earth-Touched",
+			"name": "Earth Touched",
+			"display_name": "Earth-Touched",
 			"description": "You share an affinity with elemental earth. You gain DR 1/- against creatures and attacks with the earth type.",
 			"type": [ "Faith" ],
 			"sources": [ "Ultimate Campaign" ]
@@ -5853,7 +5886,8 @@
 			"sources": [ "Ruins of Azlant Player's Guide" ]
 		},
 		{
-			"name": "Empty Heart, Full Heart",
+			"name": "Empty Heart Full Heart",
+			"display_name": "Empty Heart, Full Heart",
 			"requirements": [
 				"hasFeatureInCategory((god),Naderi)"
 			],
@@ -6165,7 +6199,8 @@
 			"sources": [ "Champions of Balance" ]
 		},
 		{
-			"name": "Ex-Asmodean",
+			"name": "Ex Asmodean",
+			"display_name": "Ex-Asmodean",
 			"requirements": [
 				{
 					"campaign": "hells-rebels"
@@ -6179,7 +6214,8 @@
 			"sources": [ "Hell's Rebels Player's Guide" ]
 		},
 		{
-			"name": "Ex-Iomedaean",
+			"name": "Ex Iomedaean",
+			"display_name": "Ex-Iomedaean",
 			"requirements": [
 				{
 					"campaign": "hells-vengeance"
@@ -6193,7 +6229,8 @@
 			"sources": [ "Hell's Vengeance Player's Guide" ]
 		},
 		{
-			"name": "Ex-Sczarni",
+			"name": "Ex Sczarni",
+			"display_name": "Ex-Sczarni",
 			"requirements": [
 				{
 					"campaign": "shattered-star"
@@ -6598,13 +6635,15 @@
 			"sources": [ "Cohorts and Companions" ]
 		},
 		{
-			"name": "Family Ties",
+			"name": "Family Ties Drawback",
+			"display_name": "Family Ties (Drawback)",
 			"description": "Your family is extremely important to you, and you feel disheartened when you can't do what they ask. When a family member makes a request of you, you must fulfill that request or take a -2 penalty on all Wisdom- and Charisma-based ability checks and skill checks until you either do what was requested or succeed at a DC 20 Will saving throw, which you can attempt once per day at the start of each day. You can't take this drawback if you have no family. If you ever lose your family or lose contact with your family, exchange this drawback for the Doubt drawback.",
 			"type": [ "Drawback" ],
 			"sources": [ "Ultimate Campaign" ]
 		},
 		{
-			"name": "Family Ties (RotRL)",
+			"name": "Family Ties RotRL",
+			"display_name": "Family Ties (RotRL)",
 			"requirements": [
 				{
 					"campaign": "rise-of-the-runelords"
@@ -6703,7 +6742,7 @@
 			"sources": [ "Inner Sea Gods" ]
 		},
 		{
-			"name": "Favored Son/Daughter",
+			"name": "Favored Son or Daughter",
 			"description": [
 				"You were born and raised in the town of Sandpoint or its surrounding farms. You know many of the region's secrets, and the locals already know who you are. You are well liked in town, and you'll have lots of friends in the region, but the town's tougher side sees you as a snitch or a pansy. You gain a +1 trait bonus on Knowledge (local) checks, and Knowledge (local) is always a class skill for you. In addition, you can choose any one law-abiding citizen of Sandpoint from below as an ally; depending on the person you pick, you'll get different benefits.",
 				"Tavern Owner: One of the town's most influential and beloved nobles. Her inn/tavern is the most popular in town, and as one of her friends, you're guaranteed a place to eat and sleep for free. She's got lots of great contacts with merchants as well, and she'll sell any of your loot for you-as a result, you gain an additional 10% over the amount of gp you normally would get from selling off treasure.",
@@ -6719,7 +6758,8 @@
 			"sources": [ "Ultimate Campaign" ]
 		},
 		{
-			"name": "Fed-Up Citizen",
+			"name": "Fed Up Citizen",
+			"display_name": "Fed-Up Citizen",
 			"requirements": [
 				{
 					"campaign": "hells-rebels"
@@ -6793,13 +6833,15 @@
 			"sources": [ "Quests and Campaigns" ]
 		},
 		{
-			"name": "Fey-Taken",
+			"name": "Fey Taken",
+			"display_name": "Fey-Taken",
 			"description": "As a child, you were whisked away to the First World by mischievous fey for a time. When you returned, you were ever after considered odd and distant. You long to return there, and find the mortal world dull and at times revolting, so you do not eat as you should and do not question strange visions. You take a -2 penalty on saving throws against disease, illusions, and poison of all kinds, as well as against the spells, spell-like abilities, and supernatural abilities of fey.",
 			"type": [ "Drawback" ],
 			"sources": [ "Quests and Campaigns" ]
 		},
 		{
-			"name": "Fey-Wise",
+			"name": "Fey Wise",
+			"display_name": "Fey-Wise",
 			"requirements": [
 				{
 					"region": "sevenarches"
@@ -6923,7 +6965,8 @@
 			"sources": [ "Bastards of Golarion" ]
 		},
 		{
-			"name": "Fire-Tongued",
+			"name": "Fire Tongued",
+			"display_name": "Fire-Tongued",
 			"requirements": [
 				"hasFeatureInCategory((creature),kobold)",
 				{
@@ -6935,7 +6978,8 @@
 			"sources": [ "Kobolds of Golarion" ]
 		},
 		{
-			"name": "Firebug",
+			"name": "Firebug QaC",
+			"display_name": "Firebug (QaC)",
 			"description": [
 				"You were the child of a gunsmith or alchemist and always enjoyed experimenting with fiery alchemical items and minor explosives. You gain a +1 trait bonus on attack rolls made with thrown splash weapons and alchemist bombs.",
 				"Suggested Characters: Alkenstar natives, Katapeshi, Thuvians."
@@ -6944,7 +6988,8 @@
 			"sources": [ "Quests and Campaigns" ]
 		},
 		{
-			"name": "Firebug (Kobold)",
+			"name": "Firebug Kobold",
+			"display_name": "Firebug (Kobold)",
 			"requirements": [
 				"hasFeatureInCategory((creature),kobold)",
 				{
@@ -7001,7 +7046,8 @@
 			]
 		},
 		{
-			"name": "Flame-Touched",
+			"name": "Flame Touched",
+			"display_name": "Flame-Touched",
 			"description": "You share an affinity with elemental fire. You gain DR 1/- against creatures and attacks with the fire type.",
 			"type": [ "Faith" ],
 			"sources": [ "Ultimate Campaign" ]
@@ -7215,7 +7261,8 @@
 			]
 		},
 		{
-			"name": "Foreign-Tongued",
+			"name": "Foreign Tongued",
+			"display_name": "Foreign-Tongued",
 			"requirements": [
 				{
 					"campaign": "jade-regent"
@@ -7257,7 +7304,8 @@
 			]
 		},
 		{
-			"name": "Formerly Mind-Swapped",
+			"name": "Formerly Mind Swapped",
+			"display_name": "Formerly Mind-Swapped",
 			"requirements": [
 				{
 					"campaign": "strange-aeons"
@@ -7395,7 +7443,8 @@
 			"sources": [ "Quests and Campaigns" ]
 		},
 		{
-			"name": "Freed Slave",
+			"name": "Freed Slave FG",
+			"display_name": "Freed Slave (FG)",
 			"requirements": [
 				"hasFeatureInCategory((creature),halfling)",
 				{
@@ -7407,7 +7456,8 @@
 			"sources": [ "Faction Guide" ]
 		},
 		{
-			"name": "Freed Slave (Andoran)",
+			"name": "Freed Slave Andoran",
+			"display_name": "Freed Slave (Andoran)",
 			"requirements": [
 				{
 					"region": "andoran"
@@ -7418,7 +7468,8 @@
 			"sources": [ "Inner Sea Primer" ]
 		},
 		{
-			"name": "Freed Slave (Katapesh)",
+			"name": "Freed Slave Katapesh",
+			"display_name": "Freed Slave (Katapesh)",
 			"requirements": [
 				{
 					"region": "katapesh"
@@ -7429,7 +7480,8 @@
 			"sources": [ "Legacy of Fire Player's Guide" ]
 		},
 		{
-			"name": "Freedom Fighter (Andoran)",
+			"name": "Freedom Fighter Andoran",
+			"display_name": "Freedom Fighter (Andoran)",
 			"requirements": [
 				{
 					"region": "andoran"
@@ -7440,7 +7492,8 @@
 			"sources": [ "Pirates of the Inner Sea" ]
 		},
 		{
-			"name": "Freedom Fighter (Halfling)",
+			"name": "Freedom Fighter Halfling",
+			"display_name": "Freedom Fighter (Halfling)",
 			"requirements": [
 				"hasFeatureInCategory((creature),halfling)"
 			],
@@ -7453,7 +7506,8 @@
 			]
 		},
 		{
-			"name": "Freedom Fighter (PFS)",
+			"name": "Freedom Fighter PFS",
+			"display_name": "Freedom Fighter (PFS)",
 			"requirements": [
 				{
 					"faction": "libertys-edge"
@@ -7464,7 +7518,8 @@
 			"sources": [ "PFS Guide to Organized Play 6.0" ]
 		},
 		{
-			"name": "Freedom Fighter (Shokuro)",
+			"name": "Freedom Fighter Shokuro",
+			"display_name": "Freedom Fighter (Shokuro)",
 			"requirements": [
 				{
 					"region": "shokuro"
@@ -7578,7 +7633,8 @@
 			"sources": [ "Ironfang Invasion Player's Guide" ]
 		},
 		{
-			"name": "Frontier-Forged",
+			"name": "Frontier Forged",
+			"display_name": "Frontier-Forged",
 			"requirements": [
 				{
 					"geography": "frontier"
@@ -7733,7 +7789,8 @@
 			"sources": [ "Inner Sea Races" ]
 		},
 		{
-			"name": "Genie-Caller",
+			"name": "Genie Caller",
+			"display_name": "Genie-Caller",
 			"requirements": [
 				{
 					"region": "qadira"
@@ -7845,7 +7902,8 @@
 			"sources": [ "Rise of the Runelords Anniversary Edition Player's Guide" ]
 		},
 		{
-			"name": "Giant-Blooded",
+			"name": "Giant Blooded",
+			"display_name": "Giant-Blooded",
 			"requirements": [
 				{
 					"campaign": "giantslayer"
@@ -7859,7 +7917,8 @@
 			]
 		},
 		{
-			"name": "Giant-Harried",
+			"name": "Giant Harried",
+			"display_name": "Giant-Harried",
 			"requirements": [
 				{
 					"geography": "wasteland"
@@ -7944,7 +8003,8 @@
 			"sources": [ "Humans of Golarion" ]
 		},
 		{
-			"name": "Glint-Tongued",
+			"name": "Glint Tongued",
+			"display_name": "Glint-Tongued",
 			"requirements": [
 				"hasFeatureInCategory((creature),human)",
 				{
@@ -8149,7 +8209,8 @@
 			"sources": [ "Hell's Vengeance Player's Guide" ]
 		},
 		{
-			"name": "Good-Natured",
+			"name": "Good Natured",
+			"display_name": "Good-Natured",
 			"requirements": [
 				"hasFeatureInCategory((god),Cayden Cailean)"
 			],
@@ -8219,7 +8280,8 @@
 			"sources": [ "Ultimate Campaign" ]
 		},
 		{
-			"name": "Green-Blooded",
+			"name": "Green Blooded",
+			"display_name": "Green-Blooded",
 			"description": "You are touched by the supernatural essence of nature, marking you since birth as something other than purely mortal. Choose a single 0-level druid spell. You can cast this spell once per day as a spell-like ability with a caster level equal to your character level.",
 			"type": [ "Faith" ],
 			"sources": [ "Heroes of the Wild" ]
@@ -8246,7 +8308,8 @@
 			"sources": [ "Quests and Campaigns" ]
 		},
 		{
-			"name": "Grief-Filled",
+			"name": "Grief Filled",
+			"display_name": "Grief-Filled",
 			"description": "You are no stranger to loss and intense emotions. You gain a +2 trait bonus on all saving throws against emotion spells and effects.",
 			"type": [ "Social" ],
 			"sources": [ "Ultimate Campaign" ]
@@ -8381,7 +8444,8 @@
 			"sources": [ "Rise of the Runelords Anniversary Edition Player's Guide" ]
 		},
 		{
-			"name": "Half-Forgotten Secrets",
+			"name": "Half Forgotten Secrets",
+			"display_name": "Half-Forgotten Secrets",
 			"requirements": [
 				"hasFeatureInCategory((creature),dhampir)",
 				{
@@ -8621,13 +8685,15 @@
 			"sources": [ "Path of the Hellknight" ]
 		},
 		{
-			"name": "Helpful",
+			"name": "Helpful CoP",
+			"display_name": "Helpful (CoP)",
 			"description": "You always know the best way to assist your companions, be it assisting them with a task, defending them in battle, or helping them place a wellaimed strike. When using the aid another action, you grant your ally a +3 bonus instead of a +2 bonus.",
 			"type": [ "Combat" ],
 			"sources": [ "Champions of Purity" ]
 		},
 		{
-			"name": "Helpful (Halfling)",
+			"name": "Helpful Halfling",
+			"display_name": "Helpful (Halfling)",
 			"requirements": [
 				"hasFeatureInCategory((creature),halfling)"
 			],
@@ -8670,7 +8736,8 @@
 			"sources": [ "Jade Regent Player's Guide" ]
 		},
 		{
-			"name": "Hex-Proof",
+			"name": "Hex Proof",
+			"display_name": "Hex-Proof",
 			"description": "You've dealt too often with cruel fey magic, and so gain a +2 bonus on Will saves against hexes and fey creatures' spells and spell-like abilities.",
 			"type": [ "Faith" ],
 			"sources": [ "Black Markets" ]
@@ -8804,7 +8871,8 @@
 			"sources": [ "Quests and Campaigns" ]
 		},
 		{
-			"name": "Honey-Tongued",
+			"name": "Honey Tongued",
+			"display_name": "Honey-Tongued",
 			"requirements": [
 				"hasFeatureInCategory((god),Abadar)"
 			],
@@ -8847,13 +8915,15 @@
 			"sources": [ "Dragon Empires Primer" ]
 		},
 		{
-			"name": "Honor-Bound",
+			"name": "Honor Bound",
+			"display_name": "Honor-Bound",
 			"description": "The family's honor is tied to a shared goal binding you all together. With the aid of the GM, choose a task that your family is bound to accomplish. Once per day, when you are within 60 feet of another character with this trait, you can gain a +1 trait bonus on a single saving throw or skill check when progress toward the goal is directly at stake (at the GM's discretion).",
 			"type": [ "Family" ],
 			"sources": [ "Cohorts and Companions" ]
 		},
 		{
-			"name": "Honor-Driven",
+			"name": "Honor Driven",
+			"display_name": "Honor-Driven",
 			"requirements": [
 				"hasFeatureInCategory((creature),human)",
 				{
@@ -8895,7 +8965,7 @@
 			"sources": [ "Champions of Corruption" ]
 		},
 		{
-			"name": "Horse Lord (Keleshite)",
+			"name": "Horse Lord",
 			"requirements": [
 				"hasFeatureInCategory((creature),human)",
 				{
@@ -9124,7 +9194,8 @@
 			"sources": [ "Blood of the Night" ]
 		},
 		{
-			"name": "Inciter (Hobgoblin)",
+			"name": "Inciter Hobgoblin",
+			"display_name": "Inciter (Hobgoblin)",
 			"requirements": [
 				"hasFeatureInCategory((creature),hobgoblin)"
 			],
@@ -9133,7 +9204,8 @@
 			"sources": [ "Inner Sea Races" ]
 		},
 		{
-			"name": "Inciter (Tiefling)",
+			"name": "Inciter Tiefling",
+			"display_name": "Inciter (Tiefling)",
 			"requirements": [
 				"hasFeatureInCategory((creature),tiefling)"
 			],
@@ -9446,7 +9518,8 @@
 			"sources": [ "Dragon Empires Primer" ]
 		},
 		{
-			"name": "Insular (Dwarf)",
+			"name": "Insular Dwarf",
+			"display_name": "Insular (Dwarf)",
 			"requirements": [
 				"hasFeatureInCategory((creature),dwarf)"
 			],
@@ -9455,7 +9528,8 @@
 			"sources": [ "People of the North" ]
 		},
 		{
-			"name": "Insular (Elf)",
+			"name": "Insular Elf",
+			"display_name": "Insular (Elf)",
 			"requirements": [
 				"hasFeatureInCategory((creature),elf)"
 			],
@@ -10314,7 +10388,8 @@
 			"sources": [ "Heroes of the Darklands" ]
 		},
 		{
-			"name": "Light-Bringer",
+			"name": "Light Bringer",
+			"display_name": "Light-Bringer",
 			"requirements": [
 				"hasFeatureInCategory((god),Sarenrae)"
 			],
@@ -10412,7 +10487,8 @@
 			"sources": [ "Potions and Poisons" ]
 		},
 		{
-			"name": "Liquid-Tongued",
+			"name": "Liquid Tongued",
+			"display_name": "Liquid-Tongued",
 			"requirements": [
 				"hasFeatureInCategory((creature),kobold)",
 				{
@@ -10433,7 +10509,8 @@
 			"sources": [ "Divine Anthology" ]
 		},
 		{
-			"name": "Local Know-It-All",
+			"name": "Local Know It All",
+			"display_name": "Local Know-It-All",
 			"requirements": [
 				{
 					"region": "varisia"
@@ -11448,7 +11525,8 @@
 			"sources": [ "Inner Sea Primer" ]
 		},
 		{
-			"name": "Mummy-Cursed",
+			"name": "Mummy Cursed",
+			"display_name": "Mummy-Cursed",
 			"requirements": [
 				{
 					"campaign": "mummys-mask"
@@ -11477,7 +11555,8 @@
 			"sources": [ "Pathfinder Society Primer" ]
 		},
 		{
-			"name": "Mutabi-qi Explorer",
+			"name": "Mutabi qi Explorer",
+			"display_name": "Mutabi-qi Explorer",
 			"requirements": [
 				{
 					"region": "shanguang"
@@ -11656,7 +11735,8 @@
 			"sources": [ "Disciple's Doctrine" ]
 		},
 		{
-			"name": "Natural-Born Leader",
+			"name": "Natural Born Leader",
+			"display_name": "Natural-Born Leader",
 			"description": "You've always found yourself in positions where others look up to you as a leader, and you can distinctly remember an event from your early childhood where you led several other children to accomplish a goal that each of you individually could not. All cohorts, followers, or summoned creatures under your leadership gain a +1 morale bonus on Will saves to avoid mind-affecting effects. If you ever take the Leadership feat, you gain a +1 trait bonus to your Leadership score.",
 			"type": [ "Social" ],
 			"sources": [
@@ -11698,7 +11778,8 @@
 			"sources": [ "Ultimate Campaign" ]
 		},
 		{
-			"name": "Near-Death Experience",
+			"name": "Near Death Experience",
+			"display_name": "Near-Death Experience",
 			"requirements": [
 				{
 					"region": "belkzen"
@@ -11815,7 +11896,8 @@
 			"sources": [ "Black Markets" ]
 		},
 		{
-			"name": "Nimble Fingers, Keen Mind",
+			"name": "Nimble Fingers Keen Mind",
+			"display_name": "Nimble Fingers, Keen Mind",
 			"requirements": [
 				"hasFeatureInCategory((god),Brigh)"
 			],
@@ -11827,7 +11909,8 @@
 			]
 		},
 		{
-			"name": "Nine-Tailed Scion",
+			"name": "Nine Tailed Scion",
+			"display_name": "Nine-Tailed Scion",
 			"requirements": [
 				"hasFeatureInCategory((creature),kitsune)"
 			],
@@ -11883,7 +11966,8 @@
 			"sources": [ "Faction Guide" ]
 		},
 		{
-			"name": "Noble-in-Exile",
+			"name": "Noble in Exile",
+			"display_name": "Noble-in-Exile",
 			"requirements": [
 				{
 					"region": "gralton"
@@ -12190,7 +12274,8 @@
 			"sources": [ "Humans of Golarion" ]
 		},
 		{
-			"name": "Open-Minded Explorer",
+			"name": "Open Minded Explorer",
+			"display_name": "Open-Minded Explorer",
 			"requirements": [
 				{
 					"region": "averaka"
@@ -12436,7 +12521,8 @@
 			"sources": [ "Bastards of Golarion" ]
 		},
 		{
-			"name": "Ozem-Inspired",
+			"name": "Ozem Inspired",
+			"display_name": "Ozem-Inspired",
 			"description": "Tales of the Knights of Ozem have inspired you since childhood to lash out reflexively against the undead. You gain a +1 trait bonus on attack rolls and damage rolls when making attacks of opportunity against undead. While you wield a shield, your shield bonus to AC improves by 1 against attacks of opportunity made by undead.",
 			"type": [ "Combat" ],
 			"sources": [ "Weapon Master's Handbook" ]
@@ -12590,7 +12676,8 @@
 			"sources": [ "Hell's Rebels Player's Guide" ]
 		},
 		{
-			"name": "Pearl Diver",
+			"name": "Pearl Diver PotS",
+			"display_name": "Pearl Diver (PotS)",
 			"requirements": [
 				"hasFeatureInCategory((creature),half-elf)"
 			],
@@ -12599,7 +12686,8 @@
 			"sources": [ "People of the Sands" ]
 		},
 		{
-			"name": "Pearl Diver (Xidao)",
+			"name": "Pearl Diver Xidao",
+			"display_name": "Pearl Diver (Xidao)",
 			"requirements": [
 				{
 					"region": "xidao"
@@ -12779,7 +12867,8 @@
 			"sources": [ "Elemental Master's Handbook" ]
 		},
 		{
-			"name": "Planar Negotiator (BoA)",
+			"name": "Planar Negotiator BoA",
+			"display_name": "Planar Negotiator (BoA)",
 			"requirements": [
 				"hasFeatureInCategory((creature),aasimar)"
 			],
@@ -12788,7 +12877,8 @@
 			"sources": [ "Blood of Angels" ]
 		},
 		{
-			"name": "Planar Negotiator (DHH)",
+			"name": "Planar Negotiator DHH",
+			"display_name": "Planar Negotiator (DHH)",
 			"requirements": [
 				{
 					"region": "the-abyss"
@@ -12916,7 +13006,8 @@
 			]
 		},
 		{
-			"name": "Poverty-Stricken",
+			"name": "Poverty Stricken",
+			"display_name": "Poverty-Stricken",
 			"description": "Your childhood was tough, and your parents always had to make every copper piece count. Hunger was your constant companion, and you often had to live off the land or sleep in the wild. You gain a +1 bonus on Survival checks, and Survival is always a class skill for you.",
 			"type": [ "Social" ],
 			"sources": [
@@ -12932,7 +13023,8 @@
 			"sources": [ "Adventurer's Armory" ]
 		},
 		{
-			"name": "Power-Hungry",
+			"name": "Power Hungry",
+			"display_name": "Power-Hungry",
 			"description": "You're addicted to power. You take a -2 penalty on Will saving throws against charm and compulsion effects if the creature creating the effect promises wealth or power.",
 			"type": [ "Drawback" ],
 			"sources": [ "Ultimate Campaign" ]
@@ -13106,7 +13198,8 @@
 			"sources": [ "Blood of Fiends" ]
 		},
 		{
-			"name": "Priest-Blessed",
+			"name": "Priest Blessed",
+			"display_name": "Priest-Blessed",
 			"description": "You were guided to maturity by a trusted priest of an ecclesiastical tradition, who inspired you and made you understand that the authority exerted by a religious hierarchy is a blessing rather than a restriction, allowing the faithful to always feel confident in their direction and the righteousness of the guided actions. Now, your faith wells up whenever you are aided by divine magic, and you find it easy to open up to the magic and succor of any faith, seeing the similarities between all such traditions. Three times per day when you are the target of a harmless divine spell, you may increase its caster level by 1 for purposes of its effect on you alone.",
 			"type": [ "Faith" ],
 			"sources": [ "Faiths and Philosophies" ]
@@ -13678,7 +13771,8 @@
 			"sources": [ "People of the Sands" ]
 		},
 		{
-			"name": "Relic-Proof",
+			"name": "Relic Proof",
+			"display_name": "Relic-Proof",
 			"description": "Your experiments-both your successes and failures-have inured you to the effects of stored magic. You gain a +1 trait bonus on saving throws against effects produced by spell completion and spell trigger items.",
 			"type": [ "Social" ],
 			"sources": [ "Pathfinder Society Primer" ]
@@ -14599,7 +14693,8 @@
 			"sources": [ "Halflings of Golarion" ]
 		},
 		{
-			"name": "Sea-Souled",
+			"name": "Sea Souled",
+			"display_name": "Sea-Souled",
 			"requirements": [
 				{
 					"geography_any": [
@@ -14728,13 +14823,15 @@
 			"sources": [ "Inner Sea Primer" ]
 		},
 		{
-			"name": "Secret-Keeper",
+			"name": "Secret Keeper QaC",
+			"display_name": "Secret-Keeper (QaC)",
 			"description": "Growing up in a land where paranoia fills the air and any accusation of heresy or dissent can spell doom for whole families, you learned very quickly to keep a secret. You gain a +1 trait bonus on Bluff checks and a +1 trait bonus on saving throws against divinations, domination effects, and effects that would compel you to speak the truth. Suggested Characters: Chelaxians, Galtans, Nidalese.",
 			"type": [ "Social" ],
 			"sources": [ "Quests and Campaigns" ]
 		},
 		{
-			"name": "Secret-Keeper (Svirfneblin)",
+			"name": "Secret Keeper Svirfneblin",
+			"display_name": "Secret-Keeper (Svirfneblin)",
 			"requirements": [
 				"hasFeatureInCategory((creature),svirfneblin)"
 			],
@@ -14801,13 +14898,15 @@
 			"sources": [ "Blood of Angels" ]
 		},
 		{
-			"name": "Self-Actualization",
+			"name": "Self Actualization",
+			"display_name": "Self-Actualization",
 			"description": "Inspired by stories of mortals ascending to godhood, you're certain that you can do the same, and do all you can to hone your talents and reach your utmost potential. Once per day, when you take 20 on a roll or check, you can complete the action in only five times the normal amount of time for that action, rather than 20 times the normal amount.",
 			"type": [ "Faith" ],
 			"sources": [ "Faiths and Philosophies" ]
 		},
 		{
-			"name": "Self-Aware",
+			"name": "Self Aware",
+			"display_name": "Self-Aware",
 			"requirements": [
 				"hasFeatureInCategory((creature),vampire)",
 				{
@@ -14819,19 +14918,22 @@
 			"sources": [ "Blood of the Night" ]
 		},
 		{
-			"name": "Self-Doubting",
+			"name": "Self Doubting",
+			"display_name": "Self-Doubting",
 			"description": "Your ever-present fear of failure causes a downward spiral. The first time each day that you fail a Will saving throw or skill check, you take a -2 penalty on the next Will saving throw or skill check of that kind.",
 			"type": [ "Drawback" ],
 			"sources": [ "Antihero's Handbook" ]
 		},
 		{
-			"name": "Self-Reliant",
+			"name": "Self Reliant",
+			"display_name": "Self-Reliant",
 			"description": "You know how to work with your hands and aren't dependent on complex tools. When attempting Craft checks, you take no penalty when using improvised tools. At the GM's discretion, you can attempt certain Craft checks even when no tools are available, though you take a -2 penalty.",
 			"type": [ "Social" ],
 			"sources": [ "Heroes of the Wild" ]
 		},
 		{
-			"name": "Self-Sacrifice",
+			"name": "Self Sacrifice",
+			"display_name": "Self-Sacrifice",
 			"requirements": [
 				"hasFeatureInCategory((creature),halfling)",
 				"hasFeatureInCategory((god),Shelyn)"
@@ -14841,7 +14943,8 @@
 			"sources": [ "Halflings of Golarion" ]
 		},
 		{
-			"name": "Self-Sustaining",
+			"name": "Self Sustaining",
+			"display_name": "Self-Sustaining",
 			"requirements": [
 				{
 					"story": "See text"
@@ -14852,7 +14955,8 @@
 			"sources": [ "Disciple's Doctrine" ]
 		},
 		{
-			"name": "Self-Taught Scholar",
+			"name": "Self Taught Scholar",
+			"display_name": "Self-Taught Scholar",
 			"description": "Being self-taught has made it necessary for you to scour all documentation you can get your hands on. You gain a +1 trait bonus on Linguistics checks to decipher unfamiliar languages, and Linguistics is always a class skill for you. In addition, you gain a +1 trait bonus on Spellcraft checks made to decipher the writing on a scroll.",
 			"type": [ "Faith" ],
 			"sources": [ "Ultimate Campaign" ]
@@ -15077,7 +15181,8 @@
 			"sources": [ "Ultimate Campaign" ]
 		},
 		{
-			"name": "Shadow-Scarred",
+			"name": "Shadow Scarred",
+			"display_name": "Shadow-Scarred",
 			"description": "You were touched by terrible horrors that live in the darkness just outside the human sphere, such as shadow-beasts or aberrations linked to the Dark Tapestry, and feel your life-force ebb away ever so slightly whenever you return to the shadows. Whenever you are in an area of dim light or darkness, you take a -1 penalty on saving throws.",
 			"type": [ "Drawback" ],
 			"sources": [ "Quests and Campaigns" ]
@@ -15205,7 +15310,8 @@
 			"sources": [ "Humans of Golarion" ]
 		},
 		{
-			"name": "Shield-Trained",
+			"name": "Shield Trained",
+			"display_name": "Shield-Trained",
 			"requirements": [
 				"hasFeatureInCategory((god),Gorum)"
 			],
@@ -15262,7 +15368,8 @@
 			"sources": [ "Pirates of the Inner Sea" ]
 		},
 		{
-			"name": "Shoanti Spirit-singer",
+			"name": "Shoanti Spirit singer",
+			"display_name": "Shoanti Spirit-singer",
 			"requirements": [
 				"hasFeatureInCategory((creature),human)",
 				{
@@ -15782,7 +15889,8 @@
 			"sources": [ "Blood of Fiends" ]
 		},
 		{
-			"name": "Soul-Searcher's Strength",
+			"name": "Soul Searcher's Strength",
+			"display_name": "Soul-Searcher's Strength",
 			"requirements": [
 				{
 					"story": "Must follow the traditions of the Rivethun"
@@ -16021,7 +16129,8 @@
 			"sources": [ "People of the River" ]
 		},
 		{
-			"name": "Split-Second Defense",
+			"name": "Split Second Defense",
+			"display_name": "Split-Second Defense",
 			"requirements": [
 				"hasFeatureInCategory((god),Milani)"
 			],
@@ -16045,7 +16154,8 @@
 			"sources": [ "Gnomes of Golarion" ]
 		},
 		{
-			"name": "St. Clydwell's Ward",
+			"name": "St Clydwell's Ward",
+			"display_name": "St. Clydwell's Ward",
 			"requirements": [
 				{
 					"group": "mendev-crusaders"
@@ -16149,7 +16259,8 @@
 			]
 		},
 		{
-			"name": "Stargazer (IG)",
+			"name": "Stargazer IG",
+			"display_name": "Stargazer (IG)",
 			"requirements": [
 				{
 					"campaign": "iron-gods"
@@ -16163,7 +16274,8 @@
 			]
 		},
 		{
-			"name": "Stargazer (Race)",
+			"name": "Stargazer Human",
+			"display_name": "Stargazer (Human)",
 			"requirements": [
 				"hasFeatureInCategory((creature),human)",
 				{
@@ -16175,7 +16287,8 @@
 			"sources": [ "Humans of Golarion" ]
 		},
 		{
-			"name": "Stargazer (Region)",
+			"name": "Stargazer Region",
+			"display_name": "Stargazer (Region)",
 			"requirements": [
 				{
 					"region": "lirgen"
@@ -16297,7 +16410,8 @@
 			"sources": [ "Dragon Empires Primer" ]
 		},
 		{
-			"name": "Storm-Touched",
+			"name": "Storm Touched",
+			"display_name": "Storm-Touched",
 			"description": "You share an affinity with elemental lightning. You gain DR 1/- against creatures and attacks with the electricity type.",
 			"type": [ "Faith" ],
 			"sources": [ "Ultimate Campaign" ]
@@ -16432,7 +16546,8 @@
 			]
 		},
 		{
-			"name": "Strong Arm, Supple Wrist",
+			"name": "Strong Arm Supple Wrist",
+			"display_name": "Strong Arm, Supple Wrist",
 			"description": "You have been trained in the javelin and the spear, and you know how to make the best use of your momentum. When you move at least 10 feet before making an attack with a thrown weapon, you can add 10 feet to the range increment of the weapon thrown. You can gain this benefit only once per round.",
 			"type": [ "Combat" ],
 			"sources": [
@@ -16474,7 +16589,8 @@
 			"sources": [ "Faiths of Purity" ]
 		},
 		{
-			"name": "Strong-Willed",
+			"name": "Strong Willed",
+			"display_name": "Strong-Willed",
 			"requirements": [
 				"hasFeatureInCategory((god),Cayden Cailean)"
 			],
@@ -16636,7 +16752,8 @@
 			"sources": [ "Dragonslayer's Handbook" ]
 		},
 		{
-			"name": "Sun-Blasted",
+			"name": "Sun Blasted",
+			"display_name": "Sun-Blasted",
 			"requirements": [
 				{
 					"geography": "desert"
@@ -16647,7 +16764,8 @@
 			"sources": [ "Orcs of Golarion" ]
 		},
 		{
-			"name": "Sun-Blessed",
+			"name": "Sun Blessed",
+			"display_name": "Sun-Blessed",
 			"description": "Your birth came at a time when the sun was auspiciously aligned with your birth sign. As a result, you have a natural affinity for light and life. Whenever you're affected by a healing effect that would heal more hit points than your maximum hit point total, you gain the excess healing as temporary hit points. You can gain up to a number of temporary hit points per day equal to your character level in this way. These temporary hit points last for 1 minute.",
 			"type": [ "Faith" ],
 			"sources": [ "People of the Stars" ]
@@ -16665,7 +16783,8 @@
 			"sources": [ "Blood of Fiends" ]
 		},
 		{
-			"name": "Superstitious",
+			"name": "Superstitious ISP",
+			"display_name": "Superstitious (ISP)",
 			"requirements": [
 				{
 					"region": "realm-of-the-mammoth-lords"
@@ -16676,13 +16795,15 @@
 			"sources": [ "Inner Sea Primer" ]
 		},
 		{
-			"name": "Superstitious (Drawback)",
+			"name": "Superstitious Drawback",
+			"display_name": "Superstitious (Drawback)",
 			"description": "Raised around those who regarded most magic as innately dangerous, no matter the source, you cannot bring yourself to submit to magic willingly even for your own good. Whenever you are affected with a harmless spell, there is a 50% chance that you must roll a saving throw to prevent that effect, even if it would benefit you. This does not apply to harmless spells cast by you upon yourself.",
 			"type": [ "Drawback" ],
 			"sources": [ "Quests and Campaigns" ]
 		},
 		{
-			"name": "Superstitious (Kellid)",
+			"name": "Superstitious Kellid",
+			"display_name": "Superstitious (Kellid)",
 			"requirements": [
 				"hasFeatureInCategory((creature),human)",
 				{
@@ -16935,7 +17056,8 @@
 			"sources": [ "Blood of the Ancients" ]
 		},
 		{
-			"name": "Tar-Baphon's Whisper",
+			"name": "Tar Baphon's Whisper",
+			"display_name": "Tar-Baphon's Whisper",
 			"requirements": [
 				{
 					"group": "whispering-way"
@@ -17363,7 +17485,8 @@
 			"sources": [ "People of the Sands" ]
 		},
 		{
-			"name": "Thoughtful Wish-Maker",
+			"name": "Thoughtful Wish Maker",
+			"display_name": "Thoughtful Wish-Maker",
 			"requirements": [
 				{
 					"region": "plane-of-fire"
@@ -17403,7 +17526,8 @@
 			"sources": [ "Varisia, Birthplace of Legends" ]
 		},
 		{
-			"name": "Thrill-Seeker",
+			"name": "Thrill Seeker",
+			"display_name": "Thrill-Seeker",
 			"requirements": [
 				"hasFeatureInCategory((god),Desna)"
 			],
@@ -17412,7 +17536,8 @@
 			"sources": [ "Inner Sea Gods" ]
 		},
 		{
-			"name": "Thrown-Together Fashion",
+			"name": "Thrown Together Fashion",
+			"display_name": "Thrown-Together Fashion",
 			"description": "You can modify old clothing to make it effective in new circumstances. With a basic sewing kit or disguise kit, you can make a Disguise check to change one outfit into another outfit (see page 159 of the Pathfinder RPG Core Rulebook, or page 13 of this book). The DC of this check is equal to 10 + the gp difference between costs of the outfits. The alteration takes 10 minutes per 1-gp difference in the cost of the outfits.",
 			"type": [ "Equipment" ],
 			"sources": [ "Adventurer's Armory" ]
@@ -17823,7 +17948,8 @@
 			"sources": [ "People of the Stars" ]
 		},
 		{
-			"name": "Triaxus-Trained",
+			"name": "Triaxus Trained",
+			"display_name": "Triaxus-Trained",
 			"description": "You have been trained in intricate dragon-handling techniques that originated on Triaxus. You gain a +1 trait bonus on Perception checks, and a +1 trait bonus on skill checks attempted as part of trying to influence a dragon.",
 			"type": [ "Social" ],
 			"sources": [ "Legacy of Dragons" ]
@@ -17847,7 +17973,8 @@
 			"sources": [ "Inner Sea Races" ]
 		},
 		{
-			"name": "Trickster",
+			"name": "Trickster Gnome",
+			"display_name": "Trickster (Gnome)",
 			"requirements": [
 				"hasFeatureInCategory((creature),gnome)"
 			],
@@ -17856,7 +17983,8 @@
 			"sources": [ "Gnomes of Golarion" ]
 		},
 		{
-			"name": "Trickster (Vanara)",
+			"name": "Trickster Vanara",
+			"display_name": "Trickster (Vanara)",
 			"requirements": [
 				"hasFeatureInCategory((creature),vanara)"
 			],
@@ -18030,7 +18158,8 @@
 			"sources": [ "Strange Aeons Player's Guide" ]
 		},
 		{
-			"name": "Two-World Magic",
+			"name": "Two World Magic",
+			"display_name": "Two-World Magic",
 			"requirements": [
 				{
 					"region": "sargava"
@@ -18125,7 +18254,8 @@
 			]
 		},
 		{
-			"name": "Undead Slayer",
+			"name": "Undead Slayer BoG",
+			"display_name": "Undead Slayer (BoG)",
 			"requirements": [
 				"hasFeatureInCategory((creature),dhampir)"
 			],
@@ -18134,7 +18264,8 @@
 			"sources": [ "Bastards of Golarion" ]
 		},
 		{
-			"name": "Undead Slayer (Pharasma)",
+			"name": "Undead Slayer Pharasma",
+			"display_name": "Undead Slayer (Pharasma)",
 			"requirements": [
 				"hasFeatureInCategory((god),Pharasma)"
 			],
@@ -18616,7 +18747,8 @@
 			"sources": [ "Inner Sea Gods" ]
 		},
 		{
-			"name": "Vengeful (Combat)",
+			"name": "Vengeful Combat",
+			"display_name": "Vengeful (Combat)",
 			"description": [
 				"During your childhood, you suffered occasional or frequent abuse from those too powerful for you to resist. Now you thrill at the chance to get back at those who wronged you. Whenever you strike the last creature that damaged you in the past 24 hours, you gain a +1 trait bonus on damage rolls against that creature.",
 				"Suggested Characters: Calistrians, Galtan refugees, Gyronna worshipers."
@@ -18625,7 +18757,8 @@
 			"sources": [ "Quests and Campaigns" ]
 		},
 		{
-			"name": "Vengeful (Social)",
+			"name": "Vengeful Social",
+			"display_name": "Vengeful (Social)",
 			"description": "You were brutally betrayed, and you have dedicated yourself to pursuing revenge. Choose a humanoid subtype that is not your own from the following list: dwarf, elf, gnome, halfling, or human. You gain a +2 trait bonus on Intimidate checks against creatures with that subtype.",
 			"type": [ "Social" ],
 			"sources": [ "Antihero's Handbook" ]
@@ -18648,7 +18781,8 @@
 			"sources": [ "People of the Wastes" ]
 		},
 		{
-			"name": "Venom-Drenched",
+			"name": "Venom Drenched",
+			"display_name": "Venom-Drenched",
 			"requirements": [
 				"hasFeatureInCategory((creature),halfling)",
 				"hasFeatureInCategory((god),Norgorber)"
@@ -18858,7 +18992,8 @@
 			"sources": [ "Qadira, Gateway to the East" ]
 		},
 		{
-			"name": "Walls of Half-Truths",
+			"name": "Walls of Half Truths",
+			"display_name": "Walls of Half-Truths",
 			"requirements": [
 				"hasFeatureInCategory((creature),samsaran)"
 			],
@@ -18954,7 +19089,8 @@
 			"sources": [ "Wilderness Origins" ]
 		},
 		{
-			"name": "Wary (BoA)",
+			"name": "Wary BoA",
+			"display_name": "Wary (BoA)",
 			"requirements": [
 				"hasFeatureInCategory((creature),aasimar)"
 			],
@@ -18963,7 +19099,8 @@
 			"sources": [ "Blood of Angels" ]
 		},
 		{
-			"name": "Wary (PotR)",
+			"name": "Wary PotR",
+			"display_name": "Wary (PotR)",
 			"requirements": [
 				{
 					"region": "daggermark"
@@ -19063,13 +19200,15 @@
 			"sources": [ "Inner Sea Races" ]
 		},
 		{
-			"name": "Water-Touched",
+			"name": "Water Touched",
+			"display_name": "Water-Touched",
 			"description": "You share an aff inity with elemental water. You gain DR 1/- against creatures and attacks with the water type.",
 			"type": [ "Faith" ],
 			"sources": [ "Ultimate Campaign" ]
 		},
 		{
-			"name": "Water-Trained",
+			"name": "Water Trained",
+			"display_name": "Water-Trained",
 			"requirements": [
 				{
 					"mount_any": [
@@ -19140,7 +19279,8 @@
 			"sources": [ "Champions of Purity" ]
 		},
 		{
-			"name": "Weather-Beaten",
+			"name": "Weather Beaten",
+			"display_name": "Weather-Beaten",
 			"requirements": [
 				{
 					"mount_any": [
@@ -19224,7 +19364,8 @@
 			"sources": [ "Dragonslayer's Handbook" ]
 		},
 		{
-			"name": "Well-Informed",
+			"name": "Well Informed",
+			"display_name": "Well-Informed",
 			"requirements": [
 				"hasFeatureInCategory((creature),halfling)"
 			],
@@ -19237,7 +19378,8 @@
 			]
 		},
 		{
-			"name": "Well-Prepared",
+			"name": "Well Prepared",
+			"display_name": "Well-Prepared",
 			"requirements": [
 				"hasFeatureInCategory((god),Angradd)"
 			],
@@ -19246,7 +19388,8 @@
 			"sources": [ "Inner Sea Gods" ]
 		},
 		{
-			"name": "Well-Provisioned Adventurer",
+			"name": "Well Provisioned Adventurer",
+			"display_name": "Well-Provisioned Adventurer",
 			"description": [
 				"You always knew that one day you would leave your humble beginnings behind and become an adventurer, so you scrimped and saved, buying the necessary equipment one piece at a time until you had everything you needed. Select one of the equipment packages below. If you select this trait during character creation, you do not receive any starting gold.",
 				"Arcane Adept Package",
@@ -19360,7 +19503,8 @@
 			"sources": [ "People of the North" ]
 		},
 		{
-			"name": "Whole-Hearted",
+			"name": "Whole Hearted",
+			"display_name": "Whole-Hearted",
 			"requirements": [
 				{
 					"region": "averaka"
@@ -19424,7 +19568,8 @@
 			"sources": [ "Advanced Class Origins" ]
 		},
 		{
-			"name": "Wind-Carried Voices",
+			"name": "Wind Carried Voices",
+			"display_name": "Wind-Carried Voices",
 			"requirements": [
 				"hasFeatureInCategory((creature),sylph)"
 			],
@@ -19523,7 +19668,8 @@
 			]
 		},
 		{
-			"name": "Witch-Tongued",
+			"name": "Witch Tongued",
+			"display_name": "Witch-Tongued",
 			"requirements": [
 				{
 					"region": "irrisen"
@@ -19580,7 +19726,8 @@
 			]
 		},
 		{
-			"name": "World-Weary",
+			"name": "World Weary",
+			"display_name": "World-Weary",
 			"requirements": [
 				{
 					"campaign": "ironfang-invasion"
@@ -19692,13 +19839,15 @@
 			"sources": [ "Faiths and Philosophies" ]
 		},
 		{
-			"name": "Zealous",
+			"name": "Zealous Drawback",
+			"display_name": "Zealous (Drawback)",
 			"description": "You are fanatical in your beliefs, ruled by emotion over reason. When you attack a creature that you know worships a different religion than you do, you take a -5 penalty on the attack roll and a +2 trait bonus on the damage roll with your first attack.",
 			"type": [ "Drawback" ],
 			"sources": [ "Ultimate Campaign" ]
 		},
 		{
-			"name": "Zealous (Garundi)",
+			"name": "Zealous Garundi",
+			"display_name": "Zealous (Garundi)",
 			"requirements": [
 				"hasFeatureInCategory((creature),human)",
 				{
