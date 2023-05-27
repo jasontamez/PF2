@@ -150,7 +150,7 @@ There should be a general list of numbers where certain `features` should be pla
 
 - 0-1000 - Ancestry
 - 1001-2000 - Class
-- 2001-3000 - Foundational Feats
+- 2001-3000 - Traits, Foundational Feats
 - 3001-4000 - Midrange Feats
 - 4001-5000 - Highest-level Feats
 
@@ -210,7 +210,7 @@ Each `bestow_` property has a corresponding `remove_` property
   - ~~rogue and UC talents, skill unlocks~~
   - ~~samurai~~
   - ~~shaman hexes, spirits~~
-  - shifter aspects
+  - ~~shifter aspects~~
   - skald ~~sagas, rage powers (barb), masterpieces,~~ advanced versatile performances (bard)
   - ~~slayer talents~~
   - ~~sorcerer bloodlines, wildbloods~~
