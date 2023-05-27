@@ -196,13 +196,13 @@ Each `bestow_` property has a corresponding `remove_` property
   - ~~hunter animal focus~~
   - ~~inquisitions~~
   - ~~investigator talents, annointments~~
-  - kineticist ~~talents~~, elements
+  - ~~kineticist talents, elements~~
   - ~~magus acana (?)~~
-  - mesmerist stares, tricks
+  - ~~mesmerist stares, tricks~~
   - ~~medium spririts - reformat~~
   - ~~monk and UC ki powers, vows, style strikes~~
   - ~~ninja tricks~~
-  - occultist implements
+  - ~~occultist implements~~
   - ~~oracle mysteries, curses~~
   - ~~paladin oaths, divine bonds, mercies~~
   - ~~psychic phrenic amps, disciplines~~
