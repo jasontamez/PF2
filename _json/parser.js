@@ -1,7 +1,7 @@
 // ...
 
 function getParser() {
-	// Globl-ish variable to hold various contexts across functions
+	// Global-ish variable to hold various contexts across functions
 	let CONTEXT = {};
 
 	// Helper functions
@@ -20,6 +20,13 @@ function getParser() {
 			}
 		}
 		return final;
+	}
+	function clearMemory(variable) {
+		// Either delete a single saved value, or delete ALL saved values
+		if(variable) {
+			return delete this._MEMORY[variable];
+		}
+		return this._MEMORY = {};
 	}
 
 	// Standard fuctions
@@ -131,6 +138,7 @@ function getParser() {
 		// Helper functions
 		_escapeRegex: escapeRegex,
 		_flatten: flatten,
+		_clearMemory: clearMemory,
 		// Main functions
 		save,
 		load,
@@ -165,8 +173,8 @@ function getParser() {
 	function addFunction(...functions) {
 		// addFunction([function_name, function(){}], ...)
 		functions.forEach(([functionName, func]) => {
-			if(!functionName.match(/^[a-zA-Z][-_a-zA-Z0-9]*$/)) {
-				throw new SyntaxError(`Invalid function name "${functionName}" - Functions must begin with a letter, and can only contain letters, numbers, dashes, and the underscore`)
+			if(!functionName.match(/^[a-zA-Z][_a-zA-Z0-9]*$/)) {
+				throw new SyntaxError(`Invalid function name "${functionName}" - Functions must begin with a letter, and can only contain letters, numbers, and the underscore`)
 			}
 			FUNCTIONS[functionName] = func;
 		});
@@ -251,7 +259,7 @@ function getParser() {
 		let m;
 		let scanned = '';
 		const functions = [];
-		const regex = /^(.*?)([a-zA-Z][-a-zA-Z_0-9]*)\s*\((.*)$/;
+		const regex = /^(.*?)\b([a-zA-Z][a-zA-Z_0-9]*)\s*\((.*)$/;
 		// search for functions
 		while(m = input.match(regex)) {
 			const [x, pre, functionName, post] = m;

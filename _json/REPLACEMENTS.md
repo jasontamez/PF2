@@ -140,7 +140,6 @@ Replace class features
 `^(\t+)(\{\n(?:\1\t.+\n)*?)\1\t"alignment": "(.+?)",?\n((?:\1\t.+\n)*\1\})`
 `$1"getInput(alignment)==$3",\n$1$2$4`
 
-
 `,(\n\t+\})`
 `$1`
 

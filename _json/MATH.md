@@ -248,17 +248,17 @@ These functions should extract the results from a function and treat them as arg
   - the `Boolean Phrase` is a special `STRING` with some sort of comparison or equality test, e.g. "X > 5" or "? == 40"
   - the second `STRING` represents the part of the test function that is to be replaced by the other arguments, e.g. "X" or "?"
 - `testAll(Boolean Phrase, STRING, ANY...)` - this returns true if *all* of the arguments pass the function in the `Boolean Phrase` test; the `STRING` represents the part of the test function that is to be replaced by the other arguments
-- `multiple(Boolean Phrase, STRING, STRING, ANY...)` - this returns true if at least `NUMBER` of arguments passes the `Boolean Phrase` function test; the `STRING` represents the part of the test function that is to be replaced by the other arguments
+- `multiple(NUMBER, Boolean Phrase, STRING, ANY...)` - this returns true if at least `NUMBER` of arguments passes the `Boolean Phrase` function test; the `STRING` represents the part of the test function that is to be replaced by the other arguments
 
 ```javascript
 // EXAMPLE
-"multiple(3, \"X >= 5\", X, getScoresByTag(skill:craft))" // returns true if at
+"multiple(3, X >= 5, X, getScoresByTag(skill:craft))" // returns true if at
             // least three scores with the skill:craft tag have values greater
             // than or equal to 5
-"multiple(4, \"INPUT == 1\", INPUT, getInputsByTag(spell:cleric))" // returns true
+"multiple(4, INPUT == 1, INPUT, getInputsByTag(spell:cleric))" // returns true
             // if at least four inputs with the spell:cleric tag have values
             // exactly equal to 1
-"multiple(2, \"? < 10\", ?, getInputsByTag(is:kosher), getScoresByTag(non:fat))"
+"multiple(2, ? < 10, ?, getInputsByTag(is:kosher), getScoresByTag(non:fat))"
             // returns true if, among inputs with the is:kosher tag and scores
             // with the non:fat tag, at least two have values less than 10
 ```
@@ -266,135 +266,3 @@ These functions should extract the results from a function and treat them as arg
 ### Conditionals and Loops
 
 - `if(BOOLEAN,ReturnValueIfTrue,ReturnValueIfFalse)` - returns one of two values depending on if the `BOOLEAN` is `true` or `false`
-
--------------------------------------------------
-
-## Array Format
-
-Formulae should be in Array form, as the order of Arrays is kept consistent when JSONs are parsed. Sub-arrays can be used like parentheses.
-
-`(-b + squareRoot(b**2 - 4*a*c)) / (2*a)`
-
-```javascript
-[
-    "divide",
-    [
-        "add",
-        [
-            "subtract",
-            0,
-            B
-        ],
-        "square root", [
-            [
-                "subtract",
-                [
-                    "multiply",
-                    B,
-                    B
-                ],
-                [
-                    "multiply",
-                    4,
-                    A,
-                    C
-                ]
-            ]
-        ]
-    ],
-    [
-        "multiply",
-        2,
-        A
-    ]
-]
-```
-
-### General Operations
-
-- `"store", STR, ANY`
-
-  - saves any value under the title of the given string so it can be used later
-
-```javascript
-[
-  ["store", "X", 5], // makes a variable X equal to 5
-  ["add", "X", 3],   // adds the variable X to 3, yielding 8
-  ["store", "X", 6], // now X is equal to 6
-  ["add", "X", 3]    // adds the variable X to 3, yielding 9
-]
-```
-
-- `"filter", LookupObject, ANY...`
-  - looks through the given `Values` and keeps only the ones who match the `LookupObject`?
-
-### Getters and Setters (2)
-
-- `"get [score||input||bonus||flag]", STR` - gets the current value of the given score, input, bonus or flag (string)
-- `"set input", STR, Value` - sets the given input to the given `Value`
-
-### Numeric Operations (2)
-
-#### Returns single result
-
-- `"add", NUM, NUM...` - adds all elements together
-- `"subtract", NUM, NUM...` - starts with the first element, then subtracts the next elements one at a time
-
-```javascript
-[ "subtract", 30, 10, 1 ] // 30 - 10 = 20, 20 - 1 = 19
-```
-
-- `"multiply", NUM, NUM...` - multiplies all elements together
-- `"divide", NUM, NUM...` - starts with the first element, then divides by the next element, then the next element, and so on
-
-```javascript
-[ "divide", 30, 3, 5 ] // 30 / 3 = 10, 10 / 5 = 2
-```
-
-- `"square root", NUM` - determines the square root of the 1st element; ignores any further elements
-- `"random_int", INT, INT` - returns a random integer between the 1st and the 2nd elements, inclusive; ignores any further elements
-- `"min", NUM...` - returns the lowest number among all elements
-- `"max", NUM...` - returns the highest number among all elements
-- `"round", NUM` - returns the number rounded to the nearest integer (0.5 will round up)
-- `"ceil", NUM` - returns the number rounded to the nearest, higher integer
-- `"floor", NUM` - returns the number rounded to the nearest, lower integer
-
-```javascript
-[
-    ["round", 4.5],  // 5
-    ["round", 4.49], // 4
-    ["round", 4],    // 4
-    ["ceil", 4.3],   // 5
-    ["ceil", 4],     // 4
-    ["floor", 4.8],  // 4
-    ["floor", 5],    // 5
-    ["ceil", -3.2],  // -3 (negative numbers may produce nonintuitive results,
-]                    //    but this IS rounding to the nearest higher integer!)
-```
-
-#### Return multiple results (2)
-
-- `"limit >", NUM, NUM...` - takes the first number and returns all subsequent numbers that are greater than that first number
-  - >, >=, <, <=, and = are all valid limits
-- `"query", LookupObject...` - returns the values of any/all scores/bonuses/whatever that match all `LookupObjects` supplied
-
-### Query Objects
-
-- `QueryObjects` are basically `LookupObjects` with an additional `"render"` property?
-
-```javascript
-{
-    "query": [
-        // One or more LookupObjects
-    ],
-    "formula": []
-}
-```
-
-- `"query score", STRING, ANY...` - Acts like a query object, searching for a `score`. The following arguments must come in pairs, the first being the name of a query object property, the second being the value of that property
-  - `"query bonus"`, `"query flag"`, and `"query feature"` work the same, searching for a `bonus`, `flag`, or `feature`.
-
-### Conditionals and Loops (2)
-
-- `"repeat by type", LookupObject...`
-- `"if", LookupObject, ANY, ANY` - ?
