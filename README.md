@@ -219,7 +219,7 @@ Each `bestow_` property has a corresponding `remove_` property
   - ~~vigilante talents~~
   - ~~warpriest blessings~~
   - ~~witch hexes, patrons, unique patrons~~
-  - wizard ~~arcane discoveries, familiars,~~ schools
+  - ~~wizard arcane discoveries, familiars, schools~~
   - PHANTOM focuses
 - Archetypes (under classes)
 - Races
@@ -247,8 +247,8 @@ Each `bestow_` property has a corresponding `remove_` property
 - diseases (many)
 - curses (many)
 - drugs (many)
-- poisons (many)
-- shadow piercings
+- ~~poisons (many)~~
+- ~~shadow piercings~~
 - spellbooks (many)
 - wards
 - traps (many)
@@ -256,7 +256,7 @@ Each `bestow_` property has a corresponding `remove_` property
 - alchemical reagents
 - elemental augmentations
 - necrografts
-- psitech?
+- ~~psitech?~~
 - construct mods (many)
 - haunts (many)
 - madnesses (many)
