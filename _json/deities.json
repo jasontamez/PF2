@@ -143,6 +143,15 @@
 				"Inner Sea Temples",
 				"Pathfinder #8: Seven Days to the Grave"
 			],
+			"types": [
+				"LN",
+				"Core Deities",
+				"Deities of Tian Xia",
+				"Halfling Deities",
+				"Order of the God Claw Pantheon",
+				"Sandpoint Pantheon",
+				"Taldan Pantheon"
+			],
 			"heading": [
 				"**Abadar**",
 				"**Master of the First Vault**",
@@ -297,6 +306,10 @@
 			"name": "Abhoth",
 			"file": "deitydisplay454d.html",
 			"sources": [ "Pathfinder #109: In Search of Sanity" ],
+			"types": [
+				"CN",
+				"Outer Gods"
+			],
 			"heading": [
 				"**Abhoth**",
 				"**Source of Uncleanness**",
@@ -350,6 +363,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned - Volume 2: Lords of Chaos",
 				"Book of the Damned"
+			],
+			"types": [
+				"CE",
+				"Demon Lords"
 			],
 			"heading": [
 				"**Abraxas**",
@@ -438,6 +455,10 @@
 			"name": "Acavna",
 			"file": "deitydisplayc59b.html",
 			"sources": [ "Pathfinder #123: The Flooded Cathedral" ],
+			"types": [
+				"CN",
+				"Azlanti Pantheon"
+			],
 			"heading": [
 				"**Acavna**",
 				"**The Shield**",
@@ -483,6 +504,10 @@
 			"sources": [
 				"Inner Sea Faiths",
 				"Inner Sea Gods"
+			],
+			"types": [
+				"LE",
+				"Other Deities"
 			],
 			"heading": [
 				"**Achaekek**",
@@ -582,6 +607,10 @@
 			"name": "Aegirran",
 			"file": "deitydisplay9482.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"NG",
+				"Giant Deities"
+			],
 			"heading": [
 				"**Aegirran**",
 				"**The Sea Dreamer**",
@@ -629,6 +658,10 @@
 			"name": "Aerekostes",
 			"file": "deitydisplay506b.html",
 			"sources": [ "Pathfinder #144: Midwives to Death" ],
+			"types": [
+				"N",
+				"Iblydan Hero-Gods"
+			],
 			"heading": [
 				"**Aerekostes**",
 				"**Source** [Pathfinder #144: Midwives to Death pg. 74](source:Pathfinder #144: Midwives to Death)",
@@ -673,6 +706,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Book of the Damned"
+			],
+			"types": [
+				"NE",
+				"Daemon Harbingers"
 			],
 			"heading": [
 				"**Aesdurath**",
@@ -732,6 +769,10 @@
 			"name": "Aesocar",
 			"file": "deitydisplay6089.html",
 			"sources": [ "Pathfinder #123: The Flooded Cathedral" ],
+			"types": [
+				"LG",
+				"Azlanti Pantheon"
+			],
 			"heading": [
 				"**Aesocar**",
 				"**The Healing Touch**",
@@ -781,6 +822,10 @@
 			"name": "Ah Pook",
 			"file": "deitydisplayb6e4.html",
 			"sources": [ "Pathfinder #143: Borne by the Sun's Grace" ],
+			"types": [
+				"NE",
+				"Other Deities"
+			],
 			"heading": [
 				"**Ah Pook**",
 				"**The Destroyer**",
@@ -828,6 +873,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Book of the Damned"
+			],
+			"types": [
+				"NE",
+				"Other Deities"
 			],
 			"heading": [
 				"**Ahriman**",
@@ -899,6 +948,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned"
 			],
+			"types": [
+				"NE",
+				"Daemon Harbingers"
+			],
 			"heading": [
 				"**Ajids**",
 				"**Father Flense**",
@@ -957,6 +1010,10 @@
 			"name": "Aksha",
 			"file": "deitydisplayfba6.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"LE",
+				"Rakshasa Immortals"
+			],
 			"heading": [
 				"**Aksha**",
 				"**Second Breath**",
@@ -1007,6 +1064,10 @@
 			"name": "Akuma",
 			"file": "deitydisplaya596.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"LE",
+				"Oni Daimyo"
+			],
 			"heading": [
 				"**Akuma**",
 				"**Horned King**",
@@ -1056,6 +1117,10 @@
 			"name": "Alazhra",
 			"file": "deitydisplay9aa9.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"NE",
+				"Other Deities"
+			],
 			"heading": [
 				"**Alazhra**",
 				"**The Dream Eater**",
@@ -1106,6 +1171,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned - Volume 2: Lords of Chaos",
 				"Book of the Damned"
+			],
+			"types": [
+				"CE",
+				"Demon Lords"
 			],
 			"heading": [
 				"**Aldinach**",
@@ -1199,6 +1268,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned"
 			],
+			"types": [
+				"LE",
+				"Malebranche"
+			],
 			"heading": [
 				"**Alichino**",
 				"**Jester Prince of the Cage**",
@@ -1266,6 +1339,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned"
 			],
+			"types": [
+				"LE",
+				"Infernal Dukes"
+			],
 			"heading": [
 				"**Alocer**",
 				"**The Pack Lord**",
@@ -1332,6 +1409,10 @@
 			"sources": [
 				"Inner Sea Faiths",
 				"Inner Sea Gods"
+			],
+			"types": [
+				"LN",
+				"Other Deities"
 			],
 			"heading": [
 				"**Alseta**",
@@ -1432,6 +1513,10 @@
 			"name": "Amaznen",
 			"file": "deitydisplay4408.html",
 			"sources": [ "Pathfinder #123: The Flooded Cathedral" ],
+			"types": [
+				"LN",
+				"Azlanti Pantheon"
+			],
 			"heading": [
 				"**Amaznen**",
 				"**The Father of Invention**",
@@ -1475,6 +1560,10 @@
 			"name": "Ananshea",
 			"file": "deitydisplay9248.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"CE",
+				"Sahkil Tormentors"
+			],
 			"heading": [
 				"**Ananshea**",
 				"**The Skin That Walks on Teeth**",
@@ -1524,6 +1613,10 @@
 			"name": "Andak",
 			"file": "deitydisplay50fd.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"LE",
+				"Asura Ranas"
+			],
 			"heading": [
 				"**Andak**",
 				"**The Dismembered**",
@@ -1576,6 +1669,11 @@
 				"Inner Sea Gods",
 				"Book of the Damned - Volume 2: Lords of Chaos",
 				"Book of the Damned"
+			],
+			"types": [
+				"CE",
+				"Demon Lords",
+				"Kobold Deities"
 			],
 			"heading": [
 				"**Andirifkhu**",
@@ -1668,6 +1766,10 @@
 				"Inner Sea Gods",
 				"Chronicle of the Righteous"
 			],
+			"types": [
+				"LG",
+				"Empyreal Lords"
+			],
 			"heading": [
 				"**Andoletta**",
 				"**Grandmother Crow**",
@@ -1744,6 +1846,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned - Volume 2: Lords of Chaos",
 				"Book of the Damned"
+			],
+			"types": [
+				"CE",
+				"Demon Lords"
 			],
 			"heading": [
 				"**Angazhan**",
@@ -1834,6 +1940,10 @@
 				"Inner Sea Gods",
 				"Pathfinder #144: Midwives to Death"
 			],
+			"types": [
+				"LG",
+				"Dwarven Deities"
+			],
 			"heading": [
 				"**Angradd**",
 				"**The Forge-Fire**",
@@ -1919,6 +2029,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned"
 			],
+			"types": [
+				"NE",
+				"Daemon Harbingers"
+			],
 			"heading": [
 				"**Anogetz**",
 				"**The Fated Fangs**",
@@ -1977,6 +2091,10 @@
 			"name": "Anubis",
 			"file": "deitydisplayd307.html",
 			"sources": [ "Pathfinder #80: Empty Graves" ],
+			"types": [
+				"LN",
+				"Deities of Ancient Osirion"
+			],
 			"heading": [
 				"**Anubis**",
 				"**Guardian of the Tomb**",
@@ -2022,6 +2140,10 @@
 			"name": "Apep",
 			"file": "deitydisplay4548.html",
 			"sources": [ "Pathfinder #80: Empty Graves" ],
+			"types": [
+				"CE",
+				"Deities of Ancient Osirion"
+			],
 			"heading": [
 				"**Apep**",
 				"**Devourer of the Dawn**",
@@ -2075,6 +2197,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Book of the Damned"
+			],
+			"types": [
+				"NE",
+				"Horsemen"
 			],
 			"heading": [
 				"**Apollyon**",
@@ -2157,6 +2283,11 @@
 			"sources": [
 				"Inner Sea Faiths",
 				"Legacy of Dragons"
+			],
+			"types": [
+				"LG",
+				"Other Deities",
+				"Scalefolk Deities"
 			],
 			"heading": [
 				"**Apsu**",
@@ -2275,6 +2406,10 @@
 				"Inner Sea Gods",
 				"Pathfinder #140: Eulogy for Roslar's Coffer"
 			],
+			"types": [
+				"NE",
+				"Other Deities"
+			],
 			"heading": [
 				"**Arazni**",
 				"**The Harlot Queen**",
@@ -2366,6 +2501,10 @@
 				"Book of the Damned",
 				"Legacy of Dragons"
 			],
+			"types": [
+				"LE",
+				"Queens of the Night"
+			],
 			"heading": [
 				"**Ardad Lili**",
 				"**The End of Innocence**",
@@ -2446,6 +2585,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned - Volume 2: Lords of Chaos",
 				"Book of the Damned"
+			],
+			"types": [
+				"CE",
+				"Demon Lords"
 			],
 			"heading": [
 				"**Areshkagal**",
@@ -2534,6 +2677,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned"
 			],
+			"types": [
+				"NE",
+				"Daemon Harbingers"
+			],
 			"heading": [
 				"**Arlachramas**",
 				"**The Silent Breath**",
@@ -2592,6 +2739,10 @@
 			"name": "Aroden",
 			"file": "deitydisplaycee4.html",
 			"sources": [ "Pathfinder #100: A Song of Silver" ],
+			"types": [
+				"LN",
+				"Dead Deities"
+			],
 			"heading": [
 				"**Aroden**",
 				"**The Last Azlanti**",
@@ -2639,6 +2790,10 @@
 			"name": "Aroggus",
 			"file": "deitydisplay950e.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"LE",
+				"Kyton Demagogues"
+			],
 			"heading": [
 				"**Aroggus**",
 				"**The Abbey Maker**",
@@ -2690,6 +2845,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Chronicle of the Righteous"
+			],
+			"types": [
+				"LG",
+				"Empyreal Lords"
 			],
 			"heading": [
 				"**Arqueros**",
@@ -2766,6 +2925,10 @@
 				"Inner Sea Gods",
 				"Chronicle of the Righteous"
 			],
+			"types": [
+				"NG",
+				"Empyreal Lords"
+			],
 			"heading": [
 				"**Arshea**",
 				"**Spirit of Abandon**",
@@ -2836,6 +2999,10 @@
 				"Inner Sea Gods",
 				"Chronicle of the Righteous",
 				"Pathfinder #134: It Came from Hollow Mountain"
+			],
+			"types": [
+				"CG",
+				"Empyreal Lords"
 			],
 			"heading": [
 				"**Ashava**",
@@ -2937,6 +3104,10 @@
 			"name": "Ashukharma",
 			"file": "deitydisplayb5ae.html",
 			"sources": [ "Distant Shores" ],
+			"types": [
+				"CN",
+				"Other Deities"
+			],
 			"heading": [
 				"**Ashukharma**",
 				"**The Divine Divide**",
@@ -2988,6 +3159,13 @@
 				"Book of the Damned",
 				"Divine Anthology",
 				"Pathfinder #29: Mother of Flies"
+			],
+			"types": [
+				"LE",
+				"Core Deities",
+				"Archdevils",
+				"Kobold Deities",
+				"Order of the God Claw Pantheon"
 			],
 			"heading": [
 				"**Asmodeus**",
@@ -3159,6 +3337,10 @@
 			"display_name": "Atlach-Nacha",
 			"file": "deitydisplay8226.html",
 			"sources": [ "Pathfinder #109: In Search of Sanity" ],
+			"types": [
+				"NE",
+				"Great Old Ones"
+			],
 			"heading": [
 				"**Atlach-Nacha**",
 				"**The Void Weaver**",
@@ -3208,6 +3390,10 @@
 			"name": "Atropos",
 			"file": "deitydisplay48b6.html",
 			"sources": [ "Concordance of Rivals" ],
+			"types": [
+				"N",
+				"Psychopomp Usher"
+			],
 			"heading": [
 				"**Atropos**",
 				"**The Last Sister**",
@@ -3258,6 +3444,10 @@
 			"name": "Ayrzul",
 			"file": "deitydisplaye834.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"NE",
+				"Elemental Lords"
+			],
 			"heading": [
 				"**Ayrzul**",
 				"**The Fossilized King**",
@@ -3314,6 +3504,10 @@
 			"name": "Azathoth",
 			"file": "deitydisplayda8d.html",
 			"sources": [ "Pathfinder #109: In Search of Sanity" ],
+			"types": [
+				"CN",
+				"Outer Gods"
+			],
 			"heading": [
 				"**Azathoth**",
 				"**The Daemon Sultan**",
@@ -3373,6 +3567,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Book of the Damned"
+			],
+			"types": [
+				"LE",
+				"Archdevils"
 			],
 			"heading": [
 				"**Baalzebul**",
@@ -3453,6 +3651,10 @@
 				"Book of the Damned - Volume 2: Lords of Chaos",
 				"Book of the Damned",
 				"Pathfinder #77: Herald of the Ivory Labyrinth"
+			],
+			"types": [
+				"CE",
+				"Demon Lords"
 			],
 			"heading": [
 				"**Baphomet**",
@@ -3574,6 +3776,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned"
 			],
+			"types": [
+				"LE",
+				"Malebranche"
+			],
 			"heading": [
 				"**Barbariccia**",
 				"**The Fearsome Father**",
@@ -3640,6 +3846,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Book of the Damned"
+			],
+			"types": [
+				"LE",
+				"Archdevils"
 			],
 			"heading": [
 				"**Barbatos**",
@@ -3718,6 +3928,10 @@
 			"name": "Barravoclair",
 			"file": "deitydisplay7566.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"LE",
+				"Kyton Demagogues"
+			],
 			"heading": [
 				"**Barravoclair**",
 				"**The Lady of the Final Gasp**",
@@ -3769,6 +3983,10 @@
 			"sources": [
 				"Concordance of Rivals",
 				"Pathfinder #143: Borne by the Sun's Grace"
+			],
+			"types": [
+				"N",
+				"Psychopomp Usher"
 			],
 			"heading": [
 				"**Barzahk**",
@@ -3853,6 +4071,10 @@
 			"name": "Bastet",
 			"file": "deitydisplaydeb7.html",
 			"sources": [ "Pathfinder #80: Empty Graves" ],
+			"types": [
+				"CN",
+				"Deities of Ancient Osirion"
+			],
 			"heading": [
 				"**Bastet**",
 				"**The Sly Enchantress**",
@@ -3900,6 +4122,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Book of the Damned"
+			],
+			"types": [
+				"LE",
+				"Archdevils"
 			],
 			"heading": [
 				"**Belial**",
@@ -3976,6 +4202,10 @@
 			"name": "Benorus",
 			"file": "deitydisplay3bc6.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"NG",
+				"Empyreal Lords"
+			],
 			"heading": [
 				"**Benorus**",
 				"**Angel of Lightless Chambers**",
@@ -4030,6 +4260,10 @@
 			"name": "Bergelmir",
 			"file": "deitydisplay7649.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"CG",
+				"Giant Deities"
+			],
 			"heading": [
 				"**Bergelmir**",
 				"**Mother of Memories**",
@@ -4079,6 +4313,10 @@
 			"name": "Bes",
 			"file": "deitydisplay8e04.html",
 			"sources": [ "Pathfinder #80: Empty Graves" ],
+			"types": [
+				"NG",
+				"Deities of Ancient Osirion"
+			],
 			"heading": [
 				"**Bes**",
 				"**The Guardian Fool**",
@@ -4127,6 +4365,10 @@
 				"Inner Sea Faiths",
 				"Inner Sea Gods",
 				"Pathfinder #55: The Wormwood Mutiny"
+			],
+			"types": [
+				"CN",
+				"Other Deities"
 			],
 			"heading": [
 				"**Besmara**",
@@ -4251,6 +4493,10 @@
 				"Inner Sea Gods",
 				"Chronicle of the Righteous"
 			],
+			"types": [
+				"NG",
+				"Empyreal Lords"
+			],
 			"heading": [
 				"**Bharnarol**",
 				"**The Tempered Inventor**",
@@ -4320,6 +4566,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned"
 			],
+			"types": [
+				"LE",
+				"Infernal Dukes"
+			],
 			"heading": [
 				"**Bifrons**",
 				"**The Second Fate**",
@@ -4387,6 +4637,10 @@
 				"Inner Sea Gods",
 				"Chronicle of the Righteous"
 			],
+			"types": [
+				"CG",
+				"Empyreal Lords"
+			],
 			"heading": [
 				"**Black Butterfly**",
 				"**The Silence Between**",
@@ -4452,6 +4706,10 @@
 			"name": "Bohga",
 			"file": "deitydisplay661e.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"LE",
+				"Asura Ranas"
+			],
 			"heading": [
 				"**Bohga**",
 				"**The Treasurer**",
@@ -4501,6 +4759,10 @@
 			"name": "Bokrug",
 			"file": "deitydisplay89cf.html",
 			"sources": [ "Pathfinder #109: In Search of Sanity" ],
+			"types": [
+				"CN",
+				"Great Old Ones"
+			],
 			"heading": [
 				"**Bokrug**",
 				"**The Water Lizard**",
@@ -4557,6 +4819,10 @@
 			"name": "Bolka",
 			"file": "deitydisplayfeda.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"NG",
+				"Dwarven Deities"
+			],
 			"heading": [
 				"**Bolka**",
 				"**The Golden Gift**",
@@ -4615,6 +4881,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Book of the Damned"
+			],
+			"types": [
+				"NE",
+				"Daemon Harbingers"
 			],
 			"heading": [
 				"**Braismois**",
@@ -4676,6 +4946,11 @@
 			"sources": [
 				"Inner Sea Faiths",
 				"Pathfinder #86: Lords of Rust"
+			],
+			"types": [
+				"N",
+				"Other Deities",
+				"Gnomish Deities"
 			],
 			"heading": [
 				"**Brigh**",
@@ -4787,6 +5062,10 @@
 			"name": "Bundha",
 			"file": "deitydisplay5954.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"LE",
+				"Rakshasa Immortals"
+			],
 			"heading": [
 				"**Bundha**",
 				"**Singing Butcher**",
@@ -4837,6 +5116,10 @@
 			"name": "Caera",
 			"file": "deitydisplayc396.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"LE",
+				"Rakshasa Immortals"
+			],
 			"heading": [
 				"**Caera**",
 				"**The Blood Bather**",
@@ -4889,6 +5172,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Book of the Damned"
+			],
+			"types": [
+				"LE",
+				"Malebranche"
 			],
 			"heading": [
 				"**Cagnazzo**",
@@ -4956,6 +5243,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Book of the Damned"
+			],
+			"types": [
+				"LE",
+				"Malebranche"
 			],
 			"heading": [
 				"**Calcabrina**",
@@ -5026,6 +5317,11 @@
 				"Weapon Master's Handbook",
 				"Inner Sea Temples",
 				"Pathfinder #17: A Memory of Darkness"
+			],
+			"types": [
+				"CN",
+				"Core Deities",
+				"Elven Deities"
 			],
 			"heading": [
 				"**Calistria**",
@@ -5187,6 +5483,10 @@
 			"name": "Camazotz",
 			"file": "deitydisplay4e1c.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"CE",
+				"Other Deities"
+			],
 			"heading": [
 				"**Camazotz**",
 				"**Master of Black Wings**",
@@ -5242,6 +5542,14 @@
 				"Planar Adventures",
 				"Weapon Master's Handbook",
 				"Pathfinder #14: Children of the Void"
+			],
+			"types": [
+				"CG",
+				"Core Deities",
+				"Ascended Pantheon",
+				"Gnomish Deities",
+				"Halfling Deities",
+				"Taldan Pantheon"
 			],
 			"heading": [
 				"**Cayden Cailean**",
@@ -5393,6 +5701,10 @@
 			"name": "Cernunnos",
 			"file": "deitydisplay588b.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"CG",
+				"Empyreal Lords"
+			],
 			"heading": [
 				"**Cernunnos**",
 				"**The Stag Lord**",
@@ -5448,6 +5760,10 @@
 			"name": "Ceyannan",
 			"file": "deitydisplayde57.html",
 			"sources": [ "Concordance of Rivals" ],
+			"types": [
+				"N",
+				"Psychopomp Usher"
+			],
 			"heading": [
 				"**Ceyannan**",
 				"**The Shepherd**",
@@ -5500,6 +5816,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Chronicle of the Righteous"
+			],
+			"types": [
+				"CG",
+				"Empyreal Lords"
 			],
 			"heading": [
 				"**Chadali**",
@@ -5569,6 +5889,10 @@
 				"Inner Sea Gods",
 				"Faiths of Golarion"
 			],
+			"types": [
+				"NG",
+				"Halfling Deities"
+			],
 			"heading": [
 				"**Chaldira**",
 				"**The Calamitous Turn**",
@@ -5634,6 +5958,10 @@
 			"name": "Chamiaholom",
 			"file": "deitydisplayde17.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"CE",
+				"Sahkil Tormentors"
+			],
 			"heading": [
 				"**Chamiaholom**",
 				"**Skull Staff**",
@@ -5683,6 +6011,10 @@
 			"name": "Charg",
 			"file": "deitydisplaycbc6.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"CE",
+				"Sahkil Tormentors"
+			],
 			"heading": [
 				"**Charg**",
 				"**The Typhon Wheel**",
@@ -5739,6 +6071,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Book of the Damned"
+			],
+			"types": [
+				"NE",
+				"Horsemen"
 			],
 			"heading": [
 				"**Charon**",
@@ -5818,6 +6154,10 @@
 			"name": "Chaugnar Faugn",
 			"file": "deitydisplay1b3c.html",
 			"sources": [ "Pathfinder #109: In Search of Sanity" ],
+			"types": [
+				"CE",
+				"Great Old Ones"
+			],
 			"heading": [
 				"**Chaugnar Faugn**",
 				"**The Horror from the Hills**",
@@ -5869,6 +6209,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Book of the Damned"
+			],
+			"types": [
+				"CE",
+				"Qlippoth Lords"
 			],
 			"heading": [
 				"**Chavazvug**",
@@ -5924,6 +6268,10 @@
 			"name": "Chimon",
 			"file": "deitydisplaya58e.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"NE",
+				"Oni Daimyo"
+			],
 			"heading": [
 				"**Chimon**",
 				"**Hunter of Blood**",
@@ -5973,6 +6321,10 @@
 			"display_name": "Chinostes (Evil Aspect)",
 			"file": "deitydisplay6ab4.html",
 			"sources": [ "Pathfinder #144: Midwives to Death" ],
+			"types": [
+				"NE",
+				"Iblydan Hero-Gods"
+			],
 			"heading": [
 				"**Chinostes (Evil Aspect)**",
 				"**The Fallen Blade**",
@@ -6024,6 +6376,10 @@
 			"display_name": "Chinostes (Good Aspect)",
 			"file": "deitydisplay77ec.html",
 			"sources": [ "Pathfinder #144: Midwives to Death" ],
+			"types": [
+				"NG",
+				"Iblydan Hero-Gods"
+			],
 			"heading": [
 				"**Chinostes (Good Aspect)**",
 				"**The Fallen Blade**",
@@ -6076,6 +6432,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Chronicle of the Righteous"
+			],
+			"types": [
+				"CG",
+				"Empyreal Lords"
 			],
 			"heading": [
 				"**Chucaro**",
@@ -6139,6 +6499,10 @@
 			"name": "Chugarra",
 			"file": "deitydisplay904e.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"LE",
+				"Asura Ranas"
+			],
 			"heading": [
 				"**Chugarra**",
 				"**The Guru of Butchers**",
@@ -6188,6 +6552,10 @@
 			"name": "Chupurvagasti",
 			"file": "deitydisplaydf66.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"LE",
+				"Asura Ranas"
+			],
 			"heading": [
 				"**Chupurvagasti**",
 				"**The Lady of Poison Mist**",
@@ -6237,6 +6605,10 @@
 			"name": "Cihua Couatl",
 			"file": "deitydisplay60d8.html",
 			"sources": [ "Pathfinder #143: Borne by the Sun's Grace" ],
+			"types": [
+				"NG",
+				"Other Deities"
+			],
 			"heading": [
 				"**Cihua Couatl**",
 				"**The War Children**",
@@ -6284,6 +6656,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Book of the Damned"
+			],
+			"types": [
+				"LE",
+				"Malebranche"
 			],
 			"heading": [
 				"**Circiatto**",
@@ -6352,6 +6728,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned"
 			],
+			"types": [
+				"NE",
+				"Daemon Harbingers"
+			],
 			"heading": [
 				"**Cixyron**",
 				"**The Furious Thunder**",
@@ -6418,6 +6798,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned"
 			],
+			"types": [
+				"NE",
+				"Daemon Harbingers"
+			],
 			"heading": [
 				"**Corosbel**",
 				"**The Silent Saint**",
@@ -6476,6 +6860,10 @@
 			"name": "Count Ranalc",
 			"file": "deitydisplay84ce.html",
 			"sources": [ "The First World, Realm of the Fey" ],
+			"types": [
+				"CN",
+				"Eldest"
+			],
 			"heading": [
 				"**Count Ranalc**",
 				"**The Traitor**",
@@ -6545,6 +6933,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned"
 			],
+			"types": [
+				"LE",
+				"Infernal Dukes"
+			],
 			"heading": [
 				"**Crocell**",
 				"**The Soothing Sin**",
@@ -6609,6 +7001,10 @@
 			"name": "Cthulhu",
 			"file": "deitydisplay73cd.html",
 			"sources": [ "Pathfinder #109: In Search of Sanity" ],
+			"types": [
+				"CE",
+				"Great Old Ones"
+			],
 			"heading": [
 				"**Cthulhu**",
 				"**The Dreamer in the Deep**",
@@ -6669,6 +7065,10 @@
 				"Pathfinder #119: Prisoners of the Blight",
 				"Book of the Damned - Volume 2: Lords of Chaos",
 				"Book of the Damned"
+			],
+			"types": [
+				"CE",
+				"Demon Lords"
 			],
 			"heading": [
 				"**Cyth-V'sug**",
@@ -6761,6 +7161,10 @@
 			"name": "Dachzerul",
 			"file": "deitydisplay2f93.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"CE",
+				"Sahkil Tormentors"
+			],
 			"heading": [
 				"**Dachzerul**",
 				"**The Darkness Behind Toy**",
@@ -6813,6 +7217,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned - Volume 2: Lords of Chaos",
 				"Book of the Damned"
+			],
+			"types": [
+				"CE",
+				"Nascent Demon Lords"
 			],
 			"heading": [
 				"**Daclau-Sar**",
@@ -6883,6 +7291,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned - Volume 2: Lords of Chaos",
 				"Book of the Damned"
+			],
+			"types": [
+				"CE",
+				"Demon Lords"
 			],
 			"heading": [
 				"**Dagon**",
@@ -6970,6 +7382,12 @@
 			"sources": [
 				"Inner Sea Faiths",
 				"Legacy of Dragons"
+			],
+			"types": [
+				"CE",
+				"Other Deities",
+				"Kobold Deities",
+				"Scalefolk Deities"
 			],
 			"heading": [
 				"**Dahak**",
@@ -7084,6 +7502,10 @@
 			"name": "Daikitsu",
 			"file": "deitydisplayaa90.html",
 			"sources": [ "Dragon Empires Gazetteer" ],
+			"types": [
+				"N",
+				"Deities of Tian Xia"
+			],
 			"heading": [
 				"**Daikitsu**",
 				"**Lady of Foxes**",
@@ -7136,6 +7558,10 @@
 			"name": "Dalenydra",
 			"file": "deitydisplay4687.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"NG",
+				"Empyreal Lords"
+			],
 			"heading": [
 				"**Dalenydra**",
 				"**The Blessed Attendant**",
@@ -7194,6 +7620,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Chronicle of the Righteous"
+			],
+			"types": [
+				"LG",
+				"Empyreal Lords"
 			],
 			"heading": [
 				"**Damerrich**",
@@ -7260,6 +7690,10 @@
 			"name": "Dammar",
 			"file": "deitydisplay448f.html",
 			"sources": [ "Concordance of Rivals" ],
+			"types": [
+				"N",
+				"Psychopomp Usher"
+			],
 			"heading": [
 				"**Dammar**",
 				"**The Denied**",
@@ -7314,6 +7748,10 @@
 				"Book of the Damned - Volume 2: Lords of Chaos",
 				"Book of the Damned",
 				"Pathfinder #78: City of Locusts"
+			],
+			"types": [
+				"CE",
+				"Demon Lords"
 			],
 			"heading": [
 				"**Deskari**",
@@ -7428,6 +7866,15 @@
 				"Divine Anthology",
 				"Pathfinder #2: The Skinsaw Murders",
 				"Monster Summoner's Handbook"
+			],
+			"types": [
+				"CG",
+				"Core Deities",
+				"Deities of Tian Xia",
+				"Elven Deities",
+				"Gnomish Deities",
+				"Halfling Deities",
+				"Sandpoint Pantheon"
 			],
 			"heading": [
 				"**Desna**",
@@ -7591,6 +8038,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned"
 			],
+			"types": [
+				"LE",
+				"Infernal Dukes"
+			],
 			"heading": [
 				"**Deumus**",
 				"**The Glutton of Graves**",
@@ -7655,6 +8106,10 @@
 			"name": "Dhalavei",
 			"file": "deitydisplay715e.html",
 			"sources": [ "Cult of the Ebon Destroyers" ],
+			"types": [
+				"LE",
+				"Other Deities"
+			],
 			"heading": [
 				"**Dhalavei**",
 				"**The Unsuspected Rot**",
@@ -7694,6 +8149,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Book of the Damned"
+			],
+			"types": [
+				"NE",
+				"Daemon Harbingers"
 			],
 			"heading": [
 				"**Diceid**",
@@ -7755,6 +8214,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Book of the Damned"
+			],
+			"types": [
+				"LE",
+				"Archdevils"
 			],
 			"heading": [
 				"**Dispater**",
@@ -7838,6 +8301,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned"
 			],
+			"types": [
+				"LE",
+				"Queens of the Night"
+			],
 			"heading": [
 				"**Doloras**",
 				"**Our Lady of Pain**",
@@ -7906,6 +8373,10 @@
 			"name": "Dradjit",
 			"file": "deitydisplay1c7e.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"LE",
+				"Rakshasa Immortals"
+			],
 			"heading": [
 				"**Dradjit**",
 				"**The Godslayer**",
@@ -7959,6 +8430,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned",
 				"Legacy of Dragons"
+			],
+			"types": [
+				"LE",
+				"Malebranche"
 			],
 			"heading": [
 				"**Draghignazzo**",
@@ -8033,6 +8508,10 @@
 			"name": "Dranngvit",
 			"file": "deitydisplaya88f.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"LN",
+				"Dwarven Deities"
+			],
 			"heading": [
 				"**Dranngvit**",
 				"**The Debt Minder**",
@@ -8087,6 +8566,10 @@
 			"name": "Dretha",
 			"file": "deitydisplay2dab.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"CE",
+				"Orc Deities"
+			],
 			"heading": [
 				"**Dretha**",
 				"**The Dark Mother**",
@@ -8135,6 +8618,10 @@
 			"name": "Drokalion",
 			"file": "deitydisplay73d2.html",
 			"sources": [ "Pathfinder #144: Midwives to Death" ],
+			"types": [
+				"N",
+				"Iblydan Hero-Gods"
+			],
 			"heading": [
 				"**Drokalion**",
 				"**Source** [Pathfinder #144: Midwives to Death pg. 74](source:Pathfinder #144: Midwives to Death)",
@@ -8170,6 +8657,10 @@
 			"name": "Droskar",
 			"file": "deitydisplay0aa3.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"NE",
+				"Dwarven Deities"
+			],
 			"heading": [
 				"**Droskar**",
 				"**The Dark Smith**",
@@ -8235,6 +8726,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned"
 			],
+			"types": [
+				"NE",
+				"Daemon Harbingers"
+			],
 			"heading": [
 				"**Ealdeez**",
 				"**The Beast Behind the Dream**",
@@ -8295,6 +8790,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Book of the Damned"
+			],
+			"types": [
+				"LE",
+				"Infernal Dukes"
 			],
 			"heading": [
 				"**Eaqueo**",
@@ -8360,6 +8859,10 @@
 			"name": "Easivra",
 			"file": "deitydisplay982d.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"LG",
+				"Other Deities"
+			],
 			"heading": [
 				"**Easivra**",
 				"**The Dawn Eagle**",
@@ -8410,6 +8913,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Book of the Damned"
+			],
+			"types": [
+				"LE",
+				"Queens of the Night"
 			],
 			"heading": [
 				"**Eiseth**",
@@ -8479,6 +8986,10 @@
 			"name": "Eldas",
 			"file": "deitydisplayc672.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"LG",
+				"Empyreal Lords"
+			],
 			"heading": [
 				"**Eldas**",
 				"**The Abiding Spire**",
@@ -8536,6 +9047,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Book of the Damned"
+			],
+			"types": [
+				"LE",
+				"Infernal Dukes"
 			],
 			"heading": [
 				"**Eligos**",
@@ -8601,6 +9116,10 @@
 			"name": "Elion",
 			"file": "deitydisplaydddb.html",
 			"sources": [ "Pathfinder #123: The Flooded Cathedral" ],
+			"types": [
+				"CG",
+				"Azlanti Pantheon"
+			],
 			"heading": [
 				"**Elion**",
 				"**The Farseeker**",
@@ -8654,6 +9173,13 @@
 				"Planar Adventures",
 				"Divine Anthology",
 				"Pathfinder #32: Rivers Run Red"
+			],
+			"types": [
+				"LG",
+				"Core Deities",
+				"Gnomish Deities",
+				"Halfling Deities",
+				"Sandpoint Pantheon"
 			],
 			"heading": [
 				"**Erastil**",
@@ -8818,6 +9344,10 @@
 			"name": "Erecura",
 			"file": "deitydisplayeb62.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"LN",
+				"Other Deities"
+			],
 			"heading": [
 				"**Erecura**",
 				"**Queen of Dis**",
@@ -8869,6 +9399,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Chronicle of the Righteous"
+			],
+			"types": [
+				"NG",
+				"Empyreal Lords"
 			],
 			"heading": [
 				"**Eritrice**",
@@ -8938,6 +9472,10 @@
 				"Inner Sea Gods",
 				"Chronicle of the Righteous"
 			],
+			"types": [
+				"LG",
+				"Empyreal Lords"
+			],
 			"heading": [
 				"**Falayna**",
 				"**Warrior's Ring**",
@@ -9006,6 +9544,10 @@
 			"name": "Fandarra",
 			"file": "deitydisplay77ab.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"N",
+				"Giant Deities"
+			],
 			"heading": [
 				"**Fandarra**",
 				"**Blood Mother**",
@@ -9063,6 +9605,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Book of the Damned"
+			],
+			"types": [
+				"LE",
+				"Malebranche"
 			],
 			"heading": [
 				"**Farfarello**",
@@ -9128,6 +9674,10 @@
 			"name": "Feronia",
 			"file": "deitydisplay1dab.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"N",
+				"Other Deities"
+			],
 			"heading": [
 				"**Feronia**",
 				"**The Fertile Flame**",
@@ -9175,6 +9725,10 @@
 			"name": "Fharaas",
 			"file": "deitydisplayde35.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"LE",
+				"Kyton Demagogues"
+			],
 			"heading": [
 				"**Fharaas**",
 				"**The Seer in Skin**",
@@ -9224,6 +9778,10 @@
 			"name": "Findeladlara",
 			"file": "deitydisplayff64.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"CG",
+				"Elven Deities"
+			],
 			"heading": [
 				"**Findeladlara**",
 				"**The Guiding Hand**",
@@ -9285,6 +9843,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned - Volume 2: Lords of Chaos",
 				"Book of the Damned"
+			],
+			"types": [
+				"CE",
+				"Demon Lords"
 			],
 			"heading": [
 				"**Flauros**",
@@ -9373,6 +9935,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned"
 			],
+			"types": [
+				"NE",
+				"Daemon Harbingers"
+			],
 			"heading": [
 				"**Folca**",
 				"**The Gaunt Stranger**",
@@ -9431,6 +9997,10 @@
 			"name": "Folgrit",
 			"file": "deitydisplay6503.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"LG",
+				"Dwarven Deities"
+			],
 			"heading": [
 				"**Folgrit**",
 				"**The Watchful Mother**",
@@ -9494,6 +10064,10 @@
 			"name": "Fumeiyoshi",
 			"file": "deitydisplaybc41.html",
 			"sources": [ "Dragon Empires Gazetteer" ],
+			"types": [
+				"NE",
+				"Deities of Tian Xia"
+			],
 			"heading": [
 				"**Fumeiyoshi**",
 				"**Lord of Envy**",
@@ -9546,6 +10120,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Book of the Damned"
+			],
+			"types": [
+				"LE",
+				"Infernal Dukes"
 			],
 			"heading": [
 				"**Furcas**",
@@ -9614,6 +10192,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned"
 			],
+			"types": [
+				"LE",
+				"Infernal Dukes"
+			],
 			"heading": [
 				"**Gaap**",
 				"**Rai of the Water Devils**",
@@ -9678,6 +10260,10 @@
 			"name": "Gavidya",
 			"file": "deitydisplaycbcb.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"LE",
+				"Asura Ranas"
+			],
 			"heading": [
 				"**Gavidya**",
 				"**The Numberless**",
@@ -9729,6 +10315,10 @@
 			"sources": [
 				"Dragon Empires Gazetteer",
 				"Legacy of Dragons"
+			],
+			"types": [
+				"LE",
+				"Deities of Tian Xia"
 			],
 			"heading": [
 				"**General Susumu**",
@@ -9797,6 +10387,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned"
 			],
+			"types": [
+				"NE",
+				"Daemon Harbingers"
+			],
 			"heading": [
 				"**Geon**",
 				"**The Dancing Fiend**",
@@ -9857,6 +10451,10 @@
 			"sources": [
 				"Pathfinder #107: Scourge of the Godclaw",
 				"Book of the Damned"
+			],
+			"types": [
+				"LE",
+				"Archdevils"
 			],
 			"heading": [
 				"**Geryon**",
@@ -9965,6 +10563,10 @@
 			"name": "Ghatanothoa",
 			"file": "deitydisplay2615.html",
 			"sources": [ "Pathfinder #109: In Search of Sanity" ],
+			"types": [
+				"NE",
+				"Great Old Ones"
+			],
 			"heading": [
 				"**Ghatanothoa**",
 				"**The Eternal Source**",
@@ -10016,6 +10618,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Chronicle of the Righteous"
+			],
+			"types": [
+				"LG",
+				"Empyreal Lords"
 			],
 			"heading": [
 				"**Ghenshau**",
@@ -10082,6 +10688,10 @@
 			"name": "Ghlaunder",
 			"file": "deitydisplay1965.html",
 			"sources": [ "Inner Sea Faiths" ],
+			"types": [
+				"CE",
+				"Other Deities"
+			],
 			"heading": [
 				"**Ghlaunder**",
 				"**The Gossamer King**",
@@ -10184,6 +10794,10 @@
 				"Book of the Damned - Volume 2: Lords of Chaos",
 				"Book of the Damned"
 			],
+			"types": [
+				"CE",
+				"Demon Lords"
+			],
 			"heading": [
 				"**Gogunta**",
 				"**Song of the Swamp**",
@@ -10272,6 +10886,10 @@
 				"Planar Adventures",
 				"Weapon Master's Handbook",
 				"Pathfinder #35: War of the River Kings"
+			],
+			"types": [
+				"CN",
+				"Core Deities"
 			],
 			"heading": [
 				"**Gorum**",
@@ -10425,6 +11043,12 @@
 				"Planar Adventures",
 				"Pathfinder #38: Racing to Ruin"
 			],
+			"types": [
+				"N",
+				"Core Deities",
+				"Gnomish Deities",
+				"Sandpoint Pantheon"
+			],
 			"heading": [
 				"**Gozreh**",
 				"**The Wind and the Waves**",
@@ -10566,6 +11190,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned"
 			],
+			"types": [
+				"LE",
+				"Malebranche"
+			],
 			"heading": [
 				"**Graffiacane**",
 				"**The Swarm Lord**",
@@ -10630,6 +11258,10 @@
 			"name": "Grandmother Spider",
 			"file": "deitydisplay2531.html",
 			"sources": [ "Faiths of Golarion" ],
+			"types": [
+				"N",
+				"Other Deities"
+			],
 			"heading": [
 				"**Grandmother Spider**",
 				"**The Weaver**",
@@ -10700,6 +11332,10 @@
 			"sources": [
 				"Inner Sea Faiths",
 				"Pathfinder #64: Beyond the Doomsday Door"
+			],
+			"types": [
+				"CN",
+				"Other Deities"
 			],
 			"heading": [
 				"**Groetus**",
@@ -10800,6 +11436,10 @@
 			"name": "Gruhastha",
 			"file": "deitydisplayb5da.html",
 			"sources": [ "Faiths of Golarion" ],
+			"types": [
+				"LG",
+				"Other Deities"
+			],
 			"heading": [
 				"**Gruhastha**",
 				"**The Keeper**",
@@ -10878,6 +11518,10 @@
 			"name": "Grundinnar",
 			"file": "deitydisplaydd7f.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"LG",
+				"Dwarven Deities"
+			],
 			"heading": [
 				"**Grundinnar**",
 				"**The Peacemaker**",
@@ -10933,6 +11577,10 @@
 			"name": "Guyuku",
 			"file": "deitydisplay58ae.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"CE",
+				"Oni Daimyo"
+			],
 			"heading": [
 				"**Guyuku**",
 				"**Sea Devil**",
@@ -10982,6 +11630,10 @@
 			"name": "Gyronna",
 			"file": "deitydisplayccc8.html",
 			"sources": [ "Inner Sea Faiths" ],
+			"types": [
+				"CE",
+				"Other Deities"
+			],
 			"heading": [
 				"**Gyronna**",
 				"**The Angry Hag**",
@@ -11074,6 +11726,10 @@
 				"Book of the Damned - Volume 2: Lords of Chaos",
 				"Book of the Damned"
 			],
+			"types": [
+				"CE",
+				"Demon Lords"
+			],
 			"heading": [
 				"**Haagenti**",
 				"**The Whispers Within**",
@@ -11164,6 +11820,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned"
 			],
+			"types": [
+				"LE",
+				"Infernal Dukes"
+			],
 			"heading": [
 				"**Haborym**",
 				"**The Burning Hearth**",
@@ -11228,6 +11888,10 @@
 			"name": "Hadregash",
 			"file": "deitydisplay9c18.html",
 			"sources": [ "Pathfinder #117: Assault on Longshadow" ],
+			"types": [
+				"LE",
+				"Goblin Hero-Gods"
+			],
 			"heading": [
 				"**Hadregash**",
 				"**Greatest Supreme Chieftain Boss**",
@@ -11320,6 +11984,10 @@
 			"name": "Haggakal",
 			"file": "deitydisplayc44c.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"CE",
+				"Giant Deities"
+			],
 			"heading": [
 				"**Haggakal**",
 				"**Father Moon**",
@@ -11370,6 +12038,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Chronicle of the Righteous"
+			],
+			"types": [
+				"NG",
+				"Empyreal Lords"
 			],
 			"heading": [
 				"**Halcamora**",
@@ -11435,6 +12107,10 @@
 			"name": "Hanspur",
 			"file": "deitydisplay4a80.html",
 			"sources": [ "Inner Sea Faiths" ],
+			"types": [
+				"CN",
+				"Other Deities"
+			],
 			"heading": [
 				"**Hanspur**",
 				"**The Water Rat**",
@@ -11527,6 +12203,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned"
 			],
+			"types": [
+				"NE",
+				"Daemon Harbingers"
+			],
 			"heading": [
 				"**Hastrikhal**",
 				"**The Fires Within**",
@@ -11585,6 +12265,10 @@
 			"name": "Hastur",
 			"file": "deitydisplay6c60.html",
 			"sources": [ "Pathfinder #110: The Thrushmoor Terror" ],
+			"types": [
+				"CE",
+				"Great Old Ones"
+			],
 			"heading": [
 				"**Hastur**",
 				"**The King in Yellow**",
@@ -11671,6 +12355,10 @@
 			"name": "Hataam",
 			"file": "deitydisplayf2cb.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"CE",
+				"Sahkil Tormentors"
+			],
 			"heading": [
 				"**Hataam**",
 				"**The River Eater**",
@@ -11720,6 +12408,10 @@
 			"name": "Hathor",
 			"file": "deitydisplayf5af.html",
 			"sources": [ "Pathfinder #80: Empty Graves" ],
+			"types": [
+				"CG",
+				"Deities of Ancient Osirion"
+			],
 			"heading": [
 				"**Hathor**",
 				"**Mistress of Jubilation**",
@@ -11768,6 +12460,10 @@
 			"sources": [
 				"Dragon Empires Gazetteer",
 				"Faiths of Golarion"
+			],
+			"types": [
+				"CN",
+				"Deities of Tian Xia"
 			],
 			"heading": [
 				"**Hei Feng**",
@@ -11863,6 +12559,10 @@
 			"name": "Hembad",
 			"file": "deitydisplay1823.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"CG",
+				"Empyreal Lords"
+			],
 			"heading": [
 				"**Hembad**",
 				"**Wise Grandfather**",
@@ -11918,6 +12618,10 @@
 			"name": "Horus",
 			"file": "deitydisplayb962.html",
 			"sources": [ "Pathfinder #80: Empty Graves" ],
+			"types": [
+				"LN",
+				"Deities of Ancient Osirion"
+			],
 			"heading": [
 				"**Horus**",
 				"**The Distant Falcon**",
@@ -11963,6 +12667,10 @@
 			"name": "Hshurha",
 			"file": "deitydisplaye1b8.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"NE",
+				"Elemental Lords"
+			],
 			"heading": [
 				"**Hshurha**",
 				"**Duchess of All Winds**",
@@ -12016,6 +12724,10 @@
 			"name": "Hudima",
 			"file": "deitydisplay2e1a.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"LE",
+				"Rakshasa Immortals"
+			],
 			"heading": [
 				"**Hudima**",
 				"**Kinslayer**",
@@ -12066,6 +12778,10 @@
 			"name": "Hydim",
 			"file": "deitydisplay7a0b.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"LE",
+				"Asura Ranas"
+			],
 			"heading": [
 				"**Hydim**",
 				"**of the Eternal Fast**",
@@ -12117,6 +12833,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Book of the Damned"
+			],
+			"types": [
+				"LE",
+				"Infernal Dukes"
 			],
 			"heading": [
 				"**Iaozrael**",
@@ -12182,6 +12902,10 @@
 			"name": "Iapholi",
 			"file": "deitydisplay448c.html",
 			"sources": [ "Pathfinder #144: Midwives to Death" ],
+			"types": [
+				"N",
+				"Iblydan Hero-Gods"
+			],
 			"heading": [
 				"**Iapholi**",
 				"**Child of Bloodstone**",
@@ -12236,6 +12960,10 @@
 			"name": "Iggeret",
 			"file": "deitydisplay9448.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"CE",
+				"Sahkil Tormentors"
+			],
 			"heading": [
 				"**Iggeret**",
 				"**She Who Was Lost**",
@@ -12285,6 +13013,10 @@
 			"name": "Il'surrish",
 			"file": "deitydisplay48de.html",
 			"sources": [ "Concordance of Rivals" ],
+			"types": [
+				"CN",
+				"Protean Lord"
+			],
 			"heading": [
 				"**Il'surrish**",
 				"**The Wanderer**",
@@ -12335,6 +13067,10 @@
 			"name": "Imbrex",
 			"file": "deitydisplay472b.html",
 			"sources": [ "The First World, Realm of the Fey" ],
+			"types": [
+				"LN",
+				"Eldest"
+			],
 			"heading": [
 				"**Imbrex**",
 				"**The Twins**",
@@ -12404,6 +13140,10 @@
 				"Inner Sea Gods",
 				"Chronicle of the Righteous"
 			],
+			"types": [
+				"CG",
+				"Empyreal Lords"
+			],
 			"heading": [
 				"**Immonhiel**",
 				"**Balm-Bringer**",
@@ -12471,6 +13211,10 @@
 			"name": "Imot",
 			"file": "deitydisplay4d3c.html",
 			"sources": [ "Concordance of Rivals" ],
+			"types": [
+				"N",
+				"Psychopomp Usher"
+			],
 			"heading": [
 				"**Imot**",
 				"**The Symbol of Doom**",
@@ -12521,6 +13265,10 @@
 			"name": "Inkariax",
 			"file": "deitydisplay7d86.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"LE",
+				"Kyton Demagogues"
+			],
 			"heading": [
 				"**Inkariax**",
 				"**The White Death**",
@@ -12575,6 +13323,10 @@
 			"name": "Inma",
 			"file": "deitydisplay6900.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"LE",
+				"Oni Daimyo"
+			],
 			"heading": [
 				"**Inma**",
 				"**The Empress of the World**",
@@ -12628,6 +13380,13 @@
 				"Planar Adventures",
 				"Weapon Master's Handbook",
 				"Pathfinder #26: The Sixfold Trial"
+			],
+			"types": [
+				"LG",
+				"Core Deities",
+				"Ascended Pantheon",
+				"Halfling Deities",
+				"Order of the God Claw Pantheon"
 			],
 			"heading": [
 				"**Iomedae**",
@@ -12797,6 +13556,10 @@
 			"name": "Ioramvol",
 			"file": "deitydisplay1b2a.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"LE",
+				"Asura Ranas"
+			],
 			"heading": [
 				"**Ioramvol**",
 				"**With the Mouth Full of Boulders**",
@@ -12848,6 +13611,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Chronicle of the Righteous"
+			],
+			"types": [
+				"NG",
+				"Empyreal Lords"
 			],
 			"heading": [
 				"**Irez**",
@@ -12917,6 +13684,14 @@
 				"Planar Adventures",
 				"Divine Anthology",
 				"Pathfinder #53: Tide of Honor"
+			],
+			"types": [
+				"LN",
+				"Core Deities",
+				"Ascended Pantheon",
+				"Deities of Tian Xia",
+				"Order of the God Claw Pantheon",
+				"Vudrani Pantheon"
 			],
 			"heading": [
 				"**Irori**",
@@ -13095,6 +13870,10 @@
 			"name": "Isis",
 			"file": "deitydisplay642a.html",
 			"sources": [ "Pathfinder #80: Empty Graves" ],
+			"types": [
+				"NG",
+				"Deities of Ancient Osirion"
+			],
 			"heading": [
 				"**Isis**",
 				"**Queen of Miracles**",
@@ -13143,6 +13922,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Book of the Damned"
+			],
+			"types": [
+				"CE",
+				"Qlippoth Lords"
 			],
 			"heading": [
 				"**Isph-Aun-Vuln**",
@@ -13198,6 +13981,10 @@
 			"name": "Ithaqua",
 			"file": "deitydisplay5bed.html",
 			"sources": [ "Pathfinder #109: In Search of Sanity" ],
+			"types": [
+				"CE",
+				"Great Old Ones"
+			],
 			"heading": [
 				"**Ithaqua**",
 				"**The Wind-Walker**",
@@ -13250,6 +14037,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned - Volume 2: Lords of Chaos",
 				"Book of the Damned"
+			],
+			"types": [
+				"CE",
+				"Nascent Demon Lords"
 			],
 			"heading": [
 				"**Izyagna**",
@@ -13325,6 +14116,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned"
 			],
+			"types": [
+				"NE",
+				"Daemon Harbingers"
+			],
 			"heading": [
 				"**Jacarkas**",
 				"**The Collector**",
@@ -13383,6 +14178,10 @@
 			"name": "Jaidi",
 			"file": "deitydisplayaa1c.html",
 			"sources": [ "Pathfinder #123: The Flooded Cathedral" ],
+			"types": [
+				"NG",
+				"Azlanti Pantheon"
+			],
 			"heading": [
 				"**Jaidi**",
 				"**The Blessing and Bounty**",
@@ -13433,6 +14232,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Chronicle of the Righteous"
+			],
+			"types": [
+				"NG",
+				"Empyreal Lords"
 			],
 			"heading": [
 				"**Jaidz**",
@@ -13503,6 +14306,10 @@
 				"Inner Sea Gods",
 				"Chronicle of the Righteous"
 			],
+			"types": [
+				"CG",
+				"Empyreal Lords"
+			],
 			"heading": [
 				"**Jalaijatali**",
 				"**Rillsong**",
@@ -13568,6 +14375,10 @@
 			"name": "Jerishall",
 			"file": "deitydisplaya2cb.html",
 			"sources": [ "Concordance of Rivals" ],
+			"types": [
+				"LN",
+				"Primal Inevitable"
+			],
 			"heading": [
 				"**Jerishall**",
 				"**The Turning Sphere**",
@@ -13621,6 +14432,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned - Volume 2: Lords of Chaos",
 				"Book of the Damned"
+			],
+			"types": [
+				"CE",
+				"Demon Lords"
 			],
 			"heading": [
 				"**Jezelda**",
@@ -13709,6 +14524,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned"
 			],
+			"types": [
+				"LE",
+				"Infernal Dukes"
+			],
 			"heading": [
 				"**Jiraviddain**",
 				"**Duke of Fissures**",
@@ -13776,6 +14595,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned - Volume 2: Lords of Chaos",
 				"Book of the Damned"
+			],
+			"types": [
+				"CE",
+				"Demon Lords"
 			],
 			"heading": [
 				"**Jubilex**",
@@ -13861,6 +14684,10 @@
 			"name": "Jyotah",
 			"file": "deitydisplay553d.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"LE",
+				"Rakshasa Immortals"
+			],
 			"heading": [
 				"**Jyotah**",
 				"**He Who Walks Among the Gods**",
@@ -13915,6 +14742,10 @@
 				"Book of the Damned - Volume 2: Lords of Chaos",
 				"Book of the Damned",
 				"Mythic Realms"
+			],
+			"types": [
+				"CE",
+				"Demon Lords"
 			],
 			"heading": [
 				"**Kabriri**",
@@ -14019,6 +14850,10 @@
 			"name": "Kaikyton",
 			"file": "deitydisplay99f9.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"LE",
+				"Kyton Demagogues"
+			],
 			"heading": [
 				"**Kaikyton**",
 				"**The Stitchweaver**",
@@ -14070,6 +14905,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Book of the Damned"
+			],
+			"types": [
+				"LE",
+				"Infernal Dukes"
 			],
 			"heading": [
 				"**Kalma**",
@@ -14135,6 +14974,10 @@
 			"name": "Kazutal",
 			"file": "deitydisplay6876.html",
 			"sources": [ "Faiths of Golarion" ],
+			"types": [
+				"NG",
+				"Other Deities"
+			],
 			"heading": [
 				"**Kazutal**",
 				"**Mother Jaguar**",
@@ -14214,6 +15057,10 @@
 			"name": "Kelinahat",
 			"file": "deitydisplay2047.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"LG",
+				"Empyreal Lords"
+			],
 			"heading": [
 				"**Kelinahat**",
 				"**She of Ebon Wings**",
@@ -14270,6 +15117,10 @@
 			"name": "Kelizandri",
 			"file": "deitydisplayd04f.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"NE",
+				"Elemental Lords"
+			],
 			"heading": [
 				"**Kelizandri**",
 				"**Brackish Emperor**",
@@ -14324,6 +15175,10 @@
 			"name": "Kelksiomides",
 			"file": "deitydisplayd267.html",
 			"sources": [ "Distant Shores" ],
+			"types": [
+				"NG",
+				"Iblydan Hero-Gods"
+			],
 			"heading": [
 				"**Kelksiomides**",
 				"**The Green Warden**",
@@ -14370,6 +15225,10 @@
 			"name": "Keltheald",
 			"file": "deitydisplay1476.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"CG",
+				"Empyreal Lords"
+			],
 			"heading": [
 				"**Keltheald**",
 				"**The Sunset Spires**",
@@ -14425,6 +15284,10 @@
 			"name": "Kerkamoth",
 			"file": "deitydisplayc2cf.html",
 			"sources": [ "Concordance of Rivals" ],
+			"types": [
+				"LN",
+				"Primal Inevitable"
+			],
 			"heading": [
 				"**Kerkamoth**",
 				"**The Waiting Void**",
@@ -14477,6 +15340,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Faiths of Golarion"
+			],
+			"types": [
+				"CG",
+				"Elven Deities"
 			],
 			"heading": [
 				"**Ketephys**",
@@ -14567,6 +15434,10 @@
 			"name": "Khepri",
 			"file": "deitydisplayad7c.html",
 			"sources": [ "Pathfinder #80: Empty Graves" ],
+			"types": [
+				"NG",
+				"Deities of Ancient Osirion"
+			],
 			"heading": [
 				"**Khepri**",
 				"**The Humble Hand**",
@@ -14612,6 +15483,10 @@
 			"name": "Kitumu",
 			"file": "deitydisplaya459.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"CE",
+				"Other Deities"
+			],
 			"heading": [
 				"**Kitumu**",
 				"**Mother of Fireflies**",
@@ -14662,6 +15537,10 @@
 			"name": "Kofusachi",
 			"file": "deitydisplay053a.html",
 			"sources": [ "Dragon Empires Gazetteer" ],
+			"types": [
+				"CG",
+				"Deities of Tian Xia"
+			],
 			"heading": [
 				"**Kofusachi**",
 				"**The Laughing God**",
@@ -14714,6 +15593,10 @@
 			"name": "Kols",
 			"file": "deitydisplay69ca.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"LN",
+				"Dwarven Deities"
+			],
 			"heading": [
 				"**Kols**",
 				"**Oath-Keeper**",
@@ -14776,6 +15659,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Chronicle of the Righteous"
+			],
+			"types": [
+				"NG",
+				"Empyreal Lords"
 			],
 			"heading": [
 				"**Korada**",
@@ -14847,6 +15734,10 @@
 				"Book of the Damned - Volume 2: Lords of Chaos",
 				"Book of the Damned",
 				"Pathfinder #69: Maiden, Mother, Crone"
+			],
+			"types": [
+				"CE",
+				"Demon Lords"
 			],
 			"heading": [
 				"**Kostchtchie**",
@@ -14958,6 +15849,10 @@
 			"name": "Kro'akoth",
 			"file": "deitydisplay5e5d.html",
 			"sources": [ "The Emerald Spire Superdungeon" ],
+			"types": [
+				"CE",
+				"Nascent Demon Lords"
+			],
 			"heading": [
 				"**Kro'akoth**",
 				"**The Fire Serpent**",
@@ -15009,6 +15904,10 @@
 			"name": "Kroina",
 			"file": "deitydisplaya7ee.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"LG",
+				"Empyreal Lords"
+			],
 			"heading": [
 				"**Kroina**",
 				"**Lady All-Sight**",
@@ -15064,6 +15963,10 @@
 			"name": "Kunkarna",
 			"file": "deitydisplayc922.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"LE",
+				"Rakshasa Immortals"
+			],
 			"heading": [
 				"**Kunkarna**",
 				"**The Dream Warrior**",
@@ -15114,6 +16017,10 @@
 			"name": "Kurgess",
 			"file": "deitydisplaybe6c.html",
 			"sources": [ "Inner Sea Faiths" ],
+			"types": [
+				"NG",
+				"Other Deities"
+			],
 			"heading": [
 				"**Kurgess**",
 				"**The Strong Man**",
@@ -15215,6 +16122,10 @@
 			"name": "Lady Nanbyo",
 			"file": "deitydisplay9b45.html",
 			"sources": [ "Dragon Empires Gazetteer" ],
+			"types": [
+				"CE",
+				"Deities of Tian Xia"
+			],
 			"heading": [
 				"**Lady Nanbyo**",
 				"**The Widow of Suffering**",
@@ -15268,6 +16179,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Book of the Damned"
+			],
+			"types": [
+				"NE",
+				"Daemon Harbingers"
 			],
 			"heading": [
 				"**Laivatiniel**",
@@ -15329,6 +16244,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Chronicle of the Righteous"
+			],
+			"types": [
+				"CG",
+				"Empyreal Lords"
 			],
 			"heading": [
 				"**Lalaci**",
@@ -15400,6 +16319,12 @@
 				"Book of the Damned",
 				"Divine Anthology",
 				"Pathfinder #5: Sins of the Saviors"
+			],
+			"types": [
+				"CE",
+				"Core Deities",
+				"Deities of Tian Xia",
+				"Demon Lords"
 			],
 			"heading": [
 				"**Lamashtu**",
@@ -15579,6 +16504,10 @@
 			"name": "Lanishra",
 			"file": "deitydisplay683f.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"CE",
+				"Orc Deities"
+			],
 			"heading": [
 				"**Lanishra**",
 				"**The Slavelord**",
@@ -15632,6 +16561,10 @@
 			"name": "Lao Shu Po",
 			"file": "deitydisplay1da1.html",
 			"sources": [ "Dragon Empires Gazetteer" ],
+			"types": [
+				"NE",
+				"Deities of Tian Xia"
+			],
 			"heading": [
 				"**Lao Shu Po**",
 				"**Old Rat Woman**",
@@ -15689,6 +16622,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Book of the Damned"
+			],
+			"types": [
+				"LE",
+				"Malebranche"
 			],
 			"heading": [
 				"**Libicocco**",
@@ -15755,6 +16692,10 @@
 			"display_name": "Lissala (pre-Earthfall)",
 			"file": "deitydisplayb382.html",
 			"sources": [ "Pathfinder #123: The Flooded Cathedral" ],
+			"types": [
+				"LN",
+				"Azlanti Pantheon"
+			],
 			"heading": [
 				"**Lissala (pre-Earthfall)**",
 				"**The Order of Virtue**",
@@ -15798,6 +16739,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Pathfinder #65: Into the Nightmare Rift"
+			],
+			"types": [
+				"LE",
+				"Other Deities"
 			],
 			"heading": [
 				"**Lissala**",
@@ -15876,6 +16821,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned"
 			],
+			"types": [
+				"NE",
+				"Daemon Harbingers"
+			],
 			"heading": [
 				"**Llamolaek**",
 				"**The Ascended**",
@@ -15936,6 +16885,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Book of the Damned"
+			],
+			"types": [
+				"LE",
+				"Infernal Dukes"
 			],
 			"heading": [
 				"**Lorcan**",
@@ -16001,6 +16954,10 @@
 			"name": "Lorris",
 			"file": "deitydisplay30c3.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"NG",
+				"Empyreal Lords"
+			],
 			"heading": [
 				"**Lorris**",
 				"**The Savior Hound**",
@@ -16057,6 +17014,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Book of the Damned"
+			],
+			"types": [
+				"LE",
+				"Infernal Dukes"
 			],
 			"heading": [
 				"**Lorthact**",
@@ -16125,6 +17086,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned"
 			],
+			"types": [
+				"LE",
+				"Infernal Dukes"
+			],
 			"heading": [
 				"**Losarkur**",
 				"**Beastlord of Avernus**",
@@ -16192,6 +17157,10 @@
 				"Inner Sea Gods",
 				"Chronicle of the Righteous"
 			],
+			"types": [
+				"LG",
+				"Empyreal Lords"
+			],
 			"heading": [
 				"**Lymnieris**",
 				"**The Auroral Tower**",
@@ -16257,6 +17226,10 @@
 			"name": "Lythertida",
 			"file": "deitydisplayef2b.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"NG",
+				"Empyreal Lords"
+			],
 			"heading": [
 				"**Lythertida**",
 				"**The Voiceless Tragedy**",
@@ -16311,6 +17284,10 @@
 			"name": "Maat",
 			"file": "deitydisplayf10a.html",
 			"sources": [ "Pathfinder #80: Empty Graves" ],
+			"types": [
+				"LN",
+				"Deities of Ancient Osirion"
+			],
 			"heading": [
 				"**Maat**",
 				"**The Feather of Truth**",
@@ -16356,6 +17333,10 @@
 			"name": "Maeha",
 			"file": "deitydisplay9c22.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"LE",
+				"Asura Ranas"
+			],
 			"heading": [
 				"**Maeha**",
 				"**The Father of False Words**",
@@ -16407,6 +17388,10 @@
 			"sources": [
 				"The First World, Realm of the Fey",
 				"Legacy of the First World"
+			],
+			"types": [
+				"LN",
+				"Eldest"
 			],
 			"heading": [
 				"**Magdh**",
@@ -16488,6 +17473,10 @@
 			"name": "Magrim",
 			"file": "deitydisplaye19f.html",
 			"sources": [ "Faiths of Golarion" ],
+			"types": [
+				"LN",
+				"Dwarven Deities"
+			],
 			"heading": [
 				"**Evangelist**",
 				"**Source** [Faiths of Golarion pg. 41](source:Faiths of Golarion)",
@@ -16555,6 +17544,10 @@
 			"sources": [
 				"Pathfinder #99: Dance of the Damned",
 				"Book of the Damned"
+			],
+			"types": [
+				"LE",
+				"Queens of the Night"
 			],
 			"heading": [
 				"**Mahathallah**",
@@ -16664,6 +17657,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned"
 			],
+			"types": [
+				"LE",
+				"Malebranche"
+			],
 			"heading": [
 				"**Malacoda**",
 				"**Despoiler of Horizons**",
@@ -16731,6 +17728,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned"
 			],
+			"types": [
+				"LE",
+				"Infernal Dukes"
+			],
 			"heading": [
 				"**Malthus**",
 				"**The Five-Beaked**",
@@ -16797,6 +17798,11 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Book of the Damned"
+			],
+			"types": [
+				"LE",
+				"Archdevils",
+				"Kobold Deities"
 			],
 			"heading": [
 				"**Mammon**",
@@ -16877,6 +17883,10 @@
 			"name": "Marishi",
 			"file": "deitydisplayecef.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"CG",
+				"Empyreal Lords"
+			],
 			"heading": [
 				"**Marishi**",
 				"**The Festival Queen**",
@@ -16933,6 +17943,10 @@
 			"name": "Matravash",
 			"file": "deitydisplay36e5.html",
 			"sources": [ "Distant Shores" ],
+			"types": [
+				"LN",
+				"Other Deities"
+			],
 			"heading": [
 				"**Matravash**",
 				"**The Wide Water**",
@@ -16978,6 +17992,10 @@
 			"name": "Mazludeh",
 			"file": "deitydisplay5d81.html",
 			"sources": [ "Distant Shores" ],
+			"types": [
+				"NG",
+				"Other Deities"
+			],
 			"heading": [
 				"**Mazludeh**",
 				"**Mother of Hearth and Wall**",
@@ -17025,6 +18043,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned - Volume 2: Lords of Chaos",
 				"Book of the Damned"
+			],
+			"types": [
+				"CE",
+				"Demon Lords"
 			],
 			"heading": [
 				"**Mazmezz**",
@@ -17116,6 +18138,10 @@
 				"Book of the Damned - Volume 2: Lords of Chaos",
 				"Book of the Damned"
 			],
+			"types": [
+				"CE",
+				"Nascent Demon Lords"
+			],
 			"heading": [
 				"**Menxyr**",
 				"**The Coffin Groom**",
@@ -17184,6 +18210,10 @@
 			"sources": [
 				"Pathfinder #102: Breaking the Bones of Hell",
 				"Book of the Damned"
+			],
+			"types": [
+				"LE",
+				"Archdevils"
 			],
 			"heading": [
 				"**Mephistopheles**",
@@ -17296,6 +18326,10 @@
 				"Book of the Damned - Volume 2: Lords of Chaos",
 				"Book of the Damned"
 			],
+			"types": [
+				"CE",
+				"Demon Lords"
+			],
 			"heading": [
 				"**Mestama**",
 				"**The Mother of Witches**",
@@ -17380,6 +18414,10 @@
 			"name": "Mhar",
 			"file": "deitydisplayb5e7.html",
 			"sources": [ "Pathfinder #109: In Search of Sanity" ],
+			"types": [
+				"CN",
+				"Great Old Ones"
+			],
 			"heading": [
 				"**Mhar**",
 				"**The World Thunder**",
@@ -17438,6 +18476,10 @@
 			"sources": [
 				"Inner Sea Faiths",
 				"Pathfinder #68: The Shackled Hut"
+			],
+			"types": [
+				"CG",
+				"Other Deities"
 			],
 			"heading": [
 				"**Milani**",
@@ -17555,6 +18597,10 @@
 			"name": "Minderhal",
 			"file": "deitydisplay9135.html",
 			"sources": [ "Pathfinder #93: Forge of the Giant God" ],
+			"types": [
+				"LE",
+				"Giant Deities"
+			],
 			"heading": [
 				"**Minderhal**",
 				"**He Who Makes and Unmakes**",
@@ -17627,6 +18673,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned"
 			],
+			"types": [
+				"NE",
+				"Daemon Harbingers"
+			],
 			"heading": [
 				"**Mneoc**",
 				"**Grandfather Scab**",
@@ -17687,6 +18737,10 @@
 			"sources": [
 				"Pathfinder #105: The Inferno Gate",
 				"Book of the Damned"
+			],
+			"types": [
+				"LE",
+				"Archdevils"
 			],
 			"heading": [
 				"**Moloch**",
@@ -17794,6 +18848,10 @@
 			"name": "Monad",
 			"file": "deitydisplay9062.html",
 			"sources": [ "Concordance of Rivals" ],
+			"types": [
+				"N",
+				"Aeon"
+			],
 			"heading": [
 				"**Monad**",
 				"**The Condition of All**",
@@ -17844,6 +18902,10 @@
 			"name": "Mordiggian",
 			"file": "deitydisplay8027.html",
 			"sources": [ "Pathfinder #109: In Search of Sanity" ],
+			"types": [
+				"CE",
+				"Great Old Ones"
+			],
 			"heading": [
 				"**Mordiggian**",
 				"**The Charnel God**",
@@ -17893,6 +18955,10 @@
 			"name": "Morrobahn",
 			"file": "deitydisplay2b2c.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"LE",
+				"Kyton Demagogues"
+			],
 			"heading": [
 				"**Morrobahn**",
 				"**The Parasite Seed**",
@@ -17942,6 +19008,10 @@
 			"name": "Mother Vulture",
 			"file": "deitydisplay8911.html",
 			"sources": [ "Concordance of Rivals" ],
+			"types": [
+				"N",
+				"Psychopomp Usher"
+			],
 			"heading": [
 				"**Mother Vulture**",
 				"**The Flesheater**",
@@ -17992,6 +19062,10 @@
 			"name": "Mrtyu",
 			"file": "deitydisplay4e5d.html",
 			"sources": [ "Concordance of Rivals" ],
+			"types": [
+				"N",
+				"Psychopomp Usher"
+			],
 			"heading": [
 				"**Mrtyu**",
 				"**Death's Consort**",
@@ -18045,6 +19119,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned - Volume 2: Lords of Chaos",
 				"Book of the Damned"
+			],
+			"types": [
+				"CE",
+				"Nascent Demon Lords"
 			],
 			"heading": [
 				"**Murnath**",
@@ -18112,6 +19190,10 @@
 			"name": "Muronna",
 			"file": "deitydisplayfa5a.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"NE",
+				"Oni Daimyo"
+			],
 			"heading": [
 				"**Muronna**",
 				"**The Dark Mother**",
@@ -18161,6 +19243,10 @@
 			"name": "Mursha",
 			"file": "deitydisplayc2d7.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"LE",
+				"Rakshasa Immortals"
+			],
 			"heading": [
 				"**Mursha**",
 				"**Beastmaster**",
@@ -18211,6 +19297,10 @@
 			"name": "Myr",
 			"file": "deitydisplay2e79.html",
 			"sources": [ "Pathfinder #123: The Flooded Cathedral" ],
+			"types": [
+				"LG",
+				"Azlanti Pantheon"
+			],
 			"heading": [
 				"**Myr**",
 				"**The Guide of Perfection**",
@@ -18260,6 +19350,10 @@
 			"name": "Naderi",
 			"file": "deitydisplay68fa.html",
 			"sources": [ "Inner Sea Faiths" ],
+			"types": [
+				"N",
+				"Other Deities"
+			],
 			"heading": [
 				"**Naderi**",
 				"**The Lost Maiden**",
@@ -18352,6 +19446,10 @@
 				"Dragon Empires Gazetteer",
 				"Legacy of Dragons"
 			],
+			"types": [
+				"N",
+				"Deities of Tian Xia"
+			],
 			"heading": [
 				"**Nalinivati**",
 				"**The Serpent's Kiss**",
@@ -18417,6 +19515,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned"
 			],
+			"types": [
+				"NE",
+				"Daemon Harbingers"
+			],
 			"heading": [
 				"**Nalmungder**",
 				"**He Who Waits Below the Stairs**",
@@ -18475,6 +19577,10 @@
 			"name": "Nameless",
 			"file": "deitydisplayf337.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"CE",
+				"Sahkil Tormentors"
+			],
 			"heading": [
 				"**Nameless**",
 				"**Upon an Empty Throne**",
@@ -18518,6 +19624,10 @@
 			"name": "Narakaas",
 			"file": "deitydisplaye979.html",
 			"sources": [ "Concordance of Rivals" ],
+			"types": [
+				"N",
+				"Psychopomp Usher"
+			],
 			"heading": [
 				"**Narakaas**",
 				"**The Cleansing Sentence**",
@@ -18568,6 +19678,10 @@
 			"name": "Narriseminek",
 			"file": "deitydisplay5936.html",
 			"sources": [ "Concordance of Rivals" ],
+			"types": [
+				"CN",
+				"Protean Lord"
+			],
 			"heading": [
 				"**Narriseminek**",
 				"**The Crownless, the Maker of Kings**",
@@ -18618,6 +19732,10 @@
 			"name": "Nataka",
 			"file": "deitydisplay2793.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"NE",
+				"Oni Daimyo"
+			],
 			"heading": [
 				"**Nataka**",
 				"**The Red King**",
@@ -18667,6 +19785,10 @@
 			"name": "Neith",
 			"file": "deitydisplayccb7.html",
 			"sources": [ "Pathfinder #80: Empty Graves" ],
+			"types": [
+				"NG",
+				"Deities of Ancient Osirion"
+			],
 			"heading": [
 				"**Neith**",
 				"**Ruler of Arrows**",
@@ -18712,6 +19834,10 @@
 			"name": "Nephthys",
 			"file": "deitydisplay0718.html",
 			"sources": [ "Pathfinder #80: Empty Graves" ],
+			"types": [
+				"CN",
+				"Deities of Ancient Osirion"
+			],
 			"heading": [
 				"**Nephthys**",
 				"**Mistress of the Mansion**",
@@ -18759,6 +19885,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Book of the Damned"
+			],
+			"types": [
+				"LE",
+				"Infernal Dukes"
 			],
 			"heading": [
 				"**Nergal**",
@@ -18824,6 +19954,10 @@
 			"name": "Neshen",
 			"file": "deitydisplay165c.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"LG",
+				"Empyreal Lords"
+			],
 			"heading": [
 				"**Neshen**",
 				"**Knight of the Steel Lash**",
@@ -18882,6 +20016,14 @@
 				"Inner Sea Gods",
 				"Planar Adventures",
 				"Pathfinder #41: The Thousand Fangs Below"
+			],
+			"types": [
+				"N",
+				"Core Deities",
+				"Ascended Pantheon",
+				"Elven Deities",
+				"Gnomish Deities",
+				"Kobold Deities"
 			],
 			"heading": [
 				"**Nethys**",
@@ -19023,6 +20165,10 @@
 			"name": "Ng",
 			"file": "deitydisplay0460.html",
 			"sources": [ "The First World, Realm of the Fey" ],
+			"types": [
+				"N",
+				"Eldest"
+			],
 			"heading": [
 				"**Ng**",
 				"**The Hooded**",
@@ -19084,6 +20230,10 @@
 			"name": "Nhimbaloth",
 			"file": "deitydisplay020b.html",
 			"sources": [ "Pathfinder #109: In Search of Sanity" ],
+			"types": [
+				"CE",
+				"Outer Gods"
+			],
 			"heading": [
 				"**Nhimbaloth**",
 				"**The Empty Death**",
@@ -19137,6 +20287,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned - Volume 2: Lords of Chaos",
 				"Book of the Damned"
+			],
+			"types": [
+				"CE",
+				"Nascent Demon Lords"
 			],
 			"heading": [
 				"**Nightripper**",
@@ -19206,6 +20360,12 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Faiths of Golarion"
+			],
+			"types": [
+				"N",
+				"Other Deities",
+				"Gnomish Deities",
+				"Gnomish Deities"
 			],
 			"heading": [
 				"**Nivi Rhombodazzle**",
@@ -19297,6 +20457,10 @@
 			"display_name": "Nocticula (Redeemed)",
 			"file": "deitydisplaye44d.html",
 			"sources": [ "Pathfinder #144: Midwives to Death" ],
+			"types": [
+				"CN",
+				"Other Deities"
+			],
 			"heading": [
 				"**Nocticula (Redeemed)**",
 				"**The Redeemer Queen**",
@@ -19373,6 +20537,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned - Volume 2: Lords of Chaos",
 				"Book of the Damned"
+			],
+			"types": [
+				"CE",
+				"Demon Lords"
 			],
 			"heading": [
 				"**Nocticula**",
@@ -19463,6 +20631,13 @@
 				"Planar Adventures",
 				"Pathfinder #59: The Price of Infamy",
 				"Divine Anthology"
+			],
+			"types": [
+				"NE",
+				"Core Deities",
+				"Ascended Pantheon",
+				"Halfling Deities",
+				"Taldan Pantheon"
 			],
 			"heading": [
 				"**Norgorber**",
@@ -19587,6 +20762,10 @@
 			"name": "Nulgreth",
 			"file": "deitydisplay2dff.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"CE",
+				"Orc Deities"
+			],
 			"heading": [
 				"**Nulgreth**",
 				"**The Blood God**",
@@ -19638,6 +20817,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned - Volume 2: Lords of Chaos",
 				"Book of the Damned"
+			],
+			"types": [
+				"CE",
+				"Demon Lords"
 			],
 			"heading": [
 				"**Nurgal**",
@@ -19726,6 +20909,10 @@
 			"display_name": "Nyarlathotep (Black Pharaoh)",
 			"file": "deitydisplaydc4f.html",
 			"sources": [ "Pathfinder #109: In Search of Sanity" ],
+			"types": [
+				"CE",
+				"Outer Gods"
+			],
 			"heading": [
 				"**Nyarlathotep**",
 				"**Black Pharaoh**",
@@ -19775,6 +20962,10 @@
 			"display_name": "Nyarlathotep (Faceless Sphinx)",
 			"file": "deitydisplay8b8c.html",
 			"sources": [ "Pathfinder #65: Into the Nightmare Rift" ],
+			"types": [
+				"CE",
+				"Outer Gods"
+			],
 			"heading": [
 				"**Nyarlathotep**",
 				"**Faceless Sphinx**",
@@ -19817,6 +21008,10 @@
 			"display_name": "Nyarlathotep (Haunter of the Dark)",
 			"file": "deitydisplay901c.html",
 			"sources": [ "Pathfinder #109: In Search of Sanity" ],
+			"types": [
+				"CE",
+				"Outer Gods"
+			],
 			"heading": [
 				"**Nyarlathotep**",
 				"**Haunter of the Dark**",
@@ -19868,6 +21063,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Book of the Damned"
+			],
+			"types": [
+				"CE",
+				"Qlippoth Lords"
 			],
 			"heading": [
 				"**Oaur-Ooung**",
@@ -19925,6 +21124,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Chronicle of the Righteous"
+			],
+			"types": [
+				"LG",
+				"Empyreal Lords"
 			],
 			"heading": [
 				"**Olheon**",
@@ -19993,6 +21196,10 @@
 			"name": "Omrataji",
 			"file": "deitydisplaybec8.html",
 			"sources": [ "Distant Shores" ],
+			"types": [
+				"NG",
+				"Other Deities"
+			],
 			"heading": [
 				"**Omrataji**",
 				"**The Spirit in Silver**",
@@ -20039,6 +21246,10 @@
 			"name": "Onamahli",
 			"file": "deitydisplayc19e.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"LE",
+				"Asura Ranas"
+			],
 			"heading": [
 				"**Onamahli**",
 				"**The Twice Pure**",
@@ -20088,6 +21299,10 @@
 			"name": "Ondisso",
 			"file": "deitydisplay6ecc.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"NG",
+				"Empyreal Lords"
+			],
 			"heading": [
 				"**Ondisso**",
 				"**The Stalwart Stair**",
@@ -20142,6 +21357,10 @@
 			"name": "Ongalte",
 			"file": "deitydisplay8717.html",
 			"sources": [ "Pathfinder #144: Midwives to Death" ],
+			"types": [
+				"CE",
+				"Iblydan Hero-Gods"
+			],
 			"heading": [
 				"**Ongalte**",
 				"**Death of Divinity**",
@@ -20192,6 +21411,10 @@
 			"name": "Onmyuza",
 			"file": "deitydisplayf5c0.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"CE",
+				"Oni Daimyo"
+			],
 			"heading": [
 				"**Onmyuza**",
 				"**Dancer in Flesh**",
@@ -20241,6 +21464,10 @@
 			"name": "Onos",
 			"file": "deitydisplaycfdd.html",
 			"sources": [ "Pathfinder #123: The Flooded Cathedral" ],
+			"types": [
+				"N",
+				"Azlanti Pantheon"
+			],
 			"heading": [
 				"**Onos**",
 				"**God of Many Doors**",
@@ -20293,6 +21520,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned - Volume 2: Lords of Chaos",
 				"Book of the Damned"
+			],
+			"types": [
+				"CE",
+				"Demon Lords"
 			],
 			"heading": [
 				"**Orcus**",
@@ -20378,6 +21609,10 @@
 			"name": "Orgesh",
 			"file": "deitydisplay12a2.html",
 			"sources": [ "Pathfinder #109: In Search of Sanity" ],
+			"types": [
+				"CE",
+				"Great Old Ones"
+			],
 			"heading": [
 				"**Orgesh**",
 				"**The Faceless God**",
@@ -20440,6 +21675,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Book of the Damned"
+			],
+			"types": [
+				"LE",
+				"Infernal Dukes"
 			],
 			"heading": [
 				"**Ose**",
@@ -20505,6 +21744,10 @@
 			"name": "Osiris",
 			"file": "deitydisplay5806.html",
 			"sources": [ "Pathfinder #80: Empty Graves" ],
+			"types": [
+				"LG",
+				"Deities of Ancient Osirion"
+			],
 			"heading": [
 				"**Osiris**",
 				"**Lord of the Living**",
@@ -20561,6 +21804,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Book of the Damned"
+			],
+			"types": [
+				"NE",
+				"Daemon Harbingers"
 			],
 			"heading": [
 				"**Osolmyr**",
@@ -20620,6 +21867,10 @@
 			"name": "Otikaya",
 			"file": "deitydisplay1b8c.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"LE",
+				"Rakshasa Immortals"
+			],
 			"heading": [
 				"**Otikaya**",
 				"**The Spirit Archer**",
@@ -20670,6 +21921,10 @@
 			"name": "Otolmens",
 			"file": "deitydisplay40f3.html",
 			"sources": [ "Concordance of Rivals" ],
+			"types": [
+				"LN",
+				"Primal Inevitable"
+			],
 			"heading": [
 				"**Otolmens**",
 				"**The Universal**",
@@ -20723,6 +21978,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned - Volume 2: Lords of Chaos",
 				"Book of the Damned"
+			],
+			"types": [
+				"CE",
+				"Nascent Demon Lords"
 			],
 			"heading": [
 				"**Ovonovo**",
@@ -20790,6 +22049,10 @@
 			"name": "Ozranvial",
 			"file": "deitydisplay0c78.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"CE",
+				"Sahkil Tormentors"
+			],
 			"heading": [
 				"**Ozranvial**",
 				"**Despair's Smile**",
@@ -20841,6 +22104,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Book of the Damned"
+			],
+			"types": [
+				"NE",
+				"Daemon Harbingers"
 			],
 			"heading": [
 				"**Pavnuri**",
@@ -20900,6 +22167,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned - Volume 2: Lords of Chaos",
 				"Book of the Damned"
+			],
+			"types": [
+				"CE",
+				"Demon Lords"
 			],
 			"heading": [
 				"**Pazuzu**",
@@ -20988,6 +22259,11 @@
 				"Inner Sea Gods",
 				"Planar Adventures",
 				"Pathfinder #44: Trial of the Beast"
+			],
+			"types": [
+				"N",
+				"Core Deities",
+				"Deities of Tian Xia"
 			],
 			"heading": [
 				"**Pharasma**",
@@ -21148,6 +22424,10 @@
 			"name": "Pharmimia",
 			"file": "deitydisplaya6e3.html",
 			"sources": [ "Pathfinder #144: Midwives to Death" ],
+			"types": [
+				"Unaligned",
+				"Iblydan Hero-Gods"
+			],
 			"heading": [
 				"**Pharimia**",
 				"**Source** [Pathfinder #144: Midwives to Death pg. 74](source:Pathfinder #144: Midwives to Death)",
@@ -21189,6 +22469,10 @@
 			"name": "Phlegyas",
 			"file": "deitydisplay382e.html",
 			"sources": [ "Concordance of Rivals" ],
+			"types": [
+				"N",
+				"Psychopomp Usher"
+			],
 			"heading": [
 				"**Phlegyas**",
 				"**The Consoler of Atheists**",
@@ -21241,6 +22525,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Chronicle of the Righteous"
+			],
+			"types": [
+				"CG",
+				"Empyreal Lords"
 			],
 			"heading": [
 				"**Picoperi**",
@@ -21310,6 +22598,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned"
 			],
+			"types": [
+				"LE",
+				"Infernal Dukes"
+			],
 			"heading": [
 				"**Pirias**",
 				"**The Whispering Vial**",
@@ -21374,6 +22666,10 @@
 			"name": "Prihasta",
 			"file": "deitydisplaye68a.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"LE",
+				"Rakshasa Immortals"
+			],
 			"heading": [
 				"**Prihasta**",
 				"**The General Between Heaven and Hell**",
@@ -21424,6 +22720,10 @@
 			"name": "Psomeira",
 			"file": "deitydisplay7153.html",
 			"sources": [ "Distant Shores" ],
+			"types": [
+				"LN",
+				"Iblydan Hero-Gods"
+			],
 			"heading": [
 				"**Psomeira**",
 				"**The Divine General**",
@@ -21472,6 +22772,10 @@
 			"name": "Ptah",
 			"file": "deitydisplay1a05.html",
 			"sources": [ "Pathfinder #80: Empty Graves" ],
+			"types": [
+				"N",
+				"Deities of Ancient Osirion"
+			],
 			"heading": [
 				"**Ptah**",
 				"**Lord of Eternity**",
@@ -21519,6 +22823,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Chronicle of the Righteous"
+			],
+			"types": [
+				"CG",
+				"Empyreal Lords"
 			],
 			"heading": [
 				"**Pulura**",
@@ -21584,6 +22892,10 @@
 			"name": "Qi Zhong",
 			"file": "deitydisplay3417.html",
 			"sources": [ "Dragon Empires Gazetteer" ],
+			"types": [
+				"NG",
+				"Deities of Tian Xia"
+			],
 			"heading": [
 				"**Qi Zhong**",
 				"**Master of Medicine**",
@@ -21643,6 +22955,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Book of the Damned"
+			],
+			"types": [
+				"LE",
+				"Infernal Dukes"
 			],
 			"heading": [
 				"**Quindiovatos**",
@@ -21708,6 +23024,10 @@
 			"name": "Ra",
 			"file": "deitydisplay526b.html",
 			"sources": [ "Pathfinder #80: Empty Graves" ],
+			"types": [
+				"LN",
+				"Deities of Ancient Osirion"
+			],
 			"heading": [
 				"**Ra**",
 				"**King of the Heavens**",
@@ -21753,6 +23073,10 @@
 			"name": "Raetorgash",
 			"file": "deitydisplayf342.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"LE",
+				"Kyton Demagogues"
+			],
 			"heading": [
 				"**Raetorgash**",
 				"**The Skull-Hoarder**",
@@ -21804,6 +23128,10 @@
 			"sources": [
 				"The First World, Realm of the Fey",
 				"Legacy of Dragons"
+			],
+			"types": [
+				"CE",
+				"Eldest"
 			],
 			"heading": [
 				"**Ragadahn**",
@@ -21879,6 +23207,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Chronicle of the Righteous"
+			],
+			"types": [
+				"LG",
+				"Empyreal Lords"
 			],
 			"heading": [
 				"**Ragathiel**",
@@ -21959,6 +23291,10 @@
 			"name": "Rahu",
 			"file": "deitydisplay81da.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"LE",
+				"Asura Ranas"
+			],
 			"heading": [
 				"**Rahu**",
 				"**The Sun Eater**",
@@ -22010,6 +23346,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Book of the Damned"
+			],
+			"types": [
+				"LE",
+				"Infernal Dukes"
 			],
 			"heading": [
 				"**Rasvocel**",
@@ -22075,6 +23415,10 @@
 			"name": "Ravana",
 			"file": "deitydisplaye7a9.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"LE",
+				"Rakshasa Immortals"
+			],
 			"heading": [
 				"**Ravana**",
 				"**The First and the Last**",
@@ -22125,6 +23469,10 @@
 			"name": "Reymenda",
 			"file": "deitydisplay3f20.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"CG",
+				"Empyreal Lords"
+			],
 			"heading": [
 				"**Reymenda**",
 				"**Lady of the Martyred Womb**",
@@ -22181,6 +23529,10 @@
 			"display_name": "Rhan-Tegoth",
 			"file": "deitydisplay1bc8.html",
 			"sources": [ "Pathfinder #109: In Search of Sanity" ],
+			"types": [
+				"CE",
+				"Great Old Ones"
+			],
 			"heading": [
 				"**Rhan-Tegoth**",
 				"**Herald of the End Times**",
@@ -22232,6 +23584,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Book of the Damned"
+			],
+			"types": [
+				"NE",
+				"Daemon Harbingers"
 			],
 			"heading": [
 				"**Roqorolos**",
@@ -22295,6 +23651,10 @@
 				"Planar Adventures",
 				"Divine Anthology",
 				"Pathfinder #23: The Impossible Eye"
+			],
+			"types": [
+				"CE",
+				"Core Deities"
 			],
 			"heading": [
 				"**Rovagug**",
@@ -22451,6 +23811,10 @@
 				"Inner Sea Gods",
 				"Chronicle of the Righteous"
 			],
+			"types": [
+				"NG",
+				"Empyreal Lords"
+			],
 			"heading": [
 				"**Rowdrosh**",
 				"**The Divine Herdsman**",
@@ -22518,6 +23882,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned"
 			],
+			"types": [
+				"NE",
+				"Daemon Harbingers"
+			],
 			"heading": [
 				"**Ruapceras**",
 				"**The Scarlet Promise**",
@@ -22578,6 +23946,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Book of the Damned"
+			],
+			"types": [
+				"LE",
+				"Malebranche"
 			],
 			"heading": [
 				"**Rubicante**",
@@ -22643,6 +24015,10 @@
 			"name": "Rull",
 			"file": "deitydisplay59e6.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"CE",
+				"Orc Deities"
+			],
 			"heading": [
 				"**Rull**",
 				"**The Thunderer**",
@@ -22696,6 +24072,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Book of the Damned"
+			],
+			"types": [
+				"LE",
+				"Infernal Dukes"
 			],
 			"heading": [
 				"**Ruzel**",
@@ -22761,6 +24141,10 @@
 			"name": "Rytara",
 			"file": "deitydisplay6468.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"LE",
+				"Asura Ranas"
+			],
 			"heading": [
 				"**Rytara**",
 				"**Serpent of the Eastern Eye**",
@@ -22812,6 +24196,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Book of the Damned"
+			],
+			"types": [
+				"LE",
+				"Infernal Dukes"
 			],
 			"heading": [
 				"**Sabnach**",
@@ -22877,6 +24265,10 @@
 			"name": "Saloc",
 			"file": "deitydisplay4fa1.html",
 			"sources": [ "Concordance of Rivals" ],
+			"types": [
+				"N",
+				"Psychopomp Usher"
+			],
 			"heading": [
 				"**Saloc**",
 				"**The Minder of Immortals**",
@@ -22931,6 +24323,12 @@
 				"Planar Adventures",
 				"Divine Anthology",
 				"Pathfinder #20: House of the Beast"
+			],
+			"types": [
+				"NG",
+				"Core Deities",
+				"Halfling Deities",
+				"Sandpoint Pantheon"
 			],
 			"heading": [
 				"**Sarenrae**",
@@ -23103,6 +24501,10 @@
 			"name": "Scal",
 			"file": "deitydisplayd283.html",
 			"sources": [ "Pathfinder #123: The Flooded Cathedral" ],
+			"types": [
+				"NE",
+				"Azlanti Pantheon"
+			],
 			"heading": [
 				"**Scal**",
 				"**Calm after the Storm**",
@@ -23149,6 +24551,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Book of the Damned"
+			],
+			"types": [
+				"LE",
+				"Malebranche"
 			],
 			"heading": [
 				"**Scarmiglione**",
@@ -23214,6 +24620,10 @@
 			"name": "Sekhmet",
 			"file": "deitydisplaydf64.html",
 			"sources": [ "Pathfinder #80: Empty Graves" ],
+			"types": [
+				"CN",
+				"Deities of Ancient Osirion"
+			],
 			"heading": [
 				"**Sekhmet**",
 				"**Lady of Slaughter**",
@@ -23259,6 +24669,10 @@
 			"name": "Selket",
 			"file": "deitydisplayd74e.html",
 			"sources": [ "Pathfinder #80: Empty Graves" ],
+			"types": [
+				"CG",
+				"Deities of Ancient Osirion"
+			],
 			"heading": [
 				"**Selket**",
 				"**Mistress of the Beautiful House**",
@@ -23307,6 +24721,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Chronicle of the Righteous"
+			],
+			"types": [
+				"NG",
+				"Empyreal Lords"
 			],
 			"heading": [
 				"**Seramaydiel**",
@@ -23372,6 +24790,10 @@
 			"name": "Set",
 			"file": "deitydisplay2d5c.html",
 			"sources": [ "Pathfinder #80: Empty Graves" ],
+			"types": [
+				"NE",
+				"Deities of Ancient Osirion"
+			],
 			"heading": [
 				"**Set**",
 				"**Lord of the Dark Desert**",
@@ -23417,6 +24839,10 @@
 			"name": "Sezelrian",
 			"file": "deitydisplay123a.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"CE",
+				"Orc Deities"
+			],
 			"heading": [
 				"**Sezelrian**",
 				"**The Fire God**",
@@ -23468,6 +24894,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned - Volume 2: Lords of Chaos",
 				"Book of the Damned"
+			],
+			"types": [
+				"CE",
+				"Nascent Demon Lords"
 			],
 			"heading": [
 				"**Shamira**",
@@ -23535,6 +24965,10 @@
 			"name": "Shawnari",
 			"file": "deitydisplay6b67.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"CE",
+				"Sahkil Tormentors"
+			],
 			"heading": [
 				"**Shawnari**",
 				"**The One Out of Place**",
@@ -23587,6 +25021,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned - Volume 2: Lords of Chaos",
 				"Book of the Damned"
+			],
+			"types": [
+				"CE",
+				"Demon Lords"
 			],
 			"heading": [
 				"**Shax**",
@@ -23675,6 +25113,10 @@
 				"Inner Sea Gods",
 				"Chronicle of the Righteous"
 			],
+			"types": [
+				"NG",
+				"Empyreal Lords"
+			],
 			"heading": [
 				"**Shei**",
 				"**The Ibis Matron**",
@@ -23743,6 +25185,10 @@
 			"display_name": "Shelyn (pre-Earthfall)",
 			"file": "deitydisplaye6ce.html",
 			"sources": [ "Pathfinder #123: The Flooded Cathedral" ],
+			"types": [
+				"NG",
+				"Azlanti Pantheon"
+			],
 			"heading": [
 				"**Shelyn (pre-Earthfall)**",
 				"**Song of the Prism**",
@@ -23789,6 +25235,15 @@
 				"Inner Sea Gods",
 				"Planar Adventures",
 				"Pathfinder #50: Night of Frozen Shadows"
+			],
+			"types": [
+				"NG",
+				"Core Deities",
+				"Deities of Tian Xia",
+				"Gnomish Deities",
+				"Halfling Deities",
+				"Sandpoint Pantheon",
+				"Taldan Pantheon"
 			],
 			"heading": [
 				"**Shelyn**",
@@ -23933,6 +25388,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned"
 			],
+			"types": [
+				"CE",
+				"Qlippoth Lords"
+			],
 			"heading": [
 				"**Shiggarreb**",
 				"**The Marauding Maw**",
@@ -23990,6 +25449,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned - Volume 2: Lords of Chaos",
 				"Book of the Damned"
+			],
+			"types": [
+				"CE",
+				"Demon Lords"
 			],
 			"heading": [
 				"**Shivaska**",
@@ -24078,6 +25541,10 @@
 				"Dragon Empires Gazetteer",
 				"Faiths of Golarion",
 				"Legacy of Dragons"
+			],
+			"types": [
+				"LG",
+				"Deities of Tian Xia"
 			],
 			"heading": [
 				"**Shizuru**",
@@ -24187,6 +25654,10 @@
 			"display_name": "Shub-Niggurath",
 			"file": "deitydisplay9160.html",
 			"sources": [ "Pathfinder #109: In Search of Sanity" ],
+			"types": [
+				"CE",
+				"Outer Gods"
+			],
 			"heading": [
 				"**Shub-Niggurath**",
 				"**Black Goat of the Woods**",
@@ -24248,6 +25719,10 @@
 			"sources": [
 				"The First World, Realm of the Fey",
 				"Legacy of the First World"
+			],
+			"types": [
+				"N",
+				"Eldest"
 			],
 			"heading": [
 				"**Shyka**",
@@ -24321,6 +25796,10 @@
 			"name": "Sicva",
 			"file": "deitydisplay9bc2.html",
 			"sources": [ "Pathfinder #123: The Flooded Cathedral" ],
+			"types": [
+				"LE",
+				"Azlanti Pantheon"
+			],
 			"heading": [
 				"**Sicva**",
 				"**Mistress of All**",
@@ -24367,6 +25846,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned - Volume 2: Lords of Chaos",
 				"Book of the Damned"
+			],
+			"types": [
+				"CE",
+				"Demon Lords"
 			],
 			"heading": [
 				"**Sifkesh**",
@@ -24457,6 +25940,10 @@
 				"Inner Sea Gods",
 				"Chronicle of the Righteous"
 			],
+			"types": [
+				"CG",
+				"Empyreal Lords"
+			],
 			"heading": [
 				"**Sinashakti**",
 				"**Immaculate Joy**",
@@ -24526,6 +26013,10 @@
 				"Book of the Damned - Volume 2: Lords of Chaos",
 				"Book of the Damned"
 			],
+			"types": [
+				"CE",
+				"Nascent Demon Lords"
+			],
 			"heading": [
 				"**Sithhud**",
 				"**The Frozen Lord**",
@@ -24592,6 +26083,11 @@
 			"name": "Sivanah",
 			"file": "deitydisplayae9b.html",
 			"sources": [ "Inner Sea Faiths" ],
+			"types": [
+				"N",
+				"Other Deities",
+				"Gnomish Deities"
+			],
 			"heading": [
 				"**Sivanah**",
 				"**The Seventh Veil**",
@@ -24691,6 +26187,10 @@
 			"name": "Skode",
 			"file": "deitydisplay16a7.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"CG",
+				"Giant Deities"
+			],
 			"heading": [
 				"**Skode**",
 				"**The Horizon Huntress**",
@@ -24739,6 +26239,10 @@
 			"name": "Skrymir",
 			"file": "deitydisplaye024.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"CG",
+				"Giant Deities"
+			],
 			"heading": [
 				"**Skrymir**",
 				"**The Seeker of Sunsets**",
@@ -24789,6 +26293,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Book of the Damned"
+			],
+			"types": [
+				"NE",
+				"Daemon Harbingers"
 			],
 			"heading": [
 				"**Slandrais**",
@@ -24848,6 +26356,10 @@
 			"name": "Smiad",
 			"file": "deitydisplay9786.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"LG",
+				"Empyreal Lords"
+			],
 			"heading": [
 				"**Smiad**",
 				"**The Pitiless Dragonslayer**",
@@ -24903,6 +26415,10 @@
 			"name": "Sobek",
 			"file": "deitydisplayeb53.html",
 			"sources": [ "Pathfinder #80: Empty Graves" ],
+			"types": [
+				"CN",
+				"Deities of Ancient Osirion"
+			],
 			"heading": [
 				"**Sobek**",
 				"**The Raging Torrent**",
@@ -24951,6 +26467,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned - Volume 2: Lords of Chaos",
 				"Book of the Damned"
+			],
+			"types": [
+				"CE",
+				"Demon Lords"
 			],
 			"heading": [
 				"**Socothbenoth**",
@@ -25039,6 +26559,10 @@
 				"Inner Sea Gods",
 				"Chronicle of the Righteous"
 			],
+			"types": [
+				"NG",
+				"Empyreal Lords"
+			],
 			"heading": [
 				"**Soralyon**",
 				"**The Mystic Angel**",
@@ -25107,6 +26631,10 @@
 			"name": "Speakers of the Depths",
 			"file": "deitydisplay9363.html",
 			"sources": [ "Planar Adventures" ],
+			"types": [
+				"CN",
+				"Other Deities"
+			],
 			"heading": [
 				"**Speakers of the Depths**",
 				"**Source** [Planar Adventures pg. 188](source:Planar Adventures)",
@@ -25149,6 +26677,10 @@
 			"name": "Ssila'meshnik",
 			"file": "deitydisplayaf7a.html",
 			"sources": [ "Concordance of Rivals" ],
+			"types": [
+				"CN",
+				"Protean Lord"
+			],
 			"heading": [
 				"**Ssila'meshnik**",
 				"**The Colorless Lord**",
@@ -25201,6 +26733,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Book of the Damned"
+			],
+			"types": [
+				"NE",
+				"Daemon Harbingers"
 			],
 			"heading": [
 				"**Stygidvod**",
@@ -25260,6 +26796,10 @@
 			"name": "Sugroz",
 			"file": "deitydisplayeedc.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"LE",
+				"Kyton Demagogues"
+			],
 			"heading": [
 				"**Sugroz**",
 				"**The Voice in Screams**",
@@ -25309,6 +26849,10 @@
 			"name": "Sun Wukong",
 			"file": "deitydisplay83cc.html",
 			"sources": [ "Dragon Empires Gazetteer" ],
+			"types": [
+				"CN",
+				"Deities of Tian Xia"
+			],
 			"heading": [
 				"**Sun Wukong**",
 				"**The Monkey King**",
@@ -25359,6 +26903,10 @@
 			"name": "Surpa",
 			"file": "deitydisplay5d35.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"LE",
+				"Rakshasa Immortals"
+			],
 			"heading": [
 				"**Surpa**",
 				"**Avenger**",
@@ -25409,6 +26957,10 @@
 			"name": "Svarozic",
 			"file": "deitydisplaya057.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"LG",
+				"Empyreal Lords"
+			],
 			"heading": [
 				"**Svarozic**",
 				"**The Face of Flame**",
@@ -25468,6 +27020,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned",
 				"Pathfinder #71: Rasputin Must Die!"
+			],
+			"types": [
+				"NE",
+				"Horsemen"
 			],
 			"heading": [
 				"**Szuriel**",
@@ -25559,6 +27115,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned"
 			],
+			"types": [
+				"NE",
+				"Daemon Harbingers"
+			],
 			"heading": [
 				"**Tamede**",
 				"**The Moldmother**",
@@ -25619,6 +27179,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Chronicle of the Righteous"
+			],
+			"types": [
+				"LG",
+				"Empyreal Lords"
 			],
 			"heading": [
 				"**Tanagaar**",
@@ -25685,6 +27249,10 @@
 			"name": "Taraksun",
 			"file": "deitydisplayd333.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"LE",
+				"Asura Ranas"
+			],
 			"heading": [
 				"**Taraksun**",
 				"**The Awakener of Wrath**",
@@ -25734,6 +27302,10 @@
 			"name": "Teshallas",
 			"file": "deitydisplay2c9e.html",
 			"sources": [ "Concordance of Rivals" ],
+			"types": [
+				"N",
+				"Psychopomp Usher"
+			],
 			"heading": [
 				"**Teshallas**",
 				"**The Primordial Poison**",
@@ -25786,6 +27358,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Pathfinder #131: The Reaper's Right Hand"
+			],
+			"types": [
+				"CE",
+				"Halfling Deities"
 			],
 			"heading": [
 				"**Thamir Gixx**",
@@ -25877,6 +27453,10 @@
 			"name": "The Green Mother",
 			"file": "deitydisplayc341.html",
 			"sources": [ "The First World, Realm of the Fey" ],
+			"types": [
+				"NE",
+				"Eldest"
+			],
 			"heading": [
 				"**The Green Mother**",
 				"**The Feasting Flower**",
@@ -25947,6 +27527,10 @@
 			"name": "The Lantern King",
 			"file": "deitydisplaye868.html",
 			"sources": [ "The First World, Realm of the Fey" ],
+			"types": [
+				"CN",
+				"Eldest"
+			],
 			"heading": [
 				"**The Lantern King**",
 				"**The Laughing Lie**",
@@ -26013,6 +27597,10 @@
 			"name": "The Lost Prince",
 			"file": "deitydisplay7904.html",
 			"sources": [ "The First World, Realm of the Fey" ],
+			"types": [
+				"N",
+				"Eldest"
+			],
 			"heading": [
 				"**The Lost Prince**",
 				"**The Melancholy Lord**",
@@ -26079,6 +27667,10 @@
 			"name": "The Pale Horse",
 			"file": "deitydisplay1ceb.html",
 			"sources": [ "Concordance of Rivals" ],
+			"types": [
+				"N",
+				"Psychopomp Usher"
+			],
 			"heading": [
 				"**The Pale Horse**",
 				"**The Lash and the Plough**",
@@ -26129,6 +27721,10 @@
 			"name": "Thisamet",
 			"file": "deitydisplay2aae.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"CG",
+				"Empyreal Lords"
+			],
 			"heading": [
 				"**Thisamet**",
 				"**The Blithe Spirit**",
@@ -26184,6 +27780,10 @@
 			"name": "Thoth",
 			"file": "deitydisplayde4d.html",
 			"sources": [ "Pathfinder #80: Empty Graves" ],
+			"types": [
+				"LN",
+				"Deities of Ancient Osirion"
+			],
 			"heading": [
 				"**Thoth**",
 				"**Lord of Divine Words**",
@@ -26229,6 +27829,10 @@
 			"name": "Thremyr",
 			"file": "deitydisplay25e3.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"CE",
+				"Giant Deities"
+			],
 			"heading": [
 				"**Thremyr**",
 				"**First Jarl**",
@@ -26279,6 +27883,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Book of the Damned"
+			],
+			"types": [
+				"CE",
+				"Qlippoth Lords"
 			],
 			"heading": [
 				"**Thuskchoon**",
@@ -26336,6 +27944,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Book of the Damned"
+			],
+			"types": [
+				"LE",
+				"Infernal Dukes"
 			],
 			"heading": [
 				"**Titivilus**",
@@ -26401,6 +28013,10 @@
 			"name": "Tjasse",
 			"file": "deitydisplay1147.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"CN",
+				"Giant Deities"
+			],
 			"heading": [
 				"**Tjasse**",
 				"**Lord of Talons**",
@@ -26450,6 +28066,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Chronicle of the Righteous"
+			],
+			"types": [
+				"CG",
+				"Empyreal Lords"
 			],
 			"heading": [
 				"**Tolc**",
@@ -26520,6 +28140,14 @@
 				"Planar Adventures",
 				"Divine Anthology",
 				"Pathfinder #62: Curse of the Lady's Light"
+			],
+			"types": [
+				"LG",
+				"Core Deities",
+				"Dwarven Deities",
+				"Dwarven Deities",
+				"Gnomish Deities",
+				"Order of the God Claw Pantheon"
 			],
 			"heading": [
 				"**Torag**",
@@ -26682,6 +28310,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned"
 			],
+			"types": [
+				"CE",
+				"Nascent Demon Lords"
+			],
 			"heading": [
 				"**Treerazer**",
 				"**Lord of the Blasted Tarn**",
@@ -26737,6 +28369,11 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Book of the Damned"
+			],
+			"types": [
+				"NE",
+				"Horsemen",
+				"Kobold Deities"
 			],
 			"heading": [
 				"**Trelmarixian**",
@@ -26823,6 +28460,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned"
 			],
+			"types": [
+				"NE",
+				"Daemon Harbingers"
+			],
 			"heading": [
 				"**Tresmalvos**",
 				"**The Cistern Queen**",
@@ -26881,6 +28522,10 @@
 			"name": "Trudd",
 			"file": "deitydisplay2573.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"NG",
+				"Dwarven Deities"
+			],
 			"heading": [
 				"**Trudd**",
 				"**The Mighty**",
@@ -26945,6 +28590,10 @@
 			"name": "Tsathoggua",
 			"file": "deitydisplay33d7.html",
 			"sources": [ "Pathfinder #109: In Search of Sanity" ],
+			"types": [
+				"CE",
+				"Great Old Ones"
+			],
 			"heading": [
 				"**Tsathoggua**",
 				"**Father of Night**",
@@ -26996,6 +28645,10 @@
 			"sources": [
 				"Dragon Empires Gazetteer",
 				"Faiths of Golarion"
+			],
+			"types": [
+				"LG",
+				"Deities of Tian Xia"
 			],
 			"heading": [
 				"**Tsukiyo**",
@@ -27103,6 +28756,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned"
 			],
+			"types": [
+				"NE",
+				"Daemon Harbingers"
+			],
 			"heading": [
 				"**Uaransaph**",
 				"**The Creeping Pit**",
@@ -27161,6 +28818,10 @@
 			"name": "Ulon",
 			"file": "deitydisplay5d91.html",
 			"sources": [ "Pathfinder #123: The Flooded Cathedral" ],
+			"types": [
+				"NE",
+				"Azlanti Pantheon"
+			],
 			"heading": [
 				"**Ulon**",
 				"**The Web**",
@@ -27204,6 +28865,10 @@
 			"name": "Upion and Warrik",
 			"file": "deitydisplay6bfe.html",
 			"sources": [ "Pathfinder #144: Midwives to Death" ],
+			"types": [
+				"NG",
+				"Iblydan Hero-Gods"
+			],
 			"heading": [
 				"**Upion and Warrik**",
 				"**Source** [Pathfinder #144: Midwives to Death pg. 74](source:Pathfinder #144: Midwives to Death)",
@@ -27243,6 +28908,10 @@
 			"name": "Urazra",
 			"file": "deitydisplay7734.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"CE",
+				"Giant Deities"
+			],
 			"heading": [
 				"**Urazra**",
 				"**Breaker of Bones**",
@@ -27305,6 +28974,10 @@
 				"Planar Adventures",
 				"Divine Anthology",
 				"Pathfinder #47: Ashes at Dawn"
+			],
+			"types": [
+				"NE",
+				"Core Deities"
 			],
 			"heading": [
 				"**Urgathoa**",
@@ -27468,6 +29141,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned"
 			],
+			"types": [
+				"LE",
+				"Infernal Dukes"
+			],
 			"heading": [
 				"**Uruskreil**",
 				"**The Metal Wing**",
@@ -27535,6 +29212,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned - Volume 2: Lords of Chaos",
 				"Book of the Damned"
+			],
+			"types": [
+				"CE",
+				"Demon Lords"
 			],
 			"heading": [
 				"**Urxehl**",
@@ -27620,6 +29301,10 @@
 			"name": "Ushitora",
 			"file": "deitydisplayb9fd.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"CE",
+				"Oni Daimyo"
+			],
 			"heading": [
 				"**Ushitora**",
 				"**Keeper of the Oni Gate**",
@@ -27669,6 +29354,10 @@
 			"name": "Uskyeria",
 			"file": "deitydisplay2b6c.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"NG",
+				"Empyreal Lords"
+			],
 			"heading": [
 				"**Uskyeria**",
 				"**The Saintly Slumberer**",
@@ -27723,6 +29412,10 @@
 			"name": "Uzumae",
 			"file": "deitydisplaycaa8.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"LE",
+				"Oni Daimyo"
+			],
 			"heading": [
 				"**Uzumae**",
 				"**Daimyo of the North**",
@@ -27774,6 +29467,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Chronicle of the Righteous"
+			],
+			"types": [
+				"CG",
+				"Empyreal Lords"
 			],
 			"heading": [
 				"**Valani**",
@@ -27840,6 +29537,10 @@
 			"name": "Vale",
 			"file": "deitydisplay814c.html",
 			"sources": [ "Concordance of Rivals" ],
+			"types": [
+				"N",
+				"Psychopomp Usher"
+			],
 			"heading": [
 				"**Vale**",
 				"**The Court of Ancestors**",
@@ -27890,6 +29591,10 @@
 			"name": "Valmallos",
 			"file": "deitydisplay613b.html",
 			"sources": [ "Concordance of Rivals" ],
+			"types": [
+				"LN",
+				"Primal Inevitable"
+			],
 			"heading": [
 				"**Valmallos**",
 				"**The Answering Rite**",
@@ -27942,6 +29647,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Book of the Damned"
+			],
+			"types": [
+				"LE",
+				"Infernal Dukes"
 			],
 			"heading": [
 				"**Vapula**",
@@ -28007,6 +29716,10 @@
 			"name": "Varg",
 			"file": "deitydisplay73b1.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"CE",
+				"Orc Deities"
+			],
 			"heading": [
 				"**Varg**",
 				"**The Iron Warrior**",
@@ -28060,6 +29773,10 @@
 			"name": "Vavaalrav",
 			"file": "deitydisplayd905.html",
 			"sources": [ "Concordance of Rivals" ],
+			"types": [
+				"N",
+				"Psychopomp Usher"
+			],
 			"heading": [
 				"**Vavaalrav**",
 				"**The Steeple's Skull**",
@@ -28110,6 +29827,10 @@
 			"name": "Velgaas",
 			"file": "deitydisplay0cd0.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"CE",
+				"Sahkil Tormentors"
+			],
 			"heading": [
 				"**Velgaas**",
 				"**Minds in the Dark**",
@@ -28159,6 +29880,10 @@
 			"name": "Venkelvore",
 			"file": "deitydisplay49b7.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"NE",
+				"Goblin Hero-Gods"
+			],
 			"heading": [
 				"**Venkelvore**",
 				"**Most Glorious Neverfull**",
@@ -28213,6 +29938,10 @@
 			"name": "Verex",
 			"file": "deitydisplay0643.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"CE",
+				"Orc Deities"
+			],
 			"heading": [
 				"**Verex**",
 				"**The Despoiler**",
@@ -28259,6 +29988,10 @@
 			"name": "Vermilion Mother",
 			"file": "deitydisplayb3ce.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"CE",
+				"Sahkil Tormentors"
+			],
 			"heading": [
 				"**Vermilion Mother**",
 				"**Source** [Book of the Damned pg. 132](source:Book of the Damned)",
@@ -28307,6 +30040,10 @@
 			"name": "Vevelor",
 			"file": "deitydisplay0952.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"LE",
+				"Kyton Demagogues"
+			],
 			"heading": [
 				"**Vevelor**",
 				"**The Broken Dream**",
@@ -28356,6 +30093,10 @@
 			"name": "Vibhishah",
 			"file": "deitydisplay24c7.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"LE",
+				"Rakshasa Immortals"
+			],
 			"heading": [
 				"**Vibhishah**",
 				"**Seeker**",
@@ -28408,6 +30149,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Chronicle of the Righteous"
+			],
+			"types": [
+				"LG",
+				"Empyreal Lords"
 			],
 			"heading": [
 				"**Vildeis**",
@@ -28485,6 +30230,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned"
 			],
+			"types": [
+				"LE",
+				"Infernal Dukes"
+			],
 			"heading": [
 				"**Vois**",
 				"**The Croaking Count**",
@@ -28549,6 +30298,10 @@
 			"name": "Vonymos",
 			"file": "deitydisplay6592.html",
 			"sources": [ "Concordance of Rivals" ],
+			"types": [
+				"N",
+				"Psychopomp Usher"
+			],
 			"heading": [
 				"**Vonymos**",
 				"**The Mourning Storm**",
@@ -28601,6 +30354,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Book of the Damned"
+			],
+			"types": [
+				"NE",
+				"Daemon Harbingers"
 			],
 			"heading": [
 				"**Vorasha**",
@@ -28660,6 +30417,10 @@
 			"name": "Wadjet",
 			"file": "deitydisplaya1ea.html",
 			"sources": [ "Pathfinder #80: Empty Graves" ],
+			"types": [
+				"LG",
+				"Deities of Ancient Osirion"
+			],
 			"heading": [
 				"**Wadjet**",
 				"**The Green Empress**",
@@ -28722,6 +30483,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Chronicle of the Righteous"
+			],
+			"types": [
+				"LG",
+				"Empyreal Lords"
 			],
 			"heading": [
 				"**Winlas**",
@@ -28792,6 +30557,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned"
 			],
+			"types": [
+				"LE",
+				"Infernal Dukes"
+			],
 			"heading": [
 				"**Wylgart**",
 				"**The Unbroken Word**",
@@ -28857,6 +30626,10 @@
 			"display_name": "Xhamen-Dor",
 			"file": "deitydisplay8f72.html",
 			"sources": [ "Pathfinder #113: What Grows Within" ],
+			"types": [
+				"NE",
+				"Great Old Ones"
+			],
 			"heading": [
 				"**Xhamen-Dor**",
 				"**The Inmost Blot**",
@@ -28950,6 +30723,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned"
 			],
+			"types": [
+				"LE",
+				"Infernal Dukes"
+			],
 			"heading": [
 				"**Xhasnaphar**",
 				"**The Faceless Truth**",
@@ -29014,6 +30791,10 @@
 			"name": "Xiquiripat",
 			"file": "deitydisplay6243.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"CE",
+				"Sahkil Tormentors"
+			],
 			"heading": [
 				"**Xiquiripat**",
 				"**The Flying Scab**",
@@ -29066,6 +30847,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned - Volume 2: Lords of Chaos",
 				"Book of the Damned"
+			],
+			"types": [
+				"CE",
+				"Demon Lords"
 			],
 			"heading": [
 				"**Xoveron**",
@@ -29156,6 +30941,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned"
 			],
+			"types": [
+				"NE",
+				"Daemon Harbingers"
+			],
 			"heading": [
 				"**Xsistaid**",
 				"**The Wriggling Wound**",
@@ -29214,6 +31003,10 @@
 			"name": "Yabu",
 			"file": "deitydisplaydc60.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"NE",
+				"Oni Daimyo"
+			],
 			"heading": [
 				"**Yabu**",
 				"**Lord of the Kazan Caldera**",
@@ -29263,6 +31056,10 @@
 			"name": "Yaezhing",
 			"file": "deitydisplay2b65.html",
 			"sources": [ "Dragon Empires Gazetteer" ],
+			"types": [
+				"LE",
+				"Deities of Tian Xia"
+			],
 			"heading": [
 				"**Yaezhing**",
 				"**Minister of Blood**",
@@ -29318,6 +31115,10 @@
 				"Pathfinder #135: Runeplague",
 				"Book of the Damned - Volume 2: Lords of Chaos",
 				"Book of the Damned"
+			],
+			"types": [
+				"CE",
+				"Qlippoth Lords"
 			],
 			"heading": [
 				"**Yamasoth**",
@@ -29414,6 +31215,10 @@
 			"name": "Yamatsumi",
 			"file": "deitydisplaya0c5.html",
 			"sources": [ "Dragon Empires Gazetteer" ],
+			"types": [
+				"N",
+				"Deities of Tian Xia"
+			],
 			"heading": [
 				"**Yamatsumi**",
 				"**The Mountain Lord**",
@@ -29469,6 +31274,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Book of the Damned"
+			],
+			"types": [
+				"LE",
+				"Infernal Dukes"
 			],
 			"heading": [
 				"**Yan-gant-y-tan**",
@@ -29534,6 +31343,10 @@
 			"name": "Ydajisk",
 			"file": "deitydisplay79cf.html",
 			"sources": [ "Concordance of Rivals" ],
+			"types": [
+				"CN",
+				"Protean Lord"
+			],
 			"heading": [
 				"**Ydajisk**",
 				"**The Mother of Tongues**",
@@ -29586,6 +31399,11 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Pathfinder #42: Sanctum of the Serpent God"
+			],
+			"types": [
+				"CE",
+				"Other Deities",
+				"Scalefolk Deities"
 			],
 			"heading": [
 				"**Ydersius**",
@@ -29674,6 +31492,10 @@
 				"Book of the Damned - Volume 2: Lords of Chaos",
 				"Book of the Damned"
 			],
+			"types": [
+				"CE",
+				"Demon Lords"
+			],
 			"heading": [
 				"**Yhidothrus**",
 				"**The Ravager Worm**",
@@ -29758,6 +31580,10 @@
 			"name": "Yig",
 			"file": "deitydisplay8046.html",
 			"sources": [ "Pathfinder #109: In Search of Sanity" ],
+			"types": [
+				"CN",
+				"Great Old Ones"
+			],
 			"heading": [
 				"**Yig**",
 				"**Father of Serpents**",
@@ -29809,6 +31635,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Chronicle of the Righteous"
+			],
+			"types": [
+				"NG",
+				"Empyreal Lords"
 			],
 			"heading": [
 				"**Ylimancha**",
@@ -29876,6 +31706,10 @@
 			"name": "Ymeri",
 			"file": "deitydisplay7e5e.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"NE",
+				"Elemental Lords"
+			],
 			"heading": [
 				"**Ymeri**",
 				"**Queen of the Inferno**",
@@ -29931,6 +31765,10 @@
 			"display_name": "Yog-Sothoth",
 			"file": "deitydisplay34e1.html",
 			"sources": [ "Pathfinder #109: In Search of Sanity" ],
+			"types": [
+				"CN",
+				"Outer Gods"
+			],
 			"heading": [
 				"**Yog-Sothoth**",
 				"**Lurker at the Threshold**",
@@ -29987,6 +31825,10 @@
 			"name": "Yuelral",
 			"file": "deitydisplay0c01.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"NG",
+				"Elven Deities"
+			],
 			"heading": [
 				"**Yuelral**",
 				"**The Wise**",
@@ -30050,6 +31892,10 @@
 			"name": "Zabha",
 			"file": "deitydisplay1209.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"LE",
+				"Rakshasa Immortals"
+			],
 			"heading": [
 				"**Zabha**",
 				"**Desecrator**",
@@ -30102,6 +31948,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Book of the Damned"
+			],
+			"types": [
+				"LE",
+				"Infernal Dukes"
 			],
 			"heading": [
 				"**Zaebos**",
@@ -30167,6 +32017,10 @@
 			"name": "Zagresh",
 			"file": "deitydisplay3f54.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"CE",
+				"Orc Deities"
+			],
 			"heading": [
 				"**Zagresh**",
 				"**The Destroyer**",
@@ -30217,6 +32071,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Book of the Damned"
+			],
+			"types": [
+				"NE",
+				"Daemon Harbingers"
 			],
 			"heading": [
 				"**Zaigasnar**",
@@ -30276,6 +32134,10 @@
 			"name": "Zarongel",
 			"file": "deitydisplayc11c.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"NE",
+				"Goblin Hero-Gods"
+			],
 			"heading": [
 				"**Zarongel**",
 				"**Bark Breaker**",
@@ -30332,6 +32194,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Book of the Damned"
+			],
+			"types": [
+				"NE",
+				"Daemon Harbingers"
 			],
 			"heading": [
 				"**Zelishkar**",
@@ -30393,6 +32259,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Book of the Damned"
+			],
+			"types": [
+				"LE",
+				"Infernal Dukes"
 			],
 			"heading": [
 				"**Zepar**",
@@ -30461,6 +32331,10 @@
 				"Inner Sea Gods",
 				"Book of the Damned - Volume 2: Lords of Chaos",
 				"Book of the Damned"
+			],
+			"types": [
+				"CE",
+				"Demon Lords"
 			],
 			"heading": [
 				"**Zevgavizeb**",
@@ -30546,6 +32420,10 @@
 			"name": "Zipacna",
 			"file": "deitydisplaya68d.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"CE",
+				"Sahkil Tormentors"
+			],
 			"heading": [
 				"**Zipacna**",
 				"**The Mountain Below**",
@@ -30595,6 +32473,10 @@
 			"name": "Zogmugot",
 			"file": "deitydisplayb01f.html",
 			"sources": [ "Inner Sea Gods" ],
+			"types": [
+				"CE",
+				"Goblin Hero-Gods"
+			],
 			"heading": [
 				"**Zogmugot**",
 				"**Lady Lastbreath**",
@@ -30652,6 +32534,10 @@
 			"sources": [
 				"Inner Sea Gods",
 				"Chronicle of the Righteous"
+			],
+			"types": [
+				"LG",
+				"Empyreal Lords"
 			],
 			"heading": [
 				"**Zohls**",
@@ -30723,6 +32609,10 @@
 				"Planar Adventures",
 				"Weapon Master's Handbook",
 				"Pathfinder #11: Skeletons of Scarwall"
+			],
+			"types": [
+				"LE",
+				"Core Deities"
 			],
 			"heading": [
 				"**Zon-Kuthon**",
@@ -30869,6 +32759,10 @@
 				"Book of the Damned - Volume 2: Lords of Chaos",
 				"Book of the Damned"
 			],
+			"types": [
+				"CE",
+				"Demon Lords"
+			],
 			"heading": [
 				"**Zura**",
 				"**The Vampire Queen**",
@@ -30950,6 +32844,10 @@
 			"name": "Zurapadyn",
 			"file": "deitydisplay950f.html",
 			"sources": [ "Book of the Damned" ],
+			"types": [
+				"LE",
+				"Asura Ranas"
+			],
 			"heading": [
 				"**Zurapadyn**",
 				"**Beast Who Waits in Smoke**",
@@ -30999,6 +32897,10 @@
 			"name": "Zursvaater",
 			"file": "deitydisplay7650.html",
 			"sources": [ "Pathfinder #95: Anvil of Fire" ],
+			"types": [
+				"LE",
+				"Giant Deities"
+			],
 			"heading": [
 				"**Zursvaater**",
 				"**Prince of Steel**",
@@ -31090,6 +32992,10 @@
 			"sources": [
 				"Inner Sea Faiths",
 				"Pathfinder #89: Palace of Fallen Stars"
+			],
+			"types": [
+				"NE",
+				"Other Deities"
 			],
 			"heading": [
 				"**Zyphus**",

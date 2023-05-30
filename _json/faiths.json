@@ -31,6 +31,7 @@
 			"name": "Green Faith",
 			"file": "deitydisplay6eac.html",
 			"sources": [ "Pathfinder #75: Demon's Heresy" ],
+			"types": [ "N" ],
 			"heading": [
 				"**Green Faith**",
 				"**The Old Faith**",
@@ -105,6 +106,7 @@
 	        "name": "nature",
 			"file": null,
 			"sources": [],
+			"types": [ "N" ],
 			"heading": [
 				"**nature**"
 			],
