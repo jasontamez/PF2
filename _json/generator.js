@@ -28,3 +28,20 @@ export function calculateBonusesByType (...arrayOfBonuses) {
     // Return the result
     return final;
 };
+
+export function getNearbyAlignments (alignment) {
+    // Takes a string alignment
+    // Returns an array of alignments one step away from it
+    if(alignment === "Unaligned") {
+        return [ "LG", "LN", "LE", "NG", "N", "NE", "CG", "CN", "CE" ];
+    } else if(alignment === "N") {
+        return [ "LN", "NG", "N", "NE", "CN" ];
+    }
+    const [structure, morality] = alignment.split('');
+    if(structure === "N") {
+        return [ `L${morality}`, "N", `C${morality}`, alignment ];
+    } else if (morality === "N") {
+        return [ `${structure}G`, "N", `${structure}E`, alignment ];
+    }
+    return [ `N${morality}`, `${structure}N`, alignment ];
+}
