@@ -591,7 +591,7 @@
 				"Critical Mastery (Combat, Critical)",
 				"Source [PRPG Core Rulebook pg. 120](source:PRPG Core Rulebook)",
 				"Your critical hits cause two additional effects.",
-				"**Prerequisites:** [Critical Focus](unknown:Critical Focus), any two critical feats, 14th-level fighter.",
+				"**Prerequisites:** [Critical Focus](feat:Critical Focus), any two critical feats, 14th-level fighter.",
 				"**Benefit:** When you score a critical hit, you can apply the effects of two critical feats in addition to the damage dealt.",
 				"**Normal:** You can only apply the effects of one critical feat to a given critical hit in addition to the damage dealt.",
 				"*Combat Trick* (from the [Combat Stamina](feat:Combat Stamina) feat)",
@@ -600,7 +600,7 @@
 				"Mythic Critical Mastery",
 				"Source [Mythic Adventures pg. 61](source:Mythic Adventures)",
 				"Your critical hits are versatile and devastating.",
-				"**Prerequisites:** [Critical Focus (mythic)](unknown:Critical Focus (mythic)), [Critical Mastery](unknown:Critical Mastery).",
+				"**Prerequisites:** [Critical Focus (mythic)](mythic-feat:Critical Focus), [Critical Mastery](feat:Critical Mastery).",
 				"**Benefit:** When using Critical Mastery, increase the number of critical feats you may apply by every 3 tiers that you possess."
 			]
 		},

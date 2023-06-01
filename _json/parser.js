@@ -8,6 +8,14 @@ function getParser() {
 	function escapeRegex(input) {
 		return input.replace(/[-[\]{}()*+?.,\\^$|#\s]/g, '\\$&');
 	}
+	function checkForString (test) {
+		let test_case = test;
+		if(m = test.match(/^\$([0-9]+)\$$/)) {
+			// This is a string, so we need to translate it before we can use it.
+			test_case = this._evaluate(test);
+		}
+		return test_case;
+	}
 	function flatten(input, evaluate = true) {
 		const final = [];
 		const search = input.slice();
@@ -94,15 +102,17 @@ function getParser() {
 	}
 	function test (test, standee, ...testing) {
 		let regex = new RegExp(this._escapeRegex(standee), "g");
+		const test_case = this._checkForString(test);
 		return testing.some(value => {
-			let subbed = test.replace(regex, `${value}`);
+			let subbed = test_case.replace(regex, `${value}`);
 			return this._evaluate(subbed);
 		});
 	}
 	function testAll (test, standee, ...testing) {
 		let regex = new RegExp(this._escapeRegex(standee), "g");
+		const test_case = this._checkForString(test);
 		return testing.every(value => {
-			let subbed = test.replace(regex, `${value}`);
+			let subbed = test_case.replace(regex, `${value}`);
 			return this._evaluate(subbed);
 		});
 	}
@@ -113,9 +123,11 @@ function getParser() {
 		}
 		let regex = new RegExp(this._escapeRegex(standee), "g");
 		let counter = 0;
+		let m;
+		const test_case = this._checkForString(test);
 		while(testing.length > 0) {
 			let value = testing.shift();
-			let subbed = test.replace(regex, `${value}`);
+			let subbed = test_case.replace(regex, `${value}`);
 			if(this._evaluate(subbed)) {
 				counter++;
 				if(counter >= count) {
@@ -126,7 +138,8 @@ function getParser() {
 		return false;
 	}
 	function _if (test, truth, falsity) {
-		if(this._evaluate(test)) {
+		const test_case = this._checkForString(test);
+		if(this._evaluate(test_case)) {
 			return this._evaluate(truth);
 		}
 		return this._evaluate(falsity);
@@ -137,6 +150,7 @@ function getParser() {
 		_MEMORY: {},
 		// Helper functions
 		_escapeRegex: escapeRegex,
+		_checkForString: checkForString,
 		_flatten: flatten,
 		_clearMemory: clearMemory,
 		// Main functions
@@ -372,7 +386,7 @@ function getParser() {
 				output.push(makeToken("quoted", Number(q), 1));
 			} else if (ch.match(/[|&=]/) && chars[0] === ch) {
 				// &&, ||, ==  - these should never be at the end of an expression
-				let rank = ch === "&" ? 10 : 11;
+				let rank = ch === "&" ? 10 : (ch === "=" ? 9 : 11);
 				if (chars[0] === ch) {
 					output.push(makeToken("logic", ch + chars.shift(), rank));
 				}
@@ -455,10 +469,10 @@ function getParser() {
 				// Whitespace. Ignore.
 			} else {
 				// Treat as string character
-				while (chars.length > 0 && "0123456789.,|&!><=>%+-/*$@?".indexOf(chars[0]) == -1) {
+				while (chars.length > 0 && "0123456789.,|&!><=>%+-/*$@?".indexOf(chars[0]) === -1) {
 					ch = ch + chars.shift();
 				}
-				output.push(ch);
+				output.push(ch.trim());
 			}
 		}
 		return output;
