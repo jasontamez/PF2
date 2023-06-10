@@ -10,6 +10,9 @@ System should specify sheets and all relevant JSON files. The sheet should descr
 
 - Remove **commas** from all names.
 
+- **SUBRACES**
+  - May have to modify a trait instead of replacing it!
+
 ## How to add classes?
 
 - Needs to add level by level

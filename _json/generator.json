@@ -679,20 +679,28 @@
 			"formula": "getInput(alchemist class level) + getInput(antipaladin class level) + getInput(arcanist class level) + getInput(barbarian class level) + getInput(unchained barbarian_unchained class level) + getInput(bard class level) + getInput(bloodrager class level) + getInput(brawler class level) + getInput(cavalier class level) + getInput(cleric class level) + getInput(druid class level) + getInput(fighter class level) + getInput(gunslinger class level) + getInput(hunter class level) + getInput(inquisitor class level) + getInput(investigator class level) + getInput(kineticist class level) + getInput(magus class level) + getInput(medium class level) + getInput(mesmerist class level) + getInput(monk class level) + getInput(unchained monk_unchained class level) + getInput(ninja class level) + getInput(occultist class level) + getInput(oracle class level) + getInput(paladin class level) + getInput(psychic class level) + getInput(ranger class level) + getInput(rogue class level) + getInput(unchained rogue_unchained class level) + getInput(samuari class level) + getInput(shaman class level) + getInput(shifter class level) + getInput(skald class level) + getInput(slayer class level) + getInput(sorcerer class level) + getInput(spiritualist class level) + getInput(summoner class level) + getInput(unchained summoner_unchained class level) + getInput(swashbuckler class level) + getInput(vigilante class level) + getInput(warpriest class level) + getInput(witch class level) + getInput(wizard class level)"
 		},
 		{
+			"name": "size score",
+			"formula": "minmax(1,9,sum(5,getScores(size mod)))"
+		},
+		{
+			"name": "size",
+			"formula": "switch(getScore(size score),Fine,Diminutive,Tiny,Small,Medium,Large,Huge,Gargantuan,Colossal)"
+		},
+		{
 			"name": "base attack bonus",
-			"formula": "sum(getScores(BAB bonus))"
+			"formula": "sum(calculateBonusesByType(getObjects(BAB bonus)))"
 		},
 		{
 			"name": "fortitude save",
-			"formula": "sum(getScores(fortitude save bonus))"
+			"formula": "sum(calculateBonusesByType(getObjects(fortitude save bonus)))"
 		},
 		{
 			"name": "will save",
-			"formula": "sum(getScores(will save bonus))"
+			"formula": "sum(calculateBonusesByType(getObjects(will save bonus)))"
 		},
 		{
 			"name": "reflex save",
-			"formula": "sum(getScores(reflex save bonus))"
+			"formula": "sum(calculateBonusesByType(getObjects(reflex save bonus)))"
 		},
 		{
 			"name": "initiative",
@@ -745,6 +753,10 @@
 		{
 			"name": "CHA mod",
 			"formula": "floor(getScore(charisma score) / 2 - 5)"
+		},
+		{
+			"name": "speed",
+			"formula": "sum(getScores(speed)) + calculateBonusesByType(getObjectsScores(speed bonus))"
 		},
 		{
 			"name": "max skill ranks",

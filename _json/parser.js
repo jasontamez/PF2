@@ -29,13 +29,6 @@ function getParser() {
 		}
 		return final;
 	}
-	function clearMemory(variable) {
-		// Either delete a single saved value, or delete ALL saved values
-		if(variable) {
-			return delete this._MEMORY[variable];
-		}
-		return this._MEMORY = {};
-	}
 
 	// Standard fuctions
 
@@ -45,6 +38,15 @@ function getParser() {
 	}
 	function load(label) {
 		return this._MEMORY[this._evaluate(label)];
+	}
+	function clear(label) {
+		// Either delete a single saved value, or delete ALL saved values
+		if(label !== undefined) {
+			delete this._MEMORY[this._evaluate(label)];
+		} else {
+			this._MEMORY = {};
+		}
+		return;
 	}
 	// Math functions
 	function squareRoot(n) {
@@ -60,10 +62,22 @@ function getParser() {
 		return Math.floor(this._evaluate(n));
 	}
 	function min(...args) {
-		return Math.min(args.map(a => this._evaluate(a)));
+		return Math.min(...this._flatten(args));
 	}
 	function max(...args) {
-		return Math.max(args.map(a => this._evaluate(a)));
+		return Math.max(...this._flatten(args));
+	}
+	function minmax(miniumum, maximum, value) {
+		const x = this._evaluate(value);
+		const min = this._evaluate(miniumum);
+		if(min > x) {
+			return min;
+		}
+		const max = this._evaluate(maximum);
+		if(max < x) {
+			return max;
+		}
+		return x;
 	}
 	function random (x) {
 		const rando = Math.random();
@@ -87,10 +101,11 @@ function getParser() {
 		return Math.floor(Math.random() * range) + x;
 	}
 	function sum (...args) {
-		return this._flatten(args).reduce((accumulator, x) => accumulator + x);
+		return this._flatten(args).reduce((accumulator, x) => accumulator + x, 0);
 	}
 	function product (...args) {
-		return this._flatten(args).reduce((accumulator, x) => accumulator * x);
+		// Returns 0 if no arguments
+		return args.length === 0 ? 0 : this._flatten(args).reduce((accumulator, x) => accumulator * x);
 	}
 	// Logical functions
 	function find (needle, haystack) {
@@ -137,12 +152,24 @@ function getParser() {
 		}
 		return false;
 	}
+	// Conditionals
 	function _if (test, truth, falsity) {
 		const test_case = this._checkForString(test);
 		if(this._evaluate(test_case)) {
 			return this._evaluate(truth);
 		}
 		return this._evaluate(falsity);
+	}
+	function _switch (...info) {
+		const args = this._flatten(info, false);
+		const [n] = args;
+		let final;
+		try {
+			final = this._evaluate(args[n]);
+		} catch (error) {
+			// let it slide
+		}
+		return final === undefined ? 0 : final;
 	}
 
 	let FUNCTIONS = {
@@ -152,10 +179,10 @@ function getParser() {
 		_escapeRegex: escapeRegex,
 		_checkForString: checkForString,
 		_flatten: flatten,
-		_clearMemory: clearMemory,
 		// Main functions
 		save,
 		load,
+		clear,
 		//get(Score|Bonus|Input)
 		//setInput
 		//has(Score|Tag)[All]
@@ -181,7 +208,8 @@ function getParser() {
 		test,
 		testAll,
 		multiple,
-		if: _if
+		if: _if,
+		switch: _switch
 	};
 
 	function addFunction(...functions) {

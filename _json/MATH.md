@@ -55,6 +55,8 @@ Quotation marks are an exception, they surround a string which should not be mut
   - It also returns the saved value
   - `save(X,5)+2` = 7 (and also saves 'X' with a value 5)
 - `load(STRING)` - returns the value previously saved as `STRING`
+- `clear(STRING)` - removes the value previously saved as `STRING`
+- `clear()` - removes ALL values previously saved
 
 ### Getters and Setters
 
@@ -266,3 +268,10 @@ These functions should extract the results from a function and treat them as arg
 ### Conditionals and Loops
 
 - `if(BOOLEAN,ReturnValueIfTrue,ReturnValueIfFalse)` - returns one of two values depending on if the `BOOLEAN` is `true` or `false`
+- `switch(NUMBER,values...)` - returns the value at position NUMBER in the given values (1-index)
+  - `switch(1,a,b,c)` a
+  - `switch(3,a,b,c)` c
+  - *Invalid NUMBERS return 0:*
+    - `switch(-4,a,b,c)` 0
+    - `switch(8,a,b,c)` 0
+    - `switch(blah blah blah,a,b,c)` 0
