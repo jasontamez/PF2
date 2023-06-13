@@ -1236,7 +1236,7 @@
 			},
 			"description": [
 				"Source [Path of the Hellknight pg. 26](source:Path of the Hellknight)",
-				"Many Godclaw signifers are oracles who embrace the unique Godclaw mystery. Oracles with the Godclaw mystery often take the clouded vision or legalistic curses (Pathfinder Player Companion Blood of Fiends 26).",
+				"Many Godclaw signifers are oracles who embrace the unique Godclaw mystery. Oracles with the Godclaw mystery often take the clouded vision or legalistic curses.",
 				"**Deities:** Abadar, Asmodeus, Iomedae, Irori, Torag.",
 				"**Class Skills:** An oracle with the Godclaw mystery adds Bluff, Intimidate, Knowledge (local), and Perception to her list of class skills.",
 				"**Bonus Spells:** cause fear (2nd), daze monster (4th), hold person (6th), order's wrath (8th), break enchantment (10th), forceful hand (12th), dictum (14th), shield of law (16th), imprisonment (18th).",
@@ -1274,7 +1274,7 @@
 						"getInput(oracle class level) >= 3"
 					],
 					"description": [
-						"You gain Deific Obedience (Pathfinder Campaign Setting Inner Sea Gods 210) as a bonus feat, even if you don't meet its prerequisites. When you gain the feat, choose one Godclaw deity; you can perform that deity's daily obedience to gain its benefits. Whenever you would gain one of your deity's boons, you can instead gain the benefits of another Godclaw deity's obedience. You can choose to gain the benefits of a maximum of four Godclaw deities' obediences if you choose to forgo all three of your god's boons. You never need to spend more than 1 hour per day to perform your obedience. You must be at least 3rd level to select this revelation."
+						"You gain Deific Obedience as a bonus feat, even if you don't meet its prerequisites. When you gain the feat, choose one Godclaw deity; you can perform that deity's daily obedience to gain its benefits. Whenever you would gain one of your deity's boons, you can instead gain the benefits of another Godclaw deity's obedience. You can choose to gain the benefits of a maximum of four Godclaw deities' obediences if you choose to forgo all three of your god's boons. You never need to spend more than 1 hour per day to perform your obedience. You must be at least 3rd level to select this revelation."
 					]
 				},
 				{
@@ -2049,7 +2049,7 @@
 					"display_name": "Gift of Claw and Horn (Su)",
 					"requirements": [],
 					"description": [
-						"As a swift action, you gain a natural weapon. The natural weapon lasts for a number of rounds equal to half your oracle level (minimum 1). You must choose a bite, claw, or gore attack. These attacks deal the normal damage for a creature of your size (Pathfinder RPG Bestiary 302). At 5th level, your natural weapon gains a +1 enhancement bonus. This bonus increases by +1 at 10th, 15th, and 20th level. At 11th level, you gain two natural weapons at a time. You can use this ability a number of times per day equal to 3 + your Charisma modifier."
+						"As a swift action, you gain a natural weapon. The natural weapon lasts for a number of rounds equal to half your oracle level (minimum 1). You must choose a bite, claw, or gore attack. These attacks deal the normal damage for a creature of your size. At 5th level, your natural weapon gains a +1 enhancement bonus. This bonus increases by +1 at 10th, 15th, and 20th level. At 11th level, you gain two natural weapons at a time. You can use this ability a number of times per day equal to 3 + your Charisma modifier."
 					]
 				},
 				{
@@ -2821,7 +2821,7 @@
 					"display_name": "Army of Darkness (Su)",
 					"requirements": [],
 					"description": [
-						"Whenever you cast a summon monster spell and summon a creature that normally has the celestial or fiendish template, you can instead summon it with the shadow creature template (Pathfinder RPG Bestiary 4 238). This revelation counts as having the Spell Focus (conjuration) feat for the purpose of meeting the prerequisites of the Augment Summoning feat, as well as any feat that lists Augment Summoning as a prerequisite."
+						"Whenever you cast a summon monster spell and summon a creature that normally has the celestial or fiendish template, you can instead summon it with the shadow creature template. This revelation counts as having the Spell Focus (conjuration) feat for the purpose of meeting the prerequisites of the Augment Summoning feat, as well as any feat that lists Augment Summoning as a prerequisite."
 					]
 				},
 				{
@@ -3469,7 +3469,7 @@
 					"display_name": "Combat Healer (Su)",
 					"requirements": [],
 					"description": [
-						"As per the battle mystery revelation of the same name (Pathfinder RPG Advanced Player's Guide 45)."
+						"As per the battle mystery revelation of the same name."
 					]
 				},
 				{
@@ -3487,7 +3487,7 @@
 					"display_name": "Enhanced Cures (Su)",
 					"requirements": [],
 					"description": [
-						"As per the life oracle mystery revelation of the same name (Advanced Player's Guide 49)."
+						"As per the life oracle mystery revelation of the same name."
 					]
 				},
 				{
@@ -3531,7 +3531,7 @@
 					"display_name": "Soul Siphon (Su)",
 					"requirements": [],
 					"description": [
-						"As per the bones oracle mystery revelation of the same name (Advanced Player's Guide 46)."
+						"As per the bones oracle mystery revelation of the same name."
 					]
 				},
 				{
@@ -3539,7 +3539,7 @@
 					"display_name": "Spirit Boost (Su)",
 					"requirements": [],
 					"description": [
-						"As per the life oracle mystery revelation of the same name (Advanced Player's Guide 49)."
+						"As per the life oracle mystery revelation of the same name."
 					]
 				},
 				{
@@ -3738,7 +3738,7 @@
 					"display_name": "Ash Cloud (Su)",
 					"requirements": [],
 					"description": [
-						"As a standard action, you can surround yourself with a 10-foot-radius cloud of ash, which functions as an obscuring mist spell, except you can see through it clearly. The cloud is stationary, and remains for 1 round per oracle level. Using this ability again causes your previous cloud to fall to the ground. At 7th level, your ash cloud fills with embers. All creatures in the cloud except you take 1d6 points of fire damage per round and must succeed at Fortitude saves to avoid choking, as though they were breathing in heavy smoke (Core Rulebook 444)."
+						"As a standard action, you can surround yourself with a 10-foot-radius cloud of ash, which functions as an obscuring mist spell, except you can see through it clearly. The cloud is stationary, and remains for 1 round per oracle level. Using this ability again causes your previous cloud to fall to the ground. At 7th level, your ash cloud fills with embers. All creatures in the cloud except you take 1d6 points of fire damage per round and must succeed at Fortitude saves to avoid choking, as though they were breathing in heavy smoke."
 					]
 				},
 				{
@@ -4331,7 +4331,7 @@
 						"getInput(oracle class level) >= 7"
 					],
 					"description": [
-						"As a full-round action, you can summon a single ice elemental (Pathfinder RPG Bestiary 2 114) to serve you. At 7th level, you can summon a Medium ice elemental, as summon monster IV. At 11th level, you can summon a Huge ice elemental, as summon monster VI. At 15th level, you can summon an elder ice elemental, as summon monster VIII. You can use this ability once per day, plus one additional time per day at 15th level. You must be at least 7th level before selecting this revelation."
+						"As a full-round action, you can summon a single ice elemental to serve you. At 7th level, you can summon a Medium ice elemental, as summon monster IV. At 11th level, you can summon a Huge ice elemental, as summon monster VI. At 15th level, you can summon an elder ice elemental, as summon monster VIII. You can use this ability once per day, plus one additional time per day at 15th level. You must be at least 7th level before selecting this revelation."
 					]
 				},
 				{

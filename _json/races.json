@@ -266,11 +266,11 @@
 				"",
 				"Lost Promise",
 				"Source [Inner Sea Races pg. 214](source:Inner Sea Races)",
-				"While many view aasimars' beauty and celestial powers as a gift, in some communities an aasimar might be persecuted for being different and fall into darkness. The forces of evil delight in such a perversion of their celestial counterparts' gifts. As long as the aasimar retains an evil alignment, she gains the maw or claw tief ling alternate racial trait (Pathfinder RPG Advanced Race Guide 169). This racial trait replaces the spell-like ability racial trait.",
+				"While many view aasimars' beauty and celestial powers as a gift, in some communities an aasimar might be persecuted for being different and fall into darkness. The forces of evil delight in such a perversion of their celestial counterparts' gifts. As long as the aasimar retains an evil alignment, she gains the maw or claw tiefling alternate racial trait. This racial trait replaces the spell-like ability racial trait.",
 				"",
 				"Variant Aasimar Abilities",
 				"Source [Blood of Angels pg. 18](source:Blood of Angels)",
-				"Some aasimars are blessed or cursed with unusual abilities. GMs may customize their aasimar NPCs using the following chart, or allow their players to do so by rolling a d%. Players with a particular character concept in mind may consult their GM if they want to select a specific variant ability. The abilities presented here replace an aasimar's spelllike ability racial trait. Any abilities that grant spells or spell-like abilities are treated as having a caster level equal to the aasimar's character level.",
+				"Some aasimars are blessed or cursed with unusual abilities. GMs may customize their aasimar NPCs using the following chart, or allow their players to do so by rolling a d%. Players with a particular character concept in mind may consult their GM if they want to select a specific variant ability. The abilities presented here replace an aasimar's spell-like ability racial trait. Any abilities that grant spells or spell-like abilities are treated as having a caster level equal to the aasimar's character level.",
 				"| d% | Abilities |",
 				"| --- | --- |",
 				"| 1 | You can channel 1d6 points of positive energy once per day as a supernatural ability. |",
@@ -798,7 +798,7 @@
 					"name": "Lost Promise",
 					"description": [
 						"Source [Inner Sea Races pg. 214](source:Inner Sea Races)",
-						"While many view aasimars' beauty and celestial powers as a gift, in some communities an aasimar might be persecuted for being different and fall into darkness. The forces of evil delight in such a perversion of their celestial counterparts' gifts. As long as the aasimar retains an evil alignment, she gains the maw or claw tief ling alternate racial trait (Pathfinder RPG Advanced Race Guide 169). This racial trait replaces the spell-like ability racial trait."
+						"While many view aasimars' beauty and celestial powers as a gift, in some communities an aasimar might be persecuted for being different and fall into darkness. The forces of evil delight in such a perversion of their celestial counterparts' gifts. As long as the aasimar retains an evil alignment, she gains the maw or claw tiefling alternate racial trait. This racial trait replaces the spell-like ability racial trait."
 					],
 					"replaces": [
 						"Spell Like Ability"
@@ -808,7 +808,7 @@
 					"name": "Variant Aasimar Abilities",
 					"description": [
 						"Source [Blood of Angels pg. 18](source:Blood of Angels)",
-						"Some aasimars are blessed or cursed with unusual abilities. GMs may customize their aasimar NPCs using the following chart, or allow their players to do so by rolling a d%. Players with a particular character concept in mind may consult their GM if they want to select a specific variant ability. The abilities presented here replace an aasimar's spelllike ability racial trait. Any abilities that grant spells or spell-like abilities are treated as having a caster level equal to the aasimar's character level.",
+						"Some aasimars are blessed or cursed with unusual abilities. GMs may customize their aasimar NPCs using the following chart, or allow their players to do so by rolling a d%. Players with a particular character concept in mind may consult their GM if they want to select a specific variant ability. The abilities presented here replace an aasimar's spell-like ability racial trait. Any abilities that grant spells or spell-like abilities are treated as having a caster level equal to the aasimar's character level.",
 						"| d% | Abilities |",
 						"| --- | --- |",
 						"| 1 | You can channel 1d6 points of positive energy once per day as a supernatural ability. |",
@@ -942,7 +942,7 @@
 			"description": [
 				"Source [Blood of the Sea pg. 16](source:Blood of the Sea)",
 				"Monster Entry [Link](monster:Link)",
-				"Adaros (Pathfinder RPG Bestiary 3 7) are frightful creatures with the upper bodies of muscular humanoids, the lower bodies of sleek sharks, and enormous jaws filled with razor-sharp teeth. Nomadic predators of the deep, adaros travel in packs through tropical waters, hunting their prey with poisoned spears and then devouring the victims raw. Adaros willingly feed on humans, merfolk, and other sentient creatures.",
+				"Adaros are frightful creatures with the upper bodies of muscular humanoids, the lower bodies of sleek sharks, and enormous jaws filled with razor-sharp teeth. Nomadic predators of the deep, adaros travel in packs through tropical waters, hunting their prey with poisoned spears and then devouring the victims raw. Adaros willingly feed on humans, merfolk, and other sentient creatures.",
 				"Adaro adventurers are the rare shark-people who have learned to control their bloodlust to achieve a long-term goal, such as conquering a large territory, plundering a submerged city, or working alongside other creatures to stop a greater threat.",
 				"Adaro Racial Traits",
 				"Player character adaros have the following racial traits.",
@@ -2934,7 +2934,7 @@
 				"",
 				"Psychic Sensitivity",
 				"Source [Blood of Shadows pg. 15](source:Blood of Shadows)",
-				"The Darklands is full of strange energies, and the drow or half-drow who live there practice bloody rituals in exchange for favor and power. Drow or half-elves with this trait gain the Psychic Sensitivity feat (Pathfinder Roleplaying Game Occult Adventures 138), gaining access to occult skill unlocks normally only available to psychic spellcasters. This racial trait replaces keen senses for drow and half-elves and drow immunities for drow or elven immunities for half-elves.",
+				"The Darklands is full of strange energies, and the drow or half-drow who live there practice bloody rituals in exchange for favor and power. Drow or half-elves with this trait gain the Psychic Sensitivity feat, gaining access to occult skill unlocks normally only available to psychic spellcasters. This racial trait replaces keen senses for drow and half-elves and drow immunities for drow or elven immunities for half-elves.",
 				"",
 				"Replaces Drow Immunities, Keen Senses, Poison Use",
 				"",
@@ -3148,7 +3148,7 @@
 					"name": "Psychic Sensitivity",
 					"description": [
 						"Source [Blood of Shadows pg. 15](source:Blood of Shadows)",
-						"The Darklands is full of strange energies, and the drow or half-drow who live there practice bloody rituals in exchange for favor and power. Drow or half-elves with this trait gain the Psychic Sensitivity feat (Pathfinder Roleplaying Game Occult Adventures 138), gaining access to occult skill unlocks normally only available to psychic spellcasters. This racial trait replaces keen senses for drow and half-elves and drow immunities for drow or elven immunities for half-elves."
+						"The Darklands is full of strange energies, and the drow or half-drow who live there practice bloody rituals in exchange for favor and power. Drow or half-elves with this trait gain the Psychic Sensitivity feat, gaining access to occult skill unlocks normally only available to psychic spellcasters. This racial trait replaces keen senses for drow and half-elves and drow immunities for drow or elven immunities for half-elves."
 					],
 					"replaces": [
 						"Drow Immunities",
@@ -3363,7 +3363,7 @@
 				"",
 				"Twilight-Touched",
 				"Source [Monster Codex pg. 44](source:Monster Codex)",
-				"While most duergar have the power to become invisible, a few are instead able to extinguish the light around them. Duergar with this racial trait can use dust of twilight (Pathfinder RPG Advanced Player's Guide 217) once per day as a spell-like ability, using their character level as their caster level. This racial trait replaces the invisibility spell-like ability.",
+				"While most duergar have the power to become invisible, a few are instead able to extinguish the light around them. Duergar with this racial trait can use dust of twilight once per day as a spell-like ability, using their character level as their caster level. This racial trait replaces the invisibility spell-like ability.",
 				"",
 				"Replaces Spell-Like Abilities",
 				"",
@@ -3502,7 +3502,7 @@
 					"display_name": "Twilight-Touched",
 					"description": [
 						"Source [Monster Codex pg. 44](source:Monster Codex)",
-						"While most duergar have the power to become invisible, a few are instead able to extinguish the light around them. Duergar with this racial trait can use dust of twilight (Pathfinder RPG Advanced Player's Guide 217) once per day as a spell-like ability, using their character level as their caster level. This racial trait replaces the invisibility spell-like ability."
+						"While most duergar have the power to become invisible, a few are instead able to extinguish the light around them. Duergar with this racial trait can use dust of twilight once per day as a spell-like ability, using their character level as their caster level. This racial trait replaces the invisibility spell-like ability."
 					],
 					"replaces": [
 						"Invisibility Spell Like Ability"
@@ -5016,7 +5016,7 @@
 				"",
 				"Blightborn",
 				"Source [Horror Adventures pg. 38](source:Horror Adventures)",
-				"Elves from cursed lands and domains of evil develop resistance to foul influences. They gain a +2 racial bonus on saving throws against necromancy spells and spelllike abilities and spells and spell-like abilities with the curse descriptor, as well as on saving throws to remove temporary negative levels. This racial trait replaces elven immunities.",
+				"Elves from cursed lands and domains of evil develop resistance to foul influences. They gain a +2 racial bonus on saving throws against necromancy spells and spell-like abilities and spells and spell-like abilities with the curse descriptor, as well as on saving throws to remove temporary negative levels. This racial trait replaces elven immunities.",
 				"",
 				"Dreamspeaker",
 				"Source [Advanced Race Guide pg. 22](source:Advanced Race Guide), [Advanced Player's Guide pg. 13](source:Advanced Player's Guide)",
@@ -5174,7 +5174,7 @@
 				"",
 				"Fey Magic",
 				"Source [Heroes of the Wild pg. 5](source:Heroes of the Wild)",
-				"The character has a mystic connection to one terrain type, selected from the ranger's favored terrain list. The character selects three 0-level druid spells and one 1st-level druid spell. If the character has a Charisma score of 11 or higher, when in the selected terrain, she gains these spells as spell-like abilities that can be cast once per day. The caster level for these effects is equal to the user's character level. The DC for the spelllike abilities is equal to 10 + the spell's level + the user's Charisma modifier. These spells are treated as being from a fey source for the purposes of the druid's resist nature's lure class feature and similar abilities.",
+				"The character has a mystic connection to one terrain type, selected from the ranger's favored terrain list. The character selects three 0-level druid spells and one 1st-level druid spell. If the character has a Charisma score of 11 or higher, when in the selected terrain, she gains these spells as spell-like abilities that can be cast once per day. The caster level for these effects is equal to the user's character level. The DC for the spell-like abilities is equal to 10 + the spell's level + the user's Charisma modifier. These spells are treated as being from a fey source for the purposes of the druid's resist nature's lure class feature and similar abilities.",
 				"",
 				"A dwarf can take this trait in place of greed and stonecunning. An elf, half-elf, or half ling can take this trait in place of keen senses. A gnome can take this trait in place of obsessive. A half-orc can take it in place of orc ferocity. A human can take it in place of skilled. A human who replaces skilled with fey magic also gains fey thoughts and low-light vision.",
 				"",
@@ -5455,7 +5455,7 @@
 					"name": "Blightborn",
 					"description": [
 						"Source [Horror Adventures pg. 38](source:Horror Adventures)",
-						"Elves from cursed lands and domains of evil develop resistance to foul influences. They gain a +2 racial bonus on saving throws against necromancy spells and spelllike abilities and spells and spell-like abilities with the curse descriptor, as well as on saving throws to remove temporary negative levels. This racial trait replaces elven immunities."
+						"Elves from cursed lands and domains of evil develop resistance to foul influences. They gain a +2 racial bonus on saving throws against necromancy spells and spell-like abilities and spells and spell-like abilities with the curse descriptor, as well as on saving throws to remove temporary negative levels. This racial trait replaces elven immunities."
 					],
 					"replaces": [
 						"Elven Immunities"
@@ -5812,7 +5812,7 @@
 					"name": "Fey Magic",
 					"description": [
 						"Source [Heroes of the Wild pg. 5](source:Heroes of the Wild)",
-						"The character has a mystic connection to one terrain type, selected from the ranger's favored terrain list. The character selects three 0-level druid spells and one 1st-level druid spell. If the character has a Charisma score of 11 or higher, when in the selected terrain, she gains these spells as spell-like abilities that can be cast once per day. The caster level for these effects is equal to the user's character level. The DC for the spelllike abilities is equal to 10 + the spell's level + the user's Charisma modifier. These spells are treated as being from a fey source for the purposes of the druid's resist nature's lure class feature and similar abilities."
+						"The character has a mystic connection to one terrain type, selected from the ranger's favored terrain list. The character selects three 0-level druid spells and one 1st-level druid spell. If the character has a Charisma score of 11 or higher, when in the selected terrain, she gains these spells as spell-like abilities that can be cast once per day. The caster level for these effects is equal to the user's character level. The DC for the spell-like abilities is equal to 10 + the spell's level + the user's Charisma modifier. These spells are treated as being from a fey source for the purposes of the druid's resist nature's lure class feature and similar abilities."
 					],
 					"replaces": [
 						"Keen Senses"
@@ -7207,7 +7207,7 @@
 				"",
 				"Spelleater",
 				"Source [Ultimate Wilderness pg. 16](source:Ultimate Wilderness)",
-				"Ghorans were originally created to survive and thrive in a magic-blasted wasteland, and over the centuries some ghorans have adapted greater abilities to overcome magic in general. Once per day, the ghoran can cast dispel magic as a spell-like ability, with a caster level equal to the ghoran's character level. If the ghoran's favored class is a spellcasting class, the ghoran gains a +2 racial bonus on dispel checks (Pathfinder RPG Core Rulebook 272). This replaces past-life knowledge and nature magic.",
+				"Ghorans were originally created to survive and thrive in a magic-blasted wasteland, and over the centuries some ghorans have adapted greater abilities to overcome magic in general. Once per day, the ghoran can cast dispel magic as a spell-like ability, with a caster level equal to the ghoran's character level. If the ghoran's favored class is a spellcasting class, the ghoran gains a +2 racial bonus on dispel checks. This replaces past-life knowledge and nature magic.",
 				"",
 				"Replaces Seed; Nature Magic",
 				"",
@@ -7376,7 +7376,7 @@
 					"name": "Spelleater",
 					"description": [
 						"Source [Ultimate Wilderness pg. 16](source:Ultimate Wilderness)",
-						"Ghorans were originally created to survive and thrive in a magic-blasted wasteland, and over the centuries some ghorans have adapted greater abilities to overcome magic in general. Once per day, the ghoran can cast dispel magic as a spell-like ability, with a caster level equal to the ghoran's character level. If the ghoran's favored class is a spellcasting class, the ghoran gains a +2 racial bonus on dispel checks (Pathfinder RPG Core Rulebook 272). This replaces past-life knowledge and nature magic."
+						"Ghorans were originally created to survive and thrive in a magic-blasted wasteland, and over the centuries some ghorans have adapted greater abilities to overcome magic in general. Once per day, the ghoran can cast dispel magic as a spell-like ability, with a caster level equal to the ghoran's character level. If the ghoran's favored class is a spellcasting class, the ghoran gains a +2 racial bonus on dispel checks. This replaces past-life knowledge and nature magic."
 					],
 					"replaces": [
 						"Past Life Knowledge",
@@ -7714,7 +7714,7 @@
 				"First World Gnomes",
 				"",
 				"Source [Heroes from the Fringe pg. 16](source:Heroes from the Fringe)",
-				"The gnomes of Golarion are immigrants from the First World, the primordial realm of the fey. While Golarion's gnomes have had generations to adapt to the realities of the Material Plane, many gnomes remain in the First World to this day. In addition to the First World creature template (Pathfinder Campaign Setting: First World, Realm of the Fey 57), most First World gnomes have the bond to the land alternate racial trait, as well as the fey fortitude and fey magic traits listed below.",
+				"The gnomes of Golarion are immigrants from the First World, the primordial realm of the fey. While Golarion's gnomes have had generations to adapt to the realities of the Material Plane, many gnomes remain in the First World to this day. In addition to the First World creature template, most First World gnomes have the bond to the land alternate racial trait, as well as the fey fortitude and fey magic traits listed below.",
 				"",
 				"Gear Gnomes",
 				"",
@@ -8114,7 +8114,7 @@
 					"name": "First World Gnomes",
 					"description": [
 						"Source [Heroes from the Fringe pg. 16](source:Heroes from the Fringe)",
-						"The gnomes of Golarion are immigrants from the First World, the primordial realm of the fey. While Golarion's gnomes have had generations to adapt to the realities of the Material Plane, many gnomes remain in the First World to this day. In addition to the First World creature template (Pathfinder Campaign Setting: First World, Realm of the Fey 57), most First World gnomes have the bond to the land alternate racial trait, as well as the fey fortitude and fey magic traits listed below."
+						"The gnomes of Golarion are immigrants from the First World, the primordial realm of the fey. While Golarion's gnomes have had generations to adapt to the realities of the Material Plane, many gnomes remain in the First World to this day. In addition to the First World creature template, most First World gnomes have the bond to the land alternate racial trait, as well as the fey fortitude and fey magic traits listed below."
 					]
 				},
 				{
@@ -9032,7 +9032,7 @@
 			"description": [
 				"Source [Blood of the Sea pg. 17](source:Blood of the Sea)",
 				"Monster Entry [Link](monster:Link)",
-				"A grindylow (Pathfinder RPG Bestiary 2 148) looks like a widemouthed goblin from the waist up and a writhing, slimy octopus from the waist down. They have deep-green skin, gray or green tentacles, and mouths full of sharp teeth. Grindylows prefer to attack in packs, making them more dangerous than they appear individually.",
+				"A grindylow looks like a widemouthed goblin from the waist up and a writhing, slimy octopus from the waist down. They have deep-green skin, gray or green tentacles, and mouths full of sharp teeth. Grindylows prefer to attack in packs, making them more dangerous than they appear individually.",
 				"Like goblins, grindylows have a tendency to act first and think later, which might result in a grindylow getting lost or separated from its tribe. Although most grindylows simply continue their agenda of trickery and murder when left alone, exceptional grindylows might decide to pursue some greater goal and take up the life of an adventurer.",
 				"Grindylow Racial Traits",
 				"Player character grindylows have the following racial traits.",
@@ -9496,7 +9496,7 @@
 				"",
 				"Starchild",
 				"Source [Horror Adventures pg. 39](source:Horror Adventures)",
-				"Some half-elves descend from elves who are not from this world, but rather visitors from another world, plane, or dimension. Half-elves with this trait gain Psychic Sensitivity (Occult Adventures 138) as a bonus feat at 1st level. This racial trait replaces adaptability.",
+				"Some half-elves descend from elves who are not from this world, but rather visitors from another world, plane, or dimension. Half-elves with this trait gain Psychic Sensitivity as a bonus feat at 1st level. This racial trait replaces adaptability.",
 				"",
 				"Voice in the Darkness",
 				"Source [Blood of Shadows pg. 5](source:Blood of Shadows)",
@@ -9566,7 +9566,7 @@
 				"",
 				"Dreamer",
 				"Source [Horror Adventures pg. 39](source:Horror Adventures)",
-				"Half-elves with this trait gain a +2 racial saving throw bonus against illusion spells and effects. In addition, when entering a dreamscape in a lucid body (Pathfinder RPG Occult Adventures 241), a half-elf with this racial trait treats her Charisma score as 2 points higher for the purpose of effects related to the Dimension of Dreams. This racial trait replaces elven immunities.",
+				"Half-elves with this trait gain a +2 racial saving throw bonus against illusion spells and effects. In addition, when entering a dreamscape in a lucid body, a half-elf with this racial trait treats her Charisma score as 2 points higher for the purpose of effects related to the Dimension of Dreams. This racial trait replaces elven immunities.",
 				"",
 				"Shadowhunter",
 				"Source [Blood of Shadows pg. 5](source:Blood of Shadows)",
@@ -9594,7 +9594,7 @@
 				"",
 				"Psychic Sensitivity",
 				"Source [Blood of Shadows pg. 15](source:Blood of Shadows)",
-				"The Darklands is full of strange energies, and the drow or half-drow who live there practice bloody rituals in exchange for favor and power. Drow or half-elves with this trait gain the Psychic Sensitivity feat (Pathfinder Roleplaying Game Occult Adventures 138), gaining access to occult skill unlocks normally only available to psychic spellcasters. This racial trait replaces keen senses for drow and half-elves and drow immunities for drow or elven immunities for half-elves.",
+				"The Darklands is full of strange energies, and the drow or half-drow who live there practice bloody rituals in exchange for favor and power. Drow or half-elves with this trait gain the Psychic Sensitivity feat, gaining access to occult skill unlocks normally only available to psychic spellcasters. This racial trait replaces keen senses for drow and half-elves and drow immunities for drow or elven immunities for half-elves.",
 				"",
 				"Replaces Elven Immunities, Multitalented",
 				"",
@@ -9979,7 +9979,7 @@
 					"name": "Starchild",
 					"description": [
 						"Source [Horror Adventures pg. 39](source:Horror Adventures)",
-						"Some half-elves descend from elves who are not from this world, but rather visitors from another world, plane, or dimension. Half-elves with this trait gain Psychic Sensitivity (Occult Adventures 138) as a bonus feat at 1st level. This racial trait replaces adaptability."
+						"Some half-elves descend from elves who are not from this world, but rather visitors from another world, plane, or dimension. Half-elves with this trait gain Psychic Sensitivity as a bonus feat at 1st level. This racial trait replaces adaptability."
 					],
 					"replaces": [
 						"Adaptability"
@@ -10132,7 +10132,7 @@
 					"name": "Dreamer",
 					"description": [
 						"Source [Horror Adventures pg. 39](source:Horror Adventures)",
-						"Half-elves with this trait gain a +2 racial saving throw bonus against illusion spells and effects. In addition, when entering a dreamscape in a lucid body (Pathfinder RPG Occult Adventures 241), a half-elf with this racial trait treats her Charisma score as 2 points higher for the purpose of effects related to the Dimension of Dreams. This racial trait replaces elven immunities."
+						"Half-elves with this trait gain a +2 racial saving throw bonus against illusion spells and effects. In addition, when entering a dreamscape in a lucid body, a half-elf with this racial trait treats her Charisma score as 2 points higher for the purpose of effects related to the Dimension of Dreams. This racial trait replaces elven immunities."
 					],
 					"replaces": [
 						"Elven Immunities"
@@ -10184,7 +10184,7 @@
 					"name": "Psychic Sensitivity",
 					"description": [
 						"Source [Blood of Shadows pg. 15](source:Blood of Shadows)",
-						"The Darklands is full of strange energies, and the drow or half-drow who live there practice bloody rituals in exchange for favor and power. Drow or half-elves with this trait gain the Psychic Sensitivity feat (Pathfinder Roleplaying Game Occult Adventures 138), gaining access to occult skill unlocks normally only available to psychic spellcasters. This racial trait replaces keen senses for drow and half-elves and drow immunities for drow or elven immunities for half-elves."
+						"The Darklands is full of strange energies, and the drow or half-drow who live there practice bloody rituals in exchange for favor and power. Drow or half-elves with this trait gain the Psychic Sensitivity feat, gaining access to occult skill unlocks normally only available to psychic spellcasters. This racial trait replaces keen senses for drow and half-elves and drow immunities for drow or elven immunities for half-elves."
 					],
 					"replaces": [
 						"Elven Immunities",
@@ -12876,7 +12876,7 @@
 				"",
 				"Psychic Defense",
 				"Source [Horror Adventures pg. 41](source:Horror Adventures)",
-				"Humans from cultures steeped in the occult sometimes train their minds to resist outside influence. They gain a +2 racial bonus on saving throws against psychic spells and spell-like abilities, including those that originate from the psychic magic ability (Pathfinder RPG Bestiary 5 297). This racial trait replaces the bonus feat trait.",
+				"Humans from cultures steeped in the occult sometimes train their minds to resist outside influence. They gain a +2 racial bonus on saving throws against psychic spells and spell-like abilities, including those that originate from the psychic magic ability. This racial trait replaces the bonus feat trait.",
 				"",
 				"Rationalize",
 				"Source [Horror Adventures pg. 41](source:Horror Adventures)",
@@ -12888,7 +12888,7 @@
 				"",
 				"Self-Made Fate",
 				"Source [Inner Sea Races pg. 214](source:Inner Sea Races)",
-				"Some humans build nations that deny the importance of gods and divine magic, and those raised to avoid divine influence (mostly people of Bachuan, Druma, Rahadoum, or Touvette) develop a knack for defying divine magic. They gain a +2 racial bonus on saving throws against divine spells and spelllike abilities, as well as the spells and spell-like abilities of aeons, psychopomps, and outsiders with an alignment subtype. This racial trait replaces the bonus feat trait.",
+				"Some humans build nations that deny the importance of gods and divine magic, and those raised to avoid divine influence (mostly people of Bachuan, Druma, Rahadoum, or Touvette) develop a knack for defying divine magic. They gain a +2 racial bonus on saving throws against divine spells and spell-like abilities, as well as the spells and spell-like abilities of aeons, psychopomps, and outsiders with an alignment subtype. This racial trait replaces the bonus feat trait.",
 				"",
 				"Shadowhunter",
 				"Source [Blood of Shadows pg. 5](source:Blood of Shadows)",
@@ -13053,7 +13053,7 @@
 				"Mesmerist ([Occult Adventures pg. 85](source:Occult Adventures)): Increase the mesmerist's towering ego bonus by 1/3 point (to a maximum increase of +2).",
 				"Monk ([Advanced Race Guide pg. 73](source:Advanced Race Guide), [Advanced Player's Guide pg. 23](source:Advanced Player's Guide)): Add +1/4 point to the monk's ki pool.",
 				"Occultist ([Occult Adventures pg. 85](source:Occult Adventures)): Gain 1/6 of a new focus power.",
-				"Occultist ([Horror Adventures pg. 41](source:Horror Adventures)): Add a +1/3 bonus on any skill check attempted as a part of an occult ritual (Occult Adventures 208).",
+				"Occultist ([Horror Adventures pg. 41](source:Horror Adventures)): Add a +1/3 bonus on any skill check attempted as a part of an occult ritual.",
 				"Oracle ([Advanced Race Guide pg. 73](source:Advanced Race Guide), [Advanced Player's Guide pg. 23](source:Advanced Player's Guide)): Add one spell known from the oracle spell list. This spell must be at least one level below the highest spell level the oracle can cast.",
 				"Paladin ([Advanced Race Guide pg. 73](source:Advanced Race Guide), [Advanced Player's Guide pg. 23](source:Advanced Player's Guide)): Add +1 to the paladin's energy resistance to one kind of energy (maximum +10).",
 				"Psychic ([Occult Adventures pg. 85](source:Occult Adventures)): Add one spell known from the psychic spell list. This spell must be at least 1 level lower than the highest spell level the psychic can cast.",
@@ -13272,7 +13272,7 @@
 					"name": "Psychic Defense",
 					"description": [
 						"Source [Horror Adventures pg. 41](source:Horror Adventures)",
-						"Humans from cultures steeped in the occult sometimes train their minds to resist outside influence. They gain a +2 racial bonus on saving throws against psychic spells and spell-like abilities, including those that originate from the psychic magic ability (Pathfinder RPG Bestiary 5 297). This racial trait replaces the bonus feat trait."
+						"Humans from cultures steeped in the occult sometimes train their minds to resist outside influence. They gain a +2 racial bonus on saving throws against psychic spells and spell-like abilities, including those that originate from the psychic magic ability. This racial trait replaces the bonus feat trait."
 					],
 					"replaces": [
 						"Bonus Feat"
@@ -13303,7 +13303,7 @@
 					"display_name": "Self-Made Fate",
 					"description": [
 						"Source [Inner Sea Races pg. 214](source:Inner Sea Races)",
-						"Some humans build nations that deny the importance of gods and divine magic, and those raised to avoid divine influence (mostly people of Bachuan, Druma, Rahadoum, or Touvette) develop a knack for defying divine magic. They gain a +2 racial bonus on saving throws against divine spells and spelllike abilities, as well as the spells and spell-like abilities of aeons, psychopomps, and outsiders with an alignment subtype. This racial trait replaces the bonus feat trait."
+						"Some humans build nations that deny the importance of gods and divine magic, and those raised to avoid divine influence (mostly people of Bachuan, Druma, Rahadoum, or Touvette) develop a knack for defying divine magic. They gain a +2 racial bonus on saving throws against divine spells and spell-like abilities, as well as the spells and spell-like abilities of aeons, psychopomps, and outsiders with an alignment subtype. This racial trait replaces the bonus feat trait."
 					],
 					"replaces": [
 						"Bonus Feat"
@@ -13639,7 +13639,7 @@
 				"Mesmerist ([Occult Adventures pg. 85](source:Occult Adventures)): Increase the mesmerist's towering ego bonus by 1/3 point (to a maximum increase of +2).",
 				"Monk ([Advanced Race Guide pg. 73](source:Advanced Race Guide), [Advanced Player's Guide pg. 23](source:Advanced Player's Guide)): Add +1/4 point to the monk's ki pool.",
 				"Occultist ([Occult Adventures pg. 85](source:Occult Adventures)): Gain 1/6 of a new focus power.",
-				"Occultist ([Horror Adventures pg. 41](source:Horror Adventures)): Add a +1/3 bonus on any skill check attempted as a part of an occult ritual (Occult Adventures 208).",
+				"Occultist ([Horror Adventures pg. 41](source:Horror Adventures)): Add a +1/3 bonus on any skill check attempted as a part of an occult ritual.",
 				"Oracle ([Advanced Race Guide pg. 73](source:Advanced Race Guide), [Advanced Player's Guide pg. 23](source:Advanced Player's Guide)): Add one spell known from the oracle spell list. This spell must be at least one level below the highest spell level the oracle can cast.",
 				"Paladin ([Advanced Race Guide pg. 73](source:Advanced Race Guide), [Advanced Player's Guide pg. 23](source:Advanced Player's Guide)): Add +1 to the paladin's energy resistance to one kind of energy (maximum +10).",
 				"Psychic ([Occult Adventures pg. 85](source:Occult Adventures)): Add one spell known from the psychic spell list. This spell must be at least 1 level lower than the highest spell level the psychic can cast.",
@@ -14257,7 +14257,7 @@
 				"",
 				"Superior Shapeshifter",
 				"Source [Blood of the Beast pg. 12](source:Blood of the Beast)",
-				"Some talented kitsune take more naturally to shapeshifting than magic, and develop that gift. They gain Fox Shape (Pathfinder Player Companion: Dragon Empires Primer 5) as a bonus feat at 1st level, ignoring its prerequisites. This racial trait replaces kitsune magic.",
+				"Some talented kitsune take more naturally to shapeshifting than magic, and develop that gift. They gain Fox Shape as a bonus feat at 1st level, ignoring its prerequisites. This racial trait replaces kitsune magic.",
 				"",
 				"Kitsune Favored Class Options",
 				"",
@@ -14414,7 +14414,7 @@
 					"name": "Superior Shapeshifter",
 					"description": [
 						"Source [Blood of the Beast pg. 12](source:Blood of the Beast)",
-						"Some talented kitsune take more naturally to shapeshifting than magic, and develop that gift. They gain Fox Shape (Pathfinder Player Companion: Dragon Empires Primer 5) as a bonus feat at 1st level, ignoring its prerequisites. This racial trait replaces kitsune magic."
+						"Some talented kitsune take more naturally to shapeshifting than magic, and develop that gift. They gain Fox Shape as a bonus feat at 1st level, ignoring its prerequisites. This racial trait replaces kitsune magic."
 					],
 					"replaces": [
 						"Kitsune Magic"
@@ -14478,7 +14478,7 @@
 				"",
 				"Dragon Affinity",
 				"Source [Inner Sea Races pg. 216](source:Inner Sea Races)",
-				"Kobold sorcerers with the draconic bloodline or kobold bloodline (Advanced Race Guide 134) treat their Charisma scores as 2 points higher for all sorcerer spells and class abilities. This racial trait replaces the armor trait.",
+				"Kobold sorcerers with the draconic bloodline or kobold bloodline treat their Charisma scores as 2 points higher for all sorcerer spells and class abilities. This racial trait replaces the armor trait.",
 				"",
 				"Dragonmaw",
 				"Source [Kobolds of Golarion pg. 7](source:Kobolds of Golarion)",
@@ -14629,7 +14629,7 @@
 					"name": "Dragon Affinity",
 					"description": [
 						"Source [Inner Sea Races pg. 216](source:Inner Sea Races)",
-						"Kobold sorcerers with the draconic bloodline or kobold bloodline (Advanced Race Guide 134) treat their Charisma scores as 2 points higher for all sorcerer spells and class abilities. This racial trait replaces the armor trait."
+						"Kobold sorcerers with the draconic bloodline or kobold bloodline treat their Charisma scores as 2 points higher for all sorcerer spells and class abilities. This racial trait replaces the armor trait."
 					],
 					"replaces": [
 						"Armor"
@@ -15553,7 +15553,7 @@
 				"",
 				"Serpent Affinity",
 				"Source [Inner Sea Races pg. 216](source:Inner Sea Races)",
-				"Nagaji clerics with this racial trait and the Scalykind domain (Pathfinder Campaign Setting: The Inner Sea World Guide 216) use their domain powers and spells at +1 caster level. This increase is a racial bonus. This racial trait replaces resistant.",
+				"Nagaji clerics with this racial trait and the Scalykind domain use their domain powers and spells at +1 caster level. This increase is a racial bonus. This racial trait replaces resistant.",
 				"",
 				"Replaces Serpent's Sense",
 				"",
@@ -15578,7 +15578,7 @@
 				"Slayer ([Blood of the Beast pg. 16](source:Blood of the Beast)): Gain 1/6 of a new slayer talent.",
 				"Sorcerer ([Blood of the Beast pg. 16](source:Blood of the Beast)): Add 1/2 to the sorcerer's caster level when determining the duration of transmutation spells she casts that target the sorcerer or spells she casts with the poison descriptor.",
 				"Summoner ([Advanced Race Guide pg. 196](source:Advanced Race Guide)): Add +1 hit point to the summoner's eidolon.",
-				"Warpriest ([Blood of the Beast pg. 16](source:Blood of the Beast)): Add 1/2 to the number of times per day the warpriest can use blessings, although he can use these additional blessings only for Charm, Magic, Nobility, Rune, or Scalykind (Pathfinder Player Companion: Advanced Class Origins 25) blessings."
+				"Warpriest ([Blood of the Beast pg. 16](source:Blood of the Beast)): Add 1/2 to the number of times per day the warpriest can use blessings, although he can use these additional blessings only for Charm, Magic, Nobility, Rune, or Scalykind blessings."
 			],
 			"traits": [
 				{
@@ -15643,7 +15643,7 @@
 					"name": "Serpent Affinity",
 					"description": [
 						"Source [Inner Sea Races pg. 216](source:Inner Sea Races)",
-						"Nagaji clerics with this racial trait and the Scalykind domain (Pathfinder Campaign Setting: The Inner Sea World Guide 216) use their domain powers and spells at +1 caster level. This increase is a racial bonus. This racial trait replaces resistant."
+						"Nagaji clerics with this racial trait and the Scalykind domain use their domain powers and spells at +1 caster level. This increase is a racial bonus. This racial trait replaces resistant."
 					],
 					"replaces": [
 						"Resistant"
@@ -15677,7 +15677,7 @@
 				"Slayer ([Blood of the Beast pg. 16](source:Blood of the Beast)): Gain 1/6 of a new slayer talent.",
 				"Sorcerer ([Blood of the Beast pg. 16](source:Blood of the Beast)): Add 1/2 to the sorcerer's caster level when determining the duration of transmutation spells she casts that target the sorcerer or spells she casts with the poison descriptor.",
 				"Summoner ([Advanced Race Guide pg. 196](source:Advanced Race Guide)): Add +1 hit point to the summoner's eidolon.",
-				"Warpriest ([Blood of the Beast pg. 16](source:Blood of the Beast)): Add 1/2 to the number of times per day the warpriest can use blessings, although he can use these additional blessings only for Charm, Magic, Nobility, Rune, or Scalykind (Pathfinder Player Companion: Advanced Class Origins 25) blessings."
+				"Warpriest ([Blood of the Beast pg. 16](source:Blood of the Beast)): Add 1/2 to the number of times per day the warpriest can use blessings, although he can use these additional blessings only for Charm, Magic, Nobility, Rune, or Scalykind blessings."
 			],
 			"short_description": "It is believed that nagas created the nagaji as a race of servants and that the nagaji worship their creators as living gods. Due to their reptilian nature and strange mannerisms, these strange, scaly folk inspire fear and wonder in others not of their kind. They are resistant to both poison and mind-affecting magic."
 		},
@@ -16566,7 +16566,7 @@
 				"Druid ([Advanced Race Guide pg. 151](source:Advanced Race Guide)): Add a +1 bonus on wild empathy checks made to influence animals and magical beasts that live underground.",
 				"Fighter ([Advanced Race Guide pg. 151](source:Advanced Race Guide)): Add +1 to the fighter's CMD when resisting a bull rush or grapple attempt.",
 				"Gunslinger ([Advanced Race Guide pg. 151](source:Advanced Race Guide)): Add a +1/2 bonus on initiative checks when the gunslinger has at least 1 grit point.",
-				"Hunter ([Blood of the Beast pg. 20](source:Blood of the Beast)): Add 1 skill rank to the hunter's badger, dire rat, or riding rat (Pathfinder RPG Monster Codex 177) animal companion.",
+				"Hunter ([Blood of the Beast pg. 20](source:Blood of the Beast)): Add 1 skill rank to the hunter's badger, dire rat, or riding rat animal companion.",
 				"Inquisitor ([Blood of the Beast pg. 20](source:Blood of the Beast)): Add 1/2 to Sense Motive checks and Knowledge (dungeoneering) checks to identify creatures.",
 				"Investigator ([Blood of the Beast pg. 20](source:Blood of the Beast)): Add 1 to the bonus provided to a single skill (maximum +2) by inspiration. This skill must be one to which the investigator can already apply inspiration. The investigator can select a different skill at each level.",
 				"Mesmerist ([Blood of the Beast pg. 20](source:Blood of the Beast)): Gain a +1 bonus on concentration checks to maintain the mesmerist's hypnotic stare.",
@@ -16743,7 +16743,7 @@
 				"Druid ([Advanced Race Guide pg. 151](source:Advanced Race Guide)): Add a +1 bonus on wild empathy checks made to influence animals and magical beasts that live underground.",
 				"Fighter ([Advanced Race Guide pg. 151](source:Advanced Race Guide)): Add +1 to the fighter's CMD when resisting a bull rush or grapple attempt.",
 				"Gunslinger ([Advanced Race Guide pg. 151](source:Advanced Race Guide)): Add a +1/2 bonus on initiative checks when the gunslinger has at least 1 grit point.",
-				"Hunter ([Blood of the Beast pg. 20](source:Blood of the Beast)): Add 1 skill rank to the hunter's badger, dire rat, or riding rat (Pathfinder RPG Monster Codex 177) animal companion.",
+				"Hunter ([Blood of the Beast pg. 20](source:Blood of the Beast)): Add 1 skill rank to the hunter's badger, dire rat, or riding rat animal companion.",
 				"Inquisitor ([Blood of the Beast pg. 20](source:Blood of the Beast)): Add 1/2 to Sense Motive checks and Knowledge (dungeoneering) checks to identify creatures.",
 				"Investigator ([Blood of the Beast pg. 20](source:Blood of the Beast)): Add 1 to the bonus provided to a single skill (maximum +2) by inspiration. This skill must be one to which the investigator can already apply inspiration. The investigator can select a different skill at each level.",
 				"Mesmerist ([Blood of the Beast pg. 20](source:Blood of the Beast)): Gain a +1 bonus on concentration checks to maintain the mesmerist's hypnotic stare.",
@@ -16943,7 +16943,7 @@
 			"description": [
 				"Source [Blood of the Sea pg. 17](source:Blood of the Sea)",
 				"Monster Entry [Link](monster:Link)",
-				"Sahuagin (Pathfinder RPG Bestiary 239) are well known and feared among aquatic races. These piscine predators are cruel and vicious, and they see all other creatures as either competitors or prey. The sole exception is the shark- sahuagin are rarely found without semidomesticated sharks nearby, as they feel a close bond with these other predators of the sea and both creatures are used to hunting ruthlessly alongside each other.",
+				"Sahuagin are well known and feared among aquatic races. These piscine predators are cruel and vicious, and they see all other creatures as either competitors or prey. The sole exception is the shark- sahuagin are rarely found without semidomesticated sharks nearby, as they feel a close bond with these other predators of the sea and both creatures are used to hunting ruthlessly alongside each other.",
 				"Although sahuagin usually gather together in tight-knit tribes, an individual sahuagin might decide to pursue glory on her own, perhaps seeking a powerful artifact or a richer hunting ground.",
 				"Sahuagin Racial Traits",
 				"Player character sahuagin have the following racial traits.",
@@ -19438,7 +19438,7 @@
 				"",
 				"Pass for Human",
 				"Source [Inner Sea Races pg. 217](source:Inner Sea Races)",
-				"Discrimination against tief lings with horrifically fiendish features is so intense that even tieflings look up to those precious few of their kind who can pass as human. These tieflings have otherworldly features that are so subtle, they aren't often noticed unless the tiefling points them out (for example, eyes that flash red in the throes of passion, or fingernails that are naturally hard and pointed). Such a tiefling doesn't need to succeed at a Disguise check to appear to be human and count as humanoid (human) as well as outsider (native) for all purposes (such as humanoid-affecting spells like charm person or enlarge person). The tiefling does not automatically gain his associated outsider language (but may select it as a bonus language if his Intelligence score is high enough), and he may not select other racial traits that would grant him obviously fiendish features (such as the fiendish sprinter, maw or claw, prehensile tail, scaled skin, or vestigial wings alternate racial traits listed in the Advanced Race Guide). This ability alters the tiefling's type, subtype, and languages.",
+				"Discrimination against tieflings with horrifically fiendish features is so intense that even tieflings look up to those precious few of their kind who can pass as human. These tieflings have otherworldly features that are so subtle, they aren't often noticed unless the tiefling points them out (for example, eyes that flash red in the throes of passion, or fingernails that are naturally hard and pointed). Such a tiefling doesn't need to succeed at a Disguise check to appear to be human and count as humanoid (human) as well as outsider (native) for all purposes (such as humanoid-affecting spells like charm person or enlarge person). The tiefling does not automatically gain his associated outsider language (but may select it as a bonus language if his Intelligence score is high enough), and he may not select other racial traits that would grant him obviously fiendish features (such as the fiendish sprinter, maw or claw, prehensile tail, scaled skin, or vestigial wings alternate racial traits listed in the Advanced Race Guide). This ability alters the tiefling's type, subtype, and languages.",
 				"",
 				"Replaces Skilled",
 				"",
@@ -19468,7 +19468,7 @@
 				"",
 				"Light from the Darkness",
 				"Source [Inner Sea Races pg. 217](source:Inner Sea Races)",
-				"Tieflings who deny the evil of their heritage to go on to become heroes refuse to use the dark magic of their blood, but their struggle grants them uncanny resilience against evil's touch. As long as they retain a good alignment, they gain the aasimar's incorruptible alternate racial trait (Advanced Race Guide 85). This racial trait replaces the spell-like ability racial trait.",
+				"Tieflings who deny the evil of their heritage to go on to become heroes refuse to use the dark magic of their blood, but their struggle grants them uncanny resilience against evil's touch. As long as they retain a good alignment, they gain the aasimar's incorruptible alternate racial trait. This racial trait replaces the spell-like ability racial trait.",
 				"",
 				"Maw or Claw",
 				"Source [Advanced Race Guide pg. 169](source:Advanced Race Guide)",
@@ -19478,7 +19478,7 @@
 				"Source [Blood of Fiends pg. 16](source:Blood of Fiends)",
 				"Some tieflings are blessed or cursed with unusual abilities. GMs may customize their tiefling NPCs using the following chart, or allow their players to do so by rolling a d%. Players with a particular character concept in mind may consult their GM if they want to select a specific variant ability.",
 				"",
-				"The abilities presented here replace a tiefling's spell-like ability racial trait. Any abilities that grant spells or spelllike abilities are treated as having a caster level equal to the tiefling's character level.",
+				"The abilities presented here replace a tiefling's spell-like ability racial trait. Any abilities that grant spells or spell-like abilities are treated as having a caster level equal to the tiefling's character level.",
 				"| d% | Ability |",
 				"| --- | --- |",
 				"| 1 | You can animate a 1 HD skeleton, as per [animate dead](spell:animate dead), once per day as a spell-like ability. |",
@@ -19847,7 +19847,7 @@
 					"name": "Pass for Human",
 					"description": [
 						"Source [Inner Sea Races pg. 217](source:Inner Sea Races)",
-						"Discrimination against tief lings with horrifically fiendish features is so intense that even tieflings look up to those precious few of their kind who can pass as human. These tieflings have otherworldly features that are so subtle, they aren't often noticed unless the tiefling points them out (for example, eyes that flash red in the throes of passion, or fingernails that are naturally hard and pointed). Such a tiefling doesn't need to succeed at a Disguise check to appear to be human and count as humanoid (human) as well as outsider (native) for all purposes (such as humanoid-affecting spells like charm person or enlarge person). The tiefling does not automatically gain his associated outsider language (but may select it as a bonus language if his Intelligence score is high enough), and he may not select other racial traits that would grant him obviously fiendish features (such as the fiendish sprinter, maw or claw, prehensile tail, scaled skin, or vestigial wings alternate racial traits listed in the Advanced Race Guide). This ability alters the tiefling's type, subtype, and languages."
+						"Discrimination against tieflings with horrifically fiendish features is so intense that even tieflings look up to those precious few of their kind who can pass as human. These tieflings have otherworldly features that are so subtle, they aren't often noticed unless the tiefling points them out (for example, eyes that flash red in the throes of passion, or fingernails that are naturally hard and pointed). Such a tiefling doesn't need to succeed at a Disguise check to appear to be human and count as humanoid (human) as well as outsider (native) for all purposes (such as humanoid-affecting spells like charm person or enlarge person). The tiefling does not automatically gain his associated outsider language (but may select it as a bonus language if his Intelligence score is high enough), and he may not select other racial traits that would grant him obviously fiendish features (such as the fiendish sprinter, maw or claw, prehensile tail, scaled skin, or vestigial wings alternate racial traits listed in the Advanced Race Guide). This ability alters the tiefling's type, subtype, and languages."
 					],
 					"replaces": [
 						"Languages",
@@ -19908,7 +19908,7 @@
 					"name": "Light from the Darkness",
 					"description": [
 						"Source [Inner Sea Races pg. 217](source:Inner Sea Races)",
-						"Tieflings who deny the evil of their heritage to go on to become heroes refuse to use the dark magic of their blood, but their struggle grants them uncanny resilience against evil's touch. As long as they retain a good alignment, they gain the aasimar's incorruptible alternate racial trait (Advanced Race Guide 85). This racial trait replaces the spell-like ability racial trait."
+						"Tieflings who deny the evil of their heritage to go on to become heroes refuse to use the dark magic of their blood, but their struggle grants them uncanny resilience against evil's touch. As long as they retain a good alignment, they gain the aasimar's incorruptible alternate racial trait. This racial trait replaces the spell-like ability racial trait."
 					],
 					"replaces": [
 						"Spell Like Ability"
@@ -19929,7 +19929,7 @@
 					"description": [
 						"Source [Blood of Fiends pg. 16](source:Blood of Fiends)",
 						"Some tieflings are blessed or cursed with unusual abilities. GMs may customize their tiefling NPCs using the following chart, or allow their players to do so by rolling a d%. Players with a particular character concept in mind may consult their GM if they want to select a specific variant ability.",
-						"The abilities presented here replace a tiefling's spell-like ability racial trait. Any abilities that grant spells or spelllike abilities are treated as having a caster level equal to the tiefling's character level.",
+						"The abilities presented here replace a tiefling's spell-like ability racial trait. Any abilities that grant spells or spell-like abilities are treated as having a caster level equal to the tiefling's character level.",
 						"| d% | Ability |",
 						"| --- | --- |",
 						"| 1 | You can animate a 1 HD skeleton, as per [animate dead](spell:animate dead), once per day as a spell-like ability. |",
@@ -20914,7 +20914,7 @@
 				"**Relations:** Vine leshys are interested in learning about the cultures of many other races. Their initial attitudes when they encounter new races are based on biases from the nature spirit's past incarnations, but they evolve over time through the leshy's experiences. In unfamiliar situations, vine leshys prefer to blend in with vegetation to observe before venturing out and introducing themselves.",
 				"Consistent with the plant species from which they derive their bodies, vine leshys recognize a spectrum of genders. Some vine leshys are exclusively female or male, while many vine leshys are both. The biological features of a leshy's flowers do not necessarily indicate its gender, as the nature spirit that inhabits the leshy plays a strong role in determining the leshy's identity.",
 				"Vine leshys have an unusual relationship with other leshys, for unlike standard leshys, vine leshys are not grown to be servants. They are free-willed and individualistic creatures. Whether or not an individual vine leshy views the servitude other leshys endure as akin to slavery or as something more like an honorable tradition of service to a powerful druid depends on the vine leshy's opinion and alignment. While it's unusual for a vine leshy to take on another leshy as a minion in the traditional way, it's not unusual to see vine leshys take on sponsorship of a sort over other leshys, treating them almost as adopted children or wayward exiles in need of guidance and protection from those who would force their servitude.",
-				"**Alignment and Religion:** Vine leshys see themselves as part of the ancient cycle of nature. They care for their friends and any natural areas under their care, but rarely feel compelled toward either charity or malice. Most vine leshys are truly neutral, and they almost always have at least one neutral aspect to their alignments. Religion is not particularly important to vine leshys. Those who do find faith tend toward worship of Gozreh, a green man (Pathfinder RPG Bestiary 6 152), or one of the Eldest of the First World (see page 130), but the Green Faith is the most common philosophy followed by vine leshys.",
+				"**Alignment and Religion:** Vine leshys see themselves as part of the ancient cycle of nature. They care for their friends and any natural areas under their care, but rarely feel compelled toward either charity or malice. Most vine leshys are truly neutral, and they almost always have at least one neutral aspect to their alignments. Religion is not particularly important to vine leshys. Those who do find faith tend toward worship of Gozreh, a green man, or one of the Eldest of the First World (see page 130), but the Green Faith is the most common philosophy followed by vine leshys.",
 				"**Adventurers:** Like most leshys, vine leshys typically do not fear death. They know that if their bodies die, their spirits will return to the natural world and may someday find themselves in new bodies. This lack of fear combined with their curiosity leads them to take risks. However, they typically avoid excessively dangerous activities, as they would rather gather a story from their adventures to tell later. Vine leshys gravitate toward classes that let them use their connection to nature, such as druid and ranger.",
 				"Names: Vine leshys' names change throughout their lives. A young vine leshy typically names herself after her physical characteristics or a natural feature that she particularly enjoys. As vine leshys age, they modify their names to better reflect their personality and experiences. A leshy may even have several names that she cycles among, such as one name for each season. Most vine leshys select names that are at least two words long. Example vine leshy names include Burbling Waterfall, Lovely Triple Leaves, Masterful Sun Drinker, Snowy Pine Branches, Verdant Taleweaver, and Vibrant Tree Climber.",
 				"Growing a Vine Leshy",
@@ -21453,7 +21453,7 @@
 				"Cleric ([Blood of Shadows pg. 10](source:Blood of Shadows)): Add a +1/2 bonus to damage rolls the cleric makes when using channel energy and casting spells that deal negative energy damage or positive energy damage, including cure and inflict spells. This bonus does not apply to healing via negative energy effects or positive energy effects.",
 				"Druid ([Blood of Shadows pg. 11](source:Blood of Shadows)): Select one domain power granted at 1st level that is normally usable a number of times per day equal to 3 + the druid's Wisdom modifier. The druid adds +1/2 to the number of uses per day of that domain power. In addition, a druid that selects this bonus at 1st level can choose the Darkness domain with her natural bond ability.",
 				"Fighter ([Blood of Shadows pg. 11](source:Blood of Shadows)): Add a +1/4 bonus on Stealth checks and on weapon damage rolls against flat-footed opponents.",
-				"Kineticist ([Blood of Shadows pg. 11](source:Blood of Shadows)): Add 1/4 to the save DC of the kineticist's void infusions and wild talents (Pathfinder Player Companion: Occult Origins 6).",
+				"Kineticist ([Blood of Shadows pg. 11](source:Blood of Shadows)): Add 1/4 to the save DC of the kineticist's void infusions and wild talents.",
 				"Medium ([Blood of Shadows pg. 11](source:Blood of Shadows)): When gaining a taboo, the medium can use spirit surge without incurring influence an additional 1/4 time per day.",
 				"Monk ([Blood of Shadows pg. 11](source:Blood of Shadows)): Add 1/6 to the monk's AC bonus.",
 				"Oracle ([Advanced Race Guide pg. 210](source:Advanced Race Guide)): Add one spell known from the wizard's illusion school spell list. This spell must be at least one level below the highest spell level the oracle can cast. That spell is treated as one level higher unless it is also on the oracle spell list.",
@@ -21609,7 +21609,7 @@
 				"Cleric ([Blood of Shadows pg. 10](source:Blood of Shadows)): Add a +1/2 bonus to damage rolls the cleric makes when using channel energy and casting spells that deal negative energy damage or positive energy damage, including cure and inflict spells. This bonus does not apply to healing via negative energy effects or positive energy effects.",
 				"Druid ([Blood of Shadows pg. 11](source:Blood of Shadows)): Select one domain power granted at 1st level that is normally usable a number of times per day equal to 3 + the druid's Wisdom modifier. The druid adds +1/2 to the number of uses per day of that domain power. In addition, a druid that selects this bonus at 1st level can choose the Darkness domain with her natural bond ability.",
 				"Fighter ([Blood of Shadows pg. 11](source:Blood of Shadows)): Add a +1/4 bonus on Stealth checks and on weapon damage rolls against flat-footed opponents.",
-				"Kineticist ([Blood of Shadows pg. 11](source:Blood of Shadows)): Add 1/4 to the save DC of the kineticist's void infusions and wild talents (Pathfinder Player Companion: Occult Origins 6).",
+				"Kineticist ([Blood of Shadows pg. 11](source:Blood of Shadows)): Add 1/4 to the save DC of the kineticist's void infusions and wild talents.",
 				"Medium ([Blood of Shadows pg. 11](source:Blood of Shadows)): When gaining a taboo, the medium can use spirit surge without incurring influence an additional 1/4 time per day.",
 				"Monk ([Blood of Shadows pg. 11](source:Blood of Shadows)): Add 1/6 to the monk's AC bonus.",
 				"Oracle ([Advanced Race Guide pg. 210](source:Advanced Race Guide)): Add one spell known from the wizard's illusion school spell list. This spell must be at least one level below the highest spell level the oracle can cast. That spell is treated as one level higher unless it is also on the oracle spell list.",

@@ -265,7 +265,7 @@
 				"Slot none; Price +1 bonus; Weight -"
 			],
 			"description": [
-				"Armor with this special ability often has revolting fleshy protrusions that periodically quiver and twitch. Once per day on command, the armor fuses with the flesh of the wearer for 30 minutes or until dismissed. The armor doesn't grant any armor bonus to AC during this time, though the wearer still gains any of the armor's magic abilities. While fused with the armor, the wearer can manifest two of the following evolutions from the summoner list of eidolon evolutions (Pathfinder RPG Advanced Player's Guide 60): gills, improved natural armor, resistance, scent, slam, and swim. The wearer can't wear another suit of armor while fused with evolving armor."
+				"Armor with this special ability often has revolting fleshy protrusions that periodically quiver and twitch. Once per day on command, the armor fuses with the flesh of the wearer for 30 minutes or until dismissed. The armor doesn't grant any armor bonus to AC during this time, though the wearer still gains any of the armor's magic abilities. While fused with the armor, the wearer can manifest two of the following evolutions from the summoner list of eidolon evolutions: gills, improved natural armor, resistance, scent, slam, and swim. The wearer can't wear another suit of armor while fused with evolving armor."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, evolution surge; Price +1 bonus"
 		},
@@ -938,7 +938,7 @@
 				"Slot none; Price +2 bonus; Weight -"
 			],
 			"description": [
-				"A suit of spell dodging armor makes it more difficult for attacks from spells and spell-like abilities to hit its wearer, often physically pulling and pushing its wearer out of the way of incoming magical attacks. The wearer gains a +4 dodge bonus to AC against attack rolls from spells and spelllike abilities (including touch attacks) and the attacks of summoned creatures."
+				"A suit of spell dodging armor makes it more difficult for attacks from spells and spell-like abilities to hit its wearer, often physically pulling and pushing its wearer out of the way of incoming magical attacks. The wearer gains a +4 dodge bonus to AC against attack rolls from spells and spell-like abilities (including touch attacks) and the attacks of summoned creatures."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, mage armor; Price +2 bonus"
 		},
@@ -2903,7 +2903,7 @@
 				"Slot none; Price +1 bonus; Weight -"
 			],
 			"description": [
-				"This ability can be placed only on a corrosive or corrosive burst weapon (Pathfinder RPG Ultimate Equipment 138). When the wielder of a catalytic weapon hits a creature, the weapon triggers a devastating chemical reaction that burns the struck creature. The creature struck must succeed at a DC 15 Fortitude save, or take 1d6 points of acid damage at the start of its turn for 1d4 rounds. Successive hits with the catalytic weapon increase the duration but don't add to the damage. The creature can attempt to neutralize the reaction as a full-round action as if it were on fire (including bonuses for dropping and rolling on the ground or jumping into water). Anyone who hits a creature subject to this chemical reaction with a natural weapon or unarmed strike takes 1d6 points of acid damage."
+				"This ability can be placed only on a corrosive or corrosive burst weapon. When the wielder of a catalytic weapon hits a creature, the weapon triggers a devastating chemical reaction that burns the struck creature. The creature struck must succeed at a DC 15 Fortitude save, or take 1d6 points of acid damage at the start of its turn for 1d4 rounds. Successive hits with the catalytic weapon increase the duration but don't add to the damage. The creature can attempt to neutralize the reaction as a full-round action as if it were on fire (including bonuses for dropping and rolling on the ground or jumping into water). Anyone who hits a creature subject to this chemical reaction with a natural weapon or unarmed strike takes 1d6 points of acid damage."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, acid arrow; Price -"
 		},
@@ -2942,7 +2942,7 @@
 				"Slot weapon quality; Price +1 bonus; Weight -"
 			],
 			"description": [
-				"A conductive weapon is able to channel the energy of a spelllike or supernatural ability that relies on a melee or ranged touch attack to hit its target (such as from a cleric's domain granted power, sorcerer's bloodline power, oracle's mystery revelation, or wizard's arcane school power). When the wielder makes a successful attack of the appropriate type, he may choose to expend two uses of his magical ability to channel it through the weapon to the struck opponent, which suffers the effects of both the weapon attack and the special ability. (If the wielder has unlimited uses of a special ability, she may channel through the weapon every round.) For example, a paladin who strikes an undead opponent with her conductive greatsword can expend two uses of her lay on hands ability (a supernatural melee touch attack) to deal both greatsword damage and damage from one use of lay on hands. A given character can use this weapon special ability only once per round (even if she has several conductive weapons), and the power works only with magical abilities of the same type as the weapon (melee or ranged)."
+				"A conductive weapon is able to channel the energy of a spell-like or supernatural ability that relies on a melee or ranged touch attack to hit its target (such as from a cleric's domain granted power, sorcerer's bloodline power, oracle's mystery revelation, or wizard's arcane school power). When the wielder makes a successful attack of the appropriate type, he may choose to expend two uses of his magical ability to channel it through the weapon to the struck opponent, which suffers the effects of both the weapon attack and the special ability. (If the wielder has unlimited uses of a special ability, she may channel through the weapon every round.) For example, a paladin who strikes an undead opponent with her conductive greatsword can expend two uses of her lay on hands ability (a supernatural melee touch attack) to deal both greatsword damage and damage from one use of lay on hands. A given character can use this weapon special ability only once per round (even if she has several conductive weapons), and the power works only with magical abilities of the same type as the weapon (melee or ranged)."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, spectral hand; Price -"
 		},
@@ -3129,7 +3129,7 @@
 			],
 			"description": [
 				"A debilitating weapon has wicked ridges and gleams maliciously in any amount of light. Whenever a debilitating weapon is used to attack an opponent that is denied its Dexterity bonus to AC and hits, that opponent takes a -1 penalty on attack rolls or to its AC for 1 round (wielder's choice). Any creature that is immune to sneak attacks is immune to this penalty, and any item or ability that protects a creature from critical hits also protects a creature from the penalties imposed by a debilitating weapon. Multiple hits from multiple debilitating weapons in the same round do not increase the penalty or its duration.",
-				"If the wielder has the debilitating injury (Pathfinder RPG Pathfinder Unchained 22) class ability, this special ability increases the penalty applied by the bewildered or disoriented effects by 1."
+				"If the wielder has the debilitating injury class ability, this special ability increases the penalty applied by the bewildered or disoriented effects by 1."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, bestow curse, creator must have 5 ranks in Heal          ; Price -"
 		},
@@ -4670,7 +4670,7 @@
 				"Slot weapon quality; Price +2 bonus; Weight -"
 			],
 			"description": [
-				"An anarchic weapon is infused with the power of chaos. It makes the weapon chaotically aligned and thus bypasses the corresponding damage reduction. It deals an extra 2d6 points of damage against all creatures of lawful alignment. It bestows one permanent negative level (Core Rulebook 562) on any lawful creature attempting to wield it. The negative level remains as long as the weapon is in hand and disappears when the weapon is no longer wielded. This negative level cannot be overcome in any way (including restoration spells) while the weapon is wielded."
+				"An anarchic weapon is infused with the power of chaos. It makes the weapon chaotically aligned and thus bypasses the corresponding damage reduction. It deals an extra 2d6 points of damage against all creatures of lawful alignment. It bestows one permanent negative level on any lawful creature attempting to wield it. The negative level remains as long as the weapon is in hand and disappears when the weapon is no longer wielded. This negative level cannot be overcome in any way (including restoration spells) while the weapon is wielded."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, chaos hammer, creator must be chaotic; Price -"
 		},
@@ -4709,7 +4709,7 @@
 				"Slot weapon quality; Price +2 bonus; Weight -"
 			],
 			"description": [
-				"An axiomatic weapon is infused with lawful power. It makes the weapon law-aligned and thus bypasses the corresponding damage reduction. It deals an extra 2d6 points of damage against chaotic creatures. It bestows one permanent negative level (Core Rulebook 562) on any chaotic creature attempting to wield it. The negative level remains as long as the weapon is in hand and disappears when the weapon is no longer wielded. This negative level cannot be overcome in any way (including restoration spells) while the weapon is wielded."
+				"An axiomatic weapon is infused with lawful power. It makes the weapon law-aligned and thus bypasses the corresponding damage reduction. It deals an extra 2d6 points of damage against chaotic creatures. It bestows one permanent negative level on any chaotic creature attempting to wield it. The negative level remains as long as the weapon is in hand and disappears when the weapon is no longer wielded. This negative level cannot be overcome in any way (including restoration spells) while the weapon is wielded."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, order's wrath, creator must be lawful; Price -"
 		},
@@ -5037,7 +5037,7 @@
 				"Slot weapon quality; Price +2 bonus; Weight -"
 			],
 			"description": [
-				"An igniting weapon functions as a flaming weapon that also causes the target to catch fire (Core Rulebook 444) upon striking it with a successful critical hit. The target does not get a saving throw to avoid catching fire, but can make a save each round on its turn to put out the fire. The flaming ability must be active for the weapon to set enemies on fire."
+				"An igniting weapon functions as a flaming weapon that also causes the target to catch fire upon striking it with a successful critical hit. The target does not get a saving throw to avoid catching fire, but can make a save each round on its turn to put out the fire. The flaming ability must be active for the weapon to set enemies on fire."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, flame blade, flame strike, or fireball; Price -"
 		},
@@ -5140,7 +5140,7 @@
 				"Slot none; Price +2 bonus; Weight -"
 			],
 			"description": [
-				"This special ability can be placed only on a melee weapon. A liberating weapon grants its wielder a competence bonus equal to the weapon's enhancement bonus on Sense Motive checks, and this bonus is doubled when attempting a Sense Motive check to sense enchantment (Core Rulebook 104). This increased bonus also applies on Spellcraft checks to identify an enchantment spell as it is being cast. When a liberating weapon is used to attack a creature under direct mental control, such as from possession, charm effects, or compulsion effects like command and dominate person, the weapon deals nonlethal damage and grants the target a new saving throw against the effect, with a morale bonus on the save equal to the weapon's enhancement bonus. If this save succeeds, the effect is suppressed for 10 minutes. If the target is affected by multiple such effects, the weapon's wielder chooses which effect the target can attempt a second save against. If the target fails this save, the effect is not suppressed and the target is immune to this effect of the same liberating weapon for 24 hours."
+				"This special ability can be placed only on a melee weapon. A liberating weapon grants its wielder a competence bonus equal to the weapon's enhancement bonus on Sense Motive checks, and this bonus is doubled when attempting a Sense Motive check to sense enchantment. This increased bonus also applies on Spellcraft checks to identify an enchantment spell as it is being cast. When a liberating weapon is used to attack a creature under direct mental control, such as from possession, charm effects, or compulsion effects like command and dominate person, the weapon deals nonlethal damage and grants the target a new saving throw against the effect, with a morale bonus on the save equal to the weapon's enhancement bonus. If this save succeeds, the effect is suppressed for 10 minutes. If the target is affected by multiple such effects, the weapon's wielder chooses which effect the target can attempt a second save against. If the target fails this save, the effect is not suppressed and the target is immune to this effect of the same liberating weapon for 24 hours."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, break enchantment, greater dispel magic; Price -"
 		},
@@ -5688,7 +5688,7 @@
 				"Price +3 bonus; Weight -"
 			],
 			"description": [
-				"A gory weapon functions as a wounding (Pathfinder RPG Ultimate Equipment 149) weapon, except it deals 1d2 points of bleed damage when it strikes. Additionally, when the wielder confirms a critical hit with this weapon, he can attempt an Intimidate check to demoralize the target as an immediate action with a circumstance bonus equal to his character level."
+				"A gory weapon functions as a wounding weapon, except it deals 1d2 points of bleed damage when it strikes. Additionally, when the wielder confirms a critical hit with this weapon, he can attempt an Intimidate check to demoralize the target as an immediate action with a circumstance bonus equal to his character level."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, bleed, inflict serious wounds; Price -"
 		},
@@ -5746,7 +5746,7 @@
 				"Slot weapon quality; Price +3 bonus; Weight -"
 			],
 			"description": [
-				"This special ability can only be placed on melee weapons. A repositioning weapon grants the wielder a +2 enhancement bonus on combat maneuver checks to reposition a foe (Advanced Player's Guide 322). I f the wielder confirms a critical hit with the weapon, he can attempt to reposition his opponent as a free action. These reposition attempts still provoke attacks of opportunity as normal. A weapon cannot have both the anchoring and repositioning special abilities."
+				"This special ability can only be placed on melee weapons. A repositioning weapon grants the wielder a +2 enhancement bonus on combat maneuver checks to reposition a foe. I f the wielder confirms a critical hit with the weapon, he can attempt to reposition his opponent as a free action. These reposition attempts still provoke attacks of opportunity as normal. A weapon cannot have both the anchoring and repositioning special abilities."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, telekinesis; Price -"
 		},
@@ -6002,7 +6002,7 @@
 				"Slot none; Price +1 bonus; Weight -"
 			],
 			"description": [
-				"This special ability can be placed only on ranged weapons. If the wielder spends at least 1 minute preparing a hiding place or when she uses the sniping rules (Core Rulebook 106), she adds the weapon's enhancement bonus as a competence bonus on Stealth checks. An ambushing weapon deals an additional 1d6 points of damage on a successful hit during a surprise round or against a creature that is unaware of the wielder's presence. This extra damage is precision damage; it is not multiplied on a critical hit but does stack with other forms of precision damage."
+				"This special ability can be placed only on ranged weapons. If the wielder spends at least 1 minute preparing a hiding place or when she uses the sniping rules, she adds the weapon's enhancement bonus as a competence bonus on Stealth checks. An ambushing weapon deals an additional 1d6 points of damage on a successful hit during a surprise round or against a creature that is unaware of the wielder's presence. This extra damage is precision damage; it is not multiplied on a critical hit but does stack with other forms of precision damage."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, cat's grace, invisibility; Price -"
 		},

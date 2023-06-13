@@ -395,7 +395,7 @@
 				"**Category** Alchemical Tools"
 			],
 			"description": [
-				"This caustic alchemical solution dissolves blood, hair, and small pieces of flesh. Distributing it over a 5-foot square takes one full-round action and increases the DC of Perception checks to find such materials by 20. (A creature that fails the Perception check to find such materials by 5 or less realizes the area has been unnaturally cleared of them.) This applies only to the original Perception DC, not a substituted skill check like those from the cleaner or traceless archetypes. One pot of alchemical cleaner contains enough liquid to cover nine 5-foot squares. A pot of alchemical cleaner can be thrown as a splash weapon and functions as an alkali flask (Advanced Player's Guide 184) when thrown. Crafting alchemical cleaner requires a successful DC 25 Craft (alchemy) check."
+				"This caustic alchemical solution dissolves blood, hair, and small pieces of flesh. Distributing it over a 5-foot square takes one full-round action and increases the DC of Perception checks to find such materials by 20. (A creature that fails the Perception check to find such materials by 5 or less realizes the area has been unnaturally cleared of them.) This applies only to the original Perception DC, not a substituted skill check like those from the cleaner or traceless archetypes. One pot of alchemical cleaner contains enough liquid to cover nine 5-foot squares. A pot of alchemical cleaner can be thrown as a splash weapon and functions as an alkali flask when thrown. Crafting alchemical cleaner requires a successful DC 25 Craft (alchemy) check."
 			],
 			"construction": [
 				"Craft (Alchemy) DC 25"
@@ -1157,7 +1157,7 @@
 				"**Category** Animal Gear"
 			],
 			"description": [
-				"Leshys and other plant creatures have to be wary of hungry herbivorous animals. A dose of animal repellent makes a plant creature smell unappetizing for 24 hours. Animals do not attempt to consume a plant creature coated in animal repellent if there are other food sources available, and in combat prefer to use natural attacks that are not bite attacks against such a creature if they can. Animal repellent counts as a strong scent, allowing creatures with the scent ability to detect it at a greater range (Pathfinder RPG Bestiary 304). Animal repellent does not work on ghorans with the delicious racial trait. Crafting this item requires a successful DC 20 Craft (alchemy) check."
+				"Leshys and other plant creatures have to be wary of hungry herbivorous animals. A dose of animal repellent makes a plant creature smell unappetizing for 24 hours. Animals do not attempt to consume a plant creature coated in animal repellent if there are other food sources available, and in combat prefer to use natural attacks that are not bite attacks against such a creature if they can. Animal repellent counts as a strong scent, allowing creatures with the scent ability to detect it at a greater range. Animal repellent does not work on ghorans with the delicious racial trait. Crafting this item requires a successful DC 20 Craft (alchemy) check."
 			]
 		},
 		{
@@ -2436,7 +2436,7 @@
 			"description": [
 				"The Bamboo Palace is a bonsai group planting of bamboo that has been shaped to resemble Hwanggot's royal palace in Haseoung. The bonsai is nonmagical, but in its pristine state is a magnificent representation of the art of bonsai. Though the planting is regrettably overgrown, the frame of a brilliant bonsai is still visible to those familiar with the art form. Beneath the shaggy foliage, one can see that the stems part and interweave again to form windows and doors, and the side branches gracefully curve out to mimic tiered roofs. The bonsai sits in a graceful celadon-glazed pot engraved with the seal of the Yeon dynasty.",
 				"The Bamboo Palace's price reflects its current neglected state mixed with its aesthetic potential. If an experienced bonsai gardener tends to it once a week for 1 year, the Bamboo Palace reassumes its earlier manicured form, and its value to a collector increases to 8,000 gp. Restoring it requires successful DC 15 Knowledge (nature) and Knowledge (engineering) checks each week during that time.",
-				"If the Bamboo Palace is restored to its full glory, a character who spends 15 minutes tending to it and succeeds at DC 20 Knowledge (nature) and Knowledge (engineering) checks gains the favor of Upaskuma, the fukujin kami (Pathfinder Adventure Path #52 84) who lives within the bonsai. For 24 hours, whenever the favored character begins a round within 15 feet of the Bamboo Palace, the kami's aura of luck grants the character a +2 luck bonus on all skill checks. Only one character can gain this favor each day."
+				"If the Bamboo Palace is restored to its full glory, a character who spends 15 minutes tending to it and succeeds at DC 20 Knowledge (nature) and Knowledge (engineering) checks gains the favor of Upaskuma, the fukujin kami who lives within the bonsai. For 24 hours, whenever the favored character begins a round within 15 feet of the Bamboo Palace, the kami's aura of luck grants the character a +2 luck bonus on all skill checks. Only one character can gain this favor each day."
 			]
 		},
 		{
@@ -2541,7 +2541,7 @@
 			"cost": 9,
 			"weight": 26,
 			"heading": [
-				"**Barbarianâ€™s kit**",
+				"**Barbarian's kit**",
 				"**Source** [Ultimate Equipment pg. 56](source:Ultimate Equipment)",
 				"**Price** 9 gp; **Weight** 26 lbs.",
 				"**Category** Kits"
@@ -2601,7 +2601,7 @@
 			"cost": 41,
 			"weight": 33.5,
 			"heading": [
-				"**Bardâ€™s kit**",
+				"**Bard's kit**",
 				"**Source** [Ultimate Equipment pg. 56](source:Ultimate Equipment)",
 				"**Price** 41 gp; **Weight** 33-1/2 lbs.",
 				"**Category** Kits"
@@ -2644,16 +2644,16 @@
 				"**Price** x4 (Large creature), x2 (Medium creature); **Weight** x2 (Large creature), x1 (Medium creature)"
 			],
 			"description": [
-				"Barding is a type of armor that covers the head, neck, chest, body, and possibly legs of a horse or other mount. Barding made of medium or heavy armor provides better protection than light barding, but at the expense of speed. Barding can be made of any of the armor types found on Table 1-1: Armor and Shields.",
-				"Armor for a horse (a Large non-humanoid creature) costs four times as much as armor for a human (a Medium humanoid creature) and also weighs twice as much (see Table 1-2: Armor for Unusual Creatures). If the barding is for a pony or other Medium mount, the price is only double, and the weight is the same as for Medium armor worn by a humanoid. Medium or heavy barding slows a mount that wears it, as shown on the table below.",
+				"Barding is a type of armor that covers the head, neck, chest, body, and possibly legs of a horse or other mount. Barding made of medium or heavy armor provides better protection than light barding, but at the expense of speed. Barding can be made of [any armor type](table:armor).",
+				"Armor for a horse (a Large non-humanoid creature) costs four times as much as armor for a human (a Medium humanoid creature) and also weighs twice as much (see [Armor for Unusual Creatures](rule:Armor for Unusual Creatures)). If the barding is for a pony or other Medium mount, the price is only double, and the weight is the same as for Medium armor worn by a humanoid. Medium or heavy barding slows a mount that wears it, as shown on the table below.",
 				"Flying mounts can't fly in medium or heavy barding.",
-				"Removing and fitting barding takes five times as long as the figures given on Table 1-3: Donning Armor. A barded animal cannot be used to carry any load other than a rider, and normal saddlebags.",
-				"| | Base Speed |",
+				"Removing and fitting barding takes five times as long as the figures given in [Getting Into and Out of Armor](rule:Getting Into and Out of Armor). A barded animal cannot be used to carry any load other than a rider, and normal saddlebags.",
+				"| Type | Base Speed |",
 				"| --- | --- |",
 				"| Barding | (40 ft.) | (50 ft.) | (60 ft.) |",
 				"| Medium armor | 30 ft. | 35 ft. | 40 ft. |",
 				"| Heavy armor | 30 ft.* | 35 ft.* | 40 ft.* |",
-				"| * A mount wearing heavy armor moves at only triple its normal speed when running instead of quadruple. |"
+				"*A mount wearing heavy armor moves at only triple its normal speed when running instead of quadruple.*"
 			]
 		},
 		{
@@ -2946,7 +2946,7 @@
 			],
 			"description": [
 				"This small wooden whistle emits a high-pitched sound like that of a signal whistle, except the signal is audible only to a specific type of creature-other types of creatures hear only a quiet hissing sound.",
-				"Beast whistles come in six different varieties: avian, canine, feline, rodent, reptile, and ungulate (other varieties may be available at the GM's discretion). Animals and magical beasts that match a beast whistle's type can hear the whistle as a human hears a signal whistle. Creatures that fit into multiple categories (such as griffons) can usually hear the call of multiple types of whistles, though magical beasts who don't fit into any of the above categories cannot hear a beast whistle. Beast whistles don't function underwater, except if surrounded by an air bubble (Pathfinder RPG Ultimate Combat 222) or similar effect, though creatures underwater may hear a beast whistle sounded from above the surface if they are close enough."
+				"Beast whistles come in six different varieties: avian, canine, feline, rodent, reptile, and ungulate (other varieties may be available at the GM's discretion). Animals and magical beasts that match a beast whistle's type can hear the whistle as a human hears a signal whistle. Creatures that fit into multiple categories (such as griffons) can usually hear the call of multiple types of whistles, though magical beasts who don't fit into any of the above categories cannot hear a beast whistle. Beast whistles don't function underwater, except if surrounded by an air bubble or similar effect, though creatures underwater may hear a beast whistle sounded from above the surface if they are close enough."
 			]
 		},
 		{
@@ -4076,7 +4076,7 @@
 				"**Category** Clothing"
 			],
 			"description": [
-				"These sandals have blackwood soles and leather straps that wrap around the wearer's feet. The sandals are waterproof and are thus popular among individuals who tread the harsh locales of the swamps and wastelands beyond Cassomir proper-especially those who are in such environments for long periods of time without access to the comforts of a skilled cobbler. The sandals' design also allows the wearer to move through shallow bogs normally and to treat deep bogs as if they were shallow bogs (Pathfinder RPG Core Rulebook 427). The sandals do not affect the penalty on Acrobatics checks while in bogs, and creatures wearing the sandals cannot gain cover from deep bogs."
+				"These sandals have blackwood soles and leather straps that wrap around the wearer's feet. The sandals are waterproof and are thus popular among individuals who tread the harsh locales of the swamps and wastelands beyond Cassomir proper-especially those who are in such environments for long periods of time without access to the comforts of a skilled cobbler. The sandals' design also allows the wearer to move through shallow bogs normally and to treat deep bogs as if they were shallow bogs. The sandals do not affect the penalty on Acrobatics checks while in bogs, and creatures wearing the sandals cannot gain cover from deep bogs."
 			]
 		},
 		{
@@ -4414,7 +4414,7 @@
 				"**Category** Alchemical Remedies"
 			],
 			"description": [
-				"This malty ale has a legendarily thick, creamy head. It creates a pleasant buzz and sense of euphoria that dull the effects of pain and concussions, granting the drinker a +1 alchemical bonus on saving throws to avoid becoming dazed, staggered, or stunned, or against any effect with the pain descriptor (Pathfinder RPG Ultimate Magic 138) for 1 hour. In addition, a dose of boulderhead bock grants the drinker 1d6 temporary hit points that apply exclusively against nonlethal damage. Multiple doses of boulderhead bock stack, to a maximum alchemical bonus of +5 and a maximum of 20 temporary hit points."
+				"This malty ale has a legendarily thick, creamy head. It creates a pleasant buzz and sense of euphoria that dull the effects of pain and concussions, granting the drinker a +1 alchemical bonus on saving throws to avoid becoming dazed, staggered, or stunned, or against any effect with the pain descriptor for 1 hour. In addition, a dose of boulderhead bock grants the drinker 1d6 temporary hit points that apply exclusively against nonlethal damage. Multiple doses of boulderhead bock stack, to a maximum alchemical bonus of +5 and a maximum of 20 temporary hit points."
 			],
 			"alchemical_recipe": [
 				"**Recipe** (4 gold + 15 spirit of wine)/fermentation; Craft 19",
@@ -5156,7 +5156,7 @@
 				"**Category** Adventuring Gear"
 			],
 			"description": [
-				"Cold iron caltrops function in all ways as ordinary caltrops (Pathfinder RPG Core Rulebook 155) except that they are made of cold iron, and affect creatures with DR/cold iron accordingly."
+				"Cold iron caltrops function in all ways as ordinary caltrops except that they are made of cold iron, and affect creatures with DR/cold iron accordingly."
 			]
 		},
 		{
@@ -5639,7 +5639,7 @@
 				"**Category** Alchemical Tools"
 			],
 			"description": [
-				"This bottle of viscous blue oil sublimates slightly when exposed to air. When poured over water, the oil pools on the surface and takes 1 round to spread out from the point of origin in a 20-foot radius. At the end of this round, the cardice oil flash-freezes the surface of the water, creating an ice sheet over the affected area (Pathfinder RPG Core Rulebook 430). Any 5-foot square of this ice can support up to 200 pounds of weight. Weight in excess of this amount causes the entire sheet to crack and quickly break up. This ice sheet becomes unstable and breaks up on its own after 1 hour, or 20 minutes in a hot climate. Any creature whose bare skin comes in contact with cardice oil takes 1d6 points of nonlethal damage each round because of the chemical's volatile nature, but the oil is ineffective as a splash weapon."
+				"This bottle of viscous blue oil sublimates slightly when exposed to air. When poured over water, the oil pools on the surface and takes 1 round to spread out from the point of origin in a 20-foot radius. At the end of this round, the cardice oil flash-freezes the surface of the water, creating an ice sheet over the affected area. Any 5-foot square of this ice can support up to 200 pounds of weight. Weight in excess of this amount causes the entire sheet to crack and quickly break up. This ice sheet becomes unstable and breaks up on its own after 1 hour, or 20 minutes in a hot climate. Any creature whose bare skin comes in contact with cardice oil takes 1d6 points of nonlethal damage each round because of the chemical's volatile nature, but the oil is ineffective as a splash weapon."
 			],
 			"construction": [
 				"Craft (Alchemy) DC 25"
@@ -5987,7 +5987,7 @@
 			"cost": 23,
 			"weight": 112,
 			"heading": [
-				"**Cavalierâ€™s kit**",
+				"**Cavalier's kit**",
 				"**Source** [Ultimate Equipment pg. 56](source:Ultimate Equipment)",
 				"**Price** 23 gp; **Weight** 112 lbs.",
 				"**Category** Kits"
@@ -6108,7 +6108,7 @@
 				"**Category** Food/Drink"
 			],
 			"description": [
-				"This bizarre fruit appears to be carved from stone, though it has a lovely aroma and is easily consumed. Stone fruits occasionally sprout from the strange treelike monument known as the Celwynvian Charge (Pathfinder Campaign Setting: Magnimar, City of Monuments 29), where they are gathered by licensed vendors and sold to travelers. Eating a stone fruit hardens flesh and restores vitality. When a creature eats the fruit as a fullround action that provokes attacks of opportunity, it immediately recovers 2d6 hit points and gains a +2 enhancement bonus to its natural armor for 1 minute."
+				"This bizarre fruit appears to be carved from stone, though it has a lovely aroma and is easily consumed. Stone fruits occasionally sprout from the strange treelike monument known as the Celwynvian Charge, where they are gathered by licensed vendors and sold to travelers. Eating a stone fruit hardens flesh and restores vitality. When a creature eats the fruit as a fullround action that provokes attacks of opportunity, it immediately recovers 2d6 hit points and gains a +2 enhancement bonus to its natural armor for 1 minute."
 			]
 		},
 		{
@@ -6340,7 +6340,7 @@
 				"**Category** Adventuring Gear"
 			],
 			"description": [
-				"This tiny set of sculpted claws, made from stone carefully chipped from the Battle of Charda monument (Pathfinder Campaign Setting: Magnimar, City of Monuments 11), is set upon a fine chain. Once per day when attempting an Intimidate check to demoralize a single opponent in combat, the user can forcefully present the charda claws as part of the action to activate their residual power. Using the claws in this way requires a free hand, but only while the Intimidate check is made. If the Intimidate check was a success and the target is demoralized, the claws grant the wielder a +1 morale bonus on attack rolls against that creature for the duration of the demoralized effect. If the wielder uses the claws but the Intimidate check is not successful, the claws' daily use is expended to no effect."
+				"This tiny set of sculpted claws, made from stone carefully chipped from the Battle of Charda monument, is set upon a fine chain. Once per day when attempting an Intimidate check to demoralize a single opponent in combat, the user can forcefully present the charda claws as part of the action to activate their residual power. Using the claws in this way requires a free hand, but only while the Intimidate check is made. If the Intimidate check was a success and the target is demoralized, the claws grant the wielder a +1 morale bonus on attack rolls against that creature for the duration of the demoralized effect. If the wielder uses the claws but the Intimidate check is not successful, the claws' daily use is expended to no effect."
 			]
 		},
 		{
@@ -6861,7 +6861,7 @@
 			"cost": 16,
 			"weight": 32,
 			"heading": [
-				"**Clericâ€™s kit**",
+				"**Cleric's kit**",
 				"**Source** [Ultimate Equipment pg. 56](source:Ultimate Equipment)",
 				"**Price** 16 gp; **Weight** 32 lbs.",
 				"**Category** Kits"
@@ -7288,7 +7288,7 @@
 				"**Category** Adventuring Gear"
 			],
 			"description": [
-				"This boat has a canvas hull and wooden frame that can be easily disassembled. When collapsed, the boat fits into a pack that can be carried by one person. When expanded, this boat has the same base statistics as a rowboat (Core Rulebook 163). Expanding or collapsing it takes 5 minutes."
+				"This boat has a canvas hull and wooden frame that can be easily disassembled. When collapsed, the boat fits into a pack that can be carried by one person. When expanded, this boat has the same base statistics as a rowboat. Expanding or collapsing it takes 5 minutes."
 			]
 		},
 		{
@@ -7457,7 +7457,7 @@
 				"**Category** Tools"
 			],
 			"description": [
-				"Longer lasting than an air bladder (Ultimate Equipment 58), a jar of compressed air comes with a breathing apparatus that can be strapped over the mouth with a leather cord and provides enough air for a Medium character to breathe normally for 10 minutes (20 minutes for a Small character)."
+				"Longer lasting than an air bladder, a jar of compressed air comes with a breathing apparatus that can be strapped over the mouth with a leather cord and provides enough air for a Medium character to breathe normally for 10 minutes (20 minutes for a Small character)."
 			]
 		},
 		{
@@ -8270,7 +8270,7 @@
 				"**Category** Clothing"
 			],
 			"description": [
-				"In addition to granting the same bonus on Perform (dance) checks as regular dancer's garb, silver dancer's garb is considered a silver instrument for silver balladeer bards (Pathfinder RPG Occult Adventures 115). Silver dancer's garb can be made of sunsilver (see below); sunsilver dancer's garb costs an additional 3,000 gp and grants the same benefits as armor made of sunsilver. As with the bonus on Perform (dance) checks, this benefit functions only when no other armor or concealing clothing is worn."
+				"In addition to granting the same bonus on Perform (dance) checks as regular dancer's garb, silver dancer's garb is considered a silver instrument for silver balladeer bards. Silver dancer's garb can be made of sunsilver (see below); sunsilver dancer's garb costs an additional 3,000 gp and grants the same benefits as armor made of sunsilver. As with the bonus on Perform (dance) checks, this benefit functions only when no other armor or concealing clothing is worn."
 			]
 		},
 		{
@@ -8352,7 +8352,7 @@
 				"**Category** Tools"
 			],
 			"description": [
-				"Musicians in the Mwangi Expanse make frequent use of carved harps strung with strings made from natural materials. These harps often feature ornately detailed soundboards and necks shaped like creatures that inhabit the region. Harps crafted from darkwood are very light compared to similar instruments, yet they retain the resonance and tonal quality demanded by the pickiest of musicians. A darkwood Mwangi harp is a masterwork musical instrument (Pathfinder RPG Ultimate Equipment 78) that grants you a +2 circumstance bonus on Perform checks when using it."
+				"Musicians in the Mwangi Expanse make frequent use of carved harps strung with strings made from natural materials. These harps often feature ornately detailed soundboards and necks shaped like creatures that inhabit the region. Harps crafted from darkwood are very light compared to similar instruments, yet they retain the resonance and tonal quality demanded by the pickiest of musicians. A darkwood Mwangi harp is a masterwork musical instrument that grants you a +2 circumstance bonus on Perform checks when using it."
 			]
 		},
 		{
@@ -8751,7 +8751,7 @@
 				"**Price** 220 gp (common), 300 gp (riding), 450 gp (riding, combat trained); **Weight** - (common), 400 lbs. (riding), 450 lbs. (riding, combat trained)"
 			],
 			"description": [
-				"*Description from \"Dire Animals\" section of Animal Archive, page 15:* These feral beasts are all but untamable, and are typically only sought out by violent brawlers or cruel lords, either for brutish protection or to pit against equally vicious creatures in violent animal fights. At the GM's discretion, PCs who acquire dire animals may be required to attempt wild empathy or Handle Animal checks every day to keep their pets from running away or attacking them and their allies. Dire animals are not generally suitable as mounts, though the GM may make exceptions at her discretion.Considered to be the fastest nonmagical transport in cavernous underground realms, dire bats (Bestiary 30) are domesticated in captivity to serve as riding animals. Stables that accommodate these massive creatures are only commonly found in cities built in larger underground caverns, owing to the greater space required for training and exercise, though the outriders of some subterranean races fly them almost to the surface. These creatures require exotic saddles to ride."
+				"*Description from \"Dire Animals\" section of Animal Archive, page 15:* These feral beasts are all but untamable, and are typically only sought out by violent brawlers or cruel lords, either for brutish protection or to pit against equally vicious creatures in violent animal fights. At the GM's discretion, PCs who acquire dire animals may be required to attempt wild empathy or Handle Animal checks every day to keep their pets from running away or attacking them and their allies. Dire animals are not generally suitable as mounts, though the GM may make exceptions at her discretion.Considered to be the fastest nonmagical transport in cavernous underground realms, dire bats are domesticated in captivity to serve as riding animals. Stables that accommodate these massive creatures are only commonly found in cities built in larger underground caverns, owing to the greater space required for training and exercise, though the outriders of some subterranean races fly them almost to the surface. These creatures require exotic saddles to ride."
 			]
 		},
 		{
@@ -9594,13 +9594,13 @@
 			"cost": 485,
 			"weight": 64,
 			"heading": [
-				"**Dragonslayerâ€™s Kit**",
+				"**Dragonslayer's Kit**",
 				"**Source** [Ultimate Equipment pg. 56](source:Ultimate Equipment), [Pathfinder Society Field Guide pg. 47](source:Pathfinder Society Field Guide)",
 				"**Price** 485 gp; **Weight** 64 lbs.",
 				"**Category** Kits"
 			],
 			"description": [
-				"Aimed more at hired blades than seasoned adventurers, this kit provides supplemental equipment for outfitting hirelings to hunt dragons. It includes a potion of cure moderate wounds, oil of bless weapon (1 application), a longspear, a backpack, three large sacks, a sunrod, a tower shield, and 5 vials of alchemistâ€™s fire. For hunting dragons that are immune to fire, the alchemistâ€™s fire can be replaced with acid at the time of purchase, for a savings of 50 gp."
+				"Aimed more at hired blades than seasoned adventurers, this kit provides supplemental equipment for outfitting hirelings to hunt dragons. It includes a potion of cure moderate wounds, oil of bless weapon (1 application), a longspear, a backpack, three large sacks, a sunrod, a tower shield, and 5 vials of alchemist's fire. For hunting dragons that are immune to fire, the alchemist's fire can be replaced with acid at the time of purchase, for a savings of 50 gp."
 			]
 		},
 		{
@@ -9687,7 +9687,7 @@
 				"**Category** Alchemical Tools"
 			],
 			"description": [
-				"This unique, salty alchemical powder is crafted in Darklands communities where fresh water is either scarce or guarded by dangerous predators. Consuming 1 dose allows you to go without water for 3 days instead of 1, in growing discomfort but without any negative effects. After this time, you must attempt a Constitution check once every 6 hours instead of once per hour to avoid taking nonlethal damage. One dose of drought powder functions for 1 week, after which penalties for thirst accrue at their normal pace (Pathfinder RPG Core Rulebook 444)."
+				"This unique, salty alchemical powder is crafted in Darklands communities where fresh water is either scarce or guarded by dangerous predators. Consuming 1 dose allows you to go without water for 3 days instead of 1, in growing discomfort but without any negative effects. After this time, you must attempt a Constitution check once every 6 hours instead of once per hour to avoid taking nonlethal damage. One dose of drought powder functions for 1 week, after which penalties for thirst accrue at their normal pace."
 			]
 		},
 		{
@@ -9719,7 +9719,7 @@
 			"cost": 14,
 			"weight": 44,
 			"heading": [
-				"**Druidâ€™s kit**",
+				"**Druid's kit**",
 				"**Source** [Ultimate Equipment pg. 56](source:Ultimate Equipment)",
 				"**Price** 14 gp; **Weight** 44 lbs.",
 				"**Category** Kits"
@@ -11862,7 +11862,7 @@
 				"**Source** "
 			],
 			"description": [
-				"These crude straps are used to secure a goblin or other small creature to the underside of a dire bat (Pathfinder RPG Bestiary 30) or giant vulture (Pathfinder RPG Bestiary 3 284). These straps count as an exotic riding saddle. If the mount fails a Fly check, there's a 50% chance the straps break and the rider falls. Masterwork flying straps count as an exotic military saddle, and don't have a chance to break if the mount fails a Fly check."
+				"These crude straps are used to secure a goblin or other small creature to the underside of a dire bat or giant vulture. These straps count as an exotic riding saddle. If the mount fails a Fly check, there's a 50% chance the straps break and the rider falls. Masterwork flying straps count as an exotic military saddle, and don't have a chance to break if the mount fails a Fly check."
 			]
 		},
 		{
@@ -12157,7 +12157,7 @@
 				"**Category** Tools"
 			],
 			"description": [
-				"A formula book has 100 pages of parchment, and each alchemical extract formula takes up one page per extract level. A newly purchased formula book contains no extract formulas. An alchemist character begins play with a formula book containing the extract formulae he knows (Advanced Player's Guide 32). This is the alchemist equivalent of a spellbook for wizards (a spellbook and a formula book are essentially the same item)."
+				"A formula book has 100 pages of parchment, and each alchemical extract formula takes up one page per extract level. A newly purchased formula book contains no extract formulas. An alchemist character begins play with a formula book containing the extract formulae he knows. This is the alchemist equivalent of a spellbook for wizards (a spellbook and a formula book are essentially the same item)."
 			]
 		},
 		{
@@ -12291,7 +12291,7 @@
 				"**Category** Adventuring Gear"
 			],
 			"description": [
-				"One end of this short length of petrified wood burns with a flame of ever-changing hue, a tiny portion of the fires of the Founder's Flame (Pathfinder Campaign Setting: Magnimar, City of Monuments 32). It provides light as per a normal torch but is not consumed, and its fire cannot be extinguished by mundane means (though total immersion temporarily quenches the flame). The torch can be wielded as an improvised light mace that deals an additional 1d2 points of fire damage; in addition, a creature damaged by the torch's fire takes a -1 penalty on saving throws for 1 round against effects that deal fire damage."
+				"One end of this short length of petrified wood burns with a flame of ever-changing hue, a tiny portion of the fires of the Founder's Flame. It provides light as per a normal torch but is not consumed, and its fire cannot be extinguished by mundane means (though total immersion temporarily quenches the flame). The torch can be wielded as an improvised light mace that deals an additional 1d2 points of fire damage; in addition, a creature damaged by the torch's fire takes a -1 penalty on saving throws for 1 round against effects that deal fire damage."
 			]
 		},
 		{
@@ -12651,7 +12651,7 @@
 				"**Category** Alchemical Tools"
 			],
 			"description": [
-				"These small gray-white tablets are made of dehydrated and condensed garlic bulbs. One hour after you eat a garlic tablet, you begin to stink as the essence of the tablet seeps out of your pores. This state lasts for 4 hours. Subsequent doses of garlic tablets reset this duration. During this time, you can keep a vampire at bay (Pathfinder RPG Bestiary 270) as a free action without need of a holy symbol or mirror. The vampire must succeed at a DC 25 Will save to overcome its natural revulsion to garlic; failure means it must stay at least 5 feet away from you and cannot touch you or make melee attacks against you. However, unlike while keeping a vampire at bay with a mirror or holy symbol, once the vampire succeeds at its save against the garlic tablets, it's no longer affected by that creature's odor and may act normally without need of further saving throws.",
+				"These small gray-white tablets are made of dehydrated and condensed garlic bulbs. One hour after you eat a garlic tablet, you begin to stink as the essence of the tablet seeps out of your pores. This state lasts for 4 hours. Subsequent doses of garlic tablets reset this duration. During this time, you can keep a vampire at bay as a free action without need of a holy symbol or mirror. The vampire must succeed at a DC 25 Will save to overcome its natural revulsion to garlic; failure means it must stay at least 5 feet away from you and cannot touch you or make melee attacks against you. However, unlike while keeping a vampire at bay with a mirror or holy symbol, once the vampire succeeds at its save against the garlic tablets, it's no longer affected by that creature's odor and may act normally without need of further saving throws.",
 				"Garlic tablets are valuable aids to vampire hunters, but while benefiting from the tablets' strong odor, you take a -2 penalty on all Charisma checks and Charisma-based skill checks for the duration of the effect. The listed price is for three tablets.Crafting garlic tablets requires a successful DC 20 Craft (alchemy) check."
 			],
 			"construction": [
@@ -13080,7 +13080,7 @@
 				"**Price** 500 gp (combat trained), 350 gp (normal); **Weight** 1,200 lbs. (combat trained), 1,100 lbs. (normal)"
 			],
 			"description": [
-				"Giant seahorses (Pathfinder RPG Bestiary 4 234) are commonly used as mounts and beasts of burden by undersea races such as aquatic elves and tritons. Although they are often dismissed as too skittish to be ridden into a fight, seahorses are clever and, with diligent training, make loyal war steeds. Tritons in particular pride themselves on breeding and training seahorses to fight in battle or to serve as guard animals."
+				"Giant seahorses are commonly used as mounts and beasts of burden by undersea races such as aquatic elves and tritons. Although they are often dismissed as too skittish to be ridden into a fight, seahorses are clever and, with diligent training, make loyal war steeds. Tritons in particular pride themselves on breeding and training seahorses to fight in battle or to serve as guard animals."
 			]
 		},
 		{
@@ -14415,7 +14415,7 @@
 				"**Category** Animal Gear"
 			],
 			"description": [
-				"Hellknights often equip their steeds with armor similar to their own. Typical barding for Hellknight steeds is spiked (the spikes are ornamental, however, and cannot deal damage). Such barding is usually designed to look similar to the armor of the horse's rider, or to look skeletal, fiendish, or similar to a nightmare. Hellknight barding can be made from Hellknight leather, Hellknight plate (Pathfinder Campaign Setting: The Inner Sea World Guide 290), or Hellknight half-plate; it costs four times as much and weighs twice as much. Hellknight leather barding slows a mount from 40 feet to 30 feet, from 50 feet to 35 feet, or from 60 feet to 40 feet. Hellknight half-plate barding or Hellknight plate barding also slows a mount, and a mount wearing such armor moves at only triple its normal speed when running instead of quadruple."
+				"Hellknights often equip their steeds with armor similar to their own. Typical barding for Hellknight steeds is spiked (the spikes are ornamental, however, and cannot deal damage). Such barding is usually designed to look similar to the armor of the horse's rider, or to look skeletal, fiendish, or similar to a nightmare. Hellknight barding can be made from Hellknight leather, Hellknight plate, or Hellknight half-plate; it costs four times as much and weighs twice as much. Hellknight leather barding slows a mount from 40 feet to 30 feet, from 50 feet to 35 feet, or from 60 feet to 40 feet. Hellknight half-plate barding or Hellknight plate barding also slows a mount, and a mount wearing such armor moves at only triple its normal speed when running instead of quadruple."
 			]
 		},
 		{
@@ -15187,7 +15187,7 @@
 				"**Category** Animal Gear"
 			],
 			"description": [
-				"This simple harness, basically just a leather lash, straps a combatant's arm to the tusk or horn of a Huge or larger animal such as a gorthek. Engaging or disengaging a horn harness is a standard action that provokes attacks of opportunity. A horn harness includes a quiver that typically holds up to 12 javelins. A creature in a horn harness gains all the bonuses and takes all the penalties for engaging in combat or casting spells while mounted (Pathfinder RPG Core Rulebook 202), but also can't do anything that requires using the hand lashed to the mount. If the mount falls in battle, the creature in the horn harness remains attached, but can attempt a DC 25 Ride check to make a soft fall. If the creature in the horn harness falls unconscious, it remains strapped in, but takes an amount of damage equal to the mount's trample damage (if any) each round the monster moves."
+				"This simple harness, basically just a leather lash, straps a combatant's arm to the tusk or horn of a Huge or larger animal such as a gorthek. Engaging or disengaging a horn harness is a standard action that provokes attacks of opportunity. A horn harness includes a quiver that typically holds up to 12 javelins. A creature in a horn harness gains all the bonuses and takes all the penalties for engaging in combat or casting spells while mounted, but also can't do anything that requires using the hand lashed to the mount. If the mount falls in battle, the creature in the horn harness remains attached, but can attempt a DC 25 Ride check to make a soft fall. If the creature in the horn harness falls unconscious, it remains strapped in, but takes an amount of damage equal to the mount's trample damage (if any) each round the monster moves."
 			]
 		},
 		{
@@ -15472,7 +15472,7 @@
 				"**Category** Animal Gear"
 			],
 			"description": [
-				"This wooden platform is tied like a saddle to a Huge creature's back. The platform is 10 feet square and enclosed by a low wall and sometimes a roof. The howdah has room for four Medium creatures (usually armed with bows or longspears), or two Medium creatures and a light ballista or light catapult (Ultimate Combat 161). Occupants of the howdah have cover against attackers from below and are considered mounted for the purposes of making attacks."
+				"This wooden platform is tied like a saddle to a Huge creature's back. The platform is 10 feet square and enclosed by a low wall and sometimes a roof. The howdah has room for four Medium creatures (usually armed with bows or longspears), or two Medium creatures and a light ballista or light catapult. Occupants of the howdah have cover against attackers from below and are considered mounted for the purposes of making attacks."
 			]
 		},
 		{
@@ -17163,7 +17163,7 @@
 				"**Category** Black Market"
 			],
 			"description": [
-				"Leng rubies are red gemstones all identical in size and appearance, distinguishable from ordinary rubies by their complete lack of imperfections or inclusions. Mined on the desolate Plateau of Leng-an outer plane connected to the ever-shifting Dimension of Dreams-these rubies are used as currency by the sinister denizens of Leng (Pathfinder RPG Bestiary 2 82). These denizens travel the planes, bartering Leng rubies for goods, slaves, and assistance in their inscrutable schemes. Possession of these rubies is seen as suspicious and shameful by scholars who understand their origin, as the rubies mark the owner as someone willing to deal with enigmatic foes of light and life.",
+				"Leng rubies are red gemstones all identical in size and appearance, distinguishable from ordinary rubies by their complete lack of imperfections or inclusions. Mined on the desolate Plateau of Leng-an outer plane connected to the ever-shifting Dimension of Dreams-these rubies are used as currency by the sinister denizens of Leng. These denizens travel the planes, bartering Leng rubies for goods, slaves, and assistance in their inscrutable schemes. Possession of these rubies is seen as suspicious and shameful by scholars who understand their origin, as the rubies mark the owner as someone willing to deal with enigmatic foes of light and life.",
 				"A small number of Leng rubies (10%) can be used as the focus of a plane shift spell, though it is impossible to determine what location a particular ruby is attuned to before the spell is cast. Some Leng rubies are substantially larger than the common size, and can fetch prices of 50,000 gp or more. The denizens of Leng trade these larger rubies for armies of slaves or as part of nation-ending plots."
 			]
 		},
@@ -18410,7 +18410,7 @@
 			"cost": 10,
 			"weight": 2,
 			"heading": [
-				"**Mapmakerâ€™s kit**",
+				"**Mapmaker's kit**",
 				"**Source** [Ultimate Equipment pg. 77](source:Ultimate Equipment), [Advanced Player's Guide pg. 185](source:Advanced Player's Guide), [Pathfinder #51: The Hungry Storm pg. 67](source:Pathfinder #51: The Hungry Storm)",
 				"**Price** 10 gp; **Weight** 2 lbs.",
 				"**Category** Tools"
@@ -19451,7 +19451,7 @@
 				"**Category** Alchemical Tools"
 			],
 			"description": [
-				"This tea is extremely rare and expensive, requiring several years to grow and prepare. A geisha bard (Pathfinder RPG Ultimate Magic 27) who uses this tea as part of her tea ceremony to inspire courage increases the bonuses granted by 1. A lotus geisha bard (Pathfinder Player Companion: Dragon Empires Primer 22) who drinks this tea increases the bonus granted by her enrapturing performance ability by 1; this effect lasts for 24 hours."
+				"This tea is extremely rare and expensive, requiring several years to grow and prepare. A geisha bard who uses this tea as part of her tea ceremony to inspire courage increases the bonuses granted by 1. A lotus geisha bard who drinks this tea increases the bonus granted by her enrapturing performance ability by 1; this effect lasts for 24 hours."
 			],
 			"construction": [
 				"Craft (Alchemy) DC 35"
@@ -19796,7 +19796,7 @@
 				"**Category** Adventuring Gear"
 			],
 			"description": [
-				"For some unknown reason, this finely crafted but mundane monkey statue repulses oni. Any creature with the oni subtype (Pathfinder RPG Bestiary 3 307) that is within 30 feet of a monkey statue takes a -1 penalty on all d20 rolls. The monkey statue can be unattended or presented by its wielder as a swift action to cause this effect; the statue has no effect on oni if it is simply stored on a wielder's person. A wielder must have a free hand available to present the statue and gain its effect. This penalty does not stack with that from other monkey statues."
+				"For some unknown reason, this finely crafted but mundane monkey statue repulses oni. Any creature with the oni subtype that is within 30 feet of a monkey statue takes a -1 penalty on all d20 rolls. The monkey statue can be unattended or presented by its wielder as a swift action to cause this effect; the statue has no effect on oni if it is simply stored on a wielder's person. A wielder must have a free hand available to present the statue and gain its effect. This penalty does not stack with that from other monkey statues."
 			]
 		},
 		{
@@ -21170,7 +21170,7 @@
 				"**Category** Mounts/Pets"
 			],
 			"description": [
-				"These husky, shaggy beasts are sometimes domesticated as pack animals in the Crown of the World. Their statistics are identical to aurochs (Pathfinder RPG Bestiary 174), but they are immune to cold weather effects (though not severe cold and extreme cold effects). Domesticated musk oxen have the docile special quality (see horse; Bestiary 177), and treat their gore attack as a secondary natural weapon. In the polar rim mountains of Tian Xia, yaks are used as pack animals and have identical statistics."
+				"These husky, shaggy beasts are sometimes domesticated as pack animals in the Crown of the World. Their statistics are identical to aurochs, but they are immune to cold weather effects (though not severe cold and extreme cold effects). Domesticated musk oxen have the docile special quality (see horse; Bestiary 177), and treat their gore attack as a secondary natural weapon. In the polar rim mountains of Tian Xia, yaks are used as pack animals and have identical statistics."
 			]
 		},
 		{
@@ -21241,7 +21241,7 @@
 				"**Category** Tools"
 			],
 			"description": [
-				"Pain wheels are used by orc marauders to blight the lands of their foes and despoil the earth for generations to come. When you whirl this cruel weapon above your head as a standard action, it scatters salt in a 5-foot radius centered on your space. Creatures in the affected area (including you) that have fewer than their maximum number of hit points must succeed at a DC 11 Fortitude save or be sickened by pain for 1d6 rounds. Creatures affected by bleed effects take a -5 penalty on their saves. A successful DC 11 Heal check ends the sickened condition, as does the application of any effect that heals hit point damage. A pain wheel must be loaded with a pound of salt (a move action) before it can be used. You can also load a dose of itching powder (Pathfinder RPG Ultimate Equipment 108) or another alchemical powder normally used as a splash weapons into a pain wheel; when a pain wheel is used this way, the affected area (including your square) is treated as the splash radius for the purpose of determining the powder's effects, and there is no way to deal a direct hit with the powder."
+				"Pain wheels are used by orc marauders to blight the lands of their foes and despoil the earth for generations to come. When you whirl this cruel weapon above your head as a standard action, it scatters salt in a 5-foot radius centered on your space. Creatures in the affected area (including you) that have fewer than their maximum number of hit points must succeed at a DC 11 Fortitude save or be sickened by pain for 1d6 rounds. Creatures affected by bleed effects take a -5 penalty on their saves. A successful DC 11 Heal check ends the sickened condition, as does the application of any effect that heals hit point damage. A pain wheel must be loaded with a pound of salt (a move action) before it can be used. You can also load a dose of itching powder or another alchemical powder normally used as a splash weapons into a pain wheel; when a pain wheel is used this way, the affected area (including your square) is treated as the splash radius for the purpose of determining the powder's effects, and there is no way to deal a direct hit with the powder."
 			]
 		},
 		{
@@ -23174,7 +23174,7 @@
 				"**Category** Tools"
 			],
 			"description": [
-				"This straitjacket (Pathfinder RPG Occult Adventures 250) is designed for use by a single person. The leather straps and arm restraints are accessible in such a way as to be tightened by the wearer. Restraining or releasing oneself through these mechanisms requires 1 minute of work. Once restrained, the wearer can attempt to escape from the straitjacket as normal (that is, without using the built-in releases). Using a practice straitjacket to train for escape requires 1 hour of practice and a DC 20 Escape Artist check. If you succeed at the check, you gain a +2 circumstance bonus on Escape Artist checks to escape from bindings, a grapple, a net, rope, or similar restraints. This bonus lasts for 24 hours."
+				"This straitjacket is designed for use by a single person. The leather straps and arm restraints are accessible in such a way as to be tightened by the wearer. Restraining or releasing oneself through these mechanisms requires 1 minute of work. Once restrained, the wearer can attempt to escape from the straitjacket as normal (that is, without using the built-in releases). Using a practice straitjacket to train for escape requires 1 hour of practice and a DC 20 Escape Artist check. If you succeed at the check, you gain a +2 circumstance bonus on Escape Artist checks to escape from bindings, a grapple, a net, rope, or similar restraints. This bonus lasts for 24 hours."
 			]
 		},
 		{
@@ -24430,7 +24430,7 @@
 				"**Price** 12,000 gp (combat-trained queen), 450 gp (combat-trained worker), 8,000 gp (queen), 300 gp (worker); **Weight** 140 lbs. (combat-trained queen), 60 lbs. (combat-trained worker), 140 lbs. (queen), 60 lbs. (worker)"
 			],
 			"description": [
-				"Gathlains have learned to domesticate giant bees (Pathfinder RPG Bestiary 2 43), which they use to travel long distances. Extra queens from a hive's brood are saved and trained for hauling heavier equipment or a retinue of gathlains. Bees require an exotic saddle, which is a sort of basket that places the rider underneath the bee's abdomen, where it protects the rider as if he were a bee larva."
+				"Gathlains have learned to domesticate giant bees, which they use to travel long distances. Extra queens from a hive's brood are saved and trained for hauling heavier equipment or a retinue of gathlains. Bees require an exotic saddle, which is a sort of basket that places the rider underneath the bee's abdomen, where it protects the rider as if he were a bee larva."
 			]
 		},
 		{
@@ -24521,7 +24521,7 @@
 				"**Source** "
 			],
 			"description": [
-				"Horses, ponies, and other draft animals are ill-suited to living underground for long stretches, so the ratfolk bred a particularly strong type of dire rat to assist in pulling their wagons and serving as mounts for caravan scouts. As rodents, riding rats respond favorably to ratfolk's commands, and the animals' hardiness and omnivorous diet make them very easy to care for even on long journeys through inhospitable terrain. Use the statistics for a dire rat with the giant simple template (Pathfinder RPG Bestiary 232, 295). A ratfolk with the animal companion, mount, or similar class feature can select a riding rat as her mount."
+				"Horses, ponies, and other draft animals are ill-suited to living underground for long stretches, so the ratfolk bred a particularly strong type of dire rat to assist in pulling their wagons and serving as mounts for caravan scouts. As rodents, riding rats respond favorably to ratfolk's commands, and the animals' hardiness and omnivorous diet make them very easy to care for even on long journeys through inhospitable terrain. Use the statistics for a dire rat with the giant simple template. A ratfolk with the animal companion, mount, or similar class feature can select a riding rat as her mount."
 			]
 		},
 		{
@@ -26393,7 +26393,7 @@
 				"**Category** Alchemical Tools"
 			],
 			"description": [
-				"Created by suspending the spores of a shrieker mushroom in a thick mixture of wheat paste and vermiculite, this thick sludge comes in a soundproof, stone container. Shrieking paste creates an obnoxious piercing noise when exposed to even minute amounts of movement or light. This makes applying the paste a very noisy endeavor at best. However, once the paste is applied and left alone for several rounds, it once again becomes silent. Thereafter, any light source or movement within 10 feet of the paste causes it to shriek for 1d3 rounds. A single container contains enough shrieking paste to coat 1 square foot of a surface. If left undisturbed for several weeks in a dank, lightless setting, shrieking paste might eventually grow into a colony of shrieker mushrooms (Core Rulebook 416)."
+				"Created by suspending the spores of a shrieker mushroom in a thick mixture of wheat paste and vermiculite, this thick sludge comes in a soundproof, stone container. Shrieking paste creates an obnoxious piercing noise when exposed to even minute amounts of movement or light. This makes applying the paste a very noisy endeavor at best. However, once the paste is applied and left alone for several rounds, it once again becomes silent. Thereafter, any light source or movement within 10 feet of the paste causes it to shriek for 1d3 rounds. A single container contains enough shrieking paste to coat 1 square foot of a surface. If left undisturbed for several weeks in a dank, lightless setting, shrieking paste might eventually grow into a colony of shrieker mushrooms."
 			],
 			"construction": [
 				"Craft (Alchemy) DC 25"
@@ -26479,7 +26479,7 @@
 				"**Category** Clothing"
 			],
 			"description": [
-				"The menacing, eyeless masks of Hellknight signifers were first created by members of the Order of the Gate and are semitransparent on the inside. Those who wear them are treated as if they were wearing smoked goggles (Pathfinder RPG Ultimate Equipment 72). A character with the Hellknight signifer prestige class (Pathfinder Campaign Setting: Paths of Prestige 28) can see through the mask as normal, but can also adjust her mask as a standard action to function as a pair of smoked goggles once more. Signifer masks are often enhanced, becoming variants of items that take up the head item slot. Additionally, when a character takes levels in the Hellknight signifer prestige class, this mask grants the benefits and capabilities of the signifer mask supernatural ability."
+				"The menacing, eyeless masks of Hellknight signifers were first created by members of the Order of the Gate and are semitransparent on the inside. Those who wear them are treated as if they were wearing smoked goggles. A character with the Hellknight signifer prestige class can see through the mask as normal, but can also adjust her mask as a standard action to function as a pair of smoked goggles once more. Signifer masks are often enhanced, becoming variants of items that take up the head item slot. Additionally, when a character takes levels in the Hellknight signifer prestige class, this mask grants the benefits and capabilities of the signifer mask supernatural ability."
 			]
 		},
 		{
@@ -27233,7 +27233,7 @@
 				"**Category** Transport, Land"
 			],
 			"description": [
-				"A smuggler's wagon functions in most respects exactly like an ordinary wagon (Pathfinder RPG Ultimate Equipment 87), except it contains hidden compartments that allow for cargo to be transported in secret. The price of a smuggler's wagon depends on two factors-the size or type of the original wagon, and the skill with which the hidden compartments have been constructed. The table below details the prices of such a vehicle (the numbers in parentheses indicate the DC for a Perception check to successfully locate the hidden compartments during a search of the wagon).",
+				"A smuggler's wagon functions in most respects exactly like an ordinary wagon, except it contains hidden compartments that allow for cargo to be transported in secret. The price of a smuggler's wagon depends on two factors-the size or type of the original wagon, and the skill with which the hidden compartments have been constructed. The table below details the prices of such a vehicle (the numbers in parentheses indicate the DC for a Perception check to successfully locate the hidden compartments during a search of the wagon).",
 				"| Concealment Quality |",
 				"| --- |",
 				"| Size | Low (15) | Med. (20) | High (25) |",
@@ -27422,7 +27422,7 @@
 				"**Category** Clothing"
 			],
 			"description": [
-				"These goggles, carved from bone with a narrow slit opening and held in place with leather straps, work as smoked goggles (Advanced Player's Guide 183). In addition, they provide immunity to polar mirages."
+				"These goggles, carved from bone with a narrow slit opening and held in place with leather straps, work as smoked goggles. In addition, they provide immunity to polar mirages."
 			]
 		},
 		{
@@ -27544,7 +27544,7 @@
 			"cost": 1,
 			"weight": 5,
 			"heading": [
-				"**Soldierâ€™s uniform**",
+				"**Soldier's uniform**",
 				"**Source** [Ultimate Equipment pg. 89](source:Ultimate Equipment)",
 				"**Price** 1 gp; **Weight** 5 lbs.",
 				"**Category** Clothing"
@@ -27570,7 +27570,7 @@
 			],
 			"description": [
 				"Nearly 50 ancient tales and songs have been collected on this long scroll. Contrasting with the obvious antiquity of the papyrus, the illuminated images are vivid and the writing is clear (though occasionally difficult to decipher due to elaborate embellishments), as the inks used were infused with unguent of timelessness.",
-				"This folio is the most complete extant collection of poems by the legendary marid bard Shazathared. Most of the poems recount the binding of Rovagug by the gods and the fates of his terrible spawn, but several pieces, told from the point of view of a genie princess, speak of defending the princess's home and allies against bandit-kings, tempests, and evil magic. A bard with access to a complete copy of these poems can learn the defensive songs in the folio as the masterpiece presented below by paying the normal masterpiece cost (Pathfinder RPG Ultimate Magic 21)."
+				"This folio is the most complete extant collection of poems by the legendary marid bard Shazathared. Most of the poems recount the binding of Rovagug by the gods and the fates of his terrible spawn, but several pieces, told from the point of view of a genie princess, speak of defending the princess's home and allies against bandit-kings, tempests, and evil magic. A bard with access to a complete copy of these poems can learn the defensive songs in the folio as the masterpiece presented below by paying the normal masterpiece cost."
 			]
 		},
 		{
@@ -27847,7 +27847,7 @@
 				"**Category** Tools"
 			],
 			"description": [
-				"A spellbook has 100 pages of parchment, and each spell takes up one page per spell level (one page each for 0-level spells). A newly purchased spellbook contains no spells. A wizard character begins play with a spellbook containing the spells he knows (Core Rulebook 79)."
+				"A spellbook has 100 pages of parchment, and each spell takes up one page per spell level (one page each for 0-level spells). A newly purchased spellbook contains no spells. A wizard character begins play with a spellbook containing the spells he knows."
 			]
 		},
 		{
@@ -28125,7 +28125,7 @@
 				"**Category** Adventuring Gear"
 			],
 			"description": [
-				"These offerings take many forms, such as food, incense, pinwheels, rare teas, perfectly smooth white pebbles, or stone tablets, but they are always kept in pouches tied with ribbon. Travelers in the Dragon Empires leave these offerings at the small shrines or holy sites that can be found scattered along roads. For 1 hour after a traveler leaves a spirit offering, any kami (Bestiary 3 159) the traveler encounters has its initial attitude improved by one step. This attitude adjustment reverts to normal after 10 minutes unless the creature's attitude is adjusted further during that time, such as via the Diplomacy skill, in which case the kami's attitude does not revert after the offering's effect expires. Once a spirit offering has been used to improved a kami's attitude, it cannot be reused."
+				"These offerings take many forms, such as food, incense, pinwheels, rare teas, perfectly smooth white pebbles, or stone tablets, but they are always kept in pouches tied with ribbon. Travelers in the Dragon Empires leave these offerings at the small shrines or holy sites that can be found scattered along roads. For 1 hour after a traveler leaves a spirit offering, any kami the traveler encounters has its initial attitude improved by one step. This attitude adjustment reverts to normal after 10 minutes unless the creature's attitude is adjusted further during that time, such as via the Diplomacy skill, in which case the kami's attitude does not revert after the offering's effect expires. Once a spirit offering has been used to improved a kami's attitude, it cannot be reused."
 			]
 		},
 		{
@@ -29293,7 +29293,7 @@
 				"**Price** 1 sp (mundane), 8 gp (potion); **Weight** 1 lb. (mundane), - (potion)"
 			],
 			"description": [
-				"While potion sponges (Advanced Race Guide 177) are a reasonable enough method for air-breathers like undines to prepare to bring a potion underwater, aquatic creatures prefer a solution that allows them to prepare potions, beverages, and other liquids underwater to begin with. A sureseal bladder is made of a thin membrane that won't allow liquid through. By passing a solid spout or tube through the membrane, you can fill the bladder without allowing in any ambient seawater, and the membrane seals behind the spout. Once the bladder is full, the drinker can nip on the end of the membrane in order to sip the drink at her leisure, slowly crumpling the bladder for eventual disposal. The cheaper mundane sureseal bladders hold about 2 cups of liquid and work best for enjoying a favorite drink; the listed weight assumes the mundane sureseal bladder is full. Potions rely on drinking the entire dose, so potion sureseal bladders, while much smaller (just large enough for a potion), are pressurized in order to expel the entire potion at once without losing any of it, allowing the drinker to drink them as a standard action just like drinking a potion above the waves. Either type of sureseal bladder can be used only once."
+				"While potion sponges are a reasonable enough method for air-breathers like undines to prepare to bring a potion underwater, aquatic creatures prefer a solution that allows them to prepare potions, beverages, and other liquids underwater to begin with. A sureseal bladder is made of a thin membrane that won't allow liquid through. By passing a solid spout or tube through the membrane, you can fill the bladder without allowing in any ambient seawater, and the membrane seals behind the spout. Once the bladder is full, the drinker can nip on the end of the membrane in order to sip the drink at her leisure, slowly crumpling the bladder for eventual disposal. The cheaper mundane sureseal bladders hold about 2 cups of liquid and work best for enjoying a favorite drink; the listed weight assumes the mundane sureseal bladder is full. Potions rely on drinking the entire dose, so potion sureseal bladders, while much smaller (just large enough for a potion), are pressurized in order to expel the entire potion at once without losing any of it, allowing the drinker to drink them as a standard action just like drinking a potion above the waves. Either type of sureseal bladder can be used only once."
 			]
 		},
 		{
@@ -29570,7 +29570,7 @@
 				"**Category** Alchemical Remedies"
 			],
 			"description": [
-				"A laboratory-created version of the expensive and infamous Osirian drug mumia (Pathfinder Campaign Setting: Lost Kingdoms 21), synthetic mumia is a mixture of honey, embalming fluids, and various animal organs. The murky liquid comes enclosed in small packets made of intestine. Mumia and synthetic mumia may be taken interchangeably to stave off the effects of addiction to either substance, and is thus used by some mumia junkies hoping to quit their addiction. Crafting synthetic mumia requires a successful DC 14 Craft (Alchemy) check.",
+				"A laboratory-created version of the expensive and infamous Osirian drug mumia, synthetic mumia is a mixture of honey, embalming fluids, and various animal organs. The murky liquid comes enclosed in small packets made of intestine. Mumia and synthetic mumia may be taken interchangeably to stave off the effects of addiction to either substance, and is thus used by some mumia junkies hoping to quit their addiction. Crafting synthetic mumia requires a successful DC 14 Craft (Alchemy) check.",
 				"Synthetic Mumia",
 				"Type ingested or injury; Addiction moderate, Fortitude DC 14",
 				"Price 150 gp",
@@ -29767,7 +29767,7 @@
 				"**Category** Food/Drink"
 			],
 			"description": [
-				"elp tea is a favorite relaxing drink under the sea, brewed from various rare species of kelp to create over a dozen distinctive flavors. The listed price pays for enough tea to fill a small waterproof bladder such as a sureseal bladder (Pathfinder Campaign Setting Aquatic Adventures 56) and doesn't include the price of the bladder."
+				"elp tea is a favorite relaxing drink under the sea, brewed from various rare species of kelp to create over a dozen distinctive flavors. The listed price pays for enough tea to fill a small waterproof bladder such as a sureseal bladder and doesn't include the price of the bladder."
 			]
 		},
 		{
@@ -31124,7 +31124,7 @@
 				"**Price** 7 gp (medium), 37 gp (huge), 15 gp (large), 3 gp (small); **Weight** 50 lbs. (medium), 250 lbs. (huge), 100 lbs. (large), 25 lbs. (small)"
 			],
 			"description": [
-				"A treasure chest is a common wooden chest treated with resin to make the wood water-resistant. Metal bands, usually bronze to prevent rusting, are strapped around the treasure chest for extra reinforcement, and the lock is also typically made of bronze. A treasure chest uses the statistics of an ordinary wooden chest (Pathfinder RPG Ultimate Equipment 62), but its hit points increase by 25% and its break DC increases by 2. Treasure chests are waterproof and withstand being buried better than ordinary chests"
+				"A treasure chest is a common wooden chest treated with resin to make the wood water-resistant. Metal bands, usually bronze to prevent rusting, are strapped around the treasure chest for extra reinforcement, and the lock is also typically made of bronze. A treasure chest uses the statistics of an ordinary wooden chest, but its hit points increase by 25% and its break DC increases by 2. Treasure chests are waterproof and withstand being buried better than ordinary chests"
 			]
 		},
 		{
@@ -31177,7 +31177,7 @@
 				"**Category** Torture Implements"
 			],
 			"description": [
-				"This surgical instrument has a serrated, circular blade that is used to bore holes into the skulls of patients to relieve cranial swelling from head trauma or, as some chirurgeons believe, release evil spirits. Use of a trephine takes 10 minutes, and deals 5 points of piercing damage to the subject creature. With a successful DC 25 Heal check, the user can heal up to 1d4 points of ability damage to any one mental ability score caused by physical trauma to the head, such as the critical called shot or debilitating blow called shot (Pathfinder RPG Ultimate Combat 196), or it can cure the severe brain trauma inflicted by the debilitating blow called shot. If the user fails the check, the subject still takes 5 points of piercing damage. If the user fails the check by 5 or more, the subject instead takes 10 points of piercing damage and 1 point of damage each to its Intelligence, Wisdom, and Charisma scores."
+				"This surgical instrument has a serrated, circular blade that is used to bore holes into the skulls of patients to relieve cranial swelling from head trauma or, as some chirurgeons believe, release evil spirits. Use of a trephine takes 10 minutes, and deals 5 points of piercing damage to the subject creature. With a successful DC 25 Heal check, the user can heal up to 1d4 points of ability damage to any one mental ability score caused by physical trauma to the head, such as the critical called shot or debilitating blow called shot, or it can cure the severe brain trauma inflicted by the debilitating blow called shot. If the user fails the check, the subject still takes 5 points of piercing damage. If the user fails the check by 5 or more, the subject instead takes 10 points of piercing damage and 1 point of damage each to its Intelligence, Wisdom, and Charisma scores."
 			]
 		},
 		{
@@ -33173,7 +33173,7 @@
 				"**Category** Adventuring Gear"
 			],
 			"description": [
-				"This quarterstaff can unfold two sails on each side to become a simple glider that takes up no more space than its wielder. With a successful DC 10 Fly check as a full-round action, any Small or Medium creature holding the unfurled glider can glide downward at a 45-degree angle in a straight or diagonal line at a speed of 60 feet per round. Unfolding the wings is a full-round action. The wing staff imposes a -4 penalty on Fly checks because of its poor maneuverability and cannot be used to fly at other angles. A character may gain an advantage in an appropriate terrain tile during a pursuit (Pathfinder RPG Ultimate Intrigue 142), such as taking a shortcut by gliding over a forest. A wing staff's sails have AC 9 and hardness 0, and take double damage from acid and fire attacks. The sails have 20 hit points; if they take 9 points of damage, the sails and the staff gain the broken condition, and the sails don't function until repaired. When the sails are furled, a wing staff functions as a normal quarterstaff and can be enhanced as normal (this doesn't affect the sails), though if the staff gains the broken condition, the sails are also broken."
+				"This quarterstaff can unfold two sails on each side to become a simple glider that takes up no more space than its wielder. With a successful DC 10 Fly check as a full-round action, any Small or Medium creature holding the unfurled glider can glide downward at a 45-degree angle in a straight or diagonal line at a speed of 60 feet per round. Unfolding the wings is a full-round action. The wing staff imposes a -4 penalty on Fly checks because of its poor maneuverability and cannot be used to fly at other angles. A character may gain an advantage in an appropriate terrain tile during a pursuit, such as taking a shortcut by gliding over a forest. A wing staff's sails have AC 9 and hardness 0, and take double damage from acid and fire attacks. The sails have 20 hit points; if they take 9 points of damage, the sails and the staff gain the broken condition, and the sails don't function until repaired. When the sails are furled, a wing staff functions as a normal quarterstaff and can be enhanced as normal (this doesn't affect the sails), though if the staff gains the broken condition, the sails are also broken."
 			]
 		},
 		{

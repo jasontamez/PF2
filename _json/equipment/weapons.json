@@ -247,7 +247,7 @@
 				"**Category** Alchemical Weapons"
 			],
 			"description": [
-				"This arrow ends in a crystalline bubble filled with a viscous alchemical dyeing agent. Firing a dye arrow is a ranged touch attack; a creature struck by a dye arrow takes no damage but is splashed with enough black, blue, green, or red marker dye (Pathfinder RPG Ultimate Equipment 104) to coat about 1 square foot. The stain caused by marker dye cannot be washed off except with magic for the first 72 hours, but fades completely after 2 weeks."
+				"This arrow ends in a crystalline bubble filled with a viscous alchemical dyeing agent. Firing a dye arrow is a ranged touch attack; a creature struck by a dye arrow takes no damage but is splashed with enough black, blue, green, or red marker dye to coat about 1 square foot. The stain caused by marker dye cannot be washed off except with magic for the first 72 hours, but fades completely after 2 weeks."
 			],
 			"alchemical_recipe": [
 				"**Recipe** (1 cold iron + 1 phosphorus)/earth;  Craft 25",
@@ -466,7 +466,7 @@
 			],
 			"description": [
 				"This congealed incendiary functions like alchemist's fire, but its white-hot flames deal 2d6 points of fire damage on a direct hit and 1d6 points of splash damage to adjacent creatures.",
-				"**Mythic:** You can expend one use of mythic power while throwing a flask of Artokus's fire to cause the substance to burn hotter and longer than normal. A creature struck by a direct hit of Artokus's fire must succeed at a DC 15 Reflex save or continue to take 1d4 points of fire damage each round at the beginning of its turn. A burning creature can attempt a new save as a full-round action. This effect lasts for a number of rounds equal to the user's mythic tier, and otherwise acts as the burn universal monster rule (Pathfinder RPG Bestiary 298). Artokus's fire used in this way burns even underwater, offering no relief to creatures that try to extinguish the fire by dousing or immersing themselves in water."
+				"**Mythic:** You can expend one use of mythic power while throwing a flask of Artokus's fire to cause the substance to burn hotter and longer than normal. A creature struck by a direct hit of Artokus's fire must succeed at a DC 15 Reflex save or continue to take 1d4 points of fire damage each round at the beginning of its turn. A burning creature can attempt a new save as a full-round action. This effect lasts for a number of rounds equal to the user's mythic tier, and otherwise acts as the burn universal monster rule. Artokus's fire used in this way burns even underwater, offering no relief to creatures that try to extinguish the fire by dousing or immersing themselves in water."
 			],
 			"alchemical_recipe": [
 				"**Recipe** (20 magnesium + 25 saltpeter + 30 spirit of wine)/congelation;  Craft 30",
@@ -812,7 +812,7 @@
 				"**Category** Alchemical Weapons"
 			],
 			"description": [
-				"This volatile liquid is usually dispensed from a spray atomizer, which disperses the liquid in a 15-foot cone. Congealer spray causes the surface of an ooze creature to stiffen into a leathery material. Ooze and plant creatures in the affected area become staggered for 1d4 rounds (Fortitude DC 15 negates). If an affected creature has the split defensive ability (Bestiary 2 302), it cannot benefit from that ability until the effects of the congealer spray wear off, regardless of whether the creature succeeded at its saving throw."
+				"This volatile liquid is usually dispensed from a spray atomizer, which disperses the liquid in a 15-foot cone. Congealer spray causes the surface of an ooze creature to stiffen into a leathery material. Ooze and plant creatures in the affected area become staggered for 1d4 rounds (Fortitude DC 15 negates). If an affected creature has the split defensive ability, it cannot benefit from that ability until the effects of the congealer spray wear off, regardless of whether the creature succeeded at its saving throw."
 			],
 			"alchemical_recipe": [
 				"**Recipe** (4 realgar + 5 salt + 5 urea)/distillation;  Craft 20",
@@ -1149,9 +1149,9 @@
 			"description": [
 				"A fiery boulder is a large, roughly boulder-shaped version of alchemist's fire favored by giants. A direct hit from a fiery boulder deals 2d6 points of fire damage and 5 points of fire damage to every creature affected by its splash damage. All creatures affected by a fiery boulder's direct damage take an additional 2d6 points of fire damage the following round; affected creatures can use a full-round action to attempt to extinguish the flames before taking this additional damage.",
 				"Greater Splash Weapon",
-				"This splash weapon works in some ways like a normal splash weapon (Pathfinder RPG Core Rulebook 202), but its effects cover a larger area. Like a normal splash weapon, a greater splash weapon requires no weapon proficiency, and you throw it by making a ranged touch attack. A hit deals direct hit damage to the target and to creatures and objects in squares within 5 feet of that target. It then deals splash damage to all creatures within 10 feet of the target. If the target takes up more than a 5-foot square, you can chose one of its squares as the center of the effect. The direct damage affects the squares normally, so a Large or larger creature could take both the direct damage and the splash damage depending on the square you choose. The splash damage for a greater splash weapon is 5 points of the appropriate damage type for the weapon.",
+				"This splash weapon works in some ways like a normal splash weapon, but its effects cover a larger area. Like a normal splash weapon, a greater splash weapon requires no weapon proficiency, and you throw it by making a ranged touch attack. A hit deals direct hit damage to the target and to creatures and objects in squares within 5 feet of that target. It then deals splash damage to all creatures within 10 feet of the target. If the target takes up more than a 5-foot square, you can chose one of its squares as the center of the effect. The direct damage affects the squares normally, so a Large or larger creature could take both the direct damage and the splash damage depending on the square you choose. The splash damage for a greater splash weapon is 5 points of the appropriate damage type for the weapon.",
 				"Like a normal splash weapon, you can also choose to target a specific grid intersection (treating it as a ranged attack against AC 5). If it hits, the greater splash weapon deals direct damage to creatures and objects in squares within 5 feet of the targeted intersection, and splash damage to creatures within 10 feet of the targeted intersection. As with a normal splash weapon, you cannot target a grid intersection occupied by a creature.",
-				"Greater splash weapons can be thrown as if they were a rock using the rock throwing universal monster rule (Pathfinder RPG Bestiary 303), and caught with rock catching (Bestiary 303), though the DC to catch a greater splash weapon is 10 higher than normal due to its fragile and volatile nature. If a creature fails its Reflex saving throw to catch a greater splash weapon, the weapon automatically breaks, treating the creature attempting to catch it as the splash weapon's target.",
+				"Greater splash weapons can be thrown as if they were a rock using the rock throwing universal monster rule, and caught with rock catching, though the DC to catch a greater splash weapon is 10 higher than normal due to its fragile and volatile nature. If a creature fails its Reflex saving throw to catch a greater splash weapon, the weapon automatically breaks, treating the creature attempting to catch it as the splash weapon's target.",
 				"A greater splash weapon can be used only by Large or larger creatures, though it can be used as ammunition in a catapult or trebuchet. When used as ammunition in one of these siege engines, use the range for the engine rather than the greater splash weapon's range."
 			],
 			"construction": [
@@ -1451,7 +1451,7 @@
 				"**Category** Alchemical Weapons"
 			],
 			"description": [
-				"You can use this rocket can deliver simple auditory and visual signals to an army from a distance. When used during mass combat, a signal rocket allows a commander to change strategy track (Pathfinder RPG Ultimate Campaign 239) with a higher degree of success than normal. A commander can launch a signal rocket while changing a strategy track by more than 1 step to grant his army a +5 circumstance bonus on its Morale check to implement his orders. Crafting this item requires a successful DC 15 Craft (alchemy) check."
+				"You can use this rocket can deliver simple auditory and visual signals to an army from a distance. When used during mass combat, a signal rocket allows a commander to change strategy track with a higher degree of success than normal. A commander can launch a signal rocket while changing a strategy track by more than 1 step to grant his army a +5 circumstance bonus on its Morale check to implement his orders. Crafting this item requires a successful DC 15 Craft (alchemy) check."
 			],
 			"construction": [
 				"Craft (Alchemy) DC 15"
@@ -1766,7 +1766,7 @@
 				"**Category** Alchemical Weapons"
 			],
 			"description": [
-				"Incendiary catalyst can be thrown at a creature as a ranged touch attack with a range increment of 10 feet. On a hit, the target is doused with accelerants that give the target vulnerability to fire (Pathfinder RPG Bestiary 305) for 1 round. Incendiary catalyst does not affect creatures that are already vulnerable to fire, and the target's fire immunity and resistances apply as normal. Crafting this item requires a successful DC 20 Craft (alchemy) check."
+				"Incendiary catalyst can be thrown at a creature as a ranged touch attack with a range increment of 10 feet. On a hit, the target is doused with accelerants that give the target vulnerability to fire for 1 round. Incendiary catalyst does not affect creatures that are already vulnerable to fire, and the target's fire immunity and resistances apply as normal. Crafting this item requires a successful DC 20 Craft (alchemy) check."
 			],
 			"construction": [
 				"Craft (Alchemy) DC 20"
@@ -2041,9 +2041,9 @@
 			"description": [
 				"Giant alchemists make these items by manipulating the controlled decomposition of a dead hog. This greater splash weapon deals no damage, but those within its primary area of effect-the target and those within 5 feet of the target or those within 5 feet of the intersection-must succeed at a DC 20 Fortitude save or be nauseated for 1d4 rounds.",
 				"Greater Splash Weapon",
-				"This splash weapon works in some ways like a normal splash weapon (Pathfinder RPG Core Rulebook 202), but its effects cover a larger area. Like a normal splash weapon, a greater splash weapon requires no weapon proficiency, and you throw it by making a ranged touch attack. A hit deals direct hit damage to the target and to creatures and objects in squares within 5 feet of that target. It then deals splash damage to all creatures within 10 feet of the target. If the target takes up more than a 5-foot square, you can chose one of its squares as the center of the effect. The direct damage affects the squares normally, so a Large or larger creature could take both the direct damage and the splash damage depending on the square you choose. The splash damage for a greater splash weapon is 5 points of the appropriate damage type for the weapon.",
+				"This splash weapon works in some ways like a normal splash weapon, but its effects cover a larger area. Like a normal splash weapon, a greater splash weapon requires no weapon proficiency, and you throw it by making a ranged touch attack. A hit deals direct hit damage to the target and to creatures and objects in squares within 5 feet of that target. It then deals splash damage to all creatures within 10 feet of the target. If the target takes up more than a 5-foot square, you can chose one of its squares as the center of the effect. The direct damage affects the squares normally, so a Large or larger creature could take both the direct damage and the splash damage depending on the square you choose. The splash damage for a greater splash weapon is 5 points of the appropriate damage type for the weapon.",
 				"Like a normal splash weapon, you can also choose to target a specific grid intersection (treating it as a ranged attack against AC 5). If it hits, the greater splash weapon deals direct damage to creatures and objects in squares within 5 feet of the targeted intersection, and splash damage to creatures within 10 feet of the targeted intersection. As with a normal splash weapon, you cannot target a grid intersection occupied by a creature.",
-				"Greater splash weapons can be thrown as if they were a rock using the rock throwing universal monster rule (Pathfinder RPG Bestiary 303), and caught with rock catching (Bestiary 303), though the DC to catch a greater splash weapon is 10 higher than normal due to its fragile and volatile nature. If a creature fails its Reflex saving throw to catch a greater splash weapon, the weapon automatically breaks, treating the creature attempting to catch it as the splash weapon's target.",
+				"Greater splash weapons can be thrown as if they were a rock using the rock throwing universal monster rule, and caught with rock catching, though the DC to catch a greater splash weapon is 10 higher than normal due to its fragile and volatile nature. If a creature fails its Reflex saving throw to catch a greater splash weapon, the weapon automatically breaks, treating the creature attempting to catch it as the splash weapon's target.",
 				"A greater splash weapon can be used only by Large or larger creatures, though it can be used as ammunition in a catapult or trebuchet. When used as ammunition in one of these siege engines, use the range for the engine rather than the greater splash weapon's range."
 			],
 			"construction": [
@@ -2170,7 +2170,7 @@
 				"**Category** Alchemical Weapons"
 			],
 			"description": [
-				"This vial contains a large snowflake that melts only at temperatures of 140 degrees Fahrenheit or above. Perfect ice is an alchemically engineered form of water that briefly converts any moisture it touches into a similar state. When a flask of perfect ice is opened or broken (such as by being thrown as a splash weapon), the snowflake within expands rapidly, forming a layer of ice and snow with a 60-foot radius along any nearby surface. Any living creature that touches an area of perfect ice or starts its turn in a space of perfect ice takes 4d6 points of damage from desiccation as some of the water in its body crystallizes (Fortitude DC 18 half). Creatures with the water subtype take half again as much damage (150%) and receive no saving throw. The ice crystals that form along flat surfaces are large and strong, and are treated as caltrops. The ice persists for 10 minutes, after which it vaporizes or reverts to a normal state for its temperature. To avoid the hazards of its large area of effect, many users propel the vial from a launching crossbow (Pathfinder Player Companion: Adventurer's Armory 4) or use similar means to extend their throwing range."
+				"This vial contains a large snowflake that melts only at temperatures of 140 degrees Fahrenheit or above. Perfect ice is an alchemically engineered form of water that briefly converts any moisture it touches into a similar state. When a flask of perfect ice is opened or broken (such as by being thrown as a splash weapon), the snowflake within expands rapidly, forming a layer of ice and snow with a 60-foot radius along any nearby surface. Any living creature that touches an area of perfect ice or starts its turn in a space of perfect ice takes 4d6 points of damage from desiccation as some of the water in its body crystallizes (Fortitude DC 18 half). Creatures with the water subtype take half again as much damage (150%) and receive no saving throw. The ice crystals that form along flat surfaces are large and strong, and are treated as caltrops. The ice persists for 10 minutes, after which it vaporizes or reverts to a normal state for its temperature. To avoid the hazards of its large area of effect, many users propel the vial from a launching crossbow or use similar means to extend their throwing range."
 			],
 			"construction": [
 				"Craft (Alchemy) DC 25"
@@ -2463,7 +2463,7 @@
 				"**Price** 60 gp (Pepper), 40 gp (Smog); **Weight** - (Pepper), - (Smog)"
 			],
 			"description": [
-				"Like standard smoke pellets (Ultimate Equipment 105), these specialty pellets fill a single 5-foot square with opaque smoke for 1 round when broken. They can also be thrown as a ranged touch attack with a range increment of 10 feet. However, unlike standard smoke pellets, these pellets produce smoke that confers additional effects.",
+				"Like standard smoke pellets, these specialty pellets fill a single 5-foot square with opaque smoke for 1 round when broken. They can also be thrown as a ranged touch attack with a range increment of 10 feet. However, unlike standard smoke pellets, these pellets produce smoke that confers additional effects.",
 				"**Pepper Pellet:** The smoke from a pepper pellet is an ocular and respiratory irritant, and creatures that are hit by a pepper pellet or pass through the smoke must succeed at a DC 12 Fortitude save or be sickened for 1 round.",
 				"**Smog Pellet:** The smoke from a smog pellet is oily, and creatures that are hit by a smog pellet or pass through the smoke are covered in thick residue. This residue makes invisible creatures visible for 1d4 rounds."
 			],
@@ -2903,7 +2903,7 @@
 				"**Source** [Ranged Tactics Toolbox pg. 19](source:Ranged Tactics Toolbox)"
 			],
 			"description": [
-				"The head of a barbed arrow resembles that of a harpoon. When a barbed arrow is attached to a length of silk rope and fired from a bow, the arrow's range increment is reduced to 30 feet, but it gains the grapple special weapon quality (Pathfinder RPG Ultimate Equipment 22). Barbed bolts exist for crossbows."
+				"The head of a barbed arrow resembles that of a harpoon. When a barbed arrow is attached to a length of silk rope and fired from a bow, the arrow's range increment is reduced to 30 feet, but it gains the grapple special weapon quality. Barbed bolts exist for crossbows."
 			],
 			"statistics": [
 				"**Cost** 2 gp **Weight** 3 lbs.",
@@ -4015,7 +4015,7 @@
 				"**Source** [Merchant's Manifest pg. 11](source:Merchant's Manifest)"
 			],
 			"description": [
-				"These weapons are treated sticks of wood, either left bare or covered in elaborate decorative designs. Baston fighting sticks vary in length from 2 to 4 feet, with thicknesses varying between 1 to 3 inches. In most applications, these weapons are similar to clubs or quarterstaffs, but in the hands of a trained expert, they truly shine. A creature with the Combat Reflexes feat treats the weapon as having the blocking and performance weapon special features (Pathfinder RPG Ultimate Equipment 22)."
+				"These weapons are treated sticks of wood, either left bare or covered in elaborate decorative designs. Baston fighting sticks vary in length from 2 to 4 feet, with thicknesses varying between 1 to 3 inches. In most applications, these weapons are similar to clubs or quarterstaffs, but in the hands of a trained expert, they truly shine. A creature with the Combat Reflexes feat treats the weapon as having the blocking and performance weapon special features."
 			],
 			"statistics": [
 				"**Cost** 10 gp **Weight** 2 lbs.",
@@ -9356,7 +9356,7 @@
 				"**Source** [Ultimate Equipment pg. 20](source:Ultimate Equipment), [Into the Darklands pg. 61](source:Into the Darklands), [Adventurer's Armory pg. 4](source:Adventurer's Armory)"
 			],
 			"description": [
-				"This sword is used almost exclusively by the life-hating urdefhans (Bestiary 2 276). The sword is the size of a longsword but consists of two serrated blades placed side by side."
+				"This sword is used almost exclusively by the life-hating urdefhans. The sword is the size of a longsword but consists of two serrated blades placed side by side."
 			],
 			"statistics": [
 				"**Cost** 25 gp **Weight** 6 lbs.",
@@ -13010,7 +13010,7 @@
 				"A radium pistol is a one-handed weapon with a revolving cylinder containing six chambers. Each chamberholdsaspecial radium-powder cartridge, and when one cartridge is fired, the cylinder automatically rotates (no extra hand or action required). readying the next cartridge for -ring.",
 				"Radium Weapons",
 				"Barsoomian -rearms are stocked with rare local woods. Metal components consist of an alloy of aluminum and steel that exceeds the strength of Earth metals (giving Barsoomian -mrms a hardness of 12). Radium weapons fire special cartridges that must be manufactured under arti-cial light, as exposure to sunlight results in an explosion. When the cartridges strike their target they shatter exposingthe radium powder within. The moment sunlight strikes this substance it explodes with considerable violence, making the weapons versatile for either direct fire or suppressive fire. Radium weapons follow the general rules for advanced firearms found in Pathfinder Rolepla-ng Game: Ultimate Combat.",
-				"All radium weapons use radium cartridges for ammunition. As a result. in addition to targeting speci-c creatures or objects. the wielder may fire a radium weapon at an unoccupied square similar to throwing a splash weapon (Pathfinder RFC Core Rulebook 202). All creatures within 15 feet of the targeted square take 2d6 points of bludgeoning, piercing, and slashing damage (Reflex DC 15 half). Radium cartridge damage does not change based on the size of the weapon used to fire them. Radium cartridges cannot be -red effectively in this way outside the rays of the sun, such as underground or at night. Radium cartridges cost 3 gp per cartridge."
+				"All radium weapons use radium cartridges for ammunition. As a result. in addition to targeting speci-c creatures or objects. the wielder may fire a radium weapon at an unoccupied square similar to throwing a splash weapon. All creatures within 15 feet of the targeted square take 2d6 points of bludgeoning, piercing, and slashing damage (Reflex DC 15 half). Radium cartridge damage does not change based on the size of the weapon used to fire them. Radium cartridges cannot be -red effectively in this way outside the rays of the sun, such as underground or at night. Radium cartridges cost 3 gp per cartridge."
 			],
 			"statistics": [
 				"**Cost** 4,500 gp **Weight** 3 lbs.",
@@ -13151,7 +13151,7 @@
 				"The long  barrel and line construction ofthis two handed weapon allows for a range superior to  even modern Earth ri-es.",
 				"Radium Weapons",
 				"Barsoomian -rearms are stocked with rare local woods. Metal components consist of an alloy of aluminum and steel that exceeds the strength of Earth metals (giving Barsoomian -mrms a hardness of 12). Radium weapons fire special cartridges that must be manufactured under arti-cial light, as exposure to sunlight results in an explosion. When the cartridges strike their target they shatter exposingthe radium powder within. The moment sunlight strikes this substance it explodes with considerable violence, making the weapons versatile for either direct fire or suppressive fire. Radium weapons follow the general rules for advanced firearms found in Pathfinder Rolepla-ng Game: Ultimate Combat.",
-				"All radium weapons use radium cartridges for ammunition. As a result. in addition to targeting speci-c creatures or objects. the wielder may fire a radium weapon at an unoccupied square similar to throwing a splash weapon (Pathfinder RFC Core Rulebook 202). All creatures within 15 feet of the targeted square take 2d6 points of bludgeoning, piercing, and slashing damage (Reflex DC 15 half). Radium cartridge damage does not change based on the size of the weapon used to fire them. Radium cartridges cannot be -red effectively in this way outside the rays of the sun, such as underground or at night. Radium cartridges cost 3 gp per cartridge."
+				"All radium weapons use radium cartridges for ammunition. As a result. in addition to targeting speci-c creatures or objects. the wielder may fire a radium weapon at an unoccupied square similar to throwing a splash weapon. All creatures within 15 feet of the targeted square take 2d6 points of bludgeoning, piercing, and slashing damage (Reflex DC 15 half). Radium cartridge damage does not change based on the size of the weapon used to fire them. Radium cartridges cannot be -red effectively in this way outside the rays of the sun, such as underground or at night. Radium cartridges cost 3 gp per cartridge."
 			],
 			"statistics": [
 				"**Cost** 5,500 gp **Weight** 10 lbs.",
@@ -13259,7 +13259,7 @@
 				"Similar in construction to the standard radium rifle employed by Barsoom's red Martians, the Thark rifle (named for Barsoom's most prominent green Martian tribe) offers a staggering range and greater damage capacity fitting the brutality of its Large wielder. The Thark rifle is a Large two-handed weapon.",
 				"Radium Weapons",
 				"Barsoomian firearms are stocked with rare local woods. Metal components consist of an alloy of aluminum and steel that exceeds the strength of Earth metals (giving Barsoomian firarms a hardness of 12). Radium weapons fire special cartridges that must be manufactured under artificial light, as exposure to sunlight results in an explosion. When the cartridges strike their target they shatter exposing the radium powder within. The moment sunlight strikes this substance it explodes with considerable violence, making the weapons versatile for either direct fire or suppressive fire. Radium weapons follow the general rules for advanced firearms found in Pathfinder Roleplaying Game: Ultimate Combat.",
-				"All radium weapons use radium cartridges for ammunition. As a result. in addition to targeting specific creatures or objects. the wielder may fire a radium weapon at an unoccupied square similar to throwing a splash weapon (Pathfinder RFC Core Rulebook 202). All creatures within 15 feet of the targeted square take 2d6 points of bludgeoning, piercing, and slashing damage (Reflex DC 15 half). Radium cartridge damage does not change based on the size of the weapon used to fire them. Radium cartridges cannot be fired effectively in this way outside the rays of the sun, such as underground or at night. Radium cartridges cost 3 gp per cartridge."
+				"All radium weapons use radium cartridges for ammunition. As a result. in addition to targeting specific creatures or objects. the wielder may fire a radium weapon at an unoccupied square similar to throwing a splash weapon. All creatures within 15 feet of the targeted square take 2d6 points of bludgeoning, piercing, and slashing damage (Reflex DC 15 half). Radium cartridge damage does not change based on the size of the weapon used to fire them. Radium cartridges cannot be fired effectively in this way outside the rays of the sun, such as underground or at night. Radium cartridges cost 3 gp per cartridge."
 			],
 			"statistics": [
 				"**Cost** 6,500 gp **Weight** 12 lbs.",

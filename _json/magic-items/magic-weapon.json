@@ -207,7 +207,7 @@
 				"Slot none; Price 178 gp ; Weight -"
 			],
 			"description": [
-				"When propelled from a firearm, this +1 alchemical paper cartridge changes the damage to fire damage. If the target takes fire damage from the cartridge, it must succeed at a DC 14 Reflex saving throw or catch on fire, taking an additional 1d6 points of fire damage on that round and on subsequent rounds, until the flames are extinguished (Pathfinder RPG Core Rulebook 444)."
+				"When propelled from a firearm, this +1 alchemical paper cartridge changes the damage to fire damage. If the target takes fire damage from the cartridge, it must succeed at a DC 14 Reflex saving throw or catch on fire, taking an additional 1d6 points of fire damage on that round and on subsequent rounds, until the flames are extinguished."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, scorching ray; Price 98 gp"
 		},
@@ -343,7 +343,7 @@
 				"Slot none; Price 266 gp ; Weight 1 lb."
 			],
 			"description": [
-				"The warped clay sphere of this +1 fuse grenade (Ultimate Equipment 107) is painted with a crimson bull's-eye symbol and its fuse is dyed red. An unerring grenade can be lit as a move action and thrown like a splash weapon. An unerring grenade veers toward its target, whether a creature or a grid intersection, negating any miss chances that would otherwise apply, such as from concealment. The thrower still has to aim at the right square or grid intersection. An unerring grenade otherwise functions as a normal fuse grenade (Reflex DC 16 half)."
+				"The warped clay sphere of this +1 fuse grenade is painted with a crimson bull's-eye symbol and its fuse is dyed red. An unerring grenade can be lit as a move action and thrown like a splash weapon. An unerring grenade veers toward its target, whether a creature or a grid intersection, negating any miss chances that would otherwise apply, such as from concealment. The thrower still has to aim at the right square or grid intersection. An unerring grenade otherwise functions as a normal fuse grenade (Reflex DC 16 half)."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, true seeing; Price 186 gp"
 		},
@@ -386,7 +386,7 @@
 				"Slot none; Price 306 gp ; Weight -"
 			],
 			"description": [
-				"This animated wood and metal snake squirms and hisses when handled, attempting to bite its holder just as a real snake might. To use the snakebiter arrow as a projectile, the bearer must first succeed at a DC 10 Handle Animal or wild empathy check to get the snake to shape itself into a +1 seeking arrow or a +1 seeking bolt (this is considered a trick known by the snake) for 1 minute. Failure means the snake attacks the bearer for 1 round, using the statistics of a Tiny viper familiar (Pathfinder RPG Bestiary 133). A target struck by the projectile must succeed at a saving throw or be affected by a powerful variant black adder venom (Fortitude DC 20). Normally, these items are carried in a pouch rather than a quiver to prevent them from getting loose."
+				"This animated wood and metal snake squirms and hisses when handled, attempting to bite its holder just as a real snake might. To use the snakebiter arrow as a projectile, the bearer must first succeed at a DC 10 Handle Animal or wild empathy check to get the snake to shape itself into a +1 seeking arrow or a +1 seeking bolt (this is considered a trick known by the snake) for 1 minute. Failure means the snake attacks the bearer for 1 round, using the statistics of a Tiny viper familiar. A target struck by the projectile must succeed at a saving throw or be affected by a powerful variant black adder venom (Fortitude DC 20). Normally, these items are carried in a pouch rather than a quiver to prevent them from getting loose."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, animate objects, poison, true strike; Price 156 gp"
 		},
@@ -1259,10 +1259,10 @@
 				"Slot none; Price 3,395 gp; Weight 4 lbs."
 			],
 			"description": [
-				"The blade of this +1 cutlass (Pirates of the Inner Sea 18) is spotted with rust, and its basket hilt is cast in the likeness of a grinning skull. Once per day, a tidewater cutlass can be used to cast hydraulic push.",
+				"The blade of this +1 cutlass is spotted with rust, and its basket hilt is cast in the likeness of a grinning skull. Once per day, a tidewater cutlass can be used to cast hydraulic push.",
 				"Tidewater cutlasses are not uncommon weapons among the pirates of the Shackles, at least for those who can afford to buy one or who manage to loot one from someone who can. Mr. Plugg acquired his cutlass from a seasoned old tar aboard the Wormwood who had the temerity to point out the first mate's insecurities, and was beaten to death for his impudence. When more traditional discipline techniques prove ineffective, Mr. Plugg has been know to use his tidewater cutlass to \"accidentally\" push impertinent sailors overboard to drown in the Wormwood's wake."
 			],
-			"construction": "Requirements Craft Magic Arms and Armor, hydraulic push (Pathfinder RPG Advanced Player's Guide 228); Price 1,855 gp"
+			"construction": "Requirements Craft Magic Arms and Armor, hydraulic push; Price 1,855 gp"
 		},
 		{
 			"name": "greater Burrowing Bullet",
@@ -1356,7 +1356,7 @@
 				"Slot none; Price 3,875 gp; Weight 3 lbs."
 			],
 			"description": [
-				"This stout +1 longbow is engraved with images of leaping deer. Designed to prevent inaccuracy while hunting in a group, the bow is imbued with magic that allows the wielder to accurately shoot past an ally. At will, the wielder can spend 1 minute attuning the bow to a touched ally. Thereafter, that ally no longer provides soft cover against ranged attacks with the kinbonded bow (Core Rulebook 196). Only one ally can be attuned to the bow at a time."
+				"This stout +1 longbow is engraved with images of leaping deer. Designed to prevent inaccuracy while hunting in a group, the bow is imbued with magic that allows the wielder to accurately shoot past an ally. At will, the wielder can spend 1 minute attuning the bow to a touched ally. Thereafter, that ally no longer provides soft cover against ranged attacks with the kinbonded bow. Only one ally can be attuned to the bow at a time."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, true strike; Price 2,125 gp"
 		},
@@ -1461,7 +1461,7 @@
 				"Slot none; Price 4,308 gp; Weight 9 lbs."
 			],
 			"description": [
-				"This +1 boarding pike (Pathfinder Player Companion: Pirates of the Inner Sea 18) is an 8-foot-long pole topped with a tapered metal spearpoint and a backward-facing hook, used to draw vessels closer together or repel boarders. A metal skull caps the butt of the pike. On command, a boarding pike of repelling can be extended as a swift action, giving its wielder a reach of 20 feet for 1 round. While the pike is extended, the wielder does not threaten adjacent creatures or creatures up to 15 feet away. A boarding pike of repelling can also be extended in this way to draw vessels closer together for boarding."
+				"This +1 boarding pike is an 8-foot-long pole topped with a tapered metal spearpoint and a backward-facing hook, used to draw vessels closer together or repel boarders. A metal skull caps the butt of the pike. On command, a boarding pike of repelling can be extended as a swift action, giving its wielder a reach of 20 feet for 1 round. While the pike is extended, the wielder does not threaten adjacent creatures or creatures up to 15 feet away. A boarding pike of repelling can also be extended in this way to draw vessels closer together for boarding."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, wood shape; Price 2,308 gp"
 		},
@@ -1524,7 +1524,7 @@
 				"Slot none; Price 4,310 gp; Weight 1 lb."
 			],
 			"description": [
-				"A wizard hook is a +1 hook hand (Pirates of the Inner Sea 19) and a useful item for any arcane spellcaster. Although a wizard hook does not allow for fine manipulation, it is infused with magic that bolsters somatic components-you can use a hand stump outfitted with a wizard hook to fulfill any somatic components for casting arcane spells. A wizard hook also grants proficiency in its use as a weapon. You can make touch attacks with spells using a wizard hook, either by making a normal attack with the hook (in which case it deals normal hook hand damage plus the spell effect), or by making a touch attack with the hook (in which case you gain a +4 bonus on the attack roll and the save DC of the spell increases by +1, but you do not do hook hand damage)."
+				"A wizard hook is a +1 hook hand and a useful item for any arcane spellcaster. Although a wizard hook does not allow for fine manipulation, it is infused with magic that bolsters somatic components-you can use a hand stump outfitted with a wizard hook to fulfill any somatic components for casting arcane spells. A wizard hook also grants proficiency in its use as a weapon. You can make touch attacks with spells using a wizard hook, either by making a normal attack with the hook (in which case it deals normal hook hand damage plus the spell effect), or by making a touch attack with the hook (in which case you gain a +4 bonus on the attack roll and the save DC of the spell increases by +1, but you do not do hook hand damage)."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, spectral hand; Price 2,310 gp"
 		},
@@ -1729,7 +1729,7 @@
 				"Slot none; Price 5,000 gp; Weight 2 lbs."
 			],
 			"description": [
-				"This +1 heavy wrist launcher appears to be a lavish, gold bracelet. This functions like the glamered weapon special ability (Pathfinder RPG Ultimate Equipment 142), except a biting bracelet is able to only assume this one specific form, and can revert to its innocuous appearance 1 round after being used as a weapon."
+				"This +1 heavy wrist launcher appears to be a lavish, gold bracelet. This functions like the glamered weapon special ability, except a biting bracelet is able to only assume this one specific form, and can revert to its innocuous appearance 1 round after being used as a weapon."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, disguise self, magic aura          ; Price 2,775 gp"
 		},
@@ -1749,7 +1749,7 @@
 				"Slot none; Price 5,005 gp; Weight 2 lbs."
 			],
 			"description": [
-				"On a successful critical hit with this +1 scorpion whip (Pathfinder RPG Ultimate Combat 145), the wielder can attempt a steal combat maneuver (Pathfinder RPG Advanced Player's Guide 322) against the target as a swift action as if she had the Improved Steal (Advanced Player's Guide 163) feat."
+				"On a successful critical hit with this +1 scorpion whip, the wielder can attempt a steal combat maneuver against the target as a swift action as if she had the Improved Steal feat."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, mage hand; Price 2,655 gp"
 		},
@@ -1809,7 +1809,7 @@
 				"Slot none; Price 5,220 gp; Weight 14 lbs."
 			],
 			"description": [
-				"The head of this +1 earth breaker (Pathfinder RPG Ultimate Equipment 27) is shaped like a massive version of the gavel one might see in a court of law-the weapon is nearly 4 feet long from end to end. The Hellknights of Citadel Vraid are attributed with crafting the first judicial hammers, having adopted their form from the weapons of the same Shoanti tribes they used the judicial hammers against. Once per day, the wielder may speak the judicial hammer's command word and name a specific crime he believes an individual within 30 feet has committed. Whenever the designated target takes damage from the judicial hammer, the target must succeed at a DC 13 Will save or immediately and truthfully confess its innocence or guilt in the named crime (if the target can speak the same language as the wielder of the judicial hammer, it must confess in this language). This effect lasts for 24 hours or until the creature fails its Will save, whichever comes first."
+				"The head of this +1 earth breaker is shaped like a massive version of the gavel one might see in a court of law-the weapon is nearly 4 feet long from end to end. The Hellknights of Citadel Vraid are attributed with crafting the first judicial hammers, having adopted their form from the weapons of the same Shoanti tribes they used the judicial hammers against. Once per day, the wielder may speak the judicial hammer's command word and name a specific crime he believes an individual within 30 feet has committed. Whenever the designated target takes damage from the judicial hammer, the target must succeed at a DC 13 Will save or immediately and truthfully confess its innocence or guilt in the named crime (if the target can speak the same language as the wielder of the judicial hammer, it must confess in this language). This effect lasts for 24 hours or until the creature fails its Will save, whichever comes first."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, confess; Price 2,780 gp"
 		},
@@ -1871,7 +1871,7 @@
 			],
 			"description": [
 				"This +1 cestus of blackened leather is reinforced with strips of dark iron over the fingers and cruel spikes along the back of the hand and forearm. With a mental command, the wearer can cause a series of cords, chains, and braces around the palm to lock a held weapon in place, gaining a +10 bonus to her CMD to prevent that weapon from being disarmed. While the cestus is locked in this manner, the wearer can't use the hand wearing it to complete the somatic component of spells or for skill checks. Locking or unlocking a weapon is a move action.",
-				"If the wearer drops the weapon or is disarmed, regardless of whether the cestus was locked, a leather strap attached to the weapon prevents it from moving farther than the wielder's square, and the wielder can recover the weapon as a move action. As a move action, the wearer can issue a mental command that causes the strap to detach from the weapon. As with a weapon cord (Pathfinder RPG Ultimate Equipment 75), the wearer cannot otherwise switch to a different weapon in that hand unless the strap is detached or cut (a move action or an attack, hardness 1, 5 hp). If the strap is damaged or destroyed, the cestus's wearer can spend 1 minute wrapping a mundane weapon cord around the cestus, in which case the cestus absorbs the weapon cord into itself and the leather strap mends itself completely."
+				"If the wearer drops the weapon or is disarmed, regardless of whether the cestus was locked, a leather strap attached to the weapon prevents it from moving farther than the wielder's square, and the wielder can recover the weapon as a move action. As a move action, the wearer can issue a mental command that causes the strap to detach from the weapon. As with a weapon cord, the wearer cannot otherwise switch to a different weapon in that hand unless the strap is detached or cut (a move action or an attack, hardness 1, 5 hp). If the strap is damaged or destroyed, the cestus's wearer can spend 1 minute wrapping a mundane weapon cord around the cestus, in which case the cestus absorbs the weapon cord into itself and the leather strap mends itself completely."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, animate rope; Price 2,805 gp"
 		},
@@ -2038,7 +2038,7 @@
 			],
 			"description": [
 				"Three times per day, the wielder of this +1 pounder tail attachment can force any creature it strikes to increase in size by one size category (Fort DC 11 negates) for 3 rounds. An enlarged creature takes a -2 penalty to Dexterity (to a minimum of 1), a -1 penalty on attack rolls, and -1 penalty to AC because of its increased size, as the spell enlarge person. However, an enlarged creature doesn't gain the usual size bonus to Strength.",
-				"If a creature fails its saving throw but can't enlarge any more because of the environment, it begins squeezing (Pathfinder RPG Core Rulebook 193). A creature stops growing if growing larger would make it so large that it would be unable to squeeze."
+				"If a creature fails its saving throw but can't enlarge any more because of the environment, it begins squeezing. A creature stops growing if growing larger would make it so large that it would be unable to squeeze."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, enlarge person; Price 3,101 gp"
 		},
@@ -2058,7 +2058,7 @@
 				"Slot none; Price 5,940 gp; Weight 2 lbs."
 			],
 			"description": [
-				"Whispering Shrike is a +1 wakizashi (Ultimate Combat 134) of incredibly beautiful design. The sword is etched with images of seven shrikes perched on a coiling branch that runs the length of the blade. Once per day, Whispering Shrike can be used to cast shield other on any creature touched by the blade while you wield it. The blade's tsuka (hilt) has not weathered the passage of time as well as the blade itself, and until the pommel is repaired (a process requiring 600 gp, a day's work, and a DC 20 Craft [weapons] check), attacks with the weapon take a -2 penalty due to the loose grip. A DC 20 Perception check (an automatic success once repair is underway) reveals a secret compartment in the hilt just large enough to hold a small item such as a flask or rolled piece of paper. This compartment currently holds an important letter-see page 22 for details on this find."
+				"Whispering Shrike is a +1 wakizashi of incredibly beautiful design. The sword is etched with images of seven shrikes perched on a coiling branch that runs the length of the blade. Once per day, Whispering Shrike can be used to cast shield other on any creature touched by the blade while you wield it. The blade's tsuka (hilt) has not weathered the passage of time as well as the blade itself, and until the pommel is repaired (a process requiring 600 gp, a day's work, and a DC 20 Craft [weapons] check), attacks with the weapon take a -2 penalty due to the loose grip. A DC 20 Perception check (an automatic success once repair is underway) reveals a secret compartment in the hilt just large enough to hold a small item such as a flask or rolled piece of paper. This compartment currently holds an important letter-see page 22 for details on this find."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, shield other; Price 3,140 gp"
 		},
@@ -2227,7 +2227,7 @@
 				"Slot none; Price 7,300 gp; Weight 3 lbs."
 			],
 			"description": [
-				"This +1 club is often decorated with large teeth and carved with stylized images of different animals. As a standard action, the wielder may transform the club into the head or limb of an animal; the weapon's damage does not change but the type of damage changes to one of the following to suit the shape of the club: bite (piercing), claw (slashing), gore (piercing), slam (bludgeoning), sting (piercing), or talon (slashing). When transformed, the club counts as a natural weapon and a manufactured weapon for the purpose of spells and effects that enhance or improve either manufactured or natural weapons. The club also counts as the natural weapon of its current shape for the purpose of feats and spells that rely on specific natural weapons, such as Weapon Focus (bite) or the bloody claws spell (Advanced Player's Guide). If the wielder has the wild shape ability, she can expend one use of wildshape to increase the weapon's damage by one step (Core Rulebook 145) for the duration of that wild shape as long as the druid remains in contact with the weapon; if the wielder can wild shape at will, the club's damage is always increased in this fashion. If unattended, the club reverts to its normal shape."
+				"This +1 club is often decorated with large teeth and carved with stylized images of different animals. As a standard action, the wielder may transform the club into the head or limb of an animal; the weapon's damage does not change but the type of damage changes to one of the following to suit the shape of the club: bite (piercing), claw (slashing), gore (piercing), slam (bludgeoning), sting (piercing), or talon (slashing). When transformed, the club counts as a natural weapon and a manufactured weapon for the purpose of spells and effects that enhance or improve either manufactured or natural weapons. The club also counts as the natural weapon of its current shape for the purpose of feats and spells that rely on specific natural weapons, such as Weapon Focus (bite) or the bloody claws spell (Advanced Player's Guide). If the wielder has the wild shape ability, she can expend one use of wildshape to increase the weapon's damage by one step for the duration of that wild shape as long as the druid remains in contact with the weapon; if the wielder can wild shape at will, the club's damage is always increased in this fashion. If unattended, the club reverts to its normal shape."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, shillelagh; Price 3,800 gp"
 		},
@@ -2262,16 +2262,16 @@
 			],
 			"weight": 1,
 			"header": [
-				"Sharpshooterâ€™s Blade",
+				"Sharpshooter's Blade",
 				"Source [Pathfinder #57: Tempest Rising pg. 59](source:Pathfinder #57: Tempest Rising)",
 				"Aura moderate transmutation CL 10th",
 				"Slot none; Price 7,305 gp; Weight 1 lb."
 			],
 			"description": [
-				"This bloodstained, skull-bedecked bayonet (Advanced Playerâ€™s Guide 176) has thin blood gutters running along both sides of its 14-inch blade. When attached to a magic crossbow or firearm, a sharpshooterâ€™s blade gains the enhancement bonus and other weapon special abilities of the ranged weapon it is attached to, and feats, spells, and abilities that enhance or improve attacks with the ranged weapon can be used with the sharpshooterâ€™s blade, provided these would work with a weapon of the bayonetâ€™s type (a two-handed piercing melee weapon). These bonuses and benefits donâ€™t stack with bonuses or benefits of the same type or from the same source. For example, a character with both Weapon Focus (bayonet) and Weapon Focus (heavy crossbow) would only gain the benefits of one of those feats when attacking with a sharpshooterâ€™s blade attached to a heavy crossbow. Use-activated abilities of the ranged weapon can be triggered through the sharpshooterâ€™s blade but count toward the usage limitations of the ranged weapon.",
-				"When not attached to a magic crossbow or firearm, a sharpshooterâ€™s blade has no enhancement bonus, but is still of masterwork quality and counts as magic for the purpose of overcoming damage reduction."
+				"This bloodstained, skull-bedecked bayonet has thin blood gutters running along both sides of its 14-inch blade. When attached to a magic crossbow or firearm, a sharpshooter's blade gains the enhancement bonus and other weapon special abilities of the ranged weapon it is attached to, and feats, spells, and abilities that enhance or improve attacks with the ranged weapon can be used with the sharpshooter's blade, provided these would work with a weapon of the bayonet's type (a two-handed piercing melee weapon). These bonuses and benefits don't stack with bonuses or benefits of the same type or from the same source. For example, a character with both Weapon Focus (bayonet) and Weapon Focus (heavy crossbow) would only gain the benefits of one of those feats when attacking with a sharpshooter's blade attached to a heavy crossbow. Use-activated abilities of the ranged weapon can be triggered through the sharpshooter's blade but count toward the usage limitations of the ranged weapon.",
+				"When not attached to a magic crossbow or firearm, a sharpshooter's blade has no enhancement bonus, but is still of masterwork quality and counts as magic for the purpose of overcoming damage reduction."
 			],
-			"construction": "Requirements Craft Magic Arms and Armor, greater magic weapon, versatile weapon (Advanced Playerâ€™s Guide 254); Price 3,805 gp"
+			"construction": "Requirements Craft Magic Arms and Armor, greater magic weapon, versatile weapon; Price 3,805 gp"
 		},
 		{
 			"name": "Fighter's Fork",
@@ -2813,7 +2813,7 @@
 				"Slot none; Price 9,305 gp; Weight 1 lb."
 			],
 			"description": [
-				"This +1 spiked gauntlet is shaped like a skull studded with metal spikes. Once per day as a standard action, the wearer can strike the ground with the gauntlet, causing a 10-foot-square, 30-foot-deep extradimensional pit filled with spikes to open within 30 feet, as per spiked pit (Pathfinder RPG Advanced Player's Guide 246). The gauntlet's enhancement bonus is added to the piercing damage caused by the pit's spikes. If the wearer increases the gauntlet's enhancement bonus (such as with greater magic weapon or a paladin's divine bond ability), the additional weapon enhancement bonus is also added to the damage. Similarly, if the gauntlet has any weapon special abilities that deal extra damage (such as flaming or wounding), this extra damage is likewise added to the damage caused by the pit's spikes. Weapon special abilities that don't deal extra damage, or that deal damage to the wielder as well (such as vicious) do not affect the pit's spikes."
+				"This +1 spiked gauntlet is shaped like a skull studded with metal spikes. Once per day as a standard action, the wearer can strike the ground with the gauntlet, causing a 10-foot-square, 30-foot-deep extradimensional pit filled with spikes to open within 30 feet, as per spiked pit. The gauntlet's enhancement bonus is added to the piercing damage caused by the pit's spikes. If the wearer increases the gauntlet's enhancement bonus (such as with greater magic weapon or a paladin's divine bond ability), the additional weapon enhancement bonus is also added to the damage. Similarly, if the gauntlet has any weapon special abilities that deal extra damage (such as flaming or wounding), this extra damage is likewise added to the damage caused by the pit's spikes. Weapon special abilities that don't deal extra damage, or that deal damage to the wielder as well (such as vicious) do not affect the pit's spikes."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, spiked pit; Price 4,805 gp"
 		},
@@ -3040,7 +3040,7 @@
 				"Slot none; Price 9,760 gp; Weight 1 lb."
 			],
 			"description": [
-				"The blade of this +1 living steel dagger (Ultimate Equipment 51) is always slightly damp to the touch. The save DC of any injury poison coating this blade increases by 2. Once per day, the wielder of a snakebite dagger can speak the weapon's command word to cause the dagger to seep a bright green neurotoxin. For 1 hour, the next time the wielder damages a creature with the dagger, the creature must succeed at a DC 16 Will save or be affected by modify memory as if the wielder had spent 5 minutes modifying the target's memory."
+				"The blade of this +1 living steel dagger is always slightly damp to the touch. The save DC of any injury poison coating this blade increases by 2. Once per day, the wielder of a snakebite dagger can speak the weapon's command word to cause the dagger to seep a bright green neurotoxin. For 1 hour, the next time the wielder damages a creature with the dagger, the creature must succeed at a DC 16 Will save or be affected by modify memory as if the wielder had spent 5 minutes modifying the target's memory."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, modify memory; Price 4,880 gp"
 		},
@@ -3060,7 +3060,7 @@
 				"Slot none; Price 9,810 gp; Weight 3 lbs."
 			],
 			"description": [
-				"This +1 adamantine swordbreaker dagger (Pathfinder RPG Ultimate Equipment 38) has a jagged ebon blade inscribed with ancient Thassilonian runes that translate to \"cut down to size.\" Three times per day, when the wielder successfully sunders a weapon using a shrivelblade, he can permanently reduce the size of the sundered weapon by one size category, thus reducing its damage and its intended wielder size by one size category and its weight by half. Using this ability is a swift action. If the sundered weapon is magical, it can attempt a DC 14 Will save to negate this effect. Multiple uses of this ability don't stack. A make whole spell can return a weapon shrunken by a shrivelblade to its proper size."
+				"This +1 adamantine swordbreaker dagger has a jagged ebon blade inscribed with ancient Thassilonian runes that translate to \"cut down to size.\" Three times per day, when the wielder successfully sunders a weapon using a shrivelblade, he can permanently reduce the size of the sundered weapon by one size category, thus reducing its damage and its intended wielder size by one size category and its weight by half. Using this ability is a swift action. If the sundered weapon is magical, it can attempt a DC 14 Will save to negate this effect. Multiple uses of this ability don't stack. A make whole spell can return a weapon shrunken by a shrivelblade to its proper size."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, shrink item; Price 5,060 gp"
 		},
@@ -3485,7 +3485,7 @@
 				"Slot none; Price 10,305 gp; Weight 16 lbs."
 			],
 			"description": [
-				"This +1 returning harpoon (Pirates of the Inner Sea 18) is made from the jagged, scrimshaw-carved tusk of a narwhal attached to a 50-foot length of woven sinew. Unlike most thrown weapons, a vindictive harpoon functions as well underwater as on land, and its wielder takes no penalties on attack rolls underwater."
+				"This +1 returning harpoon is made from the jagged, scrimshaw-carved tusk of a narwhal attached to a 50-foot length of woven sinew. Unlike most thrown weapons, a vindictive harpoon functions as well underwater as on land, and its wielder takes no penalties on attack rolls underwater."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, freedom of movement, telekinesis; Price 5,305 gp"
 		},
@@ -3559,13 +3559,13 @@
 			],
 			"weight": 2,
 			"header": [
-				"Brineâ€™s Sting",
+				"Brine's Sting",
 				"Source [Pathfinder #56: Raiders of the Fever Sea pg. 56](source:Pathfinder #56: Raiders of the Fever Sea)",
 				"Aura moderate necromancy CL 8th",
 				"Slot none; Price 10,320 gp; Weight 2 lbs."
 			],
 			"description": [
-				"Brineâ€™s Sting is a slim +1 rapier with a hilt guard in the shape of a writhing purple sea snake. On a successful hit that deals damage, the target must succeed at a DC 14 Fortitude save or take a â€“1 penalty on attack and damage rolls for 1 round as salty brine drips painfully onto the wound. A new saving throw must be made each time the weapon deals damage. On a successful critical hit against a creature with the aquatic or water subtype, the target takes an additional 3d6 points of damage as its flesh cracks and withers from dehydration as salt crystals form around the wound."
+				"Brine's Sting is a slim +1 rapier with a hilt guard in the shape of a writhing purple sea snake. On a successful hit that deals damage, the target must succeed at a DC 14 Fortitude save or take a â€“1 penalty on attack and damage rolls for 1 round as salty brine drips painfully onto the wound. A new saving throw must be made each time the weapon deals damage. On a successful critical hit against a creature with the aquatic or water subtype, the target takes an additional 3d6 points of damage as its flesh cracks and withers from dehydration as salt crystals form around the wound."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, horrid wilting; Price 5,320 gp"
 		},
@@ -3669,9 +3669,9 @@
 			"description": [
 				"The stock and bow of this +1 distance hand crossbow are decorated with the golden head of an osprey, sea eagle, or other avian creature. Three times per day, a skyrocket crossbow can imbue one of two special abilities on its ammunition.",
 				"The first causes a bolt fired from the crossbow to explode in a dazzling burst of colored light when it hits a creature or object, or if it reaches its maximum range increment (600 feet). Creatures within a 10-foot radius of the target point are blinded for 1d4+1 rounds. A successful DC 13 Will save means a creature is dazzled for 1 minute instead. Sightless creatures, or those without line of sight to the target point, are unaffected.",
-				"The second ability causes a bolt fired from the crossbow to function as a screaming bolt (Pathfinder RPG Core Rulebook 475)."
+				"The second ability causes a bolt fired from the crossbow to function as a screaming bolt."
 			],
-			"construction": "Requirements Craft Magic Arms and Armor, clairaudience/ clairvoyance, doom, flare burst (Advanced Player's Guide 223); Price 5,400 gp"
+			"construction": "Requirements Craft Magic Arms and Armor, clairaudience/ clairvoyance, doom, flare burst; Price 5,400 gp"
 		},
 		{
 			"name": "Wendifisa Spear",
@@ -3689,7 +3689,7 @@
 				"Slot none; Price 10,453 gp; Weight 3 lbs."
 			],
 			"description": [
-				"Adorned with bone fetishes, feathers, leaves, and gnarled branches, each of which carries its own significance, this +1 shortspear is often found in the hands of the tribal Mwangi who serve the powerful spirits known as wendifa- the juju oracles. Each wendifisa spear (literally \"spear of those who serve the wendifa\") is created alongside a specially crafted onyx gem. If this gem is within 100 feet of the wielder and the wielder's hit points are reduced below 0, the gem shatters. When the gem shatters, the wielder of the wendifisa spear is immediately slain, and animates 1 round later as a juju zombie (Pathfinder RPG Bestiary 2 291).",
+				"Adorned with bone fetishes, feathers, leaves, and gnarled branches, each of which carries its own significance, this +1 shortspear is often found in the hands of the tribal Mwangi who serve the powerful spirits known as wendifa- the juju oracles. Each wendifisa spear (literally \"spear of those who serve the wendifa\") is created alongside a specially crafted onyx gem. If this gem is within 100 feet of the wielder and the wielder's hit points are reduced below 0, the gem shatters. When the gem shatters, the wielder of the wendifisa spear is immediately slain, and animates 1 round later as a juju zombie.",
 				"If the gem is held by anyone other than the spear's wielder when the wielder is slain (and the gem shatters), the creature holding the gem gains 1d8 temporary hit points, a +2 enhancement bonus to Strength, and a +1 bonus to its effective caster level. These bonuses last 1 hour.",
 				"After the onyx shatters, the weapon is treated as a +1 shortspear."
 			],
@@ -3771,7 +3771,7 @@
 				"Slot none; Price 11,275 gp; Weight 2 lbs."
 			],
 			"description": [
-				"This +2 composite shortbow is carved of withered juniper wood to resemble a swarming mass of wasps. Favored by the mystical bee-people called the thriae, a swarmbow has a considerable draw, requiring a minimum Strength modifier of +5 to use it without penalty. Once per day on a successful strike with an arrow fired from a swarmbow, the wielder can cause a wasp swarm (Pathfinder RPG Bestiary 275) to appear around the target of the attack as an immediate action. The swarm attacks any creatures occupying its area, but remains stationary and does not pursue fleeing creatures. The wasp swarm remains for 1d4+2 rounds or until destroyed."
+				"This +2 composite shortbow is carved of withered juniper wood to resemble a swarming mass of wasps. Favored by the mystical bee-people called the thriae, a swarmbow has a considerable draw, requiring a minimum Strength modifier of +5 to use it without penalty. Once per day on a successful strike with an arrow fired from a swarmbow, the wielder can cause a wasp swarm to appear around the target of the attack as an immediate action. The swarm attacks any creatures occupying its area, but remains stationary and does not pursue fleeing creatures. The wasp swarm remains for 1d4+2 rounds or until destroyed."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, summon swarm; Price 6,075 gp"
 		},
@@ -4222,7 +4222,7 @@
 				"Slot none; Price 12,392 gp; Weight 3 lbs."
 			],
 			"description": [
-				"This +1 kusarigama (Ultimate Combat 132) makes a shrill whistling sound whenever it is used in combat. Once per day as a standard action, the wielder of Dancing Wasp can whirl the weapon above his head as a full-round action to summon a giant wasp (Pathfinder RPG Bestiary 275). The wasp appears in the air above the wielder's head and follows the wielder's mental commands to the best of its ability as long as the user continues  to twirl the weapon (requiring a standard action each round), to a maximum of 5 rounds, after which the wasp vanishes."
+				"This +1 kusarigama makes a shrill whistling sound whenever it is used in combat. Once per day as a standard action, the wielder of Dancing Wasp can whirl the weapon above his head as a full-round action to summon a giant wasp. The wasp appears in the air above the wielder's head and follows the wielder's mental commands to the best of its ability as long as the user continues  to twirl the weapon (requiring a standard action each round), to a maximum of 5 rounds, after which the wasp vanishes."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, summon monster IV or summon nature's ally IV; Price 6,352 gp"
 		},
@@ -4494,7 +4494,7 @@
 			],
 			"description": [
 				"Primarily used by the cliff-dwelling Shoanti of western Varisia's Shadde-Quah clan, a +1 Shoanti bolas is elementally enchanted. Each end of a bolas has its own magical enhancements: one side bears cold magic, and the other bears fire magic. A target damaged by a Shadde-Quah spirit bolas takes an additional 1d3 points of cold damage and 1d3 points of fire damage, as the two weights damage their target as though the weapon had both the flaming and frost special weapon abilities at half their normal effectiveness.",
-				"Once per day as a standard action, the wielder of a Shadde-Quah spirit bolas can utter a prayer to the elements and throw the bolas, causing both ends to crash together mid-flight. The bolas transforms into a roiling ball of water, as the spell aqueous orb (Advanced Player's Guide 202), under the control of the thrower. Once the spell ends, the bolas falls to the ground at the same location the orb ended its movement."
+				"Once per day as a standard action, the wielder of a Shadde-Quah spirit bolas can utter a prayer to the elements and throw the bolas, causing both ends to crash together mid-flight. The bolas transforms into a roiling ball of water, as the spell aqueous orb, under the control of the thrower. Once the spell ends, the bolas falls to the ground at the same location the orb ended its movement."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, aqueous orb, ray of frost, spark; Price 7,015 gp",
 			"note": "The original text lists this item as fitting into the armor slot."
@@ -4516,7 +4516,7 @@
 			],
 			"description": [
 				"Originally made from the winding intestines of a scrag, the first version of this +2 corrosive whip was crafted by a blood-bard who fought in Green Blood on a Black Rock. After the blood-bard's stunning victory, these weapons have gained popularity across the Sodden Lands and Shackles. Unless damaged by fire, a greenblood scourge regenerates hit points at a rate of 1 hit point per minute.",
-				"In performance combat (Pathfinder RPG Ultimate Combat 153), the wielder of a greenblood scourge can spend a victory point as a swift action to give the weapon the corrosive burst special ability. Also, the wielder no longer needs to attempt a performance combat check when using the withdraw action during performance combat, as the weapon's blasts of acid prevent the enemy from approaching."
+				"In performance combat, the wielder of a greenblood scourge can spend a victory point as a swift action to give the weapon the corrosive burst special ability. Also, the wielder no longer needs to attempt a performance combat check when using the withdraw action during performance combat, as the weapon's blasts of acid prevent the enemy from approaching."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, acid arrow, adoration; Price 7,051 gp"
 		},
@@ -5181,7 +5181,7 @@
 				"Zul is a +1 human bane trident that has been passed down from chieftain to chieftain in Krelloort's tribe for generations. Zul's three-pronged head is crafted of magically strengthened seashells, and its haft is composed of rough, twisted coral that deals 1 point of damage each time it is grasped, unless the wielder has a natural armor bonus or is wearing gauntlets.",
 				"As an immediate action after a successful melee attack with the trident, Zul's wielder can transmute the substance of the target creature into rigid coral. This attack deals 1d4 points of Dexterity damage and slows the target (as the spell) for 1 round as its flesh calcifies. A DC 16 Fortitude save negates the slow effect but not the ability damage. A target reduced to 0 Dexterity is permanently petrified, transformed into inert, mindless coral. Break enchantment or restoration reverses all of the effects of this calcification. This ability can be used up to 7 times per day."
 			],
-			"construction": "Requirements Craft Magic Arms and Armor, calcific touch (Advanced Players Guide 208), summon monster I; Price 9,355 gp"
+			"construction": "Requirements Craft Magic Arms and Armor, calcific touch, summon monster I; Price 9,355 gp"
 		},
 		{
 			"name": "Fleshwarped Scorpion's Tail",
@@ -5513,7 +5513,7 @@
 			],
 			"description": [
 				"Jagged and spiked, this +1 vicious viridium spiked chain shifts between hues of muted green and deep violet. Wielders who are devout followers of Zon-Kuthon are immune to the disease imparted by the viridium.",
-				"When the wielder reduces a creature's hit points below 0 using the chain but doesn't kill it, she can call a shadowy duplicate of the target as a free action. This duplicate is treated as a shadow (Bestiary 245) without the create spawn ability. The duplicate is friendly to the wielder and attacks her enemies, but ignores its host body. The host can't benefit from any healing that would bring it above -1 hit points until the shadow is destroyed or disappears. The shadow fades away when the host body dies or after 10 rounds, whichever comes first. The wielder of the shadowbound chains can summon forth only one shadow at a time."
+				"When the wielder reduces a creature's hit points below 0 using the chain but doesn't kill it, she can call a shadowy duplicate of the target as a free action. This duplicate is treated as a shadow without the create spawn ability. The duplicate is friendly to the wielder and attacks her enemies, but ignores its host body. The host can't benefit from any healing that would bring it above -1 hit points until the shadow is destroyed or disappears. The shadow fades away when the host body dies or after 10 rounds, whichever comes first. The wielder of the shadowbound chains can summon forth only one shadow at a time."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, shadow conjuration; Price 11,125 gp"
 		},
@@ -5533,7 +5533,7 @@
 				"Slot none; Price 20,050 gp; Weight 5 lbs."
 			],
 			"description": [
-				"This +1 double-barreled pistol contains a single grit feat from the following list: Deft Shootist Deed, Fabulist (Pathfinder Player Companion: Champions of Balance 19), Gun Twirling (Champions of Balance 19), Leaping Shot Deed, No Name, and Ricochet Shot Deed. Anyone who wields or carries the shieldmarshal's pistol and meets the feat's prerequisites gains the feat's benefit. The wielder can't use the pistol's feat to meet prerequisites."
+				"This +1 double-barreled pistol contains a single grit feat from the following list: Deft Shootist Deed, Fabulist, Gun Twirling, Leaping Shot Deed, No Name, and Ricochet Shot Deed. Anyone who wields or carries the shieldmarshal's pistol and meets the feat's prerequisites gains the feat's benefit. The wielder can't use the pistol's feat to meet prerequisites."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, chosen grit feat, share memory; Price 11,050 gp"
 		},
@@ -5553,7 +5553,7 @@
 				"Slot none; Price 20,300 gp; Weight 5 lbs."
 			],
 			"description": [
-				"This +1 thundering pepperbox (Pathfinder RPG Ultimate Combat 138) bears a fire-breathing dragon motif, and its wooden grip is ornately carved. Unlike a normal pepperbox, each of the six barrels of a doubleshot pepperbox can be fired either independently in tandem, firing two barrels with the same action like a double-barreled pistol. If two barrels are shot at once, they must both be fired at the same target, and the wielder takes a -4 penalty on each shot."
+				"This +1 thundering pepperbox bears a fire-breathing dragon motif, and its wooden grip is ornately carved. Unlike a normal pepperbox, each of the six barrels of a doubleshot pepperbox can be fired either independently in tandem, firing two barrels with the same action like a double-barreled pistol. If two barrels are shot at once, they must both be fired at the same target, and the wielder takes a -4 penalty on each shot."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, Rapid Shot, blindness/deafness, haste; Price 11,800 gp"
 		},
@@ -5759,14 +5759,14 @@
 			],
 			"weight": 4,
 			"header": [
-				"Scoundrelâ€™s Sword Cane",
+				"Scoundrel's Sword Cane",
 				"Source [Pathfinder #58: Island of Empty Eyes pg. 60](source:Pathfinder #58: Island of Empty Eyes)",
 				"Aura moderate divination CL 7th",
 				"Slot none; Price 20,925 gp; Weight 4 lbs."
 			],
 			"description": [
-				"A skull and partial backbone carved from ivory top this +2 sword cane (Advanced Playerâ€™s Guide 179), and gray sharkskin covers its wooden scabbard. The wielder can use the Weapon Finesse feat to apply her Dexterity modifier instead of her Strength modifier to attack rolls with a scoundrelâ€™s sword cane sized for her, even though it isnâ€™t a light weapon.",
-				"The eyes of the skull atop the scoundrelâ€™s sword cane constantly enhance the wielderâ€™s awareness, granting the wielder a +5 competence bonus on Perception checks. In addition, once per day, the wielder can concentrate while holding the cane to see through the skullâ€™s eyes as if they were her own. In effect, the scoundrelâ€™s sword cane can be used as a periscope, allowing the wielder to safely peer over obstacles or around corners. If the wielder has total concealment from an observed creature except for the end of the cane, the wielder uses the skullâ€™s Diminutive size modifier for her Stealth check instead of her own size modifier."
+				"A skull and partial backbone carved from ivory top this +2 sword cane, and gray sharkskin covers its wooden scabbard. The wielder can use the Weapon Finesse feat to apply her Dexterity modifier instead of her Strength modifier to attack rolls with a scoundrel's sword cane sized for her, even though it isn't a light weapon.",
+				"The eyes of the skull atop the scoundrel's sword cane constantly enhance the wielder's awareness, granting the wielder a +5 competence bonus on Perception checks. In addition, once per day, the wielder can concentrate while holding the cane to see through the skull's eyes as if they were her own. In effect, the scoundrel's sword cane can be used as a periscope, allowing the wielder to safely peer over obstacles or around corners. If the wielder has total concealment from an observed creature except for the end of the cane, the wielder uses the skull's Diminutive size modifier for her Stealth check instead of her own size modifier."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, arcane eye, obscure object; Price 10,635 gp"
 		},
@@ -6688,7 +6688,7 @@
 				"Slot none; Price 26,340 gp; Weight 15 lbs."
 			],
 			"description": [
-				"This +3 earth breaker is blocky and heavy. Several chrysoberyls adorn the head around its striking surface. The density hammer's wielder is immune to petrification effects, but each time the wielder would be subject to a petrification effect, the density hammer's weight doubles and its enhancement bonus decreases by 1 for 24 hours. If the density hammer's enhancement bonus decreases to 0, the wielder is no longer immune to petrification effects and the density hammer gains the fragile weapon special feature (Pathfinder RPG Ultimate Equipment 22)."
+				"This +3 earth breaker is blocky and heavy. Several chrysoberyls adorn the head around its striking surface. The density hammer's wielder is immune to petrification effects, but each time the wielder would be subject to a petrification effect, the density hammer's weight doubles and its enhancement bonus decreases by 1 for 24 hours. If the density hammer's enhancement bonus decreases to 0, the wielder is no longer immune to petrification effects and the density hammer gains the fragile weapon special feature."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, stone to flesh; Price 12,340 gp"
 		},
@@ -6898,7 +6898,7 @@
 				"Slot none; Price 28,415 gp; Weight 9 lbs."
 			],
 			"description": [
-				"Once per day as a standard action, the bearer of this +1 thundering naginata (Ultimate Combat 133) can strike the blade against the ground, causing it to ring with a deafening clangor that functions as the shout spell.",
+				"Once per day as a standard action, the bearer of this +1 thundering naginata can strike the blade against the ground, causing it to ring with a deafening clangor that functions as the shout spell.",
 				"Stolen by Munasukaru years ago, the thundering blade is the ancestral weapon of the Sugimatu family, one of the five imperial families of Minkai. The thundering blade is imbued with royal honor, and bestows one permanent negative level on any creature without honor that attempts to wield it (such as oni, traitors, kinslayers, and the like). The negative level remains as long as the weapon is in hand and disappears when the weapon is no longer wielded. This negative level cannot be overcome in any way (including by restoration spells) while the weapon is wielded.",
 				"A naginata is a two-handed martial melee weapon that deals 1d8 points of slashing damage and has a critical modifier of x4. A naginata is a reach weapon. A naginata costs 35 gp and weighs 9 lbs."
 			],
@@ -7171,7 +7171,7 @@
 				"Slot none; Price 0 wishes (32,065 gp), 1 wish (72,365 gp), 2 wishes (112,665 gp), 3 wishes (152,965 gp); Weight 4 lbs."
 			],
 			"description": [
-				"This +3 longsword is a variant luck blade (Pathfinder RPG Ultimate Equipment 157). It grants its wielder a +1 luck bonus on all saving throws. Once per day, its possessor can reroll one d20 roll that he just made, before the results of the original roll are revealed. He must take the results of the reroll, even if they are worse. This reroll power is an extraordinary ability. Finally, Pale Maiden can hold up to three wishes, as a luck blade. When the last wish is used, Pale Maiden remains a +3 longsword, still grants the +1 luck bonus on saving throws, and still grants the daily use of its reroll power."
+				"This +3 longsword is a variant luck blade. It grants its wielder a +1 luck bonus on all saving throws. Once per day, its possessor can reroll one d20 roll that he just made, before the results of the original roll are revealed. He must take the results of the reroll, even if they are worse. This reroll power is an extraordinary ability. Finally, Pale Maiden can hold up to three wishes, as a luck blade. When the last wish is used, Pale Maiden remains a +3 longsword, still grants the +1 luck bonus on saving throws, and still grants the daily use of its reroll power."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, miracle or wish; Price 16,190 gp (0 wishes), 48,840 gp (1 wish), 81,490 gp (2 wishes), 114,140 gp (3 wishes)"
 		},
@@ -7341,7 +7341,7 @@
 			"description": [
 				"This +1 human bane seeking repeating heavy crossbow is carved from whalebone decorated with green and gold lacquer, with fittings, lever, and bow of gilded steel. On a successful hit against any creature who has just struck the wielder with an attack within the previous round-whether with a melee, ranged, or natural weapon, or a spell that requires an attack roll-ammunition fired from a crossbow of retribution wracks the target with shooting pains that impose a -4 penalty on attack rolls, skills checks, and ability checks for 7 rounds. On a successful DC 14 Fortitude save, the penalty only lasts for 1 round. A target who worships the same god as the wielder takes a -2 penalty on its saving throw."
 			],
-			"construction": "Requirements Craft Magic Arms and Armor, retribution (Pathfinder RPG Advanced Player's Guide 239), summon monster I, true seeing; Price 16,700 gp"
+			"construction": "Requirements Craft Magic Arms and Armor, retribution, summon monster I, true seeing; Price 16,700 gp"
 		},
 		{
 			"name": "Murderer's Machete",
@@ -7503,7 +7503,7 @@
 				"Slot none; Price 34,800 gp; Weight 9 lbs."
 			],
 			"description": [
-				"This +2 shock musket is inscribed with imagery of storms and plagues, glorifying the daemonic harbinger Cixyron. When a bullet fired from a withershot strikes a good- or neutral-aligned target, it burrows into the target's flesh and infects the target with cackle fever (Core Rulebook 557). Infected creatures can resist the disease normally, but can't be cured or recover lost ability damage until the cursed bullet is removed (this requires a successful DC 15 Heal check or a restoration spell). Additional bullet impacts do not increase the effects, but each bullet must be removed before the target can be cured of its disease."
+				"This +2 shock musket is inscribed with imagery of storms and plagues, glorifying the daemonic harbinger Cixyron. When a bullet fired from a withershot strikes a good- or neutral-aligned target, it burrows into the target's flesh and infects the target with cackle fever. Infected creatures can resist the disease normally, but can't be cured or recover lost ability damage until the cursed bullet is removed (this requires a successful DC 15 Heal check or a restoration spell). Additional bullet impacts do not increase the effects, but each bullet must be removed before the target can be cured of its disease."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, call lightning, contagion; Price 17,400 gp"
 		},
@@ -8249,7 +8249,7 @@
 			],
 			"description": [
 				"This +2 keen returning spear is adorned with feathers and fur, as well as with a bright steel chain that trails down from the top of its haft.",
-				"On a critical hit, Chada's harpoon lodges into the target's flesh or armor, and the wielder can choose to pull the target toward him, reeling the victim in by use of the magically extended chain. This functions as the pull universal monster ability (Pathfinder RPG Bestiary 303) with the following exceptions. Compare the initial attack roll (instead of a new CMB check) to the target's CMD to determine success. Success pulls the target 20 feet closer to the wielder. The wielder can make additional attack rolls each round (instead of new CMB checks) to pull the victim closer. Unlike the normal pull ability, Chada's harpoon can pull creatures of any size. Once the target is pulled adjacent to the wielder, the bull rush ends."
+				"On a critical hit, Chada's harpoon lodges into the target's flesh or armor, and the wielder can choose to pull the target toward him, reeling the victim in by use of the magically extended chain. This functions as the pull universal monster ability with the following exceptions. Compare the initial attack roll (instead of a new CMB check) to the target's CMD to determine success. Success pulls the target 20 feet closer to the wielder. The wielder can make additional attack rolls each round (instead of new CMB checks) to pull the victim closer. Unlike the normal pull ability, Chada's harpoon can pull creatures of any size. Once the target is pulled adjacent to the wielder, the bull rush ends."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, keen edge, telekinesis; Price 25,302 gp"
 		},
@@ -8292,7 +8292,7 @@
 				"Slot none; Price 50,302 gp; Weight 1 lb."
 			],
 			"description": [
-				"This +2 wounding (Ultimate Equipment 149) dagger allows the wielder to use charm monster (DC 18) three times per day. When the wielder hits a creature affected by the dagger's charm effect, the dagger deals an additional 2d6 points of damage to that creature, even if the creature is no longer charmed because of the hostile action. All other creatures charmed by the blade that see this act of betrayal become sickened for 1d4 rounds, but are immediately freed from the charm effect."
+				"This +2 wounding dagger allows the wielder to use charm monster (DC 18) three times per day. When the wielder hits a creature affected by the dagger's charm effect, the dagger deals an additional 2d6 points of damage to that creature, even if the creature is no longer charmed because of the hostile action. All other creatures charmed by the blade that see this act of betrayal become sickened for 1d4 rounds, but are immediately freed from the charm effect."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, bleed, charm monster, inflict moderate wounds; Price 25,302 gp"
 		},
@@ -8456,7 +8456,7 @@
 				"Slot none; Price 51,300 gp; Weight 4 lbs."
 			],
 			"description": [
-				"Kerdak Bonefist had this +1 reliable distance pistol (Ultimate Combat 138, 142) specially crafted for him to take advantage of his unique skeletal hand. The pistol shows signs of wear and exposure to the elements, but its walnut stock, nickelplated barrel, and gold accents are of fine craftsmanship, and its mechanisms still move with precision. Ammunition fired from an enervating pistol deals an extra 1d6 points of negative energy damage on a successful hit. On a successful critical hit, an enervating pistol bestows a negative level on its target. One day after being struck, subjects must make a DC 16 Fortitude save for each negative level or they become permanent. An enervating pistol bestows one permanent negative level on any creature wielding it that is not undead or does not possess an undead hand. The negative level remains as long as the weapon is in hand and disappears when the weapon is no longer wielded. This negative level cannot be overcome in any way (including restoration spells) while the weapon is wielded."
+				"Kerdak Bonefist had this +1 reliable distance pistol specially crafted for him to take advantage of his unique skeletal hand. The pistol shows signs of wear and exposure to the elements, but its walnut stock, nickelplated barrel, and gold accents are of fine craftsmanship, and its mechanisms still move with precision. Ammunition fired from an enervating pistol deals an extra 1d6 points of negative energy damage on a successful hit. On a successful critical hit, an enervating pistol bestows a negative level on its target. One day after being struck, subjects must make a DC 16 Fortitude save for each negative level or they become permanent. An enervating pistol bestows one permanent negative level on any creature wielding it that is not undead or does not possess an undead hand. The negative level remains as long as the weapon is in hand and disappears when the weapon is no longer wielded. This negative level cannot be overcome in any way (including restoration spells) while the weapon is wielded."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, clairaudience/ clairvoyance, finger of death, enervation, mending; Price 26,300 gp"
 		},
@@ -8644,7 +8644,7 @@
 				"Slot none; Price 57,320 gp; Weight 2 lbs."
 			],
 			"description": [
-				"This +2 injecting wounding rapier is prized among the cults of Ydersius. This sword increases the save DC of any poison applied to its blade by 1. If the wielder worships Ydersius, she can utter a silent prayer to the god as a swift action up to three times per day. Each prayer creates 1 dose of purple worm poison (Pathfinder RPG Core Rulebook 560) in the sword's pommel reservoir."
+				"This +2 injecting wounding rapier is prized among the cults of Ydersius. This sword increases the save DC of any poison applied to its blade by 1. If the wielder worships Ydersius, she can utter a silent prayer to the god as a swift action up to three times per day. Each prayer creates 1 dose of purple worm poison in the sword's pommel reservoir."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, bleed, pernicious poison; Price 28,660 gp"
 		},
@@ -8946,8 +8946,8 @@
 				"Slot none; Price 63,312 gp; Weight 5 lbs."
 			],
 			"description": [
-				"This heavy warhammer is capped with steel spikes on both ends of its massive head, and a leather thong prevents it from falling from the wielderâ€™s hand. MolvÃ«nn is a +3 warhammer that deals both piercing and bludgeoning damage. Yet although it is already a formidable weapon, its true potential is only realized in the hands of a barbarian.",
-				"Wielded by a barbarian, MolvÃ«nn becomes a +5 thundering warhammer. The barbarian gains an additional 1 hit point per barbarian level when raging and can add twice her Strength modifier (instead of half again her Strength modifier) to damage rolls while wielding MolvÃ«nn two-handed. Additionally, while MolvÃ«nnâ€™s wielder is raging, she cannot be disarmed, nor can MolvÃ«nn be sundered."
+				"This heavy warhammer is capped with steel spikes on both ends of its massive head, and a leather thong prevents it from falling from the wielder's hand. MolvÃ«nn is a +3 warhammer that deals both piercing and bludgeoning damage. Yet although it is already a formidable weapon, its true potential is only realized in the hands of a barbarian.",
+				"Wielded by a barbarian, MolvÃ«nn becomes a +5 thundering warhammer. The barbarian gains an additional 1 hit point per barbarian level when raging and can add twice her Strength modifier (instead of half again her Strength modifier) to damage rolls while wielding MolvÃ«nn two-handed. Additionally, while MolvÃ«nn's wielder is raging, she cannot be disarmed, nor can MolvÃ«nn be sundered."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, blindness/deafness, rage; Price 31,812 gp"
 		},
@@ -9035,7 +9035,7 @@
 				"Slot none; Price 67,500 gp; Weight 8 lbs."
 			],
 			"description": [
-				"This exquisitely detailed +3 nodachi (Ultimate Combat 133) comes sheathed in a black-lacquered scabbard with gold filigree. Its hilt is wrapped in red dragonhide, and a single golden feather hangs from the pommel. Karusetsu enables its wielder to execute a flourishing slash three times per day in the direction of a single distant opponent (i.e., one not already engaged in melee combat with the wielder) up to 60 feet away. This flourishing slash projects a plane of scintillating force across the intervening distance, functioning as a ranged attack with a thrown weapon using the wielder's highest base attack bonus. On a successful hit, the blade's cutting light deals 4d6+3 points of force damage to the target, with a threat range of 18-20 and a critical multiplier of x2. In addition, a creature struck by the cutting light must succeed at a DC 14 Reflex save or be blinded for 1d4 rounds."
+				"This exquisitely detailed +3 nodachi comes sheathed in a black-lacquered scabbard with gold filigree. Its hilt is wrapped in red dragonhide, and a single golden feather hangs from the pommel. Karusetsu enables its wielder to execute a flourishing slash three times per day in the direction of a single distant opponent (i.e., one not already engaged in melee combat with the wielder) up to 60 feet away. This flourishing slash projects a plane of scintillating force across the intervening distance, functioning as a ranged attack with a thrown weapon using the wielder's highest base attack bonus. On a successful hit, the blade's cutting light deals 4d6+3 points of force damage to the target, with a threat range of 18-20 and a critical multiplier of x2. In addition, a creature struck by the cutting light must succeed at a DC 14 Reflex save or be blinded for 1d4 rounds."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, mage's sword, searing light; Price 33,930 gp"
 		},
@@ -9100,7 +9100,7 @@
 				"Slot none; Price 71,600 gp; Weight 4 lbs."
 			],
 			"description": [
-				"Only one end of this iron-shod +3 quarterstaff has an enhancement bonus. The enhanced end acts as a bane weapon against any creature with the ability to cast spells or use spelllike abilities. As a standard action, the wielder can strike the unenhanced end against the ground while expending one use of mythic power to produce an antimagic field centered on the staff. This effect has a duration of 2 hours. Anyone striking the staff against the ground a second time dismisses the effect. The antimagic field remains in effect if the staff is dropped or disarmed. The staff retains its enhancement bonus and extra damage against spellcasters inside any antimagic field."
+				"Only one end of this iron-shod +3 quarterstaff has an enhancement bonus. The enhanced end acts as a bane weapon against any creature with the ability to cast spells or use spell-like abilities. As a standard action, the wielder can strike the unenhanced end against the ground while expending one use of mythic power to produce an antimagic field centered on the staff. This effect has a duration of 2 hours. Anyone striking the staff against the ground a second time dismisses the effect. The antimagic field remains in effect if the staff is dropped or disarmed. The staff retains its enhancement bonus and extra damage against spellcasters inside any antimagic field."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, Mythic Crafter, antimagic field; Price 36,100 gp"
 		},
@@ -9374,7 +9374,7 @@
 			],
 			"description": [
 				"Arnlaugr's legendary blade, Rixbrand, is a double-sided blade of folded blue steel, intricately engraved with ancient runes that light up with electric flame in the presence of dragonkind. The hilt is inlaid with ebony and wrapped with silver wire; the pommel features two silvered dragon heads.",
-				"Rixbrand is a +3 wounding dragon-bane greatsword. When the blade scores a critical hit on a dragon, the dragon heads on its pommel spit boiling acid into the wound hewn by the blade. This deals an additional 1d10 points of acid damage and 1d10 points of fire damage to the dragon. Rixbrand's wielder gains a +4 resistance bonus on all saving throws against breath weapons, spelllike abilities, and spells from dragons.",
+				"Rixbrand is a +3 wounding dragon-bane greatsword. When the blade scores a critical hit on a dragon, the dragon heads on its pommel spit boiling acid into the wound hewn by the blade. This deals an additional 1d10 points of acid damage and 1d10 points of fire damage to the dragon. Rixbrand's wielder gains a +4 resistance bonus on all saving throws against breath weapons, spell-like abilities, and spells from dragons.",
 				"Since Arnlaugr's death, several duplicates of the legendary sword have been created. These blades have been wielded by mercenaries and adventurers alike, although they tend to end up in dragon hoards when their would-be dragonslayer wielders tackle something beyond their ability to endure even with the blade in hand- the same fate that befell the original sword in Arnlaugr's hands."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, bleed, summon monster I; Price 45,000 gp"
@@ -9396,7 +9396,7 @@
 				"Slot none; Price 90,308 gp; Weight 3 lbs."
 			],
 			"description": [
-				"Ikarikurusai is an ornate +3 shock sansetsukon (Ultimate Combat 134) that automatically resizes itself to match the size of its wielder. The chains joining the segments of this three-section staff crackle with arcs of electricity, and while held in at least one hand, the weapon acts as a lightning rod, drawing away incoming electrical attacks and granting its wielder electricity resistance 10. Upon striking a successful critical hit, Ikarikurusai explodes with electricity. In addition to the electricity damage from the shock ability, the target of the attack is struck by a stroke of lightning, which then arcs to other targets, as chain lightning. The bolt deals 5d6 points of electricity damage to the primary target (Reflex DC 19 for half damage). After it strikes, the lightning can arc to up to five secondary targets within 30 feet of the primary target. The secondary bolts each strike one target and deal as much damage as the primary bolt (Reflex DC 17 for half damage). The chain lightning effect only triggers on the first critical hit confirmed in a round, regardless of how many critical hits are made by the weapon that round."
+				"Ikarikurusai is an ornate +3 shock sansetsukon that automatically resizes itself to match the size of its wielder. The chains joining the segments of this three-section staff crackle with arcs of electricity, and while held in at least one hand, the weapon acts as a lightning rod, drawing away incoming electrical attacks and granting its wielder electricity resistance 10. Upon striking a successful critical hit, Ikarikurusai explodes with electricity. In addition to the electricity damage from the shock ability, the target of the attack is struck by a stroke of lightning, which then arcs to other targets, as chain lightning. The bolt deals 5d6 points of electricity damage to the primary target (Reflex DC 19 for half damage). After it strikes, the lightning can arc to up to five secondary targets within 30 feet of the primary target. The secondary bolts each strike one target and deal as much damage as the primary bolt (Reflex DC 17 for half damage). The chain lightning effect only triggers on the first critical hit confirmed in a round, regardless of how many critical hits are made by the weapon that round."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, call lightning or lightning bolt, chain lightning, resist energy; Price 45,308 gp"
 		},
@@ -9615,7 +9615,7 @@
 				"Slot none; Price 109,665 gp; Weight 4 lbs."
 			],
 			"description": [
-				"This +4 shock trident is carved from fish-bone and its points are shark teeth. The wielder gains a +4 competence bonus on Profession (sailor) and Swim checks as long as it is held in hand. Once per day, the wielder can utter a command word to create one of the following effects: vortex (Pathfinder RPG Advanced Player's Guide 254) or control weather.",
+				"This +4 shock trident is carved from fish-bone and its points are shark teeth. The wielder gains a +4 competence bonus on Profession (sailor) and Swim checks as long as it is held in hand. Once per day, the wielder can utter a command word to create one of the following effects: vortex or control weather.",
 				"If the wielder uses a polymorph or supernatural effect to take the shape of a creature with a natural bite attack, the trident of the storm captain vanishes and the wielder's bite attack gains a +4 enhancement bonus until the shapechanging effect ends and the trident reappears. The wielder cannot use the trident's other abilities while shapechanged."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, call lightning, control weather, greater magic fang, vortex; Price 54,990 gp"
@@ -9884,9 +9884,9 @@
 				"Slot none; Price 184,500 gp; Weight -"
 			],
 			"description": [
-				"This +1 shocking burst cannon (Ultimate Combat 162) is mounted on a brass carriage decorated with carvings of winds and storms. Three times per day, a sirocco cannon can be commanded to create a special type of ammunition. This ammunition functions as a normal cannonball, but on a successful hit, a gust of furnace-hot wind blasts downward in a 20-foot-radius, 60-foot-high cylinder around the target or target square for 10 rounds. This hot wind deals 4d6+10 points of fire damage to all creatures in the area and knocks them prone. A successful DC 19 Fortitude save halves the fire damage and avoids being knocked prone. Flying creatures forced into the ground by the powerful downdraft take damage as if they fell unless they make a DC 15 Fly check, in which case they remain at their original altitude. Any creature that takes damage from the hot air becomes fatigued (or exhausted, if already fatigued, such as from a previous round of exposure). Creatures with the water subtype take a -4 penalty on all saving throws against this effect and take double normal damage. This special ammunition deals no additional damage to ships or structures."
+				"This +1 shocking burst cannon is mounted on a brass carriage decorated with carvings of winds and storms. Three times per day, a sirocco cannon can be commanded to create a special type of ammunition. This ammunition functions as a normal cannonball, but on a successful hit, a gust of furnace-hot wind blasts downward in a 20-foot-radius, 60-foot-high cylinder around the target or target square for 10 rounds. This hot wind deals 4d6+10 points of fire damage to all creatures in the area and knocks them prone. A successful DC 19 Fortitude save halves the fire damage and avoids being knocked prone. Flying creatures forced into the ground by the powerful downdraft take damage as if they fell unless they make a DC 15 Fly check, in which case they remain at their original altitude. Any creature that takes damage from the hot air becomes fatigued (or exhausted, if already fatigued, such as from a previous round of exposure). Creatures with the water subtype take a -4 penalty on all saving throws against this effect and take double normal damage. This special ammunition deals no additional damage to ships or structures."
 			],
-			"construction": "Requirements Craft Magic Arms and Armor, call lightning or lightning bolt, sirocco (Advanced Player's Guide 244); Price 95,400 gp"
+			"construction": "Requirements Craft Magic Arms and Armor, call lightning or lightning bolt, sirocco; Price 95,400 gp"
 		},
 		{
 			"name": "Sacred Avenger",

@@ -19,7 +19,7 @@
 				"**Cost** +50 gp **Weight** +10 lbs."
 			],
 			"description": [
-				"You can have spikes added to your armor, which allow you to deal extra piercing damage on a successful grapple attack (see \"spiked armor\" on Table 1-5: Martial Weapons). The spikes count as a martial weapon. If you are not proficient with them, you take a -4 penalty on grapple checks when you try to use them. You can also make a regular melee attack (or off-hand attack) with the spikes, and they count as a light weapon in this case. (You can't also make an attack with armor spikes if you have already made an attack with another off-hand weapon, and vice versa.) An enhancement bonus to a suit of armor does not improve the spikes' effectiveness, but the spikes can be made into magic weapons in their own right."
+				"You can have spikes added to your armor, which allow you to deal extra piercing damage on a successful grapple attack (see [\"spiked armor\"](unknown:spiked armor)). The spikes count as a martial weapon. If you are not proficient with them, you take a -4 penalty on grapple checks when you try to use them. You can also make a regular melee attack (or off-hand attack) with the spikes, and they count as a light weapon in this case. (You can't also make an attack with armor spikes if you have already made an attack with another off-hand weapon, and vice versa.) An enhancement bonus to a suit of armor does not improve the spikes' effectiveness, but the spikes can be made into magic weapons in their own right."
 			]
 		},
 		{
@@ -64,7 +64,7 @@
 				"**Cost** +10 gp **Weight** +5 lbs."
 			],
 			"description": [
-				"Deadly spikes and bladed projections extend from some shields, transforming such pieces of armor into weapon in their own right. Shield spikes turn a shield into a martial piercing weapon and increase the damage dealt by a shield bash as if the shield were designed for a creature one size category larger (see \"spiked light shield\" and \"spiked heavy shield\" on Table 1-5: Martial Weapons). You can't put spikes on a buckler or a tower shield. Otherwise, attacking with a spiked shield is like making a shield bash attack.",
+				"Deadly spikes and bladed projections extend from some shields, transforming such pieces of armor into weapon in their own right. Shield spikes turn a shield into a martial piercing weapon and increase the damage dealt by a shield bash as if the shield were designed for a creature one size category larger (see \"spiked light shield\" and \"spiked heavy shield\" in [martial weapons](unknown:martial weapons)). You can't put spikes on a buckler or a tower shield. Otherwise, attacking with a spiked shield is like making a shield bash attack.",
 				"An enhancement bonus on a spiked shield does not improve the effectiveness of a shield bash made with it, but a spiked shield can be made into a magic weapon in its own right."
 			]
 		},

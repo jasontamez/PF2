@@ -70,7 +70,7 @@
 				"hasFeatureInCategory((creature),slyph)",
 				"hasTag(region:eye-of-abendego)"
 			],
-			"description": "The howling gales of the Eye of Abendego were your lullaby as a child, and you quickly learned to anticipate the winds' danger as well as parse their song. You gain a +2 trait bonus on Profession (sailor) checks, and you treat the wind force of environmental wind effects (see Table 13-10: Wind Effects on page 438 of the Core Rulebook) as one step less powerful for the purposes of determining any penalties on ranged attacks and Fly checks as well as whether you would be checked or blown away.",
+			"description": "The howling gales of the Eye of Abendego were your lullaby as a child, and you quickly learned to anticipate the winds' danger as well as parse their song. You gain a +2 trait bonus on Profession (sailor) checks, and you treat the wind force of [environmental wind effects](unknown:environmental wind effects) as one step less powerful for the purposes of determining any penalties on ranged attacks and Fly checks as well as whether you would be checked or blown away.",
 			"type": [ "Regional" ],
 			"sources": [ "Blood of the Elements" ]
 		},
@@ -475,7 +475,7 @@
 				"hasFeatureInCategory((creature),kobold)",
 				"hasTag(group:green-scaled)"
 			],
-			"description": "Your tribe, in an effort to emulate the green chromatic dragons they admire, goes to great lengths to secure alchemical coal (Pathfinder RPG Ultimate Race Guide 135). As a member of a green kobold tribe, you begin play with three pieces of the choking smoke variety of alchemical coal. Eating one of these pellets allows you to exhale noxious vapors, damaging and sickening your enemies. These pellets do not count against your starting character wealth.",
+			"description": "Your tribe, in an effort to emulate the green chromatic dragons they admire, goes to great lengths to secure alchemical coal. As a member of a green kobold tribe, you begin play with three pieces of the choking smoke variety of alchemical coal. Eating one of these pellets allows you to exhale noxious vapors, damaging and sickening your enemies. These pellets do not count against your starting character wealth.",
 			"type": [ "Race" ],
 			"sources": [ "Kobolds of Golarion" ]
 		},
@@ -902,7 +902,7 @@
 			"description": [
 				"As changelings sense the awakening of the eerie powers they inherited from their hag progenitors, they are often mortified to discover terrifying and debilitating alterations to their physique. While the call seizes the changelings' minds around the time their bodies begin maturing, the arcane malignancies that mar their features and extremities have nothing to do with puberty.",
 				"Not every changeling develops a malignancy, and when a changeling does develop a malignancy, it is often unrelated to whatever traits her hag mother has. These transformations are more akin to a magical allergy, manifesting in response to the well of arcane energy bubbling away in the changeling's core.",
-				"A changeling character can take an arcane malignancy as a drawback (Pathfinder RPG Ultimate Campaign 64) in order to select an additional trait at character creation. Randomly determine the arcane malignancy by rolling a d% and consulting the table below.",
+				"A changeling character can take an arcane malignancy as a drawback in order to select an additional trait at character creation. Randomly determine the arcane malignancy by rolling a d% and consulting the table below.",
 				"1-2: The smallest three toes on each of your feet have fused together. You take a -2 penalty on Acrobatics, Climb, and Perform (dance) checks.",
 				"3-4: Your incisors grow so long and sharp that you have difficulty eating. Eating takes twice as long. Consuming a potion or other magical foodstuff requires a full-round action.",
 				"5-7: You have an extra digit on each hand, which hampers your fine motor skills. You take a -2 penalty on Craft, Disable Device, and Sleight of Hand checks.",
@@ -1777,7 +1777,7 @@
 		},
 		{
 			"name": "Black Blood Heritage",
-			"description": "One of your ancestors came in contact with the mystical black blood (Pathfinder Campaign Setting: Into the Darklands 51), granting you an affinity for the substance. You are immune to the negative effects of black blood. Once per day as a swift action, you can channel the essence of black blood, increasing your effective caster level by 1 for any 1st-or 2nd-level necromancy spell you cast. Your blood is pitch black as a result of this trait.",
+			"description": "One of your ancestors came in contact with the mystical black blood, granting you an affinity for the substance. You are immune to the negative effects of black blood. Once per day as a swift action, you can channel the essence of black blood, increasing your effective caster level by 1 for any 1st-or 2nd-level necromancy spell you cast. Your blood is pitch black as a result of this trait.",
 			"type": [ "Faith" ],
 			"sources": [ "Heroes of the Darklands" ]
 		},
@@ -1971,7 +1971,7 @@
 			"requirements": [
 				"hasFeatureInCategory((creature),android)"
 			],
-			"description": "Your inhumanity extends to your very core. Pain receptors were omitted during your construction, so you gain a +2 trait bonus on saving throws against spells with the pain descriptor (Pathfinder RPG Ultimate Magic 138). Additionally, once per day when you are healed by a spell that targets constructs (such as a make whole spell), you heal 1 extra hit point per level of the spell.",
+			"description": "Your inhumanity extends to your very core. Pain receptors were omitted during your construction, so you gain a +2 trait bonus on saving throws against spells with the pain descriptor. Additionally, once per day when you are healed by a spell that targets constructs (such as a make whole spell), you heal 1 extra hit point per level of the spell.",
 			"type": [ "Race" ],
 			"sources": [ "People of the River" ]
 		},
@@ -2934,7 +2934,7 @@
 		},
 		{
 			"name": "Chelish Sympathizer",
-			"description": "You feed intelligence to the Thrice-Damned House of Thrune for your own gain or ideological reasons and are given valuable clues gathered by other Chelish spies in exchange. Once per month while in an Inner Sea region settlement of at least 2,000 people, you can call upon these connections to gain an edge in a verbal duel (Pathfinder RPG Ultimate Intrigue 176) or gain a +2 bonus on one Bluff, Diplomacy, or Intimidate check.",
+			"description": "You feed intelligence to the Thrice-Damned House of Thrune for your own gain or ideological reasons and are given valuable clues gathered by other Chelish spies in exchange. Once per month while in an Inner Sea region settlement of at least 2,000 people, you can call upon these connections to gain an edge in a verbal duel or gain a +2 bonus on one Bluff, Diplomacy, or Intimidate check.",
 			"type": [ "Social" ],
 			"sources": [ "Spymaster's Handbook" ]
 		},
@@ -3440,7 +3440,7 @@
 			"requirements": [
 				"hasTag(region:katapesh)"
 			],
-			"description": "You excel at maximizing mercantile contacts and convincing merchants to dig just a bit deeper into their pockets for you. Whenever you buy from or sell to a merchant, you treat a settlement's Base Value and Purchase Limit (Pathfinder RPG GameMastery Guide 204) as 10% higher.",
+			"description": "You excel at maximizing mercantile contacts and convincing merchants to dig just a bit deeper into their pockets for you. Whenever you buy from or sell to a merchant, you treat a settlement's Base Value and Purchase Limit as 10% higher.",
 			"type": [ "Regional" ],
 			"sources": [ "Champions of Balance" ]
 		},
@@ -3835,7 +3835,7 @@
 			"requirements": [
 				"hasFeatureInCategory((creature),skinwalker)"
 			],
-			"description": "You gain a +1 trait bonus on saving throws against curses. You treat your caster level as 1 higher when casting spells and spell-like abilities with the curse descriptor (Pathfinder RPG Ultimate Magic 137, 251).",
+			"description": "You gain a +1 trait bonus on saving throws against curses. You treat your caster level as 1 higher when casting spells and spell-like abilities with the curse descriptor.",
 			"type": [ "Race" ],
 			"sources": [ "Bastards of Golarion" ]
 		},
@@ -4658,7 +4658,7 @@
 				"hasTag(campaign:skull-&-shackles)"
 			],
 			"description": [
-				"You grew up on the dangerous docks of one of the Shackles' numerous ports or anchorages, and quickly learned that fists often make a better point than fancy words, especially when used the right way. You've always preferred action to talk, anyway. You gain a +1 trait bonus on damage rolls with brass knuckles (Advanced Player's Guide 176) and improvised weapons.",
+				"You grew up on the dangerous docks of one of the Shackles' numerous ports or anchorages, and quickly learned that fists often make a better point than fancy words, especially when used the right way. You've always preferred action to talk, anyway. You gain a +1 trait bonus on damage rolls with brass knuckles and improvised weapons.",
 				"While drinking at a tavern called the Formidably Maid in Port Peril last night, you got into a brawl with some of the other patrons. You handled yourself well, but a group of rough-looking characters ganged up on you and overwhelmed you, knocking you unconscious. Fortunately, you were able to conceal your brass knuckles when you were press-ganged, and you begin the campaign with them, regardless of your starting circumstances."
 			],
 			"type": [ "Campaign" ],
@@ -4670,7 +4670,7 @@
 			"requirements": [
 				"hasFeatureInCategory((creature),goblin)"
 			],
-			"description": "You gain the scent special quality (Bestiary 304) but only against canine creatures, like dogs or wolves, including monstrous hounds such as hell hounds, yeth hounds, and even werewolves. You gain a +2 trait bonus on attack rolls against dogs you can smell.",
+			"description": "You gain the scent special quality but only against canine creatures, like dogs or wolves, including monstrous hounds such as hell hounds, yeth hounds, and even werewolves. You gain a +2 trait bonus on attack rolls against dogs you can smell.",
 			"type": [ "Race" ],
 			"sources": [ "Goblins of Golarion" ]
 		},
@@ -5456,7 +5456,7 @@
 			"requirements": [
 				"hasTag(region:eox)"
 			],
-			"description": "You were raised on Eox, where you were overseen by alien forces and subjected to horrifying experimentation. You gain a +1 trait bonus on saving throws against pain effects (Pathfinder RPG Ultimate Magic 138) and the spell-like abilities of undead.",
+			"description": "You were raised on Eox, where you were overseen by alien forces and subjected to horrifying experimentation. You gain a +1 trait bonus on saving throws against pain effects and the spell-like abilities of undead.",
 			"type": [ "Regional" ],
 			"sources": [ "People of the Stars" ]
 		},
@@ -6893,7 +6893,7 @@
 				"hasFeatureInCategory((creature),kobold)",
 				"hasTag(group:white-scaled)"
 			],
-			"description": "The icy breath of a white dragon fills your lungs. Once per day, you can quickly exhale to produce a frigid cloud of dense fog that quickly sinks to the ground. This freezing mist covers a 10-foot-square area with slippery ice that's as difficult to traverse as an ice sheet (Core Rulebook 430).",
+			"description": "The icy breath of a white dragon fills your lungs. Once per day, you can quickly exhale to produce a frigid cloud of dense fog that quickly sinks to the ground. This freezing mist covers a 10-foot-square area with slippery ice that's as difficult to traverse as an ice sheet.",
 			"type": [ "Race" ],
 			"sources": [ "Kobolds of Golarion" ]
 		},
@@ -7957,7 +7957,7 @@
 			"requirements": [
 				"hasTag(region:varisia)"
 			],
-			"description": "When you had your deity's holy symbol tattooed on your body by a Sczarni tattooist years ago, you never imagined it would save your life. Your holy symbol tattoo functions in all ways as a holy symbol (Pathfinder RPG Ultimate Equipment 57). When you use your holy symbol tattoo to keep a vampire at bay, the DC for the vampire to overcome its revulsion is 28 (rather than the normal 25).",
+			"description": "When you had your deity's holy symbol tattooed on your body by a Sczarni tattooist years ago, you never imagined it would save your life. Your holy symbol tattoo functions in all ways as a holy symbol. When you use your holy symbol tattoo to keep a vampire at bay, the DC for the vampire to overcome its revulsion is 28 (rather than the normal 25).",
 			"type": [ "Regional" ],
 			"sources": [ "Undead Slayer's Handbook" ]
 		},
@@ -8165,7 +8165,7 @@
 				"hasFeatureInCategory((creature),kobold)",
 				"hasTag(group:white-scaled)"
 			],
-			"description": "As a parting gift, the shaman of your tribe gave you an alchemical concoction as a reminder of your icy home. You begin play with three bottles of liquid ice (Ultimate Equipment 108). These don't count against your starting character wealth.",
+			"description": "As a parting gift, the shaman of your tribe gave you an alchemical concoction as a reminder of your icy home. You begin play with three bottles of liquid ice. These don't count against your starting character wealth.",
 			"type": [ "Race" ],
 			"sources": [ "Kobolds of Golarion" ]
 		},
@@ -8483,7 +8483,7 @@
 		},
 		{
 			"name": "Insatiable",
-			"description": "You have become so accustomed to binging on the finer things in life that you find going without such excess particularly strenuous. Goods and services cost you 10% more (and can't be paid for by allies), and you need twice as much food and liquid as normal for the purposes of preventing starvation and thirst (Pathfinder RPG Core Rulebook 444).",
+			"description": "You have become so accustomed to binging on the finer things in life that you find going without such excess particularly strenuous. Goods and services cost you 10% more (and can't be paid for by allies), and you need twice as much food and liquid as normal for the purposes of preventing starvation and thirst.",
 			"type": [ "Drawback" ],
 			"sources": [ "Antihero's Handbook" ]
 		},
@@ -8930,7 +8930,7 @@
 		},
 		{
 			"name": "Kalistocratic Prophecy",
-			"description": "You were raised under the Prophecies of Kalistrade, and were inspired to seize upon an untapped business opportunity. Up to once per week, when you work to advance this opportunity with at least 1 day of effort, you can attempt an appropriate Profession check to earn money or gain capital using the downtime rules (Ultimate Campaign 76) with a +2 trait bonus. In the event of a failed check, your opportunity is discovered by rivals and you cannot employ this trait for 1 month while you look for a new opportunity.",
+			"description": "You were raised under the Prophecies of Kalistrade, and were inspired to seize upon an untapped business opportunity. Up to once per week, when you work to advance this opportunity with at least 1 day of effort, you can attempt an appropriate Profession check to earn money or gain capital using the downtime rules with a +2 trait bonus. In the event of a failed check, your opportunity is discovered by rivals and you cannot employ this trait for 1 month while you look for a new opportunity.",
 			"type": [ "Faith" ],
 			"sources": [ "Spymaster's Handbook" ]
 		},
@@ -9085,7 +9085,7 @@
 				"hasFeatureInCategory((creature),kobold)",
 				"hasTag(group:green-scaled)"
 			],
-			"description": "You are familiar with the flora of your native forest and have rudimentary skill as an herbalist. Once per day, you can attempt a DC 20 Survival check instead of a Craft (alchemy) check to create a single dose of scent cloak (Ultimate Equipment 105) without paying any cost for raw materials. Any scent cloak created using this method must be used within 24 hours, or it becomes inert.",
+			"description": "You are familiar with the flora of your native forest and have rudimentary skill as an herbalist. Once per day, you can attempt a DC 20 Survival check instead of a Craft (alchemy) check to create a single dose of scent cloak without paying any cost for raw materials. Any scent cloak created using this method must be used within 24 hours, or it becomes inert.",
 			"type": [ "Race" ],
 			"sources": [ "Kobolds of Golarion" ]
 		},
@@ -9364,7 +9364,7 @@
 				"hasFeatureInCategory((creature),kobold)",
 				"hasTag(group:blue-scaled)"
 			],
-			"description": "You're favored by the lightning shaman of your tribe, and he gifted you several sacred items as a reminder of your origins. You begin play with three vials of bottled lighting (Ultimate Equipment 106). These don't count against your starting character wealth.",
+			"description": "You're favored by the lightning shaman of your tribe, and he gifted you several sacred items as a reminder of your origins. You begin play with three vials of bottled lighting. These don't count against your starting character wealth.",
 			"type": [ "Race" ],
 			"sources": [ "Kobolds of Golarion" ]
 		},
@@ -9601,7 +9601,7 @@
 		},
 		{
 			"name": "Lovesick",
-			"description": "Your love for another occupies your every thought, and you become despondent when you are away from that person. The person is chosen by your GM (with consideration to your roll on Table 1-56: Romantic Relationships if you used the background generator). At the start of each day, if you are away from this person you take a -2 penalty on initiative checks and Perception checks. If you ever lose or fall out of love with this person, exchange this drawback for the Doubt drawback.",
+			"description": "Your love for another occupies your every thought, and you become despondent when you are away from that person. The person is chosen by your GM (with consideration to your roll on the Romantic Relationships table if you used the background generator). At the start of each day, if you are away from this person you take a -2 penalty on initiative checks and Perception checks. If you ever lose or fall out of love with this person, exchange this drawback for the Doubt drawback.",
 			"type": [ "Drawback" ],
 			"sources": [ "Ultimate Campaign" ]
 		},
@@ -10737,7 +10737,7 @@
 			"requirements": [
 				"hasFeatureInCategory((creature),kitsune)"
 			],
-			"description": "You are talented with kitsune magic. You gain a +1 trait bonus on caster level checks for your racial spell-like abilities as well as those from the Magical Tail feat (Advanced Race Guide 193). Additionally, you can select Magical Tail as a bonus feat whenever your favored class grants you a bonus bloodline feat, combat feat, or metamagic feat instead of the normal type of feat granted by that class. You cannot exchange specific feats granted by a class or race for Magical Tail in this manner; for instance, a monk cannot exchange his Stunning Fist feat for Magical Tail.",
+			"description": "You are talented with kitsune magic. You gain a +1 trait bonus on caster level checks for your racial spell-like abilities as well as those from the Magical Tail feat. Additionally, you can select Magical Tail as a bonus feat whenever your favored class grants you a bonus bloodline feat, combat feat, or metamagic feat instead of the normal type of feat granted by that class. You cannot exchange specific feats granted by a class or race for Magical Tail in this manner; for instance, a monk cannot exchange his Stunning Fist feat for Magical Tail.",
 			"type": [ "Race" ],
 			"sources": [ "Dirty Tactics Toolbox" ]
 		},
@@ -10856,7 +10856,7 @@
 					"story": "Associated with the court of the Palace of Fallen Stars in Numeria"
 				}
 			],
-			"description": "You have tasted Numerian fluids many times. Once per day after rolling to determine the side effects of consuming a Numerian fluid (Pathfinder Campaign Setting: Numeria, Land of Fallen Stars 28), you can roll on the table again, but you must take the second result.",
+			"description": "You have tasted Numerian fluids many times. Once per day after rolling to determine the side effects of consuming a Numerian fluid, you can roll on the table again, but you must take the second result.",
 			"type": [ "Social" ],
 			"sources": [ "Heroes of the High Court" ]
 		},
@@ -10985,7 +10985,7 @@
 		},
 		{
 			"name": "Official Ties",
-			"description": "You maintain a friendship with one or more figures of authority. You have minor sway with one of these figures if your game uses individual influence (Ultimate Intrigue 102). You gain a +2 trait bonus on Diplomacy checks to influence people in positions of authority aware of your contact and who have an attitude of no worse than indifferent toward the government the contact represents. You also take a -2 penalty on Diplomacy checks to influence criminals and agents of opposing governments, if those characters are aware of your association with authorities. If you lose your contact, you lose the benefits of this trait for 1 month, after which you can make a new contact.",
+			"description": "You maintain a friendship with one or more figures of authority. You have minor sway with one of these figures if your game uses individual influence. You gain a +2 trait bonus on Diplomacy checks to influence people in positions of authority aware of your contact and who have an attitude of no worse than indifferent toward the government the contact represents. You also take a -2 penalty on Diplomacy checks to influence criminals and agents of opposing governments, if those characters are aware of your association with authorities. If you lose your contact, you lose the benefits of this trait for 1 month, after which you can make a new contact.",
 			"type": [ "Social" ],
 			"sources": [ "Spymaster's Handbook" ]
 		},
@@ -11038,7 +11038,7 @@
 				"hasFeatureInCategory((creature),kobold)",
 				"hasTag(group:black-scaled)"
 			],
-			"description": "The murky tunnels of your tribal home were infested with voracious oozes, which were a constant threat to your tribe. To protect yourselves, you and your tribespeople never strayed far without anti-ooze acid. You begin play with three alkali flasks (Pathfinder RPG Ultimate Equipment 106). These don't count against your starting character wealth.",
+			"description": "The murky tunnels of your tribal home were infested with voracious oozes, which were a constant threat to your tribe. To protect yourselves, you and your tribespeople never strayed far without anti-ooze acid. You begin play with three alkali flasks. These don't count against your starting character wealth.",
 			"type": [ "Race" ],
 			"sources": [ "Kobolds of Golarion" ]
 		},
@@ -11443,7 +11443,7 @@
 				"hasTag(campaign:skull-&-shackles)"
 			],
 			"description": [
-				"One of your legs was bitten off below the knee by a shark when you were just a child, and was replaced with a wooden peg leg (Pathfinder Player Companion: Pirates of the Inner Sea 20). You've long since gotten used to your prosthesis, however, and take none of the normal penalties from having a peg leg. You've had to learn to deal with the pain of your injury as well, and you gain a +1 trait bonus on Fortitude saves. Ever since your accident You've hated sharks, and you also gain a +1 trait bonus on damage rolls against sharks and other animals with the aquatic subtype.",
+				"One of your legs was bitten off below the knee by a shark when you were just a child, and was replaced with a wooden peg leg. You've long since gotten used to your prosthesis, however, and take none of the normal penalties from having a peg leg. You've had to learn to deal with the pain of your injury as well, and you gain a +1 trait bonus on Fortitude saves. Ever since your accident You've hated sharks, and you also gain a +1 trait bonus on damage rolls against sharks and other animals with the aquatic subtype.",
 				"Your balance always gets a bit shaky after a few drinks, and last night at the Formidably Maid-a tavern in Port Peril-was no exception. That must be why you fell to the floor as soon as you tried to stand up. What happened next is hazy, but you're pretty sure you were dragged out of the bar and onto a ship at the docks. At least they didn't throw you to the sharks..."
 			],
 			"type": [ "Campaign" ],
@@ -11505,7 +11505,7 @@
 		},
 		{
 			"name": "Persuasive Insight",
-			"description": "You were converted to your faith or taught to bargain with spirits for magic by a figure of inspiring insight who taught you to use keen observation in all dealings. You can use your Wisdom modifier in place of your Charisma modifier on Diplomacy checks to ask favors or gain influence (Ultimate Intrigue 102). During a verbal duel (Ultimate Intrigue 176), you can use your Wisdom modifier in place of your Charisma modifier when using tactics you assigned to Diplomacy or Wisdom-based skills.",
+			"description": "You were converted to your faith or taught to bargain with spirits for magic by a figure of inspiring insight who taught you to use keen observation in all dealings. You can use your Wisdom modifier in place of your Charisma modifier on Diplomacy checks to ask favors or gain influence. During a verbal duel, you can use your Wisdom modifier in place of your Charisma modifier when using tactics you assigned to Diplomacy or Wisdom-based skills.",
 			"type": [ "Faith" ],
 			"sources": [ "Spymaster's Handbook" ]
 		},
@@ -12187,7 +12187,7 @@
 			"requirements": [
 				"hasFeatureInCategory((creature),half-orc,orc)"
 			],
-			"description": "Summoned creatures can inherit your ferocity. Once per day, a creature you summon creature can have the ferocity ability (Pathfinder RPG Bestiary 300).",
+			"description": "Summoned creatures can inherit your ferocity. Once per day, a creature you summon creature can have the ferocity ability.",
 			"type": [ "Race" ],
 			"sources": [ "Orcs of Golarion" ]
 		},
@@ -13468,7 +13468,7 @@
 				"hasFeatureInCategory((creature),halfling)",
 				"hasFeatureInCategory((god),Shelyn)"
 			],
-			"description": "You honor your goddess through your willingness to take risks for those you care about. As a move action, you can use your own body to grant soft cover (Core Rulebook 196) to an adjacent ally regardless of the difference in your respective sizes.",
+			"description": "You honor your goddess through your willingness to take risks for those you care about. As a move action, you can use your own body to grant soft cover to an adjacent ally regardless of the difference in your respective sizes.",
 			"type": [ "Religion" ],
 			"sources": [ "Halflings of Golarion" ]
 		},
@@ -13634,7 +13634,7 @@
 			"requirements": [
 				"hasTag(region:nidal)"
 			],
-			"description": "Lifelong encounters with conjured shadows have made you especially adept at piercing their dark veils. You gain a +2 trait bonus on saving throws against spells and effects with the shadow descriptor (Pathfinder RPG Ultimate Magic 138).",
+			"description": "Lifelong encounters with conjured shadows have made you especially adept at piercing their dark veils. You gain a +2 trait bonus on saving throws against spells and effects with the shadow descriptor.",
 			"type": [ "Regional" ],
 			"sources": [ "Monster Summoner's Handbook" ]
 		},
@@ -13860,7 +13860,7 @@
 				"hasFeatureInCategory((creature),human)",
 				"hasTag(group:shoanti)"
 			],
-			"description": "Your nomadic culture gives you a profound knowledge of and respect for the horses that roam your homelands. You begin play with a combat trained light horse (Pathfinder RPG Bestiary 177). While riding this horse bareback, you are treated as though you were riding it with a riding saddle (placing any actual saddle upon the horse negates this benefit). The horse can fend for itself outside of settlements in all but the most hostile environments. If whistled for outside of a community, the horse typically arrives within 1d6 minutes. If your horse is slain, you may receive a new horse by returning to your clan and performing a vigil for its spirit (a rite that costs 100 gp in rare herbs and incense).",
+			"description": "Your nomadic culture gives you a profound knowledge of and respect for the horses that roam your homelands. You begin play with a combat trained light horse. While riding this horse bareback, you are treated as though you were riding it with a riding saddle (placing any actual saddle upon the horse negates this benefit). The horse can fend for itself outside of settlements in all but the most hostile environments. If whistled for outside of a community, the horse typically arrives within 1d6 minutes. If your horse is slain, you may receive a new horse by returning to your clan and performing a vigil for its spirit (a rite that costs 100 gp in rare herbs and incense).",
 			"type": [ "Race" ],
 			"sources": [ "Varisia, Birthplace of Legends" ]
 		},
@@ -13950,7 +13950,7 @@
 				"hasFeatureInCategory((creature),kobold)",
 				"hasTag(group:white-scaled)"
 			],
-			"description": "You grew up stalking across the frozen pools of water that dot your tribe's Darklands home. You don't need to spend extra movement to enter a square of an ice sheet (Core Rulebook 430), and the DCs of your Acrobatics checks on ice sheets don't increase by 5.",
+			"description": "You grew up stalking across the frozen pools of water that dot your tribe's Darklands home. You don't need to spend extra movement to enter a square of an ice sheet, and the DCs of your Acrobatics checks on ice sheets don't increase by 5.",
 			"type": [ "Race" ],
 			"sources": [ "Kobolds of Golarion" ]
 		},
@@ -14035,7 +14035,7 @@
 		},
 		{
 			"name": "Slave Runner",
-			"description": "You witnessed or were party to the rescue of a halfling from Chelish slavery by the Bellflower Network or Eagle Knights. Once per day when attempting to directly free a slave, you gain a +2 trait bonus on your choice of an Acrobatics check, an Escape Artist check, a Stealth check, or a skill check attempted as part of a heist (Ultimate Intrigue 118) or pursuit (Ultimate Intrigue 142)",
+			"description": "You witnessed or were party to the rescue of a halfling from Chelish slavery by the Bellflower Network or Eagle Knights. Once per day when attempting to directly free a slave, you gain a +2 trait bonus on your choice of an Acrobatics check, an Escape Artist check, a Stealth check, or a skill check attempted as part of a heist or pursuit",
 			"type": [ "Social" ],
 			"sources": [ "Spymaster's Handbook" ]
 		},
@@ -14096,7 +14096,7 @@
 			"requirements": [
 				"hasFeatureInCategory((creature),undine)"
 			],
-			"description": "You are used to walking on wet and slippery surfaces. You are always considered to have firm footing when fighting underwater (Pathfinder RPG Core Rulebook 433), and you gain a +2 trait bonus on Acrobatics checks and Climb checks on wet surfaces or in wet terrain, including bogs, standing or running water, or a storm-tossed ship.",
+			"description": "You are used to walking on wet and slippery surfaces. You are always considered to have firm footing when fighting underwater, and you gain a +2 trait bonus on Acrobatics checks and Climb checks on wet surfaces or in wet terrain, including bogs, standing or running water, or a storm-tossed ship.",
 			"type": [ "Race" ],
 			"sources": [ "People of the Sands" ]
 		},
@@ -14116,7 +14116,7 @@
 				"hasFeatureInCategory((creature),kobold)",
 				"hasTag(group:red-scaled)"
 			],
-			"description": "You've spent so much of your life around fires that smoke no longer affects you the way it does other creatures. Your vision isn't impaired by nonmagical smoke, and you gain a +5 trait bonus on Fortitude saves to avoid coughing and choking because of smoke inhalation (Pathfinder RPG Core Rulebook 426). This trait confers no benefits against magically created smoke, such as that produced by pyrotechnics.",
+			"description": "You've spent so much of your life around fires that smoke no longer affects you the way it does other creatures. Your vision isn't impaired by nonmagical smoke, and you gain a +5 trait bonus on Fortitude saves to avoid coughing and choking because of smoke inhalation. This trait confers no benefits against magically created smoke, such as that produced by pyrotechnics.",
 			"type": [ "Race" ],
 			"sources": [ "Kobolds of Golarion" ]
 		},
@@ -14664,7 +14664,7 @@
 			"requirements": [
 				"hasFeatureInCategoryWithType((deity),Outer Gods)"
 			],
-			"description": "Your spellcasting powers are infused with the powers of the occult Outer Gods. Whenever you cast a spell or spell-like ability with the curse descriptor (Pathfinder RPG Ultimate Magic 251), increase the DC of the spell's saving throw by 1. If you cast such a spell or spell-like ability at night, as long as the sky is clear and the stars are visible, treat your caster level as 1 higher when determining the spell's duration.",
+			"description": "Your spellcasting powers are infused with the powers of the occult Outer Gods. Whenever you cast a spell or spell-like ability with the curse descriptor, increase the DC of the spell's saving throw by 1. If you cast such a spell or spell-like ability at night, as long as the sky is clear and the stars are visible, treat your caster level as 1 higher when determining the spell's duration.",
 			"type": [ "Religion" ],
 			"sources": [ "People of the Stars" ]
 		},
@@ -16499,7 +16499,7 @@
 			"requirements": [
 				"hasFeatureInCategory((creature),undine)"
 			],
-			"description": "You learned early on that teamwork can help keep you safe from troublemakers. Choose one teamwork feat (Pathfinder RPG Advanced Player's Guide 150) that requires an ally with the same feat to be adjacent to you. You may benefit from that teamwork feat as long as you have an ally within 10 feet of you (though your ally does not benefit from the teamwork feat unless it also has this trait or a similar ability).",
+			"description": "You learned early on that teamwork can help keep you safe from troublemakers. Choose one teamwork feat that requires an ally with the same feat to be adjacent to you. You may benefit from that teamwork feat as long as you have an ally within 10 feet of you (though your ally does not benefit from the teamwork feat unless it also has this trait or a similar ability).",
 			"type": [ "Race" ],
 			"sources": [ "Bastards of Golarion" ]
 		},
@@ -16718,7 +16718,7 @@
 		},
 		{
 			"name": "Urban Acolyte",
-			"description": "Growing up in a city has broadened your philosophy, and helped you interpret your patron's divine will in a novel way. You gain Knowledge (local) as a class skill. Additionally, you can select one of the following subdomains using the normal rules for subdomains (Pathfinder RPG Advanced Player Guide 86) so long as your deity grants access to its associated domain: [Competition](domain:Competition), [Duels](domain:Duels), [Espionage](domain:Espionage), [Fortifications](domain:Fortifications), [Industry](domain:Industry), [Legislation](domain:Legislation), [Plague](domain:Plague), or [Riot](domain:Riot).",
+			"description": "Growing up in a city has broadened your philosophy, and helped you interpret your patron's divine will in a novel way. You gain Knowledge (local) as a class skill. Additionally, you can select one of the following subdomains using the normal rules for subdomains so long as your deity grants access to its associated domain: [Competition](domain:Competition), [Duels](domain:Duels), [Espionage](domain:Espionage), [Fortifications](domain:Fortifications), [Industry](domain:Industry), [Legislation](domain:Legislation), [Plague](domain:Plague), or [Riot](domain:Riot).",
 			"type": [ "Faith" ],
 			"sources": [ "Heroes of the Streets" ]
 		},
@@ -16903,7 +16903,7 @@
 				"hasFeatureInCategory((creature),halfling)",
 				"hasFeatureInCategory((god),Norgorber)"
 			],
-			"description": "You have nothing to fear from one sort of poison. In fact, you can actually drink the toxic brew in order to make your blood dangerous. You are immune to one specific nonmagical poison (Core Rulebook 559). If you ingest a dose of that poison (even if it is a contact, inhaled, or injury poison), it remains in your system for 24 hours; any creature that bites you during that time is subject to the poison's effects.",
+			"description": "You have nothing to fear from one sort of poison. In fact, you can actually drink the toxic brew in order to make your blood dangerous. You are immune to one specific nonmagical poison. If you ingest a dose of that poison (even if it is a contact, inhaled, or injury poison), it remains in your system for 24 hours; any creature that bites you during that time is subject to the poison's effects.",
 			"type": [ "Religion" ],
 			"sources": [ "Halflings of Golarion" ]
 		},

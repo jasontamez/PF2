@@ -179,7 +179,7 @@
 			],
 			"description": [
 				"Typically crafted in the nation of Geb, this morbid +1 hide armor is stitched from the flesh torn from the bodies of ghoul servants as a punishment for failing their masters in some manner. The wearer of this armor is immune to the paralytic touch of ghouls, ghasts, and lacedons.",
-				"If the wearer is the subject of a bite attack or is swallowed whole, the attacker must succeed at a DC 13 Fortitude save or contract ghoul fever (Bestiary 146)."
+				"If the wearer is the subject of a bite attack or is swallowed whole, the attacker must succeed at a DC 13 Fortitude save or contract ghoul fever."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, ghoul touch; Price 1,515 gp"
 		},
@@ -625,7 +625,7 @@
 				"Slot armor; Price 5,000 gp; Weight 30 lbs."
 			],
 			"description": [
-				"This flat, gray +1 breastplate is embossed with the iron fin symbol of the Wave Riders (Absalom's sea cavalry), and is enchanted to make it lighter in water. The armor imposes no armor check penalty on Swim checks, but still contributes to the wearer's encumbrance and applies all other armor check penalties as normal. Once per day, the wearer can speak a command word even if submerged to cause the armor-and the wearer if the armor is worn-to float as per the buoyancy spell (Pathfinder RPG Advanced Class Guide 177)."
+				"This flat, gray +1 breastplate is embossed with the iron fin symbol of the Wave Riders (Absalom's sea cavalry), and is enchanted to make it lighter in water. The armor imposes no armor check penalty on Swim checks, but still contributes to the wearer's encumbrance and applies all other armor check penalties as normal. Once per day, the wearer can speak a command word even if submerged to cause the armor-and the wearer if the armor is worn-to float as per the buoyancy spell."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, buoyancy, water walk; Price 2,500 gp"
 		},
@@ -879,7 +879,7 @@
 				"Slot armor; Price 6,565 gp; Weight 8 lbs."
 			],
 			"description": [
-				"The overlapping leather plates of this +2 lamellar cuirass (Pathfinder RPG Ultimate Equipment 12) oddly feel more like insect chitin than the supple leather they are crafted from. This armor's lightweight construction gives it a maximum Dexterity bonus of +6.",
+				"The overlapping leather plates of this +2 lamellar cuirass oddly feel more like insect chitin than the supple leather they are crafted from. This armor's lightweight construction gives it a maximum Dexterity bonus of +6.",
 				"The wearer of a locust cuirass can take 10 on Acrobatics checks to jump even if distracted or in danger. Once per day as an immediate action, the wearer can summon a swarm of locusts that surround her and support her weight during a fall, causing her to drift slowly down to the ground, similar to feather fall. While falling, the wearer can move up to 5 feet in any horizontal direction for every 1 foot she falls, at a speed of 60 feet per round. The wearer takes no damage upon landing. The effect ends as soon as the wearer touches the ground or after 6 rounds, whichever comes first. If the effect expires while the wearer is still in the air, she falls the remaining distance as normal."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, cape of wasps; Price 3,365 gp"
@@ -1234,7 +1234,7 @@
 				"Slot armor; Price 11,165 gp; Weight 25 lbs."
 			],
 			"description": [
-				"This +1 hide armor is always made from the pelt of a migratory herd animal. Anyone wearing this armor can maintain a hustle for a full 8 hours without growing fatigued, doubling her normal daily overland movement rate. After that, the wearer begins to take nonlethal damage each hour, per the hustle rules (Core Rulebook 171). This armor does not increase tactical movement during combat. The benefits of this armor aren't replenished until the character has had a full night's rest."
+				"This +1 hide armor is always made from the pelt of a migratory herd animal. Anyone wearing this armor can maintain a hustle for a full 8 hours without growing fatigued, doubling her normal daily overland movement rate. After that, the wearer begins to take nonlethal damage each hour, per the hustle rules. This armor does not increase tactical movement during combat. The benefits of this armor aren't replenished until the character has had a full night's rest."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, bear's endurance; Price 5,665 gp"
 		},
@@ -1828,7 +1828,7 @@
 				"Slot armor; Price 17,650 gp; Weight 45 lbs."
 			],
 			"description": [
-				"This +2 spiked splint mail is fashioned from hacked-off chunks of tanned hide and held together by humanoid spines. Used by orcs of the Broken Spine clan in Belkzen, these sets of armor are seen as a status symbol, and are adorned with trophies from slain foes, such as wayfinders. This armor grants its wearer the constrict ability (Pathfinder RPG Bestiary 298), dealing an amount of damage equal to 1d6 + the wearer's Strength modifier.",
+				"This +2 spiked splint mail is fashioned from hacked-off chunks of tanned hide and held together by humanoid spines. Used by orcs of the Broken Spine clan in Belkzen, these sets of armor are seen as a status symbol, and are adorned with trophies from slain foes, such as wayfinders. This armor grants its wearer the constrict ability, dealing an amount of damage equal to 1d6 + the wearer's Strength modifier.",
 				"The vertebrae of the spines adorning the backbreaker mail are sharpened, acting as +1 human bane armor spikes."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, beast shape I, disguise self, summon monster I; Price 9,025 gp"
@@ -2086,10 +2086,10 @@
 				"Slot armor; Price 20,550 gp; Weight 30 lbs."
 			],
 			"description": [
-				"Once per day as a standard action, the wearer of this +2 do-maru armor (Pathfinder RPG Ultimate Combat 128) can activate the armor to heal 4d8+9 points of damage and end any and all of the following conditions affecting the wearer: ability damage, blinded, confused, dazzled, deafened, diseased, exhausted, fatigued, nauseated, poisoned, and sickened. In addition, this effect functions as break enchantment upon a single additional effect of the wearer's choice that is affecting the wearer and that can be legally affected by this effect. Such healing, however, comes at a cost. The do-maru of broken flesh creates vivid, ugly scars on the wearer, who takes 1d4 points of Charisma damage each time this ability is used.",
+				"Once per day as a standard action, the wearer of this +2 do-maru armor can activate the armor to heal 4d8+9 points of damage and end any and all of the following conditions affecting the wearer: ability damage, blinded, confused, dazzled, deafened, diseased, exhausted, fatigued, nauseated, poisoned, and sickened. In addition, this effect functions as break enchantment upon a single additional effect of the wearer's choice that is affecting the wearer and that can be legally affected by this effect. Such healing, however, comes at a cost. The do-maru of broken flesh creates vivid, ugly scars on the wearer, who takes 1d4 points of Charisma damage each time this ability is used.",
 				"Do-maru is medium armor that provides a +5 armor bonus. The armor has an arcane spell failure chance of 25%, a maximum Dexterity bonus of +4, and an armor check penalty of -4. Do-maru costs 200 gp and weighs 30 lbs."
 			],
-			"construction": "Requirements Craft Magic Arms and Armor, cleanse (Advanced Player's Guide 211); Price 10,450 gp"
+			"construction": "Requirements Craft Magic Arms and Armor, cleanse; Price 10,450 gp"
 		},
 		{
 			"name": "Raiment of the Shining Crusade",
@@ -2127,7 +2127,7 @@
 			],
 			"description": [
 				"This immaculate +2 champion field plate is commonly used by military commanders in Lastwall, Mendev, and Taldor. A sturdy metal bracket is built onto the back of the armor, located just under the shoulder blades; if the wielder has personal heraldry, this slot can hold a banner or flag bearing that heraldry (such as a cavalier's banner).",
-				"If the wearer of the war commander's field plate takes to the battlefield as an army commander (Pathfinder RPG Ultimate Campaign 234), he gains the Hold the Line boon if he prominently displays his heraldry. If the wearer already possesses this boon, he instead gains an additional +1 bonus on Morale checks as army commander."
+				"If the wearer of the war commander's field plate takes to the battlefield as an army commander, he gains the Hold the Line boon if he prominently displays his heraldry. If the wearer already possesses this boon, he instead gains an additional +1 bonus on Morale checks as army commander."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, heroism, protection from evil; Price 11,475 gp"
 		},
@@ -2506,7 +2506,7 @@
 			"description": [
 				"Crafted by shamans of the Yumogu tribe for their mightiest chieftains, this undecorated +3 leather armor is made from strips of boiled horsehide. While her enemies tire around her, the wearer of this armor can keep fighting. If the wearer is a barbarian, the armor of the tireless warrior allows her to rage for 2 additional rounds per day. Once per day on command, the wearer can cause her enemies to become fatigued, as per the waves of fatigue spell. In addition, once per day, the wearer can draw upon the armor's strength to banish her own weariness. For 10 minutes, the wearer takes no penalties from the fatigued or exhausted conditions. This effect is merely an illusion, however, and when it ends, the wearer takes 1d6 points of nonlethal damage and the condition or conditions return."
 			],
-			"construction": "Requirements Craft Magic Arms and Armor, invigorate (Pathfinder RPG Advanced Player's Guide 230), rage, waves of fatigue; Price 13,030 gp"
+			"construction": "Requirements Craft Magic Arms and Armor, invigorate, rage, waves of fatigue; Price 13,030 gp"
 		},
 		{
 			"name": "Mail of Sly Steps",
@@ -2827,7 +2827,7 @@
 			],
 			"description": [
 				"This +3 breastplate is crafted from the carapace of a giant scarab beetle, enchanted to be as hard and reflective as polished steel. The wearer suffers only half damage from vermin swarms and gains a +2 resistance bonus on saving throws against the extraordinary abilities of vermin swarms.",
-				"In addition, once per day on command, the wearer can transform the scarab breastplate into a swarm of scarab beetles that skitter from her chest to attack creatures nearby. This swarm has statistics identical to an army ant swarm (Bestiary 16) and attacks any creatures within its space. The wearer can command the swarm to move (including changing the shape of the swarm) as a move action, but the swarm must remain adjacent to her. If the swarm is reduced to 0 hit points, if the wearer is forced to move away from the swarm, or if the wearer commands it to return to her as a move action, the swarm crawls back onto the wearer's torso and returns to armor form. While the swarm is active, the wearer is not considered to be wearing the scarab breastplate (except for purposes of commanding the swarm) and gains no defensive benefits from it.",
+				"In addition, once per day on command, the wearer can transform the scarab breastplate into a swarm of scarab beetles that skitter from her chest to attack creatures nearby. This swarm has statistics identical to an army ant swarm and attacks any creatures within its space. The wearer can command the swarm to move (including changing the shape of the swarm) as a move action, but the swarm must remain adjacent to her. If the swarm is reduced to 0 hit points, if the wearer is forced to move away from the swarm, or if the wearer commands it to return to her as a move action, the swarm crawls back onto the wearer's torso and returns to armor form. While the swarm is active, the wearer is not considered to be wearing the scarab breastplate (except for purposes of commanding the swarm) and gains no defensive benefits from it.",
 				"A druid of 6th level wearing a scarab breastplate can use her wild shape ability to duplicate vermin shape I (Ultimate Magic). At 8th level, she can also use it to duplicate vermin shape II (Ultimate Magic)."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, creeping doom, spell turning, vermin shape II; Price 16,350 gp"
@@ -2889,7 +2889,7 @@
 			"description": [
 				"This red +2 slick electricity resistance leather armor is crafted from the skin of the crimson hagfish, more commonly known as the Shackles slime eel. The armor exudes a slippery slime that grants its wearer a +5 competence bonus on Escape Artist and Swim checks. In addition, as a standard action once per day, the wearer can form an aura of electricity around himself that persists for 5 rounds. Creatures adjacent to the wearer when this power is activated and at the start of the wearer's turn take 2d6 points of electricity damage and are staggered for 1 round. A successful DC 14 Reflex save halves the damage and negates the staggering effect. The aura persists for 5 rounds."
 			],
-			"construction": "Requirements Craft Magic Arms and Armor, elemental aura (Pathfinder RPG Advanced Player's Guide 218), grease, resist energy; Price 16,985 gp"
+			"construction": "Requirements Craft Magic Arms and Armor, elemental aura, grease, resist energy; Price 16,985 gp"
 		},
 		{
 			"name": "Full Plate of the Corpse",
@@ -3260,7 +3260,7 @@
 				"Slot armor; Price 61,300 gp; Weight 40 lbs."
 			],
 			"description": [
-				"Mail of malevolence hangs in rags and tatters and acts as nonmagical chainmail to wearers who lack at least a moderate evil aura (Core Rulebook 266). When worn by a sufficiently evil character, it instead functions as +2 unrighteous chainmail (see page 123). Mail of malevolence does not bestow a negative level on good wearers.",
+				"Mail of malevolence hangs in rags and tatters and acts as nonmagical chainmail to wearers who lack at least a moderate evil aura. When worn by a sufficiently evil character, it instead functions as +2 unrighteous chainmail (see page 123). Mail of malevolence does not bestow a negative level on good wearers.",
 				"The wearer of mail of malevolence gains SR 21, but only against spells with the good descriptor. In addition, whenever the wearer channels negative energy to harm living creatures, she heals a like amount of damage herself regardless of whether she is living or undead."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, righteous might, spell resistance; Price 30,800 gp"
@@ -3300,7 +3300,7 @@
 				"Slot armor; Price 68,400 gp; Weight 45 lbs."
 			],
 			"description": [
-				"This distinctive +4 adamantine glamered o-yoroi (Ultimate Combat 128) was designed for scions of Minkai's imperial families and their highest-ranking and most loyal samurai, providing its wearer with DR 3/-. In addition, the armor stores the kinetic energy from blows made against it. Once the armor has negated 15 total points of damage, the wearer can release the stored energy as a swift action against a single creature within 10 feet. This energy takes the form of a force effect, and the wearer must make an attack roll at his base attack bonus +10. The energy deals 15 points of force damage to the target, and the target must make a DC 22 Fortitude save or be stunned for 1 round. If the wearer chooses not to release this energy, the armor still provides damage reduction but absorbs no more energy until the stored energy is released."
+				"This distinctive +4 adamantine glamered o-yoroi was designed for scions of Minkai's imperial families and their highest-ranking and most loyal samurai, providing its wearer with DR 3/-. In addition, the armor stores the kinetic energy from blows made against it. Once the armor has negated 15 total points of damage, the wearer can release the stored energy as a swift action against a single creature within 10 feet. This energy takes the form of a force effect, and the wearer must make an attack roll at his base attack bonus +10. The energy deals 15 points of force damage to the target, and the target must make a DC 22 Fortitude save or be stunned for 1 round. If the wearer chooses not to release this energy, the armor still provides damage reduction but absorbs no more energy until the stored energy is released."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, clenched fist, disguise self; Price 42,550 gp"
 		},
@@ -3390,7 +3390,7 @@
 				"Slot armor; Price 83,050 gp; Weight 15 lbs."
 			],
 			"description": [
-				"This suit of +1 spiked half-plate armor is crafted from the hide and carapace of a xill (Bestiary 283) and includes a xill-skull helmet complete with insectlike mandibles, giving the wearer an otherworldly, buglike appearance. Once per day, the wearer can shift from the Material Plane to the Ethereal Plane and back again, as the etherealness magic armor special ability. Unlike with standard etherealness armor, however, the transitions to and from planes function exactly like a xill's planewalk ability, save that the wearer cannot take any creatures with it when it switches planes.",
+				"This suit of +1 spiked half-plate armor is crafted from the hide and carapace of a xill and includes a xill-skull helmet complete with insectlike mandibles, giving the wearer an otherworldly, buglike appearance. Once per day, the wearer can shift from the Material Plane to the Ethereal Plane and back again, as the etherealness magic armor special ability. Unlike with standard etherealness armor, however, the transitions to and from planes function exactly like a xill's planewalk ability, save that the wearer cannot take any creatures with it when it switches planes.",
 				"Additionally, the spikes along the armor's back, torso, arms, and upper legs are laced with a natural paralytic. The target of a successful critical hit made with these armor spikes is paralyzed for 1d4 rounds (Fortitude DC 16 negates)."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, ethereal jaunt, hold monster; Price 41,900 gp"
@@ -3775,7 +3775,7 @@
 			"description": [
 				"This +1 heavy steel shield bears the symbol of Gorum, the Lord in Iron, on its face. In the hands of a character with the challenge class feature, this shield grants additional abilities. By spending one use of her challenge class feature as an immediate action, the wearer of a challenging shield can apply her Charisma bonus to her shield bonus to AC against a target of her challenge for 1 minute."
 			],
-			"construction": "Requirements Craft Magic Arms and Armor, nereid's grace (Pathfinder RPG Advanced Race Guide 179); Price 3,670 gp"
+			"construction": "Requirements Craft Magic Arms and Armor, nereid's grace; Price 3,670 gp"
 		},
 		{
 			"name": "Spined Shield",
@@ -3821,7 +3821,7 @@
 			],
 			"description": [
 				"A common sight among the more deplorable slavers of Katapesh, this +1 leather madu is adorned with body parts' ranging from fingers and toes to severed heads' each one crudely affixed to the shield's spikes. The wielder of the shield gains a +4 competence bonus on Intimidate checks while the shield is visible. The wearer and any associated companions take a -4 penalty on all Diplomacy checks made against good-aligned creatures while the shield is visible.",
-				"Once per day as a standard action, the wielder of an Okeno madu can shake the shield, causing the fetishes to rattle uncontrollably for 3 rounds. When he shakes the shield, the wielder can choose one creature within 35 feet to suffer the effects of the spell castigate (Pathfinder RPG Advanced Player's Guide 210) as long as the fetishes continue shaking."
+				"Once per day as a standard action, the wielder of an Okeno madu can shake the shield, causing the fetishes to rattle uncontrollably for 3 rounds. When he shakes the shield, the wielder can choose one creature within 35 feet to suffer the effects of the spell castigate as long as the fetishes continue shaking."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, castigate; Price 2,890 gp"
 		},
@@ -4346,7 +4346,7 @@
 			"description": [
 				"Crafted from magnetic ore warped by exposure to the Mana Wastes, this +1 arrow deflection buckler is thought to be one of the original shields granted by Duke Alkenstar to the first shieldmarshals.",
 				"Whenever the bearer of this shield successfully deflects a projectile using the shield, she can, as a free action, expend one use of mythic power to redirect the deflected projectile toward any creature to which she has a clear line of effect, using the original attacker's attack and damage rolls. The range increment penalty on the attack roll of this deflected projectile is calculated from the original point at which the projectile was fired. For example, a foe fires an arrow from his shortbow (range increment 60 feet) at a mythic character bearing a shieldmarshal's ward who is 100 feet away, taking a -2 penalty on his attack roll. The mythic character deflects the arrow toward the same foe, meaning the arrow has traveled a total of 200 feet, which imposes a -6 penalty on the attack roll to hit the foe (since three range increments of 60 feet equals 180 feet).",
-				"A character who possesses levels in the shieldmarshal prestige class (Pathfinder Campaign Setting: Paths of Prestige 48) can bear a shieldmarshal's ward without penalty, even if she isn't proficient with it."
+				"A character who possesses levels in the shieldmarshal prestige class can bear a shieldmarshal's ward without penalty, even if she isn't proficient with it."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, Mythic Crafter, protection from arrows, shield, telekinesis; Price 8,655 gp"
 		},
@@ -4899,7 +4899,7 @@
 				"Slot shield; Price 79,180 gp; Weight 45 lbs."
 			],
 			"description": [
-				"This massive iron-covered +2 tower shield grants the wielder a +3 resistance bonus on saving throws against spells, spelllike abilities and supernatural abilities, and reduces hit point damage taken from such sources by 10 points."
+				"This massive iron-covered +2 tower shield grants the wielder a +3 resistance bonus on saving throws against spells, spell-like abilities and supernatural abilities, and reduces hit point damage taken from such sources by 10 points."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, spell resistance; Price 39,680 gp"
 		},
@@ -5184,7 +5184,7 @@
 				"Slot armor; Weight 20 lbs."
 			],
 			"description": [
-				"This armor behaves in all ways as if it were +1 undead controlling studded leather until its owner actually attempts to use its special property. At that point, the wearer and all living creatures within a 20-foot radius must succeed at a DC 15 Will saving throw to avoid believing that they are actually some sort of undead creature for the next 24 hours. The GM can either roll randomly (1d6; 1â€“3 zombies, 4â€“5 ghouls, 6 vampires) or choose which sorts of specific undead the affected creatures believe themselves to be. Creatures affected by the armor behave as normal for the sorts of undead they regard themselves as-\"zombies\" mindlessly attack unassociated creatures near them, vampires attempt to bite victims on the neck, and so on-but gain none of the special abilities of that creature. The affected creatures react negatively to effects that harm \"their\" type of undead, so \"vampires\" avoid garlic, \"wraiths\" recoil from sunlight, and so on. The creatures continue to believe they are actually undead and ignore all evidence to the contrary. If attacked, they defend themselves, even if this requires using abilities they have but \"their\" type of undead normally lacks; for example, a barbarian who thinks sheâ€™s a ghoul can still rage. Channel energy and other undead-affecting effects have no effect on creatures affected by gravesoul armor.",
+				"This armor behaves in all ways as if it were +1 undead controlling studded leather until its owner actually attempts to use its special property. At that point, the wearer and all living creatures within a 20-foot radius must succeed at a DC 15 Will saving throw to avoid believing that they are actually some sort of undead creature for the next 24 hours. The GM can either roll randomly (1d6; 1â€“3 zombies, 4â€“5 ghouls, 6 vampires) or choose which sorts of specific undead the affected creatures believe themselves to be. Creatures affected by the armor behave as normal for the sorts of undead they regard themselves as-\"zombies\" mindlessly attack unassociated creatures near them, vampires attempt to bite victims on the neck, and so on-but gain none of the special abilities of that creature. The affected creatures react negatively to effects that harm \"their\" type of undead, so \"vampires\" avoid garlic, \"wraiths\" recoil from sunlight, and so on. The creatures continue to believe they are actually undead and ignore all evidence to the contrary. If attacked, they defend themselves, even if this requires using abilities they have but \"their\" type of undead normally lacks; for example, a barbarian who thinks she's a ghoul can still rage. Channel energy and other undead-affecting effects have no effect on creatures affected by gravesoul armor.",
 				"This is a mind-affecting, compulsion enchantment. The wearer of the armor can use this power up to three times per day, though it can only work on a particular creature once in any 24-hour period. Regardless of the curse, the armor is still +1 studded leather, and some characters may find it useful despite its (nonexistent) power over undead. Unlike most cursed items, this one is easily discarded without any magical assistance."
 			],
 			"construction": "Requirements +1 undead controlling studded leather; Cost -"
@@ -5210,7 +5210,7 @@
 			],
 			"description": [
 				"This shield behaves in all ways as an absorbing shield until its owner attempts to use its disintegration power in combat. Once he does, it instead causes one or more monsters to pour forth from the shield and attack the nearest creature each round (including the shield-bearer) for 1d6 rounds before retreating by the safest possible route. If there is no such path for them to escape, the monsters fight to the death. To determine the nature and number of the monsters, roll 2d4 to determine the level of the summon monster spell and roll 1d3 to determine the number of creatures that appear. Monsters conjured by this shield remain until killed, act as normal for their kind, and are treated as summoned creatures with a permanent duration.",
-				"Once its curse activates, the shield calls forth monsters three times per day, approximately every 8 hours. If the monsters cannot emerge directly from the shield and survive (for example, because itâ€™s buried or underwater), they instead appear at the nearest safe location within 50 feet. Successful curse-breaking magic cast on the shield restores it to its previous guise as an absorbing shield and allows its wearer to abandon it."
+				"Once its curse activates, the shield calls forth monsters three times per day, approximately every 8 hours. If the monsters cannot emerge directly from the shield and survive (for example, because it's buried or underwater), they instead appear at the nearest safe location within 50 feet. Successful curse-breaking magic cast on the shield restores it to its previous guise as an absorbing shield and allows its wearer to abandon it."
 			],
 			"construction": "Requirements absorbing shield; Cost -"
 		}

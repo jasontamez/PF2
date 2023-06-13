@@ -743,7 +743,7 @@
 				"Slot rod; Price 14,400 gp; Weight 4 lbs."
 			],
 			"description": [
-				"This rod is fashioned in the form of a uraeus (Pathfinder Campaign Setting: Osirion, Legacy of Pharaohs 63), the legendary two-headed winged cobra that is the symbol of the Ancient Osirian deity Wadjet, patron of Osirion and the goddess of good serpents, the River Sphinx, and wisdom. The priesthood of Wadjet is credited with creating the first rods of the uraeus, but others have since replicated the feat.",
+				"This rod is fashioned in the form of a uraeus, the legendary two-headed winged cobra that is the symbol of the Ancient Osirian deity Wadjet, patron of Osirion and the goddess of good serpents, the River Sphinx, and wisdom. The priesthood of Wadjet is credited with creating the first rods of the uraeus, but others have since replicated the feat.",
 				"A rod of the uraeus can be wielded as a +1 light mace. When holding the rod, the wielder gains a +2 resistance bonus on Reflex saves and a +5 competence bonus on Sense Motive checks. The wielder can fire a 30-foot line of stinging poison from the rod up to twice per day (once for each head of the uraeus). A creature in the area of effect can avoid the poison with a successful DC 13 Reflex save. On a failed save, a creature is blinded and paralyzed for 8 rounds. Each round on its turn, an affected creature may attempt a DC 13 Fortitude save to end the blindness and paralysis effects. A rod of the uraeus functions only if its possessor is lawful."
 			],
 			"construction": "Requirements Craft Magic Arms and Armor, Craft Rod, poison, resistance, creator must have 5 ranks in Sense Motive; Cost 7,200 gp"
@@ -1934,7 +1934,7 @@
 				"This rod is made of polished gold, and features three blownglass onion domes at one end. It functions as a +1 light mace. Up to three times per day, with a successful hit in combat, the wearer may attempt to put the target of the attack asleep (DC 14 Will save negates). This functions as sleep, but there is no limit to the number of Hit Dice that may be affected.",
 				"In addition, the wielder may create an opaque sphere of force to protect himself from the elements once per day, as a tiny hut spell with a 5-foot radius. If the wielder goes to sleep with the rod in his possession, 8 hours of sleep provides healing equivalent to a full day of bed rest. Upon waking, the wielder enjoys the benefits of a good hope spell for 1 hour."
 			],
-			"construction": "Requirements Craft Rod, deep slumber, good hope, restful sleep (Advanced Player's Guide 239), tiny hut; Cost 31,000 gp"
+			"construction": "Requirements Craft Rod, deep slumber, good hope, restful sleep, tiny hut; Cost 31,000 gp"
 		},
 		{
 			"name": "Rod of Shadows",
@@ -1956,7 +1956,7 @@
 				"Slot none; Price 64,305 gp; Weight 5 lbs."
 			],
 			"description": [
-				"This ebon rod is so dark it seems to absorb the light around it. The rod functions as a +2 light mace, and allows its wielder to see in darkness as if she had the see in darkness ability (Bestiary 2 301). Three times per day, the wielder can use it to create a deeper darkness effect (caster level 8th). To use this ability, the rod's wielder must touch the target object, which is a standard action that provokes attacks of opportunity."
+				"This ebon rod is so dark it seems to absorb the light around it. The rod functions as a +2 light mace, and allows its wielder to see in darkness as if she had the see in darkness ability. Three times per day, the wielder can use it to create a deeper darkness effect (caster level 8th). To use this ability, the rod's wielder must touch the target object, which is a standard action that provokes attacks of opportunity."
 			],
 			"construction": "Requirements Craft Rod, deeper darkness, true seeing; Cost 32,305 gp"
 		},
@@ -2178,7 +2178,7 @@
 				"Slot none; Price 82,000 gp; Weight 8 lbs."
 			],
 			"description": [
-				"This variant rod of rulership (Ultimate Equipment 183) looks like a castoff piece of wood from a lumber mill. Originating from the earliest insurrections of G alt, these rods have become symbolic among rebel leaders in the struggling nation. A rod of revolution's wielder can activate the device as a standard action to incite rebellious urges in creatures within 120 feet. The wielder can incite a number of creatures totaling 300 Hit Dice, but creatures with a Wisdom score of 12 or higher can attempt a DC 16 Will save to negate the effect. Incited creatures gain the benefits of the rage spell, but adhere to only the most basic commands issued by the wielder (such as directions about where to move and who to attack). The rod can be used for 500 total minutes before it crumbles to dust. These minutes need not be continuous."
+				"This variant rod of rulership looks like a castoff piece of wood from a lumber mill. Originating from the earliest insurrections of G alt, these rods have become symbolic among rebel leaders in the struggling nation. A rod of revolution's wielder can activate the device as a standard action to incite rebellious urges in creatures within 120 feet. The wielder can incite a number of creatures totaling 300 Hit Dice, but creatures with a Wisdom score of 12 or higher can attempt a DC 16 Will save to negate the effect. Incited creatures gain the benefits of the rage spell, but adhere to only the most basic commands issued by the wielder (such as directions about where to move and who to attack). The rod can be used for 500 total minutes before it crumbles to dust. These minutes need not be continuous."
 			],
 			"construction": "Requirements Craft Rod, mass charm monster, rage; Cost 41,000 gp"
 		},
@@ -2292,13 +2292,13 @@
 				"Slot none; Price 200,000 gp; Weight 5 lbs."
 			],
 			"description": [
-				"The Scepter of the Arclords is a powerful device capable of harvesting all the ambient magic from a large area and focusing it into a single powerful effect. Once per day the wielder can command the Scepter of the Arclords to duplicate any spell of 3rd level or lower. This automatically succeeds, but there is a 10% chance the wielder also gains a random minor spellblight (Pathfinder RPG Ultimate Magic 94).",
+				"The Scepter of the Arclords is a powerful device capable of harvesting all the ambient magic from a large area and focusing it into a single powerful effect. Once per day the wielder can command the Scepter of the Arclords to duplicate any spell of 3rd level or lower. This automatically succeeds, but there is a 10% chance the wielder also gains a random minor spellblight.",
 				"Additionally, once per week the wielder can command the item to create any magic effect he desires. Roll d% to determine the effect of this command.",
 				"| d% | Effect |",
 				"|---|---|",
-				"| 01 | The wielder gains a major spellblight (Ultimate Magic 94). The GM may determine the spellblight randomly, or may design a custom spellblight based on the magic effect the wielder commanded the scepter to create. The DC to remove this spellblight (using the normal rules for eliminating spellblights) is 35 (or 40, if the target still has the Scepter of the Arclords in his possession), and isn't reduced with the passage of time. |",
-				"| 02-05 | The Scepter creates a permanently magic-dead area (Pathfinder Campaign Setting: Inner Sea Magic 12) with a radius of d% x 100 feet. |",
-				"| 06-10 | The Scepter creates a permanent area of primal magic (Inner Sea Magic 12) with a radius of d% x 100 feet. |",
+				"| 01 | The wielder gains a major spellblight. The GM may determine the spellblight randomly, or may design a custom spellblight based on the magic effect the wielder commanded the scepter to create. The DC to remove this spellblight (using the normal rules for eliminating spellblights) is 35 (or 40, if the target still has the Scepter of the Arclords in his possession), and isn't reduced with the passage of time. |",
+				"| 02-05 | The Scepter creates a permanently magic-dead area with a radius of d% x 100 feet. |",
+				"| 06-10 | The Scepter creates a permanent area of primal magic with a radius of d% x 100 feet. |",
 				"| 11-80 | The wielder's command is fulfilled with a limited wish. If a limited wish can't fulfill the command, the scepter comes as close to fulfilling it as a limited wish can (GM's discretion). |",
 				"| 81-100 | The wielder's command is fulfilled with a wish. If a wish can't fulfill the command, the scepter comes as close to fulfilling it as a wish can (GM's discretion). Additionally, one random creature of the outsider type learns the wielder has the scepter and just used it to gain a wish; the nature of the wish and the location of the wielder aren't revealed. The GM secretly determines which outsider gains this knowledge. |",
 				"The eye-like spheres on the Scepter sometimes swivel of their own accord, and although the Scepter isn't intelligent, it's capable of sliding on its own at a speed of 5 feet."
@@ -2555,7 +2555,7 @@
 				"Slot none; Price 3,000 gp (lesser), 11,000 gp (normal), 24,500 gp (greater); Weight 5 lbs."
 			],
 			"description": [
-				"The wielder can cast up to three spells per day that have full effect against incorporeal creatures, as though she were using the Ectoplasmic Spell feat (Advanced Player's Guide 158)."
+				"The wielder can cast up to three spells per day that have full effect against incorporeal creatures, as though she were using the Ectoplasmic Spell feat."
 			],
 			"construction": "Requirements Craft Rod, Ectoplasmic Spell; Cost 1,500 gp (lesser), 5,500 gp (normal), 12,250 gp (greater)"
 		},
@@ -2677,7 +2677,7 @@
 				"Slot none; Price 3,000 gp (lesser), 11,000 gp (normal), 24,500 gp (greater); Weight 5 lbs."
 			],
 			"description": [
-				"The wielder can cast up to three spells per day that are focused as though using the Focused Spell feat (Advanced Player's Guide 160)."
+				"The wielder can cast up to three spells per day that are focused as though using the Focused Spell feat."
 			],
 			"construction": "Requirements Craft Rod, Focused Spell; Cost 1,500 gp (lesser), 5,500 gp (normal), 12,250 gp (greater)"
 		},
@@ -4733,7 +4733,7 @@
 				"Communication telepathy (Celestial; truespeech)"
 			],
 			"description": [
-				"This copper rod is made up of constantly grinding gearlike parts. It is believed that these rods may be some alternate or lesser form of harbinger archons (Bestiary 3 18). T he rod can take may useful forms, and after 24 hours in the possession of a lawful good creature, the wielder can command it to take the form of any tool, including a chime of opening. Very intelligent and witty, these rods communicate with their wielders in truespeech (Bestiary 310; see archon subtype) or Celestial. Furthermore, the rod has the following powers. ",
+				"This copper rod is made up of constantly grinding gearlike parts. It is believed that these rods may be some alternate or lesser form of harbinger archons. T he rod can take may useful forms, and after 24 hours in the possession of a lawful good creature, the wielder can command it to take the form of any tool, including a chime of opening. Very intelligent and witty, these rods communicate with their wielders in truespeech (Bestiary 310; see archon subtype) or Celestial. Furthermore, the rod has the following powers. ",
 				"- Three times per day, on command, the rod's wielder can use dimension door, as the spell.",
 				"- Once per day, on command, the rod can emit a blast of energy that deals 2d6 points of force damage to creatures adjacent to the wielder. A successful DC 12 Reflex save halves the damage. The wielder can choose to omit any target from this blast that it desires, damaging only the foes it chooses.",
 				"The rod's purpose is to destroy or foil the plans of chaotic evil creatures."

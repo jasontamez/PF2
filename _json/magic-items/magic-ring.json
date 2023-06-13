@@ -177,7 +177,7 @@
 			"description": [
 				"Popular among Riverfolk who prefer to work their waterway unarmed, this simple bronze band can transform into a handy weapon in a pinch. When the wearer of a riverclub ring plunges her hand into at least 1 gallon of water as a move action, she can pull forth a club made of animated water. The weapon maintains the shape, solidity, and statistics of a masterwork club of the wielder's size so long as she holds it, dealing damage as normal, except that it deals 1 additional point of damage against creatures with the fire subtype. The club turns back into a puddle of water again as soon as the wielder loosens her grip around it."
 			],
-			"construction": "Requirements Forge Ring, icicle dagger (Pathfinder RPG Ultimate Magic 224); Cost 500 gp"
+			"construction": "Requirements Forge Ring, icicle dagger; Cost 500 gp"
 		},
 		{
 			"name": "Ring of Serene Contortions",
@@ -2296,7 +2296,7 @@
 			"description": [
 				"Crudely cut amethysts and a single engraved skull decorate the band of this thick iron ring. The ring grants its wearer a +5 competence bonus on Appraise checks to determine the most valuable item in a treasure hoard and a +5 competence bonus on Heal checks to ascertain details of a dead creature's demise. Once per day as a standard action, the wearer can touch the ring to a corpse or piece of a corpse to learn the dead creature's name, gender, race, and profession or role, as well as the manner of the creature's death. The wearer also becomes aware of the location of other pieces of the corpse if they're within 1,200 feet. If the body part comes from a creature that's still alive or undead, the wearer gains no information. The ring of the iron skull must be worn for 24 hours before it starts to function for the wearer."
 			],
-			"construction": "Requirements Forge Ring, blood biography (Advanced Player's Guide 206), locate object; Cost 5,400 gp"
+			"construction": "Requirements Forge Ring, blood biography, locate object; Cost 5,400 gp"
 		},
 		{
 			"name": "Ring of Transposition",
@@ -2382,7 +2382,7 @@
 				"Slot ring; Price 11,000 gp; Weight -"
 			],
 			"description": [
-				"Often worn on the little finger, this ring grants its wearer a +4 competence bonus on Sense Motive and Knowledge (local) checks. Also, once per day on command, the wearer can use the ring to cast either locate creature or locate object (the wearer's choice). Furthermore, on command and at will, the wearer can instantly know the direction from herself to the nearest tavern, pub, or similar watering hole as long as that establishment is in a settlement whose population is equivalent to that of a village or greater (GameMastery Guide 203) and that is within 20 miles of the wearer."
+				"Often worn on the little finger, this ring grants its wearer a +4 competence bonus on Sense Motive and Knowledge (local) checks. Also, once per day on command, the wearer can use the ring to cast either locate creature or locate object (the wearer's choice). Furthermore, on command and at will, the wearer can instantly know the direction from herself to the nearest tavern, pub, or similar watering hole as long as that establishment is in a settlement whose population is equivalent to that of a village or greater and that is within 20 miles of the wearer."
 			],
 			"construction": "Requirements Forge Ring, know direction, locate creature, locate object, creator must have at least 4 ranks in both Sense Motive and Knowledge (local); Cost 5,500 gp"
 		},
@@ -3250,8 +3250,8 @@
 			"description": [
 				"This ring is a thin but sturdy piece of forged steel crafted to resemble a serpent swallowing its tail, and is magically imbued to reveal the secrets of arcane mastery to its wearer. The ring allows a wearer with an arcane pool to store up to 4 points from his arcane pool in the ring as a swift action. These points remain in the ring until used. A wearer can spend arcane pool points stored in the ring as if they were his own, or can spend them in each of the following ways. ",
 				"- As a free action, the wearer can expend 1 arcane pool point stored in the ring to gain a +2 bonus on Concentration checks for 1 round.",
-				"- As a standard action, the wearer can expend 1 arcane pool point stored in the ring to use the pool strike magus arcana (Ultimate Magic 12) using his own magus level to determine the effect.",
-				"- As an immediate action, the wearer can expend up to 4 arcane pool points stored in the ring to use the reflection magus arcana (Ultimate Magic 12)."
+				"- As a standard action, the wearer can expend 1 arcane pool point stored in the ring to use the pool strike magus arcana using his own magus level to determine the effect.",
+				"- As an immediate action, the wearer can expend up to 4 arcane pool points stored in the ring to use the reflection magus arcana."
 			],
 			"construction": "Requirements Forge Ring, imbue with spell ability, spell turning; Cost 10,000 gp"
 		},
@@ -3536,7 +3536,7 @@
 			"description": [
 				"This shining, ash-white ring of bone is crafted to look like countless interlocking rat fangs, set with a dozen dark, garnet eyes like those of albino sewer-hunters. The wearer of this ring can utter a command word to call forth 1d3 rat swarms within 40 feet. These swarms each act immediately and vanish after 7 rounds. They are independent and not under the wearer's control, though the wearer is immune to the effects and attacks of any swarm created through use of this ring.",
 				"Alternatively, upon command, the ring's wearer can use dimension door. This magical transportation must begin and end in a square that includes a swarm summoned by use of this ring.",
-				"This ring's abilities can be used a total of three times per day, in any combination. An urban druid (Pathfinder RPG Advanced Player's Guide 101) wearing this ring can gain one additional use per day by expending three daily uses of her wild shape ability."
+				"This ring's abilities can be used a total of three times per day, in any combination. An urban druid wearing this ring can gain one additional use per day by expending three daily uses of her wild shape ability."
 			],
 			"construction": "Requirements Forge Ring, dimension door, summon swarm; Cost 13,000 gp"
 		},
@@ -4762,7 +4762,7 @@
 				"Slot ring; Weight -"
 			],
 			"description": [
-				"This simple and unadorned copper ring appears slightly tarnished, but seemingly wards off the effects of hunger or other sorts of deprivation; all tests reveal it to be a ring of sustenance. However, after wearing it for 7 days, its owner instead comes to suffer from almost constant hunger and thirst, which, if not sated, ultimately drives him mad enough to become a cannibal. The wearer must eat and drink a full dayâ€™s worth of food and water each hour to avoid making a starvation or thirst check. Once the wearer starts to take lethal damage instead of nonlethal damage due to failed checks, he begins to experience ever more powerful cravings for the flesh of intelligent creatures (any living creature with an Intelligence of 3 or higher).",
+				"This simple and unadorned copper ring appears slightly tarnished, but seemingly wards off the effects of hunger or other sorts of deprivation; all tests reveal it to be a ring of sustenance. However, after wearing it for 7 days, its owner instead comes to suffer from almost constant hunger and thirst, which, if not sated, ultimately drives him mad enough to become a cannibal. The wearer must eat and drink a full day's worth of food and water each hour to avoid making a starvation or thirst check. Once the wearer starts to take lethal damage instead of nonlethal damage due to failed checks, he begins to experience ever more powerful cravings for the flesh of intelligent creatures (any living creature with an Intelligence of 3 or higher).",
 				"Once the wearer feasts in such a manner, he recovers all nonlethal damage sustained from hunger and thirst, though he continues to suffer lethal damage on failed starvation and thirst checks. The next time he is in a situation in which he could eat part of an intelligent being, he must make a DC 15 Will save or dine on the forbidden meat. If the wearer succumbs to this urge again, he recovers all lethal damage from failed starvation and thirst checks, and realizes cannibalism is the key to avoiding the increased hunger and thirst-on any day he eats at least one meal of flesh from an intelligent creature, he does not have to make hourly starvation and thirst checks, and recovers any accumulated damage from failing these checks. Once its curse activates, the ring cannot be removed until the curse is broken."
 			],
 			"construction": "Requirements ring of sustenance; Cost -"
@@ -4785,7 +4785,7 @@
 				"Slot ring; Weight -"
 			],
 			"description": [
-				"This ring appears as a normal ring of eloquence (Pathfinder RPG Advanced Class Guide 216), with four different languages (usually Common, Dwarven, Elven, and Gnome) etched around the inside of a silver band, and the wearer of a chatter ring gains the ability to speak the four languages inscribed in the ring. However, the difference between a chatter ring and a normal ring of eloquence quickly becomes apparent when the wearer speaks, as he becomes overwhelmingly talkative. The wearer takes a -2 penalty on Bluff, Diplomacy, Disguise, Perform (oratory), and Stealth checks. The ring can be removed only after the wearer benefits from a remove curse spell or similar effect."
+				"This ring appears as a normal ring of eloquence, with four different languages (usually Common, Dwarven, Elven, and Gnome) etched around the inside of a silver band, and the wearer of a chatter ring gains the ability to speak the four languages inscribed in the ring. However, the difference between a chatter ring and a normal ring of eloquence quickly becomes apparent when the wearer speaks, as he becomes overwhelmingly talkative. The wearer takes a -2 penalty on Bluff, Diplomacy, Disguise, Perform (oratory), and Stealth checks. The ring can be removed only after the wearer benefits from a remove curse spell or similar effect."
 			],
 			"construction": "Requirements ring of eloquence; Cost -"
 		},

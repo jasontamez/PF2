@@ -1572,7 +1572,7 @@
 				"- Make whole (1 charge)",
 				"- Mending (1 charge)",
 				"- Animate objects (2 charges)",
-				"In addition, once per day, the staff can become a Medium animated object (Bestiary 14) with the metal special ability. It can remain in this form for up to 10 minutes. If destroyed while in this form, it reverts to being a staff, but it loses all of its charges and this ability cannot be used again until it is fully recharged."
+				"In addition, once per day, the staff can become a Medium animated object with the metal special ability. It can remain in this form for up to 10 minutes. If destroyed while in this form, it reverts to being a staff, but it loses all of its charges and this ability cannot be used again until it is fully recharged."
 			],
 			"construction": "Requirements Craft Staff, animate objects, make whole, mending; Cost 24,900 gp"
 		},
