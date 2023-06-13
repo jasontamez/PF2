@@ -687,28 +687,16 @@
 			"formula": "switch(getScore(size score),Fine,Diminutive,Tiny,Small,Medium,Large,Huge,Gargantuan,Colossal)"
 		},
 		{
+			"name": "darkvision",
+			"formula": "sum(getObjectsTagged((bonus:darkvision)))"
+		},
+		{
 			"name": "base attack bonus",
 			"formula": "sum(calculateBonusesByType(getObjects(BAB bonus)))"
 		},
 		{
-			"name": "fortitude save",
-			"formula": "sum(calculateBonusesByType(getObjects(fortitude save bonus)))"
-		},
-		{
-			"name": "will save",
-			"formula": "sum(calculateBonusesByType(getObjects(will save bonus)))"
-		},
-		{
-			"name": "reflex save",
-			"formula": "sum(calculateBonusesByType(getObjects(reflex save bonus)))"
-		},
-		{
-			"name": "initiative",
-			"formula": "sum(getScore(DEX mod),calculateBonusesByType(getObjects(initiative bonus)))"
-		},
-		{
 			"name": "strength score",
-			"formula": "getInput(base strength score)+calculateBonusesByType(getObjectsScores(strength bonus))"
+			"formula": "getInput(base strength score)+calculateBonusesByType(getObjectsScoresTagged((bonus:strength)))"
 		},
 		{
 			"name": "STR mod",
@@ -716,7 +704,7 @@
 		},
 		{
 			"name": "dexterity score",
-			"formula": "getInput(base dexterity score)+calculateBonusesByType(getObjectsScores(dexterity bonus))"
+			"formula": "getInput(base dexterity score)+calculateBonusesByType(getObjectsScoresTagged((bonus:dexterity)))"
 		},
 		{
 			"name": "DEX mod",
@@ -724,7 +712,7 @@
 		},
 		{
 			"name": "constitution score",
-			"formula": "getInput(base constitution score)+calculateBonusesByType(getObjectsScores(constitution bonus))"
+			"formula": "getInput(base constitution score)+calculateBonusesByType(getObjectsScoresTagged((bonus:constitution)))"
 		},
 		{
 			"name": "CON mod",
@@ -732,7 +720,7 @@
 		},
 		{
 			"name": "intelligence score",
-			"formula": "getInput(base intelligence score)+calculateBonusesByType(getObjectsScores(intelligence bonus))"
+			"formula": "getInput(base intelligence score)+calculateBonusesByType(getObjectsScoresTagged((bonus:intelligence)))"
 		},
 		{
 			"name": "INT mod",
@@ -740,7 +728,7 @@
 		},
 		{
 			"name": "wisdom score",
-			"formula": "getInput(base wisdom score)+calculateBonusesByType(getObjectsScores(wisdom bonus))"
+			"formula": "getInput(base wisdom score)+calculateBonusesByType(getObjectsScoresTagged((bonus:wisdom)))"
 		},
 		{
 			"name": "WIS mod",
@@ -748,15 +736,43 @@
 		},
 		{
 			"name": "charisma score",
-			"formula": "getInput(base charisma score)+calculateBonusesByType(getObjectsScores(charisma bonus))"
+			"formula": "getInput(base charisma score)+calculateBonusesByType(getObjectsScoresTagged((bonus:charisma)))"
 		},
 		{
 			"name": "CHA mod",
 			"formula": "floor(getScore(charisma score) / 2 - 5)"
 		},
 		{
+			"name": "base fortitude save bonus",
+			"formula": "sum(getScoresTagged((bonus:base-fortitude-save)))"
+		},
+		{
+			"name": "fortitude save",
+			"formula": "sum(getScore(base fortitude save bonus),getScore(CON mod),calculateBonusesByType(getObjectsTagged((bonus:fortitude-save))))"
+		},
+		{
+			"name": "base will save bonus",
+			"formula": "sum(getScoresTagged((bonus:base-will-save)))"
+		},
+		{
+			"name": "will save",
+			"formula": "sum(getScore(base will save bonus),getScore(WIS mod),calculateBonusesByType(getObjectsTagged((bonus:will-save))))"
+		},
+		{
+			"name": "base reflex save bonus",
+			"formula": "sum(getScoresTagged((bonus:base-reflex-save)))"
+		},
+		{
+			"name": "reflex save",
+			"formula": "sum(getScore(base reflex save bonus),getScore(DEX mod),calculateBonusesByType(getObjectsTagged((bonus:reflex-save))))"
+		},
+		{
+			"name": "initiative",
+			"formula": "sum(getScore(DEX mod),calculateBonusesByType(getObjectsScoresTagged((bonus:initiative))))"
+		},
+		{
 			"name": "speed",
-			"formula": "sum(getScores(speed)) + calculateBonusesByType(getObjectsScores(speed bonus))"
+			"formula": "sum(getScores(speed)) + calculateBonusesByType(getObjectsScoresTagged((bonus:speed)))"
 		},
 		{
 			"name": "max skill ranks",
@@ -764,371 +780,375 @@
 		},
 		{
 			"name": "acrobatics total",
-			"formula": "getScore(DEX mod) + getInput(acrobatics ranks) + if((getInput(acrobatics ranks) > 0) && hasTag(class-skill:acrobatics), 3, 0) + calculateBonusesByType(getObjectsScores(acrobatics bonus))"
+			"formula": "getScore(DEX mod) + getInput(acrobatics ranks) + if((getInput(acrobatics ranks) > 0) && hasTag(class-skill:acrobatics), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:acrobatics)))"
 		},
 		{
 			"name": "appraise total",
-			"formula": "getScore(INT mod) + getInput(appraise ranks) + if((getInput(appraise ranks) > 0) && hasTag(class-skill:appraise), 3, 0) + calculateBonusesByType(getObjectsScores(appraise bonus))"
+			"formula": "getScore(INT mod) + getInput(appraise ranks) + if((getInput(appraise ranks) > 0) && hasTag(class-skill:appraise), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:appraise)))"
 		},
 		{
 			"name": "bluff total",
-			"formula": "getScore(CHA mod) + getInput(bluff ranks) + if((getInput(bluff ranks) > 0) && hasTag(class-skill:bluff), 3, 0) + calculateBonusesByType(getObjectsScores(bluff bonus))"
+			"formula": "getScore(CHA mod) + getInput(bluff ranks) + if((getInput(bluff ranks) > 0) && hasTag(class-skill:bluff), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:bluff)))"
 		},
 		{
 			"name": "climb total",
-			"formula": "getScore(STR mod) + getInput(climb ranks) + if((getInput(climb ranks) > 0) && hasTag(class-skill:climb), 3, 0) + calculateBonusesByType(getObjectsScores(climb bonus))"
+			"formula": "getScore(STR mod) + getInput(climb ranks) + if((getInput(climb ranks) > 0) && hasTag(class-skill:climb), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:climb)))"
 		},
 		{
 			"name": "craft alchemy total",
-			"formula": "getScore(INT mod) + getInput(craft alchemy ranks) + if((getInput(craft alchemy ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-alchemy), 3, 0) + calculateBonusesByType(getObjectsScores(craft bonus)) + calculateBonusesByType(getObjectsScores(craft alchemy bonus))"
+			"formula": "getScore(INT mod) + getInput(craft alchemy ranks) + if((getInput(craft alchemy ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-alchemy), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:craft))) + calculateBonusesByType(getObjectsScoresTagged((bonus:craft-alchemy)))"
 		},
 		{
 			"name": "craft armor total",
-			"formula": "getScore(INT mod) + getInput(craft armor ranks) + if((getInput(craft armor ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-armor), 3, 0) + calculateBonusesByType(getObjectsScores(craft bonus)) + calculateBonusesByType(getObjectsScores(craft armor bonus))"
+			"formula": "getScore(INT mod) + getInput(craft armor ranks) + if((getInput(craft armor ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-armor), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:craft))) + calculateBonusesByType(getObjectsScoresTagged((bonus:craft-armor)))"
 		},
 		{
 			"name": "craft baskets total",
-			"formula": "getScore(INT mod) + getInput(craft baskets ranks) + if((getInput(craft baskets ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-baskets), 3, 0) + calculateBonusesByType(getObjectsScores(craft bonus)) + calculateBonusesByType(getObjectsScores(craft baskets bonus))"
+			"formula": "getScore(INT mod) + getInput(craft baskets ranks) + if((getInput(craft baskets ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-baskets), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:craft))) + calculateBonusesByType(getObjectsScoresTagged((bonus:craft-baskets)))"
 		},
 		{
 			"name": "craft books total",
-			"formula": "getScore(INT mod) + getInput(craft books ranks) + if((getInput(craft books ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-books), 3, 0) + calculateBonusesByType(getObjectsScores(craft bonus)) + calculateBonusesByType(getObjectsScores(craft books bonus))"
+			"formula": "getScore(INT mod) + getInput(craft books ranks) + if((getInput(craft books ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-books), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:craft))) + calculateBonusesByType(getObjectsScoresTagged((bonus:craft-books)))"
 		},
 		{
 			"name": "craft bows total",
-			"formula": "getScore(INT mod) + getInput(craft bows ranks) + if((getInput(craft bows ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-bows), 3, 0) + calculateBonusesByType(getObjectsScores(craft bonus)) + calculateBonusesByType(getObjectsScores(craft bows bonus))"
+			"formula": "getScore(INT mod) + getInput(craft bows ranks) + if((getInput(craft bows ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-bows), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:craft))) + calculateBonusesByType(getObjectsScoresTagged((bonus:craft-bows)))"
 		},
 		{
 			"name": "craft calligraphy total",
-			"formula": "getScore(INT mod) + getInput(craft calligraphy ranks) + if((getInput(craft calligraphy ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-calligraphy), 3, 0) + calculateBonusesByType(getObjectsScores(craft bonus)) + calculateBonusesByType(getObjectsScores(craft calligraphy bonus))"
+			"formula": "getScore(INT mod) + getInput(craft calligraphy ranks) + if((getInput(craft calligraphy ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-calligraphy), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:craft))) + calculateBonusesByType(getObjectsScoresTagged((bonus:craft-calligraphy)))"
 		},
 		{
 			"name": "craft carpentry total",
-			"formula": "getScore(INT mod) + getInput(craft carpentry ranks) + if((getInput(craft carpentry ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-carpentry), 3, 0) + calculateBonusesByType(getObjectsScores(craft bonus)) + calculateBonusesByType(getObjectsScores(craft carpentry bonus))"
+			"formula": "getScore(INT mod) + getInput(craft carpentry ranks) + if((getInput(craft carpentry ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-carpentry), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:craft))) + calculateBonusesByType(getObjectsScoresTagged((bonus:craft-carpentry)))"
 		},
 		{
 			"name": "craft cloth total",
-			"formula": "getScore(INT mod) + getInput(craft cloth ranks) + if((getInput(craft cloth ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-cloth), 3, 0) + calculateBonusesByType(getObjectsScores(craft bonus)) + calculateBonusesByType(getObjectsScores(craft cloth bonus))"
+			"formula": "getScore(INT mod) + getInput(craft cloth ranks) + if((getInput(craft cloth ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-cloth), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:craft))) + calculateBonusesByType(getObjectsScoresTagged((bonus:craft-cloth)))"
 		},
 		{
 			"name": "craft clothing total",
-			"formula": "getScore(INT mod) + getInput(craft clothing ranks) + if((getInput(craft clothing ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-clothing), 3, 0) + calculateBonusesByType(getObjectsScores(craft bonus)) + calculateBonusesByType(getObjectsScores(craft clothing bonus))"
+			"formula": "getScore(INT mod) + getInput(craft clothing ranks) + if((getInput(craft clothing ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-clothing), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:craft))) + calculateBonusesByType(getObjectsScoresTagged((bonus:craft-clothing)))"
 		},
 		{
 			"name": "craft glass total",
-			"formula": "getScore(INT mod) + getInput(craft glass ranks) + if((getInput(craft glass ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-glass), 3, 0) + calculateBonusesByType(getObjectsScores(craft bonus)) + calculateBonusesByType(getObjectsScores(craft glass bonus))"
+			"formula": "getScore(INT mod) + getInput(craft glass ranks) + if((getInput(craft glass ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-glass), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:craft))) + calculateBonusesByType(getObjectsScoresTagged((bonus:craft-glass)))"
 		},
 		{
 			"name": "craft jewelry total",
-			"formula": "getScore(INT mod) + getInput(craft jewelry ranks) + if((getInput(craft jewelry ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-jewelry), 3, 0) + calculateBonusesByType(getObjectsScores(craft bonus)) + calculateBonusesByType(getObjectsScores(craft jewelry bonus))"
+			"formula": "getScore(INT mod) + getInput(craft jewelry ranks) + if((getInput(craft jewelry ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-jewelry), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:craft))) + calculateBonusesByType(getObjectsScoresTagged((bonus:craft-jewelry)))"
 		},
 		{
 			"name": "craft leather total",
-			"formula": "getScore(INT mod) + getInput(craft leather ranks) + if((getInput(craft leather ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-leather), 3, 0) + calculateBonusesByType(getObjectsScores(craft bonus)) + calculateBonusesByType(getObjectsScores(craft leather bonus))"
+			"formula": "getScore(INT mod) + getInput(craft leather ranks) + if((getInput(craft leather ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-leather), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:craft))) + calculateBonusesByType(getObjectsScoresTagged((bonus:craft-leather)))"
 		},
 		{
 			"name": "craft locks total",
-			"formula": "getScore(INT mod) + getInput(craft locks ranks) + if((getInput(craft locks ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-locks), 3, 0) + calculateBonusesByType(getObjectsScores(craft bonus)) + calculateBonusesByType(getObjectsScores(craft locks bonus))"
+			"formula": "getScore(INT mod) + getInput(craft locks ranks) + if((getInput(craft locks ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-locks), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:craft))) + calculateBonusesByType(getObjectsScoresTagged((bonus:craft-locks)))"
 		},
 		{
 			"name": "craft paintings total",
-			"formula": "getScore(INT mod) + getInput(craft paintings ranks) + if((getInput(craft paintings ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-paintings), 3, 0) + calculateBonusesByType(getObjectsScores(craft bonus)) + calculateBonusesByType(getObjectsScores(craft paintings bonus))"
+			"formula": "getScore(INT mod) + getInput(craft paintings ranks) + if((getInput(craft paintings ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-paintings), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:craft))) + calculateBonusesByType(getObjectsScoresTagged((bonus:craft-paintings)))"
 		},
 		{
 			"name": "craft pottery total",
-			"formula": "getScore(INT mod) + getInput(craft pottery ranks) + if((getInput(craft pottery ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-pottery), 3, 0) + calculateBonusesByType(getObjectsScores(craft bonus)) + calculateBonusesByType(getObjectsScores(craft pottery bonus))"
+			"formula": "getScore(INT mod) + getInput(craft pottery ranks) + if((getInput(craft pottery ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-pottery), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:craft))) + calculateBonusesByType(getObjectsScoresTagged((bonus:craft-pottery)))"
 		},
 		{
 			"name": "craft sculptures total",
-			"formula": "getScore(INT mod) + getInput(craft sculptures ranks) + if((getInput(craft sculptures ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-sculptures), 3, 0) + calculateBonusesByType(getObjectsScores(craft bonus)) + calculateBonusesByType(getObjectsScores(craft sculptures bonus))"
+			"formula": "getScore(INT mod) + getInput(craft sculptures ranks) + if((getInput(craft sculptures ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-sculptures), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:craft))) + calculateBonusesByType(getObjectsScoresTagged((bonus:craft-sculptures)))"
 		},
 		{
 			"name": "craft ships total",
-			"formula": "getScore(INT mod) + getInput(craft ships ranks) + if((getInput(craft ships ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-ships), 3, 0) + calculateBonusesByType(getObjectsScores(craft bonus)) + calculateBonusesByType(getObjectsScores(craft ships bonus))"
+			"formula": "getScore(INT mod) + getInput(craft ships ranks) + if((getInput(craft ships ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-ships), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:craft))) + calculateBonusesByType(getObjectsScoresTagged((bonus:craft-ships)))"
 		},
 		{
 			"name": "craft shoes total",
-			"formula": "getScore(INT mod) + getInput(craft shoes ranks) + if((getInput(craft shoes ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-shoes), 3, 0) + calculateBonusesByType(getObjectsScores(craft bonus)) + calculateBonusesByType(getObjectsScores(craft shoes bonus))"
+			"formula": "getScore(INT mod) + getInput(craft shoes ranks) + if((getInput(craft shoes ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-shoes), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:craft))) + calculateBonusesByType(getObjectsScoresTagged((bonus:craft-shoes)))"
 		},
 		{
 			"name": "craft stonemasonry total",
-			"formula": "getScore(INT mod) + getInput(craft stonemasonry ranks) + if((getInput(craft stonemasonry ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-stonemasonry), 3, 0) + calculateBonusesByType(getObjectsScores(craft bonus)) + calculateBonusesByType(getObjectsScores(craft stonemasonry bonus))"
+			"formula": "getScore(INT mod) + getInput(craft stonemasonry ranks) + if((getInput(craft stonemasonry ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-stonemasonry), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:craft))) + calculateBonusesByType(getObjectsScoresTagged((bonus:craft-stonemasonry)))"
 		},
 		{
 			"name": "craft traps total",
-			"formula": "getScore(INT mod) + getInput(craft traps ranks) + if((getInput(craft traps ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-traps), 3, 0) + calculateBonusesByType(getObjectsScores(craft bonus)) + calculateBonusesByType(getObjectsScores(craft traps bonus))"
+			"formula": "getScore(INT mod) + getInput(craft traps ranks) + if((getInput(craft traps ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-traps), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:craft))) + calculateBonusesByType(getObjectsScoresTagged((bonus:craft-traps)))"
 		},
 		{
 			"name": "craft weapons total",
-			"formula": "getScore(INT mod) + getInput(craft weapons ranks) + if((getInput(craft weapons ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-weapons), 3, 0) + calculateBonusesByType(getObjectsScores(craft bonus)) + calculateBonusesByType(getObjectsScores(craft weapons bonus))"
+			"formula": "getScore(INT mod) + getInput(craft weapons ranks) + if((getInput(craft weapons ranks) > 0) && hasTag(class-skill:craft,class-skill:craft-weapons), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:craft))) + calculateBonusesByType(getObjectsScoresTagged((bonus:craft-weapons)))"
 		},
 		{
 			"name": "diplomacy total",
-			"formula": "getScore(CHA mod) + getInput(diplomacy ranks) + if((getInput(diplomacy ranks) > 0) && hasTag(class-skill:diplomacy), 3, 0) + calculateBonusesByType(getObjectsScores(diplomacy bonus))"
+			"formula": "getScore(CHA mod) + getInput(diplomacy ranks) + if((getInput(diplomacy ranks) > 0) && hasTag(class-skill:diplomacy), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:diplomacy)))"
 		},
 		{
 			"name": "disable device total",
-			"formula": "getScore(DEX mod) + getInput(disable device ranks) + if((getInput(disable device ranks) > 0) && hasTag(class-skill:disable-device), 3, 0) + calculateBonusesByType(getObjectsScores(disable device bonus))"
+			"formula": "getScore(DEX mod) + getInput(disable device ranks) + if((getInput(disable device ranks) > 0) && hasTag(class-skill:disable-device), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:disable-device)))"
 		},
 		{
 			"name": "disguise total",
-			"formula": "getScore(CHA mod) + getInput(disguise ranks) + if((getInput(disguise ranks) > 0) && hasTag(class-skill:disguise), 3, 0) + calculateBonusesByType(getObjectsScores(disguise bonus))"
+			"formula": "getScore(CHA mod) + getInput(disguise ranks) + if((getInput(disguise ranks) > 0) && hasTag(class-skill:disguise), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:disguise)))"
 		},
 		{
 			"name": "escape artist total",
-			"formula": "getScore(DEX mod) + getInput(escape artist ranks) + if((getInput(escape artist ranks) > 0) && hasTag(class-skill:escape-artist), 3, 0) + calculateBonusesByType(getObjectsScores(escape artist bonus))"
+			"formula": "getScore(DEX mod) + getInput(escape artist ranks) + if((getInput(escape artist ranks) > 0) && hasTag(class-skill:escape-artist), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:escape-artist)))"
 		},
 		{
 			"name": "fly total",
-			"formula": "getScore(DEX mod) + getInput(fly ranks) + if((getInput(fly ranks) > 0) && hasTag(class-skill:fly), 3, 0) + calculateBonusesByType(getObjectsScores(fly bonus))"
+			"formula": "getScore(DEX mod) + getInput(fly ranks) + if((getInput(fly ranks) > 0) && hasTag(class-skill:fly), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:fly)))"
 		},
 		{
 			"name": "handle animal total",
-			"formula": "getScore(WIS mod) + getInput(handle animal ranks) + if((getInput(handle animal ranks) > 0) && hasTag(class-skill:handle-animal), 3, 0) + calculateBonusesByType(getObjectsScores(handle animal bonus))"
+			"formula": "getScore(WIS mod) + getInput(handle animal ranks) + if((getInput(handle animal ranks) > 0) && hasTag(class-skill:handle-animal), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:handle-animal)))"
 		},
 		{
 			"name": "heal total",
-			"formula": "getScore(WIS mod) + getInput(heal ranks) + if((getInput(heal ranks) > 0) && hasTag(class-skill:heal), 3, 0) + calculateBonusesByType(getObjectsScores(heal bonus))"
+			"formula": "getScore(WIS mod) + getInput(heal ranks) + if((getInput(heal ranks) > 0) && hasTag(class-skill:heal), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:heal)))"
 		},
 		{
 			"name": "intimidate total",
-			"formula": "getScore(CHA mod) + getInput(intimidate ranks) + if((getInput(intimidate ranks) > 0) && hasTag(class-skill:intimidate), 3, 0) + calculateBonusesByType(getObjectsScores(intimidate bonus))"
+			"formula": "getScore(CHA mod) + getInput(intimidate ranks) + if((getInput(intimidate ranks) > 0) && hasTag(class-skill:intimidate), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:intimidate)))"
 		},
 		{
 			"name": "knowledge arcana total",
-			"formula": "getScore(INT mod) + getInput(knowledge arcana ranks) + if((getInput(knowledge arcana ranks) > 0) && hasTag(class-skill:knowledge-arcana), 3, 0) + calculateBonusesByType(getObjectsScores(knowledge arcana bonus))"
+			"formula": "getScore(INT mod) + getInput(knowledge arcana ranks) + if((getInput(knowledge arcana ranks) > 0) && hasTag(class-skill:knowledge-arcana), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:knowledge-arcana)))"
 		},
 		{
 			"name": "knowledge dungeoneering total",
-			"formula": "getScore(INT mod) + getInput(knowledge dungeoneering ranks) + if((getInput(knowledge dungeoneering ranks) > 0) && hasTag(class-skill:knowledge-dungeoneering), 3, 0) + calculateBonusesByType(getObjectsScores(knowledge dungeoneering bonus))"
+			"formula": "getScore(INT mod) + getInput(knowledge dungeoneering ranks) + if((getInput(knowledge dungeoneering ranks) > 0) && hasTag(class-skill:knowledge-dungeoneering), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:knowledge-dungeoneering)))"
 		},
 		{
 			"name": "knowledge engineering total",
-			"formula": "getScore(INT mod) + getInput(knowledge engineering ranks) + if((getInput(knowledge engineering ranks) > 0) && hasTag(class-skill:knowledge-engineering), 3, 0) + calculateBonusesByType(getObjectsScores(knowledge engineering bonus))"
+			"formula": "getScore(INT mod) + getInput(knowledge engineering ranks) + if((getInput(knowledge engineering ranks) > 0) && hasTag(class-skill:knowledge-engineering), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:knowledge-engineering)))"
 		},
 		{
 			"name": "knowledge geography total",
-			"formula": "getScore(INT mod) + getInput(knowledge geography ranks) + if((getInput(knowledge geography ranks) > 0) && hasTag(class-skill:knowledge-geography), 3, 0) + calculateBonusesByType(getObjectsScores(knowledge geography bonus))"
+			"formula": "getScore(INT mod) + getInput(knowledge geography ranks) + if((getInput(knowledge geography ranks) > 0) && hasTag(class-skill:knowledge-geography), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:knowledge-geography)))"
 		},
 		{
 			"name": "knowledge history total",
-			"formula": "getScore(INT mod) + getInput(knowledge history ranks) + if((getInput(knowledge history ranks) > 0) && hasTag(class-skill:knowledge-history), 3, 0) + calculateBonusesByType(getObjectsScores(knowledge history bonus))"
+			"formula": "getScore(INT mod) + getInput(knowledge history ranks) + if((getInput(knowledge history ranks) > 0) && hasTag(class-skill:knowledge-history), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:knowledge-history)))"
 		},
 		{
 			"name": "knowledge local total",
-			"formula": "getScore(INT mod) + getInput(knowledge local ranks) + if((getInput(knowledge local ranks) > 0) && hasTag(class-skill:knowledge-local), 3, 0) + calculateBonusesByType(getObjectsScores(knowledge local bonus))"
+			"formula": "getScore(INT mod) + getInput(knowledge local ranks) + if((getInput(knowledge local ranks) > 0) && hasTag(class-skill:knowledge-local), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:knowledge-local)))"
 		},
 		{
 			"name": "knowledge nature total",
-			"formula": "getScore(INT mod) + getInput(knowledge nature ranks) + if((getInput(knowledge nature ranks) > 0) && hasTag(class-skill:knowledge-nature), 3, 0) + calculateBonusesByType(getObjectsScores(knowledge nature bonus))"
+			"formula": "getScore(INT mod) + getInput(knowledge nature ranks) + if((getInput(knowledge nature ranks) > 0) && hasTag(class-skill:knowledge-nature), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:knowledge-nature)))"
 		},
 		{
 			"name": "knowledge nobility total",
-			"formula": "getScore(INT mod) + getInput(knowledge nobility ranks) + if((getInput(knowledge nobility ranks) > 0) && hasTag(class-skill:knowledge-nobility), 3, 0) + calculateBonusesByType(getObjectsScores(knowledge nobility bonus))"
+			"formula": "getScore(INT mod) + getInput(knowledge nobility ranks) + if((getInput(knowledge nobility ranks) > 0) && hasTag(class-skill:knowledge-nobility), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:knowledge-nobility)))"
 		},
 		{
 			"name": "knowledge planes total",
-			"formula": "getScore(INT mod) + getInput(knowledge planes ranks) + if((getInput(knowledge planes ranks) > 0) && hasTag(class-skill:knowledge-planes), 3, 0) + calculateBonusesByType(getObjectsScores(knowledge planes bonus))"
+			"formula": "getScore(INT mod) + getInput(knowledge planes ranks) + if((getInput(knowledge planes ranks) > 0) && hasTag(class-skill:knowledge-planes), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:knowledge-planes)))"
 		},
 		{
 			"name": "knowledge religion total",
-			"formula": "getScore(INT mod) + getInput(knowledge religion ranks) + if((getInput(knowledge religion ranks) > 0) && hasTag(class-skill:knowledge-religion), 3, 0) + calculateBonusesByType(getObjectsScores(knowledge religion bonus))"
+			"formula": "getScore(INT mod) + getInput(knowledge religion ranks) + if((getInput(knowledge religion ranks) > 0) && hasTag(class-skill:knowledge-religion), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:knowledge-religion)))"
 		},
 		{
 			"name": "linguistics total",
-			"formula": "getScore(INT mod) + getInput(linguistics ranks) + if((getInput(linguistics ranks) > 0) && hasTag(class-skill:linguistics), 3, 0) + calculateBonusesByType(getObjectsScores(linguistics bonus))"
+			"formula": "getScore(INT mod) + getInput(linguistics ranks) + if((getInput(linguistics ranks) > 0) && hasTag(class-skill:linguistics), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:linguistics)))"
 		},
 		{
 			"name": "perception total",
-			"formula": "getScore(WIS mod) + getInput(perception ranks) + if((getInput(perception ranks) > 0) && hasTag(class-skill:perception), 3, 0) + calculateBonusesByType(getObjectsScores(perception bonus))"
+			"formula": "getScore(WIS mod) + getInput(perception ranks) + if((getInput(perception ranks) > 0) && hasTag(class-skill:perception), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:perception)))"
 		},
 		{
 			"name": "perform act total",
-			"formula": "getScore(CHA mod) + getInput(perform act ranks) + if((getInput(perform act ranks) > 0) && hasTag(class-skill:perform,class-skill:perform-act), 3, 0) + calculateBonusesByType(getObjectsScores(perform bonus)) + calculateBonusesByType(getObjectsScores(perform act bonus))"
+			"formula": "getScore(CHA mod) + getInput(perform act ranks) + if((getInput(perform act ranks) > 0) && hasTag(class-skill:perform,class-skill:perform-act), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:perform))) + calculateBonusesByType(getObjectsScoresTagged((bonus:perform-act)))"
 		},
 		{
 			"name": "perform comedy total",
-			"formula": "getScore(CHA mod) + getInput(perform comedy ranks) + if((getInput(perform comedy ranks) > 0) && hasTag(class-skill:perform,class-skill:perform-comedy), 3, 0) + calculateBonusesByType(getObjectsScores(perform bonus)) + calculateBonusesByType(getObjectsScores(perform comedy bonus))"
+			"formula": "getScore(CHA mod) + getInput(perform comedy ranks) + if((getInput(perform comedy ranks) > 0) && hasTag(class-skill:perform,class-skill:perform-comedy), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:perform))) + calculateBonusesByType(getObjectsScoresTagged((bonus:perform-comedy)))"
 		},
 		{
 			"name": "perform dance total",
-			"formula": "getScore(CHA mod) + getInput(perform dance ranks) + if((getInput(perform dance ranks) > 0) && hasTag(class-skill:perform,class-skill:perform-dance), 3, 0) + calculateBonusesByType(getObjectsScores(perform bonus)) + calculateBonusesByType(getObjectsScores(perform dance bonus))"
+			"formula": "getScore(CHA mod) + getInput(perform dance ranks) + if((getInput(perform dance ranks) > 0) && hasTag(class-skill:perform,class-skill:perform-dance), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:perform))) + calculateBonusesByType(getObjectsScoresTagged((bonus:perform-dance)))"
 		},
 		{
 			"name": "perform keyboard total",
-			"formula": "getScore(CHA mod) + getInput(perform keyboard ranks) + if((getInput(perform keyboard ranks) > 0) && hasTag(class-skill:perform,class-skill:perform-keyboard), 3, 0) + calculateBonusesByType(getObjectsScores(perform bonus)) + calculateBonusesByType(getObjectsScores(perform keyboard bonus))"
+			"formula": "getScore(CHA mod) + getInput(perform keyboard ranks) + if((getInput(perform keyboard ranks) > 0) && hasTag(class-skill:perform,class-skill:perform-keyboard), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:perform))) + calculateBonusesByType(getObjectsScoresTagged((bonus:perform-keyboard)))"
 		},
 		{
 			"name": "perform oratory total",
-			"formula": "getScore(CHA mod) + getInput(perform oratory ranks) + if((getInput(perform oratory ranks) > 0) && hasTag(class-skill:perform,class-skill:perform-oratory), 3, 0) + calculateBonusesByType(getObjectsScores(perform bonus)) + calculateBonusesByType(getObjectsScores(perform oratory bonus))"
+			"formula": "getScore(CHA mod) + getInput(perform oratory ranks) + if((getInput(perform oratory ranks) > 0) && hasTag(class-skill:perform,class-skill:perform-oratory), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:perform))) + calculateBonusesByType(getObjectsScoresTagged((bonus:perform-oratory)))"
 		},
 		{
 			"name": "perform percussion total",
-			"formula": "getScore(CHA mod) + getInput(perform percussion ranks) + if((getInput(perform percussion ranks) > 0) && hasTag(class-skill:perform,class-skill:perform-percussion), 3, 0) + calculateBonusesByType(getObjectsScores(perform bonus)) + calculateBonusesByType(getObjectsScores(perform percussion bonus))"
+			"formula": "getScore(CHA mod) + getInput(perform percussion ranks) + if((getInput(perform percussion ranks) > 0) && hasTag(class-skill:perform,class-skill:perform-percussion), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:perform))) + calculateBonusesByType(getObjectsScoresTagged((bonus:perform-percussion)))"
 		},
 		{
 			"name": "perform sing total",
-			"formula": "getScore(CHA mod) + getInput(perform sing ranks) + if((getInput(perform sing ranks) > 0) && hasTag(class-skill:perform,class-skill:perform-sing), 3, 0) + calculateBonusesByType(getObjectsScores(perform bonus)) + calculateBonusesByType(getObjectsScores(perform sing bonus))"
+			"formula": "getScore(CHA mod) + getInput(perform sing ranks) + if((getInput(perform sing ranks) > 0) && hasTag(class-skill:perform,class-skill:perform-sing), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:perform))) + calculateBonusesByType(getObjectsScoresTagged((bonus:perform-sing)))"
 		},
 		{
 			"name": "perform string total",
-			"formula": "getScore(CHA mod) + getInput(perform string ranks) + if((getInput(perform string ranks) > 0) && hasTag(class-skill:perform,class-skill:perform-string), 3, 0) + calculateBonusesByType(getObjectsScores(perform bonus)) + calculateBonusesByType(getObjectsScores(perform string bonus))"
+			"formula": "getScore(CHA mod) + getInput(perform string ranks) + if((getInput(perform string ranks) > 0) && hasTag(class-skill:perform,class-skill:perform-string), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:perform))) + calculateBonusesByType(getObjectsScoresTagged((bonus:perform-string)))"
 		},
 		{
 			"name": "perform wind total",
-			"formula": "getScore(CHA mod) + getInput(perform wind ranks) + if((getInput(perform wind ranks) > 0) && hasTag(class-skill:perform,class-skill:perform-wind), 3, 0) + calculateBonusesByType(getObjectsScores(perform bonus)) + calculateBonusesByType(getObjectsScores(perform wind bonus))"
+			"formula": "getScore(CHA mod) + getInput(perform wind ranks) + if((getInput(perform wind ranks) > 0) && hasTag(class-skill:perform,class-skill:perform-wind), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:perform))) + calculateBonusesByType(getObjectsScoresTagged((bonus:perform-wind)))"
 		},
 		{
 			"name": "profession architect total",
-			"formula": "getScore(WIS mod) + getInput(profession architect ranks) + if((getInput(profession architect ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-architect), 3, 0) + calculateBonusesByType(getObjectsScores(profession bonus)) + calculateBonusesByType(getObjectsScores(profession architect bonus))"
+			"formula": "getScore(WIS mod) + getInput(profession architect ranks) + if((getInput(profession architect ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-architect), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession))) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession-architect)))"
 		},
 		{
 			"name": "profession baker total",
-			"formula": "getScore(WIS mod) + getInput(profession baker ranks) + if((getInput(profession baker ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-baker), 3, 0) + calculateBonusesByType(getObjectsScores(profession bonus)) + calculateBonusesByType(getObjectsScores(profession baker bonus))"
+			"formula": "getScore(WIS mod) + getInput(profession baker ranks) + if((getInput(profession baker ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-baker), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession))) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession-baker)))"
 		},
 		{
 			"name": "profession barrister total",
-			"formula": "getScore(WIS mod) + getInput(profession barrister ranks) + if((getInput(profession barrister ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-barrister), 3, 0) + calculateBonusesByType(getObjectsScores(profession bonus)) + calculateBonusesByType(getObjectsScores(profession barrister bonus))"
+			"formula": "getScore(WIS mod) + getInput(profession barrister ranks) + if((getInput(profession barrister ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-barrister), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession))) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession-barrister)))"
 		},
 		{
 			"name": "profession brewer total",
-			"formula": "getScore(WIS mod) + getInput(profession brewer ranks) + if((getInput(profession brewer ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-brewer), 3, 0) + calculateBonusesByType(getObjectsScores(profession bonus)) + calculateBonusesByType(getObjectsScores(profession brewer bonus))"
+			"formula": "getScore(WIS mod) + getInput(profession brewer ranks) + if((getInput(profession brewer ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-brewer), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession))) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession-brewer)))"
 		},
 		{
 			"name": "profession butcher total",
-			"formula": "getScore(WIS mod) + getInput(profession butcher ranks) + if((getInput(profession butcher ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-butcher), 3, 0) + calculateBonusesByType(getObjectsScores(profession bonus)) + calculateBonusesByType(getObjectsScores(profession butcher bonus))"
+			"formula": "getScore(WIS mod) + getInput(profession butcher ranks) + if((getInput(profession butcher ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-butcher), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession))) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession-butcher)))"
 		},
 		{
 			"name": "profession clerk total",
-			"formula": "getScore(WIS mod) + getInput(profession clerk ranks) + if((getInput(profession clerk ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-clerk), 3, 0) + calculateBonusesByType(getObjectsScores(profession bonus)) + calculateBonusesByType(getObjectsScores(profession clerk bonus))"
+			"formula": "getScore(WIS mod) + getInput(profession clerk ranks) + if((getInput(profession clerk ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-clerk), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession))) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession-clerk)))"
 		},
 		{
 			"name": "profession cook total",
-			"formula": "getScore(WIS mod) + getInput(profession cook ranks) + if((getInput(profession cook ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-cook), 3, 0) + calculateBonusesByType(getObjectsScores(profession bonus)) + calculateBonusesByType(getObjectsScores(profession cook bonus))"
+			"formula": "getScore(WIS mod) + getInput(profession cook ranks) + if((getInput(profession cook ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-cook), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession))) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession-cook)))"
 		},
 		{
 			"name": "profession courtesan total",
-			"formula": "getScore(WIS mod) + getInput(profession courtesan ranks) + if((getInput(profession courtesan ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-courtesan), 3, 0) + calculateBonusesByType(getObjectsScores(profession bonus)) + calculateBonusesByType(getObjectsScores(profession courtesan bonus))"
+			"formula": "getScore(WIS mod) + getInput(profession courtesan ranks) + if((getInput(profession courtesan ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-courtesan), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession))) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession-courtesan)))"
 		},
 		{
 			"name": "profession driver total",
-			"formula": "getScore(WIS mod) + getInput(profession driver ranks) + if((getInput(profession driver ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-driver), 3, 0) + calculateBonusesByType(getObjectsScores(profession bonus)) + calculateBonusesByType(getObjectsScores(profession driver bonus))"
+			"formula": "getScore(WIS mod) + getInput(profession driver ranks) + if((getInput(profession driver ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-driver), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession))) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession-driver)))"
 		},
 		{
 			"name": "profession engineer total",
-			"formula": "getScore(WIS mod) + getInput(profession engineer ranks) + if((getInput(profession engineer ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-engineer), 3, 0) + calculateBonusesByType(getObjectsScores(profession bonus)) + calculateBonusesByType(getObjectsScores(profession engineer bonus))"
+			"formula": "getScore(WIS mod) + getInput(profession engineer ranks) + if((getInput(profession engineer ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-engineer), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession))) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession-engineer)))"
 		},
 		{
 			"name": "profession farmer total",
-			"formula": "getScore(WIS mod) + getInput(profession farmer ranks) + if((getInput(profession farmer ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-farmer), 3, 0) + calculateBonusesByType(getObjectsScores(profession bonus)) + calculateBonusesByType(getObjectsScores(profession farmer bonus))"
+			"formula": "getScore(WIS mod) + getInput(profession farmer ranks) + if((getInput(profession farmer ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-farmer), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession))) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession-farmer)))"
 		},
 		{
 			"name": "profession fisherman total",
-			"formula": "getScore(WIS mod) + getInput(profession fisherman ranks) + if((getInput(profession fisherman ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-fisherman), 3, 0) + calculateBonusesByType(getObjectsScores(profession bonus)) + calculateBonusesByType(getObjectsScores(profession fisherman bonus))"
+			"formula": "getScore(WIS mod) + getInput(profession fisherman ranks) + if((getInput(profession fisherman ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-fisherman), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession))) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession-fisherman)))"
 		},
 		{
 			"name": "profession gambler total",
-			"formula": "getScore(WIS mod) + getInput(profession gambler ranks) + if((getInput(profession gambler ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-gambler), 3, 0) + calculateBonusesByType(getObjectsScores(profession bonus)) + calculateBonusesByType(getObjectsScores(profession gambler bonus))"
+			"formula": "getScore(WIS mod) + getInput(profession gambler ranks) + if((getInput(profession gambler ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-gambler), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession))) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession-gambler)))"
 		},
 		{
 			"name": "profession gardener total",
-			"formula": "getScore(WIS mod) + getInput(profession gardener ranks) + if((getInput(profession gardener ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-gardener), 3, 0) + calculateBonusesByType(getObjectsScores(profession bonus)) + calculateBonusesByType(getObjectsScores(profession gardener bonus))"
+			"formula": "getScore(WIS mod) + getInput(profession gardener ranks) + if((getInput(profession gardener ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-gardener), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession))) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession-gardener)))"
 		},
 		{
 			"name": "profession herbalist total",
-			"formula": "getScore(WIS mod) + getInput(profession herbalist ranks) + if((getInput(profession herbalist ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-herbalist), 3, 0) + calculateBonusesByType(getObjectsScores(profession bonus)) + calculateBonusesByType(getObjectsScores(profession herbalist bonus))"
+			"formula": "getScore(WIS mod) + getInput(profession herbalist ranks) + if((getInput(profession herbalist ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-herbalist), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession))) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession-herbalist)))"
 		},
 		{
 			"name": "profession innkeeper total",
-			"formula": "getScore(WIS mod) + getInput(profession innkeeper ranks) + if((getInput(profession innkeeper ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-innkeeper), 3, 0) + calculateBonusesByType(getObjectsScores(profession bonus)) + calculateBonusesByType(getObjectsScores(profession innkeeper bonus))"
+			"formula": "getScore(WIS mod) + getInput(profession innkeeper ranks) + if((getInput(profession innkeeper ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-innkeeper), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession))) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession-innkeeper)))"
 		},
 		{
 			"name": "profession librarian total",
-			"formula": "getScore(WIS mod) + getInput(profession librarian ranks) + if((getInput(profession librarian ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-librarian), 3, 0) + calculateBonusesByType(getObjectsScores(profession bonus)) + calculateBonusesByType(getObjectsScores(profession librarian bonus))"
+			"formula": "getScore(WIS mod) + getInput(profession librarian ranks) + if((getInput(profession librarian ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-librarian), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession))) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession-librarian)))"
 		},
 		{
 			"name": "profession merchant total",
-			"formula": "getScore(WIS mod) + getInput(profession merchant ranks) + if((getInput(profession merchant ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-merchant), 3, 0) + calculateBonusesByType(getObjectsScores(profession bonus)) + calculateBonusesByType(getObjectsScores(profession merchant bonus))"
+			"formula": "getScore(WIS mod) + getInput(profession merchant ranks) + if((getInput(profession merchant ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-merchant), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession))) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession-merchant)))"
 		},
 		{
 			"name": "profession midwife total",
-			"formula": "getScore(WIS mod) + getInput(profession midwife ranks) + if((getInput(profession midwife ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-midwife), 3, 0) + calculateBonusesByType(getObjectsScores(profession bonus)) + calculateBonusesByType(getObjectsScores(profession midwife bonus))"
+			"formula": "getScore(WIS mod) + getInput(profession midwife ranks) + if((getInput(profession midwife ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-midwife), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession))) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession-midwife)))"
 		},
 		{
 			"name": "profession miller total",
-			"formula": "getScore(WIS mod) + getInput(profession miller ranks) + if((getInput(profession miller ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-miller), 3, 0) + calculateBonusesByType(getObjectsScores(profession bonus)) + calculateBonusesByType(getObjectsScores(profession miller bonus))"
+			"formula": "getScore(WIS mod) + getInput(profession miller ranks) + if((getInput(profession miller ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-miller), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession))) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession-miller)))"
 		},
 		{
 			"name": "profession miner total",
-			"formula": "getScore(WIS mod) + getInput(profession miner ranks) + if((getInput(profession miner ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-miner), 3, 0) + calculateBonusesByType(getObjectsScores(profession bonus)) + calculateBonusesByType(getObjectsScores(profession miner bonus))"
+			"formula": "getScore(WIS mod) + getInput(profession miner ranks) + if((getInput(profession miner ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-miner), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession))) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession-miner)))"
 		},
 		{
 			"name": "profession porter total",
-			"formula": "getScore(WIS mod) + getInput(profession porter ranks) + if((getInput(profession porter ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-porter), 3, 0) + calculateBonusesByType(getObjectsScores(profession bonus)) + calculateBonusesByType(getObjectsScores(profession porter bonus))"
+			"formula": "getScore(WIS mod) + getInput(profession porter ranks) + if((getInput(profession porter ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-porter), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession))) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession-porter)))"
 		},
 		{
 			"name": "profession sailor total",
-			"formula": "getScore(WIS mod) + getInput(profession sailor ranks) + if((getInput(profession sailor ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-sailor), 3, 0) + calculateBonusesByType(getObjectsScores(profession bonus)) + calculateBonusesByType(getObjectsScores(profession sailor bonus))"
+			"formula": "getScore(WIS mod) + getInput(profession sailor ranks) + if((getInput(profession sailor ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-sailor), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession))) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession-sailor)))"
 		},
 		{
 			"name": "profession scribe total",
-			"formula": "getScore(WIS mod) + getInput(profession scribe ranks) + if((getInput(profession scribe ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-scribe), 3, 0) + calculateBonusesByType(getObjectsScores(profession bonus)) + calculateBonusesByType(getObjectsScores(profession scribe bonus))"
+			"formula": "getScore(WIS mod) + getInput(profession scribe ranks) + if((getInput(profession scribe ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-scribe), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession))) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession-scribe)))"
 		},
 		{
 			"name": "profession shepherd total",
-			"formula": "getScore(WIS mod) + getInput(profession shepherd ranks) + if((getInput(profession shepherd ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-shepherd), 3, 0) + calculateBonusesByType(getObjectsScores(profession bonus)) + calculateBonusesByType(getObjectsScores(profession shepherd bonus))"
+			"formula": "getScore(WIS mod) + getInput(profession shepherd ranks) + if((getInput(profession shepherd ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-shepherd), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession))) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession-shepherd)))"
 		},
 		{
 			"name": "profession soldier total",
-			"formula": "getScore(WIS mod) + getInput(profession soldier ranks) + if((getInput(profession soldier ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-soldier), 3, 0) + calculateBonusesByType(getObjectsScores(profession bonus)) + calculateBonusesByType(getObjectsScores(profession soldier bonus))"
+			"formula": "getScore(WIS mod) + getInput(profession soldier ranks) + if((getInput(profession soldier ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-soldier), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession))) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession-soldier)))"
 		},
 		{
 			"name": "profession stable master total",
-			"formula": "getScore(WIS mod) + getInput(profession stable master ranks) + if((getInput(profession stable master ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-stable-master), 3, 0) + calculateBonusesByType(getObjectsScores(profession bonus)) + calculateBonusesByType(getObjectsScores(profession stable master bonus))"
+			"formula": "getScore(WIS mod) + getInput(profession stable master ranks) + if((getInput(profession stable master ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-stable-master), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession))) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession-stable-master)))"
 		},
 		{
 			"name": "profession tanner total",
-			"formula": "getScore(WIS mod) + getInput(profession tanner ranks) + if((getInput(profession tanner ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-tanner), 3, 0) + calculateBonusesByType(getObjectsScores(profession bonus)) + calculateBonusesByType(getObjectsScores(profession tanner bonus))"
+			"formula": "getScore(WIS mod) + getInput(profession tanner ranks) + if((getInput(profession tanner ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-tanner), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession))) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession-tanner)))"
 		},
 		{
 			"name": "profession trapper total",
-			"formula": "getScore(WIS mod) + getInput(profession trapper ranks) + if((getInput(profession trapper ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-trapper), 3, 0) + calculateBonusesByType(getObjectsScores(profession bonus)) + calculateBonusesByType(getObjectsScores(profession trapper bonus))"
+			"formula": "getScore(WIS mod) + getInput(profession trapper ranks) + if((getInput(profession trapper ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-trapper), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession))) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession-trapper)))"
 		},
 		{
 			"name": "profession woodcutter total",
-			"formula": "getScore(WIS mod) + getInput(profession woodcutter ranks) + if((getInput(profession woodcutter ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-woodcutter), 3, 0) + calculateBonusesByType(getObjectsScores(profession bonus)) + calculateBonusesByType(getObjectsScores(profession woodcutter bonus))"
+			"formula": "getScore(WIS mod) + getInput(profession woodcutter ranks) + if((getInput(profession woodcutter ranks) > 0) && hasTag(class-skill:profession,class-skill:profession-woodcutter), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession))) + calculateBonusesByType(getObjectsScoresTagged((bonus:profession-woodcutter)))"
 		},
 		{
 			"name": "ride total",
-			"formula": "getScore(DEX mod) + getInput(ride ranks) + if((getInput(ride ranks) > 0) && hasTag(class-skill:ride), 3, 0) + calculateBonusesByType(getObjectsScores(ride bonus))"
+			"formula": "getScore(DEX mod) + getInput(ride ranks) + if((getInput(ride ranks) > 0) && hasTag(class-skill:ride), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:ride)))"
 		},
 		{
 			"name": "sense motive total",
-			"formula": "getScore(WIS mod) + getInput(sense motive ranks) + if((getInput(sense motive ranks) > 0) && hasTag(class-skill:sense-motive), 3, 0) + calculateBonusesByType(getObjectsScores(sense motive bonus))"
+			"formula": "getScore(WIS mod) + getInput(sense motive ranks) + if((getInput(sense motive ranks) > 0) && hasTag(class-skill:sense-motive), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:sense-motive)))"
 		},
 		{
 			"name": "sleight of hand total",
-			"formula": "getScore(DEX mod) + getInput(sleight of hand ranks) + if((getInput(sleight of hand ranks) > 0) && hasTag(class-skill:sleight-of-hand), 3, 0) + calculateBonusesByType(getObjectsScores(sleight of hand bonus))"
+			"formula": "getScore(DEX mod) + getInput(sleight of hand ranks) + if((getInput(sleight of hand ranks) > 0) && hasTag(class-skill:sleight-of-hand), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:sleight-of-hand)))"
 		},
 		{
 			"name": "spellcraft total",
-			"formula": "getScore(INT mod) + getInput(spellcraft ranks) + if((getInput(spellcraft ranks) > 0) && hasTag(class-skill:spellcraft), 3, 0) + calculateBonusesByType(getObjectsScores(spellcraft bonus))"
+			"formula": "getScore(INT mod) + getInput(spellcraft ranks) + if((getInput(spellcraft ranks) > 0) && hasTag(class-skill:spellcraft), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:spellcraft)))"
 		},
 		{
 			"name": "stealth total",
-			"formula": "getScore(DEX mod) + getInput(stealth ranks) + if((getInput(stealth ranks) > 0) && hasTag(class-skill:stealth), 3, 0) + calculateBonusesByType(getObjectsScores(stealth bonus))"
+			"formula": "getScore(DEX mod) + getInput(stealth ranks) + if((getInput(stealth ranks) > 0) && hasTag(class-skill:stealth), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:stealth)))"
 		},
 		{
 			"name": "survival total",
-			"formula": "getScore(WIS mod) + getInput(survival ranks) + if((getInput(survival ranks) > 0) && hasTag(class-skill:survival), 3, 0) + calculateBonusesByType(getObjectsScores(survival bonus))"
+			"formula": "getScore(WIS mod) + getInput(survival ranks) + if((getInput(survival ranks) > 0) && hasTag(class-skill:survival), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:survival)))"
 		},
 		{
 			"name": "swim total",
-			"formula": "getScore(STR mod) + getInput(swim ranks) + if((getInput(swim ranks) > 0) && hasTag(class-skill:swim), 3, 0) + calculateBonusesByType(getObjectsScores(swim bonus))"
+			"formula": "getScore(STR mod) + getInput(swim ranks) + if((getInput(swim ranks) > 0) && hasTag(class-skill:swim), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:swim)))"
 		},
 		{
 			"name": "use magic device total",
-			"formula": "getScore(CHA mod) + getInput(use magic device ranks) + if((getInput(use magic device ranks) > 0) && hasTag(class-skill:use-magic-device), 3, 0) + calculateBonusesByType(getObjectsScores(use magic device bonus))"
+			"formula": "getScore(CHA mod) + getInput(use magic device ranks) + if((getInput(use magic device ranks) > 0) && hasTag(class-skill:use-magic-device), 3, 0) + calculateBonusesByType(getObjectsScoresTagged((bonus:use-magic-device)))"
+		},
+		{
+			"name": "languages per linguistics rank",
+			"formula": "sum(1,getScoresTagged((bonus:languages-per-linguistics-rank)))"
 		}
 	]
 }

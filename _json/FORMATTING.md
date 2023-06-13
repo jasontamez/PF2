@@ -21,37 +21,49 @@
 - immunity
 - species
 
+### Inputs
+
+- skill points pool
+- \[skill] ranks
+- base (strength/dexterity/constitution/intelligence/wisdom/charisma) score
+- alignment `([LC][NGE]|N[GE]?|Unaligned)`
+
 ### Scores
 
-- (attribute) score
-- (class) class level
+- (strength/dexterity/constitution/intelligence/wisdom/charisma) score
+  - *bonus:(strength/dexterity/constitution/intelligence/wisdom/charisma)*
+- (STR/DEX/CON/INT/WIS/CHA) mod
+- base attack bonus
+  - *bonus:base-attack-bonus*
+- (fortitude/will/reflex) save
+  - *bonus:(fortitude/will/reflex)-save*
+  - base (fortitude/will/reflex) save bonus
+    - *bonus:base-(fortitude/will/reflex)-save-bonus*
+- darkvision
+  - *bonus:darkvision*
+- speed
+  - *bonus:speed*
+- initiative
+  - *bonus:initiative*
+- \[skill] total
+  - *bonus:\[skill]*
+- size score
+  - *mod:size*
+- max skill ranks
+- character level
+  - \[class] class level
+- languages per linguistics rank
+  - *bonus:languages-per-linguistics-rank*
+
 - trap sense bonus
 - fighter bravery bonus
-- base (type) save bonus
-- base attack bonus
-- character level
 - DR
 - age
 - hit dice
-- darkvision
 - legs
 - arms
 
-### Bonuses
-
-- stat:strength/dexterity/etc
-
 ### Tags
-
-### Inputs
-
-- (skill) ranks
-- (skill) (specific) ranks
-- base (attribute) score
-- alignment (ENUM)
-
-- skill:perform/knowledge/craft/profession
-- skill:ranks
 
 - creature-type:humanoid/dragon/construct/etc
 - creature-subtype:orc/fire/goblinoid/etc
@@ -122,7 +134,7 @@ Other tags can indicate special properties.
 ### Others
 
 - `creature-type:` - "undead", "humanoid", etc
-- `creature-subtype:` - "fire", "good", "orc", "human", etc
+- `creature-subtype:` - "fire", "good", "orc", "human", "native", etc
 - `language:` - "draconic", "celestial", "dwarven", etc
 - `vulnerable:` - "fire", "cold", "critical-hits", etc
 - `class-skill:` - "acrobatics", "perception", "stealth", etc

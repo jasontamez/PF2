@@ -391,17 +391,21 @@
 			],
 			"traits": [
 				{
-					"name": "Ability Score Modifiers",
+					"name": "Base Ability Score Modifiers",
+					"display_name": "Ability Score Modifiers",
+					"tags": [ "trait:aasimar-scores" ],
 					"description": [
 						"+2 Wisdom, +2 Charisma; Aasimars are insightful, confident, and personable."
 					],
 					"bestow_scores": [
 						{
-							"name": "strength bonus",
+							"name": "aasimar strength bonus",
+							"tags": [ "bonus:strength "],
 							"value": 2
 						},
 						{
-							"name": "charisma bonus",
+							"name": "aasimar charisma bonus",
+							"tags": [ "bonus:charisma "],
 							"value": 2
 						}
 					]
@@ -410,6 +414,16 @@
 					"name": "Native Outsider",
 					"description": [
 						"Aasimars are outsiders with the native subtype."
+					],
+					"bestow_features": [
+						{
+							"category": "creature types",
+							"name": "outsider"
+						},
+						{
+							"category": "creature subtypes",
+							"name": "native"
+						}
 					]
 				},
 				{
@@ -422,51 +436,102 @@
 					"name": "Normal Speed",
 					"description": [
 						"Aasimars have a base speed of 30 feet."
+					],
+					"bestow_scores": [
+						{
+							"name": "aasimar speed bonus",
+							"tags": [ "bonus:speed" ],
+							"value": 30
+						}
 					]
 				},
 				{
 					"name": "Darkvision",
 					"description": [
 						"Aasimars can see in the dark up to 60 feet."
+					],
+					"bestow_scores": [
+						{
+							"name": "aasimar darkvision bonus",
+							"tags": [ "bonus:darkvision" ],
+							"value": 60
+						}
 					]
 				},
 				{
-					"name": "Skilled",
+					"name": "Base Skilled",
+					"display_name": "Skilled",
+					"tags": [ "trait:aasimar-skilled" ],
 					"description": [
 						"Aasimars have a +2 racial bonus on Diplomacy and Perception checks."
 					],
 					"bestow_scores": [
 						{
-							"name": "diplomacy bonus",
-							"types": [ "bonus" ],
+							"name": "aasimar diplomacy bonus",
+							"tags": [ "bonus:diplomacy" ],
 							"type": "racial",
 							"value": 2
 						},
 						{
-							"name": "perception bonus",
-							"types": [ "bonus" ],
+							"name": "aasimar perception bonus",
+							"tags": [ "bonus:perception" ],
 							"type": "racial",
 							"value": 2
 						}
 					]
 				},
 				{
-					"name": "Spell Like Ability",
+					"name": "Base Spell Like Ability",
 					"display_name": "Spell-Like Ability",
+					"tags": [ "trait:aasimar-spell-like-ability" ],
 					"description": [
-						"Aasimars can use [daylight](spell:daylight) once per day as a spell-like ability (with a caster level equal to the aasimar's character level). Aasimars of specific bloodlines (see below) gain other spell-like abilities in place of [daylight](spell:daylight)."
+						"Aasimars can use [daylight](spell:daylight) once per day as a spell-like ability (with a caster level equal to the aasimar's character level)."
 					]
 				},
 				{
 					"name": "Celestial Resistance",
 					"description": [
 						"Aasimars have acid resistance 5, cold resistance 5, and electricity resistance 5."
+					],
+					"bestow_scores": [
+						{
+							"name": "acid",
+							"category": "resistance",
+							"value": 5
+						},
+						{
+							"name": "cold",
+							"category": "resistance",
+							"value": 5
+						},
+						{
+							"name": "electricity",
+							"category": "resistance",
+							"value": 5
+						}
 					]
 				},
 				{
 					"name": "Languages",
 					"description": [
 						"Aasimars begin play speaking Common and Celestial. Aasimars with high Intelligence scores can choose from the following languages: Draconic, Dwarven, Elven, Gnome, Halfling, and Sylvan."
+					],
+					"bestow_tags": [
+						"language:common",
+						"language:celestial"
+					],
+					"bestow_scores": [
+						{
+							"name": "bonus language choices",
+							"value": [
+								"draconic",
+								"dwarven",
+								"elven",
+								"gnome",
+								"halfling",
+								"sylvan"
+							]
+						}
 					]
 				}
 			],
@@ -483,28 +548,6 @@
 						"Ability Modifiers +2 Con, +2 Cha",
 						"Alternate Skill Modifiers Handle Animal, Survival",
 						"Alternate Spell-Like Ability Idyllkin gain summon nature's ally II as a spell-like ability."
-					],
-					"bestow_scores": [
-						{
-							"name": "constitution bonus",
-							"value": 2
-						},
-						{
-							"name": "charisma bonus",
-							"value": 2
-						},
-						{
-							"name": "handle animal bonus",
-							"types": [ "bonus" ],
-							"type": "racial",
-							"value": 2
-						},
-						{
-							"name": "survival bonus",
-							"types": [ "bonus" ],
-							"type": "racial",
-							"value": 2
-						}
 					]
 				},
 				{
@@ -519,28 +562,6 @@
 						"Ability Modifiers +2 Str, +2 Cha",
 						"Alternate Skill Modifiers Heal, Knowledge (planes)",
 						"Alternate Spell-Like Ability Angelkin gain alter self as a spell-like ability."
-					],
-					"bestow_scores": [
-						{
-							"name": "strength bonus",
-							"value": 2
-						},
-						{
-							"name": "charisma bonus",
-							"value": 2
-						},
-						{
-							"name": "heal bonus",
-							"types": [ "bonus" ],
-							"type": "racial",
-							"value": 2
-						},
-						{
-							"name": "knowledge planes bonus",
-							"types": [ "bonus" ],
-							"type": "racial",
-							"value": 2
-						}
 					]
 				},
 				{
@@ -555,28 +576,6 @@
 						"Ability Modifiers +2 Con, +2 Wis",
 						"Alternate Skill Modifiers Intimidate, Sense Motive",
 						"Alternate Spell-Like Ability Lawbringers gain continual flame as a spell-like ability."
-					],
-					"bestow_scores": [
-						{
-							"name": "constitution bonus",
-							"value": 2
-						},
-						{
-							"name": "wisdom bonus",
-							"value": 2
-						},
-						{
-							"name": "intimidate bonus",
-							"types": [ "bonus" ],
-							"type": "racial",
-							"value": 2
-						},
-						{
-							"name": "sense motive bonus",
-							"types": [ "bonus" ],
-							"type": "racial",
-							"value": 2
-						}
 					]
 				},
 				{
@@ -591,28 +590,6 @@
 						"Ability Modifiers +2 Dex, +2 Cha",
 						"Alternate Skill Modifiers Diplomacy, Perform",
 						"Alternate Spell-Like Ability Musetouched gain glitterdust as a spell-like ability."
-					],
-					"bestow_scores": [
-						{
-							"name": "dexterity bonus",
-							"value": 2
-						},
-						{
-							"name": "charisma bonus",
-							"value": 2
-						},
-						{
-							"name": "diplomacy bonus",
-							"types": [ "bonus" ],
-							"type": "racial",
-							"value": 2
-						},
-						{
-							"name": "perform bonus",
-							"types": [ "bonus" ],
-							"type": "racial",
-							"value": 2
-						}
 					]
 				},
 				{
@@ -627,28 +604,6 @@
 						"Ability Modifiers +2 Dex, +2 Wis",
 						"Alternate Skill Modifiers Acrobatics, Fly",
 						"Alternate Spell-Like Ability Plumekith gain see invisibility as a spell-like ability."
-					],
-					"bestow_scores": [
-						{
-							"name": "dexterity bonus",
-							"value": 2
-						},
-						{
-							"name": "wisdom bonus",
-							"value": 2
-						},
-						{
-							"name": "acrobatics bonus",
-							"types": [ "bonus" ],
-							"type": "racial",
-							"value": 2
-						},
-						{
-							"name": "fly bonus",
-							"types": [ "bonus" ],
-							"type": "racial",
-							"value": 2
-						}
 					]
 				},
 				{
@@ -663,28 +618,260 @@
 						"Ability Modifiers +2 Int, +2 Cha",
 						"Alternate Skill Modifiers Knowledge (planes), Spellcraft",
 						"Alternate Spell-Like Ability Emberkin gain pyrotechnics as a spell-like ability."
-					],
+					]
+				}
+			],
+			"hidden_alternate_traits": [
+				{
+					"name": "Agathion Ability Score Modifiers",
+					"display_name": "Ability Score Modifiers",
+					"tags": [ "trait:aasimar-scores" ],
 					"bestow_scores": [
 						{
-							"name": "intelligence bonus",
+							"name": "agathion aasimar constitution bonus",
+							"tags": [ "bonus:constitution" ],
 							"value": 2
 						},
 						{
-							"name": "charisma bonus",
+							"name": "agathion aasimar charisma bonus",
+							"tags": [ "bonus:charisma" ],
+							"value": 2
+						}
+					],
+					"replaces": [
+						"Ability Score Modifiers"
+					]
+				},
+				{
+					"name": "Angel Ability Score Modifiers",
+					"display_name": "Ability Score Modifiers",
+					"tags": [ "trait:aasimar-scores" ],
+					"bestow_scores": [
+						{
+							"name": "angel aasimar strength bonus",
+							"tags": [ "bonus:strength" ],
 							"value": 2
 						},
 						{
-							"name": "knowledge planes bonus",
-							"types": [ "bonus" ],
+							"name": "angel aasimar charisma bonus",
+							"tags": [ "bonus:charisma" ],
+							"value": 2
+						}
+					],
+					"replaces": [
+						"Ability Score Modifiers"
+					]
+				},
+				{
+					"name": "Archon Ability Score Modifiers",
+					"display_name": "Ability Score Modifiers",
+					"tags": [ "trait:aasimar-scores" ],
+					"bestow_scores": [
+						{
+							"name": "archon aasimar constitution bonus",
+							"tags": [ "bonus:constitution" ],
+							"value": 2
+						},
+						{
+							"name": "archon aasimar wisdom bonus",
+							"tags": [ "bonus:wisdom" ],
+							"value": 2
+						}
+					],
+					"replaces": [
+						"Ability Score Modifiers"
+					]
+				},
+				{
+					"name": "Azata Ability Score Modifiers",
+					"display_name": "Ability Score Modifiers",
+					"tags": [ "trait:aasimar-scores" ],
+					"bestow_scores": [
+						{
+							"name": "azata aasimar dexterity bonus",
+							"tags": [ "bonus:dexterity" ],
+							"value": 2
+						},
+						{
+							"name": "azata aasimar charisma bonus",
+							"tags": [ "bonus:charisma" ],
+							"value": 2
+						}
+					],
+					"replaces": [
+						"Ability Score Modifiers"
+					]
+				},
+				{
+					"name": "Garuda Ability Score Modifiers",
+					"display_name": "Ability Score Modifiers",
+					"tags": [ "trait:aasimar-scores" ],
+					"bestow_scores": [
+						{
+							"name": "garuda aasimar dexterity bonus",
+							"tags": [ "bonus:dexterity" ],
+							"value": 2
+						},
+						{
+							"name": "garuda aasimar wisdom bonus",
+							"tags": [ "bonus:wisdom" ],
+							"value": 2
+						}
+					],
+					"replaces": [
+						"Ability Score Modifiers"
+					]
+				},
+				{
+					"name": "Peri Ability Score Modifiers",
+					"display_name": "Ability Score Modifiers",
+					"tags": [ "trait:aasimar-scores" ],
+					"bestow_scores": [
+						{
+							"name": "peri aasimar intelligence bonus",
+							"tags": [ "bonus:intelligence" ],
+							"value": 2
+						},
+						{
+							"name": "peri aasimar charisma bonus",
+							"tags": [ "bonus:charisma" ],
+							"value": 2
+						}
+					],
+					"replaces": [
+						"Ability Score Modifiers"
+					]
+				},
+				{
+					"name": "Agathion Skilled",
+					"display_name": "Skilled",
+					"tags": [ "trait:aasimar-skilled" ],
+					"bestow_scores": [
+						{
+							"name": "agathion aasimar handle animal bonus",
+							"tags": [ "bonus:handle-animal" ],
 							"type": "racial",
 							"value": 2
 						},
 						{
-							"name": "spellcraft bonus",
-							"types": [ "bonus" ],
+							"name": "agathion aasimar survival bonus",
+							"tags": [ "bonus:survival" ],
 							"type": "racial",
 							"value": 2
 						}
+					],
+					"replaces": [
+						"Skilled"
+					]
+				},
+				{
+					"name": "Angel Skilled",
+					"display_name": "Skilled",
+					"tags": [ "trait:aasimar-skilled" ],
+					"bestow_scores": [
+						{
+							"name": "angel aasimar heal bonus",
+							"tags": [ "bonus:heal" ],
+							"type": "racial",
+							"value": 2
+						},
+						{
+							"name": "angel aasimar knowledge planes bonus",
+							"tags": [ "bonus:knowledge-planes" ],
+							"type": "racial",
+							"value": 2
+						}
+					],
+					"replaces": [
+						"Skilled"
+					]
+				},
+				{
+					"name": "Archon Skilled",
+					"display_name": "Skilled",
+					"tags": [ "trait:aasimar-skilled" ],
+					"bestow_scores": [
+						{
+							"name": "archon aasimar intimidate bonus",
+							"tags": [ "bonus:intimidate" ],
+							"type": "racial",
+							"value": 2
+						},
+						{
+							"name": "archon aasimar sense motive bonus",
+							"tags": [ "bonus:sense-motive" ],
+							"type": "racial",
+							"value": 2
+						}
+					],
+					"replaces": [
+						"Skilled"
+					]
+				},
+				{
+					"name": "Azata Skilled",
+					"display_name": "Skilled",
+					"tags": [ "trait:aasimar-skilled" ],
+					"bestow_scores": [
+						{
+							"name": "azata aasimar diplomacy bonus",
+							"tags": [ "bonus:diplomacy" ],
+							"type": "racial",
+							"value": 2
+						},
+						{
+							"name": "azata aasimar perform bonus",
+							"tags": [ "bonus:perform" ],
+							"type": "racial",
+							"value": 2
+						}
+					],
+					"replaces": [
+						"Skilled"
+					]
+				},
+				{
+					"name": "Garuda Skilled",
+					"display_name": "Skilled",
+					"tags": [ "trait:aasimar-skilled" ],
+					"bestow_scores": [
+						{
+							"name": "garuda aasimar acrobatics bonus",
+							"tags": [ "bonus:acrobatics" ],
+							"type": "racial",
+							"value": 2
+						},
+						{
+							"name": "garuda aasimar fly bonus",
+							"tags": [ "bonus:fly" ],
+							"type": "racial",
+							"value": 2
+						}
+					],
+					"replaces": [
+						"Skilled"
+					]
+				},
+				{
+					"name": "Peri Skilled",
+					"display_name": "Skilled",
+					"tags": [ "trait:aasimar-skilled" ],
+					"bestow_scores": [
+						{
+							"name": "peri aasimar knowledge planes bonus",
+							"tags": [ "bonus:knowledge-planes" ],
+							"type": "racial",
+							"value": 2
+						},
+						{
+							"name": "peri aasimar spellcraft bonus",
+							"tags": [ "bonus:spellcraft" ],
+							"type": "racial",
+							"value": 2
+						}
+					],
+					"replaces": [
+						"Skilled"
 					]
 				}
 			],
@@ -697,6 +884,13 @@
 					],
 					"replaces": [
 						"Celestial Resistance"
+					],
+					"bestows_scores": [
+						{
+							"name": "negative energy",
+							"category": "resistance",
+							"value": 5
+						}
 					]
 				},
 				{
@@ -716,8 +910,10 @@
 						"Some aasimars follow their destiny to war against the powers of ultimate evil. These individuals gain a +1 insight bonus on attack rolls and to AC against evil outsiders and a +2 racial bonus on Knowledge (planes) and Spellcraft checks to identify evil outsiders or items or effects created by evil outsiders; they may use these skills untrained for this purpose. This racial trait replaces celestial resistance and skilled."
 					],
 					"replaces": [
-						"Celestial Resistance",
-						"Skilled"
+						"Celestial Resistance"
+					],
+					"replaces_tagged": [
+						"trait:aasimar-skilled"
 					]
 				},
 				{
@@ -739,6 +935,41 @@
 					"replaces": [
 						"Languages",
 						"Native Outsider"
+					],
+					"bestow_tags": [
+						"language:common"
+					],
+					"bestow_scores": [
+						{
+							"name": "bonus language choices",
+							"value": [
+								"draconic",
+								"dwarven",
+								"elven",
+								"gnome",
+								"halfling",
+								"sylvan"
+							]
+						}
+					],
+					"bestow_features": [
+						{
+							"category": "creature types",
+							"name": "outsider"
+						},
+						{
+							"category": "creature subtypes",
+							"name": "native"
+						},
+						{
+							"category": "creature types",
+							"name": "humanoid"
+						},
+						{
+							"category": "creature subtypes",
+							"name": "human"
+						}
+
 					]
 				},
 				{
@@ -747,8 +978,25 @@
 						"Source [Advanced Race Guide pg. 85](source:Advanced Race Guide)",
 						"There are some aasimars whose language transcends all boundaries. They gain a +2 bonus on Linguistics and Sense Motive checks, and they learn two languages each time they gain a rank in Linguistics. This racial trait replaces skilled."
 					],
-					"replaces": [
-						"Skilled"
+					"replaces_tagged": [
+						"trait:aasimar-skilled"
+					],
+					"bestow_scores": [
+						{
+							"name": "aasimar linguistics bonus",
+							"tags": [ "bonus:linguistics" ],
+							"value": 2
+						},
+						{
+							"name": "aasimar sense motive bonus",
+							"tags": [ "bonus:sense-motive" ],
+							"value": 2
+						},
+						{
+							"name": "aasimar languages per linguistics rank",
+							"tags": [ "bonus:languages-per-linguistics-rank" ],
+							"value": 2
+						}
 					]
 				},
 				{
@@ -757,10 +1005,19 @@
 						"Source [Inner Sea Races pg. 214](source:Inner Sea Races)",
 						"Many aasimars feel obligated to train to defend the world against fiends such as the invaders from the Worldwound. These aasimars gain a +2 racial bonus on caster level checks to overcome spell resistance and on Knowledge (planes) checks. This racial trait replaces the skilled and spell-like ability racial traits."
 					],
-					"replaces": [
-						"Skilled",
-						"Spell Like Ability"
+					"replaces_tagged": [
+						"trait:aasimar-skilled",
+						"trait:aasimar-spell-like-ability"
+					],
+					"bestow_scores": [
+						{
+							"name": "aasimar knowledge planes bonus",
+							"tags": [ "bonus:knowledge-planes" ],
+							"type": "racial",
+							"value": 2
+						}
 					]
+
 				},
 				{
 					"name": "Heavenborn",
@@ -768,20 +1025,35 @@
 						"Source [Advanced Race Guide pg. 85](source:Advanced Race Guide)",
 						"Born in the celestial realms, aasimars with this racial trait gain a +2 bonus on Knowledge (planes) checks and they cast spells with the good or light descriptor at +1 caster level. This racial trait replaces the skilled and spell-like ability racial traits."
 					],
-					"replaces": [
-						"Skilled",
-						"Spell Like Ability"
+					"replaces_tagged": [
+						"trait:aasimar-skilled",
+						"trait:aasimar-spell-like-ability"
+					],
+					"bestow_scores": [
+						{
+							"name": "aasimar knowledge planes bonus",
+							"tags": [ "bonus:knowledge-planes" ],
+							"value": 2
+						}
 					]
 				},
 				{
 					"name": "Immortal Spark",
 					"description": [
 						"Source [Advanced Race Guide pg. 85](source:Advanced Race Guide)",
-						"Aasimars with this racial trait defy the powers of death. They gain a +2 bonus on Knowledge (history) checks and saving throws against death effects and can use lesser age resistance once per day as a spell-like ability. This racial trait replaces the skilled and spell-like ability racial traits."
+						"Aasimars with this racial trait defy the powers of death. They gain a +2 bonus on Knowledge (history) checks and saving throws against death effects and can use *lesser age resistance* once per day as a spell-like ability. This racial trait replaces the skilled and spell-like ability racial traits."
 					],
-					"replaces": [
-						"Skilled",
-						"Spell Like Ability"
+					"replaces_tagged": [
+						"trait:aasimar-skilled",
+						"trait:aasimar-spell-like-ability"
+					],
+					"bestow_scores": [
+						{
+							"name": "aasimar knowledge history bonus",
+							"tags": [ "bonus:knowledge-history" ],
+							"type": "racial",
+							"value": 2
+						}
 					]
 				},
 				{
@@ -790,8 +1062,8 @@
 						"Source [Advanced Race Guide pg. 85](source:Advanced Race Guide)",
 						"Occasionally, aasimars arise with the ability to further ward away evil. Aasimars with this racial trait can cast corruption resistance against evil once per day as a spell-like ability. If an aasimar uses this ability on herself, the duration increases to 1 hour per level. This racial trait replaces the spell-like ability racial trait."
 					],
-					"replaces": [
-						"Spell Like Ability"
+					"replaces_tagged": [
+						"trait:aasimar-spell-like-ability"
 					]
 				},
 				{
@@ -800,8 +1072,8 @@
 						"Source [Inner Sea Races pg. 214](source:Inner Sea Races)",
 						"While many view aasimars' beauty and celestial powers as a gift, in some communities an aasimar might be persecuted for being different and fall into darkness. The forces of evil delight in such a perversion of their celestial counterparts' gifts. As long as the aasimar retains an evil alignment, she gains the maw or claw tiefling alternate racial trait. This racial trait replaces the spell-like ability racial trait."
 					],
-					"replaces": [
-						"Spell Like Ability"
+					"replaces_tagged": [
+						"trait:aasimar-spell-like-ability"
 					]
 				},
 				{
@@ -912,8 +1184,8 @@
 						"| 99 | You have a natural fly speed of 20 feet (poor). |",
 						"| 100 | Roll on this table twice, ignoring any further rolls of 100. |"
 					],
-					"replaces": [
-						"Spell Like Ability"
+					"replaces_tagged": [
+						"trait:aasimar-spell-like-ability"
 					]
 				}
 			],
