@@ -12,13 +12,144 @@
 			},
 			{
 				"header": "Weight Adjustment",
-				"cell": "+${weight} lb${weight === 1 ? '' : 's'}."
+				"cell": "${weight < 0 ? '' : '+'}${weight} lb${weight === 1 ? '' : 's'}."
 			}
 		]
 	},
 	"category": "enhancements",
 	"value_type": "feature",
 	"list": [
+		{
+			"name": "sanctified shield",
+			"file": "equipmentmiscdisplay8fd2.html",
+			"sources": [ "Adventurer's Armory" ],
+			"enhances": "armor",
+			"types": [ "channel foci", "armor" ],
+			"cost_adjustment": 100,
+			"weight_adjustment": 0,
+			"description": [
+				"**Sanctified shield**",
+				"**Source** [Adventurer's Armory pg. 25](source:Adventurer's Armory)",
+				"**Price** +100 gp; **Weight** -",
+				"**Category** Channel Foci",
+				"**Deity** Any",
+				"A sanctified shield may be any type of shield (including bucklers, tower shields, and even magical shields). When activated, a sacred shield adds a +1 sacred (if positive energy) or profane (if negative energy) bonus to the wearer's Armor Class. This bonus lasts for 24 hours or until the wearer is struck in combat, whichever comes first. Creatures other than the cleric are able to use the charged shield and this ability."
+			]
+		},
+		{
+			"name": "shield boss breakaway",
+			"display_name": "shield boss (breakaway)",
+			"file": "equipmentmiscdisplay90d0.html",
+			"sources": [ "Melee Tactics Toolbox" ],
+			"enhances": "armor",
+			"types": [ "armor" ],
+			"cost_adjustment": 120,
+			"weight_adjustment": 10,
+			"description": [
+				"**Shield boss**",
+				"**Source** [Melee Tactics Toolbox pg. 21](source:Melee Tactics Toolbox)",
+				"**Price** 120 gp (breakaway), 80 gp (hooked), 35 gp (illuminating), +50 gp (masterwork), 30 gp (reinforcing boss); **Weight** 10 lbs. (breakaway), 10 lbs. (hooked), 10 lbs. (illuminating), - (masterwork), 10 lbs. (reinforcing boss)",
+				"A shield boss is a sturdy steel device that fastens to the front of a shield, providing metal support struts that radiate outward from the center of the shield, reinforcing its structure. A shield boss can be added to a buckler, light steel or wooden shield, or heavy steel or wooden shield. Tower shields are too large for a typical shield boss, though one can be crafted to fit a tower shield for an additional 300 gp. Attaching or removing a shield boss requires 10 minutes of work and a successful DC 15 Craft (armor) check; on a failure, the shield boss is not successfully attached or removed and the shield takes 1d6 points of damage that bypasses any hardness.",
+				"A reinforcing boss provides extra protection to a shield, increasing the shield's current and maximum hit points by 10. The boss makes the shield 10 pounds heavier and more unwieldy-if the shield imposes a penalty on attack rolls, as do bucklers and tower shields, the penalty increases by 1. Common improvements to the basic reinforcing boss include the following.",
+				"Breakaway Boss: The metal stud at the center of the reinforcing boss holds a compartment large enough to insert a single splash weapon, such as a vial of acid or alchemist's fire, as a full-round action. On a successful shield bash attack, the weapon vial breaks and deals damage to the target as though it were directly hit by the splash weapon. The shield takes the normal amount of splash damage for being adjacent to the target, but no other creatures adjacent to the target take splash damage from this effect. A new splash weapon must be inserted into the breakaway boss for it to be used again.",
+				"Hooked Boss: The struts on this reinforcing boss bear large, sturdy hooks, which can be used to snag an opponent's clothing or armor, causing it to stumble. You can attempt trip combat maneuver checks with this shield. If the combat maneuver check is successful, the opponent does not fall prone, but is considered flat-footed until the beginning of its next turn.",
+				"Illuminating Boss: The stud at the center of this reinforcing boss contains a covered slot large enough to insert a sunrod. Installing a lit sunrod into an illuminating boss is a full-round action. If you shake the shield firmly as a move action, you can flip a metal flap fitted over the slot to conceal or reveal the sunrod's glow.",
+				"Masterwork Boss: Any of the bosses listed above, including the basic reinforcing boss, can be masterwork. A masterwork reinforcing boss increases the shield's current and maximum hit points by 15 instead of 10 and doesn't increase the attack roll penalty."
+			]
+		},
+		{
+			"name": "shield boss hooked",
+			"display_name": "shield boss (hooked)",
+			"file": "equipmentmiscdisplayea63.html",
+			"sources": [ "Melee Tactics Toolbox" ],
+			"enhances": "armor",
+			"types": [ "armor" ],
+			"cost_adjustment": 80,
+			"weight_adjustment": 10,
+			"copyof": "shield boss breakaway"
+		},
+		{
+			"name": "shield boss illuminating",
+			"display_name": "shield boss (illuminating)",
+			"file": "equipmentmiscdisplay6dec.html",
+			"sources": [ "Melee Tactics Toolbox" ],
+			"enhances": "armor",
+			"types": [ "armor" ],
+			"cost_adjustment": 35,
+			"weight_adjustment": 10,
+			"copyof": "shield boss breakaway"
+		},
+		{
+			"name": "shield boss reinforcing boss",
+			"display_name": "shield boss (reinforcing boss)",
+			"file": "equipmentmiscdisplay159e.html",
+			"sources": [ "Melee Tactics Toolbox" ],
+			"enhances": "armor",
+			"types": [ "armor" ],
+			"cost_adjustment": 30,
+			"weight_adjustment": 10,
+			"copyof": "shield boss breakaway"
+		},
+		{
+			"name": "shield boss breakaway masterwork",
+			"display_name": "shield boss (breakaway, masterwork)",
+			"file": "equipmentmiscdisplayea63.html",
+			"sources": [ "Melee Tactics Toolbox" ],
+			"enhances": "armor",
+			"types": [ "armor" ],
+			"cost_adjustment": 170,
+			"weight_adjustment": 10,
+			"copyof": "shield boss breakaway"
+		},
+		{
+			"name": "shield boss hooked masterwork",
+			"display_name": "shield boss (hooked, masterwork)",
+			"file": "equipmentmiscdisplayea63.html",
+			"sources": [ "Melee Tactics Toolbox" ],
+			"enhances": "armor",
+			"types": [ "armor" ],
+			"cost_adjustment": 130,
+			"weight_adjustment": 10,
+			"copyof": "shield boss breakaway"
+		},
+		{
+			"name": "shield boss illuminating masterwork",
+			"display_name": "shield boss (illuminating, masterwork)",
+			"file": "equipmentmiscdisplay6dec.html",
+			"sources": [ "Melee Tactics Toolbox" ],
+			"enhances": "armor",
+			"types": [ "armor" ],
+			"cost_adjustment": 85,
+			"weight_adjustment": 10,
+			"copyof": "shield boss breakaway"
+		},
+		{
+			"name": "shield boss reinforcing boss masterwork",
+			"display_name": "shield boss (reinforcing boss, masterwork)",
+			"file": "equipmentmiscdisplay159e.html",
+			"sources": [ "Melee Tactics Toolbox" ],
+			"enhances": "armor",
+			"types": [ "armor" ],
+			"cost_adjustment": 80,
+			"weight_adjustment": 10,
+			"copyof": "shield boss breakaway"
+		},
+		{
+			"name": "armor vents",
+			"file": "equipmentmiscdisplaye668.html",
+			"sources": [ "People of the Sands" ],
+			"enhances": "armor",
+			"types": [ "armor" ],
+			"cost_adjustment": 100,
+			"weight_adjustment": -5,
+			"description": [
+				"**Armor vents**",
+				"**Source** [People of the Sands pg. 28](source:People of the Sands)",
+				"**Price** 100 gp; **Weight** -5 lbs.",
+				"**Category** Adventuring Gear",
+				"Armor vents can be built into a suit of medium or heavy armor to allow for better ventilation and reduce the wearer's fatigue in hot environs. The vents can be slid open at the discretion of the user to ensure proper air flow during the day and then closed up at night to better preserve heat. A suit of armor with armor vents imposes only a -2 penalty (instead of -4) on Fortitude saves to avoid taking nonlethal damage from heat exposure, but also has 10 fewer hit points than normal because of its more intricate construction."
+			]
+		},
 		{
 			"name": "armor spikes",
 			"file": "equipmentarmordisplay649c.html",

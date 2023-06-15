@@ -1,0 +1,95 @@
+{
+	"table": {
+		"group_by": "enhances",
+		"columns": [
+			{
+				"header": "${enhances === 'shield' ? 'Shield' : 'Armor'} Enhancements",
+				"cell": "${name.slice(0,1).toUpperCase()}${name.slice(1)}"
+			},
+			{
+				"header": "Cost Adjustment",
+				"cell": "+${cost} gp"
+			},
+			{
+				"header": "Weight Adjustment",
+				"cell": "+${weight} lb${weight === 1 ? '' : 's'}."
+			}
+		]
+	},
+	"category": "enhancements",
+	"value_type": "feature",
+	"list": [
+		{
+			"name": "armor spikes",
+			"file": "equipmentarmordisplay649c.html",
+			"sources": [
+				"Ultimate Equipment",
+				"PRPG Core Rulebook"
+			],
+			"enhances": "armor",
+			"types": [ "armor" ],
+			"cost_adjustment": 50,
+			"weight_adjustment": 10,
+			"description": [
+				"**Armor spikes**",
+				"**Source** [Ultimate Equipment pg. 9](source:Ultimate Equipment), [PRPG Core Rulebook pg. 151](source:PRPG Core Rulebook)",
+				"---",
+				"**Cost** +50 gp **Weight** +10 lbs.",
+				"---",
+				"You can have spikes added to your armor, which allow you to deal extra piercing damage on a successful grapple attack (see [\"spiked armor\"](unknown:spiked armor)). The spikes count as a martial weapon. If you are not proficient with them, you take a -4 penalty on grapple checks when you try to use them. You can also make a regular melee attack (or off-hand attack) with the spikes, and they count as a light weapon in this case. (You can't also make an attack with armor spikes if you have already made an attack with another off-hand weapon, and vice versa.) An enhancement bonus to a suit of armor does not improve the spikes' effectiveness, but the spikes can be made into magic weapons in their own right."
+			]
+		},
+		{
+			"name": "consecrated weapon ",
+			"file": "equipmentmiscdisplay0b21.html",
+			"sources": [ "Adventurer's Armory" ],
+			"enhances": "weapon",
+			"types": [ "channel foci", "weapon" ],
+			"cost_adjustment": 150,
+			"weight_adjustment": 0,
+			"description": [
+				"**Consecrated weapon**",
+				"**Source** [Adventurer's Armory pg. 24](source:Adventurer's Armory)",
+				"**Price** +150 gp; **Weight** 2 lbs.",
+				"**Category** Channel Foci",
+				"**Deity** Any",
+				"Consecrated weapons may be of any type-swords, axes, masterwork, mithral, and even magical-and function appropriately. When activated, the cleric charges the weapon with positive or negative energy (as appropriate) so it deals extra damage when it hits a target. This functions like the Channel Smite feat, except the additional damage is equal to half the cleric's channel energy damage (the target makes a Will save as normal, based on the cleric's channel energy DC). The weapon remains charged with this energy until it successfully strikes a creature or 24 hours pass, whichever comes first. Creatures other than the cleric are able to use the charged weapon and this ability."
+			]
+		},
+		{
+			"name": "sawback sword",
+			"file": "equipmentmiscdisplayc832.html",
+			"sources": [
+				"Ultimate Equipment",
+				"Adventurer's Armory"
+			],
+			"enhances": "weapon",
+			"types": [ "channel foci", "weapon" ],
+			"cost_adjustment": 5,
+			"weight_adjustment": 0,
+			"description": [
+				"**Sawback sword**",
+				"**Source** [Ultimate Equipment pg. 57](source:Ultimate Equipment), [Adventurer's Armory pg. 19](source:Adventurer's Armory)",
+				"**Price** +5 gp; **Weight** -",
+				"**Category** Adventuring Gear",
+				"This is a modification to any light or heavy blade rather than a unique weapon type. The saw blade on the back of the sword lets you use it to perform crude carpentry."
+			]
+		},
+		{
+			"name": "undine weaponshaft",
+			"file": "equipmentmiscdisplayb290.html",
+			"sources": [ "Advanced Race Guide" ],
+			"enhances": "weapon",
+			"types": [ "weapon" ],
+			"cost_adjustment": 300,
+			"weight_adjustment": 0,
+			"description": [
+				"**Undine weaponshaft**",
+				"**Source** [Advanced Race Guide pg. 177](source:Advanced Race Guide)",
+				"**Price** +300 gp; **Weight** -",
+				"**Category** Adventuring Gear",
+				"Undines incorporate a unique design when crafting shafted weapons such as quarterstaves, spears, and tridents. Instead of a solid shaft, the weapon is built around a pipe of wood or metal, with the butt end sealed and the front end left open. As a full-round action, an undine can make a single melee attack with the weapon and use her hydraulic push spell-like ability against the target of that melee attack. The weapon otherwise functions like a standard weapon of its type, and can be made of special materials (such as mithral or adamantine) and masterwork quality."
+			]
+		}
+	]
+}
