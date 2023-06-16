@@ -36,7 +36,7 @@
 			},
 			{
 				"header": "Weight",
-				"cell": "${weight} lb${weight === 1 ? '' : 's'}."
+				"cell": "${weight} lb${weight === 1 || (weight > 0 && weight < 1) ? '' : 's'}."
 			}
 		]
 	},
@@ -1600,11 +1600,15 @@
 				"**Armor Bonus** +1; **Max Dex Bonus** &mdash;; **Armor Check Penalty** -1",
 				"**Arcane Spell Failure Chance** 5%",
 				"---",
+				"**Damage** 1d4 (small), 1d6 (medium); **Critical** x2; **Range** -; **Type** S; **Special** see text",
+				"**Category** One-Handed; **Proficiency** Martial",
+				"**[Weapon Group](class:fighter/weapongroups)** Blades, Heavy; Close",
+				"---",
 				"The traditional form of this tribal weapon is a short blade bound to the skull of a large horned lizard, but a skilled smith can craft one entirely out of metal. A traditional klar counts as a light wooden shield with armor spikes; a metal klar counts as a light steel shield with armor spikes."
 			]
 		},
 		{
-			"name": "light steel",
+			"name": "light steel shield",
 			"file": "equipmentarmordisplaya867.html",
 			"sources": [
 				"Ultimate Equipment",
@@ -1623,7 +1627,7 @@
 			"base_30_speed_reduction": 0,
 			"base_20_speed_reduction": 0,
 			"description": [
-				"**Light steel**",
+				"**Light steel shield**",
 				"**Source** [Ultimate Equipment pg. 9](source:Ultimate Equipment), [PRPG Core Rulebook pg. 151](source:PRPG Core Rulebook)",
 				"---",
 				"**Cost** 9 gp **Weight** 6 lbs.",
@@ -1631,11 +1635,14 @@
 				"**Arcane Spell Failure Chance** 5%",
 				"---",
 				"You strap a light steel shield to your forearm and grip it with your hand. A light steel shield's weight lets you carry other items in that hand, although you cannot use weapons with it. Whether wooden or steel, a light shield offers the same basic protection and attack benefits, though the two varieties respond differently to some spells and effects (such as rusting grasp). A druid can use a light wooden shield, but not a light steel shield.",
-				"**Shield Bash Attacks:** You can bash an opponent with a light shield. See \"light shield\" in [martial weapons](unknown:martial weapons) for the damage dealt by a shield bash with a light shield. Used this way, a light shield is a martial bludgeoning weapon. For the purpose of penalties on attack rolls, treat a light shield as a light weapon. If you use your shield as a weapon, you lose its AC bonus until your next turn. An enhancement bonus on a shield does not improve the effectiveness of a shield bash made with it, but the shield can be made into a magic weapon in its own right."
+				"**Shield Bash Attacks:** You can bash an opponent with a light shield. Used this way, a light shield is a martial bludgeoning weapon. For the purpose of penalties on attack rolls, treat a light shield as a light weapon. If you use your shield as a weapon, you lose its AC bonus until your next turn. An enhancement bonus on a shield does not improve the effectiveness of a shield bash made with it, but the shield can be made into a magic weapon in its own right.",
+				"**Damage** 1d2 (small), 1d3 (medium); **Critical** x2; **Range** -; **Type** B; **Special** -",
+				"**Category** Light; **Proficiency** Martial",
+				"**[Weapon Group](class:fighter/weapongroups)** Close; Tribal"
 			]
 		},
 		{
-			"name": "light steel quickdraw",
+			"name": "light steel quickdraw shield",
 			"file": "equipmentarmordisplayf80c.html",
 			"sources": [
 				"Ultimate Equipment",
@@ -1654,18 +1661,22 @@
 			"base_30_speed_reduction": 0,
 			"base_20_speed_reduction": 0,
 			"description": [
-				"**Light steel quickdraw**",
+				"**Light steel quickdraw shield**",
 				"**Source** [Ultimate Equipment pg. 9](source:Ultimate Equipment), [Advanced Player's Guide pg. 179](source:Advanced Player's Guide)",
 				"---",
 				"**Cost** 59 gp **Weight** 7 lbs.",
 				"**Armor Bonus** +1; **Max Dex Bonus** &mdash;; **Armor Check Penalty** -2",
 				"**Arcane Spell Failure Chance** 5%",
 				"---",
-				"This light steel shield is specially crafted with a series of straps to allow a character proficient in shields to ready or stow it on her back quickly and easily. If you have a base attack bonus of +1 or higher, you may don or put away a quickdraw shield as a swift action combined with a regular move. If you have the Two-Weapon Fighting feat, you can draw a light or onehanded weapon with one hand and a quickdraw shield with the other in the time it would normally take you to draw one weapon. If you have the Quick Draw feat, you may don or put away a quickdraw shield as a free action."
+				"This light steel shield is specially crafted with a series of straps to allow a character proficient in shields to ready or stow it on her back quickly and easily. If you have a base attack bonus of +1 or higher, you may don or put away a quickdraw shield as a swift action combined with a regular move. If you have the Two-Weapon Fighting feat, you can draw a light or onehanded weapon with one hand and a quickdraw shield with the other in the time it would normally take you to draw one weapon. If you have the Quick Draw feat, you may don or put away a quickdraw shield as a free action.",
+				"**Shield Bash Attacks:** You can bash an opponent with a light shield. Used this way, a light shield is a martial bludgeoning weapon. For the purpose of penalties on attack rolls, treat a light shield as a light weapon. If you use your shield as a weapon, you lose its AC bonus until your next turn. An enhancement bonus on a shield does not improve the effectiveness of a shield bash made with it, but the shield can be made into a magic weapon in its own right.",
+				"**Damage** 1d2 (small), 1d3 (medium); **Critical** x2; **Range** -; **Type** B; **Special** -",
+				"**Category** Light; **Proficiency** Martial",
+				"**[Weapon Group](class:fighter/weapongroups)** Close; Tribal"
 			]
 		},
 		{
-			"name": "light wooden",
+			"name": "light wooden shield",
 			"file": "equipmentarmordisplayebd3.html",
 			"sources": [
 				"Ultimate Equipment",
@@ -1684,18 +1695,22 @@
 			"base_30_speed_reduction": 0,
 			"base_20_speed_reduction": 0,
 			"description": [
-				"**Light wooden**",
+				"**Light wooden shield**",
 				"**Source** [Ultimate Equipment pg. 9](source:Ultimate Equipment), [PRPG Core Rulebook pg. 151](source:PRPG Core Rulebook)",
 				"---",
 				"**Cost** 3 gp **Weight** 5 lbs.",
 				"**Armor Bonus** +1; **Max Dex Bonus** &mdash;; **Armor Check Penalty** -1",
 				"**Arcane Spell Failure Chance** 5%",
 				"---",
-				"A light wooden shield is essentially the same as a light steel shield, except it responds differently to some spells and effects (such as rusting grasp). A druid can use a light wooden shield, but not a light steel shield."
+				"A light wooden shield is essentially the same as a light steel shield, except it responds differently to some spells and effects (such as rusting grasp). A druid can use a light wooden shield, but not a light steel shield.",
+				"**Shield Bash Attacks:** You can bash an opponent with a light shield. Used this way, a light shield is a martial bludgeoning weapon. For the purpose of penalties on attack rolls, treat a light shield as a light weapon. If you use your shield as a weapon, you lose its AC bonus until your next turn. An enhancement bonus on a shield does not improve the effectiveness of a shield bash made with it, but the shield can be made into a magic weapon in its own right.",
+				"**Damage** 1d2 (small), 1d3 (medium); **Critical** x2; **Range** -; **Type** B; **Special** -",
+				"**Category** Light; **Proficiency** Martial",
+				"**[Weapon Group](class:fighter/weapongroups)** Close; Tribal"
 			]
 		},
 		{
-			"name": "light wooden quickdraw",
+			"name": "light wooden quickdraw shield",
 			"file": "equipmentarmordisplay15b8.html",
 			"sources": [
 				"Ultimate Equipment",
@@ -1714,19 +1729,23 @@
 			"base_30_speed_reduction": 0,
 			"base_20_speed_reduction": 0,
 			"description": [
-				"**Light wooden quickdraw**",
+				"**Light wooden quickdraw shield**",
 				"**Source** [Ultimate Equipment pg. 9](source:Ultimate Equipment), [Advanced Player's Guide pg. 179](source:Advanced Player's Guide)",
 				"---",
 				"**Cost** 53 gp **Weight** 6 lbs.",
 				"**Armor Bonus** +1; **Max Dex Bonus** &mdash;; **Armor Check Penalty** -2",
 				"**Arcane Spell Failure Chance** 5%",
 				"---",
-				"A wooden quickdraw shield is essentially the same as a steel quickdraw shield, except it responds differently to some spells and effects (such as rusting grasp). A druid can use a heavy wooden quickdraw shield, but not a steel quickdraw shield."
+				"A wooden quickdraw shield is essentially the same as a steel quickdraw shield, except it responds differently to some spells and effects (such as rusting grasp). A druid can use a heavy wooden quickdraw shield, but not a steel quickdraw shield.",
+				"**Shield Bash Attacks:** You can bash an opponent with a light shield. Used this way, a light shield is a martial bludgeoning weapon. For the purpose of penalties on attack rolls, treat a light shield as a light weapon. If you use your shield as a weapon, you lose its AC bonus until your next turn. An enhancement bonus on a shield does not improve the effectiveness of a shield bash made with it, but the shield can be made into a magic weapon in its own right.",
+				"**Damage** 1d2 (small), 1d3 (medium); **Critical** x2; **Range** -; **Type** B; **Special** -",
+				"**Category** Light; **Proficiency** Martial",
+				"**[Weapon Group](class:fighter/weapongroups)** Close; Tribal"
 			]
 		},
 		{
-			"name": "madu leather",
-			"display_name": "madu (leather)",
+			"name": "madu shield leather",
+			"display_name": "madu shield (leather)",
 			"file": "equipmentarmordisplay974a.html",
 			"sources": [
 				"Ultimate Equipment",
@@ -1746,19 +1765,23 @@
 			"base_30_speed_reduction": 0,
 			"base_20_speed_reduction": 0,
 			"description": [
-				"**Madu (leather)**",
+				"**Madu shield (leather)**",
 				"**Source** [Ultimate Equipment pg. 9](source:Ultimate Equipment), [Adventurer's Armory pg. 5](source:Adventurer's Armory), [Legacy of Fire Player's Guide pg. 22](source:Legacy of Fire Player's Guide)",
 				"---",
 				"**Cost** 40 gp **Weight** 5 lbs.",
 				"**Armor Bonus** +1; **Max Dex Bonus** &mdash;; **Armor Check Penalty** -2",
 				"**Arcane Spell Failure Chance** 5%",
 				"---",
-				"The madu is a round, light leather shield with two animal horns-usually from an antelope-extending from opposite edges of the shield. If you are proficient with the madu, you may use it to fight defensively with a -2 penalty instead of the normal -4, and your attack penalty for using Combat Expertise improves by +1 (minimum -1 penalty). You cannot hold anything else in the hand that bears a madu. If you are not proficient with the madu, treat it as a light spiked shield. A madu can't be disarmed. While traditional madus are crafted from leather and animal horn, they can be made entirely out of metal. Whether leather or steel, a madu offers the same basic protection and attack benefits, though the two varieties respond differently to some spells and effects (such as rusting grasp). A druid can use a leather madu, but not a steel madu."
+				"The madu is a round, light leather shield with two animal horns-usually from an antelope-extending from opposite edges of the shield. If you are proficient with the madu, you may use it to fight defensively with a -2 penalty instead of the normal -4, and your attack penalty for using Combat Expertise improves by +1 (minimum -1 penalty). You cannot hold anything else in the hand that bears a madu. If you are not proficient with the madu, treat it as a light spiked shield. A madu can't be disarmed. While traditional madus are crafted from leather and animal horn, they can be made entirely out of metal. Whether leather or steel, a madu offers the same basic protection and attack benefits, though the two varieties respond differently to some spells and effects (such as rusting grasp). A druid can use a leather madu, but not a steel madu.",
+				"**Shield Bash Attacks:** You can bash an opponent with a light shield. Used this way, a light shield is a martial bludgeoning weapon. For the purpose of penalties on attack rolls, treat a light shield as a light weapon. If you use your shield as a weapon, you lose its AC bonus until your next turn. An enhancement bonus on a shield does not improve the effectiveness of a shield bash made with it, but the shield can be made into a magic weapon in its own right.",
+				"**Damage** 1d3 (small), 1d4 (medium); **Critical** x2; **Range** -; **Type** P; **Special** performance",
+				"**Category** Light; **Proficiency** Exotic",
+				"**[Weapon Group](class:fighter/weapongroups)** Blades, Light; Close"
 			]
 		},
 		{
-			"name": "madu steel",
-			"display_name": "madu (steel)",
+			"name": "madu shield steel",
+			"display_name": "madu shield (steel)",
 			"file": "equipmentarmordisplay895c.html",
 			"sources": [
 				"Ultimate Equipment",
@@ -1778,14 +1801,18 @@
 			"base_30_speed_reduction": 0,
 			"base_20_speed_reduction": 0,
 			"description": [
-				"**Madu (steel)**",
+				"**Madu shield (steel)**",
 				"**Source** [Ultimate Equipment pg. 9](source:Ultimate Equipment), [Legacy of Fire Player's Guide pg. 22](source:Legacy of Fire Player's Guide), [Adventurer's Armory pg. 5](source:Adventurer's Armory)",
 				"---",
 				"**Cost** 50 gp **Weight** 6 lbs.",
 				"**Armor Bonus** +1; **Max Dex Bonus** &mdash;; **Armor Check Penalty** -2",
 				"**Arcane Spell Failure Chance** 5%",
 				"---",
-				"The madu is a round, light leather shield with two animal horns-usually from an antelope-extending from opposite edges of the shield. If you are proficient with the madu, you may use it to fight defensively with a -2 penalty instead of the normal -4, and your attack penalty for using Combat Expertise improves by +1 (minimum -1 penalty). You cannot hold anything else in the hand that bears a madu. If you are not proficient with the madu, treat it as a light spiked shield. A madu can't be disarmed. While traditional madus are crafted from leather and animal horn, they can be made entirely out of metal. Whether leather or steel, a madu offers the same basic protection and attack benefits, though the two varieties respond differently to some spells and effects (such as rusting grasp). A druid can use a leather madu, but not a steel madu."
+				"The madu is a round, light leather shield with two animal horns-usually from an antelope-extending from opposite edges of the shield. If you are proficient with the madu, you may use it to fight defensively with a -2 penalty instead of the normal -4, and your attack penalty for using Combat Expertise improves by +1 (minimum -1 penalty). You cannot hold anything else in the hand that bears a madu. If you are not proficient with the madu, treat it as a light spiked shield. A madu can't be disarmed. While traditional madus are crafted from leather and animal horn, they can be made entirely out of metal. Whether leather or steel, a madu offers the same basic protection and attack benefits, though the two varieties respond differently to some spells and effects (such as rusting grasp). A druid can use a leather madu, but not a steel madu.",
+				"**Shield Bash Attacks:** You can bash an opponent with a light shield. Used this way, a light shield is a martial bludgeoning weapon. For the purpose of penalties on attack rolls, treat a light shield as a light weapon. If you use your shield as a weapon, you lose its AC bonus until your next turn. An enhancement bonus on a shield does not improve the effectiveness of a shield bash made with it, but the shield can be made into a magic weapon in its own right.",
+				"**Damage** 1d3 (small), 1d4 (medium); **Critical** x2; **Range** -; **Type** P; **Special** performance",
+				"**Category** Light; **Proficiency** Exotic",
+				"**[Weapon Group](class:fighter/weapongroups)** Blades, Light; Close"
 			]
 		},
 		{
@@ -1839,11 +1866,15 @@
 				"**Armor Bonus** +1; **Max Dex Bonus** &mdash;; **Armor Check Penalty** -1",
 				"**Arcane Spell Failure Chance** 20%",
 				"---",
-				"This shield's sides are cut into jagged angles and honed to razor sharpness. Dwarven skirmishers often wield these shields in pairs, savagely hacking opponents to pieces, while some dwarven scoundrels enjoy the shields' imposing appearance and ease of use. If you have the Two-Weapon Fighting feat and are wielding two dwarven war-shields, increase the higher of the two shield bonuses by 1. You lose this benefit for 1 round when you make a shield bash with one or both dwarven war-shields (unless you have the Improved Shield Bash feat or a similar benefit). A hand holding a dwarven warshield can't be used for anything else. A dwarven war-shield gains no benefit from shield spikes."
+				"This shield's sides are cut into jagged angles and honed to razor sharpness. Dwarven skirmishers often wield these shields in pairs, savagely hacking opponents to pieces, while some dwarven scoundrels enjoy the shields' imposing appearance and ease of use. If you have the Two-Weapon Fighting feat and are wielding two dwarven war-shields, increase the higher of the two shield bonuses by 1. You lose this benefit for 1 round when you make a shield bash with one or both dwarven war-shields (unless you have the Improved Shield Bash feat or a similar benefit). A hand holding a dwarven warshield can't be used for anything else. A dwarven war-shield gains no benefit from shield spikes.",
+				"*Shield bash*",
+				"**Damage** 1d4 (small), 1d6 (medium); **Critical** x2; **Range** -; **Type** P or S; **Special** see text",
+				"**Category** Light; **Proficiency** Exotic",
+				"**[Weapon Group](class:fighter/weapongroups)** Close"
 			]
 		},
 		{
-			"name": "heavy steel",
+			"name": "heavy steel shield",
 			"file": "equipmentarmordisplayb5c9.html",
 			"sources": [
 				"Ultimate Equipment",
@@ -1862,7 +1893,7 @@
 			"base_30_speed_reduction": 0,
 			"base_20_speed_reduction": 0,
 			"description": [
-				"**Heavy steel**",
+				"**Heavy steel shield**",
 				"**Source** [Ultimate Equipment pg. 9](source:Ultimate Equipment), [PRPG Core Rulebook pg. 151](source:PRPG Core Rulebook)",
 				"---",
 				"**Cost** 20 gp **Weight** 15 lbs.",
@@ -1870,11 +1901,14 @@
 				"**Arcane Spell Failure Chance** 15%",
 				"---",
 				"You strap a heavy steel shield to your forearm and grip it with your hand. A heavy steel shield is so heavy that you can't use your shield hand for anything else. Whether wooden or steel, a heavy shield offers the same basic protection and attack benefits, though the two versions respond differently to some spells and effects (such as rusting grasp). A druid can use a heavy wooden shield, but not a heavy steel shield.",
-				"**Shield Bash Attacks:** You can bash an opponent with a heavy shield. See \"heavy shield\" in [martial weapons](unknown:martial weapons) for the damage dealt by a shield bash with a heavy shield. Used this way, a heavy shield is a martial bludgeoning weapon. For the purpose of penalties on attack rolls, treat a heavy shield as a one-handed weapon. If you use your shield as a weapon, you lose its AC bonus until your next turn. An enhancement bonus on a shield does not improve the effectiveness of a shield bash made with it, but the shield can be made into a magic weapon in its own right."
+				"**Shield Bash Attacks:** You can bash an opponent with a heavy shield. Used this way, a heavy shield is a martial bludgeoning weapon. For the purpose of penalties on attack rolls, treat a heavy shield as a one-handed weapon. If you use your shield as a weapon, you lose its AC bonus until your next turn. An enhancement bonus on a shield does not improve the effectiveness of a shield bash made with it, but the shield can be made into a magic weapon in its own right.",
+				"**Damage** 1d3 (small), 1d4 (medium); **Critical** x2; **Range** -; **Type** B; **Special** -",
+				"**Category** One-Handed; **Proficiency** Martial",
+				"**[Weapon Group](class:fighter/weapongroups)** Close; Tribal"
 			]
 		},
 		{
-			"name": "heavy wooden",
+			"name": "heavy wooden shield",
 			"file": "equipmentarmordisplay2a89.html",
 			"sources": [
 				"Ultimate Equipment",
@@ -1893,14 +1927,18 @@
 			"base_30_speed_reduction": 0,
 			"base_20_speed_reduction": 0,
 			"description": [
-				"**Heavy wooden**",
+				"**Heavy wooden shield**",
 				"**Source** [Ultimate Equipment pg. 9](source:Ultimate Equipment), [PRPG Core Rulebook pg. 151](source:PRPG Core Rulebook)",
 				"---",
 				"**Cost** 7 gp **Weight** 10 lbs.",
 				"**Armor Bonus** +2; **Max Dex Bonus** &mdash;; **Armor Check Penalty** -2",
 				"**Arcane Spell Failure Chance** 15%",
 				"---",
-				"A heavy wooden shield is essentially the same as a heavy steel shield, except that it responds differently to some spells and effects (such as rusting grasp). A druid can use a heavy wooden shield, but not a heavy steel shield."
+				"A heavy wooden shield is essentially the same as a heavy steel shield, except that it responds differently to some spells and effects (such as rusting grasp). A druid can use a heavy wooden shield, but not a heavy steel shield.",
+				"**Shield Bash Attacks:** You can bash an opponent with a heavy shield. Used this way, a heavy shield is a martial bludgeoning weapon. For the purpose of penalties on attack rolls, treat a heavy shield as a one-handed weapon. If you use your shield as a weapon, you lose its AC bonus until your next turn. An enhancement bonus on a shield does not improve the effectiveness of a shield bash made with it, but the shield can be made into a magic weapon in its own right.",
+				"**Damage** 1d3 (small), 1d4 (medium); **Critical** x2; **Range** -; **Type** B; **Special** -",
+				"**Category** One-Handed; **Proficiency** Martial",
+				"**[Weapon Group](class:fighter/weapongroups)** Close; Tribal"
 			]
 		},
 		{
@@ -1966,7 +2004,7 @@
 			]
 		},
 		{
-			"name": "tower",
+			"name": "tower shield",
 			"file": "equipmentarmordisplay9eb5.html",
 			"sources": [
 				"Ultimate Equipment",
@@ -1985,7 +2023,7 @@
 			"base_30_speed_reduction": 0,
 			"base_20_speed_reduction": 0,
 			"description": [
-				"**Tower**",
+				"**Tower shield**",
 				"**Source** [Ultimate Equipment pg. 9](source:Ultimate Equipment), [PRPG Core Rulebook pg. 151](source:PRPG Core Rulebook)",
 				"---",
 				"**Cost** 30 gp **Weight** 45 lbs.",

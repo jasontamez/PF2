@@ -1,0 +1,65 @@
+{
+	"table": {
+		"group_by": "equipment_type",
+		"columns": [
+			{
+				"header": "${equipment_type.slice(0,1).toUpperCase()}${equipment_type.slice(1)}",
+				"cell": "${name.slice(0,1).toUpperCase()}${name.slice(1)}"
+			},
+			{
+				"header": "Cost Adjustment",
+				"cell": "x${cost_multiplier}"
+			},
+			{
+				"header": "Weight Adjustment",
+				"cell": "x${weight_multiplier}"
+			}
+		]
+	},
+	"category": "armor",
+	"value_type": "feature",
+	"list": [
+		{
+			"name": "barding medium creature",
+			"display_name": "barding (medium creature)",
+			"file": "equipmentmiscdisplay665e.html",
+			"sources": [
+				"Ultimate Equipment",
+				"PRPG Core Rulebook"
+			],
+			"equipment_type": "animal gear",
+			"types": [ "animal gear", "armor" ],
+			"cost_multiplier": 2,
+			"weight_multiplier": 1,
+			"description": [
+				"**Barding**",
+				"**Source** [Ultimate Equipment pg. 81](source:Ultimate Equipment), [PRPG Core Rulebook pg. 159](source:PRPG Core Rulebook)",
+				"**Price** x4 (Large creature), x2 (Medium creature); **Weight** x2 (Large creature), x1 (Medium creature)",
+				"Barding is a type of armor that covers the head, neck, chest, body, and possibly legs of a horse or other mount. Barding made of medium or heavy armor provides better protection than light barding, but at the expense of speed. Barding can be made of [any armor type](table:armor).",
+				"Armor for a horse (a Large non-humanoid creature) costs four times as much as armor for a human (a Medium humanoid creature) and also weighs twice as much (see [Armor for Unusual Creatures](rule:Armor for Unusual Creatures)). If the barding is for a pony or other Medium mount, the price is only double, and the weight is the same as for Medium armor worn by a humanoid. Medium or heavy barding slows a mount that wears it, as shown on the table below.",
+				"Flying mounts can't fly in medium or heavy barding.",
+				"Removing and fitting barding takes five times as long as the figures given in [Getting Into and Out of Armor](rule:Getting Into and Out of Armor). A barded animal cannot be used to carry any load other than a rider, and normal saddlebags.",
+				"| Type | Base Speed |",
+				"| --- | --- |",
+				"| Barding | (40 ft.) | (50 ft.) | (60 ft.) |",
+				"| Medium armor | 30 ft. | 35 ft. | 40 ft. |",
+				"| Heavy armor | 30 ft.* | 35 ft.* | 40 ft.* |",
+				"*A mount wearing heavy armor moves at only triple its normal speed when running instead of quadruple.*"
+			]
+		},
+		{
+			"name": "barding large creature",
+			"display_name": "barding (large creature)",
+			"file": "equipmentmiscdisplay70bd.html",
+			"sources": [
+				"Ultimate Equipment",
+				"PRPG Core Rulebook"
+			],
+			"equipment_type": "animal gear",
+			"types": [ "animal gear", "armor" ],
+			"cost_multiplier": 4,
+			"weight_multiplier": 2,
+			"copyof": "barding medium creature"
+		}
+	]
+}
