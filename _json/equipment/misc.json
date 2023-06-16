@@ -24,6 +24,7 @@
 	"list": [
 		{
 			"name": "a thread of silver",
+			"display_name": "A Thread of Silver",
 			"file": "equipmentmiscdisplaye6fc.html",
 			"sources": [ "Dungeoneer's Handbook" ],
 			"equipment_type": "dungeon guide",
@@ -154,7 +155,7 @@
 			]
 		},
 		{
-			"name": "adamantine chain ten ft",
+			"name": "adamantine chain",
 			"display_name": "adamantine chain (10 ft.)",
 			"file": "equipmentmiscdisplayd2ca.html",
 			"sources": [ "Giant Hunter's Handbook" ],
@@ -1855,14 +1856,16 @@
 			"name": "aurochs combat trained",
 			"display_name": "aurochs (combat-trained)",
 			"file": "equipmentmiscdisplay43a5.html",
-			"sources": [],
+			"sources": [ "Animal Archive" ],
 			"equipment_type": "mount or pet",
 			"types": [ "mount or pet" ],
 			"cost": 450,
 			"weight": 0,
 			"description": [
 				"**Aurochs**",
-				"**Source**",
+				"**Source** [Animal Archive pg. 14](source:Animal Archive)",
+				"**Price** 450 gp (combat-trained), 300 gp (common); Weight - (combat-trained), - (common)",
+				"---",
 				"*Description from \"Riding Animals\" section of Animal Archive, page 14:* When reared from birth, the following animals can easily be ridden by Small or Medium humanoids, depending on the riding animal's size. In addition, most of these animals can be purchased already trained for combat."
 			]
 		},
@@ -1870,7 +1873,7 @@
 			"name": "aurochs common",
 			"display_name": "aurochs (common)",
 			"file": "equipmentmiscdisplay7929.html",
-			"sources": [],
+			"sources": [ "Animal Archive" ],
 			"equipment_type": "mount or pet",
 			"types": [ "mount or pet" ],
 			"cost": 300,
@@ -2492,10 +2495,32 @@
 			]
 		},
 		{
+			"name": "bat",
+			"file": "equipmentmiscdisplayd725.html",
+			"sources": [
+				"Ultimate Equipment",
+				"Adventurer's Armory"
+			],
+			"equipment_type": "mount or pet",
+			"types": [ "mount or pet" ],
+			"cost": 5,
+			"weight": 1,
+			"description": [
+				"**Bat**",
+				"**Source** [Ultimate Equipment pg. 80](source:Ultimate Equipment), [Adventurer's Armory pg. 19](source:Adventurer's Armory)",
+				"**Price** 5 gp, 50 gp (Uskwood); Weight 1 lb., 2 lbs. (Uskwood)",
+				"---",
+				"These Diminutive rodents are nocturnal fliers that eat insects and fruit. They rely primarily on sound to navigate rather than sight. They can be found all over Golarion and are absent only in desert and arctic regions. Some cultures keep bat houses near towns and villages to control insect problems. Bats from the Uskwood in Nidal are noted for their matte black fur and large size."
+			]
+		},
+		{
 			"name": "bat uskwood",
 			"display_name": "bat (uskwood)",
 			"file": "equipmentmiscdisplayce93.html",
-			"sources": [],
+			"sources": [
+				"Ultimate Equipment",
+				"Adventurer's Armory"
+			],
 			"equipment_type": "mount or pet",
 			"types": [ "mount or pet" ],
 			"cost": 50,
@@ -2503,18 +2528,19 @@
 			"copyof": "bat"
 		},
 		{
-			"name": "bat",
-			"file": "equipmentmiscdisplayd725.html",
-			"sources": [],
-			"equipment_type": "mount or pet",
-			"types": [ "mount or pet" ],
-			"cost": 5,
-			"weight": 1,
+			"name": "bath hot",
+			"display_name": "bath (hot)",
+			"file": "equipmentmiscdisplayef4c.html",
+			"sources": [ "Ultimate Equipment" ],
+			"equipment_type": "lodging or service",
+			"types": [ "lodging or service" ],
+			"cost": 0.06,
+			"weight": 0,
 			"description": [
-				"**Bat**",
-				"**Source**",
-				"These Diminutive rodents are nocturnal fliers that eat insects and fruit. They rely primarily on sound to navigate rather than sight. They can be found all over Golarion and are absent only in desert and arctic regions. Some cultures keep bat houses near towns and villages to control insect problems. Bats from the Uskwood in Nidal are noted for their matte black fur and large size.",
-				"More information on bats can be found in the Bestiary."
+				"**Bath**",
+				"**Source** [Ultimate Equipment pg. 99](source:Ultimate Equipment)",
+				"**Price** 2 cp (cold), 6 cp (hot); **Weight** - (cold), - (hot)",
+				"A cold bath usually involves someone else's used soapy bath water. A hot bath is a one-person washtub filled with hot water one pot at a time. A public bath is a bath facility (such as a bath house or resort) that provides hot water, soap, and cologne or perfume, and may also offer wading pools, massages, or other services for an additional cost. Some public baths require membership or a minimum social status."
 			]
 		},
 		{
@@ -2525,22 +2551,8 @@
 			"equipment_type": "lodging or service",
 			"types": [ "lodging or service" ],
 			"cost": 0.02,
+			"weight": 0,
 			"copyof": "bath hot"
-		},
-		{
-			"name": "bath hot",
-			"display_name": "bath (hot)",
-			"file": "equipmentmiscdisplayef4c.html",
-			"sources": [ "Ultimate Equipment" ],
-			"equipment_type": "lodging or service",
-			"types": [ "lodging or service" ],
-			"cost": 0.06,
-			"description": [
-				"**Bath**",
-				"**Source** [Ultimate Equipment pg. 99](source:Ultimate Equipment)",
-				"**Price** 2 cp (cold), 6 cp (hot); **Weight** - (cold), - (hot)",
-				"A cold bath usually involves someone else's used soapy bath water. A hot bath is a one-person washtub filled with hot water one pot at a time. A public bath is a bath facility (such as a bath house or resort) that provides hot water, soap, and cologne or perfume, and may also offer wading pools, massages, or other services for an additional cost. Some public baths require membership or a minimum social status."
-			]
 		},
 		{
 			"name": "bath public",
@@ -2550,6 +2562,7 @@
 			"equipment_type": "lodging or service",
 			"types": [ "lodging or service" ],
 			"cost": [ 0.2, 1 ],
+			"weight": 0,
 			"description": [
 				"**Bath (public)**",
 				"**Source** [Ultimate Equipment pg. 99](source:Ultimate Equipment)",
@@ -3000,21 +3013,10 @@
 			]
 		},
 		{
-			"name": "bison combat trained",
-			"display_name": "bison (combat-trained)",
-			"file": "equipmentmiscdisplay32ff.html",
-			"sources": [],
-			"equipment_type": "mount or pet",
-			"types": [ "mount or pet" ],
-			"cost": 75,
-			"weight": 0,
-			"copyof": "bison common"
-		},
-		{
 			"name": "bison common",
 			"display_name": "bison (common)",
 			"file": "equipmentmiscdisplaya5ec.html",
-			"sources": [],
+			"sources": [ "Animal Archive" ],
 			"equipment_type": "mount or pet",
 			"types": [ "mount or pet" ],
 			"cost": 50,
@@ -3024,6 +3026,17 @@
 				"**Source**",
 				"*Description from \"Riding Animals\" section of Animal Archive, page 14:* When reared from birth, the following animals can easily be ridden by Small or Medium humanoids, depending on the riding animal's size. In addition, most of these animals can be purchased already trained for combat."
 			]
+		},
+		{
+			"name": "bison combat trained",
+			"display_name": "bison (combat-trained)",
+			"file": "equipmentmiscdisplay32ff.html",
+			"sources": [ "Animal Archive" ],
+			"equipment_type": "mount or pet",
+			"types": [ "mount or pet" ],
+			"cost": 75,
+			"weight": 0,
+			"copyof": "bison common"
 		},
 		{
 			"name": "bit and bridle",
@@ -3612,21 +3625,10 @@
 			]
 		},
 		{
-			"name": "boar combat trained",
-			"display_name": "boar (combat-trained)",
-			"file": "equipmentmiscdisplay0ced.html",
-			"sources": [],
-			"equipment_type": "mount or pet",
-			"types": [ "mount or pet" ],
-			"cost": 150,
-			"weight": 0,
-			"copyof": "boar common"
-		},
-		{
 			"name": "boar common",
 			"display_name": "boar (common)",
 			"file": "equipmentmiscdisplayeadf.html",
-			"sources": [],
+			"sources": [ "Animal Archive" ],
 			"equipment_type": "mount or pet",
 			"types": [ "mount or pet" ],
 			"cost": 100,
@@ -3636,6 +3638,17 @@
 				"**Source**",
 				"*Description from \"Riding Animals\" section of Animal Archive, page 14:* When reared from birth, the following animals can easily be ridden by Small or Medium humanoids, depending on the riding animal's size. In addition, most of these animals can be purchased already trained for combat."
 			]
+		},
+		{
+			"name": "boar combat trained",
+			"display_name": "boar (combat-trained)",
+			"file": "equipmentmiscdisplay0ced.html",
+			"sources": [ "Animal Archive" ],
+			"equipment_type": "mount or pet",
+			"types": [ "mount or pet" ],
+			"cost": 150,
+			"weight": 0,
+			"copyof": "boar common"
 		},
 		{
 			"name": "boar's bellow",
@@ -4612,52 +4625,12 @@
 			"types": [ "animal gear" ],
 			"cost": 10,
 			"weight": 2,
-			"copyof": "cage tiny"
-		},
-		{
-			"name": "cage huge",
-			"display_name": "cage (huge)",
-			"file": "equipmentmiscdisplaycafc.html",
-			"sources": [
-				"Ultimate Equipment",
-				"Advanced Player's Guide",
-				"Adventurer's Armory"
-			],
-			"equipment_type": "animal gear",
-			"types": [ "animal gear" ],
-			"cost": 60,
-			"weight": 960,
-			"copyof": "cage tiny"
-		},
-		{
-			"name": "cage large",
-			"display_name": "cage (large)",
-			"file": "equipmentmiscdisplayb210.html",
-			"sources": [
-				"Ultimate Equipment",
-				"Adventurer's Armory",
-				"Advanced Player's Guide"
-			],
-			"equipment_type": "animal gear",
-			"types": [ "animal gear" ],
-			"cost": 30,
-			"weight": 240,
-			"copyof": "cage tiny"
-		},
-		{
-			"name": "cage small or medium",
-			"display_name": "cage (small or medium)",
-			"file": "equipmentmiscdisplaya87b.html",
-			"sources": [
-				"Ultimate Equipment",
-				"Advanced Player's Guide",
-				"Adventurer's Armory"
-			],
-			"equipment_type": "animal gear",
-			"types": [ "animal gear" ],
-			"cost": 15,
-			"weight": 60,
-			"copyof": "cage tiny"
+			"description": [
+				"**Cage**",
+				"**Source** [Ultimate Equipment pg. 81](source:Ultimate Equipment), [Adventurer's Armory pg. 19](source:Adventurer's Armory), [Advanced Player's Guide pg. 185](source:Advanced Player's Guide)",
+				"**Price** 10 gp (Diminutive or Fine), 60 gp (Huge), 30 gp (Large), 15 gp (Small or Medium), 2 gp (Tiny); **Weight** 2 lbs. (Diminutive or Fine), 960 lbs. (Huge), 240 lbs. (Large), 60 lbs. (Small or Medium), 5 lbs. (Tiny)",
+				"This secure, portable enclosure is used to hold creatures' generally animals, but a large enough cage can hold anything. Cages are made from iron, wood, or bamboo, depending on local customs and available materials. One cage holds one animal of that size, or five animals of a smaller size. The weight of the creature adds to the weight of the cage. Cages come in the following sizes: Diminutive or Fine, Tiny, Small, Medium, Large, and Huge. Cages for aquatic creatures cost twice as much, and weigh four times the normal weight when filled with water."
+			]
 		},
 		{
 			"name": "cage tiny",
@@ -4672,12 +4645,127 @@
 			"types": [ "animal gear" ],
 			"cost": 2,
 			"weight": 5,
-			"description": [
-				"**Cage**",
-				"**Source** [Ultimate Equipment pg. 81](source:Ultimate Equipment), [Adventurer's Armory pg. 19](source:Adventurer's Armory), [Advanced Player's Guide pg. 185](source:Advanced Player's Guide)",
-				"**Price** 10 gp (Diminutive or Fine), 60 gp (Huge), 30 gp (Large), 15 gp (Small or Medium), 2 gp (Tiny); **Weight** 2 lbs. (Diminutive or Fine), 960 lbs. (Huge), 240 lbs. (Large), 60 lbs. (Small or Medium), 5 lbs. (Tiny)",
-				"This secure, portable enclosure is used to hold creatures' generally animals, but a large enough cage can hold anything. Cages are made from iron, wood, or bamboo, depending on local customs and available materials. One cage holds one animal of that size, or five animals of a smaller size. The weight of the creature adds to the weight of the cage. Cages come in the following sizes: Diminutive or Fine, Tiny, Small, Medium, Large, and Huge. Cages for aquatic creatures cost twice as much, and weigh four times the normal weight when filled with water."
-			]
+			"copyof": "cage diminutive or fine"
+		},
+		{
+			"name": "cage small or medium",
+			"display_name": "cage (small or medium)",
+			"file": "equipmentmiscdisplaya87b.html",
+			"sources": [
+				"Ultimate Equipment",
+				"Advanced Player's Guide",
+				"Adventurer's Armory"
+			],
+			"equipment_type": "animal gear",
+			"types": [ "animal gear" ],
+			"cost": 15,
+			"weight": 60,
+			"copyof": "cage diminutive or fine"
+		},
+		{
+			"name": "cage large",
+			"display_name": "cage (large)",
+			"file": "equipmentmiscdisplayb210.html",
+			"sources": [
+				"Ultimate Equipment",
+				"Adventurer's Armory",
+				"Advanced Player's Guide"
+			],
+			"equipment_type": "animal gear",
+			"types": [ "animal gear" ],
+			"cost": 30,
+			"weight": 240,
+			"copyof": "cage diminutive or fine"
+		},
+		{
+			"name": "cage huge",
+			"display_name": "cage (huge)",
+			"file": "equipmentmiscdisplaycafc.html",
+			"sources": [
+				"Ultimate Equipment",
+				"Advanced Player's Guide",
+				"Adventurer's Armory"
+			],
+			"equipment_type": "animal gear",
+			"types": [ "animal gear" ],
+			"cost": 60,
+			"weight": 960,
+			"copyof": "cage diminutive or fine"
+		},
+		{
+			"name": "cage diminutive or fine aquatic",
+			"display_name": "cage (diminutive or fine, aquatic)",
+			"file": "equipmentmiscdisplaye763.html",
+			"sources": [
+				"Ultimate Equipment",
+				"Adventurer's Armory",
+				"Advanced Player's Guide"
+			],
+			"equipment_type": "animal gear",
+			"types": [ "animal gear" ],
+			"cost": 20,
+			"weight": 8,
+			"copyof": "cage diminutive or fine"
+		},
+		{
+			"name": "cage tiny aquatic",
+			"display_name": "cage (tiny, aquatic)",
+			"file": "equipmentmiscdisplaye763.html",
+			"sources": [
+				"Ultimate Equipment",
+				"Adventurer's Armory",
+				"Advanced Player's Guide"
+			],
+			"equipment_type": "animal gear",
+			"types": [ "animal gear" ],
+			"cost": 4,
+			"weight": 20,
+			"copyof": "cage diminutive or fine"
+		},
+		{
+			"name": "cage small or medium aquatic",
+			"display_name": "cage (small or medium, aquatic)",
+			"file": "equipmentmiscdisplaya87b.html",
+			"sources": [
+				"Ultimate Equipment",
+				"Advanced Player's Guide",
+				"Adventurer's Armory"
+			],
+			"equipment_type": "animal gear",
+			"types": [ "animal gear" ],
+			"cost": 30,
+			"weight": 240,
+			"copyof": "cage diminutive or fine"
+		},
+		{
+			"name": "cage large aquatic",
+			"display_name": "cage (large, aquatic)",
+			"file": "equipmentmiscdisplayb210.html",
+			"sources": [
+				"Ultimate Equipment",
+				"Adventurer's Armory",
+				"Advanced Player's Guide"
+			],
+			"equipment_type": "animal gear",
+			"types": [ "animal gear" ],
+			"cost": 60,
+			"weight": 960,
+			"copyof": "cage diminutive or fine"
+		},
+		{
+			"name": "cage huge aquatic",
+			"display_name": "cage (huge, aquatic)",
+			"file": "equipmentmiscdisplaycafc.html",
+			"sources": [
+				"Ultimate Equipment",
+				"Advanced Player's Guide",
+				"Adventurer's Armory"
+			],
+			"equipment_type": "animal gear",
+			"types": [ "animal gear" ],
+			"cost": 120,
+			"weight": 3840,
+			"copyof": "cage diminutive or fine"
 		},
 		{
 			"name": "calistria's kindness",
@@ -5242,20 +5330,6 @@
 			]
 		},
 		{
-			"name": "carriage travel per mile",
-			"display_name": "carriage (travel, per mile)",
-			"file": "equipmentmiscdisplayec4f.html",
-			"sources": [
-				"Ultimate Equipment",
-				"PRPG Core Rulebook"
-			],
-			"equipment_type": "transport, land",
-			"types": [ "transport, land" ],
-			"cost": 0.03,
-			"weight": null,
-			"copyof": "carriage"
-		},
-		{
 			"name": "carriage",
 			"file": "equipmentmiscdisplayec4f.html",
 			"sources": [
@@ -5274,6 +5348,20 @@
 				"---",
 				"This four-wheeled vehicle can transport as many as four people within an enclosed cab, plus two drivers. In general, two horses (or other beasts of burden) draw it. A carriage comes with the harness needed to pull it."
 			]
+		},
+		{
+			"name": "carriage travel per mile",
+			"display_name": "carriage (travel, per mile)",
+			"file": "equipmentmiscdisplayec4f.html",
+			"sources": [
+				"Ultimate Equipment",
+				"PRPG Core Rulebook"
+			],
+			"equipment_type": "transport, land",
+			"types": [ "transport, land" ],
+			"cost": 0.03,
+			"weight": null,
+			"copyof": "carriage"
 		},
 		{
 			"name": "carrion bait",
@@ -5300,20 +5388,6 @@
 			]
 		},
 		{
-			"name": "cart travel per mile",
-			"display_name": "cart (travel, per mile)",
-			"file": "equipmentmiscdisplay2fd5.html",
-			"sources": [
-				"Ultimate Equipment",
-				"PRPG Core Rulebook"
-			],
-			"equipment_type": "transport, land",
-			"types": [ "transport, land" ],
-			"cost": 0.01,
-			"weight": null,
-			"copyof": "cart"
-		},
-		{
 			"name": "cart",
 			"file": "equipmentmiscdisplay2fd5.html",
 			"sources": [
@@ -5332,6 +5406,20 @@
 				"---",
 				"This two-wheeled vehicle can be drawn by a single horse or other beast of burden, and is often used to transport goods across short distances. It comes with a harness."
 			]
+		},
+		{
+			"name": "cart travel per mile",
+			"display_name": "cart (travel, per mile)",
+			"file": "equipmentmiscdisplay2fd5.html",
+			"sources": [
+				"Ultimate Equipment",
+				"PRPG Core Rulebook"
+			],
+			"equipment_type": "transport, land",
+			"types": [ "transport, land" ],
+			"cost": 0.01,
+			"weight": null,
+			"copyof": "cart"
 		},
 		{
 			"name": "casting plaster",
@@ -5360,30 +5448,38 @@
 			]
 		},
 		{
-			"name": "cat osirian wise eye",
-			"display_name": "cat (osirian wise-eye)",
-			"file": "equipmentmiscdisplayee67.html",
-			"sources": [],
-			"equipment_type": "mount or pet",
-			"types": [ "mount or pet" ],
-			"cost": 6,
-			"weight": 8,
-			"copyof": "cat common"
-		},
-		{
 			"name": "cat common",
 			"display_name": "cat (common)",
 			"file": "equipmentmiscdisplayd626.html",
-			"sources": [],
+			"sources": [
+				"Ultimate Equipment",
+				"Adventurer's Armory"
+			],
 			"equipment_type": "mount or pet",
 			"types": [ "mount or pet" ],
 			"cost": 0.03,
 			"weight": 8,
 			"description": [
 				"**Cat**",
-				"**Source**",
+				"**Source** [Ultimate Equipment pg. 80](source:Ultimate Equipment), [Adventurer's Armory pg. 19](source:Adventurer's Armory)",
+				"**Price** 3 cp (common), 6 gp (Osirian wise-eye); Weight 8 lbs. (common), 8 lbs. (Osirian wise-eye)",
+				"---",
 				"These Tiny animals are often kept as pets or familiars. Though small, they are excellent hunters. Grain farmers usually keep cats for pest control in crop storage areas, but cats can be found in most regions and strays occupy many cities. More information on cats can be found in the Bestiary."
 			]
+		},
+		{
+			"name": "cat osirian wise eye",
+			"display_name": "cat (osirian wise-eye)",
+			"file": "equipmentmiscdisplayee67.html",
+			"sources": [
+				"Ultimate Equipment",
+				"Adventurer's Armory"
+			],
+			"equipment_type": "mount or pet",
+			"types": [ "mount or pet" ],
+			"cost": 6,
+			"weight": 8,
+			"copyof": "cat common"
 		},
 		{
 			"name": "cat hunting",
@@ -5484,7 +5580,7 @@
 			"description": [
 				"**Cauldron**",
 				"**Source** [Ultimate Equipment pg. 56](source:Ultimate Equipment)",
-				"**Price** 1 gp , 2,501 gp (mithral); **Weight** 5 lbs. , 2-1/2 lbs. (mithral)",
+				"**Price** 1 gp, 2,501 gp (mithral); **Weight** 5 lbs., 2-1/2 lbs. (mithral)",
 				"This larger version of an iron pot holds approximately 1 gallon-enough to fill the bellies of four hungry humans for one meal. It can also be used for potion-making and similar activities. A mithral cauldron is lighter, and food rarely sticks to it."
 			]
 		},
@@ -6486,17 +6582,6 @@
 			]
 		},
 		{
-			"name": "coach cab travel per mile",
-			"display_name": "coach cab (travel, per mile)",
-			"file": "equipmentmiscdisplay6902.html",
-			"sources": [ "PRPG Core Rulebook" ],
-			"equipment_type": "transport, land",
-			"types": [ "transport, land" ],
-			"cost": 0.03,
-			"weight": null,
-			"copyof": "coach cab"
-		},
-		{
 			"name": "coach cab",
 			"file": "equipmentmiscdisplay6902.html",
 			"sources": [ "PRPG Core Rulebook" ],
@@ -6512,6 +6597,17 @@
 				"---",
 				"The price given is for a ride in a coach that transports people (and light cargo) between towns. For a ride in a cab that transports passengers within a city, 1 copper piece usually takes you anywhere you need to go."
 			]
+		},
+		{
+			"name": "coach cab travel per mile",
+			"display_name": "coach cab (travel, per mile)",
+			"file": "equipmentmiscdisplay6902.html",
+			"sources": [ "PRPG Core Rulebook" ],
+			"equipment_type": "transport, land",
+			"types": [ "transport, land" ],
+			"cost": 0.03,
+			"weight": null,
+			"copyof": "coach cab"
 		},
 		{
 			"name": "cobbled item",
@@ -6763,6 +6859,7 @@
 			"equipment_type": "lodging or service",
 			"types": [ "lodging or service" ],
 			"cost": 50,
+			"weight": 0,
 			"description": [
 				"**Commissioned broadsheet**",
 				"**Source** [Merchant's Manifest pg. 5](source:Merchant's Manifest)",
@@ -6778,6 +6875,7 @@
 			"equipment_type": "lodging or service",
 			"types": [ "lodging or service" ],
 			"cost": 150,
+			"weight": 0,
 			"copyof": "commissioned broadsheet setup and proof print"
 		},
 		{
@@ -6822,6 +6920,7 @@
 			"equipment_type": "lodging or service",
 			"types": [ "lodging or service" ],
 			"cost": [ 0.05, 10 ],
+			"weight": 0,
 			"description": [
 				"**Companion**",
 				"**Source** [Ultimate Equipment pg. 99](source:Ultimate Equipment)",
@@ -7426,6 +7525,22 @@
 			]
 		},
 		{
+			"name": "crusader's cross standard",
+			"display_name": "crusader's cross (standard)",
+			"file": "equipmentmiscdisplaycfad.html",
+			"sources": [ "Demon Hunter's Handbook" ],
+			"equipment_type": "adventuring gear",
+			"types": [ "adventuring gear" ],
+			"cost": 1,
+			"weight": 0,
+			"description": [
+				"**Source** [Demon Hunter's Handbook pg. 18](source:Demon Hunter's Handbook)",
+				"**Price** PFS Legal 50 gp (masterwork), PFS Legal 1 gp (standard); Weight - (masterwork), - (standard)",
+				"---",
+				"This palm-sized cross has arms of equal length and an emblem etched at the center. When purchased, the bearer's personal emblem or motto is etched on one side, and name, rank, and nation on the other. Common crusader's crosses are typically made of wood, while masterwork crosses-usually reserved for nobles, officers, or gifts to the families of fallen heroes-might be made of silver."
+			]
+		},
+		{
 			"name": "crusader's cross masterwork",
 			"display_name": "crusader's cross (masterwork)",
 			"file": "equipmentmiscdisplaye00e.html",
@@ -7435,17 +7550,6 @@
 			"cost": 50,
 			"weight": 0,
 			"copyof": "crusader's cross standard"
-		},
-		{
-			"name": "crusader's cross standard",
-			"display_name": "crusader's cross (standard)",
-			"file": "equipmentmiscdisplaycfad.html",
-			"sources": [ "Demon Hunter's Handbook" ],
-			"equipment_type": "adventuring gear",
-			"types": [ "adventuring gear" ],
-			"cost": 1,
-			"weight": 0,
-			"copyof": "crusader's cross masterwork"
 		},
 		{
 			"name": "crutch",
@@ -8411,6 +8515,7 @@
 			"equipment_type": "lodging or service",
 			"types": [ "lodging or service" ],
 			"cost": 1,
+			"weight": 0,
 			"description": [
 				"**Doctor**",
 				"**Source** [Ultimate Equipment pg. 99](source:Ultimate Equipment)",
@@ -8525,14 +8630,20 @@
 			"name": "dog guard",
 			"display_name": "dog (guard)",
 			"file": "equipmentmiscdisplayb00d.html",
-			"sources": [],
+			"sources": [
+				"Ultimate Equipment",
+				"PRPG Core Rulebook",
+				"Adventurer's Armory"
+			],
 			"equipment_type": "mount or pet",
 			"types": [ "mount or pet" ],
 			"cost": 25,
 			"weight": 25,
 			"description": [
 				"**Dog**",
-				"**Source**",
+				"**Source** [Ultimate Equipment pg. 81](source:Ultimate Equipment), [PRPG Core Rulebook pg. 159](source:PRPG Core Rulebook), [Adventurer's Armory pg. 19](source:Adventurer's Armory)",
+				"**Price** 25 gp (guard), 15 gp (lap), 150 gp (riding); Weight 25 lbs. (guard), 5 lbs. (lap), 50 lbs. (riding)",
+				"---",
 				"Most dogs fall into one of the following categories.",
 				"Guard Dog: This Small, combat-trained dog is bred for battle; breeders favor strength, a thick body, and a low center of gravity. Guard dogs are sold in most large cities and some cultures use them for sport fighting or in some armies' special infantry. More information on dogs can be found in the Bestiary.",
 				"Lap Dog: These tiny dogs are commonly kept as pets. They cannot be combat trained, but can serve as noisy-but-skittish watch creatures. Lap dogs have the same statistics as foxes (see Bestiary 3).",
@@ -8543,7 +8654,11 @@
 			"name": "dog lap",
 			"display_name": "dog (lap)",
 			"file": "equipmentmiscdisplay6209.html",
-			"sources": [],
+			"sources": [
+				"Ultimate Equipment",
+				"PRPG Core Rulebook",
+				"Adventurer's Armory"
+			],
 			"equipment_type": "mount or pet",
 			"types": [ "mount or pet" ],
 			"cost": 15,
@@ -8554,28 +8669,16 @@
 			"name": "dog riding",
 			"display_name": "dog (riding)",
 			"file": "equipmentmiscdisplay421d.html",
-			"sources": [],
+			"sources": [
+				"Ultimate Equipment",
+				"PRPG Core Rulebook",
+				"Adventurer's Armory"
+			],
 			"equipment_type": "mount or pet",
 			"types": [ "mount or pet" ],
 			"cost": 150,
 			"weight": 50,
 			"copyof": "dog guard"
-		},
-		{
-			"name": "dog sled travel per mile",
-			"display_name": "dog sled (travel, per mile)",
-			"file": "equipmentmiscdisplay64eb.html",
-			"sources": [
-				"Ultimate Equipment",
-				"Adventurer's Armory",
-				"Advanced Player's Guide",
-				"Pathfinder #51: The Hungry Storm"
-			],
-			"equipment_type": "transport, land",
-			"types": [ "transport, land" ],
-			"cost": 0.03,
-			"weight": null,
-			"copyof": "dog sled"
 		},
 		{
 			"name": "dog sled",
@@ -8598,6 +8701,22 @@
 				"---",
 				"This sled is designed to be pulled over snow and ice by a team of trained riding dogs. Most sleds have runners at the back for a musher to stand on. A dog sled can carry up to the capacity of all the dogs that pull it."
 			]
+		},
+		{
+			"name": "dog sled travel per mile",
+			"display_name": "dog sled (travel, per mile)",
+			"file": "equipmentmiscdisplay64eb.html",
+			"sources": [
+				"Ultimate Equipment",
+				"Adventurer's Armory",
+				"Advanced Player's Guide",
+				"Pathfinder #51: The Hungry Storm"
+			],
+			"equipment_type": "transport, land",
+			"types": [ "transport, land" ],
+			"cost": 0.03,
+			"weight": null,
+			"copyof": "dog sled"
 		},
 		{
 			"name": "dolphin",
@@ -9440,7 +9559,7 @@
 			"name": "elk combat trained",
 			"display_name": "elk (combat-trained)",
 			"file": "equipmentmiscdisplay2f89.html",
-			"sources": [],
+			"sources": [ "Animal Archive" ],
 			"equipment_type": "mount or pet",
 			"types": [ "mount or pet" ],
 			"cost": 150,
@@ -9455,7 +9574,7 @@
 			"name": "elk common",
 			"display_name": "elk (common)",
 			"file": "equipmentmiscdisplay1095.html",
-			"sources": [],
+			"sources": [ "Animal Archive" ],
 			"equipment_type": "mount or pet",
 			"types": [ "mount or pet" ],
 			"cost": 100,
@@ -11008,14 +11127,16 @@
 			"name": "flying straps masterwork",
 			"display_name": "flying straps (masterwork)",
 			"file": "equipmentmiscdisplayca5e.html",
-			"sources": [],
+			"sources": [ "Monster Codex" ],
 			"equipment_type": "animal gear",
 			"types": [ "animal gear" ],
 			"cost": 80,
 			"weight": 10,
 			"description": [
 				"**Flying straps**",
-				"**Source**",
+				"**Source** [Monster Codex pg. 105](source:Monster Codex)",
+				"**Price** 80 gp (masterwork), 10 gp (standard); Weight 10 lbs. (masterwork), 10 lbs. (standard)",
+				"---",
 				"These crude straps are used to secure a goblin or other small creature to the underside of a dire bat or giant vulture. These straps count as an exotic riding saddle. If the mount fails a Fly check, there's a 50% chance the straps break and the rider falls. Masterwork flying straps count as an exotic military saddle, and don't have a chance to break if the mount fails a Fly check."
 			]
 		},
@@ -11023,7 +11144,7 @@
 			"name": "flying straps standard",
 			"display_name": "flying straps (standard)",
 			"file": "equipmentmiscdisplay5ba2.html",
-			"sources": [],
+			"sources": [ "Monster Codex" ],
 			"equipment_type": "animal gear",
 			"types": [ "animal gear" ],
 			"cost": 10,
@@ -11177,6 +11298,7 @@
 			"equipment_type": "lodging or service",
 			"types": [ "lodging or service" ],
 			"cost": 0.5,
+			"weight": 0,
 			"description": [
 				"**Footman**",
 				"**Source** [Ultimate Equipment pg. 99](source:Ultimate Equipment)",
@@ -11627,20 +11749,6 @@
 			]
 		},
 		{
-			"name": "galley travel per mile",
-			"display_name": "galley (travel, per mile)",
-			"file": "equipmentmiscdisplayb1e1.html",
-			"sources": [
-				"Ultimate Equipment",
-				"PRPG Core Rulebook"
-			],
-			"equipment_type": "transport, sea",
-			"types": [ "transport, sea" ],
-			"cost": 0.1,
-			"weight": null,
-			"copyof": "galley"
-		},
-		{
 			"name": "galley",
 			"file": "equipmentmiscdisplayb1e1.html",
 			"sources": [
@@ -11659,6 +11767,20 @@
 				"---",
 				"This three-masted ship has 70 oars on either side and requires a total crew of 200. A galley is 130 feet long and 20 feet wide, and can carry 150 tons of cargo or 250 soldiers. For 8,000 gp more, it can be fitted with a ram and firing platforms fore, aft, and amidships. This ship cannot make sea voyages and sticks close to the coast. It moves about 4 miles per hour when being rowed or under sail."
 			]
+		},
+		{
+			"name": "galley travel per mile",
+			"display_name": "galley (travel, per mile)",
+			"file": "equipmentmiscdisplayb1e1.html",
+			"sources": [
+				"Ultimate Equipment",
+				"PRPG Core Rulebook"
+			],
+			"equipment_type": "transport, sea",
+			"types": [ "transport, sea" ],
+			"cost": 0.1,
+			"weight": null,
+			"copyof": "galley"
 		},
 		{
 			"name": "gambeson",
@@ -11818,14 +11940,19 @@
 			"name": "gecko riding",
 			"display_name": "gecko (riding)",
 			"file": "equipmentmiscdisplaye4cb.html",
-			"sources": [],
+			"sources": [
+				"Ultimate Equipment",
+				"Advanced Race Guide"
+			],
 			"equipment_type": "mount or pet",
 			"types": [ "mount or pet" ],
 			"cost": 300,
 			"weight": 1200,
 			"description": [
 				"**Gecko**",
-				"**Source**",
+				"**Source** [Ultimate Equipment pg. 81](source:Ultimate Equipment), [Advanced Race Guide pg. 105](source:Advanced Race Guide)",
+				"**Price** 300 gp (riding), 400 gp (riding, combat trained); Weight 1,200 lbs. (riding), 1,500 lbs. (riding, combat trained)",
+				"---",
 				"Larger than even giant geckos, these mammoth lizards have been specifically bred to be used as mounts. Prized for their ability to run along cave ceilings and sheer walls, they require exotic saddles to ride. A riding gecko has the same statistics as a giant gecko with the giant template (see Bestiary 3)."
 			]
 		},
@@ -11833,7 +11960,10 @@
 			"name": "gecko riding combat trained",
 			"display_name": "gecko (riding, combat trained)",
 			"file": "equipmentmiscdisplay1564.html",
-			"sources": [],
+			"sources": [
+				"Ultimate Equipment",
+				"Advanced Race Guide"
+			],
 			"equipment_type": "mount or pet",
 			"types": [ "mount or pet" ],
 			"cost": 400,
@@ -11921,7 +12051,7 @@
 			"name": "giant chameleon combat trained",
 			"display_name": "giant chameleon (combat-trained)",
 			"file": "equipmentmiscdisplayf957.html",
-			"sources": [],
+			"sources": [ "Animal Archive" ],
 			"equipment_type": "mount or pet",
 			"types": [ "mount or pet" ],
 			"cost": 350,
@@ -11936,7 +12066,7 @@
 			"name": "giant chameleon common",
 			"display_name": "giant chameleon (common)",
 			"file": "equipmentmiscdisplay9ffb.html",
-			"sources": [],
+			"sources": [ "Animal Archive" ],
 			"equipment_type": "mount or pet",
 			"types": [ "mount or pet" ],
 			"cost": 225,
@@ -11947,7 +12077,7 @@
 			"name": "giant frilled lizard combat trained",
 			"display_name": "giant frilled lizard (combat-trained)",
 			"file": "equipmentmiscdisplayc2d8.html",
-			"sources": [],
+			"sources": [ "Animal Archive" ],
 			"equipment_type": "mount or pet",
 			"types": [ "mount or pet" ],
 			"cost": 550,
@@ -11962,7 +12092,7 @@
 			"name": "giant frilled lizard common",
 			"display_name": "giant frilled lizard (common)",
 			"file": "equipmentmiscdisplay1ce5.html",
-			"sources": [],
+			"sources": [ "Animal Archive" ],
 			"equipment_type": "mount or pet",
 			"types": [ "mount or pet" ],
 			"cost": 375,
@@ -12007,7 +12137,7 @@
 			"name": "giant gecko combat trained",
 			"display_name": "giant gecko (combat-trained)",
 			"file": "equipmentmiscdisplayc04b.html",
-			"sources": [],
+			"sources": [ "Animal Archive" ],
 			"equipment_type": "mount or pet",
 			"types": [ "mount or pet" ],
 			"cost": 150,
@@ -12022,7 +12152,7 @@
 			"name": "giant gecko common",
 			"display_name": "giant gecko (common)",
 			"file": "equipmentmiscdisplay783f.html",
-			"sources": [],
+			"sources": [ "Animal Archive" ],
 			"equipment_type": "mount or pet",
 			"types": [ "mount or pet" ],
 			"cost": 100,
@@ -12206,7 +12336,7 @@
 			"name": "giant vulture combat trained",
 			"display_name": "giant vulture (combat-trained)",
 			"file": "equipmentmiscdisplayc8e1.html",
-			"sources": [],
+			"sources": [ "Animal Archive" ],
 			"equipment_type": "mount or pet",
 			"types": [ "mount or pet" ],
 			"cost": 1125,
@@ -12221,7 +12351,7 @@
 			"name": "giant vulture common",
 			"display_name": "giant vulture (common)",
 			"file": "equipmentmiscdisplay84d4.html",
-			"sources": [],
+			"sources": [ "Animal Archive" ],
 			"equipment_type": "mount or pet",
 			"types": [ "mount or pet" ],
 			"cost": 750,
@@ -12407,7 +12537,7 @@
 			"name": "goblin dog combat trained",
 			"display_name": "goblin dog (combat-trained)",
 			"file": "equipmentmiscdisplay903f.html",
-			"sources": [],
+			"sources": [ "Animal Archive" ],
 			"equipment_type": "mount or pet",
 			"types": [ "mount or pet" ],
 			"cost": 50,
@@ -12422,7 +12552,7 @@
 			"name": "goblin dog common",
 			"display_name": "goblin dog (common)",
 			"file": "equipmentmiscdisplay83a3.html",
-			"sources": [],
+			"sources": [ "Animal Archive" ],
 			"equipment_type": "mount or pet",
 			"types": [ "mount or pet" ],
 			"cost": 35,
@@ -13403,7 +13533,7 @@
 		},
 		{
 			"name": "heroka's saga vol i",
-			"display_name": "heroka's saga, vol. i",
+			"display_name": "Heroka's Saga, vol. I",
 			"file": "equipmentmiscdisplaye212.html",
 			"sources": [ "Dungeoneer's Handbook" ],
 			"equipment_type": "dungeon guide",
@@ -13549,6 +13679,7 @@
 			"equipment_type": "lodging or service",
 			"types": [ "lodging or service" ],
 			"cost": 0.3,
+			"weight": 0,
 			"description": [
 				"**Hireling**",
 				"**Source** [Ultimate Equipment pg. 99](source:Ultimate Equipment), [PRPG Core Rulebook pg. 159](source:PRPG Core Rulebook)",
@@ -13568,6 +13699,7 @@
 			"equipment_type": "lodging or service",
 			"types": [ "lodging or service" ],
 			"cost": 0.1,
+			"weight": 0,
 			"copyof": "hireling trained per day"
 		},
 		{
@@ -13578,6 +13710,7 @@
 			"equipment_type": "lodging or service",
 			"types": [ "lodging or service" ],
 			"cost": 10,
+			"weight": 0,
 			"description": [
 				"**Hireling, crier**",
 				"**Source** [Merchant's Manifest pg. 5](source:Merchant's Manifest)",
@@ -13593,6 +13726,7 @@
 			"equipment_type": "lodging or service",
 			"types": [ "lodging or service" ],
 			"cost": 3,
+			"weight": 0,
 			"copyof": "hireling crier masterful per day"
 		},
 		{
@@ -13603,6 +13737,7 @@
 			"equipment_type": "lodging or service",
 			"types": [ "lodging or service" ],
 			"cost": 1,
+			"weight": 0,
 			"copyof": "hireling crier masterful per day"
 		},
 		{
@@ -13613,6 +13748,7 @@
 			"equipment_type": "lodging or service",
 			"types": [ "lodging or service" ],
 			"cost": 0.3,
+			"weight": 0,
 			"copyof": "hireling crier masterful per day"
 		},
 		{
@@ -14122,14 +14258,20 @@
 			"name": "horse heavy",
 			"display_name": "horse (heavy)",
 			"file": "equipmentmiscdisplayfa32.html",
-			"sources": [],
+			"sources": [
+				"Ultimate Equipment",
+				"PRPG Core Rulebook",
+				"Adventurer's Armory"
+			],
 			"equipment_type": "mount or pet",
 			"types": [ "mount or pet" ],
 			"cost": 200,
 			"weight": 2000,
 			"description": [
 				"**Horse**",
-				"**Source**",
+				"**Source** [Ultimate Equipment pg. 81](source:Ultimate Equipment), [PRPG Core Rulebook pg. 159](source:PRPG Core Rulebook), [Adventurer's Armory pg. 19](source:Adventurer's Armory)",
+				"**Price** 200 gp (heavy), 300 gp (heavy, combat trained), 75 gp (light), 110 gp (light, combat trained), 30 gp (pony), 45 gp (pony, combat trained); Weight 2,000 lbs. (heavy), 3,000 lbs. (heavy, combat trained), 900 lbs. (light), 1,200 lbs. (light, combat trained), 800 lbs. (pony), 900 lbs. (pony, combat trained)",
+				"---",
 				"This Large quadruped is used as a mount and pack animal. Horses can be trained for war but otherwise are skittish around battle. Many cultures support breeding programs and often consider their horse the best at whatever task they breed it to perform. More information on horses and ponies can be found in the Bestiary.",
 				"Heavy Horse: These horses are often used as portage animals, pulling significant loads across great distances.",
 				"Heavy Horse (Combat Trained): Heavy warhorses are bred and trained for war. They are often are outfitted with heavy barding, but fight just as fiercely even without the armor.",
@@ -14143,7 +14285,11 @@
 			"name": "horse heavy combat trained",
 			"display_name": "horse (heavy, combat trained)",
 			"file": "equipmentmiscdisplayde76.html",
-			"sources": [],
+			"sources": [
+				"Ultimate Equipment",
+				"PRPG Core Rulebook",
+				"Adventurer's Armory"
+			],
 			"equipment_type": "mount or pet",
 			"types": [ "mount or pet" ],
 			"cost": 300,
@@ -14154,7 +14300,11 @@
 			"name": "horse light",
 			"display_name": "horse (light)",
 			"file": "equipmentmiscdisplay8dd6.html",
-			"sources": [],
+			"sources": [
+				"Ultimate Equipment",
+				"PRPG Core Rulebook",
+				"Adventurer's Armory"
+			],
 			"equipment_type": "mount or pet",
 			"types": [ "mount or pet" ],
 			"cost": 75,
@@ -14165,7 +14315,11 @@
 			"name": "horse light combat trained",
 			"display_name": "horse (light, combat trained)",
 			"file": "equipmentmiscdisplay8645.html",
-			"sources": [],
+			"sources": [
+				"Ultimate Equipment",
+				"PRPG Core Rulebook",
+				"Adventurer's Armory"
+			],
 			"equipment_type": "mount or pet",
 			"types": [ "mount or pet" ],
 			"cost": 110,
@@ -14176,7 +14330,11 @@
 			"name": "horse pony",
 			"display_name": "horse (pony)",
 			"file": "equipmentmiscdisplay7b79.html",
-			"sources": [],
+			"sources": [
+				"Ultimate Equipment",
+				"PRPG Core Rulebook",
+				"Adventurer's Armory"
+			],
 			"equipment_type": "mount or pet",
 			"types": [ "mount or pet" ],
 			"cost": 30,
@@ -14187,7 +14345,11 @@
 			"name": "horse pony combat trained",
 			"display_name": "horse (pony, combat trained)",
 			"file": "equipmentmiscdisplay4739.html",
-			"sources": [],
+			"sources": [
+				"Ultimate Equipment",
+				"PRPG Core Rulebook",
+				"Adventurer's Armory"
+			],
 			"equipment_type": "mount or pet",
 			"types": [ "mount or pet" ],
 			"cost": 45,
@@ -14675,24 +14837,6 @@
 			]
 		},
 		{
-			"name": "incense ten sticks",
-			"display_name": "incense (10 sticks)",
-			"file": "equipmentmiscdisplay4d37.html",
-			"sources": [ "Advanced Race Guide" ],
-			"equipment_type": "adventuring gear",
-			"types": [ "adventuring gear" ],
-			"cost": 10,
-			"weight": 1,
-			"description": [
-				"**Incense (10 sticks)**",
-				"**Source** [Advanced Race Guide pg. 87](source:Advanced Race Guide)",
-				"**Price** 10 gp; **Weight** 1 lb.",
-				"**Category** Adventuring Gear",
-				"---",
-				"This aromatic resin, imbued with fragrant oils, is often formed into sticks, cones, or balls and burned in ceremonies or during meditation. A piece of incense burns for 1 hour."
-			]
-		},
-		{
 			"name": "incense of divinity",
 			"file": "equipmentmiscdisplaye1a5.html",
 			"sources": [ "Alchemy Manual" ],
@@ -14718,19 +14862,23 @@
 		{
 			"name": "incense",
 			"file": "equipmentmiscdisplayab4f.html",
-			"sources": [ "Occult Adventures" ],
+			"sources": [
+				"Advanced Race Guide",
+				"Occult Adventures"
+			],
 			"equipment_type": "adventuring gear",
 			"types": [ "adventuring gear" ],
 			"cost": 0.7,
 			"weight": 0,
 			"description": [
 				"**Incense**",
-				"**Source** [Occult Adventures pg. 249](source:Occult Adventures)",
-				"**Price** 7 sp; **Weight** -",
+				"**Source** [Occult Adventures pg. 249](source:Occult Adventures), [Advanced Race Guide pg. 87](source:Advanced Race Guide)",
+				"**Price** 7 sp; **Weight** 0.1 lb.",
 				"**Category** Adventuring Gear",
 				"---",
 				"This aromatic resin is imbued with fragrant oils and formed into sticks, cones, or balls. It's often burned in religious ceremonies or during meditation. A piece of incense burns for 1 hour."
-			]
+			],
+			"note": "The weight is based on 10 incense sticks weighing 1 pound in the ARG. Note: That book also lists 10 sticks as 10 gold, which conflicts with the OA incense entry."
 		},
 		{
 			"name": "infiltration kit",
@@ -14788,7 +14936,8 @@
 			]
 		},
 		{
-			"name": "ink",
+			"name": "ink black",
+			"display_name": "ink, black",
 			"file": "equipmentmiscdisplaycb43.html",
 			"sources": [
 				"Ultimate Equipment",
@@ -14806,6 +14955,20 @@
 				"---",
 				"This vial contains 1 ounce of ink. Ink in colors other than black costs twice as much."
 			]
+		},
+		{
+			"name": "ink non black",
+			"display_name": "ink, non-black",
+			"file": "equipmentmiscdisplaycb43.html",
+			"sources": [
+				"Ultimate Equipment",
+				"PRPG Core Rulebook"
+			],
+			"equipment_type": "adventuring gear",
+			"types": [ "adventuring gear" ],
+			"cost": 16,
+			"weight": 0,
+			"copyof": "ink black"
 		},
 		{
 			"name": "bioluminescent ink",
@@ -14856,6 +15019,7 @@
 			"equipment_type": "lodging or service",
 			"types": [ "lodging or service" ],
 			"cost": 0.5,
+			"weight": 0,
 			"description": [
 				"**Inn stay**",
 				"**Source** [Ultimate Equipment pg. 99](source:Ultimate Equipment), [PRPG Core Rulebook pg. 159](source:PRPG Core Rulebook)",
@@ -14875,6 +15039,7 @@
 			"equipment_type": "lodging or service",
 			"types": [ "lodging or service" ],
 			"cost": 2,
+			"weight": 0,
 			"copyof": "inn stay common"
 		},
 		{
@@ -14888,6 +15053,7 @@
 			"equipment_type": "lodging or service",
 			"types": [ "lodging or service" ],
 			"cost": 0.2,
+			"weight": 0,
 			"copyof": "inn stay common"
 		},
 		{
@@ -14898,6 +15064,7 @@
 			"equipment_type": "lodging or service",
 			"types": [ "lodging or service" ],
 			"cost": 16,
+			"weight": 0,
 			"copyof": "inn stay common"
 		},
 		{
@@ -14908,6 +15075,7 @@
 			"equipment_type": "lodging or service",
 			"types": [ "lodging or service" ],
 			"cost": [ 32, 99999 ],
+			"weight": 0,
 			"copyof": "inn stay common"
 		},
 		{
@@ -14918,6 +15086,7 @@
 			"equipment_type": "lodging or service",
 			"types": [ "lodging or service" ],
 			"cost": 4,
+			"weight": 0,
 			"copyof": "inn stay common"
 		},
 		{
@@ -15429,17 +15598,6 @@
 			]
 		},
 		{
-			"name": "junk travel per mile",
-			"display_name": "junk (travel, per mile)",
-			"file": "equipmentmiscdisplay568b.html",
-			"sources": [ "Ultimate Equipment" ],
-			"equipment_type": "transport, sea",
-			"types": [ "transport, sea" ],
-			"cost": 0.1,
-			"weight": null,
-			"copyof": "junk"
-		},
-		{
 			"name": "junk",
 			"file": "equipmentmiscdisplay568b.html",
 			"sources": [ "Ultimate Equipment" ],
@@ -15455,6 +15613,17 @@
 				"---",
 				"This flat-bottomed sailing ship has two or three masts with junk-rigged sails, allowing it to be easily sailed by small crews. Junks typically have a high poop deck and no keel."
 			]
+		},
+		{
+			"name": "junk travel per mile",
+			"display_name": "junk (travel, per mile)",
+			"file": "equipmentmiscdisplay568b.html",
+			"sources": [ "Ultimate Equipment" ],
+			"equipment_type": "transport, sea",
+			"types": [ "transport, sea" ],
+			"cost": 0.1,
+			"weight": null,
+			"copyof": "junk"
 		},
 		{
 			"name": "just scale abadar",
@@ -15557,20 +15726,6 @@
 			]
 		},
 		{
-			"name": "keelboat travel per mile",
-			"display_name": "keelboat (travel, per mile)",
-			"file": "equipmentmiscdisplayfee9.html",
-			"sources": [
-				"Ultimate Equipment",
-				"PRPG Core Rulebook"
-			],
-			"equipment_type": "transport, sea",
-			"types": [ "transport, sea" ],
-			"cost": 0.1,
-			"weight": null,
-			"copyof": "keelboat"
-		},
-		{
 			"name": "keelboat",
 			"file": "equipmentmiscdisplayfee9.html",
 			"sources": [
@@ -15589,6 +15744,20 @@
 				"---",
 				"This 50- to 75-foot-long ship is 15 to 20 feet wide and has a dozen oars to supplement its single mast with a square sail. It requires a crew of 8 to 15 to sail and can carry 40 to 50 tons of cargo or 100 soldiers. It can make sea voyages, as well as sail down rivers (thanks to its flat bottom). It moves about 1 mile per hour."
 			]
+		},
+		{
+			"name": "keelboat travel per mile",
+			"display_name": "keelboat (travel, per mile)",
+			"file": "equipmentmiscdisplayfee9.html",
+			"sources": [
+				"Ultimate Equipment",
+				"PRPG Core Rulebook"
+			],
+			"equipment_type": "transport, sea",
+			"types": [ "transport, sea" ],
+			"cost": 0.1,
+			"weight": null,
+			"copyof": "keelboat"
 		},
 		{
 			"name": "key wound rattler",
@@ -15781,10 +15950,11 @@
 			"equipment_type": "lodging or service",
 			"types": [ "lodging or service" ],
 			"cost": 1,
+			"weight": 0,
 			"description": [
 				"**Laundry**",
 				"**Source** [Ultimate Equipment pg. 99](source:Ultimate Equipment)",
-				"**Price** 1 sp , 1 gp (magic); **Weight** - , - (magic)",
+				"**Price** 1 sp, 1 gp (magic); **Weight** -, - (magic)",
 				"The listed price is for up to four items (such as trousers, an undergarment, shirt, and jacket or vest). Additional items may be washed for 3 cp each. Laundry is finished the next day unless you bring it to the washer early. Magical laundry service is a mage (typically an apprentice wizard) magically and instantly cleaning your clothes with prestidigitation."
 			]
 		},
@@ -15795,6 +15965,7 @@
 			"equipment_type": "lodging or service",
 			"types": [ "lodging or service" ],
 			"cost": 0.1,
+			"weight": 0,
 			"copyof": "laundry magic"
 		},
 		{
@@ -15805,6 +15976,7 @@
 			"equipment_type": "lodging or service",
 			"types": [ "lodging or service" ],
 			"cost": 3,
+			"weight": 0,
 			"description": [
 				"**Lawyer**",
 				"**Source** [Ultimate Equipment pg. 99](source:Ultimate Equipment)",
@@ -15820,6 +15992,7 @@
 			"equipment_type": "lodging or service",
 			"types": [ "lodging or service" ],
 			"cost": 10,
+			"weight": 0,
 			"copyof": "lawyer competent"
 		},
 		{
@@ -15830,6 +16003,7 @@
 			"equipment_type": "lodging or service",
 			"types": [ "lodging or service" ],
 			"cost": 0.5,
+			"weight": 0,
 			"copyof": "lawyer competent"
 		},
 		{
@@ -16152,7 +16326,7 @@
 			"name": "lion combat trained",
 			"display_name": "lion (combat-trained)",
 			"file": "equipmentmiscdisplayd5d0.html",
-			"sources": [],
+			"sources": [ "Animal Archive" ],
 			"equipment_type": "mount or pet",
 			"types": [ "mount or pet" ],
 			"cost": 300,
@@ -16167,7 +16341,7 @@
 			"name": "lion common",
 			"display_name": "lion (common)",
 			"file": "equipmentmiscdisplay4228.html",
-			"sources": [],
+			"sources": [ "Animal Archive" ],
 			"equipment_type": "mount or pet",
 			"types": [ "mount or pet" ],
 			"cost": 200,
@@ -16239,6 +16413,7 @@
 		},
 		{
 			"name": "liron treye's journal",
+			"display_name": "Liron Treye's Journal",
 			"file": "equipmentmiscdisplay0ed6.html",
 			"sources": [ "Dungeoneer's Handbook" ],
 			"equipment_type": "dungeon guide",
@@ -16321,14 +16496,16 @@
 			"name": "lizard nex gecko",
 			"display_name": "lizard (nex gecko)",
 			"file": "equipmentmiscdisplaya829.html",
-			"sources": [],
+			"sources": [ "Adventurer's Armory" ],
 			"equipment_type": "mount or pet",
 			"types": [ "mount or pet" ],
 			"cost": 12,
 			"weight": 0.25,
 			"description": [
 				"**Lizard**",
-				"**Source**",
+				"**Source** [Adventurer's Armory pg. 19](source:Adventurer's Armory)",
+				"**Price** 5 cp (common), 12 gp (Nex gecko); Weight 2 oz. (common), 4 oz. (Nex gecko)",
+				"---",
 				"These Tiny cold-blooded animals can be found in all warm regions and are often quite colorful. They eat insects and have the ability to walk up walls and hang upside down. Varieties of more intelligent lizards are often selected by wizards as familiars. More information on lizards can be found in the Bestiary."
 			]
 		},
@@ -16336,7 +16513,7 @@
 			"name": "lizard common",
 			"display_name": "lizard (common)",
 			"file": "equipmentmiscdisplay5b6f.html",
-			"sources": [],
+			"sources": [ "Adventurer's Armory" ],
 			"equipment_type": "mount or pet",
 			"types": [ "mount or pet" ],
 			"cost": 0.05,
@@ -16574,20 +16751,6 @@
 			]
 		},
 		{
-			"name": "longship travel per mile",
-			"display_name": "longship (travel, per mile)",
-			"file": "equipmentmiscdisplayf57a.html",
-			"sources": [
-				"Ultimate Equipment",
-				"PRPG Core Rulebook"
-			],
-			"equipment_type": "transport, sea",
-			"types": [ "transport, sea" ],
-			"cost": 0.05,
-			"weight": null,
-			"copyof": "longship"
-		},
-		{
 			"name": "longship",
 			"file": "equipmentmiscdisplayf57a.html",
 			"sources": [
@@ -16606,6 +16769,20 @@
 				"---",
 				"This 75-foot-long ship with 40 oars requires a total crew of 50. It has a single mast and a square sail, and it can carry 50 tons of cargo or 120 soldiers. A longship can make sea voyages. It moves about 3 miles per hour when being rowed or under sail."
 			]
+		},
+		{
+			"name": "longship travel per mile",
+			"display_name": "longship (travel, per mile)",
+			"file": "equipmentmiscdisplayf57a.html",
+			"sources": [
+				"Ultimate Equipment",
+				"PRPG Core Rulebook"
+			],
+			"equipment_type": "transport, sea",
+			"types": [ "transport, sea" ],
+			"cost": 0.05,
+			"weight": null,
+			"copyof": "longship"
 		},
 		{
 			"name": "lonoma eel",
@@ -17910,6 +18087,7 @@
 			"equipment_type": "lodging or service",
 			"types": [ "lodging or service" ],
 			"cost": 0.02,
+			"weight": 0,
 			"description": [
 				"**Messenger**",
 				"**Source** [Ultimate Equipment pg. 99](source:Ultimate Equipment), [PRPG Core Rulebook pg. 159](source:PRPG Core Rulebook)",
@@ -19081,6 +19259,7 @@
 			"equipment_type": "lodging or service",
 			"types": [ "lodging or service" ],
 			"cost": 0.7,
+			"weight": 0,
 			"description": [
 				"**Nurse**",
 				"**Source** [Ultimate Equipment pg. 99](source:Ultimate Equipment)",
@@ -19152,6 +19331,7 @@
 		},
 		{
 			"name": "observations of oagon",
+			"display_name": "Observations of Oagon",
 			"file": "equipmentmiscdisplay417b.html",
 			"sources": [ "Dungeoneer's Handbook" ],
 			"equipment_type": "dungeon guide",
@@ -19662,14 +19842,16 @@
 			"name": "owl verduran",
 			"display_name": "owl (verduran)",
 			"file": "equipmentmiscdisplay9375.html",
-			"sources": [],
+			"sources": [ "Adventurer's Armory" ],
 			"equipment_type": "mount or pet",
 			"types": [ "mount or pet" ],
 			"cost": 20,
 			"weight": 3,
 			"description": [
 				"**Owl**",
-				"**Source**",
+				"**Source** [Adventurer's Armory pg. 19](source:Adventurer's Armory)",
+				"**Price** 20 gp (common), 20 gp (Verduran); Weight 1–3 lbs. (common), 3 lbs. (Verduran)",
+				"---",
 				"These Tiny birds of prey are mainly nocturnal and are known for their keen eyes and near-silent flight. Owls eat small animals and insects, and can be found in nearly any environment. Some farmers create owl homes near fields and barns to control rodent populations. The smartest owls make excellent familiars. More information on owls can be found in the Bestiary."
 			]
 		},
@@ -19677,7 +19859,7 @@
 			"name": "owl common",
 			"display_name": "owl (common)",
 			"file": "equipmentmiscdisplay1053.html",
-			"sources": [],
+			"sources": [ "Adventurer's Armory" ],
 			"equipment_type": "mount or pet",
 			"types": [ "mount or pet" ],
 			"cost": 20,
@@ -19702,17 +19884,6 @@
 			]
 		},
 		{
-			"name": "pack animal donkey or mule",
-			"display_name": "pack animal (donkey/mule)",
-			"file": "equipmentmiscdisplay7dce.html",
-			"sources": [],
-			"equipment_type": "mount or pet",
-			"types": [ "mount or pet" ],
-			"cost": 8,
-			"weight": 600,
-			"copyof": "pack animal ox"
-		},
-		{
 			"name": "pack animal musk ox",
 			"display_name": "pack animal (musk ox)",
 			"file": "equipmentmiscdisplayd97b.html",
@@ -19734,22 +19905,35 @@
 			"name": "pack animal ox",
 			"display_name": "pack animal (ox)",
 			"file": "equipmentmiscdisplay2059.html",
-			"sources": [],
+			"sources": [ "Adventurer's Armory" ],
 			"equipment_type": "mount or pet",
 			"types": [ "mount or pet" ],
 			"cost": 15,
 			"weight": 2000,
 			"description": [
 				"**Pack Animal**",
-				"**Source**",
+				"**Source** [Adventurer's Armory pg. 19](source:Adventurer's Armory)",
+				"**Price** 8 gp Pack animal (donkey/mule), 15 gp Pack animal (ox), 24 gp Pack animal (yak); Weight 600 lbs. Pack animal (donkey/mule), 1 ton Pack animal (ox), 2 tons Pack animal (yak)",
+				"---",
 				"Working animals are universal, but the animal type varies according to local availability. Elephants carry goods in much of the Mwangi Expanse. Yaks pull loads in mountainous regions. In many other parts of the Inner Sea, donkeys, mules, and oxen pull carts or plows. The donkey market in Katapesh is particularly brisk."
 			]
+		},
+		{
+			"name": "pack animal donkey or mule",
+			"display_name": "pack animal (donkey/mule)",
+			"file": "equipmentmiscdisplay7dce.html",
+			"sources": [ "Adventurer's Armory" ],
+			"equipment_type": "mount or pet",
+			"types": [ "mount or pet" ],
+			"cost": 8,
+			"weight": 600,
+			"copyof": "pack animal ox"
 		},
 		{
 			"name": "pack animal yak",
 			"display_name": "pack animal (yak)",
 			"file": "equipmentmiscdisplay489c.html",
-			"sources": [],
+			"sources": [ "Adventurer's Armory" ],
 			"equipment_type": "mount or pet",
 			"types": [ "mount or pet" ],
 			"cost": 24,
@@ -22236,17 +22420,6 @@
 			]
 		},
 		{
-			"name": "raft travel per mile",
-			"display_name": "raft (travel, per mile)",
-			"file": "equipmentmiscdisplay056b.html",
-			"sources": [ "Ultimate Equipment" ],
-			"equipment_type": "transport, sea",
-			"types": [ "transport, sea" ],
-			"cost": 0.01,
-			"weight": null,
-			"copyof": "raft"
-		},
-		{
 			"name": "raft",
 			"file": "equipmentmiscdisplay056b.html",
 			"sources": [ "Ultimate Equipment" ],
@@ -22262,6 +22435,17 @@
 				"---",
 				"The most basic and primitive type of watercraft, a raft is a simple, flat boat with no hull, often made of logs lashed together. It typically uses two to four oars for propulsion."
 			]
+		},
+		{
+			"name": "raft travel per mile",
+			"display_name": "raft (travel, per mile)",
+			"file": "equipmentmiscdisplay056b.html",
+			"sources": [ "Ultimate Equipment" ],
+			"equipment_type": "transport, sea",
+			"types": [ "transport, sea" ],
+			"cost": 0.01,
+			"weight": null,
+			"copyof": "raft"
 		},
 		{
 			"name": "rager's aid",
@@ -22310,7 +22494,7 @@
 			"name": "ram combat trained",
 			"display_name": "ram (combat-trained)",
 			"file": "equipmentmiscdisplay8f94.html",
-			"sources": [],
+			"sources": [ "Animal Archive" ],
 			"equipment_type": "mount or pet",
 			"types": [ "mount or pet" ],
 			"cost": 50,
@@ -22325,7 +22509,7 @@
 			"name": "ram common",
 			"display_name": "ram (common)",
 			"file": "equipmentmiscdisplay3c3d.html",
-			"sources": [],
+			"sources": [ "Animal Archive" ],
 			"equipment_type": "mount or pet",
 			"types": [ "mount or pet" ],
 			"cost": 25,
@@ -22353,14 +22537,16 @@
 			"name": "rat blue",
 			"display_name": "rat (blue)",
 			"file": "equipmentmiscdisplay29c0.html",
-			"sources": [],
+			"sources": [ "Adventurer's Armory" ],
 			"equipment_type": "mount or pet",
 			"types": [ "mount or pet" ],
 			"cost": 1,
 			"weight": 1,
 			"description": [
 				"**Rat**",
-				"**Source**",
+				"**Source** [Adventurer's Armory pg. 19](source:Adventurer's Armory)",
+				"**Price** 1 gp (blue), 1 cp (common); Weight 1 lb. (blue), 1 lb. (common)",
+				"---",
 				"These Tiny rodents live everywhere and eat nearly anything. Despite having a reputation as disease-ridden scavengers, domesticated rats are clean, loyal creatures that make excellent familiars. More information on rats can be found in the Bestiary."
 			]
 		},
@@ -22368,7 +22554,7 @@
 			"name": "rat common",
 			"display_name": "rat (common)",
 			"file": "equipmentmiscdisplay558e.html",
-			"sources": [],
+			"sources": [ "Adventurer's Armory" ],
 			"equipment_type": "mount or pet",
 			"types": [ "mount or pet" ],
 			"cost": 0.01,
@@ -22651,7 +22837,7 @@
 			"name": "rhinoceros combat trained",
 			"display_name": "rhinoceros (combat-trained)",
 			"file": "equipmentmiscdisplayd344.html",
-			"sources": [],
+			"sources": [ "Animal Archive" ],
 			"equipment_type": "mount or pet",
 			"types": [ "mount or pet" ],
 			"cost": 1500,
@@ -22666,7 +22852,7 @@
 			"name": "rhinoceros common",
 			"display_name": "rhinoceros (common)",
 			"file": "equipmentmiscdisplay2145.html",
-			"sources": [],
+			"sources": [ "Animal Archive" ],
 			"equipment_type": "mount or pet",
 			"types": [ "mount or pet" ],
 			"cost": 1000,
@@ -22781,14 +22967,16 @@
 			"name": "riding rat combat trained",
 			"display_name": "riding rat (combat trained)",
 			"file": "equipmentmiscdisplaycaea-2.html",
-			"sources": [],
+			"sources": [ "Monster Codex" ],
 			"equipment_type": "mount or pet",
 			"types": [ "mount or pet" ],
 			"cost": 75,
 			"weight": 50,
 			"description": [
 				"**Riding rat**",
-				"**Source**",
+				"**Source** [Monster Codex pg. 177](source:Monster Codex)",
+				"**Price** 75 gp (combat trained), 50 gp (common); Weight 50 lbs. (combat trained), 50 lbs. (common)",
+				"---",
 				"Horses, ponies, and other draft animals are ill-suited to living underground for long stretches, so the ratfolk bred a particularly strong type of dire rat to assist in pulling their wagons and serving as mounts for caravan scouts. As rodents, riding rats respond favorably to ratfolk's commands, and the animals' hardiness and omnivorous diet make them very easy to care for even on long journeys through inhospitable terrain. Use the statistics for a dire rat with the giant simple template. A ratfolk with the animal companion, mount, or similar class feature can select a riding rat as her mount."
 			]
 		},
@@ -22796,7 +22984,7 @@
 			"name": "riding rat common",
 			"display_name": "riding rat (common)",
 			"file": "equipmentmiscdisplay2de3.html",
-			"sources": [],
+			"sources": [ "Monster Codex" ],
 			"equipment_type": "mount or pet",
 			"types": [ "mount or pet" ],
 			"cost": 50,
@@ -22847,6 +23035,7 @@
 			"equipment_type": "lodging or service",
 			"types": [ "lodging or service" ],
 			"cost": 0.01,
+			"weight": 0,
 			"description": [
 				"**Road or gate toll**",
 				"**Source** [Ultimate Equipment pg. 99](source:Ultimate Equipment), [PRPG Core Rulebook pg. 159](source:PRPG Core Rulebook)",
@@ -23011,20 +23200,6 @@
 			]
 		},
 		{
-			"name": "rowboat travel per mile",
-			"display_name": "rowboat (travel, per mile)",
-			"file": "equipmentmiscdisplay1818.html",
-			"sources": [
-				"Ultimate Equipment",
-				"PRPG Core Rulebook"
-			],
-			"equipment_type": "transport, sea",
-			"types": [ "transport, sea" ],
-			"cost": 0.02,
-			"weight": null,
-			"copyof": "rowboat"
-		},
-		{
 			"name": "rowboat",
 			"file": "equipmentmiscdisplay1818.html",
 			"sources": [
@@ -23043,6 +23218,20 @@
 				"---",
 				"This 8- to 12-foot-long boat with two oars holds two or three Medium passengers, and is either carried on the deck of a larger ship or moored to a dock onshore. A rowboat moves about 1-1/2 miles per hour."
 			]
+		},
+		{
+			"name": "rowboat travel per mile",
+			"display_name": "rowboat (travel, per mile)",
+			"file": "equipmentmiscdisplay1818.html",
+			"sources": [
+				"Ultimate Equipment",
+				"PRPG Core Rulebook"
+			],
+			"equipment_type": "transport, sea",
+			"types": [ "transport, sea" ],
+			"cost": 0.02,
+			"weight": null,
+			"copyof": "rowboat"
 		},
 		{
 			"name": "royal outfit",
@@ -23283,20 +23472,6 @@
 			]
 		},
 		{
-			"name": "sailing ship travel per mile",
-			"display_name": "sailing ship (travel, per mile)",
-			"file": "equipmentmiscdisplaybb81.html",
-			"sources": [
-				"Ultimate Equipment",
-				"PRPG Core Rulebook"
-			],
-			"equipment_type": "transport, sea",
-			"types": [ "transport, sea" ],
-			"cost": 0.2,
-			"weight": null,
-			"copyof": "sailing ship"
-		},
-		{
 			"name": "sailing ship",
 			"file": "equipmentmiscdisplaybb81.html",
 			"sources": [
@@ -23315,6 +23490,20 @@
 				"---",
 				"This large, seaworthy ship is 75 to 90 feet long, 20 feet wide, and has a crew of 20. It can carry 150 tons of cargo. It has square sails on its two masts and can make sea voyages. It moves about 2 miles per hour."
 			]
+		},
+		{
+			"name": "sailing ship travel per mile",
+			"display_name": "sailing ship (travel, per mile)",
+			"file": "equipmentmiscdisplaybb81.html",
+			"sources": [
+				"Ultimate Equipment",
+				"PRPG Core Rulebook"
+			],
+			"equipment_type": "transport, sea",
+			"types": [ "transport, sea" ],
+			"cost": 0.2,
+			"weight": null,
+			"copyof": "sailing ship"
 		},
 		{
 			"name": "salt tablets ten",
@@ -23665,6 +23854,7 @@
 			"equipment_type": "lodging or service",
 			"types": [ "lodging or service" ],
 			"cost": 10,
+			"weight": 0,
 			"description": [
 				"**Scribe**",
 				"**Source** [Ultimate Equipment pg. 99](source:Ultimate Equipment)",
@@ -23680,6 +23870,7 @@
 			"equipment_type": "lodging or service",
 			"types": [ "lodging or service" ],
 			"cost": 1,
+			"weight": 0,
 			"copyof": "scribe map"
 		},
 		{
@@ -24282,17 +24473,6 @@
 			]
 		},
 		{
-			"name": "ship's boat travel per mile",
-			"display_name": "ship's boat (travel, per mile)",
-			"file": "equipmentmiscdisplaybd95.html",
-			"sources": [ "Ultimate Equipment" ],
-			"equipment_type": "transport, sea",
-			"types": [ "transport, sea" ],
-			"cost": 0.02,
-			"weight": null,
-			"copyof": "ship's boat"
-		},
-		{
 			"name": "ship's boat",
 			"file": "equipmentmiscdisplaybd95.html",
 			"sources": [ "Ultimate Equipment" ],
@@ -24308,6 +24488,17 @@
 				"---",
 				"Ship's boats are usually carried on the decks of larger ships to ferry passengers and cargo."
 			]
+		},
+		{
+			"name": "ship's boat travel per mile",
+			"display_name": "ship's boat (travel, per mile)",
+			"file": "equipmentmiscdisplaybd95.html",
+			"sources": [ "Ultimate Equipment" ],
+			"equipment_type": "transport, sea",
+			"types": [ "transport, sea" ],
+			"cost": 0.02,
+			"weight": null,
+			"copyof": "ship's boat"
 		},
 		{
 			"name": "ship's passage",
@@ -24871,7 +25062,7 @@
 			"description": [
 				"**Slave**",
 				"**Source** [Adventurer's Armory pg. 19](source:Adventurer's Armory)",
-				"**Price** 75 gp , 100 gp (hard labor), 50 gp (household), 100 gp (slip, halfling), 500 gp (specialized); **Weight** 175 lbs. , 200 lbs. (hard labor), 130 lbs. (household), 39 lbs. (slip, halfling), 160 lbs. (specialized)",
+				"**Price** 75 gp, 100 gp (hard labor), 50 gp (household), 100 gp (slip, halfling), 500 gp (specialized); **Weight** 175 lbs., 200 lbs. (hard labor), 130 lbs. (household), 39 lbs. (slip, halfling), 160 lbs. (specialized)",
 				"Sentient creatures sold to perform a multitude of tasks all fall under the category of slaves. Most slaves are kept to do menial jobs, but sometimes slaves perform specialized tasks such as spellcasting or teaching. Slaves vary in quality; the price may be half as much for old or infirm slaves, or several times more for healthy, attractive specimens."
 			]
 		},
@@ -24936,17 +25127,6 @@
 			]
 		},
 		{
-			"name": "sled travel per mile",
-			"display_name": "sled (travel, per mile)",
-			"file": "equipmentmiscdisplay1698.html",
-			"sources": [ "PRPG Core Rulebook" ],
-			"equipment_type": "transport, land",
-			"types": [ "transport, land" ],
-			"cost": 0,
-			"weight": null,
-			"copyof": "sled"
-		},
-		{
 			"name": "sled",
 			"file": "equipmentmiscdisplay1698.html",
 			"sources": [ "PRPG Core Rulebook" ],
@@ -24962,6 +25142,17 @@
 				"---",
 				"This is a wagon on runners for snow and ice travel. In general, two horses (or other beasts of burden) draw it. A sled comes with the harness needed to pull it."
 			]
+		},
+		{
+			"name": "sled travel per mile",
+			"display_name": "sled (travel, per mile)",
+			"file": "equipmentmiscdisplay1698.html",
+			"sources": [ "PRPG Core Rulebook" ],
+			"equipment_type": "transport, land",
+			"types": [ "transport, land" ],
+			"cost": 0,
+			"weight": null,
+			"copyof": "sled"
 		},
 		{
 			"name": "sledge",
@@ -25001,17 +25192,6 @@
 			]
 		},
 		{
-			"name": "sleigh travel per mile",
-			"display_name": "sleigh (travel, per mile)",
-			"file": "equipmentmiscdisplay77c6.html",
-			"sources": [ "Ultimate Equipment" ],
-			"equipment_type": "transport, land",
-			"types": [ "transport, land" ],
-			"cost": 0.02,
-			"weight": null,
-			"copyof": "sleigh"
-		},
-		{
 			"name": "sleigh",
 			"file": "equipmentmiscdisplay77c6.html",
 			"sources": [ "Ultimate Equipment" ],
@@ -25027,6 +25207,17 @@
 				"---",
 				"This wagon has runners, making it an ideal conveyance for snow and ice travel. In general, two horses (or other beasts of burden) are needed to draw it. A sled comes with the harness required to pull it."
 			]
+		},
+		{
+			"name": "sleigh travel per mile",
+			"display_name": "sleigh (travel, per mile)",
+			"file": "equipmentmiscdisplay77c6.html",
+			"sources": [ "Ultimate Equipment" ],
+			"equipment_type": "transport, land",
+			"types": [ "transport, land" ],
+			"cost": 0.02,
+			"weight": null,
+			"copyof": "sleigh"
 		},
 		{
 			"name": "slow heart concoction",
@@ -25215,6 +25406,7 @@
 			"equipment_type": "transport, land",
 			"types": [ "transport, land" ],
 			"cost": -1,
+			"weight": 0,
 			"description": [
 				"**Smuggler's wagon**",
 				"**Source** [Villain Codex pg. 116](source:Villain Codex)",
@@ -25795,6 +25987,7 @@
 			"equipment_type": "lodging or service",
 			"types": [ "lodging or service" ],
 			"cost": -1,
+			"weight": 0,
 			"description": [
 				"**Spellcasting**",
 				"**Source** [Ultimate Equipment pg. 99](source:Ultimate Equipment), [PRPG Core Rulebook pg. 159](source:PRPG Core Rulebook)",
@@ -28089,7 +28282,7 @@
 			"name": "tiger combat trained",
 			"display_name": "tiger (combat-trained)",
 			"file": "equipmentmiscdisplay3983.html",
-			"sources": [],
+			"sources": [ "Animal Archive" ],
 			"equipment_type": "mount or pet",
 			"types": [ "mount or pet" ],
 			"cost": 500,
@@ -28104,7 +28297,7 @@
 			"name": "tiger common",
 			"display_name": "tiger (common)",
 			"file": "equipmentmiscdisplay3849.html",
-			"sources": [],
+			"sources": [ "Animal Archive" ],
 			"equipment_type": "mount or pet",
 			"types": [ "mount or pet" ],
 			"cost": 325,
@@ -28753,6 +28946,36 @@
 			]
 		},
 		{
+			"name": "treasure chest small",
+			"display_name": "treasure chest (small)",
+			"file": "equipmentmiscdisplay7041.html",
+			"sources": [
+				"Adventurer's Armory 2",
+				"Pirates of the Inner Sea"
+			],
+			"equipment_type": "adventuring gear",
+			"types": [ "adventuring gear" ],
+			"cost": 3,
+			"weight": 25,
+			"description": [
+				"**Treasure chest**",
+				"**Source** [Adventurer's Armory 2 pg. 12](source:Adventurer's Armory 2)",
+				"**Price** 7 gp (medium), 37 gp (huge), 15 gp (large), 3 gp (small); **Weight** 50 lbs. (medium), 250 lbs. (huge), 100 lbs. (large), 25 lbs. (small)",
+				"A treasure chest is a common wooden chest treated with resin to make the wood water-resistant. Metal bands, usually bronze to prevent rusting, are strapped around the treasure chest for extra reinforcement, and the lock is also typically made of bronze. A treasure chest uses the statistics of an ordinary wooden chest, but its hit points increase by 25% and its break DC increases by 2. Treasure chests are waterproof and withstand being buried better than ordinary chests"
+			]
+		},
+		{
+			"name": "treasure chest medium",
+			"display_name": "treasure chest (medium)",
+			"file": "equipmentmiscdisplayf80a.html",
+			"sources": [ "Adventurer's Armory 2" ],
+			"equipment_type": "adventuring gear",
+			"types": [ "adventuring gear" ],
+			"cost": 7,
+			"weight": 50,
+			"copyof": "treasure chest small"
+		},
+		{
 			"name": "treasure chest huge",
 			"display_name": "treasure chest (huge)",
 			"file": "equipmentmiscdisplaya86c.html",
@@ -28764,7 +28987,7 @@
 			"types": [ "adventuring gear" ],
 			"cost": 37,
 			"weight": 250,
-			"copyof": "treasure chest medium"
+			"copyof": "treasure chest small"
 		},
 		{
 			"name": "treasure chest large",
@@ -28778,37 +29001,7 @@
 			"types": [ "adventuring gear" ],
 			"cost": 15,
 			"weight": 100,
-			"copyof": "treasure chest medium"
-		},
-		{
-			"name": "treasure chest medium",
-			"display_name": "treasure chest (medium)",
-			"file": "equipmentmiscdisplayf80a.html",
-			"sources": [ "Adventurer's Armory 2" ],
-			"equipment_type": "adventuring gear",
-			"types": [ "adventuring gear" ],
-			"cost": 7,
-			"weight": 50,
-			"description": [
-				"**Treasure chest**",
-				"**Source** [Adventurer's Armory 2 pg. 12](source:Adventurer's Armory 2)",
-				"**Price** 7 gp (medium), 37 gp (huge), 15 gp (large), 3 gp (small); **Weight** 50 lbs. (medium), 250 lbs. (huge), 100 lbs. (large), 25 lbs. (small)",
-				"A treasure chest is a common wooden chest treated with resin to make the wood water-resistant. Metal bands, usually bronze to prevent rusting, are strapped around the treasure chest for extra reinforcement, and the lock is also typically made of bronze. A treasure chest uses the statistics of an ordinary wooden chest, but its hit points increase by 25% and its break DC increases by 2. Treasure chests are waterproof and withstand being buried better than ordinary chests"
-			]
-		},
-		{
-			"name": "treasure chest small",
-			"display_name": "treasure chest (small)",
-			"file": "equipmentmiscdisplay7041.html",
-			"sources": [
-				"Adventurer's Armory 2",
-				"Pirates of the Inner Sea"
-			],
-			"equipment_type": "adventuring gear",
-			"types": [ "adventuring gear" ],
-			"cost": 3,
-			"weight": 25,
-			"copyof": "treasure chest medium"
+			"copyof": "treasure chest small"
 		},
 		{
 			"name": "trekking pole",
@@ -29236,6 +29429,7 @@
 			"equipment_type": "lodging or service",
 			"types": [ "lodging or service" ],
 			"cost": 1,
+			"weight": 0,
 			"description": [
 				"**Valet**",
 				"**Source** [Ultimate Equipment pg. 99](source:Ultimate Equipment)",
@@ -29680,17 +29874,6 @@
 			"copyof": "waffle iron common"
 		},
 		{
-			"name": "wagon heavy travel per mile",
-			"display_name": "wagon (heavy) (travel, per mile)",
-			"file": "equipmentmiscdisplay259a.html",
-			"sources": [ "Ultimate Equipment" ],
-			"equipment_type": "transport, land",
-			"types": [ "transport, land" ],
-			"cost": 0.03,
-			"weight": null,
-			"copyof": "wagon heavy"
-		},
-		{
 			"name": "wagon heavy",
 			"display_name": "wagon (heavy)",
 			"file": "equipmentmiscdisplay259a.html",
@@ -29708,6 +29891,17 @@
 				"Medium Wagon: Wagons of this type are typically employed for heavy duty work, often in agricultural, mining, or construction settings. A medium wagon can carry up to 2,000 pounds of cargo and requires four Medium or two Large creatures to pull it.",
 				"Heavy Wagon: Wagons of this type are large, fourwheeled vehicles primarily used in caravans to transport goods over long stretches of territory. A heavy wagon carries up to 4,000 pounds of cargo, and is pulled by either eight Medium creatures or four Large creatures."
 			]
+		},
+		{
+			"name": "wagon heavy travel per mile",
+			"display_name": "wagon (heavy) (travel, per mile)",
+			"file": "equipmentmiscdisplay259a.html",
+			"sources": [ "Ultimate Equipment" ],
+			"equipment_type": "transport, land",
+			"types": [ "transport, land" ],
+			"cost": 0.03,
+			"weight": null,
+			"copyof": "wagon heavy"
 		},
 		{
 			"name": "wagon light",
@@ -29850,20 +30044,6 @@
 			]
 		},
 		{
-			"name": "warship travel per mile",
-			"display_name": "warship (travel, per mile)",
-			"file": "equipmentmiscdisplay1283.html",
-			"sources": [
-				"Ultimate Equipment",
-				"PRPG Core Rulebook"
-			],
-			"equipment_type": "transport, sea",
-			"types": [ "transport, sea" ],
-			"cost": 0.2,
-			"weight": null,
-			"copyof": "warship"
-		},
-		{
 			"name": "warship",
 			"file": "equipmentmiscdisplay1283.html",
 			"sources": [
@@ -29882,6 +30062,20 @@
 				"---",
 				"This 100-foot-long ship has a single mast, although oars can also propel it. It has a crew of 60 to 80 rowers. This ship can carry 160 soldiers, but not for long distances, since there isn't room for supplies to support that many people. A warship cannot make sea voyages and sticks to the coast. It is not used for cargo. It moves about 2-1/2 miles per hour when being rowed or under sail."
 			]
+		},
+		{
+			"name": "warship travel per mile",
+			"display_name": "warship (travel, per mile)",
+			"file": "equipmentmiscdisplay1283.html",
+			"sources": [
+				"Ultimate Equipment",
+				"PRPG Core Rulebook"
+			],
+			"equipment_type": "transport, sea",
+			"types": [ "transport, sea" ],
+			"cost": 0.2,
+			"weight": null,
+			"copyof": "warship"
 		},
 		{
 			"name": "wasp metheglin",
@@ -30935,20 +31129,6 @@
 			"copyof": "woolly mammoth combat trained"
 		},
 		{
-			"name": "woolly rhinoceros combat trained",
-			"display_name": "woolly rhinoceros (combat-trained)",
-			"file": "equipmentmiscdisplay0b7d.html",
-			"sources": [
-				"Belkzen, Hold of the Orc Hordes",
-				"Animal Archive"
-			],
-			"equipment_type": "mount or pet",
-			"types": [ "mount or pet" ],
-			"cost": 3000,
-			"weight": 6000,
-			"copyof": "woolly rhinoceros common"
-		},
-		{
 			"name": "woolly rhinoceros common",
 			"display_name": "woolly rhinoceros (common)",
 			"file": "equipmentmiscdisplaye395.html",
@@ -30963,6 +31143,20 @@
 				"**Price** 3,000 gp (combat-trained), 2,000 gp (common), 2,000 gp (normal); **Weight** 3 tons (combat-trained), - (common), 3 tons (normal)",
 				"*Description from \"Riding Animals\" section of Animal Archive, page 14:* When reared from birth, the following animals can easily be ridden by Small or Medium humanoids, depending on the riding animal's size. In addition, most of these animals can be purchased already trained for combat.Poached from the Realm of the Mammoth Lords, these hairy pachyderms are used by the orcs of Belkzen as mounts and living siege engines. As if these mounts weren't intimidating enough, the orcs outfit them with spiked metal barding and tusk blades."
 			]
+		},
+		{
+			"name": "woolly rhinoceros combat trained",
+			"display_name": "woolly rhinoceros (combat-trained)",
+			"file": "equipmentmiscdisplay0b7d.html",
+			"sources": [
+				"Belkzen, Hold of the Orc Hordes",
+				"Animal Archive"
+			],
+			"equipment_type": "mount or pet",
+			"types": [ "mount or pet" ],
+			"cost": 3000,
+			"weight": 6000,
+			"copyof": "woolly rhinoceros common"
 		},
 		{
 			"name": "woolly rhinoceros normal",
