@@ -1,18 +1,22 @@
 {
 	"table": {
 		"group_by": "enhances",
-		"columns": [
+		"groups": [
 			{
-				"header": "${enhances === 'shield' ? 'Shield' : 'Armor'} Enhancements",
-				"cell": "${name.slice(0,1).toUpperCase()}${name.slice(1)}"
-			},
-			{
-				"header": "Cost Adjustment",
-				"cell": "+${cost_adjustment} gp"
-			},
-			{
-				"header": "Weight Adjustment",
-				"cell": "${weight_adjustment < 0 ? '' : '+'}${weight_adjustment} lb${weight_adjustment === 1 ? '' : 's'}."
+				"columns": [
+					{
+						"header": "${enhances === 'shield' ? 'Shield' : 'Armor'} Enhancements",
+						"cell": "${name.slice(0,1).toUpperCase()}${name.slice(1)}"
+					},
+					{
+						"header": "Cost Adjustment",
+						"cell": "+${cost_adjustment} gp"
+					},
+					{
+						"header": "Weight Adjustment",
+						"cell": "${weight_adjustment < 0 ? '' : '+'}${weight_adjustment} lb${weight_adjustment === 1 ? '' : 's'}."
+					}
+				]
 			}
 		]
 	},

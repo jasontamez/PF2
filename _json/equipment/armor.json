@@ -1,42 +1,46 @@
 {
 	"table": {
 		"group_by": "armor_type",
-		"columns": [
+		"groups": [
 			{
-				"header": "${armor_type === 'shield' ? 'Shields' : armor_type.slice(0,1).toUpperCase() + armor_type.slice(1) + ' Armor'}",
-				"cell": "${name}"
-			},
-			{
-				"header": "Cost",
-				"cell": "${cost} gp"
-			},
-			{
-				"header": "Armor/Shield bonus",
-				"cell": "+${armor_bonus}"
-			},
-			{
-				"header": "Max Dex Bonus",
-				"cell": "${max_dex_bonus === 999 ? '-' : '+' + max_dex_bonus}"
-			},
-			{
-				"header": "Armor Check Penalty",
-				"cell": "${armor_check_penalty}"
-			},
-			{
-				"header": "Arcane Spell Failure Chance",
-				"cell": "${arcane_spell_failure_chance}%"
-			},
-			{
-				"header": "Speed 30ft",
-				"cell": "${armor_type === 'shield' ? '-' : (30 - base_30_speed_reduction) + ' ft.'}"
-			},
-			{
-				"header": "Speed 20ft",
-				"cell": "${armor_type === 'shield' ? '-' : (20 - base_20_speed_reduction) + ' ft.'}"
-			},
-			{
-				"header": "Weight",
-				"cell": "${weight} lb${weight === 1 || (weight > 0 && weight < 1) ? '' : 's'}."
+				"columns": [
+					{
+						"header": "${armor_type === 'shield' ? 'Shields' : armor_type.slice(0,1).toUpperCase() + armor_type.slice(1) + ' Armor'}",
+						"cell": "${name}"
+					},
+					{
+						"header": "Cost",
+						"cell": "${cost} gp"
+					},
+					{
+						"header": "Armor/Shield bonus",
+						"cell": "+${armor_bonus}"
+					},
+					{
+						"header": "Max Dex Bonus",
+						"cell": "${max_dex_bonus === 999 ? '-' : '+' + max_dex_bonus}"
+					},
+					{
+						"header": "Armor Check Penalty",
+						"cell": "${armor_check_penalty}"
+					},
+					{
+						"header": "Arcane Spell Failure Chance",
+						"cell": "${arcane_spell_failure_chance}%"
+					},
+					{
+						"header": "Speed 30ft",
+						"cell": "${armor_type === 'shield' ? '-' : (30 - base_30_speed_reduction) + ' ft.'}"
+					},
+					{
+						"header": "Speed 20ft",
+						"cell": "${armor_type === 'shield' ? '-' : (20 - base_20_speed_reduction) + ' ft.'}"
+					},
+					{
+						"header": "Weight",
+						"cell": "${weight} lb${weight === 1 || (weight > 0 && weight < 1) ? '' : 's'}."
+					}
+				]
 			}
 		]
 	},

@@ -1,5 +1,132 @@
 {
 	"category": "siege weapon",
+	"table": {
+		"group_by": "weapon_type",
+		"groups": [
+			{
+				"group": "ammunition",
+				"columns": [
+					{
+						"header": "Ammunition",
+						"cell": "${name}"
+					},
+					{
+						"header": "Cost",
+						"cell": "${cost} gp"
+					},
+					{
+						"header": "Weight",
+						"cell": "${weight} lbs."
+					}
+				]
+			},
+			{
+				"group": "close assault",
+				"defaults": {
+					"bludgeoning": false,
+					"piercing": false,
+					"crit_multiplier": 0,
+					"damage": false
+				},
+				"columns": [
+					{
+						"header": "Close Assault",
+						"cell": "${name}"
+					},
+					{
+						"header": "Size",
+						"cell": "${size} gp"
+					},
+					{
+						"header": "Cost",
+						"cell": "${cost} gp"
+					},
+					{
+						"header": "Weight",
+						"cell": "${weight} lbs."
+					},
+					{
+						"header": "Dmg",
+						"cell": "%{damage || '-'}"
+					},
+					{
+						"header": "Critical",
+						"cell": "${crit_multiplier ? 'x' + crit_multiplier : '-'}"
+					},
+					{
+						"header": "Type",
+						"cell": "${bludgeoning ? 'B' : (piercing ? 'P' : '-')}"
+					},
+					{
+						"header": "Crew",
+						"cell": "${crew}"
+					},
+					{
+						"header": "Speed",
+						"cell": "${speed} ft."
+					}
+				]
+			},
+			{
+				"defaults": {
+					"bludgeoning": false,
+					"piercing": false,
+					"slashing": false,
+					"crit_range": 0,
+					"crit_multiplier": 0,
+					"range": -1,
+					"range_min": 0,
+					"damage_type": false
+				},
+				"columns": [
+					{
+						"header": "${weapon_type.slice(0,1) === 'i' ? 'Ind' : 'D'}irect-Fire",
+						"cell": "${name}"
+					},
+					{
+						"header": "Size",
+						"cell": "${size}"
+					},
+					{
+						"header": "Cost",
+						"cell": "${cost} gp"
+					},
+					{
+						"header": "Dmg",
+						"cell": "%{damage}"
+					},
+					{
+						"header": "Critical",
+						"cell": "${crit_range ? crit_range + '-20/' : ''}${crit_multiplier ? 'x' + crit_multiplier : '-'}"
+					},
+					{
+						"header": "Range",
+						"cell": "${range === -1 ? '-' : (range < 0 ? 'see text' : range + ' ft.')}${range_min ? ' (' + range_min + ' ft. min.)'}"
+					},
+					{
+						"header": "Type",
+						"cell": "${damage_type || (bludgeoning && piercing ? 'B and P' : (bludgeoning ? 'B' : (piercing ? 'P' : (slashing ? 'S' : '-'))))}"
+					},
+					{
+						"header": "Crew",
+						"cell": "${crew}"
+					},
+					{
+						"header": "Aim",
+						"cell": "${aim}"
+					},
+					{
+						"header": "Load",
+						"cell": "${load}"
+					},
+					{
+						"header": "Speed",
+						"cell": "${speed} ft."
+					}
+				]
+			}
+		]
+	},
 	"list": [
 		{
 			"name": "alchemist's fire",

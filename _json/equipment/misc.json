@@ -6,18 +6,22 @@
 	"category": "equipment",
 	"table": {
 		"group_by": "equipment_type",
-		"columns": [
+		"groups": [
 			{
-				"header": "${equipment_type.slice(0,1).toUpperCase()}${equipment_type.slice(1)}",
-				"cell": "${name}"
-			},
-			{
-				"header": "Cost",
-				"cell": "${(!Array.isArray(cost) ? (cost < 0 ? 'Variable' : (Number.isInteger(cost) ? String(cost) + ' gp' : (Number.isInteger(cost * 10) ? String(cost*10) + ' sp' : String(cost*100) + ' cp'))) : ((Number.isInteger(cost[0]) ? String(cost[0]) + ' gp' : (Number.isInteger(cost[0] * 10) ? String(cost[0]*10) + ' sp' : String(cost[0]*100) + ' cp')) + ' - ' + (Number.isInteger(cost[1]) ? String(cost[1]) + ' gp' : (Number.isInteger(cost[1] * 10) ? String(cost[1]*10) + ' sp' : String(cost[1]*100) + ' cp')))).replace(/ ([gcs])p - ([0-9]+) \\1p/,'-$2 $1p')}"
-			},
-			{
-				"header": "Weight",
-				"cell": "${Array.isArray(weight) ? String(weight[0])+'-'+String(weight[1])+' lbs.' : (weight < 0 ? 'Variable' : String(weight)+(weight === 1 ? ' lb.' : ' lbs.'))}"
+				"columns": [
+					{
+						"header": "${equipment_type.slice(0,1).toUpperCase()}${equipment_type.slice(1)}",
+						"cell": "${name}"
+					},
+					{
+						"header": "Cost",
+						"cell": "${(!Array.isArray(cost) ? (cost < 0 ? 'Variable' : (Number.isInteger(cost) ? String(cost) + ' gp' : (Number.isInteger(cost * 10) ? String(cost*10) + ' sp' : String(cost*100) + ' cp'))) : ((Number.isInteger(cost[0]) ? String(cost[0]) + ' gp' : (Number.isInteger(cost[0] * 10) ? String(cost[0]*10) + ' sp' : String(cost[0]*100) + ' cp')) + ' - ' + (Number.isInteger(cost[1]) ? String(cost[1]) + ' gp' : (Number.isInteger(cost[1] * 10) ? String(cost[1]*10) + ' sp' : String(cost[1]*100) + ' cp')))).replace(/ ([gcs])p - ([0-9]+) \\1p/,'-$2 $1p')}"
+					},
+					{
+						"header": "Weight",
+						"cell": "${Array.isArray(weight) ? String(weight[0])+'-'+String(weight[1])+' lbs.' : (weight < 0 ? 'Variable' : String(weight)+(weight === 1 ? ' lb.' : ' lbs.'))}"
+					}
+				]
 			}
 		]
 	},

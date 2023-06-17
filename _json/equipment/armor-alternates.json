@@ -1,18 +1,22 @@
 {
 	"table": {
 		"group_by": "equipment_type",
-		"columns": [
+		"groups": [
 			{
-				"header": "${equipment_type.slice(0,1).toUpperCase()}${equipment_type.slice(1)}",
-				"cell": "${name.slice(0,1).toUpperCase()}${name.slice(1)}"
-			},
-			{
-				"header": "Cost Adjustment",
-				"cell": "x${cost_multiplier}"
-			},
-			{
-				"header": "Weight Adjustment",
-				"cell": "x${weight_multiplier}"
+				"columns": [
+					{
+						"header": "${equipment_type.slice(0,1).toUpperCase()}${equipment_type.slice(1)}",
+						"cell": "${name.slice(0,1).toUpperCase()}${name.slice(1)}"
+					},
+					{
+						"header": "Cost Adjustment",
+						"cell": "x${cost_multiplier}"
+					},
+					{
+						"header": "Weight Adjustment",
+						"cell": "x${weight_multiplier}"
+					}
+				]
 			}
 		]
 	},
