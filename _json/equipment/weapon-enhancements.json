@@ -3,18 +3,21 @@
 		"group_by": "enhances",
 		"groups": [
 			{
+				"defaults": {
+					"display_name": false
+				},
 				"columns": [
 					{
-						"header": "${enhances === 'shield' ? 'Shield' : 'Armor'} Enhancements",
-						"cell": "${name.slice(0,1).toUpperCase()}${name.slice(1)}"
+						"header": "Weapon Enhancements",
+						"cell": "${(display_name || name).slice(0,1).toUpperCase()}${(display_name || name).slice(1)}"
 					},
 					{
 						"header": "Cost Adjustment",
-						"cell": "+${cost} gp"
+						"cell": "+${cost_adjustment} gp"
 					},
 					{
 						"header": "Weight Adjustment",
-						"cell": "+${weight} lb${weight === 1 ? '' : 's'}."
+						"cell": "+${weight_adjustment} lb${weight_adjustment === 1 ? '' : 's'}."
 					}
 				]
 			}
@@ -23,26 +26,6 @@
 	"category": "enhancements",
 	"value_type": "feature",
 	"list": [
-		{
-			"name": "armor spikes",
-			"file": "equipmentarmordisplay649c.html",
-			"sources": [
-				"Ultimate Equipment",
-				"PRPG Core Rulebook"
-			],
-			"enhances": "armor",
-			"types": [ "armor" ],
-			"cost_adjustment": 50,
-			"weight_adjustment": 10,
-			"description": [
-				"**Armor spikes**",
-				"**Source** [Ultimate Equipment pg. 9](source:Ultimate Equipment), [PRPG Core Rulebook pg. 151](source:PRPG Core Rulebook)",
-				"---",
-				"**Cost** +50 gp **Weight** +10 lbs.",
-				"---",
-				"You can have spikes added to your armor, which allow you to deal extra piercing damage on a successful grapple attack (see [\"spiked armor\"](unknown:spiked armor)). The spikes count as a martial weapon. If you are not proficient with them, you take a -4 penalty on grapple checks when you try to use them. You can also make a regular melee attack (or off-hand attack) with the spikes, and they count as a light weapon in this case. (You can't also make an attack with armor spikes if you have already made an attack with another off-hand weapon, and vice versa.) An enhancement bonus to a suit of armor does not improve the spikes' effectiveness, but the spikes can be made into magic weapons in their own right."
-			]
-		},
 		{
 			"name": "consecrated weapon ",
 			"file": "equipmentmiscdisplay0b21.html",

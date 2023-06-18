@@ -49,7 +49,7 @@ export function getNearbyAlignments (alignment) {
 // const decoder = makeTemplateDecoder({prop: value, prop: value...});
 // decoder("${variable} pseudo-template string")
 
-const makeTemplateDecoder = (obj) => {
+export const makeTemplateDecoder = (obj) => {
 	const props = Object.keys(obj);
 	const values = props.map(p => obj[p]);
 	return function (text) {

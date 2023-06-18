@@ -1,5 +1,250 @@
 {
 	"category": "weapon",
+	"value_type": "feature",
+	"table": {
+		"group_by": "weapon_type",
+		"groups": [
+			{
+				"group": "alchemical",
+				"defaults": {
+					"display_name": false
+				},
+				"columns": [
+					{
+						"header": "Alchemical Weapons",
+						"cell": "${display_name || name}"
+					},
+					{
+						"header": "Cost",
+						"cell": "${cost} gp"
+					},
+					{
+						"header": "Weight",
+						"cell": "${weight} lb${weight === 1 || (weight > 0 && weight < 1) ? '' : 's'}."
+					}
+				]
+			},
+			{
+				"group": "firearm gear",
+				"defaults": {
+					"display_name": false
+				},
+				"columns": [
+					{
+						"header": "Firearm Gear",
+						"cell": "${display_name || name}"
+					},
+					{
+						"header": "Cost",
+						"cell": "${cost} gp"
+					},
+					{
+						"header": "Weight",
+						"cell": "${weight} lb${weight === 1 || (weight > 0 && weight < 1) ? '' : 's'}."
+					}
+				]
+			},
+			{
+				"group": "firearm ammunition",
+				"defaults": {
+					"display_name": false
+				},
+				"columns": [
+					{
+						"header": "Firearm Ammunition",
+						"cell": "${display_name || name}"
+					},
+					{
+						"header": "Cost",
+						"cell": "${cost} gp"
+					},
+					{
+						"header": "Weight",
+						"cell": "${weight} lb${weight === 1 || (weight > 0 && weight < 1) ? '' : 's'}."
+					}
+				]
+			},
+			{
+				"group": "firearm",
+				"defaults": {
+					"damage_s": "-",
+					"damage_m": "-",
+					"crit_range": 0,
+					"crit_multiplier": 0,
+					"range": -1,
+					"damage_type": false,
+					"piercing": false,
+					"slashing": false,
+					"bludgeoning": false,
+					"misfire_range": 0,
+					"misfire_burst": 0,
+					"special": "-",
+					"display_name": false
+				},
+				"columns": [
+					{
+						"header": "Firearms",
+						"cell": "${display_name || name}"
+					},
+					{
+						"header": "Category",
+						"cell": "${weapon_subtype}"
+					},
+					{
+						"header": "Era",
+						"cell": "${era}"
+					},
+					{
+						"header": "Cost",
+						"cell": "${cost} gp"
+					},
+					{
+						"header": "Dmg (S)",
+						"cell": "${damage_s}"
+					},
+					{
+						"header": "Dmg (M)",
+						"cell": "${damage_m}"
+					},
+					{
+						"header": "Range",
+						"cell": "${range === -1 ? '-' : (range < 0 ? 'special' : range + ' ft.')}"
+					},
+					{
+						"header": "Misfire",
+						"cell": "${misfire_range ? '1-' + misfire_range : '1'}${misfire_burst ? (misfire_burst > 0 ? ' (' + misfire_burst + ' ft.)' : ' (see text)') : ''}"
+					},
+					{
+						"header": "Capacity",
+						"cell": "${capacity}"
+					},
+					{
+						"header": "Weight",
+						"cell": "${weight} lb${(weight === 1 || (weight > 0 && weight < 1)) ? '' : 's'}."
+					},
+					{
+						"header": "Type",
+						"cell": "${damage_type || (bludgeoning ? 'B' : (piercing ? 'P' : (slashing ? 'S' : '-')))}"
+					},
+					{
+						"header": "Special",
+						"cell": "${special}"
+					}
+				]
+			},
+			{
+				"group": "ammunition",
+				"defaults": {
+					"damage_s": "-",
+					"damage_m": "-",
+					"crit_range": 0,
+					"crit_multiplier": 0,
+					"range": -1,
+					"damage_type": false,
+					"piercing": false,
+					"slashing": false,
+					"bludgeoning": false,
+					"special": "-",
+					"display_name": false
+				},
+				"columns": [
+					{
+						"header": "${GROUP.slice(0,1).toUpperCase()}${GROUP.slice(1)}",
+						"cell": "${display_name || name}"
+					},
+					{
+						"header": "Cost",
+						"cell": "${cost} gp"
+					},
+					{
+						"header": "Dmg (S)",
+						"cell": "${damage_s}"
+					},
+					{
+						"header": "Dmg (M)",
+						"cell": "${damage_m}"
+					},
+					{
+						"header": "Critical",
+						"cell": "${crit_range ? crit_range + '-20/' : ''}${crit_multiplier ? 'x' + crit_multiplier : '-'}"
+					},
+					{
+						"header": "Range",
+						"cell": "${range === -1 ? '-' : (range < 0 ? 'see text' : range + ' ft.')}"
+					},
+					{
+						"header": "Weight",
+						"cell": "${weight} lb${weight === 1 || (weight > 0 && weight < 1) ? '' : 's'}."
+					},
+					{
+						"header": "Type",
+						"cell": "${damage_type || (bludgeoning ? 'B' : (piercing ? 'P' : (slashing ? 'S' : '-')))}"
+					},
+					{
+						"header": "Special",
+						"cell": "${special}"
+					}
+				]
+			},
+			{
+				"defaults": {
+					"damage_s": "-",
+					"damage_m": "-",
+					"crit_range": 0,
+					"crit_multiplier": 0,
+					"range": -1,
+					"damage_type": false,
+					"piercing": false,
+					"slashing": false,
+					"bludgeoning": false,
+					"special": "-",
+					"display_name": false
+				},
+				"columns": [
+					{
+						"header": "${GROUP.slice(0,1).toUpperCase()}${GROUP.slice(1)} Weapons",
+						"cell": "${display_name || name}"
+					},
+					{
+						"header": "Category",
+						"cell": "${weapon_subtype}"
+					},
+					{
+						"header": "Cost",
+						"cell": "${cost} gp"
+					},
+					{
+						"header": "Dmg (S)",
+						"cell": "${damage_s}"
+					},
+					{
+						"header": "Dmg (M)",
+						"cell": "${damage_m}"
+					},
+					{
+						"header": "Critical",
+						"cell": "${crit_range ? crit_range + '-20/' : ''}${crit_multiplier ? 'x' + crit_multiplier : '-'}"
+					},
+					{
+						"header": "Range",
+						"cell": "${range === -1 ? '-' : (range < 0 ? 'see text' : range + ' ft.')}"
+					},
+					{
+						"header": "Weight",
+						"cell": "${weight} lb${weight === 1 || (weight > 0 && weight < 1) ? '' : 's'}."
+					},
+					{
+						"header": "Type",
+						"cell": "${damage_type || (bludgeoning ? 'B' : (piercing ? 'P' : (slashing ? 'S' : '-')))}"
+					},
+					{
+						"header": "Special",
+						"cell": "${special}"
+					}
+				]
+			}
+		]
+	},
 	"list": [
 		{
 			"name": "acid",

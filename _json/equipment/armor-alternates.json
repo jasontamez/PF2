@@ -3,10 +3,13 @@
 		"group_by": "equipment_type",
 		"groups": [
 			{
+				"defaults": {
+					"display_name": false
+				},
 				"columns": [
 					{
-						"header": "${equipment_type.slice(0,1).toUpperCase()}${equipment_type.slice(1)}",
-						"cell": "${name.slice(0,1).toUpperCase()}${name.slice(1)}"
+						"header": "${GROUP.slice(0,1).toUpperCase()}${GROUP.slice(1)}",
+						"cell": "${(display_name || name).slice(0,1).toUpperCase()}${(display_name || name).slice(1)}"
 					},
 					{
 						"header": "Cost Adjustment",

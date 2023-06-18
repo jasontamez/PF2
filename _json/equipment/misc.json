@@ -8,10 +8,13 @@
 		"group_by": "equipment_type",
 		"groups": [
 			{
+				"defaults": {
+					"display_name": false
+				},
 				"columns": [
 					{
-						"header": "${equipment_type.slice(0,1).toUpperCase()}${equipment_type.slice(1)}",
-						"cell": "${name}"
+						"header": "${GROUP.slice(0,1).toUpperCase()}${GROUP.slice(1)}",
+						"cell": "${display_name || name}"
 					},
 					{
 						"header": "Cost",

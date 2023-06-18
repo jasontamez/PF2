@@ -3,17 +3,21 @@
 		"group_by": "armor_type",
 		"groups": [
 			{
+				"defaults": {
+					"display_name": false,
+					"arcane_spell_failure_chance": -1
+				},
 				"columns": [
 					{
-						"header": "${armor_type === 'shield' ? 'Shields' : armor_type.slice(0,1).toUpperCase() + armor_type.slice(1) + ' Armor'}",
-						"cell": "${name}"
+						"header": "${GROUP === 'shield' ? 'Shields' : GROUP.slice(0,1).toUpperCase() + GROUP.slice(1) + ' Armor'}",
+						"cell": "${display_name || name}"
 					},
 					{
 						"header": "Cost",
 						"cell": "${cost} gp"
 					},
 					{
-						"header": "Armor/Shield bonus",
+						"header": "${GROUP === 'shield' ? 'Shield' : 'Armor'} bonus",
 						"cell": "+${armor_bonus}"
 					},
 					{
@@ -26,7 +30,7 @@
 					},
 					{
 						"header": "Arcane Spell Failure Chance",
-						"cell": "${arcane_spell_failure_chance}%"
+						"cell": "${arcane_spell_failure_chance >= 0 ? arcane_spell_failure_chance + '%' : '-'}"
 					},
 					{
 						"header": "Speed 30ft",
