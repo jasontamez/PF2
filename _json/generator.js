@@ -53,7 +53,9 @@ export const makeTemplateDecoder = (obj) => {
 	const props = Object.keys(obj);
 	const values = props.map(p => obj[p]);
 	return function (text) {
-		const fn = Function(...props, `return \`${text}\``);
+		// Try to sanitize the input.
+		const cleansed_text_maybe = text.replace(/(?<!(^|[^\\])\\)`/g, "");
+		const fn = Function(...props, `return \`${cleansed_text_maybe}\``);
 		return fn(...values);
 	};
 };
