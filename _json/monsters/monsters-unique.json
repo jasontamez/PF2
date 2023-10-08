@@ -1763,6 +1763,1335 @@
 			"short_description": "The air fills with the sound of hissing snakes as a giant, severed snake's head floats into view, with a gaping mouth and twin fangs dripping virulent poison. Its eyes are milky and blind, but its forked tongue constantly tests the air for fresh scents. Below the head, where a body should be, numerous hissing serpents thrash like tendrils of torn flesh. Blood drips from the severed head, sizzling as it burns like acid through anything it touches."
 		},
 		{
+			"name": "Arshea",
+			"display_name": "Empyreal Lord, Arshea",
+			"file": "monsterdisplay317c.html",
+			"sources": [
+				"Bestiary 6",
+				"Bestiary 4"
+			],
+			"cr": 29,
+			"xp": 6553600,
+			"alignment": "NG",
+			"size": "medium",
+			"creature_type": "outsider",
+			"creature_subtypes": [
+				"angel",
+				"extraplanar",
+				"good"
+			],
+			"initiative": 16,
+			"senses": [
+				"blindsense 60 ft.",
+				"darkvision 60 ft.",
+				"detect evil",
+				"low-light vision",
+				"true seeing"
+			],
+			"perception": 49,
+			"aura": [
+				"primal aura (30 ft.)",
+				"protective aura (20 ft.)"
+			],
+			"heading": [
+				"Arshea CR 29",
+				"**Source** [Bestiary 6 pg. 110](source:Bestiary 6)",
+				"**XP** 6,553,600",
+				"NG Medium outsider (angel, extraplanar, good)",
+				"**Init** +16; **Senses** blindsense 60 ft., darkvision 60 ft., detect evil, low-light vision, true seeing; Perception +49",
+				"**Aura** primal aura (30 ft.), protective aura (20 ft.)"
+			],
+			"ac": {
+				"ac": 48,
+				"touch": 48,
+				"flatfooted": 35,
+				"bonuses": {
+					"dexterity": 12,
+					"dodge": 1,
+					"insight": 12,
+					"sacred": 13
+				}
+			},
+			"hp": {
+				"hp": 697,
+				"regen": 30,
+				"regen_overcome_by": "deific or mythic"
+			},
+			"saves": {
+				"fort": 26,
+				"ref": 31,
+				"will": 31
+			},
+			"defensive_abilities": [
+				"adoration",
+				"flawless form",
+				"freedom's call"
+			],
+			"dr": [
+				20,
+				"epic and evil"
+			],
+			"immune": [
+				"ability damage",
+				"ability drain",
+				"acid",
+				"charm effects",
+				"cold",
+				"compulsion effects",
+				"daze",
+				"death effects",
+				"energy drain",
+				"petrification"
+			],
+			"resist": {
+				"electricity": 30,
+				"fire": 30
+			},
+			"sr": 40,
+			"defense": [
+				"**AC** 48, touch 48, flat-footed 35 (+12 Dex, +1 dodge, +12 insight, +13 sacred)",
+				"**hp** 697 (34d10+510); regeneration 30 (deific or mythic)",
+				"**Fort** +26, **Ref** +31, **Will** +31; +4 vs. poison",
+				"**Defensive Abilities** adoration, flawless form, freedom's call; **DR** 20/epic and evil; **Immune** ability damage, ability drain, acid, charm effects, cold, compulsion effects, daze, death effects, energy drain, petrification; **Resist** electricity 30, fire 30; **SR** 40"
+			],
+			"speed": {
+				"land": 60,
+				"fly": 120,
+				"maneuverability": "good"
+			},
+			"space": 5,
+			"reach": 5,
+			"offense": [
+				"**Speed** 60 ft., fly 120 ft. (good)",
+				"**Melee** +5 disrupting holy merciful flail +54/+49/+44/+39 (1d8+33/19-20), 2 wings +44 (2d6+20), slam +44 (1d4+20)",
+				"**Special Attacks** endless dance, pounce",
+				"**Spell-Like Abilities (CL 29th; concentration +42)",
+				"Constant-detect evil, true seeing",
+				"At will-cure critical wounds[^M], detect anxieties (DC 25), detect desireI (DC 25), detect thoughts (DC 25), good hope, greater dispel magic, greater teleport, holy word[^M] (DC 30), matchmaker (DC 25), plane shift[^M] (DC 30), project image (DC 30), shapechange",
+				"3/day-discern location, quickened greater invisibility, heroes' feast, irresistible dance[^M] (DC 31), limited wish (to duplicate 5th-level or lower bard spells only), mass heal, mind blank, moment of prescience, sympathy (DC 31)",
+				"1/day-time stop[^M], wish[^M]",
+				"[^M]: Arshea can use the mythic version of this ability in certain conditions (see Nomadic below)."
+			],
+			"str": 40,
+			"dex": 34,
+			"con": 41,
+			"int": 31,
+			"wis": 34,
+			"cha": 37,
+			"base_attack_bonus": 34,
+			"cmb": 49,
+			"cmd": 97,
+			"feats": [
+				"Combat Expertise",
+				"Combat Reflexes",
+				"Critical Focus",
+				"Dodge",
+				"Greater Disarm",
+				"Greater Spell Penetration",
+				"Improved Critical (flail)",
+				"Improved Disarm",
+				"Improved Initiative",
+				"Improved Trip",
+				"Mobility",
+				"Power Attack",
+				"Quicken Spell-Like Ability (greater invisibility)",
+				"Skill Focus (Diplomacy, Perform [dance])",
+				"Spell Penetration",
+				"Staggering Critical"
+			],
+			"skills": [
+				"Acrobatics +49",
+				"Bluff +50",
+				"Diplomacy +56",
+				"Disguise +47",
+				"Fly +53",
+				"Heal +46",
+				"Knowledge (arcana, local, religion) +44",
+				"Knowledge (planes) +47",
+				"Perception +49",
+				"Perform (dance) +56",
+				"Sense Motive +49",
+				"Spellcraft +44",
+				"Stealth +49",
+				"Use Magic Device +50"
+			],
+			"statistics": [
+				"**Str** 40, **Dex** 34, **Con**: 41, **Int** 31, **Wis** 34, **Cha**, 37",
+				"**Base Atk** +34; **CMB** +49 (+53 disarm, +51 trip); **CMD** 97 (99 vs. disarm and trip)",
+				"**Feats** [Combat Expertise](feat:Combat Expertise), [Combat Reflexes](feat:Combat Reflexes), [Critical Focus](feat:Critical Focus), [Dodge](feat:Dodge), [Greater Disarm](feat:Greater Disarm), [Greater Spell Penetration](feat:Greater Spell Penetration), [Improved Critical (flail)](feat:Improved Critical), [Improved Disarm](feat:Improved Disarm), [Improved Initiative](feat:Improved Initiative), [Improved Trip](feat:Improved Trip), [Mobility](feat:Mobility), [Power Attack](feat:Power Attack), [Quicken Spell-Like Ability (greater invisibility)](feat:Quicken Spell-Like Ability), [Skill Focus (Diplomacy, Perform [dance])](feat:Skill Focus), Spell Penetration, [Staggering Critical](feat:Staggering Critical)",
+				"**Skills** Acrobatics +49, Bluff +50, Diplomacy +56, Disguise +47, Fly +53, Heal +46, Knowledge (arcana, local, religion) +44, Knowledge (planes) +47, Perception +49, Perform (dance) +56, Sense Motive +49, Spellcraft +44, Stealth +49, Use Magic Device +50",
+				"**Languages** Celestial; telepathy 300 ft.; truespeech",
+				"**SQ** fulfillment, nomadic, seed of life, unlimited abandon"
+			],
+			"environment": "any (Nirvana)",
+			"organization": "solitary (unique)",
+			"treasure": "triple (+5 disrupting holy merciful flail, other treasure)",
+			"ecology": [
+				"**Environment** any (Nirvana)",
+				"**Organization** solitary (unique)",
+				"**Treasure** triple (+5 disrupting holy merciful flail, other treasure)"
+			],
+			"special_abilities": [
+				"**Adoration (Ex)** The first time each round a creature attempts to attack Arshea (whether with a melee attack, a ranged attack, or a spell), that creature must succeed at a DC 40 Will save or hesitate and waste the action (losing the spell or daily use, if applicable). If Arshea attacked that creature in the last round, the creature automatically succeeds at this Will save. Evil creatures gain a +10 bonus on this Will save. This is a mind affecting emotion effect. The save DC is Charisma-based.",
+				"**Endless Dance (Ex)** Arshea adds their Charisma bonus to all damage rolls with weapon attacks (this bonus is already calculated into their statistics above).",
+				"**Flawless Form (Ex)** Arshea exults in the body's full freedom of motion and the beauty of the physical form. Whenever wearing revealing clothing (or no clothing) and no armor, Arshea adds their Wisdom bonus as an insight bonus to their Armor Class and their Charisma bonus as a sacred bonus to their Armor Class (these bonuses are already calculated into their statistics above).",
+				"**Freedom's Call (Ex)** Arshea is immune to any effects that abrogate freedom, as if constantly under the effects of freedom.",
+				"**Fulfillment (Su)** Arshea instantly receives the full results of detect anxieties, detect desires, and detect thoughts on the first round of examining a creature. In addition to the creature's current desires, Arshea's detect desires reveals the creature's deepest underlying desires-those that would bring it true fulfillment if granted. If the creature's deepest desires are wicked or perverse in nature, Arshea also learns the creature's deepest nonharmful desire, if any, and whether its fulfillment might help the creature eschew the darkness constraining its heart. Arshea can produce an effect within the bounds of wish without spending a use of the daily spell-like ability, but only to help grant a creature fulfillment as determined by this ability, and only once per creature. Participating in a creature's fulfillment and release from needless constraints is a religious and often sexual experience for both parties involved. For 24 hours afterward, both Arshea and the fulfilled creature receive a +4 morale bonus on ability checks, attack rolls, damage rolls, saving throws, and skill checks, as well as to caster level.",
+				"**Nomadic (Ex)** Arshea, unlike many empyreal lords, does not keep a static empyreal realm. Instead, Arshea is nomadic, traveling the wilds of Nirvana as they see fit. As a swift action once per day, Arshea can designate a region on Nirvana to serve as their territory-this region cannot include any area currently claimed by another empyreal lord or deity as part of a planar realm. The area of the territory can vary, but it never extends more than 100 miles from the point Arshea selected as the center of their territory. The next time Arshea uses this ability to generate a planar territory, it cannot overlap any region that served them as a planar territory within the previous 24 hours. Within this planar territory, Arshea enjoys the full benefits of an empyreal realm, as detailed on page 87 of Pathfinder RPG Bestiary 4, including the ability to use mythic spell-like abilities and the mythic power ability.",
+				"**Primal Aura (Su)** Creatures within Arshea's primal aura must succeed at a DC 40 Will save to avoid becoming overwhelmed with euphoria. On a successful save, the creature takes a -2 penalty on all saving throws against emotion-based effects while remaining within Arshea's primal aura, but it is immune to further effects from the primal aura for 24 hours. On a failed save, the creature becomes dazed for 1 round from overwhelming sensations in addition to the -2 penalty on all saving throws against emotion-based effects. This is a mind-affecting emotion effect. The save DC is Charisma-based.",
+				"**Unlimited Abandon (Su)** All of Arshea's mind-affecting spells, spell-like abilities, supernatural abilities, and extraordinary abilities affect all creatures, regardless of those creatures' immunity to charms, compulsions, emotion effects, or mind-affecting effects. A mythic or deific creature with such an immunity still loses its immunity, but gains a +4 bonus on its saving throws against these effects and can roll twice and then choose the best result."
+			],
+			"description": [
+				"Arshea is known as the embodiment of irrepressible passion and exultation, and is also named among mortals as the Spirit of Abandon and the Host of Delectation. Their unique form combines the most attractive traits of both femininity and masculinity-seen as such not only by members of the human race, but by those of any species that have an encounter with the empyreal lord. The empyreal lord is of both genders and neither, unfettered by such distinctions. Arshea has no personal realm, instead journeying throughout the celestial realms and the mortal world unpredictably, trailing a wake of beauty, freedom, and sensuality",
+				"Arshea's Faith",
+				"Arshea is the angelic patron of freedom, physical beauty, and sexuality, and their worshipers include artisans, courtesans, some fey, and those seeking to escape repression. Arsheans often follow in their deity's footsteps and spend significant time experiencing life as every gender and sexuality, experimenting in order to overcome their preconceptions and ensure they each express their truest identity.",
+				"Arshea's holy symbol is a reclining figure draped in multicolored sashes, and their favored weapon is the flail. The Spirit of Abandon grants access to the domains of Charm, Good, Liberation, and Strength, and to the subdomains of Agathion, Freedom, Love, and Lust.",
+				">>monster-family:Empyreal Lord"
+			],
+			"short_description": "Blue-gray wings extend over the jeweled bangles and gossamer veils of this androgynous angel."
+		},
+		{
+			"name": "Ashava",
+			"display_name": "Empyreal Lord, Ashava",
+			"file": "monsterdisplayb117.html",
+			"sources": [
+				"Pathfinder #134: It Came from Hollow Mountain",
+				"Bestiary 4"
+			],
+			"cr": 28,
+			"xp": 4915200,
+			"alignment": "CG",
+			"size": "medium",
+			"creature_type": "outsider",
+			"creature_subtypes": [
+				"azata",
+				"chaotic",
+				"extraplanar",
+				"good"
+			],
+			"initiative": 34,
+			"senses": [
+				"blindsense 60 ft.",
+				"darkvision 60 ft.",
+				"[detect evil](unknown:detect evil)",
+				"[detect law](unknown:detect law)",
+				"low-light vision",
+				"see in darkness",
+				"[true seeing](unknown:true seeing)"
+			],
+			"perception": 46,
+			"aura": [ "primal aura (30 ft.)" ],
+			"heading": [
+				"Ashava CR 28",
+				"**Source** [Pathfinder #134: It Came from Hollow Mountain pg. 84](source:Pathfinder #134: It Came from Hollow Mountain)",
+				"**XP** 4,915,200",
+				"CG Medium outsider (azata, chaotic, extraplanar, good)",
+				"**Init** +34; **Senses** blindsense 60 ft., darkvision 60 ft., [detect evil](unknown:detect evil), [detect law](unknown:detect law), low-light vision, see in darkness, [true seeing](unknown:true seeing); Perception +46",
+				"**Aura** primal aura (30 ft.)"
+			],
+			"ac": {
+				"ac": 49,
+				"touch": 41,
+				"flatfooted": 33,
+				"bonuses": {
+					"dexterity": 15,
+					"dodge": 1,
+					"natural": 8,
+					"sacred": 15
+				}
+			},
+			"hp": {
+				"hp": 676,
+				"regen": 30,
+				"regen_overcome_by": "deific or mythic"
+			},
+			"saves": {
+				"fort": 26,
+				"ref": 33,
+				"will": 30
+			},
+			"defensive_abilities": [
+				"[freedom of movement](unknown:freedom of movement)",
+				"[mind blank](unknown:mind blank)",
+				"never surprised"
+			],
+			"dr": [
+				20,
+				"epic and evil"
+			],
+			"immune": [
+				"ability damage",
+				"ability drain",
+				"acid",
+				"charm effects",
+				"compulsion effects",
+				"death effects",
+				"electricity",
+				"energy drain",
+				"petrification"
+			],
+			"resist": {
+				"cold": 30,
+				"fire": 30
+			},
+			"sr": 39,
+			"defense": [
+				"**AC** 49, touch 41, flat-footed 33 (+15 Dex, +1 dodge, +8 natural, +15 sacred)",
+				"**hp** 676 (33d10+495); regeneration 30 (deific or mythic)",
+				"**Fort** +26, **Ref** +33, **Will** +30",
+				"**Defensive Abilities** [freedom of movement](unknown:freedom of movement), [mind blank](unknown:mind blank), never surprised; **DR** 20/epic and evil; **Immune** ability damage, ability drain, acid, charm effects, compulsion effects, death effects, electricity, energy drain, petrification; **Resist** cold 30, fire 30; **SR** 39"
+			],
+			"speed": {
+				"land": 50,
+				"fly": 150,
+				"maneuverability": "perfect"
+			},
+			"space": 5,
+			"reach": 5,
+			"offense": [
+				"**Speed** 50 ft., fly 150 ft. (perfect)",
+				"**Melee** moonlight javelin +46/+41/+36/+31 (4d6+28/19-20 plus dazzled)",
+				"**Ranged** moonlight javelin +53/+48/+43/+38 (4d6+28/19-20 plus dazzled)",
+				"**Special Attacks** bardic performance (unlimited rounds per day), hypnotize undead",
+				"**Spell-Like Abilities (CL 28th; concentration +43)",
+				"Constant-detect evil, detect law, freedom of movement, mind blank, true seeing",
+				"At will-break enchantment, calm spirit (DC 27), faerie fire[^M], find the path, flare burst (DC 26), greater dispel magic, greater teleport, haste[^M], hide from undead, holy word[^M] (DC 32), moonstruck (DC 29)",
+				"3/day-chaos hammer[^M] (DC 29), halt undead (DC 28), irresistible dance (DC 33), lunar veil (DC 32), mass cat's grace, quickened moonstruck (DC 29)",
+				"1/day-freedom, time stop, undeath to death (DC 31)",
+				"[^M]: Ashava can use this ability's mythic version in her realm."
+			],
+			"str": 27,
+			"dex": 41,
+			"con": 40,
+			"int": 28,
+			"wis": 31,
+			"cha": 40,
+			"base_attack_bonus": 33,
+			"cmb": 48,
+			"cmd": 82,
+			"feats": [
+				"Acrobatic",
+				"Agile Maneuvers",
+				"Combat Expertise",
+				"Dodge",
+				"Flyby Attack",
+				"Greater Feint",
+				"Improved Critical (javelin)",
+				"Improved Feint",
+				"Improved Initiative",
+				"Iron Will",
+				"Lightning Stance",
+				"Mobility",
+				"Point-Blank Shot",
+				"Quicken Spell-Like Ability (moonstruck)",
+				"Sidestep",
+				"Skill Focus (Perform [dance])",
+				"Wind Stance"
+			],
+			"skills": [
+				"Acrobatics +55",
+				"Bluff +51",
+				"Diplomacy +48",
+				"Escape Artist +48",
+				"Fly +63",
+				"Heal +43",
+				"Intimidate +48",
+				"Knowledge (arcana, nature, planes, religion) +45",
+				"Perception +46",
+				"Perform (dance) +54",
+				"Sense Motive +46",
+				"Stealth +51"
+			],
+			"statistics": [
+				"**Str** 27, **Dex** 41, **Con**: 40, **Int** 28, **Wis** 31, **Cha**, 40",
+				"**Base Atk** +33; **CMB** +48; **CMD** 82",
+				"**Feats** [Acrobatic](feat:Acrobatic), [Agile Maneuvers](feat:Agile Maneuvers), [Combat Expertise](feat:Combat Expertise), [Dodge](feat:Dodge), [Flyby Attack](feat:Flyby Attack), [Greater Feint](feat:Greater Feint), [Improved Critical (javelin)](feat:Improved Critical), [Improved Feint](feat:Improved Feint), [Improved Initiative](feat:Improved Initiative), [Iron Will](feat:Iron Will), [Lightning Stance](feat:Lightning Stance), [Mobility](feat:Mobility), [Point-Blank Shot](feat:Point-Blank Shot), [Quicken Spell-Like Ability (moonstruck)](feat:Quicken Spell-Like Ability), [Sidestep](feat:Sidestep), [Skill Focus (Perform [dance])](feat:Skill Focus), [Wind Stance](feat:Wind Stance)",
+				"**Skills** Acrobatics +55, Bluff +51, Diplomacy +48, Escape Artist +48, Fly +63, Heal +43, Intimidate +48, Knowledge (arcana, nature, planes, religion) +45, Perception +46, Perform (dance) +54, Sense Motive +46, Stealth +51",
+				"**Languages** Celestial, Common, Draconic, Infernal; telepathy 300 ft.; truespeech",
+				"**SQ** luminescent form, lyrical grace, seed of life"
+			],
+			"environment": "any (Elysium)",
+			"organization": "solitary (unique)",
+			"treasure": "triple",
+			"ecology": [
+				"**Environment** any (Elysium)",
+				"**Organization** solitary (unique)",
+				"**Treasure** triple"
+			],
+			"special_abilities": [
+				"**Bardic Performance (Su)** Ashava has the bardic performance ability of a 20th-level [bard](unknown:bard), granting her access to the distraction, fascinate, inspire courage, inspire competence, suggestion, inspire greatness, soothing performance, inspire heroics, mass suggestion, and deadly performance aspects of bardic performance. Ashava's fascinate and inspire heroics bardic performances can affect any number of creatures that can see and hear her. There is no limit to the number of rounds Ashava can use her bardic performances each day.",
+				"**Hypnotize Undead (Su)** Ashava can affect undead creatures with her fascinate bardic performance, despite their immunity to enchantment or mind-affecting effects, and she can command any number of undead creatures fascinated in this way as a standard action, per [command undead](unknown:command undead) (Will DC 41 negates). The save DC is Charisma-based.",
+				"**Luminescent Form (Su)** As a swift action, Ashava can transform herself into pure moonlight, becoming incorporeal. Her fly speed triples in luminescent form, but she can't use any of her spell-like abilities or her moonlight javelin attack. She can return to her corporeal form as a swift action.",
+				"**Lyrical Grace (Ex)** Ashava gains a sacred bonus to her Armor Class and on initiative checks equal to her Charisma modifier. She can ignore any effect that would reduce her speed or prevent her from taking a 5-foot step.",
+				"**Moonlight Javelin (Su)** As a free action, Ashava can conjure a +5 [holy](unknown:holy) javelin created out of solid moonlight into her hand. This weapon deals force damage, has a range increment of 100 feet, and dazzles any target it strikes for 1 month or until Ashava chooses to end a target's dazzled condition as a free action. Ashava adds her Charisma modifier to damage rolls with her moonlight javelins. A moonlight javelin vanishes once it leaves Ashava's hand (or, if thrown, it vanishes after striking or missing its target).",
+				"**Primal Aura (Su)** Ashava constantly shines with the light of the moon. No effect can reduce the light level in her primal aura below dim light, unless she allows it or unless the effect is created by a more powerful deity. Weapons wielded in Ashava's primal aura are treated as chaotic-aligned, good-aligned, and silver for the purpose of overcoming damage reduction."
+			],
+			"description": [
+				"Long ago in the wild and lonely fens of Elysium, a collection of helpful marsh lights coalesced to form Ashava, the True Spark. Ashava is constant motion, spinning and twirling in steps that soothe all who watch her dance. Although she often remains at a distance from those who watch her, she nevertheless leads them out of wild places and back to the safety of civilization. She believes that no being-whether living or dead-should suffer the fear of being lost.",
+				"A part of Ashava lives in the hearts of all dancers, and her influence can be felt by those who rise from their seats when moved by a stirring beat or melodious chords. She believes that dance is the soul's truest form of expression, and she looks down on those who would stifle their own or others' creativity in this field. Ashava maintains that there is no wrong way to dance, and that dance not only embodies but transcends culture. She derives as much pleasure from the clumsy steps of eager but novice dancers as she does the practiced movements of professional ballerinas.",
+				"Ashava spends much of her time dancing through darkened swamps across many worlds, aiding lost travelers and fighting evil forces that would disorient and waylay them. On Elysium, Ashava's realm is the Sparkling Fens, a swamp eternally bathed in moonlight. It rests at the base of the Mountain of Lingering Soulsong, and the mountain's echoing melodies drift down into the marsh to provide Ashava and the azatas who follow her with accompaniment to their never-ending dances. No one can remain lost for very long within the Sparkling Fens, as floating globes of light-similar to will-o--wisps in appearance but kindly in temperament-always appear to guide visitors to safety. These lights are both servants of Ashava and part of her, and she can feel and control them no matter where she is in the cosmos as if they were extensions of her own limbs.",
+				"Ashava's Faith",
+				"Ashava is the patron of dancers, lonely spirits, and moonlight. Her worshipers include many who strike out from the comfort of their homes to move through dark and unexplored spaces in order to guide others back to safety. She encourages her followers to dance whenever the mood overtakes them, and most of her holy ceremonies center around movement in one form or another. Her most sacred areas are graveyards and forest clearings, especially when those places are drenched in moonlight. Ashava's religion is particularly popular along Varisia's Lost Coast.",
+				"Ashava's faith is not just about joyous dancing, however. The recently bereaved also pray to the True Spark in her aspect as a shepherd of lost souls. Psychopomps ensure that the dead make their way along the River of Souls to their appointed rewards in the afterlife, but Ashava (and many of her followers) aid wandering spirits who have strayed from that path and need help returning to it. [Ashavic dancers](unknown:Ashavic dancers) are followers of Ashava who specialize in this task, using the power of dance and moonlight to create magical effects that can exorcise possessing spirits and even unravel the necromantic energies that empower the undead..",
+				"Ashava's holy symbol is a silhouette of a dancing woman against a full moon. Her favored weapon is the [bladed scarf](unknown:bladed scarf) and her sacred animal is the wolf. She grants access to the domains of [Chaos](unknown:Chaos), [Darkness](unknown:Darkness), [Good](unknown:Good), and [Repose](unknown:Repose), and access to the subdomains of Ancestors, Azata, Moon, and Revelry.",
+				">>monster-family:Empyreal Lord"
+			],
+			"short_description": "This graceful humanoid woman wears a flowing gown of sparkling starlight and a circlet of moss."
+		},
+		{
+			"name": "Black Butterfly",
+			"display_name": "Empyreal Lord, Black Butterfly",
+			"file": "monsterdisplaya56f.html",
+			"sources": [
+				"Bestiary 6",
+				"Bestiary 4"
+			],
+			"cr": 28,
+			"xp": 4915200,
+			"alignment": "CG",
+			"size": "large",
+			"creature_type": "outsider",
+			"creature_subtypes": [
+				"azata",
+				"chaotic",
+				"extraplanar",
+				"good"
+			],
+			"initiative": 19,
+			"senses": [
+				"blindsense 60 ft.",
+				"darkvision 60 ft.",
+				"detect aberration",
+				"detect evil",
+				"detect law",
+				"low-light vision",
+				"see in darkness",
+				"true seeing"
+			],
+			"perception": 50,
+			"aura": [ "primal aura (30 ft.)" ],
+			"heading": [
+				"Black Butterfly CR 28",
+				"**Source** [Bestiary 6 pg. 112](source:Bestiary 6)",
+				"**XP** 4,915,200",
+				"CG Large outsider (azata, chaotic, extraplanar, good)",
+				"**Init** +19; **Senses** blindsense 60 ft., darkvision 60 ft., detect aberration, detect evil, detect law, low-light vision, see in darkness, true seeing; Perception +50",
+				"**Aura** primal aura (30 ft.)"
+			],
+			"ac": {
+				"ac": 46,
+				"touch": 34,
+				"flatfooted": 31,
+				"bonuses": {
+					"armor": 4,
+					"dexterity": 15,
+					"insight": 10,
+					"natural": 8,
+					"size": -1
+				}
+			},
+			"hp": {
+				"hp": 676,
+				"regen": 30,
+				"regen_overcome_by": "deific or mythic"
+			},
+			"saves": {
+				"fort": 26,
+				"ref": 33,
+				"will": 28
+			},
+			"defensive_abilities": [
+				"freedom of movement",
+				"mind blank"
+			],
+			"dr": [
+				20,
+				"epic and evil"
+			],
+			"immune": [
+				"ability damage",
+				"ability drain",
+				"charm effects",
+				"cold",
+				"compulsion effects",
+				"death effects",
+				"electricity",
+				"energy drain",
+				"petrification"
+			],
+			"resist": {
+				"fire": 30,
+				"sonic": 30
+			},
+			"sr": 39,
+			"defense": [
+				"**AC** 46, touch 34, flat-footed 31 (+4 armor, +15 Dex, +10 insight, +8 natural, -1 size)",
+				"**hp** 676 (33d10+495); regeneration 30 (deific or mythic)",
+				"**Fort** +26, **Ref** +33, **Will** +28; +8 vs. mind-affecting effects",
+				"**Defensive Abilities** freedom of movement, mind blank; **DR** 20/epic and evil; **Immune** ability damage, ability drain, charm effects, cold, compulsion effects, death effects, electricity, energy drain, petrification; **Resist** fire 30, sonic 30; **SR** 39"
+			],
+			"speed": {
+				"land": 40,
+				"fly": 150,
+				"maneuverability": "perfect"
+			},
+			"space": 10,
+			"reach": 10,
+			"offense": [
+				"**Speed** 40 ft., fly 150 ft. (perfect)",
+				"**Melee** Voidsedge +52/+47/+42/+37 (1d6+20/19-20/x3 plus 2d6 fire and 2d6 cold), touch +42 touch (10d6 cold plus steal breath)",
+				"**Ranged** Voidsedge +52/+47/+42/+37 (1d6+20/19-20/x3 plus 2d6 fire and 2d6 cold)",
+				"**Space** 10 ft., **Reach** 10 ft.",
+				"**Special Attacks** Voidsedge bond",
+				"**Spell-Like Abilities (CL 28th; concentration +39)",
+				"Constant-detect aberration, detect evil, detect law, freedom of movement, mind blank, true seeing",
+				"At will-break enchantment, deeper darkness, dimensional anchor, greater dispel magic, haste[^M], holy smite[^M] (DC 25), holy word[^M] (DC 28), interplanetary teleport, wandering star motes (DC 25)",
+				"3/day-antimagic field[^M], quickened heal[^M], reverse gravity[^M], quickened wandering star motes (DC 25)",
+				"1/day-gate, implosion (DC 30), mage's disjunction[^M], moment of prescience, time stop[^M]",
+				"[^M]: Black Butterfly can use this ability's mythic version in her realm."
+			],
+			"str": 28,
+			"dex": 40,
+			"con": 40,
+			"int": 27,
+			"wis": 30,
+			"cha": 33,
+			"base_attack_bonus": 33,
+			"cmb": 43,
+			"cmd": 78,
+			"feats": [
+				"Alertness",
+				"Blinding Critical",
+				"Combat Expertise",
+				"Combat Reflexes",
+				"Critical Focus",
+				"Deadly Aim",
+				"Flyby Attack",
+				"Improved Critical (starknife)",
+				"Improved Initiative",
+				"Improved Precise Shot",
+				"Point-Blank Shot",
+				"Power Attack",
+				"Precise Shot",
+				"Quicken Spell-Like Ability (heal, wandering star motes)",
+				"Skill Focus (Stealth)",
+				"Weapon Finesse"
+			],
+			"skills": [
+				"Acrobatics +51",
+				"Bluff +47",
+				"Diplomacy +44",
+				"Fly +57",
+				"Intimidate +44",
+				"Knowledge (arcana, nature, religion) +41",
+				"Knowledge (geography) +44",
+				"Perception +50",
+				"Sense Motive +50",
+				"Spellcraft +44",
+				"Stealth +53",
+				"Use Magic Device +47"
+			],
+			"statistics": [
+				"**Str** 28, **Dex** 40, **Con**: 40, **Int** 27, **Wis** 30, **Cha**, 33",
+				"**Base Atk** +33; **CMB** +43; **CMD** 78",
+				"**Feats** [Alertness](feat:Alertness), [Blinding Critical](feat:Blinding Critical), [Combat Expertise](feat:Combat Expertise), Combat Reflexes, [Critical Focus](feat:Critical Focus), [Deadly Aim](feat:Deadly Aim), [Flyby Attack](feat:Flyby Attack), Improved Critical (starknife), [Improved Initiative](feat:Improved Initiative), [Improved Precise Shot](feat:Improved Precise Shot), [Point-Blank Shot](feat:Point-Blank Shot), [Power Attack](feat:Power Attack), [Precise Shot](feat:Precise Shot), Quicken Spell-Like Ability (heal, wandering star motes), [Skill Focus (Stealth)](feat:Skill Focus), [Weapon Finesse](feat:Weapon Finesse)",
+				"**Skills** Acrobatics +51, Bluff +47, Diplomacy +44, Fly +57, Intimidate +44, Knowledge (arcana, nature, religion) +41, Knowledge (geography) +44, Perception +50, Sense Motive +50, Spellcraft +44, Stealth +53, Use Magic Device +47",
+				"**Languages** Aklo, Celestial, Common; telepathy 300 ft.; truespeech",
+				"**SQ** celestial grace, interstellar mastery, no breath, seed of life, silence between, starflight"
+			],
+			"environment": "any (Elysium)",
+			"organization": "solitary (unique)",
+			"treasure": "triple (Voidsedge, other treasure)",
+			"ecology": [
+				"**Environment** any (Elysium)",
+				"**Organization** solitary (unique)",
+				"**Treasure** triple (Voidsedge, other treasure)"
+			],
+			"special_abilities": [
+				"**Celestial Grace (Ex)** Black Butterfly adds her Dexterity modifier instead of her Strength modifier to her damage rolls with all melee and ranged weapons. She gains an insight bonus to her Armor Class equal to her Wisdom modifier. She ignores any effect that would reduce her movement speed or prevent her from taking a 5-foot step.",
+				"**Interstellar Mastery (Ex)** Black Butterfly never suffers any harmful environmental effects from outer space. She gains a +4 sacred bonus on attack rolls and saving throws when in such an environment, as well as the benefits of a ranger's favored terrain (+10 bonus).",
+				"**Primal Aura (Su)** No sounds pass through Black Butterfly's primal aura except those she allows, and even then, she can choose to block a sound in some portions of her aura while allowing it to pass through other portions. When blocking sound, this aura functions similarly to silence. This ability is suppressed for 1d4 rounds whenever Black Butterfly is affected by a vision-based effect created by an evil creature.",
+				"**Silence Between (Ex)** When Black Butterfly takes a 5-foot step, instead of moving 5 feet, she can ride the spaces in between breaths and thoughts, disappearing and rematerializing anywhere within 150 feet and attempting a Stealth check to hide as a free action. She can hide even when being directly observed, and her Stealth can defeat any sense (for example blindsight, lifesense, and tremorsense) as long as the result of the check exceeds the result of the observer's Perception check. She gains an additional +20 bonus on Stealth checks (+40 when immobile), which doesn't stack with the bonuses from invisibility, and she can't be outlined by spells like faerie fire or glitterdust. If she is hidden when she begins a full attack, any creature that wasn't observing her is denied its Dexterity bonus to AC against all attacks in the full attack, not just the first attack. Black Butterfly loses access to her silence between ability when she is in an area of bright light.",
+				"**Starflight (Su)** Although she can use interplanetary teleport at will, Black Butterfly enjoys flying between the stars. When she does so, she travels at an incredible speed. Although exact travel times vary, a trip within a single solar system should take 3d20 hours, while a trip beyond should take 3d20 days (or more, at the GM's discretion). Black Butterfly knows the routes to all destinations among the stars.",
+				"**Steal Breath (Su)** Black Butterfly's touch attack deals 10d6 points of cold damage and draws the breath from the target's lungs as she subjects the creature to the racking conditions of deep space. The creature struck can resist having its breath drawn out with a successful DC 37 Fortitude save; otherwise, the target is knocked unconscious by the sudden loss of oxygen. Steal breath does not harm creatures that do not breathe, but her touch attack can still deal cold damage. The save DC is Charisma-based.",
+				"**Voidsedge Bond (Ex)** Voidsedge is a +5 aberration-bane ghost touch holy starknife that exists as one of the stars in Black Butterfly's wings until she calls it to her hand as a free action. When she throws Voidsedge, it returns to her hand instantly upon striking a target, allowing her to make iterative thrown attacks. Her range increment with Voidsedge is 120 feet. Attacks with Voidsedge deal an additional 2d6 points of fire damage and 2d6 points of cold damage on a hit when Black Butterfly wields the weapon."
+			],
+			"description": [
+				"Black Butterfly, the Silence Between, arose from the spaces between the stars. Solemn and serene, she never acts rashly, relying on the wisdom of the cosmos to guide her to the appropriate solution. She believes that the true nature of the multiverse lies in the gaps and silences between thoughts and ideas, so she never focuses on one topic or idea for too long, lest in narrowing her view she should lose sight of the space beyond the idea's edge.",
+				"On Elysium, Black Butterfly's hidden realm is nestled in the constellation that leads to Desna's palace. Her realm is relatively simple for an empyreal lord, with no grand palace or bright colors. Instead, it is a quiet respite from a plane of riotous passions, a gentle void, breathable by creatures of all sorts, with pockets of solid shadow for those who prefer ground beneath their feet and dotted with simple shelters. Her realm is so difficult to find that even planar scholars and other residents of Elysium can't agree exactly where it lies, though travelers through silence and darkness, even on other planes, sometimes make their way into her realm in times of desperation, able to find momentary succor so long as they are respectful and quiet.",
+				"While few beings can match her knowledge of the alien monstrosities that dwell in the deepest reaches of interstellar space, Black Butterfly refuses to share much of it, as she worries that widespread knowledge of her greatest nemeses, the Outer Gods and the Great Old Ones, would serve their interests rather than hers. She often journeys from her home in Elysium to subtly battle the interests of these foes and other forces of evil, or to assist those in need without revealing her presence.",
+				"Black Butterfly's Faith",
+				"Black Butterfly is the patron of distance, silence, and space. The Silence Between's worshipers include those for whom distances are essential, such as parted lovers or explorers (particularly those who brave the unfathomable depths of outer space), as well as those who appreciate her connection to silence, such as the deaf and the mute. Worshipers of Black Butterfly are encouraged to perform anonymous acts of charity without speaking to the recipient of their kindness, for the reason that such unseen gifts help foster the perception that good things sometimes happen to good people for no other reason than that they deserve it. Black Butterfly's most sacred spaces are isolated monasteries and shrines high atop mountain peaks, deep underground, or even floating on asteroids in the void of space-these latter redoubts typically have potent magic to enable her worshipers to live and breathe with ease. She teaches her followers that the greatest good lies in performing quiet anonymous acts, and her faith abhors loud spectacles on holy days.",
+				"Black Butterfly's holy symbol is a black-winged butterfly with a white star for a body on a field of purple. Her favored weapon is the starknife. She grants access to the domains of Chaos, Good, Liberation, and Void, and access to the subdomains of Azata, Freedom, Revolution, and Stars.",
+				">>monster-family:Empyreal Lord"
+			],
+			"short_description": "This living silhouette of a graceful woman has white hair and eyes. Her butterfly wings shimmer with twinkling stars."
+		},
+		{
+			"name": "Cernunnos",
+			"display_name": "Empyreal Lord, Cernunnos",
+			"file": "monsterdisplay588b.html",
+			"sources": [ "Bestiary 4" ],
+			"cr": 30,
+			"xp": 9830400,
+			"alignment": "CG",
+			"size": "large",
+			"creature_type": "outsider",
+			"creature_subtypes": [
+				"azata",
+				"chaotic",
+				"extraplanar",
+				"good"
+			],
+			"initiative": 16,
+			"senses": [
+				"blindsense 60 ft.",
+				"darkvision 60 ft.",
+				"detect evil",
+				"detect lies",
+				"detect poison",
+				"low-light vision",
+				"true seeing"
+			],
+			"perception": 43,
+			"aura": [ "primal (30 ft.)" ],
+			"heading": [
+				"Cernunnos CR 30",
+				"**Source** [Bestiary 4 pg. 88](source:Bestiary 4)",
+				"**XP** 9,830,400",
+				"CG Large outsider (azata, chaotic, extraplanar, good)",
+				"**Init** +16; **Senses** blindsense 60 ft., darkvision 60 ft., detect evil, detect lies, detect poison, low-light vision, true seeing; Perception +43",
+				"**Aura** primal (30 ft.)"
+			],
+			"ac": {
+				"ac": 48,
+				"touch": 22,
+				"flatfooted": 35,
+				"bonuses": {
+					"dexterity": 12,
+					"dodge": 1,
+					"natural": 26,
+					"size": -1
+				}
+			},
+			"hp": {
+				"hp": 663,
+				"regen": 10,
+				"regen_overcome_by": "evil artifacts, effects, and spells"
+			},
+			"saves": {
+				"fort": 25,
+				"ref": 31,
+				"will": 25
+			},
+			"defensive_abilities": [
+				"freedom of movement",
+				"lightning rod",
+				"unbound"
+			],
+			"dr": [
+				15,
+				"epic and evil"
+			],
+			"immune": [
+				"ability damage",
+				"ability drain",
+				"charm effects",
+				"compulsion effects",
+				"death effects",
+				"electricity",
+				"energy drain",
+				"petrification"
+			],
+			"resist": {
+				"cold": 30,
+				"fire": 30
+			},
+			"sr": 41,
+			"defense": [
+				"**AC** 48, touch 22, flat-footed 35 (+12 Dex, +1 dodge, +26 natural, -1 size)",
+				"**hp** 663 (34d10+476); regeneration 10 (evil artifacts, effects, and spells)",
+				"**Fort** +25, **Ref** +31, **Will** +25",
+				"**Defensive Abilities** freedom of movement, lightning rod, unbound; **DR** 15/epic and evil; **Immune** ability damage, ability drain, charm effects, compulsion effects, death effects, electricity, energy drain, petrification; **Resist** cold 30, fire 30; **SR** 41"
+			],
+			"speed": {
+				"land": 40,
+				"fly": 60,
+				"maneuverability": "average"
+			},
+			"space": 10,
+			"reach": 10,
+			"offense": [
+				"**Speed** 40 ft., fly 60 ft. (average)",
+				"**Melee** +5 holy cold iron club +48/+43/+38/+33 (1d8+18/15-20), gore +43 (2d8+18)",
+				"**Ranged** +5 evil outsider bane composite longbow +51/+46/+41/+36 (2d6+14/19-20/x4)",
+				"**Space** 10 ft., **Reach** 10 ft.",
+				"**Special Attacks** greater slaying arrow, horned lord's charge, powerful charge (gore, 4d8+13 and horned lord's charge), wild shape (as 20th level druid)",
+				"**Spell-Like Abilities (CL 20th; concentration +25)",
+				"Constant-detect evil, detect lies, detect poison, freedom of movement, true seeing",
+				"At will-greater teleport, haste[^M], true strike[^M]",
+				"3/day-break enchantment[^M], breath of life[^M], dimensional anchor (DC 19)",
+				"1/day-discern location, mage's disjunction[^M] (DC 24), time stop[^M]",
+				"[^M]: Cernunnos can use the mythic version of this ability in his realm.",
+				"**Druid Spells Prepared ** (CL 20th; concentration +26)",
+				"9th-elemental swarm, foresight, summon nature's ally IX (2)",
+				"8th-control plants (DC 24), repel metal or stone, sunburst (DC 24), whirlwind (DC 24)",
+				"7th-control weather, creeping doom (DC 23), heal, sunbeam (DC 23)",
+				"6th-antilife shell, greater dispel magic (2), move earth, wall of stone (DC 22)",
+				"5th-atonement, baleful polymorph (DC 21), deathward, transmute rock to mud, wall of thorns",
+				"4th-cure serious wounds (2), freedom of movement, rusting grasp, true form (DC 20)",
+				"3rd-call lightning (DC 19), cure moderate wounds, neutralize poison (2), remove disease",
+				"2nd-chill metal (DC 18), fog cloud, heat metal (DC 18), lesser restoration, resist energy (2)",
+				"1st-calm animals (DC 17, 2), cure light wounds (2), pass without trace (2)",
+				"0-create water, mending, purify food and drink, read magic"
+			],
+			"str": 29,
+			"dex": 35,
+			"con": 39,
+			"int": 18,
+			"wis": 22,
+			"cha": 21,
+			"base_attack_bonus": 34,
+			"cmb": 44,
+			"cmd": 67,
+			"feats": [
+				"Combat Reflexes",
+				"Deadly Aim",
+				"Dodge",
+				"Improved Critical (longbow)",
+				"Improved Critical (scimitar)",
+				"Improved Initiative",
+				"Improved Precise Shot",
+				"Mobility",
+				"Point-Blank Shot",
+				"Power Attack",
+				"Precise Shot",
+				"Quick Draw",
+				"Rapid Shot",
+				"Shot on the Run",
+				"Weapon Focus (club)",
+				"Weapon Focus (gore)",
+				"Weapon Focus (longbow)"
+			],
+			"skills": [
+				"Acrobatics +46 (+50 when jumping)",
+				"Diplomacy +22",
+				"Disguise +22",
+				"Fly +10",
+				"Handle Animal +22",
+				"Intimidate +22",
+				"Knowledge (geography) +24",
+				"Knowledge (nature) +24",
+				"Knowledge (planes) +24",
+				"Knowledge (religion) +21",
+				"Perception +43",
+				"Ride +32",
+				"Sense Motive +43",
+				"Stealth +45",
+				"Survival +43",
+				"Swim +26"
+			],
+			"statistics": [
+				"**Str** 29, **Dex** 35, **Con**: 39, **Int** 18, **Wis** 22, **Cha**, 21",
+				"**Base Atk** +34; **CMB** +44; **CMD** 67",
+				"**Feats** [Combat Reflexes](feat:Combat Reflexes), [Deadly Aim](feat:Deadly Aim), [Dodge](feat:Dodge), [Improved Critical (longbow)](feat:Improved Critical), [Improved Critical (scimitar)](feat:Improved Critical), [Improved Initiative](feat:Improved Initiative), [Improved Precise Shot](feat:Improved Precise Shot), [Mobility](feat:Mobility), [Point-Blank Shot](feat:Point-Blank Shot), [Power Attack](feat:Power Attack), [Precise Shot](feat:Precise Shot), [Quick Draw](feat:Quick Draw), [Rapid Shot](feat:Rapid Shot), [Shot on the Run](feat:Shot on the Run), [Weapon Focus (club)](feat:Weapon Focus), [Weapon Focus (gore)](feat:Weapon Focus), [Weapon Focus (longbow)](feat:Weapon Focus)",
+				"**Skills** Acrobatics +46 (+50 when jumping), Diplomacy +22, Disguise +22, Fly +10, Handle Animal +22, Intimidate +22, Knowledge (geography) +24, Knowledge (nature) +24, Knowledge (planes) +24, Knowledge (religion) +21, Perception +43, Ride +32, Sense Motive +43, Stealth +45, Survival +43, Swim +26",
+				"**Languages** Celestial, Draconic, Infernal, Sylvan; truespeech",
+				"**SQ** change shape (any humanoid, alter self), empyreal lord traits, perfect archer, seed of life"
+			],
+			"environment": "any forest or plain (Elysium)",
+			"organization": "unique",
+			"treasure": "standard (+5 holy cold iron club, +5 evil outsider bane longbow, other treasure)",
+			"ecology": [
+				"**Environment** any forest or plain (Elysium)",
+				"**Organization** unique",
+				"**Treasure** standard (+5 holy cold iron club, +5 evil outsider bane longbow, other treasure)"
+			],
+			"special_abilities": [
+				"**Greater Slaying Arrow (Su)** Cernunnos can spend 1 minute crafting any kind of greater slaying arrow (DC 32). He can have only one such arrow at a time, and it only functions for him. The save DC is Charisma-based.",
+				"**Horned Lord's Charge (Ex)** An opponent hit by Cernunnos's powerful charge must succeed at a DC 39 Fort save or be exhausted, sickened, or stunned (Cernunnos's choice) for 1d4 rounds. The save DC is Constitution-based.",
+				"**Lightning Rod (Su)** Cernunnos absorbs and negates any electricity effect that targets him or includes him in its area. As an immediate action on his next turn, he can release this energy to grant the shock weapon special ability to all weapons wielded by his allies within 30 feet for 1 round.",
+				"**Perfect Archer (Ex)** Cernunnos does not provoke attacks of opportunity for firing bow weapons in melee. He threatens squares out to his normal reach when wielding a bow. He automatically creates arrows when firing a bow and treats any bow he wields as if it had a range increment of 500 feet.",
+				"**Primal Aura (Su)** Any summoned animal or creature summoned by summon nature's ally gains a +4 enhancement bonus to its Strength and Constitution while within Cernunnos's aura. Any such creature summoned within his aura obeys him as if he had summoned it (if given conflicting orders, the creature obeys Cernunnos instead of its summoner).",
+				"**Spells (Sp)** Cernunnos casts spells as 20th-level druid.",
+				"**Unbound (Su)** Cernunnos is immune to any effects that restrict or force extradimensional movement upon him, such as banishment or dimensional anchor. He may allow these effects to affect him."
+			],
+			"description": [
+				"Cernunnos is a powerful empyreal lord who embodies the primeval force of nature as well as its wildness. He surrounds himself with counselors and advisors from all of the celestial races. Although he rarely makes a rash decision, he occasionally lets anger overwhelm his better judgment, even going so far as to swear personal vendettas against specific demon lords or archdevils. A peerless archer and hunter, in such moments of vengeance Cernunnos is tempted to visit Hell or the Abyss to personally exact his revenge.",
+				"His preference for decisive action against enemies puts Cernunnos at odds with Korada. Though Cernunnos agrees that even the wickedest souls can seek redemption, he worries that lives would be lost in the time it would take to allow a fiend to seek enlightenment.",
+				"The Horned Lord appears as a tall and muscular humanoid with elven features, tan skin, and a pair of antlers growing from his brow. Cernunnos dresses in simple clothes and leathers, died in natural colors but typically woven or worked with motifs of birds in flight or leaping animals.",
+				"On Elysium, Cernunnos dwells in an expansive palace constructed of interwoven trees and capped with lush foliage. Known as Briarbough, this sprawling complex of gardens and pools is his seat of power and a place of healing where celestials and good mortals come to have their most grievous wounds tended. Beyond lies hundreds of miles of pristine forest and plains; animals killed here are reborn the next day, fully healed. In times of war, Briarbough serves as a headquarters and hospital for good outsiders.",
+				"When not in Elysium, Cernunnos works with other celestial races to stem the spread of evil throughout the cosmos. Recognizing that-despite his power-he is still only one person, the Horned Lord uses his abilities to strengthen and bolster those already allied against darkness, training marshals and emissaries to work as his agents in the mortal and fey worlds. He favors druids and rangers-archers in particular-among his devotees.",
+				"In combat, Cernunnos uses stealth and range to draw enemies to terrain of his choosing. The Empyreal Lord then uses his magic to further shape the battlefield to hamper his foes before closing for melee.",
+				"Cernunnos's Faith",
+				"Good fey, intelligent plant creatures, and mortal rangers and druids worship Cernunnos. Elven fighters and rogues often view him as a patron of luck and good fortune, but others pray to him for strength against evil. His sacred places are secluded groves, waterfalls, and deep forests.",
+				"Cernunnos's holy symbol is the head of a stag, ram or similar horned creature with torcs or rings hanging from its horns. His favored weapon is the longbow. He grants access to the Animal, Chaos, Good, and Plant domains, and access to the Azata, Feather, Fur, and Growth subdomains.",
+				">>monster-family:Empyreal Lord"
+			],
+			"short_description": "This tall, graceful person has elven features, the horns of a majestic stag and a piercing, ageless stare."
+		},
+		{
+			"name": "Korada",
+			"display_name": "Empyreal Lord, Korada",
+			"file": "monsterdisplayd072.html",
+			"sources": [ "Bestiary 4" ],
+			"cr": 26,
+			"xp": 2457600,
+			"alignment": "NG",
+			"size": "large",
+			"creature_type": "outsider",
+			"creature_subtypes": [
+				"agathion",
+				"extraplanar",
+				"good"
+			],
+			"initiative": 22,
+			"senses": [
+				"blindsense 60 ft.",
+				"darkvision 60 ft.",
+				"detect evil",
+				"detect thoughts",
+				"low-light vision"
+			],
+			"perception": 46,
+			"aura": [ "primal (30 ft.)" ],
+			"heading": [
+				"Korada CR 26",
+				"**Source** [Bestiary 4 pg. 90](source:Bestiary 4)",
+				"**XP** 2,457,600",
+				"NG Large outsider (agathion, extraplanar, good)",
+				"**Init** +22; **Senses** blindsense 60 ft., darkvision 60 ft., detect evil, detect thoughts, low-light vision; Perception +46",
+				"**Aura** primal (30 ft.)"
+			],
+			"ac": {
+				"ac": 45,
+				"touch": 40,
+				"flatfooted": 36,
+				"bonuses": {
+					"dexterity": 10,
+					"dodge": 1,
+					"insight": 2,
+					"natural": 13,
+					"size": -1,
+					"sacred": 6,
+					"wisdom": 12
+				}
+			},
+			"hp": {
+				"hp": 528,
+				"regen": 10,
+				"regen_overcome_by": "evil artifacts, effects, and spells"
+			},
+			"saves": {
+				"fort": 21,
+				"ref": 30,
+				"will": 30
+			},
+			"defensive_abilities": [ "never surprised" ],
+			"dr": [
+				10,
+				"epic and evil"
+			],
+			"immune": [
+				"ability damage",
+				"ability drain",
+				"charm effects",
+				"compulsion effects",
+				"death effects",
+				"disease",
+				"electricity",
+				"energy drain",
+				"petrification",
+				"poison"
+			],
+			"resist": {
+				"cold": 30,
+				"sonic": 30
+			},
+			"sr": 37,
+			"defense": [
+				"**AC** 45, touch 40, flat-footed 36 (+10 Dex, +1 dodge, +2 insight, +13 natural, -1 size, +6 sacred, +12 Wis)",
+				"**hp** 528 (32d10+352); regeneration 10 (evil artifacts, effects, and spells)",
+				"**Fort** +21, **Ref** +30, **Will** +30",
+				"**Defensive Abilities** never surprised; **DR** 10/epic and evil; **Immune** ability damage, ability drain, charm effects, compulsion effects, death effects, disease, electricity, energy drain, petrification, poison; **Resist** cold 30, sonic 30; **SR** 37"
+			],
+			"speed": {
+				"land": 90,
+				"climb": 30,
+				"fly": 60,
+				"maneuverability": "average"
+			},
+			"space": 10,
+			"reach": 10,
+			"offense": [
+				"**Speed** 90 ft., climb 30 ft., fly 60 ft. (average)",
+				"**Melee** unarmed strike +31/+36/+31/+26 (2d10+8) or +5 quarterstaff +44/+39/+34/+29 (1d8+13) or flurry of blows +38/+38/+33/+33/+28/+28/+23 (2d10+8)",
+				"**Space** 10 ft., **Reach** 10 ft.",
+				"**Special Attacks** shatter spells, stunning fist (8/day, DC 22)",
+				"**Spell-Like Abilities (CL 20th; concentration +34)",
+				"Constant-detect evil, detect thoughts, foresight[^M], sanctuary[^M] (DC 25), water walk",
+				"At will-augury, bless[^M], calm animals (DC 25), calm emotions (DC 26), cure serious wounds[^M], greater teleport, mirror image[^M]",
+				"3/day-divination, mad monkeys, quickened mirror image[^M], neutralize poison, true seeing, wall of force[^M]",
+				"1/day-antimagic field, moment of prescience",
+				"[^M]: Korada can use the mythic version of this ability in his realm."
+			],
+			"str": 26,
+			"dex": 30,
+			"con": 33,
+			"int": 25,
+			"wis": 35,
+			"cha": 38,
+			"base_attack_bonus": 32,
+			"cmb": 41,
+			"cmd": 84,
+			"feats": [
+				"Combat Expertise",
+				"Combat Reflexes",
+				"Dodge",
+				"Greater Trip",
+				"Improved Disarm",
+				"Improved Grapple",
+				"Improved Initiative",
+				"Improved Trip",
+				"Improved Unarmed Strike",
+				"Lunge",
+				"Mobility",
+				"Quicken Spell-Like Ability (mirror image)",
+				"Scorpion Style",
+				"Snatch Arrows",
+				"Spring Attack",
+				"Step Up",
+				"Stunning Fist",
+				"Weapon Finesse"
+			],
+			"skills": [
+				"Acrobatics +44 (+68 when jumping)",
+				"Bluff +32",
+				"Climb +50",
+				"Diplomacy +45",
+				"Disguise +32",
+				"Escape Artist +26",
+				"Fly +8",
+				"Heal +27",
+				"Knowledge (arcana, geography, history, nature) +23",
+				"Knowledge (local) +22",
+				"Knowledge (planes, religion) +41",
+				"Perception +46",
+				"Sense Motive +46",
+				"Spellcraft +22",
+				"Stealth +40"
+			],
+			"statistics": [
+				"**Str** 26, **Dex** 30, **Con**: 33, **Int** 25, **Wis** 35, **Cha**, 38",
+				"**Base Atk** +32; **CMB** +41 (+43 disarm or grapple, +45 trip); **CMD** 84 (86 vs. disarm, grapple, or trip)",
+				"**Feats** [Combat Expertise](feat:Combat Expertise), [Combat Reflexes](feat:Combat Reflexes), [Dodge](feat:Dodge), [Greater Trip](feat:Greater Trip), [Improved Disarm](feat:Improved Disarm), [Improved Grapple](feat:Improved Grapple), [Improved Initiative](feat:Improved Initiative), [Improved Trip](feat:Improved Trip), [Improved Unarmed Strike](feat:Improved Unarmed Strike), [Lunge](feat:Lunge), [Mobility](feat:Mobility), [Quicken Spell-Like Ability (mirror image)](feat:Quicken Spell-Like Ability), [Scorpion Style](feat:Scorpion Style), [Snatch Arrows](feat:Snatch Arrows), [Spring Attack](feat:Spring Attack), [Step Up](feat:Step Up), [Stunning Fist](feat:Stunning Fist), [Weapon Finesse](feat:Weapon Finesse)",
+				"**Skills** Acrobatics +44 (+68 when jumping), Bluff +32, Climb +50, Diplomacy +45, Disguise +32, Escape Artist +26, Fly +8, Heal +27, Knowledge (arcana, geography, history, nature) +23, Knowledge (local) +22, Knowledge (planes, religion) +41, Perception +46, Sense Motive +46, Spellcraft +22, Stealth +40; **Racial Modifiers** +24 Acrobatics when jumping",
+				"**Languages** Celestial, Infernal; speak with animals, truespeech",
+				"**SQ** abundant step, change shape (avoral or any humanoid, shapechange), combat style master, empyreal lord traits, ki pool (22 points; adamantine, epic, good, lawful, magic, mythic, silver), lay on hands (15d6, 29/day), seed of life, tranquil master"
+			],
+			"environment": "any forests or mountains (Nirvana)",
+			"organization": "unique",
+			"treasure": "standard (+5 quarterstaff, other treasure)",
+			"ecology": [
+				"**Environment** any forests or mountains (Nirvana)",
+				"**Organization** unique",
+				"**Treasure** standard (+5 quarterstaff, other treasure)"
+			],
+			"special_abilities": [
+				"**Combat Style Master (Ex)** Korada can attack with unarmed strikes and perform flurry of blows as a 20th-level monk. Like a monk, he adds his Wisdom bonus to his AC and CMD. As a swift action, Korada may enter the basic stance of any combat style feat (such as Crane Style, Monkey Style, and so on) as if he had the first feat in the feat path for that combat style. By expending 2 points of ki, he may use any two feats from his current combat style's feat path for the next minute; if he changes his stance, the previous stance's feats become unavailable but he may use feats from the new stance.",
+				"**Primal Aura (Su)** Korada's primal aura radiates calm and tranquility, automatically suppressing any non-mythic charm or compulsion effect on any creature within its area. Any creature in his aura (including him) can deal nonlethal damage with weapons without taking the -4 penalty on attack rolls for doing so.",
+				"**Shatter Spells (Sp)** Korada can destroy a magical effect (whether it's on a creature or an independent effect such as a wall of fire) by attacking it with an unarmed strike. He must succeed at a melee touch attack against the creature or effect and expend 2 points of ki. If the attack hits, the creature or effect is subject to targeted greater dispel magic (CL 20th). If he dispels an effect, he suffer no harmful effects from touching it. If the effect is on a creature, the creature takes 1 point of damage per spell level of each effect dispelled.",
+				"**Tranquil Master (Su)** Korada may attack without breaking his sanctuary spell-like ability so long as he only attempts to deal nonlethal damage."
+			],
+			"description": [
+				"Korada is the champion of peace, kindness, and forgiveness. While he loves and respects his fellow empyreal lords for their tireless fight against wickedness, Korada believes good's final triumph will come from the redemption of evil creatures rather than their destruction. Honest, joyful, and clever, the Open Hand of Harmony dispenses wisdom with warmth and humility, and freely shares the secrets he has amassed over ages of study and meditation. Korada's dedication to philosophy and introspection have garnered him the ability to read the diverse threads of the world, see their nearly limitless connections, and then act on them with uncanny foresight. With neither the naivety of youth nor the jaded weariness of age, Korada is a perfect balance of sentient intelligence and animal instinct, at home wherever he is.",
+				"Though he can assume many forms, Korada's true appearance is a slender, athletic man wearing a simple monk's robe. He has a golden monkey-like beard and sideburns, three monkey tails, and a light layer of downy golden fur covering the rest of his body.",
+				"On Nirvana, Korada dwells in the Dream Lotus, a serene palace city whose blossoming violet walls always drip with cool, golden nectar that is said to calm even the wildest of spirits. It's a place of refuge and healing, and no violence is allowed within its walls; those with problems controlling their anger are sent to meditate at one of its many calming sacred pools.",
+				"Korada is said to possess the gift of foresight, but he rarely acts on these strange visions. He believes the struggle to change is always worthwhile, even if such a journey does not always end in success. It's the process, not the result, that matters most to Korada.",
+				"Despite his staunch dedication to peace, Korada's skill in battle is respected, and he's able to utilize almost any fighting style without a second's pause. He may be responsible for inspiring or teaching the animal combat styles to mortals, using various guises over the course of history on many worlds-or he may even have persuaded the creator gods to give the animals their instincts and talents for fighting, which led to mortals studying and emulating animal combat styles.",
+				"Korada's reputation for peace and martial skill earned him the role of the diplomat of the empyreal lords and their celestial armies. Balor lords, demodand warlords, and even infernal dukes have (temporarily) abandoned their dreams of conquest and warmongering when the Open Hand of Harmony has arrived-alone-in their court to suggest that they consider a different path. These visits always leave behind a path of dazed and stunned fiends, surprised and awed by how easily he defeated them; most silently suffer this indignation and plan vengeance for the next time he appears.",
+				"Although Korada is usually serene and gentle, he has a mischievous side and has been known to poke fun at or harass his opponents like a capricious monkey. He combines his skill in battle and gift for trickery to lead dangerous opponents away from innocents or into places where they can more easily be captured or subdued.",
+				"That said, Korada abhors violence, and he prefers to make nonlethal attacks (using his primal aura and tranquil master abilities), disabling foes so he can speak to them of their weakness. He dispatches mindless opponents without hesitation, not wanting to waste energy debating or persuading a thing empty of thoughts and incapable of making moral choices. He challenges enemy leaders to single combat if doing so would prevent violence between other combatants.",
+				"Korada's Faith",
+				"Korada is worshiped by good fey, awakened animals, and mortal clerics and monks seeking inner peace. Many who have lived with constant violence pray to Korada for guidance in finding balance; others are inspired by his light heart and willingness to confront wickedness with compassion and humor. Many who worship him are once-evil creatures who chose the path of redemption, as well as paladins who strayed and are working to stay true to the path of righteousness and mercy. The empyreal lord's sacred places are diplomatic embassies, mountain monasteries, and wells.",
+				"Korada's holy symbol is two devotees kneeling before a lotus or a golden monkey with three tails. His favored weapon is the unarmed strike. His clerics have access to the domains of Good, Healing, Magic, and Protection, and the subdomains of Agathion, Defense, Divine, and Restoration.",
+				">>monster-family:Empyreal Lord"
+			],
+			"short_description": "This serene, acrobatic man has stiff sideburns, a beard like a monkey, and three golden-furred tails."
+		},
+		{
+			"name": "Ragathiel",
+			"display_name": "Empyreal Lord, Ragathiel",
+			"file": "monsterdisplay013c.html",
+			"sources": [
+				"Bestiary 6",
+				"Bestiary 4"
+			],
+			"cr": 26,
+			"xp": 2457600,
+			"alignment": "LG",
+			"size": "huge",
+			"creature_type": "outsider",
+			"creature_subtypes": [
+				"angel",
+				"extraplanar",
+				"good",
+				"lawful"
+			],
+			"initiative": 13,
+			"senses": [
+				"blindsense 60 ft.",
+				"darkvision 60 ft.",
+				"detect evil",
+				"low-light vision",
+				"true seeing"
+			],
+			"perception": 40,
+			"aura": [
+				"holy aura (DC 27)",
+				"primal aura (30 ft.)",
+				"protective aura"
+			],
+			"heading": [
+				"Ragathiel CR 26",
+				"**Source** [Bestiary 6 pg. 114](source:Bestiary 6)",
+				"**XP** 2,457,600",
+				"LG Huge outsider (angel, extraplanar, good, lawful)",
+				"**Init** +13; **Senses** blindsense 60 ft., darkvision 60 ft., detect evil, low-light vision, true seeing; Perception +40",
+				"**Aura** holy aura (DC 27), primal aura (30 ft.), protective aura"
+			],
+			"ac": {
+				"ac": 44,
+				"touch": 30,
+				"flatfooted": 35,
+				"bonuses": {
+					"armor": 14,
+					"deflection": 4,
+					"dexterity": 9,
+					"sacred": 9,
+					"size": -2
+				}
+			},
+			"hp": {
+				"hp": 604,
+				"regen": 20,
+				"regen_overcome_by": "deific or mythic"
+			},
+			"saves": {
+				"fort": 35,
+				"ref": 23,
+				"will": 27
+			},
+			"defensive_abilities": [
+				"golden armor",
+				"righteous mantle"
+			],
+			"dr": [
+				20,
+				"epic and evil"
+			],
+			"immune": [
+				"ability damage",
+				"ability drain",
+				"acid",
+				"charm effects",
+				"cold",
+				"compulsion effects",
+				"death effects",
+				"energy drain",
+				"fire",
+				"petrification"
+			],
+			"resist": {
+				"electricity": 30
+			},
+			"sr": 37,
+			"defense": [
+				"**AC** 44, touch 30, flat-footed 35 (+14 armor, +4 deflection, +9 Dex, +9 sacred, -2 size)",
+				"**hp** 604 (31d10+434); regeneration 20 (deific or mythic)",
+				"**Fort** +35, **Ref** +23, **Will** +27; +4 vs. poison",
+				"**Defensive Abilities** golden armor, righteous mantle; **DR** 20/epic and evil; **Immune** ability damage, ability drain, acid, charm effects, cold, compulsion effects, death effects, energy drain, fire, petrification; **Resist** electricity 30; **SR** 37"
+			],
+			"speed": {
+				"land": 50,
+				"fly": 90,
+				"maneuverability": "good"
+			},
+			"space": 15,
+			"reach": 15,
+			"offense": [
+				"**Speed** 50 ft., fly 90 ft. (good)",
+				"**Melee** +5 evil-outsider-bane flaming burst holy bastard sword +46/+41/+36/+31 (3d8+21/17-20), 5 wings +35 (1d8+5 plus 1d6 fire)",
+				"**Space** 15 ft., **Reach** 15 ft.",
+				"**Special Attacks** burning wings, devil's end, smite evil (7/day)",
+				"**Spell-Like Abilities (CL 26th; concentration +35)",
+				"Constant-detect evil, holy aura (DC 27), true seeing",
+				"At will-bestow grace, fire of judgment (DC 22), greater dispel magic, greater teleport, holy word[^M] (DC 26), geas/ quest, mark of justice, shield other[^M]",
+				"3/day-banishment (DC 26), quickened blade barrier[^M] (DC 25), blessing of fervor, discern location, heal[^M]",
+				"1/day-gate, meteor swarm[^M] (DC 28), time stop[^M]",
+				"[^M]: Ragathiel can use this ability's mythic version in his realm."
+			],
+			"str": 32,
+			"dex": 28,
+			"con": 39,
+			"int": 23,
+			"wis": 22,
+			"cha": 29,
+			"base_attack_bonus": 31,
+			"cmb": 44,
+			"cmd": 76,
+			"feats": [
+				"Combat Reflexes",
+				"Critical Focus",
+				"Dazzling Display",
+				"Greater Spell Penetration",
+				"Greater Sunder",
+				"Improved Critical (bastard sword)",
+				"Improved Initiative",
+				"Improved Sunder",
+				"Intimidating Prowess",
+				"Power Attack",
+				"Quicken Spell-Like Ability (blade barrier)",
+				"Shatter Defenses",
+				"Stand Still",
+				"Spell Penetration",
+				"Staggering Critical",
+				"Weapon Focus (bastard sword)"
+			],
+			"skills": [
+				"Acrobatics +40",
+				"Bluff +43",
+				"Fly +43",
+				"Intimidate +54",
+				"Knowledge (nobility) +37",
+				"Knowledge (planes, religion) +40",
+				"Perception +40",
+				"Ride +40",
+				"Sense Motive +40",
+				"Stealth +35",
+				"Survival +40"
+			],
+			"statistics": [
+				"**Str** 32, **Dex** 28, **Con**: 39, **Int** 23, **Wis** 22, **Cha**, 29",
+				"**Base Atk** +31; **CMB** +44 (+48 sunder); **CMD** 76 (78 vs. sunder)",
+				"**Feats** [Combat Reflexes](feat:Combat Reflexes), [Critical Focus](feat:Critical Focus), [Dazzling Display](feat:Dazzling Display), Greater Spell Penetration, [Greater Sunder](feat:Greater Sunder), [Improved Critical (bastard sword)](feat:Improved Critical), [Improved Initiative](feat:Improved Initiative), [Improved Sunder](feat:Improved Sunder), Intimidating Prowess, [Power Attack](feat:Power Attack), [Quicken Spell-Like Ability (blade barrier)](feat:Quicken Spell-Like Ability), [Shatter Defenses](feat:Shatter Defenses), [Stand Still](feat:Stand Still), [Spell Penetration](feat:Spell Penetration), [Staggering Critical](feat:Staggering Critical), [Weapon Focus (bastard sword)](feat:Weapon Focus)",
+				"**Skills** Acrobatics +40, Bluff +43, Fly +43, Intimidate +54, Knowledge (nobility) +37, Knowledge (planes, religion) +40, Perception +40, Ride +40, Sense Motive +40, Stealth +35, Survival +40",
+				"**Languages** Celestial, Infernal; telepathy 300 ft.; truespeech",
+				"**SQ** lay on hands (17d6, 10/day), seed of life"
+			],
+			"environment": "any (Heaven)",
+			"organization": "solitary (unique)",
+			"treasure": "triple (+5 evil-outsider-bane flaming burst holy bastard sword, +5 full plate, other treasure)",
+			"ecology": [
+				"**Environment** any (Heaven)",
+				"**Organization** solitary (unique)",
+				"**Treasure** triple (+5 evil-outsider-bane flaming burst holy bastard sword, +5 full plate, other treasure)"
+			],
+			"special_abilities": [
+				"**Burning Wings (Su)** A creature damaged by Ragathiel's burning wings must succeed at a DC 39 Reflex save or catch fire. The save DC is Constitution-based.",
+				"**Devils' End (Ex)** Ragathiel gains a +4 bonus on caster level checks against devils and on saving throws against their spells, as well as to the DCs of his own supernatural abilities and spell-like abilities against devils. Against his father, Dispater, this bonus increases to +8.",
+				"**Golden Armor (Ex)** Ragathiel is never hindered by his +5 full plate, and is considered to be not wearing armor for the purposes of his maximum Dexterity bonus to Armor Class, his armor check penalty, and his speed.",
+				"**Lay on Hands (Su)** Ragathiel's lay on hands works as a paladin's. He can apply any paladin mercy to his lay on hands ability, and he can use this ability on himself even when a condition or effect would otherwise deny him actions on his turn.",
+				"**Primal Aura (Su)** As a free action with Ragathiel's permission, any ally within Ragathiel's primal aura can spend two uses of Ragathiel's smite evil (or four uses of lay on hands) to instantly grant each ally within the aura the benefits of Ragathiel's smite evil against an enemy of that ally's choice.",
+				"**Righteous Mantle (Ex)** Ragathiel inherited an affinity for fire from his mother. Fire heals Ragathiel a number of hit points equal to the amount of damage it would have dealt. Any fire damage dealt by Ragathiel ignores evil outsiders' fire resistance and immunity to fire, and deals double damage to devils. Ragathiel gains a sacred bonus to Armor Class equal to his Charisma bonus. Whenever Ragathiel receives magical healing, he has 2 additional hit points restored per die rolled.",
+				"**Smite Evil (Su)** Ragathiel can smite evil as a 20th-level paladin, but his smite deals extra damage only on the first hit against evil outsiders (not evil dragons or undead). He can trade two uses of lay on hands for an additional use of smite evil as many times per day as he wishes, provided he has enough uses of lay on hands available to do so."
+			],
+			"description": [
+				"Ragathiel is the son of the archdevil Dispater (see page 22) and a demigoddess of flame. He rejected his father's evil, losing his sixth wing to the archdevil's wrath, and escaped to Heaven, where he spent several millennia attempting to prove himself to the heavenly hosts and the other empyreal lords. Though many empyreal lords still find him far more bloodthirsty than they would prefer, the many centuries have proven Ragathiel's honor, loyalty, and determination time and again, and the other empyreal lords have come to trust his word completely.",
+				"Now Ragathiel leads the war against Hell as the General of Vengeance. He is not content to plan from the sidelines and allow his forces to succeed or fail on the strength of his strategies alone. Instead, he leads by example from the forefront of his army, a shining figure of golden flame daring any foe to confront him and hewing through the ranks of devils to create a vulnerable area in the otherwise perfect infernal formation where his own armies then strike. Thus far, his strategy has served him well, as the archdevils prefer self-preservation to risking themselves in a direct confrontation with the General of Vengeance-but it won't take too many more successful forays before Barbatos (see page 18) moves to take decisive action, possibly bolstered by the forces of Ragathiel's father, Dispater.",
+				"Ragathiel's domain is a magnificent, towering fortress of steel and silver that stands upon the lower slopes of Heaven. The domain is simply named Ragathiel's Fortress, as the General of Vengeance has no use for a fancier appellation. There is beauty to be found in the fortress's design, but it is the sort of beauty and elegance of design and functionality that would be lauded by engineers and military tacticians, rather than artists and poets; Ragathiel specifically built his fortress to withstand a thousand-year siege and prevent ingress into Heaven for that entire duration, even by hosts of enemies that, like most evil outsiders, have access to teleportation magic.",
+				"Ragathiel's Faith",
+				"Ragathiel's worshipers number among them crusading knights and soldiers for justice, as well as oath-takers and those who have been grievously wronged by evil and now seek righteous vengeance. His followers must deal with the fundamental paradox of his faith: unlike those who worship forgiving empyreal lords such as Arshea or Korada, Ragathiel's chosen fight against evil foes unwaveringly and usually without offering second chances, and yet the General of Vengeance rose to his place from the depths of Hell itself. Most worshipers don't see this as hypocrisy but rather as a sign that the impetus for redemption must come from the former sinner, and even then not merely as an excuse to escape punishment for their sins. Thus, they don't take the initiative to offer opportunities for redemption to evildoers, but they listen carefully, if skeptically, to any who come seeking such a chance. For his part, Ragathiel empathizes with the moral dilemmas of his followers, as he constantly struggles with his own darker impulses. Thus, while he is unforgiving to his foes, he is particularly forgiving when it comes to lapses of judgment from his followers, allowing a wrathful paladin atonement when others might not. Certain other faiths are quick to interpret this willingness to \"bend the rules\" for certain circumstances involving paladins who, perhaps, go too far in pursuing their faith's goals as weakness in Ragathiel, and worry that there may be a little too much of his diabolic father lingering in his veins. Ragathiel has little need for pomp and circumstance in his worship, favoring utilitarian places like battlegrounds, fortresses, and war rooms as sacred spaces.",
+				"Ragathiel's holy symbol is a bastard sword across a crimson wing. His favored weapon is the bastard sword. His clerics have access to the domains of Destruction, Good, Law, and Nobility, and the subdomains of Archon, Judgment, Martyr, and Rage.",
+				">>monster-family:Empyreal Lord"
+			],
+			"short_description": "This towering angelic general has five wings of fire, a flaming bastard sword, and resplendent golden armor."
+		},
+		{
+			"name": "Vildeis",
+			"display_name": "Empyreal Lord, Vildeis",
+			"file": "monsterdisplay0f0d.html",
+			"sources": [ "Bestiary 4" ],
+			"cr": 28,
+			"xp": 4915200,
+			"alignment": "LG",
+			"size": "large",
+			"creature_type": "outsider",
+			"creature_subtypes": [
+				"angel",
+				"extraplanar",
+				"good",
+				"lawful"
+			],
+			"initiative": 13,
+			"senses": [
+				"blindsense 120 ft.",
+				"darkvision 60 ft.",
+				"detect evil",
+				"true seeing",
+				"zealous vision"
+			],
+			"perception": 42,
+			"aura": [
+				"primal (30 ft.)",
+				"protective"
+			],
+			"heading": [
+				"Vildeis CR 28",
+				"**Source** [Bestiary 4 pg. 92](source:Bestiary 4)",
+				"**XP** 4,915,200",
+				"LG Large outsider (angel, extraplanar, good, lawful)",
+				"**Init** +13; **Senses** blindsense 120 ft., darkvision 60 ft., detect evil, true seeing, zealous vision; Perception +42",
+				"**Aura** primal (30 ft.), protective"
+			],
+			"ac": {
+				"ac": 44,
+				"touch": 19,
+				"flatfooted": 34,
+				"bonuses": {
+					"dexterity": 9,
+					"dodge": 1,
+					"natural": 25,
+					"size; +4 deflection vs. evil": -1
+				}
+			},
+			"hp": {
+				"hp": 610,
+				"regen": 10,
+				"regen_overcome_by": "evil artifacts, effects, and spells"
+			},
+			"saves": {
+				"fort": 31,
+				"ref": 20,
+				"will": 26
+			},
+			"dr": [
+				15,
+				"epic and evil"
+			],
+			"immune": [
+				"ability damage",
+				"ability drain",
+				"acid",
+				"bleed",
+				"charm effects",
+				"compulsion effects",
+				"cold",
+				"death effects",
+				"energy drain",
+				"petrification"
+			],
+			"resist": {
+				"electricity": 30,
+				"fire": 30
+			},
+			"defense": [
+				"**AC** 44, touch 19, flat-footed 34 (+9 Dex, +1 dodge, +25 natural, -1 size; +4 deflection vs. evil)",
+				"**hp** 610 (33d10+429); regeneration 10 (evil artifacts, effects, and spells)",
+				"**Fort** +31, **Ref** +20, **Will** +26; +4 vs. poison, +4 resistance vs. evil",
+				"**DR** 15/epic and evil; **Immune** ability damage, ability drain, acid, bleed, charm effects, compulsion effects, cold, death effects, energy drain, petrification; **Resist** electricity 30, fire 30"
+			],
+			"speed": {
+				"land": 40,
+				"fly": 60,
+				"maneuverability": "average"
+			},
+			"space": 10,
+			"reach": 10,
+			"offense": [
+				"**Speed** 40 ft., fly 60 ft. (average)",
+				"**Melee** Cicatrix +50/+45/+40/+35 (1d6+17/17-20 plus 1 bleed and 2d6 vicious)",
+				"**Ranged** Cicatrix +47 (1d6+17/17-20 plus 1 bleed)",
+				"**Space** 10 ft., **Reach** 10 ft.",
+				"**Special Attacks** smite evil 7/day (+5 attack and AC, +20 damage, disintegrate evil outsiders)",
+				"**Spell-Like Abilities (CL 20th; concentration +25)",
+				"Constant-detect evil, true seeing",
+				"At will-command[^M] (DC 16), greater teleport, haste[^M], paladin's sacrifice, pain strike (DC 18)",
+				"3/day-discern location, geas/quest (DC 21), heal, holy word[^M] (DC 22), mark of justice (DC 20), mass pain strike (DC 20), searing light[^M]",
+				"[^M]: Vildeis can use the mythic version of this ability in her realm.",
+				"**Paladin Spells Prepared ** (CL 20th; concentration +25)",
+				"4th-blaze of glory (DC 19), break enchantment, death ward, king's castle",
+				"3rd-dispel magic, fires of judgment (DC 18), prayer, righteous vigor",
+				"2nd-bull's strength, corruption resistance, litany of warding, remove paralysis, shield other",
+				"1st-divine favor (3), hero's defiance, lesser restoration (2)"
+			],
+			"str": 35,
+			"dex": 29,
+			"con": 37,
+			"int": 18,
+			"wis": 22,
+			"cha": 21,
+			"base_attack_bonus": 33,
+			"cmb": 46,
+			"cmd": 66,
+			"feats": [
+				"Blinding Critical",
+				"Combat Casting",
+				"Combat Reflexes",
+				"Critical Focus",
+				"Deadly Aim",
+				"Dodge",
+				"Flyby Attack",
+				"Improved Critical (dagger)",
+				"Improved Initiative",
+				"Improved Iron Will",
+				"Improved Vital Strike",
+				"Iron Will",
+				"Power Attack",
+				"Spell Penetration",
+				"Step Up",
+				"Vital Strike",
+				"Weapon Focus (dagger)"
+			],
+			"skills": [
+				"Acrobatics +45",
+				"Bluff +41",
+				"Fly +26",
+				"Heal +23",
+				"Intimidate +41",
+				"Knowledge (planes) +40",
+				"Knowledge (religion) +40",
+				"Perception +42",
+				"Sense Motive +42",
+				"Sleight of Hand +45",
+				"Stealth +41"
+			],
+			"statistics": [
+				"**Str** 35, **Dex** 29, **Con**: 37, **Int** 18, **Wis** 22, **Cha**, 21",
+				"**Base Atk** +33; **CMB** +46; **CMD** 66",
+				"**Feats** [Blinding Critical](feat:Blinding Critical), [Combat Casting](feat:Combat Casting), [Combat Reflexes](feat:Combat Reflexes), [Critical Focus](feat:Critical Focus), [Deadly Aim](feat:Deadly Aim), [Dodge](feat:Dodge), [Flyby Attack](feat:Flyby Attack), [Improved Critical (dagger)](feat:Improved Critical), [Improved Initiative](feat:Improved Initiative), [Improved Iron Will](feat:Improved Iron Will), [Improved Vital Strike](feat:Improved Vital Strike), [Iron Will](feat:Iron Will), [Power Attack](feat:Power Attack), [Spell Penetration](feat:Spell Penetration), [Step Up](feat:Step Up), [Vital Strike](feat:Vital Strike), [Weapon Focus (dagger)](feat:Weapon Focus)",
+				"**Skills** Acrobatics +45, Bluff +41, Fly +26, Heal +23, Intimidate +41, Knowledge (planes) +40, Knowledge (religion) +40, Perception +42, Sense Motive +42, Sleight of Hand +45, Stealth +41",
+				"**Languages** Celestial, Draconic; truespeech",
+				"**SQ** lay on hands (16d6, 25/day), seed of life"
+			],
+			"environment": "any (Heaven)",
+			"organization": "unique",
+			"treasure": "standard (Cicatrix, other treasure)",
+			"ecology": [
+				"**Environment** any (Heaven)",
+				"**Organization** unique",
+				"**Treasure** standard (Cicatrix, other treasure)"
+			],
+			"special_abilities": [
+				"**Primal Aura (Su)** Whenever Vildeis would be affected by a bleed effect, all enemies within 30 feet gain that bleeding condition instead, as though they were the effect's original targets (no saving throw, creatures immune to bleeding are immune to this effect). The Heal DC to stop this bleeding is 25.",
+				"**Smite Evil (Su)** Vildeis can smite evil as a 20th-level paladin. Whenever she uses smite evil and successfully strikes an evil outsider, the outsider is also subject to disintegrate, using Vildeis's paladin level as the caster level. After the disintegrate effect and the damage from the attack are resolved, the smite effect immediately ends.",
+				"**Spells (Sp)** Vildeis casts spells as a 20th-level paladin.",
+				"**Zealous Vision (Su)** Vildeis automatically pinpoints the location of any evil creature within 1,000 feet of her."
+			],
+			"description": [
+				"Also known as the Cardinal Martyr, Vildeis endlessly sacrifices herself in penitence for the sins of the multiverse, every battle against evil giving her body one more wound with which she might shed bloody tears for existence. When Vildeis emerged from the Heavens, she was a being of sublime beauty, but of a majesty so delicate that she couldn't suffer the sight or even the thought of evil. Within an hour of her birth, she had put out her own eyes, refusing to even gaze upon a reality tainted by sin. Since the first self-inflicted wound marred her once-perfect body, she has struggled against evil in all its forms. Denying herself home or rest, Vildeis harrows the wildest reaches of the multiverse, driving back the expansions of foul realms and slaying those who would do wicked deeds.",
+				"Vildeis has no home among the planes, and forgoes any comforts-even those as basic as shelter or company-so long as there is evil afoot in the multiverse. Such makes her one of the most aloof empyreal lords, but also one of the most storied. Across the planes, legends tell of pitched battles, desperate last stands, and near massacres turned in the favor of the innocent by the sudden appearance of Vildeis herself, bloody-winged and avenging. While such miraculous rescues have more to do with happenstance then omniscience, they nonetheless inflame the passions of the righteous across countless worlds. Those who seek to encounter the empyreal lord of devotion, sacrifice, and scars must follow rumors of her passing, usually spoken by awed beings and crippled fiends along the fringes of reality's darkest outlands.",
+				"Nearly as well known as the Cardinal Martyr herself are her morbid trappings-miles of stained bandages, scars etched and re-etched in the shapes of celestial runes, and a dagger that drips with her blood as often as that of her enemies. Of these, her dagger Cicatrix is the most infamous, a black blade like a thorn dropped from some gigantic iron rose, which the empyreal lord used to blind herself. Tales tell that she uses her blade not just to slay the wicked and share her blindness, but to carve the runes that crisscross her body upon others, infusing them with the compulsion to battle evil even if previously there was no such desire.",
+				"Vildeis's Faith",
+				"Vildeis is the patron of devotion, sacrif ice, and scars. Those who follow her number among the most zealous crusaders, the most unshakable priests, and the most incorruptible judges. They view their goddess as an exemplar and a leader who sacrif ices for them in ways they can never match. Vildeis, and by extension her worshipers, is extremely strict when it comes to adhering to her tenets of living an austere and principled life wholly devoted to combating evil.",
+				"Those who diverge from Vildeis's teachings are expelled from her orders, but encouraged to do good in the world under the service of gentler masters. Though Vildeis doesn't expect all of her followers to perform the same self-mortification that she does, tattoos, scarification, and flagellation are common among her servants, especially her most devoted priests. Even those who don't engage in ritual bloodletting typically wear long red ribbons, symbolic of the empyreal lord's eternal wounds.",
+				"Vildeis's holy symbol is a scarred golden breastplate. Her favored weapon is the dagger. Her clerics have access to the Destruction, Good, Healing, and Law domains, and to the Rage and Resurrection subdomains.",
+				"The artifact Cicatrix can be found [here](unknown:here).",
+				">>monster-family:Empyreal Lord"
+			],
+			"short_description": "This red-winged angel is blindfolded and wrapped with bloody bandages. What shows of her flesh is scarred with celestial runes."
+		},
+		{
 			"name": "Erotundee",
 			"display_name": "Erotundee, Keeper of the Risen Light",
 			"file": "monsterdisplay8593.html",
@@ -6144,13 +7473,7 @@
 			],
 			"description": [
 				"The dread burrower Chemnosit is an engine of destruction, able to devour the stoutest construction and the mightiest of mortals with ease. His power lies in the profane glamour of his glowing eye, inspiring a gruesome urge to devour-a hunger for the flesh of one's own kind. For all his power, this is the true dread of the Monarch Worm. While he burrows constantly through the Darklands to the deepest Vaults of Orv, he sometimes rises to Golarion's surface bringing annihilation in his wake, as those corrupted by his awful eye wreak devastation upon themselves and their own people. Chemnosit drinks in the carnage like a feast before devouring any survivors.",
-				"[Spawn of Rovagug](unknown:Spawn of Rovagug)",
-				"Source [Inner Sea Bestiary pg. 46](source:Inner Sea Bestiary) The spawn of Rovagug are titanic terrors, slavering monstrosities of immense size and strength that live only to destroy. They are unnatural things, born of a fundamental wrongness in the universe where entropy gnaws at the root of reality. None know whether the spawn of Rovagug are the literal children of the Rough Beast in a biological sense, for it is almost impossible to think of what manner of creature could survive copulation with Rovagug or the gestation of such terrible abominations. Perhaps their foremothers are not remembered because these beasts ripped their way from the womb with their own claws, tearing and rending their way to matricidal freedom. Some sages speculate that perhaps Lamashtu herself bore them in one monstrous brood at the dawn of time, before Rovagug's imprisonment, but none of her blasphemous rites or scriptures attests to this, and her faithful make no claim that these terrors are sacred to the Mother of Monsters.",
-				"Whatever their provenance, spawn of Rovagug are living engines of destruction, slumbering for long periods before awakening with an incomprehensible hunger for sustenance and devastation. Their rampages lack cruelty or premeditation. If they indeed can trace any lineage to the Rough Beast, they did not inherit his spirit of hateful and wanton viciousness. Instead, they are comparatively simple creatures, their urges to destroy purely instinctual. They wreak havoc because it is what they were created to do, each in their own way. It may be that spawn of Rovagug represent a divergence in the fabric of reality, a natural flaw that seeks to unravel the threads of the universe even as the universe attempts to heal itself around them, which in turn the spawn of Rovagug experience as a suffocating constriction. They must destroy if they are to survive, rending reality to create space to breathe, f iguratively speaking. Their apparent satiation at the end of rampages may simply represent the spawn unraveling the order of the universe suff iciently to allow them to once more rest in peace. Their hibernation resumes until the universe knits itself back together too tightly, choking the spawn once more until they rise yet again in another waking rampage of annihilation.",
-				"It is known that certain strange and nigh-impossible rituals are capable of attracting the attention of a spawn of Rovagug or awakening one from long hibernation. Such rituals may draw the spawn to a place or perhaps point it in a certain direction, but taking full control of a spawn of Rovagug is wholly impossible. The earliest recorded appearance of a spawn of Rovagug, in ancient Ninshabur, was of Festering Ulunat, the Unholy First, whose immortal carapace towers over Osirion's capital of Sothis and has spawned countless legends about a future end-time wherein he might reawaken. Perhaps the most famous of Rovagug's living spawn is the Tarrasque, the Armageddon Engine, but Wrath-Blazing Xotani, the Firebleeder, and Unyielding Kothogaz, the Dance of Disharmony, have reputations no less terrifying in Garund and Vudra, respectively, among those aware of their existence.",
-				"Spawn of Rovagug Traits",
-				"Spawn of Rovagug are Colossal magical beasts, and gain the normal features of a creature of that type as well as the following traits common to all spawn of Rovagug.",
-				"Damage Reduction (Ex) Spawn of Rovagug have DR 15/epic. Frightful Presence (Su) Spawn of Rovagug radiate an aura of terror in a 300-foot radius. Hibernation (Ex) Spawn of Rovagug can sleep for years, decades, or even centuries and do not need to eat or breathe during these periods of dormancy, though they breathe normally and eat ravenously and almost constantly once they've been awakened. If a spawn of Rovagug is forced into an environment where it cannot breathe and would suffocate, it goes into hibernation until conditions are right for it to reawaken. While in hibernation, a spawn of Rovagug's damage reduction improves to 50/epic and it gains immunity to any spell or spell-like ability that allows spell resistance as well as all divination effects. Immunities (Ex) All spawn of Rovagug are immune to ability damage, bleed, disease, energy drain, mind-affecting effects, paralysis, permanent wounds, petrification, poison, and polymorph. In addition, each spawn of Rovagug possesses immunity to two of the following energy types: acid, cold, electricity, fire, or sonic. Regeneration (Ex) All spawn of Rovagug possess regeneration, and no form of attack can suppress this regeneration; they regenerate even if disintegrated or slain by a death effect. If a spawn of Rovagug fails a save against an effect that would kill it instantly, it rises from death 3 rounds later with 1 hit point if no further damage is dealt to its remains. It can be banished or otherwise transported as a means to save a region, but a method to kill Spawn of Rovagug has yet to be discovered. Spell Resistance (Su) A spawn of Rovagug possesses spell resistance equal to 11 + its CR. Unstoppable Force (Ex) A spawn of Rovagug can always charge, even if its movement is impeded or its path is blocked by another creature. It receives a +20 racial bonus on combat maneuver checks to overrun and Strength checks to break or destroy objects, and can make one such check as a free action as part of a charge. In addition, the natural weapons of a spawn of Rovagug ignore all forms of damage reduction and hardness."
+				">>monster-family:Spawn of Rovagug"
 			],
 			"short_description": "This massive beast possesses a mouth of rasping teeth and tentacles with biting mouths. In the center of its maw rests a glowing evil eye."
 		},
@@ -6304,20 +7627,7 @@
 				"The stories from the beginning of the First Age of Osirion claim that Azghaad killed Ulunat-some even say that he achieved this feat with the divine help of Nethys-but the truth is that the Spawn of Rovagug are unkillable. After a lengthy and dangerous battle, Azghaad banished Ulunat to a pocket realm beneath the place where its bloated shell still stands. In this realm, under the oldest and largest settlement in Osirion, Ulunat sleeps.",
 				"Before this ancient conflict, the great beast emerged from the Pit of Gormuz and thundered across Golarion. As Ulunat neared what is now Sothis, cultists of Rovagug channeling the power of raw chaos in a massive ritual- chanting cacophonous praises to the Rough Beast- opened a direct link between Ulunat and Rovagug. Empowered by this divine connection, Ulunat grew to an immense size and charged across the land, trampling everything in its path.",
 				"Now, thousands of years later, the Unholy First has begun to stir in its prison. Numerous past attempts to free the Unholy First have failed, and most of these were hidden from the public and Osirion's official history in hopes that the proper method for freeing Ulunat would remain unknown. However, this doesn't stop cultists and doomsayers from trying to bring back the terrible beast.",
-				"[Spawn of Rovagug](unknown:Spawn of Rovagug)",
-				"Source [Inner Sea Bestiary pg. 46](source:Inner Sea Bestiary) The spawn of Rovagug are titanic terrors, slavering monstrosities of immense size and strength that live only to destroy. They are unnatural things, born of a fundamental wrongness in the universe where entropy gnaws at the root of reality. None know whether the spawn of Rovagug are the literal children of the Rough Beast in a biological sense, for it is almost impossible to think of what manner of creature could survive copulation with Rovagug or the gestation of such terrible abominations. Perhaps their foremothers are not remembered because these beasts ripped their way from the womb with their own claws, tearing and rending their way to matricidal freedom. Some sages speculate that perhaps Lamashtu herself bore them in one monstrous brood at the dawn of time, before Rovagug's imprisonment, but none of her blasphemous rites or scriptures attests to this, and her faithful make no claim that these terrors are sacred to the Mother of Monsters.",
-				"Whatever their provenance, spawn of Rovagug are living engines of destruction, slumbering for long periods before awakening with an incomprehensible hunger for sustenance and devastation. Their rampages lack cruelty or premeditation. If they indeed can trace any lineage to the Rough Beast, they did not inherit his spirit of hateful and wanton viciousness. Instead, they are comparatively simple creatures, their urges to destroy purely instinctual. They wreak havoc because it is what they were created to do, each in their own way. It may be that spawn of Rovagug represent a divergence in the fabric of reality, a natural flaw that seeks to unravel the threads of the universe even as the universe attempts to heal itself around them, which in turn the spawn of Rovagug experience as a suffocating constriction. They must destroy if they are to survive, rending reality to create space to breathe, f iguratively speaking. Their apparent satiation at the end of rampages may simply represent the spawn unraveling the order of the universe suff iciently to allow them to once more rest in peace. Their hibernation resumes until the universe knits itself back together too tightly, choking the spawn once more until they rise yet again in another waking rampage of annihilation.",
-				"It is known that certain strange and nigh-impossible rituals are capable of attracting the attention of a spawn of Rovagug or awakening one from long hibernation. Such rituals may draw the spawn to a place or perhaps point it in a certain direction, but taking full control of a spawn of Rovagug is wholly impossible. The earliest recorded appearance of a spawn of Rovagug, in ancient Ninshabur, was of Festering Ulunat, the Unholy First, whose immortal carapace towers over Osirion's capital of Sothis and has spawned countless legends about a future end-time wherein he might reawaken. Perhaps the most famous of Rovagug's living spawn is the Tarrasque, the Armageddon Engine, but Wrath-Blazing Xotani, the Firebleeder, and Unyielding Kothogaz, the Dance of Disharmony, have reputations no less terrifying in Garund and Vudra, respectively, among those aware of their existence.",
-				"Spawn of Rovagug Traits",
-				"Spawn of Rovagug are Colossal magical beasts, and gain the normal features of a creature of that type as well as the following traits common to all spawn of Rovagug.",
-				"Damage Reduction (Ex) Spawn of Rovagug have DR 15/epic.",
-				"Frightful Presence (Su) Spawn of Rovagug radiate an aura of terror in a 300-foot radius.",
-				"Hibernation (Ex) Spawn of Rovagug can sleep for years, decades, or even centuries and do not need to eat or breathe during these periods of dormancy, though they breathe normally and eat ravenously and almost constantly once they've been awakened. If a spawn of Rovagug is forced into an environment where it cannot breathe and would suffocate, it goes into hibernation until conditions are right for it to reawaken.",
-				"While in hibernation, a spawn of Rovagug's damage reduction improves to 50/epic and it gains immunity to any spell or spell-like ability that allows spell resistance as well as all divination effects.",
-				"Immunities (Ex) All spawn of Rovagug are immune to ability damage, bleed, disease, energy drain, mind-affecting effects, paralysis, permanent wounds, petrification, poison, and polymorph. In addition, each spawn of Rovagug possesses immunity to two of the following energy types: acid, cold, electricity, fire, or sonic.",
-				"Regeneration (Ex) All spawn of Rovagug possess regeneration, and no form of attack can suppress this regeneration; they regenerate even if disintegrated or slain by a death effect. If a spawn of Rovagug fails a save against an effect that would kill it instantly, it rises from death 3 rounds later with 1 hit point if no further damage is dealt to its remains. It can be banished or otherwise transported as a means to save a region, but a method to kill Spawn of Rovagug has yet to be discovered.",
-				"Spell Resistance (Su) A spawn of Rovagug possesses spell resistance equal to 11 + its CR.",
-				"Unstoppable Force (Ex) A spawn of Rovagug can always charge, even if its movement is impeded or its path is blocked by another creature. It receives a +20 racial bonus on combat maneuver checks to overrun and Strength checks to break or destroy objects, and can make one such check as a free action as part of a charge. In addition, the natural weapons of a spawn of Rovagug ignore all forms of damage reduction and hardness."
+				">>monster-family:Spawn of Rovagug"
 			]
 		},
 		{
@@ -6459,20 +7769,7 @@
 			],
 			"description": [
 				"Volnagur, the End-Singer, is an alien thing whose very presence brings turbulence, disturbance, and cacophony wherever he soars. He flits with effortless grace upon a hideous assortment of mismatched wings that constantly molt and rot from within, the oldest wings falling off as new ones spring up and grow in their place. His skirling cry awakens madness and blood fury in those who listen, as does the touch of his impossibly long, jagged-razor tongues. Alien harmonics induced by his grotesque gaze cripple those upon whom he gazes.",
-				"[Spawn of Rovagug](unknown:Spawn of Rovagug)",
-				"Source [Inner Sea Bestiary pg. 46](source:Inner Sea Bestiary) The spawn of Rovagug are titanic terrors, slavering monstrosities of immense size and strength that live only to destroy. They are unnatural things, born of a fundamental wrongness in the universe where entropy gnaws at the root of reality. None know whether the spawn of Rovagug are the literal children of the Rough Beast in a biological sense, for it is almost impossible to think of what manner of creature could survive copulation with Rovagug or the gestation of such terrible abominations. Perhaps their foremothers are not remembered because these beasts ripped their way from the womb with their own claws, tearing and rending their way to matricidal freedom. Some sages speculate that perhaps Lamashtu herself bore them in one monstrous brood at the dawn of time, before Rovagug's imprisonment, but none of her blasphemous rites or scriptures attests to this, and her faithful make no claim that these terrors are sacred to the Mother of Monsters.",
-				"Whatever their provenance, spawn of Rovagug are living engines of destruction, slumbering for long periods before awakening with an incomprehensible hunger for sustenance and devastation. Their rampages lack cruelty or premeditation. If they indeed can trace any lineage to the Rough Beast, they did not inherit his spirit of hateful and wanton viciousness. Instead, they are comparatively simple creatures, their urges to destroy purely instinctual. They wreak havoc because it is what they were created to do, each in their own way. It may be that spawn of Rovagug represent a divergence in the fabric of reality, a natural flaw that seeks to unravel the threads of the universe even as the universe attempts to heal itself around them, which in turn the spawn of Rovagug experience as a suffocating constriction. They must destroy if they are to survive, rending reality to create space to breathe, f iguratively speaking. Their apparent satiation at the end of rampages may simply represent the spawn unraveling the order of the universe suff iciently to allow them to once more rest in peace. Their hibernation resumes until the universe knits itself back together too tightly, choking the spawn once more until they rise yet again in another waking rampage of annihilation.",
-				"It is known that certain strange and nigh-impossible rituals are capable of attracting the attention of a spawn of Rovagug or awakening one from long hibernation. Such rituals may draw the spawn to a place or perhaps point it in a certain direction, but taking full control of a spawn of Rovagug is wholly impossible. The earliest recorded appearance of a spawn of Rovagug, in ancient Ninshabur, was of Festering Ulunat, the Unholy First, whose immortal carapace towers over Osirion's capital of Sothis and has spawned countless legends about a future end-time wherein he might reawaken. Perhaps the most famous of Rovagug's living spawn is the Tarrasque, the Armageddon Engine, but Wrath-Blazing Xotani, the Firebleeder, and Unyielding Kothogaz, the Dance of Disharmony, have reputations no less terrifying in Garund and Vudra, respectively, among those aware of their existence.",
-				"Spawn of Rovagug Traits",
-				"Spawn of Rovagug are Colossal magical beasts, and gain the normal features of a creature of that type as well as the following traits common to all spawn of Rovagug.",
-				"Damage Reduction (Ex) Spawn of Rovagug have DR 15/epic.",
-				"Frightful Presence (Su) Spawn of Rovagug radiate an aura of terror in a 300-foot radius.",
-				"Hibernation (Ex) Spawn of Rovagug can sleep for years, decades, or even centuries and do not need to eat or breathe during these periods of dormancy, though they breathe normally and eat ravenously and almost constantly once they've been awakened. If a spawn of Rovagug is forced into an environment where it cannot breathe and would suffocate, it goes into hibernation until conditions are right for it to reawaken.",
-				"While in hibernation, a spawn of Rovagug's damage reduction improves to 50/epic and it gains immunity to any spell or spell-like ability that allows spell resistance as well as all divination effects.",
-				"Immunities (Ex) All spawn of Rovagug are immune to ability damage, bleed, disease, energy drain, mind-affecting effects, paralysis, permanent wounds, petrification, poison, and polymorph. In addition, each spawn of Rovagug possesses immunity to two of the following energy types: acid, cold, electricity, fire, or sonic.",
-				"Regeneration (Ex) All spawn of Rovagug possess regeneration, and no form of attack can suppress this regeneration; they regenerate even if disintegrated or slain by a death effect. If a spawn of Rovagug fails a save against an effect that would kill it instantly, it rises from death 3 rounds later with 1 hit point if no further damage is dealt to its remains. It can be banished or otherwise transported as a means to save a region, but a method to kill Spawn of Rovagug has yet to be discovered.",
-				"Spell Resistance (Su) A spawn of Rovagug possesses spell resistance equal to 11 + its CR.",
-				"Unstoppable Force (Ex) A spawn of Rovagug can always charge, even if its movement is impeded or its path is blocked by another creature. It receives a +20 racial bonus on combat maneuver checks to overrun and Strength checks to break or destroy objects, and can make one such check as a free action as part of a charge. In addition, the natural weapons of a spawn of Rovagug ignore all forms of damage reduction and hardness."
+				">>monster-family:Spawn of Rovagug"
 			],
 			"short_description": "This immense creature's warty body is shaped like a many-pointed star, and from it sprout nearly a dozen different wings."
 		},
@@ -8755,6 +10052,175 @@
 				"**Sister Seeking (Su)** An immature norn separated from her sisters has an innate ability to locate them across any distance on the same plane. The norn can sense when she is facing in the direction of one or both of her sisters, as well as in which direction they are moving. This sense does not grant a norn the ability to assess distance to her sisters. Once the norn rejoins one or both of her sisters, she loses this ability."
 			],
 			"short_description": "This breathtaking, giant-sized woman's raven hair falls to her ankles. Her skin is as pale as the glowing moon, and her ebon eyes deeply pensive."
+		},
+		{
+			"name": "Ymeri",
+			"display_name": "Elemental Lord, Ymeri",
+			"file": "monsterdisplay7e5e.html",
+			"sources": [ "Planes of Power" ],
+			"cr": 28,
+			"xp": 4915200,
+			"alignment": "NE",
+			"size": "large",
+			"creature_type": "outsider",
+			"creature_subtypes": [
+				"evil",
+				"extraplanar",
+				"fire"
+			],
+			"initiative": 16,
+			"senses": [
+				"darkvision 60 ft.",
+				"flamesense",
+				"true seeing"
+			],
+			"perception": 50,
+			"heading": [
+				"Ymeri CR 28",
+				"**Source** [Planes of Power pg. 54](source:Planes of Power)",
+				"**XP** 4,915,200",
+				"NE Large outsider (evil, extraplanar, fire)",
+				"**Init** +16; **Senses** darkvision 60 ft., flamesense, true seeing; Perception +50"
+			],
+			"ac": {
+				"ac": 46,
+				"touch": 22,
+				"flatfooted": 33,
+				"bonuses": {
+					"dexterity": 12,
+					"dodge": 1,
+					"natural": 24,
+					"size": -1
+				}
+			},
+			"hp": {
+				"hp": 610,
+				"regen": 30,
+				"regen_overcome_by": "deific or mythic cold"
+			},
+			"saves": {
+				"fort": 23,
+				"ref": 30,
+				"will": 24
+			},
+			"dr": [
+				15,
+				"-"
+			],
+			"immune": [
+				"ability damage and drain",
+				"charm and compulsion effects",
+				"death effects",
+				"energy drain",
+				"fire",
+				"petrification"
+			],
+			"sr": 39,
+			"weaknesses": [ "vulnerable to cold" ],
+			"defense": [
+				"**AC** 46, touch 22, flat-footed 33 (+12 Dex, +1 dodge, +24 natural, -1 size)",
+				"**hp** 610 (33d10+429); regeneration 30 (deific or mythic cold)",
+				"**Fort** +23, **Ref** +30, **Will** +24",
+				"**DR** 15/-; **Immune** ability damage and drain, charm and compulsion effects, death effects, energy drain, fire, petrification; **SR** 39",
+				"**Weaknesses** vulnerable to cold"
+			],
+			"speed": {
+				"land": 50,
+				"fly": 100,
+				"maneuverability": "average"
+			},
+			"space": 10,
+			"reach": 10,
+			"offense": [
+				"**Speed** 50 ft., fly 100 ft. (average)",
+				"**Melee** +4 earth-outsider-bane flaming burst longsword +44/+39/+34/+29 (2d6+14 plus 1d6 fire/17-20), 3 +4 earth-outsider-bane flaming burst longswords +40 (2d6+9 plus 1d6 fire/17-20), 2 claws +37 (1d8+5 plus 1d10 fire plus trip)",
+				"**Space** 10 ft., **Reach** 10 ft.",
+				"**Special Attacks** limitless fire 3/day, scorching rend",
+				"**Spell-Like Abilities (CL 28th; concentration +38)",
+				"Constant-fire shield&ast; (warm), freedom of movement, true seeing",
+				"At will-fireball&ast; (DC 23), greater teleport, pyrotechnics (DC 22), scorching ray&ast;, wall of fire&ast;",
+				"3/day-delayed blast fireball (DC 27), fire storm&ast; (DC 27), incendiary cloud (DC 28), wall of lava",
+				"1/day-meteor swarm&ast; (DC 29), summon (level 9, 2d4 fiendish elder fire elementals 100%)"
+			],
+			"str": 30,
+			"dex": 35,
+			"con": 34,
+			"int": 26,
+			"wis": 23,
+			"cha": 31,
+			"base_attack_bonus": 33,
+			"cmb": 44,
+			"cmd": 67,
+			"feats": [
+				"Blinding Critical",
+				"Combat Expertise",
+				"Combat Reflexes",
+				"Critical Focus",
+				"Dodge",
+				"Escape Route",
+				"Greater Feint",
+				"Improved Critical (longsword)",
+				"Improved Feint",
+				"Improved Initiative",
+				"Lunge",
+				"Mobility",
+				"Multiweapon Fighting",
+				"Precise Strike",
+				"Seize the Moment",
+				"Spring Attack",
+				"Toughness",
+				"Two-Weapon Feint"
+			],
+			"skills": [
+				"Acrobatics +48",
+				"Bluff +46",
+				"Diplomacy +43",
+				"Escape Artist +45",
+				"Fly +29",
+				"Intimidate +46",
+				"Knowledge (arcana, history, local, nobility, religion) +18",
+				"Knowledge (planes) +44",
+				"Perception +50",
+				"Perform (dance) +46",
+				"Sense Motive +42",
+				"Spellcraft +41",
+				"Stealth +44",
+				"Use Magic Device +43"
+			],
+			"statistics": [
+				"**Str** 30, **Dex** 35, **Con**: 34, **Int** 26, **Wis** 23, **Cha**, 31",
+				"**Base Atk** +33; **CMB** +44; **CMD** 67",
+				"**Feats** [Blinding Critical](feat:Blinding Critical), [Combat Expertise](feat:Combat Expertise), [Combat Reflexes](feat:Combat Reflexes), [Critical Focus](feat:Critical Focus), [Dodge](feat:Dodge), [Escape Route](feat:Escape Route), [Greater Feint](feat:Greater Feint), [Improved Critical (longsword)](feat:Improved Critical), [Improved Feint](feat:Improved Feint), [Improved Initiative](feat:Improved Initiative), [Lunge](feat:Lunge), [Mobility](feat:Mobility), [Multiweapon Fighting](feat:Multiweapon Fighting), [Precise Strike](feat:Precise Strike), [Seize the Moment](feat:Seize the Moment), [Spring Attack](feat:Spring Attack), [Toughness](feat:Toughness), [Two-Weapon Feint](feat:Two-Weapon Feint)",
+				"**Skills** Acrobatics +48, Bluff +46, Diplomacy +43, Escape Artist +45, Fly +29, Intimidate +46, Knowledge (arcana, history, local, nobility, religion) +18, Knowledge (planes) +44, Perception +50, Perform (dance) +46, Sense Motive +42, Spellcraft +41, Stealth +44, Use Magic Device +43; **Racial Modifiers** +8 Perception",
+				"**Languages** Aquan, Auran, Draconic, Ignan, Terran, telepathy 300 ft.",
+				"**SQ** change shape (any fire elemental; elemental body IV), elemental realm, fire tyrant, pyroportation"
+			],
+			"environment": "any (Plane of Fire)",
+			"organization": "solitary (unique)",
+			"treasure": "triple (4 Large +4 earth-outsider-bane flaming burst longswords, other treasure)",
+			"ecology": [
+				"**Environment** any (Plane of Fire)",
+				"**Organization** solitary (unique)",
+				"**Treasure** triple (4 Large +4 earth-outsider-bane flaming burst longswords, other treasure)"
+			],
+			"special_abilities": [
+				"**Elemental Realm (Su)** While on the Plane of Fire, Ymeri functions as if she had 10 mythic ranks (see Pathfinder RPG Mythic Adventures), including having the mythic power ability (10/day, surge +1d12). She can expend uses of mythic power to use the mythic versions of any spell-like ability denoted with an asterisk (&ast;), as if the ability were a mythic spell. She is also able to use demand, discern location, fabricate, and  at will as spell-like abilities and dimension lock&ast;, miracle (limited to physical effects that manipulate the realm or to effects that are relevant to her areas of concern), and power word stun&ast; once per day as spell-like abilities. Finally, she gains a +10 insight bonus on Perception and initiative checks.",
+				"**Elemental Revival (Ex)** If Ymeri is slain, her body crumbles to ash (leaving behind any gear she held or carried), her soul returns to a hidden location within her realm, and she is immediately restored to life (as per true resurrection) at that location. Once this occurs, Ymeri can't use this ability again until a full year has passed. If she is slain again during that year or is killed by unusual methods (such as by a true deity or an artifact created for this purpose), she is slain forever.",
+				"**Fire Tyrant (Ex)** Ymeri's servants bow to her will and instinctively follow her commands. As a free action, Ymeri can grant all of her allies with the fire subtype within 300 feet any two of her teamwork feats. Each creature retains these feats until it moves out of range or until Ymeri falls unconscious, dies, or uses this ability again. Three times per day as a standard action, Ymeri can manipulate a creature with the fire subtype or a creature on fire that she can detect with her flamesense ability, affecting it as per hold monster (CL 28th, Will DC 36 negates). If the target fails the saving throw by 10 or more, it is instead affected as if by dominate monster (CL 28th).",
+				"**Flamesense (Ex)** Ymeri can sense the presence and movement of any fire-including creatures with the fire subtype, creatures on fire, and any creature touching the surface of the Plane of Fire-within 300 feet as if using blindsight. In addition, she can see through fire, fog, and smoke without penalty.",
+				"**Limitless Fire (Sp)** As a demigoddess of flame and the Plane of Fire itself, up to three times per day, Ymeri can cast any spell with the fire descriptor as a spell-like ability. She can further augment these spells using Burning Spell, Empower Spell, Enlarge Spell, Extend Spell, Intensify Spell, Maximize Spell, Quicken Spell, or Widen Spell, though the effective spell level cannot exceed 9th.",
+				"**Pyroportation (Su)** Ymeri can move effortlessly through fiery areas, including lava, superheated metal, and volcanic ash. This effectively grants her the earth glide ability of a magma elemental; allows her to ignore difficult terrain; and grants her a burrow, climb, and swim speed equal to her base speed while in these areas. With rare exceptions, this ability functions in all parts of the Plane of Fire. In addition, as a swift action, Ymeri can teleport to a square in line of sight that is adjacent to a fire of her size or larger.",
+				"**Regeneration (Ex)** Only cold damage dealt by an epic weapon, cold damage dealt by a mythic spell, or damage from a creature of equal or greater power (such as a demon lord or a deity) interrupts Ymeri's regeneration.",
+				"**Scorching Rend (Su)** If Ymeri hits a target two or more times with at least two different manufactured weapons in the same round, she can cause the target to catch on fire. This functions as the burn universal monster rule, dealing 3d10 points of fire damage (Reflex DC 38 negates catching on fire); however, if the target's fire resistance would reduce the damage it takes from this ability, it must succeed at a DC 38 Fortitude saving throw or reduce its fire resistance by an equal amount for 1 minute. Creatures immune to fire can still be affected by this ability. When such a creature would take 50 or more total points of fire damage from this ability, it loses its immunity to fire for 1 minute."
+			],
+			"description": [
+				"Ymeri has declared herself the eternal ruler of the Plane of Fire, going so far as destroying all known records of her origins to suggest she has existed since the dawn of time. Ever since she sealed away her good-aligned rival Atreia, the Lambent Prince, within a steam-shrouded garnet, she has driven the efreet in the City of Brass to battle their earth-blooded shaitan cousins.",
+				"The Queen of the Inferno rarely has cause to leave the Auroric Palace, from which she rules. When she does, it is at the head of an army. She typically follows such raids by parading across the Plane of Fire, daring others to defy her will.",
+				"Ymeri's Cult",
+				"Most fire elementals, some mephits, assorted efreet, and many other creatures with the fire subtype worship Ymeri, though relatively few salamanders revere her. Outside the Plane of Fire, her worship is rare and often restricted to zealous pyrokineticists, cabals of fire wizards, eccentric red dragons, and occasionally fanatical tribes of humanoids. Her sacred places and temples are often exposed desert ruins, sanctuaries of igneous rock, and shrines built precariously near active volcanoes. Some even feature active magma flows running through their halls or pits that open deep into the earth's burning bowels, which her cultists use to sacrifice their foes in Ymeri's name.",
+				"Ymeri's unholy symbol is a quartet of flaming swords, and her favored weapon is the longsword. She grants access to the Destruction, Evil, Fire, and War domains, and access to the subdomains of Ash, Catastrophe, Fear, and Tactics."
+			],
+			"short_description": "This woman with four armor-clad arms and wings of incandescent magma has the lower torso of a powerful reptile."
 		},
 		{
 			"name": "Zelishkar of the Bitter Flame",
