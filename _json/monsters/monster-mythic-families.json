@@ -33,6 +33,36 @@
 				"",
 				"Colossi can take many forms depending upon the materials used in their construction and the will of their individual creators. Creating a colossus is an ambitious undertaking, leading most creators to base their designs on lessons learned crafting lesser constructs. As a result, the best-known kinds of colossi are the flesh, stone, and iron varieties, corresponding to the most common and best-understood varieties of golem. Other varieties are possible, such as the clay colossus given life by divine secrets, the glacial colossus wrought of unmelting ice and frost, and the timber colossus built from still-living wood, which bears eerie powers over plants and creatures of the natural world."
 			]
+		},
+		{
+			"name": "Plague Swarm",
+			"file": "monsterfamilies6217.html",
+			"sources": [ "Bestiary 5" ],
+			"mythic_members": [
+				"[Bat Plague Swarm](monster:Bat Plague Swarm)",
+				"[Locust Plague Swarm](monster:Locust Plague Swarm)",
+				"[Rat Plague Swarm](monster:Rat Plague Swarm)"
+			],
+			"description": [
+				"Source [Bestiary 5](source:Bestiary 5)",
+				"Sent down by vengeful deities to punish communities that have offended them, plague swarms scour crops, terrorize populations, and lay waste to civilized lands. Normal means of dealing with vermin and pestilence don't drive them off, for these vicious and intelligent mythic swarms carry the destructive blessings of their gods, and breed at an exceptional rate until their spawn consume entire cities. They are single-minded in their devotion to carrying out the furious will of their deities.",
+				"",
+				"All plague swarms have the following features.",
+				"",
+				"**Ecology**",
+				"",
+				"**Environment** any",
+				"**Organization** solitary or brood (plague swarm plus 1-100 spawn)",
+				"**Treasure** none",
+				"",
+				"**Special Abilities**",
+				"",
+				"**Blight (Su)** Plague swarms deal additional untyped damage equal to their standard swarm damage. This damage originates from divine power, similar to the spell [flame strike](unknown:flame strike). A plague swarm's damage counts as magic and epic for the purposes of bypassing damage reduction.",
+				"",
+				"**Multiply (Ex)** Plague swarms spawn at an incredible rate. Once per minute, a plague swarm can produce a new swarm of the type listed in its stat block as full-round action. When the plague swarm is not in combat, it typically uses this ability once per minute. If the plague swarm is destroyed, all of the swarms that it spawned also disperse.",
+				"",
+				"**Reform (Su)** When a plague swarm is dispersed by damage, it is not destroyed. A dispersed plague swarm reforms in 24 hours. Each plague swarm has a unique destruction condition. In addition, because plague swarms are manifestations of divine retribution, placating the deity's rage destroys the swarm instantly."
+			]
 		}
 	]
 }
